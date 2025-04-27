@@ -1,0 +1,42 @@
+ayats = [
+    {
+        "arabic_text": "قُلْ أَعُوذُ بِرَبِّ الْفَلَقِ",
+        "urdu_text": "اے رسول تم صبح کے پالنے والے رب سے پناہ مانگو",
+        "persian_text": "ای پیامبر، به پروردگار سپیده‌دم پناه ببرید",
+        "english_text": "O Messenger, seek refuge in the Lord of daybreak.",
+        "transliteration": "Qul a‘ūdhu bi-rabbi-l-falaq",
+        "verse_number": 1,
+    },
+    {
+        "arabic_text": "مِن شَرِّ مَا خَلَقَ",
+        "urdu_text": "ہر اس چیز کی برائی سے جو اس نے پیدا کیا ہے",
+        "persian_text": "از شر آنچه آفریده است",
+        "english_text": "From the evil of whatever He has created.",
+        "transliteration": "Min sharri mā khalaq",
+        "verse_number": 2,
+    },
+    {
+        "arabic_text": "وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ",
+        "urdu_text": "اور اندھیری رات کے شر سے جب وہ چھا جائے",
+        "persian_text": "از شر تاریکی چون فرو نشیند",
+        "english_text": "And from the evil of darkness when it settles.",
+        "transliteration": "Wa min sharri ghāsiqin idhā waqab",
+        "verse_number": 3,
+    },
+    {
+        "arabic_text": "وَمِن شَرِّ النَّفَّاثَاتِ فِي الْعُقَدِ",
+        "urdu_text": "اور گیسنے والیوں کی برائی سے",
+        "persian_text": "و از شر دم‌کنندگان در گره‌ها",
+        "english_text": "And from the evil of those who blow on knots.",
+        "transliteration": "Wa min sharri-n-naffāthāti fī-l-ʿuqad",
+        "verse_number": 4,
+    },
+    {
+        "arabic_text": "وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ",
+        "urdu_text": "اور حسد کرنے والے کی برائی سے جب وہ حسد کرے",
+        "persian_text": "و از شر حسود چون حسادت ورزد",
+        "english_text": "And from the evil of an envier when he envies.",
+        "transliteration": "Wa min sharri ḥāsidin idhā ḥasad",
+        "verse_number": 5,
+    },
+]
