@@ -24,7 +24,7 @@ ayats = [
         "verse_number": 3,
     },
     {
-        "arabic_text": "وَمِن شَرِّ النَّفَّاثَاتِ فِي الْعُقَدِ",
+        "arabic_text": "وَمِن شَرِّ النَّفَّـٰثَـٰتِ فِي الْعُقَدِ",
         "urdu_text": "اور گیسنے والیوں کی برائی سے",
         "persian_text": "و از شر دم‌کنندگان در گره‌ها",
         "english_text": "And from the evil of those who blow on knots.",

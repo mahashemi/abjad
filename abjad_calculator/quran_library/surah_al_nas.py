@@ -39,4 +39,12 @@ ayats = [
         "transliteration": "Alladhī yuwaswisu fī ṣudūri-n-nās",
         "verse_number": 5,
     },
+    {
+        "arabic_text": "مِنَ الْجِنَّةِ وَالنَّاسِ",
+        "urdu_text": "چاہے وہ جنوں میں سے ہو یا انسانوں میں سے",
+        "persian_text": "چه از جن و چه از مردم",
+        "english_text": "Among jinn and among mankind",
+        "transliteration": "Minal-jinnati wann-naas",
+        "verse_number": "6",
+    },
 ]
