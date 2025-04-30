@@ -3,14 +3,6 @@ Example usage of the Abjad Calculator library.
 """
 import os
 import abjad_calculator as ac
-from abjad_calculator.quran_library import (
-    sura_al_fatiha,
-    sura_al_masad,
-    sura_al_falaq,
-    sura_al_nasr,
-    surah_al_ikhlas,
-    surah_al_naba,
-    surah_al_nas)
 
 def huruf_sawamat_html_example(name, bastam_type):
     """Example showing HTML output for Huruf Sawamat naqsh"""
@@ -68,31 +60,10 @@ def main():
     
     # Example 3: Process multiple Quranic verses
     print("\n3. Process multiple Quranic verses")
-    surah_fatiha_title = "سورة الفاتحة - سورة 1 - عدد آياتها 7 ".strip()
-    surah_qalam_title = "سورة القلم - سورة 68 - عدد آياتها 52 ".strip()
-    surah_al_naba_title = "سورة النبأ - سورة 78 - عدد آياتها 40".strip()
-    surat_kafiroon_title = "سورة الكافرون - سورة 109 - عدد آياتها 6".strip()
-    surah_al_nasr_title = "سورة النصر - سورة 110 - عدد آياتها 3".strip()
-    surah_al_masad_title = "سورة المسد - سورة 111 - عدد آياتها 5 ".strip()
-    surah_al_ikhlas_title = "سورة الإخلاص - سورة 112 - عدد آياتها 4".strip()
-    surah_al_falaq_title = "سورة الفلق - سورة 113 - عدد آياتها 5".strip()
-    surah_al_nas_title = "سورة الناس - سورة 114 - عدد آياتها 6".strip()
-
-    quran = {
-        surah_fatiha_title: sura_al_fatiha.ayats,
-        surah_al_falaq_title: sura_al_falaq.ayats,
-        surah_al_masad_title: sura_al_masad.ayats,
-        surah_al_ikhlas_title: surah_al_ikhlas.ayats,
-        surah_al_naba_title: surah_al_naba.ayats,
-        surah_al_nas_title: surah_al_nas.ayats,
-        surah_al_nasr_title: sura_al_nasr.ayats,
-    }
     
     
     os.makedirs("output/quran/", exist_ok=True)
-
-    for title, ayats in quran.items():
-        # print(verses_surah_kafirun)
+    for title, ayats in ac.quran.items():
         ac.process_multiple_verses(
             bismillah,
             title,
