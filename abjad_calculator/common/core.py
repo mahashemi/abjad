@@ -8,7 +8,7 @@ of Arabic text using both Qamari and Malfuzi systems.
 
 from .model import AbjadResult, MusallasProperties, LetterBreakdown, LetterValue, VerificationItem, DivisionResult
 from .utils import clean_text
-from .constants import QAMARI_VALUES, MALFUZI_QAMARI_VALUES, BAYENATI_VALUES
+from .constants import ABJAD_VALUES
 
 
 def calculate_abjad(text: str) -> AbjadResult:
@@ -36,10 +36,10 @@ def calculate_abjad(text: str) -> AbjadResult:
             qamari_value = 0
             malfuzi_value = 0
             bayenati_value = 0
-            if char in QAMARI_VALUES.keys():
-                qamari_value = QAMARI_VALUES[char]
-                malfuzi_value = MALFUZI_QAMARI_VALUES[char]
-                bayenati_value = BAYENATI_VALUES[char]
+            if char in ABJAD_VALUES.keys():
+                qamari_value = ABJAD_VALUES[char].get('qamari')
+                malfuzi_value = ABJAD_VALUES[char].get('malfuzi')
+                bayenati_value = ABJAD_VALUES[char].get('bayenati')
                 
             # Update result with letter information
             result.breakdown.append(LetterBreakdown(
@@ -62,8 +62,8 @@ def calculate_abjad(text: str) -> AbjadResult:
     verification_total = 0
     
     for letter, count in result.letter_counts.items():
-        if letter in QAMARI_VALUES.keys():
-            value = QAMARI_VALUES[letter]
+        if letter in ABJAD_VALUES.keys():
+            value = ABJAD_VALUES[letter].get('qamari')
         else:
             value = 0
         sub_total = count * value
