@@ -33,6 +33,11 @@ quran_html_template_start = """
             line-height: 1.6;
         }
 
+        .calculation {
+            font-size: 24px;
+            overflow: auto;
+        }
+
         /* Ayah marker styles */
         .ayah-marker {
             display: inline-flex;
@@ -42,7 +47,7 @@ quran_html_template_start = """
             height: 35px;
             color: #26572a;
             font-family: "Traditional Arabic", "Amiri", Arial, sans-serif;
-            font-size: 22px;
+            font-size: 20px;
             margin: 0 5px;
             position: relative;
         }
@@ -53,7 +58,7 @@ quran_html_template_start = """
             position: absolute;
             font-size: 36px;
             opacity: 1;
-            bottom: -8px;
+            bottom: -10px;
             color: #cb8d38;
         }
         
@@ -190,12 +195,12 @@ quran_html_template_start = """
         table {
             width: 100%;
             border-collapse: collapse;
-            margin: 20px 0;
+            margin: 0px 0;
             direction: rtl;
             background-color: #fff;
-            border: 2px solid var(--table-border);
+            border: 1px solid var(--border-color);
             border-radius: 5px;
-            overflow: hidden;
+            overflow: auto;
         }
         
         .translations p, .translations div {
@@ -207,7 +212,7 @@ quran_html_template_start = """
         }
         
         th, td {
-            padding: 12px;
+            padding: 8px 4px;
             border: 1px solid var(--table-border);
             text-align: center;
         }
@@ -220,7 +225,6 @@ quran_html_template_start = """
         
         .letter-table {
             margin-bottom: 30px;
-            border: 2px solid var(--table-border);
             box-shadow: 0 3px 10px rgba(0,0,0,0.05);
         }
         
@@ -284,7 +288,7 @@ quran_html_template_start = """
             border-radius: 8px;
             font-size: 26px;
             padding: 2px;
-            margin-top: 20px;
+            margin-top: 10px;
             border: 1px solid var(--border-color);
         }
         .adad-row {
@@ -294,6 +298,7 @@ quran_html_template_start = """
             align-items: center;
             position: relative;
             direction: rtl;
+            overflow: auto;
         }
         .translation-title {
             color: var(--header-color);
@@ -420,6 +425,7 @@ quran_html_template_start = """
             .translations {
                 font-size: 14pt;
                 padding: 2px;
+                margin-top: 0px;
             }
             
             

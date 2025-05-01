@@ -3,21 +3,17 @@ utils.py Utility functions for the Abjad Calculator.
 """
 from pathlib import Path
 import logging
-
 from .constants import REMOVE_CHARS
 
 logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s")
 logger = logging.getLogger(__name__)
 
+
 def clean_text(text):
     """Clean Arabic text by removing diacritics and standardizing characters."""
-    # Replace alif wasla with regular alif
-    text = text.replace('ٱ', 'ا')
-    
     # Remove diacritics and whitespace
     for char in REMOVE_CHARS:
         text = text.replace(char, '')
-    
     return text
 
 def normalize_space_separated_text(text):

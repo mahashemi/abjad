@@ -1,8 +1,10 @@
 """
 quran.py Functions for Quranic verse calculation.
 """
-
+import json
+import os
 from typing import List
+from dataclasses import asdict
 from .template.quran_template import quran_html_template_start
 from ...common.model import AbjadResult, LetterBreakdown
 from ...common.core import calculate_abjad
@@ -54,7 +56,7 @@ def process_multiple_verses(
     verses_list,
     output_html=False,
     output_path=None,
-    show_summary=False,
+    debug=False,
     chars_per_row=18,
 ):
     """
@@ -84,6 +86,15 @@ def process_multiple_verses(
         transliteration = verse_object.get("transliteration")
 
         result_verse: AbjadResult = calculate_abjad(arabic)
+
+        if debug:
+            debug_output_folder = f"debug/{surat_name}/{verse_number}"
+            os.makedirs(debug_output_folder, exist_ok=True)
+            debug_output_path = os.path.join(debug_output_folder,"result.json")
+            with open(debug_output_path, "w") as f:
+                json.dump(asdict(result_verse), f, ensure_ascii=False, indent=4)
+            print(f"debug output saved to {debug_output_path}")
+
         # print(result)
         grand_qamari_total += result_verse.total_qamari_value
         grand_malfuzi_total += result_verse.total_malfuzi_value
@@ -116,15 +127,16 @@ def process_multiple_verses(
             word_abjad_breakdown, chars_per_row
         )
 
-        title = f"آية <span class='ayah-marker'>{verse_number}</span>"
+        # title = f"آية "
 
         # Main content for the verse
         content_html = f"""
         <div class="verse-container">
-            <h2>{title}</h2>
+            
             
             <div class="original-text">
-                <p class="arabic-text">{result_verse.original_text}</p>
+                <p class="arabic-text">{result_verse.original_text} <span class='ayah-marker'>{verse_number}</span></p>
+                
             </div>
         </div>
         """

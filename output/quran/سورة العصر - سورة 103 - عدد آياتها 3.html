@@ -33,6 +33,11 @@
             line-height: 1.6;
         }
 
+        .calculation {
+            font-size: 24px;
+            overflow: auto;
+        }
+
         /* Ayah marker styles */
         .ayah-marker {
             display: inline-flex;
@@ -42,7 +47,7 @@
             height: 35px;
             color: #26572a;
             font-family: "Traditional Arabic", "Amiri", Arial, sans-serif;
-            font-size: 22px;
+            font-size: 20px;
             margin: 0 5px;
             position: relative;
         }
@@ -53,7 +58,7 @@
             position: absolute;
             font-size: 36px;
             opacity: 1;
-            bottom: -8px;
+            bottom: -10px;
             color: #cb8d38;
         }
         
@@ -190,12 +195,12 @@
         table {
             width: 100%;
             border-collapse: collapse;
-            margin: 20px 0;
+            margin: 0px 0;
             direction: rtl;
             background-color: #fff;
-            border: 2px solid var(--table-border);
+            border: 1px solid var(--border-color);
             border-radius: 5px;
-            overflow: hidden;
+            overflow: auto;
         }
         
         .translations p, .translations div {
@@ -207,7 +212,7 @@
         }
         
         th, td {
-            padding: 12px;
+            padding: 8px 4px;
             border: 1px solid var(--table-border);
             text-align: center;
         }
@@ -220,7 +225,6 @@
         
         .letter-table {
             margin-bottom: 30px;
-            border: 2px solid var(--table-border);
             box-shadow: 0 3px 10px rgba(0,0,0,0.05);
         }
         
@@ -284,7 +288,7 @@
             border-radius: 8px;
             font-size: 26px;
             padding: 2px;
-            margin-top: 20px;
+            margin-top: 10px;
             border: 1px solid var(--border-color);
         }
         .adad-row {
@@ -294,6 +298,7 @@
             align-items: center;
             position: relative;
             direction: rtl;
+            overflow: auto;
         }
         .translation-title {
             color: var(--header-color);
@@ -420,6 +425,7 @@
             .translations {
                 font-size: 14pt;
                 padding: 2px;
+                margin-top: 0px;
             }
             
             
@@ -449,10 +455,11 @@
         <div class="verse-section">
             
         <div class="verse-container">
-            <h2>آية <span class='ayah-marker'>1</span></h2>
+            
             
             <div class="original-text">
-                <p class="arabic-text">وَالْعَصْرِ</p>
+                <p class="arabic-text">وَالْعَصْرِ <span class='ayah-marker'>1</span></p>
+                
             </div>
         </div>
         
@@ -496,10 +503,11 @@
         <div class="verse-section">
             
         <div class="verse-container">
-            <h2>آية <span class='ayah-marker'>2</span></h2>
+            
             
             <div class="original-text">
-                <p class="arabic-text">إِنَّ الْإِنسَانَ لَفِي خُسْرٍ</p>
+                <p class="arabic-text">إِنَّ الْإِنسَانَ لَفِي خُسْرٍ <span class='ayah-marker'>2</span></p>
+                
             </div>
         </div>
         
@@ -552,10 +560,11 @@
         <div class="verse-section">
             
         <div class="verse-container">
-            <h2>آية <span class='ayah-marker'>3</span></h2>
+            
             
             <div class="original-text">
-                <p class="arabic-text">إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّـٰلِحَاتِ وَتَوَاصَوْا بِالْحَقِّ وَتَوَاصَوْا بِالصَّبْرِ</p>
+                <p class="arabic-text">إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّـٰلِحَـٰتِ وَتَوَاصَوْا بِالْحَقِّ وَتَوَاصَوْا بِالصَّبْرِ <span class='ayah-marker'>3</span></p>
+                
             </div>
         </div>
         
@@ -567,7 +576,7 @@
 <td>الَّذِينَ</td>
 <td>آمَنُوا</td>
 <td>وَعَمِلُوا</td>
-<td>الصَّـٰلِحَاتِ</td>
+<td>الصَّـٰلِحَـٰتِ</td>
 <td>وَتَوَاصَوْا</td>
 <td>بِالْحَقِّ</td>
 <td>وَتَوَاصَوْا</td>
@@ -578,7 +587,7 @@
 <td>791</td>
 <td>98</td>
 <td>153</td>
-<td>560</td>
+<td>559</td>
 <td>510</td>
 <td>141</td>
 <td>510</td>
@@ -589,7 +598,7 @@
 <td>1030</td>
 <td>431</td>
 <td>428</td>
-<td>869</td>
+<td>758</td>
 <td>757</td>
 <td>375</td>
 <td>757</td>
@@ -610,9 +619,9 @@
             
             <p class='left-to-right'><span class="translation-title left-to-right">Transliteration</span>Illa alladhīna āmanū wa ‘amilū aṣ-ṣāliḥāti wa tawāṣaw bil-ḥaqqi wa tawāṣaw biṣ-ṣabr</p>
             <div class='adad-row'>
-                <div class='total-qamari-span'><span class="translation-title">قمري عدد</span> <strong class='total-value'>3120</strong></div>
-                <div class='total-bayenati-span'><span class="translation-title">باطني عدد</span> <strong class='total-value'>2304</strong></div>
-                <div class='total-malfuzi-span'><span class="translation-title">ملفوظي عدد</span> <strong class='total-value'>5424</strong></div>
+                <div class='total-qamari-span'><span class="translation-title">قمري عدد</span> <strong class='total-value'>3119</strong></div>
+                <div class='total-bayenati-span'><span class="translation-title">باطني عدد</span> <strong class='total-value'>2194</strong></div>
+                <div class='total-malfuzi-span'><span class="translation-title">ملفوظي عدد</span> <strong class='total-value'>5313</strong></div>
             </div>
             
         </div>
@@ -623,15 +632,15 @@
             <div class="grand-total">
                 <div class='qamari-grand-total'>
                     <h3>مجموع القمري</h3>
-                    <p><strong>4741</strong></p>
+                    <p><strong>4740</strong></p>
                 </div>
                 <div class='batini-grand-total'>
                     <h3>مجموع الباطني</h3>
-                    <p><strong>3342</strong></p>
+                    <p><strong>3232</strong></p>
                 </div>
                 <div class='malfuzi-grand-total'>
                     <h3>مجموع الملفوظي</h3>
-                    <p><strong>8083</strong></p>
+                    <p><strong>7972</strong></p>
                 </div>
             </div>
         </div>

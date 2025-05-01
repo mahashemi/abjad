@@ -32,11 +32,15 @@ def calculate_abjad(text: str) -> AbjadResult:
     
     # Calculate letter by letter
     for char in cleaned_text:
-        if char in QAMARI_VALUES:
-            qamari_value = QAMARI_VALUES[char]
-            malfuzi_value = MALFUZI_QAMARI_VALUES[char]
-            bayenati_value = BAYENATI_VALUES[char]
-            
+        if char.strip():
+            qamari_value = 0
+            malfuzi_value = 0
+            bayenati_value = 0
+            if char in QAMARI_VALUES.keys():
+                qamari_value = QAMARI_VALUES[char]
+                malfuzi_value = MALFUZI_QAMARI_VALUES[char]
+                bayenati_value = BAYENATI_VALUES[char]
+                
             # Update result with letter information
             result.breakdown.append(LetterBreakdown(
                 letter=char,
@@ -58,11 +62,15 @@ def calculate_abjad(text: str) -> AbjadResult:
     verification_total = 0
     
     for letter, count in result.letter_counts.items():
-        sub_total = count * QAMARI_VALUES[letter]
+        if letter in QAMARI_VALUES.keys():
+            value = QAMARI_VALUES[letter]
+        else:
+            value = 0
+        sub_total = count * value
         verification_total += sub_total
         result.verification[letter] = VerificationItem(
             count=count,
-            qamari_value=QAMARI_VALUES[letter],
+            qamari_value=value,
             total=sub_total
         )
     

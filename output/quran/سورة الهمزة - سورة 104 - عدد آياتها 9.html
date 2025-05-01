@@ -33,6 +33,11 @@
             line-height: 1.6;
         }
 
+        .calculation {
+            font-size: 24px;
+            overflow: auto;
+        }
+
         /* Ayah marker styles */
         .ayah-marker {
             display: inline-flex;
@@ -42,7 +47,7 @@
             height: 35px;
             color: #26572a;
             font-family: "Traditional Arabic", "Amiri", Arial, sans-serif;
-            font-size: 22px;
+            font-size: 20px;
             margin: 0 5px;
             position: relative;
         }
@@ -53,7 +58,7 @@
             position: absolute;
             font-size: 36px;
             opacity: 1;
-            bottom: -8px;
+            bottom: -10px;
             color: #cb8d38;
         }
         
@@ -190,12 +195,12 @@
         table {
             width: 100%;
             border-collapse: collapse;
-            margin: 20px 0;
+            margin: 0px 0;
             direction: rtl;
             background-color: #fff;
-            border: 2px solid var(--table-border);
+            border: 1px solid var(--border-color);
             border-radius: 5px;
-            overflow: hidden;
+            overflow: auto;
         }
         
         .translations p, .translations div {
@@ -207,7 +212,7 @@
         }
         
         th, td {
-            padding: 12px;
+            padding: 8px 4px;
             border: 1px solid var(--table-border);
             text-align: center;
         }
@@ -220,7 +225,6 @@
         
         .letter-table {
             margin-bottom: 30px;
-            border: 2px solid var(--table-border);
             box-shadow: 0 3px 10px rgba(0,0,0,0.05);
         }
         
@@ -284,7 +288,7 @@
             border-radius: 8px;
             font-size: 26px;
             padding: 2px;
-            margin-top: 20px;
+            margin-top: 10px;
             border: 1px solid var(--border-color);
         }
         .adad-row {
@@ -294,6 +298,7 @@
             align-items: center;
             position: relative;
             direction: rtl;
+            overflow: auto;
         }
         .translation-title {
             color: var(--header-color);
@@ -420,6 +425,7 @@
             .translations {
                 font-size: 14pt;
                 padding: 2px;
+                margin-top: 0px;
             }
             
             
@@ -449,10 +455,11 @@
         <div class="verse-section">
             
         <div class="verse-container">
-            <h2>آية <span class='ayah-marker'>1</span></h2>
+            
             
             <div class="original-text">
-                <p class="arabic-text">وَيْلٌ لِكُلِّ هُمَزَةٍ لُمَزَةٍ</p>
+                <p class="arabic-text">وَيْلٌ لِكُلِّ هُمَزَةٍ لُمَزَةٍ <span class='ayah-marker'>1</span></p>
+                
             </div>
         </div>
         
@@ -505,10 +512,11 @@
         <div class="verse-section">
             
         <div class="verse-container">
-            <h2>آية <span class='ayah-marker'>2</span></h2>
+            
             
             <div class="original-text">
-                <p class="arabic-text">الَّذِي جَمَعَ مَالًا وَعَدَّدَهُ</p>
+                <p class="arabic-text">الَّذِي جَمَعَ مَالًا وَعَدَّدَهُ <span class='ayah-marker'>2</span></p>
+                
             </div>
         </div>
         
@@ -561,10 +569,11 @@
         <div class="verse-section">
             
         <div class="verse-container">
-            <h2>آية <span class='ayah-marker'>3</span></h2>
+            
             
             <div class="original-text">
-                <p class="arabic-text">يَحْسَبُ أَنَّ مَالَهُ أَخْلَدَهُ</p>
+                <p class="arabic-text">يَحْسَبُ أَنَّ مَالَهُ أَخْلَدَهُ <span class='ayah-marker'>3</span></p>
+                
             </div>
         </div>
         
@@ -617,10 +626,11 @@
         <div class="verse-section">
             
         <div class="verse-container">
-            <h2>آية <span class='ayah-marker'>4</span></h2>
+            
             
             <div class="original-text">
-                <p class="arabic-text">كَلَّا ۖ لَيُنْبَذَنَّ فِي الْحُطَمَةِ</p>
+                <p class="arabic-text">كَلَّا ۖ لَيُنْبَذَنَّ فِي الْحُطَمَةِ <span class='ayah-marker'>4</span></p>
+                
             </div>
         </div>
         
@@ -676,10 +686,11 @@
         <div class="verse-section">
             
         <div class="verse-container">
-            <h2>آية <span class='ayah-marker'>5</span></h2>
+            
             
             <div class="original-text">
-                <p class="arabic-text">وَمَا أَدْرـٰكَ مَا الْحُطَمَةُ</p>
+                <p class="arabic-text">وَمَا أَدْرـٰكَ مَا الْحُطَمَةُ <span class='ayah-marker'>5</span></p>
+                
             </div>
         </div>
         
@@ -732,10 +743,11 @@
         <div class="verse-section">
             
         <div class="verse-container">
-            <h2>آية <span class='ayah-marker'>6</span></h2>
+            
             
             <div class="original-text">
-                <p class="arabic-text">نَارُ اللَّهِ الْمُوقَدَةُ</p>
+                <p class="arabic-text">نَارُ اللَّهِ الْمُوقَدَةُ <span class='ayah-marker'>6</span></p>
+                
             </div>
         </div>
         
@@ -785,10 +797,11 @@
         <div class="verse-section">
             
         <div class="verse-container">
-            <h2>آية <span class='ayah-marker'>7</span></h2>
+            
             
             <div class="original-text">
-                <p class="arabic-text">الَّتِي تَطَّلِعُ عَلَى الْأَفْئِدَةِ</p>
+                <p class="arabic-text">الَّتِي تَطَّلِعُ عَلَى الْأَفْئِدَةِ <span class='ayah-marker'>7</span></p>
+                
             </div>
         </div>
         
@@ -805,13 +818,13 @@
 <td>441</td>
 <td>509</td>
 <td>110</td>
-<td>131</td>
+<td>121</td>
 </tr>
 <tr class="value-row malfuzi-value-row">
 <td>594</td>
 <td>612</td>
 <td>212</td>
-<td>426</td>
+<td>415</td>
 </tr>
 </table>
 
@@ -828,9 +841,9 @@
             
             <p class='left-to-right'><span class="translation-title left-to-right">Transliteration</span>Allatī taṭṭaliʿu ʿala al-af’idah</p>
             <div class='adad-row'>
-                <div class='total-qamari-span'><span class="translation-title">قمري عدد</span> <strong class='total-value'>1191</strong></div>
-                <div class='total-bayenati-span'><span class="translation-title">باطني عدد</span> <strong class='total-value'>653</strong></div>
-                <div class='total-malfuzi-span'><span class="translation-title">ملفوظي عدد</span> <strong class='total-value'>1844</strong></div>
+                <div class='total-qamari-span'><span class="translation-title">قمري عدد</span> <strong class='total-value'>1181</strong></div>
+                <div class='total-bayenati-span'><span class="translation-title">باطني عدد</span> <strong class='total-value'>652</strong></div>
+                <div class='total-malfuzi-span'><span class="translation-title">ملفوظي عدد</span> <strong class='total-value'>1833</strong></div>
             </div>
             
         </div>
@@ -841,10 +854,11 @@
         <div class="verse-section">
             
         <div class="verse-container">
-            <h2>آية <span class='ayah-marker'>8</span></h2>
+            
             
             <div class="original-text">
-                <p class="arabic-text">إِنَّهَا عَلَيْهِمْ مُؤْصَدَةٌ</p>
+                <p class="arabic-text">إِنَّهَا عَلَيْهِمْ مُؤْصَدَةٌ <span class='ayah-marker'>8</span></p>
+                
             </div>
         </div>
         
@@ -859,12 +873,12 @@
 <tr class="value-row qamari-value-row">
 <td>57</td>
 <td>155</td>
-<td>139</td>
+<td>145</td>
 </tr>
 <tr class="value-row malfuzi-value-row">
 <td>334</td>
 <td>308</td>
-<td>226</td>
+<td>239</td>
 </tr>
 </table>
 
@@ -881,9 +895,9 @@
             
             <p class='left-to-right'><span class="translation-title left-to-right">Transliteration</span>Innahā ʿalayhim mu’ṣadah</p>
             <div class='adad-row'>
-                <div class='total-qamari-span'><span class="translation-title">قمري عدد</span> <strong class='total-value'>351</strong></div>
-                <div class='total-bayenati-span'><span class="translation-title">باطني عدد</span> <strong class='total-value'>517</strong></div>
-                <div class='total-malfuzi-span'><span class="translation-title">ملفوظي عدد</span> <strong class='total-value'>868</strong></div>
+                <div class='total-qamari-span'><span class="translation-title">قمري عدد</span> <strong class='total-value'>357</strong></div>
+                <div class='total-bayenati-span'><span class="translation-title">باطني عدد</span> <strong class='total-value'>524</strong></div>
+                <div class='total-malfuzi-span'><span class="translation-title">ملفوظي عدد</span> <strong class='total-value'>881</strong></div>
             </div>
             
         </div>
@@ -894,10 +908,11 @@
         <div class="verse-section">
             
         <div class="verse-container">
-            <h2>آية <span class='ayah-marker'>9</span></h2>
+            
             
             <div class="original-text">
-                <p class="arabic-text">فِي عَمَدٍ مُمَدَّدَةٍ</p>
+                <p class="arabic-text">فِي عَمَدٍ مُمَدَّدَةٍ <span class='ayah-marker'>9</span></p>
+                
             </div>
         </div>
         
@@ -947,15 +962,15 @@
             <div class="grand-total">
                 <div class='qamari-grand-total'>
                     <h3>مجموع القمري</h3>
-                    <p><strong>5951</strong></p>
+                    <p><strong>5947</strong></p>
                 </div>
                 <div class='batini-grand-total'>
                     <h3>مجموع الباطني</h3>
-                    <p><strong>5292</strong></p>
+                    <p><strong>5298</strong></p>
                 </div>
                 <div class='malfuzi-grand-total'>
                     <h3>مجموع الملفوظي</h3>
-                    <p><strong>11243</strong></p>
+                    <p><strong>11245</strong></p>
                 </div>
             </div>
         </div>
