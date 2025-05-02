@@ -51,6 +51,10 @@
                 f.name
               )}`;
               a.textContent = f.name;
+              // <<< open in new tab safely:
+              a.target = "_blank";
+              a.rel = "noopener noreferrer";
+
               li.appendChild(a);
               ul.appendChild(li);
             });
