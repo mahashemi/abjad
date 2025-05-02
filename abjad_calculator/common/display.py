@@ -201,7 +201,7 @@ def render_naqsh_html(naqsh_result: NaqshResult, output_html=False, output_path=
     
     return html_output
 
-def create_letter_value_tables(breakdown: List[LetterBreakdown], chars_per_row=18):
+def create_word_letter_value_tables(word_breakdown: List[AbjadResult], show_letters=False, chars_per_row=18):
     """
     Create HTML tables for letter/value representation with row splitting.
     
@@ -215,33 +215,74 @@ def create_letter_value_tables(breakdown: List[LetterBreakdown], chars_per_row=1
     tables_html = ""
     
     # Split the breakdown into chunks
-    for i in range(0, len(breakdown), chars_per_row):
-        chunk = breakdown[i:i+chars_per_row]
+    for i in range(0, len(word_breakdown), chars_per_row):
+        chunk = word_breakdown[i:i+chars_per_row]
         
         # Start a table
-        table_html = '<table class="letter-table">\n'
-        
-        # Letter row
-        table_html += '<tr class="letter-row">\n'
-        for item in chunk:
-            try:
-                table_html += f'<td>{item.letter}</td>\n'
-            except Exception as ex:
-                print(item)
-                raise ex
-        table_html += '</tr>\n'
-        
-        # Value row
-        table_html += '<tr class="value-row qamari-value-row">\n'
-        for item in chunk:
-            table_html += f'<td>{item.qamari_value}</td>\n'
+        table_html = '<table class="qamari-malfuzi-table">\n'
+        # letter row
+        if show_letters:
+            table_html += '<tr class="letter-row letter-value-row">\n'
+            for word in chunk:
+                len_word_breakdown = len(word.breakdown)
+                for idx, letter in enumerate(word.breakdown):
+                    class_letter_border = "light-letter-left-border"
+                    if idx==len_word_breakdown-1:
+                        class_letter_border = "dark-letter-left-border"
+                    try:
+                        table_html += f'<td class="{class_letter_border}">{letter.letter}</td>\n'
+                    except Exception as ex:
+                        print(word)
+                        raise ex
+            table_html += '</tr>\n'
+            
+            # Qamari Value row
+            table_html += '<tr class="value-row letter-value-row qamari-value-row">\n'
+            for word in chunk:
+                len_word_breakdown = len(word.breakdown)
+                for idx, letter in enumerate(word.breakdown):
+                    class_letter_border = "light-letter-left-border"
+                    if idx==len_word_breakdown-1:
+                        class_letter_border = "dark-letter-left-border"
+                    try:
+                        table_html += f'<td class="{class_letter_border}">{letter.qamari_value}</td>\n'
+                    except Exception as ex:
+                        print(word)
+                        raise ex
+            table_html += '</tr>\n'
+
+            # Malfuzi Value row
+            table_html += '<tr class="value-row letter-value-row malfuzi-value-row">\n'
+            for word in chunk:
+                len_word_breakdown = len(word.breakdown)
+                for idx, letter in enumerate(word.breakdown):
+                    class_letter_border = "light-letter-left-border"
+                    if idx==len_word_breakdown-1:
+                        class_letter_border = "dark-letter-left-border"
+                    try:
+                        table_html += f'<td class="{class_letter_border}">{letter.malfuzi_value}</td>\n'
+                    except Exception as ex:
+                        print(word)
+                        raise ex
+            table_html += '</tr>\n'
+        ###    
+        table_html += '<tr class="word-row">\n'
+        for word in chunk:
+            table_html += f'<td colspan={len(word.breakdown)}>{word.original_text}</td>\n'
         table_html += '</tr>\n'
 
-        # Value row
-        table_html += '<tr class="value-row malfuzi-value-row">\n'
-        for item in chunk:
-            table_html += f'<td>{item.malfuzi_value}</td>\n'
+        # Qamari Value row
+        table_html += '<tr class="value-row qamari-value-row">\n'
+        for word in chunk:
+            table_html += f'<td colspan={len(word.breakdown)}>{word.total_qamari_value}</td>\n'
         table_html += '</tr>\n'
+
+        # Malfuzi Value row
+        table_html += '<tr class="value-row malfuzi-value-row">\n'
+        for word in chunk:
+            table_html += f'<td colspan={len(word.breakdown)}>{word.total_malfuzi_value}</td>\n'
+        table_html += '</tr>\n'
+
         
         # End the table
         table_html += '</table>\n'

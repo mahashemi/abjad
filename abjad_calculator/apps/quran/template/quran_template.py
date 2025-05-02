@@ -210,6 +210,14 @@ quran_html_template_start = """
             margin: auto;
             background-color: rgba(255, 255, 255, 0.7);
         }
+
+        .light-letter-left-border {
+            border-left-color: #e9e9e9;
+        }
+
+        .dark-letter-left-border {
+            border-left-color: var(--table-border);
+        }
         
         th, td {
             padding: 8px 4px;
@@ -223,7 +231,7 @@ quran_html_template_start = """
             font-weight: bold;
         }
         
-        .letter-table {
+        .qamari-malfuzi-table {
             margin-bottom: 30px;
             box-shadow: 0 3px 10px rgba(0,0,0,0.05);
         }
@@ -238,11 +246,20 @@ quran_html_template_start = """
             background-color: rgba(242, 238, 226, 0.7);
         }
         
+        .letter-value-row td {
+            padding: 0 2px !important;
+        }
+
         .malfuzi-value-row {
             background-color: #cb8d380f;
             font-style: oblique;
+            color: gray;
         }
         
+        .qamari-value-row {
+            color: #700000;
+        }
+
         .word-analysis {
             margin-top: 30px;
             padding: 20px;
@@ -338,6 +355,12 @@ quran_html_template_start = """
         .surah_header::after {
             left: 20px;
         }
+
+        .letter-value-row{
+            font-size: 8px;
+        }
+
+        
         
         /* Print-specific styles */
         @media print {

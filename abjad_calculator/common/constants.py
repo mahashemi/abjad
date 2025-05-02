@@ -5,6 +5,7 @@ Constants and mappings for the Abjad Calculator.
 ABJAD_VALUES = {
     "ا": {"malfuzi": 111, "qamari": 1,   "bayenati": 110},
     "أ": {"malfuzi": 111, "qamari": 1,   "bayenati": 110},
+    "ٱ": {"malfuzi": 111, "qamari": 1,   "bayenati": 110},
     "إ": {"malfuzi": 111, "qamari": 1,   "bayenati": 110},
     "آ": {"malfuzi": 111, "qamari": 1,   "bayenati": 110},  # Alif variations
 
@@ -58,7 +59,7 @@ REMOVE_CHARS = [
     # Additional Quranic diacritics (used in Uthmani script)
     'ٓ', 'ۖ', 'ۗ', 'ۘ', 'ۙ', 'ۚ', 'ۛ', 'ۜ', '۝', '۞',
     '۟', '۠', 'ۡ', 'ۢ', 'ۣ', 'ۤ', 'ۥ', 'ۦ', 'ۧ', 'ۨ',
-    '۩', '۪', '۫', '۬', 'ۭ',
+    '۩', '۪', '۫', '۬', 'ۭ'," 	ٗ"
 
     # Hamza (standalone)
     'ء',

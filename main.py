@@ -70,7 +70,7 @@ def main():
             ayats,
             output_html=True,
             chars_per_row=14,      # 18 characters per row
-            debug=False,    # Show detailed summary for this longer analysis
+            debug=True,    # Show detailed summary for this longer analysis
             output_path=f"output/quran/{title}.html")
     print("Multiple Verse:calculation complete. Check the HTML output.")
 

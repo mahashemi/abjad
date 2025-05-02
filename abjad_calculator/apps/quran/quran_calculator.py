@@ -1,6 +1,7 @@
 """
 quran.py Functions for Quranic verse calculation.
 """
+
 import json
 import os
 from typing import List
@@ -9,7 +10,7 @@ from .template.quran_template import quran_html_template_start
 from ...common.model import AbjadResult, LetterBreakdown
 from ...common.core import calculate_abjad
 from ...common.display import (
-    create_letter_value_tables,
+    create_word_letter_value_tables,
     create_quran_verse_html,
     calculate_arabic_text_with_table,
     calculate_multiple_texts_with_tables,
@@ -90,7 +91,7 @@ def process_multiple_verses(
         if debug:
             debug_output_folder = f"debug/{surat_name}/{verse_number}"
             os.makedirs(debug_output_folder, exist_ok=True)
-            debug_output_path = os.path.join(debug_output_folder,"result.json")
+            debug_output_path = os.path.join(debug_output_folder, "result.json")
             with open(debug_output_path, "w") as f:
                 json.dump(asdict(result_verse), f, ensure_ascii=False, indent=4)
             print(f"debug output saved to {debug_output_path}")
@@ -100,31 +101,35 @@ def process_multiple_verses(
         grand_malfuzi_total += result_verse.total_malfuzi_value
         grand_bayenati_total += result_verse.total_bayenati_value
 
-        word_abjad_breakdown: List[LetterBreakdown] = []
+        word_abjad_breakdown: List[AbjadResult] = []
         for idx, word in enumerate(arabic.split(" ")):
             if not word:
                 continue
-            result_word = calculate_abjad(word)
-            orig_word_text = result_word.original_text
-            word_total_qamari_value = result_word.total_qamari_value
-            word_total_malfuzi_value = result_word.total_malfuzi_value
-            word_total_bayenati_value = result_word.total_bayenati_value
-            word_abjad_breakdown.append(
-                LetterBreakdown(
-                    letter=orig_word_text,
-                    qamari_value=word_total_qamari_value,
-                    malfuzi_value=word_total_malfuzi_value,
-                    bayenati_value=word_total_bayenati_value
-                )
-            )
+            result_word: AbjadResult = calculate_abjad(word)
+            word_abjad_breakdown.append(result_word)
+            # orig_word_text: str = result_word.original_text
+            # word_total_qamari_value: int = result_word.total_qamari_value
+            # word_total_malfuzi_value: int = result_word.total_malfuzi_value
+            # word_total_bayenati_value: int = result_word.total_bayenati_value
+
+            # word_abjad_breakdown.append(
+            #     LetterBreakdown(
+            #         letter=orig_word_text,
+            #         qamari_value=word_total_qamari_value,
+            #         malfuzi_value=word_total_malfuzi_value,
+            #         bayenati_value=word_total_bayenati_value
+            #     )
+            # )
 
             # print(result_word)
             # if idx == 3:
             #     break
             # print('-'*20)
 
-        word_abjad_tables_html = create_letter_value_tables(
-            word_abjad_breakdown, chars_per_row
+        word_abjad_tables_html = create_word_letter_value_tables(
+            word_breakdown=word_abjad_breakdown,
+            show_letters=debug,
+            chars_per_row=chars_per_row,
         )
 
         # title = f"آية "
@@ -132,11 +137,8 @@ def process_multiple_verses(
         # Main content for the verse
         content_html = f"""
         <div class="verse-container">
-            
-            
             <div class="original-text">
                 <p class="arabic-text">{result_verse.original_text} <span class='ayah-marker'>{verse_number}</span></p>
-                
             </div>
         </div>
         """

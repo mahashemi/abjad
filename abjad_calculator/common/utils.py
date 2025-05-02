@@ -1,6 +1,7 @@
 """
 utils.py Utility functions for the Abjad Calculator.
 """
+import re
 from pathlib import Path
 import logging
 from .constants import REMOVE_CHARS
@@ -8,12 +9,20 @@ from .constants import REMOVE_CHARS
 logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s")
 logger = logging.getLogger(__name__)
 
+def strip_diacritics(s: str) -> str:
+    pattern = re.compile(r'[\u064B-\u065F\u0670]')
+    return pattern.sub('', s)
 
 def clean_text(text):
     """Clean Arabic text by removing diacritics and standardizing characters."""
     # Remove diacritics and whitespace
     for char in REMOVE_CHARS:
-        text = text.replace(char, '')
+        text = text.replace(char.strip(), '')
+
+    text = strip_diacritics(text)
+
+
+ 
     return text
 
 def normalize_space_separated_text(text):

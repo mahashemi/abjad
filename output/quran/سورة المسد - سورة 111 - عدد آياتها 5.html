@@ -210,6 +210,14 @@
             margin: auto;
             background-color: rgba(255, 255, 255, 0.7);
         }
+
+        .light-letter-left-border {
+            border-left-color: #e9e9e9;
+        }
+
+        .dark-letter-left-border {
+            border-left-color: var(--table-border);
+        }
         
         th, td {
             padding: 8px 4px;
@@ -223,7 +231,7 @@
             font-weight: bold;
         }
         
-        .letter-table {
+        .qamari-malfuzi-table {
             margin-bottom: 30px;
             box-shadow: 0 3px 10px rgba(0,0,0,0.05);
         }
@@ -238,11 +246,20 @@
             background-color: rgba(242, 238, 226, 0.7);
         }
         
+        .letter-value-row td {
+            padding: 0 2px !important;
+        }
+
         .malfuzi-value-row {
             background-color: #cb8d380f;
             font-style: oblique;
+            color: gray;
         }
         
+        .qamari-value-row {
+            color: #700000;
+        }
+
         .word-analysis {
             margin-top: 30px;
             padding: 20px;
@@ -338,6 +355,12 @@
         .surah_header::after {
             left: 20px;
         }
+
+        .letter-value-row{
+            font-size: 8px;
+        }
+
+        
         
         /* Print-specific styles */
         @media print {
@@ -455,37 +478,85 @@
         <div class="verse-section">
             
         <div class="verse-container">
-            
-            
             <div class="original-text">
                 <p class="arabic-text">تَبَّتْ يَدَا أَبِي لَهَبٍ وَتَبَّ <span class='ayah-marker'>1</span></p>
-                
             </div>
         </div>
         
             
         <div class="calculation">
-            <table class="letter-table">
-<tr class="letter-row">
-<td>تَبَّتْ</td>
-<td>يَدَا</td>
-<td>أَبِي</td>
-<td>لَهَبٍ</td>
-<td>وَتَبَّ</td>
+            <table class="qamari-malfuzi-table">
+<tr class="letter-row letter-value-row">
+<td class="light-letter-left-border">ت</td>
+<td class="light-letter-left-border">ب</td>
+<td class="dark-letter-left-border">ت</td>
+<td class="light-letter-left-border">ي</td>
+<td class="light-letter-left-border">د</td>
+<td class="dark-letter-left-border">ا</td>
+<td class="light-letter-left-border">أ</td>
+<td class="light-letter-left-border">ب</td>
+<td class="dark-letter-left-border">ي</td>
+<td class="light-letter-left-border">ل</td>
+<td class="light-letter-left-border">ه</td>
+<td class="dark-letter-left-border">ب</td>
+<td class="light-letter-left-border">و</td>
+<td class="light-letter-left-border">ت</td>
+<td class="dark-letter-left-border">ب</td>
+</tr>
+<tr class="value-row letter-value-row qamari-value-row">
+<td class="light-letter-left-border">400</td>
+<td class="light-letter-left-border">2</td>
+<td class="dark-letter-left-border">400</td>
+<td class="light-letter-left-border">10</td>
+<td class="light-letter-left-border">4</td>
+<td class="dark-letter-left-border">1</td>
+<td class="light-letter-left-border">1</td>
+<td class="light-letter-left-border">2</td>
+<td class="dark-letter-left-border">10</td>
+<td class="light-letter-left-border">30</td>
+<td class="light-letter-left-border">5</td>
+<td class="dark-letter-left-border">2</td>
+<td class="light-letter-left-border">6</td>
+<td class="light-letter-left-border">400</td>
+<td class="dark-letter-left-border">2</td>
+</tr>
+<tr class="value-row letter-value-row malfuzi-value-row">
+<td class="light-letter-left-border">401</td>
+<td class="light-letter-left-border">3</td>
+<td class="dark-letter-left-border">401</td>
+<td class="light-letter-left-border">11</td>
+<td class="light-letter-left-border">35</td>
+<td class="dark-letter-left-border">111</td>
+<td class="light-letter-left-border">111</td>
+<td class="light-letter-left-border">3</td>
+<td class="dark-letter-left-border">11</td>
+<td class="light-letter-left-border">71</td>
+<td class="light-letter-left-border">6</td>
+<td class="dark-letter-left-border">3</td>
+<td class="light-letter-left-border">13</td>
+<td class="light-letter-left-border">401</td>
+<td class="dark-letter-left-border">3</td>
+</tr>
+<tr class="word-row">
+<td colspan=3>تَبَّتْ</td>
+<td colspan=3>يَدَا</td>
+<td colspan=3>أَبِي</td>
+<td colspan=3>لَهَبٍ</td>
+<td colspan=3>وَتَبَّ</td>
 </tr>
 <tr class="value-row qamari-value-row">
-<td>802</td>
-<td>15</td>
-<td>13</td>
-<td>37</td>
-<td>408</td>
+<td colspan=3>802</td>
+<td colspan=3>15</td>
+<td colspan=3>13</td>
+<td colspan=3>37</td>
+<td colspan=3>408</td>
 </tr>
 <tr class="value-row malfuzi-value-row">
-<td>805</td>
-<td>157</td>
-<td>125</td>
-<td>80</td>
-<td>417</td>
+<td colspan=3>805</td>
+<td colspan=3>157</td>
+<td colspan=3>125</td>
+<td colspan=3>80</td>
+<td colspan=3>417</td>
 </tr>
 </table>
 
@@ -515,40 +586,100 @@
         <div class="verse-section">
             
         <div class="verse-container">
-            
-            
             <div class="original-text">
                 <p class="arabic-text">مَا أَغْنَىٰ عَنْهُ مَالُهُ وَمَا كَسَبَ <span class='ayah-marker'>2</span></p>
-                
             </div>
         </div>
         
             
         <div class="calculation">
-            <table class="letter-table">
-<tr class="letter-row">
-<td>مَا</td>
-<td>أَغْنَىٰ</td>
-<td>عَنْهُ</td>
-<td>مَالُهُ</td>
-<td>وَمَا</td>
-<td>كَسَبَ</td>
+            <table class="qamari-malfuzi-table">
+<tr class="letter-row letter-value-row">
+<td class="light-letter-left-border">م</td>
+<td class="dark-letter-left-border">ا</td>
+<td class="light-letter-left-border">أ</td>
+<td class="light-letter-left-border">غ</td>
+<td class="light-letter-left-border">ن</td>
+<td class="dark-letter-left-border">ى</td>
+<td class="light-letter-left-border">ع</td>
+<td class="light-letter-left-border">ن</td>
+<td class="dark-letter-left-border">ه</td>
+<td class="light-letter-left-border">م</td>
+<td class="light-letter-left-border">ا</td>
+<td class="light-letter-left-border">ل</td>
+<td class="dark-letter-left-border">ه</td>
+<td class="light-letter-left-border">و</td>
+<td class="light-letter-left-border">م</td>
+<td class="dark-letter-left-border">ا</td>
+<td class="light-letter-left-border">ك</td>
+<td class="light-letter-left-border">س</td>
+<td class="dark-letter-left-border">ب</td>
+</tr>
+<tr class="value-row letter-value-row qamari-value-row">
+<td class="light-letter-left-border">40</td>
+<td class="dark-letter-left-border">1</td>
+<td class="light-letter-left-border">1</td>
+<td class="light-letter-left-border">1000</td>
+<td class="light-letter-left-border">50</td>
+<td class="dark-letter-left-border">10</td>
+<td class="light-letter-left-border">70</td>
+<td class="light-letter-left-border">50</td>
+<td class="dark-letter-left-border">5</td>
+<td class="light-letter-left-border">40</td>
+<td class="light-letter-left-border">1</td>
+<td class="light-letter-left-border">30</td>
+<td class="dark-letter-left-border">5</td>
+<td class="light-letter-left-border">6</td>
+<td class="light-letter-left-border">40</td>
+<td class="dark-letter-left-border">1</td>
+<td class="light-letter-left-border">20</td>
+<td class="light-letter-left-border">60</td>
+<td class="dark-letter-left-border">2</td>
+</tr>
+<tr class="value-row letter-value-row malfuzi-value-row">
+<td class="light-letter-left-border">90</td>
+<td class="dark-letter-left-border">111</td>
+<td class="light-letter-left-border">111</td>
+<td class="light-letter-left-border">1060</td>
+<td class="light-letter-left-border">106</td>
+<td class="dark-letter-left-border">11</td>
+<td class="light-letter-left-border">130</td>
+<td class="light-letter-left-border">106</td>
+<td class="dark-letter-left-border">6</td>
+<td class="light-letter-left-border">90</td>
+<td class="light-letter-left-border">111</td>
+<td class="light-letter-left-border">71</td>
+<td class="dark-letter-left-border">6</td>
+<td class="light-letter-left-border">13</td>
+<td class="light-letter-left-border">90</td>
+<td class="dark-letter-left-border">111</td>
+<td class="light-letter-left-border">101</td>
+<td class="light-letter-left-border">120</td>
+<td class="dark-letter-left-border">3</td>
+</tr>
+<tr class="word-row">
+<td colspan=2>مَا</td>
+<td colspan=4>أَغْنَىٰ</td>
+<td colspan=3>عَنْهُ</td>
+<td colspan=4>مَالُهُ</td>
+<td colspan=3>وَمَا</td>
+<td colspan=3>كَسَبَ</td>
 </tr>
 <tr class="value-row qamari-value-row">
-<td>41</td>
-<td>1061</td>
-<td>125</td>
-<td>76</td>
-<td>47</td>
-<td>82</td>
+<td colspan=2>41</td>
+<td colspan=4>1061</td>
+<td colspan=3>125</td>
+<td colspan=4>76</td>
+<td colspan=3>47</td>
+<td colspan=3>82</td>
 </tr>
 <tr class="value-row malfuzi-value-row">
-<td>201</td>
-<td>1288</td>
-<td>242</td>
-<td>278</td>
-<td>214</td>
-<td>224</td>
+<td colspan=2>201</td>
+<td colspan=4>1288</td>
+<td colspan=3>242</td>
+<td colspan=4>278</td>
+<td colspan=3>214</td>
+<td colspan=3>224</td>
 </tr>
 </table>
 
@@ -578,34 +709,82 @@
         <div class="verse-section">
             
         <div class="verse-container">
-            
-            
             <div class="original-text">
                 <p class="arabic-text">سَيَصْلَىٰ نَارًا ذَاتَ لَهَبٍ <span class='ayah-marker'>3</span></p>
-                
             </div>
         </div>
         
             
         <div class="calculation">
-            <table class="letter-table">
-<tr class="letter-row">
-<td>سَيَصْلَىٰ</td>
-<td>نَارًا</td>
-<td>ذَاتَ</td>
-<td>لَهَبٍ</td>
+            <table class="qamari-malfuzi-table">
+<tr class="letter-row letter-value-row">
+<td class="light-letter-left-border">س</td>
+<td class="light-letter-left-border">ي</td>
+<td class="light-letter-left-border">ص</td>
+<td class="light-letter-left-border">ل</td>
+<td class="dark-letter-left-border">ى</td>
+<td class="light-letter-left-border">ن</td>
+<td class="light-letter-left-border">ا</td>
+<td class="light-letter-left-border">ر</td>
+<td class="dark-letter-left-border">ا</td>
+<td class="light-letter-left-border">ذ</td>
+<td class="light-letter-left-border">ا</td>
+<td class="dark-letter-left-border">ت</td>
+<td class="light-letter-left-border">ل</td>
+<td class="light-letter-left-border">ه</td>
+<td class="dark-letter-left-border">ب</td>
+</tr>
+<tr class="value-row letter-value-row qamari-value-row">
+<td class="light-letter-left-border">60</td>
+<td class="light-letter-left-border">10</td>
+<td class="light-letter-left-border">90</td>
+<td class="light-letter-left-border">30</td>
+<td class="dark-letter-left-border">10</td>
+<td class="light-letter-left-border">50</td>
+<td class="light-letter-left-border">1</td>
+<td class="light-letter-left-border">200</td>
+<td class="dark-letter-left-border">1</td>
+<td class="light-letter-left-border">700</td>
+<td class="light-letter-left-border">1</td>
+<td class="dark-letter-left-border">400</td>
+<td class="light-letter-left-border">30</td>
+<td class="light-letter-left-border">5</td>
+<td class="dark-letter-left-border">2</td>
+</tr>
+<tr class="value-row letter-value-row malfuzi-value-row">
+<td class="light-letter-left-border">120</td>
+<td class="light-letter-left-border">11</td>
+<td class="light-letter-left-border">95</td>
+<td class="light-letter-left-border">71</td>
+<td class="dark-letter-left-border">11</td>
+<td class="light-letter-left-border">106</td>
+<td class="light-letter-left-border">111</td>
+<td class="light-letter-left-border">201</td>
+<td class="dark-letter-left-border">111</td>
+<td class="light-letter-left-border">731</td>
+<td class="light-letter-left-border">111</td>
+<td class="dark-letter-left-border">401</td>
+<td class="light-letter-left-border">71</td>
+<td class="light-letter-left-border">6</td>
+<td class="dark-letter-left-border">3</td>
+</tr>
+<tr class="word-row">
+<td colspan=5>سَيَصْلَىٰ</td>
+<td colspan=4>نَارًا</td>
+<td colspan=3>ذَاتَ</td>
+<td colspan=3>لَهَبٍ</td>
 </tr>
 <tr class="value-row qamari-value-row">
-<td>200</td>
-<td>252</td>
-<td>1101</td>
-<td>37</td>
+<td colspan=5>200</td>
+<td colspan=4>252</td>
+<td colspan=3>1101</td>
+<td colspan=3>37</td>
 </tr>
 <tr class="value-row malfuzi-value-row">
-<td>308</td>
-<td>529</td>
-<td>1243</td>
-<td>80</td>
+<td colspan=5>308</td>
+<td colspan=4>529</td>
+<td colspan=3>1243</td>
+<td colspan=3>80</td>
 </tr>
 </table>
 
@@ -635,31 +814,85 @@
         <div class="verse-section">
             
         <div class="verse-container">
-            
-            
             <div class="original-text">
                 <p class="arabic-text">وَامْرَأَتُهُۥ حَمَّالَةَ الْحَطَبِ <span class='ayah-marker'>4</span></p>
-                
             </div>
         </div>
         
             
         <div class="calculation">
-            <table class="letter-table">
-<tr class="letter-row">
-<td>وَامْرَأَتُهُۥ</td>
-<td>حَمَّالَةَ</td>
-<td>الْحَطَبِ</td>
+            <table class="qamari-malfuzi-table">
+<tr class="letter-row letter-value-row">
+<td class="light-letter-left-border">و</td>
+<td class="light-letter-left-border">ا</td>
+<td class="light-letter-left-border">م</td>
+<td class="light-letter-left-border">ر</td>
+<td class="light-letter-left-border">أ</td>
+<td class="light-letter-left-border">ت</td>
+<td class="dark-letter-left-border">ه</td>
+<td class="light-letter-left-border">ح</td>
+<td class="light-letter-left-border">م</td>
+<td class="light-letter-left-border">ا</td>
+<td class="light-letter-left-border">ل</td>
+<td class="dark-letter-left-border">ة</td>
+<td class="light-letter-left-border">ا</td>
+<td class="light-letter-left-border">ل</td>
+<td class="light-letter-left-border">ح</td>
+<td class="light-letter-left-border">ط</td>
+<td class="dark-letter-left-border">ب</td>
+</tr>
+<tr class="value-row letter-value-row qamari-value-row">
+<td class="light-letter-left-border">6</td>
+<td class="light-letter-left-border">1</td>
+<td class="light-letter-left-border">40</td>
+<td class="light-letter-left-border">200</td>
+<td class="light-letter-left-border">1</td>
+<td class="light-letter-left-border">400</td>
+<td class="dark-letter-left-border">5</td>
+<td class="light-letter-left-border">8</td>
+<td class="light-letter-left-border">40</td>
+<td class="light-letter-left-border">1</td>
+<td class="light-letter-left-border">30</td>
+<td class="dark-letter-left-border">5</td>
+<td class="light-letter-left-border">1</td>
+<td class="light-letter-left-border">30</td>
+<td class="light-letter-left-border">8</td>
+<td class="light-letter-left-border">9</td>
+<td class="dark-letter-left-border">2</td>
+</tr>
+<tr class="value-row letter-value-row malfuzi-value-row">
+<td class="light-letter-left-border">13</td>
+<td class="light-letter-left-border">111</td>
+<td class="light-letter-left-border">90</td>
+<td class="light-letter-left-border">201</td>
+<td class="light-letter-left-border">111</td>
+<td class="light-letter-left-border">401</td>
+<td class="dark-letter-left-border">6</td>
+<td class="light-letter-left-border">9</td>
+<td class="light-letter-left-border">90</td>
+<td class="light-letter-left-border">111</td>
+<td class="light-letter-left-border">71</td>
+<td class="dark-letter-left-border">6</td>
+<td class="light-letter-left-border">111</td>
+<td class="light-letter-left-border">71</td>
+<td class="light-letter-left-border">9</td>
+<td class="light-letter-left-border">10</td>
+<td class="dark-letter-left-border">3</td>
+</tr>
+<tr class="word-row">
+<td colspan=7>وَامْرَأَتُهُۥ</td>
+<td colspan=5>حَمَّالَةَ</td>
+<td colspan=5>الْحَطَبِ</td>
 </tr>
 <tr class="value-row qamari-value-row">
-<td>653</td>
-<td>84</td>
-<td>50</td>
+<td colspan=7>653</td>
+<td colspan=5>84</td>
+<td colspan=5>50</td>
 </tr>
 <tr class="value-row malfuzi-value-row">
-<td>933</td>
-<td>287</td>
-<td>204</td>
+<td colspan=7>933</td>
+<td colspan=5>287</td>
+<td colspan=5>204</td>
 </tr>
 </table>
 
@@ -689,37 +922,85 @@
         <div class="verse-section">
             
         <div class="verse-container">
-            
-            
             <div class="original-text">
                 <p class="arabic-text">فِي جِيدِهَا حَبْلٌ مِّن مَّسَدٍ <span class='ayah-marker'>5</span></p>
-                
             </div>
         </div>
         
             
         <div class="calculation">
-            <table class="letter-table">
-<tr class="letter-row">
-<td>فِي</td>
-<td>جِيدِهَا</td>
-<td>حَبْلٌ</td>
-<td>مِّن</td>
-<td>مَّسَدٍ</td>
+            <table class="qamari-malfuzi-table">
+<tr class="letter-row letter-value-row">
+<td class="light-letter-left-border">ف</td>
+<td class="dark-letter-left-border">ي</td>
+<td class="light-letter-left-border">ج</td>
+<td class="light-letter-left-border">ي</td>
+<td class="light-letter-left-border">د</td>
+<td class="light-letter-left-border">ه</td>
+<td class="dark-letter-left-border">ا</td>
+<td class="light-letter-left-border">ح</td>
+<td class="light-letter-left-border">ب</td>
+<td class="dark-letter-left-border">ل</td>
+<td class="light-letter-left-border">م</td>
+<td class="dark-letter-left-border">ن</td>
+<td class="light-letter-left-border">م</td>
+<td class="light-letter-left-border">س</td>
+<td class="dark-letter-left-border">د</td>
+</tr>
+<tr class="value-row letter-value-row qamari-value-row">
+<td class="light-letter-left-border">80</td>
+<td class="dark-letter-left-border">10</td>
+<td class="light-letter-left-border">3</td>
+<td class="light-letter-left-border">10</td>
+<td class="light-letter-left-border">4</td>
+<td class="light-letter-left-border">5</td>
+<td class="dark-letter-left-border">1</td>
+<td class="light-letter-left-border">8</td>
+<td class="light-letter-left-border">2</td>
+<td class="dark-letter-left-border">30</td>
+<td class="light-letter-left-border">40</td>
+<td class="dark-letter-left-border">50</td>
+<td class="light-letter-left-border">40</td>
+<td class="light-letter-left-border">60</td>
+<td class="dark-letter-left-border">4</td>
+</tr>
+<tr class="value-row letter-value-row malfuzi-value-row">
+<td class="light-letter-left-border">81</td>
+<td class="dark-letter-left-border">11</td>
+<td class="light-letter-left-border">53</td>
+<td class="light-letter-left-border">11</td>
+<td class="light-letter-left-border">35</td>
+<td class="light-letter-left-border">6</td>
+<td class="dark-letter-left-border">111</td>
+<td class="light-letter-left-border">9</td>
+<td class="light-letter-left-border">3</td>
+<td class="dark-letter-left-border">71</td>
+<td class="light-letter-left-border">90</td>
+<td class="dark-letter-left-border">106</td>
+<td class="light-letter-left-border">90</td>
+<td class="light-letter-left-border">120</td>
+<td class="dark-letter-left-border">35</td>
+</tr>
+<tr class="word-row">
+<td colspan=2>فِي</td>
+<td colspan=5>جِيدِهَا</td>
+<td colspan=3>حَبْلٌ</td>
+<td colspan=2>مِّن</td>
+<td colspan=3>مَّسَدٍ</td>
 </tr>
 <tr class="value-row qamari-value-row">
-<td>90</td>
-<td>23</td>
-<td>40</td>
-<td>90</td>
-<td>104</td>
+<td colspan=2>90</td>
+<td colspan=5>23</td>
+<td colspan=3>40</td>
+<td colspan=2>90</td>
+<td colspan=3>104</td>
 </tr>
 <tr class="value-row malfuzi-value-row">
-<td>92</td>
-<td>216</td>
-<td>83</td>
-<td>196</td>
-<td>245</td>
+<td colspan=2>92</td>
+<td colspan=5>216</td>
+<td colspan=3>83</td>
+<td colspan=2>196</td>
+<td colspan=3>245</td>
 </tr>
 </table>
 
