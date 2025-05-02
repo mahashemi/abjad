@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Quran Output Files</title>
+  <style>
+    body { font-family: sans-serif; padding: 2rem; }
+    ul   { list-style: none; padding: 0; }
+    li   { margin: .5rem 0; }
+    a    { text-decoration: none; color: #0366d6; }
+    a:hover { text-decoration: underline; }
+  </style>
+</head>
+<body>
+  <h1>Quran HTML Files</h1>
+  <p>Automatically pulled from <code>output/quran</code> in your repo:</p>
+  <ul id="file-list">
+    <li>Loading…</li>
+  </ul>
+
+  <script>
+    const USER    = 'mahashemi';   
+    const REPO    = 'abjad';       
+    const FOLDER  = 'output/quran';
+
+    fetch(`https://api.github.com/repos/${USER}/${REPO}/contents/${FOLDER}`)
+      .then(r => {
+        if (!r.ok) throw new Error(r.status + ' ' + r.statusText);
+        return r.json();
+      })
+      .then(files => {
+        const ul = document.getElementById('file-list');
+        ul.innerHTML = '';        // clear “Loading…”
+        files
+          .filter(f => f.name.toLowerCase().endsWith('.html'))
+          .forEach(f => {
+            const li = document.createElement('li');
+            const a  = document.createElement('a');
+            // Link to GitHub’s blob view; change to raw_url if you want the raw HTML
+            a.href = f.html_url;
+            a.textContent = f.name;
+            li.appendChild(a);
+            ul.appendChild(li);
+          });
+      })
+      .catch(err => {
+        document.getElementById('file-list').innerHTML =
+          `<li style="color: red">Error: ${err.message}</li>`;
+        console.error(err);
+      });
+  </script>
+</body>
+</html>
