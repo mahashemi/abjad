@@ -36,7 +36,7 @@
       const REPO = "quran"; // ← your repo name
       const FOLDER = "output/quran"; // ← path under repo root
 
-      fetch(`https://api.github.com/repos/${USER}/${REPO}/contents/${FOLDER}`)
+      fetch(`https://api.github.com/repos/${USER}/${REPO}/${FOLDER}`)
         .then((r) => (r.ok ? r.json() : Promise.reject(r.statusText)))
         .then((files) => {
           const ul = document.getElementById("file-list");
