@@ -41,16 +41,30 @@
         .then((files) => {
           const ul = document.getElementById("file-list");
           ul.innerHTML = "";
-          files
+
+          const htmlFiles = files
+            .filter((f) => f.name.toLowerCase().endsWith(".html"))
+            .map((f) => {
+              const match = f.name.match(/سورة\s(\d+)/); // e.g., سورة 103
+              const surahNum = match ? parseInt(match[1], 10) : 0;
+              return { ...f, surahNum };
+            })
+            .sort((a, b) => a.surahNum - b.surahNum); // sort by surah number
+
+          htmlFiles
             .filter((f) => f.name.toLowerCase().endsWith(".html"))
             .forEach((f) => {
               const li = document.createElement("li");
               const a = document.createElement("a");
+
+              // Format surah number as 3-digit string with leading zeros
+              const paddedSurah = f.surahNum.toString().padStart(3, "0");
+
               // link to the *Pages*-hosted HTML file:
               a.href = `https://${USER}.github.io/${REPO}/${FOLDER}/${encodeURIComponent(
                 f.name
               )}`;
-              a.textContent = f.name;
+              a.textContent = `[${paddedSurah}] ${f.name}`;
               // <<< open in new tab safely:
               a.target = "_blank";
               a.rel = "noopener noreferrer";
