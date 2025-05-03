@@ -63,7 +63,7 @@ quran_html_template_start = """
         }
         
         .container {
-            max-width: 900px;
+            max-width: 1020px;
             margin: 0 auto;
             background-color: #fff;
             padding: 30px;
