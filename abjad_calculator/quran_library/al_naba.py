@@ -1,7 +1,7 @@
 ayats = [
     {
         "verse_number": "1",
-        "arabic_text": "عَمَّ يَتَسَاءَلُونَ",
+        "arabic_text": "عَمَّ يَتَسَآءَلُونَ",
         "urdu_text": "کس چیز کے بارے میں آپس میں سوال کرتے ہیں؟",
         "persian_text": "از چه چیزی از یکدیگر می‌پرسند؟",
         "english_text": "What are they asking one another about?",
@@ -73,7 +73,7 @@ ayats = [
     },
     {
         "verse_number": "10",
-        "arabic_text": "وَجَعَلْنَا اللَّيْلَ لِبَاسًا",
+        "arabic_text": "وَجَعَلْنَا الَّيْلَ لِبَاسًا",
         "urdu_text": "اور رات کو ہم نے پردہ (لباس) بنایا",
         "persian_text": "و شب را پوششی برای شما قرار دادیم",
         "english_text": "And made the night as a covering,",
@@ -105,7 +105,7 @@ ayats = [
     },
     {
         "verse_number": "14",
-        "arabic_text": "وَأَنزَلْنَا مِنَ الْمُعْصِرٰتِ مَاءً ثَجَّاجًا",
+        "arabic_text": "وَأَنزَلْنَا مِنَ الْمُعْصِرٰتِ مَآءً ثَجَّاجًا",
         "urdu_text": "اور ہم نے پانی والے بادلوں سے خوب برسنے والا پانی نازل کیا",
         "persian_text": "و از ابرهای فشرده، آبی فراوان نازل کردیم",
         "english_text": "And We sent down from the rain clouds pouring water,",
@@ -113,7 +113,7 @@ ayats = [
     },
     {
         "verse_number": "15",
-        "arabic_text": "لِّنُخْرِجَ بِهِۦ حَبّٗا وَنَبَاتٗا",
+        "arabic_text": "لِّنُخْرِجَ بِهِۦ حَبًّا وَّنَبَاتًا",
         "urdu_text": "تاکہ ہم اس سے اناج اور سبزہ اگائیں",
         "persian_text": "تا از آن دانه‌ها و گیاهان برویانیم",
         "english_text": "That We may bring forth thereby grain and vegetation,",
@@ -145,7 +145,7 @@ ayats = [
     },
     {
         "verse_number": "19",
-        "arabic_text": "وَفُتِّحَتِ ٱلسَّمَآءُ فَكَانَتْ أَبْوَٰبٗا",
+        "arabic_text": "وَّفُتِحَتِ ٱلسَمَآءُ فَكَانَتْ أَبْوابًا",
         "urdu_text": "اور آسمان کھولا جائے گا تو وہ دروازے بن جائے گا",
         "persian_text": "و آسمان گشوده می‌شود و به درهایی مبدل می‌گردد",
         "english_text": "And the sky is opened and becomes gateways,",
@@ -169,7 +169,7 @@ ayats = [
     },
     {
         "verse_number": "22",
-        "arabic_text": "لِّلطَّاغِينَ مَآبًا",
+        "arabic_text": "لِّلطَّاغِينَ مَاٰبًا",
         "urdu_text": "سرکشوں کے لیے ٹھکانہ",
         "persian_text": "جایگاه بازگشت برای طغیان‌گران است",
         "english_text": "For the transgressors a place of return,",
@@ -177,7 +177,7 @@ ayats = [
     },
     {
         "verse_number": "23",
-        "arabic_text": "لَّٰبِثِينَ فِيهَا أَحْقَابًا",
+        "arabic_text": "لَّٰبِثِينَ فِيهَآ أَحْقَابًا",
         "urdu_text": "جس میں وہ مدتوں تک رہیں گے",
         "persian_text": "که در آن سال‌ها خواهند ماند",
         "english_text": "In which they will remain for ages,",
@@ -185,7 +185,7 @@ ayats = [
     },
     {
         "verse_number": "24",
-        "arabic_text": "لَا يَذُوقُونَ فِيهَا بَرْدٗا وَلَا شَرَابًا",
+        "arabic_text": "لَا يَذُوقُونَ فِيهَا بَرْدًا وَّلَا شَرَابًا",
         "urdu_text": "نہ وہ اس میں کوئی ٹھنڈک پائیں گے اور نہ کوئی مشروب",
         "persian_text": "در آن نه خنکی می‌چشند و نه نوشیدنی",
         "english_text": "They will not taste therein any coolness or drink,",
@@ -193,7 +193,7 @@ ayats = [
     },
     {
         "verse_number": "25",
-        "arabic_text": "إِلَّا حَمِيمٗا وَغَسَّاقًا",
+        "arabic_text": "اِلَّا حَمِيمًا وَّغَسَّاقًا",
         "urdu_text": "سوائے کھولتے پانی اور پیپ کے",
         "persian_text": "جز آب داغ و چرکین چیزی نمی‌نوشند",
         "english_text": "Except scalding water and pus –",
@@ -201,7 +201,7 @@ ayats = [
     },
     {
         "verse_number": "26",
-        "arabic_text": "جَزَاءٗ وِفَاقًا",
+        "arabic_text": "جَزَاءً وِفَاقًا",
         "urdu_text": "یہ بدلہ ان کے اعمال کے مطابق ہے",
         "persian_text": "پاداشی مناسب با کردارشان است",
         "english_text": "An appropriate recompense.",
@@ -209,7 +209,7 @@ ayats = [
     },
     {
         "verse_number": "27",
-        "arabic_text": "إِنَّهُمْ كَانُوا لَا يَرْجُونَ حِسَابٗا",
+        "arabic_text": "إِنَّهُمْ كَانُوا لَا يَرْجُونَ حِسَابًا",
         "urdu_text": "بے شک وہ حساب کی امید نہیں رکھتے تھے",
         "persian_text": "آنان به حساب‌رسی ایمان نداشتند",
         "english_text": "Indeed, they did not expect an account,",
@@ -217,7 +217,7 @@ ayats = [
     },
     {
         "verse_number": "28",
-        "arabic_text": "وَكَذَّبُوا۟ بِـَٔايَٰتِنَا كِذَّابٗا",
+        "arabic_text": "وَكَذَّبُوا۟ بِاٰيٰتِنَا كِذَّابًا",
         "urdu_text": "اور ہماری آیات کو جھٹلایا، جھٹلانے کی حد تک",
         "persian_text": "و آیات ما را شدیداً تکذیب کردند",
         "english_text": "And denied Our signs with [emphatic] denial.",
@@ -225,7 +225,7 @@ ayats = [
     },
     {
         "verse_number": "29",
-        "arabic_text": "وَكُلَّ شَيْءٍ أَحْصَيْنَٰهُ كِتَٰبٗا",
+        "arabic_text": "وَكُلَّ شَيْءٍ أَحْصَيْنَٰهُ كِتَٰبًا",
         "urdu_text": "اور ہم نے ہر چیز کو ایک کتاب میں گن رکھا ہے",
         "persian_text": "و هر چیز را در کتابی ثبت کرده‌ایم",
         "english_text": "But all things We have enumerated in writing.",
@@ -249,7 +249,7 @@ ayats = [
     },
     {
         "verse_number": "32",
-        "arabic_text": "حَدَآئِقَ وَأَعْنَابٗا",
+        "arabic_text": "حَدَآئِقَ وَأَعْنَابًا",
         "urdu_text": "باغات اور انگور",
         "persian_text": "باغ‌ها و انگورهایی",
         "english_text": "Gardens and grapevines",
@@ -257,7 +257,7 @@ ayats = [
     },
     {
         "verse_number": "33",
-        "arabic_text": "وَكَوَاعِبَ أَتْرَابٗا",
+        "arabic_text": "وَكَوَاعِبَ أَتْرَابًا",
         "urdu_text": "اور ہم عمر دوشیزائیں",
         "persian_text": "و دخترانی هم‌سن و سال",
         "english_text": "And full-breasted [companions] of equal age",
@@ -265,7 +265,7 @@ ayats = [
     },
     {
         "verse_number": "34",
-        "arabic_text": "وَكَأْسٗا دِهَاقٗا",
+        "arabic_text": "وَكَأْسًا دِهَاقًا",
         "urdu_text": "اور چھلکتے جام",
         "persian_text": "و جام‌هایی پر از شراب طهور",
         "english_text": "And a full cup.",
@@ -273,7 +273,7 @@ ayats = [
     },
     {
         "verse_number": "35",
-        "arabic_text": "لَّا يَسْمَعُونَ فِيهَا لَغْوٗا وَلَا كِذَّٰبًا",
+        "arabic_text": "لَّا يَسْمَعُونَ فِيهَا لَغْوًا وَّلَا كِذَّٰبًا",
         "urdu_text": "جس میں وہ نہ کوئی لغو بات سنیں گے اور نہ جھوٹ",
         "persian_text": "که در آن نه سخن بیهوده می‌شنوند و نه دروغی",
         "english_text": "No ill speech will they hear therein or any falsehood –",
@@ -281,7 +281,7 @@ ayats = [
     },
     {
         "verse_number": "36",
-        "arabic_text": "جَزَآءٗ مِّن رَّبِّكَ عَطَآءً حِسَابٗا",
+        "arabic_text": "جَزَآءٗ مِّن رَّبِّكَ عَطَآءً حِسَابًا",
         "urdu_text": "یہ آپ کے رب کی طرف سے بدلہ ہے، کافی عطیہ",
         "persian_text": "پاداشی از پروردگارت، عطایی بسنده",
         "english_text": "A reward from your Lord, [a generous] gift [made due to] account,",
@@ -289,7 +289,7 @@ ayats = [
     },
     {
         "verse_number": "37",
-        "arabic_text": "رَّبِّ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَمَا بَيْنَهُمَا ٱلرَّحْمَٰنِ لَا يَمْلِكُونَ مِنْهُ خِطَابٗا",
+        "arabic_text": "رَّبِّ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَمَا بَيْنَهُمَا ٱلرَّحْمَٰنِ لَا يَمْلِكُونَ مِنْهُ خِطَابًا",
         "urdu_text": "جو آسمانوں اور زمین اور ان کے درمیان کی ہر چیز کا رب ہے، رحمٰن ہے، لوگ اس سے بات کرنے کا اختیار نہ رکھیں گے",
         "persian_text": "پروردگار آسمان‌ها و زمین و آنچه میان آن‌هاست، بخشاینده‌ای که کسی یارای سخن گفتن با او را ندارد",
         "english_text": "Lord of the heavens and the earth and whatever is between them – the Most Merciful. They do not possess from Him [the authority for] speech.",
@@ -297,7 +297,7 @@ ayats = [
     },
     {
         "verse_number": "38",
-        "arabic_text": "يَوْمَ يَقُومُ ٱلرُّوحُ وَٱلْمَلَٰٓئِكَةُ صَفّٗاۖ لَّا يَتَكَلَّمُونَ إِلَّا مَنْ أَذِنَ لَهُ ٱلرَّحْمَٰنُ وَقَالَ صَوَابٗا",
+        "arabic_text": "يَوْمَ يَقُومُ ٱلرُّوحُ وَٱلْمَلَٰٓئِكَةُ صَفّٗاۖ لَّا يَتَكَلَّمُونَ إِلَّا مَنْ أَذِنَ لَهُ ٱلرَّحْمَٰنُ وَقَالَ صَوَابًا",
         "urdu_text": "جس دن روح اور فرشتے صف باندھ کر کھڑے ہوں گے، کوئی نہیں بولے گا سوائے جسے رحمٰن اجازت دے اور وہ درست بات کہے",
         "persian_text": "روزی که روح و فرشتگان صف در صف می‌ایستند، جز کسی که خدای رحمان به او اجازه دهد و سخن راست بگوید، کسی سخن نگوید",
         "english_text": "The Day that the Spirit and the angels will stand in rows, they will not speak except for one whom the Most Merciful permits, and he will say what is correct.",
@@ -313,7 +313,7 @@ ayats = [
     },
     {
         "verse_number": "40",
-        "arabic_text": "إِنَّآ أَنذَرْنَٰكُمْ عَذَابٗا قَرِيبٗاۖ يَوْمَ يَنظُرُ ٱلْمَرْءُ مَا قَدَّمَتْ يَدٰهُ وَيَقُولُ ٱلْكٰفِرُ يَٰلَيْتَنِي كُنتُ تُرَٰبٗا",
+        "arabic_text": "إِنَّآ أَنذَرْنَٰكُمْ عَذَابًا قَرِيبًاۖ يَوْمَ يَنظُرُ ٱلْمَرْءُ مَا قَدَّمَتْ يَدٰهُ وَيَقُولُ ٱلْكٰفِرُ يَٰلَيْتَنِي كُنتُ تُرَٰبٗا",
         "urdu_text": "بے شک ہم نے تمہیں ایک قریب آنے والے عذاب سے خبردار کیا ہے، جس دن انسان دیکھے گا جو اس کے ہاتھوں نے آگے بھیجا، اور کافر کہے گا، کاش میں مٹی ہوتا",
         "persian_text": "ما شما را از عذابی نزدیک هشدار دادیم؛ روزی که انسان آنچه را دست‌هایش پیش فرستاده‌اند می‌بیند و کافر می‌گوید: ای کاش خاک بودم!",
         "english_text": "Indeed, We have warned you of a near punishment – the Day when a man will observe what his hands have put forth and the disbeliever will say, 'Oh, I wish that I were dust!'",
