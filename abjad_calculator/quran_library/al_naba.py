@@ -41,7 +41,7 @@ ayats = [
     },
     {
         "verse_number": "6",
-        "arabic_text": "أَلَمْ نَجْعَلِ الْأَرْضَ مِهَـٰدًا",
+        "arabic_text": "أَلَمْ نَجْعَلِ الْأَرْضَ مِهٰدًا",
         "urdu_text": "کیا ہم نے زمین کو فرش نہیں بنایا؟",
         "persian_text": "آیا زمین را بستر (آسایش) قرار ندادیم؟",
         "english_text": "Have We not made the earth as a cradle?",
@@ -57,7 +57,7 @@ ayats = [
     },
     {
         "verse_number": "8",
-        "arabic_text": "وَخَلَقْنَـٰكُمْ أَزْوَاجًا",
+        "arabic_text": "وَخَلَقْنٰكُمْ أَزْوَاجًا",
         "urdu_text": "اور ہم نے تمہیں جوڑے جوڑے پیدا کیا",
         "persian_text": "و شما را جفت‌جفت آفریدیم",
         "english_text": "And We created you in pairs,",
@@ -105,7 +105,7 @@ ayats = [
     },
     {
         "verse_number": "14",
-        "arabic_text": "وَأَنزَلْنَا مِنَ الْمُعْصِرـٰتِ مَاءً ثَجَّاجًا",
+        "arabic_text": "وَأَنزَلْنَا مِنَ الْمُعْصِرٰتِ مَاءً ثَجَّاجًا",
         "urdu_text": "اور ہم نے پانی والے بادلوں سے خوب برسنے والا پانی نازل کیا",
         "persian_text": "و از ابرهای فشرده، آبی فراوان نازل کردیم",
         "english_text": "And We sent down from the rain clouds pouring water,",
@@ -121,7 +121,7 @@ ayats = [
     },
     {
         "verse_number": "16",
-        "arabic_text": "وَجَنَّـٰتٍ أَلْفَافًا",
+        "arabic_text": "وَجَنَّٰتٍ أَلْفَافًا",
         "urdu_text": "اور گھنے باغات پیدا کریں",
         "persian_text": "و باغ‌هایی پرشاخ و برگ برویانیم",
         "english_text": "And gardens of thick growth.",
@@ -177,7 +177,7 @@ ayats = [
     },
     {
         "verse_number": "23",
-        "arabic_text": "لَّـٰبِثِينَ فِيهَا أَحْقَابًا",
+        "arabic_text": "لَّٰبِثِينَ فِيهَا أَحْقَابًا",
         "urdu_text": "جس میں وہ مدتوں تک رہیں گے",
         "persian_text": "که در آن سال‌ها خواهند ماند",
         "english_text": "In which they will remain for ages,",
@@ -313,7 +313,7 @@ ayats = [
     },
     {
         "verse_number": "40",
-        "arabic_text": "إِنَّآ أَنذَرْنَٰكُمْ عَذَابٗا قَرِيبٗاۖ يَوْمَ يَنظُرُ ٱلْمَرْءُ مَا قَدَّمَتْ يَدـٰهُ وَيَقُولُ ٱلْكَـٰفِرُ يَٰلَيْتَنِي كُنتُ تُرَٰبٗا",
+        "arabic_text": "إِنَّآ أَنذَرْنَٰكُمْ عَذَابٗا قَرِيبٗاۖ يَوْمَ يَنظُرُ ٱلْمَرْءُ مَا قَدَّمَتْ يَدٰهُ وَيَقُولُ ٱلْكٰفِرُ يَٰلَيْتَنِي كُنتُ تُرَٰبٗا",
         "urdu_text": "بے شک ہم نے تمہیں ایک قریب آنے والے عذاب سے خبردار کیا ہے، جس دن انسان دیکھے گا جو اس کے ہاتھوں نے آگے بھیجا، اور کافر کہے گا، کاش میں مٹی ہوتا",
         "persian_text": "ما شما را از عذابی نزدیک هشدار دادیم؛ روزی که انسان آنچه را دست‌هایش پیش فرستاده‌اند می‌بیند و کافر می‌گوید: ای کاش خاک بودم!",
         "english_text": "Indeed, We have warned you of a near punishment – the Day when a man will observe what his hands have put forth and the disbeliever will say, 'Oh, I wish that I were dust!'",
