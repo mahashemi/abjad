@@ -1,7 +1,7 @@
 ayats = [
     {
         "verse_number": "1",
-        "arabic_text": "وَٱلنَّٰزِعٰتِ غَرْقًا",
+        "arabic_text": "وَٱلنّٰزِعٰتِ غَرْقًا",
         "urdu_text": "قسم ہے ان کی جو زور سے کھینچتے ہیں",
         "persian_text": "سوگند به آنانی که با شدت می‌کشند",
         "english_text": "By those who drag out (souls) with violence;",
