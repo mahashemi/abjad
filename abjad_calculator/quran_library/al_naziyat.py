@@ -9,7 +9,7 @@ ayats = [
     },
     {
         "verse_number": "2",
-        "arabic_text": "وَّٱلنَّٰشِطٰتِ نَشْطًا",
+        "arabic_text": "وَّٱلنّٰشِطٰتِ نَشْطًا",
         "urdu_text": "اور آہستگی سے کھولنے والوں کی",
         "persian_text": "و آنان که به نرمی رها می‌سازند",
         "english_text": "And by those who release gently;",
@@ -17,7 +17,7 @@ ayats = [
     },
     {
         "verse_number": "3",
-        "arabic_text": "وَّٱلسَّٰبِحٰتِ سَبْحًا",
+        "arabic_text": "وَّٱلسّٰبِحٰتِ سَبْحًا",
         "urdu_text": "اور ان کی جو تیرتی ہیں",
         "persian_text": "و آنان که شناکنان می‌روند",
         "english_text": "And by those who glide along (on errands of mercy),",
@@ -25,7 +25,7 @@ ayats = [
     },
     {
         "verse_number": "4",
-        "arabic_text": "فَالسَّٰبِقٰتِ سَبْقًا",
+        "arabic_text": "فَالسّٰبِقٰتِ سَبْقًا",
         "urdu_text": "پھر سبقت کرنے والوں کی",
         "persian_text": "پس آنانی که پیشی می‌گیرند",
         "english_text": "Then those who race ahead,",
@@ -33,7 +33,7 @@ ayats = [
     },
     {
         "verse_number": "5",
-        "arabic_text": "فَالْمُدَبِّرَٰتِ أَمْرًا",
+        "arabic_text": "فَالْمُدَبِّرٰتِ أَمْرًا",
         "urdu_text": "پھر وہ جو کام کو سنوارتے ہیں",
         "persian_text": "و آنان که تدبیر می‌کنند کارها را",
         "english_text": "Then those who arrange affairs (according to a plan)",
