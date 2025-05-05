@@ -57,7 +57,7 @@ ayats = [
     },
     {
         "verse_number": "8",
-        "arabic_text": "قُلُوبٌۭ يَوْمَئِذٍۢ وَّاجِفَةٌ",
+        "arabic_text": "قُلُوبٌ يَوْمَئِذٍ وَّاجِفَةٌ",
         "urdu_text": "اس دن دل لرز جایئنگے",
         "persian_text": "دل‌هایی در آن روز ترسان و لرزان خواهند بود",
         "english_text": "Hearts that Day will tremble,",
@@ -65,7 +65,7 @@ ayats = [
     },
     {
         "verse_number": "9",
-        "arabic_text": "أَبْصَـارُهَا خَـاشِعَةٌۭ",
+        "arabic_text": "اَبْصَـارُهَا خَـاشِعَةٌۭ",
         "urdu_text": "ان کی آنکھیں جھکی ہوئی ہوں گی",
         "persian_text": "چشمانشان فرو افتاده و خاضع خواهد بود",
         "english_text": "Their eyes humbled.",
@@ -73,7 +73,7 @@ ayats = [
     },
     {
         "verse_number": "10",
-        "arabic_text": "يَقُولُونَ أَءِنَّا لَمَرْدُودُونَ فِى ٱلْحَافِرَةِ",
+        "arabic_text": "يَقُولُونَ اَءِنَّا لَمَرْدُودُونَ فِى الْحَافِرَةِ",
         "urdu_text": "یہ کفّار کہتے ہیں کیا ہم پلٹ کر اس دنیا میں پھر بھیجے جایئنگے ؟",
         "persian_text": "می‌گویند: آیا ما واقعاً به حالت نخستین بازگردانده می‌شویم؟",
         "english_text": "They say, 'Shall we indeed be returned to (our) former state?",
@@ -81,7 +81,7 @@ ayats = [
     },
     {
         "verse_number": "11",
-        "arabic_text": "ءِاُِذَا كُنَّا عِظَـامًا نَّخِرَةًۭ",
+        "arabic_text": "ءِاِذَا كُنَّا عِظَـامًا نَّخِرَةً",
         "urdu_text": "کیا جب ہم بوسیدہ ہڈیاں بن جائیں گے تو واپس آئیں گے؟",
         "persian_text": "آیا وقتی که ما استخوان‌هایی پوسیده شده باشیم (بازگردانده می‌شویم؟)",
         "english_text": "When we have become decayed bones?",
@@ -89,7 +89,7 @@ ayats = [
     },
     {
         "verse_number": "12",
-        "arabic_text": "قَالُوا۟ تِلْكَ إِذًا كَرَّةٌ خَاسِرَةٌۭ",
+        "arabic_text": "قَالُوا۟ تِلْكَ اِذًا كَرَّةٌ خَاسِرَةً",
         "urdu_text": "کہتے ہیں: یہ تو پھر نقصان کا لوٹایا جانا ہوگا",
         "persian_text": "می‌گویند: در این صورت این بازگشت، بازگشتی زیان‌بار خواهد بود",
         "english_text": "They say, 'Then that would be a losing return!'",
@@ -97,7 +97,7 @@ ayats = [
     },
     {
         "verse_number": "13",
-        "arabic_text": "فَاِنَّمَا هِىَ زَجْرَةٌ وَاحِدَةٌۭ",
+        "arabic_text": "فَاِنَّمَا هِىَ زَجْرَةٌ وَاحِدَةً",
         "urdu_text": "تو وہ صرف ایک زوردار آواز ہوگی",
         "persian_text": "در حقیقت فقط یک صیحه (بانگ آسمانی) خواهد بود",
         "english_text": "But it will be only one shout,",
@@ -105,7 +105,7 @@ ayats = [
     },
     {
         "verse_number": "14",
-        "arabic_text": "فَاِذَا هُم بِٱلسَّاهِرَةِ",
+        "arabic_text": "فَاِذَا هُم بِالسَّاهِرَةِ",
         "urdu_text": "جس کے بعد سب میدان حشر میں نظر آیینگے",
         "persian_text": "پس ناگهان آن‌ها در فضای باز (زمین زنده) خواهند بود",
         "english_text": "When behold, they will be on the surface (of the earth).",
@@ -113,7 +113,7 @@ ayats = [
     },
     {
         "verse_number": "15",
-        "arabic_text": "هَلْ أَتٰكَ حَدِيثُ مُوسىٰٓ",
+        "arabic_text": "هَلْ أَتٰكَ حَدِيثُ مُوسٰى",
         "urdu_text": "کیا تمہارے پاس موسیٰ کی خبر پہنچی؟",
         "persian_text": "آیا خبر موسیٰ به تو رسیده است؟",
         "english_text": "Has the story of Moses reached you?",
@@ -121,7 +121,7 @@ ayats = [
     },
     {
         "verse_number": "16",
-        "arabic_text": "إِذْ نَادٰهُ رَبُّهُۥ بِٱلْوَادِ ٱلْمُقَدَّسِ طُوًى",
+        "arabic_text": "اِذْ نَادٰهُ رَبُّهۥ بِالْوَادِ الْمُقَدَّسِ طُوًى",
         "urdu_text": "جب اس کے رب نے اسے پاک وادی طویٰ میں پکارا",
         "persian_text": "هنگامی که پروردگارش او را در وادی مقدس طوی ندا داد",
         "english_text": "When his Lord called to him in the sacred valley of Tuwa:",
@@ -129,7 +129,7 @@ ayats = [
     },
     {
         "verse_number": "17",
-        "arabic_text": "ٱذْهَبْ إِلَىٰ فِرْعَوْنَ إِنَّهُۥ طَغىٰ",
+        "arabic_text": "اِذْهَبْ إِلٰى فِرْعَوْنَ اِنَّهُۥ طَغٰى",
         "urdu_text": " فرعون کے پاس جا، بے شک وہ سرکشی ہو گیا ہے  ہے",
         "persian_text": "برو به سوی فرعون، زیرا که او طغیان کرده است",
         "english_text": "Go to Pharaoh. Indeed, he has transgressed.",
@@ -137,7 +137,7 @@ ayats = [
     },
     {
         "verse_number": "18",
-        "arabic_text": "فَقُلْ هَل لَّكَ اِلَىٰٓ اَن تَزَكّىٰ",
+        "arabic_text": "فَقُلْ هَل لَّكَ اِلَىٰٓ اَن تَزَكّٰى",
         "urdu_text": "کہو کیا یہ ممکن ہے تو پاکیزہ کردار ہو جاؤ",
         "persian_text": "پس بگو: آیا میل داری که پاک شوی؟",
         "english_text": "And say, 'Would you be willing to purify yourself",
@@ -145,7 +145,7 @@ ayats = [
     },
     {
         "verse_number": "19",
-        "arabic_text": "وَاَهْدِيَكَ اِلٰى رَبِّكَ فَتَخْشىٰ",
+        "arabic_text": "وَاَهْدِيَكَ اِلٰى رَبِّكَ فَتَخْشٰى",
         "urdu_text": "اور میں تجھے تیرے رب کی طرف رہنمائی کروں تاکہ تو ڈر جائے؟",
         "persian_text": "و تو را به سوی پروردگارت هدایت کنم تا بترسی؟",
         "english_text": "And let me guide you to your Lord so you would fear [Him]?'",
@@ -153,7 +153,7 @@ ayats = [
     },
     {
         "verse_number": "20",
-        "arabic_text": "فَاَرٰهُ ٱلْاٰيَةَ ٱلْكُبْرىٰ",
+        "arabic_text": "فَاَرٰهُ الْاٰيَةَ الْكُبْرٰى",
         "urdu_text": "پھر اُس نے اسے بڑی نشانی دکھائی",
         "persian_text": "پس (موسیٰ) بزرگ‌ترین نشانه را به او نشان داد",
         "english_text": "And he showed him the greatest sign.",
@@ -161,7 +161,7 @@ ayats = [
     },
     {
         "verse_number": "21",
-        "arabic_text": "فَكَذَّبَ وَعَصىٰ",
+        "arabic_text": "فَكَذَّبَ وَ عَصٰى",
         "urdu_text": "پس اس نے جھٹلایا اور نافرمانی کی",
         "persian_text": "اما او تکذیب کرد و نافرمانی نمود",
         "english_text": "But [Pharaoh] denied and disobeyed.",
@@ -169,7 +169,7 @@ ayats = [
     },
     {
         "verse_number": "22",
-        "arabic_text": "ثُمَّ أَدْبَرَ يَسْعىٰ",
+        "arabic_text": "ثُمَّ اَدْبَرَ يَسْعٰى",
         "urdu_text": "پھر پیٹھ موڑ کر دوڑنے لگا",
         "persian_text": "سپس پشت کرد و کوشید (برای مخالفت)",
         "english_text": "Then he turned back, striving.",
@@ -177,7 +177,7 @@ ayats = [
     },
     {
         "verse_number": "23",
-        "arabic_text": "فَحَشَرَ فَنَادىٰ",
+        "arabic_text": "فَحَشَرَ فَنَادٰى",
         "urdu_text": "پھر اس نے لوگوں کو جمع کیا اور پکارا",
         "persian_text": "آنگاه مردم را گرد آورد و ندا داد",
         "english_text": "And he gathered [his people] and called out",
@@ -185,7 +185,7 @@ ayats = [
     },
     {
         "verse_number": "24",
-        "arabic_text": "فَقَالَ اَنَا رَبُّكُمُ ٱلْأَعْلىٰ",
+        "arabic_text": "فَقَالَ اَنَا رَبُّكُمُ الْأَعْلٰى",
         "urdu_text": "اور کہا: میں ہی تمہارا سب سے بڑا رب ہوں",
         "persian_text": "و گفت: من پروردگار برتر شما هستم",
         "english_text": "And said, 'I am your most exalted lord.'",
@@ -193,7 +193,7 @@ ayats = [
     },
     {
         "verse_number": "25",
-        "arabic_text": "فَاَخَذَهُ ٱللَّهُ نَكَالَ ٱلْاٰخِرَةِ وَٱلْأُولىٰٓ",
+        "arabic_text": "فَاَخَذَهُ اللَّهُ نَكَالَ الْاٰخِرَةِ وَ الْأُولٰى",
         "urdu_text": "تو اللہ نے اسے آخرت اور دنیا دونوں کی سزا میں پکڑ لیا",
         "persian_text": "پس خداوند او را به عذاب آخرت و دنیا گرفت",
         "english_text": "So Allah seized him for punishment in the Hereafter and the first [life].",
@@ -201,7 +201,7 @@ ayats = [
     },
     {
         "verse_number": "26",
-        "arabic_text": "اِنَّ فِى ذٰلِكَ لَعِبْرَةً لِِّمَن يَّخْشىٰ",
+        "arabic_text": "اِنَّ فِى ذٰلِكَ لَعِبْرَةً لِِّمَن يَّخْشٰى",
         "urdu_text": "یقیناً اس میں عبرت ہے اس کے لیے جو ڈرتا ہے",
         "persian_text": "در این ماجرا عبرتی است برای کسی که می‌ترسد",
         "english_text": "Indeed in that is a lesson for whoever would fear [Allah].",
@@ -209,7 +209,7 @@ ayats = [
     },
     {
         "verse_number": "27",
-        "arabic_text": "ءَاَنتُمْ اَشَدُّ خَلْقًا أَمِ ٱلسَّمَآءُۚ بَنٰهَا",
+        "arabic_text": "ءَاَنتُمْ اَشَدُّ خَلْقًا امِ السَّمَآءُ بَنٰهَا",
         "urdu_text": "کیا تمہارا بنانا زیادہ سخت ہے یا آسمان کا؟ اسی نے اسے بنایا",
         "persian_text": "آیا آفرینش شما سخت‌تر است یا آسمان؟ او آن را بنا کرد",
         "english_text": "Are you a more difficult creation or is the heaven? He constructed it.",
@@ -225,7 +225,7 @@ ayats = [
     },
     {
         "verse_number": "29",
-        "arabic_text": "وَاَغْطَشَ لَيْلَهَا وَأَخْرَجَ ضُحٰهَا",
+        "arabic_text": "وَاَغْطَشَ لَيْلَهَا وَاَخْرَجَ ضُحٰهَا",
         "urdu_text": "اور اس کی رات کو تاریک بنایا اور اس کا دن نکالا",
         "persian_text": "شب آن را تیره و تار کرد و روز آن را آشکار ساخت",
         "english_text": "And He darkened its night and extracted its brightness.",
@@ -233,7 +233,7 @@ ayats = [
     },
     {
         "verse_number": "30",
-        "arabic_text": "وَاَلْاَرْضَ بَعْدَ ذَٰلِكَ دَحٰهَآ",
+        "arabic_text": "وَاَلْاَرْضَ بَعْدَ ذٰلِكَ دَحٰهَا",
         "urdu_text": "اور زمین کو اس کے بعد پھیلایا",
         "persian_text": "و زمین را بعد از آن گسترش داد",
         "english_text": "And after that He spread the earth.",
@@ -265,7 +265,7 @@ ayats = [
     },
     {
         "verse_number": "34",
-        "arabic_text": "فَاِذَا جَآءَتِ اَلطَّآمَّةُ اَلْكُبْرىٰ",
+        "arabic_text": "فَاِذَا جَآءَتِ اَلطَّآمَّةُ اَلْكُبْرٰى",
         "urdu_text": "پھر جب وہ سب سے بڑی آفت آ جائے گی",
         "persian_text": "پس زمانی که آن فاجعه بزرگ فرا رسد",
         "english_text": "But when there comes the greatest overwhelming calamity –",
@@ -297,7 +297,7 @@ ayats = [
     },
     {
         "verse_number": "38",
-        "arabic_text": "وَاٰثَرَ ٱلْحَيٰوةَ الدُّنْيَا",
+        "arabic_text": "وَاٰثَرَ الْحَيٰوةَ الدُّنْيَا",
         "urdu_text": "اور دنیا کی زندگی کو ترجیح دی",
         "persian_text": "و زندگی دنیا را ترجیح داد",
         "english_text": "And preferred the life of the world,",
@@ -305,7 +305,7 @@ ayats = [
     },
     {
         "verse_number": "39",
-        "arabic_text": "فَاِنَّ ٱلْجَحِيمَ هِىَ ٱلْمَأْوٰى",
+        "arabic_text": "فَاِنَّ الْجَحِيمَ هِىَ الْمَاْوٰى",
         "urdu_text": "تو یقیناً جہنم ہی اس کا ٹھکانا ہے",
         "persian_text": "پس یقیناً دوزخ جایگاه او خواهد بود",
         "english_text": "Then indeed, Hellfire will be [his] refuge.",
@@ -313,7 +313,7 @@ ayats = [
     },
     {
         "verse_number": "40",
-        "arabic_text": "وَاَمَّا مَنْ خَافَ مَقَامَ رَبِّهِۦ وَنَهَى اَلنَّفْسَ عَنِ ٱلْهَوٰى",
+        "arabic_text": "وَاَمَّا مَنْ خَافَ مَقَامَ رَبِّهِۦ وَنَهَى اَلنَّفْسَ عَنِ الْهَوٰى",
         "urdu_text": "اور وہ شخص جو اپنے رب کے سامنے کھڑے ہونے سے ڈرا اور نفس کو خواہش سے روکا",
         "persian_text": "و اما کسی که از ایستادن در برابر پروردگارش ترسید و نفس خود را از هوس بازداشت",
         "english_text": "But as for he who feared the standing before his Lord and restrained the soul from [its] desire,",
@@ -321,7 +321,7 @@ ayats = [
     },
     {
         "verse_number": "41",
-        "arabic_text": "فَاِنَّ الْجَنَّةَ هِىَ ٱلْمَأْوٰى",
+        "arabic_text": "فَاِنَّ الْجَنَّةَ هِىَ الْمَاْوٰى",
         "urdu_text": "تو یقیناً جنت ہی اس کا ٹھکانا ہے",
         "persian_text": "پس یقیناً بهشت جایگاه او خواهد بود",
         "english_text": "Then indeed, Paradise will be [his] refuge.",
@@ -329,7 +329,7 @@ ayats = [
     },
     {
         "verse_number": "42",
-        "arabic_text": "يَسْـَٔلُونَكَ عَنِ ٱلسَّاعَةِ اَيَّانَ مُرْسٰهَا",
+        "arabic_text": "يَسْـَٔلُونَكَ عَنِ السَّاعَةِ اَيَّانَ مُرْسٰهَا",
         "urdu_text": "وہ تم سے قیامت کے بارے میں پوچھتے ہیں، کہ وہ کب قائم ہوگی؟",
         "persian_text": "از تو درباره ساعت (قیامت) می‌پرسند که کی فرا خواهد رسید؟",
         "english_text": "They ask you, [O Muhammad], about the Hour: when is its arrival?",
@@ -337,7 +337,7 @@ ayats = [
     },
     {
         "verse_number": "43",
-        "arabic_text": "فِيمَ أَنتَ مِن ذِكْرٰهَآ",
+        "arabic_text": "فِيمَ اَنتَ مِن ذِكْرٰهَا",
         "urdu_text": "تمہیں اس کا ذکر کرنے سے کیا واسطہ؟",
         "persian_text": "تو را چه کار که از آن یاد کنی؟",
         "english_text": "In what [position] are you that you should mention it?",
