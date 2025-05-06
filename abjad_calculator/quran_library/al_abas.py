@@ -137,7 +137,7 @@ ayats = [
     },
     {
         "verse_number": "18",
-        "arabic_text": "مِنْ أَىِّ شَىْءٍ خَلَقَهُۥ",
+        "arabic_text": "مِنْ اَىِّ شَىْءٍ خَلَقَهۥ",
         "urdu_text": "کس چیز سے اسے پیدا کیا؟",
         "persian_text": "از چه چیز او را آفرید؟",
         "english_text": "From what thing did He create him?",
@@ -145,7 +145,7 @@ ayats = [
     },
     {
         "verse_number": "19",
-        "arabic_text": "مِن نُّطْفَةٍ خَلَقَهُۥ فَقَدَّرَهُۥ",
+        "arabic_text": "مِن نُّطْفَةٍ خَلَقَهۥ فَقَدَّرَهۥ",
         "urdu_text": "نطفہ سے اسے پیدا کیا، پھر اس کا اندازہ مقرر کیا",
         "persian_text": "او را از نطفه آفرید و اندازه‌اش را تعیین کرد",
         "english_text": "From a sperm-drop He created him and destined for him",
@@ -161,7 +161,7 @@ ayats = [
     },
     {
         "verse_number": "21",
-        "arabic_text": "ثُمَّ اَمَاتَهُۥ فَاَقْبَرَهُۥ",
+        "arabic_text": "ثُمَّ اَمَاتَهُۥ فَاَقْبَرَهۥ",
         "urdu_text": "پھر اسے موت دی اور قبر میں ڈالا",
         "persian_text": "سپس او را میراند و در گورش نهاد",
         "english_text": "Then He causes his death and provides a grave for him",
@@ -169,7 +169,7 @@ ayats = [
     },
     {
         "verse_number": "22",
-        "arabic_text": "ثُمَّ اِذَا شَآءَ اَنشَرَهُۥ",
+        "arabic_text": "ثُمَّ اِذَا شَآءَ اَنشَرَهۥ",
         "urdu_text": "پھر جب چاہے اسے دوبارہ زندہ کرے گا",
         "persian_text": "سپس هر گاه بخواهد او را زنده می‌گرداند",
         "english_text": "Then when He wills, He will resurrect him",
@@ -177,7 +177,7 @@ ayats = [
     },
     {
         "verse_number": "23",
-        "arabic_text": "كَلَّا لَمَّا يَقْضِ مَآ اَمَرَهُۥ",
+        "arabic_text": "كَلَّا لَمَّا يَقْضِ مَآ اَمَرَهۥ",
         "urdu_text": "ہرگز نہیں، اس نے اسنے حکم خدا کو بلکل پورا نہیں کیا ہے",
         "persian_text": "نه، او هنوز آنچه را که مأمور شده انجام نداده",
         "english_text": "No! He has not yet accomplished what He commanded him",
@@ -193,7 +193,7 @@ ayats = [
     },
     {
         "verse_number": "25",
-        "arabic_text": "اَنَّا صَبَبْنَا الْمَآءَ صَبًّۭا",
+        "arabic_text": "اَنَّا صَبَبْنَا الْمَآءَ صَبًّا",
         "urdu_text": "ہم نے خوب پانی برسایا",
         "persian_text": "ما آب را با شدت فرو ریختیم",
         "english_text": "We poured down water in abundance",
@@ -217,7 +217,7 @@ ayats = [
     },
     {
         "verse_number": "28",
-        "arabic_text": "وَّ عِنَبًا وَقَضْبًا",
+        "arabic_text": "وَّ عِنَبًا وَّ قَضْبًا",
         "urdu_text": "اور انگور اور ترکاری",
         "persian_text": "و انگور و سبزی‌ها",
         "english_text": "And grapes and herbage",
@@ -225,7 +225,7 @@ ayats = [
     },
     {
         "verse_number": "29",
-        "arabic_text": "وَّ زَيْتُونًا وَّنَخْلًا",
+        "arabic_text": "وَّ زَيْتُونًا وَّ نَخْلًا",
         "urdu_text": "اور زیتون اور کھجوریں",
         "persian_text": "و زیتون و خرما",
         "english_text": "And olives and palm trees",
