@@ -9,7 +9,7 @@ ayats = [
     },
     {
         "verse_number": "2",
-        "arabic_text": "أَن جَآءَهُ ٱلْأَعْمَىٰ",
+        "arabic_text": "اَن جَآءَهُ اَلْاَعْمٰى",
         "urdu_text": "کہ اس کے پاس ایک نابینا آیا",
         "persian_text": "از آن رو که نابینایی نزد او آمد",
         "english_text": "Because there came to him the blind man",
@@ -25,7 +25,7 @@ ayats = [
     },
     {
         "verse_number": "4",
-        "arabic_text": "أَوْ يَذَّكَّرُ فَتَنفَعَهُ ٱلذِّكْرَىٰٓ",
+        "arabic_text": "أَوْ يَذَّكَّرُ فَتَنفَعَهُ ٱلذِّكْرٰى",
         "urdu_text": "یا وہ نصیحت حاصل کرے اور نصیحت اس کو فائدہ دے",
         "persian_text": "یا پند گیرد، و پند به او سود رساند",
         "english_text": "Or be reminded and the remembrance would benefit him?",
@@ -33,7 +33,7 @@ ayats = [
     },
     {
         "verse_number": "5",
-        "arabic_text": "أَمَّا مَنِ ٱسْتَغْنَىٰ",
+        "arabic_text": "اَمَّا مَنِ اسْتَغْنٰى",
         "urdu_text": "لیکن وہ شخص جو بےپروا ہے",
         "persian_text": "اما آن کسی که خود را بی‌نیاز می‌پندارد",
         "english_text": "As for he who thinks himself without need",
@@ -41,7 +41,7 @@ ayats = [
     },
     {
         "verse_number": "6",
-        "arabic_text": "فَأَنتَ لَهُۥ تَصَدَّىٰ",
+        "arabic_text": "فَاَنتَ لَهُۥ تَصَدَّى",
         "urdu_text": "آپ اسکی فکر میں لگے ہوے ہیں",
         "persian_text": "تو به او روی می‌آوری",
         "english_text": "To him you give attention",
@@ -49,7 +49,7 @@ ayats = [
     },
     {
         "verse_number": "7",
-        "arabic_text": "وَمَا عَلَيْكَ أَلَّا يَزَّكَّىٰ",
+        "arabic_text": "وَمَا عَلَيْكَ اَلَّا يَزَّكَّىٰ",
         "urdu_text": "حلانکے آپ پر کوئی ذمیہ داری نہین ہے اگر وہ پاکیزہ نہ بھی بنے",
         "persian_text": "در حالی‌که بر تو نیست اگر او پاک نشود",
         "english_text": "Though there is no blame on you if he will not be purified",
@@ -57,7 +57,7 @@ ayats = [
     },
     {
         "verse_number": "8",
-        "arabic_text": "وَأَمَّا مَن جَآءَكَ يَسْعَىٰ",
+        "arabic_text": "وَاَمَّا مَن جَآءَكَ يَسْعَىٰ",
         "urdu_text": "اور جو تمہارے پاس دوڑتا ہوا آیا",
         "persian_text": "اما آن کسی که با شتاب به سوی تو آمد",
         "english_text": "But as for he who came to you striving",
@@ -65,7 +65,7 @@ ayats = [
     },
     {
         "verse_number": "9",
-        "arabic_text": "وَهُوَ يَخْشَىٰ",
+        "arabic_text": "وَهُوَ يَخْشٰى",
         "urdu_text": "اور وہ ڈر بھی رہا تھا",
         "persian_text": "در حالی که می‌ترسید",
         "english_text": "While he fears [Allah]",
@@ -73,7 +73,7 @@ ayats = [
     },
     {
         "verse_number": "10",
-        "arabic_text": "فَأَنتَ عَنْهُ تَلَهَّىٰ",
+        "arabic_text": "فَاَنتَ عَنْهُ تَلَهّٰى",
         "urdu_text": "تو اس سے بےرخی برتتا ہے",
         "persian_text": "تو از او روی گردان هستی",
         "english_text": "From him you are distracted",
@@ -81,7 +81,7 @@ ayats = [
     },
     {
         "verse_number": "11",
-        "arabic_text": "كَلَّآ إِنَّهَا تَذْكِرَةٌۭ",
+        "arabic_text": "كَلَّآ إِنَّهَا تَذْكِرَةٌ",
         "urdu_text": "یقیناً یہ قرآن ایک نصیحت ہے",
         "persian_text": "چنین نیست، بی‌گمان آن پندی است",
         "english_text": "No! Indeed, it is a reminder",
@@ -97,7 +97,7 @@ ayats = [
     },
     {
         "verse_number": "13",
-        "arabic_text": "فِى صُحُفٍۢ مُّكَرَّمَةٍۢ",
+        "arabic_text": "فِى صُحُفٍۢ مُّكَرَّمَةٍ",
         "urdu_text": "یہ معزز صحیفوں میں ہے",
         "persian_text": "در صحیفه‌هایی گرامی‌شده است",
         "english_text": "In honored sheets",
@@ -113,7 +113,7 @@ ayats = [
     },
     {
         "verse_number": "15",
-        "arabic_text": "بِأَيْدِى سَفَرَةٍۢ",
+        "arabic_text": "بِاَيْدِى سَفَرَةٍ",
         "urdu_text": "لکھنے والوں کے ہاتھوں میں ہیں",
         "persian_text": "به دست سفیرانی (فرشتگان)",
         "english_text": "Carried by the hands of messenger-angels",
@@ -121,7 +121,7 @@ ayats = [
     },
     {
         "verse_number": "16",
-        "arabic_text": "كِرَامٍۢ بَرَرَةٍۢ",
+        "arabic_text": "كِرَامٍۢ بَرَرَةٍ",
         "urdu_text": "جو نیک اور باعزت ہیں",
         "persian_text": "نیکوکار و گرامی‌اند",
         "english_text": "Noble and righteous",
@@ -129,7 +129,7 @@ ayats = [
     },
     {
         "verse_number": "17",
-        "arabic_text": "قُتِلَ ٱلْإِنسَـٰنُ مَآ أَكْفَرَهُۥ",
+        "arabic_text": "قُتِلَ الْاِنسَانُ مَآ اَكْفَرَهُۥ",
         "urdu_text": "انسان اس بات سے مرا گیا کہ کس قدر ناشکرا ہو گیا ",
         "persian_text": "مرگ بر انسان! چه بسیار ناسپاس است",
         "english_text": "Cursed is man; how disbelieving is he!",
@@ -161,7 +161,7 @@ ayats = [
     },
     {
         "verse_number": "21",
-        "arabic_text": "ثُمَّ أَمَاتَهُۥ فَأَقْبَرَهُۥ",
+        "arabic_text": "ثُمَّ اَمَاتَهُۥ فَاَقْبَرَهُۥ",
         "urdu_text": "پھر اسے موت دی اور قبر میں ڈالا",
         "persian_text": "سپس او را میراند و در گورش نهاد",
         "english_text": "Then He causes his death and provides a grave for him",
@@ -169,7 +169,7 @@ ayats = [
     },
     {
         "verse_number": "22",
-        "arabic_text": "ثُمَّ إِذَا شَآءَ أَنشَرَهُۥ",
+        "arabic_text": "ثُمَّ اِذَا شَآءَ اَنشَرَهُۥ",
         "urdu_text": "پھر جب چاہے اسے دوبارہ زندہ کرے گا",
         "persian_text": "سپس هر گاه بخواهد او را زنده می‌گرداند",
         "english_text": "Then when He wills, He will resurrect him",
@@ -177,7 +177,7 @@ ayats = [
     },
     {
         "verse_number": "23",
-        "arabic_text": "كَلَّا لَمَّا يَقْضِ مَآ أَمَرَهُۥ",
+        "arabic_text": "كَلَّا لَمَّا يَقْضِ مَآ اَمَرَهُۥ",
         "urdu_text": "ہرگز نہیں، اس نے اسنے حکم خدا کو بلکل پورا نہیں کیا ہے",
         "persian_text": "نه، او هنوز آنچه را که مأمور شده انجام نداده",
         "english_text": "No! He has not yet accomplished what He commanded him",
@@ -185,7 +185,7 @@ ayats = [
     },
     {
         "verse_number": "24",
-        "arabic_text": "فَلْيَنظُرِ ٱلْإِنسَـٰنُ إِلَىٰ طَعَامِهِۦٓ",
+        "arabic_text": "فَلْيَنظُرِ الْاِنسَانُ اِلٰى طَعَامِهِۦٓ",
         "urdu_text": "پس انسان اپنے کھانے کی طرف دیکھے",
         "persian_text": "پس انسان باید به خوراک خود بنگرد",
         "english_text": "Then let man look at his food",
@@ -193,7 +193,7 @@ ayats = [
     },
     {
         "verse_number": "25",
-        "arabic_text": "أَنَّا صَبَبْنَا ٱلْمَآءَ صَبًّۭا",
+        "arabic_text": "اَنَّا صَبَبْنَا الْمَآءَ صَبًّۭا",
         "urdu_text": "ہم نے خوب پانی برسایا",
         "persian_text": "ما آب را با شدت فرو ریختیم",
         "english_text": "We poured down water in abundance",
@@ -201,7 +201,7 @@ ayats = [
     },
     {
         "verse_number": "26",
-        "arabic_text": "ثُمَّ شَقَقْنَا ٱلْأَرْضَ شَقًّۭا",
+        "arabic_text": "ثُمَّ شَقَقْنَا اَلْأَرْضَ شَقًّا",
         "urdu_text": "پھر زمین کو اچھی طرح چیر دیا",
         "persian_text": "سپس زمین را شکافتیم",
         "english_text": "Then We split the earth in clefts",
@@ -209,7 +209,7 @@ ayats = [
     },
     {
         "verse_number": "27",
-        "arabic_text": "فَأَنۢبَتْنَا فِيهَا حَبًّۭا",
+        "arabic_text": "فَاَنۢبَتْنَا فِيهَا حَبًّا",
         "urdu_text": "پھر اس میں اناج اگایا",
         "persian_text": "و در آن دانه‌ها رویاندیم",
         "english_text": "And caused to grow within it grain",
@@ -217,7 +217,7 @@ ayats = [
     },
     {
         "verse_number": "28",
-        "arabic_text": "وَعِنَبًۭا وَقَضْبًۭا",
+        "arabic_text": "وَّ عِنَبًا وَقَضْبًا",
         "urdu_text": "اور انگور اور ترکاری",
         "persian_text": "و انگور و سبزی‌ها",
         "english_text": "And grapes and herbage",
@@ -225,7 +225,7 @@ ayats = [
     },
     {
         "verse_number": "29",
-        "arabic_text": "وَزَيْتُونًۭا وَنَخْلًۭا",
+        "arabic_text": "وَّ زَيْتُونًا وَّنَخْلًا",
         "urdu_text": "اور زیتون اور کھجوریں",
         "persian_text": "و زیتون و خرما",
         "english_text": "And olives and palm trees",
@@ -233,7 +233,7 @@ ayats = [
     },
     {
         "verse_number": "30",
-        "arabic_text": "وَحَدَآئِقَ غُلْبًۭا",
+        "arabic_text": "وَّحَدَآئِقَ غُلْبًا",
         "urdu_text": "اور گھنے باغات",
         "persian_text": "و باغ‌هایی پر از درختان انبوه",
         "english_text": "And gardens of dense shrubbery",
@@ -241,7 +241,7 @@ ayats = [
     },
     {
         "verse_number": "31",
-        "arabic_text": "وَفَـٰكِهَةًۭ وَأَبًّۭا",
+        "arabic_text": "وَّ فَاكِهَةً وَّ اَبًّا",
         "urdu_text": "اور میوے اور چارہ",
         "persian_text": "و میوه‌ها و علف‌ها",
         "english_text": "And fruits and grass",
@@ -249,7 +249,7 @@ ayats = [
     },
     {
         "verse_number": "32",
-        "arabic_text": "مَّتَـٰعًۭا لَّكُمْ وَلِأَنْعَـٰمِكُمْ",
+        "arabic_text": "مَّتاعًا لَّكُمْ وَ لِاَنْعَامِكُمْ",
         "urdu_text": "تمہارے اور تمہارے چوپایوں کے فائدے کے لیے",
         "persian_text": "برای بهره شما و چارپایانتان",
         "english_text": "As enjoyment for you and your livestock",
@@ -257,7 +257,7 @@ ayats = [
     },
     {
         "verse_number": "33",
-        "arabic_text": "فَإِذَا جَاءَتِ ٱلصَّآخَّةُ",
+        "arabic_text": "فَاِذَا جَآءَتِ اَلصَّآخَّةُ",
         "urdu_text": "پھر جب کان پھاڑ دینے والی آواز آئے گی",
         "persian_text": "پس زمانی که بانگ گوش‌خراش فرا رسد",
         "english_text": "But when there comes the Deafening Blast (i.e., the Day of Judgement),",
@@ -265,7 +265,7 @@ ayats = [
     },
     {
         "verse_number": "34",
-        "arabic_text": "يَوْمَ يَفِرُّ ٱلْمَرْءُ مِنْ أَخِيهِ",
+        "arabic_text": "يَوْمَ يَفِرُّ الْمَرْءُ مِنْ اَخِيهِ",
         "urdu_text": "جس دن آدمی اپنے بھائی سے بھاگے گا",
         "persian_text": "روزی که انسان از برادر خود می‌گریزد",
         "english_text": "The Day when a man will flee from his brother",
@@ -273,7 +273,7 @@ ayats = [
     },
     {
         "verse_number": "35",
-        "arabic_text": "وَأُمِّهِۦ وَأَبِيهِ",
+        "arabic_text": "وَاُمِّهِۦ وَاَبِيهِ",
         "urdu_text": "اور اپنی ماں اور اپنے باپ سے",
         "persian_text": "و از مادر و پدرش می‌گریزد",
         "english_text": "And from his mother and his father",
@@ -281,7 +281,7 @@ ayats = [
     },
     {
         "verse_number": "36",
-        "arabic_text": "وَصَـٰحِبَتِهِۦ وَبَنِيهِ",
+        "arabic_text": "وَصَاحِبَتِهِۦ وَبَنِيهِ",
         "urdu_text": "اور اپنی بیوی اور اپنی اولاد سے",
         "persian_text": "و از همسر و فرزندانش می‌گریزد",
         "english_text": "And from his wife and his children",
@@ -289,7 +289,7 @@ ayats = [
     },
     {
         "verse_number": "37",
-        "arabic_text": "لِكُلِّ ٱمْرِئٍۢ مِّنْهُمْ يَوْمَئِذٍۢ شَأْنٌۭ يُغْنِيهِ",
+        "arabic_text": "لِكُلِّ ٱمْرِىً مِّنْهُمْ يَوْمَئِذٍ شَانٌ يُغْنِيهِ",
         "urdu_text": "اس دن ہر آدمی کے لئے ایک خاص فکر ہوگی جو اسکے لئے کافی ہوگی",
         "persian_text": "هر کسی از آن‌ها آن روز کاری دارد که او را به خود مشغول می‌دارد",
         "english_text": "Every man, that Day, will have enough to make him careless of others",
@@ -297,7 +297,7 @@ ayats = [
     },
     {
         "verse_number": "38",
-        "arabic_text": "وُجُوهٌۭ يَوْمَئِذٍۢ مُّسْفِرَةٌۭ",
+        "arabic_text": "وُجُوهٌ يَّوْمَئِذٍ مُّسْفِرَةٌ",
         "urdu_text": "اس دن کچھ چہرے روشن ہوں گے",
         "persian_text": "در آن روز، چهره‌هایی تابناک خواهند بود",
         "english_text": "Some faces, that Day, will be bright",
@@ -305,7 +305,7 @@ ayats = [
     },
     {
         "verse_number": "39",
-        "arabic_text": "ضَاحِكَةٌۭ مُّسْتَبْشِرَةٌۭ",
+        "arabic_text": "ضَاحِكَةٌ مُّسْتَبْشِرَةٌ",
         "urdu_text": "ہنستے ہوئے، خوشیاں مناتے ہوئے",
         "persian_text": "خندان و شادمان",
         "english_text": "Laughing, rejoicing at good news",
@@ -313,7 +313,7 @@ ayats = [
     },
     {
         "verse_number": "40",
-        "arabic_text": "وَوُجُوهٌۭ يَوْمَئِذٍ عَلَيْهَا غَبَرَةٌۭ",
+        "arabic_text": "وَوُجُوهٌ يَوْمَئِذٍ عَلَيْهَا غَبَرَةٌ",
         "urdu_text": "اور کچھ چہرے اس دن گرد آلود ہوں گے",
         "persian_text": "و چهره‌هایی در آن روز غبارآلود",
         "english_text": "And other faces, that Day, will have upon them dust",
@@ -329,7 +329,7 @@ ayats = [
     },
     {
         "verse_number": "42",
-        "arabic_text": "أُو۟لَـٰٓئِكَ هُمُ ٱلْكَفَرَةُ ٱلْفَجَرَةُ",
+        "arabic_text": "اَولٰٓئِكَ هُمُ الْكَفَرَةُ الْفَجَرَةُ",
         "urdu_text": "یہ لوگ حقیقتاً کافر اور فاجر ہوں گے",
         "persian_text": "آنان کافران گناهکارند",
         "english_text": "Those are the disbelievers, the wicked ones",
