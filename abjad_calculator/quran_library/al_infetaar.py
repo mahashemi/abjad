@@ -1,7 +1,7 @@
 ayats = [
     {
         "verse_number": "1",
-        "arabic_text": "إِذَا ٱلسَّمَآءُ ٱنفَطَرَتْ",
+        "arabic_text": "اِذَا السَّمَآءُ انفَطَرَتْ",
         "urdu_text": "جب آسمان پھٹ جائے گا",
         "persian_text": "وقتی که آسمان شکافته شود",
         "english_text": "When the sky breaks apart",
@@ -9,7 +9,7 @@ ayats = [
     },
     {
         "verse_number": "2",
-        "arabic_text": "وَإِذَا ٱلْكَوَاكِبُ ٱنتَثَرَتْ",
+        "arabic_text": "وَ اِذَا الْكَوَاكِبُ انْتَثَرَتْ",
         "urdu_text": "اور جب ستارے بکھر جائیں گے",
         "persian_text": "و هنگامی که ستارگان پراکنده شوند",
         "english_text": "And when the stars fall, scattering",
@@ -17,7 +17,7 @@ ayats = [
     },
     {
         "verse_number": "3",
-        "arabic_text": "وَإِذَا ٱلْبِحَارُ فُجِّرَتْ",
+        "arabic_text": "وَ اِذَا الْبِحَارُ فُجِّرَتْ",
         "urdu_text": "اور جب سمندر پھاڑ دیے جائیں گے",
         "persian_text": "و دریاها منفجر گردند",
         "english_text": "And when the seas are erupted",
@@ -25,7 +25,7 @@ ayats = [
     },
     {
         "verse_number": "4",
-        "arabic_text": "وَإِذَا ٱلْقُبُورُ بُعْثِرَتْ",
+        "arabic_text": "وَ اِذَا الْقُبُورُ بُعْثِرَتْ",
         "urdu_text": "اور جب قبریں اکھاڑ دی جائیں گی",
         "persian_text": "و هنگامی که قبرها زیر و رو شوند",
         "english_text": "And when the graves are turned upside down",
@@ -33,7 +33,7 @@ ayats = [
     },
     {
         "verse_number": "5",
-        "arabic_text": "عَلِمَتْ نَفْسٌۭ مَّا قَدَّمَتْ وَأَخَّرَتْ",
+        "arabic_text": "عَلِمَتْ نَفْسٌ مَّا قَدَّمَتْ وَ اَخَّرَتْ",
         "urdu_text": "تب ہر شخص جان لے گا جو اس نے آگے بھیجا اور پیچھے چھوڑا",
         "persian_text": "آنگاه هر نفس بداند که چه پیش فرستاده و چه پس نهاده",
         "english_text": "A soul will [then] know what it has put forth and kept back.",
@@ -41,7 +41,7 @@ ayats = [
     },
     {
         "verse_number": "6",
-        "arabic_text": "يَـٰٓأَيُّهَا ٱلْإِنسَـٰنُ مَا غَرَّكَ بِرَبِّكَ ٱلْكَرِيمِ",
+        "arabic_text": "يٰٓاَيُّهَا الْاِنسَـانُ مَا غَرَّكَ بِرَبِّكَ الْكَرِيمِ",
         "urdu_text": "اے انسان! تجھے اپنے رب کریم کے ساتھ کس چیز نے دھوکے میں ڈالا؟",
         "persian_text": "ای انسان! چه چیزی تو را درباره پروردگار کریمت مغرور کرد؟",
         "english_text": "O mankind, what has deceived you concerning your Lord, the Generous,",
@@ -49,7 +49,7 @@ ayats = [
     },
     {
         "verse_number": "7",
-        "arabic_text": "ٱلَّذِى خَلَقَكَ فَسَوَّىٰكَ فَعَدَلَكَ",
+        "arabic_text": "الَّذِى خَلَقَكَ فَسَوّٰكَ فَعَدَلَكَ",
         "urdu_text": "جس نے تجھے پیدا کیا، پھر تجھے درست کیا، پھر تجھے متوازن بنایا",
         "persian_text": "همان که تو را آفرید و سامان داد و هموار ساخت",
         "english_text": "Who created you, proportioned you, and balanced you?",
@@ -57,7 +57,7 @@ ayats = [
     },
     {
         "verse_number": "8",
-        "arabic_text": "فِىٓ أَىِّ صُورَةٍۢ مَّا شَآءَ رَكَّبَكَ",
+        "arabic_text": "فِىٓ اَىِّ صُورَةٍ مَّا شَآءَ رَكَّبَكَ",
         "urdu_text": "جس صورت میں چاہا تجھے جوڑ دیا",
         "persian_text": "در هر صورتی که خواست، تو را ترکیب داد",
         "english_text": "In whatever form He willed has He assembled you.",
@@ -65,7 +65,7 @@ ayats = [
     },
     {
         "verse_number": "9",
-        "arabic_text": "كَلَّا بَلْ تُكَذِّبُونَ بِٱلدِّينِ",
+        "arabic_text": "كَلَّا بَلْ تُكَذِّبُونَ بِالدِّينِ",
         "urdu_text": "ہرگز نہیں، بلکہ تم جزا و سزا کو جھٹلاتے ہو",
         "persian_text": "چنین نیست، بلکه شما روز جزا را تکذیب می‌کنید",
         "english_text": "No! But you deny the Recompense.",
@@ -73,7 +73,7 @@ ayats = [
     },
     {
         "verse_number": "10",
-        "arabic_text": "وَإِنَّ عَلَيْكُمْ لَحَـٰفِظِينَ",
+        "arabic_text": "وَ اِنَّ عَلَيْكُمْ لَحٰفِظِينَ",
         "urdu_text": "حالانکہ تم پر ضرور نگران مقرر ہیں",
         "persian_text": "و قطعاً بر شما نگهبانانی گمارده شده‌اند",
         "english_text": "And indeed, [appointed] over you are keepers,",
@@ -81,7 +81,7 @@ ayats = [
     },
     {
         "verse_number": "11",
-        "arabic_text": "كِرَامًۭا كَـٰتِبِينَ",
+        "arabic_text": "كِرَامًا كَاتِبِيْنَ",
         "urdu_text": "عزت والے لکھنے والے",
         "persian_text": "نویسندگانی بزرگوار",
         "english_text": "Noble and recording;",
@@ -97,7 +97,7 @@ ayats = [
     },
     {
         "verse_number": "13",
-        "arabic_text": "إِنَّ ٱلْأَبْرَارَ لَفِى نَعِيمٍۢ",
+        "arabic_text": "اِنَّ الْاَبْرَارَ لَفِى نَعِيمٍ",
         "urdu_text": "بیشک نیک لوگ نعمتوں میں ہوں گے",
         "persian_text": "قطعاً نیکان در نعمت‌اند",
         "english_text": "Indeed, the righteous will be in pleasure,",
@@ -105,7 +105,7 @@ ayats = [
     },
     {
         "verse_number": "14",
-        "arabic_text": "وَإِنَّ ٱلْفُجَّارَ لَفِى جَحِيمٍۢ",
+        "arabic_text": "وَ اِنَّ الْفُجَّارَ لَفِى جَحِيمٍ",
         "urdu_text": "اور یقیناً بدکار لوگ دوزخ میں ہوں گے",
         "persian_text": "و قطعاً بدکاران در دوزخ‌اند",
         "english_text": "And indeed, the wicked will be in Hellfire.",
@@ -113,7 +113,7 @@ ayats = [
     },
     {
         "verse_number": "15",
-        "arabic_text": "يَصْلَوْنَهَا يَوْمَ ٱلدِّينِ",
+        "arabic_text": "يَصْلَوْنَهَا يَوْمَ الدِّينِ",
         "urdu_text": "وہ اس میں جزا کے دن داخل ہوں گے",
         "persian_text": "در روز جزا در آن وارد می‌شوند",
         "english_text": "They will [enter to] burn therein on the Day of Recompense,",
@@ -121,7 +121,7 @@ ayats = [
     },
     {
         "verse_number": "16",
-        "arabic_text": "وَمَا هُمْ عَنْهَا بِغَآئِبِينَ",
+        "arabic_text": "وَ مَا هُمْ عَنْهَا بِغَآئِبِينَ",
         "urdu_text": "اور وہ اس سے غیر حاضر نہ ہوں گے",
         "persian_text": "و از آن غایب نخواهند بود",
         "english_text": "And never therefrom will they be absent.",
@@ -129,7 +129,7 @@ ayats = [
     },
     {
         "verse_number": "17",
-        "arabic_text": "وَمَآ أَدْرَىٰكَ مَا يَوْمُ ٱلدِّينِ",
+        "arabic_text": "وَ مَآ اَدْرٰكَ مَا يَوْمُ الدِّينِ",
         "urdu_text": "اور تمہیں کیا معلوم کہ جزا کا دن کیا ہے؟",
         "persian_text": "و چه می‌دانی که روز جزا چیست؟",
         "english_text": "And what can make you know what is the Day of Recompense?",
@@ -137,7 +137,7 @@ ayats = [
     },
     {
         "verse_number": "18",
-        "arabic_text": "ثُمَّ مَآ أَدْرَىٰكَ مَا يَوْمُ ٱلدِّينِ",
+        "arabic_text": "ثُمَّ مَآ اَدْرٰكَ مَا يَوْمُ الدِّينِ",
         "urdu_text": "پھر تمہیں کیا خبر کہ جزا کا دن کیا ہے؟",
         "persian_text": "و باز چه می‌دانی که روز جزا چیست؟",
         "english_text": "Then, what can make you know what is the Day of Recompense?",
@@ -145,10 +145,10 @@ ayats = [
     },
     {
         "verse_number": "19",
-        "arabic_text": "يَوْمَ لَا تَمْلِكُ نَفْسٌۭ لِّنَفْسٍۢ شَيْـًۭٔا ۖ وَٱلْأَمْرُ يَوْمَئِذٍۢ لِّلَّهِ",
+        "arabic_text": "يَوْمَ لَا تَمْلِكُ نَفْسٌ لِّنَفْسٍ شَيْئًا ۖ وَ الْاَمْرُ يَوْمَئِذٍ لِّلَّهِ",
         "urdu_text": "جس دن کوئی شخص کسی کے کچھ بھی کام نہ آئے گا، اور اس دن سارا اختیار اللہ کے لیے ہوگا",
         "persian_text": "روزی که هیچ کس مالک چیزی برای دیگری نخواهد بود، و آن روز فرمان مخصوص خداست",
-        "english_text": "It is the Day when a soul will not possess for another soul [power to do] a thing; and the command that Day is [entirely] with Allah.",
+        "english_text": "It is the Day when a soul will not possess for another soul [power to do] any helpful thing; and the command that Day is [entirely] with Allah.",
         "transliteration": "Yawma lā tamliku nafsun linafsin shay’an wal-amru yawma’idhin lillāh",
     },
 ]
