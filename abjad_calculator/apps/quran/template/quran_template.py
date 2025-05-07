@@ -81,7 +81,7 @@ quran_html_template_start = """
         h1 {
             font-size: 42px;
             margin-bottom: 10px;
-            border-bottom: 2px solid var(--border-color);
+            border-bottom: 1px solid #daa52078;
             padding-bottom: 10px;
         }
         
@@ -390,7 +390,7 @@ quran_html_template_start = """
             }
             
             h2 {
-                font-size: 36px;
+                font-size: 24px;
                 color: var(--secondary-color);
             }
 
