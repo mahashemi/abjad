@@ -57,7 +57,7 @@ ayats = [
     },
     {
         "verse_number": "8",
-        "arabic_text": "وَ اِذَا الْمَوْءُودَةُ سُئِلَتْ",
+        "arabic_text": "وَ اِذَا الْمَوْءُدَةُ سُئِلَتْ",
         "urdu_text": "اور جب زندہ دفن کی گئی لڑکیوں کے بارے میں پوچھا جائے گا",
         "persian_text": "و زمانی که از دختر زنده به گور شده پرسیده شود",
         "english_text": "And when [we] will ask about the girls [who were] buried alive",
