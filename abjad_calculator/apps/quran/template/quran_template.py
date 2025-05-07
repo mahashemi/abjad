@@ -25,7 +25,7 @@ quran_html_template_start = """
         
         body {
             font-family: 'Scheherazade New', 'Amiri', 'Traditional Arabic', serif;
-            margin: 20px;
+            margin: 2px;
             background-color: #f5f0e6;
             color: var(--text-color);
             direction: rtl;
@@ -66,10 +66,10 @@ quran_html_template_start = """
             max-width: 1020px;
             margin: 0 auto;
             background-color: #fff;
-            padding: 30px;
+            /*padding: 2px;*/
             box-shadow: 0 5px 20px rgba(0,0,0,0.1);
             border-radius: 10px;
-            border: 2px solid var(--border-color);
+            /*border: 2px solid var(--border-color);*/
         }
         
         h1, h2, h3 {
@@ -81,15 +81,13 @@ quran_html_template_start = """
         h1 {
             font-size: 42px;
             margin-bottom: 10px;
-            border-bottom: 2px solid var(--secondary-color);
+            border-bottom: 2px solid var(--border-color);
             padding-bottom: 10px;
         }
         
         h2 {
             font-size: 36px;
-            margin-top: 40px;
             color: var(--secondary-color);
-            margin-bottom: 0px;
         }
         
         .verse-section {
@@ -335,8 +333,9 @@ quran_html_template_start = """
         /* Decorative Elements */
         .surah_header {
             position: relative;
-            padding-top: 30px;
+            /*padding-top: 30px;*/
             margin-bottom: 8px;
+            border: 1px solid var(--border-color);
         }
         
         .surah_header::before,
@@ -377,7 +376,7 @@ quran_html_template_start = """
             .container {
                 max-width: 100%;
                 margin: 0;
-                padding: 20px;
+                padding: 2px;
                 box-shadow: none;
                 /* border: none; */
             }
@@ -389,15 +388,14 @@ quran_html_template_start = """
             
             h2 {
                 font-size: 36px;
-                margin-top: 40px;
                 color: var(--secondary-color);
-                margin-bottom: 0px;
             }
 
             .surah_header {
                 position: relative;
-                padding-top: 20px;
+                /* padding-top: 20px;*/
                 margin-bottom: 8px;
+                border: 1px solid var(--border-color);
             }
             
             .verse-section {
