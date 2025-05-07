@@ -12,7 +12,10 @@ from ..quran_library import (
     al_fil,
     al_humaza,
     al_asr,
+    al_takasur,
+    al_qaariyah,
     al_shams,
+    al_balad,
     al_fajr,
     al_aala,
     al_takweer,
@@ -44,9 +47,19 @@ surah_al_tariq_title = "سورة الطارق - سورة 86 - عدد آياته�
 surah_al_aala_title = "سورة الأعلى - سورة 87 - عدد آياتها 19".strip()
 surah_al_ghasheya_title = "سورة الغاشية - سورة 88 - عدد آياتها 26".strip()
 surah_al_fajr_title = "سورة الفجر - سورة 89 - عدد آياتها 30 ".strip()
+surah_al_balad_title = "سورة البلد - سورة 90 - عدد آياتها 20".strip()
 surah_al_shams_title = "سورة الشمس - سورة 91 - عدد آياتها 15 ".strip()
-
-
+# "سورة الليل - سورة 92 - عدد آياتها 21"
+# "سورة الضحى - سورة 93 - عدد آياتها 11"
+# "سورة الشرح - سورة 94 - عدد آياتها 8"
+# "سورة التين - سورة 95 - عدد آياتها 8"
+# "سورة العلق - سورة 96 - عدد آياتها 19"
+# "سورة القدر - سورة 97 - عدد آياتها 5"
+# "سورة البينة - سورة 98 - عدد آياتها 8"
+# "سورة الزلزلة - سورة 99 - عدد آياتها 8"
+# "سورة العاديات - سورة 100 - عدد آياتها 11"
+surah_al_qaariyah_title = "سورة القارعة - سورة 101 - عدد آياتها 11".strip()
+surah_al_takasur_title = "سورة التكاثر - سورة 102 - عدد آياتها 8".strip()
 surah_al_asr_title = "سورة العصر - سورة 103 - عدد آياتها 3".strip()
 surah_al_humaza_title = "سورة الهمزة - سورة 104 - عدد آياتها 9".strip()
 surah_al_fil_title = "سورة الفيل - سورة 105 - عدد آياتها 5".strip()
@@ -75,7 +88,11 @@ quran = {
     surah_al_aala_title: al_aala.ayats,
     surah_al_ghasheya_title: al_ghasheya.ayats,
     surah_al_fajr_title: al_fajr.ayats,
+    surah_al_balad_title: al_balad.ayats,
     surah_al_shams_title: al_shams.ayats,
+
+    surah_al_qaariyah_title: al_qaariyah.ayats,
+    surah_al_takasur_title: al_takasur.ayats,
     surah_al_asr_title: al_asr.ayats,
     surah_al_humaza_title: al_humaza.ayats,
     surah_al_fil_title: al_fil.ayats,
