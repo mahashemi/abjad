@@ -15,12 +15,12 @@ from ..quran_library import (
     al_shams,
     al_fajr,
     al_aala,
+    al_takweer,
     al_tariq,
     al_burooj,
     al_insheqaq,
     al_mutaffefin,
     al_infetaar,
-    al_taqweer,
     al_abas,
     al_naziyat,
     al_naba,
@@ -35,7 +35,7 @@ surah_al_naba_title = "سورة النبأ - سورة 78 - عدد آياتها 4
 
 surah_al_naziyat_title = "سورة النازعات - سورة 79 - عدد آياتها 46".strip()
 surah_al_abas_title = "سورة عبس - سورة 80 - عدد آياتها 42".strip()
-surah_al_taqweer_title = "سورة التكوير - سورة 81 - عدد آياتها 29".strip()
+surah_al_takweer_title = "سورة التكوير - سورة 81 - عدد آياتها 29".strip()
 surah_al_infetaar_title = "سورة الإنفطار - سورة 82 - عدد آياتها 19 ".strip()
 surah_al_mutaffefin_title = "سورة المطففين - سورة 83 - عدد آياتها 36".strip()
 surah_al_insheqaq_title = "سورة الانشقاق - سورة 84 - عدد آياتها 25".strip()
@@ -66,7 +66,7 @@ quran = {
     surah_al_naba_title: al_naba.ayats,
     surah_al_naziyat_title: al_naziyat.ayats,
     surah_al_abas_title: al_abas.ayats,
-    surah_al_taqweer_title: al_taqweer.ayats,
+    surah_al_takweer_title: al_takweer.ayats,
     surah_al_infetaar_title: al_infetaar.ayats,
     surah_al_mutaffefin_title: al_mutaffefin.ayats,
     surah_al_insheqaq_title: al_insheqaq.ayats,
