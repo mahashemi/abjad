@@ -15,6 +15,9 @@ from ..quran_library import (
     al_takasur,
     al_qaariyah,
     al_shams,
+    al_layl,
+    al_zuha,
+    al_shara,
     al_balad,
     al_fajr,
     al_aala,
@@ -31,7 +34,7 @@ from ..quran_library import (
 )
 
 
-surah_fatiha_title = "سورة الفاتحة - سورة 1 - عدد آياتها 7 ".strip()
+surah_fatiha_title = "سورة الفاتحة - سورة 1 - عدد آياتها 7".strip()
 surah_qalam_title = "سورة القلم - سورة 68 - عدد آياتها 52 ".strip()
 surah_al_naba_title = "سورة النبأ - سورة 78 - عدد آياتها 40".strip()
 
@@ -39,19 +42,19 @@ surah_al_naba_title = "سورة النبأ - سورة 78 - عدد آياتها 4
 surah_al_naziyat_title = "سورة النازعات - سورة 79 - عدد آياتها 46".strip()
 surah_al_abas_title = "سورة عبس - سورة 80 - عدد آياتها 42".strip()
 surah_al_takweer_title = "سورة التكوير - سورة 81 - عدد آياتها 29".strip()
-surah_al_infetaar_title = "سورة الإنفطار - سورة 82 - عدد آياتها 19 ".strip()
+surah_al_infetaar_title = "سورة الإنفطار - سورة 82 - عدد آياتها 19".strip()
 surah_al_mutaffefin_title = "سورة المطففين - سورة 83 - عدد آياتها 36".strip()
 surah_al_insheqaq_title = "سورة الانشقاق - سورة 84 - عدد آياتها 25".strip()
-surah_al_burooj_title = "سورة البروج - سورة 85 - عدد آياتها 22 ".strip()
-surah_al_tariq_title = "سورة الطارق - سورة 86 - عدد آياتها 17 ".strip()
+surah_al_burooj_title = "سورة البروج - سورة 85 - عدد آياتها 22".strip()
+surah_al_tariq_title = "سورة الطارق - سورة 86 - عدد آياتها 17".strip()
 surah_al_aala_title = "سورة الأعلى - سورة 87 - عدد آياتها 19".strip()
 surah_al_ghasheya_title = "سورة الغاشية - سورة 88 - عدد آياتها 26".strip()
-surah_al_fajr_title = "سورة الفجر - سورة 89 - عدد آياتها 30 ".strip()
+surah_al_fajr_title = "سورة الفجر - سورة 89 - عدد آياتها 30".strip()
 surah_al_balad_title = "سورة البلد - سورة 90 - عدد آياتها 20".strip()
-surah_al_shams_title = "سورة الشمس - سورة 91 - عدد آياتها 15 ".strip()
-# "سورة الليل - سورة 92 - عدد آياتها 21"
-# "سورة الضحى - سورة 93 - عدد آياتها 11"
-# "سورة الشرح - سورة 94 - عدد آياتها 8"
+surah_al_shams_title = "سورة الشمس - سورة 91 - عدد آياتها 15".strip()
+surah_al_layl_title = "سورة الليل - سورة 92 - عدد آياتها 21".strip()
+surah_al_zuha_title = "سورة الضحى - سورة 93 - عدد آياتها 11".strip()
+surah_al_shara_title = "سورة الشرح - سورة 94 - عدد آياتها 8".strip()
 # "سورة التين - سورة 95 - عدد آياتها 8"
 # "سورة العلق - سورة 96 - عدد آياتها 19"
 # "سورة القدر - سورة 97 - عدد آياتها 5"
@@ -90,6 +93,9 @@ quran = {
     surah_al_fajr_title: al_fajr.ayats,
     surah_al_balad_title: al_balad.ayats,
     surah_al_shams_title: al_shams.ayats,
+    surah_al_layl_title: al_layl.ayats,
+    surah_al_zuha_title: al_zuha.ayats,
+    surah_al_shara_title: al_shara.ayats,
 
     surah_al_qaariyah_title: al_qaariyah.ayats,
     surah_al_takasur_title: al_takasur.ayats,
