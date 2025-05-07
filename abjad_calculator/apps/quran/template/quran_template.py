@@ -103,7 +103,7 @@ quran_html_template_start = """
         .verse-section::after {
             content: "";
             position: absolute;
-            bottom: -10px;
+            bottom: -20px;
             left: 50%;
             transform: translateX(-50%);
             width: 80%;
