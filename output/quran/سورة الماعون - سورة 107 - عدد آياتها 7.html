@@ -65,9 +65,9 @@
         .container {
             max-width: 1020px;
             margin: 0 auto;
-            background-color: #fff;
+            /*background-color: #fff;*/
             /*padding: 2px;*/
-            box-shadow: 0 5px 20px rgba(0,0,0,0.1);
+            /*box-shadow: 0 5px 20px rgba(0,0,0,0.1);*/
             border-radius: 10px;
             /*border: 2px solid var(--border-color);*/
         }
@@ -92,11 +92,11 @@
         
         .verse-section {
             margin-bottom: 40px;
-            padding: 20px;
+            /*padding: 20px;*/
             border: 2px solid var(--border-color);
             border-radius: 8px;
             background-color: var(--verse-bg);
-            box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+            box-shadow: 0 2px 10px rgba(0,0,0,0.2);
             position: relative;
         }
         
@@ -117,10 +117,11 @@
             padding: 15px;
             text-align: center;
             letter-spacing: 1px;
-            border-radius: 5px;
-            box-shadow: inset 0 0 5px rgba(0,0,0,0.1);
+            /*border-radius: 5px;*/
+            box-shadow: inset 0 0 12px rgb(218, 165, 32, 0.3);
             font-family: 'Scheherazade New', serif;
-            border: 1px solid var(--border-color);
+            border-top: 1px solid var(--border-color);
+            border-bottom: 1px solid var(--border-color);
             line-height: 1.8;
         }
         
@@ -300,11 +301,11 @@
         
         .translations {
             background-color: rgba(249, 246, 240, 0.7);
-            border-radius: 8px;
+            border-radius: 0 0 8px 8px;
             font-size: 26px;
             padding: 2px;
             margin-top: 10px;
-            border: 1px solid var(--border-color);
+            border-top: 1px solid var(--border-color);
         }
         .adad-row {
             display: flex;
@@ -335,6 +336,8 @@
             position: relative;
             /*padding-top: 30px;*/
             margin-bottom: 8px;
+            background-color: #fff;
+            box-shadow: 0 5px 20px rgba(0,0,0,0.2);
             border: 2px solid var(--border-color);
         }
         
@@ -395,6 +398,7 @@
                 position: relative;
                 /* padding-top: 20px;*/
                 margin-bottom: 8px;
+                box-shadow: 0 5px 20px rgba(0,0,0,0.2);
                 border: 2px solid var(--border-color);
             }
             
@@ -402,13 +406,15 @@
                 page-break-inside: avoid;
                 break-inside: avoid;
                 margin-bottom: 30px;
-                padding: 15px;
+                /*padding: 15px;*/
+                box-shadow: 0 5px 20px rgba(0,0,0,0.2);
                 border: 2px solid var(--border-color);
             }
             
             .arabic-text {
                 font-size: 20pt;
                 padding: 10px;
+                box-shadow: inset 0 0 12px rgb(218, 165, 32, 0.3);
             }
             
             .total-value {
