@@ -129,7 +129,7 @@ ayats = [
     },
     {
         "verse_number": "17",
-        "arabic_text": "وَ اللَّيْلِ اِذَا عَسْعَسَ",
+        "arabic_text": "وَ الَّيْلِ اِذَا عَسْعَسَ",
         "urdu_text": "اور رات کی جب وہ چھا جائے",
         "persian_text": "و شب هنگامی که فرا رسد",
         "english_text": "And by the night as it closes in",
