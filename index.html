@@ -177,10 +177,48 @@
 
       /* Removed verse-count class as we're using arabic-name positioning for verse count */
 
-      @media (max-width: 768px) {
+      @media (max-width: 1024px) {
             .surah-book {
-                width: 180px;
-                height: 120px;
+                width: calc(33.33% - 20px); /* 3 books per row */
+                min-width: 180px;
+            }
+        }
+        
+        @media (max-width: 768px) {
+            body {
+                padding: 20px 10px;
+            }
+            
+            .surah-container {
+                gap: 15px;
+            }
+            
+            .surah-book {
+                width: calc(50% - 10px); /* 2 books per row */
+                min-width: 150px;
+                height: 100px;
+            }
+            
+            .surah-name {
+                font-size: 16px;
+            }
+        }
+        
+        @media (max-width: 480px) {
+            .surah-container {
+                gap: 12px;
+            }
+            
+            .surah-book {
+                width: calc(100% - 10px); /* Full width on very small screens */
+                max-width: 300px;
+                height: 90px;
+                margin: 0 auto;
+            }
+            
+            h1 {
+                font-size: 24px;
+                margin-bottom: 20px;
             }
         }
     </style>
