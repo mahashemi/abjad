@@ -18,6 +18,19 @@
         text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.1);
       }
 
+      #header-before,
+      #header-after {
+        width: 80%;
+        height: 1px;
+        background: linear-gradient(
+          to right,
+          transparent,
+          #b4891c,
+          transparent
+        );
+        margin: 5px auto;
+      }
+
       .surah-container {
         display: flex;
         flex-wrap: wrap;
@@ -29,14 +42,14 @@
 
       .surah-book {
         position: relative;
-        width: 220px;
-        height: 100px;
+        width: 150px;
+        height: 180px;
         background: linear-gradient(
           135deg,
-          #f1d57f 0%,
-          #d4af37 40%,
-          #f1d57f 60%,
-          #d4af37 100%
+          #a27c2a 0%,
+          #c4a03e 50%,
+          #b99438 75%,
+          #c5a03f 100%
         );
         border-radius: 4px;
         box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.3),
@@ -92,13 +105,14 @@
       .surah-name {
         color: #553a10;
         text-align: center;
-        padding: 10px;
+        padding: 4px;
         font-weight: bold;
-        font-size: 18px;
+        font-size: 28px;
         text-shadow: 0px 1px 1px rgba(255, 255, 255, 0.5);
         letter-spacing: 1px;
         position: relative;
         z-index: 2;
+        font-family: "Traditional Arabic", "Arial", sans-serif;
       }
 
       .surah-name::before {
@@ -119,17 +133,18 @@
         position: absolute;
         top: 8px;
         left: 8px;
-        background-color: rgba(139, 102, 13, 0.8);
+        background-color: rgb(180, 136, 31);
         color: #fff;
         border-radius: 50%;
-        width: 24px;
-        height: 24px;
+        width: 28px;
+        height: 28px;
         display: flex;
         align-items: center;
         justify-content: center;
         font-size: 12px;
         font-weight: bold;
-        box-shadow: inset 0 0 4px rgba(0, 0, 0, 0.3);
+        box-shadow: inset 0 0 10px rgba(0, 0, 0, 0.3);
+        outline: 1px solid #b08b32;
       }
 
       .arabic-name {
@@ -137,28 +152,47 @@
         bottom: 8px;
         right: 8px;
         font-family: "Traditional Arabic", "Arial", sans-serif;
-        font-size: 14px;
+        font-size: 18px;
         color: #553a10;
         text-shadow: 0px 1px 1px rgba(255, 255, 255, 0.5);
         font-weight: bold;
       }
 
-      @media (max-width: 768px) {
-        .surah-book {
-          width: 180px;
-          height: 90px;
-        }
-
-        .surah-name {
-          font-size: 16px;
-        }
+      .loading {
+        text-align: center;
+        font-size: 20px;
+        color: #8a6d3b;
+        margin: 50px 0;
       }
+
+      .error {
+        background-color: #f8d7da;
+        color: #721c24;
+        padding: 15px;
+        border-radius: 5px;
+        margin: 20px auto;
+        max-width: 800px;
+        text-align: center;
+      }
+
+      /* Removed verse-count class as we're using arabic-name positioning for verse count */
+
+      @media (max-width: 768px) {
+            .surah-book {
+                width: 180px;
+                height: 120px;
+            }
+        }
     </style>
   </head>
   <body>
-    <h1>The Holy Quran Surahs</h1>
-    <div class="surah-container">
-      <div>Loading…</div>
+    <h1>
+      <div id="header-before"></div>
+      <div>The Holy Quran Surahs</div>
+      <div id="header-after"></div>
+    </h1>
+    <div class="surah-container" id="surah-container">
+      <div class="loading">Loading Surahs...</div>
     </div>
 
     <script>
@@ -169,8 +203,8 @@
       fetch(`https://api.github.com/repos/${USER}/${REPO}/contents/${FOLDER}`)
         .then((r) => (r.ok ? r.json() : Promise.reject(r.statusText)))
         .then((files) => {
-          const ul = document.getElementById("file-list");
-          ul.innerHTML = "";
+          const container = document.getElementById("surah-container");
+          container.innerHTML = "";
 
           const htmlFiles = files
             .filter((f) => f.name.toLowerCase().endsWith(".html"))
@@ -211,50 +245,24 @@
               numberBadge.className = "surah-number";
               numberBadge.textContent = f.surahNum;
 
-              // Create surah name element
+              // Create Arabic name element as the main central element
               const nameDiv = document.createElement("div");
               nameDiv.className = "surah-name";
-              // Use English name from mapping if available, otherwise use surah number
-              nameDiv.textContent =
-                surahNames[f.surahNum] || `Surah ${f.surahNum}`;
+              nameDiv.textContent = arabicName;
 
-              // Create Arabic name element
-              const arabicNameSpan = document.createElement("span");
-              arabicNameSpan.className = "arabic-name";
-              arabicNameSpan.textContent = arabicName;
-
-              // Add verse count if available
+              // Add verse count if available (bottom right)
               if (verseCount) {
                 const verseCountSpan = document.createElement("span");
-                verseCountSpan.className = "verse-count";
-                verseCountSpan.textContent = `${verseCount} verses`;
+                verseCountSpan.className = "arabic-name"; // Using the arabic-name class for positioning
+                verseCountSpan.textContent = `${verseCount} آية`;
                 bookLink.appendChild(verseCountSpan);
               }
 
               // Assemble book element
               bookLink.appendChild(numberBadge);
               bookLink.appendChild(nameDiv);
-              bookLink.appendChild(arabicNameSpan);
 
               container.appendChild(bookLink);
-
-              //   const li = document.createElement("li");
-              //   const a = document.createElement("a");
-
-              //   // Format surah number as 3-digit string with leading zeros
-              //   const paddedSurah = f.surahNum.toString().padStart(3, "0");
-
-              //   // link to the *Pages*-hosted HTML file:
-              //   a.href = `https://${USER}.github.io/${REPO}/${FOLDER}/${encodeURIComponent(
-              //     f.name
-              //   )}`;
-              //   a.textContent = `[${paddedSurah}] ${f.name}`;
-              //   // <<< open in new tab safely:
-              //   a.target = "_blank";
-              //   a.rel = "noopener noreferrer";
-
-              //   li.appendChild(a);
-              //   ul.appendChild(li);
             });
           // If no files found
           if (htmlFiles.length === 0) {
