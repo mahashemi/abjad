@@ -336,7 +336,7 @@ quran_html_template_start = """
             position: relative;
             /*padding-top: 30px;*/
             margin: 8px auto;
-            background-color: #fff;
+            /*background-color: #fff;*/
             box-shadow: 0 5px 20px rgba(0,0,0,0.2);
             border: 2px solid var(--border-color);
         }
@@ -397,7 +397,7 @@ quran_html_template_start = """
             .surah_header {
                 position: relative;
                 /* padding-top: 20px;*/
-                margin-bottom: 8px;
+                margin: 8px auto;
                 box-shadow: 0 5px 20px rgba(0,0,0,0.2);
                 border: 2px solid var(--border-color);
             }
