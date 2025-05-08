@@ -2,34 +2,164 @@
 <html lang="en">
   <head>
     <meta charset="utf-8" />
-    <title>Quran Output Files</title>
+    <title>Golden Quranic Surah Books</title>
     <style>
       body {
-        font-family: sans-serif;
-        padding: 2rem;
+        font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+        background-color: #f5f0e6;
+        padding: 40px;
+        color: #333;
       }
-      ul {
-        list-style: none;
-        padding: 0;
+
+      h1 {
+        text-align: center;
+        color: #8a6d3b;
+        margin-bottom: 40px;
+        text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.1);
       }
-      li {
-        margin: 0.5rem 0;
+
+      .surah-container {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 20px;
+        justify-content: center;
+        max-width: 1200px;
+        margin: 0 auto;
       }
-      a {
+
+      .surah-book {
+        position: relative;
+        width: 220px;
+        height: 100px;
+        background: linear-gradient(
+          135deg,
+          #f1d57f 0%,
+          #d4af37 40%,
+          #f1d57f 60%,
+          #d4af37 100%
+        );
+        border-radius: 4px;
+        box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.3),
+          0 4px 6px -2px rgba(0, 0, 0, 0.1),
+          inset 0 0 15px rgba(255, 255, 255, 0.3),
+          inset 0 0 5px rgba(0, 0, 0, 0.2);
+        overflow: hidden;
+        transition: transform 0.3s, box-shadow 0.3s;
+        display: flex;
+        align-items: center;
+        justify-content: center;
         text-decoration: none;
-        color: #0366d6;
       }
-      a:hover {
-        text-decoration: underline;
+
+      .surah-book::before {
+        content: "";
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        height: 1px;
+        background: linear-gradient(
+          90deg,
+          rgba(255, 255, 255, 0) 0%,
+          rgba(255, 255, 255, 0.8) 50%,
+          rgba(255, 255, 255, 0) 100%
+        );
+      }
+
+      .surah-book::after {
+        content: "";
+        position: absolute;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        height: 4px;
+        background: linear-gradient(
+          90deg,
+          #9f7928 0%,
+          #d8b44a 50%,
+          #9f7928 100%
+        );
+      }
+
+      .surah-book:hover {
+        transform: translateY(-5px);
+        box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.3),
+          0 10px 10px -5px rgba(0, 0, 0, 0.1),
+          inset 0 0 15px rgba(255, 255, 255, 0.5),
+          inset 0 0 5px rgba(0, 0, 0, 0.2);
+      }
+
+      .surah-name {
+        color: #553a10;
+        text-align: center;
+        padding: 10px;
+        font-weight: bold;
+        font-size: 18px;
+        text-shadow: 0px 1px 1px rgba(255, 255, 255, 0.5);
+        letter-spacing: 1px;
+        position: relative;
+        z-index: 2;
+      }
+
+      .surah-name::before {
+        content: "";
+        position: absolute;
+        top: -5px;
+        left: -5px;
+        right: -5px;
+        bottom: -5px;
+        background: rgba(255, 255, 255, 0.1);
+        border-radius: 4px;
+        z-index: -1;
+        border: 1px solid rgba(183, 149, 11, 0.3);
+        box-shadow: inset 0 0 10px rgba(255, 255, 255, 0.2);
+      }
+
+      .surah-number {
+        position: absolute;
+        top: 8px;
+        left: 8px;
+        background-color: rgba(139, 102, 13, 0.8);
+        color: #fff;
+        border-radius: 50%;
+        width: 24px;
+        height: 24px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 12px;
+        font-weight: bold;
+        box-shadow: inset 0 0 4px rgba(0, 0, 0, 0.3);
+      }
+
+      .arabic-name {
+        position: absolute;
+        bottom: 8px;
+        right: 8px;
+        font-family: "Traditional Arabic", "Arial", sans-serif;
+        font-size: 14px;
+        color: #553a10;
+        text-shadow: 0px 1px 1px rgba(255, 255, 255, 0.5);
+        font-weight: bold;
+      }
+
+      @media (max-width: 768px) {
+        .surah-book {
+          width: 180px;
+          height: 90px;
+        }
+
+        .surah-name {
+          font-size: 16px;
+        }
       }
     </style>
   </head>
   <body>
-    <h1>Quran HTML Files</h1>
-    <p>Automatically pulled from <code>output/quran</code> in your repo:</p>
-    <ul id="file-list">
-      <li>Loading…</li>
-    </ul>
+    <h1>The Holy Quran Surahs</h1>
+    <div class="surah-container">
+      <div>Loading…</div>
+    </div>
 
     <script>
       const USER = "mahashemi"; // ← your GitHub user/org
@@ -54,29 +184,88 @@
           htmlFiles
             .filter((f) => f.name.toLowerCase().endsWith(".html"))
             .forEach((f) => {
-              const li = document.createElement("li");
-              const a = document.createElement("a");
+              // Extract Arabic surah name from the filename
+              // Example: سورة النبأ - سورة 78 - عدد آياتها 40.html
+              const nameMatch = f.name.match(/سورة\s([^-]+)/);
+              const arabicName = nameMatch ? nameMatch[1].trim() : "";
+
+              // Extract verse count if available
+              const verseMatch = f.name.match(/عدد آياتها\s(\d+)/);
+              const verseCount = verseMatch
+                ? parseInt(verseMatch[1], 10)
+                : null;
 
               // Format surah number as 3-digit string with leading zeros
-              const paddedSurah = f.surahNum.toString().padStart(3, "0");
-
-              // link to the *Pages*-hosted HTML file:
-              a.href = `https://${USER}.github.io/${REPO}/${FOLDER}/${encodeURIComponent(
+              const paddedSurahNumber = f.surahNum.toString().padStart(3, "0");
+              // Create book element
+              const bookLink = document.createElement("a");
+              bookLink.className = "surah-book";
+              bookLink.href = `https://${USER}.github.io/${REPO}/${FOLDER}/${encodeURIComponent(
                 f.name
               )}`;
-              a.textContent = `[${paddedSurah}] ${f.name}`;
-              // <<< open in new tab safely:
-              a.target = "_blank";
-              a.rel = "noopener noreferrer";
+              bookLink.target = "_blank";
+              bookLink.rel = "noopener noreferrer";
 
-              li.appendChild(a);
-              ul.appendChild(li);
+              // Create surah number badge
+              const numberBadge = document.createElement("span");
+              numberBadge.className = "surah-number";
+              numberBadge.textContent = f.surahNum;
+
+              // Create surah name element
+              const nameDiv = document.createElement("div");
+              nameDiv.className = "surah-name";
+              // Use English name from mapping if available, otherwise use surah number
+              nameDiv.textContent =
+                surahNames[f.surahNum] || `Surah ${f.surahNum}`;
+
+              // Create Arabic name element
+              const arabicNameSpan = document.createElement("span");
+              arabicNameSpan.className = "arabic-name";
+              arabicNameSpan.textContent = arabicName;
+
+              // Add verse count if available
+              if (verseCount) {
+                const verseCountSpan = document.createElement("span");
+                verseCountSpan.className = "verse-count";
+                verseCountSpan.textContent = `${verseCount} verses`;
+                bookLink.appendChild(verseCountSpan);
+              }
+
+              // Assemble book element
+              bookLink.appendChild(numberBadge);
+              bookLink.appendChild(nameDiv);
+              bookLink.appendChild(arabicNameSpan);
+
+              container.appendChild(bookLink);
+
+              //   const li = document.createElement("li");
+              //   const a = document.createElement("a");
+
+              //   // Format surah number as 3-digit string with leading zeros
+              //   const paddedSurah = f.surahNum.toString().padStart(3, "0");
+
+              //   // link to the *Pages*-hosted HTML file:
+              //   a.href = `https://${USER}.github.io/${REPO}/${FOLDER}/${encodeURIComponent(
+              //     f.name
+              //   )}`;
+              //   a.textContent = `[${paddedSurah}] ${f.name}`;
+              //   // <<< open in new tab safely:
+              //   a.target = "_blank";
+              //   a.rel = "noopener noreferrer";
+
+              //   li.appendChild(a);
+              //   ul.appendChild(li);
             });
+          // If no files found
+          if (htmlFiles.length === 0) {
+            container.innerHTML =
+              '<div class="error">No surah files found.</div>';
+          }
         })
         .catch((err) => {
           document.getElementById(
-            "file-list"
-          ).innerHTML = `<li style="color: red">Error: ${err}</li>`;
+            "surah-container"
+          ).innerHTML = `<div class="error">Error loading surahs: ${err}</div>`;
         });
     </script>
   </body>
