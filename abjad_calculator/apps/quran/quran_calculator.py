@@ -74,7 +74,7 @@ def process_multiple_verses(
         str: Combined HTML string of all tables
     """
     quran_html = quran_html_template_start
-
+    quran_data_html = ""
     grand_qamari_total = 0
     grand_malfuzi_total = 0
     grand_bayenati_total = 0
@@ -136,63 +136,62 @@ def process_multiple_verses(
 
         # Main content for the verse
         content_html = f"""
-        <div class="verse-container">
-            <div class="original-text">
-                <p class="arabic-text">{result_verse.original_text} <span class='ayah-marker'>{verse_number}</span></p>
-            </div>
-        </div>
-        """
+<div class="verse-container">
+    <div class="original-text">
+        <p class="arabic-text">{result_verse.original_text} <span class='ayah-marker'>{verse_number}</span></p>
+    </div>
+</div>
+"""
 
         verse_calculation_html = f"""
-        <div class="calculation">
-            {word_abjad_tables_html}
-        </div>
-        """
+<div class="calculation">
+    {word_abjad_tables_html}
+</div>
+"""
 
         translations_html = """
-        <div class="translations">
-        """
+<div class="translations">
+"""
         if urdu:
             translations_html += f"""
-            <p class='right-to-left'><span class="translation-title">اردو</span>{urdu}</p>
-            """
+<p class='right-to-left'><span class="translation-title">اردو</span>{urdu}</p>
+"""
 
         if farsi:
             translations_html += f"""
-            <p class='right-to-left'><span class="translation-title">فارسی</span>{farsi}</p>
-            """
+<p class='right-to-left'><span class="translation-title">فارسی</span>{farsi}</p>
+"""
 
         if english:
             translations_html += f"""
-            <p class='left-to-right'><span class="translation-title">English</span>{english}</p>
-            """
+<p class='left-to-right'><span class="translation-title">English</span>{english}</p>
+"""
 
         if transliteration:
             translations_html += f"""
-            <p class='left-to-right'><span class="translation-title left-to-right">Transliteration</span>{transliteration}</p>
-            """
+<p class='left-to-right'><span class="translation-title left-to-right">Transliteration</span>{transliteration}</p>
+"""
 
         if result_verse.total_qamari_value:
             translations_html += f"""<div class='adad-row'>
-                <div class='total-qamari-span'><span class="translation-title">قمري عدد</span> <strong class='total-value'>{result_verse.total_qamari_value}</strong></div>
-                <div class='total-bayenati-span'><span class="translation-title">باطني عدد</span> <strong class='total-value'>{result_verse.total_bayenati_value}</strong></div>
-                <div class='total-malfuzi-span'><span class="translation-title">ملفوظي عدد</span> <strong class='total-value'>{result_verse.total_malfuzi_value}</strong></div>
-            </div>
-            """
+    <div class='total-qamari-span'><span class="translation-title">قمري عدد</span> <strong class='total-value'>{result_verse.total_qamari_value}</strong></div>
+    <div class='total-bayenati-span'><span class="translation-title">باطني عدد</span> <strong class='total-value'>{result_verse.total_bayenati_value}</strong></div>
+    <div class='total-malfuzi-span'><span class="translation-title">ملفوظي عدد</span> <strong class='total-value'>{result_verse.total_malfuzi_value}</strong></div>
+</div>
+"""
 
         translations_html += """
-        </div>
-        """
+</div>
+"""
 
         # Add to the combined HTML
-        quran_html += f"""
-        <div class="verse-section">
-            {content_html}
-            {verse_calculation_html}
-            {translations_html}
-            
-        </div>
-        """
+        quran_data_html += f"""
+<div class="verse-section">
+    {content_html}
+    {verse_calculation_html}
+    {translations_html}
+</div>
+"""
 
         # Add to the combined HTML
         # quran_html += f"""
@@ -203,27 +202,26 @@ def process_multiple_verses(
         # break
 
     # Add grand total section
-    quran_html += f"""
-            <div class="grand-total">
-                <div class='qamari-grand-total'>
-                    <h3>مجموع القمري</h3>
-                    <p><strong>{grand_qamari_total}</strong></p>
-                </div>
-                <div class='batini-grand-total'>
-                    <h3>مجموع الباطني</h3>
-                    <p><strong>{grand_bayenati_total}</strong></p>
-                </div>
-                <div class='malfuzi-grand-total'>
-                    <h3>مجموع الملفوظي</h3>
-                    <p><strong>{grand_malfuzi_total}</strong></p>
-                </div>
-            </div>
-        </div>
-    </body>
-    </html>
-    """
+    quran_data_html += f"""
+<div class="grand-total">
+    <div class='qamari-grand-total'>
+        <h3>مجموع القمري</h3>
+        <p><strong>{grand_qamari_total}</strong></p>
+    </div>
+    <div class='batini-grand-total'>
+        <h3>مجموع الباطني</h3>
+        <p><strong>{grand_bayenati_total}</strong></p>
+    </div>
+    <div class='malfuzi-grand-total'>
+        <h3>مجموع الملفوظي</h3>
+        <p><strong>{grand_malfuzi_total}</strong></p>
+    </div>
+</div>
+"""
+
     quran_html = quran_html.replace("{{bismillah}}", bismillah)
     quran_html = quran_html.replace("{{surat_name}}", surat_name)
+    quran_html = quran_html.replace("{{quran_data_html}}", quran_data_html)
 
     # Save to file if requested
     if output_html:

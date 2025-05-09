@@ -363,6 +363,155 @@ quran_html_template_start = """
         }
 
         
+        .toggle-panel {
+            position: sticky;
+            top: 0;
+            background-color: var(--verse-bg);
+            border-radius: 8px;
+            margin: 10px auto;
+            /* padding: 15px; */
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+            z-index: 100;
+            max-width: 1020px;
+            border: 2px solid var(--border-color);
+            direction: rtl;
+        }
+
+        .toggle-section {
+            margin-bottom: 10px;
+            display: flex;
+            flex-wrap: wrap;
+            align-items: center;
+            justify-content: center;
+        }
+        
+        .toggle-item {
+            display: inline-table;
+            align-items: center;
+            margin: 8px 12px;
+            font-family: 'Amiri', 'Traditional Arabic', serif;
+        }
+        
+        .toggle-item label {
+            margin: 0 8px;
+            font-size: 16px;
+            color: var(--primary-color);
+            cursor: pointer;
+            display: grid;
+            text-align: center;
+        }
+        
+        /* Toggle Switch Styles */
+        .toggle-switch {
+            position: relative;
+            /* display: inline-block; */
+            width: 65px;
+            height: 24px;
+        }
+        
+        .toggle-switch input {
+            opacity: 0;
+            width: 0;
+            height: 0;
+        }
+        
+        .slider {
+            position: absolute;
+            cursor: pointer;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background-color: #ccc;
+            transition: .3s;
+            border-radius: 24px;
+        }
+        
+        .slider:before {
+            position: absolute;
+            content: "";
+            height: 18px;
+            width: 18px;
+            left: 3px;
+            bottom: 3px;
+            background-color: white;
+            transition: .3s;
+            border-radius: 50%;
+        }
+        
+        input:checked + .slider {
+            background-color: var(--primary-color);
+        }
+        
+        input:checked + .slider:before {
+            transform: translateX(225%);
+        }
+        
+        .toggle-section-title {
+            width: 100%;
+            text-align: center;
+            color: var(--secondary-color);
+            font-weight: bold;
+            /* margin-bottom: 5px; */
+            font-size: 18px;
+        }
+
+        /* Section separators */
+        .toggle-section:not(:last-child) {
+            border-bottom: 1px solid #daa52078;
+            padding-bottom: 10px;
+        }
+        
+        /* Mobile responsive design */
+        @media screen and (max-width: 768px) {
+            .toggle-panel {
+                padding: 10px 5px;
+            }
+            
+            .toggle-item {
+                margin: 6px;
+            }
+            
+            .toggle-item label {
+                font-size: 14px;
+            }
+            
+            .toggle-switch {
+                width: 40px;
+                height: 20px;
+            }
+            
+            .slider:before {
+                height: 14px;
+                width: 14px;
+            }
+            
+            input:checked + .slider:before {
+                transform: translateX(20px);
+            }
+        }
+        
+        @media screen and (max-width: 480px) {
+            .toggle-section {
+                justify-content: flex-start;
+                overflow-x: auto;
+                padding-bottom: 5px;
+                -webkit-overflow-scrolling: touch;
+            }
+            
+            .toggle-section-content {
+                display: block;
+                text-align: center;
+                flex-wrap: nowrap;
+                min-width: 100%;
+            }
+        }
+        
+        @media print {
+            .toggle-panel {
+                display: none;
+            }
+        }
         
         /* Print-specific styles */
         @media print {
@@ -473,9 +622,138 @@ quran_html_template_start = """
     </style>
 </head>
 <body>
+
+    <div class="toggle-panel container">
+        <div class="toggle-section">
+            <div class="toggle-section-title">التحليل</div>
+            <div class="toggle-section-content">
+                <div class="toggle-item">
+                    <label class="toggle-switch">
+                        <input type="checkbox" id="toggle-calculation" checked>
+                        <span class="slider"></span>
+                    </label>
+                    <label for="toggle-calculation">حساب الجمل</label>
+                </div>
+                
+                <div class="toggle-item">
+                    <label class="toggle-switch">
+                        <input type="checkbox" id="toggle-totals" checked>
+                        <span class="slider"></span>
+                    </label>
+                    <label for="toggle-totals">المجموع</label>
+                </div>
+            </div>
+        </div>
+        
+        <div class="toggle-section">
+            <div class="toggle-section-title">التراجم</div>
+            <div class="toggle-section-content">
+                <div class="toggle-item">
+                    <label class="toggle-switch">
+                        <input type="checkbox" id="toggle-translation-urdu" checked>
+                        <span class="slider"></span>
+                    </label>
+                    <label for="toggle-translation-urdu">اردو</label>
+                </div>
+                
+                <div class="toggle-item">
+                    <label class="toggle-switch">
+                        <input type="checkbox" id="toggle-translation-farsi" checked>
+                        <span class="slider"></span>
+                    </label>
+                    <label for="toggle-translation-farsi">فارسی</label>
+                </div>
+                
+                <div class="toggle-item">
+                    <label class="toggle-switch">
+                        <input type="checkbox" id="toggle-translation-english" checked>
+                        <span class="slider"></span>
+                    </label>
+                    <label for="toggle-translation-english">English</label>
+                </div>
+                
+                <div class="toggle-item">
+                    <label class="toggle-switch">
+                        <input type="checkbox" id="toggle-translation-transliteration" checked>
+                        <span class="slider"></span>
+                    </label>
+                    <label for="toggle-translation-transliteration">Transliteration</label>
+                </div>
+            </div>
+        </div>
+    </div>
     <div class="surah_header container">
         <h1>{{surat_name}}</h1>
         <h2>{{bismillah}}</h2>
     </div>
     <div class="container">
+        {{quran_data_html}}
+    </div>
+</body>
+<script>
+    document.addEventListener("DOMContentLoaded", function () {
+      // Define selectors for toggle switches
+      const toggleSwitches = {
+        "toggle-calculation": ".calculation",
+        "toggle-translation-urdu":
+          '.translations p:has(.translation-title:contains("اردو"))',
+        "toggle-translation-farsi":
+          '.translations p:has(.translation-title:contains("فارسی"))',
+        "toggle-translation-english":
+          '.translations p:has(.translation-title:contains("English"))',
+        "toggle-translation-transliteration":
+          '.translations p:has(.translation-title:contains("Transliteration"))',
+        "toggle-totals": ".adad-row, .grand-total",
+      };
+
+      // Simple function to find elements with text content
+      function findElementsWithText(containerSelector, textContent) {
+        const containers = document.querySelectorAll(containerSelector);
+        return Array.from(containers).filter((container) => {
+          const titleElement = container.querySelector(".translation-title");
+          return titleElement && titleElement.textContent.includes(textContent);
+        });
+      }
+
+      // Set up change handlers for toggle switches
+      for (const [switchId, selector] of Object.entries(toggleSwitches)) {
+        const toggleSwitch = document.getElementById(switchId);
+
+        toggleSwitch.addEventListener("change", function () {
+          const isVisible = this.checked;
+
+          if (selector.includes(":has")) {
+            // For selectors using :has which might not be supported in all browsers
+            let elements;
+
+            if (selector.includes("اردو")) {
+              elements = findElementsWithText(".translations p", "اردو");
+            } else if (selector.includes("فارسی")) {
+              elements = findElementsWithText(".translations p", "فارسی");
+            } else if (selector.includes("English")) {
+              elements = findElementsWithText(".translations p", "English");
+            } else if (selector.includes("Transliteration")) {
+              elements = findElementsWithText(
+                ".translations p",
+                "Transliteration"
+              );
+            } else {
+              elements = [];
+            }
+
+            elements.forEach((element) => {
+              element.style.display = isVisible ? "" : "none";
+            });
+          } else {
+            // For standard CSS selectors
+            const elements = document.querySelectorAll(selector);
+            elements.forEach((element) => {
+              element.style.display = isVisible ? "" : "none";
+            });
+          }
+        });
+      }
+    });
+</script>
+</html>
 """

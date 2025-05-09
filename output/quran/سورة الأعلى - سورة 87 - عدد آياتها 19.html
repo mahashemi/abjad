@@ -363,6 +363,155 @@
         }
 
         
+        .toggle-panel {
+            position: sticky;
+            top: 0;
+            background-color: var(--verse-bg);
+            border-radius: 8px;
+            margin: 10px auto;
+            /* padding: 15px; */
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+            z-index: 100;
+            max-width: 1020px;
+            border: 2px solid var(--border-color);
+            direction: rtl;
+        }
+
+        .toggle-section {
+            margin-bottom: 10px;
+            display: flex;
+            flex-wrap: wrap;
+            align-items: center;
+            justify-content: center;
+        }
+        
+        .toggle-item {
+            display: inline-table;
+            align-items: center;
+            margin: 8px 12px;
+            font-family: 'Amiri', 'Traditional Arabic', serif;
+        }
+        
+        .toggle-item label {
+            margin: 0 8px;
+            font-size: 16px;
+            color: var(--primary-color);
+            cursor: pointer;
+            display: grid;
+            text-align: center;
+        }
+        
+        /* Toggle Switch Styles */
+        .toggle-switch {
+            position: relative;
+            /* display: inline-block; */
+            width: 65px;
+            height: 24px;
+        }
+        
+        .toggle-switch input {
+            opacity: 0;
+            width: 0;
+            height: 0;
+        }
+        
+        .slider {
+            position: absolute;
+            cursor: pointer;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background-color: #ccc;
+            transition: .3s;
+            border-radius: 24px;
+        }
+        
+        .slider:before {
+            position: absolute;
+            content: "";
+            height: 18px;
+            width: 18px;
+            left: 3px;
+            bottom: 3px;
+            background-color: white;
+            transition: .3s;
+            border-radius: 50%;
+        }
+        
+        input:checked + .slider {
+            background-color: var(--primary-color);
+        }
+        
+        input:checked + .slider:before {
+            transform: translateX(225%);
+        }
+        
+        .toggle-section-title {
+            width: 100%;
+            text-align: center;
+            color: var(--secondary-color);
+            font-weight: bold;
+            /* margin-bottom: 5px; */
+            font-size: 18px;
+        }
+
+        /* Section separators */
+        .toggle-section:not(:last-child) {
+            border-bottom: 1px solid #daa52078;
+            padding-bottom: 10px;
+        }
+        
+        /* Mobile responsive design */
+        @media screen and (max-width: 768px) {
+            .toggle-panel {
+                padding: 10px 5px;
+            }
+            
+            .toggle-item {
+                margin: 6px;
+            }
+            
+            .toggle-item label {
+                font-size: 14px;
+            }
+            
+            .toggle-switch {
+                width: 40px;
+                height: 20px;
+            }
+            
+            .slider:before {
+                height: 14px;
+                width: 14px;
+            }
+            
+            input:checked + .slider:before {
+                transform: translateX(20px);
+            }
+        }
+        
+        @media screen and (max-width: 480px) {
+            .toggle-section {
+                justify-content: flex-start;
+                overflow-x: auto;
+                padding-bottom: 5px;
+                -webkit-overflow-scrolling: touch;
+            }
+            
+            .toggle-section-content {
+                display: block;
+                text-align: center;
+                flex-wrap: nowrap;
+                min-width: 100%;
+            }
+        }
+        
+        @media print {
+            .toggle-panel {
+                display: none;
+            }
+        }
         
         /* Print-specific styles */
         @media print {
@@ -473,23 +622,83 @@
     </style>
 </head>
 <body>
+
+    <div class="toggle-panel container">
+        <div class="toggle-section">
+            <div class="toggle-section-title">التحليل</div>
+            <div class="toggle-section-content">
+                <div class="toggle-item">
+                    <label class="toggle-switch">
+                        <input type="checkbox" id="toggle-calculation" checked>
+                        <span class="slider"></span>
+                    </label>
+                    <label for="toggle-calculation">حساب الجمل</label>
+                </div>
+                
+                <div class="toggle-item">
+                    <label class="toggle-switch">
+                        <input type="checkbox" id="toggle-totals" checked>
+                        <span class="slider"></span>
+                    </label>
+                    <label for="toggle-totals">المجموع</label>
+                </div>
+            </div>
+        </div>
+        
+        <div class="toggle-section">
+            <div class="toggle-section-title">التراجم</div>
+            <div class="toggle-section-content">
+                <div class="toggle-item">
+                    <label class="toggle-switch">
+                        <input type="checkbox" id="toggle-translation-urdu" checked>
+                        <span class="slider"></span>
+                    </label>
+                    <label for="toggle-translation-urdu">اردو</label>
+                </div>
+                
+                <div class="toggle-item">
+                    <label class="toggle-switch">
+                        <input type="checkbox" id="toggle-translation-farsi" checked>
+                        <span class="slider"></span>
+                    </label>
+                    <label for="toggle-translation-farsi">فارسی</label>
+                </div>
+                
+                <div class="toggle-item">
+                    <label class="toggle-switch">
+                        <input type="checkbox" id="toggle-translation-english" checked>
+                        <span class="slider"></span>
+                    </label>
+                    <label for="toggle-translation-english">English</label>
+                </div>
+                
+                <div class="toggle-item">
+                    <label class="toggle-switch">
+                        <input type="checkbox" id="toggle-translation-transliteration" checked>
+                        <span class="slider"></span>
+                    </label>
+                    <label for="toggle-translation-transliteration">Transliteration</label>
+                </div>
+            </div>
+        </div>
+    </div>
     <div class="surah_header container">
         <h1>سورة الأعلى - سورة 87 - عدد آياتها 19</h1>
         <h2>بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ</h2>
     </div>
     <div class="container">
-
-        <div class="verse-section">
-            
-        <div class="verse-container">
-            <div class="original-text">
-                <p class="arabic-text">سَبِّحِ اسْمَ رَبِّكَ الْأَعْلَىٰ <span class='ayah-marker'>87:1</span></p>
-            </div>
-        </div>
         
-            
-        <div class="calculation">
-            <table class="qamari-malfuzi-table">
+<div class="verse-section">
+    
+<div class="verse-container">
+    <div class="original-text">
+        <p class="arabic-text">سَبِّحِ اسْمَ رَبِّكَ الْأَعْلَىٰ <span class='ayah-marker'>87:1</span></p>
+    </div>
+</div>
+
+    
+<div class="calculation">
+    <table class="qamari-malfuzi-table">
 <tr class="letter-row letter-value-row">
 <td class="light-letter-left-border">س</td>
 <td class="light-letter-left-border">ب</td>
@@ -561,40 +770,39 @@
 </tr>
 </table>
 
-        </div>
-        
-            
-        <div class="translations">
-        
-            <p class='right-to-left'><span class="translation-title">اردو</span>پاک نام ہے تیرے رب اعلیٰ کا</p>
-            
-            <p class='right-to-left'><span class="translation-title">فارسی</span>نام پروردگار بلندمرتبه‌ات را پاک بدان</p>
-            
-            <p class='left-to-right'><span class="translation-title">English</span>Glorify the name of your Lord, the Most High.</p>
-            
-            <p class='left-to-right'><span class="translation-title left-to-right">Transliteration</span>Sabbih isma rabbika al-a‘la</p>
-            <div class='adad-row'>
-                <div class='total-qamari-span'><span class="translation-title">قمري عدد</span> <strong class='total-value'>535</strong></div>
-                <div class='total-bayenati-span'><span class="translation-title">باطني عدد</span> <strong class='total-value'>728</strong></div>
-                <div class='total-malfuzi-span'><span class="translation-title">ملفوظي عدد</span> <strong class='total-value'>1263</strong></div>
-            </div>
-            
-        </div>
-        
-            
-        </div>
-        
-        <div class="verse-section">
-            
-        <div class="verse-container">
-            <div class="original-text">
-                <p class="arabic-text">الَّذِي خَلَقَ فَسَوَّىٰ <span class='ayah-marker'>87:2</span></p>
-            </div>
-        </div>
-        
-            
-        <div class="calculation">
-            <table class="qamari-malfuzi-table">
+</div>
+
+    
+<div class="translations">
+
+<p class='right-to-left'><span class="translation-title">اردو</span>پاک نام ہے تیرے رب اعلیٰ کا</p>
+
+<p class='right-to-left'><span class="translation-title">فارسی</span>نام پروردگار بلندمرتبه‌ات را پاک بدان</p>
+
+<p class='left-to-right'><span class="translation-title">English</span>Glorify the name of your Lord, the Most High.</p>
+
+<p class='left-to-right'><span class="translation-title left-to-right">Transliteration</span>Sabbih isma rabbika al-a‘la</p>
+<div class='adad-row'>
+    <div class='total-qamari-span'><span class="translation-title">قمري عدد</span> <strong class='total-value'>535</strong></div>
+    <div class='total-bayenati-span'><span class="translation-title">باطني عدد</span> <strong class='total-value'>728</strong></div>
+    <div class='total-malfuzi-span'><span class="translation-title">ملفوظي عدد</span> <strong class='total-value'>1263</strong></div>
+</div>
+
+</div>
+
+</div>
+
+<div class="verse-section">
+    
+<div class="verse-container">
+    <div class="original-text">
+        <p class="arabic-text">الَّذِي خَلَقَ فَسَوَّىٰ <span class='ayah-marker'>87:2</span></p>
+    </div>
+</div>
+
+    
+<div class="calculation">
+    <table class="qamari-malfuzi-table">
 <tr class="letter-row letter-value-row">
 <td class="light-letter-left-border">ا</td>
 <td class="light-letter-left-border">ل</td>
@@ -651,40 +859,39 @@
 </tr>
 </table>
 
-        </div>
-        
-            
-        <div class="translations">
-        
-            <p class='right-to-left'><span class="translation-title">اردو</span>جس نے پیدا کیا اور (ٹھیک طرح سے) بنایا</p>
-            
-            <p class='right-to-left'><span class="translation-title">فارسی</span>همان که آفرید و درست کرد</p>
-            
-            <p class='left-to-right'><span class="translation-title">English</span>Who created and proportioned.</p>
-            
-            <p class='left-to-right'><span class="translation-title left-to-right">Transliteration</span>Alladhī khalaqa fa-sawwā</p>
-            <div class='adad-row'>
-                <div class='total-qamari-span'><span class="translation-title">قمري عدد</span> <strong class='total-value'>1627</strong></div>
-                <div class='total-bayenati-span'><span class="translation-title">باطني عدد</span> <strong class='total-value'>375</strong></div>
-                <div class='total-malfuzi-span'><span class="translation-title">ملفوظي عدد</span> <strong class='total-value'>2002</strong></div>
-            </div>
-            
-        </div>
-        
-            
-        </div>
-        
-        <div class="verse-section">
-            
-        <div class="verse-container">
-            <div class="original-text">
-                <p class="arabic-text">وَالَّذِي قَدَّرَ فَهَدَىٰ <span class='ayah-marker'>87:3</span></p>
-            </div>
-        </div>
-        
-            
-        <div class="calculation">
-            <table class="qamari-malfuzi-table">
+</div>
+
+    
+<div class="translations">
+
+<p class='right-to-left'><span class="translation-title">اردو</span>جس نے پیدا کیا اور (ٹھیک طرح سے) بنایا</p>
+
+<p class='right-to-left'><span class="translation-title">فارسی</span>همان که آفرید و درست کرد</p>
+
+<p class='left-to-right'><span class="translation-title">English</span>Who created and proportioned.</p>
+
+<p class='left-to-right'><span class="translation-title left-to-right">Transliteration</span>Alladhī khalaqa fa-sawwā</p>
+<div class='adad-row'>
+    <div class='total-qamari-span'><span class="translation-title">قمري عدد</span> <strong class='total-value'>1627</strong></div>
+    <div class='total-bayenati-span'><span class="translation-title">باطني عدد</span> <strong class='total-value'>375</strong></div>
+    <div class='total-malfuzi-span'><span class="translation-title">ملفوظي عدد</span> <strong class='total-value'>2002</strong></div>
+</div>
+
+</div>
+
+</div>
+
+<div class="verse-section">
+    
+<div class="verse-container">
+    <div class="original-text">
+        <p class="arabic-text">وَالَّذِي قَدَّرَ فَهَدَىٰ <span class='ayah-marker'>87:3</span></p>
+    </div>
+</div>
+
+    
+<div class="calculation">
+    <table class="qamari-malfuzi-table">
 <tr class="letter-row letter-value-row">
 <td class="light-letter-left-border">و</td>
 <td class="light-letter-left-border">ا</td>
@@ -744,40 +951,39 @@
 </tr>
 </table>
 
-        </div>
-        
-            
-        <div class="translations">
-        
-            <p class='right-to-left'><span class="translation-title">اردو</span>اور جس نے اندازہ کیا، پھر راہ دکھائی</p>
-            
-            <p class='right-to-left'><span class="translation-title">فارسی</span>و اندازه گرفت و سپس راه نمود</p>
-            
-            <p class='left-to-right'><span class="translation-title">English</span>Who destined and guided.</p>
-            
-            <p class='left-to-right'><span class="translation-title left-to-right">Transliteration</span>Wa alladhī qaddara fa-hadā</p>
-            <div class='adad-row'>
-                <div class='total-qamari-span'><span class="translation-title">قمري عدد</span> <strong class='total-value'>1150</strong></div>
-                <div class='total-bayenati-span'><span class="translation-title">باطني عدد</span> <strong class='total-value'>337</strong></div>
-                <div class='total-malfuzi-span'><span class="translation-title">ملفوظي عدد</span> <strong class='total-value'>1487</strong></div>
-            </div>
-            
-        </div>
-        
-            
-        </div>
-        
-        <div class="verse-section">
-            
-        <div class="verse-container">
-            <div class="original-text">
-                <p class="arabic-text">وَالَّذِي أَخْرَجَ الْمَرْعَىٰ <span class='ayah-marker'>87:4</span></p>
-            </div>
-        </div>
-        
-            
-        <div class="calculation">
-            <table class="qamari-malfuzi-table">
+</div>
+
+    
+<div class="translations">
+
+<p class='right-to-left'><span class="translation-title">اردو</span>اور جس نے اندازہ کیا، پھر راہ دکھائی</p>
+
+<p class='right-to-left'><span class="translation-title">فارسی</span>و اندازه گرفت و سپس راه نمود</p>
+
+<p class='left-to-right'><span class="translation-title">English</span>Who destined and guided.</p>
+
+<p class='left-to-right'><span class="translation-title left-to-right">Transliteration</span>Wa alladhī qaddara fa-hadā</p>
+<div class='adad-row'>
+    <div class='total-qamari-span'><span class="translation-title">قمري عدد</span> <strong class='total-value'>1150</strong></div>
+    <div class='total-bayenati-span'><span class="translation-title">باطني عدد</span> <strong class='total-value'>337</strong></div>
+    <div class='total-malfuzi-span'><span class="translation-title">ملفوظي عدد</span> <strong class='total-value'>1487</strong></div>
+</div>
+
+</div>
+
+</div>
+
+<div class="verse-section">
+    
+<div class="verse-container">
+    <div class="original-text">
+        <p class="arabic-text">وَالَّذِي أَخْرَجَ الْمَرْعَىٰ <span class='ayah-marker'>87:4</span></p>
+    </div>
+</div>
+
+    
+<div class="calculation">
+    <table class="qamari-malfuzi-table">
 <tr class="letter-row letter-value-row">
 <td class="light-letter-left-border">و</td>
 <td class="light-letter-left-border">ا</td>
@@ -846,40 +1052,39 @@
 </tr>
 </table>
 
-        </div>
-        
-            
-        <div class="translations">
-        
-            <p class='right-to-left'><span class="translation-title">اردو</span>اور جس نے چارہ اگایا</p>
-            
-            <p class='right-to-left'><span class="translation-title">فارسی</span>و چراگاه را برآورد</p>
-            
-            <p class='left-to-right'><span class="translation-title">English</span>Who brings out the pasture.</p>
-            
-            <p class='left-to-right'><span class="translation-title left-to-right">Transliteration</span>Wa alladhī akhraja al-mar‘ā</p>
-            <div class='adad-row'>
-                <div class='total-qamari-span'><span class="translation-title">قمري عدد</span> <strong class='total-value'>1902</strong></div>
-                <div class='total-bayenati-span'><span class="translation-title">باطني عدد</span> <strong class='total-value'>615</strong></div>
-                <div class='total-malfuzi-span'><span class="translation-title">ملفوظي عدد</span> <strong class='total-value'>2517</strong></div>
-            </div>
-            
-        </div>
-        
-            
-        </div>
-        
-        <div class="verse-section">
-            
-        <div class="verse-container">
-            <div class="original-text">
-                <p class="arabic-text">فَجَعَلَهُ غُثَاءً أَحْوَىٰ <span class='ayah-marker'>87:5</span></p>
-            </div>
-        </div>
-        
-            
-        <div class="calculation">
-            <table class="qamari-malfuzi-table">
+</div>
+
+    
+<div class="translations">
+
+<p class='right-to-left'><span class="translation-title">اردو</span>اور جس نے چارہ اگایا</p>
+
+<p class='right-to-left'><span class="translation-title">فارسی</span>و چراگاه را برآورد</p>
+
+<p class='left-to-right'><span class="translation-title">English</span>Who brings out the pasture.</p>
+
+<p class='left-to-right'><span class="translation-title left-to-right">Transliteration</span>Wa alladhī akhraja al-mar‘ā</p>
+<div class='adad-row'>
+    <div class='total-qamari-span'><span class="translation-title">قمري عدد</span> <strong class='total-value'>1902</strong></div>
+    <div class='total-bayenati-span'><span class="translation-title">باطني عدد</span> <strong class='total-value'>615</strong></div>
+    <div class='total-malfuzi-span'><span class="translation-title">ملفوظي عدد</span> <strong class='total-value'>2517</strong></div>
+</div>
+
+</div>
+
+</div>
+
+<div class="verse-section">
+    
+<div class="verse-container">
+    <div class="original-text">
+        <p class="arabic-text">فَجَعَلَهُ غُثَاءً أَحْوَىٰ <span class='ayah-marker'>87:5</span></p>
+    </div>
+</div>
+
+    
+<div class="calculation">
+    <table class="qamari-malfuzi-table">
 <tr class="letter-row letter-value-row">
 <td class="light-letter-left-border">ف</td>
 <td class="light-letter-left-border">ج</td>
@@ -942,40 +1147,39 @@
 </tr>
 </table>
 
-        </div>
-        
-            
-        <div class="translations">
-        
-            <p class='right-to-left'><span class="translation-title">اردو</span>پھر اس کو سیاہ کُوڑا بنا دیا</p>
-            
-            <p class='right-to-left'><span class="translation-title">فارسی</span>و آن را خشک و سیاه گرداند</p>
-            
-            <p class='left-to-right'><span class="translation-title">English</span>Then turns it into black stubble.</p>
-            
-            <p class='left-to-right'><span class="translation-title left-to-right">Transliteration</span>Faja‘alahu ghuthā’an aḥwā</p>
-            <div class='adad-row'>
-                <div class='total-qamari-span'><span class="translation-title">قمري عدد</span> <strong class='total-value'>1714</strong></div>
-                <div class='total-bayenati-span'><span class="translation-title">باطني عدد</span> <strong class='total-value'>443</strong></div>
-                <div class='total-malfuzi-span'><span class="translation-title">ملفوظي عدد</span> <strong class='total-value'>2157</strong></div>
-            </div>
-            
-        </div>
-        
-            
-        </div>
-        
-        <div class="verse-section">
-            
-        <div class="verse-container">
-            <div class="original-text">
-                <p class="arabic-text">سَنُقْرِئُكَ فَلَا تَنسَىٰ <span class='ayah-marker'>87:6</span></p>
-            </div>
-        </div>
-        
-            
-        <div class="calculation">
-            <table class="qamari-malfuzi-table">
+</div>
+
+    
+<div class="translations">
+
+<p class='right-to-left'><span class="translation-title">اردو</span>پھر اس کو سیاہ کُوڑا بنا دیا</p>
+
+<p class='right-to-left'><span class="translation-title">فارسی</span>و آن را خشک و سیاه گرداند</p>
+
+<p class='left-to-right'><span class="translation-title">English</span>Then turns it into black stubble.</p>
+
+<p class='left-to-right'><span class="translation-title left-to-right">Transliteration</span>Faja‘alahu ghuthā’an aḥwā</p>
+<div class='adad-row'>
+    <div class='total-qamari-span'><span class="translation-title">قمري عدد</span> <strong class='total-value'>1714</strong></div>
+    <div class='total-bayenati-span'><span class="translation-title">باطني عدد</span> <strong class='total-value'>443</strong></div>
+    <div class='total-malfuzi-span'><span class="translation-title">ملفوظي عدد</span> <strong class='total-value'>2157</strong></div>
+</div>
+
+</div>
+
+</div>
+
+<div class="verse-section">
+    
+<div class="verse-container">
+    <div class="original-text">
+        <p class="arabic-text">سَنُقْرِئُكَ فَلَا تَنسَىٰ <span class='ayah-marker'>87:6</span></p>
+    </div>
+</div>
+
+    
+<div class="calculation">
+    <table class="qamari-malfuzi-table">
 <tr class="letter-row letter-value-row">
 <td class="light-letter-left-border">س</td>
 <td class="light-letter-left-border">ن</td>
@@ -1038,40 +1242,39 @@
 </tr>
 </table>
 
-        </div>
-        
-            
-        <div class="translations">
-        
-            <p class='right-to-left'><span class="translation-title">اردو</span>ہم تمہیں پڑھائیں گے پھر تم نہیں بھولو گے</p>
-            
-            <p class='right-to-left'><span class="translation-title">فارسی</span>ما تو را خواهیم خواند، پس فراموش نخواهی کرد</p>
-            
-            <p class='left-to-right'><span class="translation-title">English</span>We will make you recite, so you shall not forget.</p>
-            
-            <p class='left-to-right'><span class="translation-title left-to-right">Transliteration</span>Sanuqri’uka fa-lā tansa</p>
-            <div class='adad-row'>
-                <div class='total-qamari-span'><span class="translation-title">قمري عدد</span> <strong class='total-value'>1061</strong></div>
-                <div class='total-bayenati-span'><span class="translation-title">باطني عدد</span> <strong class='total-value'>549</strong></div>
-                <div class='total-malfuzi-span'><span class="translation-title">ملفوظي عدد</span> <strong class='total-value'>1610</strong></div>
-            </div>
-            
-        </div>
-        
-            
-        </div>
-        
-        <div class="verse-section">
-            
-        <div class="verse-container">
-            <div class="original-text">
-                <p class="arabic-text">إِلَّا مَا شَاءَ اللَّهُ ۚ إِنَّهُ يَعْلَمُ الْجَهْرَ وَمَا يَخْفَىٰ <span class='ayah-marker'>87:7</span></p>
-            </div>
-        </div>
-        
-            
-        <div class="calculation">
-            <table class="qamari-malfuzi-table">
+</div>
+
+    
+<div class="translations">
+
+<p class='right-to-left'><span class="translation-title">اردو</span>ہم تمہیں پڑھائیں گے پھر تم نہیں بھولو گے</p>
+
+<p class='right-to-left'><span class="translation-title">فارسی</span>ما تو را خواهیم خواند، پس فراموش نخواهی کرد</p>
+
+<p class='left-to-right'><span class="translation-title">English</span>We will make you recite, so you shall not forget.</p>
+
+<p class='left-to-right'><span class="translation-title left-to-right">Transliteration</span>Sanuqri’uka fa-lā tansa</p>
+<div class='adad-row'>
+    <div class='total-qamari-span'><span class="translation-title">قمري عدد</span> <strong class='total-value'>1061</strong></div>
+    <div class='total-bayenati-span'><span class="translation-title">باطني عدد</span> <strong class='total-value'>549</strong></div>
+    <div class='total-malfuzi-span'><span class="translation-title">ملفوظي عدد</span> <strong class='total-value'>1610</strong></div>
+</div>
+
+</div>
+
+</div>
+
+<div class="verse-section">
+    
+<div class="verse-container">
+    <div class="original-text">
+        <p class="arabic-text">إِلَّا مَا شَاءَ اللَّهُ ۚ إِنَّهُ يَعْلَمُ الْجَهْرَ وَمَا يَخْفَىٰ <span class='ayah-marker'>87:7</span></p>
+    </div>
+</div>
+
+    
+<div class="calculation">
+    <table class="qamari-malfuzi-table">
 <tr class="letter-row letter-value-row">
 <td class="light-letter-left-border">إ</td>
 <td class="light-letter-left-border">ل</td>
@@ -1209,40 +1412,39 @@
 </tr>
 </table>
 
-        </div>
-        
-            
-        <div class="translations">
-        
-            <p class='right-to-left'><span class="translation-title">اردو</span>مگر جو اللہ چاہے، بے شک وہ ظاہر اور چھپی بات کو جانتا ہے</p>
-            
-            <p class='right-to-left'><span class="translation-title">فارسی</span>مگر آنچه خدا بخواهد، همانا او آشکار و پنهان را می‌داند</p>
-            
-            <p class='left-to-right'><span class="translation-title">English</span>Except what Allah wills. Indeed, He knows what is declared and what is hidden.</p>
-            
-            <p class='left-to-right'><span class="translation-title left-to-right">Transliteration</span>Illā mā shā’a Allāh, innahu ya‘lamu al-jahra wa mā yakhfā</p>
-            <div class='adad-row'>
-                <div class='total-qamari-span'><span class="translation-title">قمري عدد</span> <strong class='total-value'>1632</strong></div>
-                <div class='total-bayenati-span'><span class="translation-title">باطني عدد</span> <strong class='total-value'>1477</strong></div>
-                <div class='total-malfuzi-span'><span class="translation-title">ملفوظي عدد</span> <strong class='total-value'>3109</strong></div>
-            </div>
-            
-        </div>
-        
-            
-        </div>
-        
-        <div class="verse-section">
-            
-        <div class="verse-container">
-            <div class="original-text">
-                <p class="arabic-text">وَنُيَسِّرُكَ لِلْيُسْرَىٰ <span class='ayah-marker'>87:8</span></p>
-            </div>
-        </div>
-        
-            
-        <div class="calculation">
-            <table class="qamari-malfuzi-table">
+</div>
+
+    
+<div class="translations">
+
+<p class='right-to-left'><span class="translation-title">اردو</span>مگر جو اللہ چاہے، بے شک وہ ظاہر اور چھپی بات کو جانتا ہے</p>
+
+<p class='right-to-left'><span class="translation-title">فارسی</span>مگر آنچه خدا بخواهد، همانا او آشکار و پنهان را می‌داند</p>
+
+<p class='left-to-right'><span class="translation-title">English</span>Except what Allah wills. Indeed, He knows what is declared and what is hidden.</p>
+
+<p class='left-to-right'><span class="translation-title left-to-right">Transliteration</span>Illā mā shā’a Allāh, innahu ya‘lamu al-jahra wa mā yakhfā</p>
+<div class='adad-row'>
+    <div class='total-qamari-span'><span class="translation-title">قمري عدد</span> <strong class='total-value'>1632</strong></div>
+    <div class='total-bayenati-span'><span class="translation-title">باطني عدد</span> <strong class='total-value'>1477</strong></div>
+    <div class='total-malfuzi-span'><span class="translation-title">ملفوظي عدد</span> <strong class='total-value'>3109</strong></div>
+</div>
+
+</div>
+
+</div>
+
+<div class="verse-section">
+    
+<div class="verse-container">
+    <div class="original-text">
+        <p class="arabic-text">وَنُيَسِّرُكَ لِلْيُسْرَىٰ <span class='ayah-marker'>87:8</span></p>
+    </div>
+</div>
+
+    
+<div class="calculation">
+    <table class="qamari-malfuzi-table">
 <tr class="letter-row letter-value-row">
 <td class="light-letter-left-border">و</td>
 <td class="light-letter-left-border">ن</td>
@@ -1299,40 +1501,39 @@
 </tr>
 </table>
 
-        </div>
-        
-            
-        <div class="translations">
-        
-            <p class='right-to-left'><span class="translation-title">اردو</span>اور ہم تمہارے لیے آسان راستہ آسان کر دیں گے</p>
-            
-            <p class='right-to-left'><span class="translation-title">فارسی</span>و ما راه آسان را برای تو آسان می‌گردانیم</p>
-            
-            <p class='left-to-right'><span class="translation-title">English</span>And We will ease you toward ease.</p>
-            
-            <p class='left-to-right'><span class="translation-title left-to-right">Transliteration</span>Wa nuyassiruka lil-yusrā</p>
-            <div class='adad-row'>
-                <div class='total-qamari-span'><span class="translation-title">قمري عدد</span> <strong class='total-value'>686</strong></div>
-                <div class='total-bayenati-span'><span class="translation-title">باطني عدد</span> <strong class='total-value'>351</strong></div>
-                <div class='total-malfuzi-span'><span class="translation-title">ملفوظي عدد</span> <strong class='total-value'>1037</strong></div>
-            </div>
-            
-        </div>
-        
-            
-        </div>
-        
-        <div class="verse-section">
-            
-        <div class="verse-container">
-            <div class="original-text">
-                <p class="arabic-text">فَذَكِّرْ إِن نَّفَعَتِ الذِّكْرَىٰ <span class='ayah-marker'>87:9</span></p>
-            </div>
-        </div>
-        
-            
-        <div class="calculation">
-            <table class="qamari-malfuzi-table">
+</div>
+
+    
+<div class="translations">
+
+<p class='right-to-left'><span class="translation-title">اردو</span>اور ہم تمہارے لیے آسان راستہ آسان کر دیں گے</p>
+
+<p class='right-to-left'><span class="translation-title">فارسی</span>و ما راه آسان را برای تو آسان می‌گردانیم</p>
+
+<p class='left-to-right'><span class="translation-title">English</span>And We will ease you toward ease.</p>
+
+<p class='left-to-right'><span class="translation-title left-to-right">Transliteration</span>Wa nuyassiruka lil-yusrā</p>
+<div class='adad-row'>
+    <div class='total-qamari-span'><span class="translation-title">قمري عدد</span> <strong class='total-value'>686</strong></div>
+    <div class='total-bayenati-span'><span class="translation-title">باطني عدد</span> <strong class='total-value'>351</strong></div>
+    <div class='total-malfuzi-span'><span class="translation-title">ملفوظي عدد</span> <strong class='total-value'>1037</strong></div>
+</div>
+
+</div>
+
+</div>
+
+<div class="verse-section">
+    
+<div class="verse-container">
+    <div class="original-text">
+        <p class="arabic-text">فَذَكِّرْ إِن نَّفَعَتِ الذِّكْرَىٰ <span class='ayah-marker'>87:9</span></p>
+    </div>
+</div>
+
+    
+<div class="calculation">
+    <table class="qamari-malfuzi-table">
 <tr class="letter-row letter-value-row">
 <td class="light-letter-left-border">ف</td>
 <td class="light-letter-left-border">ذ</td>
@@ -1407,40 +1608,39 @@
 </tr>
 </table>
 
-        </div>
-        
-            
-        <div class="translations">
-        
-            <p class='right-to-left'><span class="translation-title">اردو</span>پس نصیحت کرو اگر نصیحت فائدہ دے</p>
-            
-            <p class='right-to-left'><span class="translation-title">فارسی</span>پس پند ده اگر پند سود دهد</p>
-            
-            <p class='left-to-right'><span class="translation-title">English</span>So remind, if the reminder benefits.</p>
-            
-            <p class='left-to-right'><span class="translation-title left-to-right">Transliteration</span>Fadhakkir in nafa‘ati adh-dhikrā</p>
-            <div class='adad-row'>
-                <div class='total-qamari-span'><span class="translation-title">قمري عدد</span> <strong class='total-value'>2612</strong></div>
-                <div class='total-bayenati-span'><span class="translation-title">باطني عدد</span> <strong class='total-value'>663</strong></div>
-                <div class='total-malfuzi-span'><span class="translation-title">ملفوظي عدد</span> <strong class='total-value'>3275</strong></div>
-            </div>
-            
-        </div>
-        
-            
-        </div>
-        
-        <div class="verse-section">
-            
-        <div class="verse-container">
-            <div class="original-text">
-                <p class="arabic-text">سَيَذَّكَّرُ مَن يَخْشَىٰ <span class='ayah-marker'>87:10</span></p>
-            </div>
-        </div>
-        
-            
-        <div class="calculation">
-            <table class="qamari-malfuzi-table">
+</div>
+
+    
+<div class="translations">
+
+<p class='right-to-left'><span class="translation-title">اردو</span>پس نصیحت کرو اگر نصیحت فائدہ دے</p>
+
+<p class='right-to-left'><span class="translation-title">فارسی</span>پس پند ده اگر پند سود دهد</p>
+
+<p class='left-to-right'><span class="translation-title">English</span>So remind, if the reminder benefits.</p>
+
+<p class='left-to-right'><span class="translation-title left-to-right">Transliteration</span>Fadhakkir in nafa‘ati adh-dhikrā</p>
+<div class='adad-row'>
+    <div class='total-qamari-span'><span class="translation-title">قمري عدد</span> <strong class='total-value'>2612</strong></div>
+    <div class='total-bayenati-span'><span class="translation-title">باطني عدد</span> <strong class='total-value'>663</strong></div>
+    <div class='total-malfuzi-span'><span class="translation-title">ملفوظي عدد</span> <strong class='total-value'>3275</strong></div>
+</div>
+
+</div>
+
+</div>
+
+<div class="verse-section">
+    
+<div class="verse-container">
+    <div class="original-text">
+        <p class="arabic-text">سَيَذَّكَّرُ مَن يَخْشَىٰ <span class='ayah-marker'>87:10</span></p>
+    </div>
+</div>
+
+    
+<div class="calculation">
+    <table class="qamari-malfuzi-table">
 <tr class="letter-row letter-value-row">
 <td class="light-letter-left-border">س</td>
 <td class="light-letter-left-border">ي</td>
@@ -1497,40 +1697,39 @@
 </tr>
 </table>
 
-        </div>
-        
-            
-        <div class="translations">
-        
-            <p class='right-to-left'><span class="translation-title">اردو</span>ضرور نصیحت حاصل کرے گا جو ڈرتا ہے</p>
-            
-            <p class='right-to-left'><span class="translation-title">فارسی</span>به زودی پند گیرد آن که می‌ترسد</p>
-            
-            <p class='left-to-right'><span class="translation-title">English</span>He who fears will be reminded.</p>
-            
-            <p class='left-to-right'><span class="translation-title left-to-right">Transliteration</span>Sayadhakkaru man yakhshā</p>
-            <div class='adad-row'>
-                <div class='total-qamari-span'><span class="translation-title">قمري عدد</span> <strong class='total-value'>2000</strong></div>
-                <div class='total-bayenati-span'><span class="translation-title">باطني عدد</span> <strong class='total-value'>343</strong></div>
-                <div class='total-malfuzi-span'><span class="translation-title">ملفوظي عدد</span> <strong class='total-value'>2343</strong></div>
-            </div>
-            
-        </div>
-        
-            
-        </div>
-        
-        <div class="verse-section">
-            
-        <div class="verse-container">
-            <div class="original-text">
-                <p class="arabic-text">وَيَتَجَنَّبُهَا الْأَشْقَى <span class='ayah-marker'>87:11</span></p>
-            </div>
-        </div>
-        
-            
-        <div class="calculation">
-            <table class="qamari-malfuzi-table">
+</div>
+
+    
+<div class="translations">
+
+<p class='right-to-left'><span class="translation-title">اردو</span>ضرور نصیحت حاصل کرے گا جو ڈرتا ہے</p>
+
+<p class='right-to-left'><span class="translation-title">فارسی</span>به زودی پند گیرد آن که می‌ترسد</p>
+
+<p class='left-to-right'><span class="translation-title">English</span>He who fears will be reminded.</p>
+
+<p class='left-to-right'><span class="translation-title left-to-right">Transliteration</span>Sayadhakkaru man yakhshā</p>
+<div class='adad-row'>
+    <div class='total-qamari-span'><span class="translation-title">قمري عدد</span> <strong class='total-value'>2000</strong></div>
+    <div class='total-bayenati-span'><span class="translation-title">باطني عدد</span> <strong class='total-value'>343</strong></div>
+    <div class='total-malfuzi-span'><span class="translation-title">ملفوظي عدد</span> <strong class='total-value'>2343</strong></div>
+</div>
+
+</div>
+
+</div>
+
+<div class="verse-section">
+    
+<div class="verse-container">
+    <div class="original-text">
+        <p class="arabic-text">وَيَتَجَنَّبُهَا الْأَشْقَى <span class='ayah-marker'>87:11</span></p>
+    </div>
+</div>
+
+    
+<div class="calculation">
+    <table class="qamari-malfuzi-table">
 <tr class="letter-row letter-value-row">
 <td class="light-letter-left-border">و</td>
 <td class="light-letter-left-border">ي</td>
@@ -1593,40 +1792,39 @@
 </tr>
 </table>
 
-        </div>
-        
-            
-        <div class="translations">
-        
-            <p class='right-to-left'><span class="translation-title">اردو</span>اور اس سے دور رہے گا بدبخت</p>
-            
-            <p class='right-to-left'><span class="translation-title">فارسی</span>و بدبخت از آن دوری گزیند</p>
-            
-            <p class='left-to-right'><span class="translation-title">English</span>But the wretched one will avoid it.</p>
-            
-            <p class='left-to-right'><span class="translation-title left-to-right">Transliteration</span>Wa yatajannabuhā al-ashqā</p>
-            <div class='adad-row'>
-                <div class='total-qamari-span'><span class="translation-title">قمري عدد</span> <strong class='total-value'>919</strong></div>
-                <div class='total-bayenati-span'><span class="translation-title">باطني عدد</span> <strong class='total-value'>630</strong></div>
-                <div class='total-malfuzi-span'><span class="translation-title">ملفوظي عدد</span> <strong class='total-value'>1549</strong></div>
-            </div>
-            
-        </div>
-        
-            
-        </div>
-        
-        <div class="verse-section">
-            
-        <div class="verse-container">
-            <div class="original-text">
-                <p class="arabic-text">الَّذِي يَصْلَى النَّارَ الْكُبْرَىٰ <span class='ayah-marker'>87:12</span></p>
-            </div>
-        </div>
-        
-            
-        <div class="calculation">
-            <table class="qamari-malfuzi-table">
+</div>
+
+    
+<div class="translations">
+
+<p class='right-to-left'><span class="translation-title">اردو</span>اور اس سے دور رہے گا بدبخت</p>
+
+<p class='right-to-left'><span class="translation-title">فارسی</span>و بدبخت از آن دوری گزیند</p>
+
+<p class='left-to-right'><span class="translation-title">English</span>But the wretched one will avoid it.</p>
+
+<p class='left-to-right'><span class="translation-title left-to-right">Transliteration</span>Wa yatajannabuhā al-ashqā</p>
+<div class='adad-row'>
+    <div class='total-qamari-span'><span class="translation-title">قمري عدد</span> <strong class='total-value'>919</strong></div>
+    <div class='total-bayenati-span'><span class="translation-title">باطني عدد</span> <strong class='total-value'>630</strong></div>
+    <div class='total-malfuzi-span'><span class="translation-title">ملفوظي عدد</span> <strong class='total-value'>1549</strong></div>
+</div>
+
+</div>
+
+</div>
+
+<div class="verse-section">
+    
+<div class="verse-container">
+    <div class="original-text">
+        <p class="arabic-text">الَّذِي يَصْلَى النَّارَ الْكُبْرَىٰ <span class='ayah-marker'>87:12</span></p>
+    </div>
+</div>
+
+    
+<div class="calculation">
+    <table class="qamari-malfuzi-table">
 <tr class="letter-row letter-value-row">
 <td class="light-letter-left-border">ا</td>
 <td class="light-letter-left-border">ل</td>
@@ -1710,40 +1908,39 @@
 </tr>
 </table>
 
-        </div>
-        
-            
-        <div class="translations">
-        
-            <p class='right-to-left'><span class="translation-title">اردو</span>جو بڑی آگ میں داخل ہوگا</p>
-            
-            <p class='right-to-left'><span class="translation-title">فارسی</span>آن که در آتش بزرگ درآید</p>
-            
-            <p class='left-to-right'><span class="translation-title">English</span>Who will enter the great fire.</p>
-            
-            <p class='left-to-right'><span class="translation-title left-to-right">Transliteration</span>Alladhī yaṣlā an-nār al-kubrā</p>
-            <div class='adad-row'>
-                <div class='total-qamari-span'><span class="translation-title">قمري عدد</span> <strong class='total-value'>1426</strong></div>
-                <div class='total-bayenati-span'><span class="translation-title">باطني عدد</span> <strong class='total-value'>784</strong></div>
-                <div class='total-malfuzi-span'><span class="translation-title">ملفوظي عدد</span> <strong class='total-value'>2210</strong></div>
-            </div>
-            
-        </div>
-        
-            
-        </div>
-        
-        <div class="verse-section">
-            
-        <div class="verse-container">
-            <div class="original-text">
-                <p class="arabic-text">ثُمَّ لَا يَمُوتُ فِيهَا وَلَا يَحْيَىٰ <span class='ayah-marker'>87:13</span></p>
-            </div>
-        </div>
-        
-            
-        <div class="calculation">
-            <table class="qamari-malfuzi-table">
+</div>
+
+    
+<div class="translations">
+
+<p class='right-to-left'><span class="translation-title">اردو</span>جو بڑی آگ میں داخل ہوگا</p>
+
+<p class='right-to-left'><span class="translation-title">فارسی</span>آن که در آتش بزرگ درآید</p>
+
+<p class='left-to-right'><span class="translation-title">English</span>Who will enter the great fire.</p>
+
+<p class='left-to-right'><span class="translation-title left-to-right">Transliteration</span>Alladhī yaṣlā an-nār al-kubrā</p>
+<div class='adad-row'>
+    <div class='total-qamari-span'><span class="translation-title">قمري عدد</span> <strong class='total-value'>1426</strong></div>
+    <div class='total-bayenati-span'><span class="translation-title">باطني عدد</span> <strong class='total-value'>784</strong></div>
+    <div class='total-malfuzi-span'><span class="translation-title">ملفوظي عدد</span> <strong class='total-value'>2210</strong></div>
+</div>
+
+</div>
+
+</div>
+
+<div class="verse-section">
+    
+<div class="verse-container">
+    <div class="original-text">
+        <p class="arabic-text">ثُمَّ لَا يَمُوتُ فِيهَا وَلَا يَحْيَىٰ <span class='ayah-marker'>87:13</span></p>
+    </div>
+</div>
+
+    
+<div class="calculation">
+    <table class="qamari-malfuzi-table">
 <tr class="letter-row letter-value-row">
 <td class="light-letter-left-border">ث</td>
 <td class="dark-letter-left-border">م</td>
@@ -1833,40 +2030,39 @@
 </tr>
 </table>
 
-        </div>
-        
-            
-        <div class="translations">
-        
-            <p class='right-to-left'><span class="translation-title">اردو</span>پھر نہ اس میں مرے گا اور نہ جیے گا</p>
-            
-            <p class='right-to-left'><span class="translation-title">فارسی</span>نه در آن خواهد مرد و نه زنده خواهد ماند</p>
-            
-            <p class='left-to-right'><span class="translation-title">English</span>Then neither will he die therein nor live.</p>
-            
-            <p class='left-to-right'><span class="translation-title left-to-right">Transliteration</span>Thumma lā yamūtu fīhā wa lā yaḥyā</p>
-            <div class='adad-row'>
-                <div class='total-qamari-span'><span class="translation-title">قمري عدد</span> <strong class='total-value'>1198</strong></div>
-                <div class='total-bayenati-span'><span class="translation-title">باطني عدد</span> <strong class='total-value'>536</strong></div>
-                <div class='total-malfuzi-span'><span class="translation-title">ملفوظي عدد</span> <strong class='total-value'>1734</strong></div>
-            </div>
-            
-        </div>
-        
-            
-        </div>
-        
-        <div class="verse-section">
-            
-        <div class="verse-container">
-            <div class="original-text">
-                <p class="arabic-text">قَدْ أَفْلَحَ مَن تَزَكَّىٰ <span class='ayah-marker'>87:14</span></p>
-            </div>
-        </div>
-        
-            
-        <div class="calculation">
-            <table class="qamari-malfuzi-table">
+</div>
+
+    
+<div class="translations">
+
+<p class='right-to-left'><span class="translation-title">اردو</span>پھر نہ اس میں مرے گا اور نہ جیے گا</p>
+
+<p class='right-to-left'><span class="translation-title">فارسی</span>نه در آن خواهد مرد و نه زنده خواهد ماند</p>
+
+<p class='left-to-right'><span class="translation-title">English</span>Then neither will he die therein nor live.</p>
+
+<p class='left-to-right'><span class="translation-title left-to-right">Transliteration</span>Thumma lā yamūtu fīhā wa lā yaḥyā</p>
+<div class='adad-row'>
+    <div class='total-qamari-span'><span class="translation-title">قمري عدد</span> <strong class='total-value'>1198</strong></div>
+    <div class='total-bayenati-span'><span class="translation-title">باطني عدد</span> <strong class='total-value'>536</strong></div>
+    <div class='total-malfuzi-span'><span class="translation-title">ملفوظي عدد</span> <strong class='total-value'>1734</strong></div>
+</div>
+
+</div>
+
+</div>
+
+<div class="verse-section">
+    
+<div class="verse-container">
+    <div class="original-text">
+        <p class="arabic-text">قَدْ أَفْلَحَ مَن تَزَكَّىٰ <span class='ayah-marker'>87:14</span></p>
+    </div>
+</div>
+
+    
+<div class="calculation">
+    <table class="qamari-malfuzi-table">
 <tr class="letter-row letter-value-row">
 <td class="light-letter-left-border">ق</td>
 <td class="dark-letter-left-border">د</td>
@@ -1929,40 +2125,39 @@
 </tr>
 </table>
 
-        </div>
-        
-            
-        <div class="translations">
-        
-            <p class='right-to-left'><span class="translation-title">اردو</span>یقیناً فلاح پا گیا وہ شخص جس نے پاکیزگی اختیار کی</p>
-            
-            <p class='right-to-left'><span class="translation-title">فارسی</span>هرکه پاکی گزید، رستگار شد</p>
-            
-            <p class='left-to-right'><span class="translation-title">English</span>Indeed, successful is the one who purifies himself.</p>
-            
-            <p class='left-to-right'><span class="translation-title left-to-right">Transliteration</span>Qad aflaha man tazakkā</p>
-            <div class='adad-row'>
-                <div class='total-qamari-span'><span class="translation-title">قمري عدد</span> <strong class='total-value'>750</strong></div>
-                <div class='total-bayenati-span'><span class="translation-title">باطني عدد</span> <strong class='total-value'>455</strong></div>
-                <div class='total-malfuzi-span'><span class="translation-title">ملفوظي عدد</span> <strong class='total-value'>1205</strong></div>
-            </div>
-            
-        </div>
-        
-            
-        </div>
-        
-        <div class="verse-section">
-            
-        <div class="verse-container">
-            <div class="original-text">
-                <p class="arabic-text">وَذَكَرَ اسْمَ رَبِّهِ فَصَلَّىٰ <span class='ayah-marker'>87:15</span></p>
-            </div>
-        </div>
-        
-            
-        <div class="calculation">
-            <table class="qamari-malfuzi-table">
+</div>
+
+    
+<div class="translations">
+
+<p class='right-to-left'><span class="translation-title">اردو</span>یقیناً فلاح پا گیا وہ شخص جس نے پاکیزگی اختیار کی</p>
+
+<p class='right-to-left'><span class="translation-title">فارسی</span>هرکه پاکی گزید، رستگار شد</p>
+
+<p class='left-to-right'><span class="translation-title">English</span>Indeed, successful is the one who purifies himself.</p>
+
+<p class='left-to-right'><span class="translation-title left-to-right">Transliteration</span>Qad aflaha man tazakkā</p>
+<div class='adad-row'>
+    <div class='total-qamari-span'><span class="translation-title">قمري عدد</span> <strong class='total-value'>750</strong></div>
+    <div class='total-bayenati-span'><span class="translation-title">باطني عدد</span> <strong class='total-value'>455</strong></div>
+    <div class='total-malfuzi-span'><span class="translation-title">ملفوظي عدد</span> <strong class='total-value'>1205</strong></div>
+</div>
+
+</div>
+
+</div>
+
+<div class="verse-section">
+    
+<div class="verse-container">
+    <div class="original-text">
+        <p class="arabic-text">وَذَكَرَ اسْمَ رَبِّهِ فَصَلَّىٰ <span class='ayah-marker'>87:15</span></p>
+    </div>
+</div>
+
+    
+<div class="calculation">
+    <table class="qamari-malfuzi-table">
 <tr class="letter-row letter-value-row">
 <td class="light-letter-left-border">و</td>
 <td class="light-letter-left-border">ذ</td>
@@ -2031,40 +2226,39 @@
 </tr>
 </table>
 
-        </div>
-        
-            
-        <div class="translations">
-        
-            <p class='right-to-left'><span class="translation-title">اردو</span>اور اپنے رب کا نام یاد کیا اور نماز پڑھی</p>
-            
-            <p class='right-to-left'><span class="translation-title">فارسی</span>و نام پروردگارش را یاد کرد و نماز گزارد</p>
-            
-            <p class='left-to-right'><span class="translation-title">English</span>And mentions the name of his Lord and prays.</p>
-            
-            <p class='left-to-right'><span class="translation-title left-to-right">Transliteration</span>Wa dhakara isma rabbihi faṣallā</p>
-            <div class='adad-row'>
-                <div class='total-qamari-span'><span class="translation-title">قمري عدد</span> <strong class='total-value'>1444</strong></div>
-                <div class='total-bayenati-span'><span class="translation-title">باطني عدد</span> <strong class='total-value'>391</strong></div>
-                <div class='total-malfuzi-span'><span class="translation-title">ملفوظي عدد</span> <strong class='total-value'>1835</strong></div>
-            </div>
-            
-        </div>
-        
-            
-        </div>
-        
-        <div class="verse-section">
-            
-        <div class="verse-container">
-            <div class="original-text">
-                <p class="arabic-text">بَلْ تُؤْثِرُونَ الْحَيَاةَ الدُّنْيَا <span class='ayah-marker'>87:16</span></p>
-            </div>
-        </div>
-        
-            
-        <div class="calculation">
-            <table class="qamari-malfuzi-table">
+</div>
+
+    
+<div class="translations">
+
+<p class='right-to-left'><span class="translation-title">اردو</span>اور اپنے رب کا نام یاد کیا اور نماز پڑھی</p>
+
+<p class='right-to-left'><span class="translation-title">فارسی</span>و نام پروردگارش را یاد کرد و نماز گزارد</p>
+
+<p class='left-to-right'><span class="translation-title">English</span>And mentions the name of his Lord and prays.</p>
+
+<p class='left-to-right'><span class="translation-title left-to-right">Transliteration</span>Wa dhakara isma rabbihi faṣallā</p>
+<div class='adad-row'>
+    <div class='total-qamari-span'><span class="translation-title">قمري عدد</span> <strong class='total-value'>1444</strong></div>
+    <div class='total-bayenati-span'><span class="translation-title">باطني عدد</span> <strong class='total-value'>391</strong></div>
+    <div class='total-malfuzi-span'><span class="translation-title">ملفوظي عدد</span> <strong class='total-value'>1835</strong></div>
+</div>
+
+</div>
+
+</div>
+
+<div class="verse-section">
+    
+<div class="verse-container">
+    <div class="original-text">
+        <p class="arabic-text">بَلْ تُؤْثِرُونَ الْحَيَاةَ الدُّنْيَا <span class='ayah-marker'>87:16</span></p>
+    </div>
+</div>
+
+    
+<div class="calculation">
+    <table class="qamari-malfuzi-table">
 <tr class="letter-row letter-value-row">
 <td class="light-letter-left-border">ب</td>
 <td class="dark-letter-left-border">ل</td>
@@ -2151,40 +2345,39 @@
 </tr>
 </table>
 
-        </div>
-        
-            
-        <div class="translations">
-        
-            <p class='right-to-left'><span class="translation-title">اردو</span>لیکن تم دنیا کی زندگی کو ترجیح دیتے ہو</p>
-            
-            <p class='right-to-left'><span class="translation-title">فارسی</span>بلکه شما زندگی دنیا را برمی‌گزینید</p>
-            
-            <p class='left-to-right'><span class="translation-title">English</span>But you prefer the worldly life.</p>
-            
-            <p class='left-to-right'><span class="translation-title left-to-right">Transliteration</span>Bal tu’thirūna al-ḥayāta ad-dunyā</p>
-            <div class='adad-row'>
-                <div class='total-qamari-span'><span class="translation-title">قمري عدد</span> <strong class='total-value'>1345</strong></div>
-                <div class='total-bayenati-span'><span class="translation-title">باطني عدد</span> <strong class='total-value'>728</strong></div>
-                <div class='total-malfuzi-span'><span class="translation-title">ملفوظي عدد</span> <strong class='total-value'>2073</strong></div>
-            </div>
-            
-        </div>
-        
-            
-        </div>
-        
-        <div class="verse-section">
-            
-        <div class="verse-container">
-            <div class="original-text">
-                <p class="arabic-text">وَالْآخِرَةُ خَيْرٌ وَأَبْقَىٰ <span class='ayah-marker'>87:17</span></p>
-            </div>
-        </div>
-        
-            
-        <div class="calculation">
-            <table class="qamari-malfuzi-table">
+</div>
+
+    
+<div class="translations">
+
+<p class='right-to-left'><span class="translation-title">اردو</span>لیکن تم دنیا کی زندگی کو ترجیح دیتے ہو</p>
+
+<p class='right-to-left'><span class="translation-title">فارسی</span>بلکه شما زندگی دنیا را برمی‌گزینید</p>
+
+<p class='left-to-right'><span class="translation-title">English</span>But you prefer the worldly life.</p>
+
+<p class='left-to-right'><span class="translation-title left-to-right">Transliteration</span>Bal tu’thirūna al-ḥayāta ad-dunyā</p>
+<div class='adad-row'>
+    <div class='total-qamari-span'><span class="translation-title">قمري عدد</span> <strong class='total-value'>1345</strong></div>
+    <div class='total-bayenati-span'><span class="translation-title">باطني عدد</span> <strong class='total-value'>728</strong></div>
+    <div class='total-malfuzi-span'><span class="translation-title">ملفوظي عدد</span> <strong class='total-value'>2073</strong></div>
+</div>
+
+</div>
+
+</div>
+
+<div class="verse-section">
+    
+<div class="verse-container">
+    <div class="original-text">
+        <p class="arabic-text">وَالْآخِرَةُ خَيْرٌ وَأَبْقَىٰ <span class='ayah-marker'>87:17</span></p>
+    </div>
+</div>
+
+    
+<div class="calculation">
+    <table class="qamari-malfuzi-table">
 <tr class="letter-row letter-value-row">
 <td class="light-letter-left-border">و</td>
 <td class="light-letter-left-border">ا</td>
@@ -2253,40 +2446,39 @@
 </tr>
 </table>
 
-        </div>
-        
-            
-        <div class="translations">
-        
-            <p class='right-to-left'><span class="translation-title">اردو</span>حالانکہ آخرت بہتر اور باقی رہنے والی ہے</p>
-            
-            <p class='right-to-left'><span class="translation-title">فارسی</span>در حالی که آخرت بهتر و پایدارتر است</p>
-            
-            <p class='left-to-right'><span class="translation-title">English</span>While the Hereafter is better and more lasting.</p>
-            
-            <p class='left-to-right'><span class="translation-title left-to-right">Transliteration</span>Wa al-ākhiratu khayrun wa abqā</p>
-            <div class='adad-row'>
-                <div class='total-qamari-span'><span class="translation-title">قمري عدد</span> <strong class='total-value'>1772</strong></div>
-                <div class='total-bayenati-span'><span class="translation-title">باطني عدد</span> <strong class='total-value'>474</strong></div>
-                <div class='total-malfuzi-span'><span class="translation-title">ملفوظي عدد</span> <strong class='total-value'>2246</strong></div>
-            </div>
-            
-        </div>
-        
-            
-        </div>
-        
-        <div class="verse-section">
-            
-        <div class="verse-container">
-            <div class="original-text">
-                <p class="arabic-text">إِنَّ هَٰذَا لَفِي الصُّحُفِ الْأُولَىٰ <span class='ayah-marker'>87:18</span></p>
-            </div>
-        </div>
-        
-            
-        <div class="calculation">
-            <table class="qamari-malfuzi-table">
+</div>
+
+    
+<div class="translations">
+
+<p class='right-to-left'><span class="translation-title">اردو</span>حالانکہ آخرت بہتر اور باقی رہنے والی ہے</p>
+
+<p class='right-to-left'><span class="translation-title">فارسی</span>در حالی که آخرت بهتر و پایدارتر است</p>
+
+<p class='left-to-right'><span class="translation-title">English</span>While the Hereafter is better and more lasting.</p>
+
+<p class='left-to-right'><span class="translation-title left-to-right">Transliteration</span>Wa al-ākhiratu khayrun wa abqā</p>
+<div class='adad-row'>
+    <div class='total-qamari-span'><span class="translation-title">قمري عدد</span> <strong class='total-value'>1772</strong></div>
+    <div class='total-bayenati-span'><span class="translation-title">باطني عدد</span> <strong class='total-value'>474</strong></div>
+    <div class='total-malfuzi-span'><span class="translation-title">ملفوظي عدد</span> <strong class='total-value'>2246</strong></div>
+</div>
+
+</div>
+
+</div>
+
+<div class="verse-section">
+    
+<div class="verse-container">
+    <div class="original-text">
+        <p class="arabic-text">إِنَّ هَٰذَا لَفِي الصُّحُفِ الْأُولَىٰ <span class='ayah-marker'>87:18</span></p>
+    </div>
+</div>
+
+    
+<div class="calculation">
+    <table class="qamari-malfuzi-table">
 <tr class="letter-row letter-value-row">
 <td class="light-letter-left-border">إ</td>
 <td class="dark-letter-left-border">ن</td>
@@ -2373,40 +2565,39 @@
 </tr>
 </table>
 
-        </div>
-        
-            
-        <div class="translations">
-        
-            <p class='right-to-left'><span class="translation-title">اردو</span>یقیناً یہ (باتیں) پہلی کتابوں میں بھی ہیں</p>
-            
-            <p class='right-to-left'><span class="translation-title">فارسی</span>قطعاً این مطالب در صحیفه‌های پیشین نیز بوده است</p>
-            
-            <p class='left-to-right'><span class="translation-title">English</span>Indeed, this is in the former scriptures.</p>
-            
-            <p class='left-to-right'><span class="translation-title left-to-right">Transliteration</span>Inna hādhā la-fī aṣ-ṣuḥufi al-ūlā</p>
-            <div class='adad-row'>
-                <div class='total-qamari-span'><span class="translation-title">قمري عدد</span> <strong class='total-value'>1164</strong></div>
-                <div class='total-bayenati-span'><span class="translation-title">باطني عدد</span> <strong class='total-value'>819</strong></div>
-                <div class='total-malfuzi-span'><span class="translation-title">ملفوظي عدد</span> <strong class='total-value'>1983</strong></div>
-            </div>
-            
-        </div>
-        
-            
-        </div>
-        
-        <div class="verse-section">
-            
-        <div class="verse-container">
-            <div class="original-text">
-                <p class="arabic-text">صُحُفِ إِبْرَاهِيمَ وَمُوسَىٰ <span class='ayah-marker'>87:19</span></p>
-            </div>
-        </div>
-        
-            
-        <div class="calculation">
-            <table class="qamari-malfuzi-table">
+</div>
+
+    
+<div class="translations">
+
+<p class='right-to-left'><span class="translation-title">اردو</span>یقیناً یہ (باتیں) پہلی کتابوں میں بھی ہیں</p>
+
+<p class='right-to-left'><span class="translation-title">فارسی</span>قطعاً این مطالب در صحیفه‌های پیشین نیز بوده است</p>
+
+<p class='left-to-right'><span class="translation-title">English</span>Indeed, this is in the former scriptures.</p>
+
+<p class='left-to-right'><span class="translation-title left-to-right">Transliteration</span>Inna hādhā la-fī aṣ-ṣuḥufi al-ūlā</p>
+<div class='adad-row'>
+    <div class='total-qamari-span'><span class="translation-title">قمري عدد</span> <strong class='total-value'>1164</strong></div>
+    <div class='total-bayenati-span'><span class="translation-title">باطني عدد</span> <strong class='total-value'>819</strong></div>
+    <div class='total-malfuzi-span'><span class="translation-title">ملفوظي عدد</span> <strong class='total-value'>1983</strong></div>
+</div>
+
+</div>
+
+</div>
+
+<div class="verse-section">
+    
+<div class="verse-container">
+    <div class="original-text">
+        <p class="arabic-text">صُحُفِ إِبْرَاهِيمَ وَمُوسَىٰ <span class='ayah-marker'>87:19</span></p>
+    </div>
+</div>
+
+    
+<div class="calculation">
+    <table class="qamari-malfuzi-table">
 <tr class="letter-row letter-value-row">
 <td class="light-letter-left-border">ص</td>
 <td class="light-letter-left-border">ح</td>
@@ -2475,44 +2666,108 @@
 </tr>
 </table>
 
-        </div>
-        
-            
-        <div class="translations">
-        
-            <p class='right-to-left'><span class="translation-title">اردو</span>یعنی ابراہیم اور موسیٰ کی کتابوں میں</p>
-            
-            <p class='right-to-left'><span class="translation-title">فارسی</span>یعنی صحیفه‌های ابراهیم و موسی</p>
-            
-            <p class='left-to-right'><span class="translation-title">English</span>The scriptures of Abraham and Moses.</p>
-            
-            <p class='left-to-right'><span class="translation-title left-to-right">Transliteration</span>Ṣuḥufi Ibrāhīma wa Mūsā</p>
-            <div class='adad-row'>
-                <div class='total-qamari-span'><span class="translation-title">قمري عدد</span> <strong class='total-value'>559</strong></div>
-                <div class='total-bayenati-span'><span class="translation-title">باطني عدد</span> <strong class='total-value'>406</strong></div>
-                <div class='total-malfuzi-span'><span class="translation-title">ملفوظي عدد</span> <strong class='total-value'>965</strong></div>
-            </div>
-            
-        </div>
-        
-            
-        </div>
-        
-            <div class="grand-total">
-                <div class='qamari-grand-total'>
-                    <h3>مجموع القمري</h3>
-                    <p><strong>25496</strong></p>
-                </div>
-                <div class='batini-grand-total'>
-                    <h3>مجموع الباطني</h3>
-                    <p><strong>11104</strong></p>
-                </div>
-                <div class='malfuzi-grand-total'>
-                    <h3>مجموع الملفوظي</h3>
-                    <p><strong>36600</strong></p>
-                </div>
-            </div>
-        </div>
-    </body>
-    </html>
+</div>
+
     
+<div class="translations">
+
+<p class='right-to-left'><span class="translation-title">اردو</span>یعنی ابراہیم اور موسیٰ کی کتابوں میں</p>
+
+<p class='right-to-left'><span class="translation-title">فارسی</span>یعنی صحیفه‌های ابراهیم و موسی</p>
+
+<p class='left-to-right'><span class="translation-title">English</span>The scriptures of Abraham and Moses.</p>
+
+<p class='left-to-right'><span class="translation-title left-to-right">Transliteration</span>Ṣuḥufi Ibrāhīma wa Mūsā</p>
+<div class='adad-row'>
+    <div class='total-qamari-span'><span class="translation-title">قمري عدد</span> <strong class='total-value'>559</strong></div>
+    <div class='total-bayenati-span'><span class="translation-title">باطني عدد</span> <strong class='total-value'>406</strong></div>
+    <div class='total-malfuzi-span'><span class="translation-title">ملفوظي عدد</span> <strong class='total-value'>965</strong></div>
+</div>
+
+</div>
+
+</div>
+
+<div class="grand-total">
+    <div class='qamari-grand-total'>
+        <h3>مجموع القمري</h3>
+        <p><strong>25496</strong></p>
+    </div>
+    <div class='batini-grand-total'>
+        <h3>مجموع الباطني</h3>
+        <p><strong>11104</strong></p>
+    </div>
+    <div class='malfuzi-grand-total'>
+        <h3>مجموع الملفوظي</h3>
+        <p><strong>36600</strong></p>
+    </div>
+</div>
+
+    </div>
+</body>
+<script>
+    document.addEventListener("DOMContentLoaded", function () {
+      // Define selectors for toggle switches
+      const toggleSwitches = {
+        "toggle-calculation": ".calculation",
+        "toggle-translation-urdu":
+          '.translations p:has(.translation-title:contains("اردو"))',
+        "toggle-translation-farsi":
+          '.translations p:has(.translation-title:contains("فارسی"))',
+        "toggle-translation-english":
+          '.translations p:has(.translation-title:contains("English"))',
+        "toggle-translation-transliteration":
+          '.translations p:has(.translation-title:contains("Transliteration"))',
+        "toggle-totals": ".adad-row, .grand-total",
+      };
+
+      // Simple function to find elements with text content
+      function findElementsWithText(containerSelector, textContent) {
+        const containers = document.querySelectorAll(containerSelector);
+        return Array.from(containers).filter((container) => {
+          const titleElement = container.querySelector(".translation-title");
+          return titleElement && titleElement.textContent.includes(textContent);
+        });
+      }
+
+      // Set up change handlers for toggle switches
+      for (const [switchId, selector] of Object.entries(toggleSwitches)) {
+        const toggleSwitch = document.getElementById(switchId);
+
+        toggleSwitch.addEventListener("change", function () {
+          const isVisible = this.checked;
+
+          if (selector.includes(":has")) {
+            // For selectors using :has which might not be supported in all browsers
+            let elements;
+
+            if (selector.includes("اردو")) {
+              elements = findElementsWithText(".translations p", "اردو");
+            } else if (selector.includes("فارسی")) {
+              elements = findElementsWithText(".translations p", "فارسی");
+            } else if (selector.includes("English")) {
+              elements = findElementsWithText(".translations p", "English");
+            } else if (selector.includes("Transliteration")) {
+              elements = findElementsWithText(
+                ".translations p",
+                "Transliteration"
+              );
+            } else {
+              elements = [];
+            }
+
+            elements.forEach((element) => {
+              element.style.display = isVisible ? "" : "none";
+            });
+          } else {
+            // For standard CSS selectors
+            const elements = document.querySelectorAll(selector);
+            elements.forEach((element) => {
+              element.style.display = isVisible ? "" : "none";
+            });
+          }
+        });
+      }
+    });
+</script>
+</html>

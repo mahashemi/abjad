@@ -1,11 +1,14 @@
 <!DOCTYPE html>
-<html lang="en">
+<html dir="rtl" lang="ar">
   <head>
     <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Golden Quranic Surah Books</title>
     <style>
+      @import url('https://fonts.googleapis.com/css2?family=Amiri:wght@400;700&family=Scheherazade+New:wght@400;700&display=swap');
+        
       body {
-        font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+        font-family: 'Scheherazade New', 'Amiri', 'Traditional Arabic', serif;
         background-color: #f5f0e6;
         padding: 40px;
         color: #333;
@@ -148,7 +151,7 @@
         outline: 1px solid #b08b32;
       }
 
-      .arabic-name {
+      .verse-count {
         position: absolute;
         bottom: 8px;
         right: 8px;
@@ -176,50 +179,27 @@
         text-align: center;
       }
 
-      /* Removed verse-count class as we're using arabic-name positioning for verse count */
+      /* Removed verse-count class as we're using verse-count positioning for verse count */
 
-      @media (max-width: 1024px) {
+      @media (max-width: 768px) {
       .surah-book {
         width: calc(50% - 20px);
         min-width: 120px;
-        height: 220px;
+        /* height: 220px; */
       }
 
       .surah-name {
-        font-size: 42px;
+        font-size: 32px;
       }
 
-      .arabic-name {
-        font-size: 32px;
+      .verse-count {
+        font-size: 16px;
       }
 
       .surah-number {
-        height: 52px;
-        font-size: 20px;
+        font-size: 16px;
       }
 
-      h1 {
-        font-size: 55px;
-      }
-    }
-
-    @media (max-width: 480px) {
-      .surah-container {
-        gap: 12px;
-      }
-
-      .surah-book {
-        width: calc(100% - 10px);
-        /* Full width on very small screens */
-        max-width: 300px;
-        height: 90px;
-        margin: 0 auto;
-      }
-
-      h1 {
-        font-size: 32px;
-        margin-bottom: 20px;
-      }
     }
     </style>
   </head>
@@ -281,7 +261,7 @@
               // Create surah number badge
               const numberBadge = document.createElement("span");
               numberBadge.className = "surah-number";
-              numberBadge.textContent = `${f.surahNum} سورة`;
+              numberBadge.textContent = `سورة ${f.surahNum} `;
 
               // Create Arabic name element as the main central element
               const nameDiv = document.createElement("div");
@@ -291,8 +271,8 @@
               // Add verse count if available (bottom right)
               if (verseCount) {
                 const verseCountSpan = document.createElement("span");
-                verseCountSpan.className = "arabic-name"; // Using the arabic-name class for positioning
-                verseCountSpan.textContent = `${verseCount} عدد آياتها`;
+                verseCountSpan.className = "verse-count"; // Using the verse-count class for positioning
+                verseCountSpan.textContent = ` عدد آياتها ${verseCount}`;
                 bookLink.appendChild(verseCountSpan);
               }
 

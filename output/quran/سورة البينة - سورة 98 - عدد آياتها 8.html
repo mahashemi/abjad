@@ -363,6 +363,155 @@
         }
 
         
+        .toggle-panel {
+            position: sticky;
+            top: 0;
+            background-color: var(--verse-bg);
+            border-radius: 8px;
+            margin: 10px auto;
+            /* padding: 15px; */
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+            z-index: 100;
+            max-width: 1020px;
+            border: 2px solid var(--border-color);
+            direction: rtl;
+        }
+
+        .toggle-section {
+            margin-bottom: 10px;
+            display: flex;
+            flex-wrap: wrap;
+            align-items: center;
+            justify-content: center;
+        }
+        
+        .toggle-item {
+            display: inline-table;
+            align-items: center;
+            margin: 8px 12px;
+            font-family: 'Amiri', 'Traditional Arabic', serif;
+        }
+        
+        .toggle-item label {
+            margin: 0 8px;
+            font-size: 16px;
+            color: var(--primary-color);
+            cursor: pointer;
+            display: grid;
+            text-align: center;
+        }
+        
+        /* Toggle Switch Styles */
+        .toggle-switch {
+            position: relative;
+            /* display: inline-block; */
+            width: 65px;
+            height: 24px;
+        }
+        
+        .toggle-switch input {
+            opacity: 0;
+            width: 0;
+            height: 0;
+        }
+        
+        .slider {
+            position: absolute;
+            cursor: pointer;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background-color: #ccc;
+            transition: .3s;
+            border-radius: 24px;
+        }
+        
+        .slider:before {
+            position: absolute;
+            content: "";
+            height: 18px;
+            width: 18px;
+            left: 3px;
+            bottom: 3px;
+            background-color: white;
+            transition: .3s;
+            border-radius: 50%;
+        }
+        
+        input:checked + .slider {
+            background-color: var(--primary-color);
+        }
+        
+        input:checked + .slider:before {
+            transform: translateX(225%);
+        }
+        
+        .toggle-section-title {
+            width: 100%;
+            text-align: center;
+            color: var(--secondary-color);
+            font-weight: bold;
+            /* margin-bottom: 5px; */
+            font-size: 18px;
+        }
+
+        /* Section separators */
+        .toggle-section:not(:last-child) {
+            border-bottom: 1px solid #daa52078;
+            padding-bottom: 10px;
+        }
+        
+        /* Mobile responsive design */
+        @media screen and (max-width: 768px) {
+            .toggle-panel {
+                padding: 10px 5px;
+            }
+            
+            .toggle-item {
+                margin: 6px;
+            }
+            
+            .toggle-item label {
+                font-size: 14px;
+            }
+            
+            .toggle-switch {
+                width: 40px;
+                height: 20px;
+            }
+            
+            .slider:before {
+                height: 14px;
+                width: 14px;
+            }
+            
+            input:checked + .slider:before {
+                transform: translateX(20px);
+            }
+        }
+        
+        @media screen and (max-width: 480px) {
+            .toggle-section {
+                justify-content: flex-start;
+                overflow-x: auto;
+                padding-bottom: 5px;
+                -webkit-overflow-scrolling: touch;
+            }
+            
+            .toggle-section-content {
+                display: block;
+                text-align: center;
+                flex-wrap: nowrap;
+                min-width: 100%;
+            }
+        }
+        
+        @media print {
+            .toggle-panel {
+                display: none;
+            }
+        }
         
         /* Print-specific styles */
         @media print {
@@ -473,23 +622,83 @@
     </style>
 </head>
 <body>
+
+    <div class="toggle-panel container">
+        <div class="toggle-section">
+            <div class="toggle-section-title">التحليل</div>
+            <div class="toggle-section-content">
+                <div class="toggle-item">
+                    <label class="toggle-switch">
+                        <input type="checkbox" id="toggle-calculation" checked>
+                        <span class="slider"></span>
+                    </label>
+                    <label for="toggle-calculation">حساب الجمل</label>
+                </div>
+                
+                <div class="toggle-item">
+                    <label class="toggle-switch">
+                        <input type="checkbox" id="toggle-totals" checked>
+                        <span class="slider"></span>
+                    </label>
+                    <label for="toggle-totals">المجموع</label>
+                </div>
+            </div>
+        </div>
+        
+        <div class="toggle-section">
+            <div class="toggle-section-title">التراجم</div>
+            <div class="toggle-section-content">
+                <div class="toggle-item">
+                    <label class="toggle-switch">
+                        <input type="checkbox" id="toggle-translation-urdu" checked>
+                        <span class="slider"></span>
+                    </label>
+                    <label for="toggle-translation-urdu">اردو</label>
+                </div>
+                
+                <div class="toggle-item">
+                    <label class="toggle-switch">
+                        <input type="checkbox" id="toggle-translation-farsi" checked>
+                        <span class="slider"></span>
+                    </label>
+                    <label for="toggle-translation-farsi">فارسی</label>
+                </div>
+                
+                <div class="toggle-item">
+                    <label class="toggle-switch">
+                        <input type="checkbox" id="toggle-translation-english" checked>
+                        <span class="slider"></span>
+                    </label>
+                    <label for="toggle-translation-english">English</label>
+                </div>
+                
+                <div class="toggle-item">
+                    <label class="toggle-switch">
+                        <input type="checkbox" id="toggle-translation-transliteration" checked>
+                        <span class="slider"></span>
+                    </label>
+                    <label for="toggle-translation-transliteration">Transliteration</label>
+                </div>
+            </div>
+        </div>
+    </div>
     <div class="surah_header container">
         <h1>سورة البينة - سورة 98 - عدد آياتها 8</h1>
         <h2>بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ</h2>
     </div>
     <div class="container">
-
-        <div class="verse-section">
-            
-        <div class="verse-container">
-            <div class="original-text">
-                <p class="arabic-text">لَمْ يَكُنِ الَّذِينَ كَفَرُوا مِنْ اَهْلِ الْكِتَـٰبِ وَالْمُشْرِكِينَ مُنفَكِّينَ حَتَّىٰ تَاْتِيَهُمُ الْبَيِّنَةُ <span class='ayah-marker'>1</span></p>
-            </div>
-        </div>
         
-            
-        <div class="calculation">
-            <table class="qamari-malfuzi-table">
+<div class="verse-section">
+    
+<div class="verse-container">
+    <div class="original-text">
+        <p class="arabic-text">لَمْ يَكُنِ الَّذِينَ كَفَرُوا مِنْ اَهْلِ الْكِتَـٰبِ وَالْمُشْرِكِينَ مُنفَكِّينَ حَتَّىٰ تَاْتِيَهُمُ الْبَيِّنَةُ <span class='ayah-marker'>1</span></p>
+    </div>
+</div>
+
+    
+<div class="calculation">
+    <table class="qamari-malfuzi-table">
 <tr class="letter-row letter-value-row">
 <td class="light-letter-left-border">ل</td>
 <td class="dark-letter-left-border">م</td>
@@ -708,40 +917,39 @@
 </tr>
 </table>
 
-        </div>
-        
-            
-        <div class="translations">
-        
-            <p class='right-to-left'><span class="translation-title">اردو</span>کافر لوگ، اہل کتاب اور مشرکین میں سے باز آنے والے نہ تھے جب تک کہ ان کے پاس کھلی دلیل نہ آ جائے</p>
-            
-            <p class='right-to-left'><span class="translation-title">فارسی</span>کافران از اهل کتاب و مشرکان بازنمی‌گردند تا زمانی که دلیل روشنی برایشان بیاید.</p>
-            
-            <p class='left-to-right'><span class="translation-title">English</span>The disbelievers among the People of the Book and the polytheists were not to desist until there came to them clear evidence.</p>
-            
-            <p class='left-to-right'><span class="translation-title left-to-right">Transliteration</span>Lam yakuni alladhīna kafarū min ahli al-kitābi wa al-mushrikīna munfakkīna ḥattā ta’tiyahumu al-bayyinah</p>
-            <div class='adad-row'>
-                <div class='total-qamari-span'><span class="translation-title">قمري عدد</span> <strong class='total-value'>4106</strong></div>
-                <div class='total-bayenati-span'><span class="translation-title">باطني عدد</span> <strong class='total-value'>2189</strong></div>
-                <div class='total-malfuzi-span'><span class="translation-title">ملفوظي عدد</span> <strong class='total-value'>6295</strong></div>
-            </div>
-            
-        </div>
-        
-            
-        </div>
-        
-        <div class="verse-section">
-            
-        <div class="verse-container">
-            <div class="original-text">
-                <p class="arabic-text">رَسُولٌۭ مِّنَ اللَّهِ يَتْلُوا صُحُفًۭا مُّطَهَّرَةًۭ <span class='ayah-marker'>2</span></p>
-            </div>
-        </div>
-        
-            
-        <div class="calculation">
-            <table class="qamari-malfuzi-table">
+</div>
+
+    
+<div class="translations">
+
+<p class='right-to-left'><span class="translation-title">اردو</span>کافر لوگ، اہل کتاب اور مشرکین میں سے باز آنے والے نہ تھے جب تک کہ ان کے پاس کھلی دلیل نہ آ جائے</p>
+
+<p class='right-to-left'><span class="translation-title">فارسی</span>کافران از اهل کتاب و مشرکان بازنمی‌گردند تا زمانی که دلیل روشنی برایشان بیاید.</p>
+
+<p class='left-to-right'><span class="translation-title">English</span>The disbelievers among the People of the Book and the polytheists were not to desist until there came to them clear evidence.</p>
+
+<p class='left-to-right'><span class="translation-title left-to-right">Transliteration</span>Lam yakuni alladhīna kafarū min ahli al-kitābi wa al-mushrikīna munfakkīna ḥattā ta’tiyahumu al-bayyinah</p>
+<div class='adad-row'>
+    <div class='total-qamari-span'><span class="translation-title">قمري عدد</span> <strong class='total-value'>4106</strong></div>
+    <div class='total-bayenati-span'><span class="translation-title">باطني عدد</span> <strong class='total-value'>2189</strong></div>
+    <div class='total-malfuzi-span'><span class="translation-title">ملفوظي عدد</span> <strong class='total-value'>6295</strong></div>
+</div>
+
+</div>
+
+</div>
+
+<div class="verse-section">
+    
+<div class="verse-container">
+    <div class="original-text">
+        <p class="arabic-text">رَسُولٌۭ مِّنَ اللَّهِ يَتْلُوا صُحُفًۭا مُّطَهَّرَةًۭ <span class='ayah-marker'>2</span></p>
+    </div>
+</div>
+
+    
+<div class="calculation">
+    <table class="qamari-malfuzi-table">
 <tr class="letter-row letter-value-row">
 <td class="light-letter-left-border">ر</td>
 <td class="light-letter-left-border">س</td>
@@ -846,40 +1054,39 @@
 </tr>
 </table>
 
-        </div>
-        
-            
-        <div class="translations">
-        
-            <p class='right-to-left'><span class="translation-title">اردو</span>اللہ کا ایک رسول جو پاکیزہ صحیفے پڑھ کر سناتا ہے</p>
-            
-            <p class='right-to-left'><span class="translation-title">فارسی</span>فرستاده‌ای از سوی خدا که صحیفه‌های پاک را تلاوت می‌کند.</p>
-            
-            <p class='left-to-right'><span class="translation-title">English</span>A messenger from Allah, reciting purified scriptures.</p>
-            
-            <p class='left-to-right'><span class="translation-title left-to-right">Transliteration</span>Rasūlun mina Allāhi yatlū ṣuḥufan muṭahharah</p>
-            <div class='adad-row'>
-                <div class='total-qamari-span'><span class="translation-title">قمري عدد</span> <strong class='total-value'>1337</strong></div>
-                <div class='total-bayenati-span'><span class="translation-title">باطني عدد</span> <strong class='total-value'>739</strong></div>
-                <div class='total-malfuzi-span'><span class="translation-title">ملفوظي عدد</span> <strong class='total-value'>2076</strong></div>
-            </div>
-            
-        </div>
-        
-            
-        </div>
-        
-        <div class="verse-section">
-            
-        <div class="verse-container">
-            <div class="original-text">
-                <p class="arabic-text">فِيهَا كُتُبٌ قَيِّمَةٌۭ <span class='ayah-marker'>3</span></p>
-            </div>
-        </div>
-        
-            
-        <div class="calculation">
-            <table class="qamari-malfuzi-table">
+</div>
+
+    
+<div class="translations">
+
+<p class='right-to-left'><span class="translation-title">اردو</span>اللہ کا ایک رسول جو پاکیزہ صحیفے پڑھ کر سناتا ہے</p>
+
+<p class='right-to-left'><span class="translation-title">فارسی</span>فرستاده‌ای از سوی خدا که صحیفه‌های پاک را تلاوت می‌کند.</p>
+
+<p class='left-to-right'><span class="translation-title">English</span>A messenger from Allah, reciting purified scriptures.</p>
+
+<p class='left-to-right'><span class="translation-title left-to-right">Transliteration</span>Rasūlun mina Allāhi yatlū ṣuḥufan muṭahharah</p>
+<div class='adad-row'>
+    <div class='total-qamari-span'><span class="translation-title">قمري عدد</span> <strong class='total-value'>1337</strong></div>
+    <div class='total-bayenati-span'><span class="translation-title">باطني عدد</span> <strong class='total-value'>739</strong></div>
+    <div class='total-malfuzi-span'><span class="translation-title">ملفوظي عدد</span> <strong class='total-value'>2076</strong></div>
+</div>
+
+</div>
+
+</div>
+
+<div class="verse-section">
+    
+<div class="verse-container">
+    <div class="original-text">
+        <p class="arabic-text">فِيهَا كُتُبٌ قَيِّمَةٌۭ <span class='ayah-marker'>3</span></p>
+    </div>
+</div>
+
+    
+<div class="calculation">
+    <table class="qamari-malfuzi-table">
 <tr class="letter-row letter-value-row">
 <td class="light-letter-left-border">ف</td>
 <td class="light-letter-left-border">ي</td>
@@ -936,40 +1143,39 @@
 </tr>
 </table>
 
-        </div>
-        
-            
-        <div class="translations">
-        
-            <p class='right-to-left'><span class="translation-title">اردو</span>جن میں صحیح اور درست احکام درج ہیں</p>
-            
-            <p class='right-to-left'><span class="translation-title">فارسی</span>که در آن‌ها نوشته‌هایی استوار و درست است.</p>
-            
-            <p class='left-to-right'><span class="translation-title">English</span>Within which are correct and upright writings.</p>
-            
-            <p class='left-to-right'><span class="translation-title left-to-right">Transliteration</span>Fīhā kutubun qayyimah</p>
-            <div class='adad-row'>
-                <div class='total-qamari-span'><span class="translation-title">قمري عدد</span> <strong class='total-value'>673</strong></div>
-                <div class='total-bayenati-span'><span class="translation-title">باطني عدد</span> <strong class='total-value'>329</strong></div>
-                <div class='total-malfuzi-span'><span class="translation-title">ملفوظي عدد</span> <strong class='total-value'>1002</strong></div>
-            </div>
-            
-        </div>
-        
-            
-        </div>
-        
-        <div class="verse-section">
-            
-        <div class="verse-container">
-            <div class="original-text">
-                <p class="arabic-text">وَمَا تَفَرَّقَ الَّذِينَ اُوتُوا الْكِتَـٰبَ اِلَّا مِن بَعْدِ مَا جَآءَتْهُمُ الْبَيِّنَةُ <span class='ayah-marker'>4</span></p>
-            </div>
-        </div>
-        
-            
-        <div class="calculation">
-            <table class="qamari-malfuzi-table">
+</div>
+
+    
+<div class="translations">
+
+<p class='right-to-left'><span class="translation-title">اردو</span>جن میں صحیح اور درست احکام درج ہیں</p>
+
+<p class='right-to-left'><span class="translation-title">فارسی</span>که در آن‌ها نوشته‌هایی استوار و درست است.</p>
+
+<p class='left-to-right'><span class="translation-title">English</span>Within which are correct and upright writings.</p>
+
+<p class='left-to-right'><span class="translation-title left-to-right">Transliteration</span>Fīhā kutubun qayyimah</p>
+<div class='adad-row'>
+    <div class='total-qamari-span'><span class="translation-title">قمري عدد</span> <strong class='total-value'>673</strong></div>
+    <div class='total-bayenati-span'><span class="translation-title">باطني عدد</span> <strong class='total-value'>329</strong></div>
+    <div class='total-malfuzi-span'><span class="translation-title">ملفوظي عدد</span> <strong class='total-value'>1002</strong></div>
+</div>
+
+</div>
+
+</div>
+
+<div class="verse-section">
+    
+<div class="verse-container">
+    <div class="original-text">
+        <p class="arabic-text">وَمَا تَفَرَّقَ الَّذِينَ اُوتُوا الْكِتَـٰبَ اِلَّا مِن بَعْدِ مَا جَآءَتْهُمُ الْبَيِّنَةُ <span class='ayah-marker'>4</span></p>
+    </div>
+</div>
+
+    
+<div class="calculation">
+    <table class="qamari-malfuzi-table">
 <tr class="letter-row letter-value-row">
 <td class="light-letter-left-border">و</td>
 <td class="light-letter-left-border">م</td>
@@ -1152,40 +1358,39 @@
 </tr>
 </table>
 
-        </div>
-        
-            
-        <div class="translations">
-        
-            <p class='right-to-left'><span class="translation-title">اردو</span>اور اہل کتاب کے وہ لوگ فرقوں میں نہ بٹے تھے جب تک ان کے پاس کھلی دلیل نہ آ گئی</p>
-            
-            <p class='right-to-left'><span class="translation-title">فارسی</span>و کسانی که کتاب به آنان داده شده بود، پراکنده نشدند مگر پس از آنکه دلیل روشن برایشان آمد.</p>
-            
-            <p class='left-to-right'><span class="translation-title">English</span>Nor did those who were given the Scripture become divided until after there had come to them clear evidence.</p>
-            
-            <p class='left-to-right'><span class="translation-title left-to-right">Transliteration</span>Wa mā tafarraqa alladhīna ūtū al-kitāba illā min baʿdi mā jā’athumu al-bayyinah</p>
-            <div class='adad-row'>
-                <div class='total-qamari-span'><span class="translation-title">قمري عدد</span> <strong class='total-value'>3271</strong></div>
-                <div class='total-bayenati-span'><span class="translation-title">باطني عدد</span> <strong class='total-value'>2000</strong></div>
-                <div class='total-malfuzi-span'><span class="translation-title">ملفوظي عدد</span> <strong class='total-value'>5271</strong></div>
-            </div>
-            
-        </div>
-        
-            
-        </div>
-        
-        <div class="verse-section">
-            
-        <div class="verse-container">
-            <div class="original-text">
-                <p class="arabic-text">وَمَآ اُمِرُوٓا اِلَّا لِيَعْبُدُوا اللَّهَ مُخْلِصِينَ لَهُ الدِّينَ حُنَفَآءَ وَيُقِيمُوا الصَّلَوٰةَ وَيُؤْتُوا الزَّكَوٰةَ ۚ وَذَٰلِكَ دِينُ الْقَيِّمَةِ <span class='ayah-marker'>5</span></p>
-            </div>
-        </div>
-        
-            
-        <div class="calculation">
-            <table class="qamari-malfuzi-table">
+</div>
+
+    
+<div class="translations">
+
+<p class='right-to-left'><span class="translation-title">اردو</span>اور اہل کتاب کے وہ لوگ فرقوں میں نہ بٹے تھے جب تک ان کے پاس کھلی دلیل نہ آ گئی</p>
+
+<p class='right-to-left'><span class="translation-title">فارسی</span>و کسانی که کتاب به آنان داده شده بود، پراکنده نشدند مگر پس از آنکه دلیل روشن برایشان آمد.</p>
+
+<p class='left-to-right'><span class="translation-title">English</span>Nor did those who were given the Scripture become divided until after there had come to them clear evidence.</p>
+
+<p class='left-to-right'><span class="translation-title left-to-right">Transliteration</span>Wa mā tafarraqa alladhīna ūtū al-kitāba illā min baʿdi mā jā’athumu al-bayyinah</p>
+<div class='adad-row'>
+    <div class='total-qamari-span'><span class="translation-title">قمري عدد</span> <strong class='total-value'>3271</strong></div>
+    <div class='total-bayenati-span'><span class="translation-title">باطني عدد</span> <strong class='total-value'>2000</strong></div>
+    <div class='total-malfuzi-span'><span class="translation-title">ملفوظي عدد</span> <strong class='total-value'>5271</strong></div>
+</div>
+
+</div>
+
+</div>
+
+<div class="verse-section">
+    
+<div class="verse-container">
+    <div class="original-text">
+        <p class="arabic-text">وَمَآ اُمِرُوٓا اِلَّا لِيَعْبُدُوا اللَّهَ مُخْلِصِينَ لَهُ الدِّينَ حُنَفَآءَ وَيُقِيمُوا الصَّلَوٰةَ وَيُؤْتُوا الزَّكَوٰةَ ۚ وَذَٰلِكَ دِينُ الْقَيِّمَةِ <span class='ayah-marker'>5</span></p>
+    </div>
+</div>
+
+    
+<div class="calculation">
+    <table class="qamari-malfuzi-table">
 <tr class="letter-row letter-value-row">
 <td class="light-letter-left-border">و</td>
 <td class="light-letter-left-border">م</td>
@@ -1499,40 +1704,39 @@
 </tr>
 </table>
 
-        </div>
-        
-            
-        <div class="translations">
-        
-            <p class='right-to-left'><span class="translation-title">اردو</span>حالانکہ ان کو حکم یہی دیا گیا تھا کہ اللہ کی عبادت کریں، اسی کے لیے دین کو خالص کرتے ہوئے، یکسو ہو کر، نماز قائم کریں اور زکٰوۃ دیں۔ یہی سیدھا دین ہے</p>
-            
-            <p class='right-to-left'><span class="translation-title">فارسی</span>در حالی که به آنان فرمان داده نشده بود جز اینکه خدا را بپرستند در حالی که دین خود را برای او خالص می‌کنند، و نماز بپا دارند و زکات بدهند، و این است دین درست و استوار.</p>
-            
-            <p class='left-to-right'><span class="translation-title">English</span>And they were not commanded except to worship Allah, [being] sincere to Him in religion, inclining to truth, and to establish prayer and to give zakah. And that is the correct religion.</p>
-            
-            <p class='left-to-right'><span class="translation-title left-to-right">Transliteration</span>Wa mā umirū illā liyaʿbudū Allāha mukhliṣīna lahu al-dīna ḥunafā’a wa yuqīmū al-ṣalāta wa yu’tū al-zakāh; wa dhālika dīn al-qayyimah</p>
-            <div class='adad-row'>
-                <div class='total-qamari-span'><span class="translation-title">قمري عدد</span> <strong class='total-value'>3444</strong></div>
-                <div class='total-bayenati-span'><span class="translation-title">باطني عدد</span> <strong class='total-value'>3121</strong></div>
-                <div class='total-malfuzi-span'><span class="translation-title">ملفوظي عدد</span> <strong class='total-value'>6565</strong></div>
-            </div>
-            
-        </div>
-        
-            
-        </div>
-        
-        <div class="verse-section">
-            
-        <div class="verse-container">
-            <div class="original-text">
-                <p class="arabic-text">اِنَّ الَّذِينَ كَفَرُوا مِنْ اَهْلِ الْكِتَـٰبِ وَالْمُشْرِكِينَ فِى نَارِ جَهَنَّمَ خَـٰلِدِينَ فِيهَآ ۚ اُولَـٰٓئِكَ هُمْ شَرُّ الْبَرِيَّةِ <span class='ayah-marker'>6</span></p>
-            </div>
-        </div>
-        
-            
-        <div class="calculation">
-            <table class="qamari-malfuzi-table">
+</div>
+
+    
+<div class="translations">
+
+<p class='right-to-left'><span class="translation-title">اردو</span>حالانکہ ان کو حکم یہی دیا گیا تھا کہ اللہ کی عبادت کریں، اسی کے لیے دین کو خالص کرتے ہوئے، یکسو ہو کر، نماز قائم کریں اور زکٰوۃ دیں۔ یہی سیدھا دین ہے</p>
+
+<p class='right-to-left'><span class="translation-title">فارسی</span>در حالی که به آنان فرمان داده نشده بود جز اینکه خدا را بپرستند در حالی که دین خود را برای او خالص می‌کنند، و نماز بپا دارند و زکات بدهند، و این است دین درست و استوار.</p>
+
+<p class='left-to-right'><span class="translation-title">English</span>And they were not commanded except to worship Allah, [being] sincere to Him in religion, inclining to truth, and to establish prayer and to give zakah. And that is the correct religion.</p>
+
+<p class='left-to-right'><span class="translation-title left-to-right">Transliteration</span>Wa mā umirū illā liyaʿbudū Allāha mukhliṣīna lahu al-dīna ḥunafā’a wa yuqīmū al-ṣalāta wa yu’tū al-zakāh; wa dhālika dīn al-qayyimah</p>
+<div class='adad-row'>
+    <div class='total-qamari-span'><span class="translation-title">قمري عدد</span> <strong class='total-value'>3444</strong></div>
+    <div class='total-bayenati-span'><span class="translation-title">باطني عدد</span> <strong class='total-value'>3121</strong></div>
+    <div class='total-malfuzi-span'><span class="translation-title">ملفوظي عدد</span> <strong class='total-value'>6565</strong></div>
+</div>
+
+</div>
+
+</div>
+
+<div class="verse-section">
+    
+<div class="verse-container">
+    <div class="original-text">
+        <p class="arabic-text">اِنَّ الَّذِينَ كَفَرُوا مِنْ اَهْلِ الْكِتَـٰبِ وَالْمُشْرِكِينَ فِى نَارِ جَهَنَّمَ خَـٰلِدِينَ فِيهَآ ۚ اُولَـٰٓئِكَ هُمْ شَرُّ الْبَرِيَّةِ <span class='ayah-marker'>6</span></p>
+    </div>
+</div>
+
+    
+<div class="calculation">
+    <table class="qamari-malfuzi-table">
 <tr class="letter-row letter-value-row">
 <td class="light-letter-left-border">ا</td>
 <td class="dark-letter-left-border">ن</td>
@@ -1813,40 +2017,39 @@
 </tr>
 </table>
 
-        </div>
-        
-            
-        <div class="translations">
-        
-            <p class='right-to-left'><span class="translation-title">اردو</span>بیشک جن لوگوں نے کفر کیا، اہل کتاب میں سے اور مشرکین میں سے، وہ دوزخ کی آگ میں ہوں گے، ہمیشہ ہمیشہ اس میں رہیں گے۔ یہی لوگ بدترین مخلوق ہیں</p>
-            
-            <p class='right-to-left'><span class="translation-title">فارسی</span>بی‌گمان کسانی از اهل کتاب و مشرکان که کفر ورزیدند، در آتش دوزخ خواهند بود؛ همیشه در آن می‌مانند. آنان بدترین مخلوقاتند.</p>
-            
-            <p class='left-to-right'><span class="translation-title">English</span>Indeed, they who disbelieved among the People of the Book and the polytheists will be in the fire of Hell, abiding eternally therein. Those are the worst of creatures.</p>
-            
-            <p class='left-to-right'><span class="translation-title left-to-right">Transliteration</span>Inna alladhīna kafarū min ahli al-kitābi wa al-mushrikīna fī nāri jahannama khālidīna fīhā, ūlā’ika hum sharru al-bariyyah</p>
-            <div class='adad-row'>
-                <div class='total-qamari-span'><span class="translation-title">قمري عدد</span> <strong class='total-value'>4464</strong></div>
-                <div class='total-bayenati-span'><span class="translation-title">باطني عدد</span> <strong class='total-value'>2579</strong></div>
-                <div class='total-malfuzi-span'><span class="translation-title">ملفوظي عدد</span> <strong class='total-value'>7043</strong></div>
-            </div>
-            
-        </div>
-        
-            
-        </div>
-        
-        <div class="verse-section">
-            
-        <div class="verse-container">
-            <div class="original-text">
-                <p class="arabic-text">اِنَّ الَّذِينَ ءَامَنُوا وَعَمِلُوا الصَّـٰلِحَـٰتِ اُولَـٰٓئِكَ هُمْ خَيْرُ الْبَرِيَّةِ <span class='ayah-marker'>7</span></p>
-            </div>
-        </div>
-        
-            
-        <div class="calculation">
-            <table class="qamari-malfuzi-table">
+</div>
+
+    
+<div class="translations">
+
+<p class='right-to-left'><span class="translation-title">اردو</span>بیشک جن لوگوں نے کفر کیا، اہل کتاب میں سے اور مشرکین میں سے، وہ دوزخ کی آگ میں ہوں گے، ہمیشہ ہمیشہ اس میں رہیں گے۔ یہی لوگ بدترین مخلوق ہیں</p>
+
+<p class='right-to-left'><span class="translation-title">فارسی</span>بی‌گمان کسانی از اهل کتاب و مشرکان که کفر ورزیدند، در آتش دوزخ خواهند بود؛ همیشه در آن می‌مانند. آنان بدترین مخلوقاتند.</p>
+
+<p class='left-to-right'><span class="translation-title">English</span>Indeed, they who disbelieved among the People of the Book and the polytheists will be in the fire of Hell, abiding eternally therein. Those are the worst of creatures.</p>
+
+<p class='left-to-right'><span class="translation-title left-to-right">Transliteration</span>Inna alladhīna kafarū min ahli al-kitābi wa al-mushrikīna fī nāri jahannama khālidīna fīhā, ūlā’ika hum sharru al-bariyyah</p>
+<div class='adad-row'>
+    <div class='total-qamari-span'><span class="translation-title">قمري عدد</span> <strong class='total-value'>4464</strong></div>
+    <div class='total-bayenati-span'><span class="translation-title">باطني عدد</span> <strong class='total-value'>2579</strong></div>
+    <div class='total-malfuzi-span'><span class="translation-title">ملفوظي عدد</span> <strong class='total-value'>7043</strong></div>
+</div>
+
+</div>
+
+</div>
+
+<div class="verse-section">
+    
+<div class="verse-container">
+    <div class="original-text">
+        <p class="arabic-text">اِنَّ الَّذِينَ ءَامَنُوا وَعَمِلُوا الصَّـٰلِحَـٰتِ اُولَـٰٓئِكَ هُمْ خَيْرُ الْبَرِيَّةِ <span class='ayah-marker'>7</span></p>
+    </div>
+</div>
+
+    
+<div class="calculation">
+    <table class="qamari-malfuzi-table">
 <tr class="letter-row letter-value-row">
 <td class="light-letter-left-border">ا</td>
 <td class="dark-letter-left-border">ن</td>
@@ -2020,40 +2223,39 @@
 </tr>
 </table>
 
-        </div>
-        
-            
-        <div class="translations">
-        
-            <p class='right-to-left'><span class="translation-title">اردو</span>بیشک جو لوگ ایمان لائے اور نیک عمل کیے، وہی سب مخلوق میں بہتر ہیں</p>
-            
-            <p class='right-to-left'><span class="translation-title">فارسی</span>بی‌گمان کسانی که ایمان آوردند و کارهای شایسته انجام دادند، بهترین آفریدگانند.</p>
-            
-            <p class='left-to-right'><span class="translation-title">English</span>Indeed, those who have believed and done righteous deeds — those are the best of creatures.</p>
-            
-            <p class='left-to-right'><span class="translation-title left-to-right">Transliteration</span>Inna alladhīna āmanū wa ʿamilū al-ṣāliḥāti ūlā’ika hum khayru al-bariyyah</p>
-            <div class='adad-row'>
-                <div class='total-qamari-span'><span class="translation-title">قمري عدد</span> <strong class='total-value'>2812</strong></div>
-                <div class='total-bayenati-span'><span class="translation-title">باطني عدد</span> <strong class='total-value'>1660</strong></div>
-                <div class='total-malfuzi-span'><span class="translation-title">ملفوظي عدد</span> <strong class='total-value'>4472</strong></div>
-            </div>
-            
-        </div>
-        
-            
-        </div>
-        
-        <div class="verse-section">
-            
-        <div class="verse-container">
-            <div class="original-text">
-                <p class="arabic-text">جَزَآؤُهُمْ عِندَ رَبِّهِمْ جَنَّـٰتُ عَدْنٍۢ تَجْرِى مِن تَحْتِهَا الْاَنْهَـٰرُ خَـٰلِدِينَ فِيهَآ اَبَدًا ۖ رَّضِىَ اللَّهُ عَنْهُمْ وَرَضُوا عَنْهُ ۚ ذَٰلِكَ لِمَنْ خَشِىَ رَبَّهُۥ <span class='ayah-marker'>8</span></p>
-            </div>
-        </div>
-        
-            
-        <div class="calculation">
-            <table class="qamari-malfuzi-table">
+</div>
+
+    
+<div class="translations">
+
+<p class='right-to-left'><span class="translation-title">اردو</span>بیشک جو لوگ ایمان لائے اور نیک عمل کیے، وہی سب مخلوق میں بہتر ہیں</p>
+
+<p class='right-to-left'><span class="translation-title">فارسی</span>بی‌گمان کسانی که ایمان آوردند و کارهای شایسته انجام دادند، بهترین آفریدگانند.</p>
+
+<p class='left-to-right'><span class="translation-title">English</span>Indeed, those who have believed and done righteous deeds — those are the best of creatures.</p>
+
+<p class='left-to-right'><span class="translation-title left-to-right">Transliteration</span>Inna alladhīna āmanū wa ʿamilū al-ṣāliḥāti ūlā’ika hum khayru al-bariyyah</p>
+<div class='adad-row'>
+    <div class='total-qamari-span'><span class="translation-title">قمري عدد</span> <strong class='total-value'>2812</strong></div>
+    <div class='total-bayenati-span'><span class="translation-title">باطني عدد</span> <strong class='total-value'>1660</strong></div>
+    <div class='total-malfuzi-span'><span class="translation-title">ملفوظي عدد</span> <strong class='total-value'>4472</strong></div>
+</div>
+
+</div>
+
+</div>
+
+<div class="verse-section">
+    
+<div class="verse-container">
+    <div class="original-text">
+        <p class="arabic-text">جَزَآؤُهُمْ عِندَ رَبِّهِمْ جَنَّـٰتُ عَدْنٍۢ تَجْرِى مِن تَحْتِهَا الْاَنْهَـٰرُ خَـٰلِدِينَ فِيهَآ اَبَدًا ۖ رَّضِىَ اللَّهُ عَنْهُمْ وَرَضُوا عَنْهُ ۚ ذَٰلِكَ لِمَنْ خَشِىَ رَبَّهُۥ <span class='ayah-marker'>8</span></p>
+    </div>
+</div>
+
+    
+<div class="calculation">
+    <table class="qamari-malfuzi-table">
 <tr class="letter-row letter-value-row">
 <td class="light-letter-left-border">ج</td>
 <td class="light-letter-left-border">ز</td>
@@ -2400,44 +2602,108 @@
 </tr>
 </table>
 
-        </div>
-        
-            
-        <div class="translations">
-        
-            <p class='right-to-left'><span class="translation-title">اردو</span>ان کا بدلہ ان کے رب کے ہاں ہمیشہ رہنے والی جنتیں ہیں، جن کے نیچے نہریں بہتی ہیں۔ وہ ان میں ہمیشہ رہیں گے۔ اللہ ان سے راضی ہو گیا اور وہ اس سے راضی ہو گئے۔ یہ ان کے لیے ہے جو اپنے رب سے ڈرتے ہیں</p>
-            
-            <p class='right-to-left'><span class="translation-title">فارسی</span>پاداش آنان نزد پروردگارشان باغ‌های جاودانی است که از زیرشان نهرها جاری است، جاودانه در آن می‌مانند. خدا از آنان خشنود است و آنان از او خشنود. این [پاداش] برای کسی است که از پروردگارش بترسد.</p>
-            
-            <p class='left-to-right'><span class="translation-title">English</span>Their reward with their Lord will be gardens of perpetual residence beneath which rivers flow, wherein they will abide forever. Allah is pleased with them, and they are pleased with Him — that is for whoever has feared his Lord.</p>
-            
-            <p class='left-to-right'><span class="translation-title left-to-right">Transliteration</span>Jazā’uhum ʿinda rabbihim jannātu ʿadnin tajrī min taḥtihā al-anhāru khālidīna fīhā abadan, raḍiya Allāhu ʿanhum wa raḍū ʿanhu, dhālika liman khashiya rabbah</p>
-            <div class='adad-row'>
-                <div class='total-qamari-span'><span class="translation-title">قمري عدد</span> <strong class='total-value'>7978</strong></div>
-                <div class='total-bayenati-span'><span class="translation-title">باطني عدد</span> <strong class='total-value'>2739</strong></div>
-                <div class='total-malfuzi-span'><span class="translation-title">ملفوظي عدد</span> <strong class='total-value'>10717</strong></div>
-            </div>
-            
-        </div>
-        
-            
-        </div>
-        
-            <div class="grand-total">
-                <div class='qamari-grand-total'>
-                    <h3>مجموع القمري</h3>
-                    <p><strong>28085</strong></p>
-                </div>
-                <div class='batini-grand-total'>
-                    <h3>مجموع الباطني</h3>
-                    <p><strong>15356</strong></p>
-                </div>
-                <div class='malfuzi-grand-total'>
-                    <h3>مجموع الملفوظي</h3>
-                    <p><strong>43441</strong></p>
-                </div>
-            </div>
-        </div>
-    </body>
-    </html>
+</div>
+
     
+<div class="translations">
+
+<p class='right-to-left'><span class="translation-title">اردو</span>ان کا بدلہ ان کے رب کے ہاں ہمیشہ رہنے والی جنتیں ہیں، جن کے نیچے نہریں بہتی ہیں۔ وہ ان میں ہمیشہ رہیں گے۔ اللہ ان سے راضی ہو گیا اور وہ اس سے راضی ہو گئے۔ یہ ان کے لیے ہے جو اپنے رب سے ڈرتے ہیں</p>
+
+<p class='right-to-left'><span class="translation-title">فارسی</span>پاداش آنان نزد پروردگارشان باغ‌های جاودانی است که از زیرشان نهرها جاری است، جاودانه در آن می‌مانند. خدا از آنان خشنود است و آنان از او خشنود. این [پاداش] برای کسی است که از پروردگارش بترسد.</p>
+
+<p class='left-to-right'><span class="translation-title">English</span>Their reward with their Lord will be gardens of perpetual residence beneath which rivers flow, wherein they will abide forever. Allah is pleased with them, and they are pleased with Him — that is for whoever has feared his Lord.</p>
+
+<p class='left-to-right'><span class="translation-title left-to-right">Transliteration</span>Jazā’uhum ʿinda rabbihim jannātu ʿadnin tajrī min taḥtihā al-anhāru khālidīna fīhā abadan, raḍiya Allāhu ʿanhum wa raḍū ʿanhu, dhālika liman khashiya rabbah</p>
+<div class='adad-row'>
+    <div class='total-qamari-span'><span class="translation-title">قمري عدد</span> <strong class='total-value'>7978</strong></div>
+    <div class='total-bayenati-span'><span class="translation-title">باطني عدد</span> <strong class='total-value'>2739</strong></div>
+    <div class='total-malfuzi-span'><span class="translation-title">ملفوظي عدد</span> <strong class='total-value'>10717</strong></div>
+</div>
+
+</div>
+
+</div>
+
+<div class="grand-total">
+    <div class='qamari-grand-total'>
+        <h3>مجموع القمري</h3>
+        <p><strong>28085</strong></p>
+    </div>
+    <div class='batini-grand-total'>
+        <h3>مجموع الباطني</h3>
+        <p><strong>15356</strong></p>
+    </div>
+    <div class='malfuzi-grand-total'>
+        <h3>مجموع الملفوظي</h3>
+        <p><strong>43441</strong></p>
+    </div>
+</div>
+
+    </div>
+</body>
+<script>
+    document.addEventListener("DOMContentLoaded", function () {
+      // Define selectors for toggle switches
+      const toggleSwitches = {
+        "toggle-calculation": ".calculation",
+        "toggle-translation-urdu":
+          '.translations p:has(.translation-title:contains("اردو"))',
+        "toggle-translation-farsi":
+          '.translations p:has(.translation-title:contains("فارسی"))',
+        "toggle-translation-english":
+          '.translations p:has(.translation-title:contains("English"))',
+        "toggle-translation-transliteration":
+          '.translations p:has(.translation-title:contains("Transliteration"))',
+        "toggle-totals": ".adad-row, .grand-total",
+      };
+
+      // Simple function to find elements with text content
+      function findElementsWithText(containerSelector, textContent) {
+        const containers = document.querySelectorAll(containerSelector);
+        return Array.from(containers).filter((container) => {
+          const titleElement = container.querySelector(".translation-title");
+          return titleElement && titleElement.textContent.includes(textContent);
+        });
+      }
+
+      // Set up change handlers for toggle switches
+      for (const [switchId, selector] of Object.entries(toggleSwitches)) {
+        const toggleSwitch = document.getElementById(switchId);
+
+        toggleSwitch.addEventListener("change", function () {
+          const isVisible = this.checked;
+
+          if (selector.includes(":has")) {
+            // For selectors using :has which might not be supported in all browsers
+            let elements;
+
+            if (selector.includes("اردو")) {
+              elements = findElementsWithText(".translations p", "اردو");
+            } else if (selector.includes("فارسی")) {
+              elements = findElementsWithText(".translations p", "فارسی");
+            } else if (selector.includes("English")) {
+              elements = findElementsWithText(".translations p", "English");
+            } else if (selector.includes("Transliteration")) {
+              elements = findElementsWithText(
+                ".translations p",
+                "Transliteration"
+              );
+            } else {
+              elements = [];
+            }
+
+            elements.forEach((element) => {
+              element.style.display = isVisible ? "" : "none";
+            });
+          } else {
+            // For standard CSS selectors
+            const elements = document.querySelectorAll(selector);
+            elements.forEach((element) => {
+              element.style.display = isVisible ? "" : "none";
+            });
+          }
+        });
+      }
+    });
+</script>
+</html>
