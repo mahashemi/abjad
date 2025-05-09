@@ -18,6 +18,13 @@ from ..quran_library import (
     al_layl,
     al_zuha,
     al_shara,
+al_tin,
+al_alaq,
+al_qadr,
+al_bayyinah,
+al_zulzilah,
+al_aadiyat,
+
     al_balad,
     al_fajr,
     al_aala,
@@ -55,12 +62,14 @@ surah_al_shams_title = "سورة الشمس - سورة 91 - عدد آياتها 
 surah_al_layl_title = "سورة الليل - سورة 92 - عدد آياتها 21".strip()
 surah_al_zuha_title = "سورة الضحى - سورة 93 - عدد آياتها 11".strip()
 surah_al_shara_title = "سورة الشرح - سورة 94 - عدد آياتها 8".strip()
-# "سورة التين - سورة 95 - عدد آياتها 8"
-# "سورة العلق - سورة 96 - عدد آياتها 19"
-# "سورة القدر - سورة 97 - عدد آياتها 5"
-# "سورة البينة - سورة 98 - عدد آياتها 8"
-# "سورة الزلزلة - سورة 99 - عدد آياتها 8"
-# "سورة العاديات - سورة 100 - عدد آياتها 11"
+
+surah_al_tin_title = "سورة التين - سورة 95 - عدد آياتها 8".strip()
+surah_al_alaq_title = "سورة العلق - سورة 96 - عدد آياتها 19".strip()
+surah_al_qadr_title = "سورة القدر - سورة 97 - عدد آياتها 5".strip()
+surah_al_bayyinah_title = "سورة البينة - سورة 98 - عدد آياتها 8".strip()
+surah_al_zulzilah_title = "سورة الزلزلة - سورة 99 - عدد آياتها 8".strip()
+surah_al_aadiyat_title = "سورة العاديات - سورة 100 - عدد آياتها 11".strip()
+
 surah_al_qaariyah_title = "سورة القارعة - سورة 101 - عدد آياتها 11".strip()
 surah_al_takasur_title = "سورة التكاثر - سورة 102 - عدد آياتها 8".strip()
 surah_al_asr_title = "سورة العصر - سورة 103 - عدد آياتها 3".strip()
@@ -96,6 +105,15 @@ quran = {
     surah_al_layl_title: al_layl.ayats,
     surah_al_zuha_title: al_zuha.ayats,
     surah_al_shara_title: al_shara.ayats,
+
+    surah_al_tin_title: al_tin.ayats,
+    surah_al_alaq_title: al_alaq.ayats,
+    surah_al_qadr_title: al_qadr.ayats,
+    surah_al_bayyinah_title: al_bayyinah.ayats,
+    surah_al_zulzilah_title: al_zulzilah.ayats,
+    surah_al_aadiyat_title: al_aadiyat.ayats,
+
+
 
     surah_al_qaariyah_title: al_qaariyah.ayats,
     surah_al_takasur_title: al_takasur.ayats,
