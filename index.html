@@ -135,8 +135,9 @@
         left: 8px;
         background-color: rgb(180, 136, 31);
         color: #fff;
-        border-radius: 50%;
-        width: 28px;
+        border-radius: 5%;
+        width: fit-content;
+        padding: 0 8px;
         height: 28px;
         display: flex;
         align-items: center;
@@ -193,7 +194,6 @@
       }
 
       .surah-number {
-        width: 52px;
         height: 52px;
         font-size: 20px;
       }
@@ -281,7 +281,7 @@
               // Create surah number badge
               const numberBadge = document.createElement("span");
               numberBadge.className = "surah-number";
-              numberBadge.textContent = f.surahNum;
+              numberBadge.textContent = `${f.surahNum} سورة`;
 
               // Create Arabic name element as the main central element
               const nameDiv = document.createElement("div");
@@ -292,7 +292,7 @@
               if (verseCount) {
                 const verseCountSpan = document.createElement("span");
                 verseCountSpan.className = "arabic-name"; // Using the arabic-name class for positioning
-                verseCountSpan.textContent = `${verseCount} آية`;
+                verseCountSpan.textContent = `${verseCount} عدد آياتها`;
                 bookLink.appendChild(verseCountSpan);
               }
 

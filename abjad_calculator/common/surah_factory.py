@@ -18,13 +18,12 @@ from ..quran_library import (
     al_layl,
     al_zuha,
     al_shara,
-al_tin,
-al_alaq,
-al_qadr,
-al_bayyinah,
-al_zulzilah,
-al_aadiyat,
-
+    al_tin,
+    al_alaq,
+    al_qadr,
+    al_bayyinah,
+    al_zulzilah,
+    al_aadiyat,
     al_balad,
     al_fajr,
     al_aala,
@@ -40,12 +39,9 @@ al_aadiyat,
     al_fatiha,
 )
 
-
 surah_fatiha_title = "سورة الفاتحة - سورة 1 - عدد آياتها 7".strip()
 surah_qalam_title = "سورة القلم - سورة 68 - عدد آياتها 52 ".strip()
 surah_al_naba_title = "سورة النبأ - سورة 78 - عدد آياتها 40".strip()
-
-
 surah_al_naziyat_title = "سورة النازعات - سورة 79 - عدد آياتها 46".strip()
 surah_al_abas_title = "سورة عبس - سورة 80 - عدد آياتها 42".strip()
 surah_al_takweer_title = "سورة التكوير - سورة 81 - عدد آياتها 29".strip()
@@ -62,14 +58,12 @@ surah_al_shams_title = "سورة الشمس - سورة 91 - عدد آياتها 
 surah_al_layl_title = "سورة الليل - سورة 92 - عدد آياتها 21".strip()
 surah_al_zuha_title = "سورة الضحى - سورة 93 - عدد آياتها 11".strip()
 surah_al_shara_title = "سورة الشرح - سورة 94 - عدد آياتها 8".strip()
-
 surah_al_tin_title = "سورة التين - سورة 95 - عدد آياتها 8".strip()
 surah_al_alaq_title = "سورة العلق - سورة 96 - عدد آياتها 19".strip()
 surah_al_qadr_title = "سورة القدر - سورة 97 - عدد آياتها 5".strip()
 surah_al_bayyinah_title = "سورة البينة - سورة 98 - عدد آياتها 8".strip()
 surah_al_zulzilah_title = "سورة الزلزلة - سورة 99 - عدد آياتها 8".strip()
 surah_al_aadiyat_title = "سورة العاديات - سورة 100 - عدد آياتها 11".strip()
-
 surah_al_qaariyah_title = "سورة القارعة - سورة 101 - عدد آياتها 11".strip()
 surah_al_takasur_title = "سورة التكاثر - سورة 102 - عدد آياتها 8".strip()
 surah_al_asr_title = "سورة العصر - سورة 103 - عدد آياتها 3".strip()
@@ -79,7 +73,6 @@ surah_al_quraish_title = "سورة قريش - سورة 106 - عدد آياتها
 surah_al_maun_title = "سورة الماعون - سورة 107 - عدد آياتها 7".strip()
 surah_al_kawthar_title = "سورة الكوثر - سورة 108 - عدد آياتها 3".strip()
 surah_al_kafiroon_title = "سورة الكافرون - سورة 109 - عدد آياتها 6".strip()
-
 surah_al_nasr_title = "سورة النصر - سورة 110 - عدد آياتها 3".strip()
 surah_al_masad_title = "سورة المسد - سورة 111 - عدد آياتها 5 ".strip()
 surah_al_ikhlas_title = "سورة الإخلاص - سورة 112 - عدد آياتها 4".strip()
@@ -105,16 +98,12 @@ quran = {
     surah_al_layl_title: al_layl.ayats,
     surah_al_zuha_title: al_zuha.ayats,
     surah_al_shara_title: al_shara.ayats,
-
     surah_al_tin_title: al_tin.ayats,
     surah_al_alaq_title: al_alaq.ayats,
     surah_al_qadr_title: al_qadr.ayats,
     surah_al_bayyinah_title: al_bayyinah.ayats,
     surah_al_zulzilah_title: al_zulzilah.ayats,
     surah_al_aadiyat_title: al_aadiyat.ayats,
-
-
-
     surah_al_qaariyah_title: al_qaariyah.ayats,
     surah_al_takasur_title: al_takasur.ayats,
     surah_al_asr_title: al_asr.ayats,
