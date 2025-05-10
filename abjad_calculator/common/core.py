@@ -8,7 +8,7 @@ of Arabic text using both Qamari and Malfuzi systems.
 
 from .model import AbjadResult, MusallasProperties, LetterBreakdown, LetterValue, VerificationItem, DivisionResult
 from .utils import clean_text
-from .constants import ABJAD_VALUES
+from .constants import ABJAD_VALUES, HAMZA, YA_HAMZA
 
 
 def calculate_abjad(text: str) -> AbjadResult:
@@ -33,6 +33,8 @@ def calculate_abjad(text: str) -> AbjadResult:
     # Calculate letter by letter
     for char in cleaned_text:
         if char.strip():
+            if char==YA_HAMZA:
+                char=HAMZA
             qamari_value = 0
             malfuzi_value = 0
             bayenati_value = 0

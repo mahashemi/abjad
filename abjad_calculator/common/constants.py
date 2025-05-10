@@ -47,7 +47,8 @@ ABJAD_VALUES = {
     "ظ": {"malfuzi": 901, "qamari": 900, "bayenati":   1},
     "غ": {"malfuzi":1060, "qamari":1000, "bayenati":  60},
 }
-
+YA_HAMZA = 'ئ'
+HAMZA = 'ء'
 
 REMOVE_CHARS = [
     # Tashkeel (diacritics)
