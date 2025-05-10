@@ -25,10 +25,14 @@
 
 }
 
+html {
+    background-color: #1d0707;
+}
+
 body {
     font-family: 'Scheherazade New', 'Amiri', 'Traditional Arabic', serif;
     margin: 2px;
-    background-color: #f5f0e6;
+    /* background-color: #f5f0e6; */
     color: var(--text-color);
     direction: rtl;
     font-size: 30px;
@@ -344,7 +348,7 @@ th {
     position: relative;
     /*padding-top: 30px;*/
     margin: 8px auto;
-    /*background-color: #fff;*/
+    background-color: #f9f6f0;
     box-shadow: 0 5px 20px rgba(0, 0, 0, 0.2);
     border: 2px solid var(--border-color);
 }
@@ -393,6 +397,10 @@ th {
     /* Initial state - expanded */
     transition: max-height 0.5s ease;
     overflow: hidden;
+}
+
+.toggle-panel-button:hover {
+    background-color: #d4c4a8;
 }
 
 .toggle-panel-button {
@@ -1322,7 +1330,7 @@ document.addEventListener("DOMContentLoaded", function () {
     const settingsContent = document.querySelector(".toggle-panel-content");
 
     // Initialize panel state (expanded on desktop, collapsed on mobile by default)
-    let isPanelExpanded = window.innerWidth > 768;
+    let isPanelExpanded = false;
     updatePanelState();
 
     // Toggle panel when button is clicked

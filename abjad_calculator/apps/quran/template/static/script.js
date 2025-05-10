@@ -69,7 +69,7 @@ document.addEventListener("DOMContentLoaded", function () {
     const settingsContent = document.querySelector(".toggle-panel-content");
 
     // Initialize panel state (expanded on desktop, collapsed on mobile by default)
-    let isPanelExpanded = window.innerWidth > 768;
+    let isPanelExpanded = false;
     updatePanelState();
 
     // Toggle panel when button is clicked
