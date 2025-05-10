@@ -17,6 +17,21 @@ from ...common.display import (
 )
 
 
+def get_root_path():
+    current_file_path = os.path.abspath(__file__)
+    return os.path.dirname(current_file_path)
+
+
+ROOT_PATH = get_root_path()
+
+
+with open(os.path.join(ROOT_PATH, "template/static/style.css")) as f:
+    css_file = f.read()
+
+with open(os.path.join(ROOT_PATH, "template/static/script.js")) as f:
+    js_file = f.read()
+
+
 def calculate_quranic_verse(
     verse_text,
     title=None,
@@ -222,7 +237,8 @@ def process_multiple_verses(
     quran_html = quran_html.replace("{{bismillah}}", bismillah)
     quran_html = quran_html.replace("{{surat_name}}", surat_name)
     quran_html = quran_html.replace("{{quran_data_html}}", quran_data_html)
-
+    quran_html = quran_html.replace("{{style}}", css_file)
+    quran_html = quran_html.replace("{{script}}", js_file)
     # Save to file if requested
     if output_html:
         path = output_path or "quranic_verses.html"

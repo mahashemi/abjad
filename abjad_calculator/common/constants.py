@@ -49,7 +49,6 @@ ABJAD_VALUES = {
 }
 YA_HAMZA = 'ئ'
 HAMZA = 'ء'
-
 REMOVE_CHARS = [
     # Tashkeel (diacritics)
     'ً', 'ٌ', 'ٍ',  # tanween: Fathatan, Dammatan, Kasratan
