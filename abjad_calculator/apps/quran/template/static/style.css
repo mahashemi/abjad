@@ -47,12 +47,12 @@ body {
 }
 
 .surah-adad-sum h3 {
-    font-size: 32px;
+    font-size: 28px;
     margin: 0px;
 }
 
 .surah-adad-sum {
-    font-size: 40px;
+    font-size: 36px;
     display: inline-block;
     border-radius: 8px;
     padding: 8px;
@@ -338,7 +338,7 @@ th {
 .translation-title {
     color: var(--header-color);
     position: absolute;
-    margin-top: -28px;
+    margin-top: -26px;
     left: 50%;
     transform: translateX(-50%);
     background-color: white;
