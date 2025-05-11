@@ -331,7 +331,7 @@ th {
     justify-content: space-between;
     align-items: center;
     position: relative;
-    direction: rtl;
+    direction: ltr;
     overflow: auto;
 }
 
@@ -535,9 +535,12 @@ input:checked+.slider:before {
 @media screen and (max-width: 768px) {
 
     .surah-adad-sum {
-        display: block;
-        width: 50%;
+        width: 25%;
         margin:14px auto;
+    }
+
+    .surah-adad-sum p, .surah-adad-sum h3 {
+        font-size: 28px;
     }
 
     .total-value {
