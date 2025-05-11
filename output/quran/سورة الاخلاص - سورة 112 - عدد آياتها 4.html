@@ -1,0 +1,1295 @@
+<!DOCTYPE html>
+<html dir="rtl" lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Al-Quran سورة الاخلاص - سورة 112 - عدد آياتها 4 -- Abjad-e-Qamari -- Faiz-e-Hussaini</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Amiri:wght@400;700&family=Scheherazade+New:wght@400;700&display=swap');
+
+:root {
+    --primary-color: #26572a;
+    --secondary-color: #cb8d38;
+    --verse-bg: #f9f6f0;
+    --border-color: goldenrod;
+    --text-color: #2d2d2d;
+    --header-color: #1f4224;
+    --qamari-color: #26572a;
+    --table-header-bg: #e6dac8;
+    --table-border: #d4c4a8;
+    --batini-color: #8b6b29;
+    /* A deeper gold/bronze tone */
+    --malfuzi-color: #4e5a34;
+    /* A muted olive green that complements the primary green */
+
+}
+
+html {
+    background-color: #1d0707;
+    background: repeating-linear-gradient(to right,
+            #1f1010,
+            #230c04 1px,
+            #1b0707 10px,
+            #45281f 1px);
+}
+
+body {
+    font-family: 'Scheherazade New', 'Amiri', 'Traditional Arabic', serif;
+    margin: 2px;
+    /* background-color: #f5f0e6; */
+    color: var(--text-color);
+    direction: rtl;
+    font-size: 30px;
+    line-height: 1.6;
+}
+
+.surah-adad-sum p {
+    outline: 1px solid rgba(218, 165, 32, 0.199);
+    padding: 0 8px;
+    border-radius: 5px;
+    box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+    text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.5);
+    background-color: #daa52012;
+    margin: 0px;
+}
+
+.surah-adad-sum h3 {
+    font-size: 28px;
+    margin: 0px;
+}
+
+.surah-adad-sum {
+    font-size: 36px;
+    display: inline-block;
+    border-radius: 8px;
+    padding: 8px;
+    margin: 14px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.24);
+}
+
+
+.qamari-grand-total {
+    background-color: rgba(38, 87, 42, 0.08);
+    border: 1px solid var(--primary-color);
+    color: var(--primary-color);
+}
+
+.batini-grand-total {
+    background-color: rgba(203, 141, 56, 0.08);
+    border: 1px solid var(--batini-color);
+    color: var(--batini-color);
+}
+
+.malfuzi-grand-total {
+    background-color: rgba(78, 90, 52, 0.08);
+    border: 1px solid var(--malfuzi-color);
+    color: var(--malfuzi-color);
+}
+
+.calculation {
+    font-size: 24px;
+    overflow: auto;
+}
+
+/* Ayah marker styles */
+.ayah-marker {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 35px;
+    height: 35px;
+    color: #26572a;
+    font-family: "Traditional Arabic", "Amiri", Arial, sans-serif;
+    font-size: 20px;
+    margin: 0 5px;
+    position: relative;
+}
+
+/* Optional: decorative accent */
+.ayah-marker::before {
+    content: "۝";
+    position: absolute;
+    font-size: 36px;
+    opacity: 1;
+    bottom: -10px;
+    color: #cb8d38;
+}
+
+.container {
+    max-width: 1020px;
+    margin: 0 auto;
+    /*background-color: #fff;*/
+    /*padding: 2px;*/
+    /*box-shadow: 0 5px 20px rgba(0,0,0,0.1);*/
+    border-radius: 10px;
+    /*border: 2px solid var(--border-color);*/
+}
+
+h1,
+h2,
+h3 {
+    color: var(--primary-color);
+    text-align: center;
+    font-family: 'Amiri', 'Traditional Arabic', serif;
+}
+
+h1 {
+    font-size: 42px;
+    margin-bottom: 10px;
+    border-bottom: 1px solid #daa52078;
+    padding-bottom: 10px;
+}
+
+h2 {
+    font-size: 36px;
+    color: var(--secondary-color);
+}
+
+.verse-section {
+    margin-bottom: 40px;
+    /*padding: 20px;*/
+    border: 2px solid var(--border-color);
+    border-radius: 8px;
+    background-color: var(--verse-bg);
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
+    position: relative;
+}
+
+.verse-section::after {
+    content: "";
+    position: absolute;
+    bottom: -22px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 80%;
+    height: 1px;
+    background: linear-gradient(to right, transparent, var(--border-color), transparent);
+}
+
+.arabic-text {
+    font-size: 36px;
+    background-color: rgba(255, 255, 255, 0.7);
+    padding: 15px;
+    text-align: center;
+    /* letter-spacing: 1px; */
+    /*border-radius: 5px;*/
+    box-shadow: inset 0 0 7px rgb(218, 165, 32, 0.3);
+    /* font-family: 'Scheherazade New', serif; */
+    border-top: 1px solid var(--border-color);
+    border-bottom: 1px solid var(--border-color);
+    line-height: 1.8;
+}
+
+.total-value {
+    font-size: 36px;
+    background-color: rgba(255, 255, 255, 0.7);
+    padding: 2px 15px;
+    font-weight: bold;
+    color: var(--primary-color);
+    border-radius: 5px;
+    margin: 2px 0;
+    display: inline-block;
+}
+
+.total-malfuzi-span {
+    color: var(--malfuzi-color);
+}
+
+.grand-total {
+    text-align: center;
+    background-color: var(--verse-bg);
+    border-radius: 10px;
+    border: 2px solid var(--border-color);
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+}
+
+.right-to-left {
+    text-align: center;
+}
+
+.left-to-right {
+    text-align: center;
+    /* letter-spacing: 1px; */
+    direction: ltr;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 0px 0;
+    direction: rtl;
+    background-color: #fff;
+    border: 1px solid var(--border-color);
+    border-radius: 5px;
+    overflow: auto;
+}
+
+.translations p,
+.translations div {
+    padding: 15px;
+    border: 1px solid var(--border-color);
+    border-radius: 8px;
+    margin: auto;
+    background-color: rgba(255, 255, 255, 0.7);
+}
+
+.light-letter-left-border {
+    border-left-color: #e9e9e9;
+}
+
+.dark-letter-left-border {
+    border-left-color: var(--table-border);
+}
+
+th,
+td {
+    padding: 8px 4px;
+    border: 1px solid var(--table-border);
+    text-align: center;
+}
+
+th {
+    background-color: var(--table-header-bg);
+    color: var(--header-color);
+    font-weight: bold;
+}
+
+.qamari-malfuzi-table {
+    margin-bottom: 30px;
+    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.05);
+}
+
+.letter-row {
+    font-weight: bold;
+    background-color: rgba(255, 255, 255, 0.9);
+    /* letter-spacing: 1px; */
+}
+
+.value-row {
+    background-color: rgba(242, 238, 226, 0.7);
+}
+
+.letter-value-row td {
+    padding: 0 2px !important;
+}
+
+.malfuzi-value-row {
+    background-color: #cb8d380f;
+    font-style: oblique;
+    color: gray;
+}
+
+.qamari-value-row {
+    color: #700000;
+}
+
+.word-analysis {
+    margin-top: 30px;
+    padding: 20px;
+    background-color: var(--verse-bg);
+    border-radius: 8px;
+    border: 1px solid var(--border-color);
+}
+
+.word-item {
+    display: inline-block;
+    margin: 10px;
+    padding: 12px;
+    border: 1px solid var(--border-color);
+    border-radius: 8px;
+    background-color: #fff;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
+}
+
+.word-text {
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.word-value {
+    color: var(--primary-color);
+    font-weight: bold;
+}
+
+
+
+.total-qamari-span,
+.total-bayenati-span,
+.total-malfuzi-span {
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    text-align: center;
+}
+
+.translations {
+    background-color: rgba(249, 246, 240, 0.7);
+    border-radius: 0 0 8px 8px;
+    font-size: 26px;
+    padding: 2px;
+    margin-top: 10px;
+    border-top: 1px solid var(--border-color);
+}
+
+.adad-row {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+    align-items: center;
+    position: relative;
+    direction: ltr;
+    overflow: auto;
+}
+
+.translation-title {
+    color: var(--header-color);
+    position: absolute;
+    margin-top: -26px;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: white;
+    padding: 0px 10px;
+    border: 1px solid var(--border-color);
+    border-radius: 10px;
+    font-size: 12px;
+    z-index: 1;
+    width: max-content;
+}
+
+/* Decorative Elements */
+.surah_header {
+    position: relative;
+    /*padding-top: 30px;*/
+    margin: 8px auto;
+    background-color: #f9f6f0;
+    box-shadow: 0 5px 20px rgba(0, 0, 0, 0.2);
+    border: 2px solid var(--border-color);
+}
+
+.surah_header::before,
+.surah_header::after {
+    content: "۩";
+    font-size: 32px;
+    color: var(--secondary-color);
+    position: absolute;
+    top: 0;
+}
+
+.surah_header::before {
+    right: 20px;
+}
+
+.surah_header::after {
+    left: 20px;
+}
+
+.letter-value-row {
+    font-size: 8px;
+}
+
+.toggle-panel-container {
+    position: sticky;
+    margin: 10px auto;
+    max-width: 1020px;
+    z-index: 100;
+    top: 0;
+    border: 2px solid var(--border-color);
+}
+
+.toggle-panel {
+    background-color: var(--verse-bg);
+    border-radius: 8px;
+    /* border: 2px solid var(--border-color); */
+    overflow: hidden;
+    transition: all 0.3s ease;
+    direction: rtl;
+}
+
+.toggle-panel-content {
+    max-height: 600px;
+    /* Initial state - expanded */
+    transition: max-height 0.5s ease;
+    overflow: hidden;
+}
+
+.toggle-panel-button:hover {
+    background-color: #d4c4a8;
+}
+
+.toggle-panel-button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    background-color: var(--verse-bg);
+    border-radius: 8px;
+    color: var(--primary-color);
+    cursor: pointer;
+    font-family: "Amiri", "Traditional Arabic", serif;
+    font-size: 16px;
+    transition: all 0.3s ease;
+    border: none;
+}
+
+.expanded {
+    background-color: #d4c4a8;
+    cursor: pointer;
+}
+
+.toggle-panel-button.expanded {
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+    margin-bottom: 0;
+    border-bottom: none;
+}
+
+.toggle-panel-button i {
+    margin-left: 8px;
+    transition: transform 0.3s ease;
+}
+
+.toggle-panel-button.expanded i.fa-chevron-down {
+    transform: rotate(180deg);
+}
+
+.toggle-section {
+    margin-bottom: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+.toggle-item {
+    display: inline-table;
+    align-items: center;
+    margin: 8px 12px;
+    font-family: 'Amiri', 'Traditional Arabic', serif;
+}
+
+.toggle-item label {
+    margin: 0 8px;
+    font-size: 16px;
+    color: var(--primary-color);
+    cursor: pointer;
+    display: grid;
+    text-align: center;
+}
+
+/* Toggle Switch Styles */
+.toggle-switch {
+    position: relative;
+    /* display: inline-block; */
+    width: 65px;
+    height: 24px;
+}
+
+.toggle-switch input {
+    opacity: 0;
+    width: 0;
+    height: 0;
+}
+
+.slider {
+    position: absolute;
+    cursor: pointer;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #ccc;
+    transition: .3s;
+    border-radius: 24px;
+}
+
+.slider:before {
+    position: absolute;
+    content: "";
+    height: 18px;
+    width: 18px;
+    left: 3px;
+    bottom: 3px;
+    background-color: white;
+    transition: .3s;
+    border-radius: 50%;
+}
+
+input:checked+.slider {
+    background-color: var(--primary-color);
+}
+
+input:checked+.slider:before {
+    transform: translateX(225%);
+}
+
+.toggle-section-title {
+    width: 100%;
+    text-align: center;
+    color: var(--secondary-color);
+    font-weight: bold;
+    /* margin-bottom: 5px; */
+    font-size: 18px;
+}
+
+/* Section separators */
+.toggle-section:not(:last-child) {
+    border-bottom: 1px solid #daa52078;
+    padding-bottom: 10px;
+}
+
+/* Mobile responsive design */
+@media screen and (max-width: 768px) {
+
+    .surah-adad-sum {
+        width: 25%;
+        margin:14px auto;
+    }
+
+    .surah-adad-sum p, .surah-adad-sum h3 {
+        font-size: 28px;
+    }
+
+    .total-value {
+        font-size: 28px;
+    }
+
+    .toggle-panel {
+        padding: 0px 5px;
+    }
+
+    .toggle-item {
+        margin: 6px;
+    }
+
+    .toggle-item label {
+        font-size: 14px;
+    }
+
+    .toggle-switch {
+        width: 40px;
+        height: 20px;
+    }
+
+    .slider:before {
+        height: 14px;
+        width: 14px;
+    }
+
+    input:checked+.slider:before {
+        transform: translateX(20px);
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .toggle-section {
+        justify-content: flex-start;
+        overflow-x: auto;
+        padding-bottom: 5px;
+        -webkit-overflow-scrolling: touch;
+    }
+
+    .toggle-section-content {
+        display: block;
+        text-align: center;
+        flex-wrap: nowrap;
+        min-width: 100%;
+    }
+}
+
+@media print {
+    .toggle-panel {
+        display: none;
+    }
+}
+
+/* Print-specific styles */
+@media print {
+    body {
+        background-color: white;
+        margin: 0;
+        padding: 0;
+        font-size: 12pt;
+        -webkit-print-color-adjust: exact !important;
+        print-color-adjust: exact !important;
+        color-adjust: exact !important;
+    }
+
+    .container {
+        max-width: 100%;
+        margin: 0;
+        padding: 2px;
+        box-shadow: none;
+        /* border: none; */
+    }
+
+    h1 {
+        font-size: 24pt;
+        margin-bottom: 10px;
+    }
+
+    h2 {
+        font-size: 24px;
+        color: var(--secondary-color);
+    }
+
+    .surah_header {
+        position: relative;
+        /* padding-top: 20px;*/
+        margin: 8px auto;
+        box-shadow: 0 5px 20px rgba(0, 0, 0, 0.2);
+        border: 2px solid var(--border-color);
+    }
+
+    .verse-section {
+        page-break-inside: avoid;
+        break-inside: avoid;
+        margin-bottom: 30px;
+        /*padding: 15px;*/
+        box-shadow: 0 5px 20px rgba(0, 0, 0, 0.2);
+        border: 2px solid var(--border-color);
+    }
+
+    .arabic-text {
+        font-size: 20pt;
+        padding: 10px;
+        box-shadow: inset 0 0 7px rgb(218, 165, 32, 0.3);
+    }
+
+    .total-value {
+        font-size: 18pt;
+        padding: 5px 10px;
+    }
+
+    table {
+        page-break-inside: avoid;
+        break-inside: avoid;
+        font-size: 12pt;
+    }
+
+    th,
+    td {
+        padding: 8px;
+    }
+
+    .grand-total {
+        page-break-before: always;
+        break-before: page;
+        font-size: 20pt;
+        padding: 20px;
+        margin-top: 20px;
+    }
+
+    .word-item {
+        padding: 8px;
+        margin: 5px;
+    }
+
+    .word-text {
+        font-size: 16pt;
+    }
+
+    .translations {
+        font-size: 14pt;
+        padding: 2px;
+        margin-top: 0px;
+    }
+
+    .total-value,
+    .total-malfuzi-span {
+        background-color: transparent !important;
+        color: #000 !important;
+    }
+
+    /* Fix for page breaks */
+    .verse-section:last-of-type {
+        page-break-after: avoid;
+        break-after: avoid;
+    }
+}
+    </style>
+</head>
+<body>
+    <div class="toggle-panel-container container">
+      <button id="toggle-panel-button" class="toggle-panel-button">
+        <i class="fa fa-chevron-up"></i>Close Settings
+      </button>
+      <div class="toggle-panel">
+        <div class="toggle-panel-content">
+          <div class="toggle-section">
+            <div class="toggle-section-title">التحليل</div>
+            <div class="toggle-section-content">
+              <div class="toggle-item">
+                <label class="toggle-switch">
+                  <input type="checkbox" id="toggle-calculation" checked />
+                  <span class="slider"></span>
+                </label>
+                <label for="toggle-calculation">حساب الجمل</label>
+              </div>
+
+              <div class="toggle-item">
+                <label class="toggle-switch">
+                  <input type="checkbox" id="toggle-totals" checked />
+                  <span class="slider"></span>
+                </label>
+                <label for="toggle-totals">المجموع</label>
+              </div>
+            </div>
+          </div>
+
+          <div class="toggle-section">
+            <div class="toggle-section-title">التراجم</div>
+            <div class="toggle-section-content">
+              <div class="toggle-item">
+                <label class="toggle-switch">
+                  <input type="checkbox" id="toggle-translation-urdu" checked />
+                  <span class="slider"></span>
+                </label>
+                <label for="toggle-translation-urdu">اردو</label>
+              </div>
+
+              <div class="toggle-item">
+                <label class="toggle-switch">
+                  <input
+                    type="checkbox"
+                    id="toggle-translation-farsi"
+                    checked
+                  />
+                  <span class="slider"></span>
+                </label>
+                <label for="toggle-translation-farsi">فارسی</label>
+              </div>
+
+              <div class="toggle-item">
+                <label class="toggle-switch">
+                  <input
+                    type="checkbox"
+                    id="toggle-translation-english"
+                    checked
+                  />
+                  <span class="slider"></span>
+                </label>
+                <label for="toggle-translation-english">English</label>
+              </div>
+
+              <div class="toggle-item">
+                <label class="toggle-switch">
+                  <input
+                    type="checkbox"
+                    id="toggle-translation-transliteration"
+                    checked
+                  />
+                  <span class="slider"></span>
+                </label>
+                <label for="toggle-translation-transliteration">Transliteration</label>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="surah_header container">
+        <h1>سورة الاخلاص - سورة 112 - عدد آياتها 4</h1>
+        <h2>بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ</h2>
+    </div>
+    <div class="container">
+        
+<div class="verse-section">
+    
+<div class="verse-container">
+    <div class="original-text">
+        <p class="arabic-text">قُلْ هُوَ اللَّهُ أَحَدٌ <span class='ayah-marker'>1</span></p>
+    </div>
+</div>
+
+    
+<div class="calculation">
+    <table class="qamari-malfuzi-table">
+<tr class="letter-row letter-value-row">
+<td class="light-letter-left-border">ق</td>
+<td class="dark-letter-left-border">ل</td>
+<td class="light-letter-left-border">ه</td>
+<td class="dark-letter-left-border">و</td>
+<td class="light-letter-left-border">ا</td>
+<td class="light-letter-left-border">ل</td>
+<td class="light-letter-left-border">ل</td>
+<td class="dark-letter-left-border">ه</td>
+<td class="light-letter-left-border">أ</td>
+<td class="light-letter-left-border">ح</td>
+<td class="dark-letter-left-border">د</td>
+</tr>
+<tr class="value-row letter-value-row qamari-value-row">
+<td class="light-letter-left-border">100</td>
+<td class="dark-letter-left-border">30</td>
+<td class="light-letter-left-border">5</td>
+<td class="dark-letter-left-border">6</td>
+<td class="light-letter-left-border">1</td>
+<td class="light-letter-left-border">30</td>
+<td class="light-letter-left-border">30</td>
+<td class="dark-letter-left-border">5</td>
+<td class="light-letter-left-border">1</td>
+<td class="light-letter-left-border">8</td>
+<td class="dark-letter-left-border">4</td>
+</tr>
+<tr class="value-row letter-value-row malfuzi-value-row">
+<td class="light-letter-left-border">181</td>
+<td class="dark-letter-left-border">71</td>
+<td class="light-letter-left-border">6</td>
+<td class="dark-letter-left-border">13</td>
+<td class="light-letter-left-border">111</td>
+<td class="light-letter-left-border">71</td>
+<td class="light-letter-left-border">71</td>
+<td class="dark-letter-left-border">6</td>
+<td class="light-letter-left-border">111</td>
+<td class="light-letter-left-border">9</td>
+<td class="dark-letter-left-border">35</td>
+</tr>
+<tr class="word-row">
+<td colspan=2>قُلْ</td>
+<td colspan=2>هُوَ</td>
+<td colspan=4>اللَّهُ</td>
+<td colspan=3>أَحَدٌ</td>
+</tr>
+<tr class="value-row qamari-value-row">
+<td colspan=2>130</td>
+<td colspan=2>11</td>
+<td colspan=4>66</td>
+<td colspan=3>13</td>
+</tr>
+<tr class="value-row malfuzi-value-row">
+<td colspan=2>252</td>
+<td colspan=2>19</td>
+<td colspan=4>259</td>
+<td colspan=3>155</td>
+</tr>
+</table>
+
+</div>
+
+    
+<div class="translations">
+
+<p class='right-to-left'><span class="translation-title">اردو</span>اے رسول تم گواہی دو کہ خدا ایک ہے</p>
+
+<p class='right-to-left'><span class="translation-title">فارسی</span>ای پیامبر، گواهی ده که خدا یگانه است</p>
+
+<p class='left-to-right'><span class="translation-title">English</span>O Messenger, bear witness that God is One.</p>
+
+<p class='left-to-right'><span class="translation-title left-to-right">Transliteration</span>Qul huwa Allāhu ʾAḥadun</p>
+<div class='adad-row'>
+    <div class='total-qamari-span'><span class="translation-title">قمري عدد</span> <strong class='total-value'>220</strong></div>
+    <div class='total-bayenati-span'><span class="translation-title">باطني عدد</span> <strong class='total-value'>465</strong></div>
+    <div class='total-malfuzi-span'><span class="translation-title">ملفوظي عدد</span> <strong class='total-value'>685</strong></div>
+</div>
+
+</div>
+
+</div>
+
+<div class="verse-section">
+    
+<div class="verse-container">
+    <div class="original-text">
+        <p class="arabic-text">اللَّهُ الصَّمَدُ <span class='ayah-marker'>2</span></p>
+    </div>
+</div>
+
+    
+<div class="calculation">
+    <table class="qamari-malfuzi-table">
+<tr class="letter-row letter-value-row">
+<td class="light-letter-left-border">ا</td>
+<td class="light-letter-left-border">ل</td>
+<td class="light-letter-left-border">ل</td>
+<td class="dark-letter-left-border">ه</td>
+<td class="light-letter-left-border">ا</td>
+<td class="light-letter-left-border">ل</td>
+<td class="light-letter-left-border">ص</td>
+<td class="light-letter-left-border">م</td>
+<td class="dark-letter-left-border">د</td>
+</tr>
+<tr class="value-row letter-value-row qamari-value-row">
+<td class="light-letter-left-border">1</td>
+<td class="light-letter-left-border">30</td>
+<td class="light-letter-left-border">30</td>
+<td class="dark-letter-left-border">5</td>
+<td class="light-letter-left-border">1</td>
+<td class="light-letter-left-border">30</td>
+<td class="light-letter-left-border">90</td>
+<td class="light-letter-left-border">40</td>
+<td class="dark-letter-left-border">4</td>
+</tr>
+<tr class="value-row letter-value-row malfuzi-value-row">
+<td class="light-letter-left-border">111</td>
+<td class="light-letter-left-border">71</td>
+<td class="light-letter-left-border">71</td>
+<td class="dark-letter-left-border">6</td>
+<td class="light-letter-left-border">111</td>
+<td class="light-letter-left-border">71</td>
+<td class="light-letter-left-border">95</td>
+<td class="light-letter-left-border">90</td>
+<td class="dark-letter-left-border">35</td>
+</tr>
+<tr class="word-row">
+<td colspan=4>اللَّهُ</td>
+<td colspan=5>الصَّمَدُ</td>
+</tr>
+<tr class="value-row qamari-value-row">
+<td colspan=4>66</td>
+<td colspan=5>165</td>
+</tr>
+<tr class="value-row malfuzi-value-row">
+<td colspan=4>259</td>
+<td colspan=5>402</td>
+</tr>
+</table>
+
+</div>
+
+    
+<div class="translations">
+
+<p class='right-to-left'><span class="translation-title">اردو</span>خدا برحق بے نیاز ہے</p>
+
+<p class='right-to-left'><span class="translation-title">فارسی</span>خدا حقیقتاً بی‌نیاز است</p>
+
+<p class='left-to-right'><span class="translation-title">English</span>God, the Absolute, the Eternal Refuge.</p>
+
+<p class='left-to-right'><span class="translation-title left-to-right">Transliteration</span>Allāhu ṣ-Ṣamad</p>
+<div class='adad-row'>
+    <div class='total-qamari-span'><span class="translation-title">قمري عدد</span> <strong class='total-value'>231</strong></div>
+    <div class='total-bayenati-span'><span class="translation-title">باطني عدد</span> <strong class='total-value'>430</strong></div>
+    <div class='total-malfuzi-span'><span class="translation-title">ملفوظي عدد</span> <strong class='total-value'>661</strong></div>
+</div>
+
+</div>
+
+</div>
+
+<div class="verse-section">
+    
+<div class="verse-container">
+    <div class="original-text">
+        <p class="arabic-text">لَمْ يَلِدْ وَلَمْ يُولَدْ <span class='ayah-marker'>3</span></p>
+    </div>
+</div>
+
+    
+<div class="calculation">
+    <table class="qamari-malfuzi-table">
+<tr class="letter-row letter-value-row">
+<td class="light-letter-left-border">ل</td>
+<td class="dark-letter-left-border">م</td>
+<td class="light-letter-left-border">ي</td>
+<td class="light-letter-left-border">ل</td>
+<td class="dark-letter-left-border">د</td>
+<td class="light-letter-left-border">و</td>
+<td class="light-letter-left-border">ل</td>
+<td class="dark-letter-left-border">م</td>
+<td class="light-letter-left-border">ي</td>
+<td class="light-letter-left-border">و</td>
+<td class="light-letter-left-border">ل</td>
+<td class="dark-letter-left-border">د</td>
+</tr>
+<tr class="value-row letter-value-row qamari-value-row">
+<td class="light-letter-left-border">30</td>
+<td class="dark-letter-left-border">40</td>
+<td class="light-letter-left-border">10</td>
+<td class="light-letter-left-border">30</td>
+<td class="dark-letter-left-border">4</td>
+<td class="light-letter-left-border">6</td>
+<td class="light-letter-left-border">30</td>
+<td class="dark-letter-left-border">40</td>
+<td class="light-letter-left-border">10</td>
+<td class="light-letter-left-border">6</td>
+<td class="light-letter-left-border">30</td>
+<td class="dark-letter-left-border">4</td>
+</tr>
+<tr class="value-row letter-value-row malfuzi-value-row">
+<td class="light-letter-left-border">71</td>
+<td class="dark-letter-left-border">90</td>
+<td class="light-letter-left-border">11</td>
+<td class="light-letter-left-border">71</td>
+<td class="dark-letter-left-border">35</td>
+<td class="light-letter-left-border">13</td>
+<td class="light-letter-left-border">71</td>
+<td class="dark-letter-left-border">90</td>
+<td class="light-letter-left-border">11</td>
+<td class="light-letter-left-border">13</td>
+<td class="light-letter-left-border">71</td>
+<td class="dark-letter-left-border">35</td>
+</tr>
+<tr class="word-row">
+<td colspan=2>لَمْ</td>
+<td colspan=3>يَلِدْ</td>
+<td colspan=3>وَلَمْ</td>
+<td colspan=4>يُولَدْ</td>
+</tr>
+<tr class="value-row qamari-value-row">
+<td colspan=2>70</td>
+<td colspan=3>44</td>
+<td colspan=3>76</td>
+<td colspan=4>50</td>
+</tr>
+<tr class="value-row malfuzi-value-row">
+<td colspan=2>161</td>
+<td colspan=3>117</td>
+<td colspan=3>174</td>
+<td colspan=4>130</td>
+</tr>
+</table>
+
+</div>
+
+    
+<div class="translations">
+
+<p class='right-to-left'><span class="translation-title">اردو</span>نہ اس نے کسی کو جنم دیا نہ وہ کسی کا پیدا کردہ ہے</p>
+
+<p class='right-to-left'><span class="translation-title">فارسی</span>نه از کسی زاده شده و نه کسی زاییده‌ی اوست</p>
+
+<p class='left-to-right'><span class="translation-title">English</span>He neither begets nor is born.</p>
+
+<p class='left-to-right'><span class="translation-title left-to-right">Transliteration</span>Lam yalid wa lam yūlad</p>
+<div class='adad-row'>
+    <div class='total-qamari-span'><span class="translation-title">قمري عدد</span> <strong class='total-value'>240</strong></div>
+    <div class='total-bayenati-span'><span class="translation-title">باطني عدد</span> <strong class='total-value'>342</strong></div>
+    <div class='total-malfuzi-span'><span class="translation-title">ملفوظي عدد</span> <strong class='total-value'>582</strong></div>
+</div>
+
+</div>
+
+</div>
+
+<div class="verse-section">
+    
+<div class="verse-container">
+    <div class="original-text">
+        <p class="arabic-text">وَلَمْ يَكُن لَّهُ كُفُوًا أَحَدٌ <span class='ayah-marker'>4</span></p>
+    </div>
+</div>
+
+    
+<div class="calculation">
+    <table class="qamari-malfuzi-table">
+<tr class="letter-row letter-value-row">
+<td class="light-letter-left-border">و</td>
+<td class="light-letter-left-border">ل</td>
+<td class="dark-letter-left-border">م</td>
+<td class="light-letter-left-border">ي</td>
+<td class="light-letter-left-border">ك</td>
+<td class="dark-letter-left-border">ن</td>
+<td class="light-letter-left-border">ل</td>
+<td class="dark-letter-left-border">ه</td>
+<td class="light-letter-left-border">ك</td>
+<td class="light-letter-left-border">ف</td>
+<td class="light-letter-left-border">و</td>
+<td class="dark-letter-left-border">ا</td>
+<td class="light-letter-left-border">أ</td>
+<td class="light-letter-left-border">ح</td>
+<td class="dark-letter-left-border">د</td>
+</tr>
+<tr class="value-row letter-value-row qamari-value-row">
+<td class="light-letter-left-border">6</td>
+<td class="light-letter-left-border">30</td>
+<td class="dark-letter-left-border">40</td>
+<td class="light-letter-left-border">10</td>
+<td class="light-letter-left-border">20</td>
+<td class="dark-letter-left-border">50</td>
+<td class="light-letter-left-border">30</td>
+<td class="dark-letter-left-border">5</td>
+<td class="light-letter-left-border">20</td>
+<td class="light-letter-left-border">80</td>
+<td class="light-letter-left-border">6</td>
+<td class="dark-letter-left-border">1</td>
+<td class="light-letter-left-border">1</td>
+<td class="light-letter-left-border">8</td>
+<td class="dark-letter-left-border">4</td>
+</tr>
+<tr class="value-row letter-value-row malfuzi-value-row">
+<td class="light-letter-left-border">13</td>
+<td class="light-letter-left-border">71</td>
+<td class="dark-letter-left-border">90</td>
+<td class="light-letter-left-border">11</td>
+<td class="light-letter-left-border">101</td>
+<td class="dark-letter-left-border">106</td>
+<td class="light-letter-left-border">71</td>
+<td class="dark-letter-left-border">6</td>
+<td class="light-letter-left-border">101</td>
+<td class="light-letter-left-border">81</td>
+<td class="light-letter-left-border">13</td>
+<td class="dark-letter-left-border">111</td>
+<td class="light-letter-left-border">111</td>
+<td class="light-letter-left-border">9</td>
+<td class="dark-letter-left-border">35</td>
+</tr>
+<tr class="word-row">
+<td colspan=3>وَلَمْ</td>
+<td colspan=3>يَكُن</td>
+<td colspan=2>لَّهُ</td>
+<td colspan=4>كُفُوًا</td>
+<td colspan=3>أَحَدٌ</td>
+</tr>
+<tr class="value-row qamari-value-row">
+<td colspan=3>76</td>
+<td colspan=3>80</td>
+<td colspan=2>35</td>
+<td colspan=4>107</td>
+<td colspan=3>13</td>
+</tr>
+<tr class="value-row malfuzi-value-row">
+<td colspan=3>174</td>
+<td colspan=3>218</td>
+<td colspan=2>77</td>
+<td colspan=4>306</td>
+<td colspan=3>155</td>
+</tr>
+</table>
+
+</div>
+
+    
+<div class="translations">
+
+<p class='right-to-left'><span class="translation-title">اردو</span>اس کا کوئی ہمسر نہیں</p>
+
+<p class='right-to-left'><span class="translation-title">فارسی</span>نه شبیهی برای اوست</p>
+
+<p class='left-to-right'><span class="translation-title">English</span>Nor is there to Him any equivalent.</p>
+
+<p class='left-to-right'><span class="translation-title left-to-right">Transliteration</span>Wa lam yakun lahu kufuwan ʾAḥadun</p>
+<div class='adad-row'>
+    <div class='total-qamari-span'><span class="translation-title">قمري عدد</span> <strong class='total-value'>311</strong></div>
+    <div class='total-bayenati-span'><span class="translation-title">باطني عدد</span> <strong class='total-value'>619</strong></div>
+    <div class='total-malfuzi-span'><span class="translation-title">ملفوظي عدد</span> <strong class='total-value'>930</strong></div>
+</div>
+
+</div>
+
+</div>
+
+<div class="grand-total">
+    <div class='qamari-grand-total surah-adad-sum'>
+        <h3>مجموع القمري</h3>
+        <p><strong>1002</strong></p>
+    </div>
+    <div class='batini-grand-total surah-adad-sum'>
+        <h3>مجموع الباطني</h3>
+        <p><strong>1856</strong></p>
+    </div>
+    <div class='malfuzi-grand-total surah-adad-sum'>
+        <h3>مجموع الملفوظي</h3>
+        <p><strong>2858</strong></p>
+    </div>
+</div>
+
+    </div>
+</body>
+<script>
+    // Add this code to your existing JavaScript section
+document.addEventListener("DOMContentLoaded", function () {
+    // Define selectors for toggle switches
+    const toggleSwitches = {
+        "toggle-calculation": ".calculation",
+        "toggle-translation-urdu":
+            '.translations p:has(.translation-title:contains("اردو"))',
+        "toggle-translation-farsi":
+            '.translations p:has(.translation-title:contains("فارسی"))',
+        "toggle-translation-english":
+            '.translations p:has(.translation-title:contains("English"))',
+        "toggle-translation-transliteration":
+            '.translations p:has(.translation-title:contains("Transliteration"))',
+        "toggle-totals": ".adad-row, .grand-total",
+    };
+
+    // Simple function to find elements with text content
+    function findElementsWithText(containerSelector, textContent) {
+        const containers = document.querySelectorAll(containerSelector);
+        return Array.from(containers).filter((container) => {
+            const titleElement = container.querySelector(".translation-title");
+            return titleElement && titleElement.textContent.includes(textContent);
+        });
+    }
+
+    // Set up change handlers for toggle switches
+    for (const [switchId, selector] of Object.entries(toggleSwitches)) {
+        const toggleSwitch = document.getElementById(switchId);
+        if (toggleSwitch) {
+            toggleSwitch.addEventListener("change", function () {
+                const isVisible = this.checked;
+
+                if (selector.includes(":has")) {
+                    // For selectors using :has which might not be supported in all browsers
+                    let elements;
+
+                    if (selector.includes("اردو")) {
+                        elements = findElementsWithText(".translations p", "اردو");
+                    } else if (selector.includes("فارسی")) {
+                        elements = findElementsWithText(".translations p", "فارسی");
+                    } else if (selector.includes("English")) {
+                        elements = findElementsWithText(".translations p", "English");
+                    } else if (selector.includes("Transliteration")) {
+                        elements = findElementsWithText(
+                            ".translations p",
+                            "Transliteration"
+                        );
+                    } else {
+                        elements = [];
+                    }
+
+                    elements.forEach((element) => {
+                        element.style.display = isVisible ? "" : "none";
+                    });
+                } else {
+                    // For standard CSS selectors
+                    const elements = document.querySelectorAll(selector);
+                    elements.forEach((element) => {
+                        element.style.display = isVisible ? "" : "none";
+                    });
+                }
+            });
+        }
+    }
+
+    // Settings panel toggle functionality
+    const togglePanelButton = document.getElementById("toggle-panel-button");
+    const settingsPanel = document.querySelector(".toggle-panel");
+    const settingsContent = document.querySelector(".toggle-panel-content");
+
+    // Initialize panel state (expanded on desktop, collapsed on mobile by default)
+    let isPanelExpanded = false;
+    updatePanelState();
+
+    // Toggle panel when button is clicked
+    if (togglePanelButton) {
+        togglePanelButton.addEventListener("click", function () {
+            isPanelExpanded = !isPanelExpanded;
+            updatePanelState();
+        });
+    }
+
+    // Update panel state based on window resize
+    window.addEventListener("resize", function () {
+        updatePanelState();
+    });
+
+    function updatePanelState() {
+        if (!settingsPanel || !settingsContent || !togglePanelButton) return;
+
+        if (isPanelExpanded) {
+            settingsContent.style.maxHeight = settingsContent.scrollHeight + "px";
+            settingsContent.style.overflow = "visible";
+            togglePanelButton.innerHTML =
+                '<i class="fa fa-chevron-up"></i>Close Settings';
+            togglePanelButton.classList.add("expanded");
+        } else {
+            settingsContent.style.maxHeight = "0px";
+            settingsContent.style.overflow = "hidden";
+            togglePanelButton.innerHTML =
+                '<i class="fa fa-chevron-down"></i>Open Settings';
+            togglePanelButton.classList.remove("expanded");
+        }
+    }
+});
+</script>
+</html>
