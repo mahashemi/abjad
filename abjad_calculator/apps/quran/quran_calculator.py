@@ -6,7 +6,6 @@ import json
 import os
 from typing import List
 from dataclasses import asdict
-from .template.quran_template import quran_html_template_start
 from ...common.model import AbjadResult, LetterBreakdown
 from ...common.core import calculate_abjad
 from ...common.display import (
@@ -30,6 +29,9 @@ with open(os.path.join(ROOT_PATH, "template/static/style.css")) as f:
 
 with open(os.path.join(ROOT_PATH, "template/static/script.js")) as f:
     js_file = f.read()
+
+with open(os.path.join(ROOT_PATH, "template/static/template.html")) as f:
+    quran_html_template_start = f.read()
 
 
 def calculate_quranic_verse(

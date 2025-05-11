@@ -25,7 +25,7 @@ ayats = [
     },
     {
         "verse_number": "4",
-        "arabic_text": "قُتِلَ اَصْحَابُ الْاُخْدُودِ",
+        "arabic_text": "قُتِلَ اَصْحٰبُ الْاُخْدُودِ",
         "urdu_text": "مارے گئے خندقوں والے",
         "persian_text": "نابود باد یاران خندق",
         "english_text": "Cursed were the companions of the trench",

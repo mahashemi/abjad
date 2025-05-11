@@ -536,6 +536,8 @@ input:checked+.slider:before {
 
     .surah-adad-sum {
         display: block;
+        width: 50%;
+        margin:14px auto;
     }
 
     .total-value {
