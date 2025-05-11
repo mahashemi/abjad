@@ -5,7 +5,7 @@ ayats = [
         "persian_text": "نام پروردگار بلندمرتبه‌ات را پاک بدان",
         "english_text": "Glorify the name of your Lord, the Most High.",
         "transliteration": "Sabbih isma rabbika al-a‘la",
-        "verse_number": "87:1",
+        "verse_number": "1",
     },
     {
         "arabic_text": "الَّذِي خَلَقَ فَسَوَّىٰ",
@@ -13,7 +13,7 @@ ayats = [
         "persian_text": "همان که آفرید و درست کرد",
         "english_text": "Who created and proportioned.",
         "transliteration": "Alladhī khalaqa fa-sawwā",
-        "verse_number": "87:2",
+        "verse_number": "2",
     },
     {
         "arabic_text": "وَالَّذِي قَدَّرَ فَهَدَىٰ",
@@ -21,7 +21,7 @@ ayats = [
         "persian_text": "و اندازه گرفت و سپس راه نمود",
         "english_text": "Who destined and guided.",
         "transliteration": "Wa alladhī qaddara fa-hadā",
-        "verse_number": "87:3",
+        "verse_number": "3",
     },
     {
         "arabic_text": "وَالَّذِي أَخْرَجَ الْمَرْعَىٰ",
@@ -29,7 +29,7 @@ ayats = [
         "persian_text": "و چراگاه را برآورد",
         "english_text": "Who brings out the pasture.",
         "transliteration": "Wa alladhī akhraja al-mar‘ā",
-        "verse_number": "87:4",
+        "verse_number": "4",
     },
     {
         "arabic_text": "فَجَعَلَهُ غُثَاءً أَحْوَىٰ",
@@ -37,7 +37,7 @@ ayats = [
         "persian_text": "و آن را خشک و سیاه گرداند",
         "english_text": "Then turns it into black stubble.",
         "transliteration": "Faja‘alahu ghuthā’an aḥwā",
-        "verse_number": "87:5",
+        "verse_number": "5",
     },
     {
         "arabic_text": "سَنُقْرِئُكَ فَلَا تَنسَىٰ",
@@ -45,7 +45,7 @@ ayats = [
         "persian_text": "ما تو را خواهیم خواند، پس فراموش نخواهی کرد",
         "english_text": "We will make you recite, so you shall not forget.",
         "transliteration": "Sanuqri’uka fa-lā tansa",
-        "verse_number": "87:6",
+        "verse_number": "6",
     },
     {
         "arabic_text": "إِلَّا مَا شَاءَ اللَّهُ ۚ إِنَّهُ يَعْلَمُ الْجَهْرَ وَمَا يَخْفَىٰ",
@@ -53,7 +53,7 @@ ayats = [
         "persian_text": "مگر آنچه خدا بخواهد، همانا او آشکار و پنهان را می‌داند",
         "english_text": "Except what Allah wills. Indeed, He knows what is declared and what is hidden.",
         "transliteration": "Illā mā shā’a Allāh, innahu ya‘lamu al-jahra wa mā yakhfā",
-        "verse_number": "87:7",
+        "verse_number": "7",
     },
     {
         "arabic_text": "وَنُيَسِّرُكَ لِلْيُسْرَىٰ",
@@ -61,7 +61,7 @@ ayats = [
         "persian_text": "و ما راه آسان را برای تو آسان می‌گردانیم",
         "english_text": "And We will ease you toward ease.",
         "transliteration": "Wa nuyassiruka lil-yusrā",
-        "verse_number": "87:8",
+        "verse_number": "8",
     },
     {
         "arabic_text": "فَذَكِّرْ إِن نَّفَعَتِ الذِّكْرَىٰ",
@@ -69,7 +69,7 @@ ayats = [
         "persian_text": "پس پند ده اگر پند سود دهد",
         "english_text": "So remind, if the reminder benefits.",
         "transliteration": "Fadhakkir in nafa‘ati adh-dhikrā",
-        "verse_number": "87:9",
+        "verse_number": "9",
     },
     {
         "arabic_text": "سَيَذَّكَّرُ مَن يَخْشَىٰ",
@@ -77,7 +77,7 @@ ayats = [
         "persian_text": "به زودی پند گیرد آن که می‌ترسد",
         "english_text": "He who fears will be reminded.",
         "transliteration": "Sayadhakkaru man yakhshā",
-        "verse_number": "87:10",
+        "verse_number": "10",
     },
     {
         "arabic_text": "وَيَتَجَنَّبُهَا الْأَشْقَى",
@@ -85,7 +85,7 @@ ayats = [
         "persian_text": "و بدبخت از آن دوری گزیند",
         "english_text": "But the wretched one will avoid it.",
         "transliteration": "Wa yatajannabuhā al-ashqā",
-        "verse_number": "87:11",
+        "verse_number": "11",
     },
     {
         "arabic_text": "الَّذِي يَصْلَى النَّارَ الْكُبْرَىٰ",
@@ -93,7 +93,7 @@ ayats = [
         "persian_text": "آن که در آتش بزرگ درآید",
         "english_text": "Who will enter the great fire.",
         "transliteration": "Alladhī yaṣlā an-nār al-kubrā",
-        "verse_number": "87:12",
+        "verse_number": "12",
     },
     {
         "arabic_text": "ثُمَّ لَا يَمُوتُ فِيهَا وَلَا يَحْيَىٰ",
@@ -101,7 +101,7 @@ ayats = [
         "persian_text": "نه در آن خواهد مرد و نه زنده خواهد ماند",
         "english_text": "Then neither will he die therein nor live.",
         "transliteration": "Thumma lā yamūtu fīhā wa lā yaḥyā",
-        "verse_number": "87:13",
+        "verse_number": "13",
     },
     {
         "arabic_text": "قَدْ أَفْلَحَ مَن تَزَكَّىٰ",
@@ -109,7 +109,7 @@ ayats = [
         "persian_text": "هرکه پاکی گزید، رستگار شد",
         "english_text": "Indeed, successful is the one who purifies himself.",
         "transliteration": "Qad aflaha man tazakkā",
-        "verse_number": "87:14",
+        "verse_number": "14",
     },
     {
         "arabic_text": "وَذَكَرَ اسْمَ رَبِّهِ فَصَلَّىٰ",
@@ -117,7 +117,7 @@ ayats = [
         "persian_text": "و نام پروردگارش را یاد کرد و نماز گزارد",
         "english_text": "And mentions the name of his Lord and prays.",
         "transliteration": "Wa dhakara isma rabbihi faṣallā",
-        "verse_number": "87:15",
+        "verse_number": "15",
     },
     {
         "arabic_text": "بَلْ تُؤْثِرُونَ الْحَيَاةَ الدُّنْيَا",
@@ -125,7 +125,7 @@ ayats = [
         "persian_text": "بلکه شما زندگی دنیا را برمی‌گزینید",
         "english_text": "But you prefer the worldly life.",
         "transliteration": "Bal tu’thirūna al-ḥayāta ad-dunyā",
-        "verse_number": "87:16",
+        "verse_number": "16",
     },
     {
         "arabic_text": "وَالْآخِرَةُ خَيْرٌ وَأَبْقَىٰ",
@@ -133,7 +133,7 @@ ayats = [
         "persian_text": "در حالی که آخرت بهتر و پایدارتر است",
         "english_text": "While the Hereafter is better and more lasting.",
         "transliteration": "Wa al-ākhiratu khayrun wa abqā",
-        "verse_number": "87:17",
+        "verse_number": "17",
     },
     {
         "arabic_text": "إِنَّ هَٰذَا لَفِي الصُّحُفِ الْأُولَىٰ",
@@ -141,7 +141,7 @@ ayats = [
         "persian_text": "قطعاً این مطالب در صحیفه‌های پیشین نیز بوده است",
         "english_text": "Indeed, this is in the former scriptures.",
         "transliteration": "Inna hādhā la-fī aṣ-ṣuḥufi al-ūlā",
-        "verse_number": "87:18",
+        "verse_number": "18",
     },
     {
         "arabic_text": "صُحُفِ إِبْرَاهِيمَ وَمُوسَىٰ",
@@ -149,6 +149,6 @@ ayats = [
         "persian_text": "یعنی صحیفه‌های ابراهیم و موسی",
         "english_text": "The scriptures of Abraham and Moses.",
         "transliteration": "Ṣuḥufi Ibrāhīma wa Mūsā",
-        "verse_number": "87:19",
+        "verse_number": "19",
     },
 ]
