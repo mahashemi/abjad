@@ -162,12 +162,11 @@ ayats = [
     {
         "verse_number": "21",
         "arabic_text": "بَلْ هُوَ قُرْاٰنٌ مَّجِيدٌ",
-        "urdu_text": "بلکہ یہ قرآن بڑی شان والا ہے۔ لوح محفوظ میں (لکھا ہوا) ہے",
+        "urdu_text": "بلکہ یہ قرآن بڑی شان والا ہے۔",
         "persian_text": "بلکه این قرآنی است بزرگوار،",
         "english_text": "But this is an honored Qur'an,",
         "transliteration": "Bal huwa Qur'ānun majīdun",
     },
-
     {
         "verse_number": "22",
         "arabic_text": "فِى لَوْحٍ مَّحْفُوظٍ",
@@ -175,5 +174,5 @@ ayats = [
         "persian_text": "که در لوح محفوظ ثبت شده است",
         "english_text": "[Inscribed] in a Preserved Tablet.",
         "transliteration": "fī lawḥin maḥfūẓ",
-    }
+    },
 ]
