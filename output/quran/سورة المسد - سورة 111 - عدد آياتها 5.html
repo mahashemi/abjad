@@ -44,6 +44,49 @@ body {
     line-height: 1.6;
 }
 
+.surah-adad-sum p {
+    outline: 1px solid rgba(218, 165, 32, 0.199);
+    padding: 0 8px;
+    border-radius: 5px;
+    box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+    text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.5);
+    background-color: #daa52012;
+    margin: 0px;
+}
+
+.surah-adad-sum h3 {
+    font-size: 32px;
+    margin: 0px;
+}
+
+.surah-adad-sum {
+    font-size: 40px;
+    display: inline-block;
+    border-radius: 8px;
+    padding: 8px;
+    margin: 14px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.24);
+}
+
+
+.qamari-grand-total {
+    background-color: rgba(38, 87, 42, 0.08);
+    border: 1px solid var(--primary-color);
+    color: var(--primary-color);
+}
+
+.batini-grand-total {
+    background-color: rgba(203, 141, 56, 0.08);
+    border: 1px solid var(--batini-color);
+    color: var(--batini-color);
+}
+
+.malfuzi-grand-total {
+    background-color: rgba(78, 90, 52, 0.08);
+    border: 1px solid var(--malfuzi-color);
+    color: var(--malfuzi-color);
+}
+
 .calculation {
     font-size: 24px;
     overflow: auto;
@@ -116,7 +159,7 @@ h2 {
 .verse-section::after {
     content: "";
     position: absolute;
-    bottom: -20px;
+    bottom: -22px;
     left: 50%;
     transform: translateX(-50%);
     width: 80%;
@@ -155,43 +198,10 @@ h2 {
 
 .grand-total {
     text-align: center;
-    margin-top: 40px;
-    padding: 25px;
     background-color: var(--verse-bg);
     border-radius: 10px;
-    font-size: 1.3em;
     border: 2px solid var(--border-color);
     box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
-}
-
-.qamari-grand-total {
-    background-color: rgba(38, 87, 42, 0.08);
-    border-radius: 8px;
-    padding: 15px;
-    margin-bottom: 15px;
-    border: 1px solid var(--primary-color);
-    color: var(--primary-color);
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
-}
-
-.batini-grand-total {
-    background-color: rgba(203, 141, 56, 0.08);
-    border-radius: 8px;
-    padding: 15px;
-    margin-bottom: 15px;
-    border: 1px solid var(--batini-color);
-    color: var(--batini-color);
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
-}
-
-.malfuzi-grand-total {
-    margin-top: 15px;
-    background-color: rgba(78, 90, 52, 0.08);
-    border-radius: 8px;
-    padding: 15px;
-    border: 1px solid var(--malfuzi-color);
-    color: var(--malfuzi-color);
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
 }
 
 .right-to-left {
@@ -531,6 +541,10 @@ input:checked+.slider:before {
 
 /* Mobile responsive design */
 @media screen and (max-width: 768px) {
+
+    .surah-adad-sum {
+        display: block;
+    }
 
     .total-value {
         font-size: 28px;
@@ -1324,15 +1338,15 @@ input:checked+.slider:before {
 </div>
 
 <div class="grand-total">
-    <div class='qamari-grand-total'>
+    <div class='qamari-grand-total surah-adad-sum'>
         <h3>مجموع القمري</h3>
         <p><strong>5431</strong></p>
     </div>
-    <div class='batini-grand-total'>
+    <div class='batini-grand-total surah-adad-sum'>
         <h3>مجموع الباطني</h3>
         <p><strong>3016</strong></p>
     </div>
-    <div class='malfuzi-grand-total'>
+    <div class='malfuzi-grand-total surah-adad-sum'>
         <h3>مجموع الملفوظي</h3>
         <p><strong>8447</strong></p>
     </div>

@@ -219,15 +219,15 @@ def process_multiple_verses(
     # Add grand total section
     quran_data_html += f"""
 <div class="grand-total">
-    <div class='qamari-grand-total'>
+    <div class='qamari-grand-total surah-adad-sum'>
         <h3>مجموع القمري</h3>
         <p><strong>{grand_qamari_total}</strong></p>
     </div>
-    <div class='batini-grand-total'>
+    <div class='batini-grand-total surah-adad-sum'>
         <h3>مجموع الباطني</h3>
         <p><strong>{grand_bayenati_total}</strong></p>
     </div>
-    <div class='malfuzi-grand-total'>
+    <div class='malfuzi-grand-total surah-adad-sum'>
         <h3>مجموع الملفوظي</h3>
         <p><strong>{grand_malfuzi_total}</strong></p>
     </div>
