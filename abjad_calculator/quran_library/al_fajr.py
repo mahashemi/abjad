@@ -1,7 +1,7 @@
 ayats = [
     {
         "verse_number": "1",
-        "arabic_text": "وَٱلْفَجْرِ",
+        "arabic_text": "وَالْفَجْرِ",
         "urdu_text": "قسم ہے فجر کی",
         "persian_text": "سوگند به سپیده‌دم",
         "english_text": "By the dawn",
@@ -9,7 +9,7 @@ ayats = [
     },
     {
         "verse_number": "2",
-        "arabic_text": "وَلَيَالٍ عَشْرٍ",
+        "arabic_text": "وَ لَيَالٍ عَشْرٍ",
         "urdu_text": "اور دس راتوں کی",
         "persian_text": "و شب‌های دهگانه",
         "english_text": "And [by] ten nights",
@@ -17,7 +17,7 @@ ayats = [
     },
     {
         "verse_number": "3",
-        "arabic_text": "وَٱلشَّفْعِ وَٱلْوَتْرِ",
+        "arabic_text": "وَ الشَّفْعِ وَ الْوَتْرِ",
         "urdu_text": "اور جفت اور طاق کی",
         "persian_text": "و به جفت و طاق",
         "english_text": "And [by] the even and the odd",
@@ -25,7 +25,7 @@ ayats = [
     },
     {
         "verse_number": "4",
-        "arabic_text": "وَٱلَّيْلِ إِذَا يَسْرِ",
+        "arabic_text": "وَ الَّيْلِ اِذَا يَسْرِ",
         "urdu_text": "اور رات کی جب وہ چلتی ہے",
         "persian_text": "و به شب آنگاه که روان شود",
         "english_text": "And [by] the night when it passes",
@@ -33,7 +33,7 @@ ayats = [
     },
     {
         "verse_number": "5",
-        "arabic_text": "هَلْ فِى ذَٰلِكَ قَسَمٌۭ لِّذِى حِجْرٍ",
+        "arabic_text": "هَلْ فِى ذَٰلِكَ قَسَمٌ لِّذِى حِجْرٍ",
         "urdu_text": "کیا ان سب میں عقلمند کے لیے کوئی قسم (سبق) نہیں؟",
         "persian_text": "آیا در این سوگندها برای خردمند عبرتی هست؟",
         "english_text": "Is there [not] in [all] that an oath [sufficient] for one of perception?",
@@ -41,7 +41,7 @@ ayats = [
     },
     {
         "verse_number": "6",
-        "arabic_text": "أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِعَادٍ",
+        "arabic_text": "اَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِعَادٍ",
         "urdu_text": "کیا آپ نے نہیں دیکھا کہ آپ کے رب نے عاد قوم کے ساتھ کیا کیا؟",
         "persian_text": "آیا ندیدی پروردگارت با قوم عاد چه کرد؟",
         "english_text": "Have you not considered how your Lord dealt with 'Aad -",
@@ -49,7 +49,7 @@ ayats = [
     },
     {
         "verse_number": "7",
-        "arabic_text": "إِرَمَ ذَاتِ ٱلْعِمَادِ",
+        "arabic_text": "اِرَمَ ذَاتِ الْعِمَادِ",
         "urdu_text": "ارم (قوم عاد) جو ستونوں والی تھی",
         "persian_text": "ارم، آنکه دارای ستون‌های بلند بود",
         "english_text": "[With] Iram – who had lofty pillars",
@@ -57,7 +57,7 @@ ayats = [
     },
     {
         "verse_number": "8",
-        "arabic_text": "ٱلَّتِى لَمْ يُخْلَقْ مِثْلُهَا فِى ٱلْبِلَـٰدِ",
+        "arabic_text": "الَّتِى لَمْ يُخْلَقْ مِثْلُهَا فِى الْبِلَادِ",
         "urdu_text": "جس جیسی کوئی قوم ملکوں میں پیدا نہ کی گئی",
         "persian_text": "که نظیرش در شهرها آفریده نشده بود",
         "english_text": "The likes of whom had never been created in the land?",
@@ -65,7 +65,7 @@ ayats = [
     },
     {
         "verse_number": "9",
-        "arabic_text": "وَثَمُودَ ٱلَّذِينَ جَابُوا۟ ٱلصَّخْرَ بِٱلْوَادِ",
+        "arabic_text": "وَ ثَمُودَ الَّذِينَ جَابُوا الصَّخْرَ بِالْوَادِ",
         "urdu_text": "اور ثمود جو وادی میں چٹانیں تراشتے تھے",
         "persian_text": "و ثمود که سنگ‌ها را در دره می‌بریدند",
         "english_text": "And [with] Thamud, who carved out the rocks in the valley?",
@@ -73,7 +73,7 @@ ayats = [
     },
     {
         "verse_number": "10",
-        "arabic_text": "وَفِرْعَوْنَ ذِى ٱلْأَوْتَادِ",
+        "arabic_text": "وَ فِرْعَوْنَ ذِى الْاَوْتَادِ",
         "urdu_text": "اور فرعون جو میخوں والا تھا",
         "persian_text": "و فرعونِ میخ‌دار",
         "english_text": "And Pharaoh, owner of the stakes?",
@@ -81,7 +81,7 @@ ayats = [
     },
     {
         "verse_number": "11",
-        "arabic_text": "ٱلَّذِينَ طَغَوْا۟ فِى ٱلْبِلَـٰدِ",
+        "arabic_text": "الَّذِينَ طَغَوْا فِى الْبِلَادِ",
         "urdu_text": "جنہوں نے ملکوں میں سرکشی کی",
         "persian_text": "آنان که در شهرها طغیان کردند",
         "english_text": "Who [all] transgressed in the lands",
@@ -89,7 +89,7 @@ ayats = [
     },
     {
         "verse_number": "12",
-        "arabic_text": "فَأَكْثَرُوا۟ فِيهَا ٱلْفَسَادَ",
+        "arabic_text": "فَاَكْثَرُوا فِيهَا الْفَسَادَ",
         "urdu_text": "پھر ان میں بہت فساد پھیلایا",
         "persian_text": "و در آن فساد بسیار کردند",
         "english_text": "And increased therein the corruption",
@@ -105,14 +105,14 @@ ayats = [
     },
     {
         "verse_number": "14",
-        "arabic_text": "إِنَّ رَبَّكَ لَبِٱلْمِرْصَادِ",
+        "arabic_text": "اِنَّ رَبَّكَ لَبِالْمِرْصَادِ",
         "urdu_text": "بے شک آپ کا رب گھات میں ہے",
         "persian_text": "بی‌گمان پروردگارت در کمین است",
         "english_text": "Indeed, your Lord is in observation.",
         "transliteration": "Inna rabbaka labil-mirsad",
     },
     {
-        "arabic_text": "فَأَمَّا ٱلْإِنسَـٰنُ إِذَا مَا ٱبْتَلَىٰهُ رَبُّهُ فَأَكْرَمَهُۥ وَنَعَّمَهُۥ فَيَقُولُ رَبِّىٓ أَكْرَمَنِ",
+        "arabic_text": "فَاَمَّا الْاِنسَانُ اِذَا مَا ابْتَلٰهُ رَبُّهُ فَاَكْرَمَهُۥ وَ نَعَّمَهُۥ فَيَقُولُ رَبِّىٓ اَكْرَمَنِ",
         "urdu_text": "پس انسان جب اس کا رب اسے آزماتا ہے اور اسے عزت دیتا ہے اور نعمت عطا کرتا ہے تو کہتا ہے: میرے رب نے مجھے عزت دی۔",
         "persian_text": "اما وقتی که پروردگارش او را آزمایش کند و به او نعمت و کرامت دهد، می‌گوید: پروردگارم مرا گرامی داشته است.",
         "english_text": "But as for man, when his Lord tries him and honors him and bestows favor upon him, he says, 'My Lord has honored me.'",
@@ -120,7 +120,7 @@ ayats = [
         "verse_number": "15",
     },
     {
-        "arabic_text": "وَأَمَّآ إِذَا مَا ٱبْتَلَىٰهُ فَقَدَرَ عَلَيْهِ رِزْقَهُۥ فَيَقُولُ رَبِّىٓ أَهَـٰنَنِ",
+        "arabic_text": "وَ اَمَّآ اِذَا مَا ابْتَلٰهُ فَقَدَرَ عَلَيْهِ رِزْقَهُۥ فَيَقُولُ رَبِّىٓ اَهَانَنِ",
         "urdu_text": "اور جب وہ اسے آزماتا ہے اور اس کا رزق تنگ کر دیتا ہے تو کہتا ہے: میرے رب نے مجھے ذلیل کیا۔",
         "persian_text": "و اما وقتی که او را امتحان کند و روزی‌اش را بر او تنگ گرداند، گوید: پروردگارم مرا خوار کرده است.",
         "english_text": "But when He tries him and restricts his provision, he says, 'My Lord has humiliated me.'",
@@ -128,7 +128,7 @@ ayats = [
         "verse_number": "16",
     },
     {
-        "arabic_text": "كَلَّا ۖ بَل لَّا تُكْرِمُونَ ٱلْيَتِيمَ",
+        "arabic_text": "كَلَّا بَل لَّا تُكْرِمُونَ الْيَتِيمَ",
         "urdu_text": "ہرگز نہیں، بلکہ تم یتیم کی عزت نہیں کرتے۔",
         "persian_text": "چنین نیست، بلکه شما یتیم را گرامی نمی‌دارید.",
         "english_text": "No! But you do not honor the orphan.",
@@ -136,7 +136,7 @@ ayats = [
         "verse_number": "17",
     },
     {
-        "arabic_text": "وَلَا تَحَـٰٓضُّونَ عَلَىٰ طَعَامِ ٱلْمِسْكِينِ",
+        "arabic_text": "وَ لَا تَحَـٰٓضُّونَ عَلٰى طَعَامِ الْمِسْكِينِ",
         "urdu_text": "اور مسکین کو کھانا کھلانے پر ایک دوسرے کو نہیں اُکساتے۔",
         "persian_text": "و یکدیگر را بر غذا دادن به مستمند بر نمی‌انگیزانید.",
         "english_text": "And you do not encourage one another to feed the poor.",
@@ -144,7 +144,7 @@ ayats = [
         "verse_number": "18",
     },
     {
-        "arabic_text": "وَتَأْكُلُونَ ٱلتُّرَاثَ أَكْلًۭا لَّمًّۭا",
+        "arabic_text": "وَ تَاَكُلُونَ التُّرَاثَ اَكْلًا لَّمًّا",
         "urdu_text": "اور تم ترکہ کھا جاتے ہو پورا کا پورا۔",
         "persian_text": "و میراث را با حرص و ولع کامل می‌خورید.",
         "english_text": "And you consume inheritance, devouring it altogether,",
@@ -152,7 +152,7 @@ ayats = [
         "verse_number": "19",
     },
     {
-        "arabic_text": "وَتُحِبُّونَ ٱلْمَالَ حُبًّۭا جَمًّۭا",
+        "arabic_text": "وَ تُحِبُّونَ الْمَالَ حُبًّا جَمًّا",
         "urdu_text": "اور مال سے شدید محبت رکھتے ہو۔",
         "persian_text": "و مال را بسیار دوست می‌دارید.",
         "english_text": "And you love wealth with immense love.",
@@ -160,7 +160,7 @@ ayats = [
         "verse_number": "20",
     },
     {
-        "arabic_text": "كَلَّآ إِذَا دُكَّتِ ٱلْأَرْضُ دَكًّا دَكًّۭا",
+        "arabic_text": "كَلَّآ اِذَا دُكَّتِ الْاَرْضُ دَكًّا دَكًّا",
         "urdu_text": "ہرگز نہیں! جب زمین کو چورا چورا کر دیا جائے گا۔",
         "persian_text": "نه چنین است! زمانی که زمین سخت درهم کوبیده شود،",
         "english_text": "No! When the earth has been leveled—pounded and crushed—",
@@ -168,7 +168,7 @@ ayats = [
         "verse_number": "21",
     },
     {
-        "arabic_text": "وَجَآءَ رَبُّكَ وَٱلْمَلَكُ صَفًّۭا صَفًّۭا",
+        "arabic_text": "وَّ جَآءَ رَبُّكَ وَ الْمَلَكُ صَفًّا صَفًّا",
         "urdu_text": "اور تیرا رب آئے گا اور فرشتے صف بستہ آ جائیں گے۔",
         "persian_text": "و پروردگارت خواهد آمد و فرشتگان صف به صف خواهند ایستاد،",
         "english_text": "And your Lord will come with angels, rank upon rank,",
@@ -176,7 +176,7 @@ ayats = [
         "verse_number": "22",
     },
     {
-        "arabic_text": "وَجِاىْٓءَ يَوْمَئِذٍۭۢ بِجَهَنَّمَ ۚ يَوْمَئِذٍۢ يَتَذَكَّرُ ٱلْإِنسَـٰنُ وَأَنَّىٰ لَهُ ٱلذِّكْرَىٰ",
+        "arabic_text": "وَ جَاىٓءَ يَوْمَئِذٍ بِجَهَنَّمَ يَوْمَئِذٍۢ يَتَذَكَّرُ الْاِنسَانُ وَ اَنّٰى لَهُ الذِّكْرٰى",
         "urdu_text": "اور اُس دن جہنم لائی جائے گی، اُس دن انسان نصیحت حاصل کرے گا، مگر وہ نصیحت کہاں؟",
         "persian_text": "و در آن روز جهنم آورده خواهد شد؛ در آن روز انسان متذکر می‌شود، ولی کجا سود دهد این تذکر؟",
         "english_text": "And Hell will be brought that Day. On that Day man will remember, but what good will remembrance be to him?",
@@ -184,7 +184,7 @@ ayats = [
         "verse_number": "23",
     },
     {
-        "arabic_text": "يَقُولُ يَـٰلَيْتَنِى قَدَّمْتُ لِحَيَاتِى",
+        "arabic_text": "يَقُولُ يٰلَيْتَنِى قَدَّمْتُ لِحَيَاتِى",
         "urdu_text": "وہ کہے گا: کاش میں نے اپنی زندگی کے لیے کچھ آگے بھیجا ہوتا۔",
         "persian_text": "خواهد گفت: ای کاش برای زندگی‌ام چیزی از پیش فرستاده بودم.",
         "english_text": "He will say, 'Oh, I wish I had sent ahead [some good] for my life.'",
@@ -192,7 +192,7 @@ ayats = [
         "verse_number": "24",
     },
     {
-        "arabic_text": "فَيَوْمَئِذٍۢ لَّا يُعَذِّبُ عَذَابَهُۥٓ أَحَدٌۭ",
+        "arabic_text": "فَيَوْمَئِذٍ لَّا يُعَذِّبُ عَذَابَهُٓ اَحَدٌ",
         "urdu_text": "پس اس دن ایسا عذاب کوئی نہ دے گا جیسا کہ وہ دے گا۔",
         "persian_text": "پس در آن روز هیچ‌کس عذابی چون عذاب او نخواهد داد،",
         "english_text": "So on that Day, none will punish as He will punish,",
@@ -200,7 +200,7 @@ ayats = [
         "verse_number": "25",
     },
     {
-        "arabic_text": "وَلَا يُوثِقُ وَثَاقَهُۥٓ أَحَدٌۭ",
+        "arabic_text": "وَّ لَا يُوثِقُ وَ ثَاقَهُٓ اَحَدٌ",
         "urdu_text": "اور نہ کوئی جکڑنے جیسا جکڑے گا جیسا کہ وہ جکڑے گا۔",
         "persian_text": "و هیچ‌کس بند و زنجیری چون بند او نخواهد بست،",
         "english_text": "And none will bind as He will bind.",
@@ -208,7 +208,7 @@ ayats = [
         "verse_number": "26",
     },
     {
-        "arabic_text": "يَـٰٓأَيَّتُهَا ٱلنَّفْسُ ٱلْمُطْمَئِنَّةُ",
+        "arabic_text": "يٰٓاَيَّتُهَا النَّفْسُ الْمُطْمَئِنَّةُ",
         "urdu_text": "اے نفسِ مطمئن! (سکون پانے والی جان!)",
         "persian_text": "ای جان آرام‌یافته!",
         "english_text": "O reassured soul,",
@@ -216,7 +216,7 @@ ayats = [
         "verse_number": "27",
     },
     {
-        "arabic_text": "ٱرْجِعِىٓ إِلَىٰ رَبِّكِ رَاضِيَةًۭ مَّرْضِيَّةًۭ",
+        "arabic_text": "ارْجِعِىٓ اِلٰى رَبِّكِ رَاضِيَةً مَّرْضِيَّةً",
         "urdu_text": "اپنے رب کی طرف لوٹ چل، تُو اس سے راضی، وہ تجھ سے راضی۔",
         "persian_text": "بازگرد به سوی پروردگارت، در حالی که تو از او خشنود و او از تو خشنود است،",
         "english_text": "Return to your Lord, well-pleased and pleasing [to Him],",
@@ -224,7 +224,7 @@ ayats = [
         "verse_number": "28",
     },
     {
-        "arabic_text": "فَٱدْخُلِى فِى عِبَـٰدِى",
+        "arabic_text": "فَادْخُلِى فِى عِبٰدِى",
         "urdu_text": "پس میرے بندوں میں داخل ہو جا۔",
         "persian_text": "پس در میان بندگان من درآی،",
         "english_text": "So enter among My servants,",
@@ -232,7 +232,7 @@ ayats = [
         "verse_number": "29",
     },
     {
-        "arabic_text": "وَٱدْخُلِى جَنَّتِى",
+        "arabic_text": "وَ ادْخُلِى جَنَّتِى",
         "urdu_text": "اور میری جنت میں داخل ہو جا۔",
         "persian_text": "و در بهشت من داخل شو.",
         "english_text": "And enter My Paradise.",

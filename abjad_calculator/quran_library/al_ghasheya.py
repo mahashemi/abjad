@@ -1,6 +1,6 @@
 ayats = [
     {
-        "arabic_text": "هَلْ أَتَىٰكَ حَدِيثُ ٱلْغَـٰشِيَةِ",
+        "arabic_text": "هَلْ اَتٰكَ حَدِيثُ الْغَاشِيَةِ",
         "urdu_text": "کیا آپ کے پاس چھا جانے والی (قیامت) کی خبر آئی ہے؟",
         "persian_text": "آیا خبر آن روز پوشاننده (قیامت) به تو رسیده است؟",
         "english_text": "Has there reached you the report of the overwhelming event?",
@@ -8,7 +8,7 @@ ayats = [
         "verse_number": "1",
     },
     {
-        "arabic_text": "وُجُوهٌۭ يَوْمَئِذٍ خَاشِعَةٌ",
+        "arabic_text": "وُجُوهٌ يَوْمَئِذٍ خَاشِعَةٌ",
         "urdu_text": "اس دن کچھ چہرے جھکے ہوں گے،",
         "persian_text": "در آن روز چهره‌هایی خاضع و فروتن خواهند بود،",
         "english_text": "Some faces that Day will be humbled,",
@@ -16,7 +16,7 @@ ayats = [
         "verse_number": "2",
     },
     {
-        "arabic_text": "عَامِلَةٌۭ نَّاصِبَةٌ",
+        "arabic_text": "عَامِلَةٌ نَّاصِبَةٌ",
         "urdu_text": "کوشش کرنے والے، تھکے ہوئے،",
         "persian_text": "کار کرده و رنج کشیده،",
         "english_text": "Laboring, weary.",
@@ -24,7 +24,7 @@ ayats = [
         "verse_number": "3",
     },
     {
-        "arabic_text": "تَصْلَىٰ نَارًا حَامِيَةًۭ",
+        "arabic_text": "تَصْلٰى نَارًا حَامِيَةً",
         "urdu_text": "وہ دہکتی ہوئی آگ میں داخل ہوں گے،",
         "persian_text": "در آتشی سوزان درخواهند آمد،",
         "english_text": "They will enter to burn in a blazing fire,",
@@ -32,7 +32,7 @@ ayats = [
         "verse_number": "4",
     },
     {
-        "arabic_text": "تُسْقَىٰ مِنْ عَيْنٍ ءَانِيَةٍۢ",
+        "arabic_text": "تُسْقٰى مِنْ عَيْنٍ انِيَةٍ",
         "urdu_text": "ان کو ایک کھولتے ہوئے چشمے سے پلایا جائے گا،",
         "persian_text": "از چشمه‌ای بسیار داغ نوشانده خواهند شد،",
         "english_text": "They will be given drink from a boiling spring,",
@@ -40,7 +40,7 @@ ayats = [
         "verse_number": "5",
     },
     {
-        "arabic_text": "لَّيْسَ لَهُمْ طَعَامٌ إِلَّا مِن ضَرِيعٍۢ",
+        "arabic_text": "لَّيْسَ لَهُمْ طَعَامٌ اِلَّا مِن ضَرِيعٍ",
         "urdu_text": "ان کے لئے کوئی کھانا نہیں ہو گا سوائے خاردار جھاڑ کے،",
         "persian_text": "برای آنها خوراکی نیست جز خار تلخ،",
         "english_text": "For them there will be no food except from a poisonous, thorny plant,",
@@ -48,7 +48,7 @@ ayats = [
         "verse_number": "6",
     },
     {
-        "arabic_text": "لَّا يُسْمِنُ وَلَا يُغْنِى مِن جُوعٍۭ",
+        "arabic_text": "لَّا يُسْمِنُ وَ لَا يُغْنِى مِن جُوعٍ",
         "urdu_text": "جو نہ موٹا کرے گا، نہ بھوک مٹائے گا۔",
         "persian_text": "که نه فربه می‌کند و نه از گرسنگی بی‌نیاز می‌سازد.",
         "english_text": "Which neither nourishes nor avails against hunger.",
@@ -56,7 +56,7 @@ ayats = [
         "verse_number": "7",
     },
     {
-        "arabic_text": "وُجُوهٌۭ يَوْمَئِذٍۢ نَّاعِمَةٌۭ",
+        "arabic_text": "وُجُوهٌ يَوْمَئِذٍ نَّاعِمَةٌ",
         "urdu_text": "اس دن کچھ چہرے خوشحال ہوں گے،",
         "persian_text": "در آن روز چهره‌هایی باطراوت و شادمان خواهند بود،",
         "english_text": "Other faces that Day will show pleasure,",
@@ -64,7 +64,7 @@ ayats = [
         "verse_number": "8",
     },
     {
-        "arabic_text": "لِّسَعْيِهَا رَاضِيَةٌۭ",
+        "arabic_text": "لِّسَعْيِهَا رَاضِيَةٌ",
         "urdu_text": "اپنی کوشش پر خوش ہوں گے،",
         "persian_text": "از تلاش خود خرسند خواهند بود،",
         "english_text": "With their effort [they are] satisfied,",
@@ -72,7 +72,7 @@ ayats = [
         "verse_number": "9",
     },
     {
-        "arabic_text": "فِى جَنَّةٍ عَالِيَةٍۢ",
+        "arabic_text": "فِى جَنَّةٍ عَالِيَةٍ",
         "urdu_text": "بلند جنت میں ہوں گے،",
         "persian_text": "در بهشتی بلند مقام خواهند بود،",
         "english_text": "In an elevated garden,",
@@ -80,7 +80,7 @@ ayats = [
         "verse_number": "10",
     },
     {
-        "arabic_text": "لَّا تَسْمَعُ فِيهَا لَـٰغِيَةًۭ",
+        "arabic_text": "لَّا تَسْمَعُ فِيهَا لَاغِيَةً",
         "urdu_text": "جہاں کوئی لغو بات نہ سنیں گے،",
         "persian_text": "در آنجا سخن بیهوده‌ای نخواهند شنید،",
         "english_text": "Wherein they will hear no unsuitable speech.",
@@ -88,7 +88,7 @@ ayats = [
         "verse_number": "11",
     },
     {
-        "arabic_text": "فِيهَا عَيْنٌۭ جَارِيَةٌۭ",
+        "arabic_text": "فِيهَا عَيْنٌ جَارِيَةٌ",
         "urdu_text": "اس میں ایک بہتی ہوئی نہر ہو گی،",
         "persian_text": "در آنجا چشمه‌ای جاری خواهد بود،",
         "english_text": "Within it is a flowing spring –",
@@ -96,7 +96,7 @@ ayats = [
         "verse_number": "12",
     },
     {
-        "arabic_text": "فِيهَا سُرُرٌۭ مَّرْفُوعَةٌۭ",
+        "arabic_text": "فِيهَا سُرُرٌ مَّرْفُوعَةٌ",
         "urdu_text": "اس میں اونچے تخت ہوں گے،",
         "persian_text": "در آنجا تخت‌هایی بلند خواهد بود،",
         "english_text": "Within it are raised couches,",
@@ -104,7 +104,7 @@ ayats = [
         "verse_number": "13",
     },
     {
-        "arabic_text": "وَأَكْوَابٌۭ مَّوْضُوعَةٌۭ",
+        "arabic_text": "وَ اَكْوَابٌ مَّوْضُوعَةٌ",
         "urdu_text": "اور رکھے ہوئے پیالے،",
         "persian_text": "و جام‌هایی آماده،",
         "english_text": "And cups put in place,",
@@ -112,7 +112,7 @@ ayats = [
         "verse_number": "14",
     },
     {
-        "arabic_text": "وَنَمَارِقُ مَصْفُوفَةٌۭ",
+        "arabic_text": "وَ نَمَارِقُ مَصْفُوفَةٌ",
         "urdu_text": "اور قطار میں لگے ہوئے گاؤ تکیے،",
         "persian_text": "و بالش‌هایی چیده شده،",
         "english_text": "And cushions lined up,",
@@ -120,7 +120,7 @@ ayats = [
         "verse_number": "15",
     },
     {
-        "arabic_text": "وَزَرَابِىُّ مَبْثُوثَةٌ",
+        "arabic_text": "وَ زَرَابِىُّ مَبْثُوثَةٌ",
         "urdu_text": "اور بچھے ہوئے قالین،",
         "persian_text": "و فرش‌هایی گسترده،",
         "english_text": "And carpets spread around.",
@@ -129,7 +129,7 @@ ayats = [
     },
     {
         "verse_number": "17",
-        "arabic_text": "أَفَلَا يَنظُرُونَ إِلَى الْإِبِلِ كَيْفَ خُلِقَتْ",
+        "arabic_text": "اَفَلَا يَنظُرُونَ اِلَى الْاِبِلِ كَيْفَ خُلِقَتْ",
         "urdu_text": "کیا وہ اونٹوں کی طرف نہیں دیکھتے کہ وہ کیسے پیدا کیے گئے",
         "persian_text": "آیا به شتران نمی‌نگرند که چگونه آفریده شده‌اند؟",
         "english_text": "Do they not look at the camels, how they are created?",
@@ -137,7 +137,7 @@ ayats = [
     },
     {
         "verse_number": "18",
-        "arabic_text": "وَإِلَى السَّمَاءِ كَيْفَ رُفِعَتْ",
+        "arabic_text": "وَ اِلَى السَّمَآءِ كَيْفَ رُفِعَتْ",
         "urdu_text": "اور آسمان کی طرف کہ کس طرح بلند کیا گیا",
         "persian_text": "و به آسمان که چگونه بالا برده شده؟",
         "english_text": "And at the sky, how it is raised high?",
@@ -145,7 +145,7 @@ ayats = [
     },
     {
         "verse_number": "19",
-        "arabic_text": "وَإِلَى الْجِبَالِ كَيْفَ نُصِبَتْ",
+        "arabic_text": "وَ اِلَى الْجِبَالِ كَيْفَ نُصِبَتْ",
         "urdu_text": "اور پہاڑوں کی طرف کہ کس طرح گاڑے گئے",
         "persian_text": "و به کوه‌ها که چگونه برپا شده‌اند؟",
         "english_text": "And at the mountains, how they are fixed firm?",
@@ -153,7 +153,7 @@ ayats = [
     },
     {
         "verse_number": "20",
-        "arabic_text": "وَإِلَى الْأَرْضِ كَيْفَ سُطِحَتْ",
+        "arabic_text": "وَ اِلَى الْاَرْضِ كَيْفَ سُطِحَتْ",
         "urdu_text": "اور زمین کی طرف کہ کس طرح بچھائی گئی",
         "persian_text": "و به زمین که چگونه گسترده شده؟",
         "english_text": "And at the earth, how it is spread out?",
@@ -161,7 +161,7 @@ ayats = [
     },
     {
         "verse_number": "21",
-        "arabic_text": "فَذَكِّرْ إِنَّمَا أَنتَ مُذَكِّرٌ",
+        "arabic_text": "فَذَكِّرْ اِنَّمَآ اَنتَ مُذَكِّرٌ",
         "urdu_text": "پس آپ نصیحت کیجیے، آپ تو صرف نصیحت کرنے والے ہیں",
         "persian_text": "پس پند بده، تو تنها پنددهنده‌ای.",
         "english_text": "So remind, indeed, you are only a reminder.",
@@ -177,7 +177,7 @@ ayats = [
     },
     {
         "verse_number": "23",
-        "arabic_text": "إِلَّا مَن تَوَلَّىٰ وَكَفَرَ",
+        "arabic_text": "اِلَّا مَنْ تَوَلّٰى وَ كَفَرَ",
         "urdu_text": "مگر وہ جس نے منہ موڑا اور کفر کیا",
         "persian_text": "مگر آن‌که روی برگرداند و کفر ورزید.",
         "english_text": "Except he who turns away and disbelieves.",
@@ -185,7 +185,7 @@ ayats = [
     },
     {
         "verse_number": "24",
-        "arabic_text": "فَيُعَذِّبُهُ اللَّهُ الْعَذَابَ الْأَكْبَرَ",
+        "arabic_text": "فَيُعَذِّبُهُ اللَّهُ الْعَذَابَ الْاَكْبَرَ",
         "urdu_text": "پھر اللہ اسے بڑا عذاب دے گا",
         "persian_text": "پس خدا او را به عذاب بزرگ دچار می‌سازد.",
         "english_text": "Then Allah will punish him with the greatest punishment.",
@@ -193,7 +193,7 @@ ayats = [
     },
     {
         "verse_number": "25",
-        "arabic_text": "إِنَّ إِلَيْنَا إِيَابَهُمْ",
+        "arabic_text": "اِنَّ اِلَيْنَآ اِيَابَهُمْ",
         "urdu_text": "بے شک ہماری ہی طرف ان کا لوٹ کر آنا ہے",
         "persian_text": "بی‌گمان بازگشت آنان به سوی ماست.",
         "english_text": "Indeed, to Us is their return.",
@@ -201,7 +201,7 @@ ayats = [
     },
     {
         "verse_number": "26",
-        "arabic_text": "ثُمَّ إِنَّ عَلَيْنَا حِسَابَهُمْ",
+        "arabic_text": "ثُمَّ اِنَّ عَلَيْنَا حِسَابَهُمْ",
         "urdu_text": "پھر بے شک ہمارے ذمے ان کا حساب لینا ہے",
         "persian_text": "سپس حسابشان بر عهده ماست.",
         "english_text": "Then indeed, upon Us is their account.",
