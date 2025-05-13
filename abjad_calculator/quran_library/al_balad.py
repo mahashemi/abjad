@@ -1,7 +1,7 @@
 ayats = [
     {
         "verse_number": "1",
-        "arabic_text": "لَا أُقْسِمُ بِهَٰذَا ٱلْبَلَدِ",
+        "arabic_text": "لَا اُقْسِمُ بِهَٰذَا الْبَلَدِ",
         "urdu_text": "مجھے اس شہر (مکہ) کی قسم ہے",
         "persian_text": "سوگند به این شهر (مکه) یاد می‌کنم",
         "english_text": "I swear by this city (Makkah),",
@@ -9,7 +9,7 @@ ayats = [
     },
     {
         "verse_number": "2",
-        "arabic_text": "وَأَنتَ حِلٌّۭ بِهَٰذَا ٱلْبَلَدِ",
+        "arabic_text": "وَ اَنتَ حِلٌّ بِهَٰذَا الْبَلَدِ",
         "urdu_text": "اور (اے نبی) آپ اس شہر میں سکونت پذیر ہیں",
         "persian_text": "و تو در این شهر مقیم هستی",
         "english_text": "And you [O Prophet] are a resident in this city,",
@@ -17,7 +17,7 @@ ayats = [
     },
     {
         "verse_number": "3",
-        "arabic_text": "وَوَالِدٍۢ وَمَا وَلَدَ",
+        "arabic_text": "وَ وَالِدٍ وَّ مَا وَلَدَ",
         "urdu_text": "اور (قسم ہے) باپ اور اس کی اولاد کی",
         "persian_text": "و قسم به پدر و فرزندش",
         "english_text": "And [by] the parent and what he begot,",
@@ -25,7 +25,7 @@ ayats = [
     },
     {
         "verse_number": "4",
-        "arabic_text": "لَقَدْ خَلَقْنَا ٱلْإِنسَـٰنَ فِى كَبَدٍۢ",
+        "arabic_text": "لَقَدْ خَلَقْنَا الْاِنسَانَ فِى كَبَدٍ",
         "urdu_text": "بیشک ہم نے انسان کو مشقت میں پیدا کیا ہے",
         "persian_text": "بی‌گمان ما انسان را در رنج آفریدیم",
         "english_text": "Indeed, We have created man into hardship.",
@@ -33,7 +33,7 @@ ayats = [
     },
     {
         "verse_number": "5",
-        "arabic_text": "أَيَحْسَبُ أَن لَّن يَقْدِرَ عَلَيْهِ أَحَدٌۭ",
+        "arabic_text": "اَيَحْسَبُ اَن لَّن يَقْدِرَ عَلَيْهِ اَحَدٌ",
         "urdu_text": "کیا وہ سمجھتا ہے کہ اس پر کوئی قابو نہیں پا سکے گا؟",
         "persian_text": "آیا گمان می‌کند که هیچ‌کس بر او قدرت ندارد؟",
         "english_text": "Does he think that no one will have power over him?",
@@ -41,7 +41,7 @@ ayats = [
     },
     {
         "verse_number": "6",
-        "arabic_text": "يَقُولُ أَهْلَكْتُ مَالًۭا لُّبَدًۭا",
+        "arabic_text": "يَقُولُ اَهْلَكْتُ مَالًا لُّبَدًا",
         "urdu_text": "کہتا ہے کہ میں نے بہت سا مال خرچ کر دیا ہے",
         "persian_text": "می‌گوید: مال بسیاری را صرف کرده‌ام",
         "english_text": "He says, 'I have spent wealth in abundance.'",
@@ -49,7 +49,7 @@ ayats = [
     },
     {
         "verse_number": "7",
-        "arabic_text": "أَيَحْسَبُ أَن لَّمْ يَرَهُۥٓ أَحَدٌ",
+        "arabic_text": "اَيَحْسَبُ اَن لَّمْ يَرَهُٓ اَحَدٌ",
         "urdu_text": "کیا وہ سمجھتا ہے کہ اسے کسی نے نہیں دیکھا؟",
         "persian_text": "آیا گمان می‌کند که هیچ‌کس او را ندیده است؟",
         "english_text": "Does he think that no one has seen him?",
@@ -57,7 +57,7 @@ ayats = [
     },
     {
         "verse_number": "8",
-        "arabic_text": "أَلَمْ نَجْعَل لَّهُۥ عَيْنَيْنِ",
+        "arabic_text": "اَلَمْ نَجْعَل لَّهُۥ عَيْنَيْنِ",
         "urdu_text": "کیا ہم نے اس کے لیے دو آنکھیں نہیں بنائیں؟",
         "persian_text": "آیا برای او دو چشم قرار ندادیم؟",
         "english_text": "Have We not made for him two eyes?",
@@ -65,7 +65,7 @@ ayats = [
     },
     {
         "verse_number": "9",
-        "arabic_text": "وَلِسَانًۭا وَشَفَتَيْنِ",
+        "arabic_text": "وَ لِسَانًا وَّ شَفَتَيْنِ",
         "urdu_text": "اور ایک زبان اور دو ہونٹ؟",
         "persian_text": "و زبان و دو لب؟",
         "english_text": "And a tongue and two lips?",
@@ -73,17 +73,15 @@ ayats = [
     },
     {
         "verse_number": "10",
-        "arabic_text": "وَهَدَيْنَـٰهُ ٱلنَّجْدَيْنِ",
+        "arabic_text": "وَ هَدَيْنٰهُ النَّجْدَيْنِ",
         "urdu_text": "اور ہم نے اسے دو راستے (نیکی اور بدی کے) نہیں دکھائے؟",
         "persian_text": "و او را به دو راه (خیر و شر) راهنمایی نکردیم؟",
         "english_text": "And shown him the two ways?",
         "transliteration": "Wa hadaynāhu an-najdayn",
     },
-]
-[
     {
         "verse_number": "11",
-        "arabic_text": "فَلَا ٱقْتَحَمَ ٱلْعَقَبَةَ",
+        "arabic_text": "فَلَا اقْتَحَمَ الْعَقَبَةَ",
         "urdu_text": "پس اس نے دشوار گزار راستے کو عبور کیوں نہ کیا؟",
         "persian_text": "پس چرا به گذرگاه دشوار درنیامد؟",
         "english_text": "But he has not attempted the steep path.",
@@ -91,7 +89,7 @@ ayats = [
     },
     {
         "verse_number": "12",
-        "arabic_text": "وَمَآ أَدْرَىٰكَ مَا ٱلْعَقَبَةُ",
+        "arabic_text": "وَ مَآ اَدْرٰكَ مَا الْعَقَبَةُ",
         "urdu_text": "اور تمہیں کیا معلوم کہ وہ دشوار گزار راستہ کیا ہے؟",
         "persian_text": "و تو چه دانی که آن راه دشوار چیست؟",
         "english_text": "And what can make you know what is the steep path?",
@@ -107,7 +105,7 @@ ayats = [
     },
     {
         "verse_number": "14",
-        "arabic_text": "أَوْ إِطْعَـٰمٌۭ فِى يَوْمٍۢ ذِى مَسْغَبَةٍۢ",
+        "arabic_text": "اَوْ اِطْعٰمٌ فِى يَوْمٍ ذِى مَسْغَبَةٍ",
         "urdu_text": "یا فاقہ زدہ دن میں کھانا کھلانا،",
         "persian_text": "یا در روزی گرسنگی، غذا دادن،",
         "english_text": "Or feeding on a day of severe hunger",
@@ -115,7 +113,7 @@ ayats = [
     },
     {
         "verse_number": "15",
-        "arabic_text": "يَتِيمًۭا ذَا مَقْرَبَةٍ",
+        "arabic_text": "يَّتِيمًا ذَا مَقْرَبَةٍ",
         "urdu_text": "قریبی رشتہ دار یتیم کو،",
         "persian_text": "به یتیمی از خویشاوندان،",
         "english_text": "An orphan of near relationship",
@@ -123,7 +121,7 @@ ayats = [
     },
     {
         "verse_number": "16",
-        "arabic_text": "أَوْ مِسْكِينًۭا ذَا مَتْرَبَةٍۢ",
+        "arabic_text": "اَوْ مِسْكِينًا ذَا مَتْرَبَةٍ",
         "urdu_text": "یا خاک آلود مسکین کو،",
         "persian_text": "یا مسکینی خاک‌آلود را،",
         "english_text": "Or a needy person in misery",
@@ -131,7 +129,7 @@ ayats = [
     },
     {
         "verse_number": "17",
-        "arabic_text": "ثُمَّ كَانَ مِنَ ٱلَّذِينَ ءَامَنُوا۟ وَتَوَاصَوْا۟ بِٱلصَّبْرِ وَتَوَاصَوْا۟ بِٱلْمَرْحَمَةِ",
+        "arabic_text": "ثُمَّ كَانَ مِنَ الَّذِينَ اٰمَنُوا وَ تَوَاصَوْا بِالصَّبْرِ وَ تَوَاصَوْا بِالْمَرْحَمَةِ",
         "urdu_text": "پھر وہ ان لوگوں میں سے ہو جو ایمان لائے اور ایک دوسرے کو صبر کی نصیحت کرتے رہے اور ایک دوسرے کو رحم کی نصیحت کرتے رہے،",
         "persian_text": "سپس از کسانی باشد که ایمان آوردند و یکدیگر را به صبر و مهربانی سفارش کردند،",
         "english_text": "Then he became one of those who believed and advised one another to patience and compassion.",
@@ -139,7 +137,7 @@ ayats = [
     },
     {
         "verse_number": "18",
-        "arabic_text": "أُو۟لَـٰٓئِكَ أَصْحَـٰبُ ٱلْمَيْمَنَةِ",
+        "arabic_text": "اُولٰئِكَ اَصْحٰبُ الْمَيْمَنَةِ",
         "urdu_text": "یہی لوگ دائیں طرف والے (جنتی) ہوں گے،",
         "persian_text": "اینان یاران دست راست (اهل بهشت) هستند،",
         "english_text": "Those are the companions of the right",
@@ -147,7 +145,7 @@ ayats = [
     },
     {
         "verse_number": "19",
-        "arabic_text": "وَٱلَّذِينَ كَفَرُوا۟ بِـَٔايَـٰتِنَا هُمْ أَصْحَـٰبُ ٱلْمَشْـَٔمَةِ",
+        "arabic_text": "وَ الَّذِينَ كَفَرُوا بِاٰيٰتِنَا هُمْ اَصْحٰبُ الْمَشْـَٔمَةِ",
         "urdu_text": "اور جنہوں نے ہماری آیات کو جھٹلایا وہ بائیں طرف والے (دوزخی) ہوں گے،",
         "persian_text": "و کسانی که آیات ما را انکار کردند، یاران دست چپ (دوزخی) هستند،",
         "english_text": "But those who disbelieved in Our signs, they are the companions of the left",
@@ -155,7 +153,7 @@ ayats = [
     },
     {
         "verse_number": "20",
-        "arabic_text": "عَلَيْهِمْ نَارٌۭ مُّؤْصَدَةٌۢ",
+        "arabic_text": "عَلَيْهِمْ نَارٌ مُّؤْصَدَةٌۢ",
         "urdu_text": "ان پر بند کی ہوئی آگ ہوگی۔",
         "persian_text": "آتش پوشیده بر آنان احاطه خواهد داشت.",
         "english_text": "Upon them will be fire closed over.",
