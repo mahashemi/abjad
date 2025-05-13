@@ -5,16 +5,33 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Golden Quranic Surah Books</title>
     <style>
+
+@import url('https://fonts.googleapis.com/css2?family=Mirza&display=swap');
+/* font-family: 'Nazanin', serif; */
+
+      @import url(https://fonts.googleapis.com/earlyaccess/amiri.css);
+      /* font-family: 'Amiri', serif; */
+
+      @import url(https://fonts.googleapis.com/earlyaccess/droidarabicnaskh.css);
+      /*font-family: 'Droid Arabic Naskh', serif;*/
+
+      @import url(https://fonts.googleapis.com/earlyaccess/lateef.css);
+      /* font-family: 'Lateef', serif; */
+
+      @import url(https://fonts.googleapis.com/earlyaccess/scheherazade.css);
+      /*font-family: 'Scheherazade', serif;*/
+
+      @import url(https://fonts.googleapis.com/earlyaccess/thabit.css);
       @import url("https://fonts.googleapis.com/css2?family=Amiri:wght@400;700&family=Scheherazade+New:wght@400;700&display=swap");
       html {
-        background-color: #ebebeb;
-        background: repeating-linear-gradient(
+        background-color: #321414;
+        /* background: repeating-linear-gradient(
           to right,
           #1f1010,
           #230c04 1px,
           #1b0707 10px,
           #45281f 1px
-        );
+        ); */
       }
       body {
         font-family: "Scheherazade New", "Amiri", "Traditional Arabic", serif;
@@ -31,6 +48,11 @@
         /* background: linear-gradient(to bottom, #29261e24, #8376576b, #29261e24); */
         margin-bottom: 40px;
         text-shadow: 1px 1px 2px rgb(15, 15, 15);
+      }
+
+      .tag-line {
+        font-size: 16px;
+        font-weight: lighter;
       }
 
       #header-before,
@@ -59,7 +81,13 @@
         position: relative;
         width: 120px;
         height: 130px;
-        background: linear-gradient( 135deg, #e9dcc0 0%, #dcd7c9 50%, #cfc6b0 75%, #c7b585 100% );
+        background: linear-gradient(
+          135deg,
+          #e9dcc0 0%,
+          #dcd7c9 50%,
+          #cfc6b0 75%,
+          #c7b585 100%
+        );
         border-radius: 4px;
         box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.3),
           0 4px 6px -2px rgba(0, 0, 0, 0.1),
@@ -116,7 +144,7 @@
         color: #553a10;
         text-align: center;
         padding: 0px;
-        font-weight: bold;
+        /* font-weight: bold; */
         font-size: 28px;
         text-shadow: 0px 1px 1px rgba(255, 255, 255, 0.5);
         /* letter-spacing: 1px; */
@@ -146,6 +174,7 @@
         position: absolute;
         top: 8px;
         left: 8px;
+        /* font-family: "Mirza", "Arial", sans-serif; */
         /* background-color: rgb(180, 136, 31); */
         color: #2d7647;
         border-radius: 5px;
@@ -155,7 +184,7 @@
         display: flex;
         align-items: center;
         justify-content: center;
-        font-size: 16px;
+        font-size: 14px;
         font-weight: bold;
         box-shadow: inset 0 0 10px rgba(0, 0, 0, 0.3);
         /* outline: 1px solid #b08b32; */
@@ -165,11 +194,13 @@
         position: absolute;
         bottom: 8px;
         right: 8px;
-        font-family: "Traditional Arabic", "Arial", sans-serif;
-        font-size: 18px;
+        /* font-family: "Mirza", "Arial", sans-serif; */
+        font-size: 16px;
+        line-height: 22px;
+        font-weight: lighter;
         color: #854235;
         text-shadow: 0px 1px 1px rgba(255, 255, 255, 0.5);
-        font-weight: bold;
+        /* font-weight: bold; */
       }
 
       .loading {
@@ -196,9 +227,9 @@
           font-size: 32px;
         }
         /* .surah-book { */
-          /* width: calc(50% - 20px);
+        /* width: calc(50% - 20px);
           min-width: 120px; */
-          /* height: 220px; */
+        /* height: 220px; */
         /* } */
 
         .surah-name {
@@ -218,7 +249,8 @@
   <body>
     <h1>
       <div id="header-before"></div>
-      <div>The Holy Quran Surahs</div>
+      <div>The Holy Quran</div>
+      <div class="tag-line"><em>With Qamari, Malfuzi & Batini Aadad</em></div>
       <div id="header-after"></div>
     </h1>
     <div class="surah-container" id="surah-container">
