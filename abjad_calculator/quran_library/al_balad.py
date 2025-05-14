@@ -153,7 +153,7 @@ ayats = [
     },
     {
         "verse_number": "20",
-        "arabic_text": "عَلَيْهِمْ نَارٌ مُّؤْصَدَةٌۢ",
+        "arabic_text": "عَلَيْهِمْ نَارٌ مُّؤْصَدَةٌ",
         "urdu_text": "ان پر بند کی ہوئی آگ ہوگی۔",
         "persian_text": "آتش پوشیده بر آنان احاطه خواهد داشت.",
         "english_text": "Upon them will be fire closed over.",

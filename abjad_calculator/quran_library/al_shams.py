@@ -1,6 +1,6 @@
 ayats = [
     {
-        "arabic_text": "وَٱلشَّمْسِ وَضُحَىٰهَا",
+        "arabic_text": "وَ الشَّمْسِ وَ ضُحٰهَا",
         "urdu_text": "قسم ہے سورج کی اور اس کی دھوپ کی،",
         "persian_text": "سوگند به خورشید و روشنایی آن،",
         "english_text": "By the sun and its brightness,",
@@ -8,7 +8,7 @@ ayats = [
         "verse_number": "1",
     },
     {
-        "arabic_text": "وَٱلْقَمَرِ إِذَا تَلَىٰهَا",
+        "arabic_text": "وَ الْقَمَرِ اِذَا تَلٰهَا",
         "urdu_text": "اور چاند کی جب اس کے پیچھے آئے،",
         "persian_text": "و به ماه، آنگاه که از پی آن آید،",
         "english_text": "And [by] the moon when it follows it,",
@@ -16,7 +16,7 @@ ayats = [
         "verse_number": "2",
     },
     {
-        "arabic_text": "وَٱلنَّهَارِ إِذَا جَلَّىٰهَا",
+        "arabic_text": "وَ النَّهَارِ اِذَا جَلّٰهَا",
         "urdu_text": "اور دن کی جب اسے روشن کر دے،",
         "persian_text": "و به روز، چون آن را روشن سازد،",
         "english_text": "And [by] the day when it displays it,",
@@ -24,7 +24,7 @@ ayats = [
         "verse_number": "3",
     },
     {
-        "arabic_text": "وَٱلَّيْلِ إِذَا يَغْشَىٰهَا",
+        "arabic_text": "وَ الَّيْلِ اِذَا يَغْشٰهَا",
         "urdu_text": "اور رات کی جب اسے ڈھانک لے،",
         "persian_text": "و به شب، زمانی که آن را بپوشاند،",
         "english_text": "And [by] the night when it covers it,",
@@ -32,7 +32,7 @@ ayats = [
         "verse_number": "4",
     },
     {
-        "arabic_text": "وَٱلسَّمَآءِ وَمَا بَنَىٰهَا",
+        "arabic_text": "وَ السَّمَآءِ وَ مَا بَنٰهَا",
         "urdu_text": "اور آسمان کی اور جو اسے بنایا،",
         "persian_text": "و سوگند به آسمان و آنکه آن را برپاداشت،",
         "english_text": "And [by] the sky and He who constructed it,",
@@ -40,7 +40,7 @@ ayats = [
         "verse_number": "5",
     },
     {
-        "arabic_text": "وَٱلْأَرْضِ وَمَا طَحَىٰهَا",
+        "arabic_text": "وَ الْاَرْضِ وَ مَا طَحٰهَا",
         "urdu_text": "اور زمین کی اور جو اسے بچھایا،",
         "persian_text": "و به زمین و آنکه آن را گسترد،",
         "english_text": "And [by] the earth and He who spread it,",
@@ -48,7 +48,7 @@ ayats = [
         "verse_number": "6",
     },
     {
-        "arabic_text": "وَنَفْسٍۢ وَمَا سَوَّىٰهَا",
+        "arabic_text": "وَ نَفْسٍ وَّ مَا سَوّٰهَا",
         "urdu_text": "اور جان کی اور جو اسے درست بنایا،",
         "persian_text": "و به جان و آنکه آن را درست ساخت،",
         "english_text": "And [by] the soul and He who proportioned it,",
@@ -56,7 +56,7 @@ ayats = [
         "verse_number": "7",
     },
     {
-        "arabic_text": "فَأَلْهَمَهَا فُجُورَهَا وَتَقْوَىٰهَا",
+        "arabic_text": "فَاَلْهَمَهَا فُجُورَهَا وَ تَقْوٰهَا",
         "urdu_text": "پھر اسے اس کی بدی اور اس کی پرہیزگاری سجھا دی،",
         "persian_text": "پس بدی و پرهیزگاری آن را به آن الهام کرد،",
         "english_text": "And inspired it [with discernment of] its wickedness and its righteousness,",
@@ -64,7 +64,7 @@ ayats = [
         "verse_number": "8",
     },
     {
-        "arabic_text": "قَدْ أَفْلَحَ مَن زَكَّىٰهَا",
+        "arabic_text": "قَدْ اَفْلَحَ مَن زَكّٰهَا",
         "urdu_text": "یقیناً وہ کامیاب ہو گیا جس نے اسے پاک کر لیا،",
         "persian_text": "قطعاً رستگار شد آنکه آن را پاک گردانید،",
         "english_text": "He has succeeded who purifies it,",
@@ -72,7 +72,7 @@ ayats = [
         "verse_number": "9",
     },
     {
-        "arabic_text": "وَقَدْ خَابَ مَن دَسَّىٰهَا",
+        "arabic_text": "وَ قَدْ خَابَ مَن دَسّٰهَا",
         "urdu_text": "اور ناکام ہوا وہ جس نے اسے آلودہ کیا،",
         "persian_text": "و ناکام شد آنکه آن را آلوده ساخت،",
         "english_text": "And he has failed who instills it [with corruption].",
@@ -80,7 +80,7 @@ ayats = [
         "verse_number": "10",
     },
     {
-        "arabic_text": "كَذَّبَتْ ثَمُودُ بِطَغْوَاهَا",
+        "arabic_text": "كَذَّبَتْ ثَمُودُ بِطَغْوٰهَا",
         "urdu_text": "قوم ثمود نے اپنی سرکشی کی وجہ سے جھٹلایا",
         "persian_text": "قوم ثمود از روی طغیان (پیامبر خود را) تکذیب کرد",
         "english_text": "Thamud denied [their prophet] by reason of their transgression.",
@@ -88,7 +88,7 @@ ayats = [
         "verse_number": "11",
     },
     {
-        "arabic_text": "إِذِ انبَعَثَ أَشْقَاهَا",
+        "arabic_text": "اِذِ انْبَعَثَ اَشْقٰهَا",
         "urdu_text": "جب ان میں کا بدبخت ترین شخص اٹھ کھڑا ہوا",
         "persian_text": "آنگاه که بدبخت‌ترینشان برخاست",
         "english_text": "When the most wretched of them was sent forth.",
@@ -96,7 +96,7 @@ ayats = [
         "verse_number": "12",
     },
     {
-        "arabic_text": "فَقَالَ لَهُمْ رَسُولُ اللَّهِ نَاقَةَ اللَّهِ وَسُقْيَاهَا",
+        "arabic_text": "فَقَالَ لَهُمْ رَسُولُ اللَّهِ نَاقَةَ اللَّهِ وَ سُقْيٰهَا",
         "urdu_text": "تو اللہ کے رسول نے ان سے فرمایا: اللہ کی اونٹنی اور اس کے پانی پینے کا حق (بچاؤ)",
         "persian_text": "فرستاده خدا به آنان گفت: ناقه خدا و آبشخورش را (محترم دارید)",
         "english_text": "But the Messenger of Allah said to them, '[Do not harm] the she-camel of Allah or [prevent] her from her drink.'",
@@ -104,27 +104,19 @@ ayats = [
         "verse_number": "13",
     },
     {
-        "arabic_text": "فَكَذَّبُوهُ فَعَقَرُوهَا",
-        "urdu_text": "پھر انہوں نے اس کو جھٹلایا اور اس اونٹنی کو مار ڈالا",
-        "persian_text": "اما او را تکذیب کردند و شتر را پی کردند",
-        "english_text": "But they denied him and hamstrung her.",
-        "transliteration": "Fakadh-dhabūhu fa‘aqarūhā",
+        "arabic_text": "فَكَذَّبُوهُ فَعَقَرُوهَا فدَمْدَمَ عَلَيْهِمْ رَبُّهُم بِذَنْبِهِمْ فَسَوّٰهَا",
+        "urdu_text": "پھر انہوں نے اس کو جھٹلایا اور اس کی کونچیں کاٹ ڈالیں تو خدا نے ان کے گناہ کے سبب اُن پر عذاب نازل کیا اور اُن کو برابر کر دیا",
+        "persian_text": "پس او را دروغ شمردند و (ناقۀ را) پی کردند، آنگاه پروردگارشان به (سزای) گناهشان بر آنان غضب کرد و آنان را درهم کوبید.",
+        "english_text": "But they denied him and hamstrung her. So their Lord crushed them for their sin and leveled them.",
+        "transliteration": "fa-kadhdhabūhu fa-ʿaqarūhā fa-damdama ʿalayhim rabbuhum bi-dhanbihim fa-sawwāhā",
         "verse_number": "14",
     },
     {
-        "arabic_text": "فَدَمْدَمَ عَلَيْهِمْ رَبُّهُم بِذَنبِهِمْ فَسَوَّاهَا",
-        "urdu_text": "تو ان کے رب نے ان کے گناہ کے سبب ان پر عذاب نازل کیا، پھر سب کو برابر کر دیا",
-        "persian_text": "پس پروردگارشان به خاطر گناهشان بر آنان عذاب فرستاد، و آنان را یکسان (نابود) ساخت",
-        "english_text": "So their Lord crushed them for their sin and leveled them.",
-        "transliteration": "Fadamdama ‘alayhim rabbuhum bidhambihim fa sawwāhā",
-        "verse_number": "15",
-    },
-    {
-        "arabic_text": "وَلَا يَخَافُ عُقْبَاهَا",
+        "arabic_text": "وَ لَا يَخَافُ عُقْبٰهَا",
         "urdu_text": "اور وہ اس کے انجام سے نہیں ڈرتا",
         "persian_text": "و (خدا) از عاقبت آن (کار) نمی‌ترسد",
         "english_text": "And He does not fear its consequence.",
         "transliteration": "Wa lā yakhāfu ‘uqbāhā",
-        "verse_number": "16",
+        "verse_number": "15",
     },
 ]
