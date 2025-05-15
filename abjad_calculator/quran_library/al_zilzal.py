@@ -9,7 +9,7 @@ ayats = [
     },
     {
         "verse_number": "2",
-        "arabic_text": "وَاَخْرَجَتِ الْاَرْضُ اَثْقَالَهَا",
+        "arabic_text": "وَ اَخْرَجَتِ الْاَرْضُ اَثْقَالَهَا",
         "urdu_text": "اور وہ سارے خزانے نکل دے گی",
         "persian_text": "و زمین بارهای سنگین خود را بیرون می‌ریزد،",
         "english_text": "And the earth discharges its burdens.",
@@ -17,7 +17,7 @@ ayats = [
     },
     {
         "verse_number": "3",
-        "arabic_text": "وَقَالَ الْاِنسَـٰنُ مَا لَهَا",
+        "arabic_text": "وَ قَالَ الْاِنسَانُ مَا لَهَا",
         "urdu_text": "اور انسان کہے گا کہ اسے کیا ہو گیا ہے؟",
         "persian_text": "و انسان خواهد گفت: «چه بر سرش آمده است؟»",
         "english_text": "And man says, 'What is [wrong] with it?'",
@@ -33,7 +33,7 @@ ayats = [
     },
     {
         "verse_number": "5",
-        "arabic_text": "بِاَنَّ رَبَّكَ اَوْحَىٰ لَهَا",
+        "arabic_text": "بِاَنَّ رَبَّكَ اَوْحٰى لَهَا",
         "urdu_text": "کیونکہ تیرے رب نے اسے حکم دیا ہوگا",
         "persian_text": "زیرا که پروردگارت به آن وحی کرده است.",
         "english_text": "Because your Lord has inspired it.",
@@ -41,7 +41,7 @@ ayats = [
     },
     {
         "verse_number": "6",
-        "arabic_text": "يَوْمَئِذٍ يَصْدُرُ النَّاسُ اَشْتَاتًا لِّيُرَوْا۟ اَعْمَـٰلَهُمْ",
+        "arabic_text": "يَوْمَئِذٍ يَصْدُرُ النَّاسُ اَشْتَاتًا لِّيُرَوْا۟ اَعْمَالَهُمْ",
         "urdu_text": "اس دن لوگ مختلف حالتوں میں لوٹیں گے تاکہ انہیں ان کے اعمال دکھائے جائیں",
         "persian_text": "در آن روز مردم گروه گروه باز می‌گردند تا اعمالشان به آنان نشان داده شود،",
         "english_text": "That Day, the people will depart separated [into categories] to be shown [the result of] their deeds.",
@@ -49,7 +49,7 @@ ayats = [
     },
     {
         "verse_number": "7",
-        "arabic_text": "فَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَرَهُۥ",
+        "arabic_text": "فَمَن يَّعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَّرَهُۥ",
         "urdu_text": "تو جس نے ذرہ بھر نیکی کی ہوگی، وہ اسے دیکھ لے گا",
         "persian_text": "پس هر کس به اندازه ذره‌ای کار نیک انجام دهد، آن را خواهد دید،",
         "english_text": "So whoever does an atom's weight of good will see it.",
@@ -57,7 +57,7 @@ ayats = [
     },
     {
         "verse_number": "8",
-        "arabic_text": "وَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ شَرًّا يَرَهُۥ",
+        "arabic_text": "وَ مَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ شَرًّا يَّرَهُۥ",
         "urdu_text": "اور جس نے ذرہ بھر برائی کی ہوگی، وہ اسے دیکھ لے گا",
         "persian_text": "و هر کس به اندازه ذره‌ای کار بد انجام دهد، آن را خواهد دید.",
         "english_text": "And whoever does an atom's weight of evil will see it.",
