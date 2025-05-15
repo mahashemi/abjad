@@ -309,11 +309,11 @@ th {
 .total-qamari-span,
 .total-bayenati-span,
 .total-malfuzi-span {
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
     position: relative;
     text-align: center;
+    width: max-content;
+    display: inline-block;
+    box-shadow: 0 0 4px #bebebe;
 }
 
 .translations {
@@ -326,13 +326,10 @@ th {
 }
 
 .adad-row {
-    display: flex;
-    flex-direction: row-reverse;
-    justify-content: space-between;
-    align-items: center;
     position: relative;
-    direction: ltr;
+    direction: rtl;
     overflow: auto;
+    text-align: center;
 }
 
 .translation-title {
