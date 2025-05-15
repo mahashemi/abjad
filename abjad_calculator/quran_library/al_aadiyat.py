@@ -1,7 +1,7 @@
 ayats = [
     {
         "verse_number": "1",
-        "arabic_text": "وَالْعَـٰدِيَـٰتِ ضَبْحًا",
+        "arabic_text": "وَ الْعٰدِيٰتِ ضَبْحًا",
         "urdu_text": "قسم ہے ان گھوڑوں کی جو ہنہناتے ہوئے دوڑتے ہیں",
         "persian_text": "سوگند به اسبان دونده‌ی نفس‌زنان،",
         "english_text": "By the racers, panting,",
@@ -9,7 +9,7 @@ ayats = [
     },
     {
         "verse_number": "2",
-        "arabic_text": "فَالْمُورِيَـٰتِ قَدْحًا",
+        "arabic_text": "فَالْمُورِيٰتِ قَدْحًا",
         "urdu_text": "پھر چنگاریاں اڑاتے ہیں",
         "persian_text": "که با سُم‌های خود جرقه می‌زنند،",
         "english_text": "And the producers of sparks [when] striking",
@@ -17,7 +17,7 @@ ayats = [
     },
     {
         "verse_number": "3",
-        "arabic_text": "فَالْمُغِيرَٰتِ صُبْحًا",
+        "arabic_text": "فَالْمُغِيرٰتِ صُبْحًا",
         "urdu_text": "پھر صبح کے وقت چھاپہ مارتے ہیں",
         "persian_text": "و به هنگام صبح هجوم می‌آورند،",
         "english_text": "And the chargers at dawn,",
@@ -25,7 +25,7 @@ ayats = [
     },
     {
         "verse_number": "4",
-        "arabic_text": "فَاَثَرْنَ بِهِۦ نَقْعًا",
+        "arabic_text": "فَاَثَرْنَ بِهِ نَقْعًا",
         "urdu_text": "پھر غبار جنگ اڑانے والے ہیں",
         "persian_text": "و با آن [یورش] گرد و خاک برمی‌انگیزند،",
         "english_text": "Stirring up thereby [clouds of] dust,",
@@ -33,7 +33,7 @@ ayats = [
     },
     {
         "verse_number": "5",
-        "arabic_text": "فَوَسَطْنَ بِهِۦ جَمْعًا",
+        "arabic_text": "فَوَسَطْنَ بِهِ جَمْعًا",
         "urdu_text": "پھر اس وقت دشمنوں کی جماعت کے درمیان جا گھستے ہیں",
         "persian_text": "و ناگهان در میان گروهی درآیند،",
         "english_text": "Arriving thereby in the center collectively.",
@@ -41,7 +41,7 @@ ayats = [
     },
     {
         "verse_number": "6",
-        "arabic_text": "اِنَّ الْاِنسَـٰنَ لِرَبِّهِۦ لَكَنُودٌۭ",
+        "arabic_text": "اِنَّ الْاِنسَانَ لِرَبِّهِ  لَكَنُودٌ",
         "urdu_text": "بیشک انسان اپنے رب کا بڑا ناشکرا ہے",
         "persian_text": "قطعاً انسان نسبت به پروردگارش ناسپاس است،",
         "english_text": "Indeed mankind, to his Lord, is ungrateful.",
@@ -49,7 +49,7 @@ ayats = [
     },
     {
         "verse_number": "7",
-        "arabic_text": "وَاِنَّهُۥ عَلَىٰ ذَٰلِكَ لَشَهِيدٌۭ",
+        "arabic_text": "وَ اِنَّهُۥ عَلٰى ذٰلِكَ لَشَهِيدٌ",
         "urdu_text": "اور وہ خود اس پر گواہ ہے",
         "persian_text": "و خود بر این حقیقت گواه است،",
         "english_text": "And indeed, he is to that a witness.",
@@ -57,7 +57,7 @@ ayats = [
     },
     {
         "verse_number": "8",
-        "arabic_text": "وَاِنَّهُۥ لِحُبِّ الْخَيْرِ لَشَدِيدٌ",
+        "arabic_text": "وَ اِنَّهُۥ لِحُبِّ الْخَيْرِ لَشَدِيدٌ",
         "urdu_text": "اور وہ مال کی محبت میں سخت ہے",
         "persian_text": "و به شدت مال‌دوست است،",
         "english_text": "And indeed he is, in love of wealth, intense.",
@@ -73,7 +73,7 @@ ayats = [
     },
     {
         "verse_number": "10",
-        "arabic_text": "وَحُصِّلَ مَا فِى الصُّدُورِ",
+        "arabic_text": "وَ حُصِّلَ مَا فِى الصُّدُورِ",
         "urdu_text": "اور سینوں میں جو کچھ ہے وہ ظاہر کر دیا جائے گا",
         "persian_text": "و آنچه در سینه‌هاست آشکار می‌شود،",
         "english_text": "And that within the breasts is obtained,",
@@ -81,7 +81,7 @@ ayats = [
     },
     {
         "verse_number": "11",
-        "arabic_text": "اِنَّ رَبَّهُم بِهِمْ يَوْمَئِذٍۢ لَّخَبِيرٌۢ",
+        "arabic_text": "اِنَّ رَبَّهُم بِهِمْ يَوْمَئِذٍ لَّخَبِيرٌ",
         "urdu_text": "بیشک ان کا رب اس دن ان سے خوب باخبر ہوگا",
         "persian_text": "مسلماً پروردگارشان در آن روز از حال آن‌ها کاملاً آگاه است.",
         "english_text": "Indeed, their Lord with them, that Day, is [fully] Acquainted.",
