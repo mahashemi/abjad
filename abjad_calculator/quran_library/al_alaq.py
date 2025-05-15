@@ -8,7 +8,7 @@ ayats = [
         "verse_number": "1",
     },
     {
-        "arabic_text": "خَلَقَ الْاِِنسَٰنَ مِنْ عَلَقٍ",
+        "arabic_text": "خَلَقَ الْاِِنسَانَ مِنْ عَلَقٍ",
         "urdu_text": "جس نے انسان کو خون کے لوتھڑے سے پیدا کیا",
         "persian_text": "انسان را از علق آفرید.",
         "english_text": "Created man from a clinging substance.",
@@ -16,7 +16,7 @@ ayats = [
         "verse_number": "2",
     },
     {
-        "arabic_text": "اقْرَاَ وَرَبُّكَ الْاَكْرَمُ",
+        "arabic_text": "اقْرَاْ وَ رَبُّكَ الْاَكْرَمُ",
         "urdu_text": "پڑھو اور تمہارا رب سب سے زیادہ کریم ہے",
         "persian_text": "بخوان و پروردگارت بزرگوارترین است.",
         "english_text": "Read, and your Lord is the Most Generous.",
@@ -24,7 +24,7 @@ ayats = [
         "verse_number": "3",
     },
     {
-        "arabic_text": "الَّذِى عَلَّمَ بِالْقَلَمِ",
+        "arabic_text": "الَّذِىْ عَلَّمَ بِالْقَلَمِ",
         "urdu_text": "جس نے قلم کے ذریعے (علم) سکھایا",
         "persian_text": "که با قلم آموزش داد.",
         "english_text": "Who taught by the pen.",
@@ -32,7 +32,7 @@ ayats = [
         "verse_number": "4",
     },
     {
-        "arabic_text": "عَلَّمَ الْاِِنسَٰنَ مَا لَمْ يَعْلَمْ",
+        "arabic_text": "عَلَّمَ الْاِِنسَانَ مَا لَمْ يَعْلَمْ",
         "urdu_text": "انسان کو وہ کچھ سکھایا جو وہ نہیں جانتا تھا",
         "persian_text": "به انسان آموخت آنچه را که نمی‌دانست.",
         "english_text": "Taught man what he did not know.",
@@ -40,7 +40,7 @@ ayats = [
         "verse_number": "5",
     },
     {
-        "arabic_text": "كَلَّا اِِنَّ الْاِِنسَٰنَ لَيَطْغَىٰ",
+        "arabic_text": "كَلَّآ اِنَّ الْاِِنسَانَ لَيَطْغٰٓى",
         "urdu_text": "یقیناً انسان سرکشی کرتا ہے",
         "persian_text": "به یقین، انسان سرکشی می‌کند.",
         "english_text": "No! But indeed, man transgresses.",
@@ -48,7 +48,7 @@ ayats = [
         "verse_number": "6",
     },
     {
-        "arabic_text": "اَن رَّءَاهُ اسْتَغْنَىٰ",
+        "arabic_text": "اَن رَّاٰهُ اسْتَغْنٰى",
         "urdu_text": "جب وہ اپنے آپ کو بے نیاز سمجھتا ہے",
         "persian_text": "هنگامی که خود را بی‌نیاز می‌بیند.",
         "english_text": "Because he sees himself self-sufficient.",
@@ -56,7 +56,7 @@ ayats = [
         "verse_number": "7",
     },
     {
-        "arabic_text": "اِِنَّ اِِلَىٰ رَبِّكَ الرُّجْعَىٰ",
+        "arabic_text": "اِنَّ اِلٰى رَبِّكَ الرُّجْعٰى",
         "urdu_text": "یقیناً تمہارے رب ہی کی طرف واپس جانا ہے",
         "persian_text": "قطعاً بازگشت به سوی پروردگار تو است.",
         "english_text": "Indeed, to your Lord is the return.",
@@ -66,7 +66,7 @@ ayats = [
 ]
 [
     {
-        "arabic_text": "اَرَاَيْتَ الَّذِى يَنْهَىٰ",
+        "arabic_text": "اَرَءَيْتَ الَّذِى يَنْهٰى",
         "urdu_text": "کیا آپ نے اس شخص کو دیکھا جو روکتا ہے",
         "persian_text": "آیا دیدی آن کسی را که منع می‌کند؟",
         "english_text": "Have you seen the one who forbids?",
@@ -74,7 +74,7 @@ ayats = [
         "verse_number": "9",
     },
     {
-        "arabic_text": "عَبْدًا اِِذَا صَلَّىٰ",
+        "arabic_text": "عَبْدًا اِذَا صَلّٰى",
         "urdu_text": "ایک بندے کو جب وہ نماز پڑھتا ہے؟",
         "persian_text": "بنده‌ای را هنگامی که نماز می‌خواند؟",
         "english_text": "A servant when he prays?",
@@ -82,7 +82,7 @@ ayats = [
         "verse_number": "10",
     },
     {
-        "arabic_text": "اَرَاَيْتَ اِِن كَانَ عَلَى الْهُدَىٰ",
+        "arabic_text": "اَرَءَيْتَ اِنْ كَانَ عَلَى الْهُدٰٓى",
         "urdu_text": "کیا آپ نے دیکھا اگر وہ ہدایت پر ہوتا",
         "persian_text": "آیا دیدی اگر او بر هدایت بود؟",
         "english_text": "Have you seen if he was upon guidance?",
@@ -90,7 +90,7 @@ ayats = [
         "verse_number": "11",
     },
     {
-        "arabic_text": "اَوْ اَمَرَ بِالتَّقْوَىٰ",
+        "arabic_text": "اَوْ اَمَرَ بِالتَّقْوٰى",
         "urdu_text": "یا تقویٰ کا حکم دیتا؟",
         "persian_text": "یا به تقوا فرمان می‌داد؟",
         "english_text": "Or enjoins righteousness?",
@@ -98,7 +98,7 @@ ayats = [
         "verse_number": "12",
     },
     {
-        "arabic_text": "اَرَاَيْتَ اِِن كَذَّبَ وَتَوَلَّىٰ",
+        "arabic_text": "اَرَاَيْتَ اِنْ كَذَّبَ وَ تَوَلّٰى",
         "urdu_text": "کیا آپ نے دیکھا اگر وہ جھٹلاتا اور منہ پھیرتا؟",
         "persian_text": "آیا دیدی اگر او تکذیب کرد و روی گرداند؟",
         "english_text": "Have you seen if he denies and turns away?",
@@ -106,7 +106,7 @@ ayats = [
         "verse_number": "13",
     },
     {
-        "arabic_text": "اَلَمْ يَعْلَم بِاَنَّ اللَّهَ يَرَىٰ",
+        "arabic_text": "اَلَمْ يَعْلَم بِاَنَّ اللَّهَ يَرٰى",
         "urdu_text": "کیا اسے معلوم نہیں کہ اللہ دیکھ رہا ہے؟",
         "persian_text": "آیا نمی‌داند که خداوند می‌بیند؟",
         "english_text": "Does he not know that Allah sees?",
@@ -114,7 +114,7 @@ ayats = [
         "verse_number": "14",
     },
     {
-        "arabic_text": "كَلَّا لَئِن لَّمْ يَنتَهِۦ لَنَسْفَعًا بِالنَّاصِيَةِ",
+        "arabic_text": "كَلَّا لَئِن لَّمْ يَنتَهِ لَنَسْفَعًا بِالنَّاصِيَةِ",
         "urdu_text": "ہرگز نہیں! اگر وہ باز نہ آیا تو ہم پیشانی کے بالوں سے پکڑیں گے",
         "persian_text": "نه! اگر دست برندارد، او را به پیشانی خواهیم گرفت.",
         "english_text": "No! If he does not desist, We will surely drag him by the forelock.",
@@ -122,7 +122,7 @@ ayats = [
         "verse_number": "15",
     },
     {
-        "arabic_text": "نَاصِيَةٍ كَٰذِبَةٍ خَاطِئَةٍۢ",
+        "arabic_text": "نَاصِيَةٍ كاذِبَةٍ خَاطِئَةٍ",
         "urdu_text": "جھوٹی، خطاکارکی  پیشانی",
         "persian_text": "پیشانی دروغ‌گو و گناهکار.",
         "english_text": "A lying, sinning forelock.",
@@ -146,7 +146,7 @@ ayats = [
         "verse_number": "18",
     },
     {
-        "arabic_text": "كَلَّا لَا تُطِعْهُۥ وَاسْجُدْ وَاقْتَرِب",
+        "arabic_text": "كَلَّا لَا تُطِعْهُۥ وَ اسْجُدْ وَ اقْتَرِب",
         "urdu_text": "نہیں، آپ اس کی بات نہ مانیں اور سجدہ کریں اور قریب ہو جائیں",
         "persian_text": "هرگز اطاعت مکن و سجده کن و به او نزدیک شو.",
         "english_text": "No! Do not obey him, but prostrate and draw near.",

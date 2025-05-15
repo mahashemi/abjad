@@ -1,6 +1,6 @@
 ayats = [
     {
-        "arabic_text": "أَلَمْ نَشْرَحْ لَكَ صَدْرَكَ",
+        "arabic_text": "اَلَمْ نَشْرَحْ لَكَ صَدْرَكَ",
         "urdu_text": "کیا ہم نے تمہارا سینہ کھول نہیں دیا؟",
         "persian_text": "آیا سینه‌ات را برایت گشاده نساختیم؟",
         "english_text": "Did We not expand for you, [O Muhammad], your breast?",
@@ -8,7 +8,7 @@ ayats = [
         "verse_number": "1",
     },
     {
-        "arabic_text": "وَوَضَعْنَا عَنكَ وِزْرَكَ",
+        "arabic_text": "وَ وَضَعْنَا عَنكَ وِزْرَكَ",
         "urdu_text": "اور تم پر سے تمہارا بوجھ اتار دیا",
         "persian_text": "و بارت را از تو برداشتیم",
         "english_text": "And We removed from you your burden",
@@ -16,7 +16,7 @@ ayats = [
         "verse_number": "2",
     },
     {
-        "arabic_text": "الَّذِي أَنقَضَ ظَهْرَكَ",
+        "arabic_text": "الَّذِىْٓ اَنْقَضَ ظَهْرَكَ",
         "urdu_text": "جس نے تمہاری پشت توڑ رکھی تھی",
         "persian_text": "که پشتت را خم کرده بود",
         "english_text": "Which had weighed upon your back",
@@ -24,7 +24,7 @@ ayats = [
         "verse_number": "3",
     },
     {
-        "arabic_text": "وَرَفَعْنَا لَكَ ذِكْرَكَ",
+        "arabic_text": "وَ رَفَعْنَا لَكَ ذِكْرَكَ",
         "urdu_text": "اور تمہاری یاد کو بلند کر دیا",
         "persian_text": "و آوازه‌ات را بلند ساختیم",
         "english_text": "And raised high for you your repute",
@@ -32,7 +32,7 @@ ayats = [
         "verse_number": "4",
     },
     {
-        "arabic_text": "فَإِنَّ مَعَ الْعُسْرِ يُسْرًا",
+        "arabic_text": "فَاِنَّ مَعَ الْعُسْرِ يُسْرًا",
         "urdu_text": "تو یقیناً مشکل کے ساتھ آسانی ہے",
         "persian_text": "پس به راستی که با هر دشواری آسانی است",
         "english_text": "For indeed, with hardship [will be] ease",
@@ -40,7 +40,7 @@ ayats = [
         "verse_number": "5",
     },
     {
-        "arabic_text": "إِنَّ مَعَ الْعُسْرِ يُسْرًا",
+        "arabic_text": "اِنَّ مَعَ الْعُسْرِ يُسْرًا",
         "urdu_text": "بیشک مشکل کے ساتھ آسانی ہے",
         "persian_text": "بی‌گمان با دشواری آسانی است",
         "english_text": "Indeed, with hardship [will be] ease",
@@ -48,7 +48,7 @@ ayats = [
         "verse_number": "6",
     },
     {
-        "arabic_text": "فَإِذَا فَرَغْتَ فَانصَبْ",
+        "arabic_text": "فَاِذَا فَرَغْتَ فَانصَبْ",
         "urdu_text": "پس جب فارغ ہو جاؤ، تو محنت کرو",
         "persian_text": "پس هنگامی که فارغ شدی، تلاش کن",
         "english_text": "So when you have finished [your duties], then stand up [for worship]",
@@ -56,7 +56,7 @@ ayats = [
         "verse_number": "7",
     },
     {
-        "arabic_text": "وَإِلَىٰ رَبِّكَ فَارْغَبْ",
+        "arabic_text": "وَ اِلٰى رَبِّكَ فَارْغَبْ",
         "urdu_text": "اور اپنے رب ہی کی طرف رغبت رکھو",
         "persian_text": "و به پروردگارت دل بسپار",
         "english_text": "And to your Lord direct [your] longing",

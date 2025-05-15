@@ -1,6 +1,6 @@
 ayats = [
     {
-        "arabic_text": "وَالتِّينِ وَالزَّيْتُونِ",
+        "arabic_text": "وَ التِّينِ وَ الزَّيْتُونِ",
         "urdu_text": "انجیر اور زیتون کی قسم",
         "persian_text": "قسم به انجیر و زیتون",
         "english_text": "By the fig and the olive.",
@@ -8,7 +8,7 @@ ayats = [
         "verse_number": "1",
     },
     {
-        "arabic_text": "وَطُورِ سِينِينَ",
+        "arabic_text": "وَ طُورِ سِينِينَ",
         "urdu_text": "اور طور سینین کی",
         "persian_text": "و قسم به کوه سینا",
         "english_text": "And by Mount Sinai.",
@@ -16,7 +16,7 @@ ayats = [
         "verse_number": "2",
     },
     {
-        "arabic_text": "وَهَٰذَا الْبَلَدِ الْاَمِينِ",
+        "arabic_text": "وَ هٰذَا الْبَلَدِ الْاَمِينِ",
         "urdu_text": "اور اس امن والے شہر مکہ کی",
         "persian_text": "و این شهر امن (مکه)",
         "english_text": "And by this secure city (Mecca).",
@@ -24,7 +24,7 @@ ayats = [
         "verse_number": "3",
     },
     {
-        "arabic_text": "لَقَدْ خَلَقْنَا الْاِنسَٰنَ فِىٓ اَحْسَنِ تَقْوِيمٍ",
+        "arabic_text": "لَقَدْ خَلَقْنَا الْاِنسَانَ فِىٓ اَحْسَنِ تَقْوِيمٍ",
         "urdu_text": "ہم نے انسان کو بہترین صورت میں پیدا کیا",
         "persian_text": "ما انسان را در بهترین حالت آفریدیم.",
         "english_text": "We have certainly created man in the best of stature.",
@@ -32,7 +32,7 @@ ayats = [
         "verse_number": "4",
     },
     {
-        "arabic_text": "ثُمَّ رَدَدْنَٰهُ اَسْفَلَ سَٰفِلِينَ",
+        "arabic_text": "ثُمَّ رَدَدْنٰهُ اَسْفَلَ سٰفِلِينَ",
         "urdu_text": "پھر ہم نے اسے سب سے نیچے کی حالت میں لوٹا دیا",
         "persian_text": "سپس او را به پایین‌ترین درجات برگرداندیم.",
         "english_text": "Then We returned him to the lowest of the low.",
@@ -40,7 +40,7 @@ ayats = [
         "verse_number": "5",
     },
     {
-        "arabic_text": "اِلَّا الَّذِينَ ءَامَنُوا وَعَمِلُوا الصَّٰلِحَٰتِ فَلَهُمْ اَجْرٌ غَيْرُ مَمْنُونٍ",
+        "arabic_text": "اِلَّا الَّذِينَ اٰمَنُوا وَ عَمِلُوا الصّٰلِحٰتِ فَلَهُمْ اَجْرٌ غَيْرُ مَمْنُونٍ",
         "urdu_text": "سوائے ان لوگوں کے جو ایمان لائے اور نیک عمل کیے، ان کے لیے بے انتہا اجر ہے",
         "persian_text": "مگر کسانی که ایمان آوردند و کارهای نیک کردند، برای آن‌ها پاداش بی‌پایان است.",
         "english_text": "Except for those who believe and do righteous deeds, for they will have a reward uninterrupted.",
@@ -56,7 +56,7 @@ ayats = [
         "verse_number": "7",
     },
     {
-        "arabic_text": "اَلَيْسَ اللَّهُ بِاَحْكَمِ الْحَٰكِمِينَ",
+        "arabic_text": "اَلَيْسَ اللَّهُ بِاَحْكَمِ الْحٰكِمِينَ",
         "urdu_text": "کیا اللہ سب حاکموں سے بڑا حاکم نہیں ہے؟",
         "persian_text": "آیا خداوند، حاکم‌ترین حاکمان نیست؟",
         "english_text": "Is not Allah the most just of judges?",
