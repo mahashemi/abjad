@@ -9,7 +9,7 @@ ayats = [
   },
   {
     "verse_number": "2",
-    "arabic_text": "الَّذِي جَمَعَ مَالًا وَعَدَّدَهُ",
+    "arabic_text": "الَّذِي جَمَعَ مَالًا وَّعَدَّدَهُ",
     "urdu_text": "جو مال جمع کرتا ہے اور اسے گنتا رہتا ہے",
     "persian_text": "همان کسی که مال جمع کرده و آن را شماره می‌کند",
     "english_text": "Who collects wealth and [continuously] counts it.",
@@ -17,7 +17,7 @@ ayats = [
   },
   {
     "verse_number": "3",
-    "arabic_text": "يَحْسَبُ أَنَّ مَالَهُ أَخْلَدَهُ",
+    "arabic_text": "يَحْسَبُ اَنَّ مَالَهُٓ اَخْلَدَهُ",
     "urdu_text": "وہ سمجھتا ہے کہ اس کا مال اسے ہمیشہ زندہ رکھے گا",
     "persian_text": "می‌پندارد مالش او را جاودانه می‌سازد",
     "english_text": "He thinks that his wealth will make him immortal.",
@@ -25,7 +25,7 @@ ayats = [
   },
   {
     "verse_number": "4",
-    "arabic_text": "كَلَّا ۖ لَيُنْبَذَنَّ فِي الْحُطَمَةِ",
+    "arabic_text": "كَلَّا لَيُنْبَذَنَّ فِي الْحُطَمَةِ",
     "urdu_text": "ہرگز نہیں، وہ ضرور حطمہ میں پھینکا جائے گا",
     "persian_text": "هرگز چنین نیست! قطعاً به حطمه (آتش خردکننده) افکنده خواهد شد",
     "english_text": "No! He will surely be thrown into the Crusher.",
@@ -33,7 +33,7 @@ ayats = [
   },
   {
     "verse_number": "5",
-    "arabic_text": "وَمَا أَدْرـٰكَ مَا الْحُطَمَةُ",
+    "arabic_text": "وَ مَآ اَدْرٰكَ مَا الْحُطَمَةُ",
     "urdu_text": "اور تمہیں کیا معلوم کہ حطمہ کیا ہے؟",
     "persian_text": "و تو چه دانی که حطمه چیست؟",
     "english_text": "And what can make you know what is the Crusher?",
@@ -49,7 +49,7 @@ ayats = [
   },
   {
     "verse_number": "7",
-    "arabic_text": "الَّتِي تَطَّلِعُ عَلَى الْأَفْئِدَةِ",
+    "arabic_text": "الَّتِي تَطَّلِعُ عَلَى الْاَفْئِدَةِ",
     "urdu_text": "جو دلوں تک جا پہنچتی ہے",
     "persian_text": "که تا دل‌ها نفوذ می‌کند",
     "english_text": "Which mounts directed at the hearts.",
@@ -57,7 +57,7 @@ ayats = [
   },
   {
     "verse_number": "8",
-    "arabic_text": "إِنَّهَا عَلَيْهِمْ مُؤْصَدَةٌ",
+    "arabic_text": "اِنَّهَا عَلَيْهِمْ مُؤْصَدَةٌ",
     "urdu_text": "یقیناً وہ ان پر بند کر دی جائے گی",
     "persian_text": "که بر آنان بسته خواهد شد",
     "english_text": "Indeed, it will be closed down upon them",

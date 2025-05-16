@@ -1,6 +1,6 @@
 ayats = [
     {
-        "arabic_text": "أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَـٰبِ الْفِيلِ",
+        "arabic_text": "اَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِاَصْحٰبِ الْفِيلِ",
         "urdu_text": "کیا تم نے نہیں دیکھا کہ تمہارے رب نے ہاتھی والوں کے ساتھ کیا کیا؟",
         "persian_text": "آیا ندیدی پروردگارت با سپاهیان فیل چه کرد؟",
         "english_text": "Have you not considered how your Lord dealt with the companions of the elephant?",
@@ -8,7 +8,7 @@ ayats = [
         "verse_number": "1",
     },
     {
-        "arabic_text": "أَلَمْ يَجْعَلْ كَيْدَهُمْ فِي تَضْلِيلٍ",
+        "arabic_text": "اَلَمْ يَجْعَلْ كَيْدَهُمْ فِي تَضْلِيلٍ",
         "urdu_text": "کیا اس نے ان کے منصوبے کو ناکام نہیں کر دیا؟",
         "persian_text": "آیا مکرشان را در گمراهی نینداخت؟",
         "english_text": "Did He not make their plan into misguidance?",
@@ -16,7 +16,7 @@ ayats = [
         "verse_number": "2",
     },
     {
-        "arabic_text": "وَأَرْسَلَ عَلَيْهِمْ طَيْرًا أَبَابِيلَ",
+        "arabic_text": "وَّ اَرْسَلَ عَلَيْهِمْ طَيْرًا اَبَابِيلَ",
         "urdu_text": "اور ان پر ابابیل کی طرح پرندے بھیجے۔",
         "persian_text": "و پرندگانی گروه‌گروه بر آنان گسیل داشت.",
         "english_text": "And He sent against them birds in flocks,",
@@ -32,7 +32,7 @@ ayats = [
         "verse_number": "4",
     },
     {
-        "arabic_text": "فَجَعَلَهُمْ كَعَصْفٍ مَّأْكُولٍ",
+        "arabic_text": "فَجَعَلَهُمْ كَعَصْفٍ مَّاْكُولٍ",
         "urdu_text": "پس انہیں کٹا ہوا گھاس کی مانند کر دیا۔",
         "persian_text": "پس آنان را چون علف‌کنده‌شده قرار داد.",
         "english_text": "And He made them like eaten straw.",
