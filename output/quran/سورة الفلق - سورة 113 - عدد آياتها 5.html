@@ -133,11 +133,19 @@ h3 {
     font-family: 'Amiri', 'Traditional Arabic', serif;
 }
 
+.surah_name {
+    color: var(--primary-color);
+}
+
+.bismillah {
+    color: var(--secondary-color);
+}
+
 h1 {
     font-size: 42px;
-    margin-bottom: 10px;
-    border-bottom: 1px solid #daa52078;
-    padding-bottom: 10px;
+    /* margin-bottom: 10px; */
+    /* border-bottom: 1px solid #daa52078; */
+    /* padding-bottom: 10px; */
 }
 
 h2 {
@@ -356,14 +364,16 @@ th {
 
 /* Decorative Elements */
 .surah_header {
+    text-align: center;
     position: relative;
     /*padding-top: 30px;*/
+    padding: 14px 0px;
     margin: 8px auto;
     background-color: #f9f6f0;
     box-shadow: 0 5px 20px rgba(0, 0, 0, 0.2);
     border: 2px solid var(--border-color);
 }
-
+/* 
 .surah_header::before,
 .surah_header::after {
     content: "۩";
@@ -379,7 +389,7 @@ th {
 
 .surah_header::after {
     left: 20px;
-}
+} */
 
 .letter-value-row {
     font-size: 8px;
@@ -538,6 +548,11 @@ input:checked+.slider:before {
 /* Mobile responsive design */
 @media screen and (max-width: 768px) {
 
+    .surah_name {
+        font-size: 20pt;
+        /* margin-bottom: 10px; */
+    }
+
     .surah-adad-sum {
         width: 25%;
         margin: 14px auto;
@@ -595,14 +610,12 @@ input:checked+.slider:before {
     }
 }
 
-@media print {
-    .toggle-panel {
-        display: none;
-    }
-}
-
 /* Print-specific styles */
 @media print {
+    .toggle-panel-container {
+        display: none;
+    }
+
     body {
         background-color: white;
         margin: 0;
@@ -623,7 +636,7 @@ input:checked+.slider:before {
 
     h1 {
         font-size: 24pt;
-        margin-bottom: 10px;
+        /* margin-bottom: 10px; */
     }
 
     h2 {
@@ -631,9 +644,13 @@ input:checked+.slider:before {
         color: var(--secondary-color);
     }
 
+    .surah_name, .bismillah {
+        font-size: 24px;
+    }
     .surah_header {
         position: relative;
         /* padding-top: 20px;*/
+        padding: 14px 0px;
         margin: 8px auto;
         box-shadow: 0 5px 20px rgba(0, 0, 0, 0.2);
         border: 2px solid var(--border-color);
@@ -786,9 +803,11 @@ input:checked+.slider:before {
         </div>
       </div>
     </div>
-    <div class="surah_header container">
-        <h1>سورة الفلق - سورة 113 - عدد آياتها 5</h1>
-        <h2>بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ</h2>
+    <div class="surah_header surah_name container">
+        <div>سورة الفلق - سورة 113 - عدد آياتها 5</div>
+    </div>
+    <div class="surah_header bismillah container">
+      <div>بِسْمِ اللَّهِ الرَّحْمٰنِ الرَّحِيمِ</div>
     </div>
     <div class="container">
         

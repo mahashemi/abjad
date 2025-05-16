@@ -26,7 +26,7 @@ def huruf_sawamat_html_example(name, bastam_type):
     # ac.generate_sawamat_naqsh_html(name, bastam_type="kamar", output_html=True)
 
 def main():
-    bismillah = "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ".strip()
+    bismillah = "بِسْمِ اللَّهِ الرَّحْمٰنِ الرَّحِيمِ".strip()
     print("Abjad Calculator")
     print("=" * 50)
     

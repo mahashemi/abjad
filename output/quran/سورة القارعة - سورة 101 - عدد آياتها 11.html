@@ -133,11 +133,19 @@ h3 {
     font-family: 'Amiri', 'Traditional Arabic', serif;
 }
 
+.surah_name {
+    color: var(--primary-color);
+}
+
+.bismillah {
+    color: var(--secondary-color);
+}
+
 h1 {
     font-size: 42px;
-    margin-bottom: 10px;
-    border-bottom: 1px solid #daa52078;
-    padding-bottom: 10px;
+    /* margin-bottom: 10px; */
+    /* border-bottom: 1px solid #daa52078; */
+    /* padding-bottom: 10px; */
 }
 
 h2 {
@@ -356,14 +364,16 @@ th {
 
 /* Decorative Elements */
 .surah_header {
+    text-align: center;
     position: relative;
     /*padding-top: 30px;*/
+    padding: 14px 0px;
     margin: 8px auto;
     background-color: #f9f6f0;
     box-shadow: 0 5px 20px rgba(0, 0, 0, 0.2);
     border: 2px solid var(--border-color);
 }
-
+/* 
 .surah_header::before,
 .surah_header::after {
     content: "۩";
@@ -379,7 +389,7 @@ th {
 
 .surah_header::after {
     left: 20px;
-}
+} */
 
 .letter-value-row {
     font-size: 8px;
@@ -538,6 +548,11 @@ input:checked+.slider:before {
 /* Mobile responsive design */
 @media screen and (max-width: 768px) {
 
+    .surah_name {
+        font-size: 20pt;
+        /* margin-bottom: 10px; */
+    }
+
     .surah-adad-sum {
         width: 25%;
         margin: 14px auto;
@@ -595,14 +610,12 @@ input:checked+.slider:before {
     }
 }
 
-@media print {
-    .toggle-panel {
-        display: none;
-    }
-}
-
 /* Print-specific styles */
 @media print {
+    .toggle-panel-container {
+        display: none;
+    }
+
     body {
         background-color: white;
         margin: 0;
@@ -623,7 +636,7 @@ input:checked+.slider:before {
 
     h1 {
         font-size: 24pt;
-        margin-bottom: 10px;
+        /* margin-bottom: 10px; */
     }
 
     h2 {
@@ -631,9 +644,13 @@ input:checked+.slider:before {
         color: var(--secondary-color);
     }
 
+    .surah_name, .bismillah {
+        font-size: 24px;
+    }
     .surah_header {
         position: relative;
         /* padding-top: 20px;*/
+        padding: 14px 0px;
         margin: 8px auto;
         box-shadow: 0 5px 20px rgba(0, 0, 0, 0.2);
         border: 2px solid var(--border-color);
@@ -786,9 +803,11 @@ input:checked+.slider:before {
         </div>
       </div>
     </div>
-    <div class="surah_header container">
-        <h1>سورة القارعة - سورة 101 - عدد آياتها 11</h1>
-        <h2>بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ</h2>
+    <div class="surah_header surah_name container">
+        <div>سورة القارعة - سورة 101 - عدد آياتها 11</div>
+    </div>
+    <div class="surah_header bismillah container">
+      <div>بِسْمِ اللَّهِ الرَّحْمٰنِ الرَّحِيمِ</div>
     </div>
     <div class="container">
         
@@ -796,7 +815,7 @@ input:checked+.slider:before {
     
 <div class="verse-container">
     <div class="original-text">
-        <p class="arabic-text">ٱلْقَارِعَةُ <span class='ayah-marker'>1</span></p>
+        <p class="arabic-text">الْقَارِعَةُ <span class='ayah-marker'>1</span></p>
     </div>
 </div>
 
@@ -804,7 +823,7 @@ input:checked+.slider:before {
 <div class="calculation">
     <table class="qamari-malfuzi-table">
 <tr class="letter-row letter-value-row">
-<td class="light-letter-left-border">ٱ</td>
+<td class="light-letter-left-border">ا</td>
 <td class="light-letter-left-border">ل</td>
 <td class="light-letter-left-border">ق</td>
 <td class="light-letter-left-border">ا</td>
@@ -831,7 +850,7 @@ input:checked+.slider:before {
 <td class="dark-letter-left-border">6</td>
 </tr>
 <tr class="word-row">
-<td colspan=7>ٱلْقَارِعَةُ</td>
+<td colspan=7>الْقَارِعَةُ</td>
 </tr>
 <tr class="value-row qamari-value-row">
 <td colspan=7>407</td>
@@ -867,7 +886,7 @@ input:checked+.slider:before {
     
 <div class="verse-container">
     <div class="original-text">
-        <p class="arabic-text">مَا ٱلْقَارِعَةُ <span class='ayah-marker'>2</span></p>
+        <p class="arabic-text">مَا الْقَارِعَةُ <span class='ayah-marker'>2</span></p>
     </div>
 </div>
 
@@ -877,7 +896,7 @@ input:checked+.slider:before {
 <tr class="letter-row letter-value-row">
 <td class="light-letter-left-border">م</td>
 <td class="dark-letter-left-border">ا</td>
-<td class="light-letter-left-border">ٱ</td>
+<td class="light-letter-left-border">ا</td>
 <td class="light-letter-left-border">ل</td>
 <td class="light-letter-left-border">ق</td>
 <td class="light-letter-left-border">ا</td>
@@ -909,7 +928,7 @@ input:checked+.slider:before {
 </tr>
 <tr class="word-row">
 <td colspan=2>مَا</td>
-<td colspan=7>ٱلْقَارِعَةُ</td>
+<td colspan=7>الْقَارِعَةُ</td>
 </tr>
 <tr class="value-row qamari-value-row">
 <td colspan=2>41</td>
@@ -947,7 +966,7 @@ input:checked+.slider:before {
     
 <div class="verse-container">
     <div class="original-text">
-        <p class="arabic-text">وَمَآ أَدْرَىٰكَ مَا ٱلْقَارِعَةُ <span class='ayah-marker'>3</span></p>
+        <p class="arabic-text">وَ مَآ اَدْرٰكَ مَا الْقَارِعَةُ <span class='ayah-marker'>3</span></p>
     </div>
 </div>
 
@@ -955,17 +974,16 @@ input:checked+.slider:before {
 <div class="calculation">
     <table class="qamari-malfuzi-table">
 <tr class="letter-row letter-value-row">
-<td class="light-letter-left-border">و</td>
+<td class="dark-letter-left-border">و</td>
 <td class="light-letter-left-border">م</td>
 <td class="dark-letter-left-border">آ</td>
-<td class="light-letter-left-border">أ</td>
+<td class="light-letter-left-border">ا</td>
 <td class="light-letter-left-border">د</td>
 <td class="light-letter-left-border">ر</td>
-<td class="light-letter-left-border">ى</td>
 <td class="dark-letter-left-border">ك</td>
 <td class="light-letter-left-border">م</td>
 <td class="dark-letter-left-border">ا</td>
-<td class="light-letter-left-border">ٱ</td>
+<td class="light-letter-left-border">ا</td>
 <td class="light-letter-left-border">ل</td>
 <td class="light-letter-left-border">ق</td>
 <td class="light-letter-left-border">ا</td>
@@ -974,13 +992,12 @@ input:checked+.slider:before {
 <td class="dark-letter-left-border">ة</td>
 </tr>
 <tr class="value-row letter-value-row qamari-value-row">
-<td class="light-letter-left-border">6</td>
+<td class="dark-letter-left-border">6</td>
 <td class="light-letter-left-border">40</td>
 <td class="dark-letter-left-border">1</td>
 <td class="light-letter-left-border">1</td>
 <td class="light-letter-left-border">4</td>
 <td class="light-letter-left-border">200</td>
-<td class="light-letter-left-border">10</td>
 <td class="dark-letter-left-border">20</td>
 <td class="light-letter-left-border">40</td>
 <td class="dark-letter-left-border">1</td>
@@ -993,13 +1010,12 @@ input:checked+.slider:before {
 <td class="dark-letter-left-border">5</td>
 </tr>
 <tr class="value-row letter-value-row malfuzi-value-row">
-<td class="light-letter-left-border">13</td>
+<td class="dark-letter-left-border">13</td>
 <td class="light-letter-left-border">90</td>
 <td class="dark-letter-left-border">111</td>
 <td class="light-letter-left-border">111</td>
 <td class="light-letter-left-border">35</td>
 <td class="light-letter-left-border">201</td>
-<td class="light-letter-left-border">11</td>
 <td class="dark-letter-left-border">101</td>
 <td class="light-letter-left-border">90</td>
 <td class="dark-letter-left-border">111</td>
@@ -1012,20 +1028,23 @@ input:checked+.slider:before {
 <td class="dark-letter-left-border">6</td>
 </tr>
 <tr class="word-row">
-<td colspan=3>وَمَآ</td>
-<td colspan=5>أَدْرَىٰكَ</td>
+<td colspan=1>وَ</td>
+<td colspan=2>مَآ</td>
+<td colspan=4>اَدْرٰكَ</td>
 <td colspan=2>مَا</td>
-<td colspan=7>ٱلْقَارِعَةُ</td>
+<td colspan=7>الْقَارِعَةُ</td>
 </tr>
 <tr class="value-row qamari-value-row">
-<td colspan=3>47</td>
-<td colspan=5>235</td>
+<td colspan=1>6</td>
+<td colspan=2>41</td>
+<td colspan=4>225</td>
 <td colspan=2>41</td>
 <td colspan=7>407</td>
 </tr>
 <tr class="value-row malfuzi-value-row">
-<td colspan=3>214</td>
-<td colspan=5>459</td>
+<td colspan=1>13</td>
+<td colspan=2>201</td>
+<td colspan=4>448</td>
 <td colspan=2>201</td>
 <td colspan=7>811</td>
 </tr>
@@ -1044,9 +1063,9 @@ input:checked+.slider:before {
 
 <p class='left-to-right'><span class="translation-title left-to-right">Transliteration</span>Wa mā adrāka mā al-Qāriʿah</p>
 <div class='adad-row'>
-    <div class='total-qamari-span'><span class="translation-title">قمري عدد</span> <strong class='total-value'>730</strong></div>
-    <div class='total-bayenati-span'><span class="translation-title">باطني عدد</span> <strong class='total-value'>955</strong></div>
-    <div class='total-malfuzi-span'><span class="translation-title">ملفوظي عدد</span> <strong class='total-value'>1685</strong></div>
+    <div class='total-qamari-span'><span class="translation-title">قمري عدد</span> <strong class='total-value'>720</strong></div>
+    <div class='total-bayenati-span'><span class="translation-title">باطني عدد</span> <strong class='total-value'>954</strong></div>
+    <div class='total-malfuzi-span'><span class="translation-title">ملفوظي عدد</span> <strong class='total-value'>1674</strong></div>
 </div>
 
 </div>
@@ -1057,7 +1076,7 @@ input:checked+.slider:before {
     
 <div class="verse-container">
     <div class="original-text">
-        <p class="arabic-text">يَوْمَ يَكُونُ ٱلنَّاسُ كَٱلْفَرَاشِ ٱلْمَبْثُوثِ <span class='ayah-marker'>4</span></p>
+        <p class="arabic-text">يَوْمَ يَكُونُ النَّاسُ كَالْفَرَاشِ الْمَبْثُوثِ <span class='ayah-marker'>4</span></p>
     </div>
 </div>
 
@@ -1072,19 +1091,19 @@ input:checked+.slider:before {
 <td class="light-letter-left-border">ك</td>
 <td class="light-letter-left-border">و</td>
 <td class="dark-letter-left-border">ن</td>
-<td class="light-letter-left-border">ٱ</td>
+<td class="light-letter-left-border">ا</td>
 <td class="light-letter-left-border">ل</td>
 <td class="light-letter-left-border">ن</td>
 <td class="light-letter-left-border">ا</td>
 <td class="dark-letter-left-border">س</td>
 <td class="light-letter-left-border">ك</td>
-<td class="light-letter-left-border">ٱ</td>
+<td class="light-letter-left-border">ا</td>
 <td class="light-letter-left-border">ل</td>
 <td class="light-letter-left-border">ف</td>
 <td class="light-letter-left-border">ر</td>
 <td class="light-letter-left-border">ا</td>
 <td class="dark-letter-left-border">ش</td>
-<td class="light-letter-left-border">ٱ</td>
+<td class="light-letter-left-border">ا</td>
 <td class="light-letter-left-border">ل</td>
 <td class="light-letter-left-border">م</td>
 <td class="light-letter-left-border">ب</td>
@@ -1151,9 +1170,9 @@ input:checked+.slider:before {
 <tr class="word-row">
 <td colspan=3>يَوْمَ</td>
 <td colspan=4>يَكُونُ</td>
-<td colspan=5>ٱلنَّاسُ</td>
-<td colspan=7>كَٱلْفَرَاشِ</td>
-<td colspan=7>ٱلْمَبْثُوثِ</td>
+<td colspan=5>النَّاسُ</td>
+<td colspan=7>كَالْفَرَاشِ</td>
+<td colspan=7>الْمَبْثُوثِ</td>
 </tr>
 <tr class="value-row qamari-value-row">
 <td colspan=3>56</td>
@@ -1197,7 +1216,7 @@ input:checked+.slider:before {
     
 <div class="verse-container">
     <div class="original-text">
-        <p class="arabic-text">وَتَكُونُ ٱلْجِبَالُ كَٱلْعِهْنِ ٱلْمَنفُوشِ <span class='ayah-marker'>5</span></p>
+        <p class="arabic-text">وَ تَكُونُ الْجِبَالُ كَالْعِهْنِ الْمَنفُوشِ <span class='ayah-marker'>5</span></p>
     </div>
 </div>
 
@@ -1205,24 +1224,24 @@ input:checked+.slider:before {
 <div class="calculation">
     <table class="qamari-malfuzi-table">
 <tr class="letter-row letter-value-row">
-<td class="light-letter-left-border">و</td>
+<td class="dark-letter-left-border">و</td>
 <td class="light-letter-left-border">ت</td>
 <td class="light-letter-left-border">ك</td>
 <td class="light-letter-left-border">و</td>
 <td class="dark-letter-left-border">ن</td>
-<td class="light-letter-left-border">ٱ</td>
+<td class="light-letter-left-border">ا</td>
 <td class="light-letter-left-border">ل</td>
 <td class="light-letter-left-border">ج</td>
 <td class="light-letter-left-border">ب</td>
 <td class="light-letter-left-border">ا</td>
 <td class="dark-letter-left-border">ل</td>
 <td class="light-letter-left-border">ك</td>
-<td class="light-letter-left-border">ٱ</td>
+<td class="light-letter-left-border">ا</td>
 <td class="light-letter-left-border">ل</td>
 <td class="light-letter-left-border">ع</td>
 <td class="light-letter-left-border">ه</td>
 <td class="dark-letter-left-border">ن</td>
-<td class="light-letter-left-border">ٱ</td>
+<td class="light-letter-left-border">ا</td>
 <td class="light-letter-left-border">ل</td>
 <td class="light-letter-left-border">م</td>
 <td class="light-letter-left-border">ن</td>
@@ -1231,7 +1250,7 @@ input:checked+.slider:before {
 <td class="dark-letter-left-border">ش</td>
 </tr>
 <tr class="value-row letter-value-row qamari-value-row">
-<td class="light-letter-left-border">6</td>
+<td class="dark-letter-left-border">6</td>
 <td class="light-letter-left-border">400</td>
 <td class="light-letter-left-border">20</td>
 <td class="light-letter-left-border">6</td>
@@ -1257,7 +1276,7 @@ input:checked+.slider:before {
 <td class="dark-letter-left-border">300</td>
 </tr>
 <tr class="value-row letter-value-row malfuzi-value-row">
-<td class="light-letter-left-border">13</td>
+<td class="dark-letter-left-border">13</td>
 <td class="light-letter-left-border">401</td>
 <td class="light-letter-left-border">101</td>
 <td class="light-letter-left-border">13</td>
@@ -1283,19 +1302,22 @@ input:checked+.slider:before {
 <td class="dark-letter-left-border">360</td>
 </tr>
 <tr class="word-row">
-<td colspan=5>وَتَكُونُ</td>
-<td colspan=6>ٱلْجِبَالُ</td>
-<td colspan=6>كَٱلْعِهْنِ</td>
-<td colspan=7>ٱلْمَنفُوشِ</td>
+<td colspan=1>وَ</td>
+<td colspan=4>تَكُونُ</td>
+<td colspan=6>الْجِبَالُ</td>
+<td colspan=6>كَالْعِهْنِ</td>
+<td colspan=7>الْمَنفُوشِ</td>
 </tr>
 <tr class="value-row qamari-value-row">
-<td colspan=5>482</td>
+<td colspan=1>6</td>
+<td colspan=4>476</td>
 <td colspan=6>67</td>
 <td colspan=6>176</td>
 <td colspan=7>507</td>
 </tr>
 <tr class="value-row malfuzi-value-row">
-<td colspan=5>634</td>
+<td colspan=1>13</td>
+<td colspan=4>621</td>
 <td colspan=6>420</td>
 <td colspan=6>525</td>
 <td colspan=7>832</td>
@@ -1328,7 +1350,7 @@ input:checked+.slider:before {
     
 <div class="verse-container">
     <div class="original-text">
-        <p class="arabic-text">فَأَمَّا مَن ثَقُلَتْ مَوَٰزِينُهُۥ <span class='ayah-marker'>6</span></p>
+        <p class="arabic-text">فَاَمَّا مَن ثَقُلَتْ مَوَازِينُهُۥ <span class='ayah-marker'>6</span></p>
     </div>
 </div>
 
@@ -1337,7 +1359,7 @@ input:checked+.slider:before {
     <table class="qamari-malfuzi-table">
 <tr class="letter-row letter-value-row">
 <td class="light-letter-left-border">ف</td>
-<td class="light-letter-left-border">أ</td>
+<td class="light-letter-left-border">ا</td>
 <td class="light-letter-left-border">م</td>
 <td class="dark-letter-left-border">ا</td>
 <td class="light-letter-left-border">م</td>
@@ -1348,6 +1370,7 @@ input:checked+.slider:before {
 <td class="dark-letter-left-border">ت</td>
 <td class="light-letter-left-border">م</td>
 <td class="light-letter-left-border">و</td>
+<td class="light-letter-left-border">ا</td>
 <td class="light-letter-left-border">ز</td>
 <td class="light-letter-left-border">ي</td>
 <td class="light-letter-left-border">ن</td>
@@ -1366,6 +1389,7 @@ input:checked+.slider:before {
 <td class="dark-letter-left-border">400</td>
 <td class="light-letter-left-border">40</td>
 <td class="light-letter-left-border">6</td>
+<td class="light-letter-left-border">1</td>
 <td class="light-letter-left-border">7</td>
 <td class="light-letter-left-border">10</td>
 <td class="light-letter-left-border">50</td>
@@ -1384,28 +1408,29 @@ input:checked+.slider:before {
 <td class="dark-letter-left-border">401</td>
 <td class="light-letter-left-border">90</td>
 <td class="light-letter-left-border">13</td>
+<td class="light-letter-left-border">111</td>
 <td class="light-letter-left-border">8</td>
 <td class="light-letter-left-border">11</td>
 <td class="light-letter-left-border">106</td>
 <td class="dark-letter-left-border">6</td>
 </tr>
 <tr class="word-row">
-<td colspan=4>فَأَمَّا</td>
+<td colspan=4>فَاَمَّا</td>
 <td colspan=2>مَن</td>
 <td colspan=4>ثَقُلَتْ</td>
-<td colspan=6>مَوَٰزِينُهُۥ</td>
+<td colspan=7>مَوَازِينُهُۥ</td>
 </tr>
 <tr class="value-row qamari-value-row">
 <td colspan=4>122</td>
 <td colspan=2>90</td>
 <td colspan=4>1030</td>
-<td colspan=6>118</td>
+<td colspan=7>119</td>
 </tr>
 <tr class="value-row malfuzi-value-row">
 <td colspan=4>393</td>
 <td colspan=2>196</td>
 <td colspan=4>1154</td>
-<td colspan=6>234</td>
+<td colspan=7>345</td>
 </tr>
 </table>
 
@@ -1422,9 +1447,9 @@ input:checked+.slider:before {
 
 <p class='left-to-right'><span class="translation-title left-to-right">Transliteration</span>Fa-ammā man thaqulat mawāzīnuh</p>
 <div class='adad-row'>
-    <div class='total-qamari-span'><span class="translation-title">قمري عدد</span> <strong class='total-value'>1360</strong></div>
-    <div class='total-bayenati-span'><span class="translation-title">باطني عدد</span> <strong class='total-value'>617</strong></div>
-    <div class='total-malfuzi-span'><span class="translation-title">ملفوظي عدد</span> <strong class='total-value'>1977</strong></div>
+    <div class='total-qamari-span'><span class="translation-title">قمري عدد</span> <strong class='total-value'>1361</strong></div>
+    <div class='total-bayenati-span'><span class="translation-title">باطني عدد</span> <strong class='total-value'>727</strong></div>
+    <div class='total-malfuzi-span'><span class="translation-title">ملفوظي عدد</span> <strong class='total-value'>2088</strong></div>
 </div>
 
 </div>
@@ -1435,7 +1460,7 @@ input:checked+.slider:before {
     
 <div class="verse-container">
     <div class="original-text">
-        <p class="arabic-text">فَهُوَ فِى عِيشَةٍۢ رَّاضِيَةٍۢ <span class='ayah-marker'>7</span></p>
+        <p class="arabic-text">فَهُوَ فِى عِيشَةٍ رَّاضِيَةٍ <span class='ayah-marker'>7</span></p>
     </div>
 </div>
 
@@ -1493,8 +1518,8 @@ input:checked+.slider:before {
 <tr class="word-row">
 <td colspan=3>فَهُوَ</td>
 <td colspan=2>فِى</td>
-<td colspan=4>عِيشَةٍۢ</td>
-<td colspan=5>رَّاضِيَةٍۢ</td>
+<td colspan=4>عِيشَةٍ</td>
+<td colspan=5>رَّاضِيَةٍ</td>
 </tr>
 <tr class="value-row qamari-value-row">
 <td colspan=3>91</td>
@@ -1536,7 +1561,7 @@ input:checked+.slider:before {
     
 <div class="verse-container">
     <div class="original-text">
-        <p class="arabic-text">وَأَمَّا مَنْ خَفَّتْ مَوَٰزِينُهُۥ <span class='ayah-marker'>8</span></p>
+        <p class="arabic-text">وَ اَمَّا مَنْ خَفَّتْ مَوَازِينُهُۥ <span class='ayah-marker'>8</span></p>
     </div>
 </div>
 
@@ -1544,8 +1569,8 @@ input:checked+.slider:before {
 <div class="calculation">
     <table class="qamari-malfuzi-table">
 <tr class="letter-row letter-value-row">
-<td class="light-letter-left-border">و</td>
-<td class="light-letter-left-border">أ</td>
+<td class="dark-letter-left-border">و</td>
+<td class="light-letter-left-border">ا</td>
 <td class="light-letter-left-border">م</td>
 <td class="dark-letter-left-border">ا</td>
 <td class="light-letter-left-border">م</td>
@@ -1555,13 +1580,14 @@ input:checked+.slider:before {
 <td class="dark-letter-left-border">ت</td>
 <td class="light-letter-left-border">م</td>
 <td class="light-letter-left-border">و</td>
+<td class="light-letter-left-border">ا</td>
 <td class="light-letter-left-border">ز</td>
 <td class="light-letter-left-border">ي</td>
 <td class="light-letter-left-border">ن</td>
 <td class="dark-letter-left-border">ه</td>
 </tr>
 <tr class="value-row letter-value-row qamari-value-row">
-<td class="light-letter-left-border">6</td>
+<td class="dark-letter-left-border">6</td>
 <td class="light-letter-left-border">1</td>
 <td class="light-letter-left-border">40</td>
 <td class="dark-letter-left-border">1</td>
@@ -1572,13 +1598,14 @@ input:checked+.slider:before {
 <td class="dark-letter-left-border">400</td>
 <td class="light-letter-left-border">40</td>
 <td class="light-letter-left-border">6</td>
+<td class="light-letter-left-border">1</td>
 <td class="light-letter-left-border">7</td>
 <td class="light-letter-left-border">10</td>
 <td class="light-letter-left-border">50</td>
 <td class="dark-letter-left-border">5</td>
 </tr>
 <tr class="value-row letter-value-row malfuzi-value-row">
-<td class="light-letter-left-border">13</td>
+<td class="dark-letter-left-border">13</td>
 <td class="light-letter-left-border">111</td>
 <td class="light-letter-left-border">90</td>
 <td class="dark-letter-left-border">111</td>
@@ -1589,28 +1616,32 @@ input:checked+.slider:before {
 <td class="dark-letter-left-border">401</td>
 <td class="light-letter-left-border">90</td>
 <td class="light-letter-left-border">13</td>
+<td class="light-letter-left-border">111</td>
 <td class="light-letter-left-border">8</td>
 <td class="light-letter-left-border">11</td>
 <td class="light-letter-left-border">106</td>
 <td class="dark-letter-left-border">6</td>
 </tr>
 <tr class="word-row">
-<td colspan=4>وَأَمَّا</td>
+<td colspan=1>وَ</td>
+<td colspan=3>اَمَّا</td>
 <td colspan=2>مَنْ</td>
 <td colspan=3>خَفَّتْ</td>
-<td colspan=6>مَوَٰزِينُهُۥ</td>
+<td colspan=7>مَوَازِينُهُۥ</td>
 </tr>
 <tr class="value-row qamari-value-row">
-<td colspan=4>48</td>
+<td colspan=1>6</td>
+<td colspan=3>42</td>
 <td colspan=2>90</td>
 <td colspan=3>1080</td>
-<td colspan=6>118</td>
+<td colspan=7>119</td>
 </tr>
 <tr class="value-row malfuzi-value-row">
-<td colspan=4>325</td>
+<td colspan=1>13</td>
+<td colspan=3>312</td>
 <td colspan=2>196</td>
 <td colspan=3>1083</td>
-<td colspan=6>234</td>
+<td colspan=7>345</td>
 </tr>
 </table>
 
@@ -1627,9 +1658,9 @@ input:checked+.slider:before {
 
 <p class='left-to-right'><span class="translation-title left-to-right">Transliteration</span>Wa ammā man khaffat mawāzīnuh</p>
 <div class='adad-row'>
-    <div class='total-qamari-span'><span class="translation-title">قمري عدد</span> <strong class='total-value'>1336</strong></div>
-    <div class='total-bayenati-span'><span class="translation-title">باطني عدد</span> <strong class='total-value'>502</strong></div>
-    <div class='total-malfuzi-span'><span class="translation-title">ملفوظي عدد</span> <strong class='total-value'>1838</strong></div>
+    <div class='total-qamari-span'><span class="translation-title">قمري عدد</span> <strong class='total-value'>1337</strong></div>
+    <div class='total-bayenati-span'><span class="translation-title">باطني عدد</span> <strong class='total-value'>612</strong></div>
+    <div class='total-malfuzi-span'><span class="translation-title">ملفوظي عدد</span> <strong class='total-value'>1949</strong></div>
 </div>
 
 </div>
@@ -1640,7 +1671,7 @@ input:checked+.slider:before {
     
 <div class="verse-container">
     <div class="original-text">
-        <p class="arabic-text">فَأُمُّهُۥ هَاوِيَةٌۭ <span class='ayah-marker'>9</span></p>
+        <p class="arabic-text">فَاُمُّهُۥ هَاوِيَةٌ <span class='ayah-marker'>9</span></p>
     </div>
 </div>
 
@@ -1649,7 +1680,7 @@ input:checked+.slider:before {
     <table class="qamari-malfuzi-table">
 <tr class="letter-row letter-value-row">
 <td class="light-letter-left-border">ف</td>
-<td class="light-letter-left-border">أ</td>
+<td class="light-letter-left-border">ا</td>
 <td class="light-letter-left-border">م</td>
 <td class="dark-letter-left-border">ه</td>
 <td class="light-letter-left-border">ه</td>
@@ -1681,8 +1712,8 @@ input:checked+.slider:before {
 <td class="dark-letter-left-border">6</td>
 </tr>
 <tr class="word-row">
-<td colspan=4>فَأُمُّهُۥ</td>
-<td colspan=5>هَاوِيَةٌۭ</td>
+<td colspan=4>فَاُمُّهُۥ</td>
+<td colspan=5>هَاوِيَةٌ</td>
 </tr>
 <tr class="value-row qamari-value-row">
 <td colspan=4>126</td>
@@ -1720,7 +1751,7 @@ input:checked+.slider:before {
     
 <div class="verse-container">
     <div class="original-text">
-        <p class="arabic-text">وَمَآ أَدْرَىٰكَ مَا هِيَهْ <span class='ayah-marker'>10</span></p>
+        <p class="arabic-text">وَ مَآ اَدْرٰكَ مَا هِيَهْ <span class='ayah-marker'>10</span></p>
     </div>
 </div>
 
@@ -1728,13 +1759,12 @@ input:checked+.slider:before {
 <div class="calculation">
     <table class="qamari-malfuzi-table">
 <tr class="letter-row letter-value-row">
-<td class="light-letter-left-border">و</td>
+<td class="dark-letter-left-border">و</td>
 <td class="light-letter-left-border">م</td>
 <td class="dark-letter-left-border">آ</td>
-<td class="light-letter-left-border">أ</td>
+<td class="light-letter-left-border">ا</td>
 <td class="light-letter-left-border">د</td>
 <td class="light-letter-left-border">ر</td>
-<td class="light-letter-left-border">ى</td>
 <td class="dark-letter-left-border">ك</td>
 <td class="light-letter-left-border">م</td>
 <td class="dark-letter-left-border">ا</td>
@@ -1743,13 +1773,12 @@ input:checked+.slider:before {
 <td class="dark-letter-left-border">ه</td>
 </tr>
 <tr class="value-row letter-value-row qamari-value-row">
-<td class="light-letter-left-border">6</td>
+<td class="dark-letter-left-border">6</td>
 <td class="light-letter-left-border">40</td>
 <td class="dark-letter-left-border">1</td>
 <td class="light-letter-left-border">1</td>
 <td class="light-letter-left-border">4</td>
 <td class="light-letter-left-border">200</td>
-<td class="light-letter-left-border">10</td>
 <td class="dark-letter-left-border">20</td>
 <td class="light-letter-left-border">40</td>
 <td class="dark-letter-left-border">1</td>
@@ -1758,13 +1787,12 @@ input:checked+.slider:before {
 <td class="dark-letter-left-border">5</td>
 </tr>
 <tr class="value-row letter-value-row malfuzi-value-row">
-<td class="light-letter-left-border">13</td>
+<td class="dark-letter-left-border">13</td>
 <td class="light-letter-left-border">90</td>
 <td class="dark-letter-left-border">111</td>
 <td class="light-letter-left-border">111</td>
 <td class="light-letter-left-border">35</td>
 <td class="light-letter-left-border">201</td>
-<td class="light-letter-left-border">11</td>
 <td class="dark-letter-left-border">101</td>
 <td class="light-letter-left-border">90</td>
 <td class="dark-letter-left-border">111</td>
@@ -1773,20 +1801,23 @@ input:checked+.slider:before {
 <td class="dark-letter-left-border">6</td>
 </tr>
 <tr class="word-row">
-<td colspan=3>وَمَآ</td>
-<td colspan=5>أَدْرَىٰكَ</td>
+<td colspan=1>وَ</td>
+<td colspan=2>مَآ</td>
+<td colspan=4>اَدْرٰكَ</td>
 <td colspan=2>مَا</td>
 <td colspan=3>هِيَهْ</td>
 </tr>
 <tr class="value-row qamari-value-row">
-<td colspan=3>47</td>
-<td colspan=5>235</td>
+<td colspan=1>6</td>
+<td colspan=2>41</td>
+<td colspan=4>225</td>
 <td colspan=2>41</td>
 <td colspan=3>20</td>
 </tr>
 <tr class="value-row malfuzi-value-row">
-<td colspan=3>214</td>
-<td colspan=5>459</td>
+<td colspan=1>13</td>
+<td colspan=2>201</td>
+<td colspan=4>448</td>
 <td colspan=2>201</td>
 <td colspan=3>23</td>
 </tr>
@@ -1805,9 +1836,9 @@ input:checked+.slider:before {
 
 <p class='left-to-right'><span class="translation-title left-to-right">Transliteration</span>Wa mā adrāka mā hiyah</p>
 <div class='adad-row'>
-    <div class='total-qamari-span'><span class="translation-title">قمري عدد</span> <strong class='total-value'>343</strong></div>
-    <div class='total-bayenati-span'><span class="translation-title">باطني عدد</span> <strong class='total-value'>554</strong></div>
-    <div class='total-malfuzi-span'><span class="translation-title">ملفوظي عدد</span> <strong class='total-value'>897</strong></div>
+    <div class='total-qamari-span'><span class="translation-title">قمري عدد</span> <strong class='total-value'>333</strong></div>
+    <div class='total-bayenati-span'><span class="translation-title">باطني عدد</span> <strong class='total-value'>553</strong></div>
+    <div class='total-malfuzi-span'><span class="translation-title">ملفوظي عدد</span> <strong class='total-value'>886</strong></div>
 </div>
 
 </div>
@@ -1818,7 +1849,7 @@ input:checked+.slider:before {
     
 <div class="verse-container">
     <div class="original-text">
-        <p class="arabic-text">نَارٌ حَامِيَةٌۢ <span class='ayah-marker'>11</span></p>
+        <p class="arabic-text">نَارٌ  حَامِيَةٌ <span class='ayah-marker'>11</span></p>
     </div>
 </div>
 
@@ -1857,7 +1888,7 @@ input:checked+.slider:before {
 </tr>
 <tr class="word-row">
 <td colspan=3>نَارٌ</td>
-<td colspan=5>حَامِيَةٌۢ</td>
+<td colspan=5>حَامِيَةٌ</td>
 </tr>
 <tr class="value-row qamari-value-row">
 <td colspan=3>251</td>
@@ -1894,15 +1925,15 @@ input:checked+.slider:before {
 <div class="grand-total">
     <div class='qamari-grand-total surah-adad-sum'>
         <h3>مجموع القمري</h3>
-        <p><strong>9901</strong></p>
+        <p><strong>9883</strong></p>
     </div>
     <div class='batini-grand-total surah-adad-sum'>
         <h3>مجموع الباطني</h3>
-        <p><strong>6833</strong></p>
+        <p><strong>7051</strong></p>
     </div>
     <div class='malfuzi-grand-total surah-adad-sum'>
         <h3>مجموع الملفوظي</h3>
-        <p><strong>16734</strong></p>
+        <p><strong>16934</strong></p>
     </div>
 </div>
 
