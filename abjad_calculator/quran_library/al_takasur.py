@@ -1,7 +1,7 @@
 ayats = [
     {
         "verse_number": "1",
-        "arabic_text": "أَلْهَاكُمُ ٱلتَّكَاثُرُ",
+        "arabic_text": "اَلْهٰكُمُ التَّكَاثُرُ",
         "urdu_text": "تمہیں زیادہ کی طلب نے غافل کر دیا",
         "persian_text": "افزون‌طلبی شما را غافل کرد",
         "english_text": "The craving for more and more distracted you.",
@@ -9,7 +9,7 @@ ayats = [
     },
     {
         "verse_number": "2",
-        "arabic_text": "حَتَّىٰ زُرْتُمُ ٱلْمَقَابِرَ",
+        "arabic_text": "حَتّٰى زُرْتُمُ الْمَقَابِرَ",
         "urdu_text": "یہاں تک کہ تم قبروں تک جا پہنچے",
         "persian_text": "تا آن‌گاه که به گورستان رفتید",
         "english_text": "Until you visited the graves.",
@@ -33,7 +33,7 @@ ayats = [
     },
     {
         "verse_number": "5",
-        "arabic_text": "كَلَّا لَوْ تَعْلَمُونَ عِلْمَ ٱلْيَقِينِ",
+        "arabic_text": "كَلَّا لَوْ تَعْلَمُونَ عِلْمَ الْيَقِينِ",
         "urdu_text": "خبردار! اگر تم یقینی علم سے جانتے",
         "persian_text": "اگر با علم یقین می‌دانستید",
         "english_text": "Nay! If you knew with knowledge of certainty.",
@@ -41,7 +41,7 @@ ayats = [
     },
     {
         "verse_number": "6",
-        "arabic_text": "لَتَرَوُنَّ ٱلْجَحِيمَ",
+        "arabic_text": "لَتَرَوُنَّ الْجَحِيمَ",
         "urdu_text": "تو ضرور تم جہنم دیکھو گے",
         "persian_text": "قطعاً دوزخ را خواهید دید",
         "english_text": "You will surely see the Hellfire.",
@@ -49,7 +49,7 @@ ayats = [
     },
     {
         "verse_number": "7",
-        "arabic_text": "ثُمَّ لَتَرَوُنَّهَا عَيْنَ ٱلْيَقِينِ",
+        "arabic_text": "ثُمَّ لَتَرَوُنَّهَا عَيْنَ الْيَقِينِ",
         "urdu_text": "پھر ضرور تم اسے یقین کی آنکھ سے دیکھو گے",
         "persian_text": "سپس آن را با چشم یقین خواهید دید",
         "english_text": "Then, you will surely see it with the eye of certainty.",
@@ -57,7 +57,7 @@ ayats = [
     },
     {
         "verse_number": "8",
-        "arabic_text": "ثُمَّ لَتُسْـَٔلُنَّ يَوْمَئِذٍ عَنِ ٱلنَّعِيمِ",
+        "arabic_text": "ثُمَّ لَتُسْـَٔلُنَّ يَوْمَئِذٍ عَنِ النَّعِيمِ",
         "urdu_text": "پھر ضرور اس دن تم سے نعمتوں کے بارے میں پوچھا جائے گا",
         "persian_text": "سپس در آن روز از نعمت‌ها پرسیده خواهید شد",
         "english_text": "Then, on that Day, you will surely be asked about the pleasures.",
