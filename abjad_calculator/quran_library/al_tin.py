@@ -32,7 +32,7 @@ ayats = [
         "verse_number": "4",
     },
     {
-        "arabic_text": "ثُمَّ رَدَدْنٰهُ اَسْفَلَ سٰفِلِينَ",
+        "arabic_text": "ثُمَّ رَدَدْنٰهُ اَسْفَلَ سَافِلِينَ",
         "urdu_text": "پھر ہم نے اسے سب سے نیچے کی حالت میں لوٹا دیا",
         "persian_text": "سپس او را به پایین‌ترین درجات برگرداندیم.",
         "english_text": "Then We returned him to the lowest of the low.",
