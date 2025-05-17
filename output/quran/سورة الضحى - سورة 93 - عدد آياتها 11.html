@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Al-Quran سورة الضحى - سورة 93 - عدد آياتها 11 -- Abjad-e-Qamari -- Faiz-e-Hussaini</title>
+    <title>Al-Quran سورة الضحى -- Abjad-e-Qamari -- Faiz-e-Hussaini</title>
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Amiri:wght@400;700&family=Scheherazade+New:wght@400;700&display=swap');
 
@@ -138,7 +138,21 @@ h3 {
     background-image: url(../../img/snbg.png);
     background-size: 250% 100%;
     background-position: center;
-    background-color: white;
+    /* background-color: white; */
+}
+
+.name-elements {
+    display: inline-block;
+    outline: 1px solid #b78e55;
+    border-radius: 5px;
+    padding: 4px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.surat-verse-count,
+.surat-number-value {
+    font-size: 16px;
 }
 
 .bismillah {
@@ -598,11 +612,20 @@ input:checked+.slider:before {
 
     .surah_name {
         font-size: 20px;
-        
         /* margin-bottom: 10px; */
     }
-    .surah_name::before,.surah_name::after{
-        min-width: 60px;
+
+    .surah_name::before,
+    .surah_name::after {
+        min-width: 70px;
+    }
+
+    .surat-verse-count,
+    .surat-number-value {
+        font-size: 14px;
+        /* max-width: 33px; */
+        /* word-break: break-word;
+        word-wrap: break-word; */
     }
 
     .surah-adad-sum {
@@ -858,7 +881,9 @@ input:checked+.slider:before {
       </div>
     </div>
     <div class="surah_header surah_name container">
-        <div>سورة الضحى - سورة 93 - عدد آياتها 11</div>
+        <div class="surat-verse-count name-elements"> آياتها 11</div>
+        <div class="surat-name-value name-elements">سورة الضحى</div>
+        <div class="surat-number-value name-elements">سورة 93</div>
     </div>
     <div class="surah_header bismillah container">
       <div>بِسْمِ اللَّهِ الرَّحْمٰنِ الرَّحِيمِ</div>

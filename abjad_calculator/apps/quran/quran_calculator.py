@@ -70,7 +70,7 @@ def calculate_quranic_verse(
 
 def process_multiple_verses(
     bismillah,
-    surat_name,
+    surat_number_name_verse_count,
     verses_list,
     output_html=False,
     output_path=None,
@@ -90,6 +90,12 @@ def process_multiple_verses(
     Returns:
         str: Combined HTML string of all tables
     """
+    surat_number = surat_number_name_verse_count.split("-")[1].strip()
+    surat_name = surat_number_name_verse_count.split("-")[0].strip()
+    surat_verse_count = surat_number_name_verse_count.split("-")[2].strip().replace('عدد','')
+
+
+
     quran_html = quran_html_template_start
     quran_data_html = ""
     grand_qamari_total = 0
@@ -238,6 +244,8 @@ def process_multiple_verses(
 
     quran_html = quran_html.replace("{{bismillah}}", bismillah)
     quran_html = quran_html.replace("{{surat_name}}", surat_name)
+    quran_html = quran_html.replace("{{surat_number}}", surat_number)
+    quran_html = quran_html.replace("{{surat_verse_count}}", surat_verse_count)
     quran_html = quran_html.replace("{{quran_data_html}}", quran_data_html)
     quran_html = quran_html.replace("{{style}}", css_file)
     quran_html = quran_html.replace("{{script}}", js_file)
