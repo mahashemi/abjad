@@ -1,6 +1,6 @@
 ayats = [
     {
-        "arabic_text": "أَرَأَيْتَ الَّذِي يُكَذِّبُ بِالدِّينِ",
+        "arabic_text": "اَرَءَيْتَ الَّذِي يُكَذِّبُ بِالدِّينِ",
         "urdu_text": "کیا تم نے اسے دیکھا جو روزِ جزا کو جھٹلاتا ہے",
         "persian_text": "آیا کسی را که روز جزا را انکار می‌کند دیدی؟",
         "english_text": "Have you seen the one who denies the Recompense?",
@@ -8,7 +8,7 @@ ayats = [
         "verse_number": "1",
     },
     {
-        "arabic_text": "فَذَٰلِكَ الَّذِي يَدُعُّ الْيَتِيمَ",
+        "arabic_text": "فَذٰلِكَ الَّذِي يَدُعُّ الْيَتِيمَ",
         "urdu_text": "تو وہی ہے جو یتیم کو دھکے دیتا ہے",
         "persian_text": "پس او همان کسی است که یتیم را می‌راند",
         "english_text": "Then such is the one who repulses the orphan",
@@ -16,7 +16,7 @@ ayats = [
         "verse_number": "2",
     },
     {
-        "arabic_text": "وَلَا يَحُضُّ عَلَىٰ طَعَامِ الْمِسْكِينِ",
+        "arabic_text": "وَ لَا يَحُضُّ عَلٰى طَعَامِ الْمِسْكِينِ",
         "urdu_text": "اور مسکین کو کھانا کھلانے کی ترغیب نہیں دیتا",
         "persian_text": "و دیگران را به اطعام نیازمندان تشویق نمی‌کند",
         "english_text": "And does not encourage the feeding of the poor",
@@ -40,7 +40,7 @@ ayats = [
         "verse_number": "5",
     },
     {
-        "arabic_text": "الَّذِينَ هُمْ يُرَاءُونَ",
+        "arabic_text": "الَّذِينَ هُمْ يُرَآءُونَ",
         "urdu_text": "جو دکھاوا کرتے ہیں",
         "persian_text": "کسانی که ریاکاری می‌کنند",
         "english_text": "Those who make show (of their deeds)",
@@ -48,7 +48,7 @@ ayats = [
         "verse_number": "6",
     },
     {
-        "arabic_text": "وَيَمْنَعُونَ الْمَاعُونَ",
+        "arabic_text": "وَ يَمْنَعُونَ الْمَاعُونَ",
         "urdu_text": "اور معمولی چیزیں دینے سے بھی گریز کرتے ہیں",
         "persian_text": "و از کمک‌های کوچک خودداری می‌کنند",
         "english_text": "And withhold simple assistance",

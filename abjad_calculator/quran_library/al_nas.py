@@ -1,6 +1,6 @@
 ayats = [
     {
-        "arabic_text": "قُلْ أَعُوذُ بِرَبِّ النَّاسِ",
+        "arabic_text": "قُلْ اَعُوذُ بِرَبِّ النَّاسِ",
         "urdu_text": "اے لوگوں کے پروردگار کی پناہ مانگتا ہوں",
         "persian_text": "بگو پناه می‌برم به پروردگار مردمان",
         "english_text": "Say, I seek refuge in the Lord of mankind,",
@@ -16,7 +16,7 @@ ayats = [
         "verse_number": 2,
     },
     {
-        "arabic_text": "إِلَٰهِ النَّاسِ",
+        "arabic_text": "اِلٰهِ النَّاسِ",
         "urdu_text": "اے لوگوں کے معبود کی پناہ مانگتا ہوں",
         "persian_text": "به معبود مردمان",
         "english_text": "The God of mankind,",
@@ -40,7 +40,7 @@ ayats = [
         "verse_number": 5,
     },
     {
-        "arabic_text": "مِنَ الْجِنَّةِ وَالنَّاسِ",
+        "arabic_text": "مِنَ الْجِنَّةِ وَ النَّاسِ",
         "urdu_text": "چاہے وہ جنوں میں سے ہو یا انسانوں میں سے",
         "persian_text": "چه از جن و چه از مردم",
         "english_text": "Among jinn and among mankind",

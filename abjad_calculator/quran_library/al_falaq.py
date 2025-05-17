@@ -1,6 +1,6 @@
 ayats = [
     {
-        "arabic_text": "قُلْ أَعُوذُ بِرَبِّ الْفَلَقِ",
+        "arabic_text": "قُلْ اَعُوذُ بِرَبِّ الْفَلَقِ",
         "urdu_text": "اے رسول تم صبح کے پالنے والے رب سے پناہ مانگو",
         "persian_text": "ای پیامبر، به پروردگار سپیده‌دم پناه ببرید",
         "english_text": "O Messenger, seek refuge in the Lord of daybreak.",
@@ -16,7 +16,7 @@ ayats = [
         "verse_number": 2,
     },
     {
-        "arabic_text": "وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ",
+        "arabic_text": "وَ مِن شَرِّ غَاسِقٍ اِذَا وَقَبَ",
         "urdu_text": "اور اندھیری رات کے شر سے جب وہ چھا جائے",
         "persian_text": "از شر تاریکی چون فرو نشیند",
         "english_text": "And from the evil of darkness when it settles.",
@@ -24,7 +24,7 @@ ayats = [
         "verse_number": 3,
     },
     {
-        "arabic_text": "وَمِن شَرِّ النَّفَّـٰثَـٰتِ فِي الْعُقَدِ",
+        "arabic_text": "وَ مِن شَرِّ النَّفّٰثّٰتِ فِى الْعُقَدِ",
         "urdu_text": "اور گیسنے والیوں کی برائی سے",
         "persian_text": "و از شر دم‌کنندگان در گره‌ها",
         "english_text": "And from the evil of those who blow on knots.",
@@ -32,7 +32,7 @@ ayats = [
         "verse_number": 4,
     },
     {
-        "arabic_text": "وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ",
+        "arabic_text": "وَ مِنْ شَرِّ حَاسِدٍ اِذَا حَسَدَ",
         "urdu_text": "اور حسد کرنے والے کی برائی سے جب وہ حسد کرے",
         "persian_text": "و از شر حسود چون حسادت ورزد",
         "english_text": "And from the evil of an envier when he envies.",
