@@ -36,6 +36,14 @@ body {
     line-height: 1.6;
 }
 
+
+.surat-name-value {
+    background-color: #b78e551a;
+    box-shadow: 0 0 8px #bebebe;
+    text-shadow: 1px 1px 1px #fff;
+    font-weight: bold;
+}
+
 .surah-adad-sum p {
     outline: 1px solid rgba(218, 165, 32, 0.199);
     padding: 0 8px;
