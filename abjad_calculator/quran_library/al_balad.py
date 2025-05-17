@@ -1,7 +1,7 @@
 ayats = [
     {
         "verse_number": "1",
-        "arabic_text": "لَا اُقْسِمُ بِهَٰذَا الْبَلَدِ",
+        "arabic_text": "لَا اُقْسِمُ بِهٰذَا الْبَلَدِ",
         "urdu_text": "مجھے اس شہر (مکہ) کی قسم ہے",
         "persian_text": "سوگند به این شهر (مکه) یاد می‌کنم",
         "english_text": "I swear by this city (Makkah),",
@@ -9,7 +9,7 @@ ayats = [
     },
     {
         "verse_number": "2",
-        "arabic_text": "وَ اَنتَ حِلٌّ بِهَٰذَا الْبَلَدِ",
+        "arabic_text": "وَ اَنتَ حِلٌّ بِهٰذَا الْبَلَدِ",
         "urdu_text": "اور (اے نبی) آپ اس شہر میں سکونت پذیر ہیں",
         "persian_text": "و تو در این شهر مقیم هستی",
         "english_text": "And you [O Prophet] are a resident in this city,",
