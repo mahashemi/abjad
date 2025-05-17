@@ -2,7 +2,7 @@
 
 :root {
     --primary-color: #26572a;
-    --secondary-color: #cb8d38;
+    --secondary-color: #500000;
     --verse-bg: #f9f6f0;
     --border-color: goldenrod;
     --text-color: #2d2d2d;
@@ -128,18 +128,65 @@ h3 {
 
 .surah_name {
     color: var(--primary-color);
+    background-image: url(../../img/snbg.png);
+    background-size: 250% 100%;
+    background-position: center;
+    background-color: white;
 }
 
 .bismillah {
     color: var(--secondary-color);
+    font-size: 33px;
 }
 
-h1 {
-    font-size: 42px;
-    /* margin-bottom: 10px; */
-    /* border-bottom: 1px solid #daa52078; */
-    /* padding-bottom: 10px; */
+.surah_name::before {
+    content: "";
+    position: absolute;
+    /* outline:1px solid black; */
+    height: 100%;
+    width: 10%;
+    margin: auto;
+    float: left;
+    background-image: url(../../img/snbg.png);
+    left: 0;
+    top: 0;
+    background-position: left center;
+    background-size: auto 100%;
+    border-radius: 8px;
+    z-index: 100;
+    background-color: #f9f6f0;
+    border-radius: 8px;
+    /* background-blend-mode: normal; */
+    min-width: 90px;
 }
+
+.surah_name::after {
+    content: "";
+    position: absolute;
+    /* outline:1px solid black; */
+    height: 100%;
+    width: 10%;
+    margin: auto;
+    float: right;
+    background-image: url(../../img/snbg.png);
+    right: 0;
+    top: 0;
+    background-position: right center;
+    background-size: auto 100%;
+    border-radius: 8px;
+    z-index: 100;
+    background-color: #f9f6f0;
+    border-radius: 8px;
+    /* background-blend-mode: normal; */
+    min-width: 90px;
+}
+
+/* h1 { */
+/* font-size: 42px; */
+/* margin-bottom: 10px; */
+/* border-bottom: 1px solid #daa52078; */
+/* padding-bottom: 10px; */
+/* } */
 
 h2 {
     font-size: 36px;
@@ -366,6 +413,7 @@ th {
     box-shadow: 0 5px 20px rgba(0, 0, 0, 0.2);
     border: 2px solid var(--border-color);
 }
+
 /* 
 .surah_header::before,
 .surah_header::after {
@@ -542,8 +590,12 @@ input:checked+.slider:before {
 @media screen and (max-width: 768px) {
 
     .surah_name {
-        font-size: 20pt;
+        font-size: 20px;
+        
         /* margin-bottom: 10px; */
+    }
+    .surah_name::before,.surah_name::after{
+        min-width: 60px;
     }
 
     .surah-adad-sum {
@@ -637,9 +689,11 @@ input:checked+.slider:before {
         color: var(--secondary-color);
     }
 
-    .surah_name, .bismillah {
+    .surah_name,
+    .bismillah {
         font-size: 24px;
     }
+
     .surah_header {
         position: relative;
         /* padding-top: 20px;*/
