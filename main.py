@@ -3,6 +3,7 @@ Example usage of the Abjad Calculator library.
 """
 import os
 import abjad_calculator as ac
+from tests import ayat_matcher
 
 def huruf_sawamat_html_example(name, bastam_type):
     """Example showing HTML output for Huruf Sawamat naqsh"""
@@ -76,3 +77,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+    # ayat_matcher.test(surah_number='2')

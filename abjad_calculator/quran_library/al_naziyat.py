@@ -1,7 +1,7 @@
 ayats = [
     {
         "verse_number": "1",
-        "arabic_text": "وَٱلنّٰزِعٰتِ غَرْقًا",
+        "arabic_text": "وَالنّٰزِعٰتِ غَرْقًا",
         "urdu_text": "قسم ہے ان کی جو زور سے کھینچتے ہیں",
         "persian_text": "سوگند به آنانی که با شدت می‌کشند",
         "english_text": "By those who drag out (souls) with violence;",
@@ -9,7 +9,7 @@ ayats = [
     },
     {
         "verse_number": "2",
-        "arabic_text": "وَّٱلنّٰشِطٰتِ نَشْطًا",
+        "arabic_text": "وَّ النّٰشِطٰتِ نَشْطًا",
         "urdu_text": "اور آہستگی سے کھولنے والوں کی",
         "persian_text": "و آنان که به نرمی رها می‌سازند",
         "english_text": "And by those who release gently;",
@@ -17,7 +17,7 @@ ayats = [
     },
     {
         "verse_number": "3",
-        "arabic_text": "وَّٱلسّٰبِحٰتِ سَبْحًا",
+        "arabic_text": "وَّ السّٰبِحٰتِ سَبْحًا",
         "urdu_text": "اور ان کی جو تیرتی ہیں",
         "persian_text": "و آنان که شناکنان می‌روند",
         "english_text": "And by those who glide along (on errands of mercy),",
@@ -33,7 +33,7 @@ ayats = [
     },
     {
         "verse_number": "5",
-        "arabic_text": "فَالْمُدَبِّرٰتِ أَمْرًا",
+        "arabic_text": "فَالْمُدَبِّرٰتِ اَمْرًا",
         "urdu_text": "پھر وہ جو کام کو سنوارتے ہیں",
         "persian_text": "و آنان که تدبیر می‌کنند کارها را",
         "english_text": "Then those who arrange affairs (according to a plan)",
@@ -41,7 +41,7 @@ ayats = [
     },
     {
         "verse_number": "6",
-        "arabic_text": "يَوْمَ تَرْجُفُ ٱلرَّاجِفَةُ",
+        "arabic_text": "يَوْمَ تَرْجُفُ الرَّاجِفَةُ",
         "urdu_text": "جس دن زمین کو جھٹکا دیا جایگا",
         "persian_text": "روزی که لرزاننده (زلزله بزرگ) بلرزد",
         "english_text": "On the Day the quaking one will quake,",
@@ -49,7 +49,7 @@ ayats = [
     },
     {
         "verse_number": "7",
-        "arabic_text": "تَتْبَعُهَا ٱلرَّادِفَةُ",
+        "arabic_text": "تَتْبَعُهَا الرَّادِفَةُ",
         "urdu_text": "اسکے بعد ایک اور جھٹکا دیا جایگا",
         "persian_text": "و به دنبال آن، زلزله‌ای دیگر خواهد آمد",
         "english_text": "Followed by the subsequent one.",
@@ -81,7 +81,7 @@ ayats = [
     },
     {
         "verse_number": "11",
-        "arabic_text": "ءِاِذَا كُنَّا عِظَـامًا نَّخِرَةً",
+        "arabic_text": "ءَاِذَا كُنَّا عِظَـامًا نَّخِرَةً",
         "urdu_text": "کیا جب ہم بوسیدہ ہڈیاں بن جائیں گے تو واپس آئیں گے؟",
         "persian_text": "آیا وقتی که ما استخوان‌هایی پوسیده شده باشیم (بازگردانده می‌شویم؟)",
         "english_text": "When we have become decayed bones?",
@@ -113,7 +113,7 @@ ayats = [
     },
     {
         "verse_number": "15",
-        "arabic_text": "هَلْ أَتٰكَ حَدِيثُ مُوسٰى",
+        "arabic_text": "هَلْ اَتٰكَ حَدِيثُ مُوسٰى",
         "urdu_text": "کیا تمہارے پاس موسیٰ کی خبر پہنچی؟",
         "persian_text": "آیا خبر موسیٰ به تو رسیده است؟",
         "english_text": "Has the story of Moses reached you?",
@@ -145,7 +145,7 @@ ayats = [
     },
     {
         "verse_number": "19",
-        "arabic_text": "وَاَهْدِيَكَ اِلٰى رَبِّكَ فَتَخْشٰى",
+        "arabic_text": "وَ اَهْدِيَكَ اِلٰى رَبِّكَ فَتَخْشٰى",
         "urdu_text": "اور میں تجھے تیرے رب کی طرف رہنمائی کروں تاکہ تو ڈر جائے؟",
         "persian_text": "و تو را به سوی پروردگارت هدایت کنم تا بترسی؟",
         "english_text": "And let me guide you to your Lord so you would fear [Him]?'",
@@ -185,7 +185,7 @@ ayats = [
     },
     {
         "verse_number": "24",
-        "arabic_text": "فَقَالَ اَنَا رَبُّكُمُ الْأَعْلٰى",
+        "arabic_text": "فَقَالَ اَنَا رَبُّكُمُ الْاَعْلٰى",
         "urdu_text": "اور کہا: میں ہی تمہارا سب سے بڑا رب ہوں",
         "persian_text": "و گفت: من پروردگار برتر شما هستم",
         "english_text": "And said, 'I am your most exalted lord.'",
@@ -225,7 +225,7 @@ ayats = [
     },
     {
         "verse_number": "29",
-        "arabic_text": "وَاَغْطَشَ لَيْلَهَا وَاَخْرَجَ ضُحٰهَا",
+        "arabic_text": "وَ اَغْطَشَ لَيْلَهَا وَ اَخْرَجَ ضُحٰهَا",
         "urdu_text": "اور اس کی رات کو تاریک بنایا اور اس کا دن نکالا",
         "persian_text": "شب آن را تیره و تار کرد و روز آن را آشکار ساخت",
         "english_text": "And He darkened its night and extracted its brightness.",
@@ -233,7 +233,7 @@ ayats = [
     },
     {
         "verse_number": "30",
-        "arabic_text": "وَاَلْاَرْضَ بَعْدَ ذٰلِكَ دَحٰهَا",
+        "arabic_text": "وَ اَلْاَرْضَ بَعْدَ ذٰلِكَ دَحٰهَا",
         "urdu_text": "اور زمین کو اس کے بعد پھیلایا",
         "persian_text": "و زمین را بعد از آن گسترش داد",
         "english_text": "And after that He spread the earth.",
@@ -257,7 +257,7 @@ ayats = [
     },
     {
         "verse_number": "33",
-        "arabic_text": "مَتاعًا لَّكُمْ وَلِانْعامِكُمْ",
+        "arabic_text": "مَتاعًا لَّكُمْ وَ لِانْعامِكُمْ",
         "urdu_text": "یہ سب تمہارے اور تمہارے جانوروں کے فائدے کے لیے",
         "persian_text": "برای بهره‌برداری شما و دام‌هایتان",
         "english_text": "[As] provision for you and your grazing livestock.",
@@ -281,7 +281,7 @@ ayats = [
     },
     {
         "verse_number": "36",
-        "arabic_text": "وَبُرِّزَتِ الْجَحِيمُ لِمَن يَّرٰى",
+        "arabic_text": "وَ بُرِّزَتِ الْجَحِيمُ لِمَن يَّرٰى",
         "urdu_text": "اور جہنم ہر دیکھنے والے کے سامنے لائی جائے گی",
         "persian_text": "و دوزخ برای کسی که می‌بیند آشکار می‌گردد",
         "english_text": "And Hellfire will be exposed for [all] who see –",
@@ -297,7 +297,7 @@ ayats = [
     },
     {
         "verse_number": "38",
-        "arabic_text": "وَاٰثَرَ الْحَيٰوةَ الدُّنْيَا",
+        "arabic_text": "وَ اٰثَرَ الْحَيٰوةَ الدُّنْيَا",
         "urdu_text": "اور دنیا کی زندگی کو ترجیح دی",
         "persian_text": "و زندگی دنیا را ترجیح داد",
         "english_text": "And preferred the life of the world,",
@@ -313,7 +313,7 @@ ayats = [
     },
     {
         "verse_number": "40",
-        "arabic_text": "وَاَمَّا مَنْ خَافَ مَقَامَ رَبِّهِۦ وَنَهَى اَلنَّفْسَ عَنِ الْهَوٰى",
+        "arabic_text": "وَ اَمَّا مَنْ خَافَ مَقَامَ رَبِّهِۦ وَنَهَى اَلنَّفْسَ عَنِ الْهَوٰى",
         "urdu_text": "اور وہ شخص جو اپنے رب کے سامنے کھڑے ہونے سے ڈرا اور نفس کو خواہش سے روکا",
         "persian_text": "و اما کسی که از ایستادن در برابر پروردگارش ترسید و نفس خود را از هوس بازداشت",
         "english_text": "But as for he who feared the standing before his Lord and restrained the soul from [its] desire,",
