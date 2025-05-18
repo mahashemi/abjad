@@ -68,6 +68,10 @@ REMOVE_CHARS = [
     ' ', '\n', '\t', '\r', '\u200c', '\u200d', '\u202c'
 ]
 
+BREAK_CHARS = [
+    ' ۙ'
+]
+
 
 # Pre-defined texts for naqsh generation
 PRESET_TEXTS = {

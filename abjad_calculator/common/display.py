@@ -268,19 +268,22 @@ def create_word_letter_value_tables(word_breakdown: List[AbjadResult], show_lett
         ###    
         table_html += '<tr class="word-row">\n'
         for word in chunk:
-            table_html += f'<td colspan={len(word.breakdown)}>{word.original_text}</td>\n'
+            if word.cleaned_text.strip():
+                table_html += f'<td colspan={len(word.breakdown)}>{word.original_text}</td>\n'
         table_html += '</tr>\n'
 
         # Qamari Value row
         table_html += '<tr class="value-row qamari-value-row">\n'
         for word in chunk:
-            table_html += f'<td colspan={len(word.breakdown)}>{word.total_qamari_value}</td>\n'
+            if word.cleaned_text.strip():
+                table_html += f'<td colspan={len(word.breakdown)}>{word.total_qamari_value}</td>\n'
         table_html += '</tr>\n'
 
         # Malfuzi Value row
         table_html += '<tr class="value-row malfuzi-value-row">\n'
         for word in chunk:
-            table_html += f'<td colspan={len(word.breakdown)}>{word.total_malfuzi_value}</td>\n'
+            if word.cleaned_text.strip():
+                table_html += f'<td colspan={len(word.breakdown)}>{word.total_malfuzi_value}</td>\n'
         table_html += '</tr>\n'
 
         

@@ -112,7 +112,7 @@ def process_multiple_verses(
         result_verse: AbjadResult = calculate_abjad(arabic)
 
         if debug:
-            debug_output_folder = f"debug/{surat_name}/{verse_number}"
+            debug_output_folder = f"debug/{surat_number}/{verse_number}"
             os.makedirs(debug_output_folder, exist_ok=True)
             debug_output_path = os.path.join(debug_output_folder, "result.json")
             with open(debug_output_path, "w") as f:
@@ -130,24 +130,6 @@ def process_multiple_verses(
                 continue
             result_word: AbjadResult = calculate_abjad(word)
             word_abjad_breakdown.append(result_word)
-            # orig_word_text: str = result_word.original_text
-            # word_total_qamari_value: int = result_word.total_qamari_value
-            # word_total_malfuzi_value: int = result_word.total_malfuzi_value
-            # word_total_bayenati_value: int = result_word.total_bayenati_value
-
-            # word_abjad_breakdown.append(
-            #     LetterBreakdown(
-            #         letter=orig_word_text,
-            #         qamari_value=word_total_qamari_value,
-            #         malfuzi_value=word_total_malfuzi_value,
-            #         bayenati_value=word_total_bayenati_value
-            #     )
-            # )
-
-            # print(result_word)
-            # if idx == 3:
-            #     break
-            # print('-'*20)
 
         word_abjad_tables_html = create_word_letter_value_tables(
             word_breakdown=word_abjad_breakdown,
