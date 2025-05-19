@@ -9,7 +9,7 @@ ayats = [
     },
     {
         "verse_number": "2",
-        "arabic_text": "عَنِ النَّبَإِ الْعَظِيمِ",
+        "arabic_text": "عَنِ النَّبَاِ الْعَظِيمِ",
         "urdu_text": "اس بڑی خبر کے بارے میں",
         "persian_text": "درباره خبر بزرگ",
         "english_text": "About the momentous news,",
@@ -41,7 +41,7 @@ ayats = [
     },
     {
         "verse_number": "6",
-        "arabic_text": "أَلَمْ نَجْعَلِ الْأَرْضَ مِهٰدًا",
+        "arabic_text": "اَلَمْ نَجْعَلِ الْاَرْضَ مِهٰدًا",
         "urdu_text": "کیا ہم نے زمین کو فرش نہیں بنایا؟",
         "persian_text": "آیا زمین را بستر (آسایش) قرار ندادیم؟",
         "english_text": "Have We not made the earth as a cradle?",
@@ -49,7 +49,7 @@ ayats = [
     },
     {
         "verse_number": "7",
-        "arabic_text": "وَالْجِبَالَ أَوْتَادًا",
+        "arabic_text": "وَ الْجِبَالَ اَوْتَادًا",
         "urdu_text": "اور پہاڑوں کو میخیں (نہیں بنایا)؟",
         "persian_text": "و کوه‌ها را میخ‌هایی (نگه‌دارنده) نساختیم؟",
         "english_text": "And the mountains as pegs?",
@@ -57,7 +57,7 @@ ayats = [
     },
     {
         "verse_number": "8",
-        "arabic_text": "وَخَلَقْنٰكُمْ أَزْوَاجًا",
+        "arabic_text": "وَ خَلَقْنٰكُمْ اَزْوَاجًا",
         "urdu_text": "اور ہم نے تمہیں جوڑے جوڑے پیدا کیا",
         "persian_text": "و شما را جفت‌جفت آفریدیم",
         "english_text": "And We created you in pairs,",
@@ -65,7 +65,7 @@ ayats = [
     },
     {
         "verse_number": "9",
-        "arabic_text": "وَجَعَلْنَا نَوْمَكُمْ سُبَاتًا",
+        "arabic_text": "وَ جَعَلْنَا نَوْمَكُمْ سُبَاتًا",
         "urdu_text": "اور تمہاری نیند کو آرام کا ذریعہ بنایا",
         "persian_text": "و خواب شما را مایه آرامش قرار دادیم",
         "english_text": "And made your sleep for rest,",
@@ -73,7 +73,7 @@ ayats = [
     },
     {
         "verse_number": "10",
-        "arabic_text": "وَجَعَلْنَا الَّيْلَ لِبَاسًا",
+        "arabic_text": "وَ جَعَلْنَا الَّيْلَ لِبَاسًا",
         "urdu_text": "اور رات کو ہم نے پردہ (لباس) بنایا",
         "persian_text": "و شب را پوششی برای شما قرار دادیم",
         "english_text": "And made the night as a covering,",
@@ -81,7 +81,7 @@ ayats = [
     },
     {
         "verse_number": "11",
-        "arabic_text": "وَجَعَلْنَا النَّهَارَ مَعَاشًا",
+        "arabic_text": "وَ جَعَلْنَا النَّهَارَ مَعَاشًا",
         "urdu_text": "اور دن کو ہم نے زندگی کا ذریعہ بنایا",
         "persian_text": "و روز را وسیله زندگی و کسب و کار قرار دادیم",
         "english_text": "And made the day for livelihood,",
@@ -89,7 +89,7 @@ ayats = [
     },
     {
         "verse_number": "12",
-        "arabic_text": "وَبَنَيْنَا فَوْقَكُمْ سَبْعًا شِدَادًا",
+        "arabic_text": "وَ بَنَيْنَا فَوْقَكُمْ سَبْعًا شِدَادًا",
         "urdu_text": "اور تمہارے اوپر ہم نے سات مضبوط آسمان بنائے",
         "persian_text": "و بالای سر شما هفت آسمان نیرومند بنا کردیم",
         "english_text": "And built above you seven strong heavens,",
@@ -97,7 +97,7 @@ ayats = [
     },
     {
         "verse_number": "13",
-        "arabic_text": "وَجَعَلْنَا سِرَاجًا وَهَّاجًا",
+        "arabic_text": "وَ جَعَلْنَا سِرَاجًا وَهَّاجًا",
         "urdu_text": "اور ہم نے ایک چمکتا ہوا چراغ بنایا",
         "persian_text": "و چراغی فروزان (خورشید) قرار دادیم",
         "english_text": "And made a blazing lamp,",
@@ -105,7 +105,7 @@ ayats = [
     },
     {
         "verse_number": "14",
-        "arabic_text": "وَأَنزَلْنَا مِنَ الْمُعْصِرٰتِ مَآءً ثَجَّاجًا",
+        "arabic_text": "وَ اَنزَلْنَا مِنَ الْمُعْصِرٰتِ مَآءً ثَجَّاجًا",
         "urdu_text": "اور ہم نے پانی والے بادلوں سے خوب برسنے والا پانی نازل کیا",
         "persian_text": "و از ابرهای فشرده، آبی فراوان نازل کردیم",
         "english_text": "And We sent down from the rain clouds pouring water,",
@@ -113,7 +113,7 @@ ayats = [
     },
     {
         "verse_number": "15",
-        "arabic_text": "لِّنُخْرِجَ بِهِۦ حَبًّا وَّنَبَاتًا",
+        "arabic_text": "لِّنُخْرِجَ بِهِۦ حَبًّا وَّ نَبَاتًا",
         "urdu_text": "تاکہ ہم اس سے اناج اور سبزہ اگائیں",
         "persian_text": "تا از آن دانه‌ها و گیاهان برویانیم",
         "english_text": "That We may bring forth thereby grain and vegetation,",
@@ -121,7 +121,7 @@ ayats = [
     },
     {
         "verse_number": "16",
-        "arabic_text": "وَجَنَّٰتٍ أَلْفَافًا",
+        "arabic_text": "وَ جَنّٰتٍ اَلْفَافًا",
         "urdu_text": "اور گھنے باغات پیدا کریں",
         "persian_text": "و باغ‌هایی پرشاخ و برگ برویانیم",
         "english_text": "And gardens of thick growth.",
@@ -129,7 +129,7 @@ ayats = [
     },
     {
         "verse_number": "17",
-        "arabic_text": "إِنَّ يَوْمَ الْفَصْلِ كَانَ مِيقَاتًا",
+        "arabic_text": "اِنَّ يَوْمَ الْفَصْلِ كَانَ مِيقَاتًا",
         "urdu_text": "بے شک فیصلے کا دن مقرر ہے",
         "persian_text": "همانا روز داوری (قیامت) زمانی معین دارد",
         "english_text": "Indeed, the Day of Decision is a fixed time.",
@@ -137,7 +137,7 @@ ayats = [
     },
     {
         "verse_number": "18",
-        "arabic_text": "يَوْمَ يُنفَخُ فِي ٱلصُّورِ فَتَأْتُونَ أَفْوَاجًا",
+        "arabic_text": "يَوْمَ يُنفَخُ فِي الصُّورِ فَتَاْتُونَ اَفْوَاجًا",
         "urdu_text": "جس دن صور پھونکا جائے گا تو تم فوج در فوج آؤ گے",
         "persian_text": "روزی که در صور دمیده می‌شود و شما دسته دسته می‌آیید",
         "english_text": "The Day the Trumpet is blown and you will come forth in multitudes,",
@@ -145,7 +145,7 @@ ayats = [
     },
     {
         "verse_number": "19",
-        "arabic_text": "وَّفُتِحَتِ ٱلسَمَآءُ فَكَانَتْ أَبْوابًا",
+        "arabic_text": "وَّ فُتِحَتِ السَمَآءُ فَكَانَتْ اَبْوابًا",
         "urdu_text": "اور آسمان کھولا جائے گا تو وہ دروازے بن جائے گا",
         "persian_text": "و آسمان گشوده می‌شود و به درهایی مبدل می‌گردد",
         "english_text": "And the sky is opened and becomes gateways,",
@@ -153,7 +153,7 @@ ayats = [
     },
     {
         "verse_number": "20",
-        "arabic_text": "وَسُيِّرَتِ ٱلْجِبَالُ فَكَانَتْ سَرَابًا",
+        "arabic_text": "وَ سُيِّرَتِ الْجِبَالُ فَكَانَتْ سَرَابًا",
         "urdu_text": "اور پہاڑ چلائے جائیں گے تو وہ سراب بن جائیں گے",
         "persian_text": "و کوه‌ها به حرکت درمی‌آیند و به سراب تبدیل می‌شوند",
         "english_text": "And the mountains are set in motion and become a mirage.",
@@ -161,7 +161,7 @@ ayats = [
     },
     {
         "verse_number": "21",
-        "arabic_text": "إِنَّ جَهَنَّمَ كَانَتْ مِرْصَادًا",
+        "arabic_text": "اِنَّ جَهَنَّمَ كَانَتْ مِرْصَادًا",
         "urdu_text": "یقیناً جہنم گھات میں ہے",
         "persian_text": "بی‌گمان دوزخ در کمین است",
         "english_text": "Indeed, Hell has been lying in wait,",
@@ -177,7 +177,7 @@ ayats = [
     },
     {
         "verse_number": "23",
-        "arabic_text": "لَّٰبِثِينَ فِيهَآ أَحْقَابًا",
+        "arabic_text": "لَّٰبِثِينَ فِيهَآ اَحْقَابًا",
         "urdu_text": "جس میں وہ مدتوں تک رہیں گے",
         "persian_text": "که در آن سال‌ها خواهند ماند",
         "english_text": "In which they will remain for ages,",
@@ -185,7 +185,7 @@ ayats = [
     },
     {
         "verse_number": "24",
-        "arabic_text": "لَا يَذُوقُونَ فِيهَا بَرْدًا وَّلَا شَرَابًا",
+        "arabic_text": "لَا يَذُوقُونَ فِيهَا بَرْدًا وَّ لَا شَرَابًا",
         "urdu_text": "نہ وہ اس میں کوئی ٹھنڈک پائیں گے اور نہ کوئی مشروب",
         "persian_text": "در آن نه خنکی می‌چشند و نه نوشیدنی",
         "english_text": "They will not taste therein any coolness or drink,",
@@ -193,7 +193,7 @@ ayats = [
     },
     {
         "verse_number": "25",
-        "arabic_text": "اِلَّا حَمِيمًا وَّغَسَّاقًا",
+        "arabic_text": "اِلَّا حَمِيمًا وَّ غَسَّاقًا",
         "urdu_text": "سوائے کھولتے پانی اور پیپ کے",
         "persian_text": "جز آب داغ و چرکین چیزی نمی‌نوشند",
         "english_text": "Except scalding water and pus –",
@@ -209,7 +209,7 @@ ayats = [
     },
     {
         "verse_number": "27",
-        "arabic_text": "إِنَّهُمْ كَانُوا لَا يَرْجُونَ حِسَابًا",
+        "arabic_text": "اِنَّهُمْ كَانُوا لَا يَرْجُونَ حِسَابًا",
         "urdu_text": "بے شک وہ حساب کی امید نہیں رکھتے تھے",
         "persian_text": "آنان به حساب‌رسی ایمان نداشتند",
         "english_text": "Indeed, they did not expect an account,",
@@ -217,7 +217,7 @@ ayats = [
     },
     {
         "verse_number": "28",
-        "arabic_text": "وَكَذَّبُوا۟ بِاٰيٰتِنَا كِذَّابًا",
+        "arabic_text": "وَ كَذَّبُوا بِاٰيٰتِنَا كِذَّابًا",
         "urdu_text": "اور ہماری آیات کو جھٹلایا، جھٹلانے کی حد تک",
         "persian_text": "و آیات ما را شدیداً تکذیب کردند",
         "english_text": "And denied Our signs with [emphatic] denial.",
@@ -225,7 +225,7 @@ ayats = [
     },
     {
         "verse_number": "29",
-        "arabic_text": "وَكُلَّ شَيْءٍ أَحْصَيْنَٰهُ كِتَٰبًا",
+        "arabic_text": "وَ كُلَّ شَيْءٍ اَحْصَيْنٰهُ كِتٰبًا",
         "urdu_text": "اور ہم نے ہر چیز کو ایک کتاب میں گن رکھا ہے",
         "persian_text": "و هر چیز را در کتابی ثبت کرده‌ایم",
         "english_text": "But all things We have enumerated in writing.",
@@ -233,7 +233,7 @@ ayats = [
     },
     {
         "verse_number": "30",
-        "arabic_text": "فَذُوقُوا۟ فَلَن نَّزِيدَكُمْ إِلَّا عَذَابًا",
+        "arabic_text": "فَذُوقُوا فَلَن نَّزِيدَكُمْ اِلَّا عَذَابًا",
         "urdu_text": "پس چکھو، ہم تمہیں عذاب ہی بڑھاتے جائیں گے",
         "persian_text": "پس بچشید، ما چیزی جز عذاب بر شما نمی‌افزاییم",
         "english_text": "So taste [the penalty], and We will not increase you except in punishment.",
@@ -241,7 +241,7 @@ ayats = [
     },
     {
         "verse_number": "31",
-        "arabic_text": "إِنَّ لِلْمُتَّقِينَ مَفَازًا",
+        "arabic_text": "اِنَّ لِلْمُتَّقِينَ مَفَازًا",
         "urdu_text": "یقیناً پرہیزگاروں کے لیے کامیابی ہے",
         "persian_text": "بی‌گمان برای پرهیزگاران رستگاری است",
         "english_text": "Indeed, for the righteous is attainment –",
@@ -249,7 +249,7 @@ ayats = [
     },
     {
         "verse_number": "32",
-        "arabic_text": "حَدَآئِقَ وَأَعْنَابًا",
+        "arabic_text": "حَدَآئِقَ وَ اَعْنَابًا",
         "urdu_text": "باغات اور انگور",
         "persian_text": "باغ‌ها و انگورهایی",
         "english_text": "Gardens and grapevines",
@@ -257,7 +257,7 @@ ayats = [
     },
     {
         "verse_number": "33",
-        "arabic_text": "وَكَوَاعِبَ أَتْرَابًا",
+        "arabic_text": "وَ كَوَاعِبَ اَتْرَابًا",
         "urdu_text": "اور ہم عمر دوشیزائیں",
         "persian_text": "و دخترانی هم‌سن و سال",
         "english_text": "And full-breasted [companions] of equal age",
@@ -265,7 +265,7 @@ ayats = [
     },
     {
         "verse_number": "34",
-        "arabic_text": "وَكَأْسًا دِهَاقًا",
+        "arabic_text": "وَ كَاْسًا دِهَاقًا",
         "urdu_text": "اور چھلکتے جام",
         "persian_text": "و جام‌هایی پر از شراب طهور",
         "english_text": "And a full cup.",
@@ -273,7 +273,7 @@ ayats = [
     },
     {
         "verse_number": "35",
-        "arabic_text": "لَّا يَسْمَعُونَ فِيهَا لَغْوًا وَّلَا كِذَّٰبًا",
+        "arabic_text": "لَّا يَسْمَعُونَ فِيهَا لَغْوًا وَّ لَا كِذّٰبًا",
         "urdu_text": "جس میں وہ نہ کوئی لغو بات سنیں گے اور نہ جھوٹ",
         "persian_text": "که در آن نه سخن بیهوده می‌شنوند و نه دروغی",
         "english_text": "No ill speech will they hear therein or any falsehood –",
@@ -289,7 +289,7 @@ ayats = [
     },
     {
         "verse_number": "37",
-        "arabic_text": "رَّبِّ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَمَا بَيْنَهُمَا ٱلرَّحْمَٰنِ لَا يَمْلِكُونَ مِنْهُ خِطَابًا",
+        "arabic_text": "رَّبِّ السَّمٰوٰتِ وَالْاَرْضِ وَ مَا بَيْنَهُمَا الرَّحْمٰنِ لَا يَمْلِكُونَ مِنْهُ خِطَابًا",
         "urdu_text": "جو آسمانوں اور زمین اور ان کے درمیان کی ہر چیز کا رب ہے، رحمٰن ہے، لوگ اس سے بات کرنے کا اختیار نہ رکھیں گے",
         "persian_text": "پروردگار آسمان‌ها و زمین و آنچه میان آن‌هاست، بخشاینده‌ای که کسی یارای سخن گفتن با او را ندارد",
         "english_text": "Lord of the heavens and the earth and whatever is between them – the Most Merciful. They do not possess from Him [the authority for] speech.",
@@ -297,7 +297,7 @@ ayats = [
     },
     {
         "verse_number": "38",
-        "arabic_text": "يَوْمَ يَقُومُ ٱلرُّوحُ وَٱلْمَلَٰٓئِكَةُ صَفّٗاۖ لَّا يَتَكَلَّمُونَ إِلَّا مَنْ أَذِنَ لَهُ ٱلرَّحْمَٰنُ وَقَالَ صَوَابًا",
+        "arabic_text": "يَوْمَ يَقُومُ الرُّوحُ وَ الْمَلٰٓئِكَةُ صَفّٗا لَّا يَتَكَلَّمُونَ اِلَّا مَنْ اَذِنَ لَهُ الرَّحْمٰنُ وَ قَالَ صَوَابًا",
         "urdu_text": "جس دن روح اور فرشتے صف باندھ کر کھڑے ہوں گے، کوئی نہیں بولے گا سوائے جسے رحمٰن اجازت دے اور وہ درست بات کہے",
         "persian_text": "روزی که روح و فرشتگان صف در صف می‌ایستند، جز کسی که خدای رحمان به او اجازه دهد و سخن راست بگوید، کسی سخن نگوید",
         "english_text": "The Day that the Spirit and the angels will stand in rows, they will not speak except for one whom the Most Merciful permits, and he will say what is correct.",
@@ -305,7 +305,7 @@ ayats = [
     },
     {
         "verse_number": "39",
-        "arabic_text": "ذَٰلِكَ ٱلْيَوْمُ ٱلْحَقُّۖ فَمَن شَآءَ ٱتَّخَذَ إِلَىٰ رَبِّهِۦ مَـَٔابًا",
+        "arabic_text": "ذٰلِكَ الْيَوْمُ الْحَقُّ فَمَن شَآءَ اتَّخَذَ اِلٰى رَبِّهُ مَـَٔابًا",
         "urdu_text": "یہی دن برحق ہے، پس جو چاہے اپنے رب کی طرف پلٹنے کا راستہ بنا لے",
         "persian_text": "این روز، روز حق است؛ پس هر که بخواهد، راه بازگشت به سوی پروردگارش را در پیش گیرد",
         "english_text": "That is the True Day; so he who wills may take to his Lord a [way of] return.",
@@ -313,7 +313,7 @@ ayats = [
     },
     {
         "verse_number": "40",
-        "arabic_text": "إِنَّآ أَنذَرْنَٰكُمْ عَذَابًا قَرِيبًاۖ يَوْمَ يَنظُرُ ٱلْمَرْءُ مَا قَدَّمَتْ يَدٰهُ وَيَقُولُ ٱلْكٰفِرُ يَٰلَيْتَنِي كُنتُ تُرَٰبٗا",
+        "arabic_text": "اِنَّآ اَنذَرْنٰكُمْ عَذَابًا قَرِيبًا يَوْمَ يَنظُرُ الْمَرْءُ مَا قَدَّمَتْ يَدٰهُ وَ يَقُولُ الْكٰفِرُ يٰلَيْتَنِي كُنتُ تُرٰبا",
         "urdu_text": "بے شک ہم نے تمہیں ایک قریب آنے والے عذاب سے خبردار کیا ہے، جس دن انسان دیکھے گا جو اس کے ہاتھوں نے آگے بھیجا، اور کافر کہے گا، کاش میں مٹی ہوتا",
         "persian_text": "ما شما را از عذابی نزدیک هشدار دادیم؛ روزی که انسان آنچه را دست‌هایش پیش فرستاده‌اند می‌بیند و کافر می‌گوید: ای کاش خاک بودم!",
         "english_text": "Indeed, We have warned you of a near punishment – the Day when a man will observe what his hands have put forth and the disbeliever will say, 'Oh, I wish that I were dust!'",
