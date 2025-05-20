@@ -6,7 +6,7 @@
     <title>Al-Quran سورة القدر -- Abjad-e-Qamari -- Faiz-e-Hussaini</title>
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Amiri:wght@400;700&family=Scheherazade+New:wght@400;700&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Amiri+Quran&family=Gulzar&display=swap');
 :root {
     --primary-color: #26572a;
     --secondary-color: #500000;
@@ -264,10 +264,11 @@ h2 {
 
 .grand-total {
     text-align: center;
-    background-color: var(--verse-bg);
+    background-color: var(--verse-bg) !important;
     border-radius: 10px;
     border: 2px solid var(--border-color);
     box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+    padding: 10px 0px;
 }
 
 .right-to-left {
@@ -293,7 +294,7 @@ table {
 
 .translations p,
 .translations div {
-    padding: 15px;
+    padding: 16px 8px 10px 8px;
     border: 1px solid var(--border-color);
     border-radius: 8px;
     margin: auto;
@@ -388,15 +389,16 @@ th {
     width: max-content;
     display: inline-block;
     box-shadow: 0 0 4px #bebebe;
+    min-width: 85px;
 }
 
 .translations {
-    background-color: rgba(249, 246, 240, 0.7);
+    /* background-color: rgba(249, 246, 240, 0.7); */
     border-radius: 0 0 8px 8px;
-    font-size: 26px;
+    font-size: 22px;
     padding: 2px;
     margin-top: 10px;
-    border-top: 1px solid var(--border-color);
+    /* border-top: 1px solid var(--border-color); */
 }
 
 .adad-row {
@@ -440,24 +442,6 @@ th {
     box-shadow: 0 5px 20px rgba(0, 0, 0, 0.2);
     border: 2px solid var(--border-color);
 }
-
-/* 
-.surah_header::before,
-.surah_header::after {
-    content: "۩";
-    font-size: 32px;
-    color: var(--secondary-color);
-    position: absolute;
-    top: 0;
-}
-
-.surah_header::before {
-    right: 20px;
-}
-
-.surah_header::after {
-    left: 20px;
-} */
 
 .letter-value-row {
     font-size: 8px;
@@ -614,6 +598,10 @@ input:checked+.slider:before {
     padding-bottom: 10px;
 }
 
+.arabic-font {
+    font-family: 'Amiri Quran';
+}
+
 /* Mobile responsive design */
 @media screen and (max-width: 768px) {
 
@@ -647,7 +635,7 @@ input:checked+.slider:before {
     }
 
     .total-value {
-        font-size: 28px;
+        font-size: 24px;
     }
 
     .toggle-panel {
@@ -902,7 +890,7 @@ input:checked+.slider:before {
     
 <div class="verse-container">
     <div class="original-text">
-        <p class="arabic-text">اِنَّآ اَنزَلْنٰهُ فِي لَيْلَةِ الْقَدْرِ <span class='ayah-marker'>1</span></p>
+        <p class="arabic-text arabic-font">اِنَّآ اَنزَلْنٰهُ فِي لَيْلَةِ الْقَدْرِ <span class='ayah-marker'>1</span></p>
     </div>
 </div>
 
@@ -975,7 +963,7 @@ input:checked+.slider:before {
 <td class="light-letter-left-border">35</td>
 <td class="dark-letter-left-border">201</td>
 </tr>
-<tr class="word-row">
+<tr class="word-row arabic-font">
 <td colspan=3>اِنَّآ</td>
 <td colspan=6>اَنزَلْنٰهُ</td>
 <td colspan=2>فِي</td>
@@ -1003,13 +991,13 @@ input:checked+.slider:before {
     
 <div class="translations">
 
+<p class='left-to-right'><span class="translation-title left-to-right">Transliteration</span>Inna anzalnahu fee laylatil qadr.</p>
+
 <p class='right-to-left'><span class="translation-title">اردو</span>بے شک ہم نے اسے شب قدر میں نازل کیا۔</p>
 
 <p class='right-to-left'><span class="translation-title">فارسی</span>ما آن را در شب قدر نازل کردیم.</p>
 
 <p class='left-to-right'><span class="translation-title">English</span>Indeed, We sent it down during the Night of Decree.</p>
-
-<p class='left-to-right'><span class="translation-title left-to-right">Transliteration</span>Inna anzalnahu fee laylatil qadr.</p>
 <div class='adad-row'>
     <div class='total-qamari-span'><span class="translation-title">قمري عدد</span> <strong class='total-value'>695</strong></div>
     <div class='total-bayenati-span'><span class="translation-title">باطني عدد</span> <strong class='total-value'>891</strong></div>
@@ -1024,7 +1012,7 @@ input:checked+.slider:before {
     
 <div class="verse-container">
     <div class="original-text">
-        <p class="arabic-text">وَ مَآ اَدْرٰكَ مَا لَيْلَةُ الْقَدْرِ <span class='ayah-marker'>2</span></p>
+        <p class="arabic-text arabic-font">وَ مَآ اَدْرٰكَ مَا لَيْلَةُ الْقَدْرِ <span class='ayah-marker'>2</span></p>
     </div>
 </div>
 
@@ -1091,7 +1079,7 @@ input:checked+.slider:before {
 <td class="light-letter-left-border">35</td>
 <td class="dark-letter-left-border">201</td>
 </tr>
-<tr class="word-row">
+<tr class="word-row arabic-font">
 <td colspan=1>وَ</td>
 <td colspan=2>مَآ</td>
 <td colspan=4>اَدْرٰكَ</td>
@@ -1122,13 +1110,13 @@ input:checked+.slider:before {
     
 <div class="translations">
 
+<p class='left-to-right'><span class="translation-title left-to-right">Transliteration</span>Wama adraka ma laylatul qadr.</p>
+
 <p class='right-to-left'><span class="translation-title">اردو</span>اور آپ کو کیا معلوم کہ شب قدر کیا ہے؟</p>
 
 <p class='right-to-left'><span class="translation-title">فارسی</span>و چه می‌دانی شب قدر چیست؟</p>
 
 <p class='left-to-right'><span class="translation-title">English</span>And what can make you know what is the Night of Decree?</p>
-
-<p class='left-to-right'><span class="translation-title left-to-right">Transliteration</span>Wama adraka ma laylatul qadr.</p>
 <div class='adad-row'>
     <div class='total-qamari-span'><span class="translation-title">قمري عدد</span> <strong class='total-value'>723</strong></div>
     <div class='total-bayenati-span'><span class="translation-title">باطني عدد</span> <strong class='total-value'>898</strong></div>
@@ -1143,7 +1131,7 @@ input:checked+.slider:before {
     
 <div class="verse-container">
     <div class="original-text">
-        <p class="arabic-text">لَيْلَةُ الْقَدْرِ خَيْرٌ مِّنْ اَلْفِ شَهْرٍ <span class='ayah-marker'>3</span></p>
+        <p class="arabic-text arabic-font">لَيْلَةُ الْقَدْرِ خَيْرٌ مِّنْ اَلْفِ شَهْرٍ <span class='ayah-marker'>3</span></p>
     </div>
 </div>
 
@@ -1216,7 +1204,7 @@ input:checked+.slider:before {
 <td class="light-letter-left-border">6</td>
 <td class="dark-letter-left-border">201</td>
 </tr>
-<tr class="word-row">
+<tr class="word-row arabic-font">
 <td colspan=4>لَيْلَةُ</td>
 <td colspan=5>الْقَدْرِ</td>
 <td colspan=3>خَيْرٌ</td>
@@ -1247,13 +1235,13 @@ input:checked+.slider:before {
     
 <div class="translations">
 
+<p class='left-to-right'><span class="translation-title left-to-right">Transliteration</span>Laylatul qadr khayrun min alfi shahr.</p>
+
 <p class='right-to-left'><span class="translation-title">اردو</span>شب قدر ہزار مہینوں سے بہتر ہے۔</p>
 
 <p class='right-to-left'><span class="translation-title">فارسی</span>شب قدر بهتر از هزار ماه است.</p>
 
 <p class='left-to-right'><span class="translation-title">English</span>The Night of Decree is better than a thousand months.</p>
-
-<p class='left-to-right'><span class="translation-title left-to-right">Transliteration</span>Laylatul qadr khayrun min alfi shahr.</p>
 <div class='adad-row'>
     <div class='total-qamari-span'><span class="translation-title">قمري عدد</span> <strong class='total-value'>1926</strong></div>
     <div class='total-bayenati-span'><span class="translation-title">باطني عدد</span> <strong class='total-value'>671</strong></div>
@@ -1268,7 +1256,7 @@ input:checked+.slider:before {
     
 <div class="verse-container">
     <div class="original-text">
-        <p class="arabic-text">تَنَزَّلُ الْمَلٰٓئِكَةُ وَ الرُّوحُ فِيهَا بِاِذْنِ رَبِّهِم مِّن كُلِّ اَمْرٍ <span class='ayah-marker'>4</span></p>
+        <p class="arabic-text arabic-font">تَنَزَّلُ الْمَلٰٓئِكَةُ وَ الرُّوحُ فِيهَا بِاِذْنِ رَبِّهِم مِّن كُلِّ اَمْرٍ <span class='ayah-marker'>4</span></p>
     </div>
 </div>
 
@@ -1389,7 +1377,7 @@ input:checked+.slider:before {
 <td class="light-letter-left-border">90</td>
 <td class="dark-letter-left-border">201</td>
 </tr>
-<tr class="word-row">
+<tr class="word-row arabic-font">
 <td colspan=4>تَنَزَّلُ</td>
 <td colspan=7>الْمَلٰٓئِكَةُ</td>
 <td colspan=1>وَ</td>
@@ -1432,13 +1420,13 @@ input:checked+.slider:before {
     
 <div class="translations">
 
+<p class='left-to-right'><span class="translation-title left-to-right">Transliteration</span>Tanazzalul malaikatu war-ruh feeha bi idhni rabbihim min kulli amr.</p>
+
 <p class='right-to-left'><span class="translation-title">اردو</span>اس میں فرشتے اور روح القدس اپنے رب کے حکم سے ہر کام کے لیے اترتے ہیں۔</p>
 
 <p class='right-to-left'><span class="translation-title">فارسی</span>فرشتگان و روح در آن به فرمان پروردگارشان برای هر امر نازل می‌شوند.</p>
 
 <p class='left-to-right'><span class="translation-title">English</span>The angels and the Spirit descend therein by permission of their Lord for every matter.</p>
-
-<p class='left-to-right'><span class="translation-title left-to-right">Transliteration</span>Tanazzalul malaikatu war-ruh feeha bi idhni rabbihim min kulli amr.</p>
 <div class='adad-row'>
     <div class='total-qamari-span'><span class="translation-title">قمري عدد</span> <strong class='total-value'>2341</strong></div>
     <div class='total-bayenati-span'><span class="translation-title">باطني عدد</span> <strong class='total-value'>1343</strong></div>
@@ -1453,7 +1441,7 @@ input:checked+.slider:before {
     
 <div class="verse-container">
     <div class="original-text">
-        <p class="arabic-text">سَلٰمٌ هِىَ حَتّٰى مَطْلَعِ الْفَجْرِ <span class='ayah-marker'>5</span></p>
+        <p class="arabic-text arabic-font">سَلٰمٌ هِىَ حَتّٰى مَطْلَعِ الْفَجْرِ <span class='ayah-marker'>5</span></p>
     </div>
 </div>
 
@@ -1517,7 +1505,7 @@ input:checked+.slider:before {
 <td class="light-letter-left-border">53</td>
 <td class="dark-letter-left-border">201</td>
 </tr>
-<tr class="word-row">
+<tr class="word-row arabic-font">
 <td colspan=3>سَلٰمٌ</td>
 <td colspan=2>هِىَ</td>
 <td colspan=3>حَتّٰى</td>
@@ -1545,13 +1533,13 @@ input:checked+.slider:before {
     
 <div class="translations">
 
+<p class='left-to-right'><span class="translation-title left-to-right">Transliteration</span>Salamun hiya hatta matla'il fajr.</p>
+
 <p class='right-to-left'><span class="translation-title">اردو</span>وہ سلامتی کی رات ہے جو فجر کے طلوع ہونے تک رہتی ہے۔</p>
 
 <p class='right-to-left'><span class="translation-title">فارسی</span>آن شب سلامتی است تا طلوع فجر.</p>
 
 <p class='left-to-right'><span class="translation-title">English</span>Peace it is until the emergence of dawn.</p>
-
-<p class='left-to-right'><span class="translation-title left-to-right">Transliteration</span>Salamun hiya hatta matla'il fajr.</p>
 <div class='adad-row'>
     <div class='total-qamari-span'><span class="translation-title">قمري عدد</span> <strong class='total-value'>1026</strong></div>
     <div class='total-bayenati-span'><span class="translation-title">باطني عدد</span> <strong class='total-value'>511</strong></div>
@@ -1562,18 +1550,20 @@ input:checked+.slider:before {
 
 </div>
 
-<div class="grand-total">
-    <div class='qamari-grand-total surah-adad-sum'>
-        <h3>مجموع القمري</h3>
-        <p><strong>6711</strong></p>
-    </div>
-    <div class='batini-grand-total surah-adad-sum'>
-        <h3>مجموع الباطني</h3>
-        <p><strong>4314</strong></p>
-    </div>
-    <div class='malfuzi-grand-total surah-adad-sum'>
-        <h3>مجموع الملفوظي</h3>
-        <p><strong>11025</strong></p>
+<div class="translations">
+    <div class="adad-row grand-total">
+        <div class='total-qamari-span'>
+            <span class="translation-title">مجموع القمري</span>
+            <strong class="total-value">6711</strong>
+        </div>
+        <div class='total-bayenati-span'>
+            <span class="translation-title">مجموع الباطني</span>
+            <strong class="total-value">4314</strong>
+        </div>
+        <div class='total-malfuzi-span'>
+            <span class="translation-title">مجموع الملفوظي</span>
+            <strong class="total-value">11025</strong>
+        </div>
     </div>
 </div>
 

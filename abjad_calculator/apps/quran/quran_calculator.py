@@ -143,7 +143,7 @@ def process_multiple_verses(
         content_html = f"""
 <div class="verse-container">
     <div class="original-text">
-        <p class="arabic-text">{result_verse.original_text} <span class='ayah-marker'>{verse_number}</span></p>
+        <p class="arabic-text arabic-font">{result_verse.original_text} <span class='ayah-marker'>{verse_number}</span></p>
     </div>
 </div>
 """
@@ -157,6 +157,12 @@ def process_multiple_verses(
         translations_html = """
 <div class="translations">
 """
+
+        if transliteration:
+            translations_html += f"""
+<p class='left-to-right'><span class="translation-title left-to-right">Transliteration</span>{transliteration}</p>
+"""
+            
         if urdu:
             translations_html += f"""
 <p class='right-to-left'><span class="translation-title">اردو</span>{urdu}</p>
@@ -170,11 +176,6 @@ def process_multiple_verses(
         if english:
             translations_html += f"""
 <p class='left-to-right'><span class="translation-title">English</span>{english}</p>
-"""
-
-        if transliteration:
-            translations_html += f"""
-<p class='left-to-right'><span class="translation-title left-to-right">Transliteration</span>{transliteration}</p>
 """
 
         if result_verse.total_qamari_value:
@@ -208,18 +209,20 @@ def process_multiple_verses(
 
     # Add grand total section
     quran_data_html += f"""
-<div class="grand-total">
-    <div class='qamari-grand-total surah-adad-sum'>
-        <h3>مجموع القمري</h3>
-        <p><strong>{grand_qamari_total}</strong></p>
-    </div>
-    <div class='batini-grand-total surah-adad-sum'>
-        <h3>مجموع الباطني</h3>
-        <p><strong>{grand_bayenati_total}</strong></p>
-    </div>
-    <div class='malfuzi-grand-total surah-adad-sum'>
-        <h3>مجموع الملفوظي</h3>
-        <p><strong>{grand_malfuzi_total}</strong></p>
+<div class="translations">
+    <div class="adad-row grand-total">
+        <div class='total-qamari-span'>
+            <span class="translation-title">مجموع القمري</span>
+            <strong class="total-value">{grand_qamari_total}</strong>
+        </div>
+        <div class='total-bayenati-span'>
+            <span class="translation-title">مجموع الباطني</span>
+            <strong class="total-value">{grand_bayenati_total}</strong>
+        </div>
+        <div class='total-malfuzi-span'>
+            <span class="translation-title">مجموع الملفوظي</span>
+            <strong class="total-value">{grand_malfuzi_total}</strong>
+        </div>
     </div>
 </div>
 """

@@ -6,7 +6,7 @@
     <title>Al-Quran سورة البينة -- Abjad-e-Qamari -- Faiz-e-Hussaini</title>
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Amiri:wght@400;700&family=Scheherazade+New:wght@400;700&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Amiri+Quran&family=Gulzar&display=swap');
 :root {
     --primary-color: #26572a;
     --secondary-color: #500000;
@@ -264,10 +264,11 @@ h2 {
 
 .grand-total {
     text-align: center;
-    background-color: var(--verse-bg);
+    background-color: var(--verse-bg) !important;
     border-radius: 10px;
     border: 2px solid var(--border-color);
     box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+    padding: 10px 0px;
 }
 
 .right-to-left {
@@ -293,7 +294,7 @@ table {
 
 .translations p,
 .translations div {
-    padding: 15px;
+    padding: 16px 8px 10px 8px;
     border: 1px solid var(--border-color);
     border-radius: 8px;
     margin: auto;
@@ -388,15 +389,16 @@ th {
     width: max-content;
     display: inline-block;
     box-shadow: 0 0 4px #bebebe;
+    min-width: 85px;
 }
 
 .translations {
-    background-color: rgba(249, 246, 240, 0.7);
+    /* background-color: rgba(249, 246, 240, 0.7); */
     border-radius: 0 0 8px 8px;
-    font-size: 26px;
+    font-size: 22px;
     padding: 2px;
     margin-top: 10px;
-    border-top: 1px solid var(--border-color);
+    /* border-top: 1px solid var(--border-color); */
 }
 
 .adad-row {
@@ -440,24 +442,6 @@ th {
     box-shadow: 0 5px 20px rgba(0, 0, 0, 0.2);
     border: 2px solid var(--border-color);
 }
-
-/* 
-.surah_header::before,
-.surah_header::after {
-    content: "۩";
-    font-size: 32px;
-    color: var(--secondary-color);
-    position: absolute;
-    top: 0;
-}
-
-.surah_header::before {
-    right: 20px;
-}
-
-.surah_header::after {
-    left: 20px;
-} */
 
 .letter-value-row {
     font-size: 8px;
@@ -614,6 +598,10 @@ input:checked+.slider:before {
     padding-bottom: 10px;
 }
 
+.arabic-font {
+    font-family: 'Amiri Quran';
+}
+
 /* Mobile responsive design */
 @media screen and (max-width: 768px) {
 
@@ -647,7 +635,7 @@ input:checked+.slider:before {
     }
 
     .total-value {
-        font-size: 28px;
+        font-size: 24px;
     }
 
     .toggle-panel {
@@ -902,7 +890,7 @@ input:checked+.slider:before {
     
 <div class="verse-container">
     <div class="original-text">
-        <p class="arabic-text">لَمْ يَكُنِ الَّذِينَ كَفَرُوا مِنْ اَهْلِ الْكِتٰبِ وَ الْمُشْرِكِينَ مُنْفَكِّينَ حَتّٰى تَاْتِيَهُمُ الْبَيِّنَةُ <span class='ayah-marker'>1</span></p>
+        <p class="arabic-text arabic-font">لَمْ يَكُنِ الَّذِينَ كَفَرُوا مِنْ اَهْلِ الْكِتٰبِ وَ الْمُشْرِكِينَ مُنْفَكِّينَ حَتّٰى تَاْتِيَهُمُ الْبَيِّنَةُ <span class='ayah-marker'>1</span></p>
     </div>
 </div>
 
@@ -1080,7 +1068,7 @@ input:checked+.slider:before {
 <td class="light-letter-left-border">106</td>
 <td class="dark-letter-left-border">6</td>
 </tr>
-<tr class="word-row">
+<tr class="word-row arabic-font">
 <td colspan=2>لَمْ</td>
 <td colspan=3>يَكُنِ</td>
 <td colspan=5>الَّذِينَ</td>
@@ -1132,13 +1120,13 @@ input:checked+.slider:before {
     
 <div class="translations">
 
+<p class='left-to-right'><span class="translation-title left-to-right">Transliteration</span>Lam yakuni alladhīna kafarū min ahli al-kitābi wa al-mushrikīna munfakkīna ḥattā ta’tiyahumu al-bayyinah</p>
+
 <p class='right-to-left'><span class="translation-title">اردو</span>کافر لوگ، اہل کتاب اور مشرکین میں سے باز آنے والے نہ تھے جب تک کہ ان کے پاس کھلی دلیل نہ آ جائے</p>
 
 <p class='right-to-left'><span class="translation-title">فارسی</span>کافران از اهل کتاب و مشرکان بازنمی‌گردند تا زمانی که دلیل روشنی برایشان بیاید.</p>
 
 <p class='left-to-right'><span class="translation-title">English</span>The disbelievers among the People of the Book and the polytheists were not to desist until there came to them clear evidence.</p>
-
-<p class='left-to-right'><span class="translation-title left-to-right">Transliteration</span>Lam yakuni alladhīna kafarū min ahli al-kitābi wa al-mushrikīna munfakkīna ḥattā ta’tiyahumu al-bayyinah</p>
 <div class='adad-row'>
     <div class='total-qamari-span'><span class="translation-title">قمري عدد</span> <strong class='total-value'>4106</strong></div>
     <div class='total-bayenati-span'><span class="translation-title">باطني عدد</span> <strong class='total-value'>2189</strong></div>
@@ -1153,7 +1141,7 @@ input:checked+.slider:before {
     
 <div class="verse-container">
     <div class="original-text">
-        <p class="arabic-text">رَسُولٌ مِّنَ اللَّهِ يَتْلُوا صُحُفًا مُّطَهَّرَةً <span class='ayah-marker'>2</span></p>
+        <p class="arabic-text arabic-font">رَسُولٌ مِّنَ اللَّهِ يَتْلُوا صُحُفًا مُّطَهَّرَةً <span class='ayah-marker'>2</span></p>
     </div>
 </div>
 
@@ -1238,7 +1226,7 @@ input:checked+.slider:before {
 <td class="light-letter-left-border">201</td>
 <td class="dark-letter-left-border">6</td>
 </tr>
-<tr class="word-row">
+<tr class="word-row arabic-font">
 <td colspan=4>رَسُولٌ</td>
 <td colspan=2>مِّنَ</td>
 <td colspan=4>اللَّهِ</td>
@@ -1269,13 +1257,13 @@ input:checked+.slider:before {
     
 <div class="translations">
 
+<p class='left-to-right'><span class="translation-title left-to-right">Transliteration</span>Rasūlun mina Allāhi yatlū ṣuḥufan muṭahharah</p>
+
 <p class='right-to-left'><span class="translation-title">اردو</span>اللہ کا ایک رسول جو پاکیزہ صحیفے پڑھ کر سناتا ہے</p>
 
 <p class='right-to-left'><span class="translation-title">فارسی</span>فرستاده‌ای از سوی خدا که صحیفه‌های پاک را تلاوت می‌کند.</p>
 
 <p class='left-to-right'><span class="translation-title">English</span>A messenger from Allah, reciting purified scriptures.</p>
-
-<p class='left-to-right'><span class="translation-title left-to-right">Transliteration</span>Rasūlun mina Allāhi yatlū ṣuḥufan muṭahharah</p>
 <div class='adad-row'>
     <div class='total-qamari-span'><span class="translation-title">قمري عدد</span> <strong class='total-value'>1337</strong></div>
     <div class='total-bayenati-span'><span class="translation-title">باطني عدد</span> <strong class='total-value'>739</strong></div>
@@ -1290,7 +1278,7 @@ input:checked+.slider:before {
     
 <div class="verse-container">
     <div class="original-text">
-        <p class="arabic-text">فِيهَا كُتُبٌ قَيِّمَةٌ <span class='ayah-marker'>3</span></p>
+        <p class="arabic-text arabic-font">فِيهَا كُتُبٌ قَيِّمَةٌ <span class='ayah-marker'>3</span></p>
     </div>
 </div>
 
@@ -1336,7 +1324,7 @@ input:checked+.slider:before {
 <td class="light-letter-left-border">90</td>
 <td class="dark-letter-left-border">6</td>
 </tr>
-<tr class="word-row">
+<tr class="word-row arabic-font">
 <td colspan=4>فِيهَا</td>
 <td colspan=3>كُتُبٌ</td>
 <td colspan=4>قَيِّمَةٌ</td>
@@ -1358,13 +1346,13 @@ input:checked+.slider:before {
     
 <div class="translations">
 
+<p class='left-to-right'><span class="translation-title left-to-right">Transliteration</span>Fīhā kutubun qayyimah</p>
+
 <p class='right-to-left'><span class="translation-title">اردو</span>جن میں صحیح اور درست احکام درج ہیں</p>
 
 <p class='right-to-left'><span class="translation-title">فارسی</span>که در آن‌ها نوشته‌هایی استوار و درست است.</p>
 
 <p class='left-to-right'><span class="translation-title">English</span>Within which are correct and upright writings.</p>
-
-<p class='left-to-right'><span class="translation-title left-to-right">Transliteration</span>Fīhā kutubun qayyimah</p>
 <div class='adad-row'>
     <div class='total-qamari-span'><span class="translation-title">قمري عدد</span> <strong class='total-value'>673</strong></div>
     <div class='total-bayenati-span'><span class="translation-title">باطني عدد</span> <strong class='total-value'>329</strong></div>
@@ -1379,7 +1367,7 @@ input:checked+.slider:before {
     
 <div class="verse-container">
     <div class="original-text">
-        <p class="arabic-text">وَ مَا تَفَرَّقَ الَّذِينَ اُوتُوا الْكِتٰبَ اِلَّا مِنْ بَعْدِ مَا جَآءَتْهُمُ الْبَيِّنَةُ <span class='ayah-marker'>4</span></p>
+        <p class="arabic-text arabic-font">وَ مَا تَفَرَّقَ الَّذِينَ اُوتُوا الْكِتٰبَ اِلَّا مِنْ بَعْدِ مَا جَآءَتْهُمُ الْبَيِّنَةُ <span class='ayah-marker'>4</span></p>
     </div>
 </div>
 
@@ -1524,7 +1512,7 @@ input:checked+.slider:before {
 <td class="light-letter-left-border">106</td>
 <td class="dark-letter-left-border">6</td>
 </tr>
-<tr class="word-row">
+<tr class="word-row arabic-font">
 <td colspan=1>وَ</td>
 <td colspan=2>مَا</td>
 <td colspan=4>تَفَرَّقَ</td>
@@ -1573,13 +1561,13 @@ input:checked+.slider:before {
     
 <div class="translations">
 
+<p class='left-to-right'><span class="translation-title left-to-right">Transliteration</span>Wa mā tafarraqa alladhīna ūtū al-kitāba illā min baʿdi mā jā’athumu al-bayyinah</p>
+
 <p class='right-to-left'><span class="translation-title">اردو</span>اور اہل کتاب کے وہ لوگ فرقوں میں نہ بٹے تھے جب تک ان کے پاس کھلی دلیل نہ آ گئی</p>
 
 <p class='right-to-left'><span class="translation-title">فارسی</span>و کسانی که کتاب به آنان داده شده بود، پراکنده نشدند مگر پس از آنکه دلیل روشن برایشان آمد.</p>
 
 <p class='left-to-right'><span class="translation-title">English</span>Nor did those who were given the Scripture become divided until after there had come to them clear evidence.</p>
-
-<p class='left-to-right'><span class="translation-title left-to-right">Transliteration</span>Wa mā tafarraqa alladhīna ūtū al-kitāba illā min baʿdi mā jā’athumu al-bayyinah</p>
 <div class='adad-row'>
     <div class='total-qamari-span'><span class="translation-title">قمري عدد</span> <strong class='total-value'>3271</strong></div>
     <div class='total-bayenati-span'><span class="translation-title">باطني عدد</span> <strong class='total-value'>2000</strong></div>
@@ -1594,7 +1582,7 @@ input:checked+.slider:before {
     
 <div class="verse-container">
     <div class="original-text">
-        <p class="arabic-text">وَ مَآ اُمِرُوٓا اِلَّا لِيَعْبُدُوا اللَّهَ مُخْلِصِينَ لَهُ الدِّينَ حُنَفَآءَ وَ يُقِيمُوا الصَّلٰوةَ وَ يُؤْتُوا الزَّكٰوةَ  وَ ذٰلِكَ دِينُ الْقَيِّمَةِ <span class='ayah-marker'>5</span></p>
+        <p class="arabic-text arabic-font">وَ مَآ اُمِرُوٓا اِلَّا لِيَعْبُدُوا اللَّهَ مُخْلِصِينَ لَهُ الدِّينَ حُنَفَآءَ وَ يُقِيمُوا الصَّلٰوةَ وَ يُؤْتُوا الزَّكٰوةَ  وَ ذٰلِكَ دِينُ الْقَيِّمَةِ <span class='ayah-marker'>5</span></p>
     </div>
 </div>
 
@@ -1769,7 +1757,7 @@ input:checked+.slider:before {
 <td class="dark-letter-left-border">6</td>
 <td class="dark-letter-left-border">13</td>
 </tr>
-<tr class="word-row">
+<tr class="word-row arabic-font">
 <td colspan=1>وَ</td>
 <td colspan=2>مَآ</td>
 <td colspan=5>اُمِرُوٓا</td>
@@ -1897,7 +1885,7 @@ input:checked+.slider:before {
 <td class="light-letter-left-border">90</td>
 <td class="dark-letter-left-border">6</td>
 </tr>
-<tr class="word-row">
+<tr class="word-row arabic-font">
 <td colspan=5>يُؤْتُوا</td>
 <td colspan=6>الزَّكٰوةَ</td>
 <td colspan=1>وَ</td>
@@ -1928,13 +1916,13 @@ input:checked+.slider:before {
     
 <div class="translations">
 
+<p class='left-to-right'><span class="translation-title left-to-right">Transliteration</span>Wa mā umirū illā liyaʿbudū Allāha mukhliṣīna lahu al-dīna ḥunafā’a wa yuqīmū al-ṣalāta wa yu’tū al-zakāh; wa dhālika dīn al-qayyimah</p>
+
 <p class='right-to-left'><span class="translation-title">اردو</span>حالانکہ ان کو حکم یہی دیا گیا تھا کہ اللہ کی عبادت کریں، اسی کے لیے دین کو خالص کرتے ہوئے، یکسو ہو کر، نماز قائم کریں اور زکٰوۃ دیں۔ یہی سیدھا دین ہے</p>
 
 <p class='right-to-left'><span class="translation-title">فارسی</span>در حالی که به آنان فرمان داده نشده بود جز اینکه خدا را بپرستند در حالی که دین خود را برای او خالص می‌کنند، و نماز بپا دارند و زکات بدهند، و این است دین درست و استوار.</p>
 
 <p class='left-to-right'><span class="translation-title">English</span>And they were not commanded except to worship Allah, [being] sincere to Him in religion, inclining to truth, and to establish prayer and to give zakah. And that is the correct religion.</p>
-
-<p class='left-to-right'><span class="translation-title left-to-right">Transliteration</span>Wa mā umirū illā liyaʿbudū Allāha mukhliṣīna lahu al-dīna ḥunafā’a wa yuqīmū al-ṣalāta wa yu’tū al-zakāh; wa dhālika dīn al-qayyimah</p>
 <div class='adad-row'>
     <div class='total-qamari-span'><span class="translation-title">قمري عدد</span> <strong class='total-value'>3444</strong></div>
     <div class='total-bayenati-span'><span class="translation-title">باطني عدد</span> <strong class='total-value'>3121</strong></div>
@@ -1949,7 +1937,7 @@ input:checked+.slider:before {
     
 <div class="verse-container">
     <div class="original-text">
-        <p class="arabic-text">اِنَّ الَّذِينَ كَفَرُوا مِنْ اَهْلِ الْكِتٰبِ وَ الْمُشْرِكِينَ فِى نَارِ جَهَنَّمَ خٰلِدِينَ فِيهَآ اُولٰٓئِكَ هُمْ شَرُّ الْبَرِيَّةِ <span class='ayah-marker'>6</span></p>
+        <p class="arabic-text arabic-font">اِنَّ الَّذِينَ كَفَرُوا مِنْ اَهْلِ الْكِتٰبِ وَ الْمُشْرِكِينَ فِى نَارِ جَهَنَّمَ خٰلِدِينَ فِيهَآ اُولٰٓئِكَ هُمْ شَرُّ الْبَرِيَّةِ <span class='ayah-marker'>6</span></p>
     </div>
 </div>
 
@@ -2124,7 +2112,7 @@ input:checked+.slider:before {
 <td class="light-letter-left-border">0</td>
 <td class="dark-letter-left-border">101</td>
 </tr>
-<tr class="word-row">
+<tr class="word-row arabic-font">
 <td colspan=2>اِنَّ</td>
 <td colspan=5>الَّذِينَ</td>
 <td colspan=5>كَفَرُوا</td>
@@ -2210,7 +2198,7 @@ input:checked+.slider:before {
 <td class="light-letter-left-border">11</td>
 <td class="dark-letter-left-border">6</td>
 </tr>
-<tr class="word-row">
+<tr class="word-row arabic-font">
 <td colspan=2>هُمْ</td>
 <td colspan=2>شَرُّ</td>
 <td colspan=6>الْبَرِيَّةِ</td>
@@ -2232,13 +2220,13 @@ input:checked+.slider:before {
     
 <div class="translations">
 
+<p class='left-to-right'><span class="translation-title left-to-right">Transliteration</span>Inna alladhīna kafarū min ahli al-kitābi wa al-mushrikīna fī nāri jahannama khālidīna fīhā, ūlā’ika hum sharru al-bariyyah</p>
+
 <p class='right-to-left'><span class="translation-title">اردو</span>بیشک جن لوگوں نے کفر کیا، اہل کتاب میں سے اور مشرکین میں سے، وہ دوزخ کی آگ میں ہوں گے، ہمیشہ ہمیشہ اس میں رہیں گے۔ یہی لوگ بدترین مخلوق ہیں</p>
 
 <p class='right-to-left'><span class="translation-title">فارسی</span>بی‌گمان کسانی از اهل کتاب و مشرکان که کفر ورزیدند، در آتش دوزخ خواهند بود؛ همیشه در آن می‌مانند. آنان بدترین مخلوقاتند.</p>
 
 <p class='left-to-right'><span class="translation-title">English</span>Indeed, they who disbelieved among the People of the Book and the polytheists will be in the fire of Hell, abiding eternally therein. Those are the worst of creatures.</p>
-
-<p class='left-to-right'><span class="translation-title left-to-right">Transliteration</span>Inna alladhīna kafarū min ahli al-kitābi wa al-mushrikīna fī nāri jahannama khālidīna fīhā, ūlā’ika hum sharru al-bariyyah</p>
 <div class='adad-row'>
     <div class='total-qamari-span'><span class="translation-title">قمري عدد</span> <strong class='total-value'>4464</strong></div>
     <div class='total-bayenati-span'><span class="translation-title">باطني عدد</span> <strong class='total-value'>2579</strong></div>
@@ -2253,7 +2241,7 @@ input:checked+.slider:before {
     
 <div class="verse-container">
     <div class="original-text">
-        <p class="arabic-text">اِنَّ الَّذِينَ اٰمَنُوا وَ عَمِلُوا الصّٰلِحٰتِ اُولٰٓئِكَ هُمْ خَيْرُ الْبَرِيَّةِ <span class='ayah-marker'>7</span></p>
+        <p class="arabic-text arabic-font">اِنَّ الَّذِينَ اٰمَنُوا وَ عَمِلُوا الصّٰلِحٰتِ اُولٰٓئِكَ هُمْ خَيْرُ الْبَرِيَّةِ <span class='ayah-marker'>7</span></p>
     </div>
 </div>
 
@@ -2386,7 +2374,7 @@ input:checked+.slider:before {
 <td class="light-letter-left-border">11</td>
 <td class="dark-letter-left-border">6</td>
 </tr>
-<tr class="word-row">
+<tr class="word-row arabic-font">
 <td colspan=2>اِنَّ</td>
 <td colspan=5>الَّذِينَ</td>
 <td colspan=5>اٰمَنُوا</td>
@@ -2429,13 +2417,13 @@ input:checked+.slider:before {
     
 <div class="translations">
 
+<p class='left-to-right'><span class="translation-title left-to-right">Transliteration</span>Inna alladhīna āmanū wa ʿamilū al-ṣāliḥāti ūlā’ika hum khayru al-bariyyah</p>
+
 <p class='right-to-left'><span class="translation-title">اردو</span>بیشک جو لوگ ایمان لائے اور نیک عمل کیے، وہی سب مخلوق میں بہتر ہیں</p>
 
 <p class='right-to-left'><span class="translation-title">فارسی</span>بی‌گمان کسانی که ایمان آوردند و کارهای شایسته انجام دادند، بهترین آفریدگانند.</p>
 
 <p class='left-to-right'><span class="translation-title">English</span>Indeed, those who have believed and done righteous deeds — those are the best of creatures.</p>
-
-<p class='left-to-right'><span class="translation-title left-to-right">Transliteration</span>Inna alladhīna āmanū wa ʿamilū al-ṣāliḥāti ūlā’ika hum khayru al-bariyyah</p>
 <div class='adad-row'>
     <div class='total-qamari-span'><span class="translation-title">قمري عدد</span> <strong class='total-value'>2812</strong></div>
     <div class='total-bayenati-span'><span class="translation-title">باطني عدد</span> <strong class='total-value'>1660</strong></div>
@@ -2450,7 +2438,7 @@ input:checked+.slider:before {
     
 <div class="verse-container">
     <div class="original-text">
-        <p class="arabic-text">جَزَآؤُهُمْ عِندَ رَبِّهِمْ جَنّٰتُ عَدْنٍ تَجْرِى مِن تَحْتِهَا الْاَنْهٰرُ خٰلِدِينَ فِيهَآ اَبَدًا رَّضِىَ اللَّهُ عَنْهُمْ وَ رَضُوا عَنْهُ ذٰلِكَ لِمَنْ خَشِىَ رَبَّهُۥ <span class='ayah-marker'>8</span></p>
+        <p class="arabic-text arabic-font">جَزَآؤُهُمْ عِندَ رَبِّهِمْ جَنّٰتُ عَدْنٍ تَجْرِى مِن تَحْتِهَا الْاَنْهٰرُ خٰلِدِينَ فِيهَآ اَبَدًا رَّضِىَ اللَّهُ عَنْهُمْ وَ رَضُوا عَنْهُ ذٰلِكَ لِمَنْ خَشِىَ رَبَّهُۥ <span class='ayah-marker'>8</span></p>
     </div>
 </div>
 
@@ -2631,7 +2619,7 @@ input:checked+.slider:before {
 <td class="light-letter-left-border">71</td>
 <td class="dark-letter-left-border">6</td>
 </tr>
-<tr class="word-row">
+<tr class="word-row arabic-font">
 <td colspan=6>جَزَآؤُهُمْ</td>
 <td colspan=3>عِندَ</td>
 <td colspan=4>رَبِّهِمْ</td>
@@ -2759,7 +2747,7 @@ input:checked+.slider:before {
 <td class="light-letter-left-border">3</td>
 <td class="dark-letter-left-border">6</td>
 </tr>
-<tr class="word-row">
+<tr class="word-row arabic-font">
 <td colspan=4>عَنْهُمْ</td>
 <td colspan=1>وَ</td>
 <td colspan=4>رَضُوا</td>
@@ -2796,13 +2784,13 @@ input:checked+.slider:before {
     
 <div class="translations">
 
+<p class='left-to-right'><span class="translation-title left-to-right">Transliteration</span>Jazā’uhum ʿinda rabbihim jannātu ʿadnin tajrī min taḥtihā al-anhāru khālidīna fīhā abadan, raḍiya Allāhu ʿanhum wa raḍū ʿanhu, dhālika liman khashiya rabbah</p>
+
 <p class='right-to-left'><span class="translation-title">اردو</span>ان کا بدلہ ان کے رب کے ہاں ہمیشہ رہنے والی جنتیں ہیں، جن کے نیچے نہریں بہتی ہیں۔ وہ ان میں ہمیشہ رہیں گے۔ اللہ ان سے راضی ہو گیا اور وہ اس سے راضی ہو گئے۔ یہ ان کے لیے ہے جو اپنے رب سے ڈرتے ہیں</p>
 
 <p class='right-to-left'><span class="translation-title">فارسی</span>پاداش آنان نزد پروردگارشان باغ‌های جاودانی است که از زیرشان نهرها جاری است، جاودانه در آن می‌مانند. خدا از آنان خشنود است و آنان از او خشنود. این [پاداش] برای کسی است که از پروردگارش بترسد.</p>
 
 <p class='left-to-right'><span class="translation-title">English</span>Their reward with their Lord will be gardens of perpetual residence beneath which rivers flow, wherein they will abide forever. Allah is pleased with them, and they are pleased with Him — that is for whoever has feared his Lord.</p>
-
-<p class='left-to-right'><span class="translation-title left-to-right">Transliteration</span>Jazā’uhum ʿinda rabbihim jannātu ʿadnin tajrī min taḥtihā al-anhāru khālidīna fīhā abadan, raḍiya Allāhu ʿanhum wa raḍū ʿanhu, dhālika liman khashiya rabbah</p>
 <div class='adad-row'>
     <div class='total-qamari-span'><span class="translation-title">قمري عدد</span> <strong class='total-value'>7978</strong></div>
     <div class='total-bayenati-span'><span class="translation-title">باطني عدد</span> <strong class='total-value'>2739</strong></div>
@@ -2813,18 +2801,20 @@ input:checked+.slider:before {
 
 </div>
 
-<div class="grand-total">
-    <div class='qamari-grand-total surah-adad-sum'>
-        <h3>مجموع القمري</h3>
-        <p><strong>28085</strong></p>
-    </div>
-    <div class='batini-grand-total surah-adad-sum'>
-        <h3>مجموع الباطني</h3>
-        <p><strong>15356</strong></p>
-    </div>
-    <div class='malfuzi-grand-total surah-adad-sum'>
-        <h3>مجموع الملفوظي</h3>
-        <p><strong>43441</strong></p>
+<div class="translations">
+    <div class="adad-row grand-total">
+        <div class='total-qamari-span'>
+            <span class="translation-title">مجموع القمري</span>
+            <strong class="total-value">28085</strong>
+        </div>
+        <div class='total-bayenati-span'>
+            <span class="translation-title">مجموع الباطني</span>
+            <strong class="total-value">15356</strong>
+        </div>
+        <div class='total-malfuzi-span'>
+            <span class="translation-title">مجموع الملفوظي</span>
+            <strong class="total-value">43441</strong>
+        </div>
     </div>
 </div>
 

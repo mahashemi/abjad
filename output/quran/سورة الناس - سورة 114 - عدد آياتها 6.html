@@ -6,7 +6,7 @@
     <title>Al-Quran سورة الناس -- Abjad-e-Qamari -- Faiz-e-Hussaini</title>
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Amiri:wght@400;700&family=Scheherazade+New:wght@400;700&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Amiri+Quran&family=Gulzar&display=swap');
 :root {
     --primary-color: #26572a;
     --secondary-color: #500000;
@@ -264,10 +264,11 @@ h2 {
 
 .grand-total {
     text-align: center;
-    background-color: var(--verse-bg);
+    background-color: var(--verse-bg) !important;
     border-radius: 10px;
     border: 2px solid var(--border-color);
     box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+    padding: 10px 0px;
 }
 
 .right-to-left {
@@ -293,7 +294,7 @@ table {
 
 .translations p,
 .translations div {
-    padding: 15px;
+    padding: 16px 8px 10px 8px;
     border: 1px solid var(--border-color);
     border-radius: 8px;
     margin: auto;
@@ -388,15 +389,16 @@ th {
     width: max-content;
     display: inline-block;
     box-shadow: 0 0 4px #bebebe;
+    min-width: 85px;
 }
 
 .translations {
-    background-color: rgba(249, 246, 240, 0.7);
+    /* background-color: rgba(249, 246, 240, 0.7); */
     border-radius: 0 0 8px 8px;
-    font-size: 26px;
+    font-size: 22px;
     padding: 2px;
     margin-top: 10px;
-    border-top: 1px solid var(--border-color);
+    /* border-top: 1px solid var(--border-color); */
 }
 
 .adad-row {
@@ -440,24 +442,6 @@ th {
     box-shadow: 0 5px 20px rgba(0, 0, 0, 0.2);
     border: 2px solid var(--border-color);
 }
-
-/* 
-.surah_header::before,
-.surah_header::after {
-    content: "۩";
-    font-size: 32px;
-    color: var(--secondary-color);
-    position: absolute;
-    top: 0;
-}
-
-.surah_header::before {
-    right: 20px;
-}
-
-.surah_header::after {
-    left: 20px;
-} */
 
 .letter-value-row {
     font-size: 8px;
@@ -614,6 +598,10 @@ input:checked+.slider:before {
     padding-bottom: 10px;
 }
 
+.arabic-font {
+    font-family: 'Amiri Quran';
+}
+
 /* Mobile responsive design */
 @media screen and (max-width: 768px) {
 
@@ -647,7 +635,7 @@ input:checked+.slider:before {
     }
 
     .total-value {
-        font-size: 28px;
+        font-size: 24px;
     }
 
     .toggle-panel {
@@ -902,7 +890,7 @@ input:checked+.slider:before {
     
 <div class="verse-container">
     <div class="original-text">
-        <p class="arabic-text">قُلْ اَعُوذُ بِرَبِّ النَّاسِ <span class='ayah-marker'>1</span></p>
+        <p class="arabic-text arabic-font">قُلْ اَعُوذُ بِرَبِّ النَّاسِ <span class='ayah-marker'>1</span></p>
     </div>
 </div>
 
@@ -957,7 +945,7 @@ input:checked+.slider:before {
 <td class="light-letter-left-border">111</td>
 <td class="dark-letter-left-border">120</td>
 </tr>
-<tr class="word-row">
+<tr class="word-row arabic-font">
 <td colspan=2>قُلْ</td>
 <td colspan=4>اَعُوذُ</td>
 <td colspan=3>بِرَبِّ</td>
@@ -982,13 +970,13 @@ input:checked+.slider:before {
     
 <div class="translations">
 
+<p class='left-to-right'><span class="translation-title left-to-right">Transliteration</span>Qul a‘ūdhu bi-rabbi-n-nās</p>
+
 <p class='right-to-left'><span class="translation-title">اردو</span>اے لوگوں کے پروردگار کی پناہ مانگتا ہوں</p>
 
 <p class='right-to-left'><span class="translation-title">فارسی</span>بگو پناه می‌برم به پروردگار مردمان</p>
 
 <p class='left-to-right'><span class="translation-title">English</span>Say, I seek refuge in the Lord of mankind,</p>
-
-<p class='left-to-right'><span class="translation-title left-to-right">Transliteration</span>Qul a‘ūdhu bi-rabbi-n-nās</p>
 <div class='adad-row'>
     <div class='total-qamari-span'><span class="translation-title">قمري عدد</span> <strong class='total-value'>1253</strong></div>
     <div class='total-bayenati-span'><span class="translation-title">باطني عدد</span> <strong class='total-value'>710</strong></div>
@@ -1003,7 +991,7 @@ input:checked+.slider:before {
     
 <div class="verse-container">
     <div class="original-text">
-        <p class="arabic-text">مَلِكِ النَّاسِ <span class='ayah-marker'>2</span></p>
+        <p class="arabic-text arabic-font">مَلِكِ النَّاسِ <span class='ayah-marker'>2</span></p>
     </div>
 </div>
 
@@ -1040,7 +1028,7 @@ input:checked+.slider:before {
 <td class="light-letter-left-border">111</td>
 <td class="dark-letter-left-border">120</td>
 </tr>
-<tr class="word-row">
+<tr class="word-row arabic-font">
 <td colspan=3>مَلِكِ</td>
 <td colspan=5>النَّاسِ</td>
 </tr>
@@ -1059,13 +1047,13 @@ input:checked+.slider:before {
     
 <div class="translations">
 
+<p class='left-to-right'><span class="translation-title left-to-right">Transliteration</span>Maliki-n-nās</p>
+
 <p class='right-to-left'><span class="translation-title">اردو</span>اے لوگوں کے بادشاہ کی پناہ مانگتا ہوں</p>
 
 <p class='right-to-left'><span class="translation-title">فارسی</span>به پادشاه مردمان</p>
 
 <p class='left-to-right'><span class="translation-title">English</span>The Sovereign of mankind,</p>
-
-<p class='left-to-right'><span class="translation-title left-to-right">Transliteration</span>Maliki-n-nās</p>
 <div class='adad-row'>
     <div class='total-qamari-span'><span class="translation-title">قمري عدد</span> <strong class='total-value'>232</strong></div>
     <div class='total-bayenati-span'><span class="translation-title">باطني عدد</span> <strong class='total-value'>549</strong></div>
@@ -1080,7 +1068,7 @@ input:checked+.slider:before {
     
 <div class="verse-container">
     <div class="original-text">
-        <p class="arabic-text">اِلٰهِ النَّاسِ <span class='ayah-marker'>3</span></p>
+        <p class="arabic-text arabic-font">اِلٰهِ النَّاسِ <span class='ayah-marker'>3</span></p>
     </div>
 </div>
 
@@ -1117,7 +1105,7 @@ input:checked+.slider:before {
 <td class="light-letter-left-border">111</td>
 <td class="dark-letter-left-border">120</td>
 </tr>
-<tr class="word-row">
+<tr class="word-row arabic-font">
 <td colspan=3>اِلٰهِ</td>
 <td colspan=5>النَّاسِ</td>
 </tr>
@@ -1136,13 +1124,13 @@ input:checked+.slider:before {
     
 <div class="translations">
 
+<p class='left-to-right'><span class="translation-title left-to-right">Transliteration</span>Ilāhi-n-nās</p>
+
 <p class='right-to-left'><span class="translation-title">اردو</span>اے لوگوں کے معبود کی پناہ مانگتا ہوں</p>
 
 <p class='right-to-left'><span class="translation-title">فارسی</span>به معبود مردمان</p>
 
 <p class='left-to-right'><span class="translation-title">English</span>The God of mankind,</p>
-
-<p class='left-to-right'><span class="translation-title left-to-right">Transliteration</span>Ilāhi-n-nās</p>
 <div class='adad-row'>
     <div class='total-qamari-span'><span class="translation-title">قمري عدد</span> <strong class='total-value'>178</strong></div>
     <div class='total-bayenati-span'><span class="translation-title">باطني عدد</span> <strong class='total-value'>529</strong></div>
@@ -1157,7 +1145,7 @@ input:checked+.slider:before {
     
 <div class="verse-container">
     <div class="original-text">
-        <p class="arabic-text">مِن شَرِّ الْوَسْوَاسِ الْخَنَّاسِ <span class='ayah-marker'>4</span></p>
+        <p class="arabic-text arabic-font">مِن شَرِّ الْوَسْوَاسِ الْخَنَّاسِ <span class='ayah-marker'>4</span></p>
     </div>
 </div>
 
@@ -1221,7 +1209,7 @@ input:checked+.slider:before {
 <td class="light-letter-left-border">111</td>
 <td class="dark-letter-left-border">120</td>
 </tr>
-<tr class="word-row">
+<tr class="word-row arabic-font">
 <td colspan=2>مِن</td>
 <td colspan=2>شَرِّ</td>
 <td colspan=7>الْوَسْوَاسِ</td>
@@ -1246,13 +1234,13 @@ input:checked+.slider:before {
     
 <div class="translations">
 
+<p class='left-to-right'><span class="translation-title left-to-right">Transliteration</span>Min sharri-l-waswāsi-l-khannās</p>
+
 <p class='right-to-left'><span class="translation-title">اردو</span>بدی وسوسہ‌گرِ خناس کی</p>
 
 <p class='right-to-left'><span class="translation-title">فارسی</span>از شر وسوسه‌گر نهان</p>
 
 <p class='left-to-right'><span class="translation-title">English</span>From the evil of the whisperer who withdraws,</p>
-
-<p class='left-to-right'><span class="translation-title left-to-right">Transliteration</span>Min sharri-l-waswāsi-l-khannās</p>
 <div class='adad-row'>
     <div class='total-qamari-span'><span class="translation-title">قمري عدد</span> <strong class='total-value'>1496</strong></div>
     <div class='total-bayenati-span'><span class="translation-title">باطني عدد</span> <strong class='total-value'>940</strong></div>
@@ -1267,7 +1255,7 @@ input:checked+.slider:before {
     
 <div class="verse-container">
     <div class="original-text">
-        <p class="arabic-text">الَّذِي يُوَسْوِسُ فِي صُدُورِ النَّاسِ <span class='ayah-marker'>5</span></p>
+        <p class="arabic-text arabic-font">الَّذِي يُوَسْوِسُ فِي صُدُورِ النَّاسِ <span class='ayah-marker'>5</span></p>
     </div>
 </div>
 
@@ -1340,7 +1328,7 @@ input:checked+.slider:before {
 <td class="light-letter-left-border">111</td>
 <td class="dark-letter-left-border">120</td>
 </tr>
-<tr class="word-row">
+<tr class="word-row arabic-font">
 <td colspan=4>الَّذِي</td>
 <td colspan=5>يُوَسْوِسُ</td>
 <td colspan=2>فِي</td>
@@ -1368,13 +1356,13 @@ input:checked+.slider:before {
     
 <div class="translations">
 
+<p class='left-to-right'><span class="translation-title left-to-right">Transliteration</span>Alladhī yuwaswisu fī ṣudūri-n-nās</p>
+
 <p class='right-to-left'><span class="translation-title">اردو</span>جو (انسانوں کے) سینوں میں وسوسے ڈالتا ہے</p>
 
 <p class='right-to-left'><span class="translation-title">فارسی</span>آن که در سینه‌های مردم وسوسه می‌کند</p>
 
 <p class='left-to-right'><span class="translation-title">English</span>Who whispers in the breasts of mankind,</p>
-
-<p class='left-to-right'><span class="translation-title left-to-right">Transliteration</span>Alladhī yuwaswisu fī ṣudūri-n-nās</p>
 <div class='adad-row'>
     <div class='total-qamari-span'><span class="translation-title">قمري عدد</span> <strong class='total-value'>1415</strong></div>
     <div class='total-bayenati-span'><span class="translation-title">باطني عدد</span> <strong class='total-value'>741</strong></div>
@@ -1389,7 +1377,7 @@ input:checked+.slider:before {
     
 <div class="verse-container">
     <div class="original-text">
-        <p class="arabic-text">مِنَ الْجِنَّةِ وَ النَّاسِ <span class='ayah-marker'>6</span></p>
+        <p class="arabic-text arabic-font">مِنَ الْجِنَّةِ وَ النَّاسِ <span class='ayah-marker'>6</span></p>
     </div>
 </div>
 
@@ -1441,7 +1429,7 @@ input:checked+.slider:before {
 <td class="light-letter-left-border">111</td>
 <td class="dark-letter-left-border">120</td>
 </tr>
-<tr class="word-row">
+<tr class="word-row arabic-font">
 <td colspan=2>مِنَ</td>
 <td colspan=5>الْجِنَّةِ</td>
 <td colspan=1>وَ</td>
@@ -1466,13 +1454,13 @@ input:checked+.slider:before {
     
 <div class="translations">
 
+<p class='left-to-right'><span class="translation-title left-to-right">Transliteration</span>Minal-jinnati wann-naas</p>
+
 <p class='right-to-left'><span class="translation-title">اردو</span>چاہے وہ جنوں میں سے ہو یا انسانوں میں سے</p>
 
 <p class='right-to-left'><span class="translation-title">فارسی</span>چه از جن و چه از مردم</p>
 
 <p class='left-to-right'><span class="translation-title">English</span>Among jinn and among mankind</p>
-
-<p class='left-to-right'><span class="translation-title left-to-right">Transliteration</span>Minal-jinnati wann-naas</p>
 <div class='adad-row'>
     <div class='total-qamari-span'><span class="translation-title">قمري عدد</span> <strong class='total-value'>327</strong></div>
     <div class='total-bayenati-span'><span class="translation-title">باطني عدد</span> <strong class='total-value'>748</strong></div>
@@ -1483,18 +1471,20 @@ input:checked+.slider:before {
 
 </div>
 
-<div class="grand-total">
-    <div class='qamari-grand-total surah-adad-sum'>
-        <h3>مجموع القمري</h3>
-        <p><strong>4901</strong></p>
-    </div>
-    <div class='batini-grand-total surah-adad-sum'>
-        <h3>مجموع الباطني</h3>
-        <p><strong>4217</strong></p>
-    </div>
-    <div class='malfuzi-grand-total surah-adad-sum'>
-        <h3>مجموع الملفوظي</h3>
-        <p><strong>9118</strong></p>
+<div class="translations">
+    <div class="adad-row grand-total">
+        <div class='total-qamari-span'>
+            <span class="translation-title">مجموع القمري</span>
+            <strong class="total-value">4901</strong>
+        </div>
+        <div class='total-bayenati-span'>
+            <span class="translation-title">مجموع الباطني</span>
+            <strong class="total-value">4217</strong>
+        </div>
+        <div class='total-malfuzi-span'>
+            <span class="translation-title">مجموع الملفوظي</span>
+            <strong class="total-value">9118</strong>
+        </div>
     </div>
 </div>
 

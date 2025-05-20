@@ -266,7 +266,7 @@ def create_word_letter_value_tables(word_breakdown: List[AbjadResult], show_lett
                         raise ex
             table_html += '</tr>\n'
         ###    
-        table_html += '<tr class="word-row">\n'
+        table_html += '<tr class="word-row arabic-font">\n'
         for word in chunk:
             if word.cleaned_text.strip():
                 table_html += f'<td colspan={len(word.breakdown)}>{word.original_text}</td>\n'
