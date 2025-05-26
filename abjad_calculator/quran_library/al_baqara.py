@@ -1,11 +1,11 @@
 ayats = [
     {
-        "verse_number": 1,
         "arabic_text": "الم",
-        "urdu_text": "الم",
-        "persian_text": "الم",
-        "english_text": "Alif, Lam, Meem",
-        "transliteration": "Alif-Lām-Mīm",
+        "urdu_text": "الف، لام، میم",
+        "persian_text": "الف، لام، میم",
+        "english_text": "Alif, Lam, Meem.",
+        "transliteration": "Alif, Laam, Meem",
+        "verse_number": 1,
     },
     {
         "verse_number": 2,
