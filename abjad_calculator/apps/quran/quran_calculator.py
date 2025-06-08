@@ -4,6 +4,7 @@ quran.py Functions for Quranic verse calculation.
 
 import json
 import os
+import re
 from typing import List
 from dataclasses import asdict
 from ...common.model import AbjadResult, LetterBreakdown
@@ -94,6 +95,7 @@ def process_multiple_verses(
     surat_name = surat_number_name_verse_count.split("-")[0].strip()
     surat_verse_count = surat_number_name_verse_count.split("-")[2].strip().replace('عدد','')
 
+    surah_digit = re.findall(r"\d+", surat_number)[0]
 
 
     quran_html = quran_html_template_start
@@ -141,7 +143,7 @@ def process_multiple_verses(
 
         # Main content for the verse
         content_html = f"""
-<div class="verse-container">
+<div class="verse-container" id="ayat-s{surah_digit}-a{verse_number}">
     <div class="original-text">
         <p class="arabic-text arabic-font">{result_verse.original_text} <span class='ayah-marker'>{verse_number}</span></p>
     </div>
@@ -149,13 +151,13 @@ def process_multiple_verses(
 """
 
         verse_calculation_html = f"""
-<div class="calculation">
+<div class="calculation" id="calc-s{surah_digit}-a{verse_number}">
     {word_abjad_tables_html}
 </div>
 """
 
-        translations_html = """
-<div class="translations">
+        translations_html = f"""
+<div class="translations" id="tran-s{surah_digit}-a{verse_number}">
 """
 
         if transliteration:
@@ -179,7 +181,7 @@ def process_multiple_verses(
 """
 
         if result_verse.total_qamari_value:
-            translations_html += f"""<div class='adad-row'>
+            translations_html += f"""<div class="adad-row" id="adad-s{surah_digit}-a{verse_number}">
     <div class='total-qamari-span'><span class="translation-title">قمري عدد</span> <strong class='total-value'>{result_verse.total_qamari_value}</strong></div>
     <div class='total-bayenati-span'><span class="translation-title">باطني عدد</span> <strong class='total-value'>{result_verse.total_bayenati_value}</strong></div>
     <div class='total-malfuzi-span'><span class="translation-title">ملفوظي عدد</span> <strong class='total-value'>{result_verse.total_malfuzi_value}</strong></div>
