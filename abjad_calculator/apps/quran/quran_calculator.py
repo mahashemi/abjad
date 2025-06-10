@@ -7,6 +7,8 @@ import os
 import re
 from typing import List
 from dataclasses import asdict
+
+from ...common.constants import BREAK_CHARS
 from ...common.model import AbjadResult, LetterBreakdown
 from ...common.core import calculate_abjad
 from ...common.display import (
@@ -68,6 +70,11 @@ def calculate_quranic_verse(
 
     return html_output
 
+def get_aya_with_styled_interim_aya_markers(aya: str) -> str:
+    for char in BREAK_CHARS:
+        char = char.strip()
+        aya = aya.replace(char, f"<span class='aya-interim-marker'> {char} </span>")
+    return aya
 
 def process_multiple_verses(
     bismillah,
@@ -142,10 +149,11 @@ def process_multiple_verses(
         # title = f"آية "
 
         # Main content for the verse
+        verse_original_text = get_aya_with_styled_interim_aya_markers(result_verse.original_text)
         content_html = f"""
 <div class="verse-container" id="ayat-s{surah_digit}-a{verse_number}">
     <div class="original-text">
-        <p class="arabic-text arabic-font">{result_verse.original_text} <span class='ayah-marker'>{verse_number}</span></p>
+        <p class="arabic-text arabic-font">{verse_original_text} <span class='ayah-marker'>{verse_number}</span></p>
     </div>
 </div>
 """
