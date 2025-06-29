@@ -69,7 +69,7 @@ REMOVE_CHARS = [
 ]
 
 BREAK_CHARS = [
-    ' ۙ', ' ۚ'
+    ' ۙ', ' ۚ',' ۘ'
 ]
 
 
