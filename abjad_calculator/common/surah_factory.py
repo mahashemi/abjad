@@ -36,6 +36,8 @@ from ..quran_library import (
     al_abas,
     al_naziyat,
     al_naba,
+    al_anaam,
+    al_maida,
     al_nisa,
     al_imran,
     al_baqara,
@@ -46,6 +48,8 @@ surah_fatiha_title = "سورة الفاتحة - سورة 1 - عدد آياتها
 surah_al_baqara_title = "سورة البقرة - سورة 2 - عدد آياتها 286".strip()
 surah_al_imran_title = "سورة آل عمران - سورة 3 - عدد آياتها 200".strip()
 surah_al_nisa_title = "سورة النساء - سورة 4 - عدد آياتها 176".strip()
+surah_al_maida_title = "سورة المائدة - سورة 5 - عدد آياتها 120".strip()
+surah_al_anaam_title = "سورة الأنعام - سورة 6 - عدد آياتها 165".strip()
 surah_qalam_title = "سورة القلم - سورة 68 - عدد آياتها 52 ".strip()
 surah_al_naba_title = "سورة النبا - سورة 78 - عدد آياتها 40".strip()
 surah_al_naziyat_title = "سورة النٰزعٰت - سورة 79 - عدد آياتها 46".strip()
@@ -90,6 +94,8 @@ quran = {
     surah_al_baqara_title: al_baqara.ayats,
     surah_al_imran_title: al_imran.ayats,
     surah_al_nisa_title: al_nisa.ayats,
+    surah_al_maida_title: al_maida.ayats,
+    surah_al_anaam_title: al_anaam.ayats,
     surah_al_naba_title: al_naba.ayats,
     surah_al_naziyat_title: al_naziyat.ayats,
     surah_al_abas_title: al_abas.ayats,
