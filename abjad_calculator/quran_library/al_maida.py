@@ -32,7 +32,7 @@ ayats = [
         "verse_number": "4",
     },
     {
-        "arabic_text": "الْيَوْمَ اُحِلَّ لَكُمُ الطَّيِّبٰتُ   وَ طَعَامُ الَّذِيْنَ اُوْتُوْا الْكِتٰبَ حِلٌّ لَّكُمْ وَ طَعَامُكُمْ حِلٌّ لَّهُمْ   وَالْمُحْصَنَاتُ مِنَ الْمُؤْمِنَاتِ وَالْمُحْصَنَاتُ مِنَ الَّذِيْنَ اُوْتُوْا الْكِتٰبَ مِن قَبْلِكُمْ اِذَا آتَيْتُمُوْهُنَّ اُجُوْرَهُنَّ مُحْصِنِيْنَ غَيْرَ مُسَافِحِيْنَ وَ لَا مُتَّخِذِىٓ اَخْدَانٍ  وَ مَن يَكْفُرْ بِالْاِيْمَانِ فَقَدْ حَبِطَ عَمَلُهُ وَ هُوَ فِىْ الْاٰخِرَةِ مِنَ الْخٰسِرِيْنَ",
+        "arabic_text": "الْيَوْمَ اُحِلَّ لَكُمُ الطَّيِّبٰتُ   وَ طَعَامُ الَّذِيْنَ اُوْتُوْا الْكِتٰبَ حِلٌّ لَّكُمْ وَ طَعَامُكُمْ حِلٌّ لَّهُمْ   وَ الْمُحْصَنٰتُ مِنَ الْمُؤْمِنٰتِ وَ الْمُحْصَنٰتُ مِنَ الَّذِيْنَ اُوْتُوْا الْكِتٰبَ مِن قَبْلِكُمْ اِذَا آتَيْتُمُوْهُنَّ اُجُوْرَهُنَّ مُحْصِنِيْنَ غَيْرَ مُسٰفِحِيْنَ وَ لَا مُتَّخِذِىٓ اَخْدَانٍ  وَ مَن يَكْفُرْ بِالْاِيْمَانِ فَقَدْ حَبِطَ عَمَلُهُ وَ هُوَ فِىْ الْاٰخِرَةِ مِنَ الْخٰسِرِيْنَ",
         "urdu_text": "آج تمہارے لیے پاکیزہ چیزیں حلال کر دی گئی ہیں۔ اور اہلِ کتاب کا کھانا تمہارے لیے حلال ہے، اور تمہارا کھانا ان کے لیے حلال ہے۔ اور پاکدامن مسلمان عورتیں اور وہ پاکدامن عورتیں جو تم سے پہلے کتاب دیے گئے لوگوں میں سے ہیں، (تمہارے لیے حلال ہیں) جب تم انہیں ان کے مہر دے دو، نکاح کے طور پر، نہ کہ بدکاری کے لیے اور نہ ہی چوری چھپے دوستی کے لیے۔ اور جو ایمان سے انکار کرے، اس کا عمل ضائع ہو گیا، اور وہ آخرت میں نقصان اٹھانے والوں میں ہوگا۔",
         "persian_text": "امروز چیزهای پاکیزه برای شما حلال شده‌اند. و غذای اهل کتاب برای شما حلال است و غذای شما نیز برای آنان حلال است. و زنان پاکدامن از مسلمانان و زنان پاکدامن از اهل کتابی که پیش از شما آمده‌اند، در صورتی که مهرشان را به ایشان بدهید در حالیکه عفت‌پیشه باشید نه زناکار و نه پنهانی دوست‌گیرنده. و کسی که به ایمان کفر ورزد، قطعاً عملش تباه شده و او در آخرت از زیانکاران خواهد بود.",
         "english_text": "This day [all] good foods have been made lawful for you. And the food of those who were given the Scripture is lawful for you, and your food is lawful for them. And [lawful in marriage are] chaste women from among the believers and chaste women from among those who were given the Scripture before you, when you have given them their due compensation, desiring chastity, not unlawful sexual intercourse or taking them as mistresses. And whoever denies the faith - his work has become worthless, and he, in the Hereafter, will be among the losers.",
@@ -798,14 +798,6 @@ ayats = [
         "persian_text": "بگو: ناپاک و پاک برابر نیستند، هرچند زیادی ناپاک تو را به شگفت آورد. پس ای خردمندان، از خدا پروا کنید تا رستگار شوید.",
         "english_text": "Say, 'Not equal are the evil and the good, although the abundance of evil might impress you.' So fear Allah, O you of understanding, that you may be successful.",
         "transliteration": "Qul lā yastawī al-khabīthu wa al-ṭayyibu wa law a‘jabaka kathratu al-khabīth fa-ittaqullāha yā ulī al-albābi la‘allakum tufliḥūn",
-    },
-    {
-        "arabic_text": "قُلْ لَا يَسْتَوِي الْخَبِيثُ وَالطَّيِّبُ وَلَوْ اَعْجَبَكَ كَثْرَةُ الْخَبِيثِ ۚ فَاتَّقُوا اللّٰهَ يَا اُولِي الْاَلْبَابِ لَعَلَّكُمْ تُفْلِحُونَ",
-        "urdu_text": "کہہ دیجیے! ناپاک اور پاک برابر نہیں ہو سکتے اگرچہ ناپاک کی کثرت تمہیں تعجب میں ڈال دے۔ پس اے عقل والو! اللہ سے ڈرتے رہو تاکہ تم فلاح پاؤ۔",
-        "persian_text": "بگو: ناپاک و پاک برابر نیستند، هرچند فزونی ناپاک تو را به شگفت آورد. پس ای خردمندان، از خدا پروا کنید تا رستگار شوید.",
-        "english_text": "Say: The impure and the pure are not equal, even though the abundance of the impure may impress you. So fear Allah, O people of understanding, so that you may succeed.",
-        "transliteration": "Qul lā yastawī al-khabīthu wa al-ṭayyibu wa law a‘jabaka kathratu al-khabīthi fa-ittaqullāha yā ulī al-albābi la‘allakum tufliḥūn.",
-        "verse_number": "100",
     },
     {
         "arabic_text": "يٰٓاَيُّهَا الَّذِيْنَ اٰمَنُوْا لَا تَسْاَلُوا عَنْ اَشْيَاءَ اِنْ تُبْدَ لَكُمْ تَسُؤْكُمْ   وَاِنْ تَسْاَلُوا عَنْهَا حِينَ يُنَزَّلُ الْقُرْآنُ تُبْدَ لَكُمْ ۚ عَفَا اللّٰهُ عَنْهَا  وَاللّٰهُ غَفُوْرٌ حَلِيمٌ",
