@@ -165,7 +165,7 @@ ayats = [
         "persian_text": "ای قوم من! به سرزمینی مقدس که خدا برای شما مقرر کرده وارد شوید و به عقب برنگردید که زیانکار خواهید شد.",
         "english_text": "O my people! Enter the Holy Land which Allah has assigned to you and do not turn back, or you will become losers.",
         "transliteration": "Yā qawmi udkhulū al-arḍa al-muqaddasata allatī kataba allāhu lakum wa-lā tartaddū ʿalā adbārikum fatanqalibū khāsirīn",
-        "verse_number": "Surah Al-Ma'idah, 21",
+        "verse_number": "21",
     },
     {
         "arabic_text": "قَالُوا يٰمُوسٰٓى اِنَّ فِيْهَا قَوْمًا جَبَّارِيْنَ وَ اِنَّا لَنْ نَدْخُلَهَا حَتّٰى يَخْرُجُوْا مِنْهَا فَاِنْ يَخْرُجُوْا مِنْهَا فَاِنَّا دٰخِلُوْنَ",
@@ -173,7 +173,7 @@ ayats = [
         "persian_text": "گفتند: ای موسی! در آن سرزمین قومی زورمند هستند و ما هرگز وارد آن نخواهیم شد تا زمانی که آن‌ها از آن خارج شوند. اگر بیرون روند، ما وارد خواهیم شد.",
         "english_text": "They said, 'O Moses! Indeed, there is a powerful people in it. We will never enter it until they leave it. If they leave it, then we will enter.'",
         "transliteration": "Qālū yā Mūsā inna fīhā qawman jabbārīna wa-innā lan nadkhulahā ḥattā yakhrujū minhā fa-in yakhrujū minhā fa-innā dākhilūn",
-        "verse_number": "Surah Al-Ma'idah, 22",
+        "verse_number": "22",
     },
     {
         "arabic_text": "قَالَ رَجُلٰنِ مِنَ الَّذِيْنَ يَخَافُونَ اَنْعَمَ اللّٰهُ عَلَيْهِمَا ادْخُلُوا عَلَيْهِمُ الْبَابَ   فَاِذَا دَخَلْتُمُوْهُ فَاِنَّكُمْ غَالِبُونَ  وَ عَلَى اللّٰهِ فَتَوَكَّلُوْٓا اِنْ كُنْتُمْ مُؤْمِنِيْنَ",
@@ -181,7 +181,7 @@ ayats = [
         "persian_text": "دو نفر از کسانی که خدا به آن‌ها نعمت داده بود گفتند: از دروازه بر آن‌ها وارد شوید، و هنگامی که داخل شدید قطعاً پیروز خواهید شد. و اگر ایمان دارید، بر خدا توکل کنید.",
         "english_text": "Two men from among those who feared (Allah) and were favored by Him said, 'Enter upon them through the gate. Once you have entered it, you will surely be victorious. And put your trust in Allah if you are believers.'",
         "transliteration": "Qāla rajulāni mina alladhīna yakhāfūna anʿama allāhu ʿalayhimā udkhulū ʿalayhimu al-bāba fa-idhā dakhaltumūhu fa-innakum ghālibūna wa ʿalā allāhi fatawakkalū in kuntum muʾminīn",
-        "verse_number": "Surah Al-Ma'idah, 23",
+        "verse_number": "23",
     },
     {
         "arabic_text": "قَالُوا يٰمُوسٰٓى اِنَّا لَنْ نَدْخُلَهَآ اَبَدًا مَّا دَامُوا فِىْهَا فَاذْهَبْ اَنْتَ وَ رَبُّكَ فَقَاتِلَا اِنَّا هٰهُنَا قَاعِدُوْنَ",
@@ -189,7 +189,7 @@ ayats = [
         "persian_text": "گفتند: ای موسی! تا زمانی که آنان در آن سرزمین هستند ما هرگز وارد آن نخواهیم شد، پس تو و پروردگارت بروید و بجنگید، ما در اینجا می‌نشینیم.",
         "english_text": "They said, 'O Moses! We will never enter it as long as they are there. So go, you and your Lord, and fight. We will sit here.'",
         "transliteration": "Qālū yā Mūsā innā lan nadkhulahā abadan mā dāmū fīhā fa-idhhab anta wa-rabbuka faqātilā innā hāhunā qāʿidūn",
-        "verse_number": "Surah Al-Ma'idah, 24",
+        "verse_number": "24",
     },
     {
         "arabic_text": "قَالَ رَبِّ اِنِّى لَآ اَمْلِكُ اِلَّا نَفْسِىْ وَ اَخِىْ فَافْرُقْ بَيْنَنَا وَ بَيْنَ الْقَوْمِ الْفٰسِقِيْنَ",
@@ -197,7 +197,7 @@ ayats = [
         "persian_text": "گفت: پروردگارا! من اختیارى جز بر خود و برادرم ندارم، پس میان ما و قوم نافرمان جدايى بيفكن.",
         "english_text": "He said, 'My Lord! I have no control over anyone except myself and my brother, so set us apart from the rebellious people.'",
         "transliteration": "Qāla rabbi innī lā amliku illā nafsī wa-akhī fafruq baynanā wa-bayna al-qawmi al-fāsiqīn",
-        "verse_number": "Surah Al-Ma'idah, 25",
+        "verse_number": "25",
     },
     {
         "arabic_text": "قَالَ فَاِنَّهَا مُحَرَّمَةٌ عَلَيْهِمْ اَرْبَعِيْنَ سَنَةً  ۚ يَتِيْهُوْنَ فِىْ الْاَرْضِ فَلَا تَاْسَ عَلَى الْقَوْمِ الْفٰسِقِيْنَ",
@@ -205,23 +205,23 @@ ayats = [
         "persian_text": "فرمود: آن سرزمین تا چهل سال بر آن‌ها حرام است. در این مدت در زمین سرگردان خواهند بود، پس بر قوم نافرمان تأسف مخور.",
         "english_text": "He said, 'Then indeed, it is forbidden to them for forty years, while they will wander throughout the land. So do not grieve over the rebellious people.'",
         "transliteration": "Qāla fa-innahā muḥarramatun ʿalayhim arbaʿīna sanatan yatīhūna fī al-arḍi fa-lā taʾsa ʿalā al-qawmi al-fāsiqīn",
-        "verse_number": "Surah Al-Ma'idah, 26",
+        "verse_number": "26",
     },
     {
-        "arabic_text": "وَ اتْلُ عَلَيْهِمْ نَبَاَ ابْنَىْ اٰدَمَ بِالْحَقِّ اِذْ قَرَّبَا قُرْبَانًا فَتُقُبِّلَ مِنْ اَحَدِهِمَا وَ لَمْ يُتَقَبَّلْ مِنَ الْاٰخَرِ قَالَ لَاَقْتُلَنَّكَ قَالَ اِنَّمَا يَتَقَبَّلُ اللّٰهُ مِنَ الْمُتَّقِيْنَ",
+        "arabic_text": "وَ اتْلُ عَلَيْهِمْ نَبَاَ ابْنَىْ اٰدَمَ بِالْحَقِّ اِذْ قَرَّبَا قُرْبَانًا فَتُقُبِّلَ مِنْ اَحَدِهِمَا وَ لَمْ يُتَقَبَّلْ مِنَ الْاٰخَرِ  قَالَ لَاَقْتُلَنَّكَ قَالَ اِنَّمَا يَتَقَبَّلُ اللّٰهُ مِنَ الْمُتَّقِيْنَ",
         "urdu_text": "اور انہیں آدم کے دو بیٹوں کا سچا واقعہ سنا جب دونوں نے قربانی کی پس ان میں سے ایک کی قبول ہو گئی اور دوسرے کی قبول نہ ہوئی کہا میں تجھے مار ڈالوں گا کہا الله پرہیزگاروں سے ہی قبول کرتا ہے",
         "persian_text": "و داستان دو فرزند آدم را به‌درستی بر آنان بخوان، هنگامی که قربانی کردند، پس از یکی پذیرفته شد و از دیگری پذیرفته نشد. (یکی) گفت: «قطعاً تو را خواهم کشت»، (دیگری) گفت: «همانا خداوند فقط از پرهیزگاران می‌پذیرد.»",
         "english_text": "And recite to them the story of Adam's two sons in truth, when they both offered a sacrifice, and it was accepted from one of them but was not accepted from the other. He said, 'I will surely kill you.' The other said, 'Indeed, Allah only accepts from the righteous.'",
         "transliteration": "Wa-utlu ʿalayhim nabaʾa ib'nay Ādama bil-ḥaqqi idh qarrabā qurbānan fatuqubbila min aḥadihimā wa-lam yutaqabbal mina al-ākhar qāla la-aqtulannaka qāla innamā yataqabbalu allāhu mina al-muttaqīn",
-        "verse_number": "Surah Al-Ma'idah, 27",
+        "verse_number": "27",
     },
     {
-        "arabic_text": "لَئِنْ بَسَطْتَ اِلَيَّ يَدَكَ لِتَقْتُلَنِي مَا اَنَا بِبَاسِطٍ يَدِيَ اِلَيْكَ لِاَقْتُلَكَ اِنِّي اَخَافُ اللّٰهَ رَبَّ الْعَالَمِينَ",
+        "arabic_text": "لَئِنْ بَسَطْتَ اِلَىَّ يَدَكَ لِتَقْتُلَنِىْ مَآ اَنَا بِبَاسِطٍ يَّدِيَ اِلَيْكَ لِاَقْتُلَكَ اِنِّىْٓ اَخَافُ اللّٰهَ رَبَّ الْعٰلَمِينَ",
         "urdu_text": "اگر تو میرے قتل کے لیے میری طرف ہاتھ بڑھائے گا تو میں تجھ پر ہاتھ نہیں اٹھاؤں گا کہ تجھے قتل کروں بے شک میں الله سے ڈرتا ہوں جو سارے جہانوں کا رب ہے",
         "persian_text": "اگر تو دست به سوی من دراز کنی تا مرا بکشی، من هرگز دست به‌سوی تو دراز نخواهم کرد تا تو را بکشم؛ همانا من از خداوند، پروردگار جهانیان، می‌ترسم.",
         "english_text": "If you stretch your hand toward me to kill me, I will not stretch my hand toward you to kill you. Indeed, I fear Allah, the Lord of the worlds.",
         "transliteration": "La-in basatta ilayya yadaka li-taqtulanī mā anā bibāsiṭin yadiya ilayka li-aqtulaka innī akhāfu Allāha rabba al-ʿālamīn",
-        "verse_number": "Surah Al-Ma'idah, 28",
+        "verse_number": "28",
     },
     {
         "arabic_text": "اِنِّي اُرِيدُ اَنْ تَبُوءَ بِاِثْمِي وَاِثْمِكَ فَتَكُونَ مِنْ اَصْحٰبِ النَّارِ وَذَٰلِكَ جَزَاءُ الظَّالِمِينَ",
@@ -229,7 +229,7 @@ ayats = [
         "persian_text": "من می‌خواهم که تو گناه من و گناه خود را بردوش گیری و از دوزخیان شوی، و این است کیفر ستمکاران.",
         "english_text": "I want you to bear my sin and your sin and become one of the companions of the Fire. That is the recompense of the wrongdoers.",
         "transliteration": "Innī urīdu an tabūʾa bi-ithmī wa-ithmika fatakūna min aṣḥābi al-nār wa-dhālika jazāʾu al-ẓālimīn",
-        "verse_number": "Surah Al-Ma'idah, 29",
+        "verse_number": "29",
     },
     {
         "arabic_text": "فَطَوَّعَتْ لَهُ نَفْسُهُ قَتْلَ اَخِيهِ فَقَتَلَهُ فَاَصْبَحَ مِنَ الْخٰسِرِيْنَ",
@@ -237,7 +237,7 @@ ayats = [
         "persian_text": "پس نفس او، قتل برادرش را در نظرش آراست، و او را کشت و از زیانکاران گردید.",
         "english_text": "Then his soul prompted him to kill his brother, so he killed him and became one of the losers.",
         "transliteration": "Faṭawwaʿat lahu nafsuhu qatla akhīhi faqatalahu fa-aṣbaḥa mina al-khāsirīn",
-        "verse_number": "Surah Al-Ma'idah, 30",
+        "verse_number": "30",
     },
     {
         "arabic_text": "فَبَعَثَ اللّٰهُ غُرَابًا يَبْحَثُ فِىْ الْاَرْضِ لِيُرِيَهُ كَيْفَ يُوَارِي سَوْءَةَ اَخِيهِ ۚ قَالَ يَا وَيْلَتَىٰ اَعَجَزْتُ اَنْ اَكُونَ مِثْلَ هَٰذَا الْغُرَابِ فَاُوَارِيَ سَوْءَةَ اَخِي   فَاَصْبَحَ مِنَ النَّادِمِينَ",
@@ -245,7 +245,7 @@ ayats = [
         "persian_text": "سپس خداوند زاغی را فرستاد که در زمین کاوید، تا به او نشان دهد چگونه جسد برادرش را پنهان کند. گفت: وای بر من! آیا ناتوان بودم که چون این زاغ باشم و جسد برادرم را پنهان کنم؟ آنگاه از پشیمانان شد.",
         "english_text": "Then Allah sent a crow scratching in the ground to show him how to hide the disgrace of his brother. He said, 'Woe to me! Was I not even able to be like this crow and hide my brother’s body?' And he became of the regretful.",
         "transliteration": "Fabaʿatha Allāhu ghurāban yabaḥathu fī al-arḍi liyuriyahu kayfa yuwārī sawʾata akhīhi qāla yā wailatā aʿajaztu an akūna mithla hādhā al-ghurābi fa-uwārīa sawʾata akhī fa-aṣbaḥa mina al-nādimīn",
-        "verse_number": "Surah Al-Ma'idah, 31",
+        "verse_number": "31",
     },
     {
         "arabic_text": "مِنْ اَجْلِ ذَٰلِكَ كَتَبْنَا عَلٰى بَنِي اِسْرَائِيلَ اَنَّهُ مَنْ قَتَلَ نَفْسًا بِغَيْرِ نَفْسٍ اَوْ فَسَادٍ فِىْ الْاَرْضِ فَكَاَنَّمَا قَتَلَ النَّاسَ جَمِيعًا   وَ مَنْ اَحْيَاهَا فَكَاَنَّمَا اَحْيَا النَّاسَ جَمِيعًا ۚ وَلَقَدْ جَاءَتْهُمْ رُسُلُنَا بِالْبَيِّنَاتِ ثُمَّ اِنَّ كَثِيرًا مِنْهُمْ بَعْدَ ذَٰلِكَ فِىْ الْاَرْضِ لَمُسْرِفُونَ",
@@ -253,7 +253,7 @@ ayats = [
         "persian_text": "به همین جهت بر بنی‌اسرائیل مقرر داشتیم که هر کس نفسی را بدون ارتکاب قتل یا فساد در زمین بکشد، چنان است که گویی همه انسان‌ها را کشته است، و هر کس انسانی را زنده کند، چنان است که گویی همه انسان‌ها را زنده کرده است. و هرآینه پیامبران ما با دلایل روشن به سوی آنان آمدند، اما بسیاری از ایشان پس از آن در زمین تجاوز می‌کنند.",
         "english_text": "Because of that, We decreed upon the Children of Israel that whoever kills a soul unless for a soul or for corruption in the land—it is as if he had slain mankind entirely. And whoever saves one—it is as if he had saved mankind entirely. And Our messengers had certainly come to them with clear proofs. Yet even after that, many of them continued to commit excesses in the land.",
         "transliteration": "Min ajli dhālika katabnā ʿalā banī isrāʾīla annahu man qatal nafsan bighayri nafsin aw fasādin fī al-arḍi faka-annamā qatal al-nāsa jamīʿan wa-man aḥyāhā faka-annamā aḥyā al-nāsa jamīʿan wa-laqad jāʾat-hum rusulunā bil-bayyināti thumma inna kathīran minhum baʿda dhālika fī al-arḍi lamus'rifūn",
-        "verse_number": "Surah Al-Ma'idah, 32",
+        "verse_number": "32",
     },
     {
         "arabic_text": "اِنَّمَا جَزَاءُ الَّذِيْنَ يُحَارِبُونَ اللّٰهَ وَرَسُولَهُ وَيَسْعَوْنَ فِىْ الْاَرْضِ فَسَادًا اَنْ يُقَتَّلُوا اَوْ يُصَلَّبُوا اَوْ تُقَطَّعَ اَيْدِيهِمْ وَاَرْجُلُهُم مِّنْ خِلَافٍ اَوْ يُنفَوْا مِنَ الْاَرْضِ ۚ ذَٰلِكَ لَهُمْ خِزْيٌ فِىْ الدُّنْيَا   وَلَهُمْ فِىْ الْاٰخِرَةِ عَذَابٌ عَظِيمٌ",
@@ -261,7 +261,7 @@ ayats = [
         "persian_text": "کیفر کسانی که با خدا و پیامبرش می‌جنگند و در زمین به فساد می‌کوشند، جز این نیست که کشته شوند یا به دار آویخته شوند یا دست و پایشان برخلاف یکدیگر بریده شود یا از سرزمین تبعید گردند؛ این رسوایی آنان در دنیاست، و در آخرت عذابی بزرگ خواهند داشت.",
         "english_text": "Indeed, the penalty for those who wage war against Allah and His Messenger and strive upon earth [to cause] corruption is none but that they be killed or crucified or that their hands and feet be cut off from opposite sides or that they be exiled from the land. That is for them a disgrace in this world, and for them in the Hereafter is a great punishment.",
         "transliteration": "Innamā jazāʾu alladhīna yuḥāribūna Allāha wa-rasūlahu wa-yasʿawna fī al-arḍi fasādan an yuqattalū aw yuṣallabū aw tuqaṭṭaʿa aydīhim wa-arjuluhum min khilāfin aw yunfaw mina al-arḍi dhālika lahum khizyun fī al-dunyā wa-lahum fī al-ākhirati ʿadhābun ʿaẓīm",
-        "verse_number": "Surah Al-Ma'idah, 33",
+        "verse_number": "33",
     },
     {
         "arabic_text": "اِلَّا الَّذِيْنَ تَابُوا مِن قَبْلِ اَن تَقْدِرُوا عَلَيْهِمْ فَاعْلَمُوا اَنَّ اللّٰهَ غَفُوْرٌ رَّحِيْمٌ",
@@ -269,7 +269,7 @@ ayats = [
         "persian_text": "مگر کسانی که پیش از آن‌که بر آنان دست یابید، توبه کنند؛ بدانید که خدا آمرزنده و مهربان است.",
         "english_text": "Except for those who repent before you apprehend them. And know that Allah is Forgiving and Merciful.",
         "transliteration": "Illā alladhīna tābū min qabli an taqdirū ʿalayhim fa-iʿlamū anna Allāha ghafūrun raḥīm",
-        "verse_number": "Surah Al-Ma'idah, 34",
+        "verse_number": "34",
     },
     {
         "arabic_text": "يٰٓاَيُّهَا الَّذِيْنَ اٰمَنُوْا اتَّقُوا اللّٰهَ وَابْتَغُوا اِلَيْهِ الْوَسِيلَةَ وَجَاهِدُوا فِىْ سَبِيلِهِ لَعَلَّكُمْ تُفْلِحُونَ",
@@ -277,7 +277,7 @@ ayats = [
         "persian_text": "ای کسانی که ایمان آورده‌اید! از خدا پروا دارید و به‌سوی او وسیله‌ای بجویید و در راه او جهاد کنید تا رستگار شوید.",
         "english_text": "O you who have believed, fear Allah and seek the means [of nearness] to Him and strive in His cause that you may succeed.",
         "transliteration": "Yā ayyuhā alladhīna āmanū ittaqū Allāha wa-ibtaghū ilayhi al-wasīlata wa-jāhidū fī sabīlihi laʿallakum tufliḥūn",
-        "verse_number": "Surah Al-Ma'idah, 35",
+        "verse_number": "35",
     },
     {
         "arabic_text": "اِنَّ الَّذِيْنَ كَفَرُوْا لَوْ اَنَّ لَهُم مَّا فِىْ الْاَرْضِ جَمِيعًا وَمِثْلَهُ مَعَهُ لِيَفْتَدُوا بِهِ مِنْ عَذَابِ يَوْمِ الْقِيٰمَةِ مَا تُقُبِّلَ مِنْهُمْ وَلَهُمْ عَذَابٌ اَلِيمٌ",
@@ -285,7 +285,7 @@ ayats = [
         "persian_text": "بی‌گمان کسانی که کفر ورزیدند، اگر آنچه در زمین است و همانندش نیز داشته باشند تا خود را از عذاب روز قیامت برهانند، از آنان پذیرفته نخواهد شد و برایشان عذابی دردناک است.",
         "english_text": "Indeed, those who disbelieve—if they should have all that is in the earth and the like of it with it to ransom themselves thereby from the punishment of the Day of Resurrection, it will not be accepted from them, and for them is a painful punishment.",
         "transliteration": "Inna alladhīna kafarū law anna lahum mā fī al-arḍi jamīʿan wa-mithlahu maʿahu liyaftadū bihi min ʿadhābi yawmi al-qiyāmati mā tuqubbila minhum wa-lahum ʿadhābun alīm",
-        "verse_number": "Surah Al-Ma'idah, 36",
+        "verse_number": "36",
     },
     {
         "arabic_text": "يُرِيْدُونَ اَن يَخْرُجُوا مِنَ النَّارِ وَ مَا هُم بِخَارِجِينَ مِنْهَا وَلَهُمْ عَذَابٌ مُّقِيمٌ",
@@ -293,7 +293,7 @@ ayats = [
         "persian_text": "می‌خواهند از آتش بیرون آیند، در حالی که هرگز از آن بیرون نخواهند آمد و برای آنان عذابی پایدار است.",
         "english_text": "They will wish to get out of the Fire, but never are they to emerge therefrom, and for them is an enduring punishment.",
         "transliteration": "Yurīdūna an yakhrujū mina al-nāri wa-mā hum bikhārijīna minhā wa-lahum ʿadhābun muqīm",
-        "verse_number": "Surah Al-Ma'idah, 37",
+        "verse_number": "37",
     },
     {
         "arabic_text": "وَالسَّارِقُ وَالسَّارِقَةُ فَاقْطَعُوا اَيْدِيَهُمَا جَزَاءًۢ بِمَا كَسَبَا نَكَـٰلًاۭ مِّنَ اللّٰهِ  وَاللّٰهُ عَزِيزٌ حَكِيمٌ",
@@ -301,7 +301,7 @@ ayats = [
         "persian_text": "و مرد دزد و زن دزد را، به کیفر آنچه کرده‌اند، دستشان را ببرید؛ این کیفری است از سوی خدا، و خداوند توانا و حکیم است.",
         "english_text": "As to the thief, male or female, cut off their hands: a punishment by way of an example, from Allah, for their crime: and Allah is Exalted in Power, Wise.",
         "transliteration": "Wa-al-sāriqu wa-al-sāriqatu fa-qṭaʿū aydiyahumā jazāʾan bimā kasabā nakālan mina Allāh, wa-Allāhu ʿazīzun ḥakīm",
-        "verse_number": "Surah Al-Ma'idah, 38",
+        "verse_number": "38",
     },
     {
         "arabic_text": "فَمَن تَابَ مِنۢ بَعْدِ ظُلْمِهِۦ وَاَصْلَحَ فَاِنَّ اللّٰهَ يَتُوبُ عَلَيْهِ  اِنَّ اللّٰهَ غَفُوْرٌۭ رَّحِيْمٌ",
@@ -309,7 +309,7 @@ ayats = [
         "persian_text": "پس هر کس پس از ستم‌کردنش توبه کند و اصلاح نماید، خدا توبه‌اش را می‌پذیرد؛ بی‌گمان خدا آمرزنده و مهربان است.",
         "english_text": "But if the thief repents after his crime, and reforms, Allah turneth to him in forgiveness; for Allah is Oft-Forgiving, Most Merciful.",
         "transliteration": "Faman tāba min baʿdi ẓulmihi wa-aṣlaḥa fa-inna Allāha yatūbu ʿalayh; inna Allāha ghafūrun raḥīm",
-        "verse_number": "Surah Al-Ma'idah, 39",
+        "verse_number": "39",
     },
     {
         "arabic_text": "اَلَمْ تَعْلَمْ اَنَّ اللّٰهَ لَهُۥ مُلْكُ السَّمٰوٰتِ وَالْاَرْضِ ۚ يُعَذِّبُ مَن يَشَآءُ وَيَغْفِرُ لِمَن يَشَآءُ  وَاللّٰهُ عَلٰى كُلِّ شَىْءٍۢ قَدِيرٌۭ",
@@ -317,7 +317,7 @@ ayats = [
         "persian_text": "آیا ندانستی که فرمانروایی آسمان‌ها و زمین از آنِ خداست؟ هر که را بخواهد عذاب می‌دهد و هر که را بخواهد می‌بخشد؛ و خداوند بر هر چیزی تواناست.",
         "english_text": "Do you not know that to Allah belongs the dominion of the heavens and the earth? He punishes whom He wills and forgives whom He wills. And Allah is over all things competent.",
         "transliteration": "A-lam taʿlam anna Allāha lahu mulku al-samāwāti wa-al-arḍi yuʿadhdhibu man yashāʾu wa-yaghfiru liman yashāʾu wa-Allāhu ʿalā kulli shayʾin qadīr",
-        "verse_number": "Surah Al-Ma'idah, 40",
+        "verse_number": "40",
     },
     {
         "arabic_text": "يٰٓاَيُّهَا الرَّسُولُ لَا يَحْزُنكَ الَّذِينَ يُسَـٰرِعُونَ فِى الْكُفْرِ مِنَ الَّذِينَ قَالُوٓا ءَامَنَّا بِاَفْوَٰهِهِمْ وَلَمْ تُؤْمِن قُلُوبُهُمْ ۛ وَمِنَ الَّذِينَ هَادُوا سَمَّـٰعُونَ لِلْكَذِبِ سَمَّـٰعُونَ لِقَوْمٍ ءَاخَرِينَ لَمْ يَاْتُوكَ   يُحَرِّفُونَ الْكَلِمَ مِنۢ بَعْدِ مَوَاضِعِهِۦ   يَقُولُونَ اِنْ اُوتِيتُمْ هَـٰذَا فَخُذُوهُ وَاِن لَّمْ تُؤْتَوْهُ فَاحْذَرُوا ۚ وَ مَن يُرِدِ اللّٰهُ فِتْنَتَهُۥ فَلَن تَمْلِكَ لَهُۥ مِنَ اللّٰهِ شَيْـًۭٔا ۚ اُو۟لَـٰٓئِكَ الَّذِينَ لَمْ يُرِدِ اللّٰهُ اَن يُطَهِّرَ قُلُوبَهُمْ ۚ لَهُمْ فِى الدُّنْيَا خِزْىٌۭ   وَلَهُمْ فِى الْـَٔاخِرَةِ عَذَابٌ عَظِيمٌ",
@@ -325,7 +325,7 @@ ayats = [
         "persian_text": "ای پیامبر! آنان که در کفر شتاب می‌ورزند تو را غمگین نکنند، از جمله کسانی که به زبان می‌گویند ایمان آوردیم و دل‌هایشان ایمان نیاورده، و از یهودیان که گوش‌به‌فرمان دروغند و برای گروهی دیگر که نزد تو نیامده‌اند، شنونده‌اند. سخنان را از جای خود تحریف می‌کنند، می‌گویند: اگر این حکم به شما داده شود، آن را بپذیرید، و اگر به شما داده نشود، برحذر باشید. هر که را خدا بخواهد گرفتار فتنه سازد، هرگز نمی‌توانی چیزی از جانب خدا برای او انجام دهی. آنان کسانی هستند که خدا نخواسته دل‌هایشان را پاک سازد. برایشان در دنیا خواری و در آخرت عذابی بزرگ است.",
         "english_text": "O Messenger, let them not grieve you who hasten into disbelief of those who say, 'We believe' with their mouths, but their hearts believe not, and from among the Jews. They are avid listeners to falsehood, listening to another people who have not come to you. They distort words beyond their places, saying, 'If you are given this, take it; but if you are not given it, then beware.' But he for whom Allah intends fitnah – never will you possess [power to do] for him a thing against Allah. Those are the ones for whom Allah does not intend to purify their hearts. For them in this world is disgrace, and for them in the Hereafter is a great punishment.",
         "transliteration": "Yā ayyuhā al-rasūlu lā yaḥzunka alladhīna yusāriʿūna fī al-kufri mina alladhīna qālū āmannā bi-afwāhihim wa-lam tuʾmin qulūbuhum wa-mina alladhīna hādū sammāʿūna lil-kadhibi sammāʿūna li-qawmin ākharīna lam yaʾtūka yuḥarrifūna al-kalima min baʿdi mawāḍiʿihi yaqūlūna in ūtītum hādhā fakhudhūhu wa-in lam tuʾtawhu fa-iḥdharū waman yuridi Allāhu fitnatahu fa-lan tamlika lahu mina Allāhi shayʾā ulāʾika alladhīna lam yuridi Allāhu an yuṭahhira qulūbahum lahum fī al-dunyā khizyun wa-lahum fī al-ākhirati ʿadhābun ʿaẓīm",
-        "verse_number": "Surah Al-Ma'idah, 41",
+        "verse_number": "41",
     },
     {
         "arabic_text": "سَمَّـٰعُونَ لِلْكَذِبِ اَكَّـٰلُونَ لِلسُّحْتِ ۚ فَاِن جَآءُوكَ فَاحْكُم بَيْنَهُم اَوْ اَعْرِضْ عَنْهُمْ   وَاِن تُعْرِضْ عَنْهُمْ فَلَن يَضُرُّوكَ شَيْـًۭٔا   وَاِنْ حَكَمْتَ فَاحْكُم بَيْنَهُم بِالْقِسْطِ ۚ اِنَّ اللّٰهَ يُحِبُّ الْمُقْسِطِينَ",
@@ -333,7 +333,7 @@ ayats = [
         "persian_text": "شنونده دروغ‌اند و حرام‌خوار. پس اگر نزد تو آمدند، در میانشان حکم کن یا از آنان روی گردان. و اگر روی گردانی، تو را زیانی نخواهند رساند. و اگر حکم کردی، پس با عدالت حکم کن؛ بی‌گمان خدا دادگران را دوست دارد.",
         "english_text": "They are avid listeners to falsehood, devourers of what is unlawful. So if they come to you, judge between them or turn away from them. And if you turn away from them - never will they harm you at all. And if you judge, judge between them with justice. Indeed, Allah loves those who act justly.",
         "transliteration": "Sammāʿūna lil-kadhibi akkālūna lil-suḥti fa-in jāʾūka fa-uḥkum baynahum aw aʿriḍ ʿanhum wa-in tuʿriḍ ʿanhum fa-lan yaḍurrūka shayʾā wa-in ḥakamta fa-uḥkum baynahum bil-qisṭi inna Allāha yuḥibbu al-muqsiṭīn",
-        "verse_number": "Surah Al-Ma'idah, 42",
+        "verse_number": "42",
     },
     {
         "verse_number": "43",
@@ -912,7 +912,7 @@ ayats = [
         "verse_number": "114",
     },
     {
-        "arabic_text": "قَالَ اللّٰهُ اِنِّي مُنَزِّلُهَا عَلَيْكُمْ   فَمَن يَكْفُرْ بَعْدُ مِنكُمْ فَاِنِّي اُعَذِّبُهُ عَذَابًا لَّا اُعَذِّبُهُ اَحَدًا مِّنَ الْعَالَمِينَ",
+        "arabic_text": "قَالَ اللّٰهُ اِنِّي مُنَزِّلُهَا عَلَيْكُمْ   فَمَن يَكْفُرْ بَعْدُ مِنكُمْ فَاِنِّي اُعَذِّبُهُ عَذَابًا لَّا اُعَذِّبُهُ اَحَدًا مِّنَ الْعٰلَمِيْنَ",
         "urdu_text": "اللہ نے فرمایا: میں اس کو تم پر ضرور نازل کروں گا، پھر اس کے بعد جو تم میں سے کفر کرے گا، تو میں اسے ایسا عذاب دوں گا جو دنیا میں کسی کو نہ دوں گا۔",
         "persian_text": "خدا گفت: من آن را بر شما نازل خواهم کرد، ولی هر کس پس از آن کفر ورزد، او را چنان عذابی خواهم داد که هیچ‌کس را از جهانیان آن گونه عذاب نکرده باشم.",
         "english_text": "Allah said, 'Indeed, I will send it down to you, but whoever disbelieves afterwards from among you - then indeed will I punish him with a punishment by which I have not punished anyone among the worlds.'",
