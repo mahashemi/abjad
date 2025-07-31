@@ -288,7 +288,7 @@ ayats = [
         "verse_number": "36",
     },
     {
-        "arabic_text": "يُرِيْدُوْنَ اَنْ يَّخْرُجُوْا مِنَ النَّارِ وَ مَا هُم بِخَارِجِيْنَ مِنْهَا وَ لَهُمْ عَذَابٌ مُّقِيْمٌ",
+        "arabic_text": "يُرِيْدُوْنَ اَنْ يَّخْرُجُوْا مِنَ النَّارِ وَ مَا هُم بِخٰرِجِيْنَ مِنْهَا وَ لَهُمْ عَذَابٌ مُّقِيْمٌ",
         "urdu_text": "وہ آگ سے نکلنا چاہیں گے حالانکہ وہ اس سے نکلنے والے نہیں ہوں گے اور ان کے لیے ہمیشہ کا عذاب ہے",
         "persian_text": "می‌خواهند از آتش بیرون آیند، در حالی که هرگز از آن بیرون نخواهند آمد و برای آنان عذابی پایدار است.",
         "english_text": "They will wish to get out of the Fire, but never are they to emerge therefrom, and for them is an enduring punishment.",
@@ -389,7 +389,7 @@ ayats = [
         "persian_text": "و میان آن‌ها بر اساس آنچه خدا نازل کرده حکم کن، و از خواسته‌های آنان پیروی مکن، و از آنان بر حذر باش، مبادا تو را از بخشی از آنچه خدا بر تو نازل کرده منحرف کنند، پس اگر روی گردان شوند، بدان که خدا می‌خواهد به سبب برخی از گناهانشان، آنان را مجازات کند، و بی‌گمان بسیاری از مردم فاسق‌اند.",
         "english_text": "And judge between them by what Allah has revealed, and do not follow their desires, and beware of them lest they tempt you away from some of what Allah has revealed to you. And if they turn away, then know that Allah only intends to afflict them for some of their sins. And indeed, many among mankind are defiantly disobedient.",
         "transliteration": "Wa aniḥkum baynahum bimā anzala Allāhu walā tattabiʿ ahwāʾahum waḥdharhum an yaftinūka ʿan baʿḍi mā anzala Allāhu ilayka fa-in tawallaw fa-iʿlam annamā yurīdu Allāhu an yuṣībahum bibaʿḍi dhunūbihim wa-inna kathīram mina al-nāsi lafāsiqūn",
-        "verse_number": "Surah Al-Ma'idah - 49",
+        "verse_number": "49",
     },
     {
         "arabic_text": "اَفَحُكْمَ الْجَاهِلِيَّةِ يَبْغُوْنَ وَ مَنْ اَحْسَنُ مِنَ اللّٰهِ حُكْمًا لِّقَوْمٍ يُّوْقِنُوْنَ",
@@ -397,7 +397,7 @@ ayats = [
         "persian_text": "آیا آن‌ها حکم جاهلیت را می‌طلبند؟ و برای قومی که یقین دارند، چه کسی از خدا بهتر حکم می‌کند؟",
         "english_text": "Do they then seek the judgment of [the days of] ignorance? But who is better than Allah in judgment for a people who are certain [in faith].",
         "transliteration": "Afaḥukma al-jāhiliyyati yabghūn wa man aḥsanu mina Allāhi ḥukman li-qawmin yūqinūn",
-        "verse_number": "Surah Al-Ma'idah - 50",
+        "verse_number": "50",
     },
     {
         "arabic_text": "يٰٓاَيُّهَا الَّذِينَ اٰمَنُواْ لَا تَتَّخِذُواْ الْيَهُودَ وَالنَّصٰرٰىٓ اَوْلِيَآءَۘ بَعْضُهُمْ اَوْلِيَآءُ بَعْضٖۚ وَ مَن يَتَوَلَّهُم مِّنكُمْ فَاِنَّهُۥ مِنْهُمْۗ اِنَّ اللّٰهَ لَا يَهْدِي الْقَوْمَ الظّٰلِمِينَ",
@@ -405,7 +405,7 @@ ayats = [
         "persian_text": "ای کسانی که ایمان آورده‌اید، یهود و نصارا را دوستان خود نگیرید، آن‌ها دوستان یکدیگرند، و هر کس از شما با آنان دوستی کند، از آنان خواهد بود. همانا خداوند گروه ستمکاران را هدایت نمی‌کند.",
         "english_text": "O you who believe! Do not take the Jews and the Christians as allies. They are [in fact] allies of one another. And whoever is an ally to them among you—then indeed, he is [one] of them. Indeed, Allah does not guide the wrongdoing people.",
         "transliteration": "Yā ayyuhā alladhīna āmanū lā tattakhidhū al-yahūda wa al-naṣārā awliyāʾ baʿḍuhum awliyāʾu baʿḍ wa man yatawallahum minkum fa-innahu minhum inna Allāha lā yahdī al-qawma al-ẓālimīn",
-        "verse_number": "Surah Al-Ma'idah - 51",
+        "verse_number": "51",
     },
     {
         "arabic_text": "فَتَرَى الَّذِينَ فِىْ قُلُوبِهِم مَّرَضٞ يُسَٰرِعُونَ فِيْهِمْ يَقُولُونَ نَخْشَىٰٓ اَن تُصِيبَنَا دَآئِرَةٞۚ فَعَسَى اللّٰهُ اَن يَأۡتِيَ بِالْفَتۡحِ اَوْ اَمْرٖ مِّنْ عِندِهِۦ فَيُصۡبِحُواْ عَلٰى مَآ اَسَرُّواْ فِىْٓ اَنفُسِهِمْ نَٰدِمِينَ",
@@ -413,7 +413,7 @@ ayats = [
         "persian_text": "پس کسانی را که در دلشان بیماری است، می‌بینی که به سوی آنان می‌شتابند و می‌گویند: می‌ترسیم که حادثه‌ای بر ما وارد شود. شاید خداوند پیروزی یا امری از جانب خود بیاورد، پس آنان از آنچه در دل نهان داشته‌اند پشیمان خواهند شد.",
         "english_text": "So you see those in whose hearts is disease hastening to them, saying, 'We are afraid a misfortune may strike us.' But perhaps Allah will bring conquest or a decision from Him, and they will become over what they have been concealing within themselves, regretful.",
         "transliteration": "Fatarā alladhīna fī qulūbihim maraḍun yusāriʿūna fīhim yaqūlūna nakhshā an tuṣībanā dāʾirah faʿasā Allāhu an yaʾtiya bil-fatḥi aw amrin min ʿindih fa-yuṣbiḥū ʿalā mā asarrū fī anfusihim nādimīn",
-        "verse_number": "Surah Al-Ma'idah - 52",
+        "verse_number": "52",
     },
     {
         "arabic_text": "وَيَقُولُ الَّذِينَ اٰمَنُوٓاْ اَهَٰٓؤُلَآءِ الَّذِينَ اَقۡسَمُواْ بِاللّٰهِ جَهْدَ اَيْمَٰنِهِمْ اِنَّهُمْ لَمَعَكُمْۚ حَبِطَتۡ اَعْمَٰلُهُمْ فَاَصۡبَحُواْ خَٰسِرِينَ",
@@ -421,7 +421,7 @@ ayats = [
         "persian_text": "و مؤمنان می‌گویند: آیا اینان همان کسانی نیستند که با سخت‌ترین سوگندها به خدا قسم خوردند که قطعاً با شما هستند؟ اعمالشان نابود شد و زیانکار گشتند.",
         "english_text": "And those who believe will say, 'Are these the ones who swore by Allah their strongest oaths that indeed they were with you?' Their deeds have become worthless, and they have become losers.",
         "transliteration": "Wayaqūlu alladhīna āmanū ahaʾulāʾi alladhīna aqsamū billāhi jahda aymānihim innahum lamaʿakum ḥabiṭat aʿmāluhum fa-aṣbaḥū khāsirīn",
-        "verse_number": "Surah Al-Ma'idah - 53",
+        "verse_number": "53",
     },
     {
         "arabic_text": "يٰٓاَيُّهَا الَّذِينَ اٰمَنُواْ مَن يَرْتَدَّ مِنكُمْ عَن دِينِهِۦ فَسَوْفَ يَأۡتِي اللّٰهُ بِقَوْمٖ يُحِبُّهُمْ وَيُحِبُّونَهُۥٓ اَذِلَّةٍ عَلَى الْمُؤۡمِنِينَ اَعِزَّةٍ عَلَى الْكَٰفِرِينَ يُجَٰهِدُونَ فِىْ سَبِيلِ اللّٰهِ وَ لَا يَخَافُونَ لَوْمَةَ لَآئِمٖۚ ذٰلِكَ فَضۡلُ اللّٰهِ يُؤۡتِيهِ مَن يَشَآءُۚ وَاللّٰهُ وَاسِعٌ عَلِيمٌ",
@@ -429,7 +429,7 @@ ayats = [
         "persian_text": "ای کسانی که ایمان آورده‌اید! هر کس از شما از دین خود برگردد، به‌زودی خدا گروهی را خواهد آورد که آنان را دوست دارد و آنان نیز او را دوست دارند. نسبت به مؤمنان فروتن و نسبت به کافران سرفرازند. در راه خدا جهاد می‌کنند و از سرزنش هیچ سرزنش‌گری نمی‌ترسند. این فضل خداست که به هر کس بخواهد می‌دهد، و خداوند واسع و داناست.",
         "english_text": "O you who have believed, whoever among you should revert from his religion – Allah will bring forth [in place of them] a people He will love and who will love Him, [who are] humble toward the believers, powerful against the disbelievers; they strive in the cause of Allah and do not fear the blame of a critic. That is the favor of Allah; He bestows it upon whom He wills. And Allah is all-Encompassing and Knowing.",
         "transliteration": "Yā ayyuhā alladhīna āmanū man yartadda minkum ʿan dīnihi fasawfa yaʾtī Allāhu bi-qawmin yuḥibbuhum wa yuḥibbūnahu adhillatin ʿalā al-muʾminīn aʿizzatin ʿalā al-kāfirīn yujāhidūna fī sabīli Allāhi wa lā yakhāfūna lawmata lāʾim dhālika faḍlu Allāhi yuʾtīhi man yashāʾ wa-Allāhu wāsiʿun ʿalīm",
-        "verse_number": "Surah Al-Ma'idah - 54",
+        "verse_number": "54",
     },
     {
         "arabic_text": "اِنَّمَا وَلِيُّكُمُ اللّٰهُ وَرَسُولُهُۥ وَالَّذِينَ اٰمَنُواْ الَّذِينَ يُقِيمُونَ الصَّلَوٰةَ وَيُؤۡتُونَ الزَّكَوٰةَ وَهُمْ رٰكِعُونَ",
@@ -437,7 +437,7 @@ ayats = [
         "persian_text": "همانا ولی شما تنها خدا، پیامبر او و کسانی هستند که ایمان آورده‌اند، نماز را برپا می‌دارند، زکات می‌دهند و در حال رکوع‌اند.",
         "english_text": "Your ally is none but Allah and [therefore] His Messenger and those who have believed – those who establish prayer and give zakah, and they bow [in worship].",
         "transliteration": "Innamā waliyyukum Allāhu wa rasūluhu wa alladhīna āmanū alladhīna yuqīmūna al-ṣalāta wa yuʾtūna al-zakāta wa hum rākiʿūn",
-        "verse_number": "Surah Al-Ma'idah - 55",
+        "verse_number": "55",
     },
     {
         "arabic_text": "وَ مَن يَتَوَلَّ اللّٰهَ وَرَسُولَهُۥ وَالَّذِينَ اٰمَنُواْ فَاِنَّ حِزۡبَ اللّٰهِ هُمُ الْغَٰلِبُونَ",
@@ -445,7 +445,7 @@ ayats = [
         "persian_text": "و هر کس که خدا و پیامبر او و مؤمنان را ولی خود بداند، پس بی‌گمان حزب‌الله آنانند که پیروز خواهند بود.",
         "english_text": "And whoever allies himself with Allah and His Messenger and those who have believed – indeed, the party of Allah – they will be the predominant.",
         "transliteration": "Wa man yatawalla Allāha wa rasūlahu wa alladhīna āmanū fa-inna ḥizba Allāhi humu al-ghālibūn",
-        "verse_number": "Surah Al-Ma'idah - 56",
+        "verse_number": "56",
     },
     {
         "arabic_text": "يٰٓاَيُّهَا الَّذِينَ اٰمَنُواْ لَا تَتَّخِذُواْ الَّذِينَ اتَّخَذُواْ دِينَكُمْ هُزُوٗا وَلَعِبٗا مِّنَ الَّذِينَ اُوْتُوْاْ الْكِتَٰبَ مِن قَبْلِكُمْ وَالْكُفَّارَ اَوْلِيَآءَۚ وَاتَّقُواْ اللّٰهَ اِن كُنتُم مُّؤۡمِنِينَ",
@@ -453,7 +453,7 @@ ayats = [
         "persian_text": "ای کسانی که ایمان آورده‌اید! کسانی را که دین شما را به مسخره و بازی گرفته‌اند، چه از اهل کتاب و چه از کافران، به دوستی نگیرید. و اگر ایمان دارید، از خدا بترسید.",
         "english_text": "O you who have believed, do not take those who have taken your religion in ridicule and amusement among the ones who were given the Scripture before you nor the disbelievers as allies. And fear Allah if you should [truly] be believers.",
         "transliteration": "Yā ayyuhā alladhīna āmanū lā tattakhidhū alladhīna ittakhadhū dīnakum huzuwan wa laʿiban mina alladhīna ūtū al-kitāba min qablikum wa al-kuffāra awliyāʾ wa-ittaqū Allāha in kuntum muʾminīn",
-        "verse_number": "Surah Al-Ma'idah - 57",
+        "verse_number": "57",
     },
     {
         "arabic_text": "وَ اِذَا نَادَيْتُمْ اِلَى الصَّلَوٰةِ اتَّخَذُوهَا هُزُوٗا وَلَعِبٗاۚ ذٰلِكَ بِاَنَّهُمْ قَوْمٞ لَّا يَعْقِلُونَ",
@@ -461,7 +461,7 @@ ayats = [
         "persian_text": "و هنگامی که برای نماز ندا می‌دهید، آن را به ریشخند و بازی می‌گیرند. این بدان سبب است که آنان گروهی نادان هستند.",
         "english_text": "And when you call to prayer, they take it in ridicule and amusement. That is because they are a people who do not use reason.",
         "transliteration": "Wa idhā nādaytum ilā al-ṣalāti ittakhadhūhā huzuwan wa laʿiban dhālika bi-annahum qawmun lā yaʿqilūn",
-        "verse_number": "Surah Al-Ma'idah - 58",
+        "verse_number": "58",
     },
     {
         "arabic_text": "قُلْ يٰٓاَهْلَ الْكِتَٰبِ هَلْ تَنقِمُونَ مِنَّآ اِلَّآ اَنْ اٰمَنَّا بِاللّٰهِ وَمَآ اُنزِلَ اِلَيْنَا وَمَآ اُنزِلَ مِن قَبْلُ وَاَنَّ اَكْثَرَكُمْ فٰسِقُونَ",
@@ -469,7 +469,7 @@ ayats = [
         "persian_text": "بگو: ای اهل کتاب! آیا از ما جز این را سرزنش می‌کنید که به خدا و آنچه به سوی ما نازل شده و آنچه پیش از این نازل شده، ایمان آورده‌ایم، و بیشتر شما فاسق هستید؟",
         "english_text": "Say, 'O People of the Scripture, do you resent us except [for the fact] that we have believed in Allah and what was revealed to us and what was revealed before, and because most of you are defiantly disobedient?'",
         "transliteration": "Qul yā ahla al-kitābi hal tanqimūna minnā illā an āmannā billāhi wa mā unzila ilaynā wa mā unzila min qabl wa anna aktharakum fāsiqūn",
-        "verse_number": "Surah Al-Ma'idah - 59",
+        "verse_number": "59",
     },
     {
         "arabic_text": "قُلْ هَلْ اُنَبِّئُكُم بِشَرّٖ مِّن ذٰلِكَ مَثُوبَةً عِندَ اللّٰهِۚ مَن لَّعَنَهُ اللّٰهُ وَغَضِبَ عَلَيْهِ وَجَعَلَ مِنْهُمُ الْقِرَدَةَ وَالْخَنَازِيرَ وَعَبَدَ الطَّـٰغُوتَۚ اُوْلٰٓئِكَ شَرّٞ مَّكَانٗا وَاَضَلُّ عَن سَوَآءِ السَّبِيلِ",
@@ -477,7 +477,7 @@ ayats = [
         "persian_text": "بگو: آیا شما را از کسانی که پاداش‌شان نزد خدا بدتر از این است، خبر دهم؟ کسانی که خدا بر آنان لعنت فرستاده و بر آنان خشم گرفته و از آنان بوزینه و خوکانی ساخته و طاغوت را پرستیده‌اند؛ آنان در بدترین مرتبه‌اند و از راه راست دورترند.",
         "english_text": "Say, 'Shall I inform you of [what is] worse than that as penalty from Allah? [It is that of] those whom Allah has cursed and with whom He became angry and made of them apes and pigs and slaves of Taghut. Those are worse in position and further astray from the sound way.'",
         "transliteration": "Qul hal unabbiʾukum bisharrin min dhālika mathūbatan ʿinda Allāh man laʿanahu Allāhu wa ghaḍiba ʿalayhi wa jaʿala min'humu al-qiradata wa al-khanāzīra wa ʿabada al-ṭāghūt ūlāʾika sharrun makānā wa aḍallu ʿan sawāʾi al-sabīl",
-        "verse_number": "Surah Al-Ma'idah - 60",
+        "verse_number": "60",
     },
     {
         "arabic_text": "وَ اِذَا جَاءُوكُمْ قَالُوا آمَنَّا وَقَد دَّخَلُوا بِالْكُفْرِ وَهُمْ قَدْ خَرَجُوا بِهِ وَاللّٰهُ اَعْلَمُ بِمَا كَانُوا يَكْتُمُونَ",
