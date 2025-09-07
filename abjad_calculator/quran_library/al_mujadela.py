@@ -1,0 +1,196 @@
+ayats = [
+  {
+    "verse_number": "58:1",
+    "arabic_text": "قَدْ سَمِعَ اللَّهُ قَوْلَ الَّتِي تُجَادِلُكَ فِي زَوْجِهَا وَتَشْتَكِي إِلَى اللَّهِ وَاللَّهُ يَسْمَعُ تَحَاوُرَكُمَا ۚ إِنَّ اللَّهَ سَمِيعٌ بَصِيرٌ",
+    "urdu_text": "اللہ نے اس عورت کی بات سن لی جو تم سے اپنے شوہر کے بارے میں جھگڑ رہی تھی اور اللہ سے فریاد کر رہی تھی، اور اللہ تم دونوں کا مکالمہ سن رہا تھا۔ بے شک اللہ سب کچھ سننے والا، دیکھنے والا ہے۔",
+    "persian_text": "خدا سخن زنی را شنید که درباره شوهرش با تو گفتگو می‌کرد و به درگاه خدا شکایت می‌برد، و خدا گفتگوی شما را می‌شنید، بی‌گمان خدا شنوا و بیناست.",
+    "english_text": "Allah has indeed heard the statement of the woman who pleads with you concerning her husband and complains to Allah. And Allah hears your conversation. Surely, Allah is All-Hearing, All-Seeing.",
+    "transliteration": "Qad samiʿa allāhu qawla allatī tujādiluka fī zawjihā wa tashtakī ilā allāhi wallāhu yasmaʿu taḥāwurakumā inna allāha samīʿun baṣīr."
+  },
+]
+# [
+#   {
+#     "verse_number": "58:1",
+#     "arabic_text": "قَدْ سَمِعَ اللَّهُ قَوْلَ الَّتِي تُجَادِلُكَ فِي زَوْجِهَا وَتَشْتَكِي إِلَى اللَّهِ وَاللَّهُ يَسْمَعُ تَحَاوُرَكُمَا ۚ إِنَّ اللَّهَ سَمِيعٌ بَصِيرٌ",
+#     "urdu_text": "اللہ نے اس عورت کی بات سن لی جو تم سے اپنے شوہر کے بارے میں جھگڑ رہی تھی اور اللہ سے فریاد کر رہی تھی، اور اللہ تم دونوں کا مکالمہ سن رہا تھا۔ بے شک اللہ سب کچھ سننے والا، دیکھنے والا ہے۔",
+#     "persian_text": "خدا سخن زنی را شنید که درباره شوهرش با تو گفتگو می‌کرد و به درگاه خدا شکایت می‌برد، و خدا گفتگوی شما را می‌شنید، بی‌گمان خدا شنوا و بیناست.",
+#     "english_text": "Allah has indeed heard the statement of the woman who pleads with you concerning her husband and complains to Allah. And Allah hears your conversation. Surely, Allah is All-Hearing, All-Seeing.",
+#     "transliteration": "Qad samiʿa allāhu qawla allatī tujādiluka fī zawjihā wa tashtakī ilā allāhi wallāhu yasmaʿu taḥāwurakumā inna allāha samīʿun baṣīr."
+#   },
+#   {
+#     "verse_number": "58:2",
+#     "arabic_text": "ٱلَّذِينَ يُظَٰهِرُونَ مِنكُم مِّن نِّسَآئِهِم مَّا هُنَّ أُمَّهَٰتِهِمْ ۖ إِنْ أُمَّهَٰتُهُمْ إِلَّا ٱلَّٰـٓـِٔى وَلَدْنَهُمْ ۚ وَإِنَّهُمْ لَيَقُولُونَ مُنكَرًۭا مِّنَ ٱلْقَوْلِ وَزُورًۭا ۚ وَإِنَّ ٱللَّهَ لَعَفُوٌّ غَفُورٌۭ",
+#     "urdu_text": "جو لوگ اپنی بیویوں سے ظہار کرتے ہیں وہ ان کی مائیں نہیں بن جاتیں، ان کی مائیں تو وہی ہیں جنہوں نے ان کو جنم دیا ہے۔ بے شک وہ نہایت ناپسندیدہ اور جھوٹی بات کہتے ہیں، اور بے شک اللہ معاف کرنے والا، بخشنے والا ہے۔",
+#     "persian_text": "کسانی که از شما نسبت به همسرانشان ظهار می‌کنند، آنان مادرانشان نمی‌شوند، مادرانشان فقط کسانی هستند که آنان را زاده‌اند. بی‌گمان آنان سخنی منکر و دروغ می‌گویند، و خداوند بخشنده و آمرزنده است.",
+#     "english_text": "Those among you who estrange their wives by saying they are like their mothers—they are not their mothers. Their mothers are only those who gave birth to them. Indeed, they utter an ill word and a lie. And surely, Allah is Pardoning and Forgiving.",
+#     "transliteration": "Allaḏīna yuẓāhirūna minkum min nisā’ihim mā hunna ummahātihim in ummahātuhum illā allā’ī waladnahum wa innahum layaqūlūna munkaran mina al-qawli wa zūran wa inna allāha la‘afuwwun ghafūr."
+#   },
+#   {
+#     "verse_number": "58:3",
+#     "arabic_text": "وَٱلَّذِينَ يُظَٰهِرُونَ مِن نِّسَآئِهِمْ ثُمَّ يَعُودُونَ لِمَا قَالُوا۟ فَتَحْرِيرُ رَقَبَةٍۢ مِّن قَبْلِ أَن يَتَمَآسَّا ۚ ذَٰلِكُمْ تُوعَظُونَ بِهِۦ ۚ وَٱللَّهُ بِمَا تَعْمَلُونَ خَبِيرٌۭ",
+#     "urdu_text": "اور جو لوگ اپنی بیویوں سے ظہار کریں پھر اپنی بات سے رجوع کریں، تو انہیں ایک غلام آزاد کرنا ہوگا اس سے پہلے کہ دونوں ایک دوسرے کو چھوئیں۔ تمہیں اس بات کی نصیحت کی جاتی ہے، اور اللہ تمہارے اعمال سے خوب باخبر ہے۔",
+#     "persian_text": "و کسانی که نسبت به همسرانشان ظهار کرده‌اند، سپس به آنچه گفته‌اند بازگردند، باید پیش از تماس، برده‌ای را آزاد کنند. این چیزی است که به آن پند داده می‌شوید و خداوند به آنچه انجام می‌دهید آگاه است.",
+#     "english_text": "And those who declare their wives as their mothers, then wish to go back on what they said, must free a slave before they touch one another. This is what you are advised, and Allah is All-Aware of what you do.",
+#     "transliteration": "Wa alladhīna yuẓāhirūna min nisā’ihim thumma yaʿūdūna limā qālū fa-taḥrīru raqabatin min qabli an yatamāssā dhālikum tūʿaẓūna bih wa allāhu bimā taʿmalūna khabīr."
+#   },
+#   {
+#     "verse_number": "58:4",
+#     "arabic_text": "فَمَن لَّمْ يَجِدْ فَصِيَامُ شَهْرَيْنِ مُتَتَابِعَيْنِ مِن قَبْلِ أَن يَتَمَآسَّا ۖ فَمَن لَّمْ يَسْتَطِعْ فَإِطْعَامُ سِتِّينَ مِسْكِينًۭا ۚ ذَٰلِكَ لِتُؤْمِنُوا۟ بِٱللَّهِ وَرَسُولِهِۦ ۚ وَتِلْكَ حُدُودُ ٱللَّهِ ۗ وَلِلْكَـٰفِرِينَ عَذَابٌ أَلِيمٌۭ",
+#     "urdu_text": "پھر جو غلام نہ پائے، تو دو مہینے لگاتار روزے رکھے، اور اگر یہ بھی نہ کر سکے، تو ساٹھ مسکینوں کو کھانا کھلائے۔ یہ اس لیے ہے تاکہ تم اللہ اور اس کے رسول پر ایمان لاؤ، اور یہ اللہ کی حدیں ہیں، اور کافروں کے لیے دردناک عذاب ہے۔",
+#     "persian_text": "پس هر کس نیابد، باید دو ماه پی‌درپی روزه بگیرد، و اگر نتواند، شصت مسکین را غذا دهد. این برای آن است که به خدا و پیامبرش ایمان آورید. این‌ها حدود خداست، و برای کافران عذابی دردناک است.",
+#     "english_text": "But he who cannot afford it should fast for two consecutive months before they touch each other. And he who is unable to do so should feed sixty poor people. That is so you may believe in Allah and His Messenger. These are the limits set by Allah. And for disbelievers is a painful punishment.",
+#     "transliteration": "Fa-man lam yajid fa-ṣiyāmu shahrayn mutatābiʿayn min qabli an yatamāssā fa-man lam yastaṭiʿ fa-iṭʿāmu sittīna miskīnā dhālika li-tuʾminū bi-llāhi wa rasūlihi wa tilka ḥudūdu-llāh wa lil-kāfirīna ʿadhābun alīm."
+#   }
+# ]
+
+# [
+#   {
+#     "verse_number": "58:5",
+#     "arabic_text": "إِنَّ ٱلَّذِينَ يُحَآدُّونَ ٱللَّهَ وَرَسُولَهُۥ كُبِتُوا۟ كَمَا كُبِتَ ٱلَّذِينَ مِن قَبْلِهِمْ ۚ وَقَدْ أَنزَلْنَآ ءَايَـٰتٍۢ بَيِّنَـٰتٍۢ ۚ وَلِلْكَـٰفِرِينَ عَذَابٌۭ مُّهِينٌۭ",
+#     "urdu_text": "یقیناً جو لوگ اللہ اور اس کے رسول کی مخالفت کرتے ہیں، وہ اسی طرح ذلیل کیے گئے جیسے ان سے پہلے لوگ ذلیل کیے گئے تھے، اور ہم نے واضح آیات نازل کی ہیں، اور کافروں کے لیے ذلت کا عذاب ہے۔",
+#     "persian_text": "بی‌گمان کسانی که با خدا و پیامبرش دشمنی می‌ورزند، همچون کسانی که پیش از آنان بودند، خوار شدند. ما آیات روشنی نازل کرده‌ایم، و برای کافران عذابی خوارکننده است.",
+#     "english_text": "Indeed, those who oppose Allah and His Messenger will be disgraced as those before them were disgraced. We have certainly sent down clear signs. And for the disbelievers is a humiliating punishment.",
+#     "transliteration": "Inna alladhīna yuḥāddūna allāha wa rasūlahu kubitū kamā kubita alladhīna min qablihim wa qad anzalnā āyātin bayyinātin wa lilkāfirīna ʿadhābun muhīn."
+#   },
+#   {
+#     "verse_number": "58:6",
+#     "arabic_text": "يَوْمَ يَبْعَثُهُمُ ٱللَّهُ جَمِيعًۭا فَيُنَبِّئُهُم بِمَا عَمِلُوٓا۟ ۚ أَحْصَىٰهُ ٱللَّهُ وَنَسُوهُ ۚ وَٱللَّهُ عَلَىٰ كُلِّ شَىْءٍۢ شَهِيدٌ",
+#     "urdu_text": "جس دن اللہ ان سب کو اٹھائے گا، پھر انہیں ان کے اعمال سے آگاہ کرے گا، اللہ نے ان سب کو شمار کر رکھا ہے، حالانکہ وہ خود بھول چکے ہیں، اور اللہ ہر چیز پر گواہ ہے۔",
+#     "persian_text": "روزی که خداوند همه‌شان را برانگیزد و آنان را از آنچه کرده‌اند باخبر سازد. خدا همه را به حساب آورده، هرچند که خود فراموش کرده‌اند، و خدا بر هر چیزی گواه است.",
+#     "english_text": "On the Day Allah will resurrect them all, then inform them of what they did. Allah had recorded it all, while they forgot it. And Allah is Witness over all things.",
+#     "transliteration": "Yawma yabʿathuhumu allāhu jamīʿan fa-yunabbiʾuhum bimā ʿamilū aḥṣāhu allāhu wa nasūhu wa allāhu ʿalā kulli shayʾin shahīd."
+#   },
+#   {
+#     "verse_number": "58:7",
+#     "arabic_text": "أَلَمْ تَرَ أَنَّ ٱللَّهَ يَعْلَمُ مَا فِى ٱلسَّمَـٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۖ مَا يَكُونُ مِن نَّجْوَىٰ ثَلَـٰثَةٍ إِلَّا هُوَ رَابِعُهُمْ وَلَا خَمْسَةٍ إِلَّا هُوَ سَادِسُهُمْ وَلَا أَدْنَىٰ مِن ذَٰلِكَ وَلَآ أَكْثَرَ إِلَّا هُوَ مَعَهُمْ أَيْنَ مَا كَانُوا۟ ۖ ثُمَّ يُنَبِّئُهُم بِمَا عَمِلُوا۟ يَوْمَ ٱلْقِيَـٰمَةِ ۚ إِنَّ ٱللَّهَ بِكُلِّ شَىْءٍ عَلِيمٌۭ",
+#     "urdu_text": "کیا تم نے نہیں دیکھا کہ اللہ جانتا ہے جو کچھ آسمانوں اور زمین میں ہے؟ کوئی راز کی بات تین آدمیوں میں نہیں ہوتی مگر وہ چوتھا ہوتا ہے، اور نہ پانچ میں مگر وہ چھٹا ہوتا ہے، اور نہ اس سے کم اور نہ زیادہ مگر وہ ان کے ساتھ ہوتا ہے جہاں کہیں وہ ہوں، پھر قیامت کے دن وہ انہیں بتائے گا جو کچھ انہوں نے کیا۔ بے شک اللہ ہر چیز کو خوب جاننے والا ہے۔",
+#     "persian_text": "آیا ندانستی که خداوند آنچه را در آسمان‌ها و زمین است، می‌داند؟ هیچ نجواکننده‌ای در میان سه نفر نیست مگر آن‌که او چهارمین آن‌هاست، و نه پنج نفر، مگر او ششمین‌شان است. و نه کمتر از آن و نه بیشتر، مگر او با آن‌هاست هر جا که باشند. سپس روز قیامت آنان را از آنچه کرده‌اند آگاه می‌سازد. بی‌گمان خداوند به هر چیزی داناست.",
+#     "english_text": "Have you not seen that Allah knows whatever is in the heavens and whatever is on the earth? Never is there any whispering among three but He is their fourth, nor among five but He is their sixth, nor fewer nor more, but He is with them wherever they may be. Then He will inform them of what they did on the Day of Judgment. Verily, Allah is Knowing of all things.",
+#     "transliteration": "Alam tara anna allāha yaʿlamu mā fī as-samāwāti wa mā fī al-arḍi mā yakūnu min najwā thalāthatin illā huwa rābiʿuhum wa lā khamsatin illā huwa sādisuhum wa lā adnà min dhālika wa lā akthara illā huwa maʿahum ayna mā kānū thumma yunabbiʾuhum bimā ʿamilū yawma al-qiyāmah inna allāha bikulli shayʾin ʿalīm."
+#   },
+#   {
+#     "verse_number": "58:8",
+#     "arabic_text": "أَلَمْ تَرَ إِلَى ٱلَّذِينَ نُهُوا۟ عَنِ ٱلنَّجْوَىٰ ثُمَّ يَعُودُونَ لِمَا نُهُوا۟ عَنْهُ وَيَتَنَـٰجَوْنَ بِٱلْإِثْمِ وَٱلْعُدْوَٰنِ وَمَعْصِيَتِ ٱلرَّسُولِ ۖ وَإِذَا جَآءُوكَ حَيَّوْكَ بِمَا لَمْ يُحَيِّكَ بِهِ ٱللَّهُ وَيَقُولُونَ فِىٓ أَنفُسِهِمْ لَوْلَا يُعَذِّبُنَا ٱللَّهُ بِمَا نَقُولُ ۚ حَسْبُهُمْ جَهَنَّمُ ۚ يَصْلَوْنَهَا ۖ فَبِئْسَ ٱلْمَصِيرُ",
+#     "urdu_text": "کیا تم نے ان لوگوں کو نہیں دیکھا جنہیں راز کی باتوں سے منع کیا گیا تھا، پھر وہ وہی کرنے لگے جن سے روکے گئے تھے، اور گناہ، زیادتی اور رسول کی نافرمانی کی باتیں کرتے ہیں؟ اور جب تمہارے پاس آتے ہیں تو تمہیں اس انداز میں سلام کرتے ہیں جیسا اللہ نے نہیں سکھایا، اور اپنے دلوں میں کہتے ہیں کہ اللہ ہمیں ہماری باتوں پر سزا کیوں نہیں دیتا؟ ان کے لیے جہنم کافی ہے، وہ اسی میں جھونکے جائیں گے، اور وہ بری جگہ ہے۔",
+#     "persian_text": "آیا ندیدی کسانی را که از نجوا نهی شدند، سپس به همانچه از آن نهی شده بودند بازمی‌گردند و در گناه و تجاوز و نافرمانی پیامبر به نجوا می‌پردازند؟ و هنگامی که نزد تو می‌آیند، تو را به گونه‌ای سلام می‌کنند که خدا سلام نکرده است، و در دل‌هایشان می‌گویند: چرا خدا ما را به آنچه می‌گوییم عذاب نمی‌دهد؟ جهنم برایشان بس است، در آن داخل خواهند شد، و چه بد سرانجامی است.",
+#     "english_text": "Have you not seen those who were forbidden from secret counsel, but they return to that which they were forbidden, and they conspire in sin and transgression and disobedience to the Messenger? And when they come to you, they greet you with words Allah has not greeted you with, and say within themselves: 'Why does Allah not punish us for what we say?' Hell will be sufficient for them—they will burn therein, and what an evil destination!",
+#     "transliteration": "Alam tara ilā alladhīna nuhū ʿani al-najwā thumma yaʿūdūna limā nuhū ʿanhu wa yatanājawna bil-ithmi wal-ʿudwāni wa maʿṣiyatir-rasūl wa idhā jāʾūka ḥayyawka bimā lam yuḥayyika bihillāh wa yaqūlūna fī anfusihim lawlā yuʿadhdhibunā allāhu bimā naqūl ḥasbuhum jahannamu yaṣlawnahā fabi’sa al-maṣīr."
+#   },
+#   {
+#     "verse_number": "58:9",
+#     "arabic_text": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِذَا تَنَـٰجَيْتُمْ فَلَا تَتَنَـٰجَوْا۟ بِٱلْإِثْمِ وَٱلْعُدْوَٰنِ وَمَعْصِيَتِ ٱلرَّسُولِ وَتَنَـٰجَوْا۟ بِٱلْبِرِّ وَٱلتَّقْوَىٰ ۖ وَٱتَّقُوا۟ ٱللَّهَ ٱلَّذِىٓ إِلَيْهِ تُحْشَرُونَ",
+#     "urdu_text": "اے ایمان والو! جب تم آپس میں سرگوشی کرو تو گناہ، زیادتی اور رسول کی نافرمانی کی باتیں نہ کرو بلکہ نیکی اور پرہیزگاری کی باتیں کرو، اور اللہ سے ڈرو جس کی طرف تم جمع کیے جاؤ گے۔",
+#     "persian_text": "ای کسانی که ایمان آورده‌اید! هرگاه با هم نجوا می‌کنید، به گناه و دشمنی و نافرمانی پیامبر نجوا نکنید، بلکه به نیکی و پرهیزکاری نجوا کنید، و از خدایی پروا کنید که نزد او گرد آورده خواهید شد.",
+#     "english_text": "O you who believe! When you hold secret counsel, do not do so for sin and transgression and disobedience to the Messenger, but do so in righteousness and piety. And fear Allah, to whom you will be gathered.",
+#     "transliteration": "Yā ayyuhā alladhīna āmanū idhā tanājaytum fa-lā tatanājaw bil-ithmi wal-ʿudwān wa maʿṣiyati ar-rasūl wa tanājaw bil-birri wat-taqwā wa-ittaqullāha alladhī ilayhi tuḥsharūn."
+#   },
+#   {
+#     "verse_number": "58:10",
+#     "arabic_text": "إِنَّمَا ٱلنَّجْوَىٰ مِنَ ٱلشَّيْطَـٰنِ لِيَحْزُنَ ٱلَّذِينَ ءَامَنُوا۟ وَلَيْسَ بِضَآرِّهِمْ شَيْـًٔا إِلَّا بِإِذْنِ ٱللَّهِ ۚ وَعَلَى ٱللَّهِ فَلْيَتَوَكَّلِ ٱلْمُؤْمِنُونَ",
+#     "urdu_text": "یہ سرگوشیاں تو شیطان کی طرف سے ہوتی ہیں تاکہ وہ ایمان والوں کو غمگین کرے، حالانکہ وہ اللہ کی اجازت کے بغیر انہیں کچھ نقصان نہیں پہنچا سکتا، اور مؤمنوں کو اللہ ہی پر بھروسہ کرنا چاہیے۔",
+#     "persian_text": "این نجوا فقط از سوی شیطان است تا مؤمنان را اندوهگین سازد، ولی او هرگز نمی‌تواند بدون اجازه خدا زیانی برساند، و مؤمنان باید تنها بر خدا توکل کنند.",
+#     "english_text": "Secret counsel is only from Satan, to grieve the believers. But he cannot harm them in the least without Allah’s permission. And in Allah let the believers put their trust.",
+#     "transliteration": "Innamā al-najwā mina ash-shayṭāni li-yaḥzuna alladhīna āmanū wa laysa bi-ḍārrihim shay’an illā bi-idhnillāh wa ʿala allāhi falyatawakkali al-mu’minūn."
+#   }
+# ]
+
+# [
+#   {
+#     "verse_number": "58:11",
+#     "arabic_text": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِذَا قِيلَ لَكُمْ تَفَسَّحُوا۟ فِى ٱلْمَجَـٰلِسِ فَٱفْسَحُوا۟ يَفْسَحِ ٱللَّهُ لَكُمْ ۖ وَإِذَا قِيلَ ٱنشُزُوا۟ فَٱنشُزُوا۟ يَرْفَعِ ٱللَّهُ ٱلَّذِينَ ءَامَنُوا۟ مِنكُمْ وَٱلَّذِينَ أُوتُوا۟ ٱلْعِلْمَ دَرَجَـٰتٍۢ ۚ وَٱللَّهُ بِمَا تَعْمَلُونَ خَبِيرٌۭ",
+#     "urdu_text": "اے ایمان والو! جب تم سے کہا جائے کہ مجلسوں میں کشادگی کرو، تو کشادگی کر دو، اللہ تمہیں کشادگی دے گا۔ اور جب کہا جائے: اٹھ کھڑے ہو، تو اٹھ کھڑے ہو۔ اللہ تم میں سے ان لوگوں کے درجے بلند کرے گا جو ایمان لائے اور جنہیں علم دیا گیا۔ اور اللہ تمہارے اعمال سے باخبر ہے۔",
+#     "persian_text": "ای کسانی که ایمان آورده‌اید! چون به شما گفته شود در مجلس جا باز کنید، جا باز کنید تا خدا نیز برای شما جا باز کند. و چون گفته شود برخیزید، برخیزید. خدا کسانی از شما را که ایمان آورده‌اند و دانش یافته‌اند، به درجاتی بالا می‌برد. و خدا به آنچه انجام می‌دهید، آگاه است.",
+#     "english_text": "O you who have believed, when you are told to make room in assemblies, then make room; Allah will make room for you. And when you are told, 'Arise,' then arise; Allah will raise those who have believed among you and those who were given knowledge, by degrees. And Allah is Aware of what you do.",
+#     "transliteration": "Yā ayyuhā alladhīna āmanū idhā qīla lakum tafassaḥū fī al-majālisi fa-afsaḥū yafsaḥi allāhu lakum wa idhā qīla unshuzū fa-unshuzū yarfaʿi allāhu alladhīna āmanū minkum wa alladhīna ūtu al-ʿilma darajāt wa allāhu bimā taʿmalūna khabīr."
+#   },
+#   {
+#     "verse_number": "58:12",
+#     "arabic_text": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِذَا نَـٰجَيْتُمُ ٱلرَّسُولَ فَقَدِّمُوا۟ بَيْنَ يَدَىْ نَجْوَىٰكُمْ صَدَقَةًۭ ۚ ذَٰلِكَ خَيْرٌۭ لَّكُمْ وَأَطْهَرُ ۚ فَإِن لَّمْ تَجِدُوا۟ فَإِنَّ ٱللَّهَ غَفُورٌۭ رَّحِيمٌ",
+#     "urdu_text": "اے ایمان والو! جب تم رسول سے تنہائی میں بات کرو، تو بات کرنے سے پہلے صدقہ دیا کرو، یہ تمہارے لیے بہتر اور زیادہ پاکیزہ ہے۔ پھر اگر تمہیں وسعت نہ ہو تو بے شک اللہ بخشنے والا، رحم کرنے والا ہے۔",
+#     "persian_text": "ای کسانی که ایمان آورده‌اید! چون با پیامبر نجوا کردید، پیش از نجوا صدقه‌ای دهید. این برای شما بهتر و پاکیزه‌تر است. و اگر نیافتید، بی‌گمان خدا آمرزنده و مهربان است.",
+#     "english_text": "O you who have believed, when you consult the Messenger in private, present before your consultation a charity. That is better for you and purer. But if you find not [the means] – then indeed, Allah is Forgiving and Merciful.",
+#     "transliteration": "Yā ayyuhā alladhīna āmanū idhā nājaytum ar-rasūla fa-qaddimū bayna yaday najwākum ṣadaqah dhālika khayrun lakum wa aṭhar fa-in lam tajidū fa-inna allāha ghafūrun raḥīm."
+#   },
+#   {
+#     "verse_number": "58:13",
+#     "arabic_text": "ءَأَشْفَقْتُمْ أَن تُقَدِّمُوا۟ بَيْنَ يَدَىْ نَجْوَىٰكُمْ صَدَقَـٰتٍۢ ۚ فَإِذْ لَمْ تَفْعَلُوا۟ وَتَابَ ٱللَّهُ عَلَيْكُمْ فَأَقِيمُوا۟ ٱلصَّلَوٰةَ وَءَاتُوا۟ ٱلزَّكَوٰةَ وَأَطِيعُوا۟ ٱللَّهَ وَرَسُولَهُۥ ۚ وَٱللَّهُ خَبِيرٌۢ بِمَا تَعْمَلُونَ",
+#     "urdu_text": "کیا تم اس سے ڈر گئے کہ اپنی نجویٰ سے پہلے صدقات دو؟ اب جبکہ تم نے ایسا نہ کیا اور اللہ نے تم پر مہربانی فرمائی، تو نماز قائم کرو، زکوٰۃ دو اور اللہ اور اس کے رسول کی اطاعت کرو، اور اللہ تمہارے اعمال سے باخبر ہے۔",
+#     "persian_text": "آیا از این که پیش از نجوا صدقه دهید، بیم داشتید؟ پس چون چنین نکردید و خدا بر شما بخشایش آورد، نماز برپا دارید، زکات دهید، و از خدا و پیامبرش فرمان برید، و خدا به آنچه انجام می‌دهید، آگاه است.",
+#     "english_text": "Do you fear that you will not [be able to] give charity before your consultation? Then when you do not and Allah has forgiven you, then establish prayer and give zakah and obey Allah and His Messenger. And Allah is Aware of what you do.",
+#     "transliteration": "A'ashfaqtum an tuqaddimū bayna yaday najwākum ṣadaqāt fa-idh lam tafʿalū wa tāba allāhu ʿalaykum fa-aqīmū aṣ-ṣalāta wa ātū az-zakāta wa aṭīʿū allāha wa rasūlahu wa allāhu khabīrun bimā taʿmalūn."
+#   },
+#   {
+#     "verse_number": "58:14",
+#     "arabic_text": "أَلَمْ تَرَ إِلَى ٱلَّذِينَ تَوَلَّوْا۟ قَوْمًۭا غَضِبَ ٱللَّهُ عَلَيْهِم مَّا هُم مِّنكُمْ وَلَا مِنْهُمْ وَيَحْلِفُونَ عَلَى ٱلْكَذِبِ وَهُمْ يَعْلَمُونَ",
+#     "urdu_text": "کیا تم نے انہیں نہیں دیکھا جو ان لوگوں سے دوستی کرتے ہیں جن پر اللہ نے غضب نازل کیا؟ وہ نہ تم میں سے ہیں اور نہ ان میں سے، اور وہ جان بوجھ کر جھوٹی قسمیں کھاتے ہیں۔",
+#     "persian_text": "آیا ندیدی کسانی را که با گروهی دوستی می‌گیرند که خدا بر آنان خشم گرفته است؟ آنان نه از شما هستند و نه از ایشان. و به دروغ سوگند می‌خورند، در حالی که خود می‌دانند.",
+#     "english_text": "Have you not seen those who make allies of a people with whom Allah is angry? They are neither of you nor of them, and they swear to falsehood while they know.",
+#     "transliteration": "Alam tara ilā alladhīna tawallaw qawman ghaḍiba allāhu ʿalayhim mā hum minkum wa lā minhum wa yaḥlifūna ʿala al-kadhibi wa hum yaʿlamūn."
+#   },
+#   {
+#     "verse_number": "58:15",
+#     "arabic_text": "أَعَدَّ ٱللَّهُ لَهُمْ عَذَابًۭا شَدِيدًا ۖ إِنَّهُمْ سَآءَ مَا كَانُوا۟ يَعْمَلُونَ",
+#     "urdu_text": "اللہ نے ان کے لیے سخت عذاب تیار کر رکھا ہے۔ بے شک وہ بہت برا کام کرتے رہے ہیں۔",
+#     "persian_text": "خدا برایشان عذابی سخت آماده کرده است، چرا که کردارشان بسیار بد بوده است.",
+#     "english_text": "Allah has prepared for them a severe punishment. Evil indeed is that which they used to do.",
+#     "transliteration": "Aʿadda allāhu lahum ʿadhāban shadīdan innahum sāʾa mā kānū yaʿmalūn."
+#   }
+# ]
+
+# [
+#   {
+#     "verse_number": "58:16",
+#     "arabic_text": "ٱتَّخَذُوٓا۟ أَيْمَـٰنَهُمْ جُنَّةًۭ فَصَدُّوا۟ عَن سَبِيلِ ٱللَّهِ فَلَهُمْ عَذَابٌۭ مُّهِينٌۭ",
+#     "urdu_text": "انہوں نے اپنی قسموں کو ڈھال بنا لیا ہے اور اللہ کے راستے سے روکتے ہیں، تو ان کے لیے رسوا کن عذاب ہے۔",
+#     "persian_text": "آنها سوگندهای خود را سپری قرار داده‌اند و [مردم را] از راه خدا باز می‌دارند؛ پس برایشان عذابی خوارکننده است.",
+#     "english_text": "They have taken their oaths as a cover, so they averted [people] from the way of Allah, and for them is a humiliating punishment.",
+#     "transliteration": "Ittakhadhū aymānahum junnatan faṣaddū ʿan sabīli allāhi falahum ʿadhābun muhīn."
+#   },
+#   {
+#     "verse_number": "58:17",
+#     "arabic_text": "لَّن تُغْنِىَ عَنْهُمْ أَمْوَٰلُهُمْ وَلَآ أَوْلَـٰدُهُم مِّنَ ٱللَّهِ شَيْـًۭٔا ۚ أُو۟لَـٰٓئِكَ أَصْحَـٰبُ ٱلنَّارِ ۖ هُمْ فِيهَا خَـٰلِدُونَ",
+#     "urdu_text": "نہ ان کے مال اور نہ ان کی اولاد اللہ کے مقابلے میں ان کے کچھ کام آئے گی۔ یہی لوگ دوزخ والے ہیں، وہ اس میں ہمیشہ رہیں گے۔",
+#     "persian_text": "اموال و فرزندانشان هرگز آنان را در برابر خدا بی‌نیاز نمی‌سازد. آنان اهل آتشند و در آن جاودانند.",
+#     "english_text": "Their wealth and their children will not avail them against Allah at all. Those are the companions of the Fire; they will abide therein eternally.",
+#     "transliteration": "Lan tugh'nī ʿanhum amwāluhum wa lā awlāduhum mina allāhi shayʾā, ulāʾika aṣḥābu an-nāri hum fīhā khālidūn."
+#   },
+#   {
+#     "verse_number": "58:18",
+#     "arabic_text": "يَوْمَ يَبْعَثُهُمُ ٱللَّهُ جَمِيعًۭا فَيَحْلِفُونَ لَهُۥ كَمَا يَحْلِفُونَ لَكُمْ وَيَحْسَبُونَ أَنَّهُمْ عَلَىٰ شَىْءٍ ۚ أَلَآ إِنَّهُمْ هُمُ ٱلْكَـٰذِبُونَ",
+#     "urdu_text": "جس دن اللہ ان سب کو اٹھائے گا، تو وہ اس کے سامنے بھی قسمیں کھائیں گے جیسے تمہارے سامنے کھاتے ہیں، اور گمان کریں گے کہ وہ کسی بنیاد پر ہیں۔ خبردار! وہ یقیناً جھوٹے ہیں۔",
+#     "persian_text": "روزی که خدا همه آنان را برمی‌انگیزد، برای او نیز همان‌گونه که برای شما سوگند می‌خورند، سوگند خواهند خورد، و می‌پندارند که بر چیزی (محکم) تکیه دارند. آگاه باشید که آنان دروغگویانند.",
+#     "english_text": "On the Day Allah will resurrect them all, and they will swear to Him as they swear to you, thinking that they are [standing] on something. Unquestionably, it is they who are the liars.",
+#     "transliteration": "Yawma yabʿathuhumu allāhu jamīʿan fa-yaḥlifūna lahu kamā yaḥlifūna lakum wa yaḥsabūna annahum ʿalā shayʾ, alā innahum humu al-kādhibūn."
+#   },
+#   {
+#     "verse_number": "58:19",
+#     "arabic_text": "ٱسْتَحْوَذَ عَلَيْهِمُ ٱلشَّيْطَـٰنُ فَأَنسَىٰهُمْ ذِكْرَ ٱللَّهِ ۚ أُو۟لَـٰٓئِكَ حِزْبُ ٱلشَّيْطَـٰنِ ۚ أَلَآ إِنَّ حِزْبَ ٱلشَّيْطَـٰنِ هُمُ ٱلْخَـٰسِرُونَ",
+#     "urdu_text": "شیطان نے ان پر قابو پا لیا، پس انہیں اللہ کا ذکر بھلا دیا۔ یہی لوگ شیطان کا گروہ ہیں۔ خبردار! شیطان کا گروہ ہی خسارہ پانے والا ہے۔",
+#     "persian_text": "شیطان بر آنان چیره شد و یاد خدا را از خاطرشان برد. آنان حزب شیطانند. آگاه باشید، حزب شیطان زیانکارانند.",
+#     "english_text": "Satan has overcome them and made them forget the remembrance of Allah. Those are the party of Satan. Unquestionably, the party of Satan – they will be the losers.",
+#     "transliteration": "Istahwadha ʿalayhimu ash-shayṭānu fa-ansāhum dhikra allāh, ulāʾika ḥizbu ash-shayṭān, alā inna ḥizba ash-shayṭāni humu al-khāsirūn."
+#   },
+#   {
+#     "verse_number": "58:20",
+#     "arabic_text": "إِنَّ ٱلَّذِينَ يُحَآدُّونَ ٱللَّهَ وَرَسُولَهُۥٓ أُو۟لَـٰٓئِكَ فِى ٱلْأَذَلِّينَ",
+#     "urdu_text": "بے شک جو لوگ اللہ اور اس کے رسول کی مخالفت کرتے ہیں، وہی سب سے زیادہ ذلیلوں میں سے ہوں گے۔",
+#     "persian_text": "بی‌گمان کسانی که با خدا و پیامبرش دشمنی می‌ورزند، در زمره‌ی خوارترین‌ها خواهند بود.",
+#     "english_text": "Indeed, those who oppose Allah and His Messenger – they will be among the most humiliated.",
+#     "transliteration": "Inna alladhīna yuḥāddūna allāha wa rasūlahu ulāʾika fī al-adhallīn."
+#   }
+# ]
+
+# [
+#   {
+#     "verse_number": "58:21",
+#     "arabic_text": "كَتَبَ ٱللَّهُ لَأَغْلِبَنَّ أَنَا۠ وَرُسُلِىٓ ۚ إِنَّ ٱللَّهَ قَوِىٌّ عَزِيزٌۭ",
+#     "urdu_text": "اللہ نے لکھ دیا ہے کہ میں اور میرے رسول ہی غالب آ کر رہیں گے۔ بے شک اللہ زبردست اور غالب ہے۔",
+#     "persian_text": "خدا مقرر کرده است که من و پیامبرانم پیروز خواهیم بود. بی‌گمان خدا نیرومند و شکست‌ناپذیر است.",
+#     "english_text": "Allah has decreed: 'Verily, I and My messengers will be the victorious.' Verily, Allah is All-Powerful, Almighty.",
+#     "transliteration": "Kataba allāhu la-aghlibanna anā wa rusulī, inna allāha qawiyyun ʿazīz."
+#   },
+#   {
+#     "verse_number": "58:22",
+#     "arabic_text": "لَّا تَجِدُ قَوْمًۭا يُؤْمِنُونَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْـَٔاخِرِ يُوَآدُّونَ مَنْ حَآدَّ ٱللَّهَ وَرَسُولَهُۥ وَلَوْ كَانُوٓا۟ ءَابَآءَهُمْ أَوْ أَبْنَآءَهُمْ أَوْ إِخْوَٰنَهُمْ أَوْ عَشِيرَتَهُمْ ۚ أُو۟لَـٰٓئِكَ كَتَبَ فِى قُلُوبِهِمُ ٱلْإِيمَـٰنَ وَأَيَّدَهُم بِرُوحٍۢ مِّنْهُ ۖ وَيُدْخِلُهُمْ جَنَّـٰتٍۢ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ خَـٰلِدِينَ فِيهَا ۚ رَضِىَ ٱللَّهُ عَنْهُمْ وَرَضُوا۟ عَنْهُ ۚ أُو۟لَـٰٓئِكَ حِزْبُ ٱللَّهِ ۚ أَلَآ إِنَّ حِزْبَ ٱللَّهِ هُمُ ٱلْمُفْلِحُونَ",
+#     "urdu_text": "تم کوئی قوم نہ پاؤ گے جو اللہ اور یومِ آخرت پر ایمان رکھتی ہو، اور اللہ اور اس کے رسول کے دشمنوں سے دوستی رکھتی ہو، اگرچہ وہ ان کے باپ، بیٹے، بھائی یا خاندان ہی کیوں نہ ہوں۔ یہی لوگ ہیں جن کے دلوں میں اللہ نے ایمان لکھ دیا ہے اور انہیں اپنی طرف سے روح کے ساتھ قوت بخشی ہے، اور انہیں ایسے باغوں میں داخل کرے گا جن کے نیچے نہریں بہتی ہیں، وہ ان میں ہمیشہ رہیں گے۔ اللہ ان سے راضی ہوا اور وہ اللہ سے راضی ہوئے۔ یہی اللہ کی جماعت ہے۔ خبردار! اللہ کی جماعت ہی کامیاب ہونے والی ہے۔",
+#     "persian_text": "هیچ قومی را که به خدا و روز قیامت ایمان دارند نخواهی یافت که با کسانی که با خدا و پیامبرش دشمنی می‌کنند،

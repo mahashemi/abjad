@@ -12,10 +12,14 @@ from ..quran_library import (
     al_fil,
     al_humaza,
     al_asr,
+    al_rahmaan,
+    al_waqia,
+    al_mujadela,
     al_takasur,
     al_qaariyah,
     al_shams,
     al_layl,
+    al_tauba,
     al_zilzal,
     al_zuha,
     al_shara,
@@ -36,6 +40,14 @@ from ..quran_library import (
     al_abas,
     al_naziyat,
     al_naba,
+
+    al_mujadela,
+    al_hashr,
+    al_waqia,
+
+    al_yunus,
+    al_anfaal,
+    al_araaf,
     al_anaam,
     al_maida,
     al_nisa,
@@ -50,6 +62,22 @@ surah_al_imran_title = "سورة آل عمران - سورة 3 - عدد آيات�
 surah_al_nisa_title = "سورة النساء - سورة 4 - عدد آياتها 176".strip()
 surah_al_maida_title = "سورة المائدة - سورة 5 - عدد آياتها 120".strip()
 surah_al_anaam_title = "سورة الأنعام - سورة 6 - عدد آياتها 165".strip()
+
+surah_al_araaf_title = "سورة الأعراف - سورة 7 - عدد آياتها 206".strip()
+surah_al_anfaal_title = "سورة الأنفال - سورة 8 - عدد آياتها 75".strip()
+surah_al_tauba_title = "سورة التوبه - سورة 9 - عدد آياتها 129".strip()
+surah_al_yunus_title = "سورة اليونس - سورة 10 - عدد آياتها 109".strip()
+
+
+surah_al_rahmaan_title = "سورة الأرحمن - سورة 55 - عدد آياتها 78".strip()
+surah_al_waqia_title = "سورة الأواقعة - سورة 56 - عدد آياتها 96".strip()
+surah_al_mujadela_title = "سورة الأمجادله - سورة 58 - عدد آياتها 22".strip()
+surah_al_hashr_title = "سورة الأحشر - سورة 59 - عدد آياتها 24".strip()
+
+
+
+
+
 surah_qalam_title = "سورة القلم - سورة 68 - عدد آياتها 52 ".strip()
 surah_al_naba_title = "سورة النبا - سورة 78 - عدد آياتها 40".strip()
 surah_al_naziyat_title = "سورة النٰزعٰت - سورة 79 - عدد آياتها 46".strip()
@@ -96,6 +124,19 @@ quran = {
     surah_al_nisa_title: al_nisa.ayats,
     surah_al_maida_title: al_maida.ayats,
     surah_al_anaam_title: al_anaam.ayats,
+
+    surah_al_araaf_title: al_araaf.ayats,
+    surah_al_anfaal_title: al_anfaal.ayats,
+    surah_al_tauba_title: al_tauba.ayats,
+    surah_al_yunus_title: al_yunus.ayats,
+
+    surah_al_rahmaan_title: al_rahmaan.ayats,
+    surah_al_waqia_title: al_waqia.ayats,
+    surah_al_mujadela_title: al_mujadela.ayats,
+
+    surah_al_hashr_title: al_hashr.ayats,
+
+
     surah_al_naba_title: al_naba.ayats,
     surah_al_naziyat_title: al_naziyat.ayats,
     surah_al_abas_title: al_abas.ayats,

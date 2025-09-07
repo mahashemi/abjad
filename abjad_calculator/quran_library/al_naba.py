@@ -177,7 +177,7 @@ ayats = [
     },
     {
         "verse_number": "23",
-        "arabic_text": "لَّٰبِثِينَ فِيهَآ اَحْقَابًا",
+        "arabic_text": "لّٰبِثِينَ فِيهَآ اَحْقَابًا",
         "urdu_text": "جس میں وہ مدتوں تک رہیں گے",
         "persian_text": "که در آن سال‌ها خواهند ماند",
         "english_text": "In which they will remain for ages,",
@@ -289,7 +289,7 @@ ayats = [
     },
     {
         "verse_number": "37",
-        "arabic_text": "رَّبِّ السَّمٰوٰتِ وَالْاَرْضِ وَ مَا بَيْنَهُمَا الرَّحْمٰنِ لَا يَمْلِكُونَ مِنْهُ خِطَابًا",
+        "arabic_text": "رَّبِّ السَّمٰوٰتِ وَ الْاَرْضِ وَ مَا بَيْنَهُمَا الرَّحْمٰنِ لَا يَمْلِكُونَ مِنْهُ خِطَابًا",
         "urdu_text": "جو آسمانوں اور زمین اور ان کے درمیان کی ہر چیز کا رب ہے، رحمٰن ہے، لوگ اس سے بات کرنے کا اختیار نہ رکھیں گے",
         "persian_text": "پروردگار آسمان‌ها و زمین و آنچه میان آن‌هاست، بخشاینده‌ای که کسی یارای سخن گفتن با او را ندارد",
         "english_text": "Lord of the heavens and the earth and whatever is between them – the Most Merciful. They do not possess from Him [the authority for] speech.",
@@ -316,7 +316,7 @@ ayats = [
         "arabic_text": "اِنَّآ اَنذَرْنٰكُمْ عَذَابًا قَرِيبًا يَوْمَ يَنظُرُ الْمَرْءُ مَا قَدَّمَتْ يَدٰهُ وَ يَقُولُ الْكٰفِرُ يٰلَيْتَنِي كُنتُ تُرٰبا",
         "urdu_text": "بے شک ہم نے تمہیں ایک قریب آنے والے عذاب سے خبردار کیا ہے، جس دن انسان دیکھے گا جو اس کے ہاتھوں نے آگے بھیجا، اور کافر کہے گا، کاش میں مٹی ہوتا",
         "persian_text": "ما شما را از عذابی نزدیک هشدار دادیم؛ روزی که انسان آنچه را دست‌هایش پیش فرستاده‌اند می‌بیند و کافر می‌گوید: ای کاش خاک بودم!",
-        "english_text": "Indeed, We have warned you of a near punishment – the Day when a man will observe what his hands have put forth and the disbeliever will say, 'Oh, I wish that I were dust!'",
+        "english_text": "Indeed, We have warned you of a near punishment : the Day when a man will observe what his hands have put forth and the disbeliever will say, 'Oh, I wish that I were dust!'",
         "transliteration": "Innā andharnākum ʿadhāban qarībā, yawma yanẓuru l-marʾu mā qaddamat yadāh, wa yaqūlu l-kāfiru yā laytanī kuntu turābā",
     },
 ]
