@@ -64,6 +64,9 @@ REMOVE_CHARS = [
     # Hamza (standalone)
     'ء',
 
+    # HTML Break 
+    '<br/>'
+
     # Whitespace and control characters
     ' ', '\n', '\t', '\r', '\u200c', '\u200d', '\u202c'
 ]
