@@ -297,7 +297,7 @@ ayats = [
     },
     {
         "verse_number": "38",
-        "arabic_text": "قُل لِّلَّذِينَ كَفَرُوْا اِنْ يَنْتَهُوْا يُغْفَرْ لَهُمْ مَّا قَدْ سَلَفَ وَ اِنْ يَّعُوْدُوْا فَقَدْ مَضَتْ سُنَّةُ الْاَوَّلِيْنَ",
+        "arabic_text": "قُل لِّلَّذِينَ كَفَرُوْا اِنْ يَنْتَهُوْا يُغْفَرْ لَهُمْ مَّا قَدْ سَلَفَ وَ اِنْ يَّعُوْدُوْا فَقَدْ مَضَتْ سُنَّت الْاَوَّلِيْنَ",
         "urdu_text": "کافروں سے کہہ دو اگر وہ باز آجائیں تو ان کے پچھلے گناہ بخش دیے جائیں گے، اور اگر پھر وہ وہی کریں تو پہلوں کا طریقہ گزر چکا ہے۔ ",
         "persian_text": "به کافران بگو: اگر بازایستند، گذشته آنان آمرزیده خواهد شد؛ و اگر بازگردند، سنت پیشینیان گذشت.",
         "english_text": "Say to those who have disbelieved that if they cease, what has previously occurred will be forgiven for them; but if they return, then the precedent of the former peoples has already taken place.",
@@ -313,7 +313,7 @@ ayats = [
     },
     {
         "verse_number": "40",
-        "arabic_text": "وَ اِنْ تَوَلَّوْا فَاعْلَمُوْٓا اَنَّ اللّٰهَ مَوْلَاكُمْ ۚ نِعْمَ الْمَوْلٰى وَ نِعْمَ النَّصِيْرُ",
+        "arabic_text": "وَ اِنْ تَوَلَّوْا فَاعْلَمُوْٓا اَنَّ اللّٰهَ مَوْلٰكُمْ ۚ نِعْمَ الْمَوْلٰى وَ نِعْمَ النَّصِيْرُ",
         "urdu_text": "اور اگر وہ منہ موڑیں تو جان لو کہ اللہ تمہارا کارساز ہے۔ وہ بہترین کارساز اور بہترین مددگار ہے۔ ",
         "persian_text": "و اگر روی بگردانند، بدانید که خدا سرپرست شماست. چه نیکو سرپرست و چه نیکو یاوری است.",
         "english_text": "And if they turn away - then know that Allah is your protector. Excellent is the protector, and excellent is the helper.",
