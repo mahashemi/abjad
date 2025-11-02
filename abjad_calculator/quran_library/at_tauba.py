@@ -930,6 +930,7 @@ ayats = [
     {
         "arabic_text": "لَقَدْ تَابَ اللّٰهُ عَلَى النَّبِيِّ وَ الْمُهٰجِرِيْنَ وَ الْاَنْصَارِ الَّذِيْنَ اتَّبَعُوهُ فِي سَاعَةِ الْعُسْرَةِ مِنْ بَعْدِ مَا كَادَ يَزِيْغُ قُلُوْبُ فَرِيْقٍ مِّنْهُمْ ثُمَّ تَابَ عَلَيْهِمْ ۚ اِنَّهُ بِهِمْ رَءُوفٌ رَّحِيْمٌ",
         "urdu_text": "یقیناً اللہ نے نبی ﷺ پر، اور اُن مہاجرین و انصار پر (اپنی رحمت سے) نظرِ کرم فرمائی جنہوں نے تنگی کے وقت اُس کے ساتھ (یعنی غزوہ تبوک میں) ساتھ دیا، حالانکہ اُن میں سے کچھ لوگوں کے دل قریب تھا کہ ڈگمگا جائیں، پھر (اللہ نے) اُن پر بھی مہربانی فرمائی۔ بے شک وہ اُن پر بڑا شفقت کرنے والا، نہایت رحم والا ہے۔",
+        "persian_text": "در حقیقت، خداوند توبه پیامبر و مهاجران و انصار را پذیرفت؛ همان کسانی که در زمان سختی از او پیروی کردند، بعد از آنکه نزدیک بود دل‌های گروهی از آنان منحرف شود. سپس خدا توبه آنان را پذیرفت، چرا که او نسبت به آنان مهربان و رحیم است.",
         "english_text": "Indeed, Allah has turned in mercy to the Prophet, the Emigrants, and the Helpers who followed him in the hour of hardship—after the hearts of a group among them had nearly deviated. Then He turned to them in mercy. Surely, He is Most Kind and Most Merciful to them.",
         "transliteration": "Laqad tāba Allāhu ʿala an-nabiyyi wa al-muhājirīna wa al-anṣāri alladhīna ittabaʿūhu fī sāʿati al-ʿusrati min baʿdi mā kāda yazīghu qulūbu farīqin minhum thumma tāba ʿalayhim, innahu bihim raʾūfun raḥīm.",
         "verse_number": "117",
@@ -938,6 +939,7 @@ ayats = [
         "arabic_text": "وَّ عَلَى الثَّلٰثَةِ الَّذِيْنَ خُلِّفُوا حَتّٰٓى اِذَا ضَاقَتْ عَلَيْهِمُ الْاَرْضُ بِمَا رَحُبَتْ وَ ضَاقَتْ عَلَيْهِمْ اَنْفُسُهُمْ وَ ظَنُّوا اَنْ لَا مَلْجَاَ مِنَ اللّٰهِ اِلَّا اِلَيْهِ ثُمَّ تَابَ عَلَيْهِمْ لِيَتُوْبُوْا ۚ اِنَّ اللّٰهَ هُوَ التَّوَّابُ الرَّحِيْمُ",
         "urdu_text": "اور اُن تین لوگوں پر بھی (اللہ نے رحم فرمایا) جن کے بارے میں فیصلہ مؤخر کر دیا گیا تھا۔ یہاں تک کہ زمین اپنی وسعت کے باوجود اُن پر تنگ ہو گئی، اور اُن کے دل بھی گھبرا گئے، اور اُنہیں یقین ہو گیا کہ اللہ کے سوا کہیں پناہ نہیں۔ پھر اللہ نے اُن پر بھی مہربانی فرمائی تاکہ وہ توبہ کریں۔ بے شک اللہ ہی توبہ قبول کرنے والا، نہایت رحم والا ہے۔",
         "english_text": "And also to the three who were left behind, until the earth, vast as it is, became narrow to them, and their own souls became constricted, and they realized that there is no refuge from Allah except in Him. Then He turned to them in mercy so that they might repent. Indeed, Allah is the Accepter of repentance, the Most Merciful.",
+        "persian_text": "و نیز توبه آن سه نفری را پذیرفت که باز داشته شده بودند، تا آن‌گاه که زمین با همه فراخى‌اش بر آنان تنگ شد، و جان‌هایشان نیز بر آنان سخت گشت، و دانستند که هیچ پناهگاهی از خدا نیست جز به سوی او. سپس خدا توبه‌شان را پذیرفت تا توبه کنند، بی‌گمان خدا توبه‌پذیر مهربان است.",
         "transliteration": "Wa ʿalā th-thalāthati alladhīna khullifū ḥattā idhā ḍāqat ʿalayhimu al-arḍu bimā raḥubat wa ḍāqat ʿalayhim anfusuhum wa ẓannū an lā maljaʾa min Allāhi illā ilayh, thumma tāba ʿalayhim liyatūbū, inna Allāha huwa at-tawwābu ar-raḥīm.",
         "verse_number": "118",
     },
