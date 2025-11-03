@@ -59,6 +59,7 @@
         justify-content: center;
         max-width: 1200px;
         margin: 0 auto;
+        padding-top: 40px;
       }
 
       .surah-book {
@@ -205,6 +206,92 @@
         text-align: center;
       }
 
+      /* Tab Navigation Styles */
+      .tab-navigation {
+        display: flex;
+        justify-content: center;
+        gap: 8px;
+        margin: 30px auto 0 auto;
+        max-width: 600px;
+        padding: 0 20px;
+        position: relative;
+      }
+
+      .tab-button {
+        flex: 1;
+        font-family: "Scheherazade New", "Amiri", "Traditional Arabic", serif;
+        font-size: 26px;
+        padding: 15px 35px 18px 35px;
+        background: linear-gradient(135deg, #5a3e2f 0%, #4a3225 50%, #3a261b 100%);
+        color: #a88d5f;
+        border: none;
+        border-radius: 12px 12px 0 0;
+        cursor: pointer;
+        transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+        box-shadow: 0 -2px 8px rgba(0, 0, 0, 0.3),
+                    inset 0 1px 0 rgba(255, 255, 255, 0.1);
+        text-shadow: 0px 1px 2px rgba(0, 0, 0, 0.5);
+        position: relative;
+        overflow: hidden;
+        border-bottom: 2px solid #2a1a12;
+      }
+
+      .tab-button::before {
+        content: "";
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        height: 1px;
+        background: linear-gradient(
+          90deg,
+          rgba(255, 255, 255, 0) 0%,
+          rgba(255, 255, 255, 0.2) 50%,
+          rgba(255, 255, 255, 0) 100%
+        );
+      }
+
+      .tab-button:hover:not(.active) {
+        background: linear-gradient(135deg, #6a4e3f 0%, #5a3e35 50%, #4a322b 100%);
+        color: #c0a070;
+        transform: translateY(-2px);
+        box-shadow: 0 -4px 12px rgba(0, 0, 0, 0.4),
+                    inset 0 1px 0 rgba(255, 255, 255, 0.15);
+      }
+
+      .tab-button.active {
+        background: #321414;
+        color: #d4af74;
+        font-weight: bold;
+        box-shadow: none;
+        border-bottom: none;
+        padding-bottom: 20px;
+        transform: translateY(2px);
+        text-shadow: 0px 1px 3px rgba(0, 0, 0, 0.8),
+                     0 0 15px rgba(212, 175, 116, 0.3);
+      }
+
+      .tab-button.active::before {
+        height: 2px;
+        background: linear-gradient(
+          90deg,
+          rgba(212, 175, 116, 0) 0%,
+          rgba(212, 175, 116, 0.6) 50%,
+          rgba(212, 175, 116, 0) 100%
+        );
+      }
+
+      .tab-button.active::after {
+        content: "";
+        position: absolute;
+        bottom: -1px;
+        left: 0;
+        right: 0;
+        height: 3px;
+        background: #321414;
+        box-shadow: 0 2px 8px #321414;
+      }
+
       /* Removed verse-count class as we're using verse-count positioning for verse count */
 
       @media (max-width: 768px) {
@@ -235,6 +322,16 @@
         .surah-number {
           font-size: 14px;
         }
+
+        .tab-navigation {
+          gap: 15px;
+          margin: 20px auto 30px auto;
+        }
+
+        .tab-button {
+          font-size: 22px;
+          padding: 10px 20px;
+        }
       }
     </style>
   </head>
@@ -245,6 +342,17 @@
       <div class="tag-line"><em>With Qamari, Malfuzi & Batini Aadad</em></div>
       <div id="header-after"></div>
     </h1>
+    
+    <!-- Tab Navigation -->
+    <div class="tab-navigation">
+      <button class="tab-button active" data-tab="surahs" onclick="switchTab('surahs')">
+        السور
+      </button>
+      <button class="tab-button" data-tab="duas" onclick="switchTab('duas')">
+        الأدعية
+      </button>
+    </div>
+
     <div class="surah-container" id="surah-container">
       <div class="loading">Loading Surahs...</div>
     </div>
@@ -253,82 +361,108 @@
       const USER = "mahashemi"; // ← your GitHub user/org
       const REPO = "abjad"; // ← your repo name
       const FOLDER = "output/quran"; // ← path under repo root
+      
+      let allFiles = []; // Store all files for filtering
+      let currentTab = 'surahs'; // Track current active tab
+
+      function switchTab(tabName) {
+        currentTab = tabName;
+        
+        // Update button states
+        document.querySelectorAll('.tab-button').forEach(btn => {
+          btn.classList.remove('active');
+        });
+        document.querySelector(`[data-tab="${tabName}"]`).classList.add('active');
+        
+        // Re-render the filtered content
+        renderFiles(allFiles, tabName);
+      }
+
+      function renderFiles(files, filterTab = 'surahs') {
+        const container = document.getElementById("surah-container");
+        container.innerHTML = "";
+
+        const htmlFiles = files
+          .filter((f) => f.name.toLowerCase().endsWith(".html"))
+          .map((f) => {
+            var match = f.name.match(/سورة\s(\d+)/); // e.g., سورة 103
+            const isDua = match === null;
+            if (isDua)
+              match = f.name.match(/دُعَاءُ\s(\d+)/); // e.g., دُعَاءُ 1
+            const surahNum = match ? parseInt(match[1], 10) : 0;
+            return { ...f, surahNum, isDua };
+          })
+          .filter((f) => {
+            // Filter based on active tab
+            if (filterTab === 'surahs') {
+              return !f.isDua;
+            } else {
+              return f.isDua;
+            }
+          })
+          .sort((a, b) => a.surahNum - b.surahNum); // sort by number
+
+        htmlFiles.forEach((f) => {
+          // Extract Arabic name from the filename
+          var nameMatch = f.name.match(/سورة\s([^-]+)/);
+          if (nameMatch === null)
+            nameMatch = f.name.match(/دُعَاءُ\s([^-]+)/);
+          const arabicName = nameMatch ? nameMatch[1].trim() : "";
+
+          // Extract verse count if available
+          var verseMatch = f.name.match(/عدد آياتها\s(\d+)/);
+          if (verseMatch === null)
+            verseMatch = f.name.match(/عدد سترها\s(\d+)/);
+          const verseCount = verseMatch
+            ? parseInt(verseMatch[1], 10)
+            : null;
+
+          // Create book element
+          const bookLink = document.createElement("a");
+          bookLink.className = "surah-book";
+          bookLink.href = `https://${USER}.github.io/${REPO}/${FOLDER}/${encodeURIComponent(
+            f.name
+          )}`;
+          bookLink.target = "_blank";
+          bookLink.rel = "noopener noreferrer";
+
+          // Create number badge
+          const numberBadge = document.createElement("span");
+          numberBadge.className = "surah-number";
+          numberBadge.textContent = f.isDua ? `دُعَاءُ ${f.surahNum}` : `سورة ${f.surahNum}`;
+
+          // Create Arabic name element as the main central element
+          const nameDiv = document.createElement("div");
+          nameDiv.className = "surah-name";
+          nameDiv.textContent = arabicName;
+
+          // Add verse count if available (bottom right)
+          if (verseCount) {
+            const verseCountSpan = document.createElement("span");
+            verseCountSpan.className = "verse-count";
+            verseCountSpan.textContent = f.isDua ? ` عدد سترها ${verseCount}` : ` عدد آياتها ${verseCount}`;
+            bookLink.appendChild(verseCountSpan);
+          }
+
+          // Assemble book element
+          bookLink.appendChild(numberBadge);
+          bookLink.appendChild(nameDiv);
+
+          container.appendChild(bookLink);
+        });
+        
+        // If no files found for this tab
+        if (htmlFiles.length === 0) {
+          const message = filterTab === 'surahs' ? 'لا توجد سور' : 'لا توجد أدعية';
+          container.innerHTML = `<div class="error">${message}</div>`;
+        }
+      }
 
       fetch(`https://api.github.com/repos/${USER}/${REPO}/contents/${FOLDER}`)
         .then((r) => (r.ok ? r.json() : Promise.reject(r.statusText)))
         .then((files) => {
-          const container = document.getElementById("surah-container");
-          container.innerHTML = "";
-
-          const htmlFiles = files
-            .filter((f) => f.name.toLowerCase().endsWith(".html"))
-            .map((f) => {
-              var match = f.name.match(/سورة\s(\d+)/); // e.g., سورة 103
-              if (match===null)
-                match = f.name.match(/دُعَاءُ\s(\d+)/); // e.g., دُعَاءُ 1
-              const surahNum = match ? parseInt(match[1], 10) : 0;
-              return { ...f, surahNum };
-            })
-            .sort((a, b) => a.surahNum - b.surahNum); // sort by surah number
-
-          htmlFiles
-            .filter((f) => f.name.toLowerCase().endsWith(".html"))
-            .forEach((f) => {
-              // Extract Arabic surah name from the filename
-              // Example: سورة النبأ - سورة 78 - عدد آياتها 40.html
-              var nameMatch = f.name.match(/سورة\s([^-]+)/);
-              if (nameMatch===null)
-                nameMatch = f.name.match(/دُعَاءُ\s([^-]+)/);
-              const arabicName = nameMatch ? nameMatch[1].trim() : "";
-
-              // Extract verse count if available
-              var verseMatch = f.name.match(/عدد آياتها\s(\d+)/);
-              if (verseMatch===null)
-                verseMatch = f.name.match(/عدد سترها\s(\d+)/);
-              const verseCount = verseMatch
-                ? parseInt(verseMatch[1], 10)
-                : null;
-
-              // Format surah number as 3-digit string with leading zeros
-              const paddedSurahNumber = f.surahNum.toString().padStart(3, "0");
-              // Create book element
-              const bookLink = document.createElement("a");
-              bookLink.className = "surah-book";
-              bookLink.href = `https://${USER}.github.io/${REPO}/${FOLDER}/${encodeURIComponent(
-                f.name
-              )}`;
-              bookLink.target = "_blank";
-              bookLink.rel = "noopener noreferrer";
-
-              // Create surah number badge
-              const numberBadge = document.createElement("span");
-              numberBadge.className = "surah-number";
-              numberBadge.textContent = `سورة ${f.surahNum} `;
-
-              // Create Arabic name element as the main central element
-              const nameDiv = document.createElement("div");
-              nameDiv.className = "surah-name";
-              nameDiv.textContent = arabicName;
-
-              // Add verse count if available (bottom right)
-              if (verseCount) {
-                const verseCountSpan = document.createElement("span");
-                verseCountSpan.className = "verse-count"; // Using the verse-count class for positioning
-                verseCountSpan.textContent = ` عدد آياتها ${verseCount}`;
-                bookLink.appendChild(verseCountSpan);
-              }
-
-              // Assemble book element
-              bookLink.appendChild(numberBadge);
-              bookLink.appendChild(nameDiv);
-
-              container.appendChild(bookLink);
-            });
-          // If no files found
-          if (htmlFiles.length === 0) {
-            container.innerHTML =
-              '<div class="error">No surah files found.</div>';
-          }
+          allFiles = files; // Store files for filtering
+          renderFiles(files, currentTab); // Initial render with surahs tab
         })
         .catch((err) => {
           document.getElementById(
