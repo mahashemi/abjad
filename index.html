@@ -366,20 +366,21 @@
     <script>
       const USER = "mahashemi"; // ← your GitHub user/org
       const REPO = "abjad"; // ← your repo name
-      const FOLDER = "output/quran"; // ← path under repo root
-      
+      const QURAN_FOLDER = "output/quran"; // ← path under repo root for quran
+      const DUAS_FOLDER = "output/duas"; // ← path under repo root for duas
+
       let allFiles = []; // Store all files for filtering
       let currentTab = 'surahs'; // Track current active tab
 
       function switchTab(tabName) {
         currentTab = tabName;
-        
+
         // Update button states
         document.querySelectorAll('.tab-button').forEach(btn => {
           btn.classList.remove('active');
         });
         document.querySelector(`[data-tab="${tabName}"]`).classList.add('active');
-        
+
         // Re-render the filtered content
         renderFiles(allFiles, tabName);
       }
@@ -423,10 +424,13 @@
             ? parseInt(verseMatch[1], 10)
             : null;
 
+          // Determine the correct folder
+          const folder = f.isDua ? DUAS_FOLDER : QURAN_FOLDER;
+
           // Create book element
           const bookLink = document.createElement("a");
           bookLink.className = "surah-book";
-          bookLink.href = `https://${USER}.github.io/${REPO}/${FOLDER}/${encodeURIComponent(
+          bookLink.href = `https://${USER}.github.io/${REPO}/${folder}/${encodeURIComponent(
             f.name
           )}`;
           bookLink.target = "_blank";
@@ -456,7 +460,7 @@
 
           container.appendChild(bookLink);
         });
-        
+
         // If no files found for this tab
         if (htmlFiles.length === 0) {
           const message = filterTab === 'surahs' ? 'لا توجد سور' : 'لا توجد أدعية';
@@ -464,16 +468,23 @@
         }
       }
 
-      fetch(`https://api.github.com/repos/${USER}/${REPO}/contents/${FOLDER}`)
-        .then((r) => (r.ok ? r.json() : Promise.reject(r.statusText)))
-        .then((files) => {
-          allFiles = files; // Store files for filtering
-          renderFiles(files, currentTab); // Initial render with surahs tab
+      // Fetch files from both folders
+      Promise.all([
+        fetch(`https://api.github.com/repos/${USER}/${REPO}/contents/${QURAN_FOLDER}`)
+          .then((r) => (r.ok ? r.json() : []))
+          .catch(() => []),
+        fetch(`https://api.github.com/repos/${USER}/${REPO}/contents/${DUAS_FOLDER}`)
+          .then((r) => (r.ok ? r.json() : []))
+          .catch(() => [])
+      ])
+        .then(([quranFiles, duaFiles]) => {
+          allFiles = [...quranFiles, ...duaFiles]; // Combine files from both folders
+          renderFiles(allFiles, currentTab); // Initial render with surahs tab
         })
         .catch((err) => {
           document.getElementById(
             "surah-container"
-          ).innerHTML = `<div class="error">Error loading surahs: ${err}</div>`;
+          ).innerHTML = `<div class="error">Error loading files: ${err}</div>`;
         });
     </script>
   </body>

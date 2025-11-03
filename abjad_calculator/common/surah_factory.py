@@ -43,7 +43,7 @@ from ..quran_library import (
     al_mujadela,
     al_hashr,
     al_waqia,
-    
+
 
     hud,
     yunus,
@@ -56,9 +56,6 @@ from ..quran_library import (
     al_imran,
     al_baqara,
     al_fatiha,
-
-    dua_faraj,
-    dua_ahad,
 )
 
 surah_fatiha_title = "سورة الفاتحة - سورة 1 - عدد آياتها 7".strip()
@@ -123,13 +120,7 @@ surah_al_ikhlas_title = "سورة الاخلاص - سورة 112 - عدد آيا�
 surah_al_falaq_title = "سورة الفلق - سورة 113 - عدد آياتها 5".strip()
 surah_al_nas_title = "سورة الناس - سورة 114 - عدد آياتها 6".strip()
 
-dua_faraj_title = "1دُعَاءُ الْفَرَجْ - دُعَاءُ 1 - عدد سترها 6".strip()
-dua_ahad_title = "1دُعَاءُ اَلْعَهْد - دُعَاءُ 2 - عدد سترها 6".strip()
-
-quran = {
-    dua_faraj_title: dua_faraj.ayats,
-    dua_ahad_title: dua_ahad.ayats,
-
+surahs = {
     surah_fatiha_title: al_fatiha.ayats,
     surah_al_baqara_title: al_baqara.ayats,
     surah_al_imran_title: al_imran.ayats,

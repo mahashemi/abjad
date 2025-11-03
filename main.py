@@ -64,7 +64,9 @@ def main():
     
     
     os.makedirs("output/quran/", exist_ok=True)
-    for title, ayats in ac.quran.items():
+
+    # Process Surahs
+    for title, ayats in ac.surahs.items():
         ac.process_multiple_verses(
             bismillah,
             title,
@@ -73,7 +75,20 @@ def main():
             chars_per_row=14,      # 18 characters per row
             debug=True,    # Show detailed summary for this longer analysis
             output_path=f"output/quran/{title}.html")
-    print("Multiple Verse:calculation complete. Check the HTML output.")
+
+    # Process Duas
+    os.makedirs("output/duas/", exist_ok=True)
+    for title, ayats in ac.duas.items():
+        ac.process_multiple_verses(
+            bismillah,
+            title,
+            ayats,
+            output_html=True,
+            chars_per_row=14,      # 18 characters per row
+            debug=True,    # Show detailed summary for this longer analysis
+            output_path=f"output/duas/{title}.html")
+
+    print("Multiple Verse calculation complete. Check the HTML output.")
 
 if __name__ == "__main__":
     main()

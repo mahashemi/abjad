@@ -10,7 +10,8 @@ from .apps.naqsh_sawamat.naqsh_calculator import generate_naqsh_musallas
 from .apps.quran.quran_calculator import calculate_quranic_verse, process_multiple_verses
 from .common.utils import format_custom_output, create_output_dir
 from .apps.naqsh_sawamat.naqsh_calculator import generate_sawamat_naqsh_html
-from .common.surah_factory import quran
+from .common.surah_factory import surahs
+from .common.dua_factory import duas
 
 # Version
 __version__ = '1.0.0'
