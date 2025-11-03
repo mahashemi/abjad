@@ -212,28 +212,31 @@
         justify-content: center;
         gap: 8px;
         margin: 30px auto 0 auto;
-        max-width: 600px;
+        max-width: 1200px;
         padding: 0 20px;
         position: relative;
+        border-bottom: 2px solid;
+        border-image: linear-gradient( to right, transparent, #8f681a, transparent ) 1;
+        /* border-image: linear-gradient(90deg, #8f681a 0%, #d4af74 50%, #8f681a 100%) 1; */
       }
 
       .tab-button {
-        flex: 1;
+        /* flex: 1; */
         font-family: "Scheherazade New", "Amiri", "Traditional Arabic", serif;
         font-size: 26px;
-        padding: 15px 35px 18px 35px;
+        padding: 0px 35px 0px 35px;
         background: linear-gradient(135deg, #5a3e2f 0%, #4a3225 50%, #3a261b 100%);
         color: #a88d5f;
         border: none;
         border-radius: 12px 12px 0 0;
         cursor: pointer;
-        transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+        transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
         box-shadow: 0 -2px 8px rgba(0, 0, 0, 0.3),
                     inset 0 1px 0 rgba(255, 255, 255, 0.1);
         text-shadow: 0px 1px 2px rgba(0, 0, 0, 0.5);
         position: relative;
         overflow: hidden;
-        border-bottom: 2px solid #2a1a12;
+        /* border-bottom: 2px solid #2a1a12; */
       }
 
       .tab-button::before {
@@ -265,6 +268,9 @@
         font-weight: bold;
         box-shadow: none;
         border-bottom: none;
+        border-top: 2px solid #8f681a;
+        border-left: 2px solid #8f681a;
+        border-right: 2px solid #8f681a;
         padding-bottom: 20px;
         transform: translateY(2px);
         text-shadow: 0px 1px 3px rgba(0, 0, 0, 0.8),
