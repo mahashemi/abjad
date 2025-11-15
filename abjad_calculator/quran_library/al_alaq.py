@@ -4,7 +4,7 @@ ayats = [
         "urdu_text": "پڑھو (اے نبی) اپنے رب کے نام سے جس نے پیدا کیا",
         "persian_text": "بخوان به نام پروردگارت که آفرید",
         "english_text": "Read in the name of your Lord who created.",
-        "transliteration": "Iqra' bismi rabbika allathee khalaq.",
+        "transliteration": "Iqra' bismi rabbika allazee khalaq.",
         "verse_number": "1",
     },
     {
