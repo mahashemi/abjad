@@ -24,7 +24,7 @@ ayats = [
         "verse_number": "3",
     },
     {
-        "arabic_text": "وَ لَلْآخِرَةُ خَيْرٌ لَّكَ مِنَ الْأُولَىٰ",
+        "arabic_text": "وَ لَلْآخِرَةُ خَيْرٌ لَّكَ مِنَ الْاُولَىٰ",
         "urdu_text": "اور بے شک تمہارے لیے آخرت بہتر ہے پہلی (زندگی) سے",
         "persian_text": "و آخرت برای تو بهتر از دنیاست",
         "english_text": "And the Hereafter is better for you than the first [life]",

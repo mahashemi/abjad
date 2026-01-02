@@ -73,7 +73,7 @@ ayats = [
     },
     {
         "verse_number": "10",
-        "arabic_text": "وَ اَمَّا مَنْ اُوتِيَ كِتَابَهُ وَرَآءَ ظَهْرِهِ",
+        "arabic_text": "وَ اَمَّا مَنْ اُوتِيَ كِتٰبَهُ وَرَآءَ ظَهْرِهِ",
         "urdu_text": "اور جس کو اس کا نامہ اعمال اس کی پیٹھ کے پیچھے سے دیا جائے گا",
         "persian_text": "و اما کسی که نامه‌اش از پشت سرش به او داده شود،",
         "english_text": "But as for he who is given his record behind his back,",

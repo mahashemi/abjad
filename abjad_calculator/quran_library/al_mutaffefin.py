@@ -89,7 +89,7 @@ ayats = [
     },
     {
         "verse_number": "12",
-        "arabic_text": "وَمَا يُكَذِّبُ بِهِۦٓ اِلَّا كُلُّ مُعْتَدٍ اَثِيمٍ",
+        "arabic_text": "وَ مَا يُكَذِّبُ بِهِۦٓ اِلَّا كُلُّ مُعْتَدٍ اَثِيمٍ",
         "urdu_text": "اور اس کا انکار وہی کرتا ہے جو حد سے بڑھنے والا گناہگار ہے",
         "persian_text": "و آن را جز هر متجاوز گناهکارى انکار نمی‌کند",
         "english_text": "And none denies it except every sinful transgressor.",

@@ -129,7 +129,7 @@ ayats = [
     },
     {
         "verse_number": "17",
-        "arabic_text": "اِذْهَبْ إِلٰى فِرْعَوْنَ اِنَّهُۥ طَغٰى",
+        "arabic_text": "اِذْهَبْ اِلٰى فِرْعَوْنَ اِنَّهُۥ طَغٰى",
         "urdu_text": " فرعون کے پاس جا، بے شک وہ سرکشی ہو گیا ہے  ہے",
         "persian_text": "برو به سوی فرعون، زیرا که او طغیان کرده است",
         "english_text": "Go to Pharaoh. Indeed, he has transgressed.",
@@ -193,7 +193,7 @@ ayats = [
     },
     {
         "verse_number": "25",
-        "arabic_text": "فَاَخَذَهُ اللَّهُ نَكَالَ الْاٰخِرَةِ وَ الْأُولٰى",
+        "arabic_text": "فَاَخَذَهُ اللَّهُ نَكَالَ الْاٰخِرَةِ وَ الْاُولٰى",
         "urdu_text": "تو اللہ نے اسے آخرت اور دنیا دونوں کی سزا میں پکڑ لیا",
         "persian_text": "پس خداوند او را به عذاب آخرت و دنیا گرفت",
         "english_text": "So Allah seized him for punishment in the Hereafter and the first [life].",

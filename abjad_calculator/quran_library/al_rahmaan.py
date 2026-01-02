@@ -16,7 +16,7 @@ ayats = [
         "verse_number": "55:2",
     },
     {
-        "arabic_text": "خَلَقَ الْإِنسَانَ",
+        "arabic_text": "خَلَقَ الْاِنسَانَ",
         "urdu_text": "انسان کو پیدا کیا",
         "persian_text": "انسان را آفرید",
         "english_text": "Created man",
@@ -56,7 +56,7 @@ ayats = [
         "verse_number": "55:7",
     },
     {
-        "arabic_text": "أَلَّا تَطْغَوْا فِي الْمِيزَانِ",
+        "arabic_text": "اَلَّا تَطْغَوْا فِي الْمِيزَانِ",
         "urdu_text": "تاکہ تم تولنے میں زیادتی نہ کرو",
         "persian_text": "تا در میزان زیاده‌روی نکنید",
         "english_text": "That you not transgress within the balance",
@@ -64,7 +64,7 @@ ayats = [
         "verse_number": "55:8",
     },
     {
-        "arabic_text": "وَأَقِيمُوا الْوَزْنَ بِالْقِسْطِ وَلَا تُخْسِرُوا الْمِيزَانَ",
+        "arabic_text": "وَاَقِيمُوا الْوَزْنَ بِالْقِسْطِ وَلَا تُخْسِرُوا الْمِيزَانَ",
         "urdu_text": "اور انصاف کے ساتھ تول کو قائم رکھو، اور ترازو میں کمی نہ کرو",
         "persian_text": "وزن را با عدالت برپا دارید و در میزان کم نگذارید",
         "english_text": "And establish weight in justice and do not make deficient the balance",
@@ -73,7 +73,7 @@ ayats = [
     },
     {
         "verse_number": 10,
-        "arabic_text": "وَٱلۡأَرۡضَ وَضَعَهَا لِلۡأَنَامِ",
+        "arabic_text": "وَٱلۡاَرۡضَ وَضَعَهَا لِلۡاَنَامِ",
         "urdu_text": "اور زمین کو اس نے مخلوق کے لیے بنایا",
         "persian_translation": "و زمین را برای آفریدگان گسترد",
         "english_translation": "And the earth He laid [out] for the creatures.",
@@ -81,7 +81,7 @@ ayats = [
     },
     {
         "verse_number": 11,
-        "arabic_text": "فِيهَا فَٰكِهَةٞ وَٱلنَّخۡلُ ذَاتُ ٱلۡأَكۡمَامِ",
+        "arabic_text": "فِيهَا فَٰكِهَةٞ وَٱلنَّخۡلُ ذَاتُ ٱلۡاَكۡمَامِ",
         "urdu_text": "اس میں میوے ہیں اور کھجور کے درخت ہیں جن کے خوشے غلافوں میں ہیں",
         "persian_translation": "در آن میوه‌ها و درخت خرما با خوشه‌های پیچیده وجود دارد",
         "english_translation": "Therein is fruit and palm trees having sheaths [of dates].",
@@ -97,7 +97,7 @@ ayats = [
     },
     {
         "verse_number": 13,
-        "arabic_text": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+        "arabic_text": "فَبِاَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
         "urdu_text": "پھر تم اپنے رب کی کون کون سی نعمتوں کو جھٹلاؤ گے؟",
         "persian_translation": "پس کدامین نعمت‌های پروردگارتان را انکار می‌کنید؟",
         "english_translation": "Then which of the favors of your Lord will you deny?",
@@ -105,7 +105,7 @@ ayats = [
     },
     {
         "verse_number": 14,
-        "arabic_text": "خَلَقَ ٱلۡإِنسَٰنَ مِن صَلۡصَٰلٖ كَٱلۡفَخَّارِ",
+        "arabic_text": "خَلَقَ ٱلۡاِنسَٰنَ مِن صَلۡصَٰلٖ كَٱلۡفَخَّارِ",
         "urdu_text": "اس نے انسان کو ٹھیکری جیسے کھنکھناتے گارے سے پیدا کیا",
         "persian_translation": "او انسان را از گِلی خشک و چون سفال آفرید",
         "english_translation": "He created man from clay like [that of] pottery.",
@@ -121,7 +121,7 @@ ayats = [
     },
     {
         "verse_number": 16,
-        "arabic_text": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+        "arabic_text": "فَبِاَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
         "urdu_text": "پھر تم اپنے رب کی کون کون سی نعمتوں کو جھٹلاؤ گے؟",
         "persian_translation": "پس کدامین نعمت‌های پروردگارتان را انکار می‌کنید؟",
         "english_translation": "Then which of the favors of your Lord will you deny?",
@@ -137,7 +137,7 @@ ayats = [
     },
     {
         "verse_number": 18,
-        "arabic_text": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+        "arabic_text": "فَبِاَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
         "urdu_text": "پھر تم اپنے رب کی کون کون سی نعمتوں کو جھٹلاؤ گے؟",
         "persian_translation": "پس کدامین نعمت‌های پروردگارتان را انکار می‌کنید؟",
         "english_translation": "Then which of the favors of your Lord will you deny?",
@@ -168,7 +168,7 @@ ayats = [
         "verse_number": 22,
     },
     {
-        "arabic_text": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+        "arabic_text": "فَبِاَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
         "urdu_text": "پھر تم اپنے رب کی کون کون سی نعمتوں کو جھٹلاؤ گے",
         "persian_text": "پس کدامیک از نعمت‌های پروردگارتان را انکار می‌کنید؟",
         "english_text": "So which of the favors of your Lord would you deny?",
@@ -176,7 +176,7 @@ ayats = [
         "verse_number": 23,
     },
     {
-        "arabic_text": "وَلَهُ ٱلْجَوَارِ ٱلْمُنشَـَٔاتُ فِى ٱلْبَحْرِ كَٱلْأَعْلَـٰمِ",
+        "arabic_text": "وَلَهُ ٱلْجَوَارِ ٱلْمُنشَـَٔاتُ فِى ٱلْبَحْرِ كَٱلْاَعْلَـٰمِ",
         "urdu_text": "اور اسی کے لیے ہیں وہ کشتیاں جو سمندر میں پہاڑوں کی طرح بلند ہوتی ہیں",
         "persian_text": "و کشتی‌های بزرگ در دریا چون کوه‌ها به فرمان او روان‌اند",
         "english_text": "And His are the ships elevated in the sea like mountains.",
@@ -184,7 +184,7 @@ ayats = [
         "verse_number": 24,
     },
     {
-        "arabic_text": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+        "arabic_text": "فَبِاَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
         "urdu_text": "پھر تم اپنے رب کی کون کون سی نعمتوں کو جھٹلاؤ گے",
         "persian_text": "پس کدامیک از نعمت‌های پروردگارتان را انکار می‌کنید؟",
         "english_text": "So which of the favors of your Lord would you deny?",
@@ -200,7 +200,7 @@ ayats = [
         "verse_number": 26,
     },
     {
-        "arabic_text": "وَيَبْقَىٰ وَجْهُ رَبِّكَ ذُو ٱلْجَلَـٰلِ وَٱلْإِكْرَامِ",
+        "arabic_text": "وَيَبْقَىٰ وَجْهُ رَبِّكَ ذُو ٱلْجَلَـٰلِ وَٱلْاِكْرَامِ",
         "urdu_text": "اور تمہارے رب کی ذات جو عظمت اور عزت والی ہے باقی رہے گی",
         "persian_text": "و تنها ذات پروردگارت که صاحب جلال و بزرگی است باقی می‌ماند",
         "english_text": "And the Face of your Lord full of Majesty and Honor will remain.",
@@ -208,7 +208,7 @@ ayats = [
         "verse_number": 27,
     },
     {
-        "arabic_text": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+        "arabic_text": "فَبِاَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
         "urdu_text": "پھر تم اپنے رب کی کون کون سی نعمتوں کو جھٹلاؤ گے",
         "persian_text": "پس کدام یک از نعمت‌های پروردگارتان را انکار می‌کنید؟",
         "english_text": "So which of the favors of your Lord would you deny?",
@@ -216,7 +216,7 @@ ayats = [
         "verse_number": 28,
     },
     {
-        "arabic_text": "يَسْـَٔلُهُۥ مَن فِى ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۚ كُلَّ يَوْمٍ هُوَ فِى شَأْنٍۭ",
+        "arabic_text": "يَسْـَٔلُهُۥ مَن فِى ٱلسَّمَـٰوَٰتِ وَٱلْاَرْضِ ۚ كُلَّ يَوْمٍ هُوَ فِى شَأْنٍۭ",
         "urdu_text": "اسی سے سوال کرتے ہیں وہ سب جو آسمانوں اور زمین میں ہیں، ہر روز وہ ایک شان میں ہوتا ہے",
         "persian_text": "هر که در آسمان‌ها و زمین است از او درخواست می‌کند؛ هر روز او در کاری است",
         "english_text": "Everyone in the heavens and earth asks Him; every day He is bringing about a matter.",
@@ -224,7 +224,7 @@ ayats = [
         "verse_number": 29,
     },
     {
-        "arabic_text": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+        "arabic_text": "فَبِاَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
         "urdu_text": "پھر تم اپنے رب کی کون کون سی نعمتوں کو جھٹلاؤ گے",
         "persian_text": "پس کدام یک از نعمت‌های پروردگارتان را انکار می‌کنید؟",
         "english_text": "So which of the favors of your Lord would you deny?",
@@ -232,7 +232,7 @@ ayats = [
         "verse_number": 30,
     },
     {
-        "arabic_text": "سَنَفْرُغُ لَكُمْ أَيُّهَ ٱلثَّقَلَانِ",
+        "arabic_text": "سَنَفْرُغُ لَكُمْ اَيُّهَ ٱلثَّقَلَانِ",
         "urdu_text": "اے بوجھ والو! ہم تمہارے حساب کے لیے فارغ ہو جائیں گے",
         "persian_text": "ای گروه جن و انس، به زودی به حساب شما خواهیم پرداخت",
         "english_text": "We will attend to you, O prominent beings.",
@@ -240,7 +240,7 @@ ayats = [
         "verse_number": 31,
     },
     {
-        "arabic_text": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+        "arabic_text": "فَبِاَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
         "urdu_text": "پھر تم اپنے رب کی کون کون سی نعمتوں کو جھٹلاؤ گے",
         "persian_text": "پس کدام یک از نعمت‌های پروردگارتان را انکار می‌کنید؟",
         "english_text": "So which of the favors of your Lord would you deny?",
@@ -248,7 +248,7 @@ ayats = [
         "verse_number": 32,
     },
     {
-        "arabic_text": "يَـٰمَعْشَرَ ٱلْجِنِّ وَٱلْإِنسِ إِنِ ٱسْتَطَعْتُمْ أَن تَنفُذُوا۟ مِنْ أَقْطَارِ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ فَٱنفُذُوا۟ ۚ لَا تَنفُذُونَ إِلَّا بِسُلْطَـٰنٍۢ",
+        "arabic_text": "يَـٰمَعْشَرَ ٱلْجِنِّ وَٱلْاِنسِ اِنِ ٱسْتَطَعْتُمْ اَن تَنفُذُوا۟ مِنْ اَقْطَارِ ٱلسَّمَـٰوَٰتِ وَٱلْاَرْضِ فَٱنفُذُوا۟ ۚ لَا تَنفُذُونَ اِلَّا بِسُلْطَـٰنٍۢ",
         "urdu_text": "اے جنوں اور انسانوں کی جماعت! اگر تم آسمانوں اور زمین کے کناروں سے نکل سکتے ہو تو نکل جاؤ، تم طاقت کے بغیر نہیں نکل سکتے",
         "persian_text": "ای گروه جن و انس! اگر می‌توانید از مرزهای آسمان‌ها و زمین بگریزید، بگریزید، اما جز با قدرت، نمی‌گریزید",
         "english_text": "O company of jinn and mankind, if you are able to pass beyond the regions of the heavens and the earth, then pass. You will not pass except by authority.",
@@ -256,7 +256,7 @@ ayats = [
         "verse_number": 33,
     },
     {
-        "arabic_text": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+        "arabic_text": "فَبِاَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
         "urdu_text": "پھر تم اپنے رب کی کون کون سی نعمتوں کو جھٹلاؤ گے",
         "persian_text": "پس کدام یک از نعمت‌های پروردگارتان را انکار می‌کنید؟",
         "english_text": "So which of the favors of your Lord would you deny?",
@@ -272,7 +272,7 @@ ayats = [
         "verse_number": 35,
     },
     {
-        "arabic_text": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+        "arabic_text": "فَبِاَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
         "urdu_text": "پھر تم اپنے رب کی کون کون سی نعمتوں کو جھٹلاؤ گے",
         "persian_text": "پس کدام یک از نعمت‌های پروردگارتان را انکار می‌کنید؟",
         "english_text": "So which of the favors of your Lord would you deny?",
@@ -280,7 +280,7 @@ ayats = [
         "verse_number": 36,
     },
     {
-        "arabic_text": "فَإِذَا ٱنشَقَّتِ ٱلسَّمَآءُ فَكَانَتْ وَرْدَةًۭ كَٱلدِّهَانِ",
+        "arabic_text": "فَاِذَا ٱنشَقَّتِ ٱلسَّمَآءُ فَكَانَتْ وَرْدَةًۭ كَٱلدِّهَانِ",
         "urdu_text": "پھر جب آسمان پھٹ جائے گا تو وہ گلابی ہو جائے گا جیسے تیل کی تلچھٹ",
         "persian_text": "پس آنگاه که آسمان شکافته شود و چون گل سرخ و روغن گداخته گردد",
         "english_text": "And when the heaven is split open and becomes rose-colored like oil.",
@@ -288,7 +288,7 @@ ayats = [
         "verse_number": 37,
     },
     {
-        "arabic_text": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+        "arabic_text": "فَبِاَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
         "urdu_text": "پھر تم اپنے رب کی کون کون سی نعمتوں کو جھٹلاؤ گے",
         "persian_text": "پس کدام یک از نعمت‌های پروردگارتان را انکار می‌کنید؟",
         "english_text": "So which of the favors of your Lord would you deny?",
@@ -296,7 +296,7 @@ ayats = [
         "verse_number": 38,
     },
     {
-        "arabic_text": "فَيَوْمَئِذٍۢ لَّا يُسْـَٔلُ عَن ذَنبِهِۦٓ إِنسٌۭ وَلَا جَآنٌّۭ",
+        "arabic_text": "فَيَوْمَئِذٍۢ لَّا يُسْـَٔلُ عَن ذَنبِهِۦٓ اِنسٌۭ وَلَا جَآنٌّۭ",
         "urdu_text": "پھر اس دن نہ انسان سے اور نہ جن سے ان کے گناہوں کے بارے میں سوال کیا جائے گا",
         "persian_text": "پس در آن روز از گناه هیچ انسانی و هیچ جنی پرسش نخواهد شد",
         "english_text": "Then on that Day none will be asked about his sin among men or jinn.",
@@ -304,7 +304,7 @@ ayats = [
         "verse_number": 39,
     },
     {
-        "arabic_text": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+        "arabic_text": "فَبِاَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
         "urdu_text": "پھر تم اپنے رب کی کون کون سی نعمتوں کو جھٹلاؤ گے",
         "persian_text": "پس کدام یک از نعمت‌های پروردگارتان را انکار می‌کنید؟",
         "english_text": "So which of the favors of your Lord would you deny?",
@@ -312,7 +312,7 @@ ayats = [
         "verse_number": 40,
     },
     {
-        "arabic_text": "يُعْرَفُ ٱلْمُجْرِمُونَ بِسِيمَـٰهُمْ فَيُؤْخَذُ بِٱلنَّوَاصِى وَٱلْأَقْدَامِ",
+        "arabic_text": "يُعْرَفُ ٱلْمُجْرِمُونَ بِسِيمَـٰهُمْ فَيُؤْخَذُ بِٱلنَّوَاصِى وَٱلْاَقْدَامِ",
         "urdu_text": "مجرم اپنے چہروں سے پہچانے جائیں گے، پھر پیشانیوں اور پاؤں سے پکڑا جائے گا",
         "persian_text": "گناهکاران از چهره‌شان شناخته می‌شوند و از پیشانی و پاها گرفته می‌شوند",
         "english_text": "The sinners will be known by their marks, and they will be seized by the forelocks and the feet.",
@@ -320,7 +320,7 @@ ayats = [
         "verse_number": 41,
     },
     {
-        "arabic_text": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+        "arabic_text": "فَبِاَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
         "urdu_text": "پھر تم اپنے رب کی کون کون سی نعمتوں کو جھٹلاؤ گے؟",
         "persian_text": "پس کدام‌یک از نعمت‌های پروردگارتان را انکار می‌کنید؟",
         "english_text": "Then which of the favors of your Lord will you deny?",
@@ -344,7 +344,7 @@ ayats = [
         "verse_number": 44,
     },
     {
-        "arabic_text": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+        "arabic_text": "فَبِاَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
         "urdu_text": "پھر تم اپنے رب کی کون کون سی نعمتوں کو جھٹلاؤ گے؟",
         "persian_text": "پس کدام‌یک از نعمت‌های پروردگارتان را انکار می‌کنید؟",
         "english_text": "Then which of the favors of your Lord will you deny?",
@@ -360,7 +360,7 @@ ayats = [
         "verse_number": 46,
     },
     {
-        "arabic_text": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+        "arabic_text": "فَبِاَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
         "urdu_text": "پھر تم اپنے رب کی کون کون سی نعمتوں کو جھٹلاؤ گے؟",
         "persian_text": "پس کدام‌یک از نعمت‌های پروردگارتان را انکار می‌کنید؟",
         "english_text": "Then which of the favors of your Lord will you deny?",
@@ -368,7 +368,7 @@ ayats = [
         "verse_number": 47,
     },
     {
-        "arabic_text": "ذَوَاتَآ أَفْنَانٍۢ",
+        "arabic_text": "ذَوَاتَآ اَفْنَانٍۢ",
         "urdu_text": "جن کی شاخیں جھکی ہوئی ہوں گی",
         "persian_text": "دارای شاخه‌های بسیار",
         "english_text": "Having spreading branches.",
@@ -376,7 +376,7 @@ ayats = [
         "verse_number": 48,
     },
     {
-        "arabic_text": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+        "arabic_text": "فَبِاَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
         "urdu_text": "پھر تم اپنے رب کی کون کون سی نعمتوں کو جھٹلاؤ گے؟",
         "persian_text": "پس کدام‌یک از نعمت‌های پروردگارتان را انکار می‌کنید؟",
         "english_text": "Then which of the favors of your Lord will you deny?",
@@ -392,7 +392,7 @@ ayats = [
         "verse_number": 50,
     },
     {
-        "arabic_text": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+        "arabic_text": "فَبِاَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
         "urdu_text": "پھر تم اپنے رب کی کون کون سی نعمتوں کو جھٹلاؤ گے؟",
         "persian_text": "پس کدام‌یک از نعمت‌های پروردگارتان را انکار می‌کنید؟",
         "english_text": "Then which of the favors of your Lord will you deny?",
@@ -408,7 +408,7 @@ ayats = [
         "verse_number": 52,
     },
     {
-        "arabic_text": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+        "arabic_text": "فَبِاَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
         "urdu_text": "پھر تم اپنے رب کی کون کون سی نعمتوں کو جھٹلاؤ گے؟",
         "persian_text": "پس کدام‌یک از نعمت‌های پروردگارتان را انکار می‌کنید؟",
         "english_text": "Then which of the favors of your Lord will you deny?",
@@ -416,7 +416,7 @@ ayats = [
         "verse_number": 53,
     },
     {
-        "arabic_text": "مُتَّكِـِٔينَ عَلَىٰ فُرُشٍۢ بَطَآئِنُهَا مِنْ إِسْتَبْرَقٍۢ ۚ وَجَنَى ٱلْجَنَّتَيْنِ دَانٍۭ",
+        "arabic_text": "مُتَّكِـِٔينَ عَلَىٰ فُرُشٍۢ بَطَآئِنُهَا مِنْ اِسْتَبْرَقٍۢ ۚ وَجَنَى ٱلْجَنَّتَيْنِ دَانٍۭ",
         "urdu_text": "وہ ٹیک لگائے ہوں گے مخملی کپڑے کے بستروں پر، اور دونوں جنتوں کے پھل قریب ہوں گے",
         "persian_text": "بر تخت‌هایی تکیه زده‌اند که آستری آن‌ها از دیباست، و میوه‌های دو بهشت در دسترس است",
         "english_text": "Reclining on beds whose linings are of silk brocade, and the fruit of the two gardens is hanging low.",
@@ -424,7 +424,7 @@ ayats = [
         "verse_number": 54,
     },
     {
-        "arabic_text": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+        "arabic_text": "فَبِاَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
         "urdu_text": "پھر تم اپنے رب کی کون کون سی نعمتوں کو جھٹلاؤ گے؟",
         "persian_text": "پس کدام‌یک از نعمت‌های پروردگارتان را انکار می‌کنید؟",
         "english_text": "Then which of the favors of your Lord will you deny?",
@@ -432,7 +432,7 @@ ayats = [
         "verse_number": 55,
     },
     {
-        "arabic_text": "فِيهِنَّ قَـٰصِرَٰتُ ٱلطَّرْفِ لَمْ يَطْمِثْهُنَّ إِنسٌۭ قَبْلَهُمْ وَلَا جَآنٌّۭ",
+        "arabic_text": "فِيهِنَّ قَـٰصِرَٰتُ ٱلطَّرْفِ لَمْ يَطْمِثْهُنَّ اِنسٌۭ قَبْلَهُمْ وَلَا جَآنٌّۭ",
         "urdu_text": "ان میں نیچی نظروں والی عورتیں ہوں گی، جنہیں ان سے پہلے کسی انسان یا جن نے نہ چھوا ہوگا",
         "persian_text": "در آن‌ها زنانی هستند که نگاه‌شان فروهشته است، که پیش از آن‌ها هیچ انسانی یا جنی به آن‌ها دست نزده است",
         "english_text": "In them are women limiting their glances, whom no man or jinn has touched before them.",
@@ -440,7 +440,7 @@ ayats = [
         "verse_number": 56,
     },
     {
-        "arabic_text": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+        "arabic_text": "فَبِاَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
         "urdu_text": "پھر تم اپنے رب کی کون کون سی نعمتوں کو جھٹلاؤ گے؟",
         "persian_text": "پس کدام‌یک از نعمت‌های پروردگارتان را انکار می‌کنید؟",
         "english_text": "Then which of the favors of your Lord will you deny?",
@@ -448,7 +448,7 @@ ayats = [
         "verse_number": 57,
     },
     {
-        "arabic_text": "كَأَنَّهُنَّ ٱلْيَاقُوتُ وَٱلْمَرْجَانُ",
+        "arabic_text": "كَاَنَّهُنَّ ٱلْيَاقُوتُ وَٱلْمَرْجَانُ",
         "urdu_text": "گویا وہ یاقوت اور مرجان کی مانند ہوں گی",
         "persian_text": "چنان‌اند که گویی یاقوت و مرجان‌اند",
         "english_text": "As if they were rubies and coral.",
@@ -456,7 +456,7 @@ ayats = [
         "verse_number": 58,
     },
     {
-        "arabic_text": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+        "arabic_text": "فَبِاَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
         "urdu_text": "پھر تم اپنے رب کی کون کون سی نعمتوں کو جھٹلاؤ گے؟",
         "persian_text": "پس کدام‌یک از نعمت‌های پروردگارتان را انکار می‌کنید؟",
         "english_text": "Then which of the favors of your Lord will you deny?",
@@ -464,7 +464,7 @@ ayats = [
         "verse_number": 59,
     },
     {
-        "arabic_text": "هَلْ جَزَآءُ ٱلْإِحْسَـٰنِ إِلَّا ٱلْإِحْسَـٰنُ",
+        "arabic_text": "هَلْ جَزَآءُ ٱلْاِحْسَـٰنِ اِلَّا ٱلْاِحْسَـٰنُ",
         "urdu_text": "نیکی کا بدلہ نیکی کے سوا اور کیا ہو سکتا ہے؟",
         "persian_text": "آیا پاداش نیکی چیزی جز نیکی است؟",
         "english_text": "Is the reward for good [anything] but good?",
@@ -472,7 +472,7 @@ ayats = [
         "verse_number": 60,
     },
     {
-        "arabic_text": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+        "arabic_text": "فَبِاَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
         "urdu_text": "پھر تم اپنے رب کی کون کون سی نعمتوں کو جھٹلاؤ گے؟",
         "persian_text": "پس کدام‌یک از نعمت‌های پروردگارتان را انکار می‌کنید؟",
         "english_text": "Then which of the favors of your Lord will you deny?",
@@ -488,7 +488,7 @@ ayats = [
         "verse_number": 62,
     },
     {
-        "arabic_text": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+        "arabic_text": "فَبِاَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
         "urdu_text": "پھر تم اپنے رب کی کون کون سی نعمتوں کو جھٹلاؤ گے؟",
         "persian_text": "پس کدام‌یک از نعمت‌های پروردگارتان را انکار می‌کنید؟",
         "english_text": "Then which of the favors of your Lord will you deny?",
@@ -504,7 +504,7 @@ ayats = [
         "verse_number": 64,
     },
     {
-        "arabic_text": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+        "arabic_text": "فَبِاَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
         "urdu_text": "پھر تم اپنے رب کی کون کون سی نعمتوں کو جھٹلاؤ گے؟",
         "persian_text": "پس کدام‌یک از نعمت‌های پروردگارتان را انکار می‌کنید؟",
         "english_text": "Then which of the favors of your Lord will you deny?",
@@ -520,7 +520,7 @@ ayats = [
         "verse_number": 66,
     },
     {
-        "arabic_text": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+        "arabic_text": "فَبِاَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
         "urdu_text": "پھر تم اپنے رب کی کون کون سی نعمتوں کو جھٹلاؤ گے؟",
         "persian_text": "پس کدام‌یک از نعمت‌های پروردگارتان را انکار می‌کنید؟",
         "english_text": "Then which of the favors of your Lord will you deny?",
@@ -536,7 +536,7 @@ ayats = [
         "verse_number": 68,
     },
     {
-        "arabic_text": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+        "arabic_text": "فَبِاَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
         "urdu_text": "پھر تم اپنے رب کی کون کون سی نعمتوں کو جھٹلاؤ گے؟",
         "persian_text": "پس کدام‌یک از نعمت‌های پروردگارتان را انکار می‌کنید؟",
         "english_text": "Then which of the favors of your Lord will you deny?",
@@ -552,7 +552,7 @@ ayats = [
         "verse_number": 70,
     },
     {
-        "arabic_text": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+        "arabic_text": "فَبِاَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
         "urdu_text": "پھر تم اپنے رب کی کون کون سی نعمتوں کو جھٹلاؤ گے؟",
         "persian_text": "پس کدام‌یک از نعمت‌های پروردگارتان را انکار می‌کنید؟",
         "english_text": "Then which of the favors of your Lord will you deny?",
@@ -568,7 +568,7 @@ ayats = [
         "verse_number": 72,
     },
     {
-        "arabic_text": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+        "arabic_text": "فَبِاَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
         "urdu_text": "پھر تم اپنے رب کی کون کون سی نعمتوں کو جھٹلاؤ گے؟",
         "persian_text": "پس کدام‌یک از نعمت‌های پروردگارتان را انکار می‌کنید؟",
         "english_text": "Then which of the favors of your Lord will you deny?",
@@ -576,7 +576,7 @@ ayats = [
         "verse_number": 73,
     },
     {
-        "arabic_text": "لَمْ يَطْمِثْهُنَّ إِنسٌۭ قَبْلَهُمْ وَلَا جَآنٌّۭ",
+        "arabic_text": "لَمْ يَطْمِثْهُنَّ اِنسٌۭ قَبْلَهُمْ وَلَا جَآنٌّۭ",
         "urdu_text": "انہیں ان سے پہلے نہ کسی انسان نے چھوا، نہ کسی جن نے",
         "persian_text": "که هیچ انسانی و جنی پیش از آنان آن‌ها را لمس نکرده است",
         "english_text": "Whom no man or jinn has touched before them.",
@@ -584,7 +584,7 @@ ayats = [
         "verse_number": 74,
     },
     {
-        "arabic_text": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+        "arabic_text": "فَبِاَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
         "urdu_text": "پھر تم اپنے رب کی کون کون سی نعمتوں کو جھٹلاؤ گے؟",
         "persian_text": "پس کدام‌یک از نعمت‌های پروردگارتان را انکار می‌کنید؟",
         "english_text": "Then which of the favors of your Lord will you deny?",
@@ -600,7 +600,7 @@ ayats = [
         "verse_number": 76,
     },
     {
-        "arabic_text": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+        "arabic_text": "فَبِاَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
         "urdu_text": "پھر تم اپنے رب کی کون کون سی نعمتوں کو جھٹلاؤ گے؟",
         "persian_text": "پس کدام‌یک از نعمت‌های پروردگارتان را انکار می‌کنید؟",
         "english_text": "Then which of the favors of your Lord will you deny?",
@@ -608,7 +608,7 @@ ayats = [
         "verse_number": 77,
     },
     {
-        "arabic_text": "تَبَـٰرَكَ ٱسْمُ رَبِّكَ ذِى ٱلْجَلَـٰلِ وَٱلْإِكْرَامِ",
+        "arabic_text": "تَبَـٰرَكَ ٱسْمُ رَبِّكَ ذِى ٱلْجَلَـٰلِ وَٱلْاِكْرَامِ",
         "urdu_text": "بہت بابرکت ہے تیرے رب کا نام جو عظمت اور بزرگی والا ہے",
         "persian_text": "مبارک است نام پروردگار تو، صاحب جلال و بزرگواری",
         "english_text": "Blessed is the name of your Lord, Owner of Majesty and Honor.",

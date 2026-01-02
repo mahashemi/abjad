@@ -17,7 +17,7 @@ ayats = [
     },
     {
         "verse_number": "3",
-        "arabic_text": "وَمَا يُدْرِيكَ لَعَلَّهُۥ يَزَّكَّىٰٓ",
+        "arabic_text": "وَ مَا يُدْرِيكَ لَعَلَّهُۥ يَزَّكَّىٰٓ",
         "urdu_text": "اور تمہیں کیا خبر شاید وہ پاکیزہ ہو جائے",
         "persian_text": "و تو چه می‌دانی شاید او پاک شود",
         "english_text": "But what would make you perceive that perhaps he might be purified",
@@ -25,7 +25,7 @@ ayats = [
     },
     {
         "verse_number": "4",
-        "arabic_text": "أَوْ يَذَّكَّرُ فَتَنفَعَهُ ٱلذِّكْرٰى",
+        "arabic_text": "اَوْ يَذَّكَّرُ فَتَنفَعَهُ ٱلذِّكْرٰى",
         "urdu_text": "یا وہ نصیحت حاصل کرے اور نصیحت اس کو فائدہ دے",
         "persian_text": "یا پند گیرد، و پند به او سود رساند",
         "english_text": "Or be reminded and the remembrance would benefit him?",
@@ -49,7 +49,7 @@ ayats = [
     },
     {
         "verse_number": "7",
-        "arabic_text": "وَمَا عَلَيْكَ اَلَّا يَزَّكَّىٰ",
+        "arabic_text": "وَ مَا عَلَيْكَ اَلَّا يَزَّكَّىٰ",
         "urdu_text": "حلانکے آپ پر کوئی ذمیہ داری نہین ہے اگر وہ پاکیزہ نہ بھی بنے",
         "persian_text": "در حالی‌که بر تو نیست اگر او پاک نشود",
         "english_text": "Though there is no blame on you if he will not be purified",
@@ -65,7 +65,7 @@ ayats = [
     },
     {
         "verse_number": "9",
-        "arabic_text": "وَهُوَ يَخْشٰى",
+        "arabic_text": "وَ هُوَ يَخْشٰى",
         "urdu_text": "اور وہ ڈر بھی رہا تھا",
         "persian_text": "در حالی که می‌ترسید",
         "english_text": "While he fears [Allah]",
@@ -81,7 +81,7 @@ ayats = [
     },
     {
         "verse_number": "11",
-        "arabic_text": "كَلَّآ إِنَّهَا تَذْكِرَةٌ",
+        "arabic_text": "كَلَّآ اِنَّهَا تَذْكِرَةٌ",
         "urdu_text": "یقیناً یہ قرآن ایک نصیحت ہے",
         "persian_text": "چنین نیست، بی‌گمان آن پندی است",
         "english_text": "No! Indeed, it is a reminder",
@@ -201,7 +201,7 @@ ayats = [
     },
     {
         "verse_number": "26",
-        "arabic_text": "ثُمَّ شَقَقْنَا اَلْأَرْضَ شَقًّا",
+        "arabic_text": "ثُمَّ شَقَقْنَا اَلْاَرْضَ شَقًّا",
         "urdu_text": "پھر زمین کو اچھی طرح چیر دیا",
         "persian_text": "سپس زمین را شکافتیم",
         "english_text": "Then We split the earth in clefts",
