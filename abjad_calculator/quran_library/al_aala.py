@@ -48,7 +48,7 @@ ayats = [
         "verse_number": "6",
     },
     {
-        "arabic_text": "اِلَّا مَا شَآءَ اللَّهُ اِنَّهُ يَعْلَمُ الْجَهْرَ وَ مَا يَخْفٰى",
+        "arabic_text": "اِلَّا مَا شَآءَ اللّٰهُ اِنَّهُ يَعْلَمُ الْجَهْرَ وَ مَا يَخْفٰى",
         "urdu_text": "مگر جو اللہ چاہے، بے شک وہ ظاہر اور چھپی بات کو جانتا ہے",
         "persian_text": "مگر آنچه خدا بخواهد، همانا او آشکار و پنهان را می‌داند",
         "english_text": "Except what Allah wills. Indeed, He knows what is declared and what is hidden.",

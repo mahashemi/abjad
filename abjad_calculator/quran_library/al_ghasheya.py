@@ -185,7 +185,7 @@ ayats = [
     },
     {
         "verse_number": "24",
-        "arabic_text": "فَيُعَذِّبُهُ اللَّهُ الْعَذَابَ الْاَكْبَرَ",
+        "arabic_text": "فَيُعَذِّبُهُ اللّٰهُ الْعَذَابَ الْاَكْبَرَ",
         "urdu_text": "پھر اللہ اسے بڑا عذاب دے گا",
         "persian_text": "پس خدا او را به عذاب بزرگ دچار می‌سازد.",
         "english_text": "Then Allah will punish him with the greatest punishment.",

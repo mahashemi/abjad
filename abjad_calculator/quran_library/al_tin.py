@@ -56,7 +56,7 @@ ayats = [
         "verse_number": "7",
     },
     {
-        "arabic_text": "اَلَيْسَ اللَّهُ بِاَحْكَمِ الْحٰكِمِينَ",
+        "arabic_text": "اَلَيْسَ اللّٰهُ بِاَحْكَمِ الْحٰكِمِينَ",
         "urdu_text": "کیا اللہ سب حاکموں سے بڑا حاکم نہیں ہے؟",
         "persian_text": "آیا خداوند، حاکم‌ترین حاکمان نیست؟",
         "english_text": "Is not Allah the most just of judges?",

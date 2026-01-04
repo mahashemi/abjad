@@ -96,7 +96,7 @@ ayats = [
         "verse_number": "12",
     },
     {
-        "arabic_text": "فَقَالَ لَهُمْ رَسُولُ اللَّهِ نَاقَةَ اللَّهِ وَ سُقْيٰهَا",
+        "arabic_text": "فَقَالَ لَهُمْ رَسُولُ اللّٰهِ نَاقَةَ اللّٰهِ وَ سُقْيٰهَا",
         "urdu_text": "تو اللہ کے رسول نے ان سے فرمایا: اللہ کی اونٹنی اور اس کے پانی پینے کا حق (بچاؤ)",
         "persian_text": "فرستاده خدا به آنان گفت: ناقه خدا و آبشخورش را (محترم دارید)",
         "english_text": "But the Messenger of Allah said to them, '[Do not harm] the she-camel of Allah or [prevent] her from her drink.'",

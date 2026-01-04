@@ -112,7 +112,7 @@ ayats = [
         "verse_number": "14",
     },
     {
-        "arabic_text": "عَلَىٰ سُرُرٖ مَّوْضُونَةٖ",
+        "arabic_text": "عَلٰى سُرُرٖ مَّوْضُونَةٖ",
         "urdu_text": "وہ جڑاؤ تختوں پر ہوں گے",
         "persian_text": "بر تخت‌های بافته‌شده خواهند بود",
         "english_text": "On thrones woven [with ornament]",
@@ -136,7 +136,7 @@ ayats = [
         "verse_number": "17",
     },
     {
-        "arabic_text": "بِاَكْوَابٖ وَاَبَارِيقَ وَكَأْسٖ مِّن مَّعِينٖ",
+        "arabic_text": "بِاَكْوَابٖ وَاَبَارِيقَ وَكَاْسٖ مِّن مَّعِينٖ",
         "urdu_text": "پیالوں، جگوں اور ایک جاری چشمے سے بھرے ہوئے جاموں کے ساتھ",
         "persian_text": "با جام‌ها، کوزه‌ها و پیاله‌هایی از شراب جاری",
         "english_text": "With vessels, pitchers and a cup [of wine] from a flowing spring",
@@ -192,7 +192,7 @@ ayats = [
         "verse_number": "24",
     },
     {
-        "arabic_text": "لَا يَسْمَعُونَ فِيهَا لَغْوًا وَلَا تَأْثِيمًا",
+        "arabic_text": "لَا يَسْمَعُونَ فِيهَا لَغْوًا وَلَا تَاْثِيمًا",
         "urdu_text": "نہ وہ وہاں کوئی بیہودہ بات سنیں گے نہ گناہ کی",
         "persian_text": "نه در آنجا سخن لغو می‌شنوند و نه گناه‌آلود",
         "english_text": "They will not hear therein ill speech or commission of sin",
@@ -272,7 +272,7 @@ ayats = [
         "verse_number": "34",
     },
     {
-        "arabic_text": "اِنَّآ اَنشَأْنَٰهُنَّ اِنشَآءٗ",
+        "arabic_text": "اِنَّآ اَنشَاْنَٰهُنَّ اِنشَآءٗ",
         "urdu_text": "ہم نے ان (بیویوں) کو خاص طور پر پیدا کیا",
         "persian_text": "ما آنان را آفرینشی نو بخشیدیم",
         "english_text": "Indeed, We have produced them [i.e., the women] in a [new] creation",
@@ -568,7 +568,7 @@ ayats = [
         "verse_number": "71",
     },
     {
-        "arabic_text": "ءَاَنتُمْ اَنشَأْتُمْ شَجَرَتَهَآ اَمْ نَحْنُ ٱلْمُنشِـُٔونَ",
+        "arabic_text": "ءَاَنتُمْ اَنشَاْتُمْ شَجَرَتَهَآ اَمْ نَحْنُ ٱلْمُنشِـُٔونَ",
         "urdu_text": "کیا تم نے اس کے درخت کو پیدا کیا ہے یا ہم پیدا کرنے والے ہیں؟",
         "persian_text": "آیا شما درخت آن را پدید آوردید یا ما پدید آورندگانیم؟",
         "english_text": "Is it you who produced its tree, or are We the producer?",

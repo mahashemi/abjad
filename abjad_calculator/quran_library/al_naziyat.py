@@ -193,7 +193,7 @@ ayats = [
     },
     {
         "verse_number": "25",
-        "arabic_text": "فَاَخَذَهُ اللَّهُ نَكَالَ الْاٰخِرَةِ وَ الْاُولٰى",
+        "arabic_text": "فَاَخَذَهُ اللّٰهُ نَكَالَ الْاٰخِرَةِ وَ الْاُولٰى",
         "urdu_text": "تو اللہ نے اسے آخرت اور دنیا دونوں کی سزا میں پکڑ لیا",
         "persian_text": "پس خداوند او را به عذاب آخرت و دنیا گرفت",
         "english_text": "So Allah seized him for punishment in the Hereafter and the first [life].",

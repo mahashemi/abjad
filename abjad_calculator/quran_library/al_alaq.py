@@ -106,7 +106,7 @@ ayats = [
         "verse_number": "13",
     },
     {
-        "arabic_text": "اَلَمْ يَعْلَم بِاَنَّ اللَّهَ يَرٰى",
+        "arabic_text": "اَلَمْ يَعْلَم بِاَنَّ اللّٰهَ يَرٰى",
         "urdu_text": "کیا اسے معلوم نہیں کہ اللہ دیکھ رہا ہے؟",
         "persian_text": "آیا نمی‌داند که خداوند می‌بیند؟",
         "english_text": "Does he not know that Allah sees?",

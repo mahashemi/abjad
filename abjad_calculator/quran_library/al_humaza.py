@@ -41,7 +41,7 @@ ayats = [
   },
   {
     "verse_number": "6",
-    "arabic_text": "نَارُ اللَّهِ الْمُوقَدَةُ",
+    "arabic_text": "نَارُ اللّٰهِ الْمُوقَدَةُ",
     "urdu_text": "وہ اللہ کی بھڑکائی ہوئی آگ ہے",
     "persian_text": "آتش افروخته‌ی خداست",
     "english_text": "[It is] the fire of Allah, [eternally] fueled",
