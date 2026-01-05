@@ -5,8 +5,27 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>The Holy Quran with Abjad Translation</title>
     <style>
-      @import url("https://fonts.googleapis.com/css2?family=Mirza&display=swap");
+      @import url("https://fonts.googleapis.com/css2?family=Amiri+Quran&family=Gulzar&family=Mirza:wght@400;500;600;700&display=swap");
       @import url("https://fonts.googleapis.com/css2?family=Amiri:wght@400;700&family=Scheherazade+New:wght@400;700&display=swap");
+      @font-face {
+        font-family: "IndoPakNastaleeq";
+        src:
+          url("output/quran/fonts/indopak/indopak-nastaleeq-waqf-lazim-v4.2.1.woff2") format("woff2"),
+          url("output/quran/fonts/indopak/indopak-nastaleeq-waqf-lazim-v4.2.1.woff") format("woff"),
+          url("output/quran/fonts/indopak/indopak-nastaleeq-waqf-lazim-v4.2.1.ttf") format("truetype");
+        font-weight: normal;
+        font-style: normal;
+        font-display: swap;
+      }
+      @font-face {
+        font-family: "Quran-Uthmani";
+        src:
+          url("output/quran/fonts/usmani/UthmanicHafs1Ver18.woff2") format("woff2"),
+          url("output/quran/fonts/usmani/UthmanicHafs1Ver18.ttf") format("truetype");
+        font-weight: normal;
+        font-style: normal;
+        font-display: swap;
+      }
       html {
         background-color: #321414;
         /* background: repeating-linear-gradient(
@@ -129,16 +148,16 @@
         color: #553a10;
         text-align: center;
         padding: 0px;
-        /* font-weight: bold; */
+        font-weight: normal;
         font-size: 28px;
         text-shadow: 0px 1px 1px rgba(255, 255, 255, 0.5);
-        /* letter-spacing: 1px; */
         position: relative;
         z-index: 2;
         border-radius: 4px;
         line-height: 1.8em;
         box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.25);
-        /* font-family: "Traditional Arabic", "Arial", sans-serif; */
+        font-family: "Quran-Uthmani", serif;
+        -webkit-text-stroke: 0.75px rgba(0,0,0,0.4);
       }
 
       .surah-name::before {

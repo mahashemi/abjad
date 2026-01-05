@@ -5,8 +5,27 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title> سورة الانفال with Abjad -- Faiz-e-Hussaini</title>
     <style>
-        @import url('https://fonts.googleapis.com/css2?family=Amiri:wght@400;700&family=Scheherazade+New:wght@400;700&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Amiri+Quran&family=Gulzar&display=swap');
+      @import url('https://fonts.googleapis.com/css2?family=Amiri:wght@400;700&family=Scheherazade+New:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Amiri+Quran&family=Gulzar&family=Harmattan:wght@400;500;600;700&family=Mada:wght@200..900&family=Mirza:wght@400;500;600;700&family=Noto+Sans+Arabic:wght@100..900&family=Parastoo:wght@400..700&display=swap');
+@font-face {
+  font-family: "IndoPakNastaleeq";
+  src:
+    url("fonts/indopak/indopak-nastaleeq-waqf-lazim-v4.2.1.woff2") format("woff2"),
+    url("fonts/indopak/indopak-nastaleeq-waqf-lazim-v4.2.1.woff") format("woff"),
+    url("fonts/indopak/indopak-nastaleeq-waqf-lazim-v4.2.1.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Quran-Uthmani";
+  src:
+    url("fonts/usmani/UthmanicHafs1Ver18.woff2") format("woff2"),
+    url("fonts/usmani/UthmanicHafs1Ver18.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
 :root {
     --primary-color: #26572a;
     --secondary-color: #500000;
@@ -34,7 +53,7 @@ html {
 }
 
 body {
-    font-family: 'Scheherazade New', 'Amiri', 'Traditional Arabic', serif;
+    font-family: 'Scheherazade New', 'Amiri', 'Traditional Arabic', Arial, Helvetica, sans-serif;
     margin: 2px;
     /* background-color: #f5f0e6; */
     color: var(--text-color);
@@ -233,9 +252,13 @@ h2 {
 }
 
 .aya-interim-marker {
-  font-size: 14px;
+  /* font-size: 14px; */
   padding: 0 4px;
   vertical-align: middle;
+}
+
+.arabic-font {
+    font-family: "Quran-Uthmani", serif;
 }
 
 .arabic-text {
@@ -245,14 +268,12 @@ h2 {
     padding: 15px;
     text-align: center;
     letter-spacing: 0.0em;
-    font-weight: bold;
-    /* letter-spacing: 1px; */
-    /*border-radius: 5px;*/
+    font-weight: normal;
     box-shadow: inset 0 0 7px rgb(218, 165, 32, 0.3);
-    /* font-family: 'Scheherazade New', serif; */
     border-top: 1px solid var(--border-color);
     border-bottom: 1px solid var(--border-color);
     line-height: 1.8;
+    -webkit-text-stroke: 0.25px rgba(0,0,0,0.4);
 }
 
 .total-value {
@@ -607,9 +628,7 @@ input:checked+.slider:before {
     padding-bottom: 10px;
 }
 
-.arabic-font {
-    font-family: 'Amiri Quran';
-}
+
 
 /* Mobile responsive design */
 @media screen and (max-width: 768px) {
@@ -9742,7 +9761,7 @@ input:checked+.slider:before {
     
 <div class="verse-container" id="ayat-s8-a31">
     <div class="original-text">
-        <p class="arabic-text arabic-font">وَ اِذْا تُتْلَىٰ عَلَيْهِمْ اٰيٰتُنَا قَالُوا قَدْ سَمِعْنَا لَوْ نَشَآءُ لَقُلْنَا مِثْلَ هٰذَآ <span class='aya-interim-marker'> ۙ </span> اِنْ هٰذَآ اِلَّا اَسَاطِيرُ الْاَوَّلِيْنَ <span class='ayah-marker'>31</span></p>
+        <p class="arabic-text arabic-font">وَ اِذْا تُتْلَىٰ عَلَيْهِمْ اٰيَاتُنَا قَالُوا قَدْ سَمِعْنَا لَوْ نَشَآءُ لَقُلْنَا مِثْلَ هٰذَآ <span class='aya-interim-marker'> ۙ </span> اِنْ هٰذَآ اِلَّا اَسَاطِيرُ الْاَوَّلِيْنَ <span class='ayah-marker'>31</span></p>
     </div>
 </div>
 
@@ -9765,6 +9784,7 @@ input:checked+.slider:before {
 <td class="dark-letter-left-border">م</td>
 <td class="light-letter-left-border">ا</td>
 <td class="light-letter-left-border">ي</td>
+<td class="light-letter-left-border">ا</td>
 <td class="light-letter-left-border">ت</td>
 <td class="light-letter-left-border">ن</td>
 <td class="dark-letter-left-border">ا</td>
@@ -9814,6 +9834,7 @@ input:checked+.slider:before {
 <td class="dark-letter-left-border">40</td>
 <td class="light-letter-left-border">1</td>
 <td class="light-letter-left-border">10</td>
+<td class="light-letter-left-border">1</td>
 <td class="light-letter-left-border">400</td>
 <td class="light-letter-left-border">50</td>
 <td class="dark-letter-left-border">1</td>
@@ -9863,6 +9884,7 @@ input:checked+.slider:before {
 <td class="dark-letter-left-border">90</td>
 <td class="light-letter-left-border">111</td>
 <td class="light-letter-left-border">11</td>
+<td class="light-letter-left-border">111</td>
 <td class="light-letter-left-border">401</td>
 <td class="light-letter-left-border">106</td>
 <td class="dark-letter-left-border">111</td>
@@ -9901,7 +9923,7 @@ input:checked+.slider:before {
 <td colspan=3>اِذْا</td>
 <td colspan=4>تُتْلَىٰ</td>
 <td colspan=5>عَلَيْهِمْ</td>
-<td colspan=5>اٰيٰتُنَا</td>
+<td colspan=6>اٰيَاتُنَا</td>
 <td colspan=5>قَالُوا</td>
 <td colspan=2>قَدْ</td>
 <td colspan=5>سَمِعْنَا</td>
@@ -9916,7 +9938,7 @@ input:checked+.slider:before {
 <td colspan=3>702</td>
 <td colspan=4>840</td>
 <td colspan=5>155</td>
-<td colspan=5>462</td>
+<td colspan=6>463</td>
 <td colspan=5>138</td>
 <td colspan=2>104</td>
 <td colspan=5>221</td>
@@ -9931,7 +9953,7 @@ input:checked+.slider:before {
 <td colspan=3>953</td>
 <td colspan=4>884</td>
 <td colspan=5>308</td>
-<td colspan=5>740</td>
+<td colspan=6>851</td>
 <td colspan=5>487</td>
 <td colspan=2>216</td>
 <td colspan=5>557</td>
@@ -10048,9 +10070,9 @@ input:checked+.slider:before {
 
 <p class='left-to-right'><span class="translation-title">English</span>And when Our verses are recited to them, they say, 'We have heard. If we willed, we could say something like this. This is not but legends of the former peoples.'</p>
 <div class="adad-row" id="adad-s8-a31">
-    <div class='total-qamari-span'><span class="translation-title">قمري عدد</span> <strong class='total-value'>5700</strong></div>
-    <div class='total-bayenati-span'><span class="translation-title">باطني عدد</span> <strong class='total-value'>3585</strong></div>
-    <div class='total-malfuzi-span'><span class="translation-title">ملفوظي عدد</span> <strong class='total-value'>9285</strong></div>
+    <div class='total-qamari-span'><span class="translation-title">قمري عدد</span> <strong class='total-value'>5701</strong></div>
+    <div class='total-bayenati-span'><span class="translation-title">باطني عدد</span> <strong class='total-value'>3695</strong></div>
+    <div class='total-malfuzi-span'><span class="translation-title">ملفوظي عدد</span> <strong class='total-value'>9396</strong></div>
 </div>
 
 </div>
@@ -25535,15 +25557,15 @@ input:checked+.slider:before {
     <div class="adad-row grand-total">
         <div class='total-qamari-span'>
             <span class="translation-title">مجموع القمري</span>
-            <strong class="total-value">375580</strong>
+            <strong class="total-value">375581</strong>
         </div>
         <div class='total-bayenati-span'>
             <span class="translation-title">مجموع الباطني</span>
-            <strong class="total-value">221582</strong>
+            <strong class="total-value">221692</strong>
         </div>
         <div class='total-malfuzi-span'>
             <span class="translation-title">مجموع الملفوظي</span>
-            <strong class="total-value">597162</strong>
+            <strong class="total-value">597273</strong>
         </div>
     </div>
 </div>
