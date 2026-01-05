@@ -289,7 +289,7 @@ ayats = [
     },
     {
         "verse_number": "37",
-        "arabic_text": "رَّبِّ السَّمٰوٰتِ وَ الْاَرْضِ وَ مَا بَيْنَهُمَا الرَّحْمٰنِ لَا يَمْلِكُونَ مِنْهُ خِطَابًا",
+        "arabic_text": "رَّبِّ السَّمٰوٰتِ وَ الْاَرْضِ وَ مَا بَيْنَهُمَا الرَّحْمـٰنِ لَا يَمْلِكُونَ مِنْهُ خِطَابًا",
         "urdu_text": "جو آسمانوں اور زمین اور ان کے درمیان کی ہر چیز کا رب ہے، رحمٰن ہے، لوگ اس سے بات کرنے کا اختیار نہ رکھیں گے",
         "persian_text": "پروردگار آسمان‌ها و زمین و آنچه میان آن‌هاست، بخشاینده‌ای که کسی یارای سخن گفتن با او را ندارد",
         "english_text": "Lord of the heavens and the earth and whatever is between them – the Most Merciful. They do not possess from Him [the authority for] speech.",
@@ -297,7 +297,7 @@ ayats = [
     },
     {
         "verse_number": "38",
-        "arabic_text": "يَوْمَ يَقُومُ الرُّوحُ وَ الْمَلٰٓئِكَةُ صَفّٗا لَّا يَتَكَلَّمُونَ اِلَّا مَنْ اَذِنَ لَهُ الرَّحْمٰنُ وَ قَالَ صَوَابًا",
+        "arabic_text": "يَوْمَ يَقُومُ الرُّوحُ وَ الْمَلٰٓئِكَةُ صَفّٗا لَّا يَتَكَلَّمُونَ اِلَّا مَنْ اَذِنَ لَهُ الرَّحْمـٰنُ وَ قَالَ صَوَابًا",
         "urdu_text": "جس دن روح اور فرشتے صف باندھ کر کھڑے ہوں گے، کوئی نہیں بولے گا سوائے جسے رحمٰن اجازت دے اور وہ درست بات کہے",
         "persian_text": "روزی که روح و فرشتگان صف در صف می‌ایستند، جز کسی که خدای رحمان به او اجازه دهد و سخن راست بگوید، کسی سخن نگوید",
         "english_text": "The Day that the Spirit and the angels will stand in rows, they will not speak except for one whom the Most Merciful permits, and he will say what is correct.",

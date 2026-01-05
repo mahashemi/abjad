@@ -1,7 +1,7 @@
 ayats = [
     {
         "verse_number": 1,
-        "arabic_text": "بِسْمِ اللّٰہِ الرَّحْمٰنِ الرَّحِیْمِ",
+        "arabic_text": "بِسْمِ اللّٰہِ الرَّحْمـٰنِ الرَّحِیْمِ",
         "urdu_text": "خُدا کے نام سے جو بڑا مہربان نہایت رحم والا ہے",
         "persian_text": "به نام خداوند بخشنده مهربان",
         "english_text": "In the name of God, the Most Gracious, the Most Merciful",
@@ -17,7 +17,7 @@ ayats = [
     },
     {
         "verse_number": 3,
-        "arabic_text": "الرَّحْمٰنِ الرَّحِیْمِ",
+        "arabic_text": "الرَّحْمـٰنِ الرَّحِیْمِ",
         "urdu_text": "جو بڑا مہربان نہایت رحم والا ہے",
         "persian_text": "بخشنده مهربان",
         "english_text": "The Most Gracious, the Most Merciful",

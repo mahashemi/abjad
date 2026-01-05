@@ -72,7 +72,7 @@ surah_yunus_title = "سورة يونس - سورة 10 - عدد آياتها 109".
 surah_hud_title = "سورة هُود - سورة 11 - عدد آياتها 123".strip()
 
 
-surah_al_rahmaan_title = "سورة الارحمن - سورة 55 - عدد آياتها 78".strip()
+surah_al_rahmaan_title = "سورة الارحمـٰن - سورة 55 - عدد آياتها 78".strip()
 surah_al_waqia_title = "سورة الاواقعة - سورة 56 - عدد آياتها 96".strip()
 surah_al_mujadela_title = "سورة الامجادله - سورة 58 - عدد آياتها 22".strip()
 surah_al_hashr_title = "سورة الاحشر - سورة 59 - عدد آياتها 24".strip()

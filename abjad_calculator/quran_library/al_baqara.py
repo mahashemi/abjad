@@ -1296,7 +1296,7 @@ ayats = [
         "verse_number": "162",
     },
     {
-        "arabic_text": "وَ اِلٰهُكُمْ اِلٰهٌ وَّاحِدٌ  لَّآ اِلٰهَ اِلَّا هُوَ الرَّحْمٰنُ الرَّحِيمُ",
+        "arabic_text": "وَ اِلٰهُكُمْ اِلٰهٌ وَّاحِدٌ  لَّآ اِلٰهَ اِلَّا هُوَ الرَّحْمـٰنُ الرَّحِيمُ",
         "urdu_text": "اور تمہارا معبود ایک ہی معبود ہے، اس کے سوا کوئی معبود نہیں، وہی رحمان اور رحیم ہے۔",
         "persian_text": "و معبود شما معبودی یگانه است؛ معبودی جز او نیست؛ رحمتگر مهربان است.",
         "english_text": "And your god is one God. There is no deity [worthy of worship] except Him, the Entirely Merciful, the Especially Merciful.",

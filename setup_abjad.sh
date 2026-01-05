@@ -616,7 +616,7 @@ def main():
     # Example 3: Process multiple Quranic verses
     print("\n3. Process multiple Quranic verses")
     verses = {
-        "1:1": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+        "1:1": "بِسْمِ اللّٰهِ الرَّحْمَٰنِ الرَّحِيمِ",
         "1:2": "الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ"
     }
     ac.process_multiple_verses(verses, output_html=True)
