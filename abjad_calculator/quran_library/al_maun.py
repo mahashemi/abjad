@@ -16,7 +16,7 @@ ayats = [
         "verse_number": "2",
     },
     {
-        "arabic_text": "وَ لَا يَحُضُّ عَلٰى طَعَامِ الْمِسْكِينِ",
+        "arabic_text": "وَ لَا يَحُضُّ عَلَٰى طَعَامِ الْمِسْكِينِ",
         "urdu_text": "اور مسکین کو کھانا کھلانے کی ترغیب نہیں دیتا",
         "persian_text": "و دیگران را به اطعام نیازمندان تشویق نمی‌کند",
         "english_text": "And does not encourage the feeding of the poor",

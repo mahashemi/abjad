@@ -41,7 +41,7 @@ ayats = [
     },
     {
         "verse_number": "6",
-        "arabic_text": "يٰٓاَيُّهَا الْاِنسَانُ اِنَّكَ كَادِحٌ اِلٰى رَبِّكَ كَدْحًا فَمُلٰقِيهِ",
+        "arabic_text": "يٰٓاَيُّهَا الْاِنسَانُ اِنَّكَ كَادِحٌ اِلَٰى رَبِّكَ كَدْحًا فَمُلٰقِيهِ",
         "urdu_text": "اے انسان! تو محنت کرتا ہے اپنے رب کی طرف تو اس سے جا ملے گا",
         "persian_text": "ای انسان! تو با رنج و کوشش به سوی پروردگارت می‌روی، پس او را ملاقات خواهی کرد",
         "english_text": "O mankind! You are laboring toward your Lord with great exertion and will meet Him.",
@@ -89,7 +89,7 @@ ayats = [
     },
     {
         "verse_number": "12",
-        "arabic_text": "وَّ يَصْلٰى سَعِيرًا",
+        "arabic_text": "وَّ يَصْلَٰى سَعِيرًا",
         "urdu_text": "اور وہ بھڑکتی آگ میں داخل ہوگا",
         "persian_text": "و به آتش سوزان درافکنده می‌شود،",
         "english_text": "And will enter a blazing fire.",

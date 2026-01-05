@@ -185,7 +185,7 @@ ayats = [
     },
     {
         "verse_number": "24",
-        "arabic_text": "فَلْيَنظُرِ الْاِنسَانُ اِلٰى طَعَامِهِۦٓ",
+        "arabic_text": "فَلْيَنظُرِ الْاِنسَانُ اِلَٰى طَعَامِهِۦٓ",
         "urdu_text": "پس انسان اپنے کھانے کی طرف دیکھے",
         "persian_text": "پس انسان باید به خوراک خود بنگرد",
         "english_text": "Then let man look at his food",

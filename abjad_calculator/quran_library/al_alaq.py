@@ -56,7 +56,7 @@ ayats = [
         "verse_number": "7",
     },
     {
-        "arabic_text": "اِنَّ اِلٰى رَبِّكَ الرُّجْعٰى",
+        "arabic_text": "اِنَّ اِلَٰى رَبِّكَ الرُّجْعٰى",
         "urdu_text": "یقیناً تمہارے رب ہی کی طرف واپس جانا ہے",
         "persian_text": "قطعاً بازگشت به سوی پروردگار تو است.",
         "english_text": "Indeed, to your Lord is the return.",

@@ -129,7 +129,7 @@ ayats = [
     },
     {
         "verse_number": "17",
-        "arabic_text": "اِذْهَبْ اِلٰى فِرْعَوْنَ اِنَّهُۥ طَغٰى",
+        "arabic_text": "اِذْهَبْ اِلَٰى فِرْعَوْنَ اِنَّهُۥ طَغٰى",
         "urdu_text": " فرعون کے پاس جا، بے شک وہ سرکشی ہو گیا ہے  ہے",
         "persian_text": "برو به سوی فرعون، زیرا که او طغیان کرده است",
         "english_text": "Go to Pharaoh. Indeed, he has transgressed.",
@@ -145,7 +145,7 @@ ayats = [
     },
     {
         "verse_number": "19",
-        "arabic_text": "وَ اَهْدِيَكَ اِلٰى رَبِّكَ فَتَخْشٰى",
+        "arabic_text": "وَ اَهْدِيَكَ اِلَٰى رَبِّكَ فَتَخْشٰى",
         "urdu_text": "اور میں تجھے تیرے رب کی طرف رہنمائی کروں تاکہ تو ڈر جائے؟",
         "persian_text": "و تو را به سوی پروردگارت هدایت کنم تا بترسی؟",
         "english_text": "And let me guide you to your Lord so you would fear [Him]?'",
@@ -185,7 +185,7 @@ ayats = [
     },
     {
         "verse_number": "24",
-        "arabic_text": "فَقَالَ اَنَا رَبُّكُمُ الْاَعْلٰى",
+        "arabic_text": "فَقَالَ اَنَا رَبُّكُمُ الْاَعْلَٰى",
         "urdu_text": "اور کہا: میں ہی تمہارا سب سے بڑا رب ہوں",
         "persian_text": "و گفت: من پروردگار برتر شما هستم",
         "english_text": "And said, 'I am your most exalted lord.'",
@@ -193,7 +193,7 @@ ayats = [
     },
     {
         "verse_number": "25",
-        "arabic_text": "فَاَخَذَهُ اللّٰهُ نَكَالَ الْاٰخِرَةِ وَ الْاُولٰى",
+        "arabic_text": "فَاَخَذَهُ اللّٰهُ نَكَالَ الْاٰخِرَةِ وَ الْاُولَٰى",
         "urdu_text": "تو اللہ نے اسے آخرت اور دنیا دونوں کی سزا میں پکڑ لیا",
         "persian_text": "پس خداوند او را به عذاب آخرت و دنیا گرفت",
         "english_text": "So Allah seized him for punishment in the Hereafter and the first [life].",
@@ -345,7 +345,7 @@ ayats = [
     },
     {
         "verse_number": "44",
-        "arabic_text": "اِلٰى رَبِّكَ مُنتَهٰهَا",
+        "arabic_text": "اِلَٰى رَبِّكَ مُنتَهٰهَا",
         "urdu_text": "اس کا علم تو تیرے رب ہی کے پاس ہے",
         "persian_text": "پایان آن تنها نزد پروردگار تو است",
         "english_text": "To your Lord is its finality.",

@@ -49,7 +49,7 @@ ayats = [
     },
     {
         "verse_number": "7",
-        "arabic_text": "وَ هُمْ عَلٰى مَا يَفْعَلُونَ بِالْمُؤْمِنِينَ شُهُودٌ",
+        "arabic_text": "وَ هُمْ عَلَٰى مَا يَفْعَلُونَ بِالْمُؤْمِنِينَ شُهُودٌ",
         "urdu_text": "اور وہ ایمان والوں کے ساتھ جو کچھ کر رہے تھے، گواہ تھے",
         "persian_text": "و بر آنچه با مؤمنان می‌کردند، گواه بودند",
         "english_text": "And they, to what they were doing against the believers, were witnesses.",
@@ -65,7 +65,7 @@ ayats = [
     },
     {
         "verse_number": "9",
-        "arabic_text": "الَّذِي لَهُ مُلْكُ السَّمٰوٰتِ وَ الْاَرْضِ  وَ اللّٰهُ عَلٰى كُلِّ شَيْءٍ شَهِيدٌ",
+        "arabic_text": "الَّذِي لَهُ مُلْكُ السَّمٰوٰتِ وَ الْاَرْضِ  وَ اللّٰهُ عَلَٰى كُلِّ شَيْءٍ شَهِيدٌ",
         "urdu_text": "جس کے لیے آسمانوں اور زمین کی بادشاہی ہے، اور اللہ ہر چیز پر گواہ ہے",
         "persian_text": "آن کسی که فرمانروایی آسمان‌ها و زمین از آن اوست، و خدا بر هر چیز گواه است",
         "english_text": "To whom belongs the dominion of the heavens and the earth. And Allah, over all things, is Witness.",

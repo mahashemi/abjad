@@ -112,7 +112,7 @@ ayats = [
         "verse_number": "14",
     },
     {
-        "arabic_text": "عَلٰى سُرُرٖ مَّوْضُونَةٖ",
+        "arabic_text": "عَلَٰى سُرُرٖ مَّوْضُونَةٖ",
         "urdu_text": "وہ جڑاؤ تختوں پر ہوں گے",
         "persian_text": "بر تخت‌های بافته‌شده خواهند بود",
         "english_text": "On thrones woven [with ornament]",

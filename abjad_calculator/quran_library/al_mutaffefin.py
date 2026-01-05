@@ -97,7 +97,7 @@ ayats = [
     },
     {
         "verse_number": "13",
-        "arabic_text": "اِذَا تُتْلٰى عَلَيْهِ اٰيٰاتُنَا قَالَ اَسَاطِيرُ الْاَوَّلِينَ",
+        "arabic_text": "اِذَا تُتْلَٰى عَلَيْهِ اٰيٰاتُنَا قَالَ اَسَاطِيرُ الْاَوَّلِينَ",
         "urdu_text": "جب اس پر ہماری آیات پڑھی جاتی ہیں تو کہتا ہے: یہ پہلوں کی کہانیاں ہیں",
         "persian_text": "چون آيات ما بر او خوانده می‌شود، می‌گويد: اين افسانه‌هاى گذشتگان است",
         "english_text": "When Our verses are recited to him, he says, 'Legends of the former peoples.'",
@@ -105,7 +105,7 @@ ayats = [
     },
     {
         "verse_number": "14",
-        "arabic_text": "كَلَّا ۖ بَلْ ۜ رَانَ عَلٰى قُلُوبِهِم مَّا كَانُوا يَكْسِبُونَ",
+        "arabic_text": "كَلَّا ۖ بَلْ ۜ رَانَ عَلَٰى قُلُوبِهِم مَّا كَانُوا يَكْسِبُونَ",
         "urdu_text": "ہرگز نہیں، بلکہ ان کے دلوں پر ان کے اعمال کا زنگ چڑھ گیا ہے",
         "persian_text": "چنین نیست، بلکه آنچه می‌کردند زنگار بر دل‌هایشان نهاده است",
         "english_text": "Nay! But on their hearts is the stain of that which they used to earn.",
@@ -241,7 +241,7 @@ ayats = [
     },
     {
         "verse_number": "31",
-        "arabic_text": "وَ اِذَا انْقَلَبُوٓا اِلٰى اَهْلِهِمُ انْقَلَبُوا فَكِهِينَ",
+        "arabic_text": "وَ اِذَا انْقَلَبُوٓا اِلَٰى اَهْلِهِمُ انْقَلَبُوا فَكِهِينَ",
         "urdu_text": "اور جب اپنے لوگوں کے پاس لوٹتے تو خوشی خوشی لوٹتے",
         "persian_text": "و چون به سوى خانواده‌شان باز مى‌گشتند شادمان باز مى‌گشتند",
         "english_text": "And when they returned to their people, they would return jesting.",

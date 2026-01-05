@@ -136,7 +136,7 @@ ayats = [
         "verse_number": "17",
     },
     {
-        "arabic_text": "اِنَّ هَٰذَا لَفِي الصُّحُفِ الْاُولٰى",
+        "arabic_text": "اِنَّ هَٰذَا لَفِي الصُّحُفِ الْاُولَٰى",
         "urdu_text": "یقیناً یہ (باتیں) پہلی کتابوں میں بھی ہیں",
         "persian_text": "قطعاً این مطالب در صحیفه‌های پیشین نیز بوده است",
         "english_text": "Indeed, this is in the former scriptures.",

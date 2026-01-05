@@ -152,7 +152,7 @@ ayats = [
         "verse_number": "19",
     },
     {
-        "arabic_text": "اِلَّا ابْتِغَآءَ وَجْهِ رَبِّهِ الْاَعْلٰى",
+        "arabic_text": "اِلَّا ابْتِغَآءَ وَجْهِ رَبِّهِ الْاَعْلَٰى",
         "urdu_text": "سوائے اپنے ربِ اعلیٰ کی رضا کے طلب کے",
         "persian_text": "جز برای طلب رضای پروردگار والای خود",
         "english_text": "But only seeking the countenance of his Lord, Most High",

@@ -24,7 +24,7 @@ ayats = [
         "verse_number": "3",
     },
     {
-        "arabic_text": "تَصْلٰى نَارًا حَامِيَةً",
+        "arabic_text": "تَصْلَٰى نَارًا حَامِيَةً",
         "urdu_text": "وہ دہکتی ہوئی آگ میں داخل ہوں گے،",
         "persian_text": "در آتشی سوزان درخواهند آمد،",
         "english_text": "They will enter to burn in a blazing fire,",

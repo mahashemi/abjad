@@ -56,7 +56,7 @@ ayats = [
         "verse_number": "7",
     },
     {
-        "arabic_text": "وَ اِلٰى رَبِّكَ فَارْغَبْ",
+        "arabic_text": "وَ اِلَٰى رَبِّكَ فَارْغَبْ",
         "urdu_text": "اور اپنے رب ہی کی طرف رغبت رکھو",
         "persian_text": "و به پروردگارت دل بسپار",
         "english_text": "And to your Lord direct [your] longing",

@@ -57,7 +57,7 @@ ayats = [
     },
     {
         "verse_number": "8",
-        "arabic_text": "اِنَّهُ عَلٰى رَجْعِهِ لَقَادِرٌ",
+        "arabic_text": "اِنَّهُ عَلَٰى رَجْعِهِ لَقَادِرٌ",
         "urdu_text": "یقیناً وہ اس کو واپس لانے پر قادر ہے",
         "persian_text": "بی‌گمان او بر بازگرداندن وی تواناست",
         "english_text": "Indeed, Allah is Able to bring him back [to life].",

@@ -18,7 +18,7 @@ ayats = [
     },
     {
         "Surah": "Al-Masad (Al-Lahab)",
-        "arabic_text": "سَيَصْلٰى نَارًا ذَاتَ لَهَبٍ",
+        "arabic_text": "سَيَصْلَٰى نَارًا ذَاتَ لَهَبٍ",
         "urdu_text": "وہ ضرور شعلۂ آتش میں داخل ہوگا",
         "persian_text": "به زودی در آتشی شعله‌ور وارد خواهد شد",
         "english_text": "He will [enter to] burn in a Fire of blazing flame.",

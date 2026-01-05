@@ -49,7 +49,7 @@ ayats = [
     },
     {
         "verse_number": "7",
-        "arabic_text": "وَ اِنَّهُۥ عَلٰى ذٰلِكَ لَشَهِيدٌ",
+        "arabic_text": "وَ اِنَّهُۥ عَلَٰى ذٰلِكَ لَشَهِيدٌ",
         "urdu_text": "اور وہ خود اس پر گواہ ہے",
         "persian_text": "و خود بر این حقیقت گواه است،",
         "english_text": "And indeed, he is to that a witness.",

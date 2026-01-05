@@ -136,7 +136,7 @@ ayats = [
         "verse_number": "17",
     },
     {
-        "arabic_text": "وَ لَا تَحَـٰٓضُّونَ عَلٰى طَعَامِ الْمِسْكِينِ",
+        "arabic_text": "وَ لَا تَحَـٰٓضُّونَ عَلَٰى طَعَامِ الْمِسْكِينِ",
         "urdu_text": "اور مسکین کو کھانا کھلانے پر ایک دوسرے کو نہیں اُکساتے۔",
         "persian_text": "و یکدیگر را بر غذا دادن به مستمند بر نمی‌انگیزانید.",
         "english_text": "And you do not encourage one another to feed the poor.",
@@ -216,7 +216,7 @@ ayats = [
         "verse_number": "27",
     },
     {
-        "arabic_text": "ارْجِعِىٓ اِلٰى رَبِّكِ رَاضِيَةً مَّرْضِيَّةً",
+        "arabic_text": "ارْجِعِىٓ اِلَٰى رَبِّكِ رَاضِيَةً مَّرْضِيَّةً",
         "urdu_text": "اپنے رب کی طرف لوٹ چل، تُو اس سے راضی، وہ تجھ سے راضی۔",
         "persian_text": "بازگرد به سوی پروردگارت، در حالی که تو از او خشنود و او از تو خشنود است،",
         "english_text": "Return to your Lord, well-pleased and pleasing [to Him],",
