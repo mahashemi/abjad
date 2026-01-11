@@ -145,7 +145,7 @@ ayats = [
     },
     {
         "verse_number": "19",
-        "arabic_text": "وَ الَّذِينَ كَفَرُوا بِاٰيٰتِنَا هُمْ اَصْحٰبُ الْمَشْـَٔمَةِ",
+        "arabic_text": "وَ الَّذِينَ كَفَرُوا بِاٰيَاتِنَا هُمْ اَصْحٰبُ الْمَشْـَٔمَةِ",
         "urdu_text": "اور جنہوں نے ہماری آیات کو جھٹلایا وہ بائیں طرف والے (دوزخی) ہوں گے،",
         "persian_text": "و کسانی که آیات ما را انکار کردند، یاران دست چپ (دوزخی) هستند،",
         "english_text": "But those who disbelieved in Our signs, they are the companions of the left",

@@ -217,7 +217,7 @@ ayats = [
     },
     {
         "verse_number": "28",
-        "arabic_text": "وَ كَذَّبُوا بِاٰيٰتِنَا كِذَّابًا",
+        "arabic_text": "وَ كَذَّبُوا بِاٰيَاتِنَا كِذَّابًا",
         "urdu_text": "اور ہماری آیات کو جھٹلایا، جھٹلانے کی حد تک",
         "persian_text": "و آیات ما را شدیداً تکذیب کردند",
         "english_text": "And denied Our signs with [emphatic] denial.",
