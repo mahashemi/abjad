@@ -49,7 +49,7 @@ ayats = [
     },
     {
         "verse_number": "7",
-        "arabic_text": "وَ اِنَّهُۥ عَلَٰى ذٰلِكَ لَشَهِيدٌ",
+        "arabic_text": "وَ اِنَّهُ عَلَٰى ذٰلِكَ لَشَهِيدٌ",
         "urdu_text": "اور وه خود اس پر گواه هے",
         "persian_text": "و خود بر این حقیقت گواه است،",
         "english_text": "And indeed, he is to that a witness.",
@@ -57,7 +57,7 @@ ayats = [
     },
     {
         "verse_number": "8",
-        "arabic_text": "وَ اِنَّهُۥ لِحُبِّ الْخَيْرِ لَشَدِيدٌ",
+        "arabic_text": "وَ اِنَّهُ لِحُبِّ الْخَيْرِ لَشَدِيدٌ",
         "urdu_text": "اور وه مال کی محبت میں سخت هے",
         "persian_text": "و به شدت مال‌دوست است،",
         "english_text": "And indeed he is, in love of wealth, intense.",

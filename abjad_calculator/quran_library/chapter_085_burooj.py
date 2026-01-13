@@ -97,7 +97,7 @@ ayats = [
     },
     {
         "verse_number": "13",
-        "arabic_text": "اِنَّهُۥ هُوَ يُبْدِىءُ وَيُعِيدُ",
+        "arabic_text": "اِنَّهُ هُوَ يُبْدِىءُ وَيُعِيدُ",
         "urdu_text": "بے شک وہی پہلی بار پیدا کرتا ہے اور دوبارہ زندہ کرے گا۔",
         "persian_text": "اوست که آغاز می‌کند و بازمی‌گرداند.",
         "english_text": "Indeed, it is He who originates [creation] and repeats.",

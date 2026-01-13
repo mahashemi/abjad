@@ -9,7 +9,7 @@ ayats = [
   {
     "verse_number": 1,
     "english_text": "By the mountain (Toor).",
-    "arabic_text": "وَٱلطُّورِ",
+    "arabic_text": "وَالطُّورِ",
     "urdu_text": "قسم ہے طور پہاڑ کی",
     "persian_text": "سوگند به کوه طور",
     "transliteration": "Wat-toor"
@@ -33,7 +33,7 @@ ayats = [
   {
     "verse_number": 4,
     "english_text": "And by the frequently visited House.",
-    "arabic_text": "وَٱلْبَيْتِ ٱلْمَعْمُورِ",
+    "arabic_text": "وَالْبَيْتِ الْمَعْمُورِ",
     "urdu_text": "اور قسم ہے آباد گھر کی",
     "persian_text": "و سوگند به خانه آباد",
     "transliteration": "Wal-baytil ma'moor"
@@ -41,7 +41,7 @@ ayats = [
   {
     "verse_number": 5,
     "english_text": "And by the elevated ceiling (sky).",
-    "arabic_text": "وَٱلسَّقْفِ ٱلْمَرْفُوعِ",
+    "arabic_text": "وَالسَّقْفِ الْمَرْفُوعِ",
     "urdu_text": "اور قسم ہے بلند چھت (آسمان) کی",
     "persian_text": "و سوگند به سقف برافراشته",
     "transliteration": "Was-saqfil marfoo'"
@@ -49,7 +49,7 @@ ayats = [
   {
     "verse_number": 6,
     "english_text": "And by the raging sea.",
-    "arabic_text": "وَٱلْبَحْرِ ٱلْمَسْجُورِ",
+    "arabic_text": "وَالْبَحْرِ الْمَسْجُورِ",
     "urdu_text": "اور قسم ہے بھڑکتے ہوئے سمندر کی",
     "persian_text": "و سوگند به دریای خروشان",
     "transliteration": "Wal-bahril masjoor"
@@ -65,7 +65,7 @@ ayats = [
   {
     "verse_number": 8,
     "english_text": "​And no one can avert it.",
-    "arabic_text": "مَّا لَهُۥ مِن دَافِعٍۢ",
+    "arabic_text": "مَّا لَهُ مِن دَافِعٍۢ",
     "urdu_text": "اسے کوئی ٹالنے والا نہیں",
     "persian_text": "و هیچ کس نمی‌تواند آن را دفع کند",
     "transliteration": "Maa lahu min daafi'"
@@ -73,7 +73,7 @@ ayats = [
   {
     "verse_number": 9,
     "english_text": "The day when skies shall revolve completely.",
-    "arabic_text": "يَوْمَ تَمُورُ ٱلسَّمَآءُ مَوْرًۭا",
+    "arabic_text": "يَوْمَ تَمُورُ السَّمَآءُ مَوْرًۭا",
     "urdu_text": "جس دن آسمان بری طرح لرزے گا",
     "persian_text": "روزی که آسمان به شدت در حرکت خواهد بود",
     "transliteration": "Yawma tamoorus-samaaa'u mawraa"
@@ -81,7 +81,7 @@ ayats = [
   {
     "verse_number": 10,
     "english_text": "And mountains shall come in movement.",
-    "arabic_text": "وَتَسِيرُ ٱلْجِبَالُ سَيْرًۭا",
+    "arabic_text": "وَتَسِيرُ الْجِبَالُ سَيْرًۭا",
     "urdu_text": "اور پہاڑ چلتے پھریں گے",
     "persian_text": "و کوه‌ها به حرکت در خواهند آمد",
     "transliteration": "Wa taseerul jibaalu sayraa"
@@ -97,7 +97,7 @@ ayats = [
   {
     "verse_number": 12,
     "english_text": "Those who are playing in the wasteful discourse.",
-    "arabic_text": "ٱلَّذِينَ هُمْ فِى خَوْضٍۢ يَلْعَبُونَ",
+    "arabic_text": "الَّذِينَ هُمْ فِى خَوْضٍۢ يَلْعَبُونَ",
     "urdu_text": "جو لوگ بیہودہ باتوں میں کھیل رہے ہیں۔",
     "persian_text": "کسانی که در سخنان بیهوده بازی می‌کنند.",
     "transliteration": "Alladheena hum fee khawdin yal'aboon"
@@ -113,7 +113,7 @@ ayats = [
   {
     "verse_number": 14,
     "english_text": "This is the fire of Hell which you were denying.",
-    "arabic_text": "هَـٰذِهِ ٱلنَّارُ ٱلَّتِى كُنتُم بِهَا تُكَذِّبُونَ",
+    "arabic_text": "هَـٰذِهِ النَّارُ الَّتِى كُنتُم بِهَا تُكَذِّبُونَ",
     "urdu_text": "یہ وہی آگ ہے جسے تم جھٹلاتے تھے۔",
     "persian_text": "این همان آتشی است که شما آن را تکذیب می‌کردید.",
     "transliteration": "Hadhihi an-naarul-latee kuntum bihaa tukadhdhiboon"
@@ -129,7 +129,7 @@ ayats = [
   {
     "verse_number": 16,
     "english_text": "Now enter into it, whether be patient or don't be patient, it is the same (to you); this is the punishment of those deeds, which you have done.",
-    "arabic_text": "ٱصْلَوْهَا فَٱصْبِرُوٓاْ اَوْ لَا تَصْبِرُواْ سَوَآءٌ عَلَيْكُمْ ۖ اِنَّمَا تُجْزَوْنَ مَا كُنتُمْ تَعْمَلُونَ",
+    "arabic_text": "اصْلَوْهَا فَاصْبِرُوٓاْ اَوْ لَا تَصْبِرُواْ سَوَآءٌ عَلَيْكُمْ ۖ اِنَّمَا تُجْزَوْنَ مَا كُنتُمْ تَعْمَلُونَ",
     "urdu_text": "اب اس میں داخل ہو جاؤ، صبر کرو یا نہ کرو تمہارے لیے برابر ہے، تمہیں صرف ان اعمال کا بدلہ دیا جا رہا ہے جو تم کرتے تھے۔",
     "persian_text": "در آن درآیید، چه صبر کنید و چه صبر نکنید برای شما یکسان است، شما فقط کیفر اعمالی را می‌بینید که انجام می‌دادید.",
     "transliteration": "Islawha fasbiru aw laa tasbiroo sawaun 'alaykum innama tujzawna ma kuntum ta'maloon"
@@ -137,7 +137,7 @@ ayats = [
   {
     "verse_number": 17,
     "english_text": "Indeed, pious people shall be amidst gardens and bliss.",
-    "arabic_text": "اِنَّ ٱلْمُتَّقِينَ فِى جَنَّـٰتٍۢ وَنَعِيمٍۢ",
+    "arabic_text": "اِنَّ الْمُتَّقِينَ فِى جَنَّـٰتٍۢ وَنَعِيمٍۢ",
     "urdu_text": "بے شک پرہیزگار لوگ باغات اور نعمتوں میں ہوں گے۔",
     "persian_text": "همانا پرهیزگاران در باغ‌ها و نعمت‌ها خواهند بود.",
     "transliteration": "Innal-muttaqeena fee jannaatin wa na'eem"
@@ -145,7 +145,7 @@ ayats = [
   {
     "verse_number": 18,
     "english_text": "They will be happy with what Allah will bestow upon them, and Allah will keep them safe from the punishment of Hell.",
-    "arabic_text": "فَـٰكِهِينَ بِمَآ ءَاتَىٰهُمْ رَبُّهُمْ وَوَقَىٰهُمْ رَبُّهُمْ عَذَابَ ٱلْجَحِيمِ",
+    "arabic_text": "فَـٰكِهِينَ بِمَآ ءَاتَىٰهُمْ رَبُّهُمْ وَوَقَىٰهُمْ رَبُّهُمْ عَذَابَ الْجَحِيمِ",
     "urdu_text": "وہ خوش ہوں گے اس سے جو ان کے رب نے انہیں عطا کیا، اور ان کے رب نے انہیں دوزخ کے عذاب سے بچا لیا۔",
     "persian_text": "شادمان از آنچه پروردگارشان به آنها عطا کرده، و پروردگارشان آنها را از عذاب دوزخ نگه داشته است.",
     "transliteration": "Faakiheena bimaa aataahum rabbuhum wa waqaahum rabbuhum 'adhabal-jaheem"
@@ -153,7 +153,7 @@ ayats = [
   {
     "verse_number": 19,
     "english_text": "Now eat and drink here with ease on the basis of your deeds which you have done.",
-    "arabic_text": "كُلُواْ وَٱشْرَبُواْ هَنِيٓـًٔۢا بِمَا كُنتُمْ تَعْمَلُونَ",
+    "arabic_text": "كُلُواْ وَاشْرَبُواْ هَنِيٓـًٔۢا بِمَا كُنتُمْ تَعْمَلُونَ",
     "urdu_text": "کھاؤ اور پیو خوشی سے ان اعمال کے بدلے جو تم کرتے تھے۔",
     "persian_text": "بخورید و بیاشامید با خوشی به پاداش اعمالی که انجام می‌دادید.",
     "transliteration": "Kuloo washraboo hanee'am bimaa kuntum ta'maloon"
@@ -169,7 +169,7 @@ ayats = [
   {
     "verse_number": 21,
     "english_text": "Those who believed and their children also obeyed them in faith, then We will cause them to unite with their descendants also, and We will not lessen anybody's deeds even for a particle, and everyone is responsible for his deeds.",
-    "arabic_text": "وَٱلَّذِينَ ءَامَنُواْ وَٱتَّبَعَتْهُمْ ذُرِّيَّتُهُم بِاِيمَـٰنٍ اَلْحَقْنَا بِهِمْ ذُرِّيَّتَهُمْ وَمَآ اَلَتْنَـٰهُم مِّنْ عَمَلِهِم مِّن شَىْءٍۢ ۚ كُلُّ ٱمْرِئٍۭ بِمَا كَسَبَ رَهِينٌۭ",
+    "arabic_text": "وَالَّذِينَ ءَامَنُواْ وَاتَّبَعَتْهُمْ ذُرِّيَّتُهُم بِاِيمَـٰنٍ اَلْحَقْنَا بِهِمْ ذُرِّيَّتَهُمْ وَ مَآ اَلَتْنَـٰهُم مِّنْ عَمَلِهِم مِّن شَىْءٍۢ ۚ كُلُّ امْرِئٍۭ بِمَا كَسَبَ رَهِينٌۭ",
     "urdu_text": "اور جو لوگ ایمان لائے اور ان کی اولاد نے بھی ایمان میں ان کی پیروی کی، تو ہم ان کی اولاد کو بھی ان کے ساتھ ملا دیں گے، اور ہم ان کے اعمال میں سے ذرہ برابر بھی کمی نہیں کریں گے، ہر شخص اپنے اعمال کا ذمہ دار ہے۔",
     "persian_text": "و کسانی که ایمان آوردند و فرزندانشان نیز با ایمان از آنها پیروی کردند، فرزندانشان را به آنها ملحق می‌کنیم و از اعمالشان چیزی کم نمی‌کنیم، هر کسی به آنچه کسب کرده گرو است.",
     "transliteration": "Wallazeena aamanoo wattaba'at-hum zurriyyatuhum bi-eemaanin alhaqnaa bihim zurriyyatahum wa maaa alatnaahum min 'amalihim min shay', kullu-mri'im bimaa kasaba raheen"
@@ -217,7 +217,7 @@ ayats = [
   {
     "verse_number": 27,
     "english_text": "So Allah has done favour to us, and saved us from the poisonous air of Hell.",
-    "arabic_text": "فَمَنَّ ٱللَّهُ عَلَيْنَا وَوَقَىٰنَا عَذَابَ ٱلسَّمُومِ",
+    "arabic_text": "فَمَنَّ اللَّهُ عَلَيْنَا وَوَقَىٰنَا عَذَابَ السَّمُومِ",
     "urdu_text": "پس اللہ نے ہم پر احسان فرمایا اور ہمیں دوزخ کے جھلسا دینے والے عذاب سے بچا لیا۔",
     "persian_text": "پس خداوند بر ما منت نهاد و ما را از عذاب سوزان نگه داشت.",
     "transliteration": "Famannallaahu 'alaynaa wa waqaanaa 'azaabas-samoom"
@@ -225,7 +225,7 @@ ayats = [
   {
     "verse_number": 28,
     "english_text": "Earlier also we had been supplicating to Him; certainly, He does favours and is Benevolent.",
-    "arabic_text": "اِنَّا كُنَّا مِن قَبْلُ نَدْعُوهُ ۖ اِنَّهُۥ هُوَ ٱلْبَرُّ ٱلرَّحِيمُ",
+    "arabic_text": "اِنَّا كُنَّا مِن قَبْلُ نَدْعُوهُ ۖ اِنَّهُ هُوَ الْبَرُّ الرَّحِيمُ",
     "urdu_text": "بیشک ہم پہلے بھی اسی سے دعا کرتے تھے، یقیناً وہی نیکی کرنے والا اور مہربان ہے۔",
     "persian_text": "ما پیش از این او را می‌خواندیم، بی‌تردید او نیکوکار و مهربان است.",
     "transliteration": "Innaa kunnaa min qablu nad'oohu innahu huwal-barrur-raheem"
@@ -241,7 +241,7 @@ ayats = [
   {
     "verse_number": 30,
     "english_text": "Do these people say he is a poet, for this we are waiting for the accidents of time to come.",
-    "arabic_text": "اَمْ يَقُولُونَ شَاعِرٌۭ نَّتَرَبَّصُ بِهِۦ رَيْبَ ٱلْمَنُونِ",
+    "arabic_text": "اَمْ يَقُولُونَ شَاعِرٌۭ نَّتَرَبَّصُ بِهِ رَيْبَ الْمَنُونِ",
     "urdu_text": "کیا یہ لوگ کہتے ہیں کہ وہ شاعر ہے، ہم اس کے لیے زمانے کی آفتوں کا انتظار کر رہے ہیں۔",
     "persian_text": "یا می‌گویند شاعری است که منتظر حوادث روزگار برای او هستیم.",
     "transliteration": "Am yaqooloona shaa'irun natarabbusu bihee raybal-manoon"
@@ -249,7 +249,7 @@ ayats = [
   {
     "verse_number": 31,
     "english_text": "So you say: Verily you wait, along with you I am also among the awaiters.",
-    "arabic_text": "قُلْ تَرَبَّصُواْ فَاِنِّى مَعَكُم مِّنَ ٱلْمُتَرَبِّصِينَ",
+    "arabic_text": "قُلْ تَرَبَّصُواْ فَاِنِّى مَعَكُم مِّنَ الْمُتَرَبِّصِينَ",
     "urdu_text": "آپ کہہ دیجیے کہ تم انتظار کرو، میں بھی تمہارے ساتھ انتظار کرنے والوں میں سے ہوں۔",
     "persian_text": "بگو: شما منتظر باشید، من هم با شما از منتظران هستم.",
     "transliteration": "Qul tarabbasoo fa-innee ma'akum minal-mutarabbiseen"
@@ -265,7 +265,7 @@ ayats = [
   {
     "verse_number": 33,
     "english_text": "Or they say the prophet has fabricated the Quran; and the fact is that they are not going to believe.",
-    "arabic_text": "اَمْ يَقُولُونَ تَقَوَّلَهُۥ ۚ بَل لَّا يُؤْمِنُونَ",
+    "arabic_text": "اَمْ يَقُولُونَ تَقَوَّلَهُ ۚ بَل لَّا يُؤْمِنُونَ",
     "urdu_text": "یا یہ کہتے ہیں کہ نبی نے قرآن گھڑ لیا ہے، حقیقت یہ ہے کہ یہ ایمان نہیں لانے والے۔",
     "persian_text": "یا می‌گویند پیامبر قرآن را ساخته است، و حقیقت این است که آنها ایمان نخواهند آورد.",
     "transliteration": "Am yaqooloona taqawwalahu bal laa yu'minoon"
@@ -273,7 +273,7 @@ ayats = [
   {
     "verse_number": 34,
     "english_text": "Then let them bring the similar writing, if they are truthful in their talk.",
-    "arabic_text": "فَلْيَاْتُواْ بِحَدِيثٍۢ مِّثْلِهِۦٓ اِن كَانُواْ صَـٰدِقِينَ",
+    "arabic_text": "فَلْيَاْتُواْ بِحَدِيثٍۢ مِّثْلِهِٓ اِن كَانُواْ صَـٰدِقِينَ",
     "urdu_text": "تو انہیں چاہیے کہ اس جیسی کوئی تحریر لے آئیں، اگر وہ اپنی بات میں سچے ہیں۔",
     "persian_text": "پس اگر راست می‌گویند، باید سخنی مانند آن بیاورند.",
     "transliteration": "Falya'too bihadeethin mithlihi in kaanoo saadiqeen"
@@ -281,7 +281,7 @@ ayats = [
   {
     "verse_number": 35,
     "english_text": "Have they come into existence on their own without anything, or are they themselves creators.",
-    "arabic_text": "اَمْ خُلِقُواْ مِنْ غَيْرِ شَىْءٍ اَمْ هُمُ ٱلْخَـٰلِقُونَ",
+    "arabic_text": "اَمْ خُلِقُواْ مِنْ غَيْرِ شَىْءٍ اَمْ هُمُ الْخَـٰلِقُونَ",
     "urdu_text": "کیا یہ بغیر کسی چیز کے خود بخود پیدا ہو گئے ہیں، یا یہ خود ہی خالق ہیں؟",
     "persian_text": "آیا آنها بدون هیچ چیز خود به خود آفریده شده‌اند، یا خود آفریننده هستند؟",
     "transliteration": "Am khuliqoo min ghayri shay'in am humul-khaaliqoon"
@@ -289,7 +289,7 @@ ayats = [
   {
     "verse_number": 36,
     "english_text": "Or they have created the skies and the earth; fact is that they will not believe.",
-    "arabic_text": "اَمْ خَلَقُواْ ٱلسَّمَـٰوَٰتِ وَٱلْاَرْضَ ۚ بَل لَّا يُوقِنُونَ",
+    "arabic_text": "اَمْ خَلَقُواْ السَّمَـٰوَٰتِ وَالْاَرْضَ ۚ بَل لَّا يُوقِنُونَ",
     "urdu_text": "یا انہوں نے آسمانوں اور زمین کو پیدا کیا ہے؟ حقیقت یہ ہے کہ یہ یقین نہیں رکھتے۔",
     "persian_text": "یا آنها آسمان‌ها و زمین را آفریده‌اند؟ حقیقت این است که آنها یقین ندارند.",
     "transliteration": "Am khalaqus-samaawaati wal-arda bal laa yooqinoon"
@@ -297,7 +297,7 @@ ayats = [
   {
     "verse_number": 37,
     "english_text": "Or treasures of the Lord are with them, or they are the masters?",
-    "arabic_text": "اَمْ عِندَهُمْ خَزَآئِنُ رَبِّكَ اَمْ هُمُ ٱلْمُصَۣيْطِرُونَ",
+    "arabic_text": "اَمْ عِندَهُمْ خَزَآئِنُ رَبِّكَ اَمْ هُمُ الْمُصَۣيْطِرُونَ",
     "urdu_text": "یا آپ کے رب کے خزانے ان کے پاس ہیں، یا وہ مالک و مختار ہیں؟",
     "persian_text": "یا گنج‌های پروردگار تو نزد آنهاست، یا آنها فرمانروایان هستند؟",
     "transliteration": "Am 'indahum khazaa'inu rabbika am humul-musaytiroon"
@@ -313,7 +313,7 @@ ayats = [
   {
     "verse_number": 39,
     "english_text": "Or daughters are for Allah and sons are for you.",
-    "arabic_text": "اَمْ لَهُ ٱلْبَنَـٰتُ وَلَكُمُ ٱلْبَنُونَ",
+    "arabic_text": "اَمْ لَهُ الْبَنَـٰتُ وَلَكُمُ الْبَنُونَ",
     "urdu_text": "یا اللہ کے لیے بیٹیاں ہیں اور تمہارے لیے بیٹے؟",
     "persian_text": "یا برای خدا دختران است و برای شما پسران؟",
     "transliteration": "Am lahul-banaatu walakumul-banoon"
@@ -329,7 +329,7 @@ ayats = [
   {
     "verse_number": 41,
     "english_text": "Or they have knowledge of the Unseen that they are writing about.",
-    "arabic_text": "اَمْ عِندَهُمُ ٱلْغَيْبُ فَهُمْ يَكْتُبُونَ",
+    "arabic_text": "اَمْ عِندَهُمُ الْغَيْبُ فَهُمْ يَكْتُبُونَ",
     "urdu_text": "کیا ان کے پاس غیب کا علم ہے کہ وہ لکھ رہے ہیں؟",
     "persian_text": "آیا آنان علم غیب دارند که می‌نویسند؟",
     "transliteration": "Am 'indahumul-ghaybu fahum yaktuboon"
@@ -337,7 +337,7 @@ ayats = [
   {
     "verse_number": 42,
     "english_text": "Or do they wish to do any deceit, so remember, infidels shall get entangled in their own deceit.",
-    "arabic_text": "اَمْ يُرِيدُونَ كَيْدًۭا ۖ فَٱلَّذِينَ كَفَرُواْ هُمُ ٱلْمَكِيدُونَ",
+    "arabic_text": "اَمْ يُرِيدُونَ كَيْدًۭا ۖ فَالَّذِينَ كَفَرُواْ هُمُ الْمَكِيدُونَ",
     "urdu_text": "کیا وہ کوئی چال چلنا چاہتے ہیں؟ تو جنہوں نے کفر کیا وہی اپنی چال میں پھنسے ہوئے ہیں۔",
     "persian_text": "آیا می‌خواهند نیرنگی بکنند؟ پس کسانی که کفر ورزیدند خود گرفتار نیرنگ خویشند.",
     "transliteration": "Am yureedoona kaydan fallazeena kafaroo humul-makeedoon"
@@ -345,7 +345,7 @@ ayats = [
   {
     "verse_number": 43,
     "english_text": "Or for them there is another god besides Allah, whereas Allah is clean and pure from their polytheism.",
-    "arabic_text": "اَمْ لَهُمْ اِلَـٰهٌ غَيْرُ ٱللَّهِ ۚ سُبْحَـٰنَ ٱللَّهِ عَمَّا يُشْرِكُونَ",
+    "arabic_text": "اَمْ لَهُمْ اِلَـٰهٌ غَيْرُ اللَّهِ ۚ سُبْحَـٰنَ اللَّهِ عَمَّا يُشْرِكُونَ",
     "urdu_text": "کیا ان کے لیے اللہ کے سوا کوئی اور معبود ہے؟ اللہ پاک ہے ان کے شرک سے۔",
     "persian_text": "آیا برای آنان معبودی جز الله است؟ منزه است الله از آنچه شریک می‌سازند.",
     "transliteration": "Am lahum ilaahun ghayrul-laah, subhaanal-laahi 'ammaa yushrikoon"
@@ -353,7 +353,7 @@ ayats = [
   {
     "verse_number": 44,
     "english_text": "And even if they will see the pieces of sky falling, they will say: these are the layers of the clouds.",
-    "arabic_text": "وَاِن يَرَوْاْ كِسْفًۭا مِّنَ ٱلسَّمَآءِ سَاقِطًۭا يَقُولُواْ سَحَابٌۭ مَّرْكُومٌۭ",
+    "arabic_text": "وَاِن يَرَوْاْ كِسْفًۭا مِّنَ السَّمَآءِ سَاقِطًۭا يَقُولُواْ سَحَابٌۭ مَّرْكُومٌۭ",
     "urdu_text": "اور اگر وہ آسمان کا ٹکڑا گرتا ہوا دیکھیں تو کہیں گے کہ یہ تو بادل کے ڈھیر ہیں۔",
     "persian_text": "و اگر پاره‌ای از آسمان را در حال سقوط ببینند، خواهند گفت: ابرهای انباشته است.",
     "transliteration": "Wa iny-yaraw kisfam-minas-samaaa'i saaqitan yaqooloo sahaabum-markoom"
@@ -361,7 +361,7 @@ ayats = [
   {
     "verse_number": 45,
     "english_text": "So leave them on their condition, till they encounter the day when they shall become unconscious.",
-    "arabic_text": "فَذَرْهُمْ حَتَّىٰ يُلَـٰقُواْ يَوْمَهُمُ ٱلَّذِى فِيهِ يُصْعَقُونَ",
+    "arabic_text": "فَذَرْهُمْ حَتَّىٰ يُلَـٰقُواْ يَوْمَهُمُ الَّذِى فِيهِ يُصْعَقُونَ",
     "urdu_text": "پس انہیں چھوڑ دو یہاں تک کہ وہ اپنے اس دن سے ملاقات کریں جس میں وہ بے ہوش ہو جائیں گے۔",
     "persian_text": "پس آنان را واگذار تا روزی را ملاقات کنند که در آن بیهوش خواهند شد.",
     "transliteration": "Fazarhum hattaa yulaaqoo yawmahumul-lazee feehi yus'aqoon"
@@ -385,7 +385,7 @@ ayats = [
   {
     "verse_number": 48,
     "english_text": "Now wait in patience for the command of your Lord, you are before Our sight; and while standing always glorify your Lord.",
-    "arabic_text": "وَٱصْبِرْ لِحُكْمِ رَبِّكَ فَاِنَّكَ بِاَعْيُنِنَا ۖ وَسَبِّحْ بِحَمْدِ رَبِّكَ حِينَ تَقُومُ",
+    "arabic_text": "وَاصْبِرْ لِحُكْمِ رَبِّكَ فَاِنَّكَ بِاَعْيُنِنَا ۖ وَسَبِّحْ بِحَمْدِ رَبِّكَ حِينَ تَقُومُ",
     "urdu_text": "اور اپنے رب کے حکم کے لیے صبر کرو، بے شک تم ہماری نگاہوں میں ہو، اور جب کھڑے ہو تو اپنے رب کی حمد کے ساتھ تسبیح کرو۔",
     "persian_text": "و برای فرمان پروردگارت صبر کن که تو در نظر ماییی، و هنگامی که برمی‌خیزی پروردگارت را با ستایش تسبیح گوی.",
     "transliteration": "Wasbir lihukmi rabbika fa-innaka bi-a'yuninaa wa sabbih bihamdi rabbika heena taqoom"
@@ -393,7 +393,7 @@ ayats = [
   {
     "verse_number": 49,
     "english_text": "And continue to glorify the Lord during the part of night and at the setting of the stars.",
-    "arabic_text": "وَمِنَ ٱلَّيْلِ فَسَبِّحْهُ وَاِدْبَـٰرَ ٱلنُّجُومِ",
+    "arabic_text": "وَمِنَ الَّيْلِ فَسَبِّحْهُ وَاِدْبَـٰرَ النُّجُومِ",
     "urdu_text": "اور رات کے کچھ حصے میں بھی اس کی تسبیح کرو اور ستاروں کے غروب ہونے کے وقت بھی۔",
     "persian_text": "و در بخشی از شب او را تسبیح گوی و هنگام غروب ستارگان.",
     "transliteration": "Wa minal-layli fasabbihhu wa idbaaran-nujoom"

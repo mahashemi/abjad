@@ -89,7 +89,7 @@ ayats = [
     },
     {
         "verse_number": "12",
-        "arabic_text": "وَ مَا يُكَذِّبُ بِهِۦٓ اِلَّا كُلُّ مُعْتَدٍ اَثِيمٍ",
+        "arabic_text": "وَ مَا يُكَذِّبُ بِهِٓ اِلَّا كُلُّ مُعْتَدٍ اَثِيمٍ",
         "urdu_text": "اور اس کا انکار وهی کرتا هے جو حد سے بڑھنے والا گناهگار هے",
         "persian_text": "و آن را جز هر متجاوز گناهکارى انکار نمی‌کند",
         "english_text": "And none denies it except every sinful transgressor.",
@@ -129,7 +129,7 @@ ayats = [
     },
     {
         "verse_number": "17",
-        "arabic_text": "ثُمَّ يُقَالُ هٰذَا الَّذِى كُنتُم بِهِۦ تُكَذِّبُونَ",
+        "arabic_text": "ثُمَّ يُقَالُ هٰذَا الَّذِى كُنتُم بِهِ تُكَذِّبُونَ",
         "urdu_text": "پھر کها جائے گا: یهی وه چیز هے جسے تم جھٹلایا کرتے تھے",
         "persian_text": "سپس گفته می‌شود: اين همان چيزی است كه آن را انكار مى‌كرديد",
         "english_text": "Then it will be said, 'This is what you used to deny.'",
@@ -201,7 +201,7 @@ ayats = [
     },
     {
         "verse_number": "26",
-        "arabic_text": "خِتٰمُهُۥ مِسْكٌ وَ فِى ذٰلِكَ فَلْيَتَنَافَسِ الْمُتَنافِسُونَ",
+        "arabic_text": "خِتٰمُهُ مِسْكٌ وَ فِى ذٰلِكَ فَلْيَتَنَافَسِ الْمُتَنافِسُونَ",
         "urdu_text": "جس کا خاتمه کستوری پر هوگا، اور اسی میں هوڑ کرنے والے مقابله کریں",
         "persian_text": "پايان آن مشک است، پس مشتاقان بايد در آن رقابت كنند",
         "english_text": "Its seal is musk – so for this let the competitors compete.",
@@ -209,7 +209,7 @@ ayats = [
     },
     {
         "verse_number": "27",
-        "arabic_text": "وَ مِزَاجُهُۥ مِن تَسْنِيمٍ",
+        "arabic_text": "وَ مِزَاجُهُ مِن تَسْنِيمٍ",
         "urdu_text": "اور اس میں تسنیم کی آمیزش هوگی",
         "persian_text": "و آمیخته‌اش از چشمه تسنيم خواهد بود",
         "english_text": "And its mixture is of Tasneem,",

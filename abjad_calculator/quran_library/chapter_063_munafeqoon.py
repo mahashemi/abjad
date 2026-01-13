@@ -9,7 +9,7 @@ ayats = [
   {
     "verse_number": 1,
     "english_text": "O prophet, these hypocrites come to you and say: we bear witness that you are the prophet of Allah, Yes, Allah Knows that you are His prophet and Allah bears witness that these hypocrites are liars in their claim.",
-    "arabic_text": "اِذَا جَآءَكَ ٱلْمُنَـٰفِقُونَ قَالُواْ نَشْهَدُ اِنَّكَ لَرَسُولُ ٱللَّهِ ۗ وَٱللَّهُ يَعْلَمُ اِنَّكَ لَرَسُولُهُۥ وَٱللَّهُ يَشْهَدُ اِنَّ ٱلْمُنَـٰفِقِينَ لَكَـٰذِبُونَ",
+    "arabic_text": "اِذَا جَآءَكَ الْمُنَـٰفِقُونَ قَالُواْ نَشْهَدُ اِنَّكَ لَرَسُولُ اللَّهِ ۗ وَاللَّهُ يَعْلَمُ اِنَّكَ لَرَسُولُهُ وَاللَّهُ يَشْهَدُ اِنَّ الْمُنَـٰفِقِينَ لَكَـٰذِبُونَ",
     "urdu_text": "اے نبی! جب منافق آپ کے پاس آتے هیں تو کهتے هیں که هم گواهی دیتے هیں که بیشک آپ الله کے رسول هیں، اور الله جانتا هے که بیشک آپ اس کے رسول هیں، اور الله گواهی دیتا هے که یه منافق یقیناً جھوٹے هیں۔",
     "persian_text": "ای پیامبر! هنگامی که منافقان نزد تو می‌آیند، می‌گویند: ما گواهی می‌دهیم که تو رسول خدا هستی، و خداوند می‌داند که تو رسول او هستی، و خداوند گواهی می‌دهد که این منافقان دروغگویانند.",
     "transliteration": "Idha jaa'aka al-munafiqoona qaloo nashhadu innaka la-rasoolu Allahi wallahu ya'lamu innaka la-rasooluhu wallahu yashhadu inna al-munafiqeena la-kadhiboon"
@@ -17,7 +17,7 @@ ayats = [
   {
     "verse_number": 2,
     "english_text": "They have made their oaths their shields and they are obstructing people from the way of Allah, and these are their worst deeds which they are doing.",
-    "arabic_text": "ٱتَّخَذُوٓاْ اَيْمَـٰنَهُمْ جُنَّةًۭ فَصَدُّواْ عَن سَبِيلِ ٱللَّهِ ۚ اِنَّهُمْ سَآءَ مَا كَانُواْ يَعْمَلُونَ",
+    "arabic_text": "اتَّخَذُوٓاْ اَيْمَـٰنَهُمْ جُنَّةًۭ فَصَدُّواْ عَن سَبِيلِ اللَّهِ ۚ اِنَّهُمْ سَآءَ مَا كَانُواْ يَعْمَلُونَ",
     "urdu_text": "انهوں نے اپنی قسموں کو ڈھال بنا لیا هے، پھر وه الله کی راه سے روکتے هیں، بیشک برے هیں وه اعمال جو وه کرتے تھے۔",
     "persian_text": "آنان سوگندهای خود را سپر قرار دادند، پس مردم را از راه خدا بازداشتند، یقیناً بد است آنچه انجام می‌دادند.",
     "transliteration": "Ittakhadhu aymanahum junnatan fa-saddoo 'an sabeeli Allahi innahum saa'a ma kanoo ya'maloon"
@@ -33,7 +33,7 @@ ayats = [
   {
     "verse_number": 4,
     "english_text": "And when you will look at them, their bodies will seem very good to you, and when they speak, you will listen to their words, but in reality they are like dry woods leaning against the wall, and they think every scream is against them, in fact they are enemies, beware of them, may Allah destroy them; where are they going astray.",
-    "arabic_text": "۞ وَاِذَا رَاَيْتَهُمْ تُعْجِبُكَ اَجْسَامُهُمْ ۖ وَاِن يَقُولُواْ تَسْمَعْ لِقَوْلِهِمْ ۖ كَاَنَّهُمْ خُشُبٌۭ مُّسَنَّدَةٌۭ ۖ يَحْسَبُونَ كُلَّ صَيْحَةٍ عَلَيْهِمْ ۚ هُمُ ٱلْعَدُوُّ فَٱحْذَرْهُمْ ۚ قَـٰتَلَهُمُ ٱللَّهُ ۖ اَنَّىٰ يُؤْفَكُونَ",
+    "arabic_text": "۞ وَاِذَا رَاَيْتَهُمْ تُعْجِبُكَ اَجْسَامُهُمْ ۖ وَاِن يَقُولُواْ تَسْمَعْ لِقَوْلِهِمْ ۖ كَاَنَّهُمْ خُشُبٌۭ مُّسَنَّدَةٌۭ ۖ يَحْسَبُونَ كُلَّ صَيْحَةٍ عَلَيْهِمْ ۚ هُمُ الْعَدُوُّ فَاحْذَرْهُمْ ۚ قَـٰتَلَهُمُ اللَّهُ ۖ اَنَّىٰ يُؤْفَكُونَ",
     "urdu_text": "اور جب آپ انهیں دیکھیں تو ان کے جسم آپ کو اچھے لگیں، اور اگر وه بولیں تو آپ ان کی بات سنیں، وه ایسے هیں جیسے ٹیک لگائی هوئی لکڑیاں، وه هر آواز کو اپنے خلاف سمجھتے هیں، وهی دشمن هیں، ان سے هوشیار رهیں، الله انهیں هلاک کرے، کهاں بهکائے جا رهے هیں۔",
     "persian_text": "و هنگامی که آنان را ببینی، اندامشان تو را به شگفتی آورد، و اگر سخن گویند، به گفتارشان گوش فرا دهی، آنان مانند چوب‌های تکیه داده شده‌اند، هر فریادی را بر ضد خود می‌پندارند، آنان دشمنند پس از آنان بپرهیز، خدا آنان را نابود کند، چگونه منحرف می‌شوند.",
     "transliteration": "Wa idha ra-aytahum tu'jibuka ajsamuhum wa in yaqooloo tasma' li-qawlihim ka-annahum khushubun musannadatun yahsaboona kulla sayhatin 'alayhim humu al-'aduwwu fahdharhum qatalahumu Allahu anna yu'fakoon"
@@ -41,7 +41,7 @@ ayats = [
   {
     "verse_number": 5,
     "english_text": "And when it is said to them: come, Prophet of Allah will pray for your forgiveness, they turn aside their heads; and you will see them turning their faces in arrogance.",
-    "arabic_text": "وَاِذَا قِيلَ لَهُمْ تَعَالَوْاْ يَسْتَغْفِرْ لَكُمْ رَسُولُ ٱللَّهِ لَوَّوْاْ رُءُوسَهُمْ وَرَاَيْتَهُمْ يَصُدُّونَ وَهُم مُّسْتَكْبِرُونَ",
+    "arabic_text": "وَاِذَا قِيلَ لَهُمْ تَعَالَوْاْ يَسْتَغْفِرْ لَكُمْ رَسُولُ اللَّهِ لَوَّوْاْ رُءُوسَهُمْ وَرَاَيْتَهُمْ يَصُدُّونَ وَهُم مُّسْتَكْبِرُونَ",
     "urdu_text": "اور جب ان سے کها جائے که آؤ، الله کے رسول تمهارے لیے بخشش مانگیں گے، تو وه اپنے سر پھیر لیتے هیں، اور آپ انهیں دیکھتے هیں که وه تکبر کرتے هوئے منه موڑ لیتے هیں۔",
     "persian_text": "و هنگامی که به آنان گفته شود: بیایید تا رسول خدا برای شما آمرزش بخواهد، سرهای خود را برمی‌گردانند، و آنان را می‌بینی که با تکبر روی برمی‌گردانند.",
     "transliteration": "Wa idha qeela lahum ta'alaw yastaghfir lakum rasoolu Allahi lawwaw ru'oosahum wa ra-aytahum yasuddoona wahum mustakbiroon"
@@ -49,7 +49,7 @@ ayats = [
   {
     "verse_number": 6,
     "english_text": "It is the same for them whether you pray for their forgiveness or not, Allah is not going to forgive them that Allah does not give guidance to the evil doing nation.",
-    "arabic_text": "سَوَآءٌ عَلَيْهِمْ اَسْتَغْفَرْتَ لَهُمْ اَمْ لَمْ تَسْتَغْفِرْ لَهُمْ لَن يَغْفِرَ ٱللَّهُ لَهُمْ ۚ اِنَّ ٱللَّهَ لَا يَهْدِى ٱلْقَوْمَ ٱلْفَـٰسِقِينَ",
+    "arabic_text": "سَوَآءٌ عَلَيْهِمْ اَسْتَغْفَرْتَ لَهُمْ اَمْ لَمْ تَسْتَغْفِرْ لَهُمْ لَن يَغْفِرَ اللَّهُ لَهُمْ ۚ اِنَّ اللَّهَ لَا يَهْدِى الْقَوْمَ الْفَـٰسِقِينَ",
     "urdu_text": "ان کے لیے برابر هے که آپ ان کے لیے بخشش مانگیں یا نه مانگیں، الله انهیں هرگز نهیں بخشے گا، بیشک الله نافرمان لوگوں کو هدایت نهیں دیتا۔",
     "persian_text": "برای آنان یکسان است که برایشان آمرزش بخواهی یا نخواهی، خداوند هرگز آنان را نخواهد بخشید، زیرا خداوند قوم نافرمان را هدایت نمی‌کند.",
     "transliteration": "Sawaa'un 'alayhim astaghfarta lahum am lam tastaghfir lahum lan yaghfira Allahu lahum inna Allaha la yahdee al-qawma al-fasiqeen"
@@ -57,7 +57,7 @@ ayats = [
   {
     "verse_number": 7,
     "english_text": "These are the people who say: do not spend anything on the companions of the Prophet of Allah so they may get scattered, although all the treasures of skies and the earth belong to Allah only, and these hypocrites do not understand this.",
-    "arabic_text": "هُمُ ٱلَّذِينَ يَقُولُونَ لَا تُنفِقُواْ عَلَىٰ مَنْ عِندَ رَسُولِ ٱللَّهِ حَتَّىٰ يَنفَضُّواْ ۗ وَلِلَّهِ خَزَآئِنُ ٱلسَّمَـٰوَٰتِ وَٱلْاَرْضِ وَلَـٰكِنَّ ٱلْمُنَـٰفِقِينَ لَا يَفْقَهُونَ",
+    "arabic_text": "هُمُ الَّذِينَ يَقُولُونَ لَا تُنفِقُواْ عَلَىٰ مَنْ عِندَ رَسُولِ اللَّهِ حَتَّىٰ يَنفَضُّواْ ۗ وَلِلَّهِ خَزَآئِنُ السَّمَـٰوَٰتِ وَالْاَرْضِ وَلَـٰكِنَّ الْمُنَـٰفِقِينَ لَا يَفْقَهُونَ",
     "urdu_text": "یه وه لوگ هیں جو کهتے هیں که الله کے رسول کے ساتھیوں پر خرچ نه کرو تاکه وه منتشر هو جائیں، حالانکه آسمانوں اور زمین کے خزانے الله هی کے لیے هیں، لیکن منافق نهیں سمجھتے۔",
     "persian_text": "آنان کسانی هستند که می‌گویند: بر کسانی که نزد رسول خدا هستند انفاق نکنید تا پراکنده شوند، در حالی که خزانه‌های آسمان‌ها و زمین از آن خداست، ولی منافقان نمی‌فهمند.",
     "transliteration": "Humu alladheena yaqooloona la tunfiqoo 'ala man 'inda rasooli Allahi hatta yanfaddoo wa lillahi khaza'inu as-samawati wal-ardi walakinna al-munafiqeena la yafqahoon"
@@ -65,7 +65,7 @@ ayats = [
   {
     "verse_number": 8,
     "english_text": "These people say that if we come back to Madina, then we, the honorable people will drive out these mean people; although all the Honor belongs to Allah, His Prophet and to the believers and these hypocrites even do not know this.",
-    "arabic_text": "يَقُولُونَ لَئِن رَّجَعْنَآ اِلَى ٱلْمَدِينَةِ لَيُخْرِجَنَّ ٱلْاَعَزُّ مِنْهَا ٱلْاَذَلَّ ۚ وَلِلَّهِ ٱلْعِزَّةُ وَلِرَسُولِهِۦ وَلِلْمُؤْمِنِينَ وَلَـٰكِنَّ ٱلْمُنَـٰفِقِينَ لَا يَعْلَمُونَ",
+    "arabic_text": "يَقُولُونَ لَئِن رَّجَعْنَآ اِلَى الْمَدِينَةِ لَيُخْرِجَنَّ الْاَعَزُّ مِنْهَا الْاَذَلَّ ۚ وَلِلَّهِ الْعِزَّةُ وَلِرَسُولِهِ وَلِلْمُؤْمِنِينَ وَلَـٰكِنَّ الْمُنَـٰفِقِينَ لَا يَعْلَمُونَ",
     "urdu_text": "یه لوگ کهتے هیں که اگر هم مدینه واپس جائیں تو ضرور عزت والے ذلیل کو وهاں سے نکال دیں گے، حالانکه عزت الله اور اس کے رسول اور مومنوں کے لیے هے، لیکن منافق نهیں جانتے۔",
     "persian_text": "آنان می‌گویند: اگر به مدینه بازگردیم، قطعاً عزیزتر، خوارتر را از آن بیرون خواهد کرد، در حالی که عزت از آن خدا و رسول او و مؤمنان است، ولی منافقان نمی‌دانند.",
     "transliteration": "Yaqooloona la'in raja'na ila al-madeenati la-yukhrijanna al-a'azzu minha al-adhalla wa lillahi al-'izzatu wa lirasolihi wa lilmu'mineena walakinna al-munafiqeena la ya'lamoon"
@@ -73,7 +73,7 @@ ayats = [
   {
     "verse_number": 9,
     "english_text": "O you who believe! beware, your wealth and your children may not make you oblivious from the remembrance of Allah, and Verily whoever will do this will be counted among the losers.",
-    "arabic_text": "يَـٰٓاَيُّهَا ٱلَّذِينَ ءَامَنُواْ لَا تُلْهِكُمْ اَمْوَٰلُكُمْ وَلَآ اَوْلَـٰدُكُمْ عَن ذِكْرِ ٱللَّهِ ۚ وَمَن يَفْعَلْ ذَٰلِكَ فَاُو۟لَـٰٓئِكَ هُمُ ٱلْخَـٰسِرُونَ",
+    "arabic_text": "يٰٓاَيُّهَا الَّذِينَ ءَامَنُواْ لَا تُلْهِكُمْ اَمْوَٰلُكُمْ وَلَآ اَوْلَـٰدُكُمْ عَن ذِكْرِ اللَّهِ ۚ وَمَن يَفْعَلْ ذَٰلِكَ فَاُو۟لَـٰٓئِكَ هُمُ الْخَـٰسِرُونَ",
     "urdu_text": "اے ایمان والو! تمهارے مال اور تمهاری اولاد تمهیں الله کی یاد سے غافل نه کر دیں، اور جو ایسا کرے گا تو وهی لوگ نقصان اٹھانے والے هیں۔",
     "persian_text": "ای کسانی که ایمان آورده‌اید! اموال و فرزندانتان شما را از یاد خدا غافل نسازد، و هر کس چنین کند، آنان زیانکارانند.",
     "transliteration": "Ya ayyuha alladheena aamanoo la tulhikum amwalukum wala awladukum 'an dhikri Allahi wa man yaf'al dhalika fa-ula'ika humu al-khasiroon"
@@ -81,7 +81,7 @@ ayats = [
   {
     "verse_number": 10,
     "english_text": "And spend in Our way from the sustenance what We have bestowed upon you, before death come to any of you and he may say, \"O Lord! Why don't you give us the respite for some days so that we give charity and be counted among the good servants\".",
-    "arabic_text": "وَاَنفِقُواْ مِن مَّا رَزَقْنَـٰكُم مِّن قَبْلِ اَن يَاْتِىَ اَحَدَكُمُ ٱلْمَوْتُ فَيَقُولَ رَبِّ لَوْلَآ اَخَّرْتَنِىٓ اِلَىٰٓ اَجَلٍۢ قَرِيبٍۢ فَاَصَّدَّقَ وَاَكُن مِّنَ ٱلصَّـٰلِحِينَ",
+    "arabic_text": "وَاَنفِقُواْ مِن مَّا رَزَقْنَـٰكُم مِّن قَبْلِ اَن يَاْتِىَ اَحَدَكُمُ الْمَوْتُ فَيَقُولَ رَبِّ لَوْلَآ اَخَّرْتَنِىٓ اِلَىٰٓ اَجَلٍۢ قَرِيبٍۢ فَاَصَّدَّقَ وَاَكُن مِّنَ الصَّـٰلِحِينَ",
     "urdu_text": "اور جو رزق هم نے تمهیں دیا هے اس میں سے خرچ کرو اس سے پهلے که تم میں سے کسی کو موت آ جائے اور وه کهے: اے میرے رب! تو نے مجھے تھوڑی مدت کیوں نه دی تاکه میں صدقه کرتا اور نیک لوگوں میں سے هو جاتا۔",
     "persian_text": "و از آنچه به شما روزی داده‌ایم انفاق کنید پیش از آنکه مرگ یکی از شما فرا رسد و بگوید: پروردگارا! چرا مرا تا مدتی نزدیک مهلت ندادی تا صدقه دهم و از شایستگان باشم.",
     "transliteration": "Wa anfiqoo min ma razaqnakum min qabli an ya'tiya ahadakumu al-mawtu fayaqoola rabbi lawla akhkhartanee ila ajalin qareebin fa-assaddaqa wa akun mina as-saliheen"
@@ -89,7 +89,7 @@ ayats = [
   {
     "verse_number": 11,
     "english_text": "And when the appointed time (of death) comes, Allah does not grant respite to any soul, and He is well aware of your deeds.",
-    "arabic_text": "وَلَن يُؤَخِّرَ ٱللَّهُ نَفْسًا اِذَا جَآءَ اَجَلُهَا ۚ وَٱللَّهُ خَبِيرٌۢ بِمَا تَعْمَلُونَ",
+    "arabic_text": "وَلَن يُؤَخِّرَ اللَّهُ نَفْسًا اِذَا جَآءَ اَجَلُهَا ۚ وَاللَّهُ خَبِيرٌۢ بِمَا تَعْمَلُونَ",
     "urdu_text": "اور الله کسی جان کو مهلت نهیں دیتا جب اس کا مقرره وقت آ جائے، اور الله تمهارے اعمال سے پوری طرح باخبر هے۔",
     "persian_text": "و خداوند هیچ جانی را مهلت نمی‌دهد هنگامی که اجلش فرا رسد، و خداوند به آنچه انجام می‌دهید آگاه است.",
     "transliteration": "Wa lan yu'akhkhira Allahu nafsan idha jaa ajaluha, wallahu khabeerun bima ta'maloon"

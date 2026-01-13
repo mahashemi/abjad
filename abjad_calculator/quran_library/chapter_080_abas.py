@@ -17,7 +17,7 @@ ayats = [
     },
     {
         "verse_number": "3",
-        "arabic_text": "وَ مَا يُدْرِيكَ لَعَلَّهُۥ يَزَّكَّىٰٓ",
+        "arabic_text": "وَ مَا يُدْرِيكَ لَعَلَّهُ يَزَّكَّىٰٓ",
         "urdu_text": "اور تمہیں کیا خبر شاید وہ پاکیزہ ہو جائے",
         "persian_text": "و تو چه می‌دانی شاید او پاک شود",
         "english_text": "But what would make you perceive that perhaps he might be purified",
@@ -25,7 +25,7 @@ ayats = [
     },
     {
         "verse_number": "4",
-        "arabic_text": "اَوْ يَذَّكَّرُ فَتَنفَعَهُ ٱلذِّكْرٰى",
+        "arabic_text": "اَوْ يَذَّكَّرُ فَتَنفَعَهُ الذِّكْرٰى",
         "urdu_text": "یا وہ نصیحت حاصل کرے اور نصیحت اس کو فائدہ دے",
         "persian_text": "یا پند گیرد، و پند به او سود رساند",
         "english_text": "Or be reminded and the remembrance would benefit him?",
@@ -41,7 +41,7 @@ ayats = [
     },
     {
         "verse_number": "6",
-        "arabic_text": "فَاَنتَ لَهُۥ تَصَدَّى",
+        "arabic_text": "فَاَنتَ لَهُ تَصَدَّى",
         "urdu_text": "آپ اسکی فکر میں لگے ہوے ہیں",
         "persian_text": "تو به او روی می‌آوری",
         "english_text": "To him you give attention",
@@ -89,7 +89,7 @@ ayats = [
     },
     {
         "verse_number": "12",
-        "arabic_text": "فَمَن شَآءَ ذَكَرَهُۥ",
+        "arabic_text": "فَمَن شَآءَ ذَكَرَهُ",
         "urdu_text": "جسکا جی چاہے قبول کر لے",
         "persian_text": "پس هر که خواهد آن را یاد کند",
         "english_text": "So whoever wills may remember it",
@@ -129,7 +129,7 @@ ayats = [
     },
     {
         "verse_number": "17",
-        "arabic_text": "قُتِلَ الْاِنسَانُ مَآ اَكْفَرَهُۥ",
+        "arabic_text": "قُتِلَ الْاِنسَانُ مَآ اَكْفَرَهُ",
         "urdu_text": "انسان اس بات سے مرا گیا کہ کس قدر ناشکرا ہو گیا ",
         "persian_text": "مرگ بر انسان! چه بسیار ناسپاس است",
         "english_text": "Cursed is man; how disbelieving is he!",
@@ -137,7 +137,7 @@ ayats = [
     },
     {
         "verse_number": "18",
-        "arabic_text": "مِنْ اَىِّ شَىْءٍ خَلَقَهۥ",
+        "arabic_text": "مِنْ اَىِّ شَىْءٍ خَلَقَه",
         "urdu_text": "کس چیز سے اسے پیدا کیا؟",
         "persian_text": "از چه چیز او را آفرید؟",
         "english_text": "From what thing did He create him?",
@@ -145,7 +145,7 @@ ayats = [
     },
     {
         "verse_number": "19",
-        "arabic_text": "مِن نُّطْفَةٍ خَلَقَهۥ فَقَدَّرَهۥ",
+        "arabic_text": "مِن نُّطْفَةٍ خَلَقَه فَقَدَّرَه",
         "urdu_text": "نطفہ سے اسے پیدا کیا، پھر اس کا اندازہ مقرر کیا",
         "persian_text": "او را از نطفه آفرید و اندازه‌اش را تعیین کرد",
         "english_text": "From a sperm-drop He created him and destined for him",
@@ -153,7 +153,7 @@ ayats = [
     },
     {
         "verse_number": "20",
-        "arabic_text": "ثُمَّ ٱلسَّبِيلَ يَسَّرَهُۥ",
+        "arabic_text": "ثُمَّ السَّبِيلَ يَسَّرَهُ",
         "urdu_text": "پھر اس کے لیے راستہ آسان کیا",
         "persian_text": "سپس راه را برای او آسان ساخت",
         "english_text": "Then He eased the way for him",
@@ -161,7 +161,7 @@ ayats = [
     },
     {
         "verse_number": "21",
-        "arabic_text": "ثُمَّ اَمَاتَهُۥ فَاَقْبَرَهۥ",
+        "arabic_text": "ثُمَّ اَمَاتَهُ فَاَقْبَرَه",
         "urdu_text": "پھر اسے موت دی اور قبر میں ڈالا",
         "persian_text": "سپس او را میراند و در گورش نهاد",
         "english_text": "Then He causes his death and provides a grave for him",
@@ -169,7 +169,7 @@ ayats = [
     },
     {
         "verse_number": "22",
-        "arabic_text": "ثُمَّ اِذَا شَآءَ اَنشَرَهۥ",
+        "arabic_text": "ثُمَّ اِذَا شَآءَ اَنشَرَه",
         "urdu_text": "پھر جب چاہے اسے دوبارہ زندہ کرے گا",
         "persian_text": "سپس هر گاه بخواهد او را زنده می‌گرداند",
         "english_text": "Then when He wills, He will resurrect him",
@@ -177,7 +177,7 @@ ayats = [
     },
     {
         "verse_number": "23",
-        "arabic_text": "كَلَّا لَمَّا يَقْضِ مَآ اَمَرَهۥ",
+        "arabic_text": "كَلَّا لَمَّا يَقْضِ مَآ اَمَرَه",
         "urdu_text": "ہرگز نہیں، اس نے اسنے حکم خدا کو بلکل پورا نہیں کیا ہے",
         "persian_text": "نه، او هنوز آنچه را که مامور شده انجام نداده",
         "english_text": "No! He has not yet accomplished what He commanded him",
@@ -185,7 +185,7 @@ ayats = [
     },
     {
         "verse_number": "24",
-        "arabic_text": "فَلْيَنظُرِ الْاِنسَانُ اِلَٰى طَعَامِهِۦٓ",
+        "arabic_text": "فَلْيَنظُرِ الْاِنسَانُ اِلَٰى طَعَامِهِٓ",
         "urdu_text": "پس انسان اپنے کھانے کی طرف دیکھے",
         "persian_text": "پس انسان باید به خوراک خود بنگرد",
         "english_text": "Then let man look at his food",
@@ -273,7 +273,7 @@ ayats = [
     },
     {
         "verse_number": "35",
-        "arabic_text": "وَاُمِّهِۦ وَاَبِيهِ",
+        "arabic_text": "وَاُمِّهِ وَاَبِيهِ",
         "urdu_text": "اور اپنی ماں اور اپنے باپ سے",
         "persian_text": "و از مادر و پدرش می‌گریزد",
         "english_text": "And from his mother and his father",
@@ -281,7 +281,7 @@ ayats = [
     },
     {
         "verse_number": "36",
-        "arabic_text": "وَصَاحِبَتِهِۦ وَبَنِيهِ",
+        "arabic_text": "وَصَاحِبَتِهِ وَبَنِيهِ",
         "urdu_text": "اور اپنی بیوی اور اپنی اولاد سے",
         "persian_text": "و از همسر و فرزندانش می‌گریزد",
         "english_text": "And from his wife and his children",
@@ -289,7 +289,7 @@ ayats = [
     },
     {
         "verse_number": "37",
-        "arabic_text": "لِكُلِّ ٱمْرِىً مِّنْهُمْ يَوْمَئِذٍ شَانٌ يُغْنِيهِ",
+        "arabic_text": "لِكُلِّ امْرِىً مِّنْهُمْ يَوْمَئِذٍ شَانٌ يُغْنِيهِ",
         "urdu_text": "اس دن ہر آدمی کے لئے ایک خاص فکر ہوگی جو اسکے لئے کافی ہوگی",
         "persian_text": "هر کسی از آن‌ها آن روز کاری دارد که او را به خود مشغول می‌دارد",
         "english_text": "Every man, that Day, will have enough to make him careless of others",

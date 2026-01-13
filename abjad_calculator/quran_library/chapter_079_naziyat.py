@@ -121,7 +121,7 @@ ayats = [
     },
     {
         "verse_number": "16",
-        "arabic_text": "اِذْ نَادٰهُ رَبُّهۥ بِالْوَادِ الْمُقَدَّسِ طُوًى",
+        "arabic_text": "اِذْ نَادٰهُ رَبُّه بِالْوَادِ الْمُقَدَّسِ طُوًى",
         "urdu_text": "جب اس کے رب نے اسے پاک وادی طویٰ میں پکارا",
         "persian_text": "هنگامی که پروردگارش او را در وادی مقدس طوی ندا داد",
         "english_text": "When his Lord called to him in the sacred valley of Tuwa:",
@@ -129,7 +129,7 @@ ayats = [
     },
     {
         "verse_number": "17",
-        "arabic_text": "اِذْهَبْ اِلَٰى فِرْعَوْنَ اِنَّهُۥ طَغٰى",
+        "arabic_text": "اِذْهَبْ اِلَٰى فِرْعَوْنَ اِنَّهُ طَغٰى",
         "urdu_text": " فرعون کے پاس جا، بے شک وہ سرکشی ہو گیا ہے  ہے",
         "persian_text": "برو به سوی فرعون، زیرا که او طغیان کرده است",
         "english_text": "Go to Pharaoh. Indeed, he has transgressed.",
@@ -313,7 +313,7 @@ ayats = [
     },
     {
         "verse_number": "40",
-        "arabic_text": "وَ اَمَّا مَنْ خَافَ مَقَامَ رَبِّهِۦ وَنَهَى اَلنَّفْسَ عَنِ الْهَوٰى",
+        "arabic_text": "وَ اَمَّا مَنْ خَافَ مَقَامَ رَبِّهِ وَنَهَى اَلنَّفْسَ عَنِ الْهَوٰى",
         "urdu_text": "اور وہ شخص جو اپنے رب کے سامنے کھڑے ہونے سے ڈرا اور نفس کو خواہش سے روکا",
         "persian_text": "و اما کسی که از ایستادن در برابر پروردگارش ترسید و نفس خود را از هوس بازداشت",
         "english_text": "But as for he who feared the standing before his Lord and restrained the soul from [its] desire,",

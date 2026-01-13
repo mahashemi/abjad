@@ -113,7 +113,7 @@ ayats = [
     },
     {
         "verse_number": "15",
-        "arabic_text": "لِّنُخْرِجَ بِهِۦ حَبًّا وَّ نَبَاتًا",
+        "arabic_text": "لِّنُخْرِجَ بِهِ حَبًّا وَّ نَبَاتًا",
         "urdu_text": "تاکه هم اس سے اناج اور سبزه اگائیں",
         "persian_text": "تا از آن دانه‌ها و گیاهان برویانیم",
         "english_text": "That We may bring forth thereby grain and vegetation,",

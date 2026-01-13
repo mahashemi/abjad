@@ -9,7 +9,7 @@ ayats = [
   {
     "verse_number": 1,
     "english_text": "I swear by those (winds) which have been sent with continuity.",
-    "arabic_text": "وَٱلْمُرْسَلَـٰتِ عُرْفًۭا",
+    "arabic_text": "وَالْمُرْسَلَـٰتِ عُرْفًۭا",
     "urdu_text": "قسم ہے ان (ہواؤں) کی جو پے در پے بھیجی جاتی ہیں۔",
     "persian_text": "سوگند به آنها (بادها) که پی در پی فرستاده می‌شوند.",
     "transliteration": "Wal-mursalaati 'urfaa"
@@ -17,7 +17,7 @@ ayats = [
   {
     "verse_number": 2,
     "english_text": "Then they are moving at a high speed.",
-    "arabic_text": "فَٱلْعَـٰصِفَـٰتِ عَصْفًۭا",
+    "arabic_text": "فَالْعَـٰصِفَـٰتِ عَصْفًۭا",
     "urdu_text": "پھر وہ جو تیز رفتاری سے چلتی ہیں۔",
     "persian_text": "سپس آنها که با سرعت شدید می‌وزند.",
     "transliteration": "Fal-'aasifaati 'asfaa"
@@ -25,7 +25,7 @@ ayats = [
   {
     "verse_number": 3,
     "english_text": "And swear by those (winds) which disperse the things (clouds).",
-    "arabic_text": "وَٱلنَّـٰشِرَٰتِ نَشْرًۭا",
+    "arabic_text": "وَالنَّـٰشِرَٰتِ نَشْرًۭا",
     "urdu_text": "اور قسم ہے ان (ہواؤں) کی جو چیزوں (بادلوں) کو پھیلاتی ہیں۔",
     "persian_text": "و سوگند به آنها (بادها) که چیزها (ابرها) را پراکنده می‌سازند.",
     "transliteration": "Wan-naashiraati nashraa"
@@ -33,7 +33,7 @@ ayats = [
   {
     "verse_number": 4,
     "english_text": "Then will separate among them.",
-    "arabic_text": "فَٱلْفَـٰرِقَـٰتِ فَرْقًۭا",
+    "arabic_text": "فَالْفَـٰرِقَـٰتِ فَرْقًۭا",
     "urdu_text": "پھر وہ جو ان میں جدائی ڈال دیتی ہیں۔",
     "persian_text": "سپس آنها که میان آنها جدایی می‌اندازند.",
     "transliteration": "Fal-faariqaati farqaa"
@@ -41,7 +41,7 @@ ayats = [
   {
     "verse_number": 5,
     "english_text": "Then by the angels who bring revelations.",
-    "arabic_text": "فَٱلْمُلْقِيَـٰتِ ذِكْرًا",
+    "arabic_text": "فَالْمُلْقِيَـٰتِ ذِكْرًا",
     "urdu_text": "پھر ان فرشتوں کی قسم جو وحی لاتے ہیں۔",
     "persian_text": "سپس سوگند به فرشتگانی که وحی را می‌آورند.",
     "transliteration": "Fal-mulqiyaati dhikraa"
@@ -65,7 +65,7 @@ ayats = [
   {
     "verse_number": 8,
     "english_text": "When the brightness of stars will end.",
-    "arabic_text": "فَاِذَا ٱلنُّجُومُ طُمِسَتْ",
+    "arabic_text": "فَاِذَا النُّجُومُ طُمِسَتْ",
     "urdu_text": "جب ستاروں کی روشنی ختم ہو جائے گی۔",
     "persian_text": "هنگامی که نور ستارگان محو شود.",
     "transliteration": "Fa-idhan-nujoomo tumisat"
@@ -73,7 +73,7 @@ ayats = [
   {
     "verse_number": 9,
     "english_text": "And when skies are rend asunder.",
-    "arabic_text": "وَاِذَا ٱلسَّمَآءُ فُرِجَتْ",
+    "arabic_text": "وَاِذَا السَّمَآءُ فُرِجَتْ",
     "urdu_text": "اور جب آسمان پھاڑ دیا جائے گا۔",
     "persian_text": "و هنگامی که آسمان شکافته شود.",
     "transliteration": "Wa idhas-samaaa'u furijat"
@@ -81,7 +81,7 @@ ayats = [
   {
     "verse_number": 10,
     "english_text": "When mountains will start flying.",
-    "arabic_text": "وَاِذَا ٱلْجِبَالُ نُسِفَتْ",
+    "arabic_text": "وَاِذَا الْجِبَالُ نُسِفَتْ",
     "urdu_text": "اور جب پہاڑ اڑائے جائیں گے۔",
     "persian_text": "و هنگامی که کوه‌ها پراکنده شوند.",
     "transliteration": "Wa idhal-jibaalu nusifat"
@@ -89,7 +89,7 @@ ayats = [
   {
     "verse_number": 11,
     "english_text": "When all the prophets shall be gathered together at a time.",
-    "arabic_text": "وَاِذَا ٱلرُّسُلُ اُقِّتَتْ",
+    "arabic_text": "وَاِذَا الرُّسُلُ اُقِّتَتْ",
     "urdu_text": "اور جب تمام رسولوں کو ایک مقررہ وقت پر جمع کیا جائے گا",
     "persian_text": "و هنگامی که همه پیامبران در زمان معینی گرد آورده شوند",
     "transliteration": "Wa izar-rusulu uqqitat"
@@ -105,7 +105,7 @@ ayats = [
   {
     "verse_number": 13,
     "english_text": "For the day of decision.",
-    "arabic_text": "لِيَوْمِ ٱلْفَصْلِ",
+    "arabic_text": "لِيَوْمِ الْفَصْلِ",
     "urdu_text": "فیصلے کے دن کے لیے",
     "persian_text": "برای روز جداسازی و داوری",
     "transliteration": "Li yawmil-fasl"
@@ -113,7 +113,7 @@ ayats = [
   {
     "verse_number": 14,
     "english_text": "And what you know what the day of decision is.",
-    "arabic_text": "وَمَآ اَدْرَىٰكَ مَا يَوْمُ ٱلْفَصْلِ",
+    "arabic_text": "وَ مَآ اَدْرَىٰكَ مَا يَوْمُ الْفَصْلِ",
     "urdu_text": "اور تمہیں کیا معلوم کہ فیصلے کا دن کیا ہے",
     "persian_text": "و تو چه می‌دانی که روز جداسازی چیست",
     "transliteration": "Wa maa adraaka maa yawmul-fasl"
@@ -129,7 +129,7 @@ ayats = [
   {
     "verse_number": 16,
     "english_text": "Did We not destroy the earlier people.",
-    "arabic_text": "اَلَمْ نُهْلِكِ ٱلْاَوَّلِينَ",
+    "arabic_text": "اَلَمْ نُهْلِكِ الْاَوَّلِينَ",
     "urdu_text": "کیا ہم نے پہلے لوگوں کو ہلاک نہیں کیا",
     "persian_text": "آیا ما پیشینیان را هلاک نکردیم",
     "transliteration": "Alam nuhlikil-awwaleen"
@@ -137,7 +137,7 @@ ayats = [
   {
     "verse_number": 17,
     "english_text": "Then we will make other people to follow them too.",
-    "arabic_text": "ثُمَّ نُتْبِعُهُمُ ٱلْـَٔاخِرِينَ",
+    "arabic_text": "ثُمَّ نُتْبِعُهُمُ الْـَٔاخِرِينَ",
     "urdu_text": "پھر ہم ان کے پیچھے دوسرے لوگوں کو بھی بھیجیں گے",
     "persian_text": "سپس دیگران را نیز به دنبال آنان خواهیم فرستاد",
     "transliteration": "Thumma nutbi'uhumul-aakhireen"
@@ -145,7 +145,7 @@ ayats = [
   {
     "verse_number": 18,
     "english_text": "We treat the guilty ones like this.",
-    "arabic_text": "كَذَٰلِكَ نَفْعَلُ بِٱلْمُجْرِمِينَ",
+    "arabic_text": "كَذَٰلِكَ نَفْعَلُ بِالْمُجْرِمِينَ",
     "urdu_text": "ہم مجرموں کے ساتھ ایسا ہی کرتے ہیں",
     "persian_text": "این چنین با مجرمان رفتار می‌کنیم",
     "transliteration": "Kazaalika naf'alu bil-mujrimeen"
@@ -185,7 +185,7 @@ ayats = [
   {
     "verse_number": 23,
     "english_text": "Then We have appointed term, and We are the best to appoint term.",
-    "arabic_text": "فَقَدَرْنَا فَنِعْمَ ٱلْقَـٰدِرُونَ",
+    "arabic_text": "فَقَدَرْنَا فَنِعْمَ الْقَـٰدِرُونَ",
     "urdu_text": "پھر ہم نے اندازہ مقرر کیا، اور ہم بہترین اندازہ مقرر کرنے والے ہیں",
     "persian_text": "پس ما اندازه گرفتیم و چه نیکو اندازه گیرندگانیم",
     "transliteration": "Faqadarna fani'mal qadiroon"
@@ -201,7 +201,7 @@ ayats = [
   {
     "verse_number": 25,
     "english_text": "Have We not made the earth a container which collects.",
-    "arabic_text": "اَلَمْ نَجْعَلِ ٱلْاَرْضَ كِفَاتًا",
+    "arabic_text": "اَلَمْ نَجْعَلِ الْاَرْضَ كِفَاتًا",
     "urdu_text": "کیا ہم نے زمین کو سمیٹنے والی نہیں بنایا",
     "persian_text": "آیا زمین را جمع‌کننده قرار ندادیم",
     "transliteration": "Alam naj'alil arda kifata"
@@ -233,7 +233,7 @@ ayats = [
   {
     "verse_number": 29,
     "english_text": "Go towards it which you were denying.",
-    "arabic_text": "ٱنطَلِقُوٓاْ اِلَىٰ مَا كُنتُم بِهِۦ تُكَذِّبُونَ",
+    "arabic_text": "انطَلِقُوٓاْ اِلَىٰ مَا كُنتُم بِهِ تُكَذِّبُونَ",
     "urdu_text": "چلو اس کی طرف جسے تم جھٹلاتے تھے",
     "persian_text": "بروید به سوی آنچه تکذیبش می‌کردید",
     "transliteration": "Intaliqoo ila ma kuntum bihi tukaththiboon"
@@ -241,7 +241,7 @@ ayats = [
   {
     "verse_number": 30,
     "english_text": "Go towards the shadow of smoke, which has three corners.",
-    "arabic_text": "ٱنطَلِقُوٓاْ اِلَىٰ ظِلٍّۢ ذِى ثَلَـٰثِ شُعَبٍۢ",
+    "arabic_text": "انطَلِقُوٓاْ اِلَىٰ ظِلٍّۢ ذِى ثَلَـٰثِ شُعَبٍۢ",
     "urdu_text": "چلو اس سائے کی طرف جس کی تین شاخیں ہیں",
     "persian_text": "بروید به سوی سایه‌ای که دارای سه شاخه است",
     "transliteration": "Intaliqoo ila zillin zee thalathi shu'ab"
@@ -249,7 +249,7 @@ ayats = [
   {
     "verse_number": 31,
     "english_text": "Neither cold, nor any support to save from the flames of Hell.",
-    "arabic_text": "لَّا ظَلِيلٍۢ وَلَا يُغْنِى مِنَ ٱللَّهَبِ",
+    "arabic_text": "لَّا ظَلِيلٍۢ وَلَا يُغْنِى مِنَ اللَّهَبِ",
     "urdu_text": "نہ ٹھنڈا سایہ اور نہ آگ کے شعلوں سے بچانے والا۔",
     "persian_text": "نه سایه‌ای خنک و نه چیزی که از شعله‌های آتش نجات دهد.",
     "transliteration": "Laa zaleelin wa laa yughnee minal-lahab"
@@ -257,7 +257,7 @@ ayats = [
   {
     "verse_number": 32,
     "english_text": "It throws sparks like palace.",
-    "arabic_text": "اِنَّهَا تَرْمِى بِشَرَرٍۢ كَٱلْقَصْرِ",
+    "arabic_text": "اِنَّهَا تَرْمِى بِشَرَرٍۢ كَالْقَصْرِ",
     "urdu_text": "بے شک وہ محل کی طرح بڑی چنگاریاں پھینکتی ہے۔",
     "persian_text": "همانا آن آتش، جرقه‌هایی همچون کاخ بزرگ پرتاب می‌کند.",
     "transliteration": "Innahaa tarmee bishararin kal-qasr"
@@ -265,7 +265,7 @@ ayats = [
   {
     "verse_number": 33,
     "english_text": "As if a yellow color camel.",
-    "arabic_text": "كَاَنَّهُۥ جِمَـٰلَتٌۭ صُفْرٌۭ",
+    "arabic_text": "كَاَنَّهُ جِمَـٰلَتٌۭ صُفْرٌۭ",
     "urdu_text": "گویا وہ زرد رنگ کے اونٹ ہیں۔",
     "persian_text": "گویی شتران زرد رنگی هستند.",
     "transliteration": "Ka-annahu jimaalatun sufr"
@@ -305,7 +305,7 @@ ayats = [
   {
     "verse_number": 38,
     "english_text": "This is the day of decision to which We have gathered you and all of the earlier people.",
-    "arabic_text": "هَـٰذَا يَوْمُ ٱلْفَصْلِ ۖ جَمَعْنَـٰكُمْ وَٱلْاَوَّلِينَ",
+    "arabic_text": "هَـٰذَا يَوْمُ الْفَصْلِ ۖ جَمَعْنَـٰكُمْ وَالْاَوَّلِينَ",
     "urdu_text": "یہ فیصلے کا دن ہے، ہم نے تمہیں اور اگلے لوگوں کو جمع کیا ہے۔",
     "persian_text": "این روز جدایی است که شما و پیشینیان را گرد آوردیم.",
     "transliteration": "Haazaa yawmul-fasl jama'naakum wal-awwaleen"
@@ -329,7 +329,7 @@ ayats = [
   {
     "verse_number": 41,
     "english_text": "Verily, the righteous will be between the thick shadow and fountains.",
-    "arabic_text": "اِنَّ ٱلْمُتَّقِينَ فِى ظِلَـٰلٍۢ وَعُيُونٍۢ",
+    "arabic_text": "اِنَّ الْمُتَّقِينَ فِى ظِلَـٰلٍۢ وَعُيُونٍۢ",
     "urdu_text": "بیشک پرہیزگار سایوں اور چشموں میں ہوں گے",
     "persian_text": "به راستی که پرهیزگاران در سایه‌ها و چشمه‌ها خواهند بود",
     "transliteration": "Innal-muttaqeena fee dhilaalinw-wa 'uyoon"
@@ -345,7 +345,7 @@ ayats = [
   {
     "verse_number": 43,
     "english_text": "Now with rest; eat and drink, because of the deeds which you have performed.",
-    "arabic_text": "كُلُواْ وَٱشْرَبُواْ هَنِيٓـًٔۢا بِمَا كُنتُمْ تَعْمَلُونَ",
+    "arabic_text": "كُلُواْ وَاشْرَبُواْ هَنِيٓـًٔۢا بِمَا كُنتُمْ تَعْمَلُونَ",
     "urdu_text": "کھاؤ اور پیو خوشی سے ان اعمال کے بدلے جو تم کرتے تھے",
     "persian_text": "بخورید و بیاشامید گوارا، به پاداش آنچه انجام می‌دادید",
     "transliteration": "Kuloo washraboo haneee'am bimaa kuntum ta'maloon"
@@ -353,7 +353,7 @@ ayats = [
   {
     "verse_number": 44,
     "english_text": "Like this We reward the good-doers.",
-    "arabic_text": "اِنَّا كَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ",
+    "arabic_text": "اِنَّا كَذَٰلِكَ نَجْزِى الْمُحْسِنِينَ",
     "urdu_text": "بیشک ہم نیکوکاروں کو اسی طرح بدلہ دیتے ہیں",
     "persian_text": "همانا ما نیکوکاران را چنین پاداش می‌دهیم",
     "transliteration": "Innaa kazaalika najzil-muhsineen"
@@ -385,7 +385,7 @@ ayats = [
   {
     "verse_number": 48,
     "english_text": "And when they are asked to bow down; they don't.",
-    "arabic_text": "وَاِذَا قِيلَ لَهُمُ ٱرْكَعُواْ لَا يَرْكَعُونَ",
+    "arabic_text": "وَاِذَا قِيلَ لَهُمُ ارْكَعُواْ لَا يَرْكَعُونَ",
     "urdu_text": "اور جب ان سے کہا جاتا ہے کہ رکوع کرو تو وہ رکوع نہیں کرتے",
     "persian_text": "و چون به آنان گفته شود رکوع کنید، رکوع نمی‌کنند",
     "transliteration": "Wa izaa qeela lahumur-ka'oo laa yarka'oon"
@@ -401,7 +401,7 @@ ayats = [
   {
     "verse_number": 50,
     "english_text": "After all, on what these people will believe after this.",
-    "arabic_text": "فَبِاَىِّ حَدِيثٍۭ بَعْدَهُۥ يُؤْمِنُونَ",
+    "arabic_text": "فَبِاَىِّ حَدِيثٍۭ بَعْدَهُ يُؤْمِنُونَ",
     "urdu_text": "پھر اس کے بعد کس بات پر ایمان لائیں گے",
     "persian_text": "پس بعد از این به کدام سخن ایمان خواهند آورد",
     "transliteration": "Fabi-ayyi hadeesin ba'dahoo yu'minoon"

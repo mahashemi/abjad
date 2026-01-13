@@ -130,7 +130,7 @@ ayats = [
         "verse_number": "16",
     },
     {
-        "arabic_text": "فَلْيَدْعُ نَادِيَهُۥ",
+        "arabic_text": "فَلْيَدْعُ نَادِيَهُ",
         "urdu_text": "پھر وه اپنے ساتھیوں کو بلائے",
         "persian_text": "پس یاران خود را بخواند.",
         "english_text": "Then let him call his associates.",
@@ -146,7 +146,7 @@ ayats = [
         "verse_number": "18",
     },
     {
-        "arabic_text": "كَلَّا لَا تُطِعْهُۥ وَ اسْجُدْ وَ اقْتَرِب",
+        "arabic_text": "كَلَّا لَا تُطِعْهُ وَ اسْجُدْ وَ اقْتَرِب",
         "urdu_text": "نهیں، آپ اس کی بات نه مانیں اور سجده کریں اور قریب هو جائیں",
         "persian_text": "هرگز اطاعت مکن و سجده کن و به او نزدیک شو.",
         "english_text": "No! Do not obey him, but prostrate and draw near.",

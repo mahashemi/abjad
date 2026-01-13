@@ -9,7 +9,7 @@ ayats = [
   {
     "verse_number": 1,
     "english_text": "I swear by the Day of Judgement.",
-    "arabic_text": "لَآ اُقْسِمُ بِيَوْمِ ٱلْقِيَـٰمَةِ",
+    "arabic_text": "لَآ اُقْسِمُ بِيَوْمِ الْقِيَـٰمَةِ",
     "urdu_text": "میں قسم کھاتا هوں قیامت کے دن کی۔",
     "persian_text": "سوگند به روز قیامت.",
     "transliteration": "Laa uqsimu bi yawmil qiyaamah"
@@ -17,7 +17,7 @@ ayats = [
   {
     "verse_number": 2,
     "english_text": "And I swear by the self that condemns itself on the evil.",
-    "arabic_text": "وَلَآ اُقْسِمُ بِٱلنَّفْسِ ٱللَّوَّامَةِ",
+    "arabic_text": "وَلَآ اُقْسِمُ بِالنَّفْسِ اللَّوَّامَةِ",
     "urdu_text": "اور میں قسم کھاتا هوں ملامت کرنے والے نفس کی۔",
     "persian_text": "و سوگند به نفس سرزنشگر.",
     "transliteration": "Wa laa uqsimu bin nafsil lawwaamah"
@@ -25,7 +25,7 @@ ayats = [
   {
     "verse_number": 3,
     "english_text": "What does the man think that we will not be able to gather his bones.",
-    "arabic_text": "اَيَحْسَبُ ٱلْاِنسَـٰنُ اَلَّن نَّجْمَعَ عِظَامَهُۥ",
+    "arabic_text": "اَيَحْسَبُ الْاِنسَـٰنُ اَلَّن نَّجْمَعَ عِظَامَهُ",
     "urdu_text": "کیا انسان یه سمجھتا هے که هم اس کی هڈیوں کو جمع نهیں کر سکیں گے۔",
     "persian_text": "آیا انسان گمان می‌برد که ما استخوان‌هایش را جمع نخواهیم کرد.",
     "transliteration": "Ayahsabul insaanu allan najma'a 'izaamah"
@@ -33,7 +33,7 @@ ayats = [
   {
     "verse_number": 4,
     "english_text": "Verily we are capable of it that we can make even upto his very fingertips.",
-    "arabic_text": "بَلَىٰ قَـٰدِرِينَ عَلَىٰٓ اَن نُّسَوِّىَ بَنَانَهُۥ",
+    "arabic_text": "بَلَىٰ قَـٰدِرِينَ عَلَىٰٓ اَن نُّسَوِّىَ بَنَانَهُ",
     "urdu_text": "کیوں نهیں، هم اس پر قادر هیں که اس کی انگلیوں کے پوروں تک کو درست کر دیں۔",
     "persian_text": "آری، ما قادریم که حتی سر انگشتان او را نیز مرتب سازیم.",
     "transliteration": "Balaa qaadireena 'alaaa an nusawwiya banaa nah"
@@ -41,7 +41,7 @@ ayats = [
   {
     "verse_number": 5,
     "english_text": "Whereas man wants to continue doing bad deed in front of himself.",
-    "arabic_text": "بَلْ يُرِيدُ ٱلْاِنسَـٰنُ لِيَفْجُرَ اَمَامَهُۥ",
+    "arabic_text": "بَلْ يُرِيدُ الْاِنسَـٰنُ لِيَفْجُرَ اَمَامَهُ",
     "urdu_text": "بلکه انسان چاهتا هے که اپنے آگے بھی بدکاری کرتا رهے۔",
     "persian_text": "بلکه انسان می‌خواهد که پیش روی خود نیز گناه کند.",
     "transliteration": "Bal yureedul insaanu liyafjura amaamah"
@@ -49,7 +49,7 @@ ayats = [
   {
     "verse_number": 6,
     "english_text": "And he asks when the Day of Judgement will come.",
-    "arabic_text": "يَسْـَٔلُ اَيَّانَ يَوْمُ ٱلْقِيَـٰمَةِ",
+    "arabic_text": "يَسْـَٔلُ اَيَّانَ يَوْمُ الْقِيَـٰمَةِ",
     "urdu_text": "اور وه پوچھتا هے که قیامت کا دن کب آئے گا۔",
     "persian_text": "و می‌پرسد که روز قیامت کی است.",
     "transliteration": "Yas'alu ayyaana yawmul qiyaamah"
@@ -57,7 +57,7 @@ ayats = [
   {
     "verse_number": 7,
     "english_text": "When the eyes will dazzle.",
-    "arabic_text": "فَاِذَا بَرِقَ ٱلْبَصَرُ",
+    "arabic_text": "فَاِذَا بَرِقَ الْبَصَرُ",
     "urdu_text": "پس جب آنکھیں خیره هو جائیں گی۔",
     "persian_text": "پس هنگامی که چشم‌ها خیره شود.",
     "transliteration": "Fa-izaa bariqal basar"
@@ -65,7 +65,7 @@ ayats = [
   {
     "verse_number": 8,
     "english_text": "And moon will eclipse.",
-    "arabic_text": "وَخَسَفَ ٱلْقَمَرُ",
+    "arabic_text": "وَخَسَفَ الْقَمَرُ",
     "urdu_text": "اور چاند گرهن لگ جائے۔",
     "persian_text": "و ماه تاریک گردد.",
     "transliteration": "Wa khasafal qamar"
@@ -73,7 +73,7 @@ ayats = [
   {
     "verse_number": 9,
     "english_text": "And these sun and moon will be brought together.",
-    "arabic_text": "وَجُمِعَ ٱلشَّمْسُ وَٱلْقَمَرُ",
+    "arabic_text": "وَجُمِعَ الشَّمْسُ وَالْقَمَرُ",
     "urdu_text": "اور سورج اور چاند اکٹھے کر دیے جائیں گے۔",
     "persian_text": "و خورشید و ماه با هم جمع شوند.",
     "transliteration": "Wa jumi'ash shamsu wal qamar"
@@ -81,7 +81,7 @@ ayats = [
   {
     "verse_number": 10,
     "english_text": "That day man will say now where is the way to escape.",
-    "arabic_text": "يَقُولُ ٱلْاِنسَـٰنُ يَوْمَئِذٍ اَيْنَ ٱلْمَفَرُّ",
+    "arabic_text": "يَقُولُ الْاِنسَـٰنُ يَوْمَئِذٍ اَيْنَ الْمَفَرُّ",
     "urdu_text": "اس دن انسان کهے گا که اب بھاگنے کی جگه کهاں هے۔",
     "persian_text": "در آن روز انسان می‌گوید که راه گریز کجاست.",
     "transliteration": "Yaqoolul insaanu yawma'izin aynal mafarr"
@@ -97,7 +97,7 @@ ayats = [
   {
     "verse_number": 12,
     "english_text": "Now center of everyone is towards your Lord.",
-    "arabic_text": "اِلَىٰ رَبِّكَ يَوْمَئِذٍ ٱلْمُسْتَقَرُّ",
+    "arabic_text": "اِلَىٰ رَبِّكَ يَوْمَئِذٍ الْمُسْتَقَرُّ",
     "urdu_text": "اس دن سب کا ٹھکانه تیرے رب کی طرف هے۔",
     "persian_text": "در آن روز بازگشت همه به سوی پروردگار توست.",
     "transliteration": "Ila rabbika yawma'idhin almustaqarru"
@@ -105,7 +105,7 @@ ayats = [
   {
     "verse_number": 13,
     "english_text": "That day man will be told what deeds he has done before and after.",
-    "arabic_text": "يُنَبَّؤُاْ ٱلْاِنسَـٰنُ يَوْمَئِذٍۭ بِمَا قَدَّمَ وَاَخَّرَ",
+    "arabic_text": "يُنَبَّؤُاْ الْاِنسَـٰنُ يَوْمَئِذٍۭ بِمَا قَدَّمَ وَاَخَّرَ",
     "urdu_text": "اس دن انسان کو بتا دیا جائے گا جو اس نے آگے بھیجا اور جو پیچھے چھوڑا۔",
     "persian_text": "در آن روز به انسان خبر داده می‌شود از آنچه پیش فرستاده و آنچه پس انداخته است.",
     "transliteration": "Yunabbau al-insanu yawma'idhin bima qaddama wa akhkhara"
@@ -113,7 +113,7 @@ ayats = [
   {
     "verse_number": 14,
     "english_text": "Rather man himself is aware of the circumstances of his Self.",
-    "arabic_text": "بَلِ ٱلْاِنسَـٰنُ عَلَىٰ نَفْسِهِۦ بَصِيرَةٌۭ",
+    "arabic_text": "بَلِ الْاِنسَـٰنُ عَلَىٰ نَفْسِهِ بَصِيرَةٌۭ",
     "urdu_text": "بلکه انسان خود اپنے نفس پر گواه هے۔",
     "persian_text": "بلکه انسان خود بر حال خویشتن آگاه است.",
     "transliteration": "Bal al-insanu 'ala nafsihi baseeratun"
@@ -121,7 +121,7 @@ ayats = [
   {
     "verse_number": 15,
     "english_text": "He may present any number of excuses.",
-    "arabic_text": "وَلَوْ اَلْقَىٰ مَعَاذِيرَهُۥ",
+    "arabic_text": "وَ لَوْ اَلْقَىٰ مَعَاذِيرَهُ",
     "urdu_text": "اگرچه وه کتنے هی بهانے پیش کرے۔",
     "persian_text": "اگرچه عذرهای خود را بیاورد.",
     "transliteration": "Wa law alqa ma'adheerahu"
@@ -129,7 +129,7 @@ ayats = [
   {
     "verse_number": 16,
     "english_text": "Look, while reciting the Quran do not move your tongue hastily.",
-    "arabic_text": "لَا تُحَرِّكْ بِهِۦ لِسَانَكَ لِتَعْجَلَ بِهِۦٓ",
+    "arabic_text": "لَا تُحَرِّكْ بِهِ لِسَانَكَ لِتَعْجَلَ بِهِٓ",
     "urdu_text": "قرآن پڑھتے وقت جلدی میں اپنی زبان نه هلاؤ۔",
     "persian_text": "زبان خود را برای شتاب در آن حرکت مده.",
     "transliteration": "La tuharrik bihi lisanaka lita'jala bihi"
@@ -137,7 +137,7 @@ ayats = [
   {
     "verse_number": 17,
     "english_text": "It is Our responsibility to collect it and get it recited.",
-    "arabic_text": "اِنَّ عَلَيْنَا جَمْعَهُۥ وَقُرْءَانَهُۥ",
+    "arabic_text": "اِنَّ عَلَيْنَا جَمْعَهُ وَقُرْءَانَهُ",
     "urdu_text": "بیشک اس کو جمع کرنا اور پڑھوانا هماری ذمه داری هے۔",
     "persian_text": "همانا بر ماست جمع کردن آن و خواندن آن.",
     "transliteration": "Inna 'alayna jam'ahu wa qur'anahu"
@@ -145,7 +145,7 @@ ayats = [
   {
     "verse_number": 18,
     "english_text": "When We made you read then you should recite and repeat it.",
-    "arabic_text": "فَاِذَا قَرَاْنَـٰهُ فَٱتَّبِعْ قُرْءَانَهُۥ",
+    "arabic_text": "فَاِذَا قَرَاْنَـٰهُ فَاتَّبِعْ قُرْءَانَهُ",
     "urdu_text": "پھر جب هم اسے پڑھیں تو تم اس کی قرات کی پیروی کرو۔",
     "persian_text": "پس چون آن را خواندیم، از خواندن آن پیروی کن.",
     "transliteration": "Fa-idha qara'nahu fattabi' qur'anahu"
@@ -153,7 +153,7 @@ ayats = [
   {
     "verse_number": 19,
     "english_text": "Thereafter its explanation is also Our responsibility.",
-    "arabic_text": "ثُمَّ اِنَّ عَلَيْنَا بَيَانَهُۥ",
+    "arabic_text": "ثُمَّ اِنَّ عَلَيْنَا بَيَانَهُ",
     "urdu_text": "پھر اس کی تشریح بھی هماری ذمه داری هے۔",
     "persian_text": "سپس بیان و تفسیر آن نیز بر عهده ماست.",
     "transliteration": "Thumma inna 'alayna bayanahu"
@@ -161,7 +161,7 @@ ayats = [
   {
     "verse_number": 20,
     "english_text": "No, but you people love the world.",
-    "arabic_text": "كَلَّا بَلْ تُحِبُّونَ ٱلْعَاجِلَةَ",
+    "arabic_text": "كَلَّا بَلْ تُحِبُّونَ الْعَاجِلَةَ",
     "urdu_text": "هرگز نهیں، بلکه تم لوگ دنیا کو محبوب رکھتے هو۔",
     "persian_text": "چنین نیست، بلکه شما زندگی دنیا را دوست دارید.",
     "transliteration": "Kalla bal tuhibboona al-'ajilah"
@@ -169,7 +169,7 @@ ayats = [
   {
     "verse_number": 21,
     "english_text": "And have neglected the Hereafter.",
-    "arabic_text": "وَتَذَرُونَ ٱلْـَٔاخِرَةَ",
+    "arabic_text": "وَتَذَرُونَ الْـَٔاخِرَةَ",
     "urdu_text": "اور آخرت کو چھوڑ دیتے هو۔",
     "persian_text": "و آخرت را رها می‌کنید.",
     "transliteration": "Wa tadharoonal aakhirah"
@@ -209,7 +209,7 @@ ayats = [
   {
     "verse_number": 26,
     "english_text": "Be aware, when the life will come to the throat.",
-    "arabic_text": "كَلَّآ اِذَا بَلَغَتِ ٱلتَّرَاقِىَ",
+    "arabic_text": "كَلَّآ اِذَا بَلَغَتِ التَّرَاقِىَ",
     "urdu_text": "هرگز نهیں! جب جان حلق تک پهنچ جائے گی۔",
     "persian_text": "هرگز چنین نیست! هنگامی که جان به گلو رسد.",
     "transliteration": "Kallaaa idhaa balaghatit taraaqee"
@@ -225,7 +225,7 @@ ayats = [
   {
     "verse_number": 28,
     "english_text": "And people dying will think now there is separation from all.",
-    "arabic_text": "وَظَنَّ اَنَّهُ ٱلْفِرَاقُ",
+    "arabic_text": "وَظَنَّ اَنَّهُ الْفِرَاقُ",
     "urdu_text": "اور مرنے والا یقین کر لے گا که یه جدائی کا وقت هے۔",
     "persian_text": "و یقین کند که این همان جدایی است.",
     "transliteration": "Wa zanna annahul firaaq"
@@ -233,7 +233,7 @@ ayats = [
   {
     "verse_number": 29,
     "english_text": "And the shin will wrap around the shin.",
-    "arabic_text": "وَٱلْتَفَّتِ ٱلسَّاقُ بِٱلسَّاقِ",
+    "arabic_text": "وَالْتَفَّتِ السَّاقُ بِالسَّاقِ",
     "urdu_text": "اور پنڈلی پنڈلی سے لپٹ جائے گی۔",
     "persian_text": "و ساق با ساق در هم پیچیده شود.",
     "transliteration": "Waltaffatis saaqu bis saaq"
@@ -241,7 +241,7 @@ ayats = [
   {
     "verse_number": 30,
     "english_text": "Today everyone will be taken towards the Lord.",
-    "arabic_text": "اِلَىٰ رَبِّكَ يَوْمَئِذٍ ٱلْمَسَاقُ",
+    "arabic_text": "اِلَىٰ رَبِّكَ يَوْمَئِذٍ الْمَسَاقُ",
     "urdu_text": "اس دن تیرے رب هی کی طرف لے جایا جائے گا۔",
     "persian_text": "در آن روز بازگشت به سوی پروردگار توست.",
     "transliteration": "Ilaa Rabbika yawma'idhinil masaaq"
@@ -265,7 +265,7 @@ ayats = [
   {
     "verse_number": 33,
     "english_text": "Then went toward his family with arrogance.",
-    "arabic_text": "ثُمَّ ذَهَبَ اِلَىٰٓ اَهْلِهِۦ يَتَمَطَّىٰٓ",
+    "arabic_text": "ثُمَّ ذَهَبَ اِلَىٰٓ اَهْلِهِ يَتَمَطَّىٰٓ",
     "urdu_text": "پھر اپنے گھر والوں کی طرف اکڑتا هوا چلا گیا",
     "persian_text": "سپس به سوی خانواده‌اش با تکبر رفت",
     "transliteration": "Thumma dhahaba ila ahlihi yatamatta"
@@ -289,7 +289,7 @@ ayats = [
   {
     "verse_number": 36,
     "english_text": "Does the human perceive that he will be left free like this?",
-    "arabic_text": "اَيَحْسَبُ ٱلْاِنسَـٰنُ اَن يُتْرَكَ سُدًى",
+    "arabic_text": "اَيَحْسَبُ الْاِنسَـٰنُ اَن يُتْرَكَ سُدًى",
     "urdu_text": "کیا انسان یه سمجھتا هے که وه یونهی آزاد چھوڑ دیا جائے گا؟",
     "persian_text": "آیا انسان می‌پندارد که بی‌حساب رها خواهد شد؟",
     "transliteration": "Ayahsabul insanu ay yutraka suda"
@@ -313,7 +313,7 @@ ayats = [
   {
     "verse_number": 39,
     "english_text": "Then made a pair of the man and woman from it.",
-    "arabic_text": "فَجَعَلَ مِنْهُ ٱلزَّوْجَيْنِ ٱلذَّكَرَ وَٱلْاُنثَىٰٓ",
+    "arabic_text": "فَجَعَلَ مِنْهُ الزَّوْجَيْنِ الذَّكَرَ وَالْاُنثَىٰٓ",
     "urdu_text": "پھر اس سے دو قسمیں بنائیں، مرد اور عورت",
     "persian_text": "پس از آن دو جنس، نر و ماده را قرار داد",
     "transliteration": "Faja'ala minhuz zawjayinidh dhakara wal untha"
@@ -321,7 +321,7 @@ ayats = [
   {
     "verse_number": 40,
     "english_text": "Is that Allah not capable of this to bring to life again the dead ones?",
-    "arabic_text": "اَلَيْسَ ذَٰلِكَ بِقَـٰدِرٍ عَلَىٰٓ اَن يُحْـِۧىَ ٱلْمَوْتَىٰ",
+    "arabic_text": "اَلَيْسَ ذَٰلِكَ بِقَـٰدِرٍ عَلَىٰٓ اَن يُحْـِۧىَ الْمَوْتَىٰ",
     "urdu_text": "کیا وه الله اس پر قادر نهیں که مردوں کو دوباره زنده کر دے؟",
     "persian_text": "آیا آن خداوند قادر نیست که مردگان را زنده کند؟",
     "transliteration": "Alaysa dhalika biqadirin 'ala ay yuhyiyal mawta"

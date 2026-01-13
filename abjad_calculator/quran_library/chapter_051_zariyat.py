@@ -9,7 +9,7 @@ ayats = [
   {
     "verse_number": 1,
     "english_text": "By the winds that scatter the clouds.",
-    "arabic_text": "وَٱلذَّٰرِيَـٰتِ ذَرْوًۭا",
+    "arabic_text": "وَالذَّٰرِيَـٰتِ ذَرْوًۭا",
     "urdu_text": "قسم هے اڑانے والی هواؤں کی جو بادلوں کو منتشر کرتی هیں۔",
     "persian_text": "سوگند به بادهایی که ابرها را پراکنده می‌سازند.",
     "transliteration": "Wadh-dhāriyāti dharwā"
@@ -17,7 +17,7 @@ ayats = [
   {
     "verse_number": 2,
     "english_text": "Then carries the weight of the clouds.",
-    "arabic_text": "فَٱلْحَـٰمِلَـٰتِ وِقْرًۭا",
+    "arabic_text": "فَالْحَـٰمِلَـٰتِ وِقْرًۭا",
     "urdu_text": "پھر بوجھ اٹھانے والی جو بادلوں کا بھاری بوجھ اٹھاتی هیں۔",
     "persian_text": "سپس سوگند به آنهایی که بار سنگین ابرها را حمل می‌کنند.",
     "transliteration": "Fal-ḥāmilāti wiqrā"
@@ -25,7 +25,7 @@ ayats = [
   {
     "verse_number": 3,
     "english_text": "Then it blows gently.",
-    "arabic_text": "فَٱلْجَـٰرِيَـٰتِ يُسْرًۭا",
+    "arabic_text": "فَالْجَـٰرِيَـٰتِ يُسْرًۭا",
     "urdu_text": "پھر آسانی سے چلنے والی هوائیں۔",
     "persian_text": "سپس سوگند به آنهایی که به آسانی جاری می‌شوند.",
     "transliteration": "Fal-jāriyāti yusrā"
@@ -33,7 +33,7 @@ ayats = [
   {
     "verse_number": 4,
     "english_text": "Then it is the distributor of an order.",
-    "arabic_text": "فَٱلْمُقَسِّمَـٰتِ اَمْرًا",
+    "arabic_text": "فَالْمُقَسِّمَـٰتِ اَمْرًا",
     "urdu_text": "پھر حکم کو تقسیم کرنے والی۔",
     "persian_text": "سپس سوگند به آنهایی که فرمان الهی را تقسیم می‌کنند.",
     "transliteration": "Fal-muqassimāti amrā"
@@ -49,7 +49,7 @@ ayats = [
   {
     "verse_number": 6,
     "english_text": "The reward and the punishment are verily going to happen.",
-    "arabic_text": "وَاِنَّ ٱلدِّينَ لَوَٰقِعٌۭ",
+    "arabic_text": "وَاِنَّ الدِّينَ لَوَٰقِعٌۭ",
     "urdu_text": "اور بیشک جزا و سزا ضرور واقع هونے والی هے۔",
     "persian_text": "و به یقین روز جزا و حساب قطعاً واقع خواهد شد.",
     "transliteration": "Wa innad-dīna lawāqi'"
@@ -57,7 +57,7 @@ ayats = [
   {
     "verse_number": 7,
     "english_text": "And by the sky which has different paths.",
-    "arabic_text": "وَٱلسَّمَآءِ ذَاتِ ٱلْحُبُكِ",
+    "arabic_text": "وَالسَّمَآءِ ذَاتِ الْحُبُكِ",
     "urdu_text": "اور قسم هے آسمان کی جو مختلف راستوں والا هے۔",
     "persian_text": "و سوگند به آسمانی که دارای راه‌های گوناگون است.",
     "transliteration": "Was-samā'i dhātil-ḥubuk"
@@ -81,7 +81,7 @@ ayats = [
   {
     "verse_number": 10,
     "english_text": "Verily speculators will be killed.",
-    "arabic_text": "قُتِلَ ٱلْخَرَّٰصُونَ",
+    "arabic_text": "قُتِلَ الْخَرَّٰصُونَ",
     "urdu_text": "هلاک هوں وه لوگ جو قیاس آرائی کرتے هیں۔",
     "persian_text": "نابود باد دروغ‌پردازان و حدس‌زنندگان.",
     "transliteration": "Qutilal-kharrāṣūn"
@@ -89,7 +89,7 @@ ayats = [
   {
     "verse_number": 11,
     "english_text": "Who are lying in their own negligence.",
-    "arabic_text": "ٱلَّذِينَ هُمْ فِى غَمْرَةٍۢ سَاهُونَ",
+    "arabic_text": "الَّذِينَ هُمْ فِى غَمْرَةٍۢ سَاهُونَ",
     "urdu_text": "جو اپنی غفلت میں ڈوبے هوئے هیں۔",
     "persian_text": "کسانی که در غفلت خود غرق شده‌اند.",
     "transliteration": "Allazeena hum fee ghamratin saahoon"
@@ -97,7 +97,7 @@ ayats = [
   {
     "verse_number": 12,
     "english_text": "They ask: after all, when the Day of Judgement will come.",
-    "arabic_text": "يَسْـَٔلُونَ اَيَّانَ يَوْمُ ٱلدِّينِ",
+    "arabic_text": "يَسْـَٔلُونَ اَيَّانَ يَوْمُ الدِّينِ",
     "urdu_text": "وه پوچھتے هیں که قیامت کا دن کب آئے گا۔",
     "persian_text": "آنان می‌پرسند که روز جزا کی خواهد بود.",
     "transliteration": "Yas'aloona ayyaana yawmud-deen"
@@ -105,7 +105,7 @@ ayats = [
   {
     "verse_number": 13,
     "english_text": "So this is the day when they shall be heated in the fire of Hell.",
-    "arabic_text": "يَوْمَ هُمْ عَلَى ٱلنَّارِ يُفْتَنُونَ",
+    "arabic_text": "يَوْمَ هُمْ عَلَى النَّارِ يُفْتَنُونَ",
     "urdu_text": "یه وه دن هے جب وه آگ میں جلائے جائیں گے۔",
     "persian_text": "روزی که آنان در آتش سوزانده می‌شوند.",
     "transliteration": "Yawma hum 'alan-naari yuftanoon"
@@ -113,7 +113,7 @@ ayats = [
   {
     "verse_number": 14,
     "english_text": "Now taste your punishment, this is the punishment for which you hastened.",
-    "arabic_text": "ذُوقُواْ فِتْنَتَكُمْ هَـٰذَا ٱلَّذِى كُنتُم بِهِۦ تَسْتَعْجِلُونَ",
+    "arabic_text": "ذُوقُواْ فِتْنَتَكُمْ هَـٰذَا الَّذِى كُنتُم بِهِ تَسْتَعْجِلُونَ",
     "urdu_text": "اب اپنے عذاب کا مزه چکھو، یه وهی هے جس کی تم جلدی کرتے تھے۔",
     "persian_text": "بچشید عذاب خود را، این همان است که برای آن شتاب می‌کردید.",
     "transliteration": "Zooqoo fitnatakum haazal-lazee kuntum bihee tasta'jiloon"
@@ -121,7 +121,7 @@ ayats = [
   {
     "verse_number": 15,
     "english_text": "Verily pious people will be amidst gardens and fountains.",
-    "arabic_text": "اِنَّ ٱلْمُتَّقِينَ فِى جَنَّـٰتٍۢ وَعُيُونٍ",
+    "arabic_text": "اِنَّ الْمُتَّقِينَ فِى جَنَّـٰتٍۢ وَعُيُونٍ",
     "urdu_text": "بے شک پرهیزگار لوگ باغوں اور چشموں میں هوں گے۔",
     "persian_text": "به راستی پرهیزگاران در باغ‌ها و چشمه‌ها خواهند بود.",
     "transliteration": "Innal-muttaqeena fee jannaatinw-wa 'uyoon"
@@ -137,7 +137,7 @@ ayats = [
   {
     "verse_number": 17,
     "english_text": "They sleep very less during the night.",
-    "arabic_text": "كَانُواْ قَلِيلًۭا مِّنَ ٱلَّيْلِ مَا يَهْجَعُونَ",
+    "arabic_text": "كَانُواْ قَلِيلًۭا مِّنَ الَّيْلِ مَا يَهْجَعُونَ",
     "urdu_text": "وه رات کو بهت کم سوتے تھے۔",
     "persian_text": "آنان در شب اندک می‌خوابیدند.",
     "transliteration": "Kaanoo qaleelan minal-layli maa yahja'oon"
@@ -145,7 +145,7 @@ ayats = [
   {
     "verse_number": 18,
     "english_text": "And used to seek forgiveness in His Presence at dawn.",
-    "arabic_text": "وَبِٱلْاَسْحَارِ هُمْ يَسْتَغْفِرُونَ",
+    "arabic_text": "وَبِالْاَسْحَارِ هُمْ يَسْتَغْفِرُونَ",
     "urdu_text": "اور سحر کے وقت وه بخشش مانگتے تھے۔",
     "persian_text": "و در سحرگاهان آمرزش می‌طلبیدند.",
     "transliteration": "Wa bil-ashaari hum yastaghfiroon"
@@ -153,7 +153,7 @@ ayats = [
   {
     "verse_number": 19,
     "english_text": "And in their wealth there was a portion for those who ask, and for deprived who do not ask.",
-    "arabic_text": "وَفِىٓ اَمْوَٰلِهِمْ حَقٌّۭ لِّلسَّآئِلِ وَٱلْمَحْرُومِ",
+    "arabic_text": "وَفِىٓ اَمْوَٰلِهِمْ حَقٌّۭ لِّلسَّآئِلِ وَالْمَحْرُومِ",
     "urdu_text": "اور ان کے مال میں سائل اور محروم کا حق تھا۔",
     "persian_text": "و در اموال آنان حقی برای سائل و محروم بود.",
     "transliteration": "Wa fee amwaalihim haqqul-lis-saaa'ili wal-mahroom"
@@ -161,7 +161,7 @@ ayats = [
   {
     "verse_number": 20,
     "english_text": "And many signs are found in the earth for those who accept.",
-    "arabic_text": "وَفِى ٱلْاَرْضِ ءَايَـٰتٌۭ لِّلْمُوقِنِينَ",
+    "arabic_text": "وَفِى الْاَرْضِ اٰيٰتٌۭ لِّلْمُوقِنِينَ",
     "urdu_text": "اور زمین میں یقین رکھنے والوں کے لیے بهت سی نشانیاں هیں۔",
     "persian_text": "و در زمین نشانه‌هایی است برای اهل یقین.",
     "transliteration": "Wa fil-ardi aayaatul-lilmooqineen"
@@ -177,7 +177,7 @@ ayats = [
   {
     "verse_number": 22,
     "english_text": "And your sustenance is in the sky, and whatever is promised to you everything is present.",
-    "arabic_text": "وَفِى ٱلسَّمَآءِ رِزْقُكُمْ وَمَا تُوعَدُونَ",
+    "arabic_text": "وَفِى السَّمَآءِ رِزْقُكُمْ وَ مَا تُوعَدُونَ",
     "urdu_text": "اور آسمان میں تمهارا رزق هے اور وه سب کچھ جو تم سے وعده کیا جاتا هے۔",
     "persian_text": "و در آسمان روزی شما و آنچه به شما وعده داده شده است.",
     "transliteration": "Wa fis-samaaa'i rizqukum wa maa too'adoon"
@@ -185,7 +185,7 @@ ayats = [
   {
     "verse_number": 23,
     "english_text": "By the Master of the skies and the earth, Quran is most verily the Truth, just as you speak among yourselves.",
-    "arabic_text": "فَوَرَبِّ ٱلسَّمَآءِ وَٱلْاَرْضِ اِنَّهُۥ لَحَقٌّۭ مِّثْلَ مَآ اَنَّكُمْ تَنطِقُونَ",
+    "arabic_text": "فَوَرَبِّ السَّمَآءِ وَالْاَرْضِ اِنَّهُ لَحَقٌّۭ مِّثْلَ مَآ اَنَّكُمْ تَنطِقُونَ",
     "urdu_text": "پس آسمانوں اور زمین کے رب کی قسم! یه بالکل سچ هے، جیسے تم خود بولتے هو۔",
     "persian_text": "پس به پروردگار آسمان و زمین سوگند، که این حق است، همانگونه که شما سخن می‌گویید.",
     "transliteration": "Fa wa Rabbis-samaaa'i wal-ardi innahoo lahaqqqum-mithla maaa annakum tantiqoon"
@@ -193,7 +193,7 @@ ayats = [
   {
     "verse_number": 24,
     "english_text": "Has the mention of honourable guests of Ibrahim reached you.",
-    "arabic_text": "هَلْ اَتَىٰكَ حَدِيثُ ضَيْفِ اِبْرَٰهِيمَ ٱلْمُكْرَمِينَ",
+    "arabic_text": "هَلْ اَتَىٰكَ حَدِيثُ ضَيْفِ اِبْرَٰهِيمَ الْمُكْرَمِينَ",
     "urdu_text": "کیا تمهیں ابراهیم کے معزز مهمانوں کا قصه پهنچا هے؟",
     "persian_text": "آیا خبر مهمانان گرامی ابراهیم به تو رسیده است؟",
     "transliteration": "Hal ataaka hadeethu dayfi Ibraaheema al-mukrameen"
@@ -209,7 +209,7 @@ ayats = [
   {
     "verse_number": 26,
     "english_text": "Then he went home, prepared and brought a fat (roasted) calf.",
-    "arabic_text": "فَرَاغَ اِلَىٰٓ اَهْلِهِۦ فَجَآءَ بِعِجْلٍۢ سَمِينٍۢ",
+    "arabic_text": "فَرَاغَ اِلَىٰٓ اَهْلِهِ فَجَآءَ بِعِجْلٍۢ سَمِينٍۢ",
     "urdu_text": "پھر وه چپکے سے اپنے گھر والوں کے پاس گئے اور ایک فربه بچھڑا لے آئے۔",
     "persian_text": "پس به خانواده‌اش رفت و گوساله‌ای فربه آورد.",
     "transliteration": "Fa raagha ilaa ahlihee fa jaaa'a bi'ijlin sameen"
@@ -217,7 +217,7 @@ ayats = [
   {
     "verse_number": 27,
     "english_text": "Then offered it to them and asked: don't you eat?",
-    "arabic_text": "فَقَرَّبَهُۥٓ اِلَيْهِمْ قَالَ اَلَا تَاْكُلُونَ",
+    "arabic_text": "فَقَرَّبَهُٓ اِلَيْهِمْ قَالَ اَلَا تَاْكُلُونَ",
     "urdu_text": "پھر اسے ان کے سامنے پیش کیا اور کها: کیا آپ نهیں کھاتے؟",
     "persian_text": "پس آن را نزد آنان گذاشت و گفت: آیا نمی‌خورید؟",
     "transliteration": "Fa qarrabahoo ilayhim qaala alaa ta'kuloon"
@@ -233,7 +233,7 @@ ayats = [
   {
     "verse_number": 29,
     "english_text": "Hearing this, his wife came shouting and struck her face (and said) I am an old and barren.",
-    "arabic_text": "فَاَقْبَلَتِ ٱمْرَاَتُهُۥ فِى صَرَّةٍۢ فَصَكَّتْ وَجْهَهَا وَقَالَتْ عَجُوزٌ عَقِيمٌۭ",
+    "arabic_text": "فَاَقْبَلَتِ امْرَاَتُهُ فِى صَرَّةٍۢ فَصَكَّتْ وَجْهَهَا وَقَالَتْ عَجُوزٌ عَقِيمٌۭ",
     "urdu_text": "یه سن کر ان کی بیوی چیختی هوئی آئیں اور اپنے چهرے پر هاتھ مارا اور کها: میں تو بوڑھی اور بانجھ هوں۔",
     "persian_text": "پس همسرش با فریاد آمد و بر صورت خود زد و گفت: (من) پیرزنی نازا هستم.",
     "transliteration": "Fa aqbalatim ra'atuhoo fee sarratin fa sakkat wajhahaa wa qaalat 'ajoozun 'aqeem"
@@ -241,7 +241,7 @@ ayats = [
   {
     "verse_number": 30,
     "english_text": "They said: so will it be, this is the command of your Lord, He is Wise, and Knower of everything.",
-    "arabic_text": "قَالُواْ كَذَٰلِكِ قَالَ رَبُّكِ ۖ اِنَّهُۥ هُوَ ٱلْحَكِيمُ ٱلْعَلِيمُ",
+    "arabic_text": "قَالُواْ كَذَٰلِكِ قَالَ رَبُّكِ ۖ اِنَّهُ هُوَ الْحَكِيمُ الْعَلِيمُ",
     "urdu_text": "انهوں نے کها: ایسا هی هوگا، تمهارے رب نے یهی فرمایا هے، بیشک وه حکیم اور علیم هے۔",
     "persian_text": "گفتند: چنین است، پروردگارت چنین فرموده است، همانا او حکیم و داناست.",
     "transliteration": "Qaaloo kadhaliki qaala Rabbuki innahoo huwal-Hakeemul-'Aleem"
@@ -249,7 +249,7 @@ ayats = [
   {
     "verse_number": 31,
     "english_text": "Ibrahim said: O angels, what is your mission.",
-    "arabic_text": "۞ قَالَ فَمَا خَطْبُكُمْ اَيُّهَا ٱلْمُرْسَلُونَ",
+    "arabic_text": "۞ قَالَ فَمَا خَطْبُكُمْ اَيُّهَا الْمُرْسَلُونَ",
     "urdu_text": "ابراهیم نے کها: تو اے فرشتو، تمهارا کیا کام هے؟",
     "persian_text": "ابراهیم گفت: ای فرستادگان، کار شما چیست؟",
     "transliteration": "Qaala famaa khatbukum ayyuhal mursaloon"
@@ -281,7 +281,7 @@ ayats = [
   {
     "verse_number": 35,
     "english_text": "Then We took out all the believers from that settlement.",
-    "arabic_text": "فَاَخْرَجْنَا مَن كَانَ فِيهَا مِنَ ٱلْمُؤْمِنِينَ",
+    "arabic_text": "فَاَخْرَجْنَا مَن كَانَ فِيهَا مِنَ الْمُؤْمِنِينَ",
     "urdu_text": "پھر هم نے اس بستی میں سے جتنے مومن تھے انهیں نکال لیا۔",
     "persian_text": "پس کسانی را که در آن از مؤمنان بودند بیرون آوردیم.",
     "transliteration": "Fa akhrajnaa man kaana feehaa minal mu'mineen"
@@ -289,7 +289,7 @@ ayats = [
   {
     "verse_number": 36,
     "english_text": "We found there nobody except one house of the Muslims.",
-    "arabic_text": "فَمَا وَجَدْنَا فِيهَا غَيْرَ بَيْتٍۢ مِّنَ ٱلْمُسْلِمِينَ",
+    "arabic_text": "فَمَا وَجَدْنَا فِيهَا غَيْرَ بَيْتٍۢ مِّنَ الْمُسْلِمِينَ",
     "urdu_text": "تو هم نے وهاں مسلمانوں کے ایک گھر کے سوا کسی کو نهیں پایا۔",
     "persian_text": "و در آن جز یک خانه از مسلمانان نیافتیم.",
     "transliteration": "Famaa wajadnaa feehaa ghayra baytin minal muslimeen"
@@ -297,7 +297,7 @@ ayats = [
   {
     "verse_number": 37,
     "english_text": "And We left therein a sign of painful punishment for those who fear.",
-    "arabic_text": "وَتَرَكْنَا فِيهَآ ءَايَةًۭ لِّلَّذِينَ يَخَافُونَ ٱلْعَذَابَ ٱلْاَلِيمَ",
+    "arabic_text": "وَتَرَكْنَا فِيهَآ ءَايَةًۭ لِّلَّذِينَ يَخَافُونَ الْعَذَابَ الْاَلِيمَ",
     "urdu_text": "اور هم نے اس میں ایک نشانی چھوڑ دی ان لوگوں کے لیے جو دردناک عذاب سے ڈرتے هیں۔",
     "persian_text": "و در آن نشانه‌ای برای کسانی که از عذاب دردناک می‌ترسند باقی گذاشتیم.",
     "transliteration": "Wa taraknaa feehaa aayatal lilladheena yakhaafoonal 'adhabal aleem"
@@ -313,7 +313,7 @@ ayats = [
   {
     "verse_number": 39,
     "english_text": "So on the strength of his army he turned his face away that he is magician or insane.",
-    "arabic_text": "فَتَوَلَّىٰ بِرُكْنِهِۦ وَقَالَ سَـٰحِرٌ اَوْ مَجْنُونٌۭ",
+    "arabic_text": "فَتَوَلَّىٰ بِرُكْنِهِ وَقَالَ سَـٰحِرٌ اَوْ مَجْنُونٌۭ",
     "urdu_text": "تو اس نے اپنی طاقت کے بل پر منه موڑ لیا اور کها که یه جادوگر هے یا دیوانه۔",
     "persian_text": "پس با تکیه بر قدرت خود روی گرداند و گفت: جادوگر است یا دیوانه.",
     "transliteration": "Fatawallaa biruknihee wa qaala saahirun aw majnoon"
@@ -321,7 +321,7 @@ ayats = [
   {
     "verse_number": 40,
     "english_text": "Then We caught him and his army and threw them into the sea; and he was reprehensible.",
-    "arabic_text": "فَاَخَذْنَـٰهُ وَجُنُودَهُۥ فَنَبَذْنَـٰهُمْ فِى ٱلْيَمِّ وَهُوَ مُلِيمٌۭ",
+    "arabic_text": "فَاَخَذْنَـٰهُ وَجُنُودَهُ فَنَبَذْنَـٰهُمْ فِى الْيَمِّ وَهُوَ مُلِيمٌۭ",
     "urdu_text": "پھر هم نے اسے اور اس کے لشکر کو پکڑ لیا اور انهیں سمندر میں پھینک دیا اور وه قابل ملامت تھا۔",
     "persian_text": "پس او و سپاهیانش را گرفتیم و در دریا افکندیم و او سزاوار سرزنش بود.",
     "transliteration": "Fa akhadh naahu wa junoodahoo fanabadh naahum fil yammi wa huwa muleem"
@@ -329,7 +329,7 @@ ayats = [
   {
     "verse_number": 41,
     "english_text": "And nation of Aad is also a sign, when We sent towards them the barren wind.",
-    "arabic_text": "وَفِى عَادٍ اِذْ اَرْسَلْنَا عَلَيْهِمُ ٱلرِّيحَ ٱلْعَقِيمَ",
+    "arabic_text": "وَفِى عَادٍ اِذْ اَرْسَلْنَا عَلَيْهِمُ الرِّيحَ الْعَقِيمَ",
     "urdu_text": "اور قوم عاد میں بھی ایک نشانی هے، جب هم نے ان پر بانجھ هوا بھیجی۔",
     "persian_text": "و در قوم عاد نیز نشانه‌ای است، آنگاه که ما بر آنان باد بی‌برکت فرستادیم.",
     "transliteration": "Wa fee 'Aadin idh arsalna 'alayhimur-reehal-'aqeem"
@@ -337,7 +337,7 @@ ayats = [
   {
     "verse_number": 42,
     "english_text": "That wherever it passes it reduced everything to ruin like rotten bone.",
-    "arabic_text": "مَا تَذَرُ مِن شَىْءٍ اَتَتْ عَلَيْهِ اِلَّا جَعَلَتْهُ كَٱلرَّمِيمِ",
+    "arabic_text": "مَا تَذَرُ مِن شَىْءٍ اَتَتْ عَلَيْهِ اِلَّا جَعَلَتْهُ كَالرَّمِيمِ",
     "urdu_text": "جو کسی چیز پر بھی گزرتی تھی اسے بوسیده هڈی کی طرح بنا دیتی تھی۔",
     "persian_text": "که هر چیزی را که بر آن می‌گذشت، همچون استخوان پوسیده می‌ساخت.",
     "transliteration": "Ma tadharu min shay'in atat 'alayhi illa ja'alat-hu kar-rameem"
@@ -353,7 +353,7 @@ ayats = [
   {
     "verse_number": 44,
     "english_text": "They disobeyed the command of Allah, so lightning overtook them, while they just saw.",
-    "arabic_text": "فَعَتَوْاْ عَنْ اَمْرِ رَبِّهِمْ فَاَخَذَتْهُمُ ٱلصَّـٰعِقَةُ وَهُمْ يَنظُرُونَ",
+    "arabic_text": "فَعَتَوْاْ عَنْ اَمْرِ رَبِّهِمْ فَاَخَذَتْهُمُ الصَّـٰعِقَةُ وَهُمْ يَنظُرُونَ",
     "urdu_text": "تو انهوں نے اپنے رب کے حکم سے سرکشی کی، پھر انهیں بجلی نے آ لیا اور وه دیکھتے ره گئے۔",
     "persian_text": "پس از فرمان پروردگارشان سرپیچی کردند، آنگاه صاعقه آنان را فرا گرفت در حالی که می‌نگریستند.",
     "transliteration": "Fa'ataw 'an amri Rabbihim fa-akhadhat-humus-saa'iqatu wa hum yanzuroon"
@@ -361,7 +361,7 @@ ayats = [
   {
     "verse_number": 45,
     "english_text": "Then they were not able to stand, nor could they seek help.",
-    "arabic_text": "فَمَا ٱسْتَطَـٰعُواْ مِن قِيَامٍۢ وَمَا كَانُواْ مُنتَصِرِينَ",
+    "arabic_text": "فَمَا اسْتَطَـٰعُواْ مِن قِيَامٍۢ وَ مَا كَانُواْ مُنتَصِرِينَ",
     "urdu_text": "پھر نه وه کھڑے هو سکے اور نه هی اپنی مدد کر سکے۔",
     "persian_text": "پس نه توانستند برخیزند و نه یاری‌گری یافتند.",
     "transliteration": "Famas-tataa'oo min qiyaamin wa ma kaanoo muntasireen"
@@ -377,7 +377,7 @@ ayats = [
   {
     "verse_number": 47,
     "english_text": "And We made skies with Our prowess, and We expanded it.",
-    "arabic_text": "وَٱلسَّمَآءَ بَنَيْنَـٰهَا بِاَيْي۟دٍۢ وَاِنَّا لَمُوسِعُونَ",
+    "arabic_text": "وَالسَّمَآءَ بَنَيْنَـٰهَا بِاَيْي۟دٍۢ وَ اِنَّا لَمُوسِعُونَ",
     "urdu_text": "اور هم نے آسمان کو اپنی قدرت سے بنایا اور بے شک هم وسعت دینے والے هیں۔",
     "persian_text": "و آسمان را با قدرت خود بنا کردیم و ما قطعاً گسترش‌دهنده‌ایم.",
     "transliteration": "Was-samaaa'a banaynaha bi-aydin wa inna lamoo-si'oon"
@@ -385,7 +385,7 @@ ayats = [
   {
     "verse_number": 48,
     "english_text": "And We made earth as floor, and how well We have spread it out.",
-    "arabic_text": "وَٱلْاَرْضَ فَرَشْنَـٰهَا فَنِعْمَ ٱلْمَـٰهِدُونَ",
+    "arabic_text": "وَالْاَرْضَ فَرَشْنَـٰهَا فَنِعْمَ الْمَـٰهِدُونَ",
     "urdu_text": "اور زمین کو هم نے بچھایا، پس هم کیا خوب بچھانے والے هیں۔",
     "persian_text": "و زمین را گستردیم، پس چه نیکو گسترنده‌ایم.",
     "transliteration": "Wal-arda farash-naha fani'mal-maahidoon"
@@ -401,7 +401,7 @@ ayats = [
   {
     "verse_number": 50,
     "english_text": "Therefore, run towards Allah now that I am plain warner.",
-    "arabic_text": "فَفِرُّوٓاْ اِلَى ٱللَّهِ ۖ اِنِّى لَكُم مِّنْهُ نَذِيرٌۭ مُّبِينٌۭ",
+    "arabic_text": "فَفِرُّوٓاْ اِلَى اللَّهِ ۖ اِنِّى لَكُم مِّنْهُ نَذِيرٌۭ مُّبِينٌۭ",
     "urdu_text": "پس الله کی طرف بھاگو، بے شک میں تمهارے لیے اس کی طرف سے کھلا ڈرانے والا هوں۔",
     "persian_text": "پس به سوی خداوند بشتابید، که من از جانب او برای شما هشداردهنده‌ای آشکارم.",
     "transliteration": "Fafirroo ilal-laah, innee lakum minhu nadheerum-mubeen"
@@ -409,7 +409,7 @@ ayats = [
   {
     "verse_number": 51,
     "english_text": "And beware, do not make anyone god besides Him that I am a clear warner to you.",
-    "arabic_text": "وَلَا تَجْعَلُواْ مَعَ ٱللَّهِ اِلَـٰهًا ءَاخَرَ ۖ اِنِّى لَكُم مِّنْهُ نَذِيرٌۭ مُّبِينٌۭ",
+    "arabic_text": "وَلَا تَجْعَلُواْ مَعَ اللَّهِ اِلَـٰهًا ءَاخَرَ ۖ اِنِّى لَكُم مِّنْهُ نَذِيرٌۭ مُّبِينٌۭ",
     "urdu_text": "اور الله کے ساتھ کسی دوسرے کو معبود نه ٹھهراؤ، بیشک میں تمهارے لیے اس کی طرف سے کھلا ڈر سنانے والا هوں۔",
     "persian_text": "و با خدا معبود دیگری قرار ندهید، همانا من از جانب او برای شما هشداردهنده‌ای آشکارم.",
     "transliteration": "Wa laa taj'aloo ma'allaahi ilaahan aakhara innee lakum minhu nazeerum mubeen"
@@ -417,7 +417,7 @@ ayats = [
   {
     "verse_number": 52,
     "english_text": "Like this, no prophet came to this nation before but these people said: he is magician or insane.",
-    "arabic_text": "كَذَٰلِكَ مَآ اَتَى ٱلَّذِينَ مِن قَبْلِهِم مِّن رَّسُولٍ اِلَّا قَالُواْ سَاحِرٌ اَوْ مَجْنُونٌ",
+    "arabic_text": "كَذَٰلِكَ مَآ اَتَى الَّذِينَ مِن قَبْلِهِم مِّن رَّسُولٍ اِلَّا قَالُواْ سَاحِرٌ اَوْ مَجْنُونٌ",
     "urdu_text": "اسی طرح ان سے پهلے لوگوں کے پاس جو بھی رسول آیا انهوں نے کها که یه جادوگر هے یا دیوانه۔",
     "persian_text": "همین‌گونه هیچ پیامبری پیش از اینان نیامد مگر آنکه گفتند: او جادوگر یا دیوانه است.",
     "transliteration": "Kazaalika maa atal-lazeena min qablihim mir-rasoolin illaa qaaloo saahirun aw majnoon"
@@ -425,7 +425,7 @@ ayats = [
   {
     "verse_number": 53,
     "english_text": "Have they made their will to one another for this, no, rather they are all rebellious.",
-    "arabic_text": "اَتَوَاصَوْاْ بِهِۦ ۚ بَلْ هُمْ قَوْمٌۭ طَاغُونَ",
+    "arabic_text": "اَتَوَاصَوْاْ بِهِ ۚ بَلْ هُمْ قَوْمٌۭ طَاغُونَ",
     "urdu_text": "کیا انهوں نے ایک دوسرے کو اس کی وصیت کی هے؟ نهیں بلکه یه سب سرکش لوگ هیں۔",
     "persian_text": "آیا به یکدیگر سفارش کرده‌اند؟ نه، بلکه آنان قومی سرکش هستند.",
     "transliteration": "Atawaasaw bih, bal hum qawmun taaghoon"
@@ -441,7 +441,7 @@ ayats = [
   {
     "verse_number": 55,
     "english_text": "And continue to remind them that reminder is useful for the believers.",
-    "arabic_text": "وَذَكِّرْ فَاِنَّ ٱلذِّكْرَىٰ تَنفَعُ ٱلْمُؤْمِنِينَ",
+    "arabic_text": "وَذَكِّرْ فَاِنَّ الذِّكْرَىٰ تَنفَعُ الْمُؤْمِنِينَ",
     "urdu_text": "اور نصیحت کرتے رهیں کیونکه نصیحت مومنوں کو فائده دیتی هے۔",
     "persian_text": "و پند بده که پند به مؤمنان سود می‌بخشد.",
     "transliteration": "Wa zakkir fa'innaz-zikraa tanfa'ul-mu'mineen"
@@ -449,7 +449,7 @@ ayats = [
   {
     "verse_number": 56,
     "english_text": "And I have created jinn and men just for My worshipping.",
-    "arabic_text": "وَمَا خَلَقْتُ ٱلْجِنَّ وَٱلْاِنسَ اِلَّا لِيَعْبُدُونِ",
+    "arabic_text": "وَ مَا خَلَقْتُ الْجِنَّ وَالْاِنسَ اِلَّا لِيَعْبُدُونِ",
     "urdu_text": "اور میں نے جنوں اور انسانوں کو صرف اپنی عبادت کے لیے پیدا کیا هے۔",
     "persian_text": "و جن و انس را نیافریدم مگر برای آنکه مرا عبادت کنند.",
     "transliteration": "Wa maa khalaqtul-jinna wal-insa illaa liya'budoon"
@@ -457,7 +457,7 @@ ayats = [
   {
     "verse_number": 57,
     "english_text": "I do not want any sustenance from them, nor do I want that they should feed Me.",
-    "arabic_text": "مَآ اُرِيدُ مِنْهُم مِّن رِّزْقٍۢ وَمَآ اُرِيدُ اَن يُطْعِمُونِ",
+    "arabic_text": "مَآ اُرِيدُ مِنْهُم مِّن رِّزْقٍۢ وَ مَآ اُرِيدُ اَن يُطْعِمُونِ",
     "urdu_text": "میں ان سے کوئی رزق نهیں چاهتا اور نه یه چاهتا هوں که وه مجھے کھلائیں۔",
     "persian_text": "من از آنان روزی نمی‌خواهم و نمی‌خواهم که مرا بخورانند.",
     "transliteration": "Maa ureedu minhum mir-rizqiw-wa maa ureedu ay-yut'imoon"
@@ -465,7 +465,7 @@ ayats = [
   {
     "verse_number": 58,
     "english_text": "Verily the one who gives sustenance is Allah only; the Lord of Power, the Strong.",
-    "arabic_text": "اِنَّ ٱللَّهَ هُوَ ٱلرَّزَّاقُ ذُو ٱلْقُوَّةِ ٱلْمَتِينُ",
+    "arabic_text": "اِنَّ اللَّهَ هُوَ الرَّزَّاقُ ذُو الْقُوَّةِ الْمَتِينُ",
     "urdu_text": "بیشک الله هی رزق دینے والا هے، قوت والا، زبردست۔",
     "persian_text": "همانا خداوند روزی‌دهنده است، صاحب قدرت، نیرومند.",
     "transliteration": "Innallaaha huwar-Razzaaqu zul-quwwatil-mateen"
@@ -481,7 +481,7 @@ ayats = [
   {
     "verse_number": 60,
     "english_text": "Then woe and punishment for infidels on that day, for the day that is being promised with them.",
-    "arabic_text": "فَوَيْلٌۭ لِّلَّذِينَ كَفَرُواْ مِن يَوْمِهِمُ ٱلَّذِى يُوعَدُونَ",
+    "arabic_text": "فَوَيْلٌۭ لِّلَّذِينَ كَفَرُواْ مِن يَوْمِهِمُ الَّذِى يُوعَدُونَ",
     "urdu_text": "پس هلاکت هے ان کافروں کے لیے اپنے اس دن سے جس کا ان سے وعده کیا جا رها هے۔",
     "persian_text": "پس وای بر کسانی که کفر ورزیدند از روز خویش که به آنان وعده داده می‌شود.",
     "transliteration": "Fawaylul-lillazeena kafaroo miy-yawmihimul-lazee yoo'adoon"

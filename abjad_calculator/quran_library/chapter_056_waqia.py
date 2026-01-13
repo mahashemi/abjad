@@ -1,6 +1,6 @@
 ayats = [
     {
-        "arabic_text": "اِذَا وَقَعَتِ ٱلْوَاقِعَةُ",
+        "arabic_text": "اِذَا وَقَعَتِ الْوَاقِعَةُ",
         "urdu_text": "جب واقعه رونما هو گا",
         "persian_text": "هنگامی که آن واقعه رخ دهد",
         "english_text": "When the Event (the Day of Resurrection) befalls",
@@ -24,7 +24,7 @@ ayats = [
         "verse_number": "3",
     },
     {
-        "arabic_text": "اِذَا رُجَّتِ ٱلْاَرْضُ رَجًّا",
+        "arabic_text": "اِذَا رُجَّتِ الْاَرْضُ رَجًّا",
         "urdu_text": "جب زمین کو زور سے هلا دیا جائے گا",
         "persian_text": "آنگاه که زمین به شدت لرزانده شود",
         "english_text": "When the earth will be shaken with a terrible shake",
@@ -32,7 +32,7 @@ ayats = [
         "verse_number": "4",
     },
     {
-        "arabic_text": "وَبُسَّتِ ٱلْجِبَالُ بَسًّا",
+        "arabic_text": "وَبُسَّتِ الْجِبَالُ بَسًّا",
         "urdu_text": "اور پهاڑ ریزه ریزه کر دیے جائیں گے",
         "persian_text": "و کوه‌ها خرد شوند",
         "english_text": "And the mountains will be crushed to pieces",
@@ -56,7 +56,7 @@ ayats = [
         "verse_number": "7",
     },
     {
-        "arabic_text": "فَاَصْحَٰبُ ٱلْمَيْمَنَةِ مَا اَصْحَٰبُ ٱلْمَيْمَنَةِ",
+        "arabic_text": "فَاَصْحَٰبُ الْمَيْمَنَةِ مَا اَصْحَٰبُ الْمَيْمَنَةِ",
         "urdu_text": "پس داهنے والے، کیا خوب هیں داهنے والے",
         "persian_text": "پس یاران راست، چه نیکو هستند یاران راست",
         "english_text": "So those on the Right – what are those on the Right?",
@@ -64,7 +64,7 @@ ayats = [
         "verse_number": "8",
     },
     {
-        "arabic_text": "وَاَصْحَٰبُ ٱلْمَشْـَٔمَةِ مَا اَصْحَٰبُ ٱلْمَشْـَٔمَةِ",
+        "arabic_text": "وَاَصْحَٰبُ الْمَشْـَٔمَةِ مَا اَصْحَٰبُ الْمَشْـَٔمَةِ",
         "urdu_text": "اور بائیں والے، کیا هی برے هیں بائیں والے",
         "persian_text": "و یاران چپ، چه بدند یاران چپ",
         "english_text": "And those on the Left – what are those on the Left?",
@@ -72,7 +72,7 @@ ayats = [
         "verse_number": "9",
     },
     {
-        "arabic_text": "وَٱلسَّٰبِقُونَ ٱلسَّٰبِقُونَ",
+        "arabic_text": "وَالسَّٰبِقُونَ السَّٰبِقُونَ",
         "urdu_text": "اور جو سبقت لے گئے، وهی سبقت لے جانے والے هیں",
         "persian_text": "و پیشتازان، همان پیشتازانند",
         "english_text": "And the forerunners, the forerunners",
@@ -80,7 +80,7 @@ ayats = [
         "verse_number": "10",
     },
     {
-        "arabic_text": "اُوْلَٰٓئِكَ ٱلْمُقَرَّبُونَ",
+        "arabic_text": "اُوْلَٰٓئِكَ الْمُقَرَّبُونَ",
         "urdu_text": "وهی هیں جو قرب الٰهی والے هوں گے",
         "persian_text": "آنان همان مقربانند",
         "english_text": "Those are the ones brought near (to Allah)",
@@ -88,7 +88,7 @@ ayats = [
         "verse_number": "11",
     },
     {
-        "arabic_text": "فِي جَنَّٰتِ ٱلنَّعِيمِ",
+        "arabic_text": "فِي جَنَّٰتِ النَّعِيمِ",
         "urdu_text": "نعمتوں والی جنتوں میں هوں گے",
         "persian_text": "در باغ‌های پرنعمت خواهند بود",
         "english_text": "In Gardens of Pleasure",
@@ -96,7 +96,7 @@ ayats = [
         "verse_number": "12",
     },
     {
-        "arabic_text": "ثُلَّةٞ مِّنَ ٱلْاَوَّلِينَ",
+        "arabic_text": "ثُلَّةٞ مِّنَ الْاَوَّلِينَ",
         "urdu_text": "اکثر اگلے لوگوں میں سے هوں گے",
         "persian_text": "گروهی بسیار از پیشینیان",
         "english_text": "A large company from the former peoples",
@@ -104,7 +104,7 @@ ayats = [
         "verse_number": "13",
     },
     {
-        "arabic_text": "وَقَلِيلٞ مِّنَ ٱلْآخِرِينَ",
+        "arabic_text": "وَقَلِيلٞ مِّنَ الْآخِرِينَ",
         "urdu_text": "اور کچھ هی پچھلے لوگوں میں سے",
         "persian_text": "و اندکی از پسینیان",
         "english_text": "And a few of the later peoples",
@@ -296,7 +296,7 @@ ayats = [
         "verse_number": "37",
     },
     {
-        "arabic_text": "لِّاَصْحَٰبِ ٱلْيَمِينِ",
+        "arabic_text": "لِّاَصْحَٰبِ الْيَمِينِ",
         "urdu_text": "یه سب کچھ داهنے هاتھ والوں کے لیے هوگا",
         "persian_text": "برای یاران دست راست",
         "english_text": "For the companions of the right",
@@ -304,7 +304,7 @@ ayats = [
         "verse_number": "38",
     },
     {
-        "arabic_text": "ثُلَّةٞ مِّنَ ٱلْاَوَّلِينَ",
+        "arabic_text": "ثُلَّةٞ مِّنَ الْاَوَّلِينَ",
         "urdu_text": "ایک جماعت اگلے لوگوں میں سے هوگی",
         "persian_text": "گروهی از پیشینیان",
         "english_text": "A company of the former peoples",
@@ -312,7 +312,7 @@ ayats = [
         "verse_number": "39",
     },
     {
-        "arabic_text": "وَثُلَّةٞ مِّنَ ٱلْآخِرِينَ",
+        "arabic_text": "وَثُلَّةٞ مِّنَ الْآخِرِينَ",
         "urdu_text": "اور ایک جماعت پچھلے لوگوں میں سے هوگی",
         "persian_text": "و گروهی از پسینیان",
         "english_text": "And a company of the later peoples",
@@ -320,7 +320,7 @@ ayats = [
         "verse_number": "40",
     },
     {
-        "arabic_text": "وَاَصْحَٰبُ ٱلشِّمَالِ مَآ اَصْحَٰبُ ٱلشِّمَالِ",
+        "arabic_text": "وَاَصْحَٰبُ الشِّمَالِ مَآ اَصْحَٰبُ الشِّمَالِ",
         "urdu_text": "اور بائیں هاتھ والے، کیا حال هوگا بائیں هاتھ والوں کا؟",
         "persian_text": "و یاران دست چپ، وای بر یاران دست چپ!",
         "english_text": "And the companions of the left – what are the companions of the left?",
@@ -360,7 +360,7 @@ ayats = [
         "verse_number": "45",
     },
     {
-        "arabic_text": "وَكَانُواْ يُصِرُّونَ عَلَى ٱلْحِنثِ ٱلْعَظِيمِ",
+        "arabic_text": "وَكَانُواْ يُصِرُّونَ عَلَى الْحِنثِ الْعَظِيمِ",
         "urdu_text": "اور وه بڑے گناه پر اصرار کرتے تھے",
         "persian_text": "و بر گناه بزرگ پافشاری می‌کردند",
         "english_text": "And they used to persist in the great violation",
@@ -376,7 +376,7 @@ ayats = [
         "verse_number": "47",
     },
     {
-        "arabic_text": "اَوَ ءَابَآؤُنَا ٱلْاَوَّلُونَ",
+        "arabic_text": "اَوَ ءَابَآؤُنَا الْاَوَّلُونَ",
         "urdu_text": "کیا همارے باپ دادا بھی؟",
         "persian_text": "و آیا پدران نخستین ما نیز؟",
         "english_text": "And our forefathers as well?",
@@ -384,7 +384,7 @@ ayats = [
         "verse_number": "48",
     },
     {
-        "arabic_text": "قُلْ اِنَّ ٱلْاَوَّلِينَ وَٱلْءَاخِرِينَ",
+        "arabic_text": "قُلْ اِنَّ الْاَوَّلِينَ وَالْءَاخِرِينَ",
         "urdu_text": "کهه دو: یقیناً اگلے اور پچھلے سب",
         "persian_text": "بگو: به راستی پیشینیان و پسینیان",
         "english_text": "Say, 'Indeed, the former and the later peoples",
@@ -400,7 +400,7 @@ ayats = [
         "verse_number": "50",
     },
     {
-        "arabic_text": "ثُمَّ اِنَّكُمْ اَيُّهَا ٱلضَّآلُّونَ ٱلْمُكَذِّبُونَ",
+        "arabic_text": "ثُمَّ اِنَّكُمْ اَيُّهَا الضَّآلُّونَ الْمُكَذِّبُونَ",
         "urdu_text": "پھر اے گمراهو اور جھٹلانے والو!",
         "persian_text": "پس ای گمراهان و دروغ‌پنداران!",
         "english_text": "Then indeed you, O those astray who are deniers,",
@@ -416,7 +416,7 @@ ayats = [
         "verse_number": "52",
     },
     {
-        "arabic_text": "فَمَالِؤُونَ مِنْهَا ٱلْبُطُونَ",
+        "arabic_text": "فَمَالِؤُونَ مِنْهَا الْبُطُونَ",
         "urdu_text": "اور تم اسی سے پیٹ بھرو گے",
         "persian_text": "و شکم‌هایتان را از آن پر خواهید کرد",
         "english_text": "And filling with it your bellies",
@@ -424,7 +424,7 @@ ayats = [
         "verse_number": "53",
     },
     {
-        "arabic_text": "فَشَٰرِبُونَ عَلَيْهِ مِنَ ٱلْحَمِيمِ",
+        "arabic_text": "فَشَٰرِبُونَ عَلَيْهِ مِنَ الْحَمِيمِ",
         "urdu_text": "پھر تم اس پر کھولتا پانی پیو گے",
         "persian_text": "سپس بر روی آن آب جوشان خواهید نوشید",
         "english_text": "And drinking on top of it from scalding water",
@@ -432,7 +432,7 @@ ayats = [
         "verse_number": "54",
     },
     {
-        "arabic_text": "فَشَٰرِبُونَ شُرْبَ ٱلْهِيمِ",
+        "arabic_text": "فَشَٰرِبُونَ شُرْبَ الْهِيمِ",
         "urdu_text": "یوں پیو گے جیسے پیاسے اونٹ پیتے هیں",
         "persian_text": "همانند شتران بسیار تشنه خواهید نوشید",
         "english_text": "And will drink as the drinking of thirsty camels",
@@ -440,7 +440,7 @@ ayats = [
         "verse_number": "55",
     },
     {
-        "arabic_text": "هَٰذَا نُزُلُهُمْ يَوْمَ ٱلدِّينِ",
+        "arabic_text": "هَٰذَا نُزُلُهُمْ يَوْمَ الدِّينِ",
         "urdu_text": "یه ان کی مهمانی هے جزا کے دن",
         "persian_text": "این است پذیرایی آنان در روز جزا",
         "english_text": "This is their hospitality on the Day of Recompense",
@@ -464,7 +464,7 @@ ayats = [
         "verse_number": "58",
     },
     {
-        "arabic_text": "ءَاَنتُمْ تَخْلُقُونَهُۥٓ اَمْ نَحْنُ ٱلْخَٰلِقُونَ",
+        "arabic_text": "ءَاَنتُمْ تَخْلُقُونَهُٓ اَمْ نَحْنُ الْخَٰلِقُونَ",
         "urdu_text": "کیا تم اسے پیدا کرتے هو یا هم پیدا کرنے والے هیں؟",
         "persian_text": "آیا شما آن را می‌آفرینید یا ما آفرینندگانیم؟",
         "english_text": "Is it you who creates it, or are We the Creator?",
@@ -472,7 +472,7 @@ ayats = [
         "verse_number": "59",
     },
     {
-        "arabic_text": "نَحْنُ قَدَّرْنَا بَيْنَكُمُ ٱلْمَوْتَ وَ مَا نَحْنُ بِمَسْبُوقِينَ",
+        "arabic_text": "نَحْنُ قَدَّرْنَا بَيْنَكُمُ الْمَوْتَ وَ مَا نَحْنُ بِمَسْبُوقِينَ",
         "urdu_text": "هم نے تمهارے درمیان موت کو مقرر کیا، اور هم عاجز نهیں",
         "persian_text": "ما مرگ را میان شما مقدر داشتیم، و ما مغلوب شدنی نیستیم",
         "english_text": "We have decreed death among you, and We are not to be outdone",
@@ -488,7 +488,7 @@ ayats = [
         "verse_number": "61",
     },
     {
-        "arabic_text": "وَلَقَدْ عَلِمْتُمُ ٱلنَّشْاَةَ ٱلْاُولَىٰ فَلَوْلَا تَذَكَّرُونَ",
+        "arabic_text": "وَ لَقَدْ عَلِمْتُمُ النَّشْاَةَ الْاُولَىٰ فَلَوْلَا تَذَكَّرُونَ",
         "urdu_text": "اور تم نے پهلی پیدائش دیکھی هے، تو کیوں نصیحت حاصل نهیں کرتے؟",
         "persian_text": "و شما آفرینش نخستین را دانسته‌اید، پس چرا پند نمی‌گیرید؟",
         "english_text": "And you have already known the first creation, so will you not remember?",
@@ -504,7 +504,7 @@ ayats = [
         "verse_number": "63",
     },
     {
-        "arabic_text": "ءَاَنتُمْ تَزْرَعُونَهُۥٓ اَمْ نَحْنُ ٱلزَّٰرِعُونَ",
+        "arabic_text": "ءَاَنتُمْ تَزْرَعُونَهُٓ اَمْ نَحْنُ الزَّٰرِعُونَ",
         "urdu_text": "کیا تم اسے اگاتے هو یا هم اگانے والے هیں؟",
         "persian_text": "آیا شما آن را می‌رویانید یا ما رویاننده‌ایم؟",
         "english_text": "Is it you who makes it grow, or are We the grower?",
@@ -536,7 +536,7 @@ ayats = [
         "verse_number": "67",
     },
     {
-        "arabic_text": "اَفَرَءَيْتُمُ ٱلْمَآءَ ٱلَّذِي تَشْرَبُونَ",
+        "arabic_text": "اَفَرَءَيْتُمُ الْمَآءَ الَّذِي تَشْرَبُونَ",
         "urdu_text": "کیا تم نے اس پانی کو دیکھا جو تم پیتے هو؟",
         "persian_text": "آیا به آبی که می‌نوشید نگریسته‌اید؟",
         "english_text": "Then have you seen the water that you drink?",
@@ -544,7 +544,7 @@ ayats = [
         "verse_number": "68",
     },
     {
-        "arabic_text": "ءَاَنتُمْ اَنزَلْتُمُوهُ مِنَ ٱلْمُزْنِ اَمْ نَحْنُ ٱلْمُنزِلُونَ",
+        "arabic_text": "ءَاَنتُمْ اَنزَلْتُمُوهُ مِنَ الْمُزْنِ اَمْ نَحْنُ الْمُنزِلُونَ",
         "urdu_text": "کیا تم نے اسے بادل سے اتارا هے یا هم اتارنے والے هیں؟",
         "persian_text": "آیا شما آن را از ابر نازل کرده‌اید یا ما نازل‌کننده‌ایم؟",
         "english_text": "Is it you who brought it down from the clouds, or is it We who bring it down?",
@@ -560,7 +560,7 @@ ayats = [
         "verse_number": "70",
     },
     {
-        "arabic_text": "اَفَرَءَيْتُمُ ٱلنَّارَ ٱلَّتِي تُورُونَ",
+        "arabic_text": "اَفَرَءَيْتُمُ النَّارَ الَّتِي تُورُونَ",
         "urdu_text": "کیا تم نے اس آگ کو دیکھا جو تم بھڑکاتے هو؟",
         "persian_text": "آیا به آتشی که می‌افروزید نگریسته‌اید؟",
         "english_text": "Have you seen the fire that you ignite?",
@@ -568,7 +568,7 @@ ayats = [
         "verse_number": "71",
     },
     {
-        "arabic_text": "ءَاَنتُمْ اَنشَاْتُمْ شَجَرَتَهَآ اَمْ نَحْنُ ٱلْمُنشِـُٔونَ",
+        "arabic_text": "ءَاَنتُمْ اَنشَاْتُمْ شَجَرَتَهَآ اَمْ نَحْنُ الْمُنشِـُٔونَ",
         "urdu_text": "کیا تم نے اس کے درخت کو پیدا کیا هے یا هم پیدا کرنے والے هیں؟",
         "persian_text": "آیا شما درخت آن را پدید آوردید یا ما پدید آورندگانیم؟",
         "english_text": "Is it you who produced its tree, or are We the producer?",
@@ -584,7 +584,7 @@ ayats = [
         "verse_number": "73",
     },
     {
-        "arabic_text": "فَسَبِّحْ بِٱسْمِ رَبِّكَ ٱلْعَظِيمِ",
+        "arabic_text": "فَسَبِّحْ بِاسْمِ رَبِّكَ الْعَظِيمِ",
         "urdu_text": "پس اپنے عظیم رب کے نام کی تسبیح کرو",
         "persian_text": "پس به نام پروردگار بزرگت تسبیح بگو",
         "english_text": "So exalt the name of your Lord, the Most Great",
@@ -592,7 +592,7 @@ ayats = [
         "verse_number": "74",
     },
     {
-        "arabic_text": "فَلَآ اُقْسِمُ بِمَوَٰقِعِ ٱلنُّجُومِ",
+        "arabic_text": "فَلَآ اُقْسِمُ بِمَوَٰقِعِ النُّجُومِ",
         "urdu_text": "پس نهیں، میں قسم کھاتا هوں ستاروں کے مقام کی",
         "persian_text": "نه، سوگند به جایگاه‌های ستارگان می‌خورم",
         "english_text": "But no! I swear by the positions of the stars",
@@ -600,7 +600,7 @@ ayats = [
         "verse_number": "75",
     },
     {
-        "arabic_text": "وَاِنَّهُۥ لَقَسَمٞ لَّوْ تَعْلَمُونَ عَظِيمٌ",
+        "arabic_text": "وَاِنَّهُ لَقَسَمٞ لَّوْ تَعْلَمُونَ عَظِيمٌ",
         "urdu_text": "اور بے شک یه ایک عظیم قسم هے اگر تم جان لو",
         "persian_text": "و همانا این سوگندی است بزرگ، اگر بدانید",
         "english_text": "And indeed, it is a great oath – if you could know",
@@ -608,7 +608,7 @@ ayats = [
         "verse_number": "76",
     },
     {
-        "arabic_text": "اِنَّهُۥ لَقُرْءَانٞ كَرِيمٞ",
+        "arabic_text": "اِنَّهُ لَقُرْءَانٞ كَرِيمٞ",
         "urdu_text": "یقیناً یه ایک باعزت قرآن هے",
         "persian_text": "بی‌گمان این قرآن، قرآنی گرامی‌ست",
         "english_text": "Indeed, it is a noble Qur'an",
@@ -624,7 +624,7 @@ ayats = [
         "verse_number": "78",
     },
     {
-        "arabic_text": "لَّا يَمَسُّهُۥٓ اِلَّا ٱلْمُطَهَّرُونَ",
+        "arabic_text": "لَّا يَمَسُّهُٓ اِلَّا الْمُطَهَّرُونَ",
         "urdu_text": "اسے صرف پاک لوگ هی چھو سکتے هیں",
         "persian_text": "جز پاک‌شدگان آن را لمس نمی‌کنند",
         "english_text": "None touch it except the purified",
@@ -632,7 +632,7 @@ ayats = [
         "verse_number": "79",
     },
     {
-        "arabic_text": "تَنزِيلٞ مِّن رَّبِّ ٱلْعَٰلَمِينَ",
+        "arabic_text": "تَنزِيلٞ مِّن رَّبِّ الْعَٰلَمِينَ",
         "urdu_text": "یه رب العالمین کی طرف سے نازل کرده هے",
         "persian_text": "نازل شده از سوی پروردگار جهانیان است",
         "english_text": "A revelation from the Lord of the worlds",
@@ -640,7 +640,7 @@ ayats = [
         "verse_number": "80",
     },
     {
-        "arabic_text": "اَفَبِهَٰذَا ٱلْحَدِيثِ اَنتُم مُّدْهِنُونَ",
+        "arabic_text": "اَفَبِهَٰذَا الْحَدِيثِ اَنتُم مُّدْهِنُونَ",
         "urdu_text": "تو کیا تم اس کلام کو هلکا لیتے هو؟",
         "persian_text": "آیا شما این سخن را بی‌اهمیت می‌شمارید؟",
         "english_text": "Then is it to this statement that you are indifferent?",
@@ -656,7 +656,7 @@ ayats = [
         "verse_number": "82",
     },
     {
-        "arabic_text": "فَلَوْلَآ اِذَا بَلَغَتِ ٱلْحُلْقُومَ",
+        "arabic_text": "فَلَوْلَآ اِذَا بَلَغَتِ الْحُلْقُومَ",
         "urdu_text": "پھر کیوں نهیں، جب جان گلے تک پهنچتی هے",
         "persian_text": "پس چرا هنگامی که جان به گلوگاه می‌رسد",
         "english_text": "Then why, when the soul reaches the throat",
@@ -696,7 +696,7 @@ ayats = [
         "verse_number": "87",
     },
     {
-        "arabic_text": "فَاَمَّآ اِن كَانَ مِنَ ٱلْمُقَرَّبِينَ",
+        "arabic_text": "فَاَمَّآ اِن كَانَ مِنَ الْمُقَرَّبِينَ",
         "urdu_text": "پس اگر وه مقربین میں سے هے",
         "persian_text": "پس اگر از مقربان باشد",
         "english_text": "And if the deceased was of those brought near to Allah,",
@@ -712,7 +712,7 @@ ayats = [
         "verse_number": "89",
     },
     {
-        "arabic_text": "وَاَمَّآ اِن كَانَ مِنْ اَصْحَٰبِ ٱلْيَمِينِ",
+        "arabic_text": "وَاَمَّآ اِن كَانَ مِنْ اَصْحَٰبِ الْيَمِينِ",
         "urdu_text": "اور اگر وه دائیں جانب والوں میں سے هو",
         "persian_text": "و اگر از اصحاب یمین باشد",
         "english_text": "And if he was of the companions of the right",
@@ -720,7 +720,7 @@ ayats = [
         "verse_number": "90",
     },
     {
-        "arabic_text": "فَسَلَٰمٞ لَّكَ مِنْ اَصْحَٰبِ ٱلْيَمِينِ",
+        "arabic_text": "فَسَلَٰمٞ لَّكَ مِنْ اَصْحَٰبِ الْيَمِينِ",
         "urdu_text": "تو اس کے لیے دائیں جانب والوں کی طرف سے سلامتی هے",
         "persian_text": "پس سلام بر تو از سوی اصحاب یمین",
         "english_text": "Then [the angels will say], 'Peace for you [from] the companions of the right'",
@@ -728,7 +728,7 @@ ayats = [
         "verse_number": "91",
     },
     {
-        "arabic_text": "وَاَمَّآ اِن كَانَ مِنَ ٱلْمُكَذِّبِينَ ٱلضَّآلِّينَ",
+        "arabic_text": "وَاَمَّآ اِن كَانَ مِنَ الْمُكَذِّبِينَ الضَّآلِّينَ",
         "urdu_text": "اور اگر وه جھٹلانے والوں اور گمراهوں میں سے هو",
         "persian_text": "و اگر از تکذیب‌کنندگان گمراه باشد",
         "english_text": "But if he was of the deniers [who were] astray,",
@@ -752,7 +752,7 @@ ayats = [
         "verse_number": "94",
     },
     {
-        "arabic_text": "اِنَّ هَٰذَا لَهُوَ حَقُّ ٱلْيَقِينِ",
+        "arabic_text": "اِنَّ هَٰذَا لَهُوَ حَقُّ الْيَقِينِ",
         "urdu_text": "یقیناً یه هی یقینی سچائی هے",
         "persian_text": "بی‌گمان این همان حقیقت قطعی است",
         "english_text": "Indeed, this is the true certainty",
@@ -760,7 +760,7 @@ ayats = [
         "verse_number": "95",
     },
     {
-        "arabic_text": "فَسَبِّحْ بِٱسْمِ رَبِّكَ ٱلْعَظِيمِ",
+        "arabic_text": "فَسَبِّحْ بِاسْمِ رَبِّكَ الْعَظِيمِ",
         "urdu_text": "پس اپنے عظیم رب کے نام کی تسبیح کرو",
         "persian_text": "پس به نام پروردگار بزرگت تسبیح گوی",
         "english_text": "So exalt the name of your Lord, the Most Great",

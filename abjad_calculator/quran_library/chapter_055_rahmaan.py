@@ -73,7 +73,7 @@ ayats = [
     },
     {
         "verse_number": 10,
-        "arabic_text": "وَٱلۡاَرۡضَ وَضَعَهَا لِلۡاَنَامِ",
+        "arabic_text": "وَالۡاَرۡضَ وَضَعَهَا لِلۡاَنَامِ",
         "urdu_text": "اور زمین کو اس نے مخلوق کے لیے بنایا",
         "persian_translation": "و زمین را برای آفریدگان گسترد",
         "english_translation": "And the earth He laid [out] for the creatures.",
@@ -81,7 +81,7 @@ ayats = [
     },
     {
         "verse_number": 11,
-        "arabic_text": "فِيهَا فَٰكِهَةٞ وَٱلنَّخۡلُ ذَاتُ ٱلۡاَكۡمَامِ",
+        "arabic_text": "فِيهَا فَٰكِهَةٞ وَالنَّخۡلُ ذَاتُ الۡاَكۡمَامِ",
         "urdu_text": "اس میں میوے ہیں اور کھجور کے درخت ہیں جن کے خوشے غلافوں میں ہیں",
         "persian_translation": "در آن میوه‌ها و درخت خرما با خوشه‌های پیچیده وجود دارد",
         "english_translation": "Therein is fruit and palm trees having sheaths [of dates].",
@@ -89,7 +89,7 @@ ayats = [
     },
     {
         "verse_number": 12,
-        "arabic_text": "وَٱلۡحَبُّ ذُو ٱلۡعَصۡفِ وَٱلرَّيۡحَانُ",
+        "arabic_text": "وَالۡحَبُّ ذُو الۡعَصۡفِ وَالرَّيۡحَانُ",
         "urdu_text": "اور غلہ جس میں بھوسا ہوتا ہے اور خوشبودار پودے ہیں",
         "persian_translation": "و دانه‌هایی با کاه و گیاهان خوشبو",
         "english_translation": "And grain having husks and scented plants.",
@@ -105,7 +105,7 @@ ayats = [
     },
     {
         "verse_number": 14,
-        "arabic_text": "خَلَقَ ٱلۡاِنسَٰنَ مِن صَلۡصَٰلٖ كَٱلۡفَخَّارِ",
+        "arabic_text": "خَلَقَ الۡاِنسَٰنَ مِن صَلۡصَٰلٖ كَالۡفَخَّارِ",
         "urdu_text": "اس نے انسان کو ٹھیکری جیسے کھنکھناتے گارے سے پیدا کیا",
         "persian_translation": "او انسان را از گِلی خشک و چون سفال آفرید",
         "english_translation": "He created man from clay like [that of] pottery.",
@@ -113,7 +113,7 @@ ayats = [
     },
     {
         "verse_number": 15,
-        "arabic_text": "وَخَلَقَ ٱلۡجَانَّ مِن مَّارِجٖ مِّن نَّارٖ",
+        "arabic_text": "وَخَلَقَ الۡجَانَّ مِن مَّارِجٖ مِّن نَّارٖ",
         "urdu_text": "اور جنوں کو آگ کی لپٹ سے پیدا کیا",
         "persian_translation": "و جن را از شعله‌ای از آتش آفرید",
         "english_translation": "And He created the jinn from a smokeless flame of fire.",
@@ -129,7 +129,7 @@ ayats = [
     },
     {
         "verse_number": 17,
-        "arabic_text": "رَبُّ ٱلۡمَشۡرِقَيۡنِ وَرَبُّ ٱلۡمَغۡرِبَيۡنِ",
+        "arabic_text": "رَبُّ الۡمَشۡرِقَيۡنِ وَرَبُّ الۡمَغۡرِبَيۡنِ",
         "urdu_text": "وہ دونوں مشرقوں اور دونوں مغربوں کا رب ہے",
         "persian_translation": "پروردگار دو مشرق و دو مغرب است",
         "english_translation": "He is Lord of the two Easts and Lord of the two Wests.",
@@ -145,7 +145,7 @@ ayats = [
     },
     {
         "verse_number": 19,
-        "arabic_text": "مَرَجَ ٱلۡبَحۡرَيۡنِ يَلۡتَقِيَانِ",
+        "arabic_text": "مَرَجَ الۡبَحۡرَيۡنِ يَلۡتَقِيَانِ",
         "urdu_text": "اس نے دو سمندروں کو ملا دیا جو باہم ملتے ہیں",
         "persian_translation": "او دو دریا را روان ساخت که به هم می‌پیوندند",
         "english_translation": "He released the two seas, meeting [side by side].",
@@ -160,7 +160,7 @@ ayats = [
         "transliteration": "Baynahumā barzakhun lā yabghiyān",
     },
     {
-        "arabic_text": "يَخْرُجُ مِنْهُمَا ٱللُّؤْلُؤُ وَٱلْمَرْجَانُ",
+        "arabic_text": "يَخْرُجُ مِنْهُمَا اللُّؤْلُؤُ وَالْمَرْجَانُ",
         "urdu_text": "ان دونوں سے موتی اور مونگے نکلتے ہیں",
         "persian_text": "از آن دو، مروارید و مرجان بیرون می‌آید",
         "english_text": "From both of them emerge pearls and coral.",
@@ -176,7 +176,7 @@ ayats = [
         "verse_number": 23,
     },
     {
-        "arabic_text": "وَلَهُ ٱلْجَوَارِ ٱلْمُنشَـَٔاتُ فِى ٱلْبَحْرِ كَٱلْاَعْلَـٰمِ",
+        "arabic_text": "وَلَهُ الْجَوَارِ الْمُنشَـَٔاتُ فِى الْبَحْرِ كَالْاَعْلَـٰمِ",
         "urdu_text": "اور اسی کے لیے ہیں وہ کشتیاں جو سمندر میں پہاڑوں کی طرح بلند ہوتی ہیں",
         "persian_text": "و کشتی‌های بزرگ در دریا چون کوه‌ها به فرمان او روان‌اند",
         "english_text": "And His are the ships elevated in the sea like mountains.",
@@ -200,7 +200,7 @@ ayats = [
         "verse_number": 26,
     },
     {
-        "arabic_text": "وَيَبْقَىٰ وَجْهُ رَبِّكَ ذُو ٱلْجَلَـٰلِ وَٱلْاِكْرَامِ",
+        "arabic_text": "وَيَبْقَىٰ وَجْهُ رَبِّكَ ذُو الْجَلَـٰلِ وَالْاِكْرَامِ",
         "urdu_text": "اور تمہارے رب کی ذات جو عظمت اور عزت والی ہے باقی رہے گی",
         "persian_text": "و تنها ذات پروردگارت که صاحب جلال و بزرگی است باقی می‌ماند",
         "english_text": "And the Face of your Lord full of Majesty and Honor will remain.",
@@ -216,7 +216,7 @@ ayats = [
         "verse_number": 28,
     },
     {
-        "arabic_text": "يَسْـَٔلُهُۥ مَن فِى ٱلسَّمَـٰوَٰتِ وَٱلْاَرْضِ ۚ كُلَّ يَوْمٍ هُوَ فِى شَاْنٍۭ",
+        "arabic_text": "يَسْـَٔلُهُ مَن فِى السَّمَـٰوَٰتِ وَالْاَرْضِ ۚ كُلَّ يَوْمٍ هُوَ فِى شَاْنٍۭ",
         "urdu_text": "اسی سے سوال کرتے ہیں وہ سب جو آسمانوں اور زمین میں ہیں، ہر روز وہ ایک شان میں ہوتا ہے",
         "persian_text": "هر که در آسمان‌ها و زمین است از او درخواست می‌کند؛ هر روز او در کاری است",
         "english_text": "Everyone in the heavens and earth asks Him; every day He is bringing about a matter.",
@@ -232,7 +232,7 @@ ayats = [
         "verse_number": 30,
     },
     {
-        "arabic_text": "سَنَفْرُغُ لَكُمْ اَيُّهَ ٱلثَّقَلَانِ",
+        "arabic_text": "سَنَفْرُغُ لَكُمْ اَيُّهَ الثَّقَلَانِ",
         "urdu_text": "اے بوجھ والو! ہم تمہارے حساب کے لیے فارغ ہو جائیں گے",
         "persian_text": "ای گروه جن و انس، به زودی به حساب شما خواهیم پرداخت",
         "english_text": "We will attend to you, O prominent beings.",
@@ -248,7 +248,7 @@ ayats = [
         "verse_number": 32,
     },
     {
-        "arabic_text": "يَـٰمَعْشَرَ ٱلْجِنِّ وَٱلْاِنسِ اِنِ ٱسْتَطَعْتُمْ اَن تَنفُذُواْ مِنْ اَقْطَارِ ٱلسَّمَـٰوَٰتِ وَٱلْاَرْضِ فَٱنفُذُواْ ۚ لَا تَنفُذُونَ اِلَّا بِسُلْطَـٰنٍۢ",
+        "arabic_text": "يَـٰمَعْشَرَ الْجِنِّ وَالْاِنسِ اِنِ اسْتَطَعْتُمْ اَن تَنفُذُواْ مِنْ اَقْطَارِ السَّمَـٰوَٰتِ وَالْاَرْضِ فَانفُذُواْ ۚ لَا تَنفُذُونَ اِلَّا بِسُلْطَـٰنٍۢ",
         "urdu_text": "اے جنوں اور انسانوں کی جماعت! اگر تم آسمانوں اور زمین کے کناروں سے نکل سکتے ہو تو نکل جاؤ، تم طاقت کے بغیر نہیں نکل سکتے",
         "persian_text": "ای گروه جن و انس! اگر می‌توانید از مرزهای آسمان‌ها و زمین بگریزید، بگریزید، اما جز با قدرت، نمی‌گریزید",
         "english_text": "O company of jinn and mankind, if you are able to pass beyond the regions of the heavens and the earth, then pass. You will not pass except by authority.",
@@ -280,7 +280,7 @@ ayats = [
         "verse_number": 36,
     },
     {
-        "arabic_text": "فَاِذَا ٱنشَقَّتِ ٱلسَّمَآءُ فَكَانَتْ وَرْدَةًۭ كَٱلدِّهَانِ",
+        "arabic_text": "فَاِذَا انشَقَّتِ السَّمَآءُ فَكَانَتْ وَرْدَةًۭ كَالدِّهَانِ",
         "urdu_text": "پھر جب آسمان پھٹ جائے گا تو وہ گلابی ہو جائے گا جیسے تیل کی تلچھٹ",
         "persian_text": "پس آنگاه که آسمان شکافته شود و چون گل سرخ و روغن گداخته گردد",
         "english_text": "And when the heaven is split open and becomes rose-colored like oil.",
@@ -296,7 +296,7 @@ ayats = [
         "verse_number": 38,
     },
     {
-        "arabic_text": "فَيَوْمَئِذٍۢ لَّا يُسْـَٔلُ عَن ذَنبِهِۦٓ اِنسٌۭ وَلَا جَآنٌّۭ",
+        "arabic_text": "فَيَوْمَئِذٍۢ لَّا يُسْـَٔلُ عَن ذَنبِهِٓ اِنسٌۭ وَلَا جَآنٌّۭ",
         "urdu_text": "پھر اس دن نہ انسان سے اور نہ جن سے ان کے گناہوں کے بارے میں سوال کیا جائے گا",
         "persian_text": "پس در آن روز از گناه هیچ انسانی و هیچ جنی پرسش نخواهد شد",
         "english_text": "Then on that Day none will be asked about his sin among men or jinn.",
@@ -312,7 +312,7 @@ ayats = [
         "verse_number": 40,
     },
     {
-        "arabic_text": "يُعْرَفُ ٱلْمُجْرِمُونَ بِسِيمَـٰهُمْ فَيُؤْخَذُ بِٱلنَّوَاصِى وَٱلْاَقْدَامِ",
+        "arabic_text": "يُعْرَفُ الْمُجْرِمُونَ بِسِيمَـٰهُمْ فَيُؤْخَذُ بِالنَّوَاصِى وَالْاَقْدَامِ",
         "urdu_text": "مجرم اپنے چہروں سے پہچانے جائیں گے، پھر پیشانیوں اور پاؤں سے پکڑا جائے گا",
         "persian_text": "گناهکاران از چهره‌شان شناخته می‌شوند و از پیشانی و پاها گرفته می‌شوند",
         "english_text": "The sinners will be known by their marks, and they will be seized by the forelocks and the feet.",
@@ -328,7 +328,7 @@ ayats = [
         "verse_number": 42,
     },
     {
-        "arabic_text": "هٰذِهِۦ جَهَنَّمُ ٱلَّتِى يُكَذِّبُ بِهَا ٱلْمُجْرِمُونَ",
+        "arabic_text": "هٰذِهِ جَهَنَّمُ الَّتِى يُكَذِّبُ بِهَا الْمُجْرِمُونَ",
         "urdu_text": "یہی ہے جہنم جسے مجرم جھٹلایا کرتے تھے",
         "persian_text": "این همان جهنمی است که گناهکاران آن را تکذیب می‌کردند",
         "english_text": "This is the Hell which the criminals denied.",
@@ -352,7 +352,7 @@ ayats = [
         "verse_number": 45,
     },
     {
-        "arabic_text": "وَلِمَنْ خَافَ مَقَامَ رَبِّهِۦ جَنَّتَانِ",
+        "arabic_text": "وَلِمَنْ خَافَ مَقَامَ رَبِّهِ جَنَّتَانِ",
         "urdu_text": "اور جو اپنے رب کے حضور کھڑے ہونے سے ڈرا، اس کے لیے دو جنتیں ہیں",
         "persian_text": "و برای کسی که از مقام پروردگارش ترسید، دو بهشت است",
         "english_text": "But for he who has feared the standing before his Lord are two gardens.",
@@ -416,7 +416,7 @@ ayats = [
         "verse_number": 53,
     },
     {
-        "arabic_text": "مُتَّكِـِٔينَ عَلَٰى فُرُشٍۢ بَطَآئِنُهَا مِنْ اِسْتَبْرَقٍۢ ۚ وَجَنَى ٱلْجَنَّتَيْنِ دَانٍۭ",
+        "arabic_text": "مُتَّكِـِٔينَ عَلَٰى فُرُشٍۢ بَطَآئِنُهَا مِنْ اِسْتَبْرَقٍۢ ۚ وَجَنَى الْجَنَّتَيْنِ دَانٍۭ",
         "urdu_text": "وہ ٹیک لگائے ہوں گے مخملی کپڑے کے بستروں پر، اور دونوں جنتوں کے پھل قریب ہوں گے",
         "persian_text": "بر تخت‌هایی تکیه زده‌اند که آستری آن‌ها از دیباست، و میوه‌های دو بهشت در دسترس است",
         "english_text": "Reclining on beds whose linings are of silk brocade, and the fruit of the two gardens is hanging low.",
@@ -432,7 +432,7 @@ ayats = [
         "verse_number": 55,
     },
     {
-        "arabic_text": "فِيهِنَّ قَـٰصِرَٰتُ ٱلطَّرْفِ لَمْ يَطْمِثْهُنَّ اِنسٌۭ قَبْلَهُمْ وَلَا جَآنٌّۭ",
+        "arabic_text": "فِيهِنَّ قَـٰصِرَٰتُ الطَّرْفِ لَمْ يَطْمِثْهُنَّ اِنسٌۭ قَبْلَهُمْ وَلَا جَآنٌّۭ",
         "urdu_text": "ان میں نیچی نظروں والی عورتیں ہوں گی، جنہیں ان سے پہلے کسی انسان یا جن نے نہ چھوا ہوگا",
         "persian_text": "در آن‌ها زنانی هستند که نگاه‌شان فروهشته است، که پیش از آن‌ها هیچ انسانی یا جنی به آن‌ها دست نزده است",
         "english_text": "In them are women limiting their glances, whom no man or jinn has touched before them.",
@@ -448,7 +448,7 @@ ayats = [
         "verse_number": 57,
     },
     {
-        "arabic_text": "كَاَنَّهُنَّ ٱلْيَاقُوتُ وَٱلْمَرْجَانُ",
+        "arabic_text": "كَاَنَّهُنَّ الْيَاقُوتُ وَالْمَرْجَانُ",
         "urdu_text": "گویا وہ یاقوت اور مرجان کی مانند ہوں گی",
         "persian_text": "چنان‌اند که گویی یاقوت و مرجان‌اند",
         "english_text": "As if they were rubies and coral.",
@@ -464,7 +464,7 @@ ayats = [
         "verse_number": 59,
     },
     {
-        "arabic_text": "هَلْ جَزَآءُ ٱلْاِحْسَـٰنِ اِلَّا ٱلْاِحْسَـٰنُ",
+        "arabic_text": "هَلْ جَزَآءُ الْاِحْسَـٰنِ اِلَّا الْاِحْسَـٰنُ",
         "urdu_text": "نیکی کا بدلہ نیکی کے سوا اور کیا ہو سکتا ہے؟",
         "persian_text": "آیا پاداش نیکی چیزی جز نیکی است؟",
         "english_text": "Is the reward for good [anything] but good?",
@@ -560,7 +560,7 @@ ayats = [
         "verse_number": 71,
     },
     {
-        "arabic_text": "حُورٌۭ مَّقْصُورَٰتٌۭ فِى ٱلْخِيَامِ",
+        "arabic_text": "حُورٌۭ مَّقْصُورَٰتٌۭ فِى الْخِيَامِ",
         "urdu_text": "حوریں ہوں گی جو خیموں میں رکھی گئی ہوں گی",
         "persian_text": "حورانی که در خیمه‌ها مستورند",
         "english_text": "Fair ones reserved in pavilions.",
@@ -608,7 +608,7 @@ ayats = [
         "verse_number": 77,
     },
     {
-        "arabic_text": "تَبَـٰرَكَ ٱسْمُ رَبِّكَ ذِى ٱلْجَلَـٰلِ وَٱلْاِكْرَامِ",
+        "arabic_text": "تَبَـٰرَكَ اسْمُ رَبِّكَ ذِى الْجَلَـٰلِ وَالْاِكْرَامِ",
         "urdu_text": "بہت بابرکت ہے تیرے رب کا نام جو عظمت اور بزرگی والا ہے",
         "persian_text": "مبارک است نام پروردگار تو، صاحب جلال و بزرگواری",
         "english_text": "Blessed is the name of your Lord, Owner of Majesty and Honor.",

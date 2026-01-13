@@ -41,7 +41,7 @@ ayats = [
     },
     {
         "verse_number": "6",
-        "arabic_text": "فَاَمَّا مَن ثَقُلَتْ مَوَازِينُهُۥ",
+        "arabic_text": "فَاَمَّا مَن ثَقُلَتْ مَوَازِينُهُ",
         "urdu_text": "پھر جس کا پلڑا بھاری هوا",
         "persian_text": "پس هر که ترازوی اعمالش سنگین باشد",
         "english_text": "Then as for one whose scales are heavy [with good deeds],",
@@ -57,7 +57,7 @@ ayats = [
     },
     {
         "verse_number": "8",
-        "arabic_text": "وَ اَمَّا مَنْ خَفَّتْ مَوَازِينُهُۥ",
+        "arabic_text": "وَ اَمَّا مَنْ خَفَّتْ مَوَازِينُهُ",
         "urdu_text": "اور جس کا پلڑا هلکا هوا",
         "persian_text": "و اما کسی که ترازویش سبک باشد",
         "english_text": "But as for one whose scales are light,",
@@ -65,7 +65,7 @@ ayats = [
     },
     {
         "verse_number": "9",
-        "arabic_text": "فَاُمُّهُۥ هَاوِيَةٌ",
+        "arabic_text": "فَاُمُّهُ هَاوِيَةٌ",
         "urdu_text": "تو اس کا ٹھکانه گهرا گڑھا هے",
         "persian_text": "پس جایگاه او هاویه (دوزخ) است",
         "english_text": "His refuge will be an abyss.",

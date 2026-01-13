@@ -27,7 +27,7 @@ ayats = [
     },
     {
         "Surah": "Al-Masad (Al-Lahab)",
-        "arabic_text": "وَّ امْرَاَتُهُۥ حَمَّالَةَ الْحَطَبِ",
+        "arabic_text": "وَّ امْرَاَتُهُ حَمَّالَةَ الْحَطَبِ",
         "urdu_text": "اور اس کی بیوی، جو هیزم اٹھانے والی هے",
         "persian_text": "و همسرش که هیزم‌کش است",
         "english_text": "And his wife [as well]—the carrier of firewood—",

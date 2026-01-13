@@ -9,7 +9,7 @@ ayats = [
   {
     "verse_number": 1,
     "english_text": "O you who wrapped up in garment.",
-    "arabic_text": "يَـٰٓاَيُّهَا ٱلْمُزَّمِّلُ",
+    "arabic_text": "يٰٓاَيُّهَا الْمُزَّمِّلُ",
     "urdu_text": "اے چادر اوڑھنے والے!",
     "persian_text": "ای کسی که در جامه پیچیده‌ای!",
     "transliteration": "Yaa ayyuhal muzzammil"
@@ -17,7 +17,7 @@ ayats = [
   {
     "verse_number": 2,
     "english_text": "Rise up during the night but little less.",
-    "arabic_text": "قُمِ ٱلَّيْلَ اِلَّا قَلِيلًۭا",
+    "arabic_text": "قُمِ الَّيْلَ اِلَّا قَلِيلًۭا",
     "urdu_text": "رات کو کھڑے رهو مگر تھوڑا کم۔",
     "persian_text": "شب را به عبادت بپا خیز مگر اندکی.",
     "transliteration": "Qumil layla illaa qaleelaa"
@@ -25,7 +25,7 @@ ayats = [
   {
     "verse_number": 3,
     "english_text": "Half the night or even less than that.",
-    "arabic_text": "نِّصْفَهُۥٓ اَوِ ٱنقُصْ مِنْهُ قَلِيلًا",
+    "arabic_text": "نِّصْفَهُٓ اَوِ انقُصْ مِنْهُ قَلِيلًا",
     "urdu_text": "آدھی رات یا اس سے کچھ کم۔",
     "persian_text": "نیمی از شب یا اندکی از آن کم کن.",
     "transliteration": "Nisfahu awinqus minhu qaleelaa"
@@ -33,7 +33,7 @@ ayats = [
   {
     "verse_number": 4,
     "english_text": "Or add to it and read the Quran slowly (and) regularly.",
-    "arabic_text": "اَوْ زِدْ عَلَيْهِ وَرَتِّلِ ٱلْقُرْءَانَ تَرْتِيلًا",
+    "arabic_text": "اَوْ زِدْ عَلَيْهِ وَرَتِّلِ الْقُرْءَانَ تَرْتِيلًا",
     "urdu_text": "یا اس پر کچھ بڑھا دو اور قرآن کو ٹھهر ٹھهر کر پڑھو۔",
     "persian_text": "یا بر آن بیفزا و قرآن را آهسته و با ترتیل بخوان.",
     "transliteration": "Aw zid 'alayhi wa rattilil Qur'aana tarteelaa"
@@ -49,7 +49,7 @@ ayats = [
   {
     "verse_number": 6,
     "english_text": "Verily rising up during the night is the best way for trampling on the Self, and it is the best time for mentioning (Allah).",
-    "arabic_text": "اِنَّ نَاشِئَةَ ٱلَّيْلِ هِىَ اَشَدُّ وَطْـًۭٔا وَاَقْوَمُ قِيلًا",
+    "arabic_text": "اِنَّ نَاشِئَةَ الَّيْلِ هِىَ اَشَدُّ وَطْـًۭٔا وَاَقْوَمُ قِيلًا",
     "urdu_text": "بیشک رات کا اٹھنا نفس کو مضبوطی سے قابو میں کرنے والا اور بات کے لیے زیاده درست هے۔",
     "persian_text": "به راستی برخاستن در شب، سخت‌ترین راه برای مهار نفس و استوارترین وقت برای ذکر است.",
     "transliteration": "Inna naashi'atal layli hiya ashaddu wat'anw wa aqwamu qeelaa"
@@ -57,7 +57,7 @@ ayats = [
   {
     "verse_number": 7,
     "english_text": "Verily for you during the day there is lots of busyness.",
-    "arabic_text": "اِنَّ لَكَ فِى ٱلنَّهَارِ سَبْحًۭا طَوِيلًۭا",
+    "arabic_text": "اِنَّ لَكَ فِى النَّهَارِ سَبْحًۭا طَوِيلًۭا",
     "urdu_text": "بیشک تمهارے لیے دن میں بهت سی مصروفیات هیں۔",
     "persian_text": "به راستی تو در روز مشغولیت‌های فراوانی داری.",
     "transliteration": "Inna laka fin nahaari sabhan taweelaa"
@@ -65,7 +65,7 @@ ayats = [
   {
     "verse_number": 8,
     "english_text": "And mention the name of your Lord; and devote yourself to Him only.",
-    "arabic_text": "وَٱذْكُرِ ٱسْمَ رَبِّكَ وَتَبَتَّلْ اِلَيْهِ تَبْتِيلًۭا",
+    "arabic_text": "وَاذْكُرِ اسْمَ رَبِّكَ وَتَبَتَّلْ اِلَيْهِ تَبْتِيلًۭا",
     "urdu_text": "اور اپنے رب کے نام کا ذکر کرو اور پوری طرح اسی کی طرف متوجه هو جاؤ۔",
     "persian_text": "و نام پروردگارت را یاد کن و خود را به کلی به او وقف کن.",
     "transliteration": "Wadhkurisma rabbika wa tabattal ilayhi tabteelaa"
@@ -73,7 +73,7 @@ ayats = [
   {
     "verse_number": 9,
     "english_text": "He is Lord of the East and West, and there is no god but He, therefore make him only as your guardian.",
-    "arabic_text": "رَّبُّ ٱلْمَشْرِقِ وَٱلْمَغْرِبِ لَآ اِلَـٰهَ اِلَّا هُوَ فَٱتَّخِذْهُ وَكِيلًۭا",
+    "arabic_text": "رَّبُّ الْمَشْرِقِ وَالْمَغْرِبِ لَآ اِلَـٰهَ اِلَّا هُوَ فَاتَّخِذْهُ وَكِيلًۭا",
     "urdu_text": "وه مشرق اور مغرب کا رب هے، اس کے سوا کوئی معبود نهیں، پس اسے هی اپنا کارساز بنا لو۔",
     "persian_text": "او پروردگار مشرق و مغرب است، هیچ معبودی جز او نیست، پس او را کارگزار خود قرار ده.",
     "transliteration": "Rabbul mashriqi wal maghribi laa ilaaha illaa huwa fattakhidh-hu wakeelaa"
@@ -81,7 +81,7 @@ ayats = [
   {
     "verse_number": 10,
     "english_text": "Have patience with whatever these people are saying and separate them nicely from you.",
-    "arabic_text": "وَٱصْبِرْ عَلَىٰ مَا يَقُولُونَ وَٱهْجُرْهُمْ هَجْرًۭا جَمِيلًۭا",
+    "arabic_text": "وَاصْبِرْ عَلَىٰ مَا يَقُولُونَ وَاهْجُرْهُمْ هَجْرًۭا جَمِيلًۭا",
     "urdu_text": "اور جو کچھ یه لوگ کهتے هیں اس پر صبر کرو اور ان سے اچھے طریقے سے الگ هو جاؤ۔",
     "persian_text": "و بر آنچه می‌گویند صبر کن و از آنان به نیکی دوری گزین.",
     "transliteration": "Wasbir 'alaa maa yaqooloona wahjurhum hajran jameelaa"
@@ -89,7 +89,7 @@ ayats = [
   {
     "verse_number": 11,
     "english_text": "And leave me to deal with those wealthy who reject and give them some respite.",
-    "arabic_text": "وَذَرْنِى وَٱلْمُكَذِّبِينَ اُو۟لِى ٱلنَّعْمَةِ وَمَهِّلْهُمْ قَلِيلًا",
+    "arabic_text": "وَذَرْنِى وَالْمُكَذِّبِينَ اُو۟لِى النَّعْمَةِ وَمَهِّلْهُمْ قَلِيلًا",
     "urdu_text": "اور مجھے چھوڑ دیجیے اور ان مالدار جھٹلانے والوں کو، اور انهیں تھوڑی مهلت دے دیجیے۔",
     "persian_text": "و مرا واگذار با آن تکذیب‌کنندگان صاحب نعمت، و به آنان مهلتی اندک بده.",
     "transliteration": "Wa zarnee wal-mukadhzhibeena ulin-na'mati wa mahhilhum qaleela"
@@ -113,7 +113,7 @@ ayats = [
   {
     "verse_number": 14,
     "english_text": "When the earth and the mountains will tremble and the mountains will become a heap of sand.",
-    "arabic_text": "يَوْمَ تَرْجُفُ ٱلْاَرْضُ وَٱلْجِبَالُ وَكَانَتِ ٱلْجِبَالُ كَثِيبًۭا مَّهِيلًا",
+    "arabic_text": "يَوْمَ تَرْجُفُ الْاَرْضُ وَالْجِبَالُ وَكَانَتِ الْجِبَالُ كَثِيبًۭا مَّهِيلًا",
     "urdu_text": "جس دن زمین اور پهاڑ کانپ اٹھیں گے اور پهاڑ ریت کے بکھرے هوئے ٹیلے بن جائیں گے۔",
     "persian_text": "روزی که زمین و کوه‌ها به لرزه درآیند و کوه‌ها تبدیل به تپه‌های ریگ پراکنده شوند.",
     "transliteration": "Yawma tarjuful-ardu wal-jibaalu wa kaanatil-jibaalu katheeban maheela"
@@ -129,7 +129,7 @@ ayats = [
   {
     "verse_number": 16,
     "english_text": "So Firaun disobeyed the prophet, so We took in him in Our clutches.",
-    "arabic_text": "فَعَصَىٰ فِرْعَوْنُ ٱلرَّسُولَ فَاَخَذْنَـٰهُ اَخْذًۭا وَبِيلًۭا",
+    "arabic_text": "فَعَصَىٰ فِرْعَوْنُ الرَّسُولَ فَاَخَذْنَـٰهُ اَخْذًۭا وَبِيلًۭا",
     "urdu_text": "پس فرعون نے رسول کی نافرمانی کی تو هم نے اسے سخت پکڑ میں پکڑ لیا۔",
     "persian_text": "پس فرعون از پیامبر نافرمانی کرد، آنگاه او را به گرفتاری سختی گرفتار ساختیم.",
     "transliteration": "Fa'asaa Fir'awnur-rasoola fa-akhaznaahu akhzan wabeela"
@@ -137,7 +137,7 @@ ayats = [
   {
     "verse_number": 17,
     "english_text": "Then if you also will disbelieve how will save yourself on the Day which will make children the aged ones.",
-    "arabic_text": "فَكَيْفَ تَتَّقُونَ اِن كَفَرْتُمْ يَوْمًۭا يَجْعَلُ ٱلْوِلْدَٰنَ شِيبًا",
+    "arabic_text": "فَكَيْفَ تَتَّقُونَ اِن كَفَرْتُمْ يَوْمًۭا يَجْعَلُ الْوِلْدَٰنَ شِيبًا",
     "urdu_text": "پھر اگر تم نے بھی کفر کیا تو اس دن سے کیسے بچو گے جو بچوں کو بوڑھا کر دے گا۔",
     "persian_text": "پس اگر کافر شوید، چگونه از آن روزی که کودکان را پیر می‌کند، خود را نگه خواهید داشت.",
     "transliteration": "Fakayfa tattaqoona in kafartum yawman yaj'alul-wildaana sheeba"
@@ -145,7 +145,7 @@ ayats = [
   {
     "verse_number": 18,
     "english_text": "That day the sky will rend and this promise after all is going to be fulfilled.",
-    "arabic_text": "ٱلسَّمَآءُ مُنفَطِرٌۢ بِهِۦ ۚ كَانَ وَعْدُهُۥ مَفْعُولًا",
+    "arabic_text": "السَّمَآءُ مُنفَطِرٌۢ بِهِ ۚ كَانَ وَعْدُهُ مَفْعُولًا",
     "urdu_text": "اس دن آسمان پھٹ جائے گا، یه وعده ضرور پورا هونے والا هے۔",
     "persian_text": "آسمان در آن روز شکافته خواهد شد، و این وعده قطعاً انجام‌پذیر است.",
     "transliteration": "As-samaaa'u munfatirum bih, kaana wa'duhu maf'oola"
@@ -153,7 +153,7 @@ ayats = [
   {
     "verse_number": 19,
     "english_text": "These in fact are the talk of lesson and admonition and whoever wishes may adopt the path of his Lord.",
-    "arabic_text": "اِنَّ هَـٰذِهِۦ تَذْكِرَةٌۭ ۖ فَمَن شَآءَ ٱتَّخَذَ اِلَىٰ رَبِّهِۦ سَبِيلًا",
+    "arabic_text": "اِنَّ هَـٰذِهِ تَذْكِرَةٌۭ ۖ فَمَن شَآءَ اتَّخَذَ اِلَىٰ رَبِّهِ سَبِيلًا",
     "urdu_text": "بیشک یه نصیحت هے، پس جو چاهے اپنے رب کی طرف راه اختیار کر لے۔",
     "persian_text": "همانا این یک یادآوری است، پس هر که بخواهد راهی به سوی پروردگارش برگزیند.",
     "transliteration": "Inna haazihee tazkira, faman shaaa'-ttakhaza ilaa Rabbihee sabeela"
@@ -161,7 +161,7 @@ ayats = [
   {
     "verse_number": 20,
     "english_text": "Your Lord knows that you stand nearly for two-third of night (sometime) half of it or (sometime) one-third of the night, along with you there is another group, and Allah keep the correct measure of the day and the night, and He knows that you people will not be able to do this correctly, so he showed beneficence on you, now read Quran as much as you can, He knows that shortly among you some will be sick; and some will go on travel to seek Allah's sustenance, and some will fight in the way of Allah, so recite as much as possible; establish prayer, give poor-rate, and give goodly loan (Qarz-e-Hasna) to Allah; and then whatever good you will send in advance for yourself you will find it present in the Presence of Allah, better and greater by the way of reward; and seek forgiveness from Allah, that He is most forgiving and merciful.",
-    "arabic_text": "۞ اِنَّ رَبَّكَ يَعْلَمُ اَنَّكَ تَقُومُ اَدْنَىٰ مِن ثُلُثَىِ ٱلَّيْلِ وَنِصْفَهُۥ وَثُلُثَهُۥ وَطَآئِفَةٌۭ مِّنَ ٱلَّذِينَ مَعَكَ ۚ وَٱللَّهُ يُقَدِّرُ ٱلَّيْلَ وَٱلنَّهَارَ ۚ عَلِمَ اَن لَّن تُحْصُوهُ فَتَابَ عَلَيْكُمْ ۖ فَٱقْرَءُواْ مَا تَيَسَّرَ مِنَ ٱلْقُرْءَانِ ۚ عَلِمَ اَن سَيَكُونُ مِنكُم مَّرْضَىٰ ۙ وَءَاخَرُونَ يَضْرِبُونَ فِى ٱلْاَرْضِ يَبْتَغُونَ مِن فَضْلِ ٱللَّهِ ۙ وَءَاخَرُونَ يُقَـٰتِلُونَ فِى سَبِيلِ ٱللَّهِ ۖ فَٱقْرَءُواْ مَا تَيَسَّرَ مِنْهُ ۚ وَاَقِيمُواْ ٱلصَّلَوٰةَ وَءَاتُواْ ٱلزَّكَوٰةَ وَاَقْرِضُواْ ٱللَّهَ قَرْضًا حَسَنًۭا ۚ وَمَا تُقَدِّمُواْ لِاَنفُسِكُم مِّنْ خَيْرٍۢ تَجِدُوهُ عِندَ ٱللَّهِ هُوَ خَيْرًۭا وَاَعْظَمَ اَجْرًۭا ۚ وَٱسْتَغْفِرُواْ ٱللَّهَ ۖ اِنَّ ٱللَّهَ غَفُورٌۭ رَّحِيمٌۢ",
+    "arabic_text": "۞ اِنَّ رَبَّكَ يَعْلَمُ اَنَّكَ تَقُومُ اَدْنَىٰ مِن ثُلُثَىِ الَّيْلِ وَنِصْفَهُ وَثُلُثَهُ وَطَآئِفَةٌۭ مِّنَ الَّذِينَ مَعَكَ ۚ وَاللَّهُ يُقَدِّرُ الَّيْلَ وَالنَّهَارَ ۚ عَلِمَ اَن لَّن تُحْصُوهُ فَتَابَ عَلَيْكُمْ ۖ فَاقْرَءُواْ مَا تَيَسَّرَ مِنَ الْقُرْءَانِ ۚ عَلِمَ اَن سَيَكُونُ مِنكُم مَّرْضَىٰ ۙ وَءَاخَرُونَ يَضْرِبُونَ فِى الْاَرْضِ يَبْتَغُونَ مِن فَضْلِ اللَّهِ ۙ وَءَاخَرُونَ يُقَـٰتِلُونَ فِى سَبِيلِ اللَّهِ ۖ فَاقْرَءُواْ مَا تَيَسَّرَ مِنْهُ ۚ وَاَقِيمُواْ الصَّلَوٰةَ وَءَاتُواْ الزَّكَوٰةَ وَاَقْرِضُواْ اللَّهَ قَرْضًا حَسَنًۭا ۚ وَ مَا تُقَدِّمُواْ لِاَنفُسِكُم مِّنْ خَيْرٍۢ تَجِدُوهُ عِندَ اللَّهِ هُوَ خَيْرًۭا وَاَعْظَمَ اَجْرًۭا ۚ وَاسْتَغْفِرُواْ اللَّهَ ۖ اِنَّ اللَّهَ غَفُورٌۭ رَّحِيمٌۢ",
     "urdu_text": "بیشک تمهارا رب جانتا هے که تم رات کے دو تهائی کے قریب، یا آدھی رات، یا ایک تهائی رات کھڑے رهتے هو، اور تمهارے ساتھیوں میں سے ایک جماعت بھی، اور الله رات اور دن کا اندازه رکھتا هے، اس نے جان لیا که تم اس کا صحیح حساب نهیں رکھ سکو گے، تو اس نے تم پر مهربانی فرمائی، پس قرآن میں سے جتنا آسان هو پڑھ لیا کرو، اس نے جان لیا که تم میں سے کچھ بیمار هوں گے، اور کچھ الله کے فضل کی تلاش میں زمین میں سفر کریں گے، اور کچھ الله کی راه میں جهاد کریں گے، پس اس میں سے جتنا آسان هو پڑھ لیا کرو، اور نماز قائم کرو، اور زکوٰۃ ادا کرو، اور الله کو اچھا قرض دو، اور جو نیکی تم اپنے لیے آگے بھیجو گے اسے الله کے پاس بهتر اور اجر میں بڑھا هوا پاؤ گے، اور الله سے بخشش مانگو، بیشک الله بخشنے والا مهربان هے۔",
     "persian_text": "همانا پروردگار تو می‌داند که تو نزدیک به دو سوم شب، یا نیمی از آن، یا یک سوم آن را به عبادت می‌ایستی، و گروهی از کسانی که با تو هستند نیز چنین می‌کنند، و الله شب و روز را اندازه‌گیری می‌کند، او دانست که شما نمی‌توانید آن را دقیق محاسبه کنید، پس بر شما توبه پذیرفت، پس از قرآن آنچه آسان است بخوانید، او دانست که به زودی برخی از شما بیمار خواهند شد، و برخی دیگر در زمین سفر می‌کنند تا از فضل الله بجویند، و برخی دیگر در راه الله جهاد می‌کنند، پس از آن آنچه آسان است بخوانید، و نماز را برپا دارید، و زکات را بپردازید، و به الله قرض نیکو دهید، و هر نیکی که برای خود پیش فرستید، آن را نزد الله بهتر و بزرگ‌تر از نظر پاداش خواهید یافت، و از الله آمرزش بخواهید، همانا الله آمرزنده مهربان است.",
     "transliteration": "Inna Rabbaka ya'lamu annaka taqoomu adnaa min thuluthayil-layli wa nisfahoo wa thuluthahoo wa taaa'ifatum minal-lazeena ma'ak, wallaahu yuqaddirul-layla wan-nahaar, 'alima al-lan tuhsoohu fataaba 'alaykum faqra'oo maa tayassara minal-Qur'aan, 'alima an sayakoonu minkum mardaa wa aakharoona yadriboona fil-ardi yabtaghoona min fadlillaahi wa aakharoona yuqaatiloona fee sabeelillaah, faqra'oo maa tayassara minh, wa aqeemus-salaata wa aatuz-zakaata wa aqridul-laaha qardan hasanaa, wa maa tuqaddimoo li-anfusikum min khayrin tajidoohu 'indallaahi huwa khayran wa a'zama ajraa, wastaghfirul-laah, innallaaha Ghafoorur-Raheem"

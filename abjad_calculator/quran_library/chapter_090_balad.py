@@ -57,7 +57,7 @@ ayats = [
     },
     {
         "verse_number": "8",
-        "arabic_text": "اَلَمْ نَجْعَل لَّهُۥ عَيْنَيْنِ",
+        "arabic_text": "اَلَمْ نَجْعَل لَّهُ عَيْنَيْنِ",
         "urdu_text": "کیا ہم نے اس کے لیے دو آنکھیں نہیں بنائیں؟",
         "persian_text": "آیا برای او دو چشم قرار ندادیم؟",
         "english_text": "Have We not made for him two eyes?",

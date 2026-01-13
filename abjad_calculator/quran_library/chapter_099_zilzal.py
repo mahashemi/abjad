@@ -49,7 +49,7 @@ ayats = [
     },
     {
         "verse_number": "7",
-        "arabic_text": "فَمَن يَّعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَّرَهُۥ",
+        "arabic_text": "فَمَن يَّعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَّرَهُ",
         "urdu_text": "تو جس نے ذرہ بھر نیکی کی ہوگی، وہ اسے دیکھ لے گا",
         "persian_text": "پس هر کس به اندازه ذره‌ای کار نیک انجام دهد، آن را خواهد دید،",
         "english_text": "So whoever does an atom's weight of good will see it.",
@@ -57,7 +57,7 @@ ayats = [
     },
     {
         "verse_number": "8",
-        "arabic_text": "وَ مَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ شَرًّا يَّرَهُۥ",
+        "arabic_text": "وَ مَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ شَرًّا يَّرَهُ",
         "urdu_text": "اور جس نے ذرہ بھر برائی کی ہوگی، وہ اسے دیکھ لے گا",
         "persian_text": "و هر کس به اندازه ذره‌ای کار بد انجام دهد، آن را خواهد دید.",
         "english_text": "And whoever does an atom's weight of evil will see it.",
