@@ -14,6 +14,8 @@ from ..quran_library import (
     chapter_009_tauba,
     chapter_010_yunus,
     chapter_011_hud,
+    chapter_012_yusuf,
+    chapter_013_raad,
     chapter_014_ibrahim,
     chapter_015_hijr,
     chapter_016_nahl,
@@ -128,6 +130,8 @@ surah_anfatitle = "سورة الأنفال - سورة 8 - عدد آياتها 75
 surah_tauba_title = "سورة التوبة - سورة 9 - عدد آياتها 129".strip()
 surah_yunus_title = "سورة يونس - سورة 10 - عدد آياتها 109".strip()
 surah_hud_title = "سورة هود - سورة 11 - عدد آياتها 123".strip()
+surah_yusuf_title = "سورة يوسف - سورة 12 - عدد آياتها 111".strip()
+surah_raad_title = "سورة الرعد - سورة 13 - عدد آياتها 43".strip()
 surah_ibrahim_title = "سورة ابراهيم - سورة 14 - عدد آياتها 52".strip()
 surah_hijr_title = "سورة الحجر - سورة 15 - عدد آياتها 99".strip()
 surah_nahl_title = "سورة النحل - سورة 16 - عدد آياتها 128".strip()
@@ -243,6 +247,8 @@ surahs = {
     surah_tauba_title: chapter_009_tauba.ayats,
     surah_yunus_title: chapter_010_yunus.ayats,
     surah_hud_title: chapter_011_hud.ayats,
+    surah_yusuf_title: chapter_012_yusuf.ayats,
+    surah_raad_title: chapter_013_raad.ayats,
     surah_ibrahim_title: chapter_014_ibrahim.ayats,
     surah_hijr_title: chapter_015_hijr.ayats,
     surah_nahl_title: chapter_016_nahl.ayats,
