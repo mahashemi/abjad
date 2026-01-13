@@ -10,7 +10,7 @@ ayats = [
     {
         "verse_number": "2",
         "arabic_text": "مَا الْقَارِعَةُ",
-        "urdu_text": "کیا ہے کھڑکھڑانے والی؟",
+        "urdu_text": "کیا هے کھڑکھڑانے والی؟",
         "persian_text": "کوبنده چیست؟",
         "english_text": "What is the Striking Calamity?",
         "transliteration": "Mā al-Qāriʿah",
@@ -18,7 +18,7 @@ ayats = [
     {
         "verse_number": "3",
         "arabic_text": "وَ مَآ اَدْرٰكَ مَا الْقَارِعَةُ",
-        "urdu_text": "اور تمہیں کیا معلوم کہ کھڑکھڑانے والی کیا ہے؟",
+        "urdu_text": "اور تمهیں کیا معلوم که کھڑکھڑانے والی کیا هے؟",
         "persian_text": "و تو چه می‌دانی که کوبنده چیست؟",
         "english_text": "And what can make you know what the Striking Calamity is?",
         "transliteration": "Wa mā adrāka mā al-Qāriʿah",
@@ -26,7 +26,7 @@ ayats = [
     {
         "verse_number": "4",
         "arabic_text": "يَوْمَ يَكُونُ النَّاسُ كَالْفَرَاشِ الْمَبْثُوثِ",
-        "urdu_text": "جس دن لوگ بکھرے ہوئے پروانوں کی طرح ہوں گے",
+        "urdu_text": "جس دن لوگ بکھرے هوئے پروانوں کی طرح هوں گے",
         "persian_text": "روزی که مردم مانند پروانه‌های پراکنده خواهند بود",
         "english_text": "It is the Day when people will be like scattered moths.",
         "transliteration": "Yawma yakūnu al-nāsu ka-al-farāshi al-mabthūth",
@@ -34,7 +34,7 @@ ayats = [
     {
         "verse_number": "5",
         "arabic_text": "وَ تَكُونُ الْجِبَالُ كَالْعِهْنِ الْمَنفُوشِ",
-        "urdu_text": "اور پہاڑ دھنکی ہوئی اون کی طرح ہوں گے",
+        "urdu_text": "اور پهاڑ دھنکی هوئی اون کی طرح هوں گے",
         "persian_text": "و کوه‌ها مانند پشم حلاجی‌شده خواهند شد",
         "english_text": "And the mountains will be like fluffed wool.",
         "transliteration": "Wa takūnu al-jibālu ka-al-ʿihni al-manfūsh",
@@ -42,7 +42,7 @@ ayats = [
     {
         "verse_number": "6",
         "arabic_text": "فَاَمَّا مَن ثَقُلَتْ مَوَازِينُهُۥ",
-        "urdu_text": "پھر جس کا پلڑا بھاری ہوا",
+        "urdu_text": "پھر جس کا پلڑا بھاری هوا",
         "persian_text": "پس هر که ترازوی اعمالش سنگین باشد",
         "english_text": "Then as for one whose scales are heavy [with good deeds],",
         "transliteration": "Fa-ammā man thaqulat mawāzīnuh",
@@ -50,7 +50,7 @@ ayats = [
     {
         "verse_number": "7",
         "arabic_text": "فَهُوَ فِى عِيشَةٍ رَّاضِيَةٍ",
-        "urdu_text": "تو وہ خوشحال زندگی میں ہوگا",
+        "urdu_text": "تو وه خوشحال زندگی میں هوگا",
         "persian_text": "او در زندگی پسندیده‌ای خواهد بود",
         "english_text": "He will be in a pleasant life.",
         "transliteration": "Fahuwa fī ʿīshatin rāḍiyah",
@@ -58,7 +58,7 @@ ayats = [
     {
         "verse_number": "8",
         "arabic_text": "وَ اَمَّا مَنْ خَفَّتْ مَوَازِينُهُۥ",
-        "urdu_text": "اور جس کا پلڑا ہلکا ہوا",
+        "urdu_text": "اور جس کا پلڑا هلکا هوا",
         "persian_text": "و اما کسی که ترازویش سبک باشد",
         "english_text": "But as for one whose scales are light,",
         "transliteration": "Wa ammā man khaffat mawāzīnuh",
@@ -66,7 +66,7 @@ ayats = [
     {
         "verse_number": "9",
         "arabic_text": "فَاُمُّهُۥ هَاوِيَةٌ",
-        "urdu_text": "تو اس کا ٹھکانہ گہرا گڑھا ہے",
+        "urdu_text": "تو اس کا ٹھکانه گهرا گڑھا هے",
         "persian_text": "پس جایگاه او هاویه (دوزخ) است",
         "english_text": "His refuge will be an abyss.",
         "transliteration": "Fa-ummuhu hawiyah",
@@ -74,7 +74,7 @@ ayats = [
     {
         "verse_number": "10",
         "arabic_text": "وَ مَآ اَدْرٰكَ مَا هِيَهْ",
-        "urdu_text": "اور تمہیں کیا معلوم وہ کیا ہے؟",
+        "urdu_text": "اور تمهیں کیا معلوم وه کیا هے؟",
         "persian_text": "و تو چه می‌دانی که آن چیست؟",
         "english_text": "And what can make you know what that is?",
         "transliteration": "Wa mā adrāka mā hiyah",
@@ -82,7 +82,7 @@ ayats = [
     {
         "verse_number": "11",
         "arabic_text": "نَارٌ  حَامِيَةٌ",
-        "urdu_text": "وہ دہکتی ہوئی آگ ہے",
+        "urdu_text": "وه دهکتی هوئی آگ هے",
         "persian_text": "آن آتشی سوزان است",
         "english_text": "It is a blazing Fire.",
         "transliteration": "Nārun ḥāmiyah",

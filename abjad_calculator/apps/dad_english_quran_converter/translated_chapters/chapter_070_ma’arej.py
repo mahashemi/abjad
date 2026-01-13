@@ -9,7 +9,7 @@ ayats = [
   {
     "verse_number": 1,
     "english_text": "A questioner asked for the chastisement which was to befall.",
-    "arabic_text": "سَأَلَ سَآئِلٌۢ بِعَذَابٍۢ وَاقِعٍۢ",
+    "arabic_text": "سَاَلَ سَآئِلٌۢ بِعَذَابٍۢ وَاقِعٍۢ",
     "urdu_text": "ایک سوال کرنے والے نے اس عذاب کے بارے میں پوچھا جو واقع ہونے والا ہے۔",
     "persian_text": "سؤال‌کننده‌ای درباره عذابی که قرار است واقع شود، پرسید.",
     "transliteration": "Sa'ala saa'ilum bi'adhaabinw waaqi'"
@@ -33,7 +33,7 @@ ayats = [
   {
     "verse_number": 4,
     "english_text": "Towards which angels and the Spirit ascend in a day whose measure is equal to fifty thousand years.",
-    "arabic_text": "تَعْرُجُ ٱلْمَلَـٰٓئِكَةُ وَٱلرُّوحُ إِلَيْهِ فِى يَوْمٍۢ كَانَ مِقْدَارُهُۥ خَمْسِينَ أَلْفَ سَنَةٍۢ",
+    "arabic_text": "تَعْرُجُ ٱلْمَلَـٰٓئِكَةُ وَٱلرُّوحُ إِلَيْهِ فِى يَوْمٍۢ كَانَ مِقْدَارُهُۥ خَمْسِينَ اَلْفَ سَنَةٍۢ",
     "urdu_text": "فرشتے اور روح اس کی طرف چڑھتے ہیں ایک ایسے دن میں جس کی مقدار پچاس ہزار سال کے برابر ہے۔",
     "persian_text": "فرشتگان و روح به سوی او صعود می‌کنند در روزی که مقدار آن پنجاه هزار سال است.",
     "transliteration": "Ta'rujul malaa'ikatu war roohu ilayhi fee yawmin kaana miqdaaruhoo khamseena alfa sanah"
@@ -97,7 +97,7 @@ ayats = [
   {
     "verse_number": 12,
     "english_text": "And to wife and brother.",
-    "arabic_text": "وَصَـٰحِبَتِهِۦ وَأَخِيهِ",
+    "arabic_text": "وَصَـٰحِبَتِهِۦ وَاَخِيهِ",
     "urdu_text": "اور اپنی بیوی اور اپنے بھائی کو۔",
     "persian_text": "و همسر و برادرش را.",
     "transliteration": "Wa saahibatihee wa akheeh"
@@ -113,7 +113,7 @@ ayats = [
   {
     "verse_number": 14,
     "english_text": "And to all creatures of the earth and he be given deliverance.",
-    "arabic_text": "وَمَن فِى ٱلْأَرْضِ جَمِيعًۭا ثُمَّ يُنجِيهِ",
+    "arabic_text": "وَمَن فِى ٱلْاَرْضِ جَمِيعًۭا ثُمَّ يُنجِيهِ",
     "urdu_text": "اور زمین میں جو بھی ہیں سب کو، پھر وہ نجات پا جائے۔",
     "persian_text": "و همه کسانی را که در زمین هستند، تا شاید نجات یابد.",
     "transliteration": "Wa man fil-ardi jamee'an thumma yunjeeh"
@@ -137,7 +137,7 @@ ayats = [
   {
     "verse_number": 17,
     "english_text": "Calling to all of them, who were going turning away their faces.",
-    "arabic_text": "تَدْعُوا۟ مَنْ أَدْبَرَ وَتَوَلَّىٰ",
+    "arabic_text": "تَدْعُواْ مَنْ اَدْبَرَ وَتَوَلَّىٰ",
     "urdu_text": "وہ ان سب کو پکارے گی جنہوں نے پیٹھ پھیری اور منہ موڑ لیا۔",
     "persian_text": "کسانی را که روی گردانده و پشت کرده‌اند، فرا می‌خواند.",
     "transliteration": "Tad'oo man adbara wa tawallaa"
@@ -145,7 +145,7 @@ ayats = [
   {
     "verse_number": 18,
     "english_text": "Who had kept close the wealth after amassing it.",
-    "arabic_text": "وَجَمَعَ فَأَوْعَىٰٓ",
+    "arabic_text": "وَجَمَعَ فَاَوْعَىٰٓ",
     "urdu_text": "جنہوں نے مال جمع کیا اور اسے سمیٹ کر رکھا۔",
     "persian_text": "کسانی که مال جمع کردند و آن را انباشتند.",
     "transliteration": "Wa jama'a fa-aw'aa"
@@ -193,7 +193,7 @@ ayats = [
   {
     "verse_number": 24,
     "english_text": "And in the wealth of those a portion is fixed.",
-    "arabic_text": "وَٱلَّذِينَ فِىٓ أَمْوَٰلِهِمْ حَقٌّۭ مَّعْلُومٌۭ",
+    "arabic_text": "وَٱلَّذِينَ فِىٓ اَمْوَٰلِهِمْ حَقٌّۭ مَّعْلُومٌۭ",
     "urdu_text": "اور جن کے مال میں ایک مقررہ حق ہے۔",
     "persian_text": "و کسانی که در اموالشان حق معینی است.",
     "transliteration": "Wallazeena fee amwaalihim haqqum ma'loom"
@@ -241,7 +241,7 @@ ayats = [
   {
     "verse_number": 30,
     "english_text": "Except their wives and slave girls, that they are not to be blamed for this.",
-    "arabic_text": "إِلَّا عَلَىٰٓ أَزْوَٰجِهِمْ أَوْ مَا مَلَكَتْ أَيْمَـٰنُهُمْ فَإِنَّهُمْ غَيْرُ مَلُومِينَ",
+    "arabic_text": "إِلَّا عَلَىٰٓ اَزْوَٰجِهِمْ اَوْ مَا مَلَكَتْ اَيْمَـٰنُهُمْ فَإِنَّهُمْ غَيْرُ مَلُومِينَ",
     "urdu_text": "سوائے اپنی بیویوں یا لونڈیوں کے، کیونکہ اس میں وہ قابلِ ملامت نہیں۔",
     "persian_text": "مگر با همسران یا کنیزانشان، که در این مورد ملامت نمی‌شوند.",
     "transliteration": "Illaa 'alaaa azwaajihim aw maa malakat aymaanuhum fa innahum ghayru maloomeen"
@@ -257,7 +257,7 @@ ayats = [
   {
     "verse_number": 32,
     "english_text": "And those who respect for their trust and covenants.",
-    "arabic_text": "وَٱلَّذِينَ هُمْ لِأَمَـٰنَـٰتِهِمْ وَعَهْدِهِمْ رَٰعُونَ",
+    "arabic_text": "وَٱلَّذِينَ هُمْ لِاَمَـٰنَـٰتِهِمْ وَعَهْدِهِمْ رَٰعُونَ",
     "urdu_text": "اور وہ لوگ جو اپنی امانتوں اور اپنے عہد کی رعایت کرتے ہیں۔",
     "persian_text": "و کسانی که امانت‌ها و پیمان‌های خود را رعایت می‌کنند.",
     "transliteration": "Wa-lladhīna hum li-amānātihim wa 'ahdihim rā'ūn"
@@ -289,7 +289,7 @@ ayats = [
   {
     "verse_number": 36,
     "english_text": "Then what has happened to these infidels who are rushing towards you.",
-    "arabic_text": "فَمَالِ ٱلَّذِينَ كَفَرُوا۟ قِبَلَكَ مُهْطِعِينَ",
+    "arabic_text": "فَمَالِ ٱلَّذِينَ كَفَرُواْ قِبَلَكَ مُهْطِعِينَ",
     "urdu_text": "پھر ان کافروں کو کیا ہو گیا ہے کہ وہ تیری طرف دوڑے چلے آ رہے ہیں۔",
     "persian_text": "پس کافران را چه شده که به سوی تو شتابان می‌آیند.",
     "transliteration": "Fa-māli-lladhīna kafarū qibalaka muhṭi'īn"
@@ -305,7 +305,7 @@ ayats = [
   {
     "verse_number": 38,
     "english_text": "Does everyone among them desire that they be entered into Paradise of bliss.",
-    "arabic_text": "أَيَطْمَعُ كُلُّ ٱمْرِئٍۢ مِّنْهُمْ أَن يُدْخَلَ جَنَّةَ نَعِيمٍۢ",
+    "arabic_text": "اَيَطْمَعُ كُلُّ ٱمْرِئٍۢ مِّنْهُمْ اَن يُدْخَلَ جَنَّةَ نَعِيمٍۢ",
     "urdu_text": "کیا ان میں سے ہر شخص یہ امید رکھتا ہے کہ وہ نعمتوں والی جنت میں داخل کیا جائے گا؟",
     "persian_text": "آیا هر یک از آنان طمع دارد که به بهشت پرنعمت داخل شود؟",
     "transliteration": "A-yaṭma'u kullu-mri'im-minhum an yudkhala jannata na'īm"
@@ -329,7 +329,7 @@ ayats = [
   {
     "verse_number": 41,
     "english_text": "On the matter that We substitute them with better people and we are not incapable.",
-    "arabic_text": "عَلَىٰٓ أَن نُّبَدِّلَ خَيْرًۭا مِّنْهُمْ وَمَا نَحْنُ بِمَسْبُوقِينَ",
+    "arabic_text": "عَلَىٰٓ اَن نُّبَدِّلَ خَيْرًۭا مِّنْهُمْ وَمَا نَحْنُ بِمَسْبُوقِينَ",
     "urdu_text": "اس بات پر کہ ہم ان کی جگہ ان سے بہتر لوگوں کو لے آئیں اور ہم اس سے عاجز نہیں ہیں۔",
     "persian_text": "بر این که جای آنان را به بهتر از آنان بدل کنیم و ما ناتوان نیستیم.",
     "transliteration": "'Alaa an nubaddila khayram minhum wa maa nahnu bimasbooqeen"
@@ -337,7 +337,7 @@ ayats = [
   {
     "verse_number": 42,
     "english_text": "Therefore, leave them alone, let them be immersed in their falsehood, and let them play until they meet the Day which has been promised.",
-    "arabic_text": "فَذَرْهُمْ يَخُوضُوا۟ وَيَلْعَبُوا۟ حَتَّىٰ يُلَـٰقُوا۟ يَوْمَهُمُ ٱلَّذِى يُوعَدُونَ",
+    "arabic_text": "فَذَرْهُمْ يَخُوضُواْ وَيَلْعَبُواْ حَتَّىٰ يُلَـٰقُواْ يَوْمَهُمُ ٱلَّذِى يُوعَدُونَ",
     "urdu_text": "پس انہیں چھوڑ دو کہ وہ اپنی باطل باتوں میں پڑے رہیں اور کھیلتے رہیں یہاں تک کہ وہ اپنے اس دن سے ملاقات کریں جس کا ان سے وعدہ کیا جا رہا ہے۔",
     "persian_text": "پس آنان را واگذار تا در باطل خود فرو روند و بازی کنند تا روزی را که به آنان وعده داده شده ملاقات کنند.",
     "transliteration": "Fatharhum yakhoodu wa yal'aboo hattaa yulaaqoo yawmahumul ladhee yoo'adoon"
@@ -345,7 +345,7 @@ ayats = [
   {
     "verse_number": 43,
     "english_text": "The day when they will hastily come out of the graves, as if they are rushing towards any flag.",
-    "arabic_text": "يَوْمَ يَخْرُجُونَ مِنَ ٱلْأَجْدَاثِ سِرَاعًۭا كَأَنَّهُمْ إِلَىٰ نُصُبٍۢ يُوفِضُونَ",
+    "arabic_text": "يَوْمَ يَخْرُجُونَ مِنَ ٱلْاَجْدَاثِ سِرَاعًۭا كَاَنَّهُمْ إِلَىٰ نُصُبٍۢ يُوفِضُونَ",
     "urdu_text": "جس دن وہ قبروں سے تیزی سے نکلیں گے گویا کہ وہ کسی نشان کی طرف دوڑے چلے جا رہے ہیں۔",
     "persian_text": "روزی که از گورها به سرعت بیرون می‌آیند، گویی به سوی نشانه‌ای می‌شتابند.",
     "transliteration": "Yawma yakhrujoona minal ajdaathi siraa'an ka annahum ilaa nusubin yoofidoon"
@@ -353,7 +353,7 @@ ayats = [
   {
     "verse_number": 44,
     "english_text": "Their eyes will be downcast, and disgrace will have covered them; this will be the Day which has been promised to them.",
-    "arabic_text": "خَـٰشِعَةً أَبْصَـٰرُهُمْ تَرْهَقُهُمْ ذِلَّةٌۭ ۚ ذَٰلِكَ ٱلْيَوْمُ ٱلَّذِى كَانُوا۟ يُوعَدُونَ",
+    "arabic_text": "خَـٰشِعَةً اَبْصَـٰرُهُمْ تَرْهَقُهُمْ ذِلَّةٌۭ ۚ ذَٰلِكَ ٱلْيَوْمُ ٱلَّذِى كَانُواْ يُوعَدُونَ",
     "urdu_text": "ان کی نگاہیں جھکی ہوئی ہوں گی، ذلت انہیں ڈھانپ لے گی، یہ وہی دن ہے جس کا ان سے وعدہ کیا جاتا تھا۔",
     "persian_text": "چشمانشان فروتن است و خواری آنان را فرا می‌گیرد، این همان روزی است که به آنان وعده داده می‌شد.",
     "transliteration": "Khaashi'atan absaaruhum tarhaquhum thillah, thalikal yawmul ladhee kaanoo yoo'adoon"

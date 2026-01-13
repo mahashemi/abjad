@@ -267,7 +267,7 @@ ayats = [
         "verse_number": "34",
         "arabic_text": "وَ لِكُلِّ اُمَّةٍ اَجَلٌ فَاِذَا جَآءَ اَجَلُهُمْ لَا يَسْتَاخِرُوْنَ سَاعَةً وَّ لَا يَسْتَقْدِمُوْنَ",
         "urdu_text": "اور ہر امت کے لیے ایک وقت مقرر ہے، پھر جب ان کا وہ وقت آجاتا ہے تو نہ ایک گھڑی پیچھے ہٹ سکتے ہیں اور نہ آگے بڑھ سکتے ہیں۔",
-        "persian_text": "برای هر امتی زمانی معین است، پس هنگامی که زمانشان فرا رسد، نه ساعتی تأخیر می‌کنند و نه پیشی می‌گیرند.",
+        "persian_text": "برای هر امتی زمانی معین است، پس هنگامی که زمانشان فرا رسد، نه ساعتی تاخیر می‌کنند و نه پیشی می‌گیرند.",
         "english_text": "And for every nation is a specified term. So when their time has come, they will not remain behind an hour, nor will they precede it.",
         "transliteration": "Wa likulli ummatin ajalun fa-itha jaa a ajaluhum la yasta'khiruna sa'atan wa la yastaqdimoona",
     },

@@ -9,7 +9,7 @@ ayats = [
   {
     "verse_number": 1,
     "english_text": "Verily, was there also a time on man when he was not anything worth mentioning?",
-    "arabic_text": "هَلْ أَتَىٰ عَلَى ٱلْإِنسَـٰنِ حِينٌۭ مِّنَ ٱلدَّهْرِ لَمْ يَكُن شَيْـًۭٔا مَّذْكُورًا",
+    "arabic_text": "هَلْ اَتَىٰ عَلَى ٱلْإِنسَـٰنِ حِينٌۭ مِّنَ ٱلدَّهْرِ لَمْ يَكُن شَيْـًۭٔا مَّذْكُورًا",
     "urdu_text": "کیا انسان پر زمانے میں ایک ایسا وقت بھی آیا ہے جب وہ کوئی قابلِ ذکر چیز نہیں تھا؟",
     "persian_text": "آیا زمانی بر انسان گذشت که چیز قابل ذکری نبود؟",
     "transliteration": "Hal ataa 'alal-insaani heenun minad-dahri lam yakun shay'am madhkooraa"
@@ -17,7 +17,7 @@ ayats = [
   {
     "verse_number": 2,
     "english_text": "Verily, we have created man from the mixed sperm so that We test him, then we give him hearing and seeing power.",
-    "arabic_text": "إِنَّا خَلَقْنَا ٱلْإِنسَـٰنَ مِن نُّطْفَةٍ أَمْشَاجٍۢ نَّبْتَلِيهِ فَجَعَلْنَـٰهُ سَمِيعًۢا بَصِيرًا",
+    "arabic_text": "إِنَّا خَلَقْنَا ٱلْإِنسَـٰنَ مِن نُّطْفَةٍ اَمْشَاجٍۢ نَّبْتَلِيهِ فَجَعَلْنَـٰهُ سَمِيعًۢا بَصِيرًا",
     "urdu_text": "بیشک ہم نے انسان کو مخلوط نطفے سے پیدا کیا تاکہ ہم اس کا امتحان لیں، پھر ہم نے اسے سننے اور دیکھنے والا بنایا۔",
     "persian_text": "ما انسان را از نطفه‌ای آمیخته آفریدیم تا او را بیازماییم، پس او را شنوا و بینا قرار دادیم.",
     "transliteration": "Innaa khalaqnal-insaana min nutfatin amshaajin nabtaleehi faja'alnaahu samee'am baseeraa"
@@ -33,7 +33,7 @@ ayats = [
   {
     "verse_number": 4,
     "english_text": "Verily, for the infidels We have arranged chains, shackles and flaming fire.",
-    "arabic_text": "إِنَّآ أَعْتَدْنَا لِلْكَـٰفِرِينَ سَلَـٰسِلَا۟ وَأَغْلَـٰلًۭا وَسَعِيرًا",
+    "arabic_text": "إِنَّآ اَعْتَدْنَا لِلْكَـٰفِرِينَ سَلَـٰسِلَاْ وَاَغْلَـٰلًۭا وَسَعِيرًا",
     "urdu_text": "بیشک ہم نے کافروں کے لیے زنجیریں، طوق اور بھڑکتی ہوئی آگ تیار کر رکھی ہے۔",
     "persian_text": "ما برای کافران زنجیرها و غل‌ها و آتش سوزان آماده کرده‌ایم.",
     "transliteration": "Innaaa a'tadnaa lilkaafireena salaasila wa aghlaalan wa sa'eeraa"
@@ -41,7 +41,7 @@ ayats = [
   {
     "verse_number": 5,
     "english_text": "Verily, Our righteous servants will drink from the vessel the mixture of which will be camphor.",
-    "arabic_text": "إِنَّ ٱلْأَبْرَارَ يَشْرَبُونَ مِن كَأْسٍۢ كَانَ مِزَاجُهَا كَافُورًا",
+    "arabic_text": "إِنَّ ٱلْاَبْرَارَ يَشْرَبُونَ مِن كَأْسٍۢ كَانَ مِزَاجُهَا كَافُورًا",
     "urdu_text": "بیشک نیک لوگ ایسے پیالے سے پئیں گے جس کی آمیزش کافور ہوگی۔",
     "persian_text": "نیکوکاران از جامی می‌نوشند که آمیزه‌اش کافور است.",
     "transliteration": "Innal-abraara yashraboona min ka'sin kaana mizaajuhaa kaafooraa"
@@ -65,7 +65,7 @@ ayats = [
   {
     "verse_number": 8,
     "english_text": "They feed the poor, orphan and captive in His love.",
-    "arabic_text": "وَيُطْعِمُونَ ٱلطَّعَامَ عَلَىٰ حُبِّهِۦ مِسْكِينًۭا وَيَتِيمًۭا وَأَسِيرًا",
+    "arabic_text": "وَيُطْعِمُونَ ٱلطَّعَامَ عَلَىٰ حُبِّهِۦ مِسْكِينًۭا وَيَتِيمًۭا وَاَسِيرًا",
     "urdu_text": "اور وہ اللہ کی محبت میں مسکین، یتیم اور قیدی کو کھانا کھلاتے ہیں۔",
     "persian_text": "و از روی محبت خدا، مسکین و یتیم و اسیر را طعام می‌دهند.",
     "transliteration": "Wa yut'imoonat-ta'aama 'alaa hubbihi miskeenan wa yateeman wa aseeraa"
@@ -97,7 +97,7 @@ ayats = [
   {
     "verse_number": 12,
     "english_text": "In reward to their patience [He] will bestow upon them Paradise and silk of Paradise.",
-    "arabic_text": "وَجَزَىٰهُم بِمَا صَبَرُوا۟ جَنَّةًۭ وَحَرِيرًۭا",
+    "arabic_text": "وَجَزَىٰهُم بِمَا صَبَرُواْ جَنَّةًۭ وَحَرِيرًۭا",
     "urdu_text": "اور ان کے صبر کے بدلے انہیں جنت اور ریشم عطا فرمایا۔",
     "persian_text": "و به پاداش صبرشان، بهشت و لباس‌های ابریشمین به آنان ارزانی داشت.",
     "transliteration": "Wa jazaahum bimaa sabaroo jannatan wa hareeran"
@@ -105,7 +105,7 @@ ayats = [
   {
     "verse_number": 13,
     "english_text": "Where they will be reclining with cushions on the thrones, will not see the heat of the sun or the cold.",
-    "arabic_text": "مُّتَّكِـِٔينَ فِيهَا عَلَى ٱلْأَرَآئِكِ ۖ لَا يَرَوْنَ فِيهَا شَمْسًۭا وَلَا زَمْهَرِيرًۭا",
+    "arabic_text": "مُّتَّكِـِٔينَ فِيهَا عَلَى ٱلْاَرَآئِكِ ۖ لَا يَرَوْنَ فِيهَا شَمْسًۭا وَلَا زَمْهَرِيرًۭا",
     "urdu_text": "وہاں وہ تختوں پر تکیے لگائے بیٹھے ہوں گے، نہ انہیں دھوپ کی تپش نظر آئے گی اور نہ سردی۔",
     "persian_text": "در حالی که بر تخت‌ها تکیه زده‌اند، نه آفتاب سوزان می‌بینند و نه سرمای شدید.",
     "transliteration": "Muttaki'eena feeha 'alal araaa'ik, laa yarawna feeha shamsan wa laa zamhareeran"
@@ -121,7 +121,7 @@ ayats = [
   {
     "verse_number": 15,
     "english_text": "And silver vessels and goblets of glass will circle around them.",
-    "arabic_text": "وَيُطَافُ عَلَيْهِم بِـَٔانِيَةٍۢ مِّن فِضَّةٍۢ وَأَكْوَابٍۢ كَانَتْ قَوَارِيرَا۠",
+    "arabic_text": "وَيُطَافُ عَلَيْهِم بِـَٔانِيَةٍۢ مِّن فِضَّةٍۢ وَاَكْوَابٍۢ كَانَتْ قَوَارِيرَا۠",
     "urdu_text": "اور ان کے گرد چاندی کے برتن اور شیشے کے پیالے گھومائے جائیں گے۔",
     "persian_text": "و ظروف نقره‌ای و جام‌های بلورین بر گرد آنان گردانده می‌شود.",
     "transliteration": "Wa yutaafu 'alayhim bi aaniyatim min fiddatiw wa akwaabin kaanat qawaareeran"
@@ -129,7 +129,7 @@ ayats = [
   {
     "verse_number": 16,
     "english_text": "These goblets will also be made of silver, which these people will make according to their scale.",
-    "arabic_text": "قَوَارِيرَا۟ مِن فِضَّةٍۢ قَدَّرُوهَا تَقْدِيرًۭا",
+    "arabic_text": "قَوَارِيرَاْ مِن فِضَّةٍۢ قَدَّرُوهَا تَقْدِيرًۭا",
     "urdu_text": "چاندی کے شیشے جن کو انہوں نے اپنی مرضی کے مطابق ناپ کر بنایا ہوگا۔",
     "persian_text": "بلورهایی از نقره که آنها را به اندازه دلخواه خود تنظیم کرده‌اند.",
     "transliteration": "Qawaareeera min fiddatin qaddaroohaa taqdeeran"
@@ -153,7 +153,7 @@ ayats = [
   {
     "verse_number": 19,
     "english_text": "And around them will be youth whose age will never alter that when you will see they will seem like scattered pearls.",
-    "arabic_text": "۞ وَيَطُوفُ عَلَيْهِمْ وِلْدَٰنٌۭ مُّخَلَّدُونَ إِذَا رَأَيْتَهُمْ حَسِبْتَهُمْ لُؤْلُؤًۭا مَّنثُورًۭا",
+    "arabic_text": "۞ وَيَطُوفُ عَلَيْهِمْ وِلْدَٰنٌۭ مُّخَلَّدُونَ إِذَا رَاَيْتَهُمْ حَسِبْتَهُمْ لُؤْلُؤًۭا مَّنثُورًۭا",
     "urdu_text": "اور ان کے گرد ہمیشہ جوان رہنے والے لڑکے پھریں گے، جب تم انہیں دیکھو گے تو انہیں بکھرے ہوئے موتی سمجھو گے۔",
     "persian_text": "و نوجوانان جاودانه‌ای بر گرد آنان می‌گردند که چون آنها را ببینی، مانند مروارید پراکنده به نظر می‌رسند.",
     "transliteration": "Wa yatoofu 'alayhim wildaanum mukhalladoon, izaa ra'aytahum hasibtahum lu'lu'am mansooraa"
@@ -161,7 +161,7 @@ ayats = [
   {
     "verse_number": 20,
     "english_text": "And when you will see again you will see blessings and vast kingdom.",
-    "arabic_text": "وَإِذَا رَأَيْتَ ثَمَّ رَأَيْتَ نَعِيمًۭا وَمُلْكًۭا كَبِيرًا",
+    "arabic_text": "وَإِذَا رَاَيْتَ ثَمَّ رَاَيْتَ نَعِيمًۭا وَمُلْكًۭا كَبِيرًا",
     "urdu_text": "اور جب تم وہاں نظر ڈالو گے تو نعمتیں اور بڑی بادشاہی دیکھو گے۔",
     "persian_text": "و هنگامی که در آنجا نگاه کنی، نعمت‌ها و حکومتی بزرگ خواهی دید.",
     "transliteration": "Wa izaa ra'ayta thamma ra'ayta na'eeman wa mulkan kabeeran"
@@ -169,7 +169,7 @@ ayats = [
   {
     "verse_number": 21,
     "english_text": "They will be clothed with green crape cloth and silk gowns they will wear silver bracelets and their Lord will satiate them with the purest drink.",
-    "arabic_text": "عَـٰلِيَهُمْ ثِيَابُ سُندُسٍ خُضْرٌۭ وَإِسْتَبْرَقٌۭ ۖ وَحُلُّوٓا۟ أَسَاوِرَ مِن فِضَّةٍۢ وَسَقَىٰهُمْ رَبُّهُمْ شَرَابًۭا طَهُورًا",
+    "arabic_text": "عَـٰلِيَهُمْ ثِيَابُ سُندُسٍ خُضْرٌۭ وَإِسْتَبْرَقٌۭ ۖ وَحُلُّوٓاْ اَسَاوِرَ مِن فِضَّةٍۢ وَسَقَىٰهُمْ رَبُّهُمْ شَرَابًۭا طَهُورًا",
     "urdu_text": "ان پر سبز ریشم اور موٹے ریشم کے کپڑے ہوں گے، اور انہیں چاندی کے کنگن پہنائے جائیں گے، اور ان کا رب انہیں پاکیزہ شراب پلائے گا۔",
     "persian_text": "بر تن آنان جامه‌های سبز از حریر نازک و دیبای ضخیم خواهد بود، و دستبندهای نقره بر آنان خواهند بست، و پروردگارشان شرابی پاک به ایشان خواهد نوشانید.",
     "transliteration": "'Aaliyahum thiyaabu sundusinw khudrunw wa istabraq, wa hullooo asaawira min fiddatinw wa saqaahum Rabbuhum sharaaban tahooraa"
@@ -193,7 +193,7 @@ ayats = [
   {
     "verse_number": 24,
     "english_text": "Therefore, due to the command of Allah, be patient, and do not come under the impression of any sinner or infidel.",
-    "arabic_text": "فَٱصْبِرْ لِحُكْمِ رَبِّكَ وَلَا تُطِعْ مِنْهُمْ ءَاثِمًا أَوْ كَفُورًۭا",
+    "arabic_text": "فَٱصْبِرْ لِحُكْمِ رَبِّكَ وَلَا تُطِعْ مِنْهُمْ ءَاثِمًا اَوْ كَفُورًۭا",
     "urdu_text": "پس اپنے رب کے حکم پر صبر کرو اور ان میں سے کسی گنہگار یا کافر کی اطاعت نہ کرو۔",
     "persian_text": "پس در برابر فرمان پروردگارت شکیبا باش و از میان آنان از هیچ گناهکار یا کافری اطاعت مکن.",
     "transliteration": "Fasbir lihukmi Rabbika wa laa tuti' minhum aasiman aw kafooraa"
@@ -201,7 +201,7 @@ ayats = [
   {
     "verse_number": 25,
     "english_text": "And glorify the Name of your Lord morning and evening.",
-    "arabic_text": "وَٱذْكُرِ ٱسْمَ رَبِّكَ بُكْرَةًۭ وَأَصِيلًۭا",
+    "arabic_text": "وَٱذْكُرِ ٱسْمَ رَبِّكَ بُكْرَةًۭ وَاَصِيلًۭا",
     "urdu_text": "اور اپنے رب کے نام کا ذکر صبح و شام کرو۔",
     "persian_text": "و نام پروردگارت را صبح و شام یاد کن.",
     "transliteration": "Wazkurisma Rabbika bukratanw wa aseelaa"
@@ -225,7 +225,7 @@ ayats = [
   {
     "verse_number": 28,
     "english_text": "We have created them and made their body parts strong, whenever We please, We will change them and bring other people like them.",
-    "arabic_text": "نَّحْنُ خَلَقْنَـٰهُمْ وَشَدَدْنَآ أَسْرَهُمْ ۖ وَإِذَا شِئْنَا بَدَّلْنَآ أَمْثَـٰلَهُمْ تَبْدِيلًا",
+    "arabic_text": "نَّحْنُ خَلَقْنَـٰهُمْ وَشَدَدْنَآ اَسْرَهُمْ ۖ وَإِذَا شِئْنَا بَدَّلْنَآ اَمْثَـٰلَهُمْ تَبْدِيلًا",
     "urdu_text": "ہم نے انہیں پیدا کیا اور ان کے جوڑوں کو مضبوط بنایا، اور جب ہم چاہیں ان کی جگہ ان جیسے دوسرے لوگ لا سکتے ہیں۔",
     "persian_text": "ما آنان را آفریدیم و پیوندهای بدنشان را محکم ساختیم، و هرگاه بخواهیم همانندان آنان را جایگزین می‌کنیم.",
     "transliteration": "Nahnu khalaqnaahum wa shadadnaaa asrahum wa izaa shi'naa baddalnaa amsaalahum tabdeelaa"
@@ -241,7 +241,7 @@ ayats = [
   {
     "verse_number": 30,
     "english_text": "And you only wish with which Lord pleases, Verily, Allah is Knower of everything and Wise.",
-    "arabic_text": "وَمَا تَشَآءُونَ إِلَّآ أَن يَشَآءَ ٱللَّهُ ۚ إِنَّ ٱللَّهَ كَانَ عَلِيمًا حَكِيمًۭا",
+    "arabic_text": "وَمَا تَشَآءُونَ إِلَّآ اَن يَشَآءَ ٱللَّهُ ۚ إِنَّ ٱللَّهَ كَانَ عَلِيمًا حَكِيمًۭا",
     "urdu_text": "اور تم نہیں چاہتے مگر یہ کہ اللہ چاہے، بیشک اللہ جاننے والا حکمت والا ہے۔",
     "persian_text": "و شما نمی‌خواهید مگر آنکه خدا بخواهد، به راستی خداوند دانای حکیم است.",
     "transliteration": "Wa maa tashaaa'oona illaaa any yashaaa'Allaah, innAllaaha kaana 'Aleeman Hakeemaa"
@@ -249,7 +249,7 @@ ayats = [
   {
     "verse_number": 31,
     "english_text": "To whoever he please enters into His mercy, and He has prepared the painful punishment for the tyrants.",
-    "arabic_text": "يُدْخِلُ مَن يَشَآءُ فِى رَحْمَتِهِۦ ۚ وَٱلظَّـٰلِمِينَ أَعَدَّ لَهُمْ عَذَابًا أَلِيمًۢا",
+    "arabic_text": "يُدْخِلُ مَن يَشَآءُ فِى رَحْمَتِهِۦ ۚ وَٱلظَّـٰلِمِينَ اَعَدَّ لَهُمْ عَذَابًا اَلِيمًۢا",
     "urdu_text": "وہ جسے چاہتا ہے اپنی رحمت میں داخل کرتا ہے، اور ظالموں کے لیے اس نے دردناک عذاب تیار کر رکھا ہے۔",
     "persian_text": "هر که را بخواهد در رحمت خود داخل می‌کند، و برای ستمگران عذابی دردناک آماده کرده است.",
     "transliteration": "Yudkhilu man yashaa'u fee rahmatihi, wadh-dhaalimeena a'adda lahum 'adhaaban aleema"

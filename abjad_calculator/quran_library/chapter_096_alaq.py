@@ -17,7 +17,7 @@ ayats = [
     },
     {
         "arabic_text": "اقْرَاْ وَ رَبُّكَ الْاَكْرَمُ",
-        "urdu_text": "پڑھو اور تمہارا رب سب سے زیادہ کریم ہے",
+        "urdu_text": "پڑھو اور تمهارا رب سب سے زیاده کریم هے",
         "persian_text": "بخوان و پروردگارت بزرگوارترین است.",
         "english_text": "Read, and your Lord is the Most Generous.",
         "transliteration": "Iqra' wa rabbuka al-akram.",
@@ -33,7 +33,7 @@ ayats = [
     },
     {
         "arabic_text": "عَلَّمَ الْاِِنسَانَ مَا لَمْ يَعْلَمْ",
-        "urdu_text": "انسان کو وہ کچھ سکھایا جو وہ نہیں جانتا تھا",
+        "urdu_text": "انسان کو وه کچھ سکھایا جو وه نهیں جانتا تھا",
         "persian_text": "به انسان آموخت آنچه را که نمی‌دانست.",
         "english_text": "Taught man what he did not know.",
         "transliteration": "Allama al-insana ma lam ya'lam.",
@@ -41,7 +41,7 @@ ayats = [
     },
     {
         "arabic_text": "كَلَّآ اِنَّ الْاِِنسَانَ لَيَطْغٰٓى",
-        "urdu_text": "یقیناً انسان سرکشی کرتا ہے",
+        "urdu_text": "یقیناً انسان سرکشی کرتا هے",
         "persian_text": "به یقین، انسان سرکشی می‌کند.",
         "english_text": "No! But indeed, man transgresses.",
         "transliteration": "Kalla inna al-insana layatgha.",
@@ -49,7 +49,7 @@ ayats = [
     },
     {
         "arabic_text": "اَن رَّاٰهُ اسْتَغْنٰى",
-        "urdu_text": "جب وہ اپنے آپ کو بے نیاز سمجھتا ہے",
+        "urdu_text": "جب وه اپنے آپ کو بے نیاز سمجھتا هے",
         "persian_text": "هنگامی که خود را بی‌نیاز می‌بیند.",
         "english_text": "Because he sees himself self-sufficient.",
         "transliteration": "An ra'ahu istaghna.",
@@ -57,7 +57,7 @@ ayats = [
     },
     {
         "arabic_text": "اِنَّ اِلَٰى رَبِّكَ الرُّجْعٰى",
-        "urdu_text": "یقیناً تمہارے رب ہی کی طرف واپس جانا ہے",
+        "urdu_text": "یقیناً تمهارے رب هی کی طرف واپس جانا هے",
         "persian_text": "قطعاً بازگشت به سوی پروردگار تو است.",
         "english_text": "Indeed, to your Lord is the return.",
         "transliteration": "Inna ila rabbika al-ruj'a.",
@@ -67,7 +67,7 @@ ayats = [
 [
     {
         "arabic_text": "اَرَءَيْتَ الَّذِى يَنْهٰى",
-        "urdu_text": "کیا آپ نے اس شخص کو دیکھا جو روکتا ہے",
+        "urdu_text": "کیا آپ نے اس شخص کو دیکھا جو روکتا هے",
         "persian_text": "آیا دیدی آن کسی را که منع می‌کند؟",
         "english_text": "Have you seen the one who forbids?",
         "transliteration": "Ara'aita allathee yanha.",
@@ -75,7 +75,7 @@ ayats = [
     },
     {
         "arabic_text": "عَبْدًا اِذَا صَلّٰى",
-        "urdu_text": "ایک بندے کو جب وہ نماز پڑھتا ہے؟",
+        "urdu_text": "ایک بندے کو جب وه نماز پڑھتا هے؟",
         "persian_text": "بنده‌ای را هنگامی که نماز می‌خواند؟",
         "english_text": "A servant when he prays?",
         "transliteration": "Abdan itha salla.",
@@ -83,7 +83,7 @@ ayats = [
     },
     {
         "arabic_text": "اَرَءَيْتَ اِنْ كَانَ عَلَى الْهُدٰٓى",
-        "urdu_text": "کیا آپ نے دیکھا اگر وہ ہدایت پر ہوتا",
+        "urdu_text": "کیا آپ نے دیکھا اگر وه هدایت پر هوتا",
         "persian_text": "آیا دیدی اگر او بر هدایت بود؟",
         "english_text": "Have you seen if he was upon guidance?",
         "transliteration": "Ara'aita in kana 'ala al-huda.",
@@ -99,7 +99,7 @@ ayats = [
     },
     {
         "arabic_text": "اَرَاَيْتَ اِنْ كَذَّبَ وَ تَوَلّٰى",
-        "urdu_text": "کیا آپ نے دیکھا اگر وہ جھٹلاتا اور منہ پھیرتا؟",
+        "urdu_text": "کیا آپ نے دیکھا اگر وه جھٹلاتا اور منه پھیرتا؟",
         "persian_text": "آیا دیدی اگر او تکذیب کرد و روی گرداند؟",
         "english_text": "Have you seen if he denies and turns away?",
         "transliteration": "Ara'aita in kaththaba watawalla.",
@@ -107,7 +107,7 @@ ayats = [
     },
     {
         "arabic_text": "اَلَمْ يَعْلَم بِاَنَّ اللّٰهَ يَرٰى",
-        "urdu_text": "کیا اسے معلوم نہیں کہ اللہ دیکھ رہا ہے؟",
+        "urdu_text": "کیا اسے معلوم نهیں که الله دیکھ رها هے؟",
         "persian_text": "آیا نمی‌داند که خداوند می‌بیند؟",
         "english_text": "Does he not know that Allah sees?",
         "transliteration": "Alam ya'lam bianna Allaha yara.",
@@ -115,7 +115,7 @@ ayats = [
     },
     {
         "arabic_text": "كَلَّا لَئِن لَّمْ يَنتَهِ لَنَسْفَعًا بِالنَّاصِيَةِ",
-        "urdu_text": "ہرگز نہیں! اگر وہ باز نہ آیا تو ہم پیشانی کے بالوں سے پکڑیں گے",
+        "urdu_text": "هرگز نهیں! اگر وه باز نه آیا تو هم پیشانی کے بالوں سے پکڑیں گے",
         "persian_text": "نه! اگر دست برندارد، او را به پیشانی خواهیم گرفت.",
         "english_text": "No! If he does not desist, We will surely drag him by the forelock.",
         "transliteration": "Kalla la-in lam yantahi lanasfa'an bin-nasiyah.",
@@ -131,7 +131,7 @@ ayats = [
     },
     {
         "arabic_text": "فَلْيَدْعُ نَادِيَهُۥ",
-        "urdu_text": "پھر وہ اپنے ساتھیوں کو بلائے",
+        "urdu_text": "پھر وه اپنے ساتھیوں کو بلائے",
         "persian_text": "پس یاران خود را بخواند.",
         "english_text": "Then let him call his associates.",
         "transliteration": "Falyad'u nadiyah.",
@@ -139,7 +139,7 @@ ayats = [
     },
     {
         "arabic_text": "سَنَدْعُ الزَّبَانِيَةَ",
-        "urdu_text": "ہم بھی عذاب کے فرشتوں کو بلائیں گے",
+        "urdu_text": "هم بھی عذاب کے فرشتوں کو بلائیں گے",
         "persian_text": "ما نیز فرشتگان عذاب را فرا خواهیم خواند.",
         "english_text": "We will call the angels of punishment.",
         "transliteration": "Sanad'u az-zabaniyah.",
@@ -147,7 +147,7 @@ ayats = [
     },
     {
         "arabic_text": "كَلَّا لَا تُطِعْهُۥ وَ اسْجُدْ وَ اقْتَرِب",
-        "urdu_text": "نہیں، آپ اس کی بات نہ مانیں اور سجدہ کریں اور قریب ہو جائیں",
+        "urdu_text": "نهیں، آپ اس کی بات نه مانیں اور سجده کریں اور قریب هو جائیں",
         "persian_text": "هرگز اطاعت مکن و سجده کن و به او نزدیک شو.",
         "english_text": "No! Do not obey him, but prostrate and draw near.",
         "transliteration": "Kalla la tuti'hu wasjud waqtarib.",

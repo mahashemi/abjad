@@ -2,7 +2,7 @@ ayats = [
     {
         "verse_number": "1",
         "arabic_text": "عَمَّ يَتَسَآءَلُونَ",
-        "urdu_text": "کس چیز کے بارے میں آپس میں سوال کرتے ہیں؟",
+        "urdu_text": "کس چیز کے بارے میں آپس میں سوال کرتے هیں؟",
         "persian_text": "از چه چیزی از یکدیگر می‌پرسند؟",
         "english_text": "What are they asking one another about?",
         "transliteration": "ʿAmma yatasaā'alūn",
@@ -18,7 +18,7 @@ ayats = [
     {
         "verse_number": "3",
         "arabic_text": "الَّذِي هُمْ فِيهِ مُخْتَلِفُونَ",
-        "urdu_text": "جس کے بارے میں وہ اختلاف کر رہے ہیں",
+        "urdu_text": "جس کے بارے میں وه اختلاف کر رهے هیں",
         "persian_text": "که در آن اختلاف دارند",
         "english_text": "Over which they disagree.",
         "transliteration": "Alladhī hum fīhi mukhtalifūn",
@@ -26,7 +26,7 @@ ayats = [
     {
         "verse_number": "4",
         "arabic_text": "كَلَّا سَيَعْلَمُونَ",
-        "urdu_text": "ہرگز نہیں، وہ عنقریب جان لیں گے",
+        "urdu_text": "هرگز نهیں، وه عنقریب جان لیں گے",
         "persian_text": "نه چنین است، به زودی خواهند دانست",
         "english_text": "No! They will soon know.",
         "transliteration": "Kallā sayaʿlamūn",
@@ -34,7 +34,7 @@ ayats = [
     {
         "verse_number": "5",
         "arabic_text": "ثُمَّ كَلَّا سَيَعْلَمُونَ",
-        "urdu_text": "پھر ہرگز نہیں، وہ عنقریب جان لیں گے",
+        "urdu_text": "پھر هرگز نهیں، وه عنقریب جان لیں گے",
         "persian_text": "باز نه، به زودی خواهند دانست",
         "english_text": "Again, no! They will soon know.",
         "transliteration": "Thumma kallā sayaʿlamūn",
@@ -42,7 +42,7 @@ ayats = [
     {
         "verse_number": "6",
         "arabic_text": "اَلَمْ نَجْعَلِ الْاَرْضَ مِهٰدًا",
-        "urdu_text": "کیا ہم نے زمین کو فرش نہیں بنایا؟",
+        "urdu_text": "کیا هم نے زمین کو فرش نهیں بنایا؟",
         "persian_text": "آیا زمین را بستر (آسایش) قرار ندادیم؟",
         "english_text": "Have We not made the earth as a cradle?",
         "transliteration": "Alam najʿali l-arḍa mihādā",
@@ -50,7 +50,7 @@ ayats = [
     {
         "verse_number": "7",
         "arabic_text": "وَ الْجِبَالَ اَوْتَادًا",
-        "urdu_text": "اور پہاڑوں کو میخیں (نہیں بنایا)؟",
+        "urdu_text": "اور پهاڑوں کو میخیں (نهیں بنایا)؟",
         "persian_text": "و کوه‌ها را میخ‌هایی (نگه‌دارنده) نساختیم؟",
         "english_text": "And the mountains as pegs?",
         "transliteration": "Wal-jibāla awtādā",
@@ -58,7 +58,7 @@ ayats = [
     {
         "verse_number": "8",
         "arabic_text": "وَ خَلَقْنٰكُمْ اَزْوَاجًا",
-        "urdu_text": "اور ہم نے تمہیں جوڑے جوڑے پیدا کیا",
+        "urdu_text": "اور هم نے تمهیں جوڑے جوڑے پیدا کیا",
         "persian_text": "و شما را جفت‌جفت آفریدیم",
         "english_text": "And We created you in pairs,",
         "transliteration": "Wa khalaqnākum azwājā",
@@ -66,7 +66,7 @@ ayats = [
     {
         "verse_number": "9",
         "arabic_text": "وَ جَعَلْنَا نَوْمَكُمْ سُبَاتًا",
-        "urdu_text": "اور تمہاری نیند کو آرام کا ذریعہ بنایا",
+        "urdu_text": "اور تمهاری نیند کو آرام کا ذریعه بنایا",
         "persian_text": "و خواب شما را مایه آرامش قرار دادیم",
         "english_text": "And made your sleep for rest,",
         "transliteration": "Wa jaʿalnā nawmakum subātā",
@@ -74,7 +74,7 @@ ayats = [
     {
         "verse_number": "10",
         "arabic_text": "وَ جَعَلْنَا الَّيْلَ لِبَاسًا",
-        "urdu_text": "اور رات کو ہم نے پردہ (لباس) بنایا",
+        "urdu_text": "اور رات کو هم نے پرده (لباس) بنایا",
         "persian_text": "و شب را پوششی برای شما قرار دادیم",
         "english_text": "And made the night as a covering,",
         "transliteration": "Wa jaʿalnā l-layla libāsā",
@@ -82,7 +82,7 @@ ayats = [
     {
         "verse_number": "11",
         "arabic_text": "وَ جَعَلْنَا النَّهَارَ مَعَاشًا",
-        "urdu_text": "اور دن کو ہم نے زندگی کا ذریعہ بنایا",
+        "urdu_text": "اور دن کو هم نے زندگی کا ذریعه بنایا",
         "persian_text": "و روز را وسیله زندگی و کسب و کار قرار دادیم",
         "english_text": "And made the day for livelihood,",
         "transliteration": "Wa jaʿalnā n-nahāra maʿāshā",
@@ -90,7 +90,7 @@ ayats = [
     {
         "verse_number": "12",
         "arabic_text": "وَ بَنَيْنَا فَوْقَكُمْ سَبْعًا شِدَادًا",
-        "urdu_text": "اور تمہارے اوپر ہم نے سات مضبوط آسمان بنائے",
+        "urdu_text": "اور تمهارے اوپر هم نے سات مضبوط آسمان بنائے",
         "persian_text": "و بالای سر شما هفت آسمان نیرومند بنا کردیم",
         "english_text": "And built above you seven strong heavens,",
         "transliteration": "Wa banaynā fawqakum sabʿan shidādā",
@@ -98,7 +98,7 @@ ayats = [
     {
         "verse_number": "13",
         "arabic_text": "وَ جَعَلْنَا سِرَاجًا وَهَّاجًا",
-        "urdu_text": "اور ہم نے ایک چمکتا ہوا چراغ بنایا",
+        "urdu_text": "اور هم نے ایک چمکتا هوا چراغ بنایا",
         "persian_text": "و چراغی فروزان (خورشید) قرار دادیم",
         "english_text": "And made a blazing lamp,",
         "transliteration": "Wa jaʿalnā sirājāw wahhājā",
@@ -106,7 +106,7 @@ ayats = [
     {
         "verse_number": "14",
         "arabic_text": "وَ اَنزَلْنَا مِنَ الْمُعْصِرٰتِ مَآءً ثَجَّاجًا",
-        "urdu_text": "اور ہم نے پانی والے بادلوں سے خوب برسنے والا پانی نازل کیا",
+        "urdu_text": "اور هم نے پانی والے بادلوں سے خوب برسنے والا پانی نازل کیا",
         "persian_text": "و از ابرهای فشرده، آبی فراوان نازل کردیم",
         "english_text": "And We sent down from the rain clouds pouring water,",
         "transliteration": "Wa anzalnā mina l-muʿṣirāti māʾan thajjājā",
@@ -114,7 +114,7 @@ ayats = [
     {
         "verse_number": "15",
         "arabic_text": "لِّنُخْرِجَ بِهِۦ حَبًّا وَّ نَبَاتًا",
-        "urdu_text": "تاکہ ہم اس سے اناج اور سبزہ اگائیں",
+        "urdu_text": "تاکه هم اس سے اناج اور سبزه اگائیں",
         "persian_text": "تا از آن دانه‌ها و گیاهان برویانیم",
         "english_text": "That We may bring forth thereby grain and vegetation,",
         "transliteration": "Linuḫrija bihī ḥabbāw wa nabātā",
@@ -130,7 +130,7 @@ ayats = [
     {
         "verse_number": "17",
         "arabic_text": "اِنَّ يَوْمَ الْفَصْلِ كَانَ مِيقَاتًا",
-        "urdu_text": "بے شک فیصلے کا دن مقرر ہے",
+        "urdu_text": "بے شک فیصلے کا دن مقرر هے",
         "persian_text": "همانا روز داوری (قیامت) زمانی معین دارد",
         "english_text": "Indeed, the Day of Decision is a fixed time.",
         "transliteration": "Inna yawma l-faṣli kāna mīqātā",
@@ -146,7 +146,7 @@ ayats = [
     {
         "verse_number": "19",
         "arabic_text": "وَّ فُتِحَتِ السَمَآءُ فَكَانَتْ اَبْوابًا",
-        "urdu_text": "اور آسمان کھولا جائے گا تو وہ دروازے بن جائے گا",
+        "urdu_text": "اور آسمان کھولا جائے گا تو وه دروازے بن جائے گا",
         "persian_text": "و آسمان گشوده می‌شود و به درهایی مبدل می‌گردد",
         "english_text": "And the sky is opened and becomes gateways,",
         "transliteration": "Wa futtiḥati s-samāʾu fakānat abwābā",
@@ -154,7 +154,7 @@ ayats = [
     {
         "verse_number": "20",
         "arabic_text": "وَ سُيِّرَتِ الْجِبَالُ فَكَانَتْ سَرَابًا",
-        "urdu_text": "اور پہاڑ چلائے جائیں گے تو وہ سراب بن جائیں گے",
+        "urdu_text": "اور پهاڑ چلائے جائیں گے تو وه سراب بن جائیں گے",
         "persian_text": "و کوه‌ها به حرکت درمی‌آیند و به سراب تبدیل می‌شوند",
         "english_text": "And the mountains are set in motion and become a mirage.",
         "transliteration": "Wa suyyiratil-jibālu fakānat sarābā",
@@ -162,7 +162,7 @@ ayats = [
     {
         "verse_number": "21",
         "arabic_text": "اِنَّ جَهَنَّمَ كَانَتْ مِرْصَادًا",
-        "urdu_text": "یقیناً جہنم گھات میں ہے",
+        "urdu_text": "یقیناً جهنم گھات میں هے",
         "persian_text": "بی‌گمان دوزخ در کمین است",
         "english_text": "Indeed, Hell has been lying in wait,",
         "transliteration": "Inna jahannama kānat mirṣādā",
@@ -170,7 +170,7 @@ ayats = [
     {
         "verse_number": "22",
         "arabic_text": "لِّلطَّاغِينَ مَاٰبًا",
-        "urdu_text": "سرکشوں کے لیے ٹھکانہ",
+        "urdu_text": "سرکشوں کے لیے ٹھکانه",
         "persian_text": "جایگاه بازگشت برای طغیان‌گران است",
         "english_text": "For the transgressors a place of return,",
         "transliteration": "Lil-ṭāghīna maʾābā",
@@ -178,7 +178,7 @@ ayats = [
     {
         "verse_number": "23",
         "arabic_text": "لّٰبِثِينَ فِيهَآ اَحْقَابًا",
-        "urdu_text": "جس میں وہ مدتوں تک رہیں گے",
+        "urdu_text": "جس میں وه مدتوں تک رهیں گے",
         "persian_text": "که در آن سال‌ها خواهند ماند",
         "english_text": "In which they will remain for ages,",
         "transliteration": "Lābithīna fīhā aḥqābā",
@@ -186,7 +186,7 @@ ayats = [
     {
         "verse_number": "24",
         "arabic_text": "لَا يَذُوقُونَ فِيهَا بَرْدًا وَّ لَا شَرَابًا",
-        "urdu_text": "نہ وہ اس میں کوئی ٹھنڈک پائیں گے اور نہ کوئی مشروب",
+        "urdu_text": "نه وه اس میں کوئی ٹھنڈک پائیں گے اور نه کوئی مشروب",
         "persian_text": "در آن نه خنکی می‌چشند و نه نوشیدنی",
         "english_text": "They will not taste therein any coolness or drink,",
         "transliteration": "Lā yadhūqūna fīhā bardaw wa lā sharābā",
@@ -202,7 +202,7 @@ ayats = [
     {
         "verse_number": "26",
         "arabic_text": "جَزَاءً وِفَاقًا",
-        "urdu_text": "یہ بدلہ ان کے اعمال کے مطابق ہے",
+        "urdu_text": "یه بدله ان کے اعمال کے مطابق هے",
         "persian_text": "پاداشی مناسب با کردارشان است",
         "english_text": "An appropriate recompense.",
         "transliteration": "Jazāʾan wifāqā",
@@ -210,7 +210,7 @@ ayats = [
     {
         "verse_number": "27",
         "arabic_text": "اِنَّهُمْ كَانُوا لَا يَرْجُونَ حِسَابًا",
-        "urdu_text": "بے شک وہ حساب کی امید نہیں رکھتے تھے",
+        "urdu_text": "بے شک وه حساب کی امید نهیں رکھتے تھے",
         "persian_text": "آنان به حساب‌رسی ایمان نداشتند",
         "english_text": "Indeed, they did not expect an account,",
         "transliteration": "Innahum kānū lā yarjūna ḥisābā",
@@ -218,7 +218,7 @@ ayats = [
     {
         "verse_number": "28",
         "arabic_text": "وَ كَذَّبُوا بِاٰيَاتِنَا كِذَّابًا",
-        "urdu_text": "اور ہماری آیات کو جھٹلایا، جھٹلانے کی حد تک",
+        "urdu_text": "اور هماری آیات کو جھٹلایا، جھٹلانے کی حد تک",
         "persian_text": "و آیات ما را شدیداً تکذیب کردند",
         "english_text": "And denied Our signs with [emphatic] denial.",
         "transliteration": "Wa kadhdhabū bi-āyātinā kidhdhābā",
@@ -226,7 +226,7 @@ ayats = [
     {
         "verse_number": "29",
         "arabic_text": "وَ كُلَّ شَيْءٍ اَحْصَيْنٰهُ كِتٰبًا",
-        "urdu_text": "اور ہم نے ہر چیز کو ایک کتاب میں گن رکھا ہے",
+        "urdu_text": "اور هم نے هر چیز کو ایک کتاب میں گن رکھا هے",
         "persian_text": "و هر چیز را در کتابی ثبت کرده‌ایم",
         "english_text": "But all things We have enumerated in writing.",
         "transliteration": "Wa kulla shay'in aḥṣaynāhu kitābā",
@@ -234,7 +234,7 @@ ayats = [
     {
         "verse_number": "30",
         "arabic_text": "فَذُوقُوا فَلَن نَّزِيدَكُمْ اِلَّا عَذَابًا",
-        "urdu_text": "پس چکھو، ہم تمہیں عذاب ہی بڑھاتے جائیں گے",
+        "urdu_text": "پس چکھو، هم تمهیں عذاب هی بڑھاتے جائیں گے",
         "persian_text": "پس بچشید، ما چیزی جز عذاب بر شما نمی‌افزاییم",
         "english_text": "So taste [the penalty], and We will not increase you except in punishment.",
         "transliteration": "Fa dhūqū fa lan nazeedakum illā ʿadhābā",
@@ -242,7 +242,7 @@ ayats = [
     {
         "verse_number": "31",
         "arabic_text": "اِنَّ لِلْمُتَّقِينَ مَفَازًا",
-        "urdu_text": "یقیناً پرہیزگاروں کے لیے کامیابی ہے",
+        "urdu_text": "یقیناً پرهیزگاروں کے لیے کامیابی هے",
         "persian_text": "بی‌گمان برای پرهیزگاران رستگاری است",
         "english_text": "Indeed, for the righteous is attainment –",
         "transliteration": "Inna lil-muttaqīna mafāzā",
@@ -258,7 +258,7 @@ ayats = [
     {
         "verse_number": "33",
         "arabic_text": "وَ كَوَاعِبَ اَتْرَابًا",
-        "urdu_text": "اور ہم عمر دوشیزائیں",
+        "urdu_text": "اور هم عمر دوشیزائیں",
         "persian_text": "و دخترانی هم‌سن و سال",
         "english_text": "And full-breasted [companions] of equal age",
         "transliteration": "Wa kawāʿiba atrābā",
@@ -274,7 +274,7 @@ ayats = [
     {
         "verse_number": "35",
         "arabic_text": "لَّا يَسْمَعُونَ فِيهَا لَغْوًا وَّ لَا كِذّٰبًا",
-        "urdu_text": "جس میں وہ نہ کوئی لغو بات سنیں گے اور نہ جھوٹ",
+        "urdu_text": "جس میں وه نه کوئی لغو بات سنیں گے اور نه جھوٹ",
         "persian_text": "که در آن نه سخن بیهوده می‌شنوند و نه دروغی",
         "english_text": "No ill speech will they hear therein or any falsehood –",
         "transliteration": "Lā yasmaʿūna fīhā laghwaw wa lā kidhdhābā",
@@ -282,7 +282,7 @@ ayats = [
     {
         "verse_number": "36",
         "arabic_text": "جَزَآءٗ مِّن رَّبِّكَ عَطَآءً حِسَابًا",
-        "urdu_text": "یہ آپ کے رب کی طرف سے بدلہ ہے، کافی عطیہ",
+        "urdu_text": "یه آپ کے رب کی طرف سے بدله هے، کافی عطیه",
         "persian_text": "پاداشی از پروردگارت، عطایی بسنده",
         "english_text": "A reward from your Lord, [a generous] gift [made due to] account,",
         "transliteration": "Jazāʾan min rabbika ʿaṭāʾan ḥisābā",
@@ -290,7 +290,7 @@ ayats = [
     {
         "verse_number": "37",
         "arabic_text": "رَّبِّ السَّمٰوٰتِ وَ الْاَرْضِ وَ مَا بَيْنَهُمَا الرَّحْمـٰنِ لَا يَمْلِكُونَ مِنْهُ خِطَابًا",
-        "urdu_text": "جو آسمانوں اور زمین اور ان کے درمیان کی ہر چیز کا رب ہے، رحمٰن ہے، لوگ اس سے بات کرنے کا اختیار نہ رکھیں گے",
+        "urdu_text": "جو آسمانوں اور زمین اور ان کے درمیان کی هر چیز کا رب هے، رحمٰن هے، لوگ اس سے بات کرنے کا اختیار نه رکھیں گے",
         "persian_text": "پروردگار آسمان‌ها و زمین و آنچه میان آن‌هاست، بخشاینده‌ای که کسی یارای سخن گفتن با او را ندارد",
         "english_text": "Lord of the heavens and the earth and whatever is between them – the Most Merciful. They do not possess from Him [the authority for] speech.",
         "transliteration": "Rabbis-samāwāti wal-arḍi wa mā baynahumā ar-Raḥmān, lā yamlikūna minhu khiṭābā",
@@ -298,7 +298,7 @@ ayats = [
     {
         "verse_number": "38",
         "arabic_text": "يَوْمَ يَقُومُ الرُّوحُ وَ الْمَلٰٓئِكَةُ صَفّٗا لَّا يَتَكَلَّمُونَ اِلَّا مَنْ اَذِنَ لَهُ الرَّحْمـٰنُ وَ قَالَ صَوَابًا",
-        "urdu_text": "جس دن روح اور فرشتے صف باندھ کر کھڑے ہوں گے، کوئی نہیں بولے گا سوائے جسے رحمٰن اجازت دے اور وہ درست بات کہے",
+        "urdu_text": "جس دن روح اور فرشتے صف باندھ کر کھڑے هوں گے، کوئی نهیں بولے گا سوائے جسے رحمٰن اجازت دے اور وه درست بات کهے",
         "persian_text": "روزی که روح و فرشتگان صف در صف می‌ایستند، جز کسی که خدای رحمان به او اجازه دهد و سخن راست بگوید، کسی سخن نگوید",
         "english_text": "The Day that the Spirit and the angels will stand in rows, they will not speak except for one whom the Most Merciful permits, and he will say what is correct.",
         "transliteration": "Yawma yaqūmu r-rūḥu wal-malāʾikatu ṣaffā, lā yatakallamūna illā man adhina lahur-Raḥmānu wa qāla ṣawābā",
@@ -306,7 +306,7 @@ ayats = [
     {
         "verse_number": "39",
         "arabic_text": "ذٰلِكَ الْيَوْمُ الْحَقُّ فَمَن شَآءَ اتَّخَذَ اِلَٰى رَبِّهُ مَـَٔابًا",
-        "urdu_text": "یہی دن برحق ہے، پس جو چاہے اپنے رب کی طرف پلٹنے کا راستہ بنا لے",
+        "urdu_text": "یهی دن برحق هے، پس جو چاهے اپنے رب کی طرف پلٹنے کا راسته بنا لے",
         "persian_text": "این روز، روز حق است؛ پس هر که بخواهد، راه بازگشت به سوی پروردگارش را در پیش گیرد",
         "english_text": "That is the True Day; so he who wills may take to his Lord a [way of] return.",
         "transliteration": "Dhālika l-yawmu l-ḥaqq, faman shāʾattakhadha ilā rabbihi maʾābā",
@@ -314,7 +314,7 @@ ayats = [
     {
         "verse_number": "40",
         "arabic_text": "اِنَّآ اَنذَرْنٰكُمْ عَذَابًا قَرِيبًا يَوْمَ يَنظُرُ الْمَرْءُ مَا قَدَّمَتْ يَدٰهُ وَ يَقُولُ الْكٰفِرُ يٰلَيْتَنِي كُنتُ تُرٰبا",
-        "urdu_text": "بے شک ہم نے تمہیں ایک قریب آنے والے عذاب سے خبردار کیا ہے، جس دن انسان دیکھے گا جو اس کے ہاتھوں نے آگے بھیجا، اور کافر کہے گا، کاش میں مٹی ہوتا",
+        "urdu_text": "بے شک هم نے تمهیں ایک قریب آنے والے عذاب سے خبردار کیا هے، جس دن انسان دیکھے گا جو اس کے هاتھوں نے آگے بھیجا، اور کافر کهے گا، کاش میں مٹی هوتا",
         "persian_text": "ما شما را از عذابی نزدیک هشدار دادیم؛ روزی که انسان آنچه را دست‌هایش پیش فرستاده‌اند می‌بیند و کافر می‌گوید: ای کاش خاک بودم!",
         "english_text": "Indeed, We have warned you of a near punishment : the Day when a man will observe what his hands have put forth and the disbeliever will say, 'Oh, I wish that I were dust!'",
         "transliteration": "Innā andharnākum ʿadhāban qarībā, yawma yanẓuru l-marʾu mā qaddamat yadāh, wa yaqūlu l-kāfiru yā laytanī kuntu turābā",

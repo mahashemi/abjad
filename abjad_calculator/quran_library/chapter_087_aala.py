@@ -1,7 +1,7 @@
 ayats = [
     {
         "arabic_text": "سَبِّحِ اسْمَ رَبِّكَ الْاَعْلَى",
-        "urdu_text": "پاک نام ہے تیرے رب اعلیٰ کا",
+        "urdu_text": "پاک نام هے تیرے رب اعلیٰ کا",
         "persian_text": "نام پروردگار بلندمرتبه‌ات را پاک بدان",
         "english_text": "Glorify the name of your Lord, the Most High.",
         "transliteration": "Sabbih isma rabbika al-a‘la",
@@ -17,7 +17,7 @@ ayats = [
     },
     {
         "arabic_text": "وَ الَّذِي قَدَّرَ فَهَدٰى",
-        "urdu_text": "اور جس نے اندازہ کیا، پھر راہ دکھائی",
+        "urdu_text": "اور جس نے اندازه کیا، پھر راه دکھائی",
         "persian_text": "و اندازه گرفت و سپس راه نمود",
         "english_text": "Who destined and guided.",
         "transliteration": "Wa alladhī qaddara fa-hadā",
@@ -25,7 +25,7 @@ ayats = [
     },
     {
         "arabic_text": "وَ الَّذِيٓ اَخْرَجَ الْمَرْعٰى",
-        "urdu_text": "اور جس نے چارہ اگایا",
+        "urdu_text": "اور جس نے چاره اگایا",
         "persian_text": "و چراگاه را برآورد",
         "english_text": "Who brings out the pasture.",
         "transliteration": "Wa alladhī akhraja al-mar‘ā",
@@ -33,7 +33,7 @@ ayats = [
     },
     {
         "arabic_text": "فَجَعَلَهُ غُثَاءً اَحْوٰى",
-        "urdu_text": "پھر اس کو سیاہ کُوڑا بنا دیا",
+        "urdu_text": "پھر اس کو سیاه کُوڑا بنا دیا",
         "persian_text": "و آن را خشک و سیاه گرداند",
         "english_text": "Then turns it into black stubble.",
         "transliteration": "Faja‘alahu ghuthā’an aḥwā",
@@ -41,7 +41,7 @@ ayats = [
     },
     {
         "arabic_text": "سَنُقْرِئُكَ فَلَا تَنسٰى",
-        "urdu_text": "ہم تمہیں پڑھائیں گے پھر تم نہیں بھولو گے",
+        "urdu_text": "هم تمهیں پڑھائیں گے پھر تم نهیں بھولو گے",
         "persian_text": "ما تو را خواهیم خواند، پس فراموش نخواهی کرد",
         "english_text": "We will make you recite, so you shall not forget.",
         "transliteration": "Sanuqri’uka fa-lā tansa",
@@ -49,7 +49,7 @@ ayats = [
     },
     {
         "arabic_text": "اِلَّا مَا شَآءَ اللّٰهُ اِنَّهُ يَعْلَمُ الْجَهْرَ وَ مَا يَخْفٰى",
-        "urdu_text": "مگر جو اللہ چاہے، بے شک وہ ظاہر اور چھپی بات کو جانتا ہے",
+        "urdu_text": "مگر جو الله چاهے، بے شک وه ظاهر اور چھپی بات کو جانتا هے",
         "persian_text": "مگر آنچه خدا بخواهد، همانا او آشکار و پنهان را می‌داند",
         "english_text": "Except what Allah wills. Indeed, He knows what is declared and what is hidden.",
         "transliteration": "Illā mā shā’a Allāh, innahu ya‘lamu al-jahra wa mā yakhfā",
@@ -57,7 +57,7 @@ ayats = [
     },
     {
         "arabic_text": "وَ نُيَسِّرُكَ لِلْيُسْرٰى",
-        "urdu_text": "اور ہم تمہارے لیے آسان راستہ آسان کر دیں گے",
+        "urdu_text": "اور هم تمهارے لیے آسان راسته آسان کر دیں گے",
         "persian_text": "و ما راه آسان را برای تو آسان می‌گردانیم",
         "english_text": "And We will ease you toward ease.",
         "transliteration": "Wa nuyassiruka lil-yusrā",
@@ -65,7 +65,7 @@ ayats = [
     },
     {
         "arabic_text": "فَذَكِّرْ اِن نَّفَعَتِ الذِّكْرٰى",
-        "urdu_text": "پس نصیحت کرو اگر نصیحت فائدہ دے",
+        "urdu_text": "پس نصیحت کرو اگر نصیحت فائده دے",
         "persian_text": "پس پند ده اگر پند سود دهد",
         "english_text": "So remind, if the reminder benefits.",
         "transliteration": "Fadhakkir in nafa‘ati adh-dhikrā",
@@ -73,7 +73,7 @@ ayats = [
     },
     {
         "arabic_text": "سَيَذَّكَّرُ مَن يَّخْشٰى",
-        "urdu_text": "ضرور نصیحت حاصل کرے گا جو ڈرتا ہے",
+        "urdu_text": "ضرور نصیحت حاصل کرے گا جو ڈرتا هے",
         "persian_text": "به زودی پند گیرد آن که می‌ترسد",
         "english_text": "He who fears will be reminded.",
         "transliteration": "Sayadhakkaru man yakhshā",
@@ -81,7 +81,7 @@ ayats = [
     },
     {
         "arabic_text": "وَ يَتَجَنَّبُهَا الْاَشْقَى",
-        "urdu_text": "اور اس سے دور رہے گا بدبخت",
+        "urdu_text": "اور اس سے دور رهے گا بدبخت",
         "persian_text": "و بدبخت از آن دوری گزیند",
         "english_text": "But the wretched one will avoid it.",
         "transliteration": "Wa yatajannabuhā al-ashqā",
@@ -89,7 +89,7 @@ ayats = [
     },
     {
         "arabic_text": "الَّذِي يَصْلَى النَّارَ الْكُبْرٰى",
-        "urdu_text": "جو بڑی آگ میں داخل ہوگا",
+        "urdu_text": "جو بڑی آگ میں داخل هوگا",
         "persian_text": "آن که در آتش بزرگ درآید",
         "english_text": "Who will enter the great fire.",
         "transliteration": "Alladhī yaṣlā an-nār al-kubrā",
@@ -97,7 +97,7 @@ ayats = [
     },
     {
         "arabic_text": "ثُمَّ لَا يَمُوتُ فِيهَا وَ لَا يَحْيٰى",
-        "urdu_text": "پھر نہ اس میں مرے گا اور نہ جیے گا",
+        "urdu_text": "پھر نه اس میں مرے گا اور نه جیے گا",
         "persian_text": "نه در آن خواهد مرد و نه زنده خواهد ماند",
         "english_text": "Then neither will he die therein nor live.",
         "transliteration": "Thumma lā yamūtu fīhā wa lā yaḥyā",
@@ -105,7 +105,7 @@ ayats = [
     },
     {
         "arabic_text": "قَدْ اَفْلَحَ مَن تَزَكّٰى",
-        "urdu_text": "یقیناً فلاح پا گیا وہ شخص جس نے پاکیزگی اختیار کی",
+        "urdu_text": "یقیناً فلاح پا گیا وه شخص جس نے پاکیزگی اختیار کی",
         "persian_text": "هرکه پاکی گزید، رستگار شد",
         "english_text": "Indeed, successful is the one who purifies himself.",
         "transliteration": "Qad aflaha man tazakkā",
@@ -121,7 +121,7 @@ ayats = [
     },
     {
         "arabic_text": "بَلْ تُؤْثِرُونَ الْحَيَٰوةَ الدُّنْيَا",
-        "urdu_text": "لیکن تم دنیا کی زندگی کو ترجیح دیتے ہو",
+        "urdu_text": "لیکن تم دنیا کی زندگی کو ترجیح دیتے هو",
         "persian_text": "بلکه شما زندگی دنیا را برمی‌گزینید",
         "english_text": "But you prefer the worldly life.",
         "transliteration": "Bal tu’thirūna al-ḥayāta ad-dunyā",
@@ -129,7 +129,7 @@ ayats = [
     },
     {
         "arabic_text": "وَ الْاٰخِرَةُ خَيْرٌ وَ اَبْقٰى",
-        "urdu_text": "حالانکہ آخرت بہتر اور باقی رہنے والی ہے",
+        "urdu_text": "حالانکه آخرت بهتر اور باقی رهنے والی هے",
         "persian_text": "در حالی که آخرت بهتر و پایدارتر است",
         "english_text": "While the Hereafter is better and more lasting.",
         "transliteration": "Wa al-ākhiratu khayrun wa abqā",
@@ -137,7 +137,7 @@ ayats = [
     },
     {
         "arabic_text": "اِنَّ هَٰذَا لَفِي الصُّحُفِ الْاُولَٰى",
-        "urdu_text": "یقیناً یہ (باتیں) پہلی کتابوں میں بھی ہیں",
+        "urdu_text": "یقیناً یه (باتیں) پهلی کتابوں میں بھی هیں",
         "persian_text": "قطعاً این مطالب در صحیفه‌های پیشین نیز بوده است",
         "english_text": "Indeed, this is in the former scriptures.",
         "transliteration": "Inna hādhā la-fī aṣ-ṣuḥufi al-ūlā",
@@ -145,7 +145,7 @@ ayats = [
     },
     {
         "arabic_text": "صُحُفِ اِبْرٰهِيمَ وَ مُوسٰى",
-        "urdu_text": "یعنی ابراہیم اور موسیٰ کی کتابوں میں",
+        "urdu_text": "یعنی ابراهیم اور موسیٰ کی کتابوں میں",
         "persian_text": "یعنی صحیفه‌های ابراهیم و موسی",
         "english_text": "The scriptures of Abraham and Moses.",
         "transliteration": "Ṣuḥufi Ibrāhīma wa Mūsā",

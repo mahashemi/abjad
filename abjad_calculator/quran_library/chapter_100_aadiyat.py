@@ -2,7 +2,7 @@ ayats = [
     {
         "verse_number": "1",
         "arabic_text": "وَ الْعٰدِيٰتِ ضَبْحًا",
-        "urdu_text": "قسم ہے ان گھوڑوں کی جو ہنہناتے ہوئے دوڑتے ہیں",
+        "urdu_text": "قسم هے ان گھوڑوں کی جو هنهناتے هوئے دوڑتے هیں",
         "persian_text": "سوگند به اسبان دونده‌ی نفس‌زنان،",
         "english_text": "By the racers, panting,",
         "transliteration": "Wal-ʿādiyāti ḍabḥā",
@@ -10,7 +10,7 @@ ayats = [
     {
         "verse_number": "2",
         "arabic_text": "فَالْمُورِيٰتِ قَدْحًا",
-        "urdu_text": "پھر چنگاریاں اڑاتے ہیں",
+        "urdu_text": "پھر چنگاریاں اڑاتے هیں",
         "persian_text": "که با سُم‌های خود جرقه می‌زنند،",
         "english_text": "And the producers of sparks [when] striking",
         "transliteration": "Falmūriyāti qadhaḥā",
@@ -18,7 +18,7 @@ ayats = [
     {
         "verse_number": "3",
         "arabic_text": "فَالْمُغِيرٰتِ صُبْحًا",
-        "urdu_text": "پھر صبح کے وقت چھاپہ مارتے ہیں",
+        "urdu_text": "پھر صبح کے وقت چھاپه مارتے هیں",
         "persian_text": "و به هنگام صبح هجوم می‌آورند،",
         "english_text": "And the chargers at dawn,",
         "transliteration": "Falmughīrāti ṣubḥā",
@@ -26,7 +26,7 @@ ayats = [
     {
         "verse_number": "4",
         "arabic_text": "فَاَثَرْنَ بِهِ نَقْعًا",
-        "urdu_text": "پھر غبار جنگ اڑانے والے ہیں",
+        "urdu_text": "پھر غبار جنگ اڑانے والے هیں",
         "persian_text": "و با آن [یورش] گرد و خاک برمی‌انگیزند،",
         "english_text": "Stirring up thereby [clouds of] dust,",
         "transliteration": "Fa’atharna bihi naqʿā",
@@ -34,7 +34,7 @@ ayats = [
     {
         "verse_number": "5",
         "arabic_text": "فَوَسَطْنَ بِهِ جَمْعًا",
-        "urdu_text": "پھر اس وقت دشمنوں کی جماعت کے درمیان جا گھستے ہیں",
+        "urdu_text": "پھر اس وقت دشمنوں کی جماعت کے درمیان جا گھستے هیں",
         "persian_text": "و ناگهان در میان گروهی درآیند،",
         "english_text": "Arriving thereby in the center collectively.",
         "transliteration": "Fawasaṭna bihi jamʿā",
@@ -42,7 +42,7 @@ ayats = [
     {
         "verse_number": "6",
         "arabic_text": "اِنَّ الْاِنسَانَ لِرَبِّهِ  لَكَنُودٌ",
-        "urdu_text": "بیشک انسان اپنے رب کا بڑا ناشکرا ہے",
+        "urdu_text": "بیشک انسان اپنے رب کا بڑا ناشکرا هے",
         "persian_text": "قطعاً انسان نسبت به پروردگارش ناسپاس است،",
         "english_text": "Indeed mankind, to his Lord, is ungrateful.",
         "transliteration": "Inna al-insāna li-rabbihi lakanūd",
@@ -50,7 +50,7 @@ ayats = [
     {
         "verse_number": "7",
         "arabic_text": "وَ اِنَّهُۥ عَلَٰى ذٰلِكَ لَشَهِيدٌ",
-        "urdu_text": "اور وہ خود اس پر گواہ ہے",
+        "urdu_text": "اور وه خود اس پر گواه هے",
         "persian_text": "و خود بر این حقیقت گواه است،",
         "english_text": "And indeed, he is to that a witness.",
         "transliteration": "Wa innahu ʿalā dhālika lashahīd",
@@ -58,7 +58,7 @@ ayats = [
     {
         "verse_number": "8",
         "arabic_text": "وَ اِنَّهُۥ لِحُبِّ الْخَيْرِ لَشَدِيدٌ",
-        "urdu_text": "اور وہ مال کی محبت میں سخت ہے",
+        "urdu_text": "اور وه مال کی محبت میں سخت هے",
         "persian_text": "و به شدت مال‌دوست است،",
         "english_text": "And indeed he is, in love of wealth, intense.",
         "transliteration": "Wa innahu li-ḥubbil-khayri lashadīd",
@@ -66,7 +66,7 @@ ayats = [
     {
         "verse_number": "9",
         "arabic_text": "اَفَلَا يَعْلَمُ اِذَا بُعْثِرَ مَا فِى الْقُبُورِ",
-        "urdu_text": "پھر کیا وہ نہیں جانتا جب قبروں میں جو کچھ ہے وہ نکال لیا جائے گا",
+        "urdu_text": "پھر کیا وه نهیں جانتا جب قبروں میں جو کچھ هے وه نکال لیا جائے گا",
         "persian_text": "آیا نمی‌داند که آن‌گاه که هرچه در قبرها است بیرون ریخته شود،",
         "english_text": "But does he not know that when the contents of the graves are scattered,",
         "transliteration": "Afalā yaʿlamu idhā buʿthira mā fī al-qubūr",
@@ -74,7 +74,7 @@ ayats = [
     {
         "verse_number": "10",
         "arabic_text": "وَ حُصِّلَ مَا فِى الصُّدُورِ",
-        "urdu_text": "اور سینوں میں جو کچھ ہے وہ ظاہر کر دیا جائے گا",
+        "urdu_text": "اور سینوں میں جو کچھ هے وه ظاهر کر دیا جائے گا",
         "persian_text": "و آنچه در سینه‌هاست آشکار می‌شود،",
         "english_text": "And that within the breasts is obtained,",
         "transliteration": "Wa ḥuṣṣila mā fī al-ṣudūr",
@@ -82,7 +82,7 @@ ayats = [
     {
         "verse_number": "11",
         "arabic_text": "اِنَّ رَبَّهُم بِهِمْ يَوْمَئِذٍ لَّخَبِيرٌ",
-        "urdu_text": "بیشک ان کا رب اس دن ان سے خوب باخبر ہوگا",
+        "urdu_text": "بیشک ان کا رب اس دن ان سے خوب باخبر هوگا",
         "persian_text": "مسلماً پروردگارشان در آن روز از حال آن‌ها کاملاً آگاه است.",
         "english_text": "Indeed, their Lord with them, that Day, is [fully] Acquainted.",
         "transliteration": "Inna rabbahum bihim yawma’idhin lakhabīr",

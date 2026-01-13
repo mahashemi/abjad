@@ -10,7 +10,7 @@ ayats = [
     {
         "verse_number": "2",
         "arabic_text": "وَ اَذِنَتْ لِرَبِّهَا وَ حُقَّتْ",
-        "urdu_text": "اور اپنے رب کا حکم سن لے گی اور اس کا حق ہے",
+        "urdu_text": "اور اپنے رب کا حکم سن لے گی اور اس کا حق هے",
         "persian_text": "و فرمان پروردگار خود را گوش فرا دارد، و سزاوار است",
         "english_text": "And listens to its Lord—and it must do so—",
         "transliteration": "Wa-adhinat li-rabbihaa wa huqqat",
@@ -26,7 +26,7 @@ ayats = [
     {
         "verse_number": "4",
         "arabic_text": "وَ اَلْقَتْ مَا فِيهَا وَ تَخَلَّتْ",
-        "urdu_text": "اور جو کچھ اس میں ہے باہر نکال دے گی اور خالی ہو جائے گی",
+        "urdu_text": "اور جو کچھ اس میں هے باهر نکال دے گی اور خالی هو جائے گی",
         "persian_text": "و آنچه در درون دارد بیرون اندازد و تهی گردد،",
         "english_text": "And has cast out whatever was in it and relinquished it",
         "transliteration": "Wa alqat ma feeha wa takhallat",
@@ -34,7 +34,7 @@ ayats = [
     {
         "verse_number": "5",
         "arabic_text": "وَ اَذِنَتْ لِرَبِّهَا وَ حُقَّتْ",
-        "urdu_text": "اور اپنے رب کا حکم سن لے گی اور اس کا حق ہے",
+        "urdu_text": "اور اپنے رب کا حکم سن لے گی اور اس کا حق هے",
         "persian_text": "و فرمان پروردگار خود را گوش فرا دارد، و سزاوار است",
         "english_text": "And listens to its Lord—and it must do so—",
         "transliteration": "Wa-adhinat li-rabbihaa wa huqqat",
@@ -42,7 +42,7 @@ ayats = [
     {
         "verse_number": "6",
         "arabic_text": "يٰٓاَيُّهَا الْاِنسَانُ اِنَّكَ كَادِحٌ اِلَٰى رَبِّكَ كَدْحًا فَمُلٰقِيهِ",
-        "urdu_text": "اے انسان! تو محنت کرتا ہے اپنے رب کی طرف تو اس سے جا ملے گا",
+        "urdu_text": "اے انسان! تو محنت کرتا هے اپنے رب کی طرف تو اس سے جا ملے گا",
         "persian_text": "ای انسان! تو با رنج و کوشش به سوی پروردگارت می‌روی، پس او را ملاقات خواهی کرد",
         "english_text": "O mankind! You are laboring toward your Lord with great exertion and will meet Him.",
         "transliteration": "Ya ayyuhal-insaanu innaka kaadihun ilaa rabbika kadhan fa mulaaqeeh",
@@ -50,7 +50,7 @@ ayats = [
     {
         "verse_number": "7",
         "arabic_text": "فَاَمَّا مَنْ اُوتِيَ كِتٰبَهُ بِيَمِينِهِ",
-        "urdu_text": "تو جس کو اس کا نامہ اعمال داہنے ہاتھ میں دیا جائے گا",
+        "urdu_text": "تو جس کو اس کا نامه اعمال داهنے هاتھ میں دیا جائے گا",
         "persian_text": "پس آنکه نامه‌اش به دست راستش داده شود،",
         "english_text": "Then as for he who is given his record in his right hand,",
         "transliteration": "Fa-amma man ootiya kitaabahu biyameenih",
@@ -66,7 +66,7 @@ ayats = [
     {
         "verse_number": "9",
         "arabic_text": "وَّ يَنقَلِبُ اِلٰٓى اَهْلِهِ مَسْرُورًا",
-        "urdu_text": "اور وہ خوش ہو کر اپنے گھر والوں کی طرف لوٹے گا",
+        "urdu_text": "اور وه خوش هو کر اپنے گھر والوں کی طرف لوٹے گا",
         "persian_text": "و شادمان به سوی خانواده‌اش بازمی‌گردد",
         "english_text": "And will return to his people in happiness.",
         "transliteration": "Wa yanqalibu ilaa ahlihi masrooran",
@@ -74,7 +74,7 @@ ayats = [
     {
         "verse_number": "10",
         "arabic_text": "وَ اَمَّا مَنْ اُوتِيَ كِتٰبَهُ وَرَآءَ ظَهْرِهِ",
-        "urdu_text": "اور جس کو اس کا نامہ اعمال اس کی پیٹھ کے پیچھے سے دیا جائے گا",
+        "urdu_text": "اور جس کو اس کا نامه اعمال اس کی پیٹھ کے پیچھے سے دیا جائے گا",
         "persian_text": "و اما کسی که نامه‌اش از پشت سرش به او داده شود،",
         "english_text": "But as for he who is given his record behind his back,",
         "transliteration": "Wa amma man ootiya kitaabahu waraa'a zahrih",
@@ -82,7 +82,7 @@ ayats = [
     {
         "verse_number": "11",
         "arabic_text": "فَسَوْفَ يَدْعُوا ثُبُورًا",
-        "urdu_text": "تو وہ ہلاکت پکارے گا",
+        "urdu_text": "تو وه هلاکت پکارے گا",
         "persian_text": "او فریاد بر مرگ خواهد زد،",
         "english_text": "He will cry out for destruction",
         "transliteration": "Fa-sawfa yad'u thubooraa",
@@ -90,7 +90,7 @@ ayats = [
     {
         "verse_number": "12",
         "arabic_text": "وَّ يَصْلَٰى سَعِيرًا",
-        "urdu_text": "اور وہ بھڑکتی آگ میں داخل ہوگا",
+        "urdu_text": "اور وه بھڑکتی آگ میں داخل هوگا",
         "persian_text": "و به آتش سوزان درافکنده می‌شود،",
         "english_text": "And will enter a blazing fire.",
         "transliteration": "Wa yaslaa sa'eera",
@@ -98,7 +98,7 @@ ayats = [
     {
         "verse_number": "13",
         "arabic_text": "اِنَّهُ كَانَ فِىٓ اَهْلِهِ مَسْرُورًا",
-        "urdu_text": "وہ اپنے گھر والوں میں خوش تھا",
+        "urdu_text": "وه اپنے گھر والوں میں خوش تھا",
         "persian_text": "او در میان خانواده‌اش شادمان بود،",
         "english_text": "Indeed, he had been among his people in happiness;",
         "transliteration": "Innahoo kaana fee ahlihi masrooran",
@@ -106,7 +106,7 @@ ayats = [
     {
         "verse_number": "14",
         "arabic_text": "اِنَّهُ ظَنَّ اَن لَّن يَحُورَ",
-        "urdu_text": "وہ سمجھتا تھا کہ وہ واپس نہیں لوٹے گا",
+        "urdu_text": "وه سمجھتا تھا که وه واپس نهیں لوٹے گا",
         "persian_text": "او گمان می‌کرد که هرگز بازنخواهد گشت،",
         "english_text": "Indeed, he had thought he would never return.",
         "transliteration": "Innahoo zanna allayy yahoor",
@@ -114,7 +114,7 @@ ayats = [
     {
         "verse_number": "15",
         "arabic_text": "بَلٰٓى اِنَّ رَبَّهُ كَانَ بِهِ بَصِيرًا",
-        "urdu_text": "کیوں نہیں! اس کا رب اسے خوب دیکھ رہا تھا",
+        "urdu_text": "کیوں نهیں! اس کا رب اسے خوب دیکھ رها تھا",
         "persian_text": "آری! پروردگارش او را همواره می‌دید",
         "english_text": "Yes! Indeed, his Lord was ever of him, Seeing.",
         "transliteration": "Balaa inna rabbahu kaana bihi baseera",
@@ -122,7 +122,7 @@ ayats = [
     {
         "verse_number": "16",
         "arabic_text": "فَلَا اُقْسِمُ بِالشَّفَقِ",
-        "urdu_text": "پس میں شام کی سرخی کی قسم کھاتا ہوں",
+        "urdu_text": "پس میں شام کی سرخی کی قسم کھاتا هوں",
         "persian_text": "سوگند به سرخی شامگاه،",
         "english_text": "But no! I swear by the twilight,",
         "transliteration": "Falaa uqsimu bish-shafaq",
@@ -130,7 +130,7 @@ ayats = [
     {
         "verse_number": "17",
         "arabic_text": "وَ الَّيْلِ وَ مَا وَسَقَ",
-        "urdu_text": "اور رات اور جو کچھ وہ جمع کرتی ہے",
+        "urdu_text": "اور رات اور جو کچھ وه جمع کرتی هے",
         "persian_text": "و به شب و آنچه در خود گرد می‌آورد،",
         "english_text": "And the night and what it envelops,",
         "transliteration": "Wal-layli wa maa wasaq",
@@ -138,7 +138,7 @@ ayats = [
     {
         "verse_number": "18",
         "arabic_text": "وَ الْقَمَرِ اِذَا اتَّسَقَ",
-        "urdu_text": "اور چاند جب وہ پورا ہو جائے",
+        "urdu_text": "اور چاند جب وه پورا هو جائے",
         "persian_text": "و به ماه هنگامی که کامل گردد،",
         "english_text": "And the moon when it becomes full,",
         "transliteration": "Wal-qamari idhaa ittasq",
@@ -154,7 +154,7 @@ ayats = [
     {
         "verse_number": "20",
         "arabic_text": "فَمَا لَهُمْ لَا يُؤْمِنُونَ",
-        "urdu_text": "تو ان کو کیا ہوا کہ ایمان نہیں لاتے؟",
+        "urdu_text": "تو ان کو کیا هوا که ایمان نهیں لاتے؟",
         "persian_text": "پس چه شده آنان را که ایمان نمی‌آورند؟",
         "english_text": "So what is [the matter] with them [that] they do not believe,",
         "transliteration": "Famaalahum laa yu’minoon",
@@ -162,7 +162,7 @@ ayats = [
     {
         "verse_number": "21",
         "arabic_text": "وَ اِذَا قُرِىءَ عَلَيْهِمُ الْقُرْاٰنُ لَا يَسْجُدُونَ",
-        "urdu_text": "اور جب ان کے سامنے قرآن پڑھا جاتا ہے تو سجدہ نہیں کرتے",
+        "urdu_text": "اور جب ان کے سامنے قرآن پڑھا جاتا هے تو سجده نهیں کرتے",
         "persian_text": "و چون قرآن بر آنان خوانده می‌شود، سجده نمی‌کنند؟",
         "english_text": "And when the Quran is recited to them, they do not prostrate?",
         "transliteration": "Wa idhaa quri’a ‘alaihimul Qur’aanu laa yasjudoon",
@@ -170,7 +170,7 @@ ayats = [
     {
         "verse_number": "22",
         "arabic_text": "بَلِ الَّذِينَ كَفَرُوا يُكَذِّبُونَ",
-        "urdu_text": "بلکہ کافر جھٹلاتے ہیں",
+        "urdu_text": "بلکه کافر جھٹلاتے هیں",
         "persian_text": "بلکه کسانی که کافر شدند، تکذیب می‌کنند،",
         "english_text": "But those who disbelieve deny,",
         "transliteration": "Balil-lazeena kafaroo yukazziboon",
@@ -178,7 +178,7 @@ ayats = [
     {
         "verse_number": "23",
         "arabic_text": "وَ اللّٰهُ اَعْلَمُ بِمَا يُوعُونَ",
-        "urdu_text": "اور اللہ خوب جانتا ہے جو کچھ وہ دلوں میں چھپاتے ہیں",
+        "urdu_text": "اور الله خوب جانتا هے جو کچھ وه دلوں میں چھپاتے هیں",
         "persian_text": "و خداوند به آنچه آنان در دل دارند، آگاه‌تر است،",
         "english_text": "And Allah is most knowing of what they keep within themselves.",
         "transliteration": "Wallaahu a’lamu bimaa yoo’oon",
@@ -194,7 +194,7 @@ ayats = [
     {
         "verse_number": "25",
         "arabic_text": "اِلَّا الَّذِينَ اٰمَنُوا وَ عَمِلُوا الصَٰلِحٰتِ لَهُمْ اَجْرٌ غَيْرُ مَمْنُونٍ",
-        "urdu_text": "مگر جو ایمان لائے اور نیک عمل کیے ان کے لیے بے انتہا اجر ہے",
+        "urdu_text": "مگر جو ایمان لائے اور نیک عمل کیے ان کے لیے بے انتها اجر هے",
         "persian_text": "مگر کسانی که ایمان آوردند و اعمال نیک انجام دادند، برای آنان پاداشی بی‌پایان است",
         "english_text": "Except for those who believe and do righteous deeds. For them is a reward uninterrupted.",
         "transliteration": "Illal-lazeena aamanoo wa ‘amilus-saalihaati lahum ajrun ghayru mamnoon",

@@ -1,7 +1,7 @@
 ayats = [
     {
         "arabic_text": "اَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِاَصْحٰبِ الْفِيلِ",
-        "urdu_text": "کیا تم نے نہیں دیکھا کہ تمہارے رب نے ہاتھی والوں کے ساتھ کیا کیا؟",
+        "urdu_text": "کیا تم نے نهیں دیکھا که تمهارے رب نے هاتھی والوں کے ساتھ کیا کیا؟",
         "persian_text": "آیا ندیدی پروردگارت با سپاهیان فیل چه کرد؟",
         "english_text": "Have you not considered how your Lord dealt with the companions of the elephant?",
         "transliteration": "Alam tara kayfa fa‘ala rabbuka bi-aṣḥābi l-fīl",
@@ -9,7 +9,7 @@ ayats = [
     },
     {
         "arabic_text": "اَلَمْ يَجْعَلْ كَيْدَهُمْ فِي تَضْلِيلٍ",
-        "urdu_text": "کیا اس نے ان کے منصوبے کو ناکام نہیں کر دیا؟",
+        "urdu_text": "کیا اس نے ان کے منصوبے کو ناکام نهیں کر دیا؟",
         "persian_text": "آیا مکرشان را در گمراهی نینداخت؟",
         "english_text": "Did He not make their plan into misguidance?",
         "transliteration": "Alam yaj‘al kaydahum fī taḍlīl",
@@ -25,7 +25,7 @@ ayats = [
     },
     {
         "arabic_text": "تَرْمِيهِم بِحِجَارَةٍ مِّن سِجِّيلٍ",
-        "urdu_text": "جو انہیں سجیل کے پتھروں سے مارتے۔",
+        "urdu_text": "جو انهیں سجیل کے پتھروں سے مارتے۔",
         "persian_text": "که آنان را با سنگ‌های سجیل می‌انداخت.",
         "english_text": "Striking them with stones of hard clay,",
         "transliteration": "Tarmīhim bi-ḥijāratin min sijjīl",
@@ -33,7 +33,7 @@ ayats = [
     },
     {
         "arabic_text": "فَجَعَلَهُمْ كَعَصْفٍ مَّاْكُولٍ",
-        "urdu_text": "پس انہیں کٹا ہوا گھاس کی مانند کر دیا۔",
+        "urdu_text": "پس انهیں کٹا هوا گھاس کی مانند کر دیا۔",
         "persian_text": "پس آنان را چون علف‌کنده‌شده قرار داد.",
         "english_text": "And He made them like eaten straw.",
         "transliteration": "Faja‘alahum ka‘aṣfin ma’kūl",

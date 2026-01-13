@@ -25,7 +25,7 @@ ayats = [
   {
     "verse_number": 3,
     "english_text": "What does the man think that we will not be able to gather his bones.",
-    "arabic_text": "أَيَحْسَبُ ٱلْإِنسَـٰنُ أَلَّن نَّجْمَعَ عِظَامَهُۥ",
+    "arabic_text": "اَيَحْسَبُ ٱلْإِنسَـٰنُ اَلَّن نَّجْمَعَ عِظَامَهُۥ",
     "urdu_text": "کیا انسان یہ سمجھتا ہے کہ ہم اس کی ہڈیوں کو جمع نہیں کر سکیں گے۔",
     "persian_text": "آیا انسان گمان می‌برد که ما استخوان‌هایش را جمع نخواهیم کرد.",
     "transliteration": "Ayahsabul insaanu allan najma'a 'izaamah"
@@ -33,7 +33,7 @@ ayats = [
   {
     "verse_number": 4,
     "english_text": "Verily we are capable of it that we can make even upto his very fingertips.",
-    "arabic_text": "بَلَىٰ قَـٰدِرِينَ عَلَىٰٓ أَن نُّسَوِّىَ بَنَانَهُۥ",
+    "arabic_text": "بَلَىٰ قَـٰدِرِينَ عَلَىٰٓ اَن نُّسَوِّىَ بَنَانَهُۥ",
     "urdu_text": "کیوں نہیں، ہم اس پر قادر ہیں کہ اس کی انگلیوں کے پوروں تک کو درست کر دیں۔",
     "persian_text": "آری، ما قادریم که حتی سر انگشتان او را نیز مرتب سازیم.",
     "transliteration": "Balaa qaadireena 'alaaa an nusawwiya banaa nah"
@@ -41,7 +41,7 @@ ayats = [
   {
     "verse_number": 5,
     "english_text": "Whereas man wants to continue doing bad deed in front of himself.",
-    "arabic_text": "بَلْ يُرِيدُ ٱلْإِنسَـٰنُ لِيَفْجُرَ أَمَامَهُۥ",
+    "arabic_text": "بَلْ يُرِيدُ ٱلْإِنسَـٰنُ لِيَفْجُرَ اَمَامَهُۥ",
     "urdu_text": "بلکہ انسان چاہتا ہے کہ اپنے آگے بھی بدکاری کرتا رہے۔",
     "persian_text": "بلکه انسان می‌خواهد که پیش روی خود نیز گناه کند.",
     "transliteration": "Bal yureedul insaanu liyafjura amaamah"
@@ -49,7 +49,7 @@ ayats = [
   {
     "verse_number": 6,
     "english_text": "And he asks when the Day of Judgement will come.",
-    "arabic_text": "يَسْـَٔلُ أَيَّانَ يَوْمُ ٱلْقِيَـٰمَةِ",
+    "arabic_text": "يَسْـَٔلُ اَيَّانَ يَوْمُ ٱلْقِيَـٰمَةِ",
     "urdu_text": "اور وہ پوچھتا ہے کہ قیامت کا دن کب آئے گا۔",
     "persian_text": "و می‌پرسد که روز قیامت کی است.",
     "transliteration": "Yas'alu ayyaana yawmul qiyaamah"
@@ -81,7 +81,7 @@ ayats = [
   {
     "verse_number": 10,
     "english_text": "That day man will say now where is the way to escape.",
-    "arabic_text": "يَقُولُ ٱلْإِنسَـٰنُ يَوْمَئِذٍ أَيْنَ ٱلْمَفَرُّ",
+    "arabic_text": "يَقُولُ ٱلْإِنسَـٰنُ يَوْمَئِذٍ اَيْنَ ٱلْمَفَرُّ",
     "urdu_text": "اس دن انسان کہے گا کہ اب بھاگنے کی جگہ کہاں ہے۔",
     "persian_text": "در آن روز انسان می‌گوید که راه گریز کجاست.",
     "transliteration": "Yaqoolul insaanu yawma'izin aynal mafarr"
@@ -105,7 +105,7 @@ ayats = [
   {
     "verse_number": 13,
     "english_text": "That day man will be told what deeds he has done before and after.",
-    "arabic_text": "يُنَبَّؤُا۟ ٱلْإِنسَـٰنُ يَوْمَئِذٍۭ بِمَا قَدَّمَ وَأَخَّرَ",
+    "arabic_text": "يُنَبَّؤُاْ ٱلْإِنسَـٰنُ يَوْمَئِذٍۭ بِمَا قَدَّمَ وَاَخَّرَ",
     "urdu_text": "اس دن انسان کو بتا دیا جائے گا جو اس نے آگے بھیجا اور جو پیچھے چھوڑا۔",
     "persian_text": "در آن روز به انسان خبر داده می‌شود از آنچه پیش فرستاده و آنچه پس انداخته است.",
     "transliteration": "Yunabbau al-insanu yawma'idhin bima qaddama wa akhkhara"
@@ -121,7 +121,7 @@ ayats = [
   {
     "verse_number": 15,
     "english_text": "He may present any number of excuses.",
-    "arabic_text": "وَلَوْ أَلْقَىٰ مَعَاذِيرَهُۥ",
+    "arabic_text": "وَلَوْ اَلْقَىٰ مَعَاذِيرَهُۥ",
     "urdu_text": "اگرچہ وہ کتنے ہی بہانے پیش کرے۔",
     "persian_text": "اگرچه عذرهای خود را بیاورد.",
     "transliteration": "Wa law alqa ma'adheerahu"
@@ -201,7 +201,7 @@ ayats = [
   {
     "verse_number": 25,
     "english_text": "They will think that the affliction may befall them anytime.",
-    "arabic_text": "تَظُنُّ أَن يُفْعَلَ بِهَا فَاقِرَةٌۭ",
+    "arabic_text": "تَظُنُّ اَن يُفْعَلَ بِهَا فَاقِرَةٌۭ",
     "urdu_text": "وہ سمجھیں گے کہ ان کے ساتھ کوئی بڑی مصیبت پیش آنے والی ہے۔",
     "persian_text": "گمان می‌برند که بلای سختی بر آنها وارد خواهد شد.",
     "transliteration": "Tazunnu an yuf'ala bihaa faaqirah"
@@ -225,7 +225,7 @@ ayats = [
   {
     "verse_number": 28,
     "english_text": "And people dying will think now there is separation from all.",
-    "arabic_text": "وَظَنَّ أَنَّهُ ٱلْفِرَاقُ",
+    "arabic_text": "وَظَنَّ اَنَّهُ ٱلْفِرَاقُ",
     "urdu_text": "اور مرنے والا یقین کر لے گا کہ یہ جدائی کا وقت ہے۔",
     "persian_text": "و یقین کند که این همان جدایی است.",
     "transliteration": "Wa zanna annahul firaaq"
@@ -265,7 +265,7 @@ ayats = [
   {
     "verse_number": 33,
     "english_text": "Then went toward his family with arrogance.",
-    "arabic_text": "ثُمَّ ذَهَبَ إِلَىٰٓ أَهْلِهِۦ يَتَمَطَّىٰٓ",
+    "arabic_text": "ثُمَّ ذَهَبَ إِلَىٰٓ اَهْلِهِۦ يَتَمَطَّىٰٓ",
     "urdu_text": "پھر اپنے گھر والوں کی طرف اکڑتا ہوا چلا گیا",
     "persian_text": "سپس به سوی خانواده‌اش با تکبر رفت",
     "transliteration": "Thumma dhahaba ila ahlihi yatamatta"
@@ -273,7 +273,7 @@ ayats = [
   {
     "verse_number": 34,
     "english_text": "Alas; on your condition, alas!",
-    "arabic_text": "أَوْلَىٰ لَكَ فَأَوْلَىٰ",
+    "arabic_text": "اَوْلَىٰ لَكَ فَاَوْلَىٰ",
     "urdu_text": "تیرے لیے ہلاکت ہے، پھر ہلاکت",
     "persian_text": "وای بر تو، پس وای",
     "transliteration": "Awla laka fa-awla"
@@ -281,7 +281,7 @@ ayats = [
   {
     "verse_number": 35,
     "english_text": "Alas, hundred times alas!",
-    "arabic_text": "ثُمَّ أَوْلَىٰ لَكَ فَأَوْلَىٰٓ",
+    "arabic_text": "ثُمَّ اَوْلَىٰ لَكَ فَاَوْلَىٰٓ",
     "urdu_text": "پھر تیرے لیے ہلاکت ہے، پھر ہلاکت",
     "persian_text": "باز وای بر تو، پس وای",
     "transliteration": "Thumma awla laka fa-awla"
@@ -289,7 +289,7 @@ ayats = [
   {
     "verse_number": 36,
     "english_text": "Does the human perceive that he will be left free like this?",
-    "arabic_text": "أَيَحْسَبُ ٱلْإِنسَـٰنُ أَن يُتْرَكَ سُدًى",
+    "arabic_text": "اَيَحْسَبُ ٱلْإِنسَـٰنُ اَن يُتْرَكَ سُدًى",
     "urdu_text": "کیا انسان یہ سمجھتا ہے کہ وہ یونہی آزاد چھوڑ دیا جائے گا؟",
     "persian_text": "آیا انسان می‌پندارد که بی‌حساب رها خواهد شد؟",
     "transliteration": "Ayahsabul insanu ay yutraka suda"
@@ -297,7 +297,7 @@ ayats = [
   {
     "verse_number": 37,
     "english_text": "Was not he a drop of semen which is put in the womb.",
-    "arabic_text": "أَلَمْ يَكُ نُطْفَةًۭ مِّن مَّنِىٍّۢ يُمْنَىٰ",
+    "arabic_text": "اَلَمْ يَكُ نُطْفَةًۭ مِّن مَّنِىٍّۢ يُمْنَىٰ",
     "urdu_text": "کیا وہ منی کا ایک قطرہ نہیں تھا جو رحم میں ڈالا گیا؟",
     "persian_text": "آیا او نطفه‌ای از منی نبود که ریخته شد؟",
     "transliteration": "Alam yaku nutfatam min maniyyin yumna"
@@ -321,7 +321,7 @@ ayats = [
   {
     "verse_number": 40,
     "english_text": "Is that Allah not capable of this to bring to life again the dead ones?",
-    "arabic_text": "أَلَيْسَ ذَٰلِكَ بِقَـٰدِرٍ عَلَىٰٓ أَن يُحْـِۧىَ ٱلْمَوْتَىٰ",
+    "arabic_text": "اَلَيْسَ ذَٰلِكَ بِقَـٰدِرٍ عَلَىٰٓ اَن يُحْـِۧىَ ٱلْمَوْتَىٰ",
     "urdu_text": "کیا وہ اللہ اس پر قادر نہیں کہ مردوں کو دوبارہ زندہ کر دے؟",
     "persian_text": "آیا آن خداوند قادر نیست که مردگان را زنده کند؟",
     "transliteration": "Alaysa dhalika biqadirin 'ala ay yuhyiyal mawta"

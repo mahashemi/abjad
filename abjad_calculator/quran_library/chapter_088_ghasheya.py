@@ -1,7 +1,7 @@
 ayats = [
     {
         "arabic_text": "هَلْ اَتٰكَ حَدِيثُ الْغَاشِيَةِ",
-        "urdu_text": "کیا آپ کے پاس چھا جانے والی (قیامت) کی خبر آئی ہے؟",
+        "urdu_text": "کیا آپ کے پاس چھا جانے والی (قیامت) کی خبر آئی هے؟",
         "persian_text": "آیا خبر آن روز پوشاننده (قیامت) به تو رسیده است؟",
         "english_text": "Has there reached you the report of the overwhelming event?",
         "transliteration": "Hal atāka ḥadīthu al-ghāshiyah",
@@ -9,7 +9,7 @@ ayats = [
     },
     {
         "arabic_text": "وُجُوهٌ يَوْمَئِذٍ خَاشِعَةٌ",
-        "urdu_text": "اس دن کچھ چہرے جھکے ہوں گے،",
+        "urdu_text": "اس دن کچھ چهرے جھکے هوں گے،",
         "persian_text": "در آن روز چهره‌هایی خاضع و فروتن خواهند بود،",
         "english_text": "Some faces that Day will be humbled,",
         "transliteration": "Wujūhun yawma'idhin khāshiʿah",
@@ -17,7 +17,7 @@ ayats = [
     },
     {
         "arabic_text": "عَامِلَةٌ نَّاصِبَةٌ",
-        "urdu_text": "کوشش کرنے والے، تھکے ہوئے،",
+        "urdu_text": "کوشش کرنے والے، تھکے هوئے،",
         "persian_text": "کار کرده و رنج کشیده،",
         "english_text": "Laboring, weary.",
         "transliteration": "ʿĀmilatun nāṣibah",
@@ -25,7 +25,7 @@ ayats = [
     },
     {
         "arabic_text": "تَصْلَٰى نَارًا حَامِيَةً",
-        "urdu_text": "وہ دہکتی ہوئی آگ میں داخل ہوں گے،",
+        "urdu_text": "وه دهکتی هوئی آگ میں داخل هوں گے،",
         "persian_text": "در آتشی سوزان درخواهند آمد،",
         "english_text": "They will enter to burn in a blazing fire,",
         "transliteration": "Taṣlā nāran ḥāmiyah",
@@ -33,7 +33,7 @@ ayats = [
     },
     {
         "arabic_text": "تُسْقٰى مِنْ عَيْنٍ انِيَةٍ",
-        "urdu_text": "ان کو ایک کھولتے ہوئے چشمے سے پلایا جائے گا،",
+        "urdu_text": "ان کو ایک کھولتے هوئے چشمے سے پلایا جائے گا،",
         "persian_text": "از چشمه‌ای بسیار داغ نوشانده خواهند شد،",
         "english_text": "They will be given drink from a boiling spring,",
         "transliteration": "Tusqā min ʿaynin āniyah",
@@ -41,7 +41,7 @@ ayats = [
     },
     {
         "arabic_text": "لَّيْسَ لَهُمْ طَعَامٌ اِلَّا مِن ضَرِيعٍ",
-        "urdu_text": "ان کے لئے کوئی کھانا نہیں ہو گا سوائے خاردار جھاڑ کے،",
+        "urdu_text": "ان کے لئے کوئی کھانا نهیں هو گا سوائے خاردار جھاڑ کے،",
         "persian_text": "برای آنها خوراکی نیست جز خار تلخ،",
         "english_text": "For them there will be no food except from a poisonous, thorny plant,",
         "transliteration": "Laysa lahum ṭaʿāmun illā min ḍarīʿ",
@@ -49,7 +49,7 @@ ayats = [
     },
     {
         "arabic_text": "لَّا يُسْمِنُ وَ لَا يُغْنِى مِن جُوعٍ",
-        "urdu_text": "جو نہ موٹا کرے گا، نہ بھوک مٹائے گا۔",
+        "urdu_text": "جو نه موٹا کرے گا، نه بھوک مٹائے گا۔",
         "persian_text": "که نه فربه می‌کند و نه از گرسنگی بی‌نیاز می‌سازد.",
         "english_text": "Which neither nourishes nor avails against hunger.",
         "transliteration": "Lā yusminu walā yugh'nī min jūʿ",
@@ -57,7 +57,7 @@ ayats = [
     },
     {
         "arabic_text": "وُجُوهٌ يَوْمَئِذٍ نَّاعِمَةٌ",
-        "urdu_text": "اس دن کچھ چہرے خوشحال ہوں گے،",
+        "urdu_text": "اس دن کچھ چهرے خوشحال هوں گے،",
         "persian_text": "در آن روز چهره‌هایی باطراوت و شادمان خواهند بود،",
         "english_text": "Other faces that Day will show pleasure,",
         "transliteration": "Wujūhun yawma'idhin nāʿimah",
@@ -65,7 +65,7 @@ ayats = [
     },
     {
         "arabic_text": "لِّسَعْيِهَا رَاضِيَةٌ",
-        "urdu_text": "اپنی کوشش پر خوش ہوں گے،",
+        "urdu_text": "اپنی کوشش پر خوش هوں گے،",
         "persian_text": "از تلاش خود خرسند خواهند بود،",
         "english_text": "With their effort [they are] satisfied,",
         "transliteration": "Li saʿyihā rāḍiyah",
@@ -73,7 +73,7 @@ ayats = [
     },
     {
         "arabic_text": "فِى جَنَّةٍ عَالِيَةٍ",
-        "urdu_text": "بلند جنت میں ہوں گے،",
+        "urdu_text": "بلند جنت میں هوں گے،",
         "persian_text": "در بهشتی بلند مقام خواهند بود،",
         "english_text": "In an elevated garden,",
         "transliteration": "Fī jannatin ʿāliyah",
@@ -81,7 +81,7 @@ ayats = [
     },
     {
         "arabic_text": "لَّا تَسْمَعُ فِيهَا لَاغِيَةً",
-        "urdu_text": "جہاں کوئی لغو بات نہ سنیں گے،",
+        "urdu_text": "جهاں کوئی لغو بات نه سنیں گے،",
         "persian_text": "در آنجا سخن بیهوده‌ای نخواهند شنید،",
         "english_text": "Wherein they will hear no unsuitable speech.",
         "transliteration": "Lā tasmaʿu fīhā lāghiyah",
@@ -89,7 +89,7 @@ ayats = [
     },
     {
         "arabic_text": "فِيهَا عَيْنٌ جَارِيَةٌ",
-        "urdu_text": "اس میں ایک بہتی ہوئی نہر ہو گی،",
+        "urdu_text": "اس میں ایک بهتی هوئی نهر هو گی،",
         "persian_text": "در آنجا چشمه‌ای جاری خواهد بود،",
         "english_text": "Within it is a flowing spring –",
         "transliteration": "Fīhā ʿaynun jāriyah",
@@ -97,7 +97,7 @@ ayats = [
     },
     {
         "arabic_text": "فِيهَا سُرُرٌ مَّرْفُوعَةٌ",
-        "urdu_text": "اس میں اونچے تخت ہوں گے،",
+        "urdu_text": "اس میں اونچے تخت هوں گے،",
         "persian_text": "در آنجا تخت‌هایی بلند خواهد بود،",
         "english_text": "Within it are raised couches,",
         "transliteration": "Fīhā sururun marfūʿah",
@@ -105,7 +105,7 @@ ayats = [
     },
     {
         "arabic_text": "وَ اَكْوَابٌ مَّوْضُوعَةٌ",
-        "urdu_text": "اور رکھے ہوئے پیالے،",
+        "urdu_text": "اور رکھے هوئے پیالے،",
         "persian_text": "و جام‌هایی آماده،",
         "english_text": "And cups put in place,",
         "transliteration": "Wa akwābun mawḍūʿah",
@@ -113,7 +113,7 @@ ayats = [
     },
     {
         "arabic_text": "وَ نَمَارِقُ مَصْفُوفَةٌ",
-        "urdu_text": "اور قطار میں لگے ہوئے گاؤ تکیے،",
+        "urdu_text": "اور قطار میں لگے هوئے گاؤ تکیے،",
         "persian_text": "و بالش‌هایی چیده شده،",
         "english_text": "And cushions lined up,",
         "transliteration": "Wa namāriqu maṣfūfah",
@@ -121,7 +121,7 @@ ayats = [
     },
     {
         "arabic_text": "وَ زَرَابِىُّ مَبْثُوثَةٌ",
-        "urdu_text": "اور بچھے ہوئے قالین،",
+        "urdu_text": "اور بچھے هوئے قالین،",
         "persian_text": "و فرش‌هایی گسترده،",
         "english_text": "And carpets spread around.",
         "transliteration": "Wa zarābiyyu mabthūthah",
@@ -130,7 +130,7 @@ ayats = [
     {
         "verse_number": "17",
         "arabic_text": "اَفَلَا يَنظُرُونَ اِلَى الْاِبِلِ كَيْفَ خُلِقَتْ",
-        "urdu_text": "کیا وہ اونٹوں کی طرف نہیں دیکھتے کہ وہ کیسے پیدا کیے گئے",
+        "urdu_text": "کیا وه اونٹوں کی طرف نهیں دیکھتے که وه کیسے پیدا کیے گئے",
         "persian_text": "آیا به شتران نمی‌نگرند که چگونه آفریده شده‌اند؟",
         "english_text": "Do they not look at the camels, how they are created?",
         "transliteration": "Afala yanzuroona ilal-ibili kaifa khuliqat",
@@ -138,7 +138,7 @@ ayats = [
     {
         "verse_number": "18",
         "arabic_text": "وَ اِلَى السَّمَآءِ كَيْفَ رُفِعَتْ",
-        "urdu_text": "اور آسمان کی طرف کہ کس طرح بلند کیا گیا",
+        "urdu_text": "اور آسمان کی طرف که کس طرح بلند کیا گیا",
         "persian_text": "و به آسمان که چگونه بالا برده شده؟",
         "english_text": "And at the sky, how it is raised high?",
         "transliteration": "Wa ilas-samaa'i kaifa rufi'at",
@@ -146,7 +146,7 @@ ayats = [
     {
         "verse_number": "19",
         "arabic_text": "وَ اِلَى الْجِبَالِ كَيْفَ نُصِبَتْ",
-        "urdu_text": "اور پہاڑوں کی طرف کہ کس طرح گاڑے گئے",
+        "urdu_text": "اور پهاڑوں کی طرف که کس طرح گاڑے گئے",
         "persian_text": "و به کوه‌ها که چگونه برپا شده‌اند؟",
         "english_text": "And at the mountains, how they are fixed firm?",
         "transliteration": "Wa ilal-jibaali kaifa nusibat",
@@ -154,7 +154,7 @@ ayats = [
     {
         "verse_number": "20",
         "arabic_text": "وَ اِلَى الْاَرْضِ كَيْفَ سُطِحَتْ",
-        "urdu_text": "اور زمین کی طرف کہ کس طرح بچھائی گئی",
+        "urdu_text": "اور زمین کی طرف که کس طرح بچھائی گئی",
         "persian_text": "و به زمین که چگونه گسترده شده؟",
         "english_text": "And at the earth, how it is spread out?",
         "transliteration": "Wa ilal-ardi kaifa sutihat",
@@ -162,7 +162,7 @@ ayats = [
     {
         "verse_number": "21",
         "arabic_text": "فَذَكِّرْ اِنَّمَآ اَنتَ مُذَكِّرٌ",
-        "urdu_text": "پس آپ نصیحت کیجیے، آپ تو صرف نصیحت کرنے والے ہیں",
+        "urdu_text": "پس آپ نصیحت کیجیے، آپ تو صرف نصیحت کرنے والے هیں",
         "persian_text": "پس پند بده، تو تنها پنددهنده‌ای.",
         "english_text": "So remind, indeed, you are only a reminder.",
         "transliteration": "Fadhakkir innama anta mudhakkir",
@@ -170,7 +170,7 @@ ayats = [
     {
         "verse_number": "22",
         "arabic_text": "لَّسْتَ عَلَيْهِم بِمُصَيْطِرٍ",
-        "urdu_text": "آپ ان پر جبر کرنے والے نہیں ہیں",
+        "urdu_text": "آپ ان پر جبر کرنے والے نهیں هیں",
         "persian_text": "تو بر آنان تسلّط نداری.",
         "english_text": "You are not over them a controller.",
         "transliteration": "Lasta 'alaihim bimusaitir",
@@ -178,7 +178,7 @@ ayats = [
     {
         "verse_number": "23",
         "arabic_text": "اِلَّا مَنْ تَوَلّٰى وَ كَفَرَ",
-        "urdu_text": "مگر وہ جس نے منہ موڑا اور کفر کیا",
+        "urdu_text": "مگر وه جس نے منه موڑا اور کفر کیا",
         "persian_text": "مگر آن‌که روی برگرداند و کفر ورزید.",
         "english_text": "Except he who turns away and disbelieves.",
         "transliteration": "Illaa man tawallaa wa kafar",
@@ -186,7 +186,7 @@ ayats = [
     {
         "verse_number": "24",
         "arabic_text": "فَيُعَذِّبُهُ اللّٰهُ الْعَذَابَ الْاَكْبَرَ",
-        "urdu_text": "پھر اللہ اسے بڑا عذاب دے گا",
+        "urdu_text": "پھر الله اسے بڑا عذاب دے گا",
         "persian_text": "پس خدا او را به عذاب بزرگ دچار می‌سازد.",
         "english_text": "Then Allah will punish him with the greatest punishment.",
         "transliteration": "Fa yu'azzibuhullaahu al'azaabal-akbar",
@@ -194,7 +194,7 @@ ayats = [
     {
         "verse_number": "25",
         "arabic_text": "اِنَّ اِلَيْنَآ اِيَابَهُمْ",
-        "urdu_text": "بے شک ہماری ہی طرف ان کا لوٹ کر آنا ہے",
+        "urdu_text": "بے شک هماری هی طرف ان کا لوٹ کر آنا هے",
         "persian_text": "بی‌گمان بازگشت آنان به سوی ماست.",
         "english_text": "Indeed, to Us is their return.",
         "transliteration": "Inna ilayna iyaabahum",
@@ -202,7 +202,7 @@ ayats = [
     {
         "verse_number": "26",
         "arabic_text": "ثُمَّ اِنَّ عَلَيْنَا حِسَابَهُمْ",
-        "urdu_text": "پھر بے شک ہمارے ذمے ان کا حساب لینا ہے",
+        "urdu_text": "پھر بے شک همارے ذمے ان کا حساب لینا هے",
         "persian_text": "سپس حسابشان بر عهده ماست.",
         "english_text": "Then indeed, upon Us is their account.",
         "transliteration": "Thumma inna 'alainaa hisaabahum",

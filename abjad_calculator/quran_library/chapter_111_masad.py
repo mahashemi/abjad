@@ -1,7 +1,7 @@
 ayats = [
     {
         "arabic_text": "تَبَّتْ يَدَآ اَبِى لَهَبٍ وَّ تَبَّ",
-        "urdu_text": "تباہ ہوں ابو لہب کے دونوں ہاتھ اور خود وہ بھی تباہ ہو جائے",
+        "urdu_text": "تباه هوں ابو لهب کے دونوں هاتھ اور خود وه بھی تباه هو جائے",
         "persian_text": "هلاک باد دو دستِ ابو لهب و خود او",
         "english_text": "Perish the hands of Abu Lahab, and perish he!",
         "transliteration": "Tabbat yaday abī lahabin wa tabb",
@@ -10,7 +10,7 @@ ayats = [
     {
         "Surah": "Al-Masad (Al-Lahab)",
         "arabic_text": "مَآ اَغْنٰى عَنْهُ مَالُهُ وَ مَا كَسَبَ",
-        "urdu_text": "نہ اس کا مال کچھ فائدہ دے گا نہ جو وہ کمایا",
+        "urdu_text": "نه اس کا مال کچھ فائده دے گا نه جو وه کمایا",
         "persian_text": "نه مالش سود بخشید و نه آنچه به دست آورد",
         "english_text": "His wealth will not avail him or that which he gained.",
         "transliteration": "Mā aghnā ‘anhu māluhu wamā kasab",
@@ -19,7 +19,7 @@ ayats = [
     {
         "Surah": "Al-Masad (Al-Lahab)",
         "arabic_text": "سَيَصْلَٰى نَارًا ذَاتَ لَهَبٍ",
-        "urdu_text": "وہ ضرور شعلۂ آتش میں داخل ہوگا",
+        "urdu_text": "وه ضرور شعلۂ آتش میں داخل هوگا",
         "persian_text": "به زودی در آتشی شعله‌ور وارد خواهد شد",
         "english_text": "He will [enter to] burn in a Fire of blazing flame.",
         "transliteration": "Sayaslā nāran dhāta lahab",
@@ -28,7 +28,7 @@ ayats = [
     {
         "Surah": "Al-Masad (Al-Lahab)",
         "arabic_text": "وَّ امْرَاَتُهُۥ حَمَّالَةَ الْحَطَبِ",
-        "urdu_text": "اور اس کی بیوی، جو ہیزم اٹھانے والی ہے",
+        "urdu_text": "اور اس کی بیوی، جو هیزم اٹھانے والی هے",
         "persian_text": "و همسرش که هیزم‌کش است",
         "english_text": "And his wife [as well]—the carrier of firewood—",
         "transliteration": "Wa­imra’atuhu ḥammālata-l-ḥaṭab",
@@ -37,7 +37,7 @@ ayats = [
     {
         "Surah": "Al-Masad (Al-Lahab)",
         "arabic_text": "فِى جِيدِهَا حَبْلٌ مِّنْ مَّسَدٍ",
-        "urdu_text": "جو اس کی گردن میں رسی مسد کی بندھی ہوئی ہے",
+        "urdu_text": "جو اس کی گردن میں رسی مسد کی بندھی هوئی هے",
         "persian_text": "در گردن او ریسمانی از لیف خرماست",
         "english_text": "Around her neck is a rope of twisted fiber.",
         "transliteration": "Fī jīdihā ḥablun min masad",

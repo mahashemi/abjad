@@ -1,7 +1,7 @@
 ayats = [
     {
         "arabic_text": "وَ الشَّمْسِ وَ ضُحٰهَا",
-        "urdu_text": "قسم ہے سورج کی اور اس کی دھوپ کی،",
+        "urdu_text": "قسم هے سورج کی اور اس کی دھوپ کی،",
         "persian_text": "سوگند به خورشید و روشنایی آن،",
         "english_text": "By the sun and its brightness,",
         "transliteration": "Wash-shamsi wa ḍuḥāhā",
@@ -57,7 +57,7 @@ ayats = [
     },
     {
         "arabic_text": "فَاَلْهَمَهَا فُجُورَهَا وَ تَقْوٰهَا",
-        "urdu_text": "پھر اسے اس کی بدی اور اس کی پرہیزگاری سجھا دی،",
+        "urdu_text": "پھر اسے اس کی بدی اور اس کی پرهیزگاری سجھا دی،",
         "persian_text": "پس بدی و پرهیزگاری آن را به آن الهام کرد،",
         "english_text": "And inspired it [with discernment of] its wickedness and its righteousness,",
         "transliteration": "Fa-alhamahā fujūrahā wa taqwāhā",
@@ -65,7 +65,7 @@ ayats = [
     },
     {
         "arabic_text": "قَدْ اَفْلَحَ مَن زَكّٰهَا",
-        "urdu_text": "یقیناً وہ کامیاب ہو گیا جس نے اسے پاک کر لیا،",
+        "urdu_text": "یقیناً وه کامیاب هو گیا جس نے اسے پاک کر لیا،",
         "persian_text": "قطعاً رستگار شد آنکه آن را پاک گردانید،",
         "english_text": "He has succeeded who purifies it,",
         "transliteration": "Qad aflaha man zakkāhā",
@@ -73,7 +73,7 @@ ayats = [
     },
     {
         "arabic_text": "وَ قَدْ خَابَ مَن دَسّٰهَا",
-        "urdu_text": "اور ناکام ہوا وہ جس نے اسے آلودہ کیا،",
+        "urdu_text": "اور ناکام هوا وه جس نے اسے آلوده کیا،",
         "persian_text": "و ناکام شد آنکه آن را آلوده ساخت،",
         "english_text": "And he has failed who instills it [with corruption].",
         "transliteration": "Wa qad khāba man dassāhā",
@@ -81,7 +81,7 @@ ayats = [
     },
     {
         "arabic_text": "كَذَّبَتْ ثَمُودُ بِطَغْوٰهَا",
-        "urdu_text": "قوم ثمود نے اپنی سرکشی کی وجہ سے جھٹلایا",
+        "urdu_text": "قوم ثمود نے اپنی سرکشی کی وجه سے جھٹلایا",
         "persian_text": "قوم ثمود از روی طغیان (پیامبر خود را) تکذیب کرد",
         "english_text": "Thamud denied [their prophet] by reason of their transgression.",
         "transliteration": "Kadh-dhabat thamūdu bi-ṭaghwāhā",
@@ -89,7 +89,7 @@ ayats = [
     },
     {
         "arabic_text": "اِذِ انْبَعَثَ اَشْقٰهَا",
-        "urdu_text": "جب ان میں کا بدبخت ترین شخص اٹھ کھڑا ہوا",
+        "urdu_text": "جب ان میں کا بدبخت ترین شخص اٹھ کھڑا هوا",
         "persian_text": "آنگاه که بدبخت‌ترینشان برخاست",
         "english_text": "When the most wretched of them was sent forth.",
         "transliteration": "Idhin ba‘atha ashqāhā",
@@ -97,7 +97,7 @@ ayats = [
     },
     {
         "arabic_text": "فَقَالَ لَهُمْ رَسُولُ اللّٰهِ نَاقَةَ اللّٰهِ وَ سُقْيٰهَا",
-        "urdu_text": "تو اللہ کے رسول نے ان سے فرمایا: اللہ کی اونٹنی اور اس کے پانی پینے کا حق (بچاؤ)",
+        "urdu_text": "تو الله کے رسول نے ان سے فرمایا: الله کی اونٹنی اور اس کے پانی پینے کا حق (بچاؤ)",
         "persian_text": "فرستاده خدا به آنان گفت: ناقه خدا و آبشخورش را (محترم دارید)",
         "english_text": "But the Messenger of Allah said to them, '[Do not harm] the she-camel of Allah or [prevent] her from her drink.'",
         "transliteration": "Faqāla lahum rasūlullāhi nāqata-llāhi wa suqyāhā",
@@ -105,7 +105,7 @@ ayats = [
     },
     {
         "arabic_text": "فَكَذَّبُوهُ فَعَقَرُوهَا فدَمْدَمَ عَلَيْهِمْ رَبُّهُم بِذَنْبِهِمْ فَسَوّٰهَا",
-        "urdu_text": "پھر انہوں نے اس کو جھٹلایا اور اس کی کونچیں کاٹ ڈالیں تو خدا نے ان کے گناہ کے سبب اُن پر عذاب نازل کیا اور اُن کو برابر کر دیا",
+        "urdu_text": "پھر انهوں نے اس کو جھٹلایا اور اس کی کونچیں کاٹ ڈالیں تو خدا نے ان کے گناه کے سبب اُن پر عذاب نازل کیا اور اُن کو برابر کر دیا",
         "persian_text": "پس او را دروغ شمردند و (ناقۀ را) پی کردند، آنگاه پروردگارشان به (سزای) گناهشان بر آنان غضب کرد و آنان را درهم کوبید.",
         "english_text": "But they denied him and hamstrung her. So their Lord crushed them for their sin and leveled them.",
         "transliteration": "fa-kadhdhabūhu fa-ʿaqarūhā fa-damdama ʿalayhim rabbuhum bi-dhanbihim fa-sawwāhā",
@@ -113,7 +113,7 @@ ayats = [
     },
     {
         "arabic_text": "وَ لَا يَخَافُ عُقْبٰهَا",
-        "urdu_text": "اور وہ اس کے انجام سے نہیں ڈرتا",
+        "urdu_text": "اور وه اس کے انجام سے نهیں ڈرتا",
         "persian_text": "و (خدا) از عاقبت آن (کار) نمی‌ترسد",
         "english_text": "And He does not fear its consequence.",
         "transliteration": "Wa lā yakhāfu ‘uqbāhā",

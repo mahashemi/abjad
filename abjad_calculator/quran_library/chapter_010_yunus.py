@@ -306,7 +306,7 @@ ayats = [
     {
         "arabic_text": "بَلْ كَذَّبُوا بِمَا لَمْ يُحِيطُوا بِعِلْمِهِ وَ لَمَّا يَاْتِهِمْ تَاْوِيلُهُ ۚ كَذٰلِكَ كَذَّبَ الَّذِينَ مِن قَبْلِهِمْ ۖ فَانظُرْ كَيْفَ كَانَ عَاقِبَةُ الظّٰلِمِينَ",
         "urdu_text": "بلکہ انہوں نے اس چیز کو جھٹلایا جس کے علم کا احاطہ انہوں نے نہیں کیا اور ابھی اس کی تاویل ان کے پاس نہیں اٰئی، اسی طرح ان سے پہلے والوں نے بھی جھٹلایا تھا، پس دیکھو کہ ظالموں کا انجام کیسا ہوا",
-        "persian_text": "بلکه اٰنچه را که به علم اٰن احاطه نکردند تکذیب کردند و هنوز تأویل اٰن نیامده، چنین کسانی که پیش از اٰنان بودند نیز تکذیب کردند، پس بنگر عاقبت ستمکاران چگونه بود",
+        "persian_text": "بلکه اٰنچه را که به علم اٰن احاطه نکردند تکذیب کردند و هنوز تاویل اٰن نیامده، چنین کسانی که پیش از اٰنان بودند نیز تکذیب کردند، پس بنگر عاقبت ستمکاران چگونه بود",
         "english_text": "Nay, but they denied that, the knowledge whereof they could not compass, and whereof the interpretation (in events) has not yet come unto them. Even so did those before them deny. Then see what was the consequence for the wrong-doers!",
         "transliteration": "Bal kadhdhabu bima lam yuhitu bi-'ilmihi wa lamma ya'tihim ta'wiluh kadhalika kadhdhab alladhina min qablihim fanzur kayf kan 'aqibat az-zalimin",
         "verse_number": "39",
@@ -386,7 +386,7 @@ ayats = [
     {
         "arabic_text": "قُل لَّآ اَمْلِكُ لِنَفْسِي ضَرًّا وَ لَا نَفْعًا اِلَّا مَا شَآءَ اللّٰهُ ۗ لِكُلِّ اُمَّةٍ اَجَلٌ ۚ اِذَا جَآءَ اَجَلُهُمْ فَلَا يَسْتَاْخِرُونَ سَاعَةً ۖ وَّ لَا يَسْتَقْدِمُونَ",
         "urdu_text": "کہیے میں اپنے لیے نہ نقصان کا اختیار رکھتا ہوں اور نہ نفع کا مگر جو اللہ چاہے، ہر امت کے لیے ایک وقت مقرر ہے جب ان کا وقت اٰ جاتا ہے تو وہ ایک گھڑی نہ پیچھے ہٹ سکتے ہیں اور نہ اٰگے بڑھ سکتے ہیں",
-        "persian_text": "بگو من برای خود مالک زیان و سودی نیستم مگر اٰنچه خدا بخواهد، برای هر امتی اجلی است، چون اجلشان اٰید ساعتی تأخیر نمی‌کنند و تقدیم نمی‌نمایند",
+        "persian_text": "بگو من برای خود مالک زیان و سودی نیستم مگر اٰنچه خدا بخواهد، برای هر امتی اجلی است، چون اجلشان اٰید ساعتی تاخیر نمی‌کنند و تقدیم نمی‌نمایند",
         "english_text": "Say: For myself I have no power to benefit, nor power to hurt, save that which Allah wills. For every nation there is an appointed time. When their time comes, then they cannot put it off an hour, nor hasten (it)",
         "transliteration": "Qul la amliku li-nafsi darran wa la naf'an illa ma sha' Allah li-kulli ummatin ajal idha ja'a ajaluhum fala yasta'khirun sa'atan wa la yastaqidumun",
         "verse_number": "49",

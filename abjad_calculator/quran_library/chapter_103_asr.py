@@ -1,7 +1,7 @@
 ayats = [
     {
         "arabic_text": "وَالْعَصْرِ",
-        "urdu_text": "قسم ہے زمانے کی۔",
+        "urdu_text": "قسم هے زمانے کی۔",
         "persian_text": "سوگند به دورهٔ روزگار.",
         "english_text": "By time,",
         "transliteration": "Wal-‘asr",
@@ -9,7 +9,7 @@ ayats = [
     },
     {
         "arabic_text": "اِنَّ الْاِنسَانَ لَفِي خُسْرٍ",
-        "urdu_text": "بیشک انسان خسارے میں ہے۔",
+        "urdu_text": "بیشک انسان خسارے میں هے۔",
         "persian_text": "به یقین انسان در زیان است.",
         "english_text": "Indeed, mankind is in loss,",
         "transliteration": "Inna al-insāna lafī khusrin",

@@ -34,7 +34,7 @@ ayats = [
     {
         "verse_number": "5",
         "arabic_text": "عَلِمَتْ نَفْسٌ مَّا قَدَّمَتْ وَ اَخَّرَتْ",
-        "urdu_text": "تب ہر شخص جان لے گا جو اس نے آگے بھیجا اور پیچھے چھوڑا",
+        "urdu_text": "تب هر شخص جان لے گا جو اس نے آگے بھیجا اور پیچھے چھوڑا",
         "persian_text": "آنگاه هر نفس بداند که چه پیش فرستاده و چه پس نهاده",
         "english_text": "A soul will [then] know what it has put forth and kept back.",
         "transliteration": "‘Alimat nafsun mā qaddamat wa akhkharat",
@@ -58,7 +58,7 @@ ayats = [
     {
         "verse_number": "8",
         "arabic_text": "فِىٓ اَىِّ صُورَةٍ مَّا شَآءَ رَكَّبَكَ",
-        "urdu_text": "جس صورت میں چاہا تجھے جوڑ دیا",
+        "urdu_text": "جس صورت میں چاها تجھے جوڑ دیا",
         "persian_text": "در هر صورتی که خواست، تو را ترکیب داد",
         "english_text": "In whatever form He willed has He assembled you.",
         "transliteration": "Fī ayyī ṣūratin mā shā’a rakkabak",
@@ -66,7 +66,7 @@ ayats = [
     {
         "verse_number": "9",
         "arabic_text": "كَلَّا بَلْ تُكَذِّبُونَ بِالدِّينِ",
-        "urdu_text": "ہرگز نہیں، بلکہ تم جزا و سزا کو جھٹلاتے ہو",
+        "urdu_text": "هرگز نهیں، بلکه تم جزا و سزا کو جھٹلاتے هو",
         "persian_text": "چنین نیست، بلکه شما روز جزا را تکذیب می‌کنید",
         "english_text": "No! But you deny the Recompense.",
         "transliteration": "Kallā bal tukadhdhibūna bi-d-dīn",
@@ -74,7 +74,7 @@ ayats = [
     {
         "verse_number": "10",
         "arabic_text": "وَ اِنَّ عَلَيْكُمْ لَحٰفِظِينَ",
-        "urdu_text": "حالانکہ تم پر ضرور نگران مقرر ہیں",
+        "urdu_text": "حالانکه تم پر ضرور نگران مقرر هیں",
         "persian_text": "و قطعاً بر شما نگهبانانی گمارده شده‌اند",
         "english_text": "And indeed, [appointed] over you are keepers,",
         "transliteration": "Wa inna ‘alaykum laḥāfiẓīn",
@@ -90,7 +90,7 @@ ayats = [
     {
         "verse_number": "12",
         "arabic_text": "يَعْلَمُونَ مَا تَفْعَلُونَ",
-        "urdu_text": "وہ جانتے ہیں جو تم کرتے ہو",
+        "urdu_text": "وه جانتے هیں جو تم کرتے هو",
         "persian_text": "آنچه می‌کنید را می‌دانند",
         "english_text": "They know whatever you do.",
         "transliteration": "Ya‘lamūna mā taf‘alūn",
@@ -98,7 +98,7 @@ ayats = [
     {
         "verse_number": "13",
         "arabic_text": "اِنَّ الْاَبْرَارَ لَفِى نَعِيمٍ",
-        "urdu_text": "بیشک نیک لوگ نعمتوں میں ہوں گے",
+        "urdu_text": "بیشک نیک لوگ نعمتوں میں هوں گے",
         "persian_text": "قطعاً نیکان در نعمت‌اند",
         "english_text": "Indeed, the righteous will be in pleasure,",
         "transliteration": "Inna al-abrāra la fī na‘īm",
@@ -106,7 +106,7 @@ ayats = [
     {
         "verse_number": "14",
         "arabic_text": "وَ اِنَّ الْفُجَّارَ لَفِى جَحِيمٍ",
-        "urdu_text": "اور یقیناً بدکار لوگ دوزخ میں ہوں گے",
+        "urdu_text": "اور یقیناً بدکار لوگ دوزخ میں هوں گے",
         "persian_text": "و قطعاً بدکاران در دوزخ‌اند",
         "english_text": "And indeed, the wicked will be in Hellfire.",
         "transliteration": "Wa inna al-fujjāra la fī jaḥīm",
@@ -114,7 +114,7 @@ ayats = [
     {
         "verse_number": "15",
         "arabic_text": "يَصْلَوْنَهَا يَوْمَ الدِّينِ",
-        "urdu_text": "وہ اس میں جزا کے دن داخل ہوں گے",
+        "urdu_text": "وه اس میں جزا کے دن داخل هوں گے",
         "persian_text": "در روز جزا در آن وارد می‌شوند",
         "english_text": "They will [enter to] burn therein on the Day of Recompense,",
         "transliteration": "Yaṣlawnahā yawma ad-dīn",
@@ -122,7 +122,7 @@ ayats = [
     {
         "verse_number": "16",
         "arabic_text": "وَ مَا هُمْ عَنْهَا بِغَآئِبِينَ",
-        "urdu_text": "اور وہ اس سے غیر حاضر نہ ہوں گے",
+        "urdu_text": "اور وه اس سے غیر حاضر نه هوں گے",
         "persian_text": "و از آن غایب نخواهند بود",
         "english_text": "And never therefrom will they be absent.",
         "transliteration": "Wa mā hum ‘anhā bighā’ibīn",
@@ -130,7 +130,7 @@ ayats = [
     {
         "verse_number": "17",
         "arabic_text": "وَ مَآ اَدْرٰكَ مَا يَوْمُ الدِّينِ",
-        "urdu_text": "اور تمہیں کیا معلوم کہ جزا کا دن کیا ہے؟",
+        "urdu_text": "اور تمهیں کیا معلوم که جزا کا دن کیا هے؟",
         "persian_text": "و چه می‌دانی که روز جزا چیست؟",
         "english_text": "And what can make you know what is the Day of Recompense?",
         "transliteration": "Wa mā adrāka mā yawmu ad-dīn",
@@ -138,7 +138,7 @@ ayats = [
     {
         "verse_number": "18",
         "arabic_text": "ثُمَّ مَآ اَدْرٰكَ مَا يَوْمُ الدِّينِ",
-        "urdu_text": "پھر تمہیں کیا خبر کہ جزا کا دن کیا ہے؟",
+        "urdu_text": "پھر تمهیں کیا خبر که جزا کا دن کیا هے؟",
         "persian_text": "و باز چه می‌دانی که روز جزا چیست؟",
         "english_text": "Then, what can make you know what is the Day of Recompense?",
         "transliteration": "Thumma mā adrāka mā yawmu ad-dīn",
@@ -146,7 +146,7 @@ ayats = [
     {
         "verse_number": "19",
         "arabic_text": "يَوْمَ لَا تَمْلِكُ نَفْسٌ لِّنَفْسٍ شَيْئًا ۖ وَ الْاَمْرُ يَوْمَئِذٍ لِّلَّهِ",
-        "urdu_text": "جس دن کوئی شخص کسی کے کچھ بھی کام نہ آئے گا، اور اس دن سارا اختیار اللہ کے لیے ہوگا",
+        "urdu_text": "جس دن کوئی شخص کسی کے کچھ بھی کام نه آئے گا، اور اس دن سارا اختیار الله کے لیے هوگا",
         "persian_text": "روزی که هیچ کس مالک چیزی برای دیگری نخواهد بود، و آن روز فرمان مخصوص خداست",
         "english_text": "It is the Day when a soul will not possess for another soul [power to do] any helpful thing; and the command that Day is [entirely] with Allah.",
         "transliteration": "Yawma lā tamliku nafsun linafsin shay’an wal-amru yawma’idhin lillāh",

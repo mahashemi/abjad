@@ -2,7 +2,7 @@ ayats = [
     {
         "verse_number": "1",
         "arabic_text": "وَيْلٌ لِّلْمُطَفِّفِينَ",
-        "urdu_text": "خرابی ہے ناپ تول میں کمی کرنے والوں کے لیے",
+        "urdu_text": "خرابی هے ناپ تول میں کمی کرنے والوں کے لیے",
         "persian_text": "وای بر کم‌فروشان",
         "english_text": "Woe to those who give less [than due],",
         "transliteration": "Wailul lil-muṭaffifīn",
@@ -10,7 +10,7 @@ ayats = [
     {
         "verse_number": "2",
         "arabic_text": "الَّذِينَ اِذَا اكْتَالُواْ عَلَى النَّاسِ يَسْتَوْفُونَ",
-        "urdu_text": "جو لوگوں سے ناپ کر لیتے ہیں تو پورا لیتے ہیں",
+        "urdu_text": "جو لوگوں سے ناپ کر لیتے هیں تو پورا لیتے هیں",
         "persian_text": "آنان که چون از مردم پیمانه می‌گیرند، تمام می‌گیرند",
         "english_text": "Who, when they take a measure from people, take in full.",
         "transliteration": "Alladhīna idhāk tālū ‘ala an-nāsi yastawfūn",
@@ -18,7 +18,7 @@ ayats = [
     {
         "verse_number": "3",
         "arabic_text": "وَ اِذَا كَالُوهُمْ اَو وَّزَنُوهُمْ يُخْسِرُونَ",
-        "urdu_text": "اور جب انہیں ناپ کر یا تول کر دیتے ہیں تو کم دیتے ہیں",
+        "urdu_text": "اور جب انهیں ناپ کر یا تول کر دیتے هیں تو کم دیتے هیں",
         "persian_text": "و چون برای آنان پیمانه یا وزن می‌کنند، کم می‌نهند",
         "english_text": "But if they give by measure or weight to them, they cause loss.",
         "transliteration": "Wa idhā kālūhum aw wazzanūhum yukhsirūn",
@@ -26,7 +26,7 @@ ayats = [
     {
         "verse_number": "4",
         "arabic_text": "اَلَا يَظُنُّ اُولٰٓئِكَ اَنَّهُم مَّبْعُوثُونَ",
-        "urdu_text": "کیا یہ لوگ نہیں سمجھتے کہ انہیں اٹھایا جائے گا",
+        "urdu_text": "کیا یه لوگ نهیں سمجھتے که انهیں اٹھایا جائے گا",
         "persian_text": "آیا اینان گمان نمی‌کنند که برانگیخته می‌شوند؟",
         "english_text": "Do they not think that they will be resurrected",
         "transliteration": "Alā yaẓunnu ūlā’ika annahum mab‘ūthūn",
@@ -42,7 +42,7 @@ ayats = [
     {
         "verse_number": "6",
         "arabic_text": "يَّوْمَ يَقُومُ النَّاسُ لِرَبِّ الْعٰلَمِينَ",
-        "urdu_text": "جس دن لوگ رب العالمین کے حضور کھڑے ہوں گے",
+        "urdu_text": "جس دن لوگ رب العالمین کے حضور کھڑے هوں گے",
         "persian_text": "روزی که مردم برای پروردگار جهانیان می‌ایستند",
         "english_text": "The Day when mankind will stand before the Lord of the worlds?",
         "transliteration": "Yawma yaqūmu an-nāsu li-Rabbi al-‘ālamīn",
@@ -50,7 +50,7 @@ ayats = [
     {
         "verse_number": "7",
         "arabic_text": "كَلَّآ اِنَّ كِتٰبَ الْفُجَّارِ لَفِى سِجِّينٍ",
-        "urdu_text": "یقیناً بدکاروں کا نامہ اعمال سیجّین میں ہے",
+        "urdu_text": "یقیناً بدکاروں کا نامه اعمال سیجّین میں هے",
         "persian_text": "هرگز چنین نیست، به‌راستی نامه عمل گناهکاران در سجّین است",
         "english_text": "No! Indeed, the record of the wicked is in sijjeen.",
         "transliteration": "Kallā inna kitāba al-fujjāri la fī sijjīn",
@@ -58,7 +58,7 @@ ayats = [
     {
         "verse_number": "8",
         "arabic_text": "وَ مَآ اَدْرٰكَ مَا سِجِّينٍ",
-        "urdu_text": "اور تمہیں کیا معلوم کہ سیجّین کیا ہے؟",
+        "urdu_text": "اور تمهیں کیا معلوم که سیجّین کیا هے؟",
         "persian_text": "و چه می‌دانی سجّین چیست؟",
         "english_text": "And what can make you know what is sijjeen?",
         "transliteration": "Wa mā adrāka mā sijjīn",
@@ -66,7 +66,7 @@ ayats = [
     {
         "verse_number": "9",
         "arabic_text": "كِتٰبٌ مَّرْقُومٌ",
-        "urdu_text": "ایک لکھی ہوئی کتاب ہے",
+        "urdu_text": "ایک لکھی هوئی کتاب هے",
         "persian_text": "کتابی نوشته شده",
         "english_text": "It is their destination recorded in a register inscribed.",
         "transliteration": "Kitābun marqūm",
@@ -74,7 +74,7 @@ ayats = [
     {
         "verse_number": "10",
         "arabic_text": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
-        "urdu_text": "تباہی ہے اس دن جھٹلانے والوں کے لیے",
+        "urdu_text": "تباهی هے اس دن جھٹلانے والوں کے لیے",
         "persian_text": "وای بر تکذیب‌کنندگان در آن روز",
         "english_text": "Woe, that Day, to the deniers,",
         "transliteration": "Wailun yawma’idhin lil-mukadhdhibīn",
@@ -82,7 +82,7 @@ ayats = [
     {
         "verse_number": "11",
         "arabic_text": "الَّذِينَ يُكَذِّبُونَ بِيَوْمِ الدِّينِ",
-        "urdu_text": "وہ جو جزا کے دن کو جھٹلاتے ہیں",
+        "urdu_text": "وه جو جزا کے دن کو جھٹلاتے هیں",
         "persian_text": "کسانی که روز جزا را انکار می‌کنند",
         "english_text": "Those who deny the Day of Judgment.",
         "transliteration": "Alladhīna yukadhdhibūna biyawmi ad-dīn",
@@ -90,7 +90,7 @@ ayats = [
     {
         "verse_number": "12",
         "arabic_text": "وَ مَا يُكَذِّبُ بِهِۦٓ اِلَّا كُلُّ مُعْتَدٍ اَثِيمٍ",
-        "urdu_text": "اور اس کا انکار وہی کرتا ہے جو حد سے بڑھنے والا گناہگار ہے",
+        "urdu_text": "اور اس کا انکار وهی کرتا هے جو حد سے بڑھنے والا گناهگار هے",
         "persian_text": "و آن را جز هر متجاوز گناهکارى انکار نمی‌کند",
         "english_text": "And none denies it except every sinful transgressor.",
         "transliteration": "Wa mā yukadhdhibu bihī illā kullu muʿ'tadin athīm",
@@ -98,7 +98,7 @@ ayats = [
     {
         "verse_number": "13",
         "arabic_text": "اِذَا تُتْلَٰى عَلَيْهِ اٰيٰاتُنَا قَالَ اَسَاطِيرُ الْاَوَّلِينَ",
-        "urdu_text": "جب اس پر ہماری آیات پڑھی جاتی ہیں تو کہتا ہے: یہ پہلوں کی کہانیاں ہیں",
+        "urdu_text": "جب اس پر هماری آیات پڑھی جاتی هیں تو کهتا هے: یه پهلوں کی کهانیاں هیں",
         "persian_text": "چون آيات ما بر او خوانده می‌شود، می‌گويد: اين افسانه‌هاى گذشتگان است",
         "english_text": "When Our verses are recited to him, he says, 'Legends of the former peoples.'",
         "transliteration": "Idhā tutlā ʿalayhi āyātunā qāla asāṭīru l-awwalīn",
@@ -106,7 +106,7 @@ ayats = [
     {
         "verse_number": "14",
         "arabic_text": "كَلَّا ۖ بَلْ ۜ رَانَ عَلَٰى قُلُوبِهِم مَّا كَانُوا يَكْسِبُونَ",
-        "urdu_text": "ہرگز نہیں، بلکہ ان کے دلوں پر ان کے اعمال کا زنگ چڑھ گیا ہے",
+        "urdu_text": "هرگز نهیں، بلکه ان کے دلوں پر ان کے اعمال کا زنگ چڑھ گیا هے",
         "persian_text": "چنین نیست، بلکه آنچه می‌کردند زنگار بر دل‌هایشان نهاده است",
         "english_text": "Nay! But on their hearts is the stain of that which they used to earn.",
         "transliteration": "Kallā bal rāna ʿalā qulūbihim mā kānū yaksibūn",
@@ -114,7 +114,7 @@ ayats = [
     {
         "verse_number": "15",
         "arabic_text": "كَلَّآ اِنَّهُمْ عَن رَّبِّهِمْ يَوْمَئِذٍ لَّمَحْجُوبُونَ",
-        "urdu_text": "ہرگز نہیں! یقیناً وہ اس دن اپنے رب سے اوٹ میں رکھے جائیں گے",
+        "urdu_text": "هرگز نهیں! یقیناً وه اس دن اپنے رب سے اوٹ میں رکھے جائیں گے",
         "persian_text": "چنین نیست، در آن روز آنان از پروردگارشان محجوب‌اند",
         "english_text": "Nay! Surely, they will be veiled from their Lord that Day.",
         "transliteration": "Kallā innahum ʿan rabbihim yawma’idhin la-maḥjūbūn",
@@ -122,7 +122,7 @@ ayats = [
     {
         "verse_number": "16",
         "arabic_text": "ثُمَّ اِنَّهُمْ لَصَالُوا الْجَحِيمِ",
-        "urdu_text": "پھر وہ ضرور جہنم میں داخل ہوں گے",
+        "urdu_text": "پھر وه ضرور جهنم میں داخل هوں گے",
         "persian_text": "سپس بی‌تردید وارد دوزخ خواهند شد",
         "english_text": "Then indeed, they will [enter and] burn in Hellfire.",
         "transliteration": "Thumma innahum laṣālū al-jaḥīm",
@@ -130,7 +130,7 @@ ayats = [
     {
         "verse_number": "17",
         "arabic_text": "ثُمَّ يُقَالُ هٰذَا الَّذِى كُنتُم بِهِۦ تُكَذِّبُونَ",
-        "urdu_text": "پھر کہا جائے گا: یہی وہ چیز ہے جسے تم جھٹلایا کرتے تھے",
+        "urdu_text": "پھر کها جائے گا: یهی وه چیز هے جسے تم جھٹلایا کرتے تھے",
         "persian_text": "سپس گفته می‌شود: اين همان چيزی است كه آن را انكار مى‌كرديد",
         "english_text": "Then it will be said, 'This is what you used to deny.'",
         "transliteration": "Thumma yuqālu hādhā alladhī kuntum bihi tukadhdhibūn",
@@ -138,7 +138,7 @@ ayats = [
     {
         "verse_number": "18",
         "arabic_text": "كَلَّآ اِنَّ كِتٰبَ الْاَبْرَارِ لَفِى عِلِّيِّينَ",
-        "urdu_text": "یقیناً نیک لوگوں کا ریکارڈ اعلیٰ مقام پر ہے",
+        "urdu_text": "یقیناً نیک لوگوں کا ریکارڈ اعلیٰ مقام پر هے",
         "persian_text": "بی‌گمان نامه اعمال نيكان در عليين است",
         "english_text": "Nay! Verily, the record of the righteous is in 'Illiyyīn.",
         "transliteration": "Kallā inna kitāba al-abrār la-fī ʿilliyyīn",
@@ -146,7 +146,7 @@ ayats = [
     {
         "verse_number": "19",
         "arabic_text": "وَمَآ اَدْرٰكَ مَا عِلِّيُّونَ",
-        "urdu_text": "اور تم کیا جانو کہ 'علیین' کیا ہے؟",
+        "urdu_text": "اور تم کیا جانو که 'علیین' کیا هے؟",
         "persian_text": "و تو چه دانی که عليين چيست؟",
         "english_text": "And what will make you know what 'Illiyyīn is?",
         "transliteration": "Wa mā adrāka mā ʿilliyyūn",
@@ -154,7 +154,7 @@ ayats = [
     {
         "verse_number": "20",
         "arabic_text": "كِتٰبٌ مَّرْقُومٌ",
-        "urdu_text": "ایک لکھی ہوئی کتاب ہے",
+        "urdu_text": "ایک لکھی هوئی کتاب هے",
         "persian_text": "نامه‌اى است نوشته شده",
         "english_text": "It is a written record.",
         "transliteration": "Kitābun marqūm",
@@ -162,7 +162,7 @@ ayats = [
     {
         "verse_number": "21",
         "arabic_text": "يَّشْهَدُهُ الْمُقَرَّبُونَ",
-        "urdu_text": "اس کے گواہ مقرب فرشتے ہوں گے",
+        "urdu_text": "اس کے گواه مقرب فرشتے هوں گے",
         "persian_text": "مقربان گواه آن خواهند بود",
         "english_text": "Witnessed by those brought near [to Allah].",
         "transliteration": "Yashhaduhu al-muqarrabūn",
@@ -170,7 +170,7 @@ ayats = [
     {
         "verse_number": "22",
         "arabic_text": "اِنَّ الْاَبْرَارَ لَفِى نَعِيمٍ",
-        "urdu_text": "یقیناً نیک لوگ نعمتوں میں ہوں گے",
+        "urdu_text": "یقیناً نیک لوگ نعمتوں میں هوں گے",
         "persian_text": "بی‌گمان نيكان در نعمت خواهند بود",
         "english_text": "Indeed, the righteous will be in pleasure.",
         "transliteration": "Inna al-abrāra la-fī naʿīm",
@@ -178,7 +178,7 @@ ayats = [
     {
         "verse_number": "23",
         "arabic_text": "عَلَى الْاَرَآئِكِ يَنظُرُونَ",
-        "urdu_text": "وہ تختوں پر بیٹھے نظارے کر رہے ہوں گے",
+        "urdu_text": "وه تختوں پر بیٹھے نظارے کر رهے هوں گے",
         "persian_text": "بر تخت‌ها تكيه زده نظاره می‌کنند",
         "english_text": "On adorned couches, observing.",
         "transliteration": "ʿAlā al-arā’iki yanẓurūn",
@@ -186,7 +186,7 @@ ayats = [
     {
         "verse_number": "24",
         "arabic_text": "تَعْرِفُ فِى وُجُوهِهِمْ نَضْرَةَ النَّعِيمِ",
-        "urdu_text": "تو ان کے چہروں پر نعمتوں کی تازگی پہچان لے گا",
+        "urdu_text": "تو ان کے چهروں پر نعمتوں کی تازگی پهچان لے گا",
         "persian_text": "در چهره‌هايشان طراوت نعمت را می‌بينى",
         "english_text": "You will recognize in their faces the radiance of pleasure.",
         "transliteration": "Taʿrifu fī wujūhihim naḍrata al-naʿīm",
@@ -194,7 +194,7 @@ ayats = [
     {
         "verse_number": "25",
         "arabic_text": "يُسْقَوْنَ مِن رَّحِيقٍ مَّخْتُومٍ",
-        "urdu_text": "انہیں بند کی ہوئی خالص شراب پلائی جائے گی",
+        "urdu_text": "انهیں بند کی هوئی خالص شراب پلائی جائے گی",
         "persian_text": "از شرابی مهر شده نوشانده می‌شوند",
         "english_text": "They will be given to drink [pure] wine sealed.",
         "transliteration": "Yusqawna min raḥīqin makhtūm",
@@ -202,7 +202,7 @@ ayats = [
     {
         "verse_number": "26",
         "arabic_text": "خِتٰمُهُۥ مِسْكٌ وَ فِى ذٰلِكَ فَلْيَتَنَافَسِ الْمُتَنافِسُونَ",
-        "urdu_text": "جس کا خاتمہ کستوری پر ہوگا، اور اسی میں ہوڑ کرنے والے مقابلہ کریں",
+        "urdu_text": "جس کا خاتمه کستوری پر هوگا، اور اسی میں هوڑ کرنے والے مقابله کریں",
         "persian_text": "پايان آن مشک است، پس مشتاقان بايد در آن رقابت كنند",
         "english_text": "Its seal is musk – so for this let the competitors compete.",
         "transliteration": "Khitāmuhu misk, wa fī dhālika falyatanāfasi al-mutanāfisūn",
@@ -210,7 +210,7 @@ ayats = [
     {
         "verse_number": "27",
         "arabic_text": "وَ مِزَاجُهُۥ مِن تَسْنِيمٍ",
-        "urdu_text": "اور اس میں تسنیم کی آمیزش ہوگی",
+        "urdu_text": "اور اس میں تسنیم کی آمیزش هوگی",
         "persian_text": "و آمیخته‌اش از چشمه تسنيم خواهد بود",
         "english_text": "And its mixture is of Tasneem,",
         "transliteration": "Wa mizājuhu min tasnīm",
@@ -218,15 +218,15 @@ ayats = [
     {
         "verse_number": "28",
         "arabic_text": "عَيْنًا يَشْرَبُ بِهَا الْمُقَرَّبُونَ",
-        "urdu_text": "ایک چشمہ، جس سے مقربین پئیں گے",
+        "urdu_text": "ایک چشمه، جس سے مقربین پئیں گے",
         "persian_text": "چشمه‌اى كه نزديكان [خدا] از آن مى‌نوشند",
         "english_text": "A spring from which those near [to Allah] drink.",
         "transliteration": "ʿAynan yashrabu bihā al-muqarrabūn",
     },
     {
         "verse_number": "29",
-        "arabic_text": "اِنَّ الَّذِينَ اَجْرَمُوا كَانُوا مِنَ الَّذِينَ اٰمَنُوا۟ يَضْحَكُونَ",
-        "urdu_text": "بے شک جو مجرم تھے وہ ایمان والوں پر ہنسا کرتے تھے",
+        "arabic_text": "اِنَّ الَّذِينَ اَجْرَمُوا كَانُوا مِنَ الَّذِينَ اٰمَنُواْ يَضْحَكُونَ",
+        "urdu_text": "بے شک جو مجرم تھے وه ایمان والوں پر هنسا کرتے تھے",
         "persian_text": "بی‌گمان گناهكاران بر مؤمنان مى‌خنديدند",
         "english_text": "Indeed, those who committed crimes used to laugh at those who believed.",
         "transliteration": "Inna alladhīna ajramū kānū mina alladhīna āmanū yaḍḥakūn",
@@ -250,7 +250,7 @@ ayats = [
     {
         "verse_number": "32",
         "arabic_text": "وَ اِذَا رَاَوْهُمْ قَالُوٓا اِنَّ هٰٓؤُلَآءِ لَضَآلُّونَ",
-        "urdu_text": "اور جب انہیں دیکھتے تو کہتے: یہ لوگ گمراہ ہیں",
+        "urdu_text": "اور جب انهیں دیکھتے تو کهتے: یه لوگ گمراه هیں",
         "persian_text": "و چون مؤمنان را مى‌ديدند مى‌گفتند: اينان گمراه‌اند",
         "english_text": "And when they saw them, they would say, 'Indeed, those are truly lost.'",
         "transliteration": "Wa idhā ra’awhum qālū inna hā’ulā’i la-ḍāllūn",
@@ -258,7 +258,7 @@ ayats = [
     {
         "verse_number": "33",
         "arabic_text": "وَمَآ اُرْسِلُوا عَلَيْهِمْ حٰفِظِينَ",
-        "urdu_text": "حالانکہ وہ ان پر نگران بنا کر نہیں بھیجے گئے تھے",
+        "urdu_text": "حالانکه وه ان پر نگران بنا کر نهیں بھیجے گئے تھے",
         "persian_text": "در حالی که نگهبان آنان نبودند",
         "english_text": "But they had not been sent as guardians over them.",
         "transliteration": "Wa mā ursilū ʿalayhim ḥāfiẓīn",
@@ -266,7 +266,7 @@ ayats = [
     {
         "verse_number": "34",
         "arabic_text": "فَالْيَوْمَ الَّذِينَ اٰمَنُوا مِنَ الْكُفَّارِ يَضْحَكُونَ",
-        "urdu_text": "پھر آج ایمان والے کافروں پر ہنس رہے ہیں",
+        "urdu_text": "پھر آج ایمان والے کافروں پر هنس رهے هیں",
         "persian_text": "پس امروز مؤمنان بر كافران مى‌خندند",
         "english_text": "But this Day those who believe are laughing at the disbelievers,",
         "transliteration": "Fa-l-yawma alladhīna āmanū mina al-kuffāri yaḍḥakūn",
@@ -274,7 +274,7 @@ ayats = [
     {
         "verse_number": "35",
         "arabic_text": "عَلَى الْاَرَآئِكِ يَنظُرُونَ",
-        "urdu_text": "تختوں پر بیٹھے دیکھ رہے ہوں گے",
+        "urdu_text": "تختوں پر بیٹھے دیکھ رهے هوں گے",
         "persian_text": "بر تخت‌ها نشسته، نظاره می‌کنند",
         "english_text": "On adorned couches, observing.",
         "transliteration": "ʿAlā al-arā’iki yanẓurūn",

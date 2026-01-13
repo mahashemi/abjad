@@ -179,7 +179,7 @@ ayats = [
         "verse_number": "23",
         "arabic_text": "كَلَّا لَمَّا يَقْضِ مَآ اَمَرَهۥ",
         "urdu_text": "ہرگز نہیں، اس نے اسنے حکم خدا کو بلکل پورا نہیں کیا ہے",
-        "persian_text": "نه، او هنوز آنچه را که مأمور شده انجام نداده",
+        "persian_text": "نه، او هنوز آنچه را که مامور شده انجام نداده",
         "english_text": "No! He has not yet accomplished what He commanded him",
         "transliteration": "Kallā lammā yaqḍi mā amarah",
     },

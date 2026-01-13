@@ -41,7 +41,7 @@ ayats = [
     },
     {
         "verse_number": "6",
-        "arabic_text": "يَوْمَئِذٍ يَصْدُرُ النَّاسُ اَشْتَاتًا لِّيُرَوْا۟ اَعْمَالَهُمْ",
+        "arabic_text": "يَوْمَئِذٍ يَصْدُرُ النَّاسُ اَشْتَاتًا لِّيُرَوْاْ اَعْمَالَهُمْ",
         "urdu_text": "اس دن لوگ مختلف حالتوں میں لوٹیں گے تاکہ انہیں ان کے اعمال دکھائے جائیں",
         "persian_text": "در آن روز مردم گروه گروه باز می‌گردند تا اعمالشان به آنان نشان داده شود،",
         "english_text": "That Day, the people will depart separated [into categories] to be shown [the result of] their deeds.",

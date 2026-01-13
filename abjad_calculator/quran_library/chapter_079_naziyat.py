@@ -89,7 +89,7 @@ ayats = [
     },
     {
         "verse_number": "12",
-        "arabic_text": "قَالُوا۟ تِلْكَ اِذًا كَرَّةٌ خَاسِرَةً",
+        "arabic_text": "قَالُواْ تِلْكَ اِذًا كَرَّةٌ خَاسِرَةً",
         "urdu_text": "کہتے ہیں: یہ تو پھر نقصان کا لوٹایا جانا ہوگا",
         "persian_text": "می‌گویند: در این صورت این بازگشت، بازگشتی زیان‌بار خواهد بود",
         "english_text": "They say, 'Then that would be a losing return!'",

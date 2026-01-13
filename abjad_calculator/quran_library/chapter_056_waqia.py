@@ -1,7 +1,7 @@
 ayats = [
     {
         "arabic_text": "اِذَا وَقَعَتِ ٱلْوَاقِعَةُ",
-        "urdu_text": "جب واقعہ رونما ہو گا",
+        "urdu_text": "جب واقعه رونما هو گا",
         "persian_text": "هنگامی که آن واقعه رخ دهد",
         "english_text": "When the Event (the Day of Resurrection) befalls",
         "transliteration": "Iza waqaʿati al-waqiʿah",
@@ -9,7 +9,7 @@ ayats = [
     },
     {
         "arabic_text": "لَيْسَ لِوَقْعَتِهَا كَاذِبَةٌ",
-        "urdu_text": "اس کے واقع ہونے میں کوئی جھوٹ نہیں",
+        "urdu_text": "اس کے واقع هونے میں کوئی جھوٹ نهیں",
         "persian_text": "در وقوع آن هیچ دروغی نیست",
         "english_text": "There is no denial of its occurrence",
         "transliteration": "Laysa liwaqʿatiha kadhibah",
@@ -17,7 +17,7 @@ ayats = [
     },
     {
         "arabic_text": "خَافِضَةٌ رَّافِعَةٌ",
-        "urdu_text": "وہ پست کرنے والی اور بلند کرنے والی ہو گی",
+        "urdu_text": "وه پست کرنے والی اور بلند کرنے والی هو گی",
         "persian_text": "پایین‌آورنده و بالا‌برنده است",
         "english_text": "It will bring down (some) and raise up (others)",
         "transliteration": "Khafidatun rafiʿah",
@@ -25,7 +25,7 @@ ayats = [
     },
     {
         "arabic_text": "اِذَا رُجَّتِ ٱلْاَرْضُ رَجًّا",
-        "urdu_text": "جب زمین کو زور سے ہلا دیا جائے گا",
+        "urdu_text": "جب زمین کو زور سے هلا دیا جائے گا",
         "persian_text": "آنگاه که زمین به شدت لرزانده شود",
         "english_text": "When the earth will be shaken with a terrible shake",
         "transliteration": "Iza rujjati al-ardu rajja",
@@ -33,7 +33,7 @@ ayats = [
     },
     {
         "arabic_text": "وَبُسَّتِ ٱلْجِبَالُ بَسًّا",
-        "urdu_text": "اور پہاڑ ریزہ ریزہ کر دیے جائیں گے",
+        "urdu_text": "اور پهاڑ ریزه ریزه کر دیے جائیں گے",
         "persian_text": "و کوه‌ها خرد شوند",
         "english_text": "And the mountains will be crushed to pieces",
         "transliteration": "Wa bussatil-jibalu bassa",
@@ -41,7 +41,7 @@ ayats = [
     },
     {
         "arabic_text": "فَكَانَتْ هَبَآءٗ مُّنۢبَثّٗا",
-        "urdu_text": "تو وہ غبار کی طرح بکھر جائیں گے",
+        "urdu_text": "تو وه غبار کی طرح بکھر جائیں گے",
         "persian_text": "پس مانند غبار پراکنده خواهند شد",
         "english_text": "So they will become floating dust particles",
         "transliteration": "Fakanat haba'an munbaththa",
@@ -49,7 +49,7 @@ ayats = [
     },
     {
         "arabic_text": "وَكُنتُمْ اَزْوَاجٗا ثَلَٰثَةٗ",
-        "urdu_text": "اور تم تین گروہوں میں تقسیم ہو جاؤ گے",
+        "urdu_text": "اور تم تین گروهوں میں تقسیم هو جاؤ گے",
         "persian_text": "و شما سه گروه خواهید شد",
         "english_text": "And you will be in three groups",
         "transliteration": "Wa kuntum azwajan thalathah",
@@ -57,7 +57,7 @@ ayats = [
     },
     {
         "arabic_text": "فَاَصْحَٰبُ ٱلْمَيْمَنَةِ مَا اَصْحَٰبُ ٱلْمَيْمَنَةِ",
-        "urdu_text": "پس داہنے والے، کیا خوب ہیں داہنے والے",
+        "urdu_text": "پس داهنے والے، کیا خوب هیں داهنے والے",
         "persian_text": "پس یاران راست، چه نیکو هستند یاران راست",
         "english_text": "So those on the Right – what are those on the Right?",
         "transliteration": "Fa-as-habu al-maymanati ma as-habu al-maymanah",
@@ -65,7 +65,7 @@ ayats = [
     },
     {
         "arabic_text": "وَاَصْحَٰبُ ٱلْمَشْـَٔمَةِ مَا اَصْحَٰبُ ٱلْمَشْـَٔمَةِ",
-        "urdu_text": "اور بائیں والے، کیا ہی برے ہیں بائیں والے",
+        "urdu_text": "اور بائیں والے، کیا هی برے هیں بائیں والے",
         "persian_text": "و یاران چپ، چه بدند یاران چپ",
         "english_text": "And those on the Left – what are those on the Left?",
         "transliteration": "Wa as-habu al-mash-amati ma as-habu al-mash-ama",
@@ -73,7 +73,7 @@ ayats = [
     },
     {
         "arabic_text": "وَٱلسَّٰبِقُونَ ٱلسَّٰبِقُونَ",
-        "urdu_text": "اور جو سبقت لے گئے، وہی سبقت لے جانے والے ہیں",
+        "urdu_text": "اور جو سبقت لے گئے، وهی سبقت لے جانے والے هیں",
         "persian_text": "و پیشتازان، همان پیشتازانند",
         "english_text": "And the forerunners, the forerunners",
         "transliteration": "Wa as-sabiqoon as-sabiqoon",
@@ -81,7 +81,7 @@ ayats = [
     },
     {
         "arabic_text": "اُوْلَٰٓئِكَ ٱلْمُقَرَّبُونَ",
-        "urdu_text": "وہی ہیں جو قرب الٰہی والے ہوں گے",
+        "urdu_text": "وهی هیں جو قرب الٰهی والے هوں گے",
         "persian_text": "آنان همان مقربانند",
         "english_text": "Those are the ones brought near (to Allah)",
         "transliteration": "Ulaaa'ikal-muqarraboon",
@@ -89,7 +89,7 @@ ayats = [
     },
     {
         "arabic_text": "فِي جَنَّٰتِ ٱلنَّعِيمِ",
-        "urdu_text": "نعمتوں والی جنتوں میں ہوں گے",
+        "urdu_text": "نعمتوں والی جنتوں میں هوں گے",
         "persian_text": "در باغ‌های پرنعمت خواهند بود",
         "english_text": "In Gardens of Pleasure",
         "transliteration": "Fee jannaatin-na'eem",
@@ -97,7 +97,7 @@ ayats = [
     },
     {
         "arabic_text": "ثُلَّةٞ مِّنَ ٱلْاَوَّلِينَ",
-        "urdu_text": "اکثر اگلے لوگوں میں سے ہوں گے",
+        "urdu_text": "اکثر اگلے لوگوں میں سے هوں گے",
         "persian_text": "گروهی بسیار از پیشینیان",
         "english_text": "A large company from the former peoples",
         "transliteration": "Sullatum minal-awwaleen",
@@ -105,7 +105,7 @@ ayats = [
     },
     {
         "arabic_text": "وَقَلِيلٞ مِّنَ ٱلْآخِرِينَ",
-        "urdu_text": "اور کچھ ہی پچھلے لوگوں میں سے",
+        "urdu_text": "اور کچھ هی پچھلے لوگوں میں سے",
         "persian_text": "و اندکی از پسینیان",
         "english_text": "And a few of the later peoples",
         "transliteration": "Wa qaleelum minal-aakhireen",
@@ -113,7 +113,7 @@ ayats = [
     },
     {
         "arabic_text": "عَلَٰى سُرُرٖ مَّوْضُونَةٖ",
-        "urdu_text": "وہ جڑاؤ تختوں پر ہوں گے",
+        "urdu_text": "وه جڑاؤ تختوں پر هوں گے",
         "persian_text": "بر تخت‌های بافته‌شده خواهند بود",
         "english_text": "On thrones woven [with ornament]",
         "transliteration": "Alaa sururim mawdoonah",
@@ -121,7 +121,7 @@ ayats = [
     },
     {
         "arabic_text": "مُّتَّكِـِٔينَ عَلَيْهَا مُتَقَٰبِلِينَ",
-        "urdu_text": "ان پر تکیہ لگائے ہوئے، آمنے سامنے بیٹھے ہوں گے",
+        "urdu_text": "ان پر تکیه لگائے هوئے، آمنے سامنے بیٹھے هوں گے",
         "persian_text": "بر آن‌ها تکیه زده، روبروی یکدیگر خواهند بود",
         "english_text": "Reclining on them, facing each other",
         "transliteration": "Muttaki'eena 'alayhaa mutaqaabileen",
@@ -129,7 +129,7 @@ ayats = [
     },
     {
         "arabic_text": "يَطُوفُ عَلَيْهِمْ وِلْدَٰنٞ مُّخَلَّدُونَ",
-        "urdu_text": "ان کے گرد ہمیشہ کے نوجوان گردش کریں گے",
+        "urdu_text": "ان کے گرد همیشه کے نوجوان گردش کریں گے",
         "persian_text": "پیرامونشان پسران جاودان در گردش‌اند",
         "english_text": "There will circulate among them young boys made eternal",
         "transliteration": "Yatoofu 'alayhim wildaanum mukhalladoon",
@@ -137,7 +137,7 @@ ayats = [
     },
     {
         "arabic_text": "بِاَكْوَابٖ وَاَبَارِيقَ وَكَاْسٖ مِّن مَّعِينٖ",
-        "urdu_text": "پیالوں، جگوں اور ایک جاری چشمے سے بھرے ہوئے جاموں کے ساتھ",
+        "urdu_text": "پیالوں، جگوں اور ایک جاری چشمے سے بھرے هوئے جاموں کے ساتھ",
         "persian_text": "با جام‌ها، کوزه‌ها و پیاله‌هایی از شراب جاری",
         "english_text": "With vessels, pitchers and a cup [of wine] from a flowing spring",
         "transliteration": "Bi-akwābin wa abāreeqa wa ka'sim mim ma'een",
@@ -145,7 +145,7 @@ ayats = [
     },
     {
         "arabic_text": "لَا يُصَدَّعُونَ عَنْهَا وَلَا يُنزِفُونَ",
-        "urdu_text": "نہ اس سے ان کا سر درد کرے گا اور نہ وہ بے ہوش ہوں گے",
+        "urdu_text": "نه اس سے ان کا سر درد کرے گا اور نه وه بے هوش هوں گے",
         "persian_text": "نه از آن سردرد می‌گیرند و نه مست می‌شوند",
         "english_text": "No headache will they have therefrom, nor will they be intoxicated",
         "transliteration": "Laa yusadda'oona 'anhaa wa laa yunzifoon",
@@ -153,7 +153,7 @@ ayats = [
     },
     {
         "arabic_text": "وَفَٰكِهَةٖ مِّمَّا يَتَخَيَّرُونَ",
-        "urdu_text": "اور ان کے لیے وہ میوے ہوں گے جو وہ پسند کریں گے",
+        "urdu_text": "اور ان کے لیے وه میوے هوں گے جو وه پسند کریں گے",
         "persian_text": "و میوه‌هایی از آنچه انتخاب کنند",
         "english_text": "And fruit of what they select",
         "transliteration": "Wa faakihatim mimmaa yatakhayyaroon",
@@ -161,7 +161,7 @@ ayats = [
     },
     {
         "arabic_text": "وَلَحْمِ طَيْرٍ مِّمَّا يَشْتَهُونَ",
-        "urdu_text": "اور ایسے پرندوں کا گوشت جو وہ چاہیں",
+        "urdu_text": "اور ایسے پرندوں کا گوشت جو وه چاهیں",
         "persian_text": "و گوشت پرندگانی که میل دارند",
         "english_text": "And meat of fowls that they desire",
         "transliteration": "Wa lahmi tayrin mimma yashtahoon",
@@ -177,7 +177,7 @@ ayats = [
     },
     {
         "arabic_text": "كَاَمْثَالِ اللُّؤْلُؤِ الْمَكْنُونِ",
-        "urdu_text": "جو چھپائے ہوئے موتیوں کی مانند ہیں",
+        "urdu_text": "جو چھپائے هوئے موتیوں کی مانند هیں",
         "persian_text": "مانند مرواریدهای پنهان",
         "english_text": "The likenesses of pearls well-protected",
         "transliteration": "Ka amsaalil lu'lu'il maknoon",
@@ -185,7 +185,7 @@ ayats = [
     },
     {
         "arabic_text": "جَزَاءً بِمَا كَانُوا يَعْمَلُونَ",
-        "urdu_text": "یہ بدلہ ہے ان کے اعمال کا جو وہ کرتے تھے",
+        "urdu_text": "یه بدله هے ان کے اعمال کا جو وه کرتے تھے",
         "persian_text": "پاداش کارهایی که انجام می‌دادند",
         "english_text": "[As] reward for what they used to do",
         "transliteration": "Jazaa’am bimaa kaanoo ya’maloon",
@@ -193,7 +193,7 @@ ayats = [
     },
     {
         "arabic_text": "لَا يَسْمَعُونَ فِيهَا لَغْوًا وَلَا تَاْثِيمًا",
-        "urdu_text": "نہ وہ وہاں کوئی بیہودہ بات سنیں گے نہ گناہ کی",
+        "urdu_text": "نه وه وهاں کوئی بیهوده بات سنیں گے نه گناه کی",
         "persian_text": "نه در آنجا سخن لغو می‌شنوند و نه گناه‌آلود",
         "english_text": "They will not hear therein ill speech or commission of sin",
         "transliteration": "Laa yasma’oona feehaa laghwan wa laa ta’theema",
@@ -209,7 +209,7 @@ ayats = [
     },
     {
         "arabic_text": "وَاَصْحَابُ الْيَمِينِ مَا اَصْحَابُ الْيَمِينِ",
-        "urdu_text": "اور داہنے ہاتھ والے، کیا خوب ہیں داہنے ہاتھ والے!",
+        "urdu_text": "اور داهنے هاتھ والے، کیا خوب هیں داهنے هاتھ والے!",
         "persian_text": "و یاران دست راست، چه نیکو یارانی‌اند!",
         "english_text": "And the companions of the right – what are the companions of the right?",
         "transliteration": "Wa as-haabul yameeni maa as-haabul yameen",
@@ -217,7 +217,7 @@ ayats = [
     },
     {
         "arabic_text": "فِي سِدْرٍ مَّخْضُودٍ",
-        "urdu_text": "وہ بیریوں میں ہوں گے جن میں کانٹے نہ ہوں گے",
+        "urdu_text": "وه بیریوں میں هوں گے جن میں کانٹے نه هوں گے",
         "persian_text": "در درختان سدر بی‌خار",
         "english_text": "They will be among lote trees with thorns removed",
         "transliteration": "Fee sidrin makhdood",
@@ -225,7 +225,7 @@ ayats = [
     },
     {
         "arabic_text": "وَطَلْحٍ مَّنضُودٍ",
-        "urdu_text": "اور کیلے کے تہہ بہ تہہ درختوں میں",
+        "urdu_text": "اور کیلے کے تهه به تهه درختوں میں",
         "persian_text": "و در میان موزهای دسته‌دسته چیده‌شده",
         "english_text": "And [banana] trees layered [with fruit]",
         "transliteration": "Wa talhin mandood",
@@ -233,7 +233,7 @@ ayats = [
     },
     {
         "arabic_text": "وَظِلٍّ مَّمْدُودٍ",
-        "urdu_text": "اور پھیلی ہوئی چھاؤں میں",
+        "urdu_text": "اور پھیلی هوئی چھاؤں میں",
         "persian_text": "و در سایه‌های گسترده",
         "english_text": "And shade extended",
         "transliteration": "Wa zillin mamdood",
@@ -241,7 +241,7 @@ ayats = [
     },
     {
         "arabic_text": "وَمَاءٍ مَّسْكُوبٍ",
-        "urdu_text": "اور بہتے ہوئے پانی میں",
+        "urdu_text": "اور بهتے هوئے پانی میں",
         "persian_text": "و در آب روان",
         "english_text": "And water poured out",
         "transliteration": "Wa maaa’im maskoob",
@@ -257,7 +257,7 @@ ayats = [
     },
     {
         "arabic_text": "لَّا مَقْطُوعَةٖ وَلَا مَمْنُوعَةٖ",
-        "urdu_text": "جو نہ ختم ہوں گے اور نہ روکے جائیں گے",
+        "urdu_text": "جو نه ختم هوں گے اور نه روکے جائیں گے",
         "persian_text": "نه قطع می‌شود و نه ممنوع است",
         "english_text": "Neither limited [to season] nor forbidden",
         "transliteration": "Laa maqtoo’atin wa laa mamnoo’ah",
@@ -265,7 +265,7 @@ ayats = [
     },
     {
         "arabic_text": "وَفُرُشٖ مَّرْفُوعَةٍ",
-        "urdu_text": "اور اونچے بچھونے ہوں گے",
+        "urdu_text": "اور اونچے بچھونے هوں گے",
         "persian_text": "و بسترهای بر افراشته",
         "english_text": "And [upon] beds raised high",
         "transliteration": "Wa furooshim marfoo’ah",
@@ -273,7 +273,7 @@ ayats = [
     },
     {
         "arabic_text": "اِنَّآ اَنشَاْنَٰهُنَّ اِنشَآءٗ",
-        "urdu_text": "ہم نے ان (بیویوں) کو خاص طور پر پیدا کیا",
+        "urdu_text": "هم نے ان (بیویوں) کو خاص طور پر پیدا کیا",
         "persian_text": "ما آنان را آفرینشی نو بخشیدیم",
         "english_text": "Indeed, We have produced them [i.e., the women] in a [new] creation",
         "transliteration": "Innaaa ansha’naahunna inshaaa’a",
@@ -281,7 +281,7 @@ ayats = [
     },
     {
         "arabic_text": "فَجَعَلْنَٰهُنَّ اَبْكَارًا",
-        "urdu_text": "اور ہم نے انہیں کنواری بنایا",
+        "urdu_text": "اور هم نے انهیں کنواری بنایا",
         "persian_text": "و آنان را دوشیزه گردانیدیم",
         "english_text": "And made them virgins",
         "transliteration": "Faja’alnaahunna abkaaraa",
@@ -289,7 +289,7 @@ ayats = [
     },
     {
         "arabic_text": "عُرُبًا اَتْرَابًا",
-        "urdu_text": "پیار کرنے والیاں، ہم عمر",
+        "urdu_text": "پیار کرنے والیاں، هم عمر",
         "persian_text": "مهربان و هم‌سن و سال",
         "english_text": "Devoted [to their husbands] and of equal age",
         "transliteration": "Urooban atraabaa",
@@ -297,7 +297,7 @@ ayats = [
     },
     {
         "arabic_text": "لِّاَصْحَٰبِ ٱلْيَمِينِ",
-        "urdu_text": "یہ سب کچھ داہنے ہاتھ والوں کے لیے ہوگا",
+        "urdu_text": "یه سب کچھ داهنے هاتھ والوں کے لیے هوگا",
         "persian_text": "برای یاران دست راست",
         "english_text": "For the companions of the right",
         "transliteration": "Li as-haabil yameen",
@@ -305,7 +305,7 @@ ayats = [
     },
     {
         "arabic_text": "ثُلَّةٞ مِّنَ ٱلْاَوَّلِينَ",
-        "urdu_text": "ایک جماعت اگلے لوگوں میں سے ہوگی",
+        "urdu_text": "ایک جماعت اگلے لوگوں میں سے هوگی",
         "persian_text": "گروهی از پیشینیان",
         "english_text": "A company of the former peoples",
         "transliteration": "Sullatum minal awwaleen",
@@ -313,7 +313,7 @@ ayats = [
     },
     {
         "arabic_text": "وَثُلَّةٞ مِّنَ ٱلْآخِرِينَ",
-        "urdu_text": "اور ایک جماعت پچھلے لوگوں میں سے ہوگی",
+        "urdu_text": "اور ایک جماعت پچھلے لوگوں میں سے هوگی",
         "persian_text": "و گروهی از پسینیان",
         "english_text": "And a company of the later peoples",
         "transliteration": "Wa sullatum minal aakhireen",
@@ -321,7 +321,7 @@ ayats = [
     },
     {
         "arabic_text": "وَاَصْحَٰبُ ٱلشِّمَالِ مَآ اَصْحَٰبُ ٱلشِّمَالِ",
-        "urdu_text": "اور بائیں ہاتھ والے، کیا حال ہوگا بائیں ہاتھ والوں کا؟",
+        "urdu_text": "اور بائیں هاتھ والے، کیا حال هوگا بائیں هاتھ والوں کا؟",
         "persian_text": "و یاران دست چپ، وای بر یاران دست چپ!",
         "english_text": "And the companions of the left – what are the companions of the left?",
         "transliteration": "Wa as-haabush shimaal, maa as-haabush shimaal",
@@ -329,7 +329,7 @@ ayats = [
     },
     {
         "arabic_text": "فِي سَمُومٖ وَحَمِيمٖ",
-        "urdu_text": "وہ جلتی ہوا اور کھولتے پانی میں ہوں گے",
+        "urdu_text": "وه جلتی هوا اور کھولتے پانی میں هوں گے",
         "persian_text": "در باد داغ و آب جوشان خواهند بود",
         "english_text": "They will be in scorching fire and scalding water",
         "transliteration": "Fee samoominw-wa hameem",
@@ -345,31 +345,31 @@ ayats = [
     },
     {
         "arabic_text": "لَّا بَارِدٖ وَلَا كَرِيمٍ",
-        "urdu_text": "نہ وہ ٹھنڈا ہوگا، نہ آرام دہ",
+        "urdu_text": "نه وه ٹھنڈا هوگا، نه آرام ده",
         "persian_text": "نه خنک است و نه دلپذیر",
         "english_text": "Neither cool nor beneficial",
         "transliteration": "Laa baaridinw-wa laa kareem",
         "verse_number": "44",
     },
     {
-        "arabic_text": "اِنَّهُمْ كَانُوا۟ قَبْلَ ذَٰلِكَ مُتْرَفِينَ",
-        "urdu_text": "وہ اس سے پہلے خوشحال تھے",
+        "arabic_text": "اِنَّهُمْ كَانُواْ قَبْلَ ذَٰلِكَ مُتْرَفِينَ",
+        "urdu_text": "وه اس سے پهلے خوشحال تھے",
         "persian_text": "آنان پیش از این در ناز و نعمت بودند",
         "english_text": "Indeed they were, before that, indulging in affluence",
         "transliteration": "Innahum kaanoo qabla zaalika mutrafeen",
         "verse_number": "45",
     },
     {
-        "arabic_text": "وَكَانُوا۟ يُصِرُّونَ عَلَى ٱلْحِنثِ ٱلْعَظِيمِ",
-        "urdu_text": "اور وہ بڑے گناہ پر اصرار کرتے تھے",
+        "arabic_text": "وَكَانُواْ يُصِرُّونَ عَلَى ٱلْحِنثِ ٱلْعَظِيمِ",
+        "urdu_text": "اور وه بڑے گناه پر اصرار کرتے تھے",
         "persian_text": "و بر گناه بزرگ پافشاری می‌کردند",
         "english_text": "And they used to persist in the great violation",
         "transliteration": "Wa kaanoo yusirroona ‘alal hinthil ‘azeem",
         "verse_number": "46",
     },
     {
-        "arabic_text": "وَكَانُوا۟ يَقُولُونَ اَئِذَا مِتْنَا وَكُنَّا تُرَٰبٗا وَعِظَٰمًا اَءِنَّا لَمَبْعُوثُونَ",
-        "urdu_text": "اور وہ کہتے تھے: جب ہم مرجائیں گے اور مٹی اور ہڈی بن جائیں گے، تو کیا ہم پھر اٹھائے جائیں گے؟",
+        "arabic_text": "وَكَانُواْ يَقُولُونَ اَئِذَا مِتْنَا وَكُنَّا تُرَٰبٗا وَعِظَٰمًا اَءِنَّا لَمَبْعُوثُونَ",
+        "urdu_text": "اور وه کهتے تھے: جب هم مرجائیں گے اور مٹی اور هڈی بن جائیں گے، تو کیا هم پھر اٹھائے جائیں گے؟",
         "persian_text": "و می‌گفتند: آیا زمانی که مردیم و خاک و استخوان شدیم، آیا ما برانگیخته خواهیم شد؟",
         "english_text": "And used to say, 'When we die and become dust and bones, are we indeed to be resurrected?'",
         "transliteration": "Wa kaanoo yaqooloona a’izaa mitnaa wa kunnaa turaabanw-wa ‘izaaman a’innaa lamab’oosoon",
@@ -377,7 +377,7 @@ ayats = [
     },
     {
         "arabic_text": "اَوَ ءَابَآؤُنَا ٱلْاَوَّلُونَ",
-        "urdu_text": "کیا ہمارے باپ دادا بھی؟",
+        "urdu_text": "کیا همارے باپ دادا بھی؟",
         "persian_text": "و آیا پدران نخستین ما نیز؟",
         "english_text": "And our forefathers as well?",
         "transliteration": "Awa aabaaa’unal awwaloon",
@@ -385,7 +385,7 @@ ayats = [
     },
     {
         "arabic_text": "قُلْ اِنَّ ٱلْاَوَّلِينَ وَٱلْءَاخِرِينَ",
-        "urdu_text": "کہہ دو: یقیناً اگلے اور پچھلے سب",
+        "urdu_text": "کهه دو: یقیناً اگلے اور پچھلے سب",
         "persian_text": "بگو: به راستی پیشینیان و پسینیان",
         "english_text": "Say, 'Indeed, the former and the later peoples",
         "transliteration": "Qul innal awwaleena wal aakhireen",
@@ -401,7 +401,7 @@ ayats = [
     },
     {
         "arabic_text": "ثُمَّ اِنَّكُمْ اَيُّهَا ٱلضَّآلُّونَ ٱلْمُكَذِّبُونَ",
-        "urdu_text": "پھر اے گمراہو اور جھٹلانے والو!",
+        "urdu_text": "پھر اے گمراهو اور جھٹلانے والو!",
         "persian_text": "پس ای گمراهان و دروغ‌پنداران!",
         "english_text": "Then indeed you, O those astray who are deniers,",
         "transliteration": "Thumma innakum ayyuhad-daalloonal-mukazziboon",
@@ -409,7 +409,7 @@ ayats = [
     },
     {
         "arabic_text": "لَآكِلُونَ مِن شَجَرٖ مِّن زَقُّومٖ",
-        "urdu_text": "تم زقوم کے درخت میں سے کھانے والے ہو",
+        "urdu_text": "تم زقوم کے درخت میں سے کھانے والے هو",
         "persian_text": "حتماً از درخت زقوم خواهید خورد",
         "english_text": "Will be eating from trees of zaqqum",
         "transliteration": "La aakiloona min shajarin min zaqqoom",
@@ -433,7 +433,7 @@ ayats = [
     },
     {
         "arabic_text": "فَشَٰرِبُونَ شُرْبَ ٱلْهِيمِ",
-        "urdu_text": "یوں پیو گے جیسے پیاسے اونٹ پیتے ہیں",
+        "urdu_text": "یوں پیو گے جیسے پیاسے اونٹ پیتے هیں",
         "persian_text": "همانند شتران بسیار تشنه خواهید نوشید",
         "english_text": "And will drink as the drinking of thirsty camels",
         "transliteration": "Fashaari-boona shurbal-heem",
@@ -441,7 +441,7 @@ ayats = [
     },
     {
         "arabic_text": "هَٰذَا نُزُلُهُمْ يَوْمَ ٱلدِّينِ",
-        "urdu_text": "یہ ان کی مہمانی ہے جزا کے دن",
+        "urdu_text": "یه ان کی مهمانی هے جزا کے دن",
         "persian_text": "این است پذیرایی آنان در روز جزا",
         "english_text": "This is their hospitality on the Day of Recompense",
         "transliteration": "Haazaa nuzuluhum yawma ad-deen",
@@ -449,7 +449,7 @@ ayats = [
     },
     {
         "arabic_text": "نَحْنُ خَلَقْنَٰكُمْ فَلَوْلَا تُصَدِّقُونَ",
-        "urdu_text": "ہم نے تمہیں پیدا کیا، تو تم کیوں تصدیق نہیں کرتے؟",
+        "urdu_text": "هم نے تمهیں پیدا کیا، تو تم کیوں تصدیق نهیں کرتے؟",
         "persian_text": "ما شما را آفریدیم، پس چرا تصدیق نمی‌کنید؟",
         "english_text": "We created you, so why do you not believe?",
         "transliteration": "Nahnu khalaqnaakum falaawlaa tusaddiqoon",
@@ -457,7 +457,7 @@ ayats = [
     },
     {
         "arabic_text": "اَفَرَءَيْتُم مَّا تُمْنُونَ",
-        "urdu_text": "کیا تم نے دیکھا وہ (نطفہ) جو تم ٹپکاتے ہو؟",
+        "urdu_text": "کیا تم نے دیکھا وه (نطفه) جو تم ٹپکاتے هو؟",
         "persian_text": "آیا آنچه را که نطفه‌افشانی می‌کنید دیده‌اید؟",
         "english_text": "Then have you seen that which you emit?",
         "transliteration": "Afara’aytum maa tumnoon",
@@ -465,7 +465,7 @@ ayats = [
     },
     {
         "arabic_text": "ءَاَنتُمْ تَخْلُقُونَهُۥٓ اَمْ نَحْنُ ٱلْخَٰلِقُونَ",
-        "urdu_text": "کیا تم اسے پیدا کرتے ہو یا ہم پیدا کرنے والے ہیں؟",
+        "urdu_text": "کیا تم اسے پیدا کرتے هو یا هم پیدا کرنے والے هیں؟",
         "persian_text": "آیا شما آن را می‌آفرینید یا ما آفرینندگانیم؟",
         "english_text": "Is it you who creates it, or are We the Creator?",
         "transliteration": "A’antum takhluqoonahu am nahnul-khaaliqoon",
@@ -473,7 +473,7 @@ ayats = [
     },
     {
         "arabic_text": "نَحْنُ قَدَّرْنَا بَيْنَكُمُ ٱلْمَوْتَ وَ مَا نَحْنُ بِمَسْبُوقِينَ",
-        "urdu_text": "ہم نے تمہارے درمیان موت کو مقرر کیا، اور ہم عاجز نہیں",
+        "urdu_text": "هم نے تمهارے درمیان موت کو مقرر کیا، اور هم عاجز نهیں",
         "persian_text": "ما مرگ را میان شما مقدر داشتیم، و ما مغلوب شدنی نیستیم",
         "english_text": "We have decreed death among you, and We are not to be outdone",
         "transliteration": "Nahnu qaddarnaa bainakumul-mawta wa maa nahnu bimasbooqeen",
@@ -481,7 +481,7 @@ ayats = [
     },
     {
         "arabic_text": "عَلَىٰٓ اَن نُّبَدِّلَ اَمْثَٰلَكُمْ وَنُنشِئَكُمْ فِي مَا لَا تَعْلَمُونَ",
-        "urdu_text": "ہم اس پر قادر ہیں کہ تم جیسی مخلوق بدل دیں اور تمہیں ایسی حالت میں پیدا کریں جسے تم نہیں جانتے",
+        "urdu_text": "هم اس پر قادر هیں که تم جیسی مخلوق بدل دیں اور تمهیں ایسی حالت میں پیدا کریں جسے تم نهیں جانتے",
         "persian_text": "ما تواناییم که همانندان شما را جایگزین کنیم و شما را در حالی دیگر که نمی‌دانید پدید آوریم",
         "english_text": "That We may change your likenesses and produce you in that [form] which you do not know",
         "transliteration": "Alaaa an nubaddila amsaalakum wa nunshi'akum fee maa laa ta’lamoon",
@@ -489,7 +489,7 @@ ayats = [
     },
     {
         "arabic_text": "وَلَقَدْ عَلِمْتُمُ ٱلنَّشْاَةَ ٱلْاُولَىٰ فَلَوْلَا تَذَكَّرُونَ",
-        "urdu_text": "اور تم نے پہلی پیدائش دیکھی ہے، تو کیوں نصیحت حاصل نہیں کرتے؟",
+        "urdu_text": "اور تم نے پهلی پیدائش دیکھی هے، تو کیوں نصیحت حاصل نهیں کرتے؟",
         "persian_text": "و شما آفرینش نخستین را دانسته‌اید، پس چرا پند نمی‌گیرید؟",
         "english_text": "And you have already known the first creation, so will you not remember?",
         "transliteration": "Walaqad ‘alimtumn-nash’atal-oola falaaw laa tazzakkaroon",
@@ -497,7 +497,7 @@ ayats = [
     },
     {
         "arabic_text": "اَفَرَءَيْتُم مَّا تَحْرُثُونَ",
-        "urdu_text": "کیا تم نے غور کیا اس چیز پر جو تم بوتے ہو؟",
+        "urdu_text": "کیا تم نے غور کیا اس چیز پر جو تم بوتے هو؟",
         "persian_text": "آیا نگریسته‌اید به آنچه می‌کارید؟",
         "english_text": "And have you seen that [seed] which you sow?",
         "transliteration": "Afara’aytum maa tahruthoon",
@@ -505,7 +505,7 @@ ayats = [
     },
     {
         "arabic_text": "ءَاَنتُمْ تَزْرَعُونَهُۥٓ اَمْ نَحْنُ ٱلزَّٰرِعُونَ",
-        "urdu_text": "کیا تم اسے اگاتے ہو یا ہم اگانے والے ہیں؟",
+        "urdu_text": "کیا تم اسے اگاتے هو یا هم اگانے والے هیں؟",
         "persian_text": "آیا شما آن را می‌رویانید یا ما رویاننده‌ایم؟",
         "english_text": "Is it you who makes it grow, or are We the grower?",
         "transliteration": "A’antum tazra’oonahu am nahnuz-zaari’oon",
@@ -513,7 +513,7 @@ ayats = [
     },
     {
         "arabic_text": "لَوْ نَشَآءُ لَجَعَلْنَٰهُ حُطَٰمٗا فَظَلْتُمْ تَفَكَّهُونَ",
-        "urdu_text": "اگر ہم چاہیں تو اسے چورا چورا کر دیں، تو تم حیران رہ جاؤ گے",
+        "urdu_text": "اگر هم چاهیں تو اسے چورا چورا کر دیں، تو تم حیران ره جاؤ گے",
         "persian_text": "اگر بخواهیم آن را ریز ریز می‌کنیم، پس شما در شگفت می‌مانید",
         "english_text": "If We willed, We could make it dry debris, and you would remain in wonder",
         "transliteration": "Law nashaaa’u laja’alnaahu hutaaman fazaltum tafakkahoon",
@@ -521,7 +521,7 @@ ayats = [
     },
     {
         "arabic_text": "اِنَّا لَمُغْرَمُونَ",
-        "urdu_text": "یقیناً ہم نقصان اٹھانے والے ہو گئے",
+        "urdu_text": "یقیناً هم نقصان اٹھانے والے هو گئے",
         "persian_text": "ما حتماً زیان دیده‌ایم",
         "english_text": "Indeed, we are [now] in debt [for what we have lost]",
         "transliteration": "Innaa lamughramoon",
@@ -529,7 +529,7 @@ ayats = [
     },
     {
         "arabic_text": "بَلْ نَحْنُ مَحْرُومُونَ",
-        "urdu_text": "بلکہ ہم تو محروم رہ گئے",
+        "urdu_text": "بلکه هم تو محروم ره گئے",
         "persian_text": "بلکه ما محروم مانده‌ایم",
         "english_text": "Rather, we have been deprived",
         "transliteration": "Bal nahnu mahroomoon",
@@ -537,7 +537,7 @@ ayats = [
     },
     {
         "arabic_text": "اَفَرَءَيْتُمُ ٱلْمَآءَ ٱلَّذِي تَشْرَبُونَ",
-        "urdu_text": "کیا تم نے اس پانی کو دیکھا جو تم پیتے ہو؟",
+        "urdu_text": "کیا تم نے اس پانی کو دیکھا جو تم پیتے هو؟",
         "persian_text": "آیا به آبی که می‌نوشید نگریسته‌اید؟",
         "english_text": "Then have you seen the water that you drink?",
         "transliteration": "Afara’aytumul maaa’al lazee tashraboon",
@@ -545,7 +545,7 @@ ayats = [
     },
     {
         "arabic_text": "ءَاَنتُمْ اَنزَلْتُمُوهُ مِنَ ٱلْمُزْنِ اَمْ نَحْنُ ٱلْمُنزِلُونَ",
-        "urdu_text": "کیا تم نے اسے بادل سے اتارا ہے یا ہم اتارنے والے ہیں؟",
+        "urdu_text": "کیا تم نے اسے بادل سے اتارا هے یا هم اتارنے والے هیں؟",
         "persian_text": "آیا شما آن را از ابر نازل کرده‌اید یا ما نازل‌کننده‌ایم؟",
         "english_text": "Is it you who brought it down from the clouds, or is it We who bring it down?",
         "transliteration": "A’antum anzaltumoohu minal muzni am nahnul munziloona",
@@ -553,7 +553,7 @@ ayats = [
     },
     {
         "arabic_text": "لَوْ نَشَآءُ جَعَلْنَٰهُ اُجَاجٗا فَلَوْلَا تَشْكُرُونَ",
-        "urdu_text": "اگر ہم چاہیں تو اسے کھارا بنا دیں، تو تم شکر کیوں نہیں کرتے؟",
+        "urdu_text": "اگر هم چاهیں تو اسے کھارا بنا دیں، تو تم شکر کیوں نهیں کرتے؟",
         "persian_text": "اگر بخواهیم آن را شور می‌کنیم، پس چرا شکر نمی‌گزارید؟",
         "english_text": "If We willed, We could make it bitter, so why are you not grateful?",
         "transliteration": "Law nashaaa’u ja’alnaahu ujaajan falaawlaa tashkuroon",
@@ -561,7 +561,7 @@ ayats = [
     },
     {
         "arabic_text": "اَفَرَءَيْتُمُ ٱلنَّارَ ٱلَّتِي تُورُونَ",
-        "urdu_text": "کیا تم نے اس آگ کو دیکھا جو تم بھڑکاتے ہو؟",
+        "urdu_text": "کیا تم نے اس آگ کو دیکھا جو تم بھڑکاتے هو؟",
         "persian_text": "آیا به آتشی که می‌افروزید نگریسته‌اید؟",
         "english_text": "Have you seen the fire that you ignite?",
         "transliteration": "Afara’aytumu an-naaral-latee tooroon",
@@ -569,7 +569,7 @@ ayats = [
     },
     {
         "arabic_text": "ءَاَنتُمْ اَنشَاْتُمْ شَجَرَتَهَآ اَمْ نَحْنُ ٱلْمُنشِـُٔونَ",
-        "urdu_text": "کیا تم نے اس کے درخت کو پیدا کیا ہے یا ہم پیدا کرنے والے ہیں؟",
+        "urdu_text": "کیا تم نے اس کے درخت کو پیدا کیا هے یا هم پیدا کرنے والے هیں؟",
         "persian_text": "آیا شما درخت آن را پدید آوردید یا ما پدید آورندگانیم؟",
         "english_text": "Is it you who produced its tree, or are We the producer?",
         "transliteration": "A’antum ansha’tum shajaratahaa am nahnul munshi’oon",
@@ -577,7 +577,7 @@ ayats = [
     },
     {
         "arabic_text": "نَحْنُ جَعَلْنَٰهَا تَذْكِرَةٗ وَمَتَٰعٗا لِّلْمُقْوِينَ",
-        "urdu_text": "ہم نے اسے نصیحت اور مسافروں کے لیے فائدہ مند بنایا",
+        "urdu_text": "هم نے اسے نصیحت اور مسافروں کے لیے فائده مند بنایا",
         "persian_text": "ما آن را وسیله یادآوری و بهره‌ای برای مسافران قرار دادیم",
         "english_text": "We have made it a reminder and provision for the travelers",
         "transliteration": "Nahnu ja’alnaahaa tazkiratanw-wa mataa’al-lilmuqween",
@@ -593,7 +593,7 @@ ayats = [
     },
     {
         "arabic_text": "فَلَآ اُقْسِمُ بِمَوَٰقِعِ ٱلنُّجُومِ",
-        "urdu_text": "پس نہیں، میں قسم کھاتا ہوں ستاروں کے مقام کی",
+        "urdu_text": "پس نهیں، میں قسم کھاتا هوں ستاروں کے مقام کی",
         "persian_text": "نه، سوگند به جایگاه‌های ستارگان می‌خورم",
         "english_text": "But no! I swear by the positions of the stars",
         "transliteration": "Falaa uqsimu bimaawaaqi’in nujoom",
@@ -601,7 +601,7 @@ ayats = [
     },
     {
         "arabic_text": "وَاِنَّهُۥ لَقَسَمٞ لَّوْ تَعْلَمُونَ عَظِيمٌ",
-        "urdu_text": "اور بے شک یہ ایک عظیم قسم ہے اگر تم جان لو",
+        "urdu_text": "اور بے شک یه ایک عظیم قسم هے اگر تم جان لو",
         "persian_text": "و همانا این سوگندی است بزرگ، اگر بدانید",
         "english_text": "And indeed, it is a great oath – if you could know",
         "transliteration": "Wa innahu laqasamul law ta’lamoona ‘azeem",
@@ -609,7 +609,7 @@ ayats = [
     },
     {
         "arabic_text": "اِنَّهُۥ لَقُرْءَانٞ كَرِيمٞ",
-        "urdu_text": "یقیناً یہ ایک باعزت قرآن ہے",
+        "urdu_text": "یقیناً یه ایک باعزت قرآن هے",
         "persian_text": "بی‌گمان این قرآن، قرآنی گرامی‌ست",
         "english_text": "Indeed, it is a noble Qur'an",
         "transliteration": "Innahoo laqur-aanun kareem",
@@ -617,7 +617,7 @@ ayats = [
     },
     {
         "arabic_text": "فِي كِتَٰبٖ مَّكْنُونٖ",
-        "urdu_text": "ایک محفوظ کتاب میں ہے",
+        "urdu_text": "ایک محفوظ کتاب میں هے",
         "persian_text": "در کتابی نهفته است",
         "english_text": "In a Register well-protected",
         "transliteration": "Fee kitaabim maknoon",
@@ -625,7 +625,7 @@ ayats = [
     },
     {
         "arabic_text": "لَّا يَمَسُّهُۥٓ اِلَّا ٱلْمُطَهَّرُونَ",
-        "urdu_text": "اسے صرف پاک لوگ ہی چھو سکتے ہیں",
+        "urdu_text": "اسے صرف پاک لوگ هی چھو سکتے هیں",
         "persian_text": "جز پاک‌شدگان آن را لمس نمی‌کنند",
         "english_text": "None touch it except the purified",
         "transliteration": "Laa yamassuhu illal mutahharoon",
@@ -633,7 +633,7 @@ ayats = [
     },
     {
         "arabic_text": "تَنزِيلٞ مِّن رَّبِّ ٱلْعَٰلَمِينَ",
-        "urdu_text": "یہ رب العالمین کی طرف سے نازل کردہ ہے",
+        "urdu_text": "یه رب العالمین کی طرف سے نازل کرده هے",
         "persian_text": "نازل شده از سوی پروردگار جهانیان است",
         "english_text": "A revelation from the Lord of the worlds",
         "transliteration": "Tanzeelum mir rabbil ‘aalameen",
@@ -641,7 +641,7 @@ ayats = [
     },
     {
         "arabic_text": "اَفَبِهَٰذَا ٱلْحَدِيثِ اَنتُم مُّدْهِنُونَ",
-        "urdu_text": "تو کیا تم اس کلام کو ہلکا لیتے ہو؟",
+        "urdu_text": "تو کیا تم اس کلام کو هلکا لیتے هو؟",
         "persian_text": "آیا شما این سخن را بی‌اهمیت می‌شمارید؟",
         "english_text": "Then is it to this statement that you are indifferent?",
         "transliteration": "Afabi haazal hadeesi antum mudhinoon",
@@ -649,7 +649,7 @@ ayats = [
     },
     {
         "arabic_text": "وَتَجْعَلُونَ رِزْقَكُمْ اَنَّكُمْ تُكَذِّبُونَ",
-        "urdu_text": "اور تم اپنے رزق کا انکار کرتے ہو؟",
+        "urdu_text": "اور تم اپنے رزق کا انکار کرتے هو؟",
         "persian_text": "و روزی خود را این می‌دانید که تکذیب می‌کنید؟",
         "english_text": "And make [the thanks for] your provision that you deny [the Provider]?",
         "transliteration": "Wa taj’aloona rizqakum annakum tukazziboon",
@@ -657,7 +657,7 @@ ayats = [
     },
     {
         "arabic_text": "فَلَوْلَآ اِذَا بَلَغَتِ ٱلْحُلْقُومَ",
-        "urdu_text": "پھر کیوں نہیں، جب جان گلے تک پہنچتی ہے",
+        "urdu_text": "پھر کیوں نهیں، جب جان گلے تک پهنچتی هے",
         "persian_text": "پس چرا هنگامی که جان به گلوگاه می‌رسد",
         "english_text": "Then why, when the soul reaches the throat",
         "transliteration": "Falaw laaa izaa balaghatil hulqoom",
@@ -665,7 +665,7 @@ ayats = [
     },
     {
         "arabic_text": "وَاَنتُمْ حِينَئِذٖ تَنظُرُونَ",
-        "urdu_text": "اور تم اُس وقت دیکھ رہے ہوتے ہو",
+        "urdu_text": "اور تم اُس وقت دیکھ رهے هوتے هو",
         "persian_text": "و شما در آن هنگام نظاره‌گر هستید",
         "english_text": "And you are at that time looking on",
         "transliteration": "Wa antum heena’izin tanziroon",
@@ -673,7 +673,7 @@ ayats = [
     },
     {
         "arabic_text": "وَنَحْنُ اَقْرَبُ اِلَيْهِ مِنكُمْ وَلَٰكِن لَّا تُبْصِرُونَ",
-        "urdu_text": "اور ہم تم سے زیادہ اس کے قریب ہوتے ہیں، لیکن تم نہیں دیکھتے",
+        "urdu_text": "اور هم تم سے زیاده اس کے قریب هوتے هیں، لیکن تم نهیں دیکھتے",
         "persian_text": "و ما به او نزدیک‌تریم از شما، ولی نمی‌بینید",
         "english_text": "And We are nearer to him than you, but you do not see",
         "transliteration": "Wa nahnu aqrabu ilaihi minkum wa laakil laa tubsiroon",
@@ -681,7 +681,7 @@ ayats = [
     },
     {
         "arabic_text": "فَلَوْلَآ اِن كُنتُمْ غَيْرَ مَدِينِينَ",
-        "urdu_text": "پھر کیوں نہیں، اگر تم جزا کے تابع نہیں ہو؟",
+        "urdu_text": "پھر کیوں نهیں، اگر تم جزا کے تابع نهیں هو؟",
         "persian_text": "پس چرا اگر شما در برابر پاداش قرار ندارید؟",
         "english_text": "Then why do you not, if you are not to be recompensed,",
         "transliteration": "Falaw laaa in kuntum ghaira madeeneen",
@@ -689,7 +689,7 @@ ayats = [
     },
     {
         "arabic_text": "تَرْجِعُونَهَآ اِن كُنتُمْ صَٰدِقِينَ",
-        "urdu_text": "اس جان کو واپس لوٹا لاتے ہو اگر تم سچے ہو؟",
+        "urdu_text": "اس جان کو واپس لوٹا لاتے هو اگر تم سچے هو؟",
         "persian_text": "اگر راستگو هستید آن را بازگردانید",
         "english_text": "Bring it back, if you should be truthful",
         "transliteration": "Tarji’oonahaaa in kuntum saadiqeen",
@@ -697,7 +697,7 @@ ayats = [
     },
     {
         "arabic_text": "فَاَمَّآ اِن كَانَ مِنَ ٱلْمُقَرَّبِينَ",
-        "urdu_text": "پس اگر وہ مقربین میں سے ہے",
+        "urdu_text": "پس اگر وه مقربین میں سے هے",
         "persian_text": "پس اگر از مقربان باشد",
         "english_text": "And if the deceased was of those brought near to Allah,",
         "transliteration": "Fa ammaa in kaana minal muqarrabeen",
@@ -705,7 +705,7 @@ ayats = [
     },
     {
         "arabic_text": "فَرَوْحٞ وَرَيْحَانٞ وَجَنَّتُ نَعِيمٍ",
-        "urdu_text": "تو اس کے لیے راحت، خوشبو اور نعمتوں والی جنت ہے",
+        "urdu_text": "تو اس کے لیے راحت، خوشبو اور نعمتوں والی جنت هے",
         "persian_text": "پس برای او آسایش و نعمت و بهشت پرنعمت خواهد بود",
         "english_text": "Then [for him is] rest and bounty and a garden of pleasure",
         "transliteration": "Farawhunw wa raihaanunw-wa jannatu na’eem",
@@ -713,7 +713,7 @@ ayats = [
     },
     {
         "arabic_text": "وَاَمَّآ اِن كَانَ مِنْ اَصْحَٰبِ ٱلْيَمِينِ",
-        "urdu_text": "اور اگر وہ دائیں جانب والوں میں سے ہو",
+        "urdu_text": "اور اگر وه دائیں جانب والوں میں سے هو",
         "persian_text": "و اگر از اصحاب یمین باشد",
         "english_text": "And if he was of the companions of the right",
         "transliteration": "Wa ammaa in kaana min ashaabil yameen",
@@ -721,7 +721,7 @@ ayats = [
     },
     {
         "arabic_text": "فَسَلَٰمٞ لَّكَ مِنْ اَصْحَٰبِ ٱلْيَمِينِ",
-        "urdu_text": "تو اس کے لیے دائیں جانب والوں کی طرف سے سلامتی ہے",
+        "urdu_text": "تو اس کے لیے دائیں جانب والوں کی طرف سے سلامتی هے",
         "persian_text": "پس سلام بر تو از سوی اصحاب یمین",
         "english_text": "Then [the angels will say], 'Peace for you [from] the companions of the right'",
         "transliteration": "Fasalaamun laka min ashaabil yameen",
@@ -729,7 +729,7 @@ ayats = [
     },
     {
         "arabic_text": "وَاَمَّآ اِن كَانَ مِنَ ٱلْمُكَذِّبِينَ ٱلضَّآلِّينَ",
-        "urdu_text": "اور اگر وہ جھٹلانے والوں اور گمراہوں میں سے ہو",
+        "urdu_text": "اور اگر وه جھٹلانے والوں اور گمراهوں میں سے هو",
         "persian_text": "و اگر از تکذیب‌کنندگان گمراه باشد",
         "english_text": "But if he was of the deniers [who were] astray,",
         "transliteration": "Wa ammaa in kaana minal mukazzibeenad daalleen",
@@ -737,7 +737,7 @@ ayats = [
     },
     {
         "arabic_text": "فَنُزُلٞ مِّنْ حَمِيمٖ",
-        "urdu_text": "تو اس کے لیے کھولتے پانی کی مہمانی ہے",
+        "urdu_text": "تو اس کے لیے کھولتے پانی کی مهمانی هے",
         "persian_text": "پس پذیرایی او از آب جوشان است",
         "english_text": "Then [for him is] accommodation of scalding water",
         "transliteration": "Fanuzulum min hameem",
@@ -745,7 +745,7 @@ ayats = [
     },
     {
         "arabic_text": "وَتَصْلِيَةُ جَحِيمٍ",
-        "urdu_text": "اور جہنم میں جلنا ہے",
+        "urdu_text": "اور جهنم میں جلنا هے",
         "persian_text": "و سوزاندن در آتش سوزان",
         "english_text": "And burning in Hellfire",
         "transliteration": "Wa tasliyatu jaheem",
@@ -753,7 +753,7 @@ ayats = [
     },
     {
         "arabic_text": "اِنَّ هَٰذَا لَهُوَ حَقُّ ٱلْيَقِينِ",
-        "urdu_text": "یقیناً یہ ہی یقینی سچائی ہے",
+        "urdu_text": "یقیناً یه هی یقینی سچائی هے",
         "persian_text": "بی‌گمان این همان حقیقت قطعی است",
         "english_text": "Indeed, this is the true certainty",
         "transliteration": "Inna haazaa lahuwa haqqul yaqeen",

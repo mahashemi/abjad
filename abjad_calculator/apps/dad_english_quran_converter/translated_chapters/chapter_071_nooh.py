@@ -9,7 +9,7 @@ ayats = [
   {
     "verse_number": 1,
     "english_text": "Verily, We sent Nooh towards his nation so that he may warn his nation before the coming of the painful punishment.",
-    "arabic_text": "إِنَّآ أَرْسَلْنَا نُوحًا إِلَىٰ قَوْمِهِۦٓ أَنْ أَنذِرْ قَوْمَكَ مِن قَبْلِ أَن يَأْتِيَهُمْ عَذَابٌ أَلِيمٌۭ",
+    "arabic_text": "إِنَّآ اَرْسَلْنَا نُوحًا إِلَىٰ قَوْمِهِۦٓ اَنْ اَنذِرْ قَوْمَكَ مِن قَبْلِ اَن يَأْتِيَهُمْ عَذَابٌ اَلِيمٌۭ",
     "urdu_text": "بیشک ہم نے نوح کو ان کی قوم کی طرف بھیجا کہ اپنی قوم کو ڈراؤ اس سے پہلے کہ ان پر دردناک عذاب آ جائے۔",
     "persian_text": "به راستی ما نوح را به سوی قوم خود فرستادیم تا قوم خود را پیش از آنکه عذاب دردناکی به سراغشان آید، هشدار دهد.",
     "transliteration": "Innaa arsalnaa Noohan ilaa qawmihee an andhir qawmaka min qabli an ya'tiyahum 'adhaabun aleem"
@@ -25,7 +25,7 @@ ayats = [
   {
     "verse_number": 3,
     "english_text": "That they worship Allah, fear Him and obey me.",
-    "arabic_text": "أَنِ ٱعْبُدُوا۟ ٱللَّهَ وَٱتَّقُوهُ وَأَطِيعُونِ",
+    "arabic_text": "اَنِ ٱعْبُدُواْ ٱللَّهَ وَٱتَّقُوهُ وَاَطِيعُونِ",
     "urdu_text": "کہ اللہ کی عبادت کرو، اس سے ڈرو اور میری اطاعت کرو۔",
     "persian_text": "که خدا را پرستش کنید و از او بترسید و از من اطاعت کنید.",
     "transliteration": "Ani'budullaaha wattaqoohu wa atee'oon"
@@ -33,7 +33,7 @@ ayats = [
   {
     "verse_number": 4,
     "english_text": "He will forgive your sins and will keep you alive until an appointed term; when the time will come in cannot be averted, if you know anything.",
-    "arabic_text": "يَغْفِرْ لَكُم مِّن ذُنُوبِكُمْ وَيُؤَخِّرْكُمْ إِلَىٰٓ أَجَلٍۢ مُّسَمًّى ۚ إِنَّ أَجَلَ ٱللَّهِ إِذَا جَآءَ لَا يُؤَخَّرُ ۖ لَوْ كُنتُمْ تَعْلَمُونَ",
+    "arabic_text": "يَغْفِرْ لَكُم مِّن ذُنُوبِكُمْ وَيُؤَخِّرْكُمْ إِلَىٰٓ اَجَلٍۢ مُّسَمًّى ۚ إِنَّ اَجَلَ ٱللَّهِ إِذَا جَآءَ لَا يُؤَخَّرُ ۖ لَوْ كُنتُمْ تَعْلَمُونَ",
     "urdu_text": "وہ تمہارے گناہ معاف کر دے گا اور تمہیں ایک مقررہ وقت تک مہلت دے گا۔ بیشک اللہ کا مقرر کردہ وقت جب آ جائے تو ٹالا نہیں جا سکتا، کاش تم جانتے ہوتے۔",
     "persian_text": "گناهان شما را خواهد بخشید و شما را تا زمان معینی مهلت خواهد داد. همانا زمان مقرر خدا چون فرا رسد، به تأخیر نمی‌افتد، اگر می‌دانستید.",
     "transliteration": "Yaghfir lakum min dhunoobikum wa yu'akhkhirkum ilaa ajalin musammaa inna ajalAllaahi idhaa jaa'a laa yu'akhkhar law kuntum ta'lamoon"
@@ -57,7 +57,7 @@ ayats = [
   {
     "verse_number": 7,
     "english_text": "And whenever I invited them that you forgive them, they thrust their fingers into their ears and covered themselves with their garments, and were obstinate in their talk, and were very haughty.",
-    "arabic_text": "وَإِنِّى كُلَّمَا دَعَوْتُهُمْ لِتَغْفِرَ لَهُمْ جَعَلُوٓا۟ أَصَـٰبِعَهُمْ فِىٓ ءَاذَانِهِمْ وَٱسْتَغْشَوْا۟ ثِيَابَهُمْ وَأَصَرُّوا۟ وَٱسْتَكْبَرُوا۟ ٱسْتِكْبَارًۭا",
+    "arabic_text": "وَإِنِّى كُلَّمَا دَعَوْتُهُمْ لِتَغْفِرَ لَهُمْ جَعَلُوٓاْ اَصَـٰبِعَهُمْ فِىٓ ءَاذَانِهِمْ وَٱسْتَغْشَوْاْ ثِيَابَهُمْ وَاَصَرُّواْ وَٱسْتَكْبَرُواْ ٱسْتِكْبَارًۭا",
     "urdu_text": "اور جب بھی میں نے انہیں بلایا تاکہ تو انہیں معاف کر دے، تو انہوں نے اپنی انگلیاں اپنے کانوں میں ڈال لیں اور اپنے کپڑوں سے اپنے آپ کو ڈھانپ لیا اور اپنی ضد پر اڑے رہے اور بہت تکبر کیا۔",
     "persian_text": "و هر گاه آنها را دعوت کردم تا تو آنان را ببخشی، انگشتان خود را در گوش‌هایشان فرو کردند و خود را در جامه‌هایشان پوشاندند و اصرار ورزیدند و بسیار تکبر کردند.",
     "transliteration": "Wa innee kullamaa da'awtuhum litaghfira lahum ja'alooo asaabi'ahum fee aadhaanihim wastaghshaw thiyaabahum wa asarroo wastakbaroo istikbaara"
@@ -73,7 +73,7 @@ ayats = [
   {
     "verse_number": 9,
     "english_text": "Then I announced, and I invited them secretly also.",
-    "arabic_text": "ثُمَّ إِنِّىٓ أَعْلَنتُ لَهُمْ وَأَسْرَرْتُ لَهُمْ إِسْرَارًۭا",
+    "arabic_text": "ثُمَّ إِنِّىٓ اَعْلَنتُ لَهُمْ وَاَسْرَرْتُ لَهُمْ إِسْرَارًۭا",
     "urdu_text": "پھر میں نے ان سے اعلانیہ بھی کہا اور چھپ کر بھی ان سے بات کی۔",
     "persian_text": "سپس برای آنان آشکارا اعلام کردم و نیز پنهانی با آنها سخن گفتم.",
     "transliteration": "Thumma inneee a'lantu lahum wa asrartu lahum israara"
@@ -81,7 +81,7 @@ ayats = [
   {
     "verse_number": 10,
     "english_text": "And said: seek forgiveness from your Lord, He is most forgiver.",
-    "arabic_text": "فَقُلْتُ ٱسْتَغْفِرُوا۟ رَبَّكُمْ إِنَّهُۥ كَانَ غَفَّارًۭا",
+    "arabic_text": "فَقُلْتُ ٱسْتَغْفِرُواْ رَبَّكُمْ إِنَّهُۥ كَانَ غَفَّارًۭا",
     "urdu_text": "اور کہا: اپنے رب سے بخشش مانگو، بیشک وہ بہت بخشنے والا ہے۔",
     "persian_text": "و گفتم: از پروردگار خود آمرزش بخواهید، همانا او بسیار آمرزنده است.",
     "transliteration": "Faqultus taghfiroo rabbakum innahoo kaana ghaffaara"
@@ -97,7 +97,7 @@ ayats = [
   {
     "verse_number": 12,
     "english_text": "And will help you with the wealth and children and will bestow upon you gardens and the rivers.",
-    "arabic_text": "وَيُمْدِدْكُم بِأَمْوَٰلٍۢ وَبَنِينَ وَيَجْعَل لَّكُمْ جَنَّـٰتٍۢ وَيَجْعَل لَّكُمْ أَنْهَـٰرًۭا",
+    "arabic_text": "وَيُمْدِدْكُم بِاَمْوَٰلٍۢ وَبَنِينَ وَيَجْعَل لَّكُمْ جَنَّـٰتٍۢ وَيَجْعَل لَّكُمْ اَنْهَـٰرًۭا",
     "urdu_text": "اور تمہیں مال اور اولاد سے مدد دے گا اور تمہارے لیے باغات اور نہریں بنائے گا",
     "persian_text": "و شما را با اموال و فرزندان یاری خواهد کرد و برای شما باغ‌ها و نهرها قرار خواهد داد",
     "transliteration": "Wa yumdidkum bi-amwaalinw wa baneena wa yaj'al lakum jannaatinw wa yaj'al lakum anhaaraa"
@@ -113,7 +113,7 @@ ayats = [
   {
     "verse_number": 14,
     "english_text": "Whereas He has created you in a different way.",
-    "arabic_text": "وَقَدْ خَلَقَكُمْ أَطْوَارًا",
+    "arabic_text": "وَقَدْ خَلَقَكُمْ اَطْوَارًا",
     "urdu_text": "حالانکہ اس نے تمہیں مختلف مراحل میں پیدا کیا ہے",
     "persian_text": "در حالی که شما را در مراحل مختلف آفریده است",
     "transliteration": "Wa qad khalaqakum atwaaraa"
@@ -121,7 +121,7 @@ ayats = [
   {
     "verse_number": 15,
     "english_text": "Haven't you seen that Allah has made seven skies layer over layer.",
-    "arabic_text": "أَلَمْ تَرَوْا۟ كَيْفَ خَلَقَ ٱللَّهُ سَبْعَ سَمَـٰوَٰتٍۢ طِبَاقًۭا",
+    "arabic_text": "اَلَمْ تَرَوْاْ كَيْفَ خَلَقَ ٱللَّهُ سَبْعَ سَمَـٰوَٰتٍۢ طِبَاقًۭا",
     "urdu_text": "کیا تم نے نہیں دیکھا کہ اللہ نے سات آسمان تہہ بہ تہہ بنائے ہیں",
     "persian_text": "آیا ندیده‌اید که خداوند هفت آسمان را طبقه بر طبقه آفریده است",
     "transliteration": "Alam taraw kayfa khalaqal-laahu sab'a samaawaatin tibaaqaa"
@@ -137,7 +137,7 @@ ayats = [
   {
     "verse_number": 17,
     "english_text": "And Allah has created you from the earth.",
-    "arabic_text": "وَٱللَّهُ أَنۢبَتَكُم مِّنَ ٱلْأَرْضِ نَبَاتًۭا",
+    "arabic_text": "وَٱللَّهُ اَنۢبَتَكُم مِّنَ ٱلْاَرْضِ نَبَاتًۭا",
     "urdu_text": "اور اللہ نے تمہیں زمین سے اگایا ہے جیسے پودا اگتا ہے",
     "persian_text": "و خداوند شما را از زمین رویانید همچون گیاه",
     "transliteration": "Wallaahu ambatakum minal-ardi nabaataa"
@@ -153,7 +153,7 @@ ayats = [
   {
     "verse_number": 19,
     "english_text": "And Allah has made the earth for you a carpet.",
-    "arabic_text": "وَٱللَّهُ جَعَلَ لَكُمُ ٱلْأَرْضَ بِسَاطًۭا",
+    "arabic_text": "وَٱللَّهُ جَعَلَ لَكُمُ ٱلْاَرْضَ بِسَاطًۭا",
     "urdu_text": "اور اللہ نے تمہارے لیے زمین کو فرش بنایا ہے",
     "persian_text": "و خداوند زمین را برای شما فرشی گسترده قرار داده است",
     "transliteration": "Wallaahu ja'ala lakumul-arda bisaataa"
@@ -161,7 +161,7 @@ ayats = [
   {
     "verse_number": 20,
     "english_text": "That you may walk on it in the spacious roads.",
-    "arabic_text": "لِّتَسْلُكُوا۟ مِنْهَا سُبُلًۭا فِجَاجًۭا",
+    "arabic_text": "لِّتَسْلُكُواْ مِنْهَا سُبُلًۭا فِجَاجًۭا",
     "urdu_text": "تاکہ تم اس میں کشادہ راستوں پر چل سکو",
     "persian_text": "تا در راه‌های فراخ آن گام بردارید",
     "transliteration": "Litaslukoo minhaa subulan fijaajaa"
@@ -169,7 +169,7 @@ ayats = [
   {
     "verse_number": 21,
     "english_text": "And Nooh said: O Lord, they have disobeyed me and followed him who can give nothing except loss in wealth and children.",
-    "arabic_text": "قَالَ نُوحٌۭ رَّبِّ إِنَّهُمْ عَصَوْنِى وَٱتَّبَعُوا۟ مَن لَّمْ يَزِدْهُ مَالُهُۥ وَوَلَدُهُۥٓ إِلَّا خَسَارًۭا",
+    "arabic_text": "قَالَ نُوحٌۭ رَّبِّ إِنَّهُمْ عَصَوْنِى وَٱتَّبَعُواْ مَن لَّمْ يَزِدْهُ مَالُهُۥ وَوَلَدُهُۥٓ إِلَّا خَسَارًۭا",
     "urdu_text": "اور نوح نے کہا: اے میرے رب! بیشک انہوں نے میری نافرمانی کی اور ان لوگوں کی پیروی کی جن کے مال اور اولاد نے انہیں خسارے کے سوا کچھ نہیں بڑھایا۔",
     "persian_text": "و نوح گفت: پروردگارا! آنان از من نافرمانی کردند و از کسانی پیروی نمودند که مال و فرزندشان جز زیان بر آنها نیفزود.",
     "transliteration": "Qaala Noohur-Rabbi innahum 'asawnee wattaba'oo mal-lam yazid-hu maaluhu wa waladuhooo illaa khasaaraa"
@@ -177,7 +177,7 @@ ayats = [
   {
     "verse_number": 22,
     "english_text": "And they have devised great plotting.",
-    "arabic_text": "وَمَكَرُوا۟ مَكْرًۭا كُبَّارًۭا",
+    "arabic_text": "وَمَكَرُواْ مَكْرًۭا كُبَّارًۭا",
     "urdu_text": "اور انہوں نے بڑی بھاری سازش کی۔",
     "persian_text": "و آنان نیرنگی بزرگ به کار بردند.",
     "transliteration": "Wa makaroo makran kubbaara"
@@ -185,7 +185,7 @@ ayats = [
   {
     "verse_number": 23,
     "english_text": "And said to the people do not leave your gods and do not neglect Wadd, Suwa, Yaghoos, Yaooq and Nasr.",
-    "arabic_text": "وَقَالُوا۟ لَا تَذَرُنَّ ءَالِهَتَكُمْ وَلَا تَذَرُنَّ وَدًّۭا وَلَا سُوَاعًۭا وَلَا يَغُوثَ وَيَعُوقَ وَنَسْرًۭا",
+    "arabic_text": "وَقَالُواْ لَا تَذَرُنَّ ءَالِهَتَكُمْ وَلَا تَذَرُنَّ وَدًّۭا وَلَا سُوَاعًۭا وَلَا يَغُوثَ وَيَعُوقَ وَنَسْرًۭا",
     "urdu_text": "اور انہوں نے کہا: اپنے معبودوں کو ہرگز نہ چھوڑنا، اور نہ ود، سواع، یغوث، یعوق اور نسر کو چھوڑنا۔",
     "persian_text": "و گفتند: خدایان خود را رها نکنید و ود و سواع و یغوث و یعوق و نسر را ترک ننمایید.",
     "transliteration": "Wa qaaloo laa tazarunna aalihatakum wa laa tazarunna Waddanw-wa laa Suwaa'anw-wa laa Yaghootha wa Ya'ooqa wa Nasraa"
@@ -193,7 +193,7 @@ ayats = [
   {
     "verse_number": 24,
     "english_text": "They misguided many, so now You do not increase anything for wrong-doers but destruction.",
-    "arabic_text": "وَقَدْ أَضَلُّوا۟ كَثِيرًۭا ۖ وَلَا تَزِدِ ٱلظَّـٰلِمِينَ إِلَّا ضَلَـٰلًۭا",
+    "arabic_text": "وَقَدْ اَضَلُّواْ كَثِيرًۭا ۖ وَلَا تَزِدِ ٱلظَّـٰلِمِينَ إِلَّا ضَلَـٰلًۭا",
     "urdu_text": "اور انہوں نے بہت سے لوگوں کو گمراہ کیا، پس اے اللہ! ظالموں کو گمراہی کے سوا کچھ نہ بڑھا۔",
     "persian_text": "و آنان بسیاری را گمراه کردند، پس ستمکاران را جز در گمراهی مفزای.",
     "transliteration": "Wa qad adalloo katheeraa, wa laa tazidiz-zaalimeena illaa dalaalaa"
@@ -201,7 +201,7 @@ ayats = [
   {
     "verse_number": 25,
     "english_text": "They were all drowned for their wrongdoings, then were entered into Hell, and they did not find any helper instead of Allah.",
-    "arabic_text": "مِّمَّا خَطِيٓـَٔـٰتِهِمْ أُغْرِقُوا۟ فَأُدْخِلُوا۟ نَارًۭا فَلَمْ يَجِدُوا۟ لَهُم مِّن دُونِ ٱللَّهِ أَنصَارًۭا",
+    "arabic_text": "مِّمَّا خَطِيٓـَٔـٰتِهِمْ أُغْرِقُواْ فَأُدْخِلُواْ نَارًۭا فَلَمْ يَجِدُواْ لَهُم مِّن دُونِ ٱللَّهِ اَنصَارًۭا",
     "urdu_text": "ان کی خطاؤں کی وجہ سے وہ غرق کر دیے گئے، پھر آگ میں داخل کیے گئے، اور انہوں نے اللہ کے سوا کوئی مددگار نہ پایا۔",
     "persian_text": "به سبب خطاهایشان غرق شدند، سپس به آتش درآورده شدند و جز الله یاوری نیافتند.",
     "transliteration": "Mimmaa khateee'aatihim ughriqoo fa-udkhiloo Naaranf-falam yajidoo lahum-min doonil-laahi ansaaraa"
@@ -209,7 +209,7 @@ ayats = [
   {
     "verse_number": 26,
     "english_text": "And Nooh said, O Lord, do not leave any disbeliever who abides on this earth.",
-    "arabic_text": "وَقَالَ نُوحٌۭ رَّبِّ لَا تَذَرْ عَلَى ٱلْأَرْضِ مِنَ ٱلْكَـٰفِرِينَ دَيَّارًا",
+    "arabic_text": "وَقَالَ نُوحٌۭ رَّبِّ لَا تَذَرْ عَلَى ٱلْاَرْضِ مِنَ ٱلْكَـٰفِرِينَ دَيَّارًا",
     "urdu_text": "اور نوح نے کہا: اے میرے رب! زمین پر کافروں میں سے کسی رہنے والے کو نہ چھوڑ۔",
     "persian_text": "و نوح گفت: پروردگارا! از کافران هیچ ساکنی بر روی زمین مگذار.",
     "transliteration": "Wa qaala Noohur-Rabbi laa tazar 'alal-ardi minal-kaafireena dayyaaraa"
@@ -217,7 +217,7 @@ ayats = [
   {
     "verse_number": 27,
     "english_text": "If You will leave them, they will misguide your servants, and they will not have any children except disbelievers and transgressors.",
-    "arabic_text": "إِنَّكَ إِن تَذَرْهُمْ يُضِلُّوا۟ عِبَادَكَ وَلَا يَلِدُوٓا۟ إِلَّا فَاجِرًۭا كَفَّارًۭا",
+    "arabic_text": "إِنَّكَ إِن تَذَرْهُمْ يُضِلُّواْ عِبَادَكَ وَلَا يَلِدُوٓاْ إِلَّا فَاجِرًۭا كَفَّارًۭا",
     "urdu_text": "اگر تو انہیں چھوڑ دے گا تو یہ تیرے بندوں کو گمراہ کریں گے، اور یہ بدکار کافروں کے سوا کسی کو جنم نہیں دیں گے۔",
     "persian_text": "اگر آنان را واگذاری، بندگانت را گمراه خواهند کرد و جز فرزندان بدکار و کافر نخواهند زایید.",
     "transliteration": "Innaka in tazarhum yudilloo 'ibaadaka wa laa yalidooo illaa faajiran kaffaaraa"
