@@ -17,7 +17,7 @@ ayats = [
   {
     "verse_number": 2,
     "english_text": "That is Allah who sent a prophet to the people of Makkah which was from among them to recite the verses in front of them, to purify themselves and may educate them in book and wisdom, although they were afflicted with the open misguidance.",
-    "arabic_text": "هُوَ الَّذِى بَعَثَ فِى الْاُمِّيِّـۧنَ رَسُولًۭا مِّنْهُمْ يَتْلُواْ عَلَيْهِمْ اٰيٰتِهِ وَيُزَكِّيهِمْ وَيُعَلِّمُهُمُ الْكِتَـٰبَ وَالْحِكْمَةَ وَاِن كَانُواْ مِن قَبْلُ لَفِى ضَلَـٰلٍۢ مُّبِينٍۢ",
+    "arabic_text": "هُوَ الَّذِى بَعَثَ فِى الْاُمِّيِّـۧنَ رَسُولًۭا مِّنْهُمْ يَتْلُواْ عَلَيْهِمْ اٰيٰتِهِ وَيُزَكِّيهِمْ وَيُعَلِّمُهُمُ الْكِتٰبَ وَالْحِكْمَةَ وَاِن كَانُواْ مِن قَبْلُ لَفِى ضَلَـٰلٍۢ مُّبِينٍۢ",
     "urdu_text": "وہی ہے جس نے ان پڑھ لوگوں میں انہی میں سے ایک رسول بھیجا جو ان پر اس کی آیات پڑھتا ہے، انہیں پاک کرتا ہے اور انہیں کتاب اور حکمت سکھاتا ہے، حالانکہ وہ اس سے پہلے کھلی گمراہی میں تھے۔",
     "persian_text": "او کسی است که در میان امیان، رسولی از خودشان برانگیخت تا آیات او را بر آنان بخواند و آنان را پاک کند و کتاب و حکمت به آنان بیاموزد، هرچند پیش از این در گمراهی آشکاری بودند.",
     "transliteration": "Huwa allathi ba'atha fil-ummiyyina rasulan minhum yatlu 'alayhim ayatihi wa yuzakkihim wa yu'allimuhumul-kitaba wal-hikmata wa in kanu min qablu lafi dalalin mubin"

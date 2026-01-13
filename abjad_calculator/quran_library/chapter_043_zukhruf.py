@@ -17,7 +17,7 @@ ayats = [
   {
     "verse_number": 2,
     "english_text": "By this enlightened Book.",
-    "arabic_text": "وَالْكِتَـٰبِ الْمُبِينِ",
+    "arabic_text": "وَالْكِتٰبِ الْمُبِينِ",
     "urdu_text": "قسم هے اس روشن کتاب کی",
     "persian_text": "سوگند به این کتاب روشنگر",
     "transliteration": "Wal-kitaabil-mubeen"
@@ -33,7 +33,7 @@ ayats = [
   {
     "verse_number": 4,
     "english_text": "This book is mentioned on \"Laoh-e-Mahfooz\" with Us, truly elevated and full of wisdom.",
-    "arabic_text": "وَاِنَّهُ فِىٓ اُمِّ الْكِتَـٰبِ لَدَيْنَا لَعَلِىٌّ حَكِيمٌ",
+    "arabic_text": "وَاِنَّهُ فِىٓ اُمِّ الْكِتٰبِ لَدَيْنَا لَعَلِىٌّ حَكِيمٌ",
     "urdu_text": "اور بیشک یه همارے پاس لوح محفوظ میں بلند مرتبه اور حکمت والا هے",
     "persian_text": "و به راستی آن نزد ما در ام الکتاب، بلند مرتبه و حکیمانه است",
     "transliteration": "Wa innahu fee ummi al-kitabi ladayna la'aliyyun hakeem"
@@ -169,7 +169,7 @@ ayats = [
   {
     "verse_number": 21,
     "english_text": "What! Have We given any book to them previously to which they are adhering?",
-    "arabic_text": "اَمْ ءَاتَيْنَـٰهُمْ كِتَـٰبًۭا مِّن قَبْلِهِ فَهُم بِهِ مُسْتَمْسِكُونَ",
+    "arabic_text": "اَمْ ءَاتَيْنَـٰهُمْ كِتٰبًۭا مِّن قَبْلِهِ فَهُم بِهِ مُسْتَمْسِكُونَ",
     "urdu_text": "کیا هم نے انهیں اس سے پهلے کوئی کتاب دی تھی جس کو یه مضبوطی سے تھامے هوئے هیں؟",
     "persian_text": "آیا ما پیش از این کتابی به آنان داده‌ایم که به آن چنگ زده‌اند؟",
     "transliteration": "Am aataynaahum kitaabam min qablihi fahum bihi mustamsikoon"

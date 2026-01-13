@@ -449,7 +449,7 @@ ayats = [
   {
     "verse_number": 56,
     "english_text": "And who are given the knowledge and faith, they will say: according to the Book of Allah you stayed until the Day of Judgement, this is the Day of Judgement and you are unaware.",
-    "arabic_text": "وَقَالَ الَّذِينَ اُوتُواْ الْعِلْمَ وَالْاِيمَـٰنَ لَقَدْ لَبِثْتُمْ فِى كِتَـٰبِ اللَّهِ اِلَىٰ يَوْمِ الْبَعْثِ ۖ فَهَـٰذَا يَوْمُ الْبَعْثِ وَلَـٰكِنَّكُمْ كُنتُمْ لَا تَعْلَمُونَ",
+    "arabic_text": "وَقَالَ الَّذِينَ اُوتُواْ الْعِلْمَ وَالْاِيمَـٰنَ لَقَدْ لَبِثْتُمْ فِى كِتٰبِ اللَّهِ اِلَىٰ يَوْمِ الْبَعْثِ ۖ فَهَـٰذَا يَوْمُ الْبَعْثِ وَلَـٰكِنَّكُمْ كُنتُمْ لَا تَعْلَمُونَ",
     "urdu_text": "اور جن لوگوں کو علم اور ایمان دیا گیا وه کهیں گے: تم الله کی کتاب میں قیامت کے دن تک ٹھهرے رهے، پس یه قیامت کا دن هے لیکن تم نهیں جانتے تھے۔",
     "persian_text": "و کسانی که علم و ایمان به آنان داده شده است می‌گویند: به راستی در کتاب خدا تا روز رستاخیز ماندید، پس این روز رستاخیز است ولی شما نمی‌دانستید.",
     "transliteration": "Wa qaalal ladheena ootul 'ilma wal eemaana laqad labithtum fee Kitaabil laahi ilaa Yawmil ba'th, fahaazaa Yawmul ba'thi wa laakinnakum kuntum laa ta'lamoon"

@@ -17,7 +17,7 @@ ayats = [
   {
     "verse_number": 2,
     "english_text": "These are verses of the Book full of wisdom.",
-    "arabic_text": "تِلْكَ اٰيٰتُ الْكِتَـٰبِ الْحَكِيمِ",
+    "arabic_text": "تِلْكَ اٰيٰتُ الْكِتٰبِ الْحَكِيمِ",
     "urdu_text": "یه حکمت والی کتاب کی آیتیں هیں",
     "persian_text": "این‌ها آیات کتاب حکیم است",
     "transliteration": "Tilka aayaatul kitaabil hakeem"
@@ -161,7 +161,7 @@ ayats = [
   {
     "verse_number": 20,
     "english_text": "Did not you saw that Allah has made subservient you all the things of sky and the earth, and completed seen and unseen favors for you, and there are some among the people who argue about Allah without knowledge, guidance and the bright book.",
-    "arabic_text": "اَلَمْ تَرَوْاْ اَنَّ اللَّهَ سَخَّرَ لَكُم مَّا فِى السَّمَـٰوَٰتِ وَ مَا فِى الْاَرْضِ وَاَسْبَغَ عَلَيْكُمْ نِعَمَهُ ظَـٰهِرَةًۭ وَبَاطِنَةًۭ ۗ وَمِنَ النَّاسِ مَن يُجَـٰدِلُ فِى اللَّهِ بِغَيْرِ عِلْمٍۢ وَلَا هُدًۭى وَلَا كِتَـٰبٍۢ مُّنِيرٍۢ",
+    "arabic_text": "اَلَمْ تَرَوْاْ اَنَّ اللَّهَ سَخَّرَ لَكُم مَّا فِى السَّمَـٰوَٰتِ وَ مَا فِى الْاَرْضِ وَاَسْبَغَ عَلَيْكُمْ نِعَمَهُ ظَـٰهِرَةًۭ وَبَاطِنَةًۭ ۗ وَمِنَ النَّاسِ مَن يُجَـٰدِلُ فِى اللَّهِ بِغَيْرِ عِلْمٍۢ وَلَا هُدًۭى وَلَا كِتٰبٍۢ مُّنِيرٍۢ",
     "urdu_text": "کیا تم نے نهیں دیکھا که الله نے آسمانوں اور زمین کی تمام چیزیں تمهارے لیے مسخر کر دی هیں، اور تم پر اپنی ظاهری اور باطنی نعمتیں پوری کر دی هیں، اور لوگوں میں سے کچھ ایسے هیں جو الله کے بارے میں بغیر علم، هدایت اور روشن کتاب کے بحث کرتے هیں۔",
     "persian_text": "آیا ندیدید که الله آنچه در آسمان‌ها و آنچه در زمین است برای شما مسخر کرده، و نعمت‌های آشکار و پنهان خود را بر شما کامل گردانیده است، و برخی از مردم درباره الله بدون علم و هدایت و کتاب روشن مجادله می‌کنند.",
     "transliteration": "Alam taraw anna Allāha sakhkhara lakum mā fī as-samāwāti wa mā fī al-arḍi wa asbagha 'alaykum ni'amahu ẓāhiratan wa bāṭinatan wa mina an-nāsi man yujādilu fī Allāhi bighayri 'ilmin wa lā hudan wa lā kitābin munīr"

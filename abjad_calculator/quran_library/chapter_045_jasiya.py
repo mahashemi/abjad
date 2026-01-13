@@ -17,7 +17,7 @@ ayats = [
   {
     "verse_number": 2,
     "english_text": "Revelation of this Book is from Allah Who is Honorable and has Wisdom.",
-    "arabic_text": "تَنزِيلُ الْكِتَـٰبِ مِنَ اللَّهِ الْعَزِيزِ الْحَكِيمِ",
+    "arabic_text": "تَنزِيلُ الْكِتٰبِ مِنَ اللَّهِ الْعَزِيزِ الْحَكِيمِ",
     "urdu_text": "یه کتاب الله کی طرف سے نازل کی گئی هے جو غالب اور حکمت والا هے۔",
     "persian_text": "نازل شدن این کتاب از جانب خداوند عزیز و حکیم است.",
     "transliteration": "Tanzeelul-Kitaabi minal-laahil-'Azeezil-Hakeem"
@@ -129,7 +129,7 @@ ayats = [
   {
     "verse_number": 16,
     "english_text": "And Verily We gave book, wisdom and prophethood to Bani Israel, and gave them pure sustenance, and made them excel over the worlds.",
-    "arabic_text": "وَ لَقَدْ ءَاتَيْنَا بَنِىٓ اِسْرَٰٓءِيلَ الْكِتَـٰبَ وَالْحُكْمَ وَالنُّبُوَّةَ وَرَزَقْنَـٰهُم مِّنَ الطَّيِّبَـٰتِ وَفَضَّلْنَـٰهُمْ عَلَى الْعَـٰلَمِينَ",
+    "arabic_text": "وَ لَقَدْ ءَاتَيْنَا بَنِىٓ اِسْرَٰٓءِيلَ الْكِتٰبَ وَالْحُكْمَ وَالنُّبُوَّةَ وَرَزَقْنَـٰهُم مِّنَ الطَّيِّبَـٰتِ وَفَضَّلْنَـٰهُمْ عَلَى الْعَـٰلَمِينَ",
     "urdu_text": "اور بیشک هم نے بنی اسرائیل کو کتاب، حکمت اور نبوت عطا کی، اور انهیں پاکیزه رزق دیا، اور انهیں تمام جهانوں پر فضیلت دی۔",
     "persian_text": "و قطعاً به بنی اسرائیل کتاب و حکمت و نبوت دادیم، و از روزی‌های پاکیزه به آنان روزی دادیم، و آنان را بر جهانیان برتری بخشیدیم.",
     "transliteration": "Wa laqad aataynaa Baneee Israaa'eelal kitaaba walhukma wannubuwwata wa razaqnaahum minat tayyibaati wa faddalnaa hum 'alal 'aalameen"
@@ -225,7 +225,7 @@ ayats = [
   {
     "verse_number": 28,
     "english_text": "You will see all the nations kneeling, and everyone shall be called towards their book of deeds that today you will be recompensed for your deeds.",
-    "arabic_text": "وَتَرَىٰ كُلَّ اُمَّةٍۢ جَاثِيَةًۭ ۚ كُلُّ اُمَّةٍۢ تُدْعَىٰٓ اِلَىٰ كِتَـٰبِهَا الْيَوْمَ تُجْزَوْنَ مَا كُنتُمْ تَعْمَلُونَ",
+    "arabic_text": "وَتَرَىٰ كُلَّ اُمَّةٍۢ جَاثِيَةًۭ ۚ كُلُّ اُمَّةٍۢ تُدْعَىٰٓ اِلَىٰ كِتٰبِهَا الْيَوْمَ تُجْزَوْنَ مَا كُنتُمْ تَعْمَلُونَ",
     "urdu_text": "تم دیکھو گے که تمام امتیں گھٹنوں کے بل هیں، اور هر امت کو اس کی کتاب اعمال کی طرف بلایا جائے گا که آج تمهیں تمهارے اعمال کا بدله دیا جائے گا۔",
     "persian_text": "و خواهی دید که هر امتی زانو زده است، هر امتی به سوی کتاب اعمالش خوانده می‌شود که امروز به آنچه انجام می‌دادید پاداش داده می‌شوید.",
     "transliteration": "Wa tarā kulla ummatin jāthiyah, kullu ummatin tud'ā ilā kitābihā al-yawma tujzawna mā kuntum ta'malūn"
@@ -233,7 +233,7 @@ ayats = [
   {
     "verse_number": 29,
     "english_text": "This is Our book which speaks with the truth, and We are continuously recording your deeds.",
-    "arabic_text": "هَـٰذَا كِتَـٰبُنَا يَنطِقُ عَلَيْكُم بِالْحَقِّ ۚ اِنَّا كُنَّا نَسْتَنسِخُ مَا كُنتُمْ تَعْمَلُونَ",
+    "arabic_text": "هَـٰذَا كِتٰبُنَا يَنطِقُ عَلَيْكُم بِالْحَقِّ ۚ اِنَّا كُنَّا نَسْتَنسِخُ مَا كُنتُمْ تَعْمَلُونَ",
     "urdu_text": "یه هماری کتاب هے جو حق کے ساتھ بولتی هے، اور هم تمهارے اعمال کو مسلسل لکھتے رهے هیں۔",
     "persian_text": "این کتاب ماست که به حق بر شما گواهی می‌دهد، ما پیوسته آنچه را انجام می‌دادید ثبت می‌کردیم.",
     "transliteration": "Hādhā kitābunā yanṭiqu 'alaykum bi-al-ḥaqq, innā kunnā nastansikhu mā kuntum ta'malūn"

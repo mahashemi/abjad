@@ -89,7 +89,7 @@ ayats = [
   {
     "verse_number": 11,
     "english_text": "And Allah has created you from dust, then made sperm, then made pair, and whatever a woman carries in her womb, or gives birth, is aware of all, then whoever is given long life or short life; everything is mentioned in the Divine Book, and for Allah it is all very easy.",
-    "arabic_text": "وَاللَّهُ خَلَقَكُم مِّن تُرَابٍۢ ثُمَّ مِن نُّطْفَةٍۢ ثُمَّ جَعَلَكُمْ اَزْوَٰجًۭا ۚ وَ مَا تَحْمِلُ مِنْ اُنثَىٰ وَلَا تَضَعُ اِلَّا بِعِلْمِهِ ۚ وَ مَا يُعَمَّرُ مِن مُّعَمَّرٍۢ وَلَا يُنقَصُ مِنْ عُمُرِهِٓ اِلَّا فِى كِتَـٰبٍ ۚ اِنَّ ذَٰلِكَ عَلَى اللَّهِ يَسِيرٌۭ",
+    "arabic_text": "وَاللَّهُ خَلَقَكُم مِّن تُرَابٍۢ ثُمَّ مِن نُّطْفَةٍۢ ثُمَّ جَعَلَكُمْ اَزْوَٰجًۭا ۚ وَ مَا تَحْمِلُ مِنْ اُنثَىٰ وَلَا تَضَعُ اِلَّا بِعِلْمِهِ ۚ وَ مَا يُعَمَّرُ مِن مُّعَمَّرٍۢ وَلَا يُنقَصُ مِنْ عُمُرِهِٓ اِلَّا فِى كِتٰبٍ ۚ اِنَّ ذَٰلِكَ عَلَى اللَّهِ يَسِيرٌۭ",
     "urdu_text": "اور اللہ نے تمہیں مٹی سے پیدا کیا، پھر نطفے سے، پھر تمہیں جوڑے بنایا، اور کوئی عورت حمل نہیں اٹھاتی اور نہ جنتی ہے مگر اس کے علم میں، اور نہ کسی کو لمبی عمر دی جاتی ہے اور نہ اس کی عمر میں کمی کی جاتی ہے مگر یہ سب کتاب میں لکھا ہے، بے شک یہ اللہ کے لیے بہت آسان ہے۔",
     "persian_text": "و خداوند شما را از خاک آفرید، سپس از نطفه، آنگاه شما را جفت‌ها قرار داد، و هیچ ماده‌ای حمل نمی‌کند و نمی‌زاید مگر به علم او، و به هیچ کس عمر طولانی داده نمی‌شود و از عمرش کاسته نمی‌گردد مگر اینکه در کتابی ثبت است، بی‌گمان این بر خداوند آسان است.",
     "transliteration": "Wallahu khalaqakum min turabin thumma min nutfatin thumma ja'alakum azwaja, wa ma tahmilu min untha wa la tada'u illa bi'ilmihi, wa ma yu'ammaru min mu'ammarin wa la yunqasu min 'umrihi illa fi kitab, inna dhalika 'alallahi yasir"
@@ -201,7 +201,7 @@ ayats = [
   {
     "verse_number": 25,
     "english_text": "And if they deny you, people earlier than them also have done this, when messengers came to them with miracles, scriptures, clear book.",
-    "arabic_text": "وَاِن يُكَذِّبُوكَ فَقَدْ كَذَّبَ الَّذِينَ مِن قَبْلِهِمْ جَآءَتْهُمْ رُسُلُهُم بِالْبَيِّنَـٰتِ وَبِالزُّبُرِ وَبِالْكِتَـٰبِ الْمُنِيرِ",
+    "arabic_text": "وَاِن يُكَذِّبُوكَ فَقَدْ كَذَّبَ الَّذِينَ مِن قَبْلِهِمْ جَآءَتْهُمْ رُسُلُهُم بِالْبَيِّنَـٰتِ وَبِالزُّبُرِ وَبِالْكِتٰبِ الْمُنِيرِ",
     "urdu_text": "اور اگر یہ آپ کو جھٹلاتے ہیں تو ان سے پہلے لوگوں نے بھی جھٹلایا تھا، جب ان کے پاس رسول واضح نشانیوں، صحیفوں اور روشن کتاب کے ساتھ آئے تھے۔",
     "persian_text": "و اگر تو را تکذیب کنند، پس کسانی که پیش از آنان بودند نیز تکذیب کردند، هنگامی که پیامبرانشان با دلایل روشن و کتاب‌های آسمانی و کتاب منیر به سویشان آمدند.",
     "transliteration": "Wa iny-yukadhdhihooka faqad kadhdhab-alladheena min qablihim jaaa'at-hum rusuluhum bil-bayyinaati wa biz-zuburi wa bil-kitaabil-muneer"
@@ -233,7 +233,7 @@ ayats = [
   {
     "verse_number": 29,
     "english_text": "Verily, those who recite the Book (Quran), and they establish prayer, and spend (in the way of Allah) openly and secretly from whatever sustenance We have given them, they do such a business that will never be destroyed.",
-    "arabic_text": "اِنَّ الَّذِينَ يَتْلُونَ كِتَـٰبَ اللَّهِ وَاَقَامُواْ الصَّلَوٰةَ وَاَنفَقُواْ مِمَّا رَزَقْنَـٰهُمْ سِرًّۭا وَعَلَانِيَةًۭ يَرْجُونَ تِجَـٰرَةًۭ لَّن تَبُورَ",
+    "arabic_text": "اِنَّ الَّذِينَ يَتْلُونَ كِتٰبَ اللَّهِ وَاَقَامُواْ الصَّلَوٰةَ وَاَنفَقُواْ مِمَّا رَزَقْنَـٰهُمْ سِرًّۭا وَعَلَانِيَةًۭ يَرْجُونَ تِجَـٰرَةًۭ لَّن تَبُورَ",
     "urdu_text": "بیشک جو لوگ اللہ کی کتاب کی تلاوت کرتے ہیں، اور نماز قائم کرتے ہیں، اور جو کچھ ہم نے انہیں دیا ہے اس میں سے چھپے اور کھلے خرچ کرتے ہیں، وہ ایسی تجارت کی امید رکھتے ہیں جو کبھی نقصان میں نہیں جائے گی۔",
     "persian_text": "همانا کسانی که کتاب الله را تلاوت می‌کنند و نماز را برپا می‌دارند و از آنچه به آنان روزی داده‌ایم پنهان و آشکار انفاق می‌کنند، به تجارتی امیدوارند که هرگز زیان‌کار نخواهد بود.",
     "transliteration": "Innal-ladheena yatloona kitaabal-laahi wa aqaamus-salaata wa anfaqoo mimmaa razaqnaahum sirranw-wa 'alaaniyatany-yarjoona tijaaratal-lan taboor"
@@ -249,7 +249,7 @@ ayats = [
   {
     "verse_number": 31,
     "english_text": "The Book which We have revealed towards you is the Truth, and confirms its earlier books; indeed, Allah is aware of the condition of His servants; and Seeing.",
-    "arabic_text": "وَالَّذِىٓ اَوْحَيْنَآ اِلَيْكَ مِنَ الْكِتَـٰبِ هُوَ الْحَقُّ مُصَدِّقًۭا لِّمَا بَيْنَ يَدَيْهِ ۗ اِنَّ اللَّهَ بِعِبَادِهِ لَخَبِيرٌۢ بَصِيرٌۭ",
+    "arabic_text": "وَالَّذِىٓ اَوْحَيْنَآ اِلَيْكَ مِنَ الْكِتٰبِ هُوَ الْحَقُّ مُصَدِّقًۭا لِّمَا بَيْنَ يَدَيْهِ ۗ اِنَّ اللَّهَ بِعِبَادِهِ لَخَبِيرٌۢ بَصِيرٌۭ",
     "urdu_text": "اور جو کتاب ہم نے آپ کی طرف نازل کی ہے وہ حق ہے اور اپنے سے پہلے کی کتابوں کی تصدیق کرتی ہے، بیشک اللہ اپنے بندوں کے حال سے خوب باخبر اور دیکھنے والا ہے۔",
     "persian_text": "و آنچه از کتاب به تو وحی کرده‌ایم حق است و کتاب‌های پیشین را تصدیق می‌کند، همانا الله به حال بندگانش آگاه و بیناست.",
     "transliteration": "Wallazee awhayna ilayka minal kitabi huwal haqqu musaddiqal lima bayna yadayhi innallaha bi'ibadihi lakhabeerum baseer"
@@ -257,7 +257,7 @@ ayats = [
   {
     "verse_number": 32,
     "english_text": "Then We made to inherit this book to those whom We have chosen, some of them are unjust to their souls, some are moderate, and some of them goes ahead in doing the good work with the permission of Allah; and indeed, this is biggest blessing and excellence.",
-    "arabic_text": "ثُمَّ اَوْرَثْنَا الْكِتَـٰبَ الَّذِينَ اصْطَفَيْنَا مِنْ عِبَادِنَا ۖ فَمِنْهُمْ ظَالِمٌۭ لِّنَفْسِهِ وَمِنْهُم مُّقْتَصِدٌۭ وَمِنْهُمْ سَابِقٌۢ بِالْخَيْرَٰتِ بِاِذْنِ اللَّهِ ۚ ذَٰلِكَ هُوَ الْفَضْلُ الْكَبِيرُ",
+    "arabic_text": "ثُمَّ اَوْرَثْنَا الْكِتٰبَ الَّذِينَ اصْطَفَيْنَا مِنْ عِبَادِنَا ۖ فَمِنْهُمْ ظَالِمٌۭ لِّنَفْسِهِ وَمِنْهُم مُّقْتَصِدٌۭ وَمِنْهُمْ سَابِقٌۢ بِالْخَيْرَٰتِ بِاِذْنِ اللَّهِ ۚ ذَٰلِكَ هُوَ الْفَضْلُ الْكَبِيرُ",
     "urdu_text": "پھر ہم نے اس کتاب کا وارث ان لوگوں کو بنایا جنہیں ہم نے اپنے بندوں میں سے چن لیا، تو ان میں سے کوئی اپنے نفس پر ظلم کرنے والا ہے، کوئی میانہ رو ہے، اور کوئی اللہ کے حکم سے نیکیوں میں سبقت کرنے والا ہے، یہی بہت بڑا فضل ہے۔",
     "persian_text": "سپس این کتاب را به کسانی که از بندگانمان برگزیدیم به میراث دادیم، پس برخی از آنان به خود ستم می‌کنند، برخی میانه‌رو هستند و برخی به اذن الله در کارهای نیک پیشی می‌گیرند، این همان فضل بزرگ است.",
     "transliteration": "Thumma awrathnalkitabal lazeenas tafayna min 'ibadina faminhum zalimul linafsihi wa minhum muqtasidun wa minhum sabiqum bilkhayrati bi'iznillah, zalikal huwal fadlul kabeer"
@@ -321,7 +321,7 @@ ayats = [
   {
     "verse_number": 40,
     "english_text": "Say: have you seen those whom you associate with Allah; show them to me also, that what they have created on earth, or do they have any association in the skies, or We have given them any book through which they can establish any argument; this is nothing, but unjust are deceiving among themselves and making false promises.",
-    "arabic_text": "قُلْ اَرَءَيْتُمْ شُرَكَآءَكُمُ الَّذِينَ تَدْعُونَ مِن دُونِ اللَّهِ اَرُونِى مَاذَا خَلَقُواْ مِنَ الْاَرْضِ اَمْ لَهُمْ شِرْكٌۭ فِى السَّمَـٰوَٰتِ اَمْ ءَاتَيْنَـٰهُمْ كِتَـٰبًۭا فَهُمْ عَلَىٰ بَيِّنَتٍۢ مِّنْهُ ۚ بَلْ اِن يَعِدُ الظَّـٰلِمُونَ بَعْضُهُم بَعْضًا اِلَّا غُرُورًا",
+    "arabic_text": "قُلْ اَرَءَيْتُمْ شُرَكَآءَكُمُ الَّذِينَ تَدْعُونَ مِن دُونِ اللَّهِ اَرُونِى مَاذَا خَلَقُواْ مِنَ الْاَرْضِ اَمْ لَهُمْ شِرْكٌۭ فِى السَّمَـٰوَٰتِ اَمْ ءَاتَيْنَـٰهُمْ كِتٰبًۭا فَهُمْ عَلَىٰ بَيِّنَتٍۢ مِّنْهُ ۚ بَلْ اِن يَعِدُ الظَّـٰلِمُونَ بَعْضُهُم بَعْضًا اِلَّا غُرُورًا",
     "urdu_text": "کہہ دیجیے: کیا تم نے اپنے ان شریکوں کو دیکھا جنہیں تم اللہ کے سوا پکارتے ہو؟ مجھے دکھاؤ انہوں نے زمین میں کیا پیدا کیا ہے، یا آسمانوں میں ان کی کوئی شراکت ہے، یا ہم نے انہیں کوئی کتاب دی ہے جس سے ان کے پاس کوئی دلیل ہو؟ بلکہ ظالم لوگ ایک دوسرے سے محض فریب کے وعدے کرتے ہیں۔",
     "persian_text": "بگو: آیا شریکانی را که غیر از الله می‌خوانید دیده‌اید؟ به من نشان دهید چه چیزی از زمین آفریده‌اند، یا آیا در آسمان‌ها شریکی دارند، یا کتابی به آنان داده‌ایم که بر اساس آن دلیلی داشته باشند؟ بلکه ستمکاران جز فریب به یکدیگر وعده نمی‌دهند.",
     "transliteration": "Qul ara'aytum shuraka'akumul lazeena tad'oona min doonillahi aroonee maza khalaqoo minal ardi am lahum shirkun fis samawati am ataynahum kitaban fahum 'ala bayyinatim minhu, bal iny ya'iduz zalimoona ba'duhum ba'dan illa ghuroora"

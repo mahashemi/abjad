@@ -17,7 +17,7 @@ ayats = [
   {
     "verse_number": 2,
     "english_text": "This is the Book revealed by Allah, the Honorable and Wise.",
-    "arabic_text": "تَنزِيلُ الْكِتَـٰبِ مِنَ اللَّهِ الْعَزِيزِ الْحَكِيمِ",
+    "arabic_text": "تَنزِيلُ الْكِتٰبِ مِنَ اللَّهِ الْعَزِيزِ الْحَكِيمِ",
     "urdu_text": "یہ کتاب اللہ کی طرف سے نازل کی گئی ہے جو غالب اور حکمت والا ہے۔",
     "persian_text": "این کتاب از جانب خداوند عزیز و حکیم نازل شده است.",
     "transliteration": "Tanzeelul-Kitaabi minal-laahil-'Azeezil-Hakeem"
@@ -33,7 +33,7 @@ ayats = [
   {
     "verse_number": 4,
     "english_text": "So you say to them: have you seen them to whom you call besides Allah, if yes, then show me also that what they have created on earth or what partnership they have in the skies, then if you are truthful show me any earlier book or traces of the knowledge.",
-    "arabic_text": "قُلْ اَرَءَيْتُم مَّا تَدْعُونَ مِن دُونِ اللَّهِ اَرُونِى مَاذَا خَلَقُواْ مِنَ الْاَرْضِ اَمْ لَهُمْ شِرْكٌۭ فِى السَّمَـٰوَٰتِ ۖ ائْتُونِى بِكِتَـٰبٍۢ مِّن قَبْلِ هَـٰذَآ اَوْ اَثَـٰرَةٍۢ مِّنْ عِلْمٍ اِن كُنتُمْ صَـٰدِقِينَ",
+    "arabic_text": "قُلْ اَرَءَيْتُم مَّا تَدْعُونَ مِن دُونِ اللَّهِ اَرُونِى مَاذَا خَلَقُواْ مِنَ الْاَرْضِ اَمْ لَهُمْ شِرْكٌۭ فِى السَّمَـٰوَٰتِ ۖ ائْتُونِى بِكِتٰبٍۢ مِّن قَبْلِ هَـٰذَآ اَوْ اَثَـٰرَةٍۢ مِّنْ عِلْمٍ اِن كُنتُمْ صَـٰدِقِينَ",
     "urdu_text": "کہہ دو: کیا تم نے ان کو دیکھا جنہیں تم اللہ کے سوا پکارتے ہو؟ مجھے دکھاؤ کہ انہوں نے زمین میں کیا پیدا کیا ہے یا آسمانوں میں ان کی کوئی شراکت ہے؟ اگر تم سچے ہو تو اس سے پہلے کی کوئی کتاب یا علم کا کوئی نشان لے آؤ۔",
     "persian_text": "بگو: آیا دیده‌اید آنچه را غیر از خدا می‌خوانید؟ به من نشان دهید که از زمین چه چیزی آفریده‌اند یا در آسمان‌ها شریکی دارند؟ اگر راست می‌گویید کتابی پیش از این یا اثری از دانش برای من بیاورید.",
     "transliteration": "Qul ara'aytum maa tad'oona min doonil-laahi aroonee maazaa khalaqoo minal-ardi am lahum shirkun fis-samaawaati' toonee bikitaabim-min qabli haazaaa aw asaaratim-min 'ilmin in kuntum saadiqeen"
@@ -97,7 +97,7 @@ ayats = [
   {
     "verse_number": 12,
     "english_text": "Before this, it was the Book of Moosa which was guidance and mercy; and this Book is in Arabic which verifies all that it may warn the unjust from the punishment of Allah, and for the good doers it is complete good news.",
-    "arabic_text": "وَمِن قَبْلِهِ كِتَـٰبُ مُوسَىٰٓ اِمَامًۭا وَرَحْمَةًۭ ۚ وَهَـٰذَا كِتَـٰبٌۭ مُّصَدِّقٌۭ لِّسَانًا عَرَبِيًّۭا لِّيُنذِرَ الَّذِينَ ظَلَمُواْ وَبُشْرَىٰ لِلْمُحْسِنِينَ",
+    "arabic_text": "وَمِن قَبْلِهِ كِتٰبُ مُوسَىٰٓ اِمَامًۭا وَرَحْمَةًۭ ۚ وَهَـٰذَا كِتٰبٌۭ مُّصَدِّقٌۭ لِّسَانًا عَرَبِيًّۭا لِّيُنذِرَ الَّذِينَ ظَلَمُواْ وَبُشْرَىٰ لِلْمُحْسِنِينَ",
     "urdu_text": "اور اس سے پہلے موسیٰ کی کتاب تھی جو رہنما اور رحمت تھی، اور یہ کتاب عربی زبان میں ہے جو تصدیق کرنے والی ہے تاکہ ظالموں کو اللہ کے عذاب سے ڈرائے، اور نیکی کرنے والوں کے لیے مکمل خوشخبری ہے۔",
     "persian_text": "و پیش از آن، کتاب موسی پیشوا و رحمت بود، و این کتاب به زبان عربی تصدیق‌کننده است تا ستمکاران را از عذاب الهی بترساند، و برای نیکوکاران بشارتی کامل است.",
     "transliteration": "Wa min qablihee kitaabu Moosaaa imaaman wa rahmah, wa haazaa kitaabum-musaddiqul-lisaanan 'arabiyyal-liyunziral-lazeena zalamoo wa bushraa lil-muhsineen"
@@ -241,7 +241,7 @@ ayats = [
   {
     "verse_number": 30,
     "english_text": "(They) said: O people of the nation we have heard the Book which has been revealed after Moosa, it verifies the books before it and guides towards the truth, justice, and the straight path.",
-    "arabic_text": "قَالُواْ يَـٰقَوْمَنَآ اِنَّا سَمِعْنَا كِتَـٰبًا اُنزِلَ مِنۢ بَعْدِ مُوسَىٰ مُصَدِّقًۭا لِّمَا بَيْنَ يَدَيْهِ يَهْدِىٓ اِلَى الْحَقِّ وَاِلَىٰ طَرِيقٍۢ مُّسْتَقِيمٍۢ",
+    "arabic_text": "قَالُواْ يَـٰقَوْمَنَآ اِنَّا سَمِعْنَا كِتٰبًا اُنزِلَ مِنۢ بَعْدِ مُوسَىٰ مُصَدِّقًۭا لِّمَا بَيْنَ يَدَيْهِ يَهْدِىٓ اِلَى الْحَقِّ وَاِلَىٰ طَرِيقٍۢ مُّسْتَقِيمٍۢ",
     "urdu_text": "انہوں نے کہا: اے ہماری قوم کے لوگو! ہم نے ایک کتاب سنی ہے جو موسیٰ کے بعد نازل کی گئی ہے، یہ اپنے سے پہلے کی کتابوں کی تصدیق کرتی ہے اور حق اور سیدھے راستے کی طرف رہنمائی کرتی ہے۔",
     "persian_text": "گفتند: ای قوم ما! ما کتابی شنیدیم که پس از موسی نازل شده است، تصدیق‌کننده آنچه پیش از آن است، به سوی حق و راه راست هدایت می‌کند.",
     "transliteration": "Qalu ya qawmana inna sami'na kitaban unzila min ba'di Musa musaddiqan lima bayna yadayhi yahdi ilal-haqqi wa ila tareeqin mustaqeem"

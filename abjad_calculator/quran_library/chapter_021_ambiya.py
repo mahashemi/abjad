@@ -81,7 +81,7 @@ ayats = [
   {
     "verse_number": 10,
     "english_text": "And We revealed that book (Quran) to you in which your good mention is also there; so don't you understand this much?",
-    "arabic_text": "لَقَدْ اَنزَلْنَآ اِلَيْكُمْ كِتَـٰبًۭا فِيهِ ذِكْرُكُمْ ۖ اَفَلَا تَعْقِلُونَ",
+    "arabic_text": "لَقَدْ اَنزَلْنَآ اِلَيْكُمْ كِتٰبًۭا فِيهِ ذِكْرُكُمْ ۖ اَفَلَا تَعْقِلُونَ",
     "urdu_text": "اور ہم نے تمہاری طرف ایک کتاب نازل کی جس میں تمہارا ذکر ہے، تو کیا تم عقل نہیں رکھتے؟",
     "persian_text": "و ما کتابی بر شما نازل کردیم که در آن یاد شما است، آیا نمی‌اندیشید؟",
     "transliteration": "Laqad anzalnaaa ilaykum kitaaban feehi dhikrukum afalaa ta'qiloon"

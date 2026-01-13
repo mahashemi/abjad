@@ -17,7 +17,7 @@ ayats = [
   {
     "verse_number": 2,
     "english_text": "And by the book that is written.",
-    "arabic_text": "وَكِتَـٰبٍۢ مَّسْطُورٍۢ",
+    "arabic_text": "وَكِتٰبٍۢ مَّسْطُورٍۢ",
     "urdu_text": "اور قسم ہے لکھی ہوئی کتاب کی",
     "persian_text": "و سوگند به کتاب نوشته شده",
     "transliteration": "Wa kitaabim mastoor"

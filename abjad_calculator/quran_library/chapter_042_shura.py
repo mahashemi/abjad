@@ -113,7 +113,7 @@ ayats = [
   {
     "verse_number": 14,
     "english_text": "And these people disagreed among themselves, at the time when they had received the knowledge, this was because of enmity among them, and if the Lord had not decided thing for an appointed period, then it would have been decided among them; and Verily those who have been made to inherit the book, they are in severe doubt about it.",
-    "arabic_text": "وَ مَا تَفَرَّقُوٓاْ اِلَّا مِنۢ بَعْدِ مَا جَآءَهُمُ الْعِلْمُ بَغْيًۢا بَيْنَهُمْ ۚ وَلَوْلَا كَلِمَةٌۭ سَبَقَتْ مِن رَّبِّكَ اِلَىٰٓ اَجَلٍۢ مُّسَمًّۭى لَّقُضِىَ بَيْنَهُمْ ۚ وَاِنَّ الَّذِينَ اُورِثُواْ الْكِتَـٰبَ مِنۢ بَعْدِهِمْ لَفِى شَكٍّۢ مِّنْهُ مُرِيبٍۢ",
+    "arabic_text": "وَ مَا تَفَرَّقُوٓاْ اِلَّا مِنۢ بَعْدِ مَا جَآءَهُمُ الْعِلْمُ بَغْيًۢا بَيْنَهُمْ ۚ وَلَوْلَا كَلِمَةٌۭ سَبَقَتْ مِن رَّبِّكَ اِلَىٰٓ اَجَلٍۢ مُّسَمًّۭى لَّقُضِىَ بَيْنَهُمْ ۚ وَاِنَّ الَّذِينَ اُورِثُواْ الْكِتٰبَ مِنۢ بَعْدِهِمْ لَفِى شَكٍّۢ مِّنْهُ مُرِيبٍۢ",
     "urdu_text": "اور انهوں نے اختلاف نهیں کیا مگر اُس وقت جب اُن کے پاس علم آ چکا تھا، یه آپس کی دشمنی کی وجه سے تھا، اور اگر تمهارے رب کی طرف سے ایک مقرره وقت تک کے لیے فیصله نه هو چکا هوتا تو اُن کے درمیان فیصله کر دیا جاتا، اور بیشک جن لوگوں کو اُن کے بعد کتاب کا وارث بنایا گیا وه اُس کے بارے میں سخت شک میں مبتلا هیں۔",
     "persian_text": "و آنان اختلاف نکردند مگر پس از آنکه علم به آنان رسید، از روی ستمگری میان خودشان، و اگر کلمه‌ای از سوی پروردگارت تا زمان معینی نبود، میان آنان داوری می‌شد، و همانا کسانی که پس از آنان وارث کتاب شدند در شک آشکاری از آن هستند.",
     "transliteration": "Wa ma tafarraqu illa min ba'di ma ja'ahumul-'ilmu baghyan baynahum, wa lawla kalimatun sabaqat min rabbika ila ajalin musammal-laqudiya baynahum, wa innal-ladhina urithul-kitaba min ba'dihim lafi shakkin minhu murib"
@@ -121,7 +121,7 @@ ayats = [
   {
     "verse_number": 15,
     "english_text": "Therefore, you invite for this, and act with perseverance as you have been commanded, and do not follow their desires, and say: I believe on the Book which has been revealed from Allah and I have been commanded to do justice among you, Allah is Lord of both - mine and yours, my deeds for myself and your deeds for yourselves, there is no wrangling between us, Allah will gather us all one day, and everybody has to return to Him.",
-    "arabic_text": "فَلِذَٰلِكَ فَادْعُ ۖ وَاسْتَقِمْ كَمَآ اُمِرْتَ ۖ وَلَا تَتَّبِعْ اَهْوَآءَهُمْ ۖ وَقُلْ ءَامَنتُ بِمَآ اَنزَلَ اللَّهُ مِن كِتَـٰبٍۢ ۖ وَاُمِرْتُ لِاَعْدِلَ بَيْنَكُمُ ۖ اللَّهُ رَبُّنَا وَرَبُّكُمْ ۖ لَنَآ اَعْمَـٰلُنَا وَلَكُمْ اَعْمَـٰلُكُمْ ۖ لَا حُجَّةَ بَيْنَنَا وَبَيْنَكُمُ ۖ اللَّهُ يَجْمَعُ بَيْنَنَا ۖ وَاِلَيْهِ الْمَصِيرُ",
+    "arabic_text": "فَلِذَٰلِكَ فَادْعُ ۖ وَاسْتَقِمْ كَمَآ اُمِرْتَ ۖ وَلَا تَتَّبِعْ اَهْوَآءَهُمْ ۖ وَقُلْ ءَامَنتُ بِمَآ اَنزَلَ اللَّهُ مِن كِتٰبٍۢ ۖ وَاُمِرْتُ لِاَعْدِلَ بَيْنَكُمُ ۖ اللَّهُ رَبُّنَا وَرَبُّكُمْ ۖ لَنَآ اَعْمَـٰلُنَا وَلَكُمْ اَعْمَـٰلُكُمْ ۖ لَا حُجَّةَ بَيْنَنَا وَبَيْنَكُمُ ۖ اللَّهُ يَجْمَعُ بَيْنَنَا ۖ وَاِلَيْهِ الْمَصِيرُ",
     "urdu_text": "پس اِسی لیے تم دعوت دو اور جیسا تمهیں حکم دیا گیا هے استقامت سے کام لو، اور اُن کی خواهشات کی پیروی نه کرو، اور کهو که میں اُس کتاب پر ایمان لایا هوں جو الله نے نازل فرمائی هے، اور مجھے حکم دیا گیا هے که تمهارے درمیان انصاف کروں، الله همارا بھی رب هے اور تمهارا بھی رب هے، همارے اعمال همارے لیے هیں اور تمهارے اعمال تمهارے لیے هیں، همارے اور تمهارے درمیان کوئی جھگڑا نهیں، الله هم سب کو جمع کرے گا اور اُسی کی طرف لوٹنا هے۔",
     "persian_text": "پس به همین دعوت کن و همان‌گونه که فرمان یافته‌ای استقامت ورز، و از هوس‌های آنان پیروی مکن، و بگو ایمان آوردم به آنچه خداوند از کتاب نازل کرده، و مامور شده‌ام که میان شما عدالت کنم، خداوند پروردگار ما و پروردگار شماست، اعمال ما از آن ما و اعمال شما از آن شماست، میان ما و شما هیچ حجتی نیست، خداوند ما را گرد می‌آورد و بازگشت به سوی اوست.",
     "transliteration": "Falidhalika fad'u wastaqim kama umirta wa la tattabi' ahwa'ahum wa qul amantu bima anzalallahu min kitabin wa umirtu li-a'dila baynakum, Allahu rabbuna wa rabbukum, lana a'maluna wa lakum a'malukum, la hujjata baynana wa baynakum, Allahu yajma'u baynana wa ilayhi al-masir"
@@ -137,7 +137,7 @@ ayats = [
   {
     "verse_number": 17,
     "english_text": "That is Allah who revealed with Truth the Book and the balance; and what do you know, may be the Day of Judgement is near.",
-    "arabic_text": "اللَّهُ الَّذِىٓ اَنزَلَ الْكِتَـٰبَ بِالْحَقِّ وَالْمِيزَانَ ۗ وَ مَا يُدْرِيكَ لَعَلَّ السَّاعَةَ قَرِيبٌۭ",
+    "arabic_text": "اللَّهُ الَّذِىٓ اَنزَلَ الْكِتٰبَ بِالْحَقِّ وَالْمِيزَانَ ۗ وَ مَا يُدْرِيكَ لَعَلَّ السَّاعَةَ قَرِيبٌۭ",
     "urdu_text": "الله وه هے جس نے حق کے ساتھ کتاب اور میزان نازل فرمائی، اور تمهیں کیا معلوم شاید قیامت قریب هو۔",
     "persian_text": "خداوند کسی است که کتاب را به حق و میزان نازل کرد، و تو چه می‌دانی شاید قیامت نزدیک باشد.",
     "transliteration": "Allahul-ladhi anzalal-kitaba bil-haqqi wal-mizan, wa ma yudrika la'allas-sa'ata qarib"
@@ -417,7 +417,7 @@ ayats = [
   {
     "verse_number": 52,
     "english_text": "And thus, We revealed spirit (Quran) to you by Our Command, and you didn't know what the book was, and what the faith was, but We made it a light, through which We guide to Our servants to whoever We please, and Verily We are guiding you to the straight path.",
-    "arabic_text": "وَكَذَٰلِكَ اَوْحَيْنَآ اِلَيْكَ رُوحًۭا مِّنْ اَمْرِنَا ۚ مَا كُنتَ تَدْرِى مَا الْكِتَـٰبُ وَلَا الْاِيمَـٰنُ وَلَـٰكِن جَعَلْنَـٰهُ نُورًۭا نَّهْدِى بِهِ مَن نَّشَآءُ مِنْ عِبَادِنَا ۚ وَاِنَّكَ لَتَهْدِىٓ اِلَىٰ صِرَٰطٍۢ مُّسْتَقِيمٍۢ",
+    "arabic_text": "وَكَذَٰلِكَ اَوْحَيْنَآ اِلَيْكَ رُوحًۭا مِّنْ اَمْرِنَا ۚ مَا كُنتَ تَدْرِى مَا الْكِتٰبُ وَلَا الْاِيمَـٰنُ وَلَـٰكِن جَعَلْنَـٰهُ نُورًۭا نَّهْدِى بِهِ مَن نَّشَآءُ مِنْ عِبَادِنَا ۚ وَاِنَّكَ لَتَهْدِىٓ اِلَىٰ صِرَٰطٍۢ مُّسْتَقِيمٍۢ",
     "urdu_text": "اور اسی طرح هم نے اپنے حکم سے آپ کی طرف روح (قرآن) کی وحی بھیجی، آپ نهیں جانتے تھے که کتاب کیا هے اور نه ایمان کیا هے، لیکن هم نے اسے نور بنایا جس سے هم اپنے بندوں میں سے جسے چاهتے هیں هدایت دیتے هیں، اور بے شک آپ سیدھے راستے کی طرف رهنمائی کرتے هیں۔",
     "persian_text": "و همچنین روحی (قرآن) را از فرمان خود به سوی تو وحی کردیم، تو نمی‌دانستی کتاب چیست و نه ایمان، ولی آن را نوری قرار دادیم که به وسیله آن هر که را از بندگانمان بخواهیم هدایت می‌کنیم، و همانا تو به راه راست هدایت می‌کنی.",
     "transliteration": "Wa kadhālika awḥaynā ilayka rūḥan min amrinā, mā kunta tadrī mal-kitābu wa lal-īmānu wa lākin ja'alnāhu nūran nahdī bihi man nashā'u min 'ibādinā, wa innaka la-tahdī ilā ṣirāṭim mustaqīm"

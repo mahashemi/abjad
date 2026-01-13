@@ -25,7 +25,7 @@ ayats = [
   {
     "verse_number": 3,
     "english_text": "Verses of this Book have been described in detail; in Arabic language for the people who understand.",
-    "arabic_text": "كِتَـٰبٌۭ فُصِّلَتْ اٰيٰتُهُ قُرْءَانًا عَرَبِيًّۭا لِّقَوْمٍۢ يَعْلَمُونَ",
+    "arabic_text": "كِتٰبٌۭ فُصِّلَتْ اٰيٰتُهُ قُرْءَانًا عَرَبِيًّۭا لِّقَوْمٍۢ يَعْلَمُونَ",
     "urdu_text": "یه ایک کتاب هے جس کی آیات تفصیل سے بیان کی گئی هیں، عربی زبان میں قرآن هے ان لوگوں کے لیے جو علم رکھتے هیں۔",
     "persian_text": "کتابی که آیات آن به تفصیل بیان شده است، قرآنی عربی برای قومی که می‌دانند.",
     "transliteration": "Kitaabun fussilat aayaatuhu qur-aanan 'arabiyyal liqawminy ya'lamoon"
@@ -329,7 +329,7 @@ ayats = [
   {
     "verse_number": 41,
     "english_text": "Verily, those who denied the Quran after its revelation their recompense is bad, this is Book of highest status.",
-    "arabic_text": "اِنَّ الَّذِينَ كَفَرُواْ بِالذِّكْرِ لَمَّا جَآءَهُمْ ۖ وَاِنَّهُ لَكِتَـٰبٌ عَزِيزٌۭ",
+    "arabic_text": "اِنَّ الَّذِينَ كَفَرُواْ بِالذِّكْرِ لَمَّا جَآءَهُمْ ۖ وَاِنَّهُ لَكِتٰبٌ عَزِيزٌۭ",
     "urdu_text": "بیشک جن لوگوں نے قرآن کا انکار کیا جب وه ان کے پاس آیا، ان کی سزا بری هے، اور یه بڑی عزت والی کتاب هے۔",
     "persian_text": "به راستی کسانی که قرآن را انکار کردند هنگامی که به سوی آنان آمد، جزای بدی دارند، و این کتابی است بزرگوار و ارجمند.",
     "transliteration": "Inna alladhīna kafarū bidh-dhikri lammā jā'ahum wa innahu lakitābun 'azīz"
@@ -361,7 +361,7 @@ ayats = [
   {
     "verse_number": 45,
     "english_text": "And Verily, We gave the book to Moosa but they created a quarrel in it, and if it was not decided earlier, it would have been decided among them, they were in a very uneasy doubt.",
-    "arabic_text": "وَ لَقَدْ ءَاتَيْنَا مُوسَى الْكِتَـٰبَ فَاخْتُلِفَ فِيهِ ۗ وَلَوْلَا كَلِمَةٌۭ سَبَقَتْ مِن رَّبِّكَ لَقُضِىَ بَيْنَهُمْ ۚ وَاِنَّهُمْ لَفِى شَكٍّۢ مِّنْهُ مُرِيبٍۢ",
+    "arabic_text": "وَ لَقَدْ ءَاتَيْنَا مُوسَى الْكِتٰبَ فَاخْتُلِفَ فِيهِ ۗ وَلَوْلَا كَلِمَةٌۭ سَبَقَتْ مِن رَّبِّكَ لَقُضِىَ بَيْنَهُمْ ۚ وَاِنَّهُمْ لَفِى شَكٍّۢ مِّنْهُ مُرِيبٍۢ",
     "urdu_text": "اور بیشک هم نے موسیٰ کو کتاب دی تو اس میں اختلاف کیا گیا، اور اگر آپ کے رب کی طرف سے پهلے سے فیصله نه هوتا تو ان کے درمیان فیصله کر دیا جاتا، اور بیشک وه اس کے بارے میں بڑے پریشان کن شک میں هیں۔",
     "persian_text": "و به راستی ما به موسی کتاب دادیم پس در آن اختلاف کردند، و اگر کلمه‌ای از پروردگارت پیش از این نبود، میان آنان داوری می‌شد، و آنان در شک آشفته‌کننده‌ای از آن هستند.",
     "transliteration": "Wa laqad ātaynā Mūsa al-kitāba fakhtulifa fīh wa lawlā kalimatun sabaqat min rabbika laquḍiya baynahum wa innahum lafī shakkin minhu murīb"

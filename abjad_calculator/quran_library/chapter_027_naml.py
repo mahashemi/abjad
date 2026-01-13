@@ -225,7 +225,7 @@ ayats = [
   {
     "verse_number": 28,
     "english_text": "Take my letter and put it before them, then get aside and see what reply they give.",
-    "arabic_text": "اذْهَب بِّكِتَـٰبِى هَـٰذَا فَاَلْقِهْ اِلَيْهِمْ ثُمَّ تَوَلَّ عَنْهُمْ فَانظُرْ مَاذَا يَرْجِعُونَ",
+    "arabic_text": "اذْهَب بِّكِتٰبِى هَـٰذَا فَاَلْقِهْ اِلَيْهِمْ ثُمَّ تَوَلَّ عَنْهُمْ فَانظُرْ مَاذَا يَرْجِعُونَ",
     "urdu_text": "میرا یه خط لے جا اور انهیں پهنچا دے، پھر ان سے الگ هو جا اور دیکھ که وه کیا جواب دیتے هیں۔",
     "persian_text": "این نامه مرا ببر و آن را نزد آنان بینداز، سپس از آنان کناره بگیر و ببین چه پاسخی می‌دهند.",
     "transliteration": "Idh-hab bikitabi hadha fa-alqihi ilayhim thumma tawalla 'anhum fanẓur madha yarji'un"
@@ -233,7 +233,7 @@ ayats = [
   {
     "verse_number": 29,
     "english_text": "That lady said: O Chief of my Kingdom, I have been sent an honorable letter.",
-    "arabic_text": "قَالَتْ يٰٓاَيُّهَا الْمَلَؤُاْ اِنِّىٓ اُلْقِىَ اِلَىَّ كِتَـٰبٌۭ كَرِيمٌ",
+    "arabic_text": "قَالَتْ يٰٓاَيُّهَا الْمَلَؤُاْ اِنِّىٓ اُلْقِىَ اِلَىَّ كِتٰبٌۭ كَرِيمٌ",
     "urdu_text": "اس عورت نے کها: اے میری مملکت کے سرداروں! میرے پاس ایک معزز خط بھیجا گیا هے۔",
     "persian_text": "آن زن گفت: ای بزرگان، نامه‌ای گرامی به من افکنده شده است.",
     "transliteration": "Qalat ya ayyuhal-mala'u inni ulqiya ilayya kitabun karim"
@@ -321,7 +321,7 @@ ayats = [
   {
     "verse_number": 40,
     "english_text": "One person who was having part of knowledge of book said: I will bring before you can bat an eyelid, this is the Grace and Mercy of my Lord that He please to test me that I am thankful or ungrateful for His favours; and whoever will be thankful shall be for his own benefit, and whoever is ungrateful, my Lord is Self-Sufficient from him, and is Bountiful.",
-    "arabic_text": "قَالَ الَّذِى عِندَهُ عِلْمٌۭ مِّنَ الْكِتَـٰبِ اَنَا۠ ءَاتِيكَ بِهِ قَبْلَ اَن يَرْتَدَّ اِلَيْكَ طَرْفُكَ ۚ فَلَمَّا رَءَاهُ مُسْتَقِرًّا عِندَهُ قَالَ هَـٰذَا مِن فَضْلِ رَبِّى لِيَبْلُوَنِىٓ ءَاَشْكُرُ اَمْ اَكْفُرُ ۖ وَمَن شَكَرَ فَاِنَّمَا يَشْكُرُ لِنَفْسِهِ ۖ وَمَن كَفَرَ فَاِنَّ رَبِّى غَنِىٌّۭ كَرِيمٌۭ",
+    "arabic_text": "قَالَ الَّذِى عِندَهُ عِلْمٌۭ مِّنَ الْكِتٰبِ اَنَا۠ ءَاتِيكَ بِهِ قَبْلَ اَن يَرْتَدَّ اِلَيْكَ طَرْفُكَ ۚ فَلَمَّا رَءَاهُ مُسْتَقِرًّا عِندَهُ قَالَ هَـٰذَا مِن فَضْلِ رَبِّى لِيَبْلُوَنِىٓ ءَاَشْكُرُ اَمْ اَكْفُرُ ۖ وَمَن شَكَرَ فَاِنَّمَا يَشْكُرُ لِنَفْسِهِ ۖ وَمَن كَفَرَ فَاِنَّ رَبِّى غَنِىٌّۭ كَرِيمٌۭ",
     "urdu_text": "جس کے پاس کتاب کا علم تھا اس نے کها: میں اسے آپ کے پاس لے آؤں گا اس سے پهلے که آپ کی نظر پلٹ کر آئے، پھر جب سلیمان نے اسے اپنے پاس رکھا هوا دیکھا تو کها: یه میرے رب کا فضل هے تاکه وه مجھے آزمائے که میں شکر کرتا هوں یا ناشکری، اور جو شکر کرے وه اپنے هی فائدے کے لیے کرتا هے، اور جو ناشکری کرے تو میرا رب بے نیاز اور کریم هے",
     "persian_text": "کسی که نزد او علمی از کتاب بود گفت: من پیش از آنکه چشم تو به سوی تو بازگردد آن را برایت می‌آورم، پس چون آن را نزد خود مستقر دید گفت: این از فضل پروردگار من است تا مرا بیازماید که آیا سپاسگزاری می‌کنم یا کفران، و هر که سپاس گزارد تنها به سود خویش سپاس می‌گزارد و هر که کفران کند پروردگار من بی‌نیاز و کریم است",
     "transliteration": "Qālal-ladhī 'indahū 'ilmun minal-kitābi ana ātīka bihī qabla an yartadda ilayka ṭarfuka falammā ra'āhu mustaqirran 'indahū qāla hādhā min faḍli Rabbī liyabluwanī a'ashkuru am akfur wa man shakara fa-innamā yashkuru linafsihi wa man kafara fa-inna Rabbī ghaniyyun karīm"
@@ -601,7 +601,7 @@ ayats = [
   {
     "verse_number": 75,
     "english_text": "And there is nothing hidden in the sky and the earth which is not mentioned in this manifest Book.",
-    "arabic_text": "وَ مَا مِنْ غَآئِبَةٍۢ فِى السَّمَآءِ وَالْاَرْضِ اِلَّا فِى كِتَـٰبٍۢ مُّبِينٍ",
+    "arabic_text": "وَ مَا مِنْ غَآئِبَةٍۢ فِى السَّمَآءِ وَالْاَرْضِ اِلَّا فِى كِتٰبٍۢ مُّبِينٍ",
     "urdu_text": "اور آسمان اور زمین میں کوئی پوشیده چیز نهیں مگر وه ایک واضح کتاب میں درج هے۔",
     "persian_text": "و هیچ پنهانی در آسمان و زمین نیست، مگر آنکه در کتابی آشکار ثبت است.",
     "transliteration": "Wa maa min ghaa'ibatin fis samaa'i wal ardi illaa fee kitaabim mubeen"

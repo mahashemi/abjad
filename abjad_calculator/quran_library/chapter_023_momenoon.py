@@ -393,7 +393,7 @@ ayats = [
   {
     "verse_number": 49,
     "english_text": "And We gave Moosa the Book, so that they may believe like this.",
-    "arabic_text": "وَ لَقَدْ ءَاتَيْنَا مُوسَى الْكِتَـٰبَ لَعَلَّهُمْ يَهْتَدُونَ",
+    "arabic_text": "وَ لَقَدْ ءَاتَيْنَا مُوسَى الْكِتٰبَ لَعَلَّهُمْ يَهْتَدُونَ",
     "urdu_text": "اور هم نے موسیٰ کو کتاب عطا کی تاکه وه هدایت پائیں۔",
     "persian_text": "و به راستی به موسی کتاب دادیم تا شاید هدایت یابند.",
     "transliteration": "Wa laqad atayna Moosa al-kitaba la'allahum yahtadoon"
@@ -497,7 +497,7 @@ ayats = [
   {
     "verse_number": 62,
     "english_text": "We do not burden any soul more than his capacity, and We have the book which speaks the truth, and no unjust will be done to them.",
-    "arabic_text": "وَلَا نُكَلِّفُ نَفْسًا اِلَّا وُسْعَهَا ۖ وَلَدَيْنَا كِتَـٰبٌۭ يَنطِقُ بِالْحَقِّ ۚ وَهُمْ لَا يُظْلَمُونَ",
+    "arabic_text": "وَلَا نُكَلِّفُ نَفْسًا اِلَّا وُسْعَهَا ۖ وَلَدَيْنَا كِتٰبٌۭ يَنطِقُ بِالْحَقِّ ۚ وَهُمْ لَا يُظْلَمُونَ",
     "urdu_text": "اور هم کسی جان پر اس کی طاقت سے زیاده بوجھ نهیں ڈالتے، اور همارے پاس ایک کتاب هے جو سچ بولتی هے، اور ان پر کوئی ظلم نهیں کیا جائے گا۔",
     "persian_text": "و ما هیچ کس را جز به اندازه توانایی‌اش تکلیف نمی‌کنیم، و نزد ما کتابی است که به حق سخن می‌گوید، و به آنان ستم نخواهد شد.",
     "transliteration": "Wa laa nukallifu nafsan illaa wus'ahaa wa ladaynaa kitaabun yantiqu bilhaqq wa hum laa yuzlamoon"

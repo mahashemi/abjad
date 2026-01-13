@@ -233,7 +233,7 @@ ayats = [
   {
     "verse_number": 29,
     "english_text": "This is a blessed book which We have revealed towards you, so that people ponder over its verses and knowledgeable persons may take admonition from it.",
-    "arabic_text": "كِتَـٰبٌ اَنزَلْنَـٰهُ اِلَيْكَ مُبَـٰرَكٌۭ لِّيَدَّبَّرُوٓاْ اٰيٰتِهِ وَلِيَتَذَكَّرَ اُو۟لُواْ الْاَلْبَـٰبِ",
+    "arabic_text": "كِتٰبٌ اَنزَلْنَـٰهُ اِلَيْكَ مُبَـٰرَكٌۭ لِّيَدَّبَّرُوٓاْ اٰيٰتِهِ وَلِيَتَذَكَّرَ اُو۟لُواْ الْاَلْبَـٰبِ",
     "urdu_text": "یہ ایک بابرکت کتاب ہے جو ہم نے تمہاری طرف نازل کی ہے تاکہ لوگ اس کی آیات میں غور کریں اور عقلمند لوگ نصیحت حاصل کریں۔",
     "persian_text": "این کتابی است پربرکت که آن را بر تو نازل کردیم تا در آیات آن بیندیشند و خردمندان پند گیرند.",
     "transliteration": "Kitaabun anzalnaahu ilayka mubaarakul liyaddabbarooo aayaatihi wa liyatazakkara ulul albaab"

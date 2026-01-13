@@ -281,7 +281,7 @@ ayats = [
   {
     "verse_number": 35,
     "english_text": "And We gave Moosa the book and made his brother his minister with him.",
-    "arabic_text": "وَ لَقَدْ ءَاتَيْنَا مُوسَى الْكِتَـٰبَ وَجَعَلْنَا مَعَهُٓ اَخَاهُ هَـٰرُونَ وَزِيرًۭا",
+    "arabic_text": "وَ لَقَدْ ءَاتَيْنَا مُوسَى الْكِتٰبَ وَجَعَلْنَا مَعَهُٓ اَخَاهُ هَـٰرُونَ وَزِيرًۭا",
     "urdu_text": "اور هم نے موسیٰ کو کتاب دی اور ان کے ساتھ ان کے بھائی هارون کو وزیر بنایا۔",
     "persian_text": "و به راستی به موسی کتاب دادیم و برادرش هارون را وزیر او قرار دادیم.",
     "transliteration": "Wa laqad atayna Musal-kitaba wa ja'alna ma'ahu akhahu Haruna wazeera"

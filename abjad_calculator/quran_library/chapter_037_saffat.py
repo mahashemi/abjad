@@ -937,7 +937,7 @@ ayats = [
   {
     "verse_number": 117,
     "english_text": "We gave them the book of manifest meanings.",
-    "arabic_text": "وَءَاتَيْنَـٰهُمَا الْكِتَـٰبَ الْمُسْتَبِينَ",
+    "arabic_text": "وَءَاتَيْنَـٰهُمَا الْكِتٰبَ الْمُسْتَبِينَ",
     "urdu_text": "اور هم نے ان دونوں کو واضح کتاب عطا کی۔",
     "persian_text": "و به آن دو کتاب روشنگر دادیم.",
     "transliteration": "Wa ataynahumal-kitabal-mustabeen"
@@ -1257,7 +1257,7 @@ ayats = [
   {
     "verse_number": 157,
     "english_text": "Then bring your book, if you are truthful.",
-    "arabic_text": "فَاْتُواْ بِكِتَـٰبِكُمْ اِن كُنتُمْ صَـٰدِقِينَ",
+    "arabic_text": "فَاْتُواْ بِكِتٰبِكُمْ اِن كُنتُمْ صَـٰدِقِينَ",
     "urdu_text": "تو اپنی کتاب لے آؤ اگر تم سچے هو",
     "persian_text": "پس کتاب خود را بیاورید اگر راستگو هستید",
     "transliteration": "Fa'too bikitaabikum in kuntum saadiqeen"

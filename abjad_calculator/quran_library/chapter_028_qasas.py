@@ -17,7 +17,7 @@ ayats = [
   {
     "verse_number": 2,
     "english_text": "These are the verses of the manifest Book.",
-    "arabic_text": "تِلْكَ اٰيٰتُ الْكِتَـٰبِ الْمُبِينِ",
+    "arabic_text": "تِلْكَ اٰيٰتُ الْكِتٰبِ الْمُبِينِ",
     "urdu_text": "یہ روشن کتاب کی آیتیں ہیں۔",
     "persian_text": "این‌ها آیات کتاب روشنگر است.",
     "transliteration": "Tilka ayatul-kitabil-mubeen"
@@ -345,7 +345,7 @@ ayats = [
   {
     "verse_number": 43,
     "english_text": "We gave the book to Moosa after destroying the earlier generations, which was a source of insight, guidance and mercy for the people; perhaps they might get the admonition like this.",
-    "arabic_text": "وَ لَقَدْ ءَاتَيْنَا مُوسَى الْكِتَـٰبَ مِنۢ بَعْدِ مَآ اَهْلَكْنَا الْقُرُونَ الْاُولَىٰ بَصَآئِرَ لِلنَّاسِ وَهُدًۭى وَرَحْمَةًۭ لَّعَلَّهُمْ يَتَذَكَّرُونَ",
+    "arabic_text": "وَ لَقَدْ ءَاتَيْنَا مُوسَى الْكِتٰبَ مِنۢ بَعْدِ مَآ اَهْلَكْنَا الْقُرُونَ الْاُولَىٰ بَصَآئِرَ لِلنَّاسِ وَهُدًۭى وَرَحْمَةًۭ لَّعَلَّهُمْ يَتَذَكَّرُونَ",
     "urdu_text": "اور بیشک ہم نے موسیٰ کو کتاب عطا کی پہلی قوموں کو ہلاک کرنے کے بعد، جو لوگوں کے لیے بصیرت، ہدایت اور رحمت تھی، تاکہ وہ نصیحت حاصل کریں۔",
     "persian_text": "و به راستی که ما به موسی کتاب دادیم پس از آنکه نسل‌های پیشین را هلاک کردیم، که برای مردم بصیرت و هدایت و رحمت بود، باشد که پند گیرند.",
     "transliteration": "Wa laqad aataynaa Moosal kitaaba mim ba'di maaa ahlaknalquroonal oolaa basaa'ira linnaasi wa hudan wa rahmatal la'allahum yatazakkaroon"
@@ -393,7 +393,7 @@ ayats = [
   {
     "verse_number": 49,
     "english_text": "Then say: Okay, you bring a book from the Lord which is more correct than this and I follow that, if you are truthful in your talk.",
-    "arabic_text": "قُلْ فَاْتُواْ بِكِتَـٰبٍۢ مِّنْ عِندِ اللَّهِ هُوَ اَهْدَىٰ مِنْهُمَآ اَتَّبِعْهُ اِن كُنتُمْ صَـٰدِقِينَ",
+    "arabic_text": "قُلْ فَاْتُواْ بِكِتٰبٍۢ مِّنْ عِندِ اللَّهِ هُوَ اَهْدَىٰ مِنْهُمَآ اَتَّبِعْهُ اِن كُنتُمْ صَـٰدِقِينَ",
     "urdu_text": "تو کہہ دو: اچھا تم اللہ کی طرف سے کوئی ایسی کتاب لے آؤ جو ان دونوں سے زیادہ ہدایت دینے والی ہو، میں اس کی پیروی کروں گا، اگر تم سچے ہو۔",
     "persian_text": "بگو: پس کتابی از جانب خدا بیاورید که از این دو راهنماتر باشد تا از آن پیروی کنم، اگر راستگو هستید.",
     "transliteration": "Qul faatoo bikitaabim min 'indillaahi huwa ahdaa minhumaaa attabi'hu in kuntum saadiqeen"
@@ -417,7 +417,7 @@ ayats = [
   {
     "verse_number": 52,
     "english_text": "To whoever I gave the book earlier than this they believe in this Quran.",
-    "arabic_text": "الَّذِينَ ءَاتَيْنَـٰهُمُ الْكِتَـٰبَ مِن قَبْلِهِ هُم بِهِ يُؤْمِنُونَ",
+    "arabic_text": "الَّذِينَ ءَاتَيْنَـٰهُمُ الْكِتٰبَ مِن قَبْلِهِ هُم بِهِ يُؤْمِنُونَ",
     "urdu_text": "جن لوگوں کو ہم نے اس سے پہلے کتاب دی تھی، وہ اس قرآن پر ایمان لاتے ہیں۔",
     "persian_text": "کسانی که پیش از این به آنان کتاب دادیم، به این قرآن ایمان می‌آورند.",
     "transliteration": "Alladhina ataynahumu al-kitaba min qablihi hum bihi yu'minun"
@@ -689,7 +689,7 @@ ayats = [
   {
     "verse_number": 86,
     "english_text": "You were not hopeful that the book be revealed to you, this is Mercy of Allah, so beware, never side with the infidels.",
-    "arabic_text": "وَ مَا كُنتَ تَرْجُوٓاْ اَن يُلْقَىٰٓ اِلَيْكَ الْكِتَـٰبُ اِلَّا رَحْمَةًۭ مِّن رَّبِّكَ ۖ فَلَا تَكُونَنَّ ظَهِيرًۭا لِّلْكَـٰفِرِينَ",
+    "arabic_text": "وَ مَا كُنتَ تَرْجُوٓاْ اَن يُلْقَىٰٓ اِلَيْكَ الْكِتٰبُ اِلَّا رَحْمَةًۭ مِّن رَّبِّكَ ۖ فَلَا تَكُونَنَّ ظَهِيرًۭا لِّلْكَـٰفِرِينَ",
     "urdu_text": "اور تم امید نہیں رکھتے تھے کہ تم پر کتاب نازل کی جائے گی، یہ تو تمہارے رب کی رحمت ہے، پس خبردار، کافروں کا مددگار ہرگز نہ بننا۔",
     "persian_text": "و تو امید نداشتی که کتاب بر تو نازل شود، مگر رحمتی از پروردگارت، پس هرگز یاور کافران مباش.",
     "transliteration": "Wa ma kunta tarjoo an yulqa ilaykal-kitabu illa rahmatan min rabbik, fala takoonanna zaheeran lil-kafireen"

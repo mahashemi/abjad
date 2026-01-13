@@ -17,7 +17,7 @@ ayats = [
   {
     "verse_number": 2,
     "english_text": "This Book has been revealed by Mighty and Knowledgeable Allah.",
-    "arabic_text": "تَنزِيلُ الْكِتَـٰبِ مِنَ اللَّهِ الْعَزِيزِ الْعَلِيمِ",
+    "arabic_text": "تَنزِيلُ الْكِتٰبِ مِنَ اللَّهِ الْعَزِيزِ الْعَلِيمِ",
     "urdu_text": "یہ کتاب اللہ کی طرف سے نازل کی گئی ہے جو غالب اور علم والا ہے۔",
     "persian_text": "این کتاب از جانب خداوند عزیز و دانا نازل شده است.",
     "transliteration": "Tanzeelul-Kitaabi minal-laahil-'Azeezil-'Aleem"
@@ -425,7 +425,7 @@ ayats = [
   {
     "verse_number": 53,
     "english_text": "And Verily, we did guide Moosa, and made Bani Israel inherit the book.",
-    "arabic_text": "وَ لَقَدْ ءَاتَيْنَا مُوسَى الْهُدَىٰ وَاَوْرَثْنَا بَنِىٓ اِسْرَٰٓءِيلَ الْكِتَـٰبَ",
+    "arabic_text": "وَ لَقَدْ ءَاتَيْنَا مُوسَى الْهُدَىٰ وَاَوْرَثْنَا بَنِىٓ اِسْرَٰٓءِيلَ الْكِتٰبَ",
     "urdu_text": "اور بیشک ہم نے موسیٰ کو ہدایت عطا کی اور بنی اسرائیل کو کتاب کا وارث بنایا۔",
     "persian_text": "و به راستی ما به موسی هدایت دادیم و بنی اسرائیل را وارث کتاب قرار دادیم.",
     "transliteration": "Wa laqad atayna Musal-huda wa awrathna Bani Isra'ilal-kitab"
@@ -561,7 +561,7 @@ ayats = [
   {
     "verse_number": 70,
     "english_text": "Those who denied the Book and other things which We have sent through the Prophet, shortly they will come to know of its result.",
-    "arabic_text": "الَّذِينَ كَذَّبُواْ بِالْكِتَـٰبِ وَبِمَآ اَرْسَلْنَا بِهِ رُسُلَنَا ۖ فَسَوْفَ يَعْلَمُونَ",
+    "arabic_text": "الَّذِينَ كَذَّبُواْ بِالْكِتٰبِ وَبِمَآ اَرْسَلْنَا بِهِ رُسُلَنَا ۖ فَسَوْفَ يَعْلَمُونَ",
     "urdu_text": "جن لوگوں نے کتاب کو جھٹلایا اور ان چیزوں کو جو ہم نے اپنے رسولوں کے ذریعے بھیجیں، تو عنقریب وہ جان لیں گے۔",
     "persian_text": "کسانی که کتاب و آنچه را که به وسیله پیامبرانمان فرستادیم تکذیب کردند، پس به زودی خواهند دانست.",
     "transliteration": "Allazeena kazzaboo bil-Kitaabi wa bimaa arsalnaa bihee Rusulanaa fasawfa ya'lamoon"

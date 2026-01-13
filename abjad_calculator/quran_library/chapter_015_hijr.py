@@ -9,7 +9,7 @@ ayats = [
   {
     "verse_number": 1,
     "english_text": "Alif Laam Ra, these are (few) verses of the book (of Allah) and Quran.",
-    "arabic_text": "الٓر ۚ تِلْكَ اٰيٰتُ الْكِتَـٰبِ وَقُرْءَانٍۢ مُّبِينٍۢ",
+    "arabic_text": "الٓر ۚ تِلْكَ اٰيٰتُ الْكِتٰبِ وَقُرْءَانٍۢ مُّبِينٍۢ",
     "urdu_text": "الف لام را، یہ کتاب اور قرآن مبین کی آیات ہیں۔",
     "persian_text": "الف لام را، این‌ها آیات کتاب و قرآن روشنگر است.",
     "transliteration": "Alif Laam Raa, tilka aayaatul kitaabi wa qur'aanim mubeen"

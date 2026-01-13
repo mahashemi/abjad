@@ -9,7 +9,7 @@ ayats = [
   {
     "verse_number": 1,
     "english_text": "All praises are worthy for Allah only Who revealed the Book (Quran) on His servant (Mohammad [SAW]); and did not keep any crookedness in it.",
-    "arabic_text": "الْحَمْدُ لِلَّهِ الَّذِىٓ اَنزَلَ عَلَىٰ عَبْدِهِ الْكِتَـٰبَ وَلَمْ يَجْعَل لَّهُ عِوَجَا ۜ",
+    "arabic_text": "الْحَمْدُ لِلَّهِ الَّذِىٓ اَنزَلَ عَلَىٰ عَبْدِهِ الْكِتٰبَ وَلَمْ يَجْعَل لَّهُ عِوَجَا ۜ",
     "urdu_text": "تمام تعریفیں الله هی کے لیے هیں جس نے اپنے بندے (محمد صلی الله علیه وسلم) پر کتاب (قرآن) نازل فرمائی اور اس میں کوئی کجی نهیں رکھی۔",
     "persian_text": "ستایش مخصوص خداوندی است که کتاب (قرآن) را بر بنده‌اش (محمد صلی الله علیه وسلم) نازل کرد و در آن هیچ کژی و انحرافی قرار نداد.",
     "transliteration": "Alhamdu lillahil-lathee anzala 'ala 'abdihil-kitaba wa lam yaj'al lahu 'iwaja"
@@ -393,7 +393,7 @@ ayats = [
   {
     "verse_number": 49,
     "english_text": "And the book (of deeds of people) will be kept before them, then you will see that sinners will become fearful to look at whatever would be written therein; Oh our misfortune! which book is this, no smaller or greater sins have been omitted from writing in it, whatever they have done in the world they shall find written in it; and your Lord is not unjust on anyone.",
-    "arabic_text": "وَوُضِعَ الْكِتَـٰبُ فَتَرَى الْمُجْرِمِينَ مُشْفِقِينَ مِمَّا فِيهِ وَيَقُولُونَ يَـٰوَيْلَتَنَا مَالِ هَـٰذَا الْكِتَـٰبِ لَا يُغَادِرُ صَغِيرَةًۭ وَلَا كَبِيرَةً اِلَّآ اَحْصَىٰهَا ۚ وَوَجَدُواْ مَا عَمِلُواْ حَاضِرًۭا ۗ وَلَا يَظْلِمُ رَبُّكَ اَحَدًۭا",
+    "arabic_text": "وَوُضِعَ الْكِتٰبُ فَتَرَى الْمُجْرِمِينَ مُشْفِقِينَ مِمَّا فِيهِ وَيَقُولُونَ يَـٰوَيْلَتَنَا مَالِ هَـٰذَا الْكِتٰبِ لَا يُغَادِرُ صَغِيرَةًۭ وَلَا كَبِيرَةً اِلَّآ اَحْصَىٰهَا ۚ وَوَجَدُواْ مَا عَمِلُواْ حَاضِرًۭا ۗ وَلَا يَظْلِمُ رَبُّكَ اَحَدًۭا",
     "urdu_text": "اور اعمال کی کتاب رکھ دی جائے گی، پھر تم دیکھو گے که مجرم اس میں لکھی هوئی چیزوں سے خوفزده هوں گے اور کهیں گے: هائے هماری بدبختی! یه کیسی کتاب هے، نه کوئی چھوٹا گناه چھوڑتی هے نه کوئی بڑا، مگر اس نے اسے شمار کر لیا هے، اور جو کچھ انهوں نے کیا تھا وه سب حاضر پائیں گے، اور تمهارا رب کسی پر ظلم نهیں کرتا۔",
     "persian_text": "و نامه اعمال نهاده می‌شود، پس گناهکاران را می‌بینی که از آنچه در آن است هراسانند و می‌گویند: وای بر ما، این چه نامه‌ای است که نه گناه کوچکی را رها می‌کند و نه بزرگی را، مگر آنکه آن را شمرده است، و آنچه را کرده بودند حاضر یافتند، و پروردگارت به هیچ کس ستم نمی‌کند.",
     "transliteration": "Wa wudi'al-kitaabu fatara al-mujrimeena mushfiqeena mimmaa feehi wa yaqooloona yaa waylatanaa maa li-haadhal-kitaabi laa yughaairu sagheeratan wa laa kabeeratan illaa ahsaahaa, wa wajadoo maa 'amiloo haadiraa, wa laa yadhlimu Rabbuka ahadaa"

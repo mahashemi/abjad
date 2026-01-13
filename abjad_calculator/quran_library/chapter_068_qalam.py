@@ -297,7 +297,7 @@ ayats = [
   {
     "verse_number": 37,
     "english_text": "Or do you have any of your books from which you read.",
-    "arabic_text": "اَمْ لَكُمْ كِتَـٰبٌۭ فِيهِ تَدْرُسُونَ",
+    "arabic_text": "اَمْ لَكُمْ كِتٰبٌۭ فِيهِ تَدْرُسُونَ",
     "urdu_text": "یا تمہارے پاس کوئی کتاب ہے جس میں تم پڑھتے ہو؟",
     "persian_text": "یا برای شما کتابی است که در آن مطالعه می‌کنید؟",
     "transliteration": "Am lakum kitaabun feehi tadrusoon"

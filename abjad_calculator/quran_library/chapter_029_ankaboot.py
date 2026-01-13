@@ -217,7 +217,7 @@ ayats = [
   {
     "verse_number": 27,
     "english_text": "And then We gave him children like Ishaq and Yaqoob, then kept book and prophethood in their progeny, and in the world recompense them and in the Hereafter, they will be counted among the good character people.",
-    "arabic_text": "وَوَهَبْنَا لَهُٓ اِسْحَـٰقَ وَيَعْقُوبَ وَجَعَلْنَا فِى ذُرِّيَّتِهِ النُّبُوَّةَ وَالْكِتَـٰبَ وَءَاتَيْنَـٰهُ اَجْرَهُ فِى الدُّنْيَا ۖ وَاِنَّهُ فِى الْـَٔاخِرَةِ لَمِنَ الصَّـٰلِحِينَ",
+    "arabic_text": "وَوَهَبْنَا لَهُٓ اِسْحَـٰقَ وَيَعْقُوبَ وَجَعَلْنَا فِى ذُرِّيَّتِهِ النُّبُوَّةَ وَالْكِتٰبَ وَءَاتَيْنَـٰهُ اَجْرَهُ فِى الدُّنْيَا ۖ وَاِنَّهُ فِى الْـَٔاخِرَةِ لَمِنَ الصَّـٰلِحِينَ",
     "urdu_text": "اور ہم نے انہیں اسحاق اور یعقوب عطا کیے اور ان کی اولاد میں نبوت اور کتاب رکھی، اور انہیں دنیا میں ان کا اجر دیا، اور بیشک وہ آخرت میں نیکوکاروں میں سے ہیں۔",
     "persian_text": "و به او اسحاق و یعقوب بخشیدیم و در نسل او نبوت و کتاب قرار دادیم، و پاداش او را در دنیا به او دادیم، و همانا او در آخرت از شایستگان است.",
     "transliteration": "Wa wahabnaa lahoo Ishaqa wa Ya'qooba wa ja'alnaa fee dhurriyyatihin nubuwwata wal kitaaba wa aataynaahu ajrahoo fid dunyaa wa innahoo fil aakhirati laminas saaliheen"
@@ -361,7 +361,7 @@ ayats = [
   {
     "verse_number": 45,
     "english_text": "Recite the Book which has been revealed to you, and establish prayer because it stops (you) from every bad deed and evil; and remembrance of Allah is a great thing, and Allah is well aware of your deeds.",
-    "arabic_text": "اتْلُ مَآ اُوحِىَ اِلَيْكَ مِنَ الْكِتَـٰبِ وَاَقِمِ الصَّلَوٰةَ ۖ اِنَّ الصَّلَوٰةَ تَنْهَىٰ عَنِ الْفَحْشَآءِ وَالْمُنكَرِ ۗ وَلَذِكْرُ اللَّهِ اَكْبَرُ ۗ وَاللَّهُ يَعْلَمُ مَا تَصْنَعُونَ",
+    "arabic_text": "اتْلُ مَآ اُوحِىَ اِلَيْكَ مِنَ الْكِتٰبِ وَاَقِمِ الصَّلَوٰةَ ۖ اِنَّ الصَّلَوٰةَ تَنْهَىٰ عَنِ الْفَحْشَآءِ وَالْمُنكَرِ ۗ وَلَذِكْرُ اللَّهِ اَكْبَرُ ۗ وَاللَّهُ يَعْلَمُ مَا تَصْنَعُونَ",
     "urdu_text": "جو کتاب تمہاری طرف وحی کی گئی ہے اسے پڑھو اور نماز قائم کرو، بے شک نماز بے حیائی اور برائی سے روکتی ہے، اور اللہ کا ذکر سب سے بڑا ہے، اور اللہ جانتا ہے جو تم کرتے ہو۔",
     "persian_text": "آنچه از کتاب به تو وحی شده تلاوت کن و نماز را برپا دار، همانا نماز از فحشا و منکر باز می‌دارد، و یاد خدا بزرگ‌تر است، و خداوند می‌داند آنچه را که انجام می‌دهید.",
     "transliteration": "Utlu mā ūhiya ilayka minal-kitābi wa aqimis-salāh, innas-salāta tanhā 'anil-fahshā'i wal-munkar, wa ladhikrul-lāhi akbar, wal-lāhu ya'lamu mā tasna'ūn"
@@ -369,7 +369,7 @@ ayats = [
   {
     "verse_number": 46,
     "english_text": "And do not debate with the people of book but in a very decent manner, except with those who are unjust; and say: we believe in whatever is revealed towards us and towards them, and our God and your God is one, and we are all obedient to Him.",
-    "arabic_text": "۞ وَلَا تُجَـٰدِلُوٓاْ اَهْلَ الْكِتَـٰبِ اِلَّا بِالَّتِى هِىَ اَحْسَنُ اِلَّا الَّذِينَ ظَلَمُواْ مِنْهُمْ ۖ وَقُولُوٓاْ ءَامَنَّا بِالَّذِىٓ اُنزِلَ اِلَيْنَا وَاُنزِلَ اِلَيْكُمْ وَاِلَـٰهُنَا وَاِلَـٰهُكُمْ وَٰحِدٌۭ وَنَحْنُ لَهُ مُسْلِمُونَ",
+    "arabic_text": "۞ وَلَا تُجَـٰدِلُوٓاْ اَهْلَ الْكِتٰبِ اِلَّا بِالَّتِى هِىَ اَحْسَنُ اِلَّا الَّذِينَ ظَلَمُواْ مِنْهُمْ ۖ وَقُولُوٓاْ ءَامَنَّا بِالَّذِىٓ اُنزِلَ اِلَيْنَا وَاُنزِلَ اِلَيْكُمْ وَاِلَـٰهُنَا وَاِلَـٰهُكُمْ وَٰحِدٌۭ وَنَحْنُ لَهُ مُسْلِمُونَ",
     "urdu_text": "اور اہل کتاب سے بحث نہ کرو مگر بہترین طریقے سے، سوائے ان لوگوں کے جنہوں نے ظلم کیا، اور کہو کہ ہم ایمان لائے اس پر جو ہماری طرف اتارا گیا اور جو تمہاری طرف اتارا گیا، اور ہمارا معبود اور تمہارا معبود ایک ہے، اور ہم اسی کے فرمانبردار ہیں۔",
     "persian_text": "و با اهل کتاب جز به بهترین شیوه مجادله نکنید، مگر با کسانی از آنان که ستم کردند، و بگویید: ما به آنچه بر ما و بر شما نازل شده ایمان آوردیم، و معبود ما و معبود شما یکی است، و ما تسلیم او هستیم.",
     "transliteration": "Wa lā tujādilū ahlal-kitābi illā billatī hiya ahsanu illal-ladhīna zalamū minhum, wa qūlū āmannā billadhī unzila ilaynā wa unzila ilaykum wa ilāhunā wa ilāhukum wāhid, wa nahnu lahū muslimūn"
@@ -377,7 +377,7 @@ ayats = [
   {
     "verse_number": 47,
     "english_text": "Like this We revealed the Book to you, so to whoever We gave the book earlier they believe in this book, and some of these people (Arabs) also believe in this (book), and Our verses are only denied by the infidels.",
-    "arabic_text": "وَكَذَٰلِكَ اَنزَلْنَآ اِلَيْكَ الْكِتَـٰبَ ۚ فَالَّذِينَ ءَاتَيْنَـٰهُمُ الْكِتَـٰبَ يُؤْمِنُونَ بِهِ ۖ وَمِنْ هَـٰٓؤُلَآءِ مَن يُؤْمِنُ بِهِ ۚ وَ مَا يَجْحَدُ بِـَٔايَـٰتِنَآ اِلَّا الْكَـٰفِرُونَ",
+    "arabic_text": "وَكَذَٰلِكَ اَنزَلْنَآ اِلَيْكَ الْكِتٰبَ ۚ فَالَّذِينَ ءَاتَيْنَـٰهُمُ الْكِتٰبَ يُؤْمِنُونَ بِهِ ۖ وَمِنْ هَـٰٓؤُلَآءِ مَن يُؤْمِنُ بِهِ ۚ وَ مَا يَجْحَدُ بِـَٔايَـٰتِنَآ اِلَّا الْكَـٰفِرُونَ",
     "urdu_text": "اور اسی طرح ہم نے تمہاری طرف کتاب نازل کی، پس جن لوگوں کو ہم نے پہلے کتاب دی تھی وہ اس پر ایمان لاتے ہیں، اور ان میں سے بھی کچھ لوگ اس پر ایمان لاتے ہیں، اور ہماری آیتوں کا انکار صرف کافر ہی کرتے ہیں۔",
     "persian_text": "و این‌چنین کتاب را بر تو نازل کردیم، پس کسانی که به آنان کتاب دادیم به آن ایمان می‌آورند، و از اینان نیز برخی به آن ایمان می‌آورند، و جز کافران کسی آیات ما را انکار نمی‌کند.",
     "transliteration": "Wa kadhālika anzalnā ilaykal-kitāb, falladhīna ātaynāhumul-kitāba yu'minūna bih, wa min hā'ulā'i man yu'minu bih, wa mā yajhadu bi-āyātinā illal-kāfirūn"
@@ -385,7 +385,7 @@ ayats = [
   {
     "verse_number": 48,
     "english_text": "And O Prophet! Before the Quran you have not read any book and did not write anything with your hands otherwise people of falsehood would have doubted.",
-    "arabic_text": "وَ مَا كُنتَ تَتْلُواْ مِن قَبْلِهِ مِن كِتَـٰبٍۢ وَلَا تَخُطُّهُ بِيَمِينِكَ ۖ اِذًۭا لَّارْتَابَ الْمُبْطِلُونَ",
+    "arabic_text": "وَ مَا كُنتَ تَتْلُواْ مِن قَبْلِهِ مِن كِتٰبٍۢ وَلَا تَخُطُّهُ بِيَمِينِكَ ۖ اِذًۭا لَّارْتَابَ الْمُبْطِلُونَ",
     "urdu_text": "اور اے نبی! اس سے پہلے تم نے کوئی کتاب نہیں پڑھی تھی اور نہ اپنے ہاتھ سے کچھ لکھتے تھے، ورنہ باطل پرست لوگ شک کرتے۔",
     "persian_text": "و ای پیامبر! تو پیش از این هیچ کتابی نمی‌خواندی و با دست خود چیزی نمی‌نوشتی، وگرنه اهل باطل شک می‌کردند.",
     "transliteration": "Wa mā kunta tatlū min qablihī min kitābiw-wa lā takhuttuhū bi-yamīnik, idhal-lartābal-mubtilūn"
@@ -409,7 +409,7 @@ ayats = [
   {
     "verse_number": 51,
     "english_text": "Is it not enough for them that We have revealed the Book on you which is recited before them, indeed in this is Mercy and reminder for the faithful nation.",
-    "arabic_text": "اَوَلَمْ يَكْفِهِمْ اَنَّآ اَنزَلْنَا عَلَيْكَ الْكِتَـٰبَ يُتْلَىٰ عَلَيْهِمْ ۚ اِنَّ فِى ذَٰلِكَ لَرَحْمَةًۭ وَذِكْرَىٰ لِقَوْمٍۢ يُؤْمِنُونَ",
+    "arabic_text": "اَوَلَمْ يَكْفِهِمْ اَنَّآ اَنزَلْنَا عَلَيْكَ الْكِتٰبَ يُتْلَىٰ عَلَيْهِمْ ۚ اِنَّ فِى ذَٰلِكَ لَرَحْمَةًۭ وَذِكْرَىٰ لِقَوْمٍۢ يُؤْمِنُونَ",
     "urdu_text": "کیا ان کے لیے یہ کافی نہیں کہ ہم نے آپ پر کتاب نازل کی ہے جو ان کے سامنے پڑھی جاتی ہے، بیشک اس میں رحمت اور نصیحت ہے ایمان والوں کے لیے۔",
     "persian_text": "آیا برای آنان کافی نیست که ما کتاب را بر تو نازل کردیم که بر آنان خوانده می‌شود، همانا در این رحمت و یادآوری است برای قومی که ایمان می‌آورند.",
     "transliteration": "Awa lam yakfihim annaa anzalnaa 'alaykal-kitaaba yutlaa 'alayhim, inna fee dhaalika la-rahmatan wa dhikraa liqawminy-yu'minoon"

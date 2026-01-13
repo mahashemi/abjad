@@ -17,7 +17,7 @@ ayats = [
   {
     "verse_number": 2,
     "english_text": "We gave the book (Taurait) to Moosa and appointed him leader of Bani Israel; do not make anybody your benefactor except Me.",
-    "arabic_text": "وَءَاتَيْنَا مُوسَى الْكِتَـٰبَ وَجَعَلْنَـٰهُ هُدًۭى لِّبَنِىٓ اِسْرَٰٓءِيلَ اَلَّا تَتَّخِذُواْ مِن دُونِى وَكِيلًۭا",
+    "arabic_text": "وَءَاتَيْنَا مُوسَى الْكِتٰبَ وَجَعَلْنَـٰهُ هُدًۭى لِّبَنِىٓ اِسْرَٰٓءِيلَ اَلَّا تَتَّخِذُواْ مِن دُونِى وَكِيلًۭا",
     "urdu_text": "اور ہم نے موسیٰ کو کتاب (تورات) عطا کی اور اسے بنی اسرائیل کے لیے ہدایت بنایا کہ میرے سوا کسی کو کارساز نہ بناؤ۔",
     "persian_text": "و به موسی کتاب (تورات) دادیم و آن را برای بنی‌اسرائیل راهنما قرار دادیم که جز من کسی را کارساز خود مگیرید.",
     "transliteration": "Wa atayna musal-kitaba wa ja'alnahu hudan li-banee isra'eela alla tattakhidhu min doonee wakeela"
@@ -33,7 +33,7 @@ ayats = [
   {
     "verse_number": 4,
     "english_text": "And We had told Bani Israel in the book (Taurait) that you will create the mischief on the earth twice and will do great transgression.",
-    "arabic_text": "وَقَضَيْنَآ اِلَىٰ بَنِىٓ اِسْرَٰٓءِيلَ فِى الْكِتَـٰبِ لَتُفْسِدُنَّ فِى الْاَرْضِ مَرَّتَيْنِ وَلَتَعْلُنَّ عُلُوًّۭا كَبِيرًۭا",
+    "arabic_text": "وَقَضَيْنَآ اِلَىٰ بَنِىٓ اِسْرَٰٓءِيلَ فِى الْكِتٰبِ لَتُفْسِدُنَّ فِى الْاَرْضِ مَرَّتَيْنِ وَلَتَعْلُنَّ عُلُوًّۭا كَبِيرًۭا",
     "urdu_text": "اور ہم نے بنی اسرائیل کو کتاب (تورات) میں فیصلہ سنا دیا تھا کہ تم زمین میں دو بار فساد کرو گے اور بڑی سرکشی کرو گے۔",
     "persian_text": "و به بنی‌اسرائیل در کتاب اعلام کردیم که دو بار در زمین فساد خواهید کرد و سرکشی بزرگی خواهید نمود.",
     "transliteration": "Wa qadayna ila banee isra'eela fil-kitabi latufsidunna fil-ardi marratayni wa lata'lunna 'uluwwan kabeera"
@@ -105,7 +105,7 @@ ayats = [
   {
     "verse_number": 13,
     "english_text": "And We cling human's deeds on his neck and will keep it before them on the Day of Judgement, and they will see it, as an open book in front of them.",
-    "arabic_text": "وَكُلَّ اِنسَـٰنٍ اَلْزَمْنَـٰهُ طَـٰٓئِرَهُ فِى عُنُقِهِ ۖ وَنُخْرِجُ لَهُ يَوْمَ الْقِيَـٰمَةِ كِتَـٰبًۭا يَلْقَىٰهُ مَنشُورًا",
+    "arabic_text": "وَكُلَّ اِنسَـٰنٍ اَلْزَمْنَـٰهُ طَـٰٓئِرَهُ فِى عُنُقِهِ ۖ وَنُخْرِجُ لَهُ يَوْمَ الْقِيَـٰمَةِ كِتٰبًۭا يَلْقَىٰهُ مَنشُورًا",
     "urdu_text": "اور ہم نے ہر انسان کے اعمال کو اس کی گردن میں لازم کر دیا ہے، اور قیامت کے دن ہم اس کے لیے ایک کتاب نکالیں گے جسے وہ کھلا ہوا پائے گا۔",
     "persian_text": "و هر انسانی را اعمالش را به گردنش آویختیم، و روز قیامت برایش کتابی بیرون می‌آوریم که آن را گشوده خواهد یافت.",
     "transliteration": "Wa kulla insanin alzamnahu ta'irahu fi 'unuqihi wa nukhriju lahu yawma al-qiyamati kitaban yalqahu manshura"
@@ -113,7 +113,7 @@ ayats = [
   {
     "verse_number": 14,
     "english_text": "And (We will tell him) read your deeds, today you yourself is sufficient for your accounting.",
-    "arabic_text": "اقْرَاْ كِتَـٰبَكَ كَفَىٰ بِنَفْسِكَ الْيَوْمَ عَلَيْكَ حَسِيبًۭا",
+    "arabic_text": "اقْرَاْ كِتٰبَكَ كَفَىٰ بِنَفْسِكَ الْيَوْمَ عَلَيْكَ حَسِيبًۭا",
     "urdu_text": "اپنی کتاب پڑھ لو، آج تمہارا اپنا نفس تمہارے حساب کے لیے کافی ہے۔",
     "persian_text": "کتاب خود را بخوان، امروز خودت برای حسابرسی‌ات کافی هستی.",
     "transliteration": "Iqra' kitabaka kafa bi-nafsika al-yawma 'alayka hasiba"
@@ -465,7 +465,7 @@ ayats = [
   {
     "verse_number": 58,
     "english_text": "And there is no town, but We will destroy it before the Day of Judgement or will send severe punishment on it; and this has (already) been written in the Divine Book.",
-    "arabic_text": "وَاِن مِّن قَرْيَةٍ اِلَّا نَحْنُ مُهْلِكُوهَا قَبْلَ يَوْمِ الْقِيَـٰمَةِ اَوْ مُعَذِّبُوهَا عَذَابًۭا شَدِيدًۭا ۚ كَانَ ذَٰلِكَ فِى الْكِتَـٰبِ مَسْطُورًۭا",
+    "arabic_text": "وَاِن مِّن قَرْيَةٍ اِلَّا نَحْنُ مُهْلِكُوهَا قَبْلَ يَوْمِ الْقِيَـٰمَةِ اَوْ مُعَذِّبُوهَا عَذَابًۭا شَدِيدًۭا ۚ كَانَ ذَٰلِكَ فِى الْكِتٰبِ مَسْطُورًۭا",
     "urdu_text": "اور کوئی بستی ایسی نہیں مگر ہم اسے قیامت سے پہلے تباہ کر دیں گے یا اس پر سخت عذاب بھیجیں گے، اور یہ الہٰی کتاب میں لکھا ہوا ہے۔",
     "persian_text": "و هیچ شهری نیست مگر اینکه ما آن را پیش از روز قیامت هلاک می‌کنیم یا عذابی سخت بر آن می‌فرستیم، این در کتاب الهی نوشته شده است.",
     "transliteration": "Wa im min qaryatin illaa nahnu muhlikooha qabla yawmil-qiyaamati aw mu'adhdhiboohaa 'adhaaban shadeedaa kaana dhaalika fil-kitaabi mastooraa"
@@ -569,7 +569,7 @@ ayats = [
   {
     "verse_number": 71,
     "english_text": "And remember the day when We will call the people with their leaders, and they will read their deeds (happily) whose record book (of deeds) will be given in their right hand, and they will not be persecuted even like a single hair.",
-    "arabic_text": "يَوْمَ نَدْعُواْ كُلَّ اُنَاسٍۭ بِاِمَـٰمِهِمْ ۖ فَمَنْ اُوتِىَ كِتَـٰبَهُ بِيَمِينِهِ فَاُو۟لَـٰٓئِكَ يَقْرَءُونَ كِتَـٰبَهُمْ وَلَا يُظْلَمُونَ فَتِيلًۭا",
+    "arabic_text": "يَوْمَ نَدْعُواْ كُلَّ اُنَاسٍۭ بِاِمَـٰمِهِمْ ۖ فَمَنْ اُوتِىَ كِتٰبَهُ بِيَمِينِهِ فَاُو۟لَـٰٓئِكَ يَقْرَءُونَ كِتٰبَهُمْ وَلَا يُظْلَمُونَ فَتِيلًۭا",
     "urdu_text": "اور اُس دن کو یاد کرو جب ہم ہر گروہ کو اُن کے پیشوا کے ساتھ بلائیں گے، پھر جن کو اُن کا نامۂ اعمال دائیں ہاتھ میں دیا جائے گا تو وہ اپنا نامہ خوشی سے پڑھیں گے اور اُن پر دھاگے کے برابر بھی ظلم نہیں ہوگا۔",
     "persian_text": "و آن روز را به یاد آور که هر گروهی را با پیشوای خود فرا می‌خوانیم، پس کسانی که نامه اعمالشان در دست راستشان داده شود، آنان نامه خود را خواهند خواند و به اندازه یک رشته خرما هم بر آنها ستم نخواهد شد.",
     "transliteration": "Yawma nad'oo kulla unaasin bi-imaamihim fa-man ootiya kitaabahu bi-yameenihi fa-ulaa'ika yaqra'oona kitaabahum wa laa yuzlamoona fateelaa"
@@ -745,7 +745,7 @@ ayats = [
   {
     "verse_number": 93,
     "english_text": "Or you should have a house of gold or you ascend to the sky and we will not be convinced of your ascension unless you send to us a book (from there) and we read it; (O Prophet) say: Praises to my Lord, what I am except a human and a prophet (of Allah)?",
-    "arabic_text": "اَوْ يَكُونَ لَكَ بَيْتٌۭ مِّن زُخْرُفٍ اَوْ تَرْقَىٰ فِى السَّمَآءِ وَلَن نُّؤْمِنَ لِرُقِيِّكَ حَتَّىٰ تُنَزِّلَ عَلَيْنَا كِتَـٰبًۭا نَّقْرَؤُهُ ۗ قُلْ سُبْحَانَ رَبِّى هَلْ كُنتُ اِلَّا بَشَرًۭا رَّسُولًۭا",
+    "arabic_text": "اَوْ يَكُونَ لَكَ بَيْتٌۭ مِّن زُخْرُفٍ اَوْ تَرْقَىٰ فِى السَّمَآءِ وَلَن نُّؤْمِنَ لِرُقِيِّكَ حَتَّىٰ تُنَزِّلَ عَلَيْنَا كِتٰبًۭا نَّقْرَؤُهُ ۗ قُلْ سُبْحَانَ رَبِّى هَلْ كُنتُ اِلَّا بَشَرًۭا رَّسُولًۭا",
     "urdu_text": "یا تمہارا سونے کا گھر ہو، یا تم آسمان پر چڑھ جاؤ، اور ہم تمہارے چڑھنے کو نہیں مانیں گے جب تک تم ہم پر ایک کتاب نہ اتارو جسے ہم پڑھیں۔ کہہ دو: پاک ہے میرا رب، میں تو صرف ایک انسان اور رسول ہوں۔",
     "persian_text": "یا خانه‌ای از طلا داشته باشی، یا به آسمان بالا روی، و ما هرگز به بالا رفتنت ایمان نخواهیم آورد مگر اینکه کتابی بر ما نازل کنی که آن را بخوانیم. بگو: منزه است پروردگار من، آیا من جز بشری فرستاده هستم؟",
     "transliteration": "Aw yakoona laka baytum min zukhrufin aw tarqaa fis samaaa'i wa lan nu'mina liruqiyyika hattaa tunazzila 'alaynaa kitaaban naqra'uh, qul subhaana rabbee hal kuntu illaa basharan rasoolaa"

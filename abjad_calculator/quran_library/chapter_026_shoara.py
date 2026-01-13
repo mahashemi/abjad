@@ -17,7 +17,7 @@ ayats = [
   {
     "verse_number": 2,
     "english_text": "These are the verses of the manifest Book (Quran).",
-    "arabic_text": "تِلْكَ اٰيٰتُ الْكِتَـٰبِ الْمُبِينِ",
+    "arabic_text": "تِلْكَ اٰيٰتُ الْكِتٰبِ الْمُبِينِ",
     "urdu_text": "یه روشن کتاب (قرآن) کی آیتیں هیں۔",
     "persian_text": "این‌ها آیات کتاب آشکار (قرآن) است.",
     "transliteration": "Tilka aayaatul kitaabil mubeen"

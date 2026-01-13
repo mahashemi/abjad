@@ -417,7 +417,7 @@ ayats = [
   {
     "verse_number": 52,
     "english_text": "Said Moosa: knowledge of all these things is with my Lord written in a Book (i.e. Laoh-e-Mahfooz), He neither forgets nor errs.",
-    "arabic_text": "قَالَ عِلْمُهَا عِندَ رَبِّى فِى كِتَـٰبٍۢ ۖ لَّا يَضِلُّ رَبِّى وَلَا يَنسَى",
+    "arabic_text": "قَالَ عِلْمُهَا عِندَ رَبِّى فِى كِتٰبٍۢ ۖ لَّا يَضِلُّ رَبِّى وَلَا يَنسَى",
     "urdu_text": "موسیٰ نے کها: ان کا علم میرے رب کے پاس ایک کتاب میں محفوظ هے، میرا رب نه بھٹکتا هے اور نه بھولتا هے۔",
     "persian_text": "موسی گفت: علم آن نزد پروردگار من در کتابی است، پروردگار من نه گمراه می‌شود و نه فراموش می‌کند.",
     "transliteration": "Qaala 'ilmuhaa 'inda Rabbee fee Kitaab, laa yadillu Rabbee wa laa yansaa"

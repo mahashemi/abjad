@@ -97,7 +97,7 @@ ayats = [
   {
     "verse_number": 12,
     "english_text": "(Yahya was born and he was commanded), O Yahya! Hold the book (Taurait) tightly and granted him prophethood when he was a child.",
-    "arabic_text": "يَـٰيَحْيَىٰ خُذِ الْكِتَـٰبَ بِقُوَّةٍۢ ۖ وَءَاتَيْنَـٰهُ الْحُكْمَ صَبِيًّۭا",
+    "arabic_text": "يَـٰيَحْيَىٰ خُذِ الْكِتٰبَ بِقُوَّةٍۢ ۖ وَءَاتَيْنَـٰهُ الْحُكْمَ صَبِيًّۭا",
     "urdu_text": "اے یحییٰ! کتاب کو مضبوطی سے تھامے رکھو، اور هم نے انهیں بچپن هی میں حکمت اور نبوت عطا کی۔",
     "persian_text": "ای یحیی! کتاب را با قوت بگیر، و ما به او در کودکی حکمت و نبوت دادیم.",
     "transliteration": "Yaa-Yahyaa khuzil-kitaaba biquwwah, wa aataynaahul-hukma sabiyyaa"
@@ -129,7 +129,7 @@ ayats = [
   {
     "verse_number": 16,
     "english_text": "(And O Prophet), Also described in the book about Maryam when she separated from her people and went to her Eastern place.",
-    "arabic_text": "وَاذْكُرْ فِى الْكِتَـٰبِ مَرْيَمَ اِذِ انتَبَذَتْ مِنْ اَهْلِهَا مَكَانًۭا شَرْقِيًّۭا",
+    "arabic_text": "وَاذْكُرْ فِى الْكِتٰبِ مَرْيَمَ اِذِ انتَبَذَتْ مِنْ اَهْلِهَا مَكَانًۭا شَرْقِيًّۭا",
     "urdu_text": "اور اے نبی! کتاب میں مریم کا ذکر کرو جب وه اپنے گھر والوں سے الگ هو کر مشرقی جانب ایک جگه چلی گئیں۔",
     "persian_text": "و در کتاب مریم را یاد کن، آنگاه که از خانواده‌اش کناره گرفت و به جایی در سمت شرق رفت.",
     "transliteration": "Wazkur fil-kitaabi Maryama izin-tabaazat min ahlihaa makaanan sharqiyyaa"
@@ -241,7 +241,7 @@ ayats = [
   {
     "verse_number": 30,
     "english_text": "(Upon this the child spoke with the command of Allah) Verily I am servant of Allah, and He has given me the book (Injeel) and made me a Prophet.",
-    "arabic_text": "قَالَ اِنِّى عَبْدُ اللَّهِ ءَاتَىٰنِىَ الْكِتَـٰبَ وَجَعَلَنِى نَبِيًّۭا",
+    "arabic_text": "قَالَ اِنِّى عَبْدُ اللَّهِ ءَاتَىٰنِىَ الْكِتٰبَ وَجَعَلَنِى نَبِيًّۭا",
     "urdu_text": "بچے نے کها: میں الله کا بنده هوں، اس نے مجھے کتاب عطا کی هے اور مجھے نبی بنایا هے۔",
     "persian_text": "کودک گفت: من بنده خدا هستم، او به من کتاب داده و مرا پیامبر قرار داده است.",
     "transliteration": "Qaala innee 'abdullaahi aataaniyal kitaaba wa ja'alanee nabiyyaa"
@@ -329,7 +329,7 @@ ayats = [
   {
     "verse_number": 41,
     "english_text": "And (O Prophet), mention Ibrahim in the Quran who was indeed a very truthful prophet.",
-    "arabic_text": "وَاذْكُرْ فِى الْكِتَـٰبِ اِبْرَٰهِيمَ ۚ اِنَّهُ كَانَ صِدِّيقًۭا نَّبِيًّا",
+    "arabic_text": "وَاذْكُرْ فِى الْكِتٰبِ اِبْرَٰهِيمَ ۚ اِنَّهُ كَانَ صِدِّيقًۭا نَّبِيًّا",
     "urdu_text": "اور (اے نبی) قرآن میں ابراهیم کا ذکر کریں، بے شک وه بهت سچے نبی تھے۔",
     "persian_text": "و (ای پیامبر) در قرآن از ابراهیم یاد کن، که او راستگوی و پیامبری بود.",
     "transliteration": "Wadhkur fil-kitaabi Ibraheema innahu kaana siddeeqan nabiyya"
@@ -409,7 +409,7 @@ ayats = [
   {
     "verse_number": 51,
     "english_text": "And mention Moosa in the Book that he was Our humble servant, was sent as a prophet.",
-    "arabic_text": "وَاذْكُرْ فِى الْكِتَـٰبِ مُوسَىٰٓ ۚ اِنَّهُ كَانَ مُخْلَصًۭا وَكَانَ رَسُولًۭا نَّبِيًّۭا",
+    "arabic_text": "وَاذْكُرْ فِى الْكِتٰبِ مُوسَىٰٓ ۚ اِنَّهُ كَانَ مُخْلَصًۭا وَكَانَ رَسُولًۭا نَّبِيًّۭا",
     "urdu_text": "اور کتاب میں موسیٰ کا ذکر کیجیے، بیشک وه همارے مخلص بندے تھے اور رسول نبی تھے۔",
     "persian_text": "و در کتاب از موسی یاد کن، که او بنده‌ای مخلص بود و فرستاده و پیامبری بود.",
     "transliteration": "Wadhkur fil-kitabi Moosa innahu kana mukhlasan wa kana rasoolan nabiyya"
@@ -433,7 +433,7 @@ ayats = [
   {
     "verse_number": 54,
     "english_text": "(And O Prophet), mention Ismail in the Book, indeed he was truthful in his promise, and he was sent as a prophet.",
-    "arabic_text": "وَاذْكُرْ فِى الْكِتَـٰبِ اِسْمَـٰعِيلَ ۚ اِنَّهُ كَانَ صَادِقَ الْوَعْدِ وَكَانَ رَسُولًۭا نَّبِيًّۭا",
+    "arabic_text": "وَاذْكُرْ فِى الْكِتٰبِ اِسْمَـٰعِيلَ ۚ اِنَّهُ كَانَ صَادِقَ الْوَعْدِ وَكَانَ رَسُولًۭا نَّبِيًّۭا",
     "urdu_text": "اور کتاب میں اسماعیل کا ذکر کیجیے، بیشک وه اپنے وعدے میں سچے تھے اور رسول نبی تھے۔",
     "persian_text": "و در کتاب از اسماعیل یاد کن، که او راستگوی وعده بود و فرستاده و پیامبری بود.",
     "transliteration": "Wadhkur fil-kitabi Isma'eel innahu kana sadiqal-wa'di wa kana rasoolan nabiyya"
@@ -449,7 +449,7 @@ ayats = [
   {
     "verse_number": 56,
     "english_text": "(O Prophet), also mention Idris in the Book, indeed he was a truthful prophet.",
-    "arabic_text": "وَاذْكُرْ فِى الْكِتَـٰبِ اِدْرِيسَ ۚ اِنَّهُ كَانَ صِدِّيقًۭا نَّبِيًّۭا",
+    "arabic_text": "وَاذْكُرْ فِى الْكِتٰبِ اِدْرِيسَ ۚ اِنَّهُ كَانَ صِدِّيقًۭا نَّبِيًّۭا",
     "urdu_text": "اور کتاب میں ادریس کا ذکر کیجیے، بیشک وه بهت سچے نبی تھے۔",
     "persian_text": "و در کتاب از ادریس یاد کن، که او صدیق و پیامبری بود.",
     "transliteration": "Wadhkur fil-kitabi Idrees innahu kana siddeeqan nabiyya"

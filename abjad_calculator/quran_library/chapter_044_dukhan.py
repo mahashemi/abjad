@@ -17,7 +17,7 @@ ayats = [
   {
     "verse_number": 2,
     "english_text": "I swear by the manifest book.",
-    "arabic_text": "وَالْكِتَـٰبِ الْمُبِينِ",
+    "arabic_text": "وَالْكِتٰبِ الْمُبِينِ",
     "urdu_text": "قسم هے اس روشن کتاب کی",
     "persian_text": "سوگند به کتاب آشکار",
     "transliteration": "Wal-kitaabil-mubeen"

@@ -49,7 +49,7 @@ ayats = [
   {
     "verse_number": 6,
     "english_text": "Verily, prophet has much more right over the souls of the believers, and his wives are mothers to all; and among believers and migrants their close relatives are more important, but if you want to do good to friends then there is no harm, this is written and present in the book of Allah.",
-    "arabic_text": "النَّبِىُّ اَوْلَىٰ بِالْمُؤْمِنِينَ مِنْ اَنفُسِهِمْ ۖ وَاَزْوَٰجُهُٓ اُمَّهَـٰتُهُمْ ۗ وَاُو۟لُواْ الْاَرْحَامِ بَعْضُهُمْ اَوْلَىٰ بِبَعْضٍۢ فِى كِتَـٰبِ اللَّهِ مِنَ الْمُؤْمِنِينَ وَالْمُهَـٰجِرِينَ اِلَّآ اَن تَفْعَلُوٓاْ اِلَىٰٓ اَوْلِيَآئِكُم مَّعْرُوفًۭا ۚ كَانَ ذَٰلِكَ فِى الْكِتَـٰبِ مَسْطُورًۭا",
+    "arabic_text": "النَّبِىُّ اَوْلَىٰ بِالْمُؤْمِنِينَ مِنْ اَنفُسِهِمْ ۖ وَاَزْوَٰجُهُٓ اُمَّهَـٰتُهُمْ ۗ وَاُو۟لُواْ الْاَرْحَامِ بَعْضُهُمْ اَوْلَىٰ بِبَعْضٍۢ فِى كِتٰبِ اللَّهِ مِنَ الْمُؤْمِنِينَ وَالْمُهَـٰجِرِينَ اِلَّآ اَن تَفْعَلُوٓاْ اِلَىٰٓ اَوْلِيَآئِكُم مَّعْرُوفًۭا ۚ كَانَ ذَٰلِكَ فِى الْكِتٰبِ مَسْطُورًۭا",
     "urdu_text": "بیشک نبی مومنوں پر ان کی اپنی جانوں سے زیاده حق رکھتے هیں، اور ان کی بیویاں سب کی مائیں هیں، اور مومنوں اور مهاجرین میں قریبی رشته دار ایک دوسرے کے زیاده حقدار هیں الله کی کتاب میں، مگر یه که تم اپنے دوستوں کے ساتھ بھلائی کرنا چاهو تو کوئی حرج نهیں، یه الله کی کتاب میں لکھا هوا هے۔",
     "persian_text": "پیامبر بر مؤمنان از خودشان سزاوارتر است، و همسرانش مادران آنها هستند، و خویشاوندان نزدیک بعضی از آنها به بعضی دیگر در کتاب خدا سزاوارترند از مؤمنان و مهاجران، مگر اینکه بخواهید به دوستانتان نیکی کنید که اشکالی ندارد، این در کتاب خدا نوشته شده است.",
     "transliteration": "An-nabiyyu awlaa bil-mu'mineena min anfusihim wa azwaajuhoo ummahaa tuhum, wa ulul-arhaami ba'duhum awlaa biba'din fee kitaabillaahi minal-mu'mineena wal-muhaajireena illaa an taf'alooo ilaa awliyaaa'ikum ma'roofaa, kaana dhaalika fil-kitaabi mastooraa"
@@ -209,7 +209,7 @@ ayats = [
   {
     "verse_number": 26,
     "english_text": "And he made people of book who were backing the infidels climb down their forts, and casted such a fear in their hearts that you killed some and took some as prisoners.",
-    "arabic_text": "وَاَنزَلَ الَّذِينَ ظَـٰهَرُوهُم مِّنْ اَهْلِ الْكِتَـٰبِ مِن صَيَاصِيهِمْ وَقَذَفَ فِى قُلُوبِهِمُ الرُّعْبَ فَرِيقًۭا تَقْتُلُونَ وَتَاْسِرُونَ فَرِيقًۭا",
+    "arabic_text": "وَاَنزَلَ الَّذِينَ ظَـٰهَرُوهُم مِّنْ اَهْلِ الْكِتٰبِ مِن صَيَاصِيهِمْ وَقَذَفَ فِى قُلُوبِهِمُ الرُّعْبَ فَرِيقًۭا تَقْتُلُونَ وَتَاْسِرُونَ فَرِيقًۭا",
     "urdu_text": "اور اس نے اهل کتاب میں سے جنهوں نے کافروں کی مدد کی تھی، انهیں ان کے قلعوں سے اتار دیا، اور ان کے دلوں میں خوف ڈال دیا، تم نے ایک گروه کو قتل کیا اور ایک گروه کو قیدی بنایا۔",
     "persian_text": "و کسانی از اهل کتاب را که از کافران پشتیبانی کرده بودند، از دژهایشان فرود آورد و در دل‌هایشان رعب افکند، گروهی را می‌کشتید و گروهی را اسیر می‌گرفتید.",
     "transliteration": "Wa anzalal lazeena zaharoohum min Ahlil Kitabi min sayaseehim wa qazafa fee quloobihimur ru'ba fareeqan taqtuloona wa ta'siroona fareeqa"

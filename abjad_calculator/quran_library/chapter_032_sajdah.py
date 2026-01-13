@@ -17,7 +17,7 @@ ayats = [
   {
     "verse_number": 2,
     "english_text": "Indeed, revelation of this Book (Quran) is from the Lord of the Worlds.",
-    "arabic_text": "تَنزِيلُ الْكِتَـٰبِ لَا رَيْبَ فِيهِ مِن رَّبِّ الْعَـٰلَمِينَ",
+    "arabic_text": "تَنزِيلُ الْكِتٰبِ لَا رَيْبَ فِيهِ مِن رَّبِّ الْعَـٰلَمِينَ",
     "urdu_text": "اس کتاب کا نازل کرنا رب العالمین کی طرف سے ہے، اس میں کوئی شک نہیں۔",
     "persian_text": "نازل شدن این کتاب از پروردگار جهانیان است که در آن هیچ شکی نیست.",
     "transliteration": "Tanzeelul-Kitaabi laa rayba feehi mir-Rabbil-'aalameen"
@@ -185,7 +185,7 @@ ayats = [
   {
     "verse_number": 23,
     "english_text": "And We gave book to Moosa also, therefore you should not doubt that the Quran is from Allah, and We made book of Moosa a guidance for Bani Israel.",
-    "arabic_text": "وَ لَقَدْ ءَاتَيْنَا مُوسَى الْكِتَـٰبَ فَلَا تَكُن فِى مِرْيَةٍۢ مِّن لِّقَآئِهِ ۖ وَجَعَلْنَـٰهُ هُدًۭى لِّبَنِىٓ اِسْرَٰٓءِيلَ",
+    "arabic_text": "وَ لَقَدْ ءَاتَيْنَا مُوسَى الْكِتٰبَ فَلَا تَكُن فِى مِرْيَةٍۢ مِّن لِّقَآئِهِ ۖ وَجَعَلْنَـٰهُ هُدًۭى لِّبَنِىٓ اِسْرَٰٓءِيلَ",
     "urdu_text": "اور بیشک ہم نے موسیٰ کو کتاب عطا کی، پس تم اس کی ملاقات میں شک میں نہ پڑو، اور ہم نے اسے بنی اسرائیل کے لیے ہدایت بنایا۔",
     "persian_text": "و قطعاً به موسی کتاب دادیم، پس در ملاقات با آن تردید مکن، و آن را برای بنی اسرائیل هدایت قرار دادیم.",
     "transliteration": "Wa laqad aataynaa Moosal Kitaaba falaa takun fee miryatim min liqaa'ihee wa ja'alnaahu hudal li-Baneee Israa'eel"

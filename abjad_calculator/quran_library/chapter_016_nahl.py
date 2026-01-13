@@ -513,7 +513,7 @@ ayats = [
   {
     "verse_number": 64,
     "english_text": "And We revealed the Book to you so that you explain their problems in which they dispute; and this Book is entirely guidance and mercy for the believers.",
-    "arabic_text": "وَ مَآ اَنزَلْنَا عَلَيْكَ الْكِتَـٰبَ اِلَّا لِتُبَيِّنَ لَهُمُ الَّذِى اخْتَلَفُواْ فِيهِ ۙ وَهُدًۭى وَرَحْمَةًۭ لِّقَوْمٍۢ يُؤْمِنُونَ",
+    "arabic_text": "وَ مَآ اَنزَلْنَا عَلَيْكَ الْكِتٰبَ اِلَّا لِتُبَيِّنَ لَهُمُ الَّذِى اخْتَلَفُواْ فِيهِ ۙ وَهُدًۭى وَرَحْمَةًۭ لِّقَوْمٍۢ يُؤْمِنُونَ",
     "urdu_text": "اور ہم نے تم پر کتاب صرف اس لیے نازل کی ہے کہ تم ان کے لیے وہ چیز واضح کر دو جس میں وہ اختلاف کرتے ہیں، اور یہ ایمان لانے والوں کے لیے ہدایت اور رحمت ہے۔",
     "persian_text": "و ما کتاب را بر تو جز برای این نازل نکردیم که آنچه را که در آن اختلاف می‌کنند برایشان بیان کنی، و این هدایت و رحمتی است برای قومی که ایمان می‌آورند.",
     "transliteration": "Wa maaa anzalnaa 'alaykal-kitaaba illaa litubayyina lahumul-ladhikh-talafoo feehi wa hudanw-wa rahmatal-liqawminy-yu'minoon"
@@ -713,7 +713,7 @@ ayats = [
   {
     "verse_number": 89,
     "english_text": "And (remember the day) when We will raise up in every people a witness from among them to testify against themselves, and (O Prophet), will make you witness against them, We revealed the Book on you and described everything in it, and for Muslims, this is guidance, mercy and glad tidings.",
-    "arabic_text": "وَيَوْمَ نَبْعَثُ فِى كُلِّ اُمَّةٍۢ شَهِيدًا عَلَيْهِم مِّنْ اَنفُسِهِمْ ۖ وَجِئْنَا بِكَ شَهِيدًا عَلَىٰ هَـٰٓؤُلَآءِ ۚ وَنَزَّلْنَا عَلَيْكَ الْكِتَـٰبَ تِبْيَـٰنًۭا لِّكُلِّ شَىْءٍۢ وَهُدًۭى وَرَحْمَةًۭ وَبُشْرَىٰ لِلْمُسْلِمِينَ",
+    "arabic_text": "وَيَوْمَ نَبْعَثُ فِى كُلِّ اُمَّةٍۢ شَهِيدًا عَلَيْهِم مِّنْ اَنفُسِهِمْ ۖ وَجِئْنَا بِكَ شَهِيدًا عَلَىٰ هَـٰٓؤُلَآءِ ۚ وَنَزَّلْنَا عَلَيْكَ الْكِتٰبَ تِبْيَـٰنًۭا لِّكُلِّ شَىْءٍۢ وَهُدًۭى وَرَحْمَةًۭ وَبُشْرَىٰ لِلْمُسْلِمِينَ",
     "urdu_text": "اور جس دن ہم ہر امت میں ان کے اپنے لوگوں میں سے ایک گواہ اٹھائیں گے، اور اے نبی! ہم آپ کو ان لوگوں پر گواہ بنائیں گے۔ اور ہم نے آپ پر کتاب نازل کی جو ہر چیز کی تفصیل ہے اور مسلمانوں کے لیے ہدایت، رحمت اور خوشخبری ہے۔",
     "persian_text": "و روزی که در هر امتی گواهی از خودشان برمی‌انگیزیم و تو را بر اینان گواه می‌آوریم، و کتاب را بر تو نازل کردیم که بیان هر چیزی و هدایت و رحمت و بشارت برای مسلمانان است.",
     "transliteration": "Wa yawma nab'athu fi kulli ummatin shahidan 'alayhim min anfusihim wa ji'na bika shahidan 'ala ha'ula'i wa nazzalna 'alaykal kitaba tibyanan likulli shay'in wa hudan wa rahmatan wa bushra lilmuslimin"

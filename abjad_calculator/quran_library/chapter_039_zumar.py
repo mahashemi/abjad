@@ -9,7 +9,7 @@ ayats = [
   {
     "verse_number": 1,
     "english_text": "This Book has been revealed by Allah, the Honorable, the Wise.",
-    "arabic_text": "تَنزِيلُ الْكِتَـٰبِ مِنَ اللَّهِ الْعَزِيزِ الْحَكِيمِ",
+    "arabic_text": "تَنزِيلُ الْكِتٰبِ مِنَ اللَّهِ الْعَزِيزِ الْحَكِيمِ",
     "urdu_text": "یہ کتاب اللہ کی طرف سے نازل کی گئی ہے جو غالب اور حکمت والا ہے۔",
     "persian_text": "این کتاب از جانب خداوند عزیز و حکیم نازل شده است.",
     "transliteration": "Tanzeelul-Kitaabi minal-laahil-'Azeezil-Hakeem"
@@ -17,7 +17,7 @@ ayats = [
   {
     "verse_number": 2,
     "english_text": "We have revealed this Book towards you with the Truth, and you worship Allah with all sincerity.",
-    "arabic_text": "اِنَّآ اَنزَلْنَآ اِلَيْكَ الْكِتَـٰبَ بِالْحَقِّ فَاعْبُدِ اللَّهَ مُخْلِصًۭا لَّهُ الدِّينَ",
+    "arabic_text": "اِنَّآ اَنزَلْنَآ اِلَيْكَ الْكِتٰبَ بِالْحَقِّ فَاعْبُدِ اللَّهَ مُخْلِصًۭا لَّهُ الدِّينَ",
     "urdu_text": "بیشک ہم نے آپ کی طرف یہ کتاب حق کے ساتھ نازل کی ہے، پس آپ اللہ کی عبادت کریں اس کے لیے دین کو خالص کرتے ہوئے۔",
     "persian_text": "ما این کتاب را به حق بر تو نازل کردیم، پس خدا را با اخلاص در دین عبادت کن.",
     "transliteration": "Innaa anzalnaaa ilaykal-Kitaaba bil-haqqi fa'budil-laaha mukhlisan lahud-deen"
@@ -185,7 +185,7 @@ ayats = [
   {
     "verse_number": 23,
     "english_text": "Allah has revealed the best words in the form of a Book, whose verses are similar to each other, and have been repeated, that their hairs are raised who have fear of Allah, then their bodies and hearts become soft for remembrance of Allah, this is the real guidance of Allah, He gives to whoever He pleases; and to whoever He leaves in misguidance, nobody can guide him.",
-    "arabic_text": "اللَّهُ نَزَّلَ اَحْسَنَ الْحَدِيثِ كِتَـٰبًۭا مُّتَشَـٰبِهًۭا مَّثَانِىَ تَقْشَعِرُّ مِنْهُ جُلُودُ الَّذِينَ يَخْشَوْنَ رَبَّهُمْ ثُمَّ تَلِينُ جُلُودُهُمْ وَقُلُوبُهُمْ اِلَىٰ ذِكْرِ اللَّهِ ۚ ذَٰلِكَ هُدَى اللَّهِ يَهْدِى بِهِ مَن يَشَآءُ ۚ وَمَن يُضْلِلِ اللَّهُ فَمَا لَهُ مِنْ هَادٍ",
+    "arabic_text": "اللَّهُ نَزَّلَ اَحْسَنَ الْحَدِيثِ كِتٰبًۭا مُّتَشَـٰبِهًۭا مَّثَانِىَ تَقْشَعِرُّ مِنْهُ جُلُودُ الَّذِينَ يَخْشَوْنَ رَبَّهُمْ ثُمَّ تَلِينُ جُلُودُهُمْ وَقُلُوبُهُمْ اِلَىٰ ذِكْرِ اللَّهِ ۚ ذَٰلِكَ هُدَى اللَّهِ يَهْدِى بِهِ مَن يَشَآءُ ۚ وَمَن يُضْلِلِ اللَّهُ فَمَا لَهُ مِنْ هَادٍ",
     "urdu_text": "اللہ نے بہترین کلام نازل فرمایا ہے، ایک ایسی کتاب جس کی آیات ایک دوسرے سے ملتی جلتی ہیں اور بار بار دہرائی گئی ہیں، جس سے ان لوگوں کے رونگٹے کھڑے ہو جاتے ہیں جو اپنے رب سے ڈرتے ہیں، پھر ان کے جسم اور دل اللہ کے ذکر کی طرف نرم ہو جاتے ہیں۔ یہ اللہ کی ہدایت ہے، وہ جسے چاہتا ہے ہدایت دیتا ہے، اور جسے اللہ گمراہ کر دے اس کا کوئی رہنما نہیں۔",
     "persian_text": "خداوند بهترین سخن را نازل کرده است، کتابی که آیاتش همانند یکدیگر و تکرار شونده است، که از آن پوست کسانی که از پروردگارشان می‌ترسند مور مور می‌شود، سپس پوست و دل‌هایشان به یاد خدا نرم می‌گردد. این هدایت خداست که هر که را بخواهد هدایت می‌کند، و هر که را خدا گمراه کند، هیچ راهنمایی برای او نیست.",
     "transliteration": "Allahu nazzala ahsana al-hadithi kitaban mutashabihan mathani taqsha'irru minhu juludu alladhina yakhshawna rabbahum thumma talinu juluduhum waqulubuhum ila dhikri Allahi dhalika huda Allahi yahdi bihi man yasha'u waman yudlili Allahu fama lahu min had"
@@ -329,7 +329,7 @@ ayats = [
   {
     "verse_number": 41,
     "english_text": "We have revealed this Book to you with the Truth for guidance of the people, whoever will take guidance will be for his own benefit, and who will go astray will harm himself; and you are not responsible for them.",
-    "arabic_text": "اِنَّآ اَنزَلْنَا عَلَيْكَ الْكِتَـٰبَ لِلنَّاسِ بِالْحَقِّ ۖ فَمَنِ اهْتَدَىٰ فَلِنَفْسِهِ ۖ وَمَن ضَلَّ فَاِنَّمَا يَضِلُّ عَلَيْهَا ۖ وَ مَآ اَنتَ عَلَيْهِم بِوَكِيلٍ",
+    "arabic_text": "اِنَّآ اَنزَلْنَا عَلَيْكَ الْكِتٰبَ لِلنَّاسِ بِالْحَقِّ ۖ فَمَنِ اهْتَدَىٰ فَلِنَفْسِهِ ۖ وَمَن ضَلَّ فَاِنَّمَا يَضِلُّ عَلَيْهَا ۖ وَ مَآ اَنتَ عَلَيْهِم بِوَكِيلٍ",
     "urdu_text": "بیشک ہم نے آپ پر یہ کتاب لوگوں کی ہدایت کے لیے حق کے ساتھ نازل کی ہے، پس جو ہدایت پائے گا تو اپنے ہی فائدے کے لیے، اور جو گمراہ ہو گا تو اپنے ہی نقصان کے لیے گمراہ ہوگا، اور آپ ان پر ذمہ دار نہیں ہیں۔",
     "persian_text": "ما این کتاب را با حق بر تو نازل کردیم برای هدایت مردم، پس هر کس هدایت یابد به سود خودش است، و هر کس گمراه شود تنها به زیان خود گمراه می‌شود، و تو بر آنان وکیل و نگهبان نیستی.",
     "transliteration": "Innaa anzalnaa 'alaykal-kitaaba lin-naasi bil-haqq, fa manih-tadaa falinafsihi, wa man dalla fa-innamaa yadillu 'alayhaa, wa maaa anta 'alayhim bi-wakeel"
@@ -553,7 +553,7 @@ ayats = [
   {
     "verse_number": 69,
     "english_text": "And earth will shine with the Light of Allah, and records of deeds will be kept, and messengers and martyrs will be brought; and judgement will be made among them with the Truth, and no unjust will be done on anyone.",
-    "arabic_text": "وَاَشْرَقَتِ الْاَرْضُ بِنُورِ رَبِّهَا وَوُضِعَ الْكِتَـٰبُ وَجِاْىٓءَ بِالنَّبِيِّـۧنَ وَالشُّهَدَآءِ وَقُضِىَ بَيْنَهُم بِالْحَقِّ وَهُمْ لَا يُظْلَمُونَ",
+    "arabic_text": "وَاَشْرَقَتِ الْاَرْضُ بِنُورِ رَبِّهَا وَوُضِعَ الْكِتٰبُ وَجِاْىٓءَ بِالنَّبِيِّـۧنَ وَالشُّهَدَآءِ وَقُضِىَ بَيْنَهُم بِالْحَقِّ وَهُمْ لَا يُظْلَمُونَ",
     "urdu_text": "اور زمین اپنے رب کے نور سے چمک اٹھے گی، اور اعمال کے دفتر رکھ دیے جائیں گے، اور نبیوں اور گواہوں کو لایا جائے گا، اور ان کے درمیان حق کے ساتھ فیصلہ کیا جائے گا، اور کسی پر ظلم نہیں کیا جائے گا۔",
     "persian_text": "و زمین به نور پروردگارش درخشان می‌شود، و نامه اعمال نهاده می‌شود، و پیامبران و شاهدان آورده می‌شوند، و میان آنان به حق داوری می‌شود و به آنان ستم نخواهد شد.",
     "transliteration": "Wa ashraqatil-ardu bi-noori rabbihaa wa wudi'al-kitaabu wa jee'a bin-nabiyyeena wash-shuhadaa'i wa qudiya baynahum bil-haqqi wa hum laa yuzlamoon"

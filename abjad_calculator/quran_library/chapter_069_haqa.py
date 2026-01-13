@@ -153,7 +153,7 @@ ayats = [
   {
     "verse_number": 19,
     "english_text": "Then he who will be given book of deeds in his right hand will say to all: just read my book of deeds.",
-    "arabic_text": "فَاَمَّا مَنْ اُوتِىَ كِتَـٰبَهُ بِيَمِينِهِ فَيَقُولُ هَآؤُمُ اقْرَءُواْ كِتَـٰبِيَهْ",
+    "arabic_text": "فَاَمَّا مَنْ اُوتِىَ كِتٰبَهُ بِيَمِينِهِ فَيَقُولُ هَآؤُمُ اقْرَءُواْ كِتٰبِيَهْ",
     "urdu_text": "پھر جس کو اس کا نامه اعمال دائیں هاتھ میں دیا جائے گا وه کهے گا: لو پڑھو میرا نامه اعمال۔",
     "persian_text": "پس آن کس که نامه‌اش به دست راستش داده شود، خواهد گفت: بیایید نامه مرا بخوانید.",
     "transliteration": "Fa-ammaa man ootiya kitaabahoo biyamee nihee fayaqoolu haaa'umuq-ra'oo kitaabiyah"
@@ -201,7 +201,7 @@ ayats = [
   {
     "verse_number": 25,
     "english_text": "But he who will be given the book of deeds in left hand, will say: I wish this book of deeds was not given to me.",
-    "arabic_text": "وَاَمَّا مَنْ اُوتِىَ كِتَـٰبَهُ بِشِمَالِهِ فَيَقُولُ يَـٰلَيْتَنِى لَمْ اُوتَ كِتَـٰبِيَهْ",
+    "arabic_text": "وَاَمَّا مَنْ اُوتِىَ كِتٰبَهُ بِشِمَالِهِ فَيَقُولُ يَـٰلَيْتَنِى لَمْ اُوتَ كِتٰبِيَهْ",
     "urdu_text": "اور جس کو اس کا نامه اعمال بائیں هاتھ میں دیا جائے گا تو وه کهے گا: کاش مجھے میرا نامه اعمال نه دیا جاتا۔",
     "persian_text": "و اما کسی که نامه‌اش به دست چپش داده شود، خواهد گفت: ای کاش نامه‌ام به من داده نمی‌شد.",
     "transliteration": "Wa ammaa man ootiya kitaabahu bishimaalihee fayaqoolu yaa laytanee lam oota kitaabiyah"

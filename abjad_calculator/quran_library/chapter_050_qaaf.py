@@ -33,7 +33,7 @@ ayats = [
   {
     "verse_number": 4,
     "english_text": "We know how earth diminishes their bodies, and we have a Secured Book.",
-    "arabic_text": "قَدْ عَلِمْنَا مَا تَنقُصُ الْاَرْضُ مِنْهُمْ ۖ وَعِندَنَا كِتَـٰبٌ حَفِيظٌۢ",
+    "arabic_text": "قَدْ عَلِمْنَا مَا تَنقُصُ الْاَرْضُ مِنْهُمْ ۖ وَعِندَنَا كِتٰبٌ حَفِيظٌۢ",
     "urdu_text": "هم جانتے هیں که زمین ان کے جسموں میں سے کیا کم کرتی هے، اور همارے پاس ایک محفوظ کتاب هے۔",
     "persian_text": "ما می‌دانیم که زمین چه چیزی از بدن‌هایشان می‌کاهد، و نزد ما کتابی نگهبان است.",
     "transliteration": "Qad 'alimnaa maa tanqusul-ardu minhum, wa 'indanaa kitaabun hafeez"

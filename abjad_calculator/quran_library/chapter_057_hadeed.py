@@ -129,7 +129,7 @@ ayats = [
   {
     "verse_number": 16,
     "english_text": "Has the time not come for the believers that their hearts are softened from the mention of Allah and about the Truth revealed from Him; and they should not be like those People of the Book who were given the book and their hearts were hardened after the passage of a period of time, and their majority became wicked.",
-    "arabic_text": "۞ اَلَمْ يَاْنِ لِلَّذِينَ ءَامَنُوٓاْ اَن تَخْشَعَ قُلُوبُهُمْ لِذِكْرِ اللَّهِ وَ مَا نَزَلَ مِنَ الْحَقِّ وَلَا يَكُونُواْ كَالَّذِينَ اُوتُواْ الْكِتَـٰبَ مِن قَبْلُ فَطَالَ عَلَيْهِمُ الْاَمَدُ فَقَسَتْ قُلُوبُهُمْ ۖ وَكَثِيرٌۭ مِّنْهُمْ فَـٰسِقُونَ",
+    "arabic_text": "۞ اَلَمْ يَاْنِ لِلَّذِينَ ءَامَنُوٓاْ اَن تَخْشَعَ قُلُوبُهُمْ لِذِكْرِ اللَّهِ وَ مَا نَزَلَ مِنَ الْحَقِّ وَلَا يَكُونُواْ كَالَّذِينَ اُوتُواْ الْكِتٰبَ مِن قَبْلُ فَطَالَ عَلَيْهِمُ الْاَمَدُ فَقَسَتْ قُلُوبُهُمْ ۖ وَكَثِيرٌۭ مِّنْهُمْ فَـٰسِقُونَ",
     "urdu_text": "کیا ایمان والوں کے لیے ابھی وه وقت نهیں آیا که ان کے دل الله کے ذکر اور اس حق کے لیے نرم هو جائیں جو اس کی طرف سے نازل هوا هے، اور وه ان لوگوں کی طرح نه هو جائیں جنهیں پهلے کتاب دی گئی تھی، پھر ان پر لمبا عرصه گزر گیا تو ان کے دل سخت هو گئے، اور ان میں سے اکثر نافرمان هیں۔",
     "persian_text": "آیا هنوز برای کسانی که ایمان آورده‌اند وقت آن نرسیده که دل‌هایشان از یاد خدا و آنچه از حق نازل شده خاشع گردد و مانند کسانی نباشند که پیش از این کتاب به آنان داده شد و زمان بر آنان دراز شد پس دل‌هایشان سخت گردید و بسیاری از آنان فاسق شدند.",
     "transliteration": "Alam ya'ni lilladheena aamanoo an takhsha'a quloobuhum lidhikril-laahi wa maa nazala minal-haqqi wa laa yakoonoo kalladheena ootul-kitaaba min qablu fa-taala 'alayhimul-amadu fa-qasat quloobuhum wa katheerum-minhum faasiqoon"
@@ -177,7 +177,7 @@ ayats = [
   {
     "verse_number": 22,
     "english_text": "If any calamity befalls on earth or befalls on yourself; so this has already been written in the Divine Book before the creation of yourself, and this is a very easy thing for Allah.",
-    "arabic_text": "مَآ اَصَابَ مِن مُّصِيبَةٍۢ فِى الْاَرْضِ وَلَا فِىٓ اَنفُسِكُمْ اِلَّا فِى كِتَـٰبٍۢ مِّن قَبْلِ اَن نَّبْرَاَهَآ ۚ اِنَّ ذَٰلِكَ عَلَى اللَّهِ يَسِيرٌۭ",
+    "arabic_text": "مَآ اَصَابَ مِن مُّصِيبَةٍۢ فِى الْاَرْضِ وَلَا فِىٓ اَنفُسِكُمْ اِلَّا فِى كِتٰبٍۢ مِّن قَبْلِ اَن نَّبْرَاَهَآ ۚ اِنَّ ذَٰلِكَ عَلَى اللَّهِ يَسِيرٌۭ",
     "urdu_text": "زمین میں یا تمهاری جانوں میں جو بھی مصیبت آتی هے، وه ایک کتاب میں لکھی هوئی هے اس سے پهلے که هم اسے پیدا کریں۔ بیشک یه الله کے لیے بهت آسان هے۔",
     "persian_text": "هیچ مصیبتی در زمین و نه در خودتان نمی‌رسد مگر آنکه در کتابی نوشته شده است پیش از آنکه آن را بیافرینیم. بی‌گمان این بر خدا آسان است.",
     "transliteration": "Mā aṣāba min muṣībatin fil-arḍi wa lā fī anfusikum illā fī kitābin min qabli an nabra'ahā, inna dhālika 'alallāhi yasīr"
@@ -201,7 +201,7 @@ ayats = [
   {
     "verse_number": 25,
     "english_text": "Verily, We have sent Our prophets with the clear signs and sent down with them the Book and the Balance that the people may stand forth in justice; and We have also sent down the iron in which there is material of mighty war and other benefits too; so that Allah may test who help Him and His prophet without seeing, and verily Allah is very Powerful and Honorable.",
-    "arabic_text": "لَقَدْ اَرْسَلْنَا رُسُلَنَا بِالْبَيِّنَـٰتِ وَاَنزَلْنَا مَعَهُمُ الْكِتَـٰبَ وَالْمِيزَانَ لِيَقُومَ النَّاسُ بِالْقِسْطِ ۖ وَاَنزَلْنَا الْحَدِيدَ فِيهِ بَاْسٌۭ شَدِيدٌۭ وَمَنَـٰفِعُ لِلنَّاسِ وَلِيَعْلَمَ اللَّهُ مَن يَنصُرُهُ وَرُسُلَهُ بِالْغَيْبِ ۚ اِنَّ اللَّهَ قَوِىٌّ عَزِيزٌۭ",
+    "arabic_text": "لَقَدْ اَرْسَلْنَا رُسُلَنَا بِالْبَيِّنَـٰتِ وَاَنزَلْنَا مَعَهُمُ الْكِتٰبَ وَالْمِيزَانَ لِيَقُومَ النَّاسُ بِالْقِسْطِ ۖ وَاَنزَلْنَا الْحَدِيدَ فِيهِ بَاْسٌۭ شَدِيدٌۭ وَمَنَـٰفِعُ لِلنَّاسِ وَلِيَعْلَمَ اللَّهُ مَن يَنصُرُهُ وَرُسُلَهُ بِالْغَيْبِ ۚ اِنَّ اللَّهَ قَوِىٌّ عَزِيزٌۭ",
     "urdu_text": "بیشک هم نے اپنے رسولوں کو واضح نشانیوں کے ساتھ بھیجا اور ان کے ساتھ کتاب اور میزان نازل کی تاکه لوگ انصاف پر قائم رهیں۔ اور هم نے لوها اتارا جس میں سخت جنگی قوت هے اور لوگوں کے لیے فائدے هیں، اور تاکه الله جان لے که کون بن دیکھے اس کی اور اس کے رسولوں کی مدد کرتا هے۔ بیشک الله طاقتور اور غالب هے۔",
     "persian_text": "به راستی ما پیامبران خود را با دلایل روشن فرستادیم و با آنان کتاب و میزان نازل کردیم تا مردم به عدالت قیام کنند. و آهن را نازل کردیم که در آن قدرت جنگی سخت و منافعی برای مردم است، و تا خدا بداند چه کسی او و پیامبرانش را بدون دیدن یاری می‌کند. بی‌گمان خداوند نیرومند و شکست‌ناپذیر است.",
     "transliteration": "Laqad arsalnā rusulanā bil-bayyināti wa anzalnā ma'ahumul-kitāba wal-mīzāna liyaqūman-nāsu bil-qisṭ, wa anzalnal-ḥadīda fīhi ba'sun shadīdun wa manāfi'u linnāsi wa liya'lamallāhu man yanṣuruhu wa rusulahu bil-ghayb, innallāha qawiyyun 'azīz"
@@ -209,7 +209,7 @@ ayats = [
   {
     "verse_number": 26,
     "english_text": "And We sent Nooh and Ibrahim and kept book and the prophethood among their descendants; so some of them were on guidance and many of them were transgressors and wicked ones.",
-    "arabic_text": "وَ لَقَدْ اَرْسَلْنَا نُوحًۭا وَاِبْرَٰهِيمَ وَجَعَلْنَا فِى ذُرِّيَّتِهِمَا النُّبُوَّةَ وَالْكِتَـٰبَ ۖ فَمِنْهُم مُّهْتَدٍۢ ۖ وَكَثِيرٌۭ مِّنْهُمْ فَـٰسِقُونَ",
+    "arabic_text": "وَ لَقَدْ اَرْسَلْنَا نُوحًۭا وَاِبْرَٰهِيمَ وَجَعَلْنَا فِى ذُرِّيَّتِهِمَا النُّبُوَّةَ وَالْكِتٰبَ ۖ فَمِنْهُم مُّهْتَدٍۢ ۖ وَكَثِيرٌۭ مِّنْهُمْ فَـٰسِقُونَ",
     "urdu_text": "اور بیشک هم نے نوح اور ابراهیم کو بھیجا اور ان کی اولاد میں نبوت اور کتاب رکھی۔ پس ان میں سے کچھ هدایت یافته هیں اور ان میں سے اکثر نافرمان اور بدکار هیں۔",
     "persian_text": "و به راستی نوح و ابراهیم را فرستادیم و در نسل آنان نبوت و کتاب قرار دادیم. پس برخی از آنان هدایت‌یافته بودند و بسیاری از آنان نافرمان و فاسق بودند.",
     "transliteration": "Wa laqad arsalnā nūḥan wa ibrāhīma wa ja'alnā fī dhurriyyatihi man-nubuwwata wal-kitāb, faminhum muhtad, wa kathīrun minhum fāsiqūn"
@@ -233,7 +233,7 @@ ayats = [
   {
     "verse_number": 29,
     "english_text": "That People of Book should know that they do not have any authority over the Grace of Allah, and all the Grace is in Allah's Hand only and He bestows upon whomever He pleases, and He is the Owner of the mighty Grace.",
-    "arabic_text": "لِّئَلَّا يَعْلَمَ اَهْلُ الْكِتَـٰبِ اَلَّا يَقْدِرُونَ عَلَىٰ شَىْءٍۢ مِّن فَضْلِ اللَّهِ ۙ وَاَنَّ الْفَضْلَ بِيَدِ اللَّهِ يُؤْتِيهِ مَن يَشَآءُ ۚ وَاللَّهُ ذُو الْفَضْلِ الْعَظِيمِ",
+    "arabic_text": "لِّئَلَّا يَعْلَمَ اَهْلُ الْكِتٰبِ اَلَّا يَقْدِرُونَ عَلَىٰ شَىْءٍۢ مِّن فَضْلِ اللَّهِ ۙ وَاَنَّ الْفَضْلَ بِيَدِ اللَّهِ يُؤْتِيهِ مَن يَشَآءُ ۚ وَاللَّهُ ذُو الْفَضْلِ الْعَظِيمِ",
     "urdu_text": "تاکه اهل کتاب جان لیں که وه الله کے فضل پر کوئی اختیار نهیں رکھتے، اور یه که فضل الله کے هاتھ میں هے، وه جسے چاهتا هے عطا فرماتا هے۔ اور الله بڑے فضل والا هے۔",
     "persian_text": "تا اهل کتاب بدانند که بر هیچ چیز از فضل خدا قدرت ندارند، و اینکه فضل در دست خداست و به هر که بخواهد می‌دهد. و خداوند دارای فضل بزرگ است.",
     "transliteration": "Li'allā ya'lama ahlul-kitābi allā yaqdirūna 'alā shay'in min faḍlillāh, wa annal-faḍla biyadillāhi yu'tīhi man yashā', wallāhu dhul-faḍlil-'aẓīm"

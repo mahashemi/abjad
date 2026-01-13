@@ -25,7 +25,7 @@ ayats = [
   {
     "verse_number": 3,
     "english_text": "Infidels say the Day of Judgment is not going to come, say: by Allah, it will Verily come, He has knowledge of the unseen, and no particle of sky and the earth is away from Him; nothing small or bigger than this but everything is present in this manifest Book.",
-    "arabic_text": "وَقَالَ الَّذِينَ كَفَرُواْ لَا تَاْتِينَا السَّاعَةُ ۖ قُلْ بَلَىٰ وَرَبِّى لَتَاْتِيَنَّكُمْ عَـٰلِمِ الْغَيْبِ ۖ لَا يَعْزُبُ عَنْهُ مِثْقَالُ ذَرَّةٍۢ فِى السَّمَـٰوَٰتِ وَلَا فِى الْاَرْضِ وَلَآ اَصْغَرُ مِن ذَٰلِكَ وَلَآ اَكْبَرُ اِلَّا فِى كِتَـٰبٍۢ مُّبِينٍۢ",
+    "arabic_text": "وَقَالَ الَّذِينَ كَفَرُواْ لَا تَاْتِينَا السَّاعَةُ ۖ قُلْ بَلَىٰ وَرَبِّى لَتَاْتِيَنَّكُمْ عَـٰلِمِ الْغَيْبِ ۖ لَا يَعْزُبُ عَنْهُ مِثْقَالُ ذَرَّةٍۢ فِى السَّمَـٰوَٰتِ وَلَا فِى الْاَرْضِ وَلَآ اَصْغَرُ مِن ذَٰلِكَ وَلَآ اَكْبَرُ اِلَّا فِى كِتٰبٍۢ مُّبِينٍۢ",
     "urdu_text": "اور کافروں نے کها که قیامت هم پر نهیں آئے گی، کهه دو که کیوں نهیں، میرے رب کی قسم! ضرور تم پر آئے گی، وه غیب کا جاننے والا هے، آسمانوں اور زمین میں ذره برابر بھی کوئی چیز اس سے پوشیده نهیں، نه اس سے چھوٹی اور نه بڑی، مگر سب کچھ کھلی کتاب میں موجود هے۔",
     "persian_text": "و کسانی که کافر شدند گفتند: قیامت بر ما نخواهد آمد. بگو: آری، به پروردگارم سوگند که حتماً بر شما خواهد آمد، او دانای غیب است، از او به وزن ذره‌ای در آسمان‌ها و زمین پنهان نیست، و نه کوچکتر از آن و نه بزرگتر، مگر اینکه در کتاب آشکار است.",
     "transliteration": "Wa qalal-lazina kafaru la ta'tinas-sa'atu qul bala wa rabbi lata'tiyannakum 'alimil-ghaybi la ya'zubu 'anhu mithqalu zarratin fis-samawati wa la fil-ardi wa la asgharu min zalika wa la akbaru illa fi kitabim-mubin"
