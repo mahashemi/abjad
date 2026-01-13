@@ -25,6 +25,8 @@ from typing import List, Dict, Any, Optional, Tuple, Set
 from pathlib import Path
 import logging
 from datetime import datetime
+import glob
+import importlib.util
 
 # Configure logging
 logging.basicConfig(
@@ -37,6 +39,7 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 
+BATCH_SIZE = 5
 
 class QuranTranslator:
     """
@@ -47,8 +50,8 @@ class QuranTranslator:
         self,
         input_json_path: str,
         output_dir: str,
-        progress_file: str = "translation_progress.json",
-        model_id: str = "us.anthropic.claude-sonnet-4-5-20250929-v1:0"
+        model_id: str = "us.anthropic.claude-sonnet-4-5-20250929-v1:0",
+        quran_library_path: Optional[str] = None
     ):
         """
         Initialize the Quran Translator.
@@ -56,13 +59,23 @@ class QuranTranslator:
         Args:
             input_json_path: Path to the bilingual Quran JSON file
             output_dir: Directory to save translated chapters
-            progress_file: Path to progress tracking file
             model_id: Bedrock model ID to use
+            quran_library_path: Path to quran_library directory. If None, will auto-detect
+                               relative to input_json_path (../../quran_library)
         """
         self.input_json_path = input_json_path
         self.output_dir = output_dir
-        self.progress_file = progress_file
         self.model_id = model_id
+        
+        # Determine quran_library path
+        if quran_library_path:
+            self.quran_library_path = str(Path(quran_library_path).resolve())
+        else:
+            # Auto-detect: quran_library is at ../../quran_library relative to input JSON
+            json_path = Path(input_json_path).resolve()
+            self.quran_library_path = str(json_path.parent.parent.parent / 'quran_library')
+        
+        logger.info(f"Quran library path: {self.quran_library_path}")
         
         # Initialize Bedrock client with extended timeout for large responses
         try:
@@ -70,7 +83,7 @@ class QuranTranslator:
             config = Config(
                 read_timeout=1800,  # 30 minutes in seconds
                 connect_timeout=60,  # 1 minute for initial connection
-                retries={'max_attempts': 0}  # We handle retries manually
+                retries={'max_attempts': 3}  # We handle retries manually
             )
             self.bedrock_client = boto3.client('bedrock-runtime', config=config)
             logger.info("Bedrock client initialized successfully (read timeout: 30 minutes)")
@@ -87,9 +100,6 @@ class QuranTranslator:
         Path(self.interim_dir).mkdir(parents=True, exist_ok=True)
         logger.info(f"Interim batches directory: {self.interim_dir}")
         
-        # Load or initialize progress
-        self.progress = self._load_progress()
-        
         # System prompt for translation
         self.system_prompt = """You are an expert translator from Arabic/English to Urdu/Persian/Transliteration. 
 
@@ -97,51 +107,123 @@ Your task is to translate Quran verses according to these guidelines:
 1. Translate from both Arabic and English to simple, clear Urdu
 2. Translate from both Arabic and English to modern, readable Persian (Farsi)
 3. Provide accurate Arabic transliteration (Romanization)
-4. Return ONLY a valid JSON array - no additional text or explanations
+4. Return ONLY a valid JSON array - no additional text, explanations, or markdown
 5. Preserve the exact original values for verse_number, arabic_text, and english_text
 6. Ensure translations are respectful, accurate, and maintain the spiritual meaning
+7. CRITICAL: Return valid JSON only - no trailing commas, proper escaping, proper quotes
 
-The output MUST be a valid JSON array with this exact structure:
+OUTPUT SCHEMA:
+You MUST return a JSON array matching this exact schema:
+
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": ["verse_number", "arabic_text", "english_text", "urdu_text", "persian_text", "transliteration"],
+    "properties": {
+      "verse_number": {
+        "type": "integer",
+        "description": "Exact original verse number (do not modify)"
+      },
+      "arabic_text": {
+        "type": "string",
+        "description": "Exact original Arabic text (do not modify)"
+      },
+      "english_text": {
+        "type": "string",
+        "description": "Exact original English text (do not modify)"
+      },
+      "urdu_text": {
+        "type": "string",
+        "description": "Translation to simple, clear Urdu from given English+Arabic"
+      },
+      "persian_text": {
+        "type": "string",
+        "description": "Translation to modern, readable Persian (Farsi) from given English+Arabic"
+      },
+      "transliteration": {
+        "type": "string",
+        "description": "Arabic text romanization/transliteration"
+      }
+    },
+    "additionalProperties": false
+  }
+}
+
+EXAMPLE OUTPUT FORMAT:
 [
   {
-    "verse_number": <return exact original>,
-    "arabic_text": "<return exact original>",
-    "english_text": "<return exact original>",
-    "urdu_text": "<translated from arabic + english to simple urdu>",
-    "persian_text": "<translated from arabic + english to modern reading persian>",
-    "transliteration": "<the transliteration from Arabic>"
-  }
-]"""
+    "verse_number": 1,
+    "arabic_text": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+    "english_text": "In the name of Allah, the Most Gracious, the Most Merciful",
+    "urdu_text": "اللہ کے نام سے جو بڑا مہربان نہایت رحم والا ہے",
+    "persian_text": "به نام خداوند بخشنده مهربان",
+    "transliteration": "Bismillah ir-Rahman ir-Rahim"
+  },
+  ...
+]
+
+Remember: Return ONLY the JSON array with no additional text before or after it."""
     
-    def _load_progress(self) -> Dict[str, Any]:
-        """Load progress from file or initialize new progress."""
-        if os.path.exists(self.progress_file):
-            try:
-                with open(self.progress_file, 'r', encoding='utf-8') as f:
-                    progress = json.load(f)
-                logger.info(f"Loaded progress from {self.progress_file}")
-                return progress
-            except Exception as e:
-                logger.warning(f"Could not load progress file: {e}. Starting fresh.")
+    def _get_completed_verses_from_interim(self, chapter_number: int) -> Set[int]:
+        """
+        Scan interim batch files to find which verses have already been translated.
         
-        return {
-            "last_completed_chapter": 0,
-            "last_completed_batch_in_chapter": 0,
-            "chapters_completed": [],
-            "total_verses_processed": 0,
-            "start_time": datetime.now().isoformat(),
-            "last_update": datetime.now().isoformat()
-        }
-    
-    def _save_progress(self):
-        """Save current progress to file."""
-        self.progress["last_update"] = datetime.now().isoformat()
+        Args:
+            chapter_number: Chapter number
+            
+        Returns:
+            Set of verse numbers that have been completed
+        """
+        completed_verses = set()
+        
         try:
-            with open(self.progress_file, 'w', encoding='utf-8') as f:
-                json.dump(self.progress, f, indent=2, ensure_ascii=False)
-            logger.debug("Progress saved")
+            for filename in os.listdir(self.interim_dir):
+                if filename.startswith(f"chapter_{chapter_number:03d}_batch_") and filename.endswith('.json'):
+                    filepath = os.path.join(self.interim_dir, filename)
+                    with open(filepath, 'r', encoding='utf-8') as f:
+                        verses = json.load(f)
+                    
+                    for verse in verses:
+                        if 'verse_number' in verse:
+                            completed_verses.add(verse['verse_number'])
+            
+            if completed_verses:
+                logger.info(f"Found {len(completed_verses)} already translated verses for chapter {chapter_number}")
+                logger.debug(f"Completed verses: {sorted(completed_verses)}")
         except Exception as e:
-            logger.error(f"Failed to save progress: {e}")
+            logger.warning(f"Failed to scan interim batches: {e}")
+        
+        return completed_verses
+    
+    def _get_completed_chapters(self) -> Set[int]:
+        """
+        Get list of chapters that have been fully completed (have output files).
+        
+        Returns:
+            Set of completed chapter numbers
+        """
+        completed = set()
+        
+        try:
+            for filename in os.listdir(self.output_dir):
+                if filename.startswith('chapter_') and filename.endswith('.py'):
+                    # Extract chapter number from filename like "chapter_002_baqara.py"
+                    parts = filename.split('_')
+                    if len(parts) >= 2:
+                        try:
+                            chapter_num = int(parts[1])
+                            completed.add(chapter_num)
+                        except ValueError:
+                            pass
+            
+            if completed:
+                logger.info(f"Found {len(completed)} completed chapters: {sorted(completed)}")
+        except Exception as e:
+            logger.warning(f"Failed to scan for completed chapters: {e}")
+        
+        return completed
     
     def _load_quran_data(self) -> Dict[str, Any]:
         """Load the bilingual Quran JSON file."""
@@ -154,6 +236,50 @@ The output MUST be a valid JSON array with this exact structure:
             logger.error(f"Failed to load Quran data: {e}")
             raise
     
+    def _load_arabic_from_library(self, chapter_number: int) -> Dict[int, str]:
+        """
+        Load Arabic text from quran_library for a chapter.
+        
+        Args:
+            chapter_number: Chapter number to load
+            
+        Returns:
+            Dictionary mapping verse_number to arabic_text
+        """
+        try:
+            # Find the matching file for this chapter
+            pattern = f"{self.quran_library_path}/chapter_{chapter_number:03d}_*.py"
+            matches = glob.glob(pattern)
+            
+            if not matches:
+                logger.warning(f"No quran_library file found for chapter {chapter_number}, using JSON arabic text")
+                return {}
+            
+            chapter_file = matches[0]
+            logger.debug(f"Loading Arabic text from: {chapter_file}")
+            
+            # Load the module dynamically
+            spec = importlib.util.spec_from_file_location("chapter_module", chapter_file)
+            module = importlib.util.module_from_spec(spec)
+            spec.loader.exec_module(module)
+            
+            # Extract arabic_text by verse_number (convert to int for consistent comparison)
+            arabic_dict = {}
+            for ayat in module.ayats:
+                verse_num = ayat['verse_number']
+                # Convert to int if it's a string
+                if isinstance(verse_num, str):
+                    verse_num = int(verse_num)
+                arabic_dict[verse_num] = ayat['arabic_text']
+            
+            logger.info(f"Loaded {len(arabic_dict)} verses' Arabic text from quran_library for chapter {chapter_number}")
+            return arabic_dict
+            
+        except Exception as e:
+            logger.warning(f"Failed to load Arabic text from quran_library for chapter {chapter_number}: {e}")
+            logger.warning("Will use Arabic text from JSON file instead")
+            return {}
+    
     def _create_translation_prompt(self, verses: List[Dict[str, Any]]) -> str:
         """
         Create the translation prompt for a batch of verses.
@@ -164,7 +290,9 @@ The output MUST be a valid JSON array with this exact structure:
         Returns:
             Formatted prompt string
         """
+        
         verses_json = json.dumps(verses, ensure_ascii=False, indent=2)
+        logging.info(f"Loaded {len(verses)} verses, char len {len(verses_json)}")
         
         prompt = f"""Please translate the following Quran verses. Return ONLY a valid JSON array with no additional text.
 
@@ -217,7 +345,7 @@ Remember:
                     system=[{"text": self.system_prompt}],
                     inferenceConfig={
                         "temperature": 0.1,
-                        "maxTokens": 8192*2
+                        "maxTokens": 24000
                     }
                 )
                 
@@ -291,7 +419,8 @@ Remember:
         translated_verses: List[Dict[str, Any]]
     ) -> List[Dict[str, Any]]:
         """
-        Update original verses with translations (only add new fields).
+        Update original verses with translations by matching on verse_number.
+        CRITICAL: Matches by verse_number to ensure correct pairing, not by position.
         
         Args:
             original_verses: Original verse dictionaries
@@ -300,78 +429,89 @@ Remember:
         Returns:
             Updated verse dictionaries
         """
+        # Create a mapping of verse_number to translated data for safe matching
+        trans_by_verse = {v['verse_number']: v for v in translated_verses}
+        
         updated_verses = []
         
-        for orig, trans in zip(original_verses, translated_verses):
+        for orig in original_verses:
             # Start with original verse (preserves all original data)
             updated = orig.copy()
             
-            # Add only the new translation fields
-            if 'urdu_text' in trans:
-                updated['urdu_text'] = trans['urdu_text']
-            if 'persian_text' in trans:
-                updated['persian_text'] = trans['persian_text']
-            if 'transliteration' in trans:
-                updated['transliteration'] = trans['transliteration']
+            verse_num = orig['verse_number']
+            
+            # Find matching translation by verse_number (not by position!)
+            if verse_num in trans_by_verse:
+                trans = trans_by_verse[verse_num]
+                
+                # Add only the new translation fields
+                if 'urdu_text' in trans:
+                    updated['urdu_text'] = trans['urdu_text']
+                if 'persian_text' in trans:
+                    updated['persian_text'] = trans['persian_text']
+                if 'transliteration' in trans:
+                    updated['transliteration'] = trans['transliteration']
+            else:
+                logger.warning(f"No translation found for verse {verse_num}")
             
             updated_verses.append(updated)
         
         return updated_verses
     
-    def _save_batch(self, chapter_number: int, batch_idx: int, verses: List[Dict[str, Any]]):
+    def _save_batch(self, chapter_number: int, verse_numbers: List[int], verses: List[Dict[str, Any]]):
         """
         Save a batch of translated verses to interim storage.
+        Uses verse numbers to create unique batch filename.
         
         Args:
             chapter_number: Chapter number
-            batch_idx: Batch index
+            verse_numbers: List of verse numbers in this batch
             verses: List of translated verse dictionaries
         """
-        batch_filename = f"chapter_{chapter_number:03d}_batch_{batch_idx:04d}.json"
+        # Create filename based on verse range for better clarity
+        min_verse = min(verse_numbers)
+        max_verse = max(verse_numbers)
+        batch_filename = f"chapter_{chapter_number:03d}_batch_v{min_verse:04d}_v{max_verse:04d}.json"
         batch_filepath = os.path.join(self.interim_dir, batch_filename)
         
         try:
             with open(batch_filepath, 'w', encoding='utf-8') as f:
                 json.dump(verses, f, indent=2, ensure_ascii=False)
-            logger.debug(f"Saved batch {batch_idx} to interim storage: {batch_filename}")
+            logger.debug(f"Saved batch verses {min_verse}-{max_verse} to interim storage: {batch_filename}")
         except Exception as e:
             logger.error(f"Failed to save batch to interim storage: {e}")
             # Non-critical - log but don't raise
     
-    def _load_interim_batches(self, chapter_number: int, total_verses: int) -> Dict[int, List[Dict[str, Any]]]:
+    def _load_completed_verses_from_interim(self, chapter_number: int) -> Dict[int, Dict[str, Any]]:
         """
-        Load any existing interim batches for a chapter.
+        Load all completed verses from interim batches for a chapter.
         
         Args:
             chapter_number: Chapter number
-            total_verses: Total number of verses in chapter
             
         Returns:
-            Dictionary mapping batch_idx to list of verses
+            Dictionary mapping verse_number to verse data
         """
-        batches = {}
-        pattern = f"chapter_{chapter_number:03d}_batch_*.json"
+        completed_verses = {}
         
         try:
             for filename in os.listdir(self.interim_dir):
                 if filename.startswith(f"chapter_{chapter_number:03d}_batch_") and filename.endswith('.json'):
-                    # Extract batch index from filename
-                    batch_idx_str = filename.replace(f"chapter_{chapter_number:03d}_batch_", "").replace(".json", "")
-                    batch_idx = int(batch_idx_str)
-                    
                     filepath = os.path.join(self.interim_dir, filename)
                     with open(filepath, 'r', encoding='utf-8') as f:
                         verses = json.load(f)
                     
-                    batches[batch_idx] = verses
-                    logger.debug(f"Loaded interim batch {batch_idx} with {len(verses)} verses")
+                    for verse in verses:
+                        verse_num = verse.get('verse_number')
+                        if verse_num is not None:
+                            completed_verses[verse_num] = verse
             
-            if batches:
-                logger.info(f"Loaded {len(batches)} interim batches for chapter {chapter_number}")
+            if completed_verses:
+                logger.info(f"Loaded {len(completed_verses)} completed verses from interim storage for chapter {chapter_number}")
         except Exception as e:
             logger.warning(f"Failed to load interim batches: {e}")
         
-        return batches
+        return completed_verses
     
     def _clear_interim_batches(self, chapter_number: int):
         """
@@ -449,34 +589,54 @@ Remember:
         
         logger.info(f"Starting chapter {chapter_number}: {chapter_name} ({total_verses} verses)")
         
-        # Load any existing interim batches
-        interim_batches = self._load_interim_batches(chapter_number, total_verses)
+        # Load Arabic text from quran_library
+        arabic_from_library = self._load_arabic_from_library(chapter_number)
         
-        # Determine starting batch based on progress
-        start_batch = 0
-        if self.progress.get('last_completed_chapter') == chapter_number:
-            start_batch = self.progress.get('last_completed_batch_in_chapter', 0) + 1
-            logger.info(f"Resuming from batch {start_batch}")
+        # Replace Arabic text in verses if available from library
+        verses_with_library_arabic = []
+        for verse in verses:
+            verse_copy = verse.copy()
+            verse_num = verse['verse_number']
+            if verse_num in arabic_from_library:
+                verse_copy['arabic_text'] = arabic_from_library[verse_num]
+                logger.debug(f"Using Arabic text from library for verse {verse_num}")
+            verses_with_library_arabic.append(verse_copy)
         
-        # Process verses in batches
+        # Use verses with library Arabic text for processing
+        verses = verses_with_library_arabic
+        
+        # Load already completed verses from interim storage
+        completed_verses_dict = self._load_completed_verses_from_interim(chapter_number)
+        completed_verse_numbers = set(completed_verses_dict.keys())
+        
+        # Create a mapping of verse_number to verse for easy lookup
+        verse_by_number = {v['verse_number']: v for v in verses}
+        
+        # Start with original verses, then update with completed ones
         updated_verses = verses.copy()
+        for i, verse in enumerate(updated_verses):
+            verse_num = verse['verse_number']
+            if verse_num in completed_verses_dict:
+                updated_verses[i] = completed_verses_dict[verse_num]
+                logger.debug(f"Restored completed verse {verse_num} from interim storage")
         
-        # First, restore any existing interim batches
-        for batch_idx, batch_verses in interim_batches.items():
-            start_idx = batch_idx * batch_size
-            for i, verse in enumerate(batch_verses):
-                if start_idx + i < len(updated_verses):
-                    updated_verses[start_idx + i] = verse
-            logger.info(f"Restored batch {batch_idx} from interim storage")
+        # Identify verses that still need translation
+        verses_to_translate = [v for v in verses if v['verse_number'] not in completed_verse_numbers]
         
-        for batch_idx in range(start_batch, (total_verses + batch_size - 1) // batch_size):
-            start_idx = batch_idx * batch_size
-            end_idx = min(start_idx + batch_size, total_verses)
-            batch_verses = verses[start_idx:end_idx]
+        if not verses_to_translate:
+            logger.info(f"All verses for chapter {chapter_number} already translated!")
+        else:
+            logger.info(f"Need to translate {len(verses_to_translate)} verses (out of {total_verses})")
+        
+        # Process remaining verses in batches
+        for batch_idx in range(0, len(verses_to_translate), batch_size):
+            batch_verses = verses_to_translate[batch_idx:batch_idx + batch_size]
+            batch_verse_numbers = [v['verse_number'] for v in batch_verses]
             
             logger.info(
-                f"Processing chapter {chapter_number}, batch {batch_idx + 1}, "
-                f"verses {start_idx + 1}-{end_idx} of {total_verses}"
+                f"Processing chapter {chapter_number}, batch {batch_idx // batch_size + 1}, "
+                f"verses {batch_verse_numbers[0]}-{batch_verse_numbers[-1]} "
+                f"({len(verses_to_translate) - batch_idx - len(batch_verses)} remaining)"
             )
             
             try:
@@ -498,27 +658,26 @@ Remember:
                 # Update verses with translations
                 updated_batch = self._update_verses_with_translations(batch_verses, translated_batch)
                 
-                # Update the verses list
-                for i, updated_verse in enumerate(updated_batch):
-                    updated_verses[start_idx + i] = updated_verse
+                # Update the verses list by matching verse numbers
+                for updated_verse in updated_batch:
+                    verse_num = updated_verse['verse_number']
+                    # Find and update the verse in updated_verses list
+                    for i, v in enumerate(updated_verses):
+                        if v['verse_number'] == verse_num:
+                            updated_verses[i] = updated_verse
+                            break
                 
                 # Save batch to interim storage
-                self._save_batch(chapter_number, batch_idx, updated_batch)
+                self._save_batch(chapter_number, batch_verse_numbers, updated_batch)
                 
-                # Update progress
-                self.progress['last_completed_chapter'] = chapter_number
-                self.progress['last_completed_batch_in_chapter'] = batch_idx
-                self.progress['total_verses_processed'] += len(batch_verses)
-                self._save_progress()
-                
-                logger.info(f"Batch {batch_idx + 1} completed successfully")
+                logger.info(f"Batch completed successfully - translated verses {batch_verse_numbers[0]}-{batch_verse_numbers[-1]}")
                 
                 # Small delay to avoid rate limiting
                 time.sleep(1)
                 
             except Exception as e:
-                logger.error(f"Failed to process batch {batch_idx + 1}: {e}")
-                logger.error("Progress saved. You can resume by running the script again.")
+                logger.error(f"Failed to process batch with verses {batch_verse_numbers[0]}-{batch_verse_numbers[-1]}: {e}")
+                logger.error("Interim batches saved. You can resume by running the script again.")
                 raise
         
         # Update chapter data with translated verses
@@ -528,13 +687,14 @@ Remember:
         logger.info(f"Completed chapter {chapter_number}: {chapter_name}")
         return updated_chapter
     
-    def translate_all_chapters(self, chapters_to_process: Optional[Set[int]] = None):
+    def translate_all_chapters(self, chapters_to_process: Optional[Set[int]] = None, batch_size: int = 5):
         """
         Main method to translate all chapters in the Quran.
         
         Args:
             chapters_to_process: Optional set of specific chapter numbers to process.
                                 If None, processes all chapters.
+            batch_size: Number of verses to process in one batch (default: 5)
         """
         logger.info("=" * 80)
         logger.info("Starting Quran Translation")
@@ -556,10 +716,10 @@ Remember:
             logger.info(f"Chapters to process: {sorted(chapters_to_process)}")
             logger.info(f"Total chapters to process: {len(chapters_to_process)}")
         
-        # Determine starting chapter
-        start_chapter_num = self.progress.get('last_completed_chapter', 0)
-        if start_chapter_num in self.progress.get('chapters_completed', []):
-            start_chapter_num += 1
+        logger.info(f"Batch size: {batch_size} verses per batch")
+        
+        # Get list of already completed chapters
+        completed_chapters = self._get_completed_chapters()
         
         # Process each chapter
         for chapter_key in chapter_keys:
@@ -571,24 +731,17 @@ Remember:
                 logger.debug(f"Skipping chapter {chapter_number} (not in target list)")
                 continue
             
-            # Skip if already completed
-            if chapter_number in self.progress.get('chapters_completed', []):
+            # Skip if already completed (has output file)
+            if chapter_number in completed_chapters:
                 logger.info(f"Skipping chapter {chapter_number} (already completed)")
                 continue
             
             try:
                 # Translate chapter
-                updated_chapter = self.translate_chapter(chapter_key, chapter_data)
+                updated_chapter = self.translate_chapter(chapter_key, chapter_data, batch_size=batch_size)
                 
                 # Save chapter
                 self._save_chapter(chapter_key, updated_chapter)
-                
-                # Mark chapter as completed
-                if 'chapters_completed' not in self.progress:
-                    self.progress['chapters_completed'] = []
-                self.progress['chapters_completed'].append(chapter_number)
-                self.progress['last_completed_batch_in_chapter'] = 0
-                self._save_progress()
                 
                 logger.info(f"Chapter {chapter_number} completed and saved")
                 
@@ -597,10 +750,12 @@ Remember:
                 logger.error("Translation stopped. Progress saved. Run again to resume.")
                 return
         
+        # Count final results
+        final_completed = self._get_completed_chapters()
         logger.info("=" * 80)
         logger.info("Translation Complete!")
-        logger.info(f"Total verses processed: {self.progress['total_verses_processed']}")
-        logger.info(f"Total chapters completed: {len(self.progress['chapters_completed'])}")
+        logger.info(f"Total chapters completed: {len(final_completed)}")
+        logger.info(f"Completed chapters: {sorted(final_completed)}")
         logger.info("=" * 80)
 
 
@@ -643,7 +798,6 @@ def main():
     # Configuration
     INPUT_JSON = "/home/sazmham/personal_apps/abjad/abjad_calculator/apps/dad_english_quran_converter/quran_bilingual.json"
     OUTPUT_DIR = "/home/sazmham/personal_apps/abjad/abjad_calculator/apps/dad_english_quran_converter/translated_chapters"
-    PROGRESS_FILE = "/home/sazmham/personal_apps/abjad/abjad_calculator/apps/dad_english_quran_converter/translation_progress.json"
     
     # Parse command-line arguments
     parser = argparse.ArgumentParser(
@@ -701,10 +855,10 @@ Examples:
     )
     
     parser.add_argument(
-        '--progress',
-        type=str,
-        default=PROGRESS_FILE,
-        help=f'Progress tracking file (default: {PROGRESS_FILE})'
+        '--batch-size',
+        type=int,
+        default=5,
+        help=f'Number of verses to process in one batch (default: 5)'
     )
     
     args = parser.parse_args()
@@ -734,11 +888,10 @@ Examples:
     try:
         translator = QuranTranslator(
             input_json_path=args.input,
-            output_dir=args.output,
-            progress_file=args.progress
+            output_dir=args.output
         )
         
-        translator.translate_all_chapters(chapters_to_process)
+        translator.translate_all_chapters(chapters_to_process, batch_size=args.batch_size)
         
     except KeyboardInterrupt:
         logger.info("\nTranslation interrupted by user. Progress has been saved.")

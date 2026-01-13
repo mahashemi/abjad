@@ -1,0 +1,377 @@
+"""
+Chapter 79: naziaat
+Arabic: النازعات
+Total Verses: 46
+Generated: 2026-01-14T04:30:12.913541
+"""
+
+ayats = [
+  {
+    "verse_number": 1,
+    "english_text": "I swear by (the angels) who will drown and pull the soul (of the infidels) with difficulty.",
+    "arabic_text": "وَالنّٰزِعٰتِ غَرْقًا",
+    "urdu_text": "قسم ہے ان (فرشتوں) کی جو (کافروں کی روحوں کو) سختی سے کھینچ کر نکالتے ہیں",
+    "persian_text": "سوگند به (فرشتگانی) که جان (کافران) را با سختی و غرق شدن بیرون می‌کشند",
+    "transliteration": "Wan-naazi'aati gharqaa"
+  },
+  {
+    "verse_number": 2,
+    "english_text": "And I swear by (the angels) who will pull (the soul) of the believers with ease.",
+    "arabic_text": "وَّ النّٰشِطٰتِ نَشْطًا",
+    "urdu_text": "اور قسم ہے ان (فرشتوں) کی جو (مومنوں کی روحوں کو) آسانی سے نکالتے ہیں",
+    "persian_text": "و سوگند به (فرشتگانی) که جان (مؤمنان) را با آسانی و نرمی بیرون می‌آورند",
+    "transliteration": "Wan-naashitaati nashtaa"
+  },
+  {
+    "verse_number": 3,
+    "english_text": "And I swear by those who float (between the skies).",
+    "arabic_text": "وَّ السّٰبِحٰتِ سَبْحًا",
+    "urdu_text": "اور قسم ہے ان کی جو (آسمانوں میں) تیرتے ہیں",
+    "persian_text": "و سوگند به آنان که (در آسمان‌ها) شناورند",
+    "transliteration": "Was-saabihati sabha"
+  },
+  {
+    "verse_number": 4,
+    "english_text": "Then there are those who go ahead at high speed.",
+    "arabic_text": "فَالسّٰبِقٰتِ سَبْقًا",
+    "urdu_text": "پھر وہ جو تیزی سے آگے بڑھتے ہیں",
+    "persian_text": "پس آنان که با سرعت پیشی می‌گیرند",
+    "transliteration": "Fas-saabiqaati sabqaa"
+  },
+  {
+    "verse_number": 5,
+    "english_text": "Then those who regulate the affairs.",
+    "arabic_text": "فَالْمُدَبِّرٰتِ اَمْرًا",
+    "urdu_text": "پھر وہ جو (اللہ کے حکم سے) کاموں کی تدبیر کرتے ہیں",
+    "persian_text": "پس آنان که کارها را (به فرمان خدا) تدبیر می‌کنند",
+    "transliteration": "Fal-mudabbirraati amraa"
+  },
+  {
+    "verse_number": 6,
+    "english_text": "The day on which earth will be made to shake by a jerk.",
+    "arabic_text": "يَوْمَ تَرْجُفُ الرَّاجِفَةُ",
+    "urdu_text": "جس دن زمین سخت جھٹکے سے کانپ اٹھے گی",
+    "persian_text": "روزی که زمین به شدت به لرزه در می‌آید",
+    "transliteration": "Yawma tarjufu ar-rajifah"
+  },
+  {
+    "verse_number": 7,
+    "english_text": "Then there will be a second jerk.",
+    "arabic_text": "تَتْبَعُهَا الرَّادِفَةُ",
+    "urdu_text": "پھر اس کے پیچھے دوسرا جھٹکا آئے گا",
+    "persian_text": "سپس تکان دوم آن را دنبال می‌کند",
+    "transliteration": "Tatba'uha ar-radifah"
+  },
+  {
+    "verse_number": 8,
+    "english_text": "That day hearts will tremble.",
+    "arabic_text": "قُلُوبٌ يَوْمَئِذٍ وَّاجِفَةٌ",
+    "urdu_text": "اس دن دل خوف سے کانپ رہے ہوں گے",
+    "persian_text": "در آن روز دل‌ها از ترس می‌لرزند",
+    "transliteration": "Qulubun yawma'idhin wajifah"
+  },
+  {
+    "verse_number": 9,
+    "english_text": "Eyes will be cast down with fear.",
+    "arabic_text": "اَبْصَـارُهَا خَـاشِعَةٌۭ",
+    "urdu_text": "ان کی نگاہیں خوف سے جھکی ہوئی ہوں گی",
+    "persian_text": "چشمان آنها از ترس فروافتاده خواهد بود",
+    "transliteration": "Absaruha khashi'ah"
+  },
+  {
+    "verse_number": 10,
+    "english_text": "These infidels say, will we be sent into this world again?",
+    "arabic_text": "يَقُولُونَ اَءِنَّا لَمَرْدُودُونَ فِى الْحَافِرَةِ",
+    "urdu_text": "یہ کافر کہتے ہیں کیا ہم واقعی پہلی حالت میں لوٹائے جائیں گے",
+    "persian_text": "این کافران می‌گویند آیا ما به زندگی نخستین باز خواهیم گشت",
+    "transliteration": "Yaquluna a'inna lamarduduna fil-hafirah"
+  },
+  {
+    "verse_number": 11,
+    "english_text": "Even though we have become hollow bones?",
+    "arabic_text": "ءَاِذَا كُنَّا عِظَـامًا نَّخِرَةً",
+    "urdu_text": "کیا جب ہم بوسیدہ ہڈیاں ہو جائیں گے؟",
+    "persian_text": "آیا وقتی که ما استخوان‌های پوسیده شده‌ایم؟",
+    "transliteration": "A-idha kunna 'idhaman nakhirah"
+  },
+  {
+    "verse_number": 12,
+    "english_text": "This return will be of a great loss.",
+    "arabic_text": "قَالُواْ تِلْكَ اِذًا كَرَّةٌ خَاسِرَةً",
+    "urdu_text": "انہوں نے کہا یہ تو پھر نقصان کی واپسی ہوگی",
+    "persian_text": "گفتند پس این بازگشتی زیان‌بار خواهد بود",
+    "transliteration": "Qalu tilka idhan karratun khasirah"
+  },
+  {
+    "verse_number": 13,
+    "english_text": "This Day of Judgement will be just a scream.",
+    "arabic_text": "فَاِنَّمَا هِىَ زَجْرَةٌ وَاحِدَةً",
+    "urdu_text": "تو وہ صرف ایک زور کی آواز ہوگی",
+    "persian_text": "پس تنها یک فریاد است",
+    "transliteration": "Fa-innama hiya zajratun wahidah"
+  },
+  {
+    "verse_number": 14,
+    "english_text": "Thereafter everyone will be seen in the field of the Day of Judgement.",
+    "arabic_text": "فَاِذَا هُم بِالسَّاهِرَةِ",
+    "urdu_text": "پھر اچانک وہ سب میدان حشر میں کھڑے ہوں گے",
+    "persian_text": "پس ناگهان همه در صحرای قیامت خواهند بود",
+    "transliteration": "Fa-idha hum bis-sahirah"
+  },
+  {
+    "verse_number": 15,
+    "english_text": "Has the news of Musa reached you.",
+    "arabic_text": "هَلْ اَتٰكَ حَدِيثُ مُوسٰى",
+    "urdu_text": "کیا آپ کو موسیٰ کی خبر پہنچی ہے؟",
+    "persian_text": "آیا خبر موسی به تو رسیده است؟",
+    "transliteration": "Hal ataka hadithu Musa"
+  },
+  {
+    "verse_number": 16,
+    "english_text": "When his Lord called upon him in the holy valley of Toa",
+    "arabic_text": "اِذْ نَادٰهُ رَبُّه بِالْوَادِ الْمُقَدَّسِ طُوًى",
+    "urdu_text": "جب ان کے رب نے انہیں مقدس وادی طویٰ میں پکارا",
+    "persian_text": "هنگامی که پروردگارش او را در وادی مقدس طوی ندا داد",
+    "transliteration": "Idh nadahu Rabbuhu bil-wadi al-muqaddasi Tuwa"
+  },
+  {
+    "verse_number": 17,
+    "english_text": "Go to Firaun, he has become rebellious.",
+    "arabic_text": "اِذْهَبْ اِلَٰى فِرْعَوْنَ اِنَّهُ طَغٰى",
+    "urdu_text": "فرعون کے پاس جاؤ، بیشک وہ سرکش ہو گیا ہے",
+    "persian_text": "به سوی فرعون برو که او طغیان کرده است",
+    "transliteration": "Idh-hab ila Fir'awna innahu tagha"
+  },
+  {
+    "verse_number": 18,
+    "english_text": "Say to him, is it possible that you refine your character.",
+    "arabic_text": "فَقُلْ هَل لَّكَ اِلَىٰٓ اَن تَزَكّٰى",
+    "urdu_text": "پھر اس سے کہو کیا تو اس بات کی خواہش رکھتا ہے کہ پاکیزہ بن جائے",
+    "persian_text": "پس به او بگو آیا می‌خواهی که پاک شوی",
+    "transliteration": "Fa-qul hal laka ila an tazakka"
+  },
+  {
+    "verse_number": 19,
+    "english_text": "And I will guide you towards your Lord, and create fear in your heart.",
+    "arabic_text": "وَ اَهْدِيَكَ اِلَٰى رَبِّكَ فَتَخْشٰى",
+    "urdu_text": "اور میں تجھے تیرے رب کی طرف رہنمائی کروں تاکہ تو ڈر جائے",
+    "persian_text": "و تو را به سوی پروردگارت راهنمایی کنم تا بترسی",
+    "transliteration": "Wa ahdiyaka ila Rabbika fa-takhsha"
+  },
+  {
+    "verse_number": 20,
+    "english_text": "Then he showed him the great sign.",
+    "arabic_text": "فَاَرٰهُ الْاٰيَةَ الْكُبْرٰى",
+    "urdu_text": "پھر اس نے اسے بڑی نشانی دکھائی",
+    "persian_text": "پس آیت بزرگ را به او نشان داد",
+    "transliteration": "Fa-arahu al-ayata al-kubra"
+  },
+  {
+    "verse_number": 21,
+    "english_text": "So he denied and disobeyed.",
+    "arabic_text": "فَكَذَّبَ وَ عَصٰى",
+    "urdu_text": "پس اس نے جھٹلایا اور نافرمانی کی",
+    "persian_text": "پس تکذیب کرد و نافرمانی نمود",
+    "transliteration": "Fakazzaba wa 'asa"
+  },
+  {
+    "verse_number": 22,
+    "english_text": "Then turned his face hastily.",
+    "arabic_text": "ثُمَّ اَدْبَرَ يَسْعٰى",
+    "urdu_text": "پھر پیٹھ پھیر کر تیزی سے چلا گیا",
+    "persian_text": "سپس پشت کرد و با شتاب رفت",
+    "transliteration": "Thumma adbara yas'a"
+  },
+  {
+    "verse_number": 23,
+    "english_text": "Then gathered everyone and called out.",
+    "arabic_text": "فَحَشَرَ فَنَادٰى",
+    "urdu_text": "پھر لوگوں کو جمع کیا اور پکارا",
+    "persian_text": "پس مردم را گرد آورد و ندا داد",
+    "transliteration": "Fahashara fanada"
+  },
+  {
+    "verse_number": 24,
+    "english_text": "And said, I am your lord, most high.",
+    "arabic_text": "فَقَالَ اَنَا رَبُّكُمُ الْاَعْلَٰى",
+    "urdu_text": "اور کہا میں تمہارا سب سے بڑا رب ہوں",
+    "persian_text": "و گفت من پروردگار برتر شما هستم",
+    "transliteration": "Faqala ana rabbukumul a'la"
+  },
+  {
+    "verse_number": 25,
+    "english_text": "So Allah caught him in the punishment of both this world and the Hereafter.",
+    "arabic_text": "فَاَخَذَهُ اللّٰهُ نَكَالَ الْاٰخِرَةِ وَ الْاُولَٰى",
+    "urdu_text": "تو اللہ نے اسے آخرت اور دنیا دونوں کے عذاب میں پکڑ لیا",
+    "persian_text": "پس خداوند او را به کیفر آخرت و دنیا گرفتار ساخت",
+    "transliteration": "Fa akhazahullahu nakaalal aakhirati wal oola"
+  },
+  {
+    "verse_number": 26,
+    "english_text": "In this event there is a lesson for those who fear Allah.",
+    "arabic_text": "اِنَّ فِى ذٰلِكَ لَعِبْرَةً لِِّمَن يَّخْشٰى",
+    "urdu_text": "بیشک اس میں عبرت ہے اس شخص کے لیے جو ڈرتا ہے",
+    "persian_text": "در این واقعه عبرتی است برای کسانی که می‌ترسند",
+    "transliteration": "Inna fee dhaalika la'ibratal liman yakhshaa"
+  },
+  {
+    "verse_number": 27,
+    "english_text": "Is your creation more difficult than making the sky that He has created the sky.",
+    "arabic_text": "ءَاَنتُمْ اَشَدُّ خَلْقًا امِ السَّمَآءُ بَنٰهَا",
+    "urdu_text": "کیا تمہاری تخلیق زیادہ مشکل ہے یا آسمان کی جسے اس نے بنایا",
+    "persian_text": "آیا آفرینش شما دشوارتر است یا آسمانی که او آن را بنا کرد",
+    "transliteration": "A-antum ashaddu khalqan amis-samaaa'u banaahaa"
+  },
+  {
+    "verse_number": 28,
+    "english_text": "He raised the roof and then leveled it.",
+    "arabic_text": "رَفَعَ سَمْكَهَا فَسَوّٰهَا",
+    "urdu_text": "اس نے اس کی چھت کو بلند کیا پھر اسے برابر کیا",
+    "persian_text": "سقف آن را بلند کرد و آن را هموار ساخت",
+    "transliteration": "Rafa'a samkahaa fasawwaahaa"
+  },
+  {
+    "verse_number": 29,
+    "english_text": "(He) made night of it dark and made brightness in the day.",
+    "arabic_text": "وَ اَغْطَشَ لَيْلَهَا وَ اَخْرَجَ ضُحٰهَا",
+    "urdu_text": "اور اس کی رات کو تاریک کیا اور اس کی روشنی کو نکالا",
+    "persian_text": "و شب آن را تاریک ساخت و روشنایی روز آن را بیرون آورد",
+    "transliteration": "Wa aghtasha laylahaa wa akhraja dhuhaahaa"
+  },
+  {
+    "verse_number": 30,
+    "english_text": "Thereafter spread the flooring of the earth.",
+    "arabic_text": "وَ اَلْاَرْضَ بَعْدَ ذٰلِكَ دَحٰهَا",
+    "urdu_text": "اور زمین کو اس کے بعد بچھایا",
+    "persian_text": "و پس از آن زمین را گسترد",
+    "transliteration": "Wal-arda ba'da dhaalika dahaahaa"
+  },
+  {
+    "verse_number": 31,
+    "english_text": "Brought out water and pastures from it.",
+    "arabic_text": "اَخْرَجَ مِنْهَا مَآءَهَا وَمَرْعٰهَا",
+    "urdu_text": "اس سے اس کا پانی اور چارہ نکالا",
+    "persian_text": "آب و مرتع آن را از آن بیرون آورد",
+    "transliteration": "Akhraja minha ma'aha wa mar'aha"
+  },
+  {
+    "verse_number": 32,
+    "english_text": "And firmed the mountains.",
+    "arabic_text": "وَ اَلْجِبَالَ اَرْسٰهَا",
+    "urdu_text": "اور پہاڑوں کو مضبوطی سے جما دیا",
+    "persian_text": "و کوه‌ها را استوار ساخت",
+    "transliteration": "Wal-jibala arsaha"
+  },
+  {
+    "verse_number": 33,
+    "english_text": "All this is provision for you and your animals.",
+    "arabic_text": "مَتاعًا لَّكُمْ وَ لِانْعامِكُمْ",
+    "urdu_text": "یہ سب تمہارے اور تمہارے مویشیوں کے لیے سامان زندگی ہے",
+    "persian_text": "این همه برای بهره‌مندی شما و چارپایان شماست",
+    "transliteration": "Mata'al-lakum wa li-an'amikum"
+  },
+  {
+    "verse_number": 34,
+    "english_text": "Then when the big trouble will come.",
+    "arabic_text": "فَاِذَا جَآءَتِ اَلطَّآمَّةُ اَلْكُبْرٰى",
+    "urdu_text": "پھر جب وہ بڑی آفت آ پہنچے گی",
+    "persian_text": "پس هنگامی که فاجعه بزرگ فرا رسد",
+    "transliteration": "Fa-idha ja'ati at-tammatu al-kubra"
+  },
+  {
+    "verse_number": 35,
+    "english_text": "The day man will remember that what he did.",
+    "arabic_text": "يَوْمَ يَتَذَكَّرُ الْاِنسَانُ مَا سَعٰى",
+    "urdu_text": "اس دن انسان کو یاد آ جائے گا جو کچھ اس نے کیا تھا",
+    "persian_text": "روزی که انسان به یاد می‌آورد آنچه را که کوشیده است",
+    "transliteration": "Yawma yatadhakkaru al-insanu ma sa'a"
+  },
+  {
+    "verse_number": 36,
+    "english_text": "And Hell will be made manifest for those who sees.",
+    "arabic_text": "وَ بُرِّزَتِ الْجَحِيمُ لِمَن يَّرٰى",
+    "urdu_text": "اور جہنم ظاہر کر دی جائے گی دیکھنے والوں کے لیے",
+    "persian_text": "و جهنم برای آنان که می‌بینند آشکار خواهد شد",
+    "transliteration": "Wa burrizatil jahimu liman yara"
+  },
+  {
+    "verse_number": 37,
+    "english_text": "Then the one who rebelled.",
+    "arabic_text": "فَاَمَّا مَن طَغٰى",
+    "urdu_text": "پھر جس نے سرکشی کی",
+    "persian_text": "پس آن کس که طغیان کرد",
+    "transliteration": "Fa-amma man tagha"
+  },
+  {
+    "verse_number": 38,
+    "english_text": "And adopted the worldly life.",
+    "arabic_text": "وَ اٰثَرَ الْحَيٰوةَ الدُّنْيَا",
+    "urdu_text": "اور دنیا کی زندگی کو ترجیح دی",
+    "persian_text": "و زندگی دنیا را برگزید",
+    "transliteration": "Wa atharal hayatad-dunya"
+  },
+  {
+    "verse_number": 39,
+    "english_text": "Hell will be his abode.",
+    "arabic_text": "فَاِنَّ الْجَحِيمَ هِىَ الْمَاْوٰى",
+    "urdu_text": "تو بیشک جہنم ہی اس کا ٹھکانہ ہے",
+    "persian_text": "پس همانا جهنم جایگاه اوست",
+    "transliteration": "Fa-innal jahima hiyal-ma'wa"
+  },
+  {
+    "verse_number": 40,
+    "english_text": "And he who developed the fear to present himself before his Lord and restrains his Self from the desires.",
+    "arabic_text": "وَ اَمَّا مَنْ خَافَ مَقَامَ رَبِّهِ وَنَهَى اَلنَّفْسَ عَنِ الْهَوٰى",
+    "urdu_text": "اور جس نے اپنے رب کے سامنے کھڑے ہونے سے ڈرا اور نفس کو خواہشات سے روکا",
+    "persian_text": "و اما آن کس که از مقام پروردگارش ترسید و نفس را از هوای نفس باز داشت",
+    "transliteration": "Wa amma man khafa maqama rabbihi wa nahan-nafsa 'anil-hawa"
+  },
+  {
+    "verse_number": 41,
+    "english_text": "So, Paradise is his abode and center.",
+    "arabic_text": "فَاِنَّ الْجَنَّةَ هِىَ الْمَاْوٰى",
+    "urdu_text": "تو بیشک جنت ہی اس کا ٹھکانہ ہے",
+    "persian_text": "پس بهشت جایگاه اوست",
+    "transliteration": "Fa-inna al-jannata hiya al-ma'wa"
+  },
+  {
+    "verse_number": 42,
+    "english_text": "O Prophet, people ask you about the Day of Judgement that when will it come.",
+    "arabic_text": "يَسْـَٔلُونَكَ عَنِ السَّاعَةِ اَيَّانَ مُرْسٰهَا",
+    "urdu_text": "اے نبی، لوگ آپ سے قیامت کے بارے میں پوچھتے ہیں کہ وہ کب آئے گی",
+    "persian_text": "از تو درباره قیامت می‌پرسند که چه زمانی فرا خواهد رسید",
+    "transliteration": "Yas'alunaka 'an is-sa'ati ayyana mursaha"
+  },
+  {
+    "verse_number": 43,
+    "english_text": "On what stage are you about its remembrance.",
+    "arabic_text": "فِيمَ اَنتَ مِن ذِكْرٰهَا",
+    "urdu_text": "آپ کو اس کے ذکر سے کیا تعلق",
+    "persian_text": "تو در چه مقامی هستی که از آن یاد کنی",
+    "transliteration": "Fima anta min dhikriha"
+  },
+  {
+    "verse_number": 44,
+    "english_text": "With your Lord is the finality of its knowledge.",
+    "arabic_text": "اِلَٰى رَبِّكَ مُنتَهٰهَا",
+    "urdu_text": "آپ کے رب کے پاس ہی اس کا انتہائی علم ہے",
+    "persian_text": "نزد پروردگار تو پایان آن است",
+    "transliteration": "Ila rabbika muntahaha"
+  },
+  {
+    "verse_number": 45,
+    "english_text": "You are only the warner from it for those who have fear of it.",
+    "arabic_text": "اِنَّمَآ اَنْتَ مُنذِرُ مَنْ يَخْشٰهَا",
+    "urdu_text": "آپ تو صرف اس سے ڈرنے والوں کو ڈرانے والے ہیں",
+    "persian_text": "تو تنها هشداردهنده کسانی هستی که از آن می‌ترسند",
+    "transliteration": "Innama anta mundhiru man yakhshaha"
+  },
+  {
+    "verse_number": 46,
+    "english_text": "As if when the people will see it, they will feel that they have stayed one evening or one morning in the world.",
+    "arabic_text": "كَاَنَّهُمْ يَوْمَ يَرَوْنَهَا لَمْ يَلْبَثُوٓا اِلَّا عَشِيَّةً اَوْ ضُحٰهَا",
+    "urdu_text": "جس دن وہ اسے دیکھیں گے تو انہیں ایسا لگے گا کہ گویا وہ دنیا میں صرف ایک شام یا ایک صبح ٹھہرے تھے",
+    "persian_text": "گویی روزی که آن را ببینند، جز یک شام یا یک صبح در دنیا نمانده‌اند",
+    "transliteration": "Ka-annahum yawma yarawnaha lam yalbathu illa 'ashiyyatan aw duhaha"
+  }
+]

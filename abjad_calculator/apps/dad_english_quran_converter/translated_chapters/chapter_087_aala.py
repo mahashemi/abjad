@@ -1,0 +1,161 @@
+"""
+Chapter 87: aala
+Arabic: الاعلى
+Total Verses: 19
+Generated: 2026-01-14T04:38:25.705068
+"""
+
+ayats = [
+  {
+    "verse_number": 1,
+    "english_text": "Glorify the name of your Lord, the Most High.",
+    "arabic_text": "سَبِّحِ اسْمَ رَبِّكَ الْاَعْلَى",
+    "urdu_text": "اپنے رب کے نام کی تسبیح کرو جو سب سے بلند ہے",
+    "persian_text": "نام پروردگار بلندمرتبه خود را تسبیح گوی",
+    "transliteration": "Sabbihisma rabbikal a'laa"
+  },
+  {
+    "verse_number": 2,
+    "english_text": "Who created and then gave order and perfection.",
+    "arabic_text": "الَّذِي خَلَقَ فَسَوّٰى",
+    "urdu_text": "جس نے پیدا کیا پھر درست کیا",
+    "persian_text": "همان که آفرید و سپس متناسب ساخت",
+    "transliteration": "Allazee khalaqa fasawwaa"
+  },
+  {
+    "verse_number": 3,
+    "english_text": "Who appointed fate and then guided.",
+    "arabic_text": "وَ الَّذِي قَدَّرَ فَهَدٰى",
+    "urdu_text": "اور جس نے تقدیر مقرر کی پھر راہ دکھائی",
+    "persian_text": "و آن که اندازه گیری کرد و سپس هدایت نمود",
+    "transliteration": "Wallazee qaddara fahadaa"
+  },
+  {
+    "verse_number": 4,
+    "english_text": "Who brought out the pasture.",
+    "arabic_text": "وَ الَّذِيٓ اَخْرَجَ الْمَرْعٰى",
+    "urdu_text": "اور جس نے چارہ اُگایا",
+    "persian_text": "و آن که مرتع را بیرون آورد",
+    "transliteration": "Wallazee akhrajal mar'aa"
+  },
+  {
+    "verse_number": 5,
+    "english_text": "Then make it dried up, a litter of black color.",
+    "arabic_text": "فَجَعَلَهُ غُثَاءً اَحْوٰى",
+    "urdu_text": "پھر اسے خشک کالا بھوسا بنا دیا",
+    "persian_text": "سپس آن را خاشاک تیره رنگ گردانید",
+    "transliteration": "Faja'alahu ghusaa'an ahwaa"
+  },
+  {
+    "verse_number": 6,
+    "english_text": "We will shortly teach you in such a way that you shall not forget.",
+    "arabic_text": "سَنُقْرِئُكَ فَلَا تَنسٰى",
+    "urdu_text": "ہم عنقریب آپ کو پڑھائیں گے تو آپ نہیں بھولیں گے",
+    "persian_text": "به زودی به تو می‌آموزیم که فراموش نخواهی کرد",
+    "transliteration": "Sanuqri'uka fala tansa"
+  },
+  {
+    "verse_number": 7,
+    "english_text": "But only if Allah pleases; that He knows everything that is manifest and what is hidden.",
+    "arabic_text": "اِلَّا مَا شَآءَ اللّٰهُ اِنَّهُ يَعْلَمُ الْجَهْرَ وَ مَا يَخْفٰى",
+    "urdu_text": "مگر جو اللہ چاہے، بیشک وہ ظاہر اور پوشیدہ سب کچھ جانتا ہے",
+    "persian_text": "مگر آنچه خدا بخواهد، همانا او آشکار و نهان را می‌داند",
+    "transliteration": "Illa ma sha'Allahu innahu ya'lamul-jahra wa ma yakhfa"
+  },
+  {
+    "verse_number": 8,
+    "english_text": "And We will give you an opportunity for the easy way.",
+    "arabic_text": "وَ نُيَسِّرُكَ لِلْيُسْرٰى",
+    "urdu_text": "اور ہم آپ کو آسانی کے راستے کی توفیق دیں گے",
+    "persian_text": "و تو را برای راه آسان آماده می‌سازیم",
+    "transliteration": "Wa nuyassiruka lil-yusra"
+  },
+  {
+    "verse_number": 9,
+    "english_text": "Therefore, make them understand, if it is of any benefit.",
+    "arabic_text": "فَذَكِّرْ اِن نَّفَعَتِ الذِّكْرٰى",
+    "urdu_text": "پس نصیحت کیجیے اگر نصیحت فائدہ دے",
+    "persian_text": "پس پند بده اگر پند سودمند باشد",
+    "transliteration": "Fadhakkir in nafa'atidh-dhikra"
+  },
+  {
+    "verse_number": 10,
+    "english_text": "Shortly, those who have fear of Allah would understand.",
+    "arabic_text": "سَيَذَّكَّرُ مَن يَّخْشٰى",
+    "urdu_text": "عنقریب نصیحت قبول کرے گا وہ جو ڈرتا ہے",
+    "persian_text": "به زودی پند می‌گیرد کسی که می‌ترسد",
+    "transliteration": "Sayadhdhakkaru man yakhsha"
+  },
+  {
+    "verse_number": 11,
+    "english_text": "And, a wretched one would shun it.",
+    "arabic_text": "وَ يَتَجَنَّبُهَا الْاَشْقَى",
+    "urdu_text": "اور اس سے بدبخت شخص دور رہے گا",
+    "persian_text": "و شقی‌ترین از آن دوری می‌کند",
+    "transliteration": "Wa yatajannabuhal ashqa"
+  },
+  {
+    "verse_number": 12,
+    "english_text": "Who is going to burn in a very big fire.",
+    "arabic_text": "الَّذِي يَصْلَى النَّارَ الْكُبْرٰى",
+    "urdu_text": "جو بڑی آگ میں داخل ہوگا",
+    "persian_text": "همان که در آتش بزرگ وارد خواهد شد",
+    "transliteration": "Allazi yaslan naaral kubra"
+  },
+  {
+    "verse_number": 13,
+    "english_text": "Then in it there is neither life nor death.",
+    "arabic_text": "ثُمَّ لَا يَمُوتُ فِيهَا وَ لَا يَحْيٰى",
+    "urdu_text": "پھر اس میں نہ وہ مرے گا اور نہ جیے گا",
+    "persian_text": "سپس در آن نه می‌میرد و نه زندگی می‌کند",
+    "transliteration": "Thumma la yamutu fiha wa la yahya"
+  },
+  {
+    "verse_number": 14,
+    "english_text": "Verily he shall be successful who purifies himself.",
+    "arabic_text": "قَدْ اَفْلَحَ مَن تَزَكّٰى",
+    "urdu_text": "یقیناً کامیاب ہوا وہ جس نے اپنے آپ کو پاک کیا",
+    "persian_text": "به راستی رستگار شد کسی که خود را پاک کرد",
+    "transliteration": "Qad aflaha man tazakka"
+  },
+  {
+    "verse_number": 15,
+    "english_text": "Whoever glorified the name of his Lord and prayed.",
+    "arabic_text": "وَ ذَكَرَ اسْمَ رَبِّهِ فَصَلّٰى",
+    "urdu_text": "اور اپنے رب کا نام یاد کیا اور نماز پڑھی",
+    "persian_text": "و نام پروردگارش را یاد کرد و نماز گزارد",
+    "transliteration": "Wa zakara isma rabbihi fasalla"
+  },
+  {
+    "verse_number": 16,
+    "english_text": "But you people give precedence to the worldly life.",
+    "arabic_text": "بَلْ تُؤْثِرُونَ الْحَيَٰوةَ الدُّنْيَا",
+    "urdu_text": "بلکہ تم دنیا کی زندگی کو ترجیح دیتے ہو",
+    "persian_text": "بلکه شما زندگی دنیا را ترجیح می‌دهید",
+    "transliteration": "Bal tu'thiroona al-hayaata ad-dunya"
+  },
+  {
+    "verse_number": 17,
+    "english_text": "Whereas the Hereafter is better and everlasting.",
+    "arabic_text": "وَ الْاٰخِرَةُ خَيْرٌ وَ اَبْقٰى",
+    "urdu_text": "حالانکہ آخرت بہتر اور باقی رہنے والی ہے",
+    "persian_text": "در حالی که آخرت بهتر و پایدارتر است",
+    "transliteration": "Wal-aakhiratu khayrun wa abqa"
+  },
+  {
+    "verse_number": 18,
+    "english_text": "This is present in all earlier scriptures also.",
+    "arabic_text": "اِنَّ هَٰذَا لَفِي الصُّحُفِ الْاُولَٰى",
+    "urdu_text": "بیشک یہ بات پہلے صحیفوں میں بھی موجود ہے",
+    "persian_text": "به راستی این در صحیفه‌های پیشین نیز آمده است",
+    "transliteration": "Inna hadha lafi as-suhufi al-oola"
+  },
+  {
+    "verse_number": 19,
+    "english_text": "Also, the scriptures of Ibrahim and scriptures of Musa.",
+    "arabic_text": "صُحُفِ اِبْرٰهِيمَ وَ مُوسٰى",
+    "urdu_text": "ابراہیم اور موسیٰ کے صحیفوں میں",
+    "persian_text": "صحیفه‌های ابراهیم و موسی",
+    "transliteration": "Suhufi Ibraheema wa Moosa"
+  }
+]

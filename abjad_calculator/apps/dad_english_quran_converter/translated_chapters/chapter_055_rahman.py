@@ -1,0 +1,633 @@
+"""
+Chapter 55: rahman
+Arabic: الرحمن
+Total Verses: 78
+Generated: 2026-01-14T04:17:37.604277
+"""
+
+ayats = [
+  {
+    "verse_number": 1,
+    "english_text": "Most Gracious.",
+    "arabic_text": "الرَّحْمَٰنُ",
+    "urdu_text": "رحمان (بڑا مہربان)",
+    "persian_text": "رحمان (بخشنده)",
+    "transliteration": "Ar-Rahman"
+  },
+  {
+    "verse_number": 2,
+    "english_text": "He taught the Quran.",
+    "arabic_text": "عَلَّمَ الْقُرْآنَ",
+    "urdu_text": "اس نے قرآن سکھایا",
+    "persian_text": "قرآن را آموخت",
+    "transliteration": "Allama al-Quran"
+  },
+  {
+    "verse_number": 3,
+    "english_text": "Created the man.",
+    "arabic_text": "خَلَقَ الْاِنسَانَ",
+    "urdu_text": "اس نے انسان کو پیدا کیا",
+    "persian_text": "انسان را آفرید",
+    "transliteration": "Khalaqa al-insan"
+  },
+  {
+    "verse_number": 4,
+    "english_text": "And taught him speech.",
+    "arabic_text": "عَلَّمَهُ الْبَيَانَ",
+    "urdu_text": "اور اسے بیان سکھایا",
+    "persian_text": "و بیان را به او آموخت",
+    "transliteration": "Allamahu al-bayan"
+  },
+  {
+    "verse_number": 5,
+    "english_text": "Sun and the moon are following the course appointed by Him.",
+    "arabic_text": "الشَّمْسُ وَالْقَمَرُ بِحُسْبَانٍ",
+    "urdu_text": "سورج اور چاند ایک حساب سے چل رہے ہیں",
+    "persian_text": "خورشید و ماه به حساب معین در گردشند",
+    "transliteration": "Ash-shamsu wal-qamaru bi-husban"
+  },
+  {
+    "verse_number": 6,
+    "english_text": "And stars and trees are all prostrating.",
+    "arabic_text": "وَالنَّجْمُ وَالشَّجَرُ يَسْجُدَانِ",
+    "urdu_text": "اور ستارے اور درخت سب سجدہ کر رہے ہیں",
+    "persian_text": "و ستاره و درخت همه سجده می‌کنند",
+    "transliteration": "Wan-najmu wash-shajaru yasjudan"
+  },
+  {
+    "verse_number": 7,
+    "english_text": "He raised the sky, and established the Balance (of Justice).",
+    "arabic_text": "وَالسَّمَاءَ رَفَعَهَا وَوَضَعَ الْمِيزَانَ",
+    "urdu_text": "اور آسمان کو اس نے بلند کیا اور میزان (انصاف) قائم کی",
+    "persian_text": "و آسمان را برافراشت و ترازو (عدالت) را برقرار کرد",
+    "transliteration": "Was-samaa'a rafa'aha wa wada'al-mizan"
+  },
+  {
+    "verse_number": 8,
+    "english_text": "That you may not transgress in balance.",
+    "arabic_text": "اَلَّا تَطْغَوْا فِي الْمِيزَانِ",
+    "urdu_text": "تاکہ تم میزان میں زیادتی نہ کرو",
+    "persian_text": "تا در ترازو تجاوز نکنید",
+    "transliteration": "Alla tatghaw fil-mizan"
+  },
+  {
+    "verse_number": 9,
+    "english_text": "And establish the weight with justice and do not weigh less while weighing.",
+    "arabic_text": "وَاَقِيمُوا الْوَزْنَ بِالْقِسْطِ وَلَا تُخْسِرُوا الْمِيزَانَ",
+    "urdu_text": "اور انصاف کے ساتھ وزن کو قائم رکھو اور تولتے وقت کم نہ تولو",
+    "persian_text": "و وزن را با عدالت برپا دارید و در ترازو کم نگذارید",
+    "transliteration": "Wa aqimul-wazna bil-qisti wa la tukhsirul-mizan"
+  },
+  {
+    "verse_number": 10,
+    "english_text": "And He has spread earth for the people.",
+    "arabic_text": "وَالۡاَرۡضَ وَضَعَهَا لِلۡاَنَامِ",
+    "urdu_text": "اور زمین کو اس نے مخلوقات کے لیے بچھایا",
+    "persian_text": "و زمین را برای مردم قرار داد",
+    "transliteration": "Wal-arda wada'aha lil-anam"
+  },
+  {
+    "verse_number": 11,
+    "english_text": "Therein are fruits and date-palms whose bunches are covered with skin.",
+    "arabic_text": "فِيهَا فَٰكِهَةٞ وَالنَّخۡلُ ذَاتُ الۡاَكۡمَامِ",
+    "urdu_text": "اس میں میوے ہیں اور خوشوں والی کھجوریں ہیں",
+    "persian_text": "در آن میوه‌ها و درختان خرما با غلاف‌های پوشیده است",
+    "transliteration": "Feeha fakihatun wan-nakhlu zaatul akmaam"
+  },
+  {
+    "verse_number": 12,
+    "english_text": "Seeds are with husk, and fragrant flowers are also there.",
+    "arabic_text": "وَالۡحَبُّ ذُو الۡعَصۡفِ وَالرَّيۡحَانُ",
+    "urdu_text": "اور بھوسے والا اناج اور خوشبودار پھول",
+    "persian_text": "و دانه‌های دارای پوست و گیاهان خوشبو",
+    "transliteration": "Wal-habbu zul-'asfi war-rayhaan"
+  },
+  {
+    "verse_number": 13,
+    "english_text": "Then which of the favors of your Lord both of you will deny?",
+    "arabic_text": "فَبِاَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "urdu_text": "پھر تم دونوں اپنے رب کی کن کن نعمتوں کو جھٹلاؤ گے",
+    "persian_text": "پس کدام یک از نعمت‌های پروردگارتان را انکار می‌کنید",
+    "transliteration": "Fabi-ayyi aalaaa'i Rabbikuma tukaззibaan"
+  },
+  {
+    "verse_number": 14,
+    "english_text": "He created the man from sounding clay like pottery.",
+    "arabic_text": "خَلَقَ الۡاِنسَٰنَ مِن صَلۡصَٰلٖ كَالۡفَخَّارِ",
+    "urdu_text": "اس نے انسان کو ٹھیکری کی طرح بجتی ہوئی مٹی سے پیدا کیا",
+    "persian_text": "انسان را از گل خشک همچون سفال آفرید",
+    "transliteration": "Khalaqal-insaana min salsaalin kalfakhkhaar"
+  },
+  {
+    "verse_number": 15,
+    "english_text": "And created the Jinn with flames of fire.",
+    "arabic_text": "وَخَلَقَ الۡجَانَّ مِن مَّارِجٖ مِّن نَّارٖ",
+    "urdu_text": "اور جنوں کو آگ کے شعلے سے پیدا کیا",
+    "persian_text": "و جن را از شعله‌ای از آتش آفرید",
+    "transliteration": "Wa khalaqal-jaanna mim-maarijim-min naar"
+  },
+  {
+    "verse_number": 16,
+    "english_text": "Then which of the favors of your Lord both of you will deny?",
+    "arabic_text": "فَبِاَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "urdu_text": "پھر تم دونوں اپنے رب کی کون کون سی نعمتوں کو جھٹلاؤ گے؟",
+    "persian_text": "پس کدام یک از نعمت‌های پروردگارتان را تکذیب می‌کنید؟",
+    "transliteration": "Fabi-ayyi ala-i Rabbikuma tukadhdhiban"
+  },
+  {
+    "verse_number": 17,
+    "english_text": "Lord of the two Easts and Lord the two Wests.",
+    "arabic_text": "رَبُّ الۡمَشۡرِقَيۡنِ وَرَبُّ الۡمَغۡرِبَيۡنِ",
+    "urdu_text": "وہ دونوں مشرقوں کا رب ہے اور دونوں مغربوں کا رب ہے",
+    "persian_text": "پروردگار دو مشرق و پروردگار دو مغرب است",
+    "transliteration": "Rabbul mashriqayni wa Rabbul maghribayn"
+  },
+  {
+    "verse_number": 18,
+    "english_text": "Then which of the favors of your Lord both of you will deny?",
+    "arabic_text": "فَبِاَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "urdu_text": "پھر تم دونوں اپنے رب کی کون کون سی نعمتوں کو جھٹلاؤ گے؟",
+    "persian_text": "پس کدام یک از نعمت‌های پروردگارتان را تکذیب می‌کنید؟",
+    "transliteration": "Fabi-ayyi ala-i Rabbikuma tukadhdhiban"
+  },
+  {
+    "verse_number": 19,
+    "english_text": "He has flowed two seas which meet together.",
+    "arabic_text": "مَرَجَ الۡبَحۡرَيۡنِ يَلۡتَقِيَانِ",
+    "urdu_text": "اس نے دو سمندر بہائے جو آپس میں ملتے ہیں",
+    "persian_text": "دو دریا را روان ساخت که به هم می‌رسند",
+    "transliteration": "Marajal bahrayni yaltaqiyan"
+  },
+  {
+    "verse_number": 20,
+    "english_text": "There is a barrier between them that they cannot exceed upon each other.",
+    "arabic_text": "بَيۡنَهُمَا بَرۡزَخٞ لَّا يَبۡغِيَانِ",
+    "urdu_text": "ان دونوں کے درمیان ایک آڑ ہے جس سے وہ تجاوز نہیں کرتے",
+    "persian_text": "میان آن دو حائلی است که از آن تجاوز نمی‌کنند",
+    "transliteration": "Baynahuma barzakhul la yabghiyan"
+  },
+  {
+    "verse_number": 21,
+    "english_text": "Then which of the favors of your Lord both of you will deny?",
+    "arabic_text": "فَبِاَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "urdu_text": "پھر تم دونوں اپنے رب کی کن کن نعمتوں کو جھٹلاؤ گے؟",
+    "persian_text": "پس کدام یک از نعمت‌های پروردگارتان را انکار می‌کنید؟",
+    "transliteration": "Fabi-ayyi ala-i Rabbikuma tukadhdhiban"
+  },
+  {
+    "verse_number": 22,
+    "english_text": "Pearls and corals come out of these seas.",
+    "arabic_text": "يَخْرُجُ مِنْهُمَا اللُّؤْلُؤُ وَالْمَرْجَانُ",
+    "urdu_text": "ان دونوں سے موتی اور مرجان نکلتے ہیں۔",
+    "persian_text": "از آن دو مروارید و مرجان بیرون می‌آید.",
+    "transliteration": "Yakhruju minhuma al-lu'lu'u wal-marjan"
+  },
+  {
+    "verse_number": 23,
+    "english_text": "Then which of the favors of your Lord both of you will deny?",
+    "arabic_text": "فَبِاَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "urdu_text": "پھر تم دونوں اپنے رب کی کن کن نعمتوں کو جھٹلاؤ گے؟",
+    "persian_text": "پس کدام یک از نعمت‌های پروردگارتان را انکار می‌کنید؟",
+    "transliteration": "Fabi-ayyi ala-i Rabbikuma tukadhdhiban"
+  },
+  {
+    "verse_number": 24,
+    "english_text": "And His are the ships that stand like mountains in the sea.",
+    "arabic_text": "وَلَهُ الْجَوَارِ الْمُنشَـَٔاتُ فِى الْبَحْرِ كَالْاَعْلَـٰمِ",
+    "urdu_text": "اور اسی کے ہیں سمندر میں پہاڑوں کی طرح کھڑے جہاز۔",
+    "persian_text": "و از آنِ اوست کشتی‌های بلند در دریا همچون کوه‌ها.",
+    "transliteration": "Wa lahu al-jawari al-munsha'atu fi al-bahri kal-a'lam"
+  },
+  {
+    "verse_number": 25,
+    "english_text": "Then which of the favors of your Lord both of you will deny?",
+    "arabic_text": "فَبِاَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "urdu_text": "پھر تم دونوں اپنے رب کی کن کن نعمتوں کو جھٹلاؤ گے؟",
+    "persian_text": "پس کدام یک از نعمت‌های پروردگارتان را انکار می‌کنید؟",
+    "transliteration": "Fabi-ayyi ala-i Rabbikuma tukadhdhiban"
+  },
+  {
+    "verse_number": 26,
+    "english_text": "Whatever is on earth everything shall perish.",
+    "arabic_text": "كُلُّ مَنْ عَلَيْهَا فَانٍۢ",
+    "urdu_text": "جو کوئی بھی زمین پر ہے فنا ہو جانے والا ہے",
+    "persian_text": "هر که بر روی زمین است نابود خواهد شد",
+    "transliteration": "Kullu man 'alayha faan"
+  },
+  {
+    "verse_number": 27,
+    "english_text": "And only forever shall remain the Face of your Lord, full of Majesty, Bounty and Honor.",
+    "arabic_text": "وَيَبْقَىٰ وَجْهُ رَبِّكَ ذُو الْجَلَـٰلِ وَالْاِكْرَامِ",
+    "urdu_text": "اور باقی رہے گی تیرے رب کی ذات جو صاحبِ جلال اور صاحبِ اکرام ہے",
+    "persian_text": "و جاودان می‌ماند چهره پروردگار تو که دارای جلال و بزرگواری است",
+    "transliteration": "Wa yabqa wajhu rabbika dhul-jalali wal-ikram"
+  },
+  {
+    "verse_number": 28,
+    "english_text": "Then which of the favors of your Lord both of you will deny?",
+    "arabic_text": "فَبِاَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "urdu_text": "پھر تم دونوں اپنے رب کی کون کون سی نعمتوں کو جھٹلاؤ گے",
+    "persian_text": "پس کدام یک از نعمت‌های پروردگارتان را انکار می‌کنید",
+    "transliteration": "Fabi-ayyi ala-i rabbikuma tukadhdhiban"
+  },
+  {
+    "verse_number": 29,
+    "english_text": "Whoever is in the sky and on earth beg of Him, and every day He has new glory.",
+    "arabic_text": "يَسْـَٔلُهُ مَن فِى السَّمَـٰوَٰتِ وَالْاَرْضِ ۚ كُلَّ يَوْمٍ هُوَ فِى شَاْنٍۭ",
+    "urdu_text": "جو کوئی آسمانوں اور زمین میں ہے اسی سے مانگتا ہے، وہ ہر روز ایک نئی شان میں ہے",
+    "persian_text": "هر که در آسمان‌ها و زمین است از او درخواست می‌کند و او هر روز در کاری است",
+    "transliteration": "Yas'aluhu man fis-samawati wal-ard, kulla yawmin huwa fi sha'n"
+  },
+  {
+    "verse_number": 30,
+    "english_text": "Then which of the favors of your Lord both of you will deny?",
+    "arabic_text": "فَبِاَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "urdu_text": "پھر تم دونوں اپنے رب کی کون کون سی نعمتوں کو جھٹلاؤ گے",
+    "persian_text": "پس کدام یک از نعمت‌های پروردگارتان را انکار می‌کنید",
+    "transliteration": "Fabi-ayyi ala-i rabbikuma tukadhdhiban"
+  },
+  {
+    "verse_number": 31,
+    "english_text": "O both groups, shortly We shall turn towards you.",
+    "arabic_text": "سَنَفْرُغُ لَكُمْ اَيُّهَ الثَّقَلَانِ",
+    "urdu_text": "اے دونوں گروہو! ہم عنقریب تمہاری طرف متوجہ ہوں گے",
+    "persian_text": "ای هر دو گروه، به زودی به سراغ شما خواهیم آمد",
+    "transliteration": "Sanafrughu lakum ayyuha ath-thaqalan"
+  },
+  {
+    "verse_number": 32,
+    "english_text": "Then which of the favors of your Lord both of you will deny?",
+    "arabic_text": "فَبِاَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "urdu_text": "پھر تم دونوں اپنے رب کی کن کن نعمتوں کو جھٹلاؤ گے؟",
+    "persian_text": "پس کدام یک از نعمت‌های پروردگارتان را تکذیب می‌کنید؟",
+    "transliteration": "Fabi-ayyi ala-i rabbikuma tukadhdhiban"
+  },
+  {
+    "verse_number": 33,
+    "english_text": "O groups of Jinn and Man if you have power then go beyond the boundaries of skies and the earth; but remember, you cannot pass through without strength and authority (which you do not have).",
+    "arabic_text": "يَـٰمَعْشَرَ الْجِنِّ وَالْاِنسِ اِنِ اسْتَطَعْتُمْ اَن تَنفُذُواْ مِنْ اَقْطَارِ السَّمَـٰوَٰتِ وَالْاَرْضِ فَانفُذُواْ ۚ لَا تَنفُذُونَ اِلَّا بِسُلْطَـٰنٍۢ",
+    "urdu_text": "اے گروہ جنات و انسان! اگر تم میں طاقت ہے تو آسمانوں اور زمین کی حدوں سے نکل جاؤ، تو نکل جاؤ، لیکن تم بغیر قوت و اختیار کے نہیں نکل سکتے",
+    "persian_text": "ای گروه جن و انس، اگر می‌توانید از مرزهای آسمان‌ها و زمین بگذرید پس بگذرید، اما نمی‌توانید بگذرید مگر با قدرت و اقتداری که ندارید",
+    "transliteration": "Ya ma'sharal-jinni wal-insi inis-tata'tum an tanfudhu min aqtaris-samawati wal-ardi fanfudhu la tanfudhuna illa bisultan"
+  },
+  {
+    "verse_number": 34,
+    "english_text": "Then which of the favors of your Lord both of you will deny?",
+    "arabic_text": "فَبِاَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "urdu_text": "پھر تم دونوں اپنے رب کی کن کن نعمتوں کو جھٹلاؤ گے؟",
+    "persian_text": "پس کدام یک از نعمت‌های پروردگارتان را تکذیب می‌کنید؟",
+    "transliteration": "Fabi-ayyi ala-i rabbikuma tukadhdhiban"
+  },
+  {
+    "verse_number": 35,
+    "english_text": "Flame of green fire, and black smoke shall be set loose upon you, then both of you cannot avert it anyhow.",
+    "arabic_text": "يُرْسَلُ عَلَيْكُمَا شُوَاظٌۭ مِّن نَّارٍۢ وَنُحَاسٌۭ فَلَا تَنتَصِرَانِ",
+    "urdu_text": "تم دونوں پر آگ کے شعلے اور کالا دھواں چھوڑا جائے گا، پھر تم اسے کسی طرح نہیں روک سکو گے",
+    "persian_text": "شعله‌های آتش سبز و دود سیاه بر شما فرستاده خواهد شد و هیچ یک از شما نمی‌توانید از آن دفاع کنید",
+    "transliteration": "Yursalu 'alaykuma shuwazum-min narin wa nuhasun fala tantasiran"
+  },
+  {
+    "verse_number": 36,
+    "english_text": "Then which of the favors of your Lord both of you will deny?",
+    "arabic_text": "فَبِاَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "urdu_text": "پھر تم دونوں اپنے رب کی کن کن نعمتوں کو جھٹلاؤ گے؟",
+    "persian_text": "پس کدام یک از نعمت‌های پروردگارتان را تکذیب می‌کنید؟",
+    "transliteration": "Fabi-ayyi ala-i rabbikuma tukaththiban"
+  },
+  {
+    "verse_number": 37,
+    "english_text": "And when the sky will rend and become red like oil.",
+    "arabic_text": "فَاِذَا انشَقَّتِ السَّمَآءُ فَكَانَتْ وَرْدَةًۭ كَالدِّهَانِ",
+    "urdu_text": "پھر جب آسمان پھٹ جائے گا اور گلابی رنگ کا تیل کی طرح ہو جائے گا",
+    "persian_text": "و هنگامی که آسمان شکافته شود و همچون گل سرخ و روغن گردد",
+    "transliteration": "Fa-itha inshaqqati alssamao fakanat wardatan kaalddihan"
+  },
+  {
+    "verse_number": 38,
+    "english_text": "Then which of the favors of your Lord both of you will deny?",
+    "arabic_text": "فَبِاَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "urdu_text": "پھر تم دونوں اپنے رب کی کن کن نعمتوں کو جھٹلاؤ گے؟",
+    "persian_text": "پس کدام یک از نعمت‌های پروردگارتان را تکذیب می‌کنید؟",
+    "transliteration": "Fabi-ayyi ala-i rabbikuma tukaththiban"
+  },
+  {
+    "verse_number": 39,
+    "english_text": "Then on that day no Jinn and Man will be questioned about his sin.",
+    "arabic_text": "فَيَوْمَئِذٍۢ لَّا يُسْـَٔلُ عَن ذَنبِهِٓ اِنسٌۭ وَلَا جَآنٌّۭ",
+    "urdu_text": "پھر اس دن نہ کسی انسان سے اس کے گناہ کے بارے میں پوچھا جائے گا اور نہ کسی جن سے",
+    "persian_text": "پس در آن روز نه از انسان و نه از جن درباره گناهش پرسیده نخواهد شد",
+    "transliteration": "Fayawma-ithin la yus-alu an thanbihi insun wala jann"
+  },
+  {
+    "verse_number": 40,
+    "english_text": "Then which of the favors of your Lord both of you will deny?",
+    "arabic_text": "فَبِاَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "urdu_text": "پھر تم دونوں اپنے رب کی کن کن نعمتوں کو جھٹلاؤ گے؟",
+    "persian_text": "پس کدام یک از نعمت‌های پروردگارتان را تکذیب می‌کنید؟",
+    "transliteration": "Fabi-ayyi ala-i rabbikuma tukaththiban"
+  },
+  {
+    "verse_number": 41,
+    "english_text": "Guilty people shall be recognized by their marks, then they shall be seized by the forelocks and the feet.",
+    "arabic_text": "يُعْرَفُ الْمُجْرِمُونَ بِسِيمَـٰهُمْ فَيُؤْخَذُ بِالنَّوَاصِى وَالْاَقْدَامِ",
+    "urdu_text": "مجرم لوگ اپنی علامتوں سے پہچان لیے جائیں گے، پھر انہیں پیشانی کے بالوں اور پاؤں سے پکڑا جائے گا",
+    "persian_text": "مجرمان به نشانه‌هایشان شناخته می‌شوند، سپس از پیشانی و پاها گرفته خواهند شد",
+    "transliteration": "Yu'raful mujrimoona bi-seemahum fa-yu'khadhu bin-nawaasee wal-aqdaam"
+  },
+  {
+    "verse_number": 42,
+    "english_text": "Then which of the favors of your Lord both of you will deny?",
+    "arabic_text": "فَبِاَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "urdu_text": "پھر تم دونوں اپنے رب کی کون کون سی نعمتوں کو جھٹلاؤ گے",
+    "persian_text": "پس کدام یک از نعمت‌های پروردگارتان را تکذیب می‌کنید",
+    "transliteration": "Fabi-ayyi aalaaa'i Rabbikumaa tukadhhibaan"
+  },
+  {
+    "verse_number": 43,
+    "english_text": "This is the Hell which the guilty had denied.",
+    "arabic_text": "هٰذِهِ جَهَنَّمُ الَّتِى يُكَذِّبُ بِهَا الْمُجْرِمُونَ",
+    "urdu_text": "یہ وہ جہنم ہے جسے مجرم جھٹلاتے تھے",
+    "persian_text": "این همان جهنمی است که مجرمان آن را تکذیب می‌کردند",
+    "transliteration": "Hadhihi Jahannamu allatee yukadhhibu bihal mujrimoon"
+  },
+  {
+    "verse_number": 44,
+    "english_text": "Now go round about between this and the boiling water.",
+    "arabic_text": "يَطُوفُونَ بَيْنَهَا وَبَيْنَ حَمِيمٍ ءَانٍۢ",
+    "urdu_text": "وہ اس کے اور کھولتے ہوئے پانی کے درمیان چکر لگاتے رہیں گے",
+    "persian_text": "میان آن و آب جوشان در گردش خواهند بود",
+    "transliteration": "Yatoofoona baynahaa wa bayna hameemim aan"
+  },
+  {
+    "verse_number": 45,
+    "english_text": "Then which of the favors of your Lord both of you will deny?",
+    "arabic_text": "فَبِاَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "urdu_text": "پھر تم دونوں اپنے رب کی کون کون سی نعمتوں کو جھٹلاؤ گے",
+    "persian_text": "پس کدام یک از نعمت‌های پروردگارتان را تکذیب می‌کنید",
+    "transliteration": "Fabi-ayyi aalaaa'i Rabbikumaa tukadhhibaan"
+  },
+  {
+    "verse_number": 46,
+    "english_text": "And for him who fears to stand in the Presence of his Lord, there are two gardens.",
+    "arabic_text": "وَلِمَنْ خَافَ مَقَامَ رَبِّهِ جَنَّتَانِ",
+    "urdu_text": "اور جو شخص اپنے رب کے سامنے کھڑے ہونے سے ڈرتا ہے، اس کے لیے دو باغ ہیں",
+    "persian_text": "و برای کسی که از ایستادن در پیشگاه پروردگارش بترسد، دو باغ است",
+    "transliteration": "Wa liman khafa maqama rabbihi jannatan"
+  },
+  {
+    "verse_number": 47,
+    "english_text": "Then which of the favors of your Lord both of you will deny?",
+    "arabic_text": "فَبِاَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "urdu_text": "پھر تم دونوں اپنے رب کی کن کن نعمتوں کو جھٹلاؤ گے",
+    "persian_text": "پس کدام یک از نعمت‌های پروردگارتان را انکار می‌کنید",
+    "transliteration": "Fabi ayyi ala'i rabbikuma tukadhdhiban"
+  },
+  {
+    "verse_number": 48,
+    "english_text": "And branches of both the gardens will be laden with the fresh fruits.",
+    "arabic_text": "ذَوَاتَآ اَفْنَانٍۢ",
+    "urdu_text": "دونوں باغ شاخوں سے بھرے ہوئے ہیں",
+    "persian_text": "دارای شاخه‌های پر از میوه",
+    "transliteration": "Dhawata afnan"
+  },
+  {
+    "verse_number": 49,
+    "english_text": "Then which of the favors of your Lord both of you will deny?",
+    "arabic_text": "فَبِاَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "urdu_text": "پھر تم دونوں اپنے رب کی کن کن نعمتوں کو جھٹلاؤ گے",
+    "persian_text": "پس کدام یک از نعمت‌های پروردگارتان را انکار می‌کنید",
+    "transliteration": "Fabi ayyi ala'i rabbikuma tukadhdhiban"
+  },
+  {
+    "verse_number": 50,
+    "english_text": "In both of them two fountains shall be flowing.",
+    "arabic_text": "فِيهِمَا عَيْنَانِ تَجْرِيَانِ",
+    "urdu_text": "ان دونوں میں دو چشمے بہہ رہے ہیں",
+    "persian_text": "در آن دو، دو چشمه جاری است",
+    "transliteration": "Fihima 'aynani tajriyan"
+  },
+  {
+    "verse_number": 51,
+    "english_text": "Then which of the favors of your Lord both of you will deny?",
+    "arabic_text": "فَبِاَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "urdu_text": "پھر تم دونوں اپنے رب کی کن کن نعمتوں کو جھٹلاؤ گے؟",
+    "persian_text": "پس کدام یک از نعمت‌های پروردگارتان را تکذیب می‌کنید؟",
+    "transliteration": "Fabi-ayyi ala-i rabbikuma tukadhdhiban"
+  },
+  {
+    "verse_number": 52,
+    "english_text": "In both of them every fruit will be in pairs.",
+    "arabic_text": "فِيهِمَا مِن كُلِّ فَـٰكِهَةٍۢ زَوْجَانِ",
+    "urdu_text": "ان دونوں میں ہر قسم کے پھل دو دو قسم کے ہوں گے",
+    "persian_text": "در هر دوی آن‌ها از هر میوه‌ای دو گونه است",
+    "transliteration": "Feehima min kulli fakihatin zawjan"
+  },
+  {
+    "verse_number": 53,
+    "english_text": "Then which of the favors of your Lord both of you will deny?",
+    "arabic_text": "فَبِاَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "urdu_text": "پھر تم دونوں اپنے رب کی کن کن نعمتوں کو جھٹلاؤ گے؟",
+    "persian_text": "پس کدام یک از نعمت‌های پروردگارتان را تکذیب می‌کنید؟",
+    "transliteration": "Fabi-ayyi ala-i rabbikuma tukadhdhiban"
+  },
+  {
+    "verse_number": 54,
+    "english_text": "They shall be reclining on the carpets whose lining shall be of satin and fruits of both the gardens shall be very near.",
+    "arabic_text": "مُتَّكِـِٔينَ عَلَٰى فُرُشٍۢ بَطَآئِنُهَا مِنْ اِسْتَبْرَقٍۢ ۚ وَجَنَى الْجَنَّتَيْنِ دَانٍۭ",
+    "urdu_text": "وہ ایسے بستروں پر تکیہ لگائے ہوں گے جن کے استر نفیس ریشم کے ہوں گے اور دونوں باغوں کے پھل قریب جھکے ہوئے ہوں گے",
+    "persian_text": "بر بسترهایی تکیه زده‌اند که زیرشان از دیبای ضخیم است و میوه‌های هر دو باغ نزدیک است",
+    "transliteration": "Muttaki'eena 'ala furushin bata'inuha min istabraq, wa janal-jannatayni dan"
+  },
+  {
+    "verse_number": 55,
+    "english_text": "Then which of the favors of your Lord both of you will deny?",
+    "arabic_text": "فَبِاَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "urdu_text": "پھر تم دونوں اپنے رب کی کن کن نعمتوں کو جھٹلاؤ گے؟",
+    "persian_text": "پس کدام یک از نعمت‌های پروردگارتان را تکذیب می‌کنید؟",
+    "transliteration": "Fabi-ayyi ala-i rabbikuma tukadhdhiban"
+  },
+  {
+    "verse_number": 56,
+    "english_text": "In those Paradises there will be Hoories, limiting their glances; whom neither man nor jinn would have touched them before.",
+    "arabic_text": "فِيهِنَّ قَـٰصِرَٰتُ الطَّرْفِ لَمْ يَطْمِثْهُنَّ اِنسٌۭ قَبْلَهُمْ وَلَا جَآنٌّۭ",
+    "urdu_text": "ان جنتوں میں نیچی نگاہ والی حوریں ہوں گی جن کو ان سے پہلے نہ کسی انسان نے چھوا ہو گا اور نہ کسی جن نے",
+    "persian_text": "در آن بهشت‌ها حوریانی هستند که نگاه‌شان فروتن است و پیش از آنان نه انسی و نه جنی به آنها دست نزده است",
+    "transliteration": "Feehinna qasiratu at-tarfi lam yatmithhunna insun qablahum wa la jann"
+  },
+  {
+    "verse_number": 57,
+    "english_text": "Then which of the favors of your Lord both of you will deny?",
+    "arabic_text": "فَبِاَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "urdu_text": "پھر تم دونوں اپنے رب کی کن کن نعمتوں کو جھٹلاؤ گے",
+    "persian_text": "پس کدام یک از نعمت‌های پروردگارتان را انکار می‌کنید",
+    "transliteration": "Fabi ayyi ala'i rabbikuma tukadhdhiban"
+  },
+  {
+    "verse_number": 58,
+    "english_text": "Those Hoories will be like Rubies and coral.",
+    "arabic_text": "كَاَنَّهُنَّ الْيَاقُوتُ وَالْمَرْجَانُ",
+    "urdu_text": "وہ حوریں ایسی ہوں گی جیسے یاقوت اور مرجان",
+    "persian_text": "آنان همچون یاقوت و مرجان هستند",
+    "transliteration": "Ka'annahunna al-yaqootu wal-marjan"
+  },
+  {
+    "verse_number": 59,
+    "english_text": "Then which of the favors of your Lord both of you will deny?",
+    "arabic_text": "فَبِاَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "urdu_text": "پھر تم دونوں اپنے رب کی کن کن نعمتوں کو جھٹلاؤ گے",
+    "persian_text": "پس کدام یک از نعمت‌های پروردگارتان را انکار می‌کنید",
+    "transliteration": "Fabi ayyi ala'i rabbikuma tukadhdhiban"
+  },
+  {
+    "verse_number": 60,
+    "english_text": "Can the recompense of favor be anything else but favor?",
+    "arabic_text": "هَلْ جَزَآءُ الْاِحْسَـٰنِ اِلَّا الْاِحْسَـٰنُ",
+    "urdu_text": "کیا نیکی کا بدلہ نیکی کے سوا کچھ اور ہے",
+    "persian_text": "آیا جزای نیکی جز نیکی است",
+    "transliteration": "Hal jaza'u al-ihsani illa al-ihsan"
+  },
+  {
+    "verse_number": 61,
+    "english_text": "Then which of the favors of your Lord both of you will deny?",
+    "arabic_text": "فَبِاَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "urdu_text": "پھر تم دونوں اپنے رب کی کون کون سی نعمتوں کو جھٹلاؤ گے؟",
+    "persian_text": "پس کدام یک از نعمت‌های پروردگارتان را تکذیب می‌کنید؟",
+    "transliteration": "Fabi-ayyi ala-i rabbikuma tukadhdhiban"
+  },
+  {
+    "verse_number": 62,
+    "english_text": "And there will be two more gardens other than these two.",
+    "arabic_text": "وَمِن دُونِهِمَا جَنَّتَانِ",
+    "urdu_text": "اور ان دونوں کے علاوہ دو اور باغ ہوں گے",
+    "persian_text": "و غیر از آن دو، دو باغ دیگر خواهد بود",
+    "transliteration": "Wa min dunihima jannatan"
+  },
+  {
+    "verse_number": 63,
+    "english_text": "Then which of the favors of your Lord both of you will deny?",
+    "arabic_text": "فَبِاَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "urdu_text": "پھر تم دونوں اپنے رب کی کون کون سی نعمتوں کو جھٹلاؤ گے؟",
+    "persian_text": "پس کدام یک از نعمت‌های پروردگارتان را تکذیب می‌کنید؟",
+    "transliteration": "Fabi-ayyi ala-i rabbikuma tukadhdhiban"
+  },
+  {
+    "verse_number": 64,
+    "english_text": "Both of them will be extraordinarily green and blooming.",
+    "arabic_text": "مُدْهَامَّتَانِ",
+    "urdu_text": "دونوں گہرے سبز اور شاداب ہوں گے",
+    "persian_text": "هر دو سرسبز و خرم خواهند بود",
+    "transliteration": "Mudhammatan"
+  },
+  {
+    "verse_number": 65,
+    "english_text": "Then which of the favors of your Lord both of you will deny?",
+    "arabic_text": "فَبِاَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "urdu_text": "پھر تم دونوں اپنے رب کی کون کون سی نعمتوں کو جھٹلاؤ گے؟",
+    "persian_text": "پس کدام یک از نعمت‌های پروردگارتان را تکذیب می‌کنید؟",
+    "transliteration": "Fabi-ayyi ala-i rabbikuma tukadhdhiban"
+  },
+  {
+    "verse_number": 66,
+    "english_text": "These two gardens will also have two fountains which will be gushing with water.",
+    "arabic_text": "فِيهِمَا عَيْنَانِ نَضَّاخَتَانِ",
+    "urdu_text": "ان دونوں باغوں میں دو چشمے ہوں گے جو ابل رہے ہوں گے",
+    "persian_text": "در آن دو باغ، دو چشمه جوشان خواهد بود",
+    "transliteration": "Feehimaa 'aynaani naddaakhataan"
+  },
+  {
+    "verse_number": 67,
+    "english_text": "Then which of the favors of your Lord both of you will deny?",
+    "arabic_text": "فَبِاَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "urdu_text": "پھر تم دونوں اپنے رب کی کون کون سی نعمتوں کو جھٹلاؤ گے",
+    "persian_text": "پس کدام یک از نعمت‌های پروردگارتان را تکذیب می‌کنید",
+    "transliteration": "Fabi-ayyi aalaaa'i Rabbikumaa tukadhzhibaan"
+  },
+  {
+    "verse_number": 68,
+    "english_text": "In both the gardens will be fruits, date-palms and pomegranates.",
+    "arabic_text": "فِيهِمَا فَـٰكِهَةٌۭ وَنَخْلٌۭ وَرُمَّانٌۭ",
+    "urdu_text": "ان دونوں میں میوے اور کھجوریں اور انار ہوں گے",
+    "persian_text": "در آن دو باغ میوه‌ها و درختان خرما و انار خواهد بود",
+    "transliteration": "Feehimaa faakihatunw wa nakhlunw wa rummaan"
+  },
+  {
+    "verse_number": 69,
+    "english_text": "Then which of the favors of your Lord both of you will deny?",
+    "arabic_text": "فَبِاَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "urdu_text": "پھر تم دونوں اپنے رب کی کون کون سی نعمتوں کو جھٹلاؤ گے",
+    "persian_text": "پس کدام یک از نعمت‌های پروردگارتان را تکذیب می‌کنید",
+    "transliteration": "Fabi-ayyi aalaaa'i Rabbikumaa tukadhzhibaan"
+  },
+  {
+    "verse_number": 70,
+    "english_text": "In these Paradises there will be pure and beautiful women.",
+    "arabic_text": "فِيهِنَّ خَيْرَٰتٌ حِسَانٌۭ",
+    "urdu_text": "ان باغوں میں نیک اور خوبصورت عورتیں ہوں گی",
+    "persian_text": "در آن باغ‌ها زنان پاکیزه و زیبا خواهند بود",
+    "transliteration": "Feehinna khayraatun hisaan"
+  },
+  {
+    "verse_number": 71,
+    "english_text": "Then which of the favors of your Lord both of you will deny?",
+    "arabic_text": "فَبِاَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "urdu_text": "پھر تم دونوں اپنے رب کی کن کن نعمتوں کو جھٹلاؤ گے؟",
+    "persian_text": "پس کدام یک از نعمت‌های پروردگارتان را انکار می‌کنید؟",
+    "transliteration": "Fabi-ayyi ala-i rabbikuma tukadhdhiban"
+  },
+  {
+    "verse_number": 72,
+    "english_text": "Hoories will be sitting in the tents.",
+    "arabic_text": "حُورٌۭ مَّقْصُورَٰتٌۭ فِى الْخِيَامِ",
+    "urdu_text": "خیموں میں پردہ نشین حوریں ہوں گی",
+    "persian_text": "حوریانی که در خیمه‌ها نگهداری شده‌اند",
+    "transliteration": "Hoorun maqsooratun fil khiyam"
+  },
+  {
+    "verse_number": 73,
+    "english_text": "Then which of the favors of your Lord both of you will deny?",
+    "arabic_text": "فَبِاَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "urdu_text": "پھر تم دونوں اپنے رب کی کن کن نعمتوں کو جھٹلاؤ گے؟",
+    "persian_text": "پس کدام یک از نعمت‌های پروردگارتان را انکار می‌کنید؟",
+    "transliteration": "Fabi-ayyi ala-i rabbikuma tukadhdhiban"
+  },
+  {
+    "verse_number": 74,
+    "english_text": "Whom no man or jinn would have touched them before.",
+    "arabic_text": "لَمْ يَطْمِثْهُنَّ اِنسٌۭ قَبْلَهُمْ وَلَا جَآنٌّۭ",
+    "urdu_text": "جن کو ان سے پہلے نہ کسی انسان نے چھوا ہو اور نہ کسی جن نے",
+    "persian_text": "که پیش از ایشان نه انسی و نه جنی آنان را لمس نکرده است",
+    "transliteration": "Lam yatmithhunna insun qablahum wala jann"
+  },
+  {
+    "verse_number": 75,
+    "english_text": "Then which of the favors of your Lord both of you will deny?",
+    "arabic_text": "فَبِاَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "urdu_text": "پھر تم دونوں اپنے رب کی کن کن نعمتوں کو جھٹلاؤ گے؟",
+    "persian_text": "پس کدام یک از نعمت‌های پروردگارتان را انکار می‌کنید؟",
+    "transliteration": "Fabi-ayyi ala-i rabbikuma tukadhdhiban"
+  },
+  {
+    "verse_number": 76,
+    "english_text": "They shall be reclining on green cushions and fine carpets.",
+    "arabic_text": "مُتَّكِـِٔينَ عَلَٰى رَفْرَفٍ خُضْرٍۢ وَعَبْقَرِىٍّ حِسَانٍۢ",
+    "urdu_text": "وہ سبز تکیوں اور خوبصورت قالینوں پر تکیہ لگائے ہوں گے",
+    "persian_text": "بر بالش‌های سبز و فرش‌های زیبا تکیه زده‌اند",
+    "transliteration": "Muttaki'eena 'ala rafrafin khudrin wa 'abqariyyin hisan"
+  },
+  {
+    "verse_number": 77,
+    "english_text": "Then which of the favors of your Lord both of you will deny?",
+    "arabic_text": "فَبِاَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "urdu_text": "پس تم دونوں اپنے رب کی کون کون سی نعمتوں کو جھٹلاؤ گے",
+    "persian_text": "پس کدام یک از نعمت‌های پروردگارتان را انکار می‌کنید",
+    "transliteration": "Fabi ayyi ala'i rabbikuma tukadhdhiban"
+  },
+  {
+    "verse_number": 78,
+    "english_text": "Blessed is the name of your Lord, full of Majesty, Bounty and Honor.",
+    "arabic_text": "تَبَـٰرَكَ اسْمُ رَبِّكَ ذِى الْجَلَـٰلِ وَالْاِكْرَامِ",
+    "urdu_text": "بڑی برکت والا ہے تیرے رب کا نام جو صاحب جلال اور صاحب اکرام ہے",
+    "persian_text": "نام پروردگارت که دارای جلال و اکرام است، پر برکت است",
+    "transliteration": "Tabaraka ismu rabbika dhil jalali wal ikram"
+  }
+]

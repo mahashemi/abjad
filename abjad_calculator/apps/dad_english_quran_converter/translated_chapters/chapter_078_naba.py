@@ -1,0 +1,329 @@
+"""
+Chapter 78: naba
+Arabic: النبإ
+Total Verses: 40
+Generated: 2026-01-14T04:28:23.357522
+"""
+
+ayats = [
+  {
+    "verse_number": 1,
+    "english_text": "In which matter are these people questioning among themselves?",
+    "arabic_text": "عَمَّ يَتَسَآءَلُونَ",
+    "urdu_text": "یہ لوگ کس چیز کے بارے میں ایک دوسرے سے سوال کر رہے ہیں؟",
+    "persian_text": "درباره چه چیز از یکدیگر می‌پرسند؟",
+    "transliteration": "Amma yatasaa'aloon"
+  },
+  {
+    "verse_number": 2,
+    "english_text": "About the great news.",
+    "arabic_text": "عَنِ النَّبَاِ الْعَظِيمِ",
+    "urdu_text": "اس عظیم خبر کے بارے میں۔",
+    "persian_text": "درباره خبر بزرگ.",
+    "transliteration": "Anin-naba'il-'azeem"
+  },
+  {
+    "verse_number": 3,
+    "english_text": "In which they differ among them.",
+    "arabic_text": "الَّذِي هُمْ فِيهِ مُخْتَلِفُونَ",
+    "urdu_text": "جس میں وہ اختلاف کر رہے ہیں۔",
+    "persian_text": "همان که آنان در آن اختلاف دارند.",
+    "transliteration": "Allazee hum feehi mukhtalifoon"
+  },
+  {
+    "verse_number": 4,
+    "english_text": "Nothing, shortly they will come to know.",
+    "arabic_text": "كَلَّا سَيَعْلَمُونَ",
+    "urdu_text": "ہرگز نہیں، عنقریب وہ جان لیں گے۔",
+    "persian_text": "هرگز نه، به زودی خواهند دانست.",
+    "transliteration": "Kalla saya'lamoon"
+  },
+  {
+    "verse_number": 5,
+    "english_text": "And will know well.",
+    "arabic_text": "ثُمَّ كَلَّا سَيَعْلَمُونَ",
+    "urdu_text": "پھر ہرگز نہیں، وہ ضرور جان لیں گے۔",
+    "persian_text": "باز هم هرگز نه، به زودی خواهند دانست.",
+    "transliteration": "Thumma kalla saya'lamoon"
+  },
+  {
+    "verse_number": 6,
+    "english_text": "Have not We made the floor of earth.",
+    "arabic_text": "اَلَمْ نَجْعَلِ الْاَرْضَ مِهٰدًا",
+    "urdu_text": "کیا ہم نے زمین کو فرش نہیں بنایا",
+    "persian_text": "آیا زمین را بستری (گسترده) قرار ندادیم",
+    "transliteration": "Alam naj'alil arda mihaada"
+  },
+  {
+    "verse_number": 7,
+    "english_text": "And have not made the mountains like nails (thereon).",
+    "arabic_text": "وَ الْجِبَالَ اَوْتَادًا",
+    "urdu_text": "اور پہاڑوں کو میخوں کی طرح نہیں بنایا",
+    "persian_text": "و کوه‌ها را میخ‌هایی (استوار) قرار دادیم",
+    "transliteration": "Wal jibaala awtaada"
+  },
+  {
+    "verse_number": 8,
+    "english_text": "And only We have made your pair.",
+    "arabic_text": "وَ خَلَقْنٰكُمْ اَزْوَاجًا",
+    "urdu_text": "اور ہم نے تمہیں جوڑے جوڑے پیدا کیا",
+    "persian_text": "و شما را جفت‌ها (زن و مرد) آفریدیم",
+    "transliteration": "Wa khalaqnaakum azwaaja"
+  },
+  {
+    "verse_number": 9,
+    "english_text": "And make your sleep restful.",
+    "arabic_text": "وَ جَعَلْنَا نَوْمَكُمْ سُبَاتًا",
+    "urdu_text": "اور ہم نے تمہاری نیند کو آرام کا ذریعہ بنایا",
+    "persian_text": "و خواب شما را (وسیله) آرامش قرار دادیم",
+    "transliteration": "Wa ja'alnaa nawmakum subaata"
+  },
+  {
+    "verse_number": 10,
+    "english_text": "And made the night a curtain.",
+    "arabic_text": "وَ جَعَلْنَا الَّيْلَ لِبَاسًا",
+    "urdu_text": "اور ہم نے رات کو پردہ بنایا",
+    "persian_text": "و شب را پوششی (تاریک) قرار دادیم",
+    "transliteration": "Wa ja'alnal layla libaasa"
+  },
+  {
+    "verse_number": 11,
+    "english_text": "And made the daytime for sustenance.",
+    "arabic_text": "وَ جَعَلْنَا النَّهَارَ مَعَاشًا",
+    "urdu_text": "اور ہم نے دن کو معاش کمانے کا وقت بنایا",
+    "persian_text": "و روز را برای معاش و زندگانی قرار دادیم",
+    "transliteration": "Wa ja'alnan-nahaara ma'aasha"
+  },
+  {
+    "verse_number": 12,
+    "english_text": "And made seven strong skies upon your heads.",
+    "arabic_text": "وَ بَنَيْنَا فَوْقَكُمْ سَبْعًا شِدَادًا",
+    "urdu_text": "اور ہم نے تمہارے اوپر سات مضبوط آسمان بنائے",
+    "persian_text": "و بر فراز شما هفت آسمان استوار بنا کردیم",
+    "transliteration": "Wa banainaa fawqakum sab'an shidaada"
+  },
+  {
+    "verse_number": 13,
+    "english_text": "And have made a flaring lamp",
+    "arabic_text": "وَ جَعَلْنَا سِرَاجًا وَهَّاجًا",
+    "urdu_text": "اور ہم نے ایک روشن چراغ بنایا",
+    "persian_text": "و چراغی فروزان و تابان قرار دادیم",
+    "transliteration": "Wa ja'alnaa siraajan wahhaaja"
+  },
+  {
+    "verse_number": 14,
+    "english_text": "And caused rained water incessantly from the clouds.",
+    "arabic_text": "وَ اَنزَلْنَا مِنَ الْمُعْصِرٰتِ مَآءً ثَجَّاجًا",
+    "urdu_text": "اور ہم نے بادلوں سے موسلادھار پانی برسایا",
+    "persian_text": "و از ابرها آب فراوان فرو فرستادیم",
+    "transliteration": "Wa anzalnaa minal-mu'siraati maaa'an thajjaaja"
+  },
+  {
+    "verse_number": 15,
+    "english_text": "So that through it cause to grow the seeds and grass.",
+    "arabic_text": "لِّنُخْرِجَ بِهِ حَبًّا وَّ نَبَاتًا",
+    "urdu_text": "تاکہ اس سے اناج اور سبزہ اُگائیں",
+    "persian_text": "تا بدان دانه و گیاه بیرون آوریم",
+    "transliteration": "Linukhrija bihee habban wa nabaata"
+  },
+  {
+    "verse_number": 16,
+    "english_text": "And make thick gardens.",
+    "arabic_text": "وَ جَنّٰتٍ اَلْفَافًا",
+    "urdu_text": "اور گھنے باغات اگائے",
+    "persian_text": "و باغ‌های انبوه و پرپشت",
+    "transliteration": "Wa jannatin alfafa"
+  },
+  {
+    "verse_number": 17,
+    "english_text": "Verily the day of decision is definite.",
+    "arabic_text": "اِنَّ يَوْمَ الْفَصْلِ كَانَ مِيقَاتًا",
+    "urdu_text": "بیشک فیصلے کا دن ایک مقررہ وقت ہے",
+    "persian_text": "همانا روز جدایی و داوری زمانی معین است",
+    "transliteration": "Inna yawmal fasli kana meeqata"
+  },
+  {
+    "verse_number": 18,
+    "english_text": "The day trumpet will be blown, and you will come all in groups.",
+    "arabic_text": "يَوْمَ يُنفَخُ فِي الصُّورِ فَتَاْتُونَ اَفْوَاجًا",
+    "urdu_text": "جس دن صور میں پھونکا جائے گا تو تم گروہ در گروہ آؤ گے",
+    "persian_text": "روزی که در صور دمیده شود پس شما گروه گروه خواهید آمد",
+    "transliteration": "Yawma yunfakhu fis soori fata'toona afwaja"
+  },
+  {
+    "verse_number": 19,
+    "english_text": "And ways of the sky will be made open, and gates shall come into existence.",
+    "arabic_text": "وَّ فُتِحَتِ السَمَآءُ فَكَانَتْ اَبْوابًا",
+    "urdu_text": "اور آسمان کھول دیا جائے گا تو وہ دروازے بن جائے گا",
+    "persian_text": "و آسمان گشوده شود پس دروازه‌ها خواهد شد",
+    "transliteration": "Wa futihatissamaa'u fakanat abwaba"
+  },
+  {
+    "verse_number": 20,
+    "english_text": "And mountains will be moved from their place, and they will become like sand.",
+    "arabic_text": "وَ سُيِّرَتِ الْجِبَالُ فَكَانَتْ سَرَابًا",
+    "urdu_text": "اور پہاڑ چلائے جائیں گے تو وہ ریت کی طرح ہو جائیں گے",
+    "persian_text": "و کوه‌ها به حرکت درآیند پس سراب خواهند شد",
+    "transliteration": "Wa suyyiratil jibaalu fakanat saraba"
+  },
+  {
+    "verse_number": 21,
+    "english_text": "Verily, Hell is waiting for them.",
+    "arabic_text": "اِنَّ جَهَنَّمَ كَانَتْ مِرْصَادًا",
+    "urdu_text": "بیشک جہنم گھات میں ہے",
+    "persian_text": "به راستی که جهنم در کمین است",
+    "transliteration": "Inna jahannama kanat mirsaada"
+  },
+  {
+    "verse_number": 22,
+    "english_text": "That is the final abode for rebellious.",
+    "arabic_text": "لِّلطَّاغِينَ مَاٰبًا",
+    "urdu_text": "سرکشوں کے لیے ٹھکانا",
+    "persian_text": "برای طاغیان جایگاه بازگشت",
+    "transliteration": "Lit-taaghheena ma'aaba"
+  },
+  {
+    "verse_number": 23,
+    "english_text": "They will abide in it for ages.",
+    "arabic_text": "لّٰبِثِينَ فِيهَآ اَحْقَابًا",
+    "urdu_text": "وہ اس میں زمانوں تک رہنے والے ہیں",
+    "persian_text": "در آن دوران‌های طولانی خواهند ماند",
+    "transliteration": "Laabitheena feeha ahqaaba"
+  },
+  {
+    "verse_number": 24,
+    "english_text": "They shall not be able to taste the cold nor of any drink.",
+    "arabic_text": "لَا يَذُوقُونَ فِيهَا بَرْدًا وَّ لَا شَرَابًا",
+    "urdu_text": "وہ اس میں نہ ٹھنڈک کا مزہ چکھیں گے اور نہ کوئی پینے کی چیز",
+    "persian_text": "در آن نه سردی و نه نوشیدنی خواهند چشید",
+    "transliteration": "Laa yazooqoona feeha bardan wa laa sharaaba"
+  },
+  {
+    "verse_number": 25,
+    "english_text": "Except boiling water and puss.",
+    "arabic_text": "اِلَّا حَمِيمًا وَّ غَسَّاقًا",
+    "urdu_text": "سوائے کھولتے ہوئے پانی اور پیپ کے",
+    "persian_text": "مگر آب جوشان و چرک",
+    "transliteration": "Illaa hameeman wa ghassaaqa"
+  },
+  {
+    "verse_number": 26,
+    "english_text": "This is complete recompense for their deeds.",
+    "arabic_text": "جَزَاءً وِفَاقًا",
+    "urdu_text": "یہ ان کے اعمال کا پورا بدلہ ہے",
+    "persian_text": "این جزای کامل اعمالشان است",
+    "transliteration": "Jazaa'an wifaaqa"
+  },
+  {
+    "verse_number": 27,
+    "english_text": "These people were not hopeful that they will be accounted for.",
+    "arabic_text": "اِنَّهُمْ كَانُوا لَا يَرْجُونَ حِسَابًا",
+    "urdu_text": "بیشک یہ لوگ حساب کی امید نہیں رکھتے تھے",
+    "persian_text": "آنان امید به حسابرسی نداشتند",
+    "transliteration": "Innahum kaanoo laa yarjoona hisaaba"
+  },
+  {
+    "verse_number": 28,
+    "english_text": "They regularly denied Our verses.",
+    "arabic_text": "وَ كَذَّبُوا بِاٰيَاتِنَا كِذَّابًا",
+    "urdu_text": "اور انہوں نے ہماری آیات کو جھٹلایا سخت جھٹلایا",
+    "persian_text": "و آیات ما را به شدت تکذیب کردند",
+    "transliteration": "Wa kazzaboo bi-aayaatinaa kizzaaba"
+  },
+  {
+    "verse_number": 29,
+    "english_text": "And We have collected everything in Our book.",
+    "arabic_text": "وَ كُلَّ شَيْءٍ اَحْصَيْنٰهُ كِتٰبًا",
+    "urdu_text": "اور ہم نے ہر چیز کو اپنی کتاب میں شمار کر رکھا ہے",
+    "persian_text": "و همه چیز را در کتاب خود ثبت کرده‌ایم",
+    "transliteration": "Wa kulla shay'in ahsaynaahu kitaaba"
+  },
+  {
+    "verse_number": 30,
+    "english_text": "Now taste your deeds, and We cannot increase anything but punishment.",
+    "arabic_text": "فَذُوقُوا فَلَن نَّزِيدَكُمْ اِلَّا عَذَابًا",
+    "urdu_text": "پس چکھو، اب ہم تمہارے لیے عذاب کے سوا کچھ نہیں بڑھائیں گے",
+    "persian_text": "پس بچشید، ما جز عذاب چیزی بر شما نخواهیم افزود",
+    "transliteration": "Fazooqoo falan nazeedakum illaa 'azaaba"
+  },
+  {
+    "verse_number": 31,
+    "english_text": "Verily for the righteous people it is point of achievement.",
+    "arabic_text": "اِنَّ لِلْمُتَّقِينَ مَفَازًا",
+    "urdu_text": "بیشک پرہیزگاروں کے لیے کامیابی ہے",
+    "persian_text": "به راستی برای پرهیزگاران رستگاری است",
+    "transliteration": "Inna lil-muttaqeena mafaaza"
+  },
+  {
+    "verse_number": 32,
+    "english_text": "Gardens are there and grapes.",
+    "arabic_text": "حَدَآئِقَ وَ اَعْنَابًا",
+    "urdu_text": "باغات اور انگور",
+    "persian_text": "باغ‌ها و انگورها",
+    "transliteration": "Hadaa'iqa wa a'naaba"
+  },
+  {
+    "verse_number": 33,
+    "english_text": "Young virgins girls and all of the same age.",
+    "arabic_text": "وَ كَوَاعِبَ اَتْرَابًا",
+    "urdu_text": "اور ہم عمر نوجوان حوریں",
+    "persian_text": "و دختران جوان هم‌سال",
+    "transliteration": "Wa kawaa'iba atraaba"
+  },
+  {
+    "verse_number": 34,
+    "english_text": "Glasses filled up to the brims.",
+    "arabic_text": "وَ كَاْسًا دِهَاقًا",
+    "urdu_text": "اور لبریز پیالے",
+    "persian_text": "و جام‌های لبریز",
+    "transliteration": "Wa kaasan dihaaqaa"
+  },
+  {
+    "verse_number": 35,
+    "english_text": "There they will not hear any vain talk nor sin.",
+    "arabic_text": "لَّا يَسْمَعُونَ فِيهَا لَغْوًا وَّ لَا كِذّٰبًا",
+    "urdu_text": "وہاں نہ کوئی بیہودہ بات سنیں گے اور نہ جھوٹ",
+    "persian_text": "در آنجا نه سخن بیهوده شنوند و نه دروغ",
+    "transliteration": "Laa yasma'oona feehaa laghwan wa laa kidhdhaba"
+  },
+  {
+    "verse_number": 36,
+    "english_text": "This is the reckoning bestowed upon you from your Lord, and reward for your deeds.",
+    "arabic_text": "جَزَآءٗ مِّن رَّبِّكَ عَطَآءً حِسَابًا",
+    "urdu_text": "یہ تمہارے رب کی طرف سے بدلہ اور عطا ہے جو حساب کے مطابق ہے",
+    "persian_text": "این پاداش و عطای از جانب پروردگار تو است که به حساب داده می‌شود",
+    "transliteration": "Jazaa'am mir Rabbika 'ataa'an hisaaba"
+  },
+  {
+    "verse_number": 37,
+    "english_text": "He is the Merciful Lord of the skies and the earth and in between them and no one has the strength to talk before Him.",
+    "arabic_text": "رَّبِّ السَّمٰوٰتِ وَ الْاَرْضِ وَ مَا بَيْنَهُمَا الرَّحْمـٰنِ لَا يَمْلِكُونَ مِنْهُ خِطَابًا",
+    "urdu_text": "وہ آسمانوں اور زمین اور جو کچھ ان کے درمیان ہے سب کا رب رحمٰن ہے، کوئی اس سے بات کرنے کی طاقت نہیں رکھتا",
+    "persian_text": "پروردگار آسمان‌ها و زمین و آنچه میان آنهاست، رحمان است که کسی یارای سخن گفتن با او را ندارد",
+    "transliteration": "Rabbis samaawaati wal ardi wa maa baynahumar Rahmaani laa yamlikoona minhu khitaaba"
+  },
+  {
+    "verse_number": 38,
+    "english_text": "The day Spirit and the angels will stand in queue, and no one even will be able to talk; except whom the Merciful give permission, and talk rightfully.",
+    "arabic_text": "يَوْمَ يَقُومُ الرُّوحُ وَ الْمَلٰٓئِكَةُ صَفّٗا لَّا يَتَكَلَّمُونَ اِلَّا مَنْ اَذِنَ لَهُ الرَّحْمـٰنُ وَ قَالَ صَوَابًا",
+    "urdu_text": "جس دن روح اور فرشتے قطار میں کھڑے ہوں گے، کوئی بات نہیں کر سکے گا سوائے اس کے جسے رحمٰن اجازت دے اور وہ صحیح بات کہے",
+    "persian_text": "روزی که روح و فرشتگان به صف ایستند، سخن نگویند مگر کسی که رحمان به او اذن دهد و سخن درست بگوید",
+    "transliteration": "Yawma yaqoomur roohu wal malaa'ikatu saffal laa yatakallamoona illaa man adhina lahur Rahmaanu wa qaala sawaaba"
+  },
+  {
+    "verse_number": 39,
+    "english_text": "This is the Day of Truth so anyone who wishes, may make a place towards his Lord.",
+    "arabic_text": "ذٰلِكَ الْيَوْمُ الْحَقُّ فَمَن شَآءَ اتَّخَذَ اِلَٰى رَبِّهُ مَـَٔابًا",
+    "urdu_text": "یہ سچا دن ہے، پس جو چاہے اپنے رب کی طرف جانے کا راستہ اختیار کر لے",
+    "persian_text": "این روز حق است، پس هر که بخواهد راهی به سوی پروردگارش برگزیند",
+    "transliteration": "Dhalikal yawmul haqqu faman shaa'at takhaza ilaa Rabbihi ma'aaba"
+  },
+  {
+    "verse_number": 40,
+    "english_text": "We have warned you from a near punishment, the day man will see his deeds, and infidel will say, O! I wish I would have become dust.",
+    "arabic_text": "اِنَّآ اَنذَرْنٰكُمْ عَذَابًا قَرِيبًا يَوْمَ يَنظُرُ الْمَرْءُ مَا قَدَّمَتْ يَدٰهُ وَ يَقُولُ الْكٰفِرُ يٰلَيْتَنِي كُنتُ تُرٰبا",
+    "urdu_text": "ہم نے تمہیں قریب کے عذاب سے ڈرایا ہے، جس دن انسان دیکھے گا جو اس کے ہاتھوں نے آگے بھیجا، اور کافر کہے گا اے کاش میں مٹی ہوتا",
+    "persian_text": "ما شما را از عذابی نزدیک بیم دادیم، روزی که انسان می‌بیند آنچه دستانش پیش فرستاده و کافر می‌گوید ای کاش خاک بودم",
+    "transliteration": "Innaa andharnakum 'adhaaban qareeban yawma yandhurur mar'u maa qaddamat yadaahu wa yaqoolul kaafiru yaa laytanee kuntu turaaba"
+  }
+]
