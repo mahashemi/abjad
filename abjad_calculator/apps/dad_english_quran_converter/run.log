@@ -1,0 +1,229 @@
+2026-01-13 00:21:08,774 - INFO - Processing chapters: [50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77]
+2026-01-13 00:21:08,775 - INFO - Excluding chapters: [55, 56, 58, 59]
+2026-01-13 00:21:08,775 - INFO - Final chapter list: [50, 51, 52, 53, 54, 57, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77]
+2026-01-13 00:21:08,784 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2026-01-13 00:21:08,843 - INFO - Bedrock client initialized successfully (read timeout: 30 minutes)
+2026-01-13 00:21:08,843 - INFO - Output directory: /home/sazmham/personal_apps/abjad/abjad_calculator/apps/dad_english_quran_converter/translated_chapters
+2026-01-13 00:21:08,843 - INFO - Interim batches directory: /home/sazmham/personal_apps/abjad/abjad_calculator/apps/dad_english_quran_converter/translated_chapters/.interim_batches
+2026-01-13 00:21:08,844 - INFO - Loaded progress from /home/sazmham/personal_apps/abjad/abjad_calculator/apps/dad_english_quran_converter/translation_progress.json
+2026-01-13 00:21:08,844 - INFO - ================================================================================
+2026-01-13 00:21:08,844 - INFO - Starting Quran Translation
+2026-01-13 00:21:08,844 - INFO - ================================================================================
+2026-01-13 00:21:08,858 - INFO - Loaded Quran data with 114 chapters
+2026-01-13 00:21:08,858 - INFO - Total chapters in Quran: 114
+2026-01-13 00:21:08,858 - INFO - Chapters to process: [50, 51, 52, 53, 54, 57, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77]
+2026-01-13 00:21:08,858 - INFO - Total chapters to process: 24
+2026-01-13 00:21:08,858 - INFO - Skipping chapter 50 (already completed)
+2026-01-13 00:21:08,858 - INFO - Skipping chapter 51 (already completed)
+2026-01-13 00:21:08,858 - INFO - Skipping chapter 52 (already completed)
+2026-01-13 00:21:08,858 - INFO - Skipping chapter 53 (already completed)
+2026-01-13 00:21:08,858 - INFO - Skipping chapter 54 (already completed)
+2026-01-13 00:21:08,858 - INFO - Starting chapter 57: Hadeed (29 verses)
+2026-01-13 00:21:08,858 - INFO - Processing chapter 57, batch 1, verses 1-10 of 29
+2026-01-13 00:22:00,609 - INFO - Batch 1 completed successfully
+2026-01-13 00:22:01,609 - INFO - Processing chapter 57, batch 2, verses 11-20 of 29
+2026-01-13 00:23:25,136 - INFO - Batch 2 completed successfully
+2026-01-13 00:23:26,137 - INFO - Processing chapter 57, batch 3, verses 21-29 of 29
+2026-01-13 00:24:36,767 - INFO - Batch 3 completed successfully
+2026-01-13 00:24:37,768 - INFO - Completed chapter 57: Hadeed
+2026-01-13 00:24:37,769 - INFO - Saved chapter 57 to /home/sazmham/personal_apps/abjad/abjad_calculator/apps/dad_english_quran_converter/translated_chapters/chapter_057_hadeed.py
+2026-01-13 00:24:37,769 - INFO - Chapter 57 completed and saved
+2026-01-13 00:24:37,769 - INFO - Starting chapter 60: Mumtahina (13 verses)
+2026-01-13 00:24:37,769 - INFO - Processing chapter 60, batch 1, verses 1-10 of 13
+2026-01-13 00:26:17,776 - INFO - Batch 1 completed successfully
+2026-01-13 00:26:18,776 - INFO - Processing chapter 60, batch 2, verses 11-13 of 13
+2026-01-13 00:26:46,525 - INFO - Batch 2 completed successfully
+2026-01-13 00:26:47,526 - INFO - Completed chapter 60: Mumtahina
+2026-01-13 00:26:47,527 - INFO - Saved chapter 60 to /home/sazmham/personal_apps/abjad/abjad_calculator/apps/dad_english_quran_converter/translated_chapters/chapter_060_mumtahina.py
+2026-01-13 00:26:47,527 - INFO - Chapter 60 completed and saved
+2026-01-13 00:26:47,527 - INFO - Starting chapter 61: As-Saff (14 verses)
+2026-01-13 00:26:47,527 - INFO - Processing chapter 61, batch 1, verses 1-10 of 14
+2026-01-13 00:27:32,833 - INFO - Batch 1 completed successfully
+2026-01-13 00:27:33,833 - INFO - Processing chapter 61, batch 2, verses 11-14 of 14
+2026-01-13 00:27:58,586 - INFO - Batch 2 completed successfully
+2026-01-13 00:27:59,586 - INFO - Completed chapter 61: As-Saff
+2026-01-13 00:27:59,587 - INFO - Saved chapter 61 to /home/sazmham/personal_apps/abjad/abjad_calculator/apps/dad_english_quran_converter/translated_chapters/chapter_061_as-saff.py
+2026-01-13 00:27:59,588 - INFO - Chapter 61 completed and saved
+2026-01-13 00:27:59,588 - INFO - Starting chapter 62: Jumah (11 verses)
+2026-01-13 00:27:59,588 - INFO - Processing chapter 62, batch 1, verses 1-10 of 11
+2026-01-13 00:28:50,815 - INFO - Batch 1 completed successfully
+2026-01-13 00:28:51,816 - INFO - Processing chapter 62, batch 2, verses 11-11 of 11
+2026-01-13 00:29:00,700 - INFO - Batch 2 completed successfully
+2026-01-13 00:29:01,700 - INFO - Completed chapter 62: Jumah
+2026-01-13 00:29:01,701 - INFO - Saved chapter 62 to /home/sazmham/personal_apps/abjad/abjad_calculator/apps/dad_english_quran_converter/translated_chapters/chapter_062_jumah.py
+2026-01-13 00:29:01,702 - INFO - Chapter 62 completed and saved
+2026-01-13 00:29:01,702 - INFO - Starting chapter 63: Munafeqoon (11 verses)
+2026-01-13 00:29:01,702 - INFO - Processing chapter 63, batch 1, verses 1-10 of 11
+2026-01-13 00:30:02,580 - INFO - Batch 1 completed successfully
+2026-01-13 00:30:03,580 - INFO - Processing chapter 63, batch 2, verses 11-11 of 11
+2026-01-13 00:30:08,950 - INFO - Batch 2 completed successfully
+2026-01-13 00:30:09,950 - INFO - Completed chapter 63: Munafeqoon
+2026-01-13 00:30:09,951 - INFO - Saved chapter 63 to /home/sazmham/personal_apps/abjad/abjad_calculator/apps/dad_english_quran_converter/translated_chapters/chapter_063_munafeqoon.py
+2026-01-13 00:30:09,951 - INFO - Chapter 63 completed and saved
+2026-01-13 00:30:09,952 - INFO - Starting chapter 64: Taghabun (18 verses)
+2026-01-13 00:30:09,952 - INFO - Processing chapter 64, batch 1, verses 1-10 of 18
+2026-01-13 00:31:01,980 - INFO - Batch 1 completed successfully
+2026-01-13 00:31:02,980 - INFO - Processing chapter 64, batch 2, verses 11-18 of 18
+2026-01-13 00:31:36,201 - INFO - Batch 2 completed successfully
+2026-01-13 00:31:37,201 - INFO - Completed chapter 64: Taghabun
+2026-01-13 00:31:37,202 - INFO - Saved chapter 64 to /home/sazmham/personal_apps/abjad/abjad_calculator/apps/dad_english_quran_converter/translated_chapters/chapter_064_taghabun.py
+2026-01-13 00:31:37,202 - INFO - Chapter 64 completed and saved
+2026-01-13 00:31:37,202 - INFO - Starting chapter 65: Talaaq (12 verses)
+2026-01-13 00:31:37,203 - INFO - Processing chapter 65, batch 1, verses 1-10 of 12
+2026-01-13 00:33:00,699 - INFO - Batch 1 completed successfully
+2026-01-13 00:33:01,699 - INFO - Processing chapter 65, batch 2, verses 11-12 of 12
+2026-01-13 00:33:21,586 - INFO - Batch 2 completed successfully
+2026-01-13 00:33:22,587 - INFO - Completed chapter 65: Talaaq
+2026-01-13 00:33:22,588 - INFO - Saved chapter 65 to /home/sazmham/personal_apps/abjad/abjad_calculator/apps/dad_english_quran_converter/translated_chapters/chapter_065_talaaq.py
+2026-01-13 00:33:22,588 - INFO - Chapter 65 completed and saved
+2026-01-13 00:33:22,588 - INFO - Starting chapter 66: Tahreem (12 verses)
+2026-01-13 00:33:22,588 - INFO - Processing chapter 66, batch 1, verses 1-10 of 12
+2026-01-13 00:34:42,270 - INFO - Batch 1 completed successfully
+2026-01-13 00:34:43,271 - INFO - Processing chapter 66, batch 2, verses 11-12 of 12
+2026-01-13 00:34:56,732 - INFO - Batch 2 completed successfully
+2026-01-13 00:34:57,732 - INFO - Completed chapter 66: Tahreem
+2026-01-13 00:34:57,733 - INFO - Saved chapter 66 to /home/sazmham/personal_apps/abjad/abjad_calculator/apps/dad_english_quran_converter/translated_chapters/chapter_066_tahreem.py
+2026-01-13 00:34:57,734 - INFO - Chapter 66 completed and saved
+2026-01-13 00:34:57,734 - INFO - Starting chapter 67: Mulk (30 verses)
+2026-01-13 00:34:57,734 - INFO - Processing chapter 67, batch 1, verses 1-10 of 30
+2026-01-13 00:35:37,880 - INFO - Batch 1 completed successfully
+2026-01-13 00:35:38,880 - INFO - Processing chapter 67, batch 2, verses 11-20 of 30
+2026-01-13 00:36:16,540 - INFO - Batch 2 completed successfully
+2026-01-13 00:36:17,540 - INFO - Processing chapter 67, batch 3, verses 21-30 of 30
+2026-01-13 00:36:53,589 - INFO - Batch 3 completed successfully
+2026-01-13 00:36:54,589 - INFO - Completed chapter 67: Mulk
+2026-01-13 00:36:54,590 - INFO - Saved chapter 67 to /home/sazmham/personal_apps/abjad/abjad_calculator/apps/dad_english_quran_converter/translated_chapters/chapter_067_mulk.py
+2026-01-13 00:36:54,591 - INFO - Chapter 67 completed and saved
+2026-01-13 00:36:54,591 - INFO - Starting chapter 68: Qalam (52 verses)
+2026-01-13 00:36:54,591 - INFO - Processing chapter 68, batch 1, verses 1-10 of 52
+2026-01-13 00:37:15,256 - INFO - Batch 1 completed successfully
+2026-01-13 00:37:16,256 - INFO - Processing chapter 68, batch 2, verses 11-20 of 52
+2026-01-13 00:37:42,492 - INFO - Batch 2 completed successfully
+2026-01-13 00:37:43,492 - INFO - Processing chapter 68, batch 3, verses 21-30 of 52
+2026-01-13 00:38:06,514 - INFO - Batch 3 completed successfully
+2026-01-13 00:38:07,514 - INFO - Processing chapter 68, batch 4, verses 31-40 of 52
+2026-01-13 00:38:34,093 - INFO - Batch 4 completed successfully
+2026-01-13 00:38:35,094 - INFO - Processing chapter 68, batch 5, verses 41-50 of 52
+2026-01-13 00:39:08,090 - INFO - Batch 5 completed successfully
+2026-01-13 00:39:09,091 - INFO - Processing chapter 68, batch 6, verses 51-52 of 52
+2026-01-13 00:39:17,511 - INFO - Batch 6 completed successfully
+2026-01-13 00:39:18,512 - INFO - Completed chapter 68: Qalam
+2026-01-13 00:39:18,513 - INFO - Saved chapter 68 to /home/sazmham/personal_apps/abjad/abjad_calculator/apps/dad_english_quran_converter/translated_chapters/chapter_068_qalam.py
+2026-01-13 00:39:18,514 - INFO - Chapter 68 completed and saved
+2026-01-13 00:39:18,514 - INFO - Starting chapter 69: Ha’qa (52 verses)
+2026-01-13 00:39:18,514 - INFO - Processing chapter 69, batch 1, verses 1-10 of 52
+2026-01-13 00:39:45,867 - INFO - Batch 1 completed successfully
+2026-01-13 00:39:46,868 - INFO - Processing chapter 69, batch 2, verses 11-20 of 52
+2026-01-13 00:40:15,427 - INFO - Batch 2 completed successfully
+2026-01-13 00:40:16,427 - INFO - Processing chapter 69, batch 3, verses 21-30 of 52
+2026-01-13 00:40:36,831 - INFO - Batch 3 completed successfully
+2026-01-13 00:40:37,831 - INFO - Processing chapter 69, batch 4, verses 31-40 of 52
+2026-01-13 00:40:57,162 - INFO - Batch 4 completed successfully
+2026-01-13 00:40:58,163 - INFO - Processing chapter 69, batch 5, verses 41-50 of 52
+2026-01-13 00:41:18,060 - INFO - Batch 5 completed successfully
+2026-01-13 00:41:19,061 - INFO - Processing chapter 69, batch 6, verses 51-52 of 52
+2026-01-13 00:41:23,403 - INFO - Batch 6 completed successfully
+2026-01-13 00:41:24,403 - INFO - Completed chapter 69: Ha’qa
+2026-01-13 00:41:24,404 - INFO - Saved chapter 69 to /home/sazmham/personal_apps/abjad/abjad_calculator/apps/dad_english_quran_converter/translated_chapters/chapter_069_ha’qa.py
+2026-01-13 00:41:24,404 - INFO - Chapter 69 completed and saved
+2026-01-13 00:41:24,405 - INFO - Starting chapter 70: Ma’arej (44 verses)
+2026-01-13 00:41:24,405 - INFO - Processing chapter 70, batch 1, verses 1-10 of 44
+2026-01-13 00:41:44,727 - INFO - Batch 1 completed successfully
+2026-01-13 00:41:45,727 - INFO - Processing chapter 70, batch 2, verses 11-20 of 44
+2026-01-13 00:42:08,192 - INFO - Batch 2 completed successfully
+2026-01-13 00:42:09,192 - INFO - Processing chapter 70, batch 3, verses 21-30 of 44
+2026-01-13 00:42:26,817 - INFO - Batch 3 completed successfully
+2026-01-13 00:42:27,818 - INFO - Processing chapter 70, batch 4, verses 31-40 of 44
+2026-01-13 00:42:50,009 - INFO - Batch 4 completed successfully
+2026-01-13 00:42:51,009 - INFO - Processing chapter 70, batch 5, verses 41-44 of 44
+2026-01-13 00:43:06,137 - INFO - Batch 5 completed successfully
+2026-01-13 00:43:07,137 - INFO - Completed chapter 70: Ma’arej
+2026-01-13 00:43:07,139 - INFO - Saved chapter 70 to /home/sazmham/personal_apps/abjad/abjad_calculator/apps/dad_english_quran_converter/translated_chapters/chapter_070_ma’arej.py
+2026-01-13 00:43:07,139 - INFO - Chapter 70 completed and saved
+2026-01-13 00:43:07,139 - INFO - Starting chapter 71: Nooh (28 verses)
+2026-01-13 00:43:07,139 - INFO - Processing chapter 71, batch 1, verses 1-10 of 28
+2026-01-13 00:43:37,966 - INFO - Batch 1 completed successfully
+2026-01-13 00:43:38,967 - INFO - Processing chapter 71, batch 2, verses 11-20 of 28
+2026-01-13 00:44:02,938 - INFO - Batch 2 completed successfully
+2026-01-13 00:44:03,939 - INFO - Processing chapter 71, batch 3, verses 21-28 of 28
+2026-01-13 00:44:35,214 - INFO - Batch 3 completed successfully
+2026-01-13 00:44:36,215 - INFO - Completed chapter 71: Nooh
+2026-01-13 00:44:36,216 - INFO - Saved chapter 71 to /home/sazmham/personal_apps/abjad/abjad_calculator/apps/dad_english_quran_converter/translated_chapters/chapter_071_nooh.py
+2026-01-13 00:44:36,216 - INFO - Chapter 71 completed and saved
+2026-01-13 00:44:36,216 - INFO - Starting chapter 72: Jinn (28 verses)
+2026-01-13 00:44:36,216 - INFO - Processing chapter 72, batch 1, verses 1-10 of 28
+2026-01-13 00:45:12,958 - INFO - Batch 1 completed successfully
+2026-01-13 00:45:13,958 - INFO - Processing chapter 72, batch 2, verses 11-20 of 28
+2026-01-13 00:45:45,303 - INFO - Batch 2 completed successfully
+2026-01-13 00:45:46,303 - INFO - Processing chapter 72, batch 3, verses 21-28 of 28
+2026-01-13 00:46:18,221 - INFO - Batch 3 completed successfully
+2026-01-13 00:46:19,221 - INFO - Completed chapter 72: Jinn
+2026-01-13 00:46:19,222 - INFO - Saved chapter 72 to /home/sazmham/personal_apps/abjad/abjad_calculator/apps/dad_english_quran_converter/translated_chapters/chapter_072_jinn.py
+2026-01-13 00:46:19,222 - INFO - Chapter 72 completed and saved
+2026-01-13 00:46:19,223 - INFO - Starting chapter 73: Muzammil (20 verses)
+2026-01-13 00:46:19,223 - INFO - Processing chapter 73, batch 1, verses 1-10 of 20
+2026-01-13 00:46:42,666 - INFO - Batch 1 completed successfully
+2026-01-13 00:46:43,667 - INFO - Processing chapter 73, batch 2, verses 11-20 of 20
+2026-01-13 00:47:42,603 - INFO - Batch 2 completed successfully
+2026-01-13 00:47:43,603 - INFO - Completed chapter 73: Muzammil
+2026-01-13 00:47:43,604 - INFO - Saved chapter 73 to /home/sazmham/personal_apps/abjad/abjad_calculator/apps/dad_english_quran_converter/translated_chapters/chapter_073_muzammil.py
+2026-01-13 00:47:43,604 - INFO - Chapter 73 completed and saved
+2026-01-13 00:47:43,604 - INFO - Starting chapter 74: Mudassir (56 verses)
+2026-01-13 00:47:43,604 - INFO - Processing chapter 74, batch 1, verses 1-10 of 56
+2026-01-13 00:47:58,654 - INFO - Batch 1 completed successfully
+2026-01-13 00:47:59,654 - INFO - Processing chapter 74, batch 2, verses 11-20 of 56
+2026-01-13 00:48:16,884 - INFO - Batch 2 completed successfully
+2026-01-13 00:48:17,884 - INFO - Processing chapter 74, batch 3, verses 21-30 of 56
+2026-01-13 00:48:34,659 - INFO - Batch 3 completed successfully
+2026-01-13 00:48:35,660 - INFO - Processing chapter 74, batch 4, verses 31-40 of 56
+2026-01-13 00:49:05,332 - INFO - Batch 4 completed successfully
+2026-01-13 00:49:06,333 - INFO - Processing chapter 74, batch 5, verses 41-50 of 56
+2026-01-13 00:49:25,806 - INFO - Batch 5 completed successfully
+2026-01-13 00:49:26,807 - INFO - Processing chapter 74, batch 6, verses 51-56 of 56
+2026-01-13 00:49:40,516 - INFO - Batch 6 completed successfully
+2026-01-13 00:49:41,517 - INFO - Completed chapter 74: Mudassir
+2026-01-13 00:49:41,518 - INFO - Saved chapter 74 to /home/sazmham/personal_apps/abjad/abjad_calculator/apps/dad_english_quran_converter/translated_chapters/chapter_074_mudassir.py
+2026-01-13 00:49:41,519 - INFO - Chapter 74 completed and saved
+2026-01-13 00:49:41,519 - INFO - Starting chapter 75: Qayamat (40 verses)
+2026-01-13 00:49:41,519 - INFO - Processing chapter 75, batch 1, verses 1-10 of 40
+2026-01-13 00:50:00,670 - INFO - Batch 1 completed successfully
+2026-01-13 00:50:01,670 - INFO - Processing chapter 75, batch 2, verses 11-20 of 40
+2026-01-13 00:50:22,542 - INFO - Batch 2 completed successfully
+2026-01-13 00:50:23,543 - INFO - Processing chapter 75, batch 3, verses 21-30 of 40
+2026-01-13 00:50:41,764 - INFO - Batch 3 completed successfully
+2026-01-13 00:50:42,764 - INFO - Processing chapter 75, batch 4, verses 31-40 of 40
+2026-01-13 00:51:02,562 - INFO - Batch 4 completed successfully
+2026-01-13 00:51:03,562 - INFO - Completed chapter 75: Qayamat
+2026-01-13 00:51:03,564 - INFO - Saved chapter 75 to /home/sazmham/personal_apps/abjad/abjad_calculator/apps/dad_english_quran_converter/translated_chapters/chapter_075_qayamat.py
+2026-01-13 00:51:03,564 - INFO - Chapter 75 completed and saved
+2026-01-13 00:51:03,564 - INFO - Starting chapter 76: Dahr [Insaan] (31 verses)
+2026-01-13 00:51:03,564 - INFO - Processing chapter 76, batch 1, verses 1-10 of 31
+2026-01-13 00:51:33,265 - INFO - Batch 1 completed successfully
+2026-01-13 00:51:34,265 - INFO - Processing chapter 76, batch 2, verses 11-20 of 31
+2026-01-13 00:52:03,581 - INFO - Batch 2 completed successfully
+2026-01-13 00:52:04,581 - INFO - Processing chapter 76, batch 3, verses 21-30 of 31
+2026-01-13 00:52:36,905 - INFO - Batch 3 completed successfully
+2026-01-13 00:52:37,905 - INFO - Processing chapter 76, batch 4, verses 31-31 of 31
+2026-01-13 00:52:42,783 - INFO - Batch 4 completed successfully
+2026-01-13 00:52:43,783 - INFO - Completed chapter 76: Dahr [Insaan]
+2026-01-13 00:52:43,785 - INFO - Saved chapter 76 to /home/sazmham/personal_apps/abjad/abjad_calculator/apps/dad_english_quran_converter/translated_chapters/chapter_076_dahr_[insaan].py
+2026-01-13 00:52:43,785 - INFO - Chapter 76 completed and saved
+2026-01-13 00:52:43,785 - INFO - Starting chapter 77: Mursalat (50 verses)
+2026-01-13 00:52:43,786 - INFO - Processing chapter 77, batch 1, verses 1-10 of 50
+2026-01-13 00:53:00,397 - INFO - Batch 1 completed successfully
+2026-01-13 00:53:01,397 - INFO - Processing chapter 77, batch 2, verses 11-20 of 50
+2026-01-13 00:53:18,554 - INFO - Batch 2 completed successfully
+2026-01-13 00:53:19,554 - INFO - Processing chapter 77, batch 3, verses 21-30 of 50
+2026-01-13 00:53:37,230 - INFO - Batch 3 completed successfully
+2026-01-13 00:53:38,230 - INFO - Processing chapter 77, batch 4, verses 31-40 of 50
+2026-01-13 00:53:56,573 - INFO - Batch 4 completed successfully
+2026-01-13 00:53:57,574 - INFO - Processing chapter 77, batch 5, verses 41-50 of 50
+2026-01-13 00:54:16,714 - INFO - Batch 5 completed successfully
+2026-01-13 00:54:17,715 - INFO - Completed chapter 77: Mursalat
+2026-01-13 00:54:17,716 - INFO - Saved chapter 77 to /home/sazmham/personal_apps/abjad/abjad_calculator/apps/dad_english_quran_converter/translated_chapters/chapter_077_mursalat.py
+2026-01-13 00:54:17,716 - INFO - Chapter 77 completed and saved
+2026-01-13 00:54:17,716 - INFO - ================================================================================
+2026-01-13 00:54:17,717 - INFO - Translation Complete!
+2026-01-13 00:54:17,717 - INFO - Total verses processed: 3551
+2026-01-13 00:54:17,717 - INFO - Total chapters completed: 58
+2026-01-13 00:54:17,717 - INFO - ================================================================================

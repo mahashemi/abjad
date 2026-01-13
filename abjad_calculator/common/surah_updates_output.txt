@@ -1,6 +1,6 @@
-# ================================================================================
-# IMPORTS TO ADD TO surah_factory.py (sorted by chapter number)
-# ================================================================================
+================================================================================
+IMPORTS TO ADD TO surah_factory.py (sorted by chapter number)
+================================================================================
 
 from ..quran_library import (
     chapter_001_fatiha,
@@ -20,13 +20,13 @@ from ..quran_library import (
     chapter_017_isra,
     chapter_018_kahf,
     chapter_019_maryam,
-    chapter_020_taha,
+    chapter_020_ta-ha,
     chapter_021_ambiya,
     chapter_022_hajj,
     chapter_023_momenoon,
     chapter_024_noor,
     chapter_025_furqaan,
-    chapter_026_shoara,
+    chapter_026_sho’ara,
     chapter_027_naml,
     chapter_028_qasas,
     chapter_029_ankaboot,
@@ -36,7 +36,7 @@ from ..quran_library import (
     chapter_033_ahazab,
     chapter_034_saba,
     chapter_035_fatir,
-    chapter_036_yaseen,
+    chapter_036_ya_seen,
     chapter_037_saffat,
     chapter_038_suad,
     chapter_039_zumar,
@@ -46,10 +46,10 @@ from ..quran_library import (
     chapter_043_zukhruf,
     chapter_044_dukhan,
     chapter_045_jasiya,
-    chapter_046_ahqaaf,
+    chapter_046_al-ahqaaf,
     chapter_047_mohammad,
-    chapter_048_fath,
-    chapter_049_hujraat,
+    chapter_048_fat’h,
+    chapter_049_al-hujraat,
     chapter_050_qaaf,
     chapter_051_zariyat,
     chapter_052_toor,
@@ -61,7 +61,7 @@ from ..quran_library import (
     chapter_058_mujadela,
     chapter_059_hashr,
     chapter_060_mumtahina,
-    chapter_061_saff,
+    chapter_061_as-saff,
     chapter_062_jumah,
     chapter_063_munafeqoon,
     chapter_064_taghabun,
@@ -69,14 +69,14 @@ from ..quran_library import (
     chapter_066_tahreem,
     chapter_067_mulk,
     chapter_068_qalam,
-    chapter_069_haqa,
-    chapter_070_maarej,
+    chapter_069_ha’qa,
+    chapter_070_ma’arej,
     chapter_071_nooh,
     chapter_072_jinn,
     chapter_073_muzammil,
     chapter_074_mudassir,
     chapter_075_qayamat,
-    chapter_076_dahr,
+    chapter_076_dahr_[insaan],
     chapter_078_naba,
     chapter_079_naziyat,
     chapter_080_abas,
@@ -116,6 +116,10 @@ from ..quran_library import (
     chapter_114_nas,
 )
 
+================================================================================
+TITLE DEFINITIONS TO ADD
+================================================================================
+
 surah_fatiha_title = "سورة الفاتحة - سورة 1 - عدد آياتها 7".strip()
 surah_baqara_title = "سورة البقرة - سورة 2 - عدد آياتها 286".strip()
 surah_imran_title = "سورة آل عمران - سورة 3 - عدد آياتها 200".strip()
@@ -123,7 +127,7 @@ surah_nisa_title = "سورة النساء - سورة 4 - عدد آياتها 176
 surah_maida_title = "سورة المائدة - سورة 5 - عدد آياتها 120".strip()
 surah_anaam_title = "سورة الأنعام - سورة 6 - عدد آياتها 165".strip()
 surah_araaf_title = "سورة الأعراف - سورة 7 - عدد آياتها 206".strip()
-surah_anfatitle = "سورة الأنفال - سورة 8 - عدد آياتها 75".strip()
+surah_anfaal_title = "سورة الأنفال - سورة 8 - عدد آياتها 75".strip()
 surah_tauba_title = "سورة التوبة - سورة 9 - عدد آياتها 129".strip()
 surah_yunus_title = "سورة يونس - سورة 10 - عدد آياتها 109".strip()
 surah_hud_title = "سورة هود - سورة 11 - عدد آياتها 123".strip()
@@ -139,9 +143,9 @@ surah_hajj_title = "سورة الحج - سورة 22 - عدد آياتها 78".st
 surah_momenoon_title = "سورة المؤمنون - سورة 23 - عدد آياتها 118".strip()
 surah_noor_title = "سورة النور - سورة 24 - عدد آياتها 64".strip()
 surah_furqaan_title = "سورة الفرقان - سورة 25 - عدد آياتها 77".strip()
-surah_shoara_title = "سورة الشعراء - سورة 26 - عدد آياتها 227".strip()
+surah_sho’ara_title = "سورة الشعراء - سورة 26 - عدد آياتها 227".strip()
 surah_naml_title = "سورة النمل - سورة 27 - عدد آياتها 93".strip()
-surah_qastitle = "سورة القصص - سورة 28 - عدد آياتها 88".strip()
+surah_qasas_title = "سورة القصص - سورة 28 - عدد آياتها 88".strip()
 surah_ankaboot_title = "سورة العنكبوت - سورة 29 - عدد آياتها 69".strip()
 surah_room_title = "سورة الروم - سورة 30 - عدد آياتها 60".strip()
 surah_luqman_title = "سورة لقمان - سورة 31 - عدد آياتها 34".strip()
@@ -149,7 +153,7 @@ surah_sajdah_title = "سورة السجدة - سورة 32 - عدد آياتها 
 surah_ahazab_title = "سورة الأحزاب - سورة 33 - عدد آياتها 73".strip()
 surah_saba_title = "سورة سبإ - سورة 34 - عدد آياتها 54".strip()
 surah_fatir_title = "سورة فاطر - سورة 35 - عدد آياتها 45".strip()
-surah_yaseen_title = "سورة يس - سورة 36 - عدد آياتها 83".strip()
+surah_ya_seen_title = "سورة يس - سورة 36 - عدد آياتها 83".strip()
 surah_saffat_title = "سورة الصافات - سورة 37 - عدد آياتها 182".strip()
 surah_suad_title = "سورة ص - سورة 38 - عدد آياتها 88".strip()
 surah_zumar_title = "سورة الزمر - سورة 39 - عدد آياتها 75".strip()
@@ -159,10 +163,10 @@ surah_shura_title = "سورة الشورى - سورة 42 - عدد آياتها 5
 surah_zukhruf_title = "سورة الزخرف - سورة 43 - عدد آياتها 89".strip()
 surah_dukhan_title = "سورة الدخان - سورة 44 - عدد آياتها 59".strip()
 surah_jasiya_title = "سورة الجاثية - سورة 45 - عدد آياتها 37".strip()
-surah_ahqaaf_title = "سورة الأحقاف - سورة 46 - عدد آياتها 35".strip()
+surah_al_ahqaaf_title = "سورة الأحقاف - سورة 46 - عدد آياتها 35".strip()
 surah_mohammad_title = "سورة محمد - سورة 47 - عدد آياتها 38".strip()
-surah_fath_title = "سورة الفتح - سورة 48 - عدد آياتها 29".strip()
-surah_hujraat_title = "سورة الحجرات - سورة 49 - عدد آياتها 18".strip()
+surah_fat’h_title = "سورة الفتح - سورة 48 - عدد آياتها 29".strip()
+surah_al_hujraat_title = "سورة الحجرات - سورة 49 - عدد آياتها 18".strip()
 surah_qaaf_title = "سورة ق - سورة 50 - عدد آياتها 45".strip()
 surah_zariyat_title = "سورة الذاريات - سورة 51 - عدد آياتها 60".strip()
 surah_toor_title = "سورة الطور - سورة 52 - عدد آياتها 49".strip()
@@ -174,7 +178,7 @@ surah_hadeed_title = "سورة الحديد - سورة 57 - عدد آياتها 
 surah_mujadela_title = "سورة المجادلة - سورة 58 - عدد آياتها 22".strip()
 surah_hashr_title = "سورة الحشر - سورة 59 - عدد آياتها 24".strip()
 surah_mumtahina_title = "سورة الممتحنة - سورة 60 - عدد آياتها 13".strip()
-surah_saff_title = "سورة الصف - سورة 61 - عدد آياتها 14".strip()
+surah_as_saff_title = "سورة الصف - سورة 61 - عدد آياتها 14".strip()
 surah_jumah_title = "سورة الجمعة - سورة 62 - عدد آياتها 11".strip()
 surah_munafeqoon_title = "سورة المنافقون - سورة 63 - عدد آياتها 11".strip()
 surah_taghabun_title = "سورة التغابن - سورة 64 - عدد آياتها 18".strip()
@@ -182,8 +186,8 @@ surah_talaaq_title = "سورة الطلاق - سورة 65 - عدد آياتها 
 surah_tahreem_title = "سورة التحريم - سورة 66 - عدد آياتها 12".strip()
 surah_mulk_title = "سورة الملك - سورة 67 - عدد آياتها 30".strip()
 surah_qalam_title = "سورة القلم - سورة 68 - عدد آياتها 52".strip()
-surah_haqa_title = "سورة الحاقة - سورة 69 - عدد آياتها 52".strip()
-surah_maarej_title = "سورة المعارج - سورة 70 - عدد آياتها 44".strip()
+surah_ha’qa_title = "سورة الحاقة - سورة 69 - عدد آياتها 52".strip()
+surah_ma’arej_title = "سورة المعارج - سورة 70 - عدد آياتها 44".strip()
 surah_nooh_title = "سورة نوح - سورة 71 - عدد آياتها 28".strip()
 surah_jinn_title = "سورة الجن - سورة 72 - عدد آياتها 28".strip()
 surah_muzammil_title = "سورة المزمل - سورة 73 - عدد آياتها 20".strip()
@@ -192,7 +196,7 @@ surah_qayamat_title = "سورة القيامة - سورة 75 - عدد آياته
 surah_dahr_insaan_title = "سورة الانسان - سورة 76 - عدد آياتها 31".strip()
 surah_naba_title = "سورة النبإ - سورة 78 - عدد آياتها 40".strip()
 surah_naziyat_title = "سورة النازعات - سورة 79 - عدد آياتها 46".strip()
-surah_abtitle = "سورة عبس - سورة 80 - عدد آياتها 42".strip()
+surah_abas_title = "سورة عبس - سورة 80 - عدد آياتها 42".strip()
 surah_takweer_title = "سورة التكوير - سورة 81 - عدد آياتها 29".strip()
 surah_infetaar_title = "سورة الإنفطار - سورة 82 - عدد آياتها 19".strip()
 surah_mutaffefin_title = "سورة المطففين - سورة 83 - عدد آياتها 36".strip()
@@ -211,7 +215,7 @@ surah_tin_title = "سورة التين - سورة 95 - عدد آياتها 8".st
 surah_alaq_title = "سورة العلق - سورة 96 - عدد آياتها 19".strip()
 surah_qadr_title = "سورة القدر - سورة 97 - عدد آياتها 5".strip()
 surah_bayyinah_title = "سورة البينة - سورة 98 - عدد آياتها 8".strip()
-surah_zilztitle = "سورة الزلزلة - سورة 99 - عدد آياتها 8".strip()
+surah_zilzal_title = "سورة الزلزلة - سورة 99 - عدد آياتها 8".strip()
 surah_aadiyat_title = "سورة العاديات - سورة 100 - عدد آياتها 11".strip()
 surah_qaariyah_title = "سورة القارعة - سورة 101 - عدد آياتها 11".strip()
 surah_takasur_title = "سورة التكاثر - سورة 102 - عدد آياتها 8".strip()
@@ -224,12 +228,14 @@ surah_kawthar_title = "سورة الكوثر - سورة 108 - عدد آياته�
 surah_kafiroon_title = "سورة الكافرون - سورة 109 - عدد آياتها 6".strip()
 surah_nasr_title = "سورة النصر - سورة 110 - عدد آياتها 3".strip()
 surah_masad_title = "سورة المسد - سورة 111 - عدد آياتها 5".strip()
-surah_ikhltitle = "سورة الإخلاص - سورة 112 - عدد آياتها 4".strip()
+surah_ikhlas_title = "سورة الإخلاص - سورة 112 - عدد آياتها 4".strip()
 surah_falaq_title = "سورة الفلق - سورة 113 - عدد آياتها 5".strip()
-surah_ntitle = "سورة الناس - سورة 114 - عدد آياتها 6".strip()
+surah_nas_title = "سورة الناس - سورة 114 - عدد آياتها 6".strip()
 
+================================================================================
+DICTIONARY ENTRIES TO ADD (sorted by chapter number)
+================================================================================
 
-surahs = {
     surah_fatiha_title: chapter_001_fatiha.ayats,
     surah_baqara_title: chapter_002_baqara.ayats,
     surah_imran_title: chapter_003_imran.ayats,
@@ -237,7 +243,7 @@ surahs = {
     surah_maida_title: chapter_005_maida.ayats,
     surah_anaam_title: chapter_006_anaam.ayats,
     surah_araaf_title: chapter_007_araaf.ayats,
-    surah_anfatitle: chapter_008_anfaal.ayats,
+    surah_anfaal_title: chapter_008_anfaal.ayats,
     surah_tauba_title: chapter_009_tauba.ayats,
     surah_yunus_title: chapter_010_yunus.ayats,
     surah_hud_title: chapter_011_hud.ayats,
@@ -247,15 +253,15 @@ surahs = {
     surah_isra_title: chapter_017_isra.ayats,
     surah_kahf_title: chapter_018_kahf.ayats,
     surah_maryam_title: chapter_019_maryam.ayats,
-    surah_ta_ha_title: chapter_020_taha.ayats,
+    surah_ta_ha_title: chapter_020_ta-ha.ayats,
     surah_ambiya_title: chapter_021_ambiya.ayats,
     surah_hajj_title: chapter_022_hajj.ayats,
     surah_momenoon_title: chapter_023_momenoon.ayats,
     surah_noor_title: chapter_024_noor.ayats,
     surah_furqaan_title: chapter_025_furqaan.ayats,
-    surah_shoara_title: chapter_026_shoara.ayats,
+    surah_sho’ara_title: chapter_026_sho’ara.ayats,
     surah_naml_title: chapter_027_naml.ayats,
-    surah_qastitle: chapter_028_qasas.ayats,
+    surah_qasas_title: chapter_028_qasas.ayats,
     surah_ankaboot_title: chapter_029_ankaboot.ayats,
     surah_room_title: chapter_030_room.ayats,
     surah_luqman_title: chapter_031_luqman.ayats,
@@ -263,7 +269,7 @@ surahs = {
     surah_ahazab_title: chapter_033_ahazab.ayats,
     surah_saba_title: chapter_034_saba.ayats,
     surah_fatir_title: chapter_035_fatir.ayats,
-    surah_yaseen_title: chapter_036_yaseen.ayats,
+    surah_ya_seen_title: chapter_036_ya_seen.ayats,
     surah_saffat_title: chapter_037_saffat.ayats,
     surah_suad_title: chapter_038_suad.ayats,
     surah_zumar_title: chapter_039_zumar.ayats,
@@ -273,10 +279,10 @@ surahs = {
     surah_zukhruf_title: chapter_043_zukhruf.ayats,
     surah_dukhan_title: chapter_044_dukhan.ayats,
     surah_jasiya_title: chapter_045_jasiya.ayats,
-    surah_ahqaaf_title: chapter_046_ahqaaf.ayats,
+    surah_al_ahqaaf_title: chapter_046_al-ahqaaf.ayats,
     surah_mohammad_title: chapter_047_mohammad.ayats,
-    surah_fath_title: chapter_048_fath.ayats,
-    surah_hujraat_title: chapter_049_hujraat.ayats,
+    surah_fat’h_title: chapter_048_fat’h.ayats,
+    surah_al_hujraat_title: chapter_049_al-hujraat.ayats,
     surah_qaaf_title: chapter_050_qaaf.ayats,
     surah_zariyat_title: chapter_051_zariyat.ayats,
     surah_toor_title: chapter_052_toor.ayats,
@@ -288,7 +294,7 @@ surahs = {
     surah_mujadela_title: chapter_058_mujadela.ayats,
     surah_hashr_title: chapter_059_hashr.ayats,
     surah_mumtahina_title: chapter_060_mumtahina.ayats,
-    surah_saff_title: chapter_061_saff.ayats,
+    surah_as_saff_title: chapter_061_as-saff.ayats,
     surah_jumah_title: chapter_062_jumah.ayats,
     surah_munafeqoon_title: chapter_063_munafeqoon.ayats,
     surah_taghabun_title: chapter_064_taghabun.ayats,
@@ -296,17 +302,17 @@ surahs = {
     surah_tahreem_title: chapter_066_tahreem.ayats,
     surah_mulk_title: chapter_067_mulk.ayats,
     surah_qalam_title: chapter_068_qalam.ayats,
-    surah_haqa_title: chapter_069_haqa.ayats,
-    surah_maarej_title: chapter_070_maarej.ayats,
+    surah_ha’qa_title: chapter_069_ha’qa.ayats,
+    surah_ma’arej_title: chapter_070_ma’arej.ayats,
     surah_nooh_title: chapter_071_nooh.ayats,
     surah_jinn_title: chapter_072_jinn.ayats,
     surah_muzammil_title: chapter_073_muzammil.ayats,
     surah_mudassir_title: chapter_074_mudassir.ayats,
     surah_qayamat_title: chapter_075_qayamat.ayats,
-    surah_dahr_insaan_title: chapter_076_dahr.ayats,
+    surah_dahr_insaan_title: chapter_076_dahr_[insaan].ayats,
     surah_naba_title: chapter_078_naba.ayats,
     surah_naziyat_title: chapter_079_naziyat.ayats,
-    surah_abtitle: chapter_080_abas.ayats,
+    surah_abas_title: chapter_080_abas.ayats,
     surah_takweer_title: chapter_081_takweer.ayats,
     surah_infetaar_title: chapter_082_infetaar.ayats,
     surah_mutaffefin_title: chapter_083_mutaffefin.ayats,
@@ -325,7 +331,7 @@ surahs = {
     surah_alaq_title: chapter_096_alaq.ayats,
     surah_qadr_title: chapter_097_qadr.ayats,
     surah_bayyinah_title: chapter_098_bayyinah.ayats,
-    surah_zilztitle: chapter_099_zilzal.ayats,
+    surah_zilzal_title: chapter_099_zilzal.ayats,
     surah_aadiyat_title: chapter_100_aadiyat.ayats,
     surah_qaariyah_title: chapter_101_qaariyah.ayats,
     surah_takasur_title: chapter_102_takasur.ayats,
@@ -338,7 +344,11 @@ surahs = {
     surah_kafiroon_title: chapter_109_kafiroon.ayats,
     surah_nasr_title: chapter_110_nasr.ayats,
     surah_masad_title: chapter_111_masad.ayats,
-    surah_ikhltitle: chapter_112_ikhlas.ayats,
+    surah_ikhlas_title: chapter_112_ikhlas.ayats,
     surah_falaq_title: chapter_113_falaq.ayats,
-    surah_ntitle: chapter_114_nas.ayats,
-}
+    surah_nas_title: chapter_114_nas.ayats,
+
+================================================================================
+Total chapters in library: 111
+Total chapters in JSON: 114
+================================================================================
