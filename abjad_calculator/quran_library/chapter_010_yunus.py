@@ -746,7 +746,7 @@ ayats = [
   {
     "verse_number": 94,
     "english_text": "If you doubt what We have revealed, so ask the earlier people who have been reading Taurait and Injeel; Verily truth has come from your Lord, so now you don't be among those who doubt.",
-    "arabic_text": "فَاِن كُنْتَ فِي شَكٍّ مِّمَّا اَنْزَلْنٰ اِلَيْكَ فَسْئَلِ الَّذِينَ يَقْرَءُوْنَ الْكِتٰبَ مِن قَبْلِكَ ۚ لَقَدْ جَآءَكَ الْحَقُّ مِن رَّبِّكَ فَلَا تَكُونَنَّ مِنَ الْمُمْتَرِينَ",
+    "arabic_text": "فَاِن كُنْتَ فِي شَكٍّ مِّمَّا اَنْزَلْنَا اِلَيْكَ فَسْئَلِ الَّذِينَ يَقْرَءُوْنَ الْكِتٰبَ مِن قَبْلِكَ ۚ لَقَدْ جَآءَكَ الْحَقُّ مِن رَّبِّكَ فَلَا تَكُونَنَّ مِنَ الْمُمْتَرِينَ",
     "urdu_text": "اگر تمہیں اس میں شک ہو جو ہم نے تم پر نازل کیا ہے تو ان لوگوں سے پوچھ لو جو تم سے پہلے کتاب پڑھتے رہے ہیں، بیشک تمہارے پاس تمہارے رب کی طرف سے حق آ چکا ہے، پس تم شک کرنے والوں میں سے نہ ہونا",
     "persian_text": "پس اگر در آنچه بر تو نازل کرده‌ایم شک داری از کسانی که پیش از تو کتاب می‌خوانند بپرس، یقیناً حق از جانب پروردگارت به تو آمده است، پس از تردید کنندگان مباش",
     "transliteration": "Fa-in kunta fee shakkin mimmaa anzalnaa ilayka fas'alil-ladheena yaqra'oonal-Kitaaba min qablika laqad jaaa'akal-haqqu mir-Rabbika falaa takoonanna minal-mumtareen",
