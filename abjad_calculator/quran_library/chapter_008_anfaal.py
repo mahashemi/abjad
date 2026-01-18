@@ -242,7 +242,7 @@ ayats = [
   {
     "verse_number": 31,
     "english_text": "And their condition is such that when Our verses are recited, they say: we heard and we also can say the same if we want, and this is nothing but tales of the earlier people.",
-    "arabic_text": "وَ اِذْا تُتْلَىٰ عَلَيْهِمْ اٰيَاتُنَا قَالُوا قَدْ سَمِعْنَا لَوْ نَشَآءُ لَقُلْنَا مِثْلَ هٰذَآ ۙ اِنْ هٰذَآ اِلَّا اَسَاطِيرُ الْاَوَّلِيْنَ",
+    "arabic_text": "وَ اِذْا تُتْلَىٰ عَلَيْهِمْ اٰيَاتُنَا قَالُوْا قَدْ سَمِعْنَا لَوْ نَشَآءُ لَقُلْنَا مِثْلَ هٰذَآ ۙ اِنْ هٰذَآ اِلَّا اَسَاطِيرُ الْاَوَّلِيْنَ",
     "urdu_text": "اور جب ان پر ہماری آیتیں پڑھی جاتی ہیں تو کہتے ہیں کہ ہم نے سن لیا، اگر ہم چاہیں تو ہم بھی ایسا ہی کہہ سکتے ہیں، یہ تو صرف اگلے لوگوں کی کہانیاں ہیں",
     "persian_text": "و هنگامی که آیات ما بر آنان خوانده می‌شود، می‌گویند: شنیدیم، اگر بخواهیم می‌توانیم مانند این بگوییم، این چیزی جز افسانه‌های پیشینیان نیست",
     "transliteration": "Wa idha tutla 'alayhim ayatuna qalu qad sami'na law nasha'u laqulna mithla hadha in hadha illa asateerul awwaleen",
@@ -250,7 +250,7 @@ ayats = [
   {
     "verse_number": 32,
     "english_text": "And remember the time when they said: O Allah, if this truth is from you then rain stones on us from sky or send on us painful punishment.",
-    "arabic_text": "وَ اِذْ قَالُوا اللّٰهُمَّ اِنْ كَانَ هٰذَا هُوَ الْحَقَّ مِنْ عِنْدِكَ فَاَمْطِرْ عَلَيْنَا حِجَارَةً مِّنَ السَّمَآءِ اَوِ ائْتِنَا بِعَذَابٍ اَلِيْمٍ",
+    "arabic_text": "وَ اِذْ قَالُوْا اللّٰهُمَّ اِنْ كَانَ هٰذَا هُوَ الْحَقَّ مِنْ عِنْدِكَ فَاَمْطِرْ عَلَيْنَا حِجَارَةً مِّنَ السَّمَآءِ اَوِ ائْتِنَا بِعَذَابٍ اَلِيْمٍ",
     "urdu_text": "اور یاد کرو جب انہوں نے کہا: اے اللہ! اگر یہ واقعی تیری طرف سے حق ہے تو ہم پر آسمان سے پتھر برسا دے یا ہم پر کوئی دردناک عذاب بھیج دے",
     "persian_text": "و یاد کن هنگامی را که گفتند: خدایا، اگر این حق از جانب توست، پس سنگ‌هایی از آسمان بر ما ببار یا عذابی دردناک بر ما فرست",
     "transliteration": "Wa idh qalul lahumma in kana hadha huwal haqqa min 'indika fa amtir 'alayna hijaratan minas sama'i awi'tina bi'adhabin aleem",

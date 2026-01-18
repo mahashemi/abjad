@@ -41,7 +41,7 @@ ayats = [
   {
     "verse_number": 5,
     "english_text": "This is commanded from Us and We send the prophets.",
-    "arabic_text": "اَمْرًۭا مِّنْ عِندِنَآ ۚ إِنَّا كُنَّا مُرْسِلِينَ",
+    "arabic_text": "اَمْرًا مِّنْ عِندِنَآ ۚ إِنَّا كُنَّا مُرْسِلِينَ",
     "urdu_text": "یه هماری طرف سے حکم هے، بیشک هم رسول بھیجنے والے هیں",
     "persian_text": "این فرمانی از جانب ماست، همانا ما فرستنده پیامبران بودیم",
     "transliteration": "Amram min 'indinaa, innaa kunnaa mursileen"

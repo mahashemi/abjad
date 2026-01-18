@@ -49,7 +49,7 @@ ayats = [
   {
     "verse_number": 6,
     "english_text": "And don't do such a favour that you become seeker of more.",
-    "arabic_text": "وَلَا تَمْنُن تَسْتَكْثِرُ",
+    "arabic_text": "وَ لَا تَمْنُن تَسْتَكْثِرُ",
     "urdu_text": "اور احسان نه کرو زیاده حاصل کرنے کے لیے۔",
     "persian_text": "و منت مگذار تا بیشتر طلب کنی!",
     "transliteration": "Wa laa tamnun tastakthir"
@@ -89,7 +89,7 @@ ayats = [
   {
     "verse_number": 11,
     "english_text": "Then leave me and that person whom I have created alone.",
-    "arabic_text": "ذَرْنِى وَمَنْ خَلَقْتُ وَحِيدًۭا",
+    "arabic_text": "ذَرْنِى وَ مَنْ خَلَقْتُ وَحِيدًۭا",
     "urdu_text": "مجھے چھوڑ دو اور اُس شخص کو جسے میں نے تنها پیدا کیا",
     "persian_text": "مرا با کسی که او را تنها آفریدم واگذار",
     "transliteration": "Zarnee wa man khalaqtu waheeda"
@@ -97,7 +97,7 @@ ayats = [
   {
     "verse_number": 12,
     "english_text": "And has given him great wealth.",
-    "arabic_text": "وَجَعَلْتُ لَهُ مَالًۭا مَّمْدُودًۭا",
+    "arabic_text": "وَجَعَلْتُ لَهُ مَالًا مَّمْدُودًۭا",
     "urdu_text": "اور میں نے اسے بهت زیاده مال و دولت دیا",
     "persian_text": "و برای او مال فراوان قرار دادم",
     "transliteration": "Wa ja'altu lahu maalam mamdooda"
@@ -225,7 +225,7 @@ ayats = [
   {
     "verse_number": 28,
     "english_text": "It will leave none, nor will it spare anyone.",
-    "arabic_text": "لَا تُبْقِى وَلَا تَذَرُ",
+    "arabic_text": "لَا تُبْقِى وَ لَا تَذَرُ",
     "urdu_text": "نه کچھ باقی رکھتی هے اور نه کسی کو چھوڑتی هے۔",
     "persian_text": "نه چیزی باقی می‌گذارد و نه کسی را رها می‌کند.",
     "transliteration": "La tubqi wa la tazaru"
@@ -249,7 +249,7 @@ ayats = [
   {
     "verse_number": 31,
     "english_text": "And We have made only angels to guard Hell and their numbers is a source of trial for infidels that people of book may be certain and faith of the believers may increase, and people of book and believers may not doubt in any way; and whoever has a disease in his heart and infidels say what is the purpose of this example, like this Allah leaves in misguidance to whoever He pleases, and guides to whoever He please; and nobody knows His armies except Him, this is only a source of admonition for the people.",
-    "arabic_text": "وَ مَا جَعَلْنَآ اَصْحَـٰبَ النَّارِ اِلَّا مَلَـٰٓئِكَةًۭ ۙ وَ مَا جَعَلْنَا عِدَّتَهُمْ اِلَّا فِتْنَةًۭ لِّلَّذِينَ كَفَرُواْ لِيَسْتَيْقِنَ الَّذِينَ اُوتُواْ الْكِتٰبَ وَيَزْدَادَ الَّذِينَ ءَامَنُوٓاْ اِيمَـٰنًۭا ۙ وَلَا يَرْتَابَ الَّذِينَ اُوتُواْ الْكِتٰبَ وَالْمُؤْمِنُونَ ۙ وَلِيَقُولَ الَّذِينَ فِى قُلُوبِهِم مَّرَضٌۭ وَالْكَـٰفِرُونَ مَاذَآ اَرَادَ اللَّهُ بِهَـٰذَا مَثَلًۭا ۚ كَذَٰلِكَ يُضِلُّ اللَّهُ مَن يَشَآءُ وَيَهْدِى مَن يَشَآءُ ۚ وَ مَا يَعْلَمُ جُنُودَ رَبِّكَ اِلَّا هُوَ ۚ وَ مَا هِىَ اِلَّا ذِكْرَىٰ لِلْبَشَرِ",
+    "arabic_text": "وَ مَا جَعَلْنَآ اَصْحَـٰبَ النَّارِ اِلَّا مَلَـٰٓئِكَةًۭ ۙ وَ مَا جَعَلْنَا عِدَّتَهُمْ اِلَّا فِتْنَةًۭ لِّلَّذِينَ كَفَرُواْ لِيَسْتَيْقِنَ الَّذِينَ اُوتُواْ الْكِتٰبَ وَيَزْدَادَ الَّذِينَ ءَامَنُوٓاْ اِيمَـٰنًۭا ۙ وَ لَا يَرْتَابَ الَّذِينَ اُوتُواْ الْكِتٰبَ وَالْمُؤْمِنُونَ ۙ وَلِيَقُولَ الَّذِينَ فِى قُلُوبِهِم مَّرَضٌۭ وَالْكَـٰفِرُونَ مَاذَآ اَرَادَ اللّٰهُ بِهَـٰذَا مَثَلًا ۚ كَذَٰلِكَ يُضِلُّ اللّٰهُ مَن يَشَآءُ وَيَهْدِى مَن يَشَآءُ ۚ وَ مَا يَعْلَمُ جُنُودَ رَبِّكَ اِلَّا هُوَ ۚ وَ مَا هِىَ اِلَّا ذِكْرَىٰ لِلْبَشَرِ",
     "urdu_text": "اور هم نے دوزخ کے نگهبان صرف فرشتے مقرر کیے هیں، اور هم نے ان کی تعداد کو کافروں کے لیے آزمائش بنایا هے تاکه اهل کتاب یقین کر لیں اور ایمان والوں کا ایمان بڑھ جائے، اور اهل کتاب اور مومنین کو کوئی شک نه رهے، اور تاکه وه لوگ جن کے دلوں میں بیماری هے اور کافر کهیں که الله نے اس مثال سے کیا مراد لی هے۔ اسی طرح الله جسے چاهتا هے گمراه کرتا هے اور جسے چاهتا هے هدایت دیتا هے، اور تمهارے رب کے لشکروں کو اس کے سوا کوئی نهیں جانتا، اور یه تو لوگوں کے لیے صرف نصیحت هے۔",
     "persian_text": "و ما نگهبانان دوزخ را جز فرشتگان قرار ندادیم، و تعداد آنها را جز آزمایشی برای کافران قرار ندادیم تا اهل کتاب یقین کنند و ایمان مؤمنان افزوده شود، و اهل کتاب و مؤمنان هیچ تردیدی نداشته باشند، و تا کسانی که در دلهایشان بیماری است و کافران بگویند که منظور خداوند از این مثال چیست. این چنین خداوند هر که را بخواهد گمراه می‌کند و هر که را بخواهد هدایت می‌کند، و لشکریان پروردگار تو را جز او کسی نمی‌داند، و این جز پندی برای مردم نیست.",
     "transliteration": "Wa maa ja'alnaa as-haaban-naari illaa malaa'ikatan wa maa ja'alnaa 'iddatahum illaa fitnatal-lillazeena kafaroo li-yastayqinal-lazeena ootul-kitaaba wa yazdaadal-lazeena aamanoo eemaanan wa laa yartaabal-lazeena ootul-kitaaba wal-mu'minoona wa li-yaqoolal-lazeena fee quloobihim maradun wal-kaafiroona maazaaa araadal-laahu bi-haazaa masalan kazaalika yudillul-laahu man yashaaa'u wa yahdee man yashaaa'u wa maa ya'lamu junooda rabbika illaa huwa wa maa hiya illaa zikraa lil-bashar"
@@ -289,7 +289,7 @@ ayats = [
   {
     "verse_number": 36,
     "english_text": "Source of warning to the people.",
-    "arabic_text": "نَذِيرًۭا لِّلْبَشَرِ",
+    "arabic_text": "نَذِيرًا لِّلْبَشَرِ",
     "urdu_text": "لوگوں کے لیے ڈرانے والی هے۔",
     "persian_text": "هشداری برای مردم.",
     "transliteration": "Nazeeran lil-bashar"
@@ -345,7 +345,7 @@ ayats = [
   {
     "verse_number": 43,
     "english_text": "They will say we did not establish prayers.",
-    "arabic_text": "قَالُواْ لَمْ نَكُ مِنَ الْمُصَلِّينَ",
+    "arabic_text": "قَالُوْاْ لَمْ نَكُ مِنَ الْمُصَلِّينَ",
     "urdu_text": "وه کهیں گے هم نماز پڑھنے والوں میں سے نهیں تھے",
     "persian_text": "گویند ما از نمازگزاران نبودیم",
     "transliteration": "Qaaloo lam naku minal-musalleen"
@@ -425,7 +425,7 @@ ayats = [
   {
     "verse_number": 53,
     "english_text": "(This) can never be done, fact is that they do not have the fear of the Hereafter.",
-    "arabic_text": "كَلَّا ۖ بَل لَّا يَخَافُونَ الْـَٔاخِرَةَ",
+    "arabic_text": "كَلَّا ۖ بَل لَّا يَخَافُونَ الْاخِرَةَ",
     "urdu_text": "هرگز نهیں، بلکه حقیقت یه هے که وه آخرت سے نهیں ڈرتے۔",
     "persian_text": "هرگز چنین نیست، بلکه آنان از آخرت نمی‌ترسند.",
     "transliteration": "Kalla bal la yakhafoona al-akhirah"
@@ -449,7 +449,7 @@ ayats = [
   {
     "verse_number": 56,
     "english_text": "And they will not remember Him, but only if Allah pleases; and He is capable of warning and Master of the forgiveness.",
-    "arabic_text": "وَ مَا يَذْكُرُونَ اِلَّآ اَن يَشَآءَ اللَّهُ ۚ هُوَ اَهْلُ التَّقْوَىٰ وَاَهْلُ الْمَغْفِرَةِ",
+    "arabic_text": "وَ مَا يَذْكُرُونَ اِلَّآ اَن يَشَآءَ اللّٰهُ ۚ هُوَ اَهْلُ التَّقْوَىٰ وَاَهْلُ الْمَغْفِرَةِ",
     "urdu_text": "اور وه یاد نهیں کریں گے مگر جب الله چاهے، اور وهی تقویٰ کا اهل هے اور وهی بخشش کا مالک هے۔",
     "persian_text": "و آنان یاد نمی‌کنند مگر آنکه الله بخواهد، و او سزاوار پرهیزگاری و شایسته آمرزش است.",
     "transliteration": "Wa ma yadhkuroona illa an yasha'a Allahu huwa ahlu at-taqwa wa ahlu al-maghfirah"

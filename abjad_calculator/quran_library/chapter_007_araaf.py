@@ -338,7 +338,7 @@ ayats = [
   {
     "verse_number": 43,
     "english_text": "And We will remove whatever of ill-feeling will be in their hearts, and there will flow rivers beneath their palaces, and they will be saying: thanks be to Allah who made us reach us to our destination, and if Allah has not guided, we could not have reached here, Verily the prophets of our Lord brought the truthful religion; and that they will be informed loudly that this is that Paradise, to which you have been made heirs and owners, in reward to your deeds.",
-    "arabic_text": "وَ نَزَعْنَا مَا فِىْ صُدُوْرِهِم مِّنْ غِلٍّ تَجْرِى مِنْ تَحْتِهِمُ الْاَنْهٰرُ وَ قَالُوا الْحَمْدُ لِلّٰهِ الَّذِى هَدٰنَا لِهٰذَا وَ مَا كُنَّا لِنَهْتَدِىَ لَوْلَآ اَنْ هَدٰنَا اللّٰهُ لَقَدْ جَآءَتْ رُسُلُ رَبِّنَا بِالْحَقِّ وَ نُوْدُوْا اَنْ تِلْكُمُ الْجَنَّةُ اُوْرِثْتُمُوْهَا بِمَا كُنْتُمْ تَعْمَلُوْنَ",
+    "arabic_text": "وَ نَزَعْنَا مَا فِىْ صُدُوْرِهِم مِّنْ غِلٍّ تَجْرِى مِنْ تَحْتِهِمُ الْاَنْهٰرُ وَ قَالُوْا الْحَمْدُ لِلّٰهِ الَّذِى هَدٰنَا لِهٰذَا وَ مَا كُنَّا لِنَهْتَدِىَ لَوْلَآ اَنْ هَدٰنَا اللّٰهُ لَقَدْ جَآءَتْ رُسُلُ رَبِّنَا بِالْحَقِّ وَ نُوْدُوْا اَنْ تِلْكُمُ الْجَنَّةُ اُوْرِثْتُمُوْهَا بِمَا كُنْتُمْ تَعْمَلُوْنَ",
     "urdu_text": "اور ہم نے ان کے سینوں میں جو کینہ تھا اسے نکال دیا، ان کے نیچے نہریں بہہ رہی ہوں گی، اور وہ کہیں گے کہ تمام تعریفیں اللہ کے لیے ہیں جس نے ہمیں اس کی طرف ہدایت دی، اور اگر اللہ نے ہماری رہنمائی نہ کی ہوتی تو ہم ہرگز راہ نہ پاتے، یقیناً ہمارے رب کے رسول حق لے کر آئے تھے، اور انہیں پکار کر کہا جائے گا کہ یہ وہ جنت ہے جس کے تم وارث بنائے گئے ہو اپنے اعمال کے بدلے میں",
     "persian_text": "و آنچه از کینه در سینه‌هایشان بود بیرون کشیدیم، نهرها از زیر آنان جاری می‌شود و گفتند ستایش خدایی را که ما را به این راه هدایت کرد و اگر خدا ما را هدایت نمی‌کرد هرگز راه نمی‌یافتیم، به راستی فرستادگان پروردگارمان حق را آوردند، و به آنان ندا داده می‌شود که این همان بهشتی است که به خاطر اعمالتان به ارث برده‌اید",
     "transliteration": "Wa naza'na ma fi sudurihim min ghillin tajri min tahtihimul-anharu wa qalul-hamdu lillahil-ladhi hadana lihadha wa ma kunna linahtadiya lawla an hadanallahu laqad ja'at rusulu rabbina bilhaqqi wa nudu an tilkumul-jannatu urithtumuha bima kuntum ta'malun",
@@ -346,7 +346,7 @@ ayats = [
   {
     "verse_number": 44,
     "english_text": "And people of Paradise will call out to people of Hell and say: whatever was promised by our Lord, we have received all, did you also received all, what was promised by your Lord? People of Hell will reply: yes, we got it. Then a crier will cry out: curses of Allah on unjust who had hindered people from the path of Allah.",
-    "arabic_text": "وَ نَادٰٓى اَصْحٰبُ الْجَنَّةِ اَصْحٰبَ النَّارِ اَنْ قَدْ وَجَدْنَا مَا وَعَدَنَا رَبُّنَا حَقًّا فَهَلْ وَجَدتُّم مَّا وَعَدَ رَبُّكُمْ حَقًّا قَالُوا نَعَمْ ۚ فَاَذَّنَ مُؤَذِّنٌ بَيْنَهُمْ اَنْ لَّعْنَةُ اللّٰهِ عَلَى الظّٰلِمِينَ",
+    "arabic_text": "وَ نَادٰٓى اَصْحٰبُ الْجَنَّةِ اَصْحٰبَ النَّارِ اَنْ قَدْ وَجَدْنَا مَا وَعَدَنَا رَبُّنَا حَقًّا فَهَلْ وَجَدتُّم مَّا وَعَدَ رَبُّكُمْ حَقًّا قَالُوْا نَعَمْ ۚ فَاَذَّنَ مُؤَذِّنٌ بَيْنَهُمْ اَنْ لَّعْنَةُ اللّٰهِ عَلَى الظّٰلِمِينَ",
     "urdu_text": "اور جنت والے دوزخ والوں کو پکار کر کہیں گے کہ ہمیں جو ہمارے رب نے وعدہ کیا تھا وہ سب سچا پایا، کیا تم نے بھی جو تمہارے رب نے وعدہ کیا تھا وہ سچا پایا؟ وہ کہیں گے ہاں، پھر ان کے درمیان ایک پکارنے والا پکارے گا کہ اللہ کی لعنت ہو ظالموں پر",
     "persian_text": "و اهل بهشت اهل دوزخ را ندا می‌دهند که آنچه پروردگارمان به ما وعده داده بود حق یافتیم، آیا شما هم آنچه پروردگارتان وعده داده بود حق یافتید؟ گفتند آری، پس ندا دهنده‌ای میان آنان ندا داد که لعنت خدا بر ستمکاران باد",
     "transliteration": "Wa nada as-habul-jannati as-habin-nari an qad wajadna ma wa'adana rabbuna haqqan fahal wajadtum ma wa'ada rabbukum haqqan qalu na'am fa adhdhana mu'adhdhinun baynahum al-la'natullahi 'alaz-zalimin",
@@ -370,7 +370,7 @@ ayats = [
   {
     "verse_number": 47,
     "english_text": "And when they will suddenly see people of Hell, they will say: O my Lord, do not make us companion of wrongdoers.",
-    "arabic_text": "وَ اِذَا صُرِفَتْ اَبْصَارُهُمْ تِلْقَآءَ اَصْحٰبِ النَّارِ قَالُوا رَبَّنَا لَا تَجْعَلْنَا مَعَ الْقَوْمِ الظّٰلِمِيْنَ",
+    "arabic_text": "وَ اِذَا صُرِفَتْ اَبْصَارُهُمْ تِلْقَآءَ اَصْحٰبِ النَّارِ قَالُوْا رَبَّنَا لَا تَجْعَلْنَا مَعَ الْقَوْمِ الظّٰلِمِيْنَ",
     "urdu_text": "اور جب ان کی نگاہیں دوزخ والوں کی طرف پھیری جائیں گی تو وہ کہیں گے: اے ہمارے رب، ہمیں ظالموں کے ساتھ نہ کرنا۔",
     "persian_text": "و چون دیدگانشان به سوی اهل آتش برگردانده شود، می‌گویند: پروردگارا، ما را با قوم ستمکار قرار مده.",
     "transliteration": "Wa idha surifat absaruhum tilqa'a as-habin-nari qalu rabbana la taj'alna ma'al-qawmiz-zalimin",
@@ -554,7 +554,7 @@ ayats = [
   {
     "verse_number": 70,
     "english_text": "They said: have you come to us so that we worship Allah only, and leave them whom our forefathers have worshipped? So if you are truthful, bring Him to us from Whom you warn us.",
-    "arabic_text": "قَالُوا اَجِئْتَنَا لِنَعْبُدَ اللّٰهَ وَحْدَهُ وَ نَذَرَ مَا كَانَ يَعْبُدُ اٰبَآؤُنَا  ۚ فَاْتِنَا بِمَا تَعِدُنَآ اِنْ كُنْتَ مِنَ الصّٰدِقِيْنَ",
+    "arabic_text": "قَالُوْا اَجِئْتَنَا لِنَعْبُدَ اللّٰهَ وَحْدَهُ وَ نَذَرَ مَا كَانَ يَعْبُدُ اٰبَآؤُنَا  ۚ فَاْتِنَا بِمَا تَعِدُنَآ اِنْ كُنْتَ مِنَ الصّٰدِقِيْنَ",
     "urdu_text": "انہوں نے کہا: کیا تم ہمارے پاس اس لیے آئے ہو کہ ہم صرف اللہ کی عبادت کریں اور ان کو چھوڑ دیں جن کی ہمارے باپ دادا عبادت کرتے تھے؟ پس اگر تم سچے ہو تو جس عذاب سے تم ہمیں ڈراتے ہو وہ ہمارے پاس لے آؤ",
     "persian_text": "گفتند: آیا نزد ما آمده‌ای تا فقط خدای یکتا را بپرستیم و آنچه را که پدرانمان می‌پرستیدند رها کنیم؟ پس اگر از راستگویان هستی آنچه را که ما را از آن بیم می‌دهی برای ما بیاور",
     "transliteration": "Qalu aji'tana lina'buda Allaha wahdahu wa nadhara ma kana ya'budu aba'una fa'tina bima ta'iduna in kunta min as-sadiqin",
@@ -962,7 +962,7 @@ ayats = [
   {
     "verse_number": 121,
     "english_text": "They said: we believe on Lord of the worlds;",
-    "arabic_text": "قَالُوا آمَنَّا بِرَبِّ الْعٰلَمِيْنَ",
+    "arabic_text": "قَالُوْا آمَنَّا بِرَبِّ الْعٰلَمِيْنَ",
     "urdu_text": "انہوں نے کہا: ہم رب العالمین پر ایمان لائے",
     "persian_text": "گفتند: ما به پروردگار جهانیان ایمان آوردیم",
     "transliteration": "Qaaloo aamannaa bi rabbil 'aalameen",
@@ -1050,7 +1050,7 @@ ayats = [
   {
     "verse_number": 132,
     "english_text": "And the people said: O Moosa you may bring any number of signs for magic; we are not going to believe you.",
-    "arabic_text": "وَ قَالُوا مَهْمَا تَاْتِنَا بِهِ مِنْ اٰيَةٍ لِتَسْحَرَنَا بِهَا فَمَا نَحْنُ لَكَ بِمُؤْمِنِيْنَ",
+    "arabic_text": "وَ قَالُوْا مَهْمَا تَاْتِنَا بِهِ مِنْ اٰيَةٍ لِتَسْحَرَنَا بِهَا فَمَا نَحْنُ لَكَ بِمُؤْمِنِيْنَ",
     "urdu_text": "اور انہوں نے کہا اے موسیٰ! تم جتنی بھی نشانیاں لاؤ تاکہ ہم پر جادو کرو، ہم تم پر ایمان لانے والے نہیں ہیں",
     "persian_text": "و گفتند ای موسی هر نشانه‌ای که بیاوری تا ما را جادو کنی، ما به تو ایمان نخواهیم آورد",
     "transliteration": "Wa qalu mahma ta'tina bihi min ayatin li-tasharana biha fama nahnu laka bi-mu'minin",
@@ -1066,7 +1066,7 @@ ayats = [
   {
     "verse_number": 134,
     "english_text": "And when punishment befell them they said: O Moosa, pray to your Lord what He has promised, if He will remove punishment from us, then we will certainly believe in you, and will also send Bani Israel with you.",
-    "arabic_text": "وَ لَمَّا وَ قَعَ عَلَيْهِمُ الرِّجْزُ قَالُوا يٰمُوسَى ادْعُ لَنَا رَبَّكَ بِمَا عَهِدَ عِنْدَكَ لَئِنْ كَشَفْتَ عَنَّا الرِّجْزَ لَنُؤْمِنَنَّ لَكَ وَ لَنُرْسِلَنَّ مَعَكَ بَنِىْٓ اِسْرَآئِيلَ",
+    "arabic_text": "وَ لَمَّا وَ قَعَ عَلَيْهِمُ الرِّجْزُ قَالُوْا يٰمُوسَى ادْعُ لَنَا رَبَّكَ بِمَا عَهِدَ عِنْدَكَ لَئِنْ كَشَفْتَ عَنَّا الرِّجْزَ لَنُؤْمِنَنَّ لَكَ وَ لَنُرْسِلَنَّ مَعَكَ بَنِىْٓ اِسْرَآئِيلَ",
     "urdu_text": "اور جب ان پر عذاب آیا تو کہنے لگے اے موسیٰ! اپنے رب سے ہمارے لیے دعا کرو جیسا اس نے تم سے وعدہ کیا ہے، اگر تم ہم سے عذاب ہٹا دو گے تو ہم ضرور تم پر ایمان لائیں گے اور بنی اسرائیل کو تمہارے ساتھ بھیج دیں گے",
     "persian_text": "و هنگامی که عذاب بر آنها نازل شد گفتند ای موسی برای ما از پروردگارت دعا کن به آنچه با تو عهد کرده است، اگر عذاب را از ما برطرف کنی حتماً به تو ایمان خواهیم آورد و بنی اسرائیل را با تو خواهیم فرستاد",
     "transliteration": "Wa lamma waqa'a 'alayhimur-rijzu qalu ya Musa ud'u lana Rabbaka bima 'ahida 'indaka la'in kashafta 'annar-rijza lanu'minanna laka wa lanursilanna ma'aka Bani Isra'il",
@@ -1098,7 +1098,7 @@ ayats = [
   {
     "verse_number": 138,
     "english_text": "And we took Bani Israel across the river; and they reached to such people who were sitting around their idols, these people said to Moosa: also make for us a god, like of theirs, he replied: you are totally ignorant.",
-    "arabic_text": "وَ جٰوَزْنَا بِبَنِىْٓ اِسْرَآئِيْلَ الْبَحْرَ فَاَتَوْا عَلَٰى قَوْمٍ يَعْكُفُوْنَ عَلَىٰٓ اَصْنَامٍ لَهُمْ ۚ قَالُوا يٰمُوسَى اجْعَلْ لَّنَآ اِلٰهًا كَمَا لَهُمْ آلِهَةٌ ۚ قَالَ اِنَّكُمْ قَوْمٌ تَجْهَلُوْنَ",
+    "arabic_text": "وَ جٰوَزْنَا بِبَنِىْٓ اِسْرَآئِيْلَ الْبَحْرَ فَاَتَوْا عَلَٰى قَوْمٍ يَعْكُفُوْنَ عَلَىٰٓ اَصْنَامٍ لَهُمْ ۚ قَالُوْا يٰمُوسَى اجْعَلْ لَّنَآ اِلٰهًا كَمَا لَهُمْ آلِهَةٌ ۚ قَالَ اِنَّكُمْ قَوْمٌ تَجْهَلُوْنَ",
     "urdu_text": "اور ہم نے بنی اسرائیل کو سمندر پار کرایا، پھر وہ ایسی قوم کے پاس پہنچے جو اپنے بتوں کی پوجا میں لگے ہوئے تھے، انہوں نے کہا: اے موسیٰ! ہمارے لیے بھی ایک معبود بنا دو جیسے ان کے معبود ہیں، موسیٰ نے کہا: تم بالکل جاہل لوگ ہو",
     "persian_text": "و بنی اسرائیل را از دریا گذراندیم، پس به قومی رسیدند که بر بت‌های خود عبادت می‌کردند، گفتند: ای موسی! برای ما هم معبودی قرار ده همانطور که آنها معبودانی دارند، گفت: شما قومی نادان هستید",
     "transliteration": "Wa jawazna bi-Bani Isra'ilal-bahra fa-ataw 'ala qawmin ya'kufuna 'ala asnamin lahum qalu ya Musa ij'al lana ilahan kama lahum alihatun qala innakum qawmun tajhalun",
@@ -1186,7 +1186,7 @@ ayats = [
   {
     "verse_number": 149,
     "english_text": "And when they felt remorse and they saw that they have are diverted from the path, then they said: if our Lord will not show mercy on us and will not forgive us, then we shall certainly be of the losers.",
-    "arabic_text": "وَ لَمَّا سُقِطَ فِىٓ اَيْدِيْهِمْ وَ رَاَوْا اَنَّهُمْ قَدْ ضَلُّوْا قَالُوا لَئِنْ لَّمْ يَرْحَمْنَا رَبُّنَا وَ يَغْفِرْ لَنَا لَنَكُوْنَنَّ مِنَ الْخٰسِرِيْنَ",
+    "arabic_text": "وَ لَمَّا سُقِطَ فِىٓ اَيْدِيْهِمْ وَ رَاَوْا اَنَّهُمْ قَدْ ضَلُّوْا قَالُوْا لَئِنْ لَّمْ يَرْحَمْنَا رَبُّنَا وَ يَغْفِرْ لَنَا لَنَكُوْنَنَّ مِنَ الْخٰسِرِيْنَ",
     "urdu_text": "اور جب انہیں پشیمانی ہوئی اور انہوں نے دیکھا کہ وہ گمراہ ہو گئے ہیں تو کہنے لگے کہ اگر ہمارا رب ہم پر رحم نہ کرے اور ہمیں معاف نہ کرے تو ہم یقیناً نقصان اٹھانے والوں میں سے ہو جائیں گے",
     "persian_text": "و چون پشیمان شدند و دیدند که گمراه شده‌اند، گفتند اگر پروردگار ما بر ما رحم نکند و ما را نیامرزد، قطعاً از زیانکاران خواهیم بود",
     "transliteration": "Wa lamma suqita fi aydihim wa ra-aw annahum qad dallu qalu la'il-lam yarhamna rabbuna wa yaghfir lana lanakūnanna minal-khasirin",
@@ -1258,7 +1258,7 @@ ayats = [
   {
     "verse_number": 158,
     "english_text": "O Prophet! Say: I have been sent towards you as a representative and Prophet of Allah, Who is the Owner of the earth and the skies, there is no god but He; only He gives life and causes death, hence, have belief on Allah and His ummi Prophet who believe on communications of Allah, so that you may be guided.",
-    "arabic_text": "قُلْ يَا اَيُّهَا النَّاسُ اِنِّي رَسُولُ اللّٰهِ اِلَيْكُمْ جَمِيْعًا الَّذِيْ لَهُ مُلْكُ السَّمٰوٰتِ وَ الْاَرْضِ لَآ اِلٰهَ اِلَّا هُوَ يُحِْي وَ يُمِيْتُ فَاٰمِنُوْا بِاللّٰهِ وَ رَسُولِهِ النَّبِيِّ الْاُمِّيِّ الَّذِىْ يُؤْمِنُ بِاللّٰهِ وَ كَلِمٰتِهِ وَ اتَّبِعُوْهُ لَعَلَّكُمْ تَهْتَدُوْنَ",
+    "arabic_text": "قُلْ يٰٓاَيُّهَا النَّاسُ اِنِّي رَسُولُ اللّٰهِ اِلَيْكُمْ جَمِيْعًا الَّذِيْ لَهُ مُلْكُ السَّمٰوٰتِ وَ الْاَرْضِ لَآ اِلٰهَ اِلَّا هُوَ يُحِْي وَ يُمِيْتُ فَاٰمِنُوْا بِاللّٰهِ وَ رَسُولِهِ النَّبِيِّ الْاُمِّيِّ الَّذِىْ يُؤْمِنُ بِاللّٰهِ وَ كَلِمٰتِهِ وَ اتَّبِعُوْهُ لَعَلَّكُمْ تَهْتَدُوْنَ",
     "urdu_text": "اے نبی! کہہ دیجیے: اے لوگو! میں تم سب کی طرف اللہ کا رسول ہوں، جس کے لیے آسمانوں اور زمین کی بادشاہی ہے، اس کے سوا کوئی معبود نہیں، وہی زندہ کرتا ہے اور وہی موت دیتا ہے، پس ایمان لاؤ اللہ پر اور اس کے رسول نبی امی پر جو اللہ اور اس کے کلمات پر ایمان رکھتے ہیں، اور ان کی پیروی کرو تاکہ تم ہدایت پاؤ۔",
     "persian_text": "بگو: ای مردم! من فرستاده خدا به سوی همه شما هستم، همان خدایی که فرمانروایی آسمان‌ها و زمین از آن اوست، هیچ معبودی جز او نیست، زنده می‌کند و می‌میراند، پس به خدا و پیامبرش، پیامبر امی که به خدا و کلمات او ایمان دارد، ایمان بیاورید و از او پیروی کنید، باشد که هدایت یابید.",
     "transliteration": "Qul ya ayyuhan-nasu inni Rasulullahi ilaykum jami'anil-ladhi lahu mulkus-samawati wal-ardi la ilaha illa Huwa yuhyi wa yumitu fa-aminu billahi wa Rasulihhin-Nabiyyil-ummiyyil-ladhi yu'minu billahi wa kalimatih wattabi'uhu la'allakum tahtadun",
@@ -1618,7 +1618,7 @@ ayats = [
   {
     "verse_number": 203,
     "english_text": "And if you do not bring a sign to them they say why don't you select any (sign); say: I follow only whatever is revealed to me from my Lord, this Quran from your Lord is proof of guidance and has the status of Mercy for the believers.",
-    "arabic_text": "وَ اِذَا لَمْ تَاْتِهِم بِآيَةٍ قَالُوا لَوْلَا اجْتَبَيْتَهَا ۚ قُلْ اِنَّمَا اَتَّبِعُ مَا يُوْحٰٓى اِلَيَّ مِن رَّبِّي ۚ هٰذَا بَصَآئِرُ مِنْ رَّبِّكُمْ وَ هُدًى وَ رَحْمَةٌ لِّقَوْمٍ يُؤْمِنُوْنَ",
+    "arabic_text": "وَ اِذَا لَمْ تَاْتِهِم بِآيَةٍ قَالُوْا لَوْلَا اجْتَبَيْتَهَا ۚ قُلْ اِنَّمَا اَتَّبِعُ مَا يُوْحٰٓى اِلَيَّ مِن رَّبِّي ۚ هٰذَا بَصَآئِرُ مِنْ رَّبِّكُمْ وَ هُدًى وَ رَحْمَةٌ لِّقَوْمٍ يُؤْمِنُوْنَ",
     "urdu_text": "اور جب آپ ان کے پاس کوئی نشانی نہ لائیں تو کہتے ہیں کہ آپ نے خود کوئی نشانی کیوں نہیں بنا لی، کہہ دیجیے کہ میں تو صرف اس کی پیروی کرتا ہوں جو میرے رب کی طرف سے مجھ پر وحی کیا جاتا ہے، یہ قرآن تمہارے رب کی طرف سے بصیرتیں اور ہدایت اور رحمت ہے ایمان لانے والوں کے لیے",
     "persian_text": "و هنگامی که نشانه‌ای برای آنها نیاوری، می‌گویند چرا خودت آن را برنگزیدی؟ بگو: من تنها از آنچه از جانب پروردگارم بر من وحی می‌شود پیروی می‌کنم، این قرآن بصیرت‌هایی از جانب پروردگار شماست و هدایت و رحمت برای قومی که ایمان می‌آورند",
     "transliteration": "Wa izaa lam ta'tihim bi-Aayatin qaaloo law-laj-tabaytahaa qul innamaa attabi'u maa yoohaaa ilayya mir-Rabbee haazaa basaaa'iru mir-Rabbikum wa hudanw-wa rahmatul-liqawminy-yu'minoon",

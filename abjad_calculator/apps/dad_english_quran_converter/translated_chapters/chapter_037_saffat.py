@@ -17,7 +17,7 @@ ayats = [
   {
     "verse_number": 2,
     "english_text": "Then by those who warn them from evil.",
-    "arabic_text": "فَٱلزَّٰجِرَٰتِ زَجْرًۭا",
+    "arabic_text": "فَٱلزَّٰجِرَٰتِ زَجْرًا",
     "urdu_text": "پھر ان کی جو سختی سے منع کرتے هیں",
     "persian_text": "سپس سوگند به آنان که سخت نهی می‌کنند",
     "transliteration": "Faz-zaajiraati zajraa"
@@ -73,7 +73,7 @@ ayats = [
   {
     "verse_number": 9,
     "english_text": "To drive them off; and perpetual punishment for them.",
-    "arabic_text": "دُحُورًۭا ۖ وَلَهُمْ عَذَابٌۭ وَاصِبٌ",
+    "arabic_text": "دُحُورًا ۖ وَلَهُمْ عَذَابٌۭ وَاصِبٌ",
     "urdu_text": "دھتکارے جانے کے لیے اور ان کے لیے مسلسل عذاب هے",
     "persian_text": "برای راندن آنها و برای آنان عذابی پیوسته است",
     "transliteration": "Duhooraa, wa lahum 'adhaabuw-waasib"
@@ -1345,7 +1345,7 @@ ayats = [
   {
     "verse_number": 168,
     "english_text": "Had we a reminder from those of earlier ones.",
-    "arabic_text": "لَوْ اَنَّ عِندَنَا ذِكْرًۭا مِّنَ ٱلْاَوَّلِينَ",
+    "arabic_text": "لَوْ اَنَّ عِندَنَا ذِكْرًا مِّنَ ٱلْاَوَّلِينَ",
     "urdu_text": "کاش همارے پاس پهلے لوگوں کی نصیحت هوتی",
     "persian_text": "اگر نزد ما کتابی از پیشینیان بود",
     "transliteration": "Law anna 'indanaa dhikram min al-awwaleen"

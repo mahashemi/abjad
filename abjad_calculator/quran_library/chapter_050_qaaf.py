@@ -25,7 +25,7 @@ ayats = [
   {
     "verse_number": 3,
     "english_text": "What, when we will die and become dust, will we return again, it does not seem so.",
-    "arabic_text": "اَءِذَا مِتْنَا وَكُنَّا تُرَابًۭا ۖ ذَٰلِكَ رَجْعٌۢ بَعِيدٌۭ",
+    "arabic_text": "اَءِذَا مِتْنَا وَكُنَّا تُرَابًا ۖ ذَٰلِكَ رَجْعٌۢ بَعِيدٌۭ",
     "urdu_text": "کیا جب هم مر جائیں گے اور مٹی هو جائیں گے تو کیا واپس آئیں گے؟ یه لوٹنا بعید هے۔",
     "persian_text": "آیا وقتی که بمیریم و خاک شویم، آیا بازگشت خواهیم داشت؟ این بازگشتی دور از واقعیت است.",
     "transliteration": "A-idhaa mitnaa wa kunnaa turaabaa, dhaalika raj'um ba'eed"
@@ -209,7 +209,7 @@ ayats = [
   {
     "verse_number": 26,
     "english_text": "Who had created gods besides Allah; both of you, throw him into severe punishment.",
-    "arabic_text": "الَّذِى جَعَلَ مَعَ اللَّهِ اِلَـٰهًا ءَاخَرَ فَاَلْقِيَاهُ فِى الْعَذَابِ الشَّدِيدِ",
+    "arabic_text": "الَّذِى جَعَلَ مَعَ اللّٰهِ اِلَـٰهًا ءَاخَرَ فَاَلْقِيَاهُ فِى الْعَذَابِ الشَّدِيدِ",
     "urdu_text": "جس نے الله کے ساتھ دوسرا معبود بنایا تھا، پس تم دونوں اسے سخت عذاب میں ڈال دو۔",
     "persian_text": "کسی که با خدا معبود دیگری قرار داد، پس شما دو تن او را در عذاب شدید بیفکنید.",
     "transliteration": "Allazee ja'ala ma'allaahi ilaahan aakhara fa alqiyaahu fil 'azaabish shadeed"

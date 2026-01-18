@@ -57,7 +57,7 @@ ayats = [
   {
     "verse_number": 7,
     "english_text": "Remember the time when Moosa said to his family: I have seen a fire and shortly I will bring the news of its way or bring an ember of it so that you can warm yourselves up.",
-    "arabic_text": "إِذْ قَالَ مُوسَىٰ لِاَهْلِهِۦٓ إِنِّىٓ ءَانَسْتُ نَارًۭا سَـَٔاتِيكُم مِّنْهَا بِخَبَرٍ اَوْ ءَاتِيكُم بِشِهَابٍۢ قَبَسٍۢ لَّعَلَّكُمْ تَصْطَلُونَ",
+    "arabic_text": "إِذْ قَالَ مُوسَىٰ لِاَهْلِهِۦٓ إِنِّىٓ ءَانَسْتُ نَارًا سَـَٔاتِيكُم مِّنْهَا بِخَبَرٍ اَوْ ءَاتِيكُم بِشِهَابٍۢ قَبَسٍۢ لَّعَلَّكُمْ تَصْطَلُونَ",
     "urdu_text": "جب موسیٰ نے اپنے گھر والوں سے کها: میں نے آگ دیکھی هے، میں عنقریب اس سے کوئی خبر لاتا هوں یا اس میں سے کوئی انگاره لاتا هوں تاکه تم گرم هو سکو۔",
     "persian_text": "آنگاه که موسی به خانواده‌اش گفت: من آتشی دیده‌ام، به زودی از آن خبری برایتان می‌آورم یا شعله‌ای از آن می‌آورم تا گرم شوید.",
     "transliteration": "Iz qaala Moosa li ahlihee innee aanastu naaran sa aateekum minha bikhabarin aw aateekum bishihaabin qabasin la'allakum tastaloon"
@@ -81,7 +81,7 @@ ayats = [
   {
     "verse_number": 10,
     "english_text": "Now throw your staff on the ground, when Moosa saw it was moving serpent, he turned back footed and didn't saw back, came the sound, Moosa do not be afraid, messengers do not fear in My Court.",
-    "arabic_text": "وَاَلْقِ عَصَاكَ ۚ فَلَمَّا رَءَاهَا تَهْتَزُّ كَاَنَّهَا جَآنٌّۭ وَلَّىٰ مُدْبِرًۭا وَلَمْ يُعَقِّبْ ۚ يَـٰمُوسَىٰ لَا تَخَفْ إِنِّى لَا يَخَافُ لَدَىَّ ٱلْمُرْسَلُونَ",
+    "arabic_text": "وَاَلْقِ عَصَاكَ ۚ فَلَمَّا رَءَاهَا تَهْتَزُّ كَاَنَّهَا جَآنٌّۭ وَلَّىٰ مُدْبِرًا وَلَمْ يُعَقِّبْ ۚ يَـٰمُوسَىٰ لَا تَخَفْ إِنِّى لَا يَخَافُ لَدَىَّ ٱلْمُرْسَلُونَ",
     "urdu_text": "اور اپنی لاٹھی ڈال دو، پھر جب موسیٰ نے دیکھا که وه سانپ کی طرح حرکت کر رهی هے تو وه پیٹھ پھیر کر بھاگے اور پیچھے مڑ کر نهیں دیکھا۔ آواز آئی: اے موسیٰ! خوف نه کرو، بیشک میرے حضور میں رسول خوف نهیں کرتے۔",
     "persian_text": "و عصایت را بینداز. پس چون دید که مانند ماری می‌جنبد، پشت کرده فرار کرد و برنگشت. ای موسی! مترس، همانا پیامبران نزد من نمی‌ترسند.",
     "transliteration": "Wa alqi 'asaak, falamma ra aaha tahtazzu ka annaha jaaannun walla mudbirañw wa lam yu'aqqib, ya Moosa la takhaf innee la yakhaafu ladayyal mursaloon"
@@ -401,7 +401,7 @@ ayats = [
   {
     "verse_number": 50,
     "english_text": "Then they plotted, and We also made arrangements, and they were (totally) unaware.",
-    "arabic_text": "وَمَكَرُواْ مَكْرًۭا وَمَكَرْنَا مَكْرًۭا وَهُمْ لَا يَشْعُرُونَ",
+    "arabic_text": "وَمَكَرُواْ مَكْرًا وَمَكَرْنَا مَكْرًا وَهُمْ لَا يَشْعُرُونَ",
     "urdu_text": "اور انهوں نے ایک چال چلی اور هم نے بھی ایک تدبیر کی اور وه بے خبر تھے۔",
     "persian_text": "و آنان نقشه‌ای کشیدند و ما نیز تدبیری کردیم و آنان نمی‌دانستند.",
     "transliteration": "Wa makaroo makranw wa makarnaa makranw wa hum laa yash'uroon"
@@ -465,7 +465,7 @@ ayats = [
   {
     "verse_number": 58,
     "english_text": "Then We sent upon them a strange rain from which they are warned, and this rain of punishment is very bad.",
-    "arabic_text": "وَاَمْطَرْنَا عَلَيْهِم مَّطَرًۭا ۖ فَسَآءَ مَطَرُ ٱلْمُنذَرِينَ",
+    "arabic_text": "وَاَمْطَرْنَا عَلَيْهِم مَّطَرًا ۖ فَسَآءَ مَطَرُ ٱلْمُنذَرِينَ",
     "urdu_text": "اور هم نے ان پر ایک عذاب کی بارش برسائی، پس ڈرائے گئے لوگوں پر یه بهت بری بارش تھی۔",
     "persian_text": "و بر آنها باران عذابی فرو باریدیم، پس چه بد بود باران هشدار داده شدگان.",
     "transliteration": "Wa amṭarnā 'alayhim maṭaran fasā'a maṭaru al-mundharīn"
@@ -489,7 +489,7 @@ ayats = [
   {
     "verse_number": 61,
     "english_text": "Who is He Who made the earth a place of stay, then flown rivers in between, and made mountains for it, and created barrier between the two rivers, is there any other god besides Allah, absolutely not; in fact, majority of them are ignorant.",
-    "arabic_text": "اَمَّن جَعَلَ ٱلْاَرْضَ قَرَارًۭا وَجَعَلَ خِلَـٰلَهَآ اَنْهَـٰرًۭا وَجَعَلَ لَهَا رَوَٰسِىَ وَجَعَلَ بَيْنَ ٱلْبَحْرَيْنِ حَاجِزًا ۗ اَءِلَـٰهٌۭ مَّعَ ٱللَّهِ ۚ بَلْ اَكْثَرُهُمْ لَا يَعْلَمُونَ",
+    "arabic_text": "اَمَّن جَعَلَ ٱلْاَرْضَ قَرَارًا وَجَعَلَ خِلَـٰلَهَآ اَنْهَـٰرًا وَجَعَلَ لَهَا رَوَٰسِىَ وَجَعَلَ بَيْنَ ٱلْبَحْرَيْنِ حَاجِزًا ۗ اَءِلَـٰهٌۭ مَّعَ ٱللَّهِ ۚ بَلْ اَكْثَرُهُمْ لَا يَعْلَمُونَ",
     "urdu_text": "وه کون هے جس نے زمین کو ٹھهرنے کی جگه بنایا اور اس میں نهریں جاری کیں اور اس کے لیے پهاڑ بنائے اور دو سمندروں کے درمیان رکاوٹ قائم کی؟ کیا الله کے ساتھ کوئی اور معبود هے؟ هرگز نهیں، بلکه ان میں سے اکثر لوگ نهیں جانتے۔",
     "persian_text": "چه کسی است که زمین را جایگاه آرامش قرار داد و در میان آن رودها جاری ساخت و برای آن کوه‌ها نهاد و میان دو دریا حائلی قرار داد؟ آیا معبودی با الله است؟ هرگز نه، بلکه بیشتر آنان نمی‌دانند.",
     "transliteration": "Amman ja'alal-arda qararan wa ja'ala khilalaha anharan wa ja'ala laha rawasiya wa ja'ala baynal-bahrayni hajiza, a-ilahun ma'allah, bal aktharuhum la ya'lamun"

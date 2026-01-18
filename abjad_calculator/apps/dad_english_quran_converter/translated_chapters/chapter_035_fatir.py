@@ -193,7 +193,7 @@ ayats = [
   {
     "verse_number": 24,
     "english_text": "We have sent as giver of glad tidings with the Truth, and there is no nation which was not sent a warner.",
-    "arabic_text": "إِنَّآ اَرْسَلْنَـٰكَ بِٱلْحَقِّ بَشِيرًۭا وَنَذِيرًۭا ۚ وَإِن مِّنْ أُمَّةٍ إِلَّا خَلَا فِيهَا نَذِيرٌۭ",
+    "arabic_text": "إِنَّآ اَرْسَلْنَـٰكَ بِٱلْحَقِّ بَشِيرًا وَنَذِيرًا ۚ وَإِن مِّنْ أُمَّةٍ إِلَّا خَلَا فِيهَا نَذِيرٌۭ",
     "urdu_text": "بیشک ہم نے آپ کو حق کے ساتھ خوشخبری دینے والا اور ڈر سنانے والا بنا کر بھیجا ہے، اور کوئی امت ایسی نہیں جس میں کوئی ڈر سنانے والا نہ گزرا ہو۔",
     "persian_text": "همانا ما تو را به حق فرستادیم، بشارت‌دهنده و بیم‌دهنده، و هیچ امتی نیست مگر آنکه در آن بیم‌دهنده‌ای گذشته است.",
     "transliteration": "Innaaa arsalnaaka bilhaqqi basheeranw-wa nadheeraa, wa im-min ummatin illaa khalaa feehaa nadheer"
@@ -313,7 +313,7 @@ ayats = [
   {
     "verse_number": 39,
     "english_text": "That is Allah who made you successors of the earlier ones, and whoever will be infidel he will be responsible for himself, and infidelity in the sight of Allah does not increase anything except the divine wrath and loss.",
-    "arabic_text": "هُوَ ٱلَّذِى جَعَلَكُمْ خَلَـٰٓئِفَ فِى ٱلْاَرْضِ ۚ فَمَن كَفَرَ فَعَلَيْهِ كُفْرُهُۥ ۖ وَلَا يَزِيدُ ٱلْكَـٰفِرِينَ كُفْرُهُمْ عِندَ رَبِّهِمْ إِلَّا مَقْتًۭا ۖ وَلَا يَزِيدُ ٱلْكَـٰفِرِينَ كُفْرُهُمْ إِلَّا خَسَارًۭا",
+    "arabic_text": "هُوَ ٱلَّذِى جَعَلَكُمْ خَلَـٰٓئِفَ فِى ٱلْاَرْضِ ۚ فَمَن كَفَرَ فَعَلَيْهِ كُفْرُهُۥ ۖ وَلَا يَزِيدُ ٱلْكَـٰفِرِينَ كُفْرُهُمْ عِندَ رَبِّهِمْ إِلَّا مَقْتًۭا ۖ وَلَا يَزِيدُ ٱلْكَـٰفِرِينَ كُفْرُهُمْ إِلَّا خَسَارًا",
     "urdu_text": "وہی ہے جس نے تمہیں زمین میں خلیفہ بنایا، پس جو کفر کرے گا اس کا کفر اسی پر ہوگا، اور کافروں کا کفر ان کے رب کے نزدیک سوائے غضب کے اور کچھ نہیں بڑھاتا، اور کافروں کا کفر سوائے نقصان کے اور کچھ نہیں بڑھاتا۔",
     "persian_text": "اوست که شما را جانشینان در زمین قرار داد، پس هر که کفر ورزد کفرش به زیان خودش است، و کفر کافران نزد پروردگارشان جز خشم نمی‌افزاید و کفر کافران جز زیان بر آنان نمی‌افزاید.",
     "transliteration": "Huwal lazee ja'alakum khala'ifa fil ard, faman kafara fa'alayhi kufruhu, wa la yazeedul kafireena kufruhum 'inda rabbihim illa maqta, wa la yazeedul kafireena kufruhum illa khasara"
@@ -329,7 +329,7 @@ ayats = [
   {
     "verse_number": 41,
     "english_text": "Verily, Allah upholds skies and the earth from getting perish, apart from Allah if anybody else would have upheld them, they would have been perished, and He is very Forbearing and Forgiving.",
-    "arabic_text": "۞ إِنَّ ٱللَّهَ يُمْسِكُ ٱلسَّمَـٰوَٰتِ وَٱلْاَرْضَ اَن تَزُولَا ۚ وَلَئِن زَالَتَآ إِنْ اَمْسَكَهُمَا مِنْ اَحَدٍۢ مِّنۢ بَعْدِهِۦٓ ۚ إِنَّهُۥ كَانَ حَلِيمًا غَفُورًۭا",
+    "arabic_text": "۞ إِنَّ ٱللَّهَ يُمْسِكُ ٱلسَّمَـٰوَٰتِ وَٱلْاَرْضَ اَن تَزُولَا ۚ وَلَئِن زَالَتَآ إِنْ اَمْسَكَهُمَا مِنْ اَحَدٍۢ مِّنۢ بَعْدِهِۦٓ ۚ إِنَّهُۥ كَانَ حَلِيمًا غَفُورًا",
     "urdu_text": "بیشک اللہ ہی آسمانوں اور زمین کو تھامے ہوئے ہے کہ وہ ٹل نہ جائیں، اور اگر وہ ٹل جائیں تو اللہ کے سوا کوئی انہیں تھام نہیں سکتا، بیشک وہ بڑا بردبار اور بخشنے والا ہے۔",
     "persian_text": "همانا خداوند آسمان‌ها و زمین را نگه می‌دارد تا از جای نلغزند، و اگر بلغزند هیچ کس جز او نمی‌تواند آنها را نگه دارد، بی‌گمان او بردبار و آمرزنده است.",
     "transliteration": "Innallaaha yumsikus samaawaati wal arda an tazoolaa, wa la'in zaalataa in amsakahumaa min ahadin mim ba'dih, innahoo kaana haleeman ghafooraa"
@@ -345,7 +345,7 @@ ayats = [
   {
     "verse_number": 43,
     "english_text": "This is the result of proud and evil planning, however big evil plotters will be affected with their own plotting, now what they are awaiting about the method of Allah with regards to the earlier ones, and method of Allah is also not going to be changed, nor can there be any changes.",
-    "arabic_text": "ٱسْتِكْبَارًۭا فِى ٱلْاَرْضِ وَمَكْرَ ٱلسَّيِّئِ ۚ وَلَا يَحِيقُ ٱلْمَكْرُ ٱلسَّيِّئُ إِلَّا بِاَهْلِهِۦ ۚ فَهَلْ يَنظُرُونَ إِلَّا سُنَّتَ ٱلْاَوَّلِينَ ۚ فَلَن تَجِدَ لِسُنَّتِ ٱللَّهِ تَبْدِيلًۭا ۖ وَلَن تَجِدَ لِسُنَّتِ ٱللَّهِ تَحْوِيلًا",
+    "arabic_text": "ٱسْتِكْبَارًا فِى ٱلْاَرْضِ وَمَكْرَ ٱلسَّيِّئِ ۚ وَلَا يَحِيقُ ٱلْمَكْرُ ٱلسَّيِّئُ إِلَّا بِاَهْلِهِۦ ۚ فَهَلْ يَنظُرُونَ إِلَّا سُنَّتَ ٱلْاَوَّلِينَ ۚ فَلَن تَجِدَ لِسُنَّتِ ٱللَّهِ تَبْدِيلًۭا ۖ وَلَن تَجِدَ لِسُنَّتِ ٱللَّهِ تَحْوِيلًا",
     "urdu_text": "یہ زمین میں تکبر اور بری چال کا نتیجہ ہے، اور بری چال اپنے چلنے والوں ہی کو گھیرتی ہے، تو کیا یہ اگلوں کے ساتھ اللہ کی سنت کے سوا کسی اور چیز کا انتظار کر رہے ہیں؟ پس تو اللہ کی سنت میں کوئی تبدیلی نہیں پائے گا اور نہ اللہ کی سنت میں کوئی رد و بدل پائے گا۔",
     "persian_text": "این نتیجه تکبر در زمین و نقشه بد است، و نقشه بد جز به اهل خودش فرو نمی‌گیرد، پس آیا جز سنت پیشینیان انتظار می‌کشند؟ هرگز در سنت خدا تبدیلی نخواهی یافت و هرگز در سنت خدا دگرگونی نخواهی یافت.",
     "transliteration": "Istikbaaran fil ardi wa makras sayyi', wa laa yaheequl makrus sayyi'u illaa bi ahlih, fahal yanzuroona illaa sunnatal awwaleen, falan tajida lisunnatillaahi tabdeelaa, wa lan tajida lisunnatillaahi tahweelaa"
@@ -353,7 +353,7 @@ ayats = [
   {
     "verse_number": 44,
     "english_text": "So did not they travel in the land to see what had happened to the earlier ones, whereas they were more powerful compared to them; nothing of the earth and the skies can humble Allah, verily, He knows everything and has power over them.",
-    "arabic_text": "اَوَلَمْ يَسِيرُواْ فِى ٱلْاَرْضِ فَيَنظُرُواْ كَيْفَ كَانَ عَـٰقِبَةُ ٱلَّذِينَ مِن قَبْلِهِمْ وَكَانُوٓاْ اَشَدَّ مِنْهُمْ قُوَّةًۭ ۚ وَمَا كَانَ ٱللَّهُ لِيُعْجِزَهُۥ مِن شَىْءٍۢ فِى ٱلسَّمَـٰوَٰتِ وَلَا فِى ٱلْاَرْضِ ۚ إِنَّهُۥ كَانَ عَلِيمًۭا قَدِيرًۭا",
+    "arabic_text": "اَوَلَمْ يَسِيرُواْ فِى ٱلْاَرْضِ فَيَنظُرُواْ كَيْفَ كَانَ عَـٰقِبَةُ ٱلَّذِينَ مِن قَبْلِهِمْ وَكَانُوٓاْ اَشَدَّ مِنْهُمْ قُوَّةًۭ ۚ وَمَا كَانَ ٱللَّهُ لِيُعْجِزَهُۥ مِن شَىْءٍۢ فِى ٱلسَّمَـٰوَٰتِ وَلَا فِى ٱلْاَرْضِ ۚ إِنَّهُۥ كَانَ عَلِيمًۭا قَدِيرًا",
     "urdu_text": "کیا انہوں نے زمین میں سفر نہیں کیا کہ دیکھتے کہ ان سے پہلے لوگوں کا کیا انجام ہوا، حالانکہ وہ ان سے زیادہ طاقتور تھے؟ اور اللہ کو آسمانوں اور زمین میں کوئی چیز عاجز نہیں کر سکتی، بیشک وہ سب کچھ جانتا اور ہر چیز پر قادر ہے۔",
     "persian_text": "آیا در زمین سیر نکردند تا ببینند عاقبت پیشینیان چگونه بود، در حالی که آنان از اینان نیرومندتر بودند؟ و هیچ چیز در آسمان‌ها و زمین نمی‌تواند خدا را ناتوان کند، همانا او دانای توانا است.",
     "transliteration": "Awalam yaseeroo fil ardi fa yanzuroo kayfa kaana 'aaqibatul lazeena min qablihim wa kaanoo ashadda minhum quwwah, wa maa kaanallaahu liyu'jizahoo min shay'in fis samaawaati wa laa fil ard, innahoo kaana 'aleeman qadeeraa"

@@ -169,7 +169,7 @@ ayats = [
   {
     "verse_number": 21,
     "english_text": "And have neglected the Hereafter.",
-    "arabic_text": "وَتَذَرُونَ الْـَٔاخِرَةَ",
+    "arabic_text": "وَتَذَرُونَ الْاخِرَةَ",
     "urdu_text": "اور آخرت کو چھوڑ دیتے هو۔",
     "persian_text": "و آخرت را رها می‌کنید.",
     "transliteration": "Wa tadharoonal aakhirah"
@@ -249,7 +249,7 @@ ayats = [
   {
     "verse_number": 31,
     "english_text": "He neither affirmed the words of Allah nor did he prayed.",
-    "arabic_text": "فَلَا صَدَّقَ وَلَا صَلَّىٰ",
+    "arabic_text": "فَلَا صَدَّقَ وَ لَا صَلَّىٰ",
     "urdu_text": "تو نه اس نے تصدیق کی اور نه نماز پڑھی",
     "persian_text": "پس نه تصدیق کرد و نه نماز گزارد",
     "transliteration": "Fala saddaqa wala salla"

@@ -25,7 +25,7 @@ ayats = [
   {
     "verse_number": 3,
     "english_text": "This is from Allah. Lord of the Heights.",
-    "arabic_text": "مِّنَ اللَّهِ ذِى الْمَعَارِجِ",
+    "arabic_text": "مِّنَ اللّٰهِ ذِى الْمَعَارِجِ",
     "urdu_text": "الله کی طرف سے، جو بلندیوں کا مالک هے۔",
     "persian_text": "از جانب خداوند، صاحب معارج (بلندی‌ها).",
     "transliteration": "Minal laahi dhil ma'aarij"
@@ -41,7 +41,7 @@ ayats = [
   {
     "verse_number": 5,
     "english_text": "Hence, you use your best patience.",
-    "arabic_text": "فَاصْبِرْ صَبْرًۭا جَمِيلًا",
+    "arabic_text": "فَاصْبِرْ صَبْرًا جَمِيلًا",
     "urdu_text": "پس آپ خوبصورت صبر کریں۔",
     "persian_text": "پس صبری زیبا پیشه کن.",
     "transliteration": "Fasbir sabran jameelaa"
@@ -57,7 +57,7 @@ ayats = [
   {
     "verse_number": 7,
     "english_text": "And We are seeing it near only.",
-    "arabic_text": "وَنَرَىٰهُ قَرِيبًۭا",
+    "arabic_text": "وَنَرَىٰهُ قَرِيبًا",
     "urdu_text": "اور هم اسے قریب دیکھتے هیں۔",
     "persian_text": "و ما آن را نزدیک می‌بینیم.",
     "transliteration": "Wa naraahu qareebaa"
@@ -81,7 +81,7 @@ ayats = [
   {
     "verse_number": 10,
     "english_text": "And no friend will ask about the condition of friend.",
-    "arabic_text": "وَلَا يَسْـَٔلُ حَمِيمٌ حَمِيمًۭا",
+    "arabic_text": "وَ لَا يَسْـَٔلُ حَمِيمٌ حَمِيمًا",
     "urdu_text": "اور کوئی دوست اپنے دوست کے بارے میں نهیں پوچھے گا۔",
     "persian_text": "و هیچ دوستی از دوست خود نمی‌پرسد.",
     "transliteration": "Wa laa yas'alu hameemun hameemaa"
@@ -329,7 +329,7 @@ ayats = [
   {
     "verse_number": 41,
     "english_text": "On the matter that We substitute them with better people and we are not incapable.",
-    "arabic_text": "عَلَىٰٓ اَن نُّبَدِّلَ خَيْرًۭا مِّنْهُمْ وَ مَا نَحْنُ بِمَسْبُوقِينَ",
+    "arabic_text": "عَلَىٰٓ اَن نُّبَدِّلَ خَيْرًا مِّنْهُمْ وَ مَا نَحْنُ بِمَسْبُوقِينَ",
     "urdu_text": "اس بات پر که هم ان کی جگه ان سے بهتر لوگوں کو لے آئیں اور هم اس سے عاجز نهیں هیں۔",
     "persian_text": "بر این که جای آنان را به بهتر از آنان بدل کنیم و ما ناتوان نیستیم.",
     "transliteration": "'Alaa an nubaddila khayram minhum wa maa nahnu bimasbooqeen"

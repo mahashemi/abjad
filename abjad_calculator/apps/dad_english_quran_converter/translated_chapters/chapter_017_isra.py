@@ -25,7 +25,7 @@ ayats = [
   {
     "verse_number": 3,
     "english_text": "(And ordained that) O children of the people whom I made them board the Ark of Nooh; indeed, Nooh was a grateful servant.",
-    "arabic_text": "ذُرِّيَّةَ مَنْ حَمَلْنَا مَعَ نُوحٍ ۚ إِنَّهُۥ كَانَ عَبْدًۭا شَكُورًۭا",
+    "arabic_text": "ذُرِّيَّةَ مَنْ حَمَلْنَا مَعَ نُوحٍ ۚ إِنَّهُۥ كَانَ عَبْدًۭا شَكُورًا",
     "urdu_text": "اے ان لوگوں کی اولاد جنہیں ہم نے نوح کے ساتھ کشتی میں سوار کیا تھا، بے شک نوح بہت شکر گزار بندہ تھا۔",
     "persian_text": "ای فرزندان کسانی که با نوح در کشتی سوار کردیم، همانا نوح بنده‌ای بسیار سپاسگزار بود.",
     "transliteration": "Dhurriyyata man hamalna ma'a nooh innahu kana 'abdan shakoora"
@@ -33,7 +33,7 @@ ayats = [
   {
     "verse_number": 4,
     "english_text": "And We had told Bani Israel in the book (Taurait) that you will create the mischief on the earth twice and will do great transgression.",
-    "arabic_text": "وَقَضَيْنَآ إِلَىٰ بَنِىٓ إِسْرَٰٓءِيلَ فِى ٱلْكِتَـٰبِ لَتُفْسِدُنَّ فِى ٱلْاَرْضِ مَرَّتَيْنِ وَلَتَعْلُنَّ عُلُوًّۭا كَبِيرًۭا",
+    "arabic_text": "وَقَضَيْنَآ إِلَىٰ بَنِىٓ إِسْرَٰٓءِيلَ فِى ٱلْكِتَـٰبِ لَتُفْسِدُنَّ فِى ٱلْاَرْضِ مَرَّتَيْنِ وَلَتَعْلُنَّ عُلُوًّۭا كَبِيرًا",
     "urdu_text": "اور ہم نے بنی اسرائیل کو کتاب (تورات) میں فیصلہ سنا دیا تھا کہ تم زمین میں دو بار فساد کرو گے اور بڑی سرکشی کرو گے۔",
     "persian_text": "و به بنی‌اسرائیل در کتاب اعلام کردیم که دو بار در زمین فساد خواهید کرد و سرکشی بزرگی خواهید نمود.",
     "transliteration": "Wa qadayna ila banee isra'eela fil-kitabi latufsidunna fil-ardi marratayni wa lata'lunna 'uluwwan kabeera"
@@ -73,7 +73,7 @@ ayats = [
   {
     "verse_number": 9,
     "english_text": "Indeed, Quran guides to the path, which is the straightest path, and give glad tidings to the believers who do good works, for them is the great reward existing.",
-    "arabic_text": "إِنَّ هَـٰذَا ٱلْقُرْءَانَ يَهْدِى لِلَّتِى هِىَ اَقْوَمُ وَيُبَشِّرُ ٱلْمُؤْمِنِينَ ٱلَّذِينَ يَعْمَلُونَ ٱلصَّـٰلِحَـٰتِ اَنَّ لَهُمْ اَجْرًۭا كَبِيرًۭا",
+    "arabic_text": "إِنَّ هَـٰذَا ٱلْقُرْءَانَ يَهْدِى لِلَّتِى هِىَ اَقْوَمُ وَيُبَشِّرُ ٱلْمُؤْمِنِينَ ٱلَّذِينَ يَعْمَلُونَ ٱلصَّـٰلِحَـٰتِ اَنَّ لَهُمْ اَجْرًا كَبِيرًا",
     "urdu_text": "بے شک یہ قرآن اس راہ کی طرف رہنمائی کرتا ہے جو سب سے زیادہ سیدھی ہے، اور ان مومنوں کو خوشخبری دیتا ہے جو نیک اعمال کرتے ہیں کہ ان کے لیے بڑا اجر ہے۔",
     "persian_text": "همانا این قرآن به راهی که استوارترین است هدایت می‌کند و به مؤمنانی که کارهای شایسته انجام می‌دهند بشارت می‌دهد که برای آنان پاداش بزرگی است.",
     "transliteration": "Inna hadhal-qur'ana yahdee lillatee hiya aqwamu wa yubashshirul-mu'mineena alladheena ya'maloonas-salihati anna lahum ajran kabeera"
@@ -129,7 +129,7 @@ ayats = [
   {
     "verse_number": 16,
     "english_text": "And when We wish to destroy any town; We give command to the wealthy people, and when they start disobeying; then that town becomes deserving of punishment, and We destroy them completely.",
-    "arabic_text": "وَإِذَآ اَرَدْنَآ اَن نُّهْلِكَ قَرْيَةً اَمَرْنَا مُتْرَفِيهَا فَفَسَقُواْ فِيهَا فَحَقَّ عَلَيْهَا ٱلْقَوْلُ فَدَمَّرْنَـٰهَا تَدْمِيرًۭا",
+    "arabic_text": "وَإِذَآ اَرَدْنَآ اَن نُّهْلِكَ قَرْيَةً اَمَرْنَا مُتْرَفِيهَا فَفَسَقُواْ فِيهَا فَحَقَّ عَلَيْهَا ٱلْقَوْلُ فَدَمَّرْنَـٰهَا تَدْمِيرًا",
     "urdu_text": "اور جب ہم کسی بستی کو ہلاک کرنا چاہتے ہیں تو اس کے خوشحال لوگوں کو حکم دیتے ہیں، پھر وہ اس میں نافرمانی کرتے ہیں، تو اس پر عذاب کا فیصلہ ثابت ہو جاتا ہے، پھر ہم اسے بالکل تباہ کر دیتے ہیں۔",
     "persian_text": "و هنگامی که بخواهیم شهری را هلاک کنیم، به ثروتمندانش فرمان می‌دهیم، پس در آن نافرمانی می‌کنند، آنگاه فرمان عذاب بر آن محقق می‌شود، پس آن را به کلی نابود می‌سازیم.",
     "transliteration": "Wa idha aradna an nuhlika qaryatan amarna mutrafīha fa-fasaqu fiha fa-haqqa 'alayha al-qawlu fa-dammarnaha tadmira"
@@ -137,7 +137,7 @@ ayats = [
   {
     "verse_number": 17,
     "english_text": "And how many generations We destroyed after Nooh, and (O Prophet), your Lord is sufficient to know and see the sins of His servants (and there is no need for any witness).",
-    "arabic_text": "وَكَمْ اَهْلَكْنَا مِنَ ٱلْقُرُونِ مِنۢ بَعْدِ نُوحٍۢ ۗ وَكَفَىٰ بِرَبِّكَ بِذُنُوبِ عِبَادِهِۦ خَبِيرًۢا بَصِيرًۭا",
+    "arabic_text": "وَكَمْ اَهْلَكْنَا مِنَ ٱلْقُرُونِ مِنۢ بَعْدِ نُوحٍۢ ۗ وَكَفَىٰ بِرَبِّكَ بِذُنُوبِ عِبَادِهِۦ خَبِيرًۢا بَصِيرًا",
     "urdu_text": "اور نوح کے بعد ہم نے کتنی ہی نسلوں کو ہلاک کر دیا، اور آپ کا رب اپنے بندوں کے گناہوں سے باخبر اور دیکھنے والا کافی ہے۔",
     "persian_text": "و چه بسیار نسل‌هایی را پس از نوح هلاک کردیم، و پروردگار تو برای آگاهی و دیدن گناهان بندگانش کافی است.",
     "transliteration": "Wa kam ahlakna mina al-quruni min ba'di Nuhin wa kafa bi-rabbika bi-dhunubi 'ibadihi khabiran basira"
@@ -145,7 +145,7 @@ ayats = [
   {
     "verse_number": 18,
     "english_text": "And whoever is desirous of this world We give him what he wishes soon, but then We have assigned Hell for them, and they will enter into it with disgrace and disrespect.",
-    "arabic_text": "مَّن كَانَ يُرِيدُ ٱلْعَاجِلَةَ عَجَّلْنَا لَهُۥ فِيهَا مَا نَشَآءُ لِمَن نُّرِيدُ ثُمَّ جَعَلْنَا لَهُۥ جَهَنَّمَ يَصْلَىٰهَا مَذْمُومًۭا مَّدْحُورًۭا",
+    "arabic_text": "مَّن كَانَ يُرِيدُ ٱلْعَاجِلَةَ عَجَّلْنَا لَهُۥ فِيهَا مَا نَشَآءُ لِمَن نُّرِيدُ ثُمَّ جَعَلْنَا لَهُۥ جَهَنَّمَ يَصْلَىٰهَا مَذْمُومًۭا مَّدْحُورًا",
     "urdu_text": "جو دنیا کی زندگی کا خواہاں ہو، ہم اس میں جلد دے دیتے ہیں جو ہم چاہیں جس کے لیے ہم چاہیں، پھر ہم نے اس کے لیے جہنم مقرر کر دی ہے جس میں وہ ملامت زدہ اور دھتکارا ہوا داخل ہوگا۔",
     "persian_text": "هر کس زندگی دنیا را بخواهد، در آن برایش هر چه بخواهیم برای هر که بخواهیم می‌دهیم، سپس جهنم را برایش قرار داده‌ایم که در آن نکوهیده و رانده شده وارد می‌شود.",
     "transliteration": "Man kana yuridu al-'ajilata 'ajjalna lahu fiha ma nasha'u li-man nuridu thumma ja'alna lahu jahannama yaslaha madhmuman madhura"
@@ -153,7 +153,7 @@ ayats = [
   {
     "verse_number": 19,
     "english_text": "And whoever is desirous of the Hereafter and endeavor also for it and is a believer also, so these are the people whose endeavor will be accepted.",
-    "arabic_text": "وَمَنْ اَرَادَ ٱلْـَٔاخِرَةَ وَسَعَىٰ لَهَا سَعْيَهَا وَهُوَ مُؤْمِنٌۭ فَأُو۟لَـٰٓئِكَ كَانَ سَعْيُهُم مَّشْكُورًۭا",
+    "arabic_text": "وَمَنْ اَرَادَ ٱلْـَٔاخِرَةَ وَسَعَىٰ لَهَا سَعْيَهَا وَهُوَ مُؤْمِنٌۭ فَأُو۟لَـٰٓئِكَ كَانَ سَعْيُهُم مَّشْكُورًا",
     "urdu_text": "اور جو آخرت کا خواہاں ہو اور اس کے لیے کوشش بھی کرے جیسی کوشش کرنی چاہیے اور وہ مومن بھی ہو، تو ایسے لوگوں کی کوشش قبول کی جائے گی۔",
     "persian_text": "و هر کس آخرت را بخواهد و برای آن کوشش کند آن‌گونه که باید و مؤمن باشد، پس اینان کسانی هستند که کوششان قدردانی می‌شود.",
     "transliteration": "Wa man arada al-akhirata wa sa'a laha sa'yaha wa huwa mu'minun fa-ula'ika kana sa'yuhum mashkura"
@@ -193,7 +193,7 @@ ayats = [
   {
     "verse_number": 24,
     "english_text": "And in front of them be submissive and show humbleness, and pray: O my Lord, how they nourished me when I was small, likewise You also show Mercy on them.",
-    "arabic_text": "وَٱخْفِضْ لَهُمَا جَنَاحَ ٱلذُّلِّ مِنَ ٱلرَّحْمَةِ وَقُل رَّبِّ ٱرْحَمْهُمَا كَمَا رَبَّيَانِى صَغِيرًۭا",
+    "arabic_text": "وَٱخْفِضْ لَهُمَا جَنَاحَ ٱلذُّلِّ مِنَ ٱلرَّحْمَةِ وَقُل رَّبِّ ٱرْحَمْهُمَا كَمَا رَبَّيَانِى صَغِيرًا",
     "urdu_text": "اور ان کے سامنے عاجزی اور محبت سے جھک جاؤ اور دعا کرو: اے میرے رب! ان پر رحم فرما جیسے انہوں نے میرے بچپن میں میری پرورش کی۔",
     "persian_text": "و بال فروتنی را از روی مهربانی برای آنها فرود آور و بگو: پروردگارا! بر آنها رحم کن همان‌گونه که مرا در کودکی پرورش دادند.",
     "transliteration": "Wakhfid lahuma janahadh-dhulli minar-rahmati wa qur-rabbi irhamhuma kama rabbayani saghira"
@@ -201,7 +201,7 @@ ayats = [
   {
     "verse_number": 25,
     "english_text": "Allah knows whatever is in your hearts, if you have become really good, the He is the forgiver of those who repent.",
-    "arabic_text": "رَّبُّكُمْ اَعْلَمُ بِمَا فِى نُفُوسِكُمْ ۚ إِن تَكُونُواْ صَـٰلِحِينَ فَإِنَّهُۥ كَانَ لِلْاَوَّٰبِينَ غَفُورًۭا",
+    "arabic_text": "رَّبُّكُمْ اَعْلَمُ بِمَا فِى نُفُوسِكُمْ ۚ إِن تَكُونُواْ صَـٰلِحِينَ فَإِنَّهُۥ كَانَ لِلْاَوَّٰبِينَ غَفُورًا",
     "urdu_text": "تمہارا رب خوب جانتا ہے جو کچھ تمہارے دلوں میں ہے، اگر تم نیک ہو تو بے شک وہ رجوع کرنے والوں کو بخشنے والا ہے۔",
     "persian_text": "پروردگار شما به آنچه در دل‌های شماست داناتر است، اگر نیکوکار باشید، پس او برای توبه‌کنندگان آمرزنده است.",
     "transliteration": "Rabbukum a'lamu bima fi nufusikum, in takunu saliheena fa-innahu kana lil-awwabeena ghafura"
@@ -217,7 +217,7 @@ ayats = [
   {
     "verse_number": 27,
     "english_text": "Because wasteful spender are brothers of Satan, and Satan is very ungrateful to his Lord.",
-    "arabic_text": "إِنَّ ٱلْمُبَذِّرِينَ كَانُوٓاْ إِخْوَٰنَ ٱلشَّيَـٰطِينِ ۖ وَكَانَ ٱلشَّيْطَـٰنُ لِرَبِّهِۦ كَفُورًۭا",
+    "arabic_text": "إِنَّ ٱلْمُبَذِّرِينَ كَانُوٓاْ إِخْوَٰنَ ٱلشَّيَـٰطِينِ ۖ وَكَانَ ٱلشَّيْطَـٰنُ لِرَبِّهِۦ كَفُورًا",
     "urdu_text": "بے شک فضول خرچ کرنے والے شیطانوں کے بھائی ہیں، اور شیطان اپنے رب کا بہت ناشکرا ہے۔",
     "persian_text": "همانا اسراف‌کنندگان برادران شیطان‌ها هستند و شیطان نسبت به پروردگارش بسیار ناسپاس بود.",
     "transliteration": "Innal-mubadhdhireena kanu ikhwanash-shayateeni wa kanash-shaytanu lirabbihi kafura"
@@ -225,7 +225,7 @@ ayats = [
   {
     "verse_number": 28,
     "english_text": "And when you are awaiting the Grace and Mercy of your Lord in hope and (by force) have to turn your face from poor; then make them understand politely.",
-    "arabic_text": "وَإِمَّا تُعْرِضَنَّ عَنْهُمُ ٱبْتِغَآءَ رَحْمَةٍۢ مِّن رَّبِّكَ تَرْجُوهَا فَقُل لَّهُمْ قَوْلًۭا مَّيْسُورًۭا",
+    "arabic_text": "وَإِمَّا تُعْرِضَنَّ عَنْهُمُ ٱبْتِغَآءَ رَحْمَةٍۢ مِّن رَّبِّكَ تَرْجُوهَا فَقُل لَّهُمْ قَوْلًۭا مَّيْسُورًا",
     "urdu_text": "اور اگر تم اپنے رب کی رحمت کی امید میں جس کی تم توقع رکھتے ہو، ان سے منہ پھیر لو تو ان سے نرمی سے بات کرو۔",
     "persian_text": "و اگر در جستجوی رحمتی از پروردگارت که به آن امیدواری، از آنها روی بگردانی، پس با آنها سخنی آسان بگو.",
     "transliteration": "Wa imma tu'ridanna 'anhumu ibtigha'a rahmatin mir-rabbika tarjuha faqul lahum qawlan maysura"
@@ -241,7 +241,7 @@ ayats = [
   {
     "verse_number": 30,
     "english_text": "To whoever Allah pleases increases his sustenance, and to whoever He pleases keep straitens (his sustenance); and indeed, He is Knowing and takes care of his servants.",
-    "arabic_text": "إِنَّ رَبَّكَ يَبْسُطُ ٱلرِّزْقَ لِمَن يَشَآءُ وَيَقْدِرُ ۚ إِنَّهُۥ كَانَ بِعِبَادِهِۦ خَبِيرًۢا بَصِيرًۭا",
+    "arabic_text": "إِنَّ رَبَّكَ يَبْسُطُ ٱلرِّزْقَ لِمَن يَشَآءُ وَيَقْدِرُ ۚ إِنَّهُۥ كَانَ بِعِبَادِهِۦ خَبِيرًۢا بَصِيرًا",
     "urdu_text": "بے شک تمہارا رب جس کے لیے چاہتا ہے رزق فراخ کر دیتا ہے اور جس کے لیے چاہتا ہے تنگ کر دیتا ہے، بے شک وہ اپنے بندوں سے خبردار اور دیکھنے والا ہے۔",
     "persian_text": "همانا پروردگار تو روزی را برای هر که بخواهد گسترش می‌دهد و تنگ می‌گیرد، بی‌گمان او به بندگانش آگاه و بیناست.",
     "transliteration": "Inna rabbaka yabsutur-rizqa liman yasha'u wa yaqdiru, innahu kana bi'ibadihi khabiran basira"
@@ -249,7 +249,7 @@ ayats = [
   {
     "verse_number": 31,
     "english_text": "Do not kill your child for fear of poverty, because We give sustenance to you all, indeed killing of child is a grave crime.",
-    "arabic_text": "وَلَا تَقْتُلُوٓاْ اَوْلَـٰدَكُمْ خَشْيَةَ إِمْلَـٰقٍۢ ۖ نَّحْنُ نَرْزُقُهُمْ وَإِيَّاكُمْ ۚ إِنَّ قَتْلَهُمْ كَانَ خِطْـًۭٔا كَبِيرًۭا",
+    "arabic_text": "وَلَا تَقْتُلُوٓاْ اَوْلَـٰدَكُمْ خَشْيَةَ إِمْلَـٰقٍۢ ۖ نَّحْنُ نَرْزُقُهُمْ وَإِيَّاكُمْ ۚ إِنَّ قَتْلَهُمْ كَانَ خِطْـًۭٔا كَبِيرًا",
     "urdu_text": "اور اپنی اولاد کو غربت کے خوف سے قتل نہ کرو، ہم ان کو اور تم کو رزق دیتے ہیں، بے شک ان کا قتل بہت بڑا گناہ ہے۔",
     "persian_text": "و فرزندان خود را از ترس فقر نکشید، ما به آنها و شما روزی می‌دهیم، همانا کشتن آنها گناهی بزرگ است.",
     "transliteration": "Wa laa taqtuloo awlaadakum khashyata imlaaq, nahnu narzuquhum wa iyyaakum, inna qatlahum kaana khit'an kabeeraa"
@@ -265,7 +265,7 @@ ayats = [
   {
     "verse_number": 33,
     "english_text": "And do not kill a soul whose killing Allah have forbidden; except in just manner (according to Islamic law of retaliation); and who is killed unlawfully We have given authority (of retaliation) to his heir but he should not exceed (in taking revenge of murder); anyway, he will be aided.",
-    "arabic_text": "وَلَا تَقْتُلُواْ ٱلنَّفْسَ ٱلَّتِى حَرَّمَ ٱللَّهُ إِلَّا بِٱلْحَقِّ ۗ وَمَن قُتِلَ مَظْلُومًۭا فَقَدْ جَعَلْنَا لِوَلِيِّهِۦ سُلْطَـٰنًۭا فَلَا يُسْرِف فِّى ٱلْقَتْلِ ۖ إِنَّهُۥ كَانَ مَنصُورًۭا",
+    "arabic_text": "وَلَا تَقْتُلُواْ ٱلنَّفْسَ ٱلَّتِى حَرَّمَ ٱللَّهُ إِلَّا بِٱلْحَقِّ ۗ وَمَن قُتِلَ مَظْلُومًۭا فَقَدْ جَعَلْنَا لِوَلِيِّهِۦ سُلْطَـٰنًۭا فَلَا يُسْرِف فِّى ٱلْقَتْلِ ۖ إِنَّهُۥ كَانَ مَنصُورًا",
     "urdu_text": "اور کسی جان کو جسے اللہ نے حرام کیا ہے قتل نہ کرو مگر حق کے ساتھ، اور جو ناحق مارا جائے تو ہم نے اس کے وارث کو اختیار دیا ہے، پس وہ قتل میں حد سے نہ بڑھے، بے شک اسے مدد دی جائے گی۔",
     "persian_text": "و جانی را که خداوند حرام کرده است نکشید مگر به حق، و هر کس به ستم کشته شود ما برای ولی او اختیاری قرار داده‌ایم، پس نباید در کشتن زیاده‌روی کند، همانا او یاری خواهد شد.",
     "transliteration": "Wa laa taqtulun nafsallatee harramallaahu illaa bilhaqq, wa man qutila mazlooman faqad ja'alnaa liwaliyyihi sultaanan falaa yusrif fil qatl, innahu kaana mansooraa"
@@ -329,7 +329,7 @@ ayats = [
   {
     "verse_number": 41,
     "english_text": "And We have explained in different ways in this Quran so that they may understand, but only their hate increased.",
-    "arabic_text": "وَلَقَدْ صَرَّفْنَا فِى هَـٰذَا ٱلْقُرْءَانِ لِيَذَّكَّرُواْ وَمَا يَزِيدُهُمْ إِلَّا نُفُورًۭا",
+    "arabic_text": "وَلَقَدْ صَرَّفْنَا فِى هَـٰذَا ٱلْقُرْءَانِ لِيَذَّكَّرُواْ وَمَا يَزِيدُهُمْ إِلَّا نُفُورًا",
     "urdu_text": "اور ہم نے اس قرآن میں طرح طرح سے بیان کیا تاکہ وہ نصیحت حاصل کریں، لیکن اس سے ان کی نفرت ہی بڑھتی ہے۔",
     "persian_text": "و ما در این قرآن به گونه‌های مختلف بیان کرده‌ایم تا پند گیرند، اما این جز نفرت آنان را نمی‌افزاید.",
     "transliteration": "Wa laqad sarrafnaa fee haadhal-qur'aani li-yadhdhakkaroo wa maa yazeeduhum illaa nufooraa"
@@ -345,7 +345,7 @@ ayats = [
   {
     "verse_number": 43,
     "english_text": "Allah is most High, exalted, and pure, then what vulgar these people talk about Him.",
-    "arabic_text": "سُبْحَـٰنَهُۥ وَتَعَـٰلَىٰ عَمَّا يَقُولُونَ عُلُوًّۭا كَبِيرًۭا",
+    "arabic_text": "سُبْحَـٰنَهُۥ وَتَعَـٰلَىٰ عَمَّا يَقُولُونَ عُلُوًّۭا كَبِيرًا",
     "urdu_text": "وہ پاک ہے اور بہت بلند و برتر ہے ان باتوں سے جو یہ لوگ کہتے ہیں۔",
     "persian_text": "او منزه و برتر است از آنچه می‌گویند، برتری بسیار بزرگ.",
     "transliteration": "Subhaanahoo wa ta'aalaa 'ammaa yaqooloona 'uluwwan kabeeraa"
@@ -353,7 +353,7 @@ ayats = [
   {
     "verse_number": 44,
     "english_text": "And whoever is in the seven skies and on the earth, they all glorify Him; and there is nothing in the world which do not glorify His Praise, but you do not understand their glorification, indeed He is very Forbearing and Forgiving.",
-    "arabic_text": "تُسَبِّحُ لَهُ ٱلسَّمَـٰوَٰتُ ٱلسَّبْعُ وَٱلْاَرْضُ وَمَن فِيهِنَّ ۚ وَإِن مِّن شَىْءٍ إِلَّا يُسَبِّحُ بِحَمْدِهِۦ وَلَـٰكِن لَّا تَفْقَهُونَ تَسْبِيحَهُمْ ۗ إِنَّهُۥ كَانَ حَلِيمًا غَفُورًۭا",
+    "arabic_text": "تُسَبِّحُ لَهُ ٱلسَّمَـٰوَٰتُ ٱلسَّبْعُ وَٱلْاَرْضُ وَمَن فِيهِنَّ ۚ وَإِن مِّن شَىْءٍ إِلَّا يُسَبِّحُ بِحَمْدِهِۦ وَلَـٰكِن لَّا تَفْقَهُونَ تَسْبِيحَهُمْ ۗ إِنَّهُۥ كَانَ حَلِيمًا غَفُورًا",
     "urdu_text": "ساتوں آسمان اور زمین اور جو کوئی ان میں ہے سب اس کی تسبیح کرتے ہیں، اور کوئی چیز ایسی نہیں جو اس کی حمد کے ساتھ تسبیح نہ کرتی ہو، لیکن تم ان کی تسبیح کو نہیں سمجھتے، بیشک وہ بڑا بردبار اور بخشنے والا ہے۔",
     "persian_text": "هفت آسمان و زمین و هر که در آنهاست او را تسبیح می‌گویند، و هیچ چیزی نیست مگر آنکه به ستایش او تسبیح می‌گوید، ولی شما تسبیح آنها را درک نمی‌کنید، همانا او بردبار و آمرزنده است.",
     "transliteration": "Tusabbihu lahus-samaawaatus-sab'u wal-ardu wa man feehinna wa im-min shay'in illaa yusabbihu bihamdihee wa laakin laa tafqahoona tasbeehahum innahoo kaana haleeman ghafooraa"
@@ -361,7 +361,7 @@ ayats = [
   {
     "verse_number": 45,
     "english_text": "And when you recite Quran, We create a thick veil between you and those who have no belief on the Day of Judgement.",
-    "arabic_text": "وَإِذَا قَرَأْتَ ٱلْقُرْءَانَ جَعَلْنَا بَيْنَكَ وَبَيْنَ ٱلَّذِينَ لَا يُؤْمِنُونَ بِٱلْـَٔاخِرَةِ حِجَابًۭا مَّسْتُورًۭا",
+    "arabic_text": "وَإِذَا قَرَأْتَ ٱلْقُرْءَانَ جَعَلْنَا بَيْنَكَ وَبَيْنَ ٱلَّذِينَ لَا يُؤْمِنُونَ بِٱلْـَٔاخِرَةِ حِجَابًۭا مَّسْتُورًا",
     "urdu_text": "اور جب آپ قرآن پڑھتے ہیں تو ہم آپ کے اور ان لوگوں کے درمیان جو آخرت پر ایمان نہیں رکھتے ایک چھپا ہوا پردہ ڈال دیتے ہیں۔",
     "persian_text": "و هنگامی که قرآن می‌خوانی، میان تو و کسانی که به آخرت ایمان ندارند حجابی پوشیده قرار می‌دهیم.",
     "transliteration": "Wa idhaa qara'tal-qur'aana ja'alnaa baynaka wa baynal-ladheena laa yu'minoona bil-aakhirati hijaabam-mastooraa"
@@ -369,7 +369,7 @@ ayats = [
   {
     "verse_number": 46,
     "english_text": "And We cover up their hearts so they can't understand the Quran, and We make their ears hard (so they can't hear), and when you talk alone about your Lord in Quran, they turn back and run away.",
-    "arabic_text": "وَجَعَلْنَا عَلَىٰ قُلُوبِهِمْ اَكِنَّةً اَن يَفْقَهُوهُ وَفِىٓ ءَاذَانِهِمْ وَقْرًۭا ۚ وَإِذَا ذَكَرْتَ رَبَّكَ فِى ٱلْقُرْءَانِ وَحْدَهُۥ وَلَّوْاْ عَلَىٰٓ اَدْبَـٰرِهِمْ نُفُورًۭا",
+    "arabic_text": "وَجَعَلْنَا عَلَىٰ قُلُوبِهِمْ اَكِنَّةً اَن يَفْقَهُوهُ وَفِىٓ ءَاذَانِهِمْ وَقْرًا ۚ وَإِذَا ذَكَرْتَ رَبَّكَ فِى ٱلْقُرْءَانِ وَحْدَهُۥ وَلَّوْاْ عَلَىٰٓ اَدْبَـٰرِهِمْ نُفُورًا",
     "urdu_text": "اور ہم نے ان کے دلوں پر پردے ڈال دیے ہیں کہ وہ اسے نہ سمجھیں اور ان کے کانوں میں بھاری پن ڈال دیا ہے، اور جب آپ قرآن میں اپنے رب کا تنہا ذکر کرتے ہیں تو وہ نفرت سے پیٹھ پھیر کر بھاگ جاتے ہیں۔",
     "persian_text": "و بر دل‌هایشان پوشش‌هایی قرار دادیم تا آن را نفهمند، و در گوش‌هایشان سنگینی، و چون پروردگارت را در قرآن یکتا یاد کنی، با نفرت پشت می‌کنند و می‌گریزند.",
     "transliteration": "Wa ja'alnaa 'alaa quloobihim akinnatan ay-yafqahoohu wa fee aadhaanihim waqraa wa idhaa dhakarta rabbaka fil-qur'aani wahdahoo wallaw 'alaaa adbaarihim nufooraa"
@@ -441,7 +441,7 @@ ayats = [
   {
     "verse_number": 55,
     "english_text": "And whoever is in the skies and on the earth, your Lord knows (all of them) well, and indeed We gave excellence to some prophets over other prophets, and it is We, who have given Zaboor to Dawood.",
-    "arabic_text": "وَرَبُّكَ اَعْلَمُ بِمَن فِى ٱلسَّمَـٰوَٰتِ وَٱلْاَرْضِ ۗ وَلَقَدْ فَضَّلْنَا بَعْضَ ٱلنَّبِيِّـۧنَ عَلَىٰ بَعْضٍۢ ۖ وَءَاتَيْنَا دَاوُۥدَ زَبُورًۭا",
+    "arabic_text": "وَرَبُّكَ اَعْلَمُ بِمَن فِى ٱلسَّمَـٰوَٰتِ وَٱلْاَرْضِ ۗ وَلَقَدْ فَضَّلْنَا بَعْضَ ٱلنَّبِيِّـۧنَ عَلَىٰ بَعْضٍۢ ۖ وَءَاتَيْنَا دَاوُۥدَ زَبُورًا",
     "urdu_text": "اور جو کوئی آسمانوں اور زمین میں ہے، تمہارا رب ان سب کو خوب جانتا ہے، اور بے شک ہم نے بعض نبیوں کو دوسرے نبیوں پر فضیلت دی، اور ہم نے ہی داؤد کو زبور عطا کی۔",
     "persian_text": "و پروردگار تو به هر که در آسمان‌ها و زمین است داناتر است، و قطعاً ما بعضی از پیامبران را بر بعضی دیگر برتری دادیم، و به داوود زبور عطا کردیم.",
     "transliteration": "Wa rabbuka a'lamu biman fis-samaawaati wal-ard wa laqad faddalnaa ba'dan-nabiyyeena 'alaa ba'd wa aataynaa Daawooda Zabooraa"
@@ -457,7 +457,7 @@ ayats = [
   {
     "verse_number": 57,
     "english_text": "And to whom these polytheists consider lord and worship them, they themselves are seeking the ways for access to their lord, those who have more nearness to Him and expect (His) Mercy and fears Him; indeed, punishment of your Lord is something which is to be feared about.",
-    "arabic_text": "أُو۟لَـٰٓئِكَ ٱلَّذِينَ يَدْعُونَ يَبْتَغُونَ إِلَىٰ رَبِّهِمُ ٱلْوَسِيلَةَ اَيُّهُمْ اَقْرَبُ وَيَرْجُونَ رَحْمَتَهُۥ وَيَخَافُونَ عَذَابَهُۥٓ ۚ إِنَّ عَذَابَ رَبِّكَ كَانَ مَحْذُورًۭا",
+    "arabic_text": "أُو۟لَـٰٓئِكَ ٱلَّذِينَ يَدْعُونَ يَبْتَغُونَ إِلَىٰ رَبِّهِمُ ٱلْوَسِيلَةَ اَيُّهُمْ اَقْرَبُ وَيَرْجُونَ رَحْمَتَهُۥ وَيَخَافُونَ عَذَابَهُۥٓ ۚ إِنَّ عَذَابَ رَبِّكَ كَانَ مَحْذُورًا",
     "urdu_text": "اور جن کو یہ مشرک رب سمجھتے ہیں اور ان کی عبادت کرتے ہیں، وہ خود اپنے رب تک پہنچنے کے راستے تلاش کرتے ہیں کہ ان میں سے کون زیادہ قریب ہے، اور اس کی رحمت کی امید رکھتے ہیں اور اس کے عذاب سے ڈرتے ہیں، بے شک تمہارے رب کا عذاب ایسی چیز ہے جس سے ڈرنا چاہیے۔",
     "persian_text": "آنان که مشرکان آنها را می‌خوانند، خود به سوی پروردگارشان وسیله می‌جویند که کدامشان نزدیک‌تر است، و به رحمت او امیدوارند و از عذاب او می‌ترسند، همانا عذاب پروردگار تو چیزی است که باید از آن ترسید.",
     "transliteration": "Ulaaa'ikal-ladheena yad'oona yabtaghoona ilaa rabbihimul-waseelata ayyuhum aqrabu wa yarjoona rahmatahoo wa yakhaafoona 'adhaabah inna 'adhaaba rabbika kaana mahdhooraa"
@@ -465,7 +465,7 @@ ayats = [
   {
     "verse_number": 58,
     "english_text": "And there is no town, but We will destroy it before the Day of Judgement or will send severe punishment on it; and this has (already) been written in the Divine Book.",
-    "arabic_text": "وَإِن مِّن قَرْيَةٍ إِلَّا نَحْنُ مُهْلِكُوهَا قَبْلَ يَوْمِ ٱلْقِيَـٰمَةِ اَوْ مُعَذِّبُوهَا عَذَابًۭا شَدِيدًۭا ۚ كَانَ ذَٰلِكَ فِى ٱلْكِتَـٰبِ مَسْطُورًۭا",
+    "arabic_text": "وَإِن مِّن قَرْيَةٍ إِلَّا نَحْنُ مُهْلِكُوهَا قَبْلَ يَوْمِ ٱلْقِيَـٰمَةِ اَوْ مُعَذِّبُوهَا عَذَابًۭا شَدِيدًۭا ۚ كَانَ ذَٰلِكَ فِى ٱلْكِتَـٰبِ مَسْطُورًا",
     "urdu_text": "اور کوئی بستی ایسی نہیں مگر ہم اسے قیامت سے پہلے تباہ کر دیں گے یا اس پر سخت عذاب بھیجیں گے، اور یہ الہٰی کتاب میں لکھا ہوا ہے۔",
     "persian_text": "و هیچ شهری نیست مگر اینکه ما آن را پیش از روز قیامت هلاک می‌کنیم یا عذابی سخت بر آن می‌فرستیم، این در کتاب الهی نوشته شده است.",
     "transliteration": "Wa im min qaryatin illaa nahnu muhlikooha qabla yawmil-qiyaamati aw mu'adhdhiboohaa 'adhaaban shadeedaa kaana dhaalika fil-kitaabi mastooraa"
@@ -481,7 +481,7 @@ ayats = [
   {
     "verse_number": 60,
     "english_text": "(O Prophet), remember when We told you that We have prevented people from all sides (from you); and the dream We showed you was for the trial (of faith) of such people, likewise the tree which is cursed in Quran and We warn people in different ways, but it only increases their inordinate transgression.",
-    "arabic_text": "وَإِذْ قُلْنَا لَكَ إِنَّ رَبَّكَ اَحَاطَ بِٱلنَّاسِ ۚ وَمَا جَعَلْنَا ٱلرُّءْيَا ٱلَّتِىٓ اَرَيْنَـٰكَ إِلَّا فِتْنَةًۭ لِّلنَّاسِ وَٱلشَّجَرَةَ ٱلْمَلْعُونَةَ فِى ٱلْقُرْءَانِ ۚ وَنُخَوِّفُهُمْ فَمَا يَزِيدُهُمْ إِلَّا طُغْيَـٰنًۭا كَبِيرًۭا",
+    "arabic_text": "وَإِذْ قُلْنَا لَكَ إِنَّ رَبَّكَ اَحَاطَ بِٱلنَّاسِ ۚ وَمَا جَعَلْنَا ٱلرُّءْيَا ٱلَّتِىٓ اَرَيْنَـٰكَ إِلَّا فِتْنَةًۭ لِّلنَّاسِ وَٱلشَّجَرَةَ ٱلْمَلْعُونَةَ فِى ٱلْقُرْءَانِ ۚ وَنُخَوِّفُهُمْ فَمَا يَزِيدُهُمْ إِلَّا طُغْيَـٰنًۭا كَبِيرًا",
     "urdu_text": "(اے نبی) یاد کرو جب ہم نے تم سے کہا کہ تمہارے رب نے لوگوں کو ہر طرف سے گھیر رکھا ہے، اور جو خواب ہم نے تمہیں دکھایا وہ لوگوں کی آزمائش کے لیے تھا، اسی طرح وہ درخت جو قرآن میں ملعون ہے، اور ہم انہیں مختلف طریقوں سے ڈراتے ہیں، لیکن یہ صرف ان کی سرکشی میں اضافہ کرتا ہے۔",
     "persian_text": "(ای پیامبر) یاد کن هنگامی که به تو گفتیم که پروردگارت مردم را احاطه کرده است، و خوابی که به تو نشان دادیم جز آزمایشی برای مردم نبود، و همچنین درخت ملعون در قرآن، و ما آنها را می‌ترسانیم اما جز طغیان بزرگ بر آنها نمی‌افزاید.",
     "transliteration": "Wa idh qulnaa laka inna rabbaka ahaata bin-naas wa maa ja'alnar-ru'yal-lateee arayynaaka illaa fitnatal-linnaasi wash-shajaratal-mal'oonata fil-qur'aan wa nukhawwifuhum famaa yazeeduhum illaa tughyaanan kabeeraa"
@@ -505,7 +505,7 @@ ayats = [
   {
     "verse_number": 63,
     "english_text": "Said Allah: Go (be gone), whoever will follow you, place of all of you is Hell, this is your full recompense.",
-    "arabic_text": "قَالَ ٱذْهَبْ فَمَن تَبِعَكَ مِنْهُمْ فَإِنَّ جَهَنَّمَ جَزَآؤُكُمْ جَزَآءًۭ مَّوْفُورًۭا",
+    "arabic_text": "قَالَ ٱذْهَبْ فَمَن تَبِعَكَ مِنْهُمْ فَإِنَّ جَهَنَّمَ جَزَآؤُكُمْ جَزَآءًۭ مَّوْفُورًا",
     "urdu_text": "اللہ نے فرمایا: جا، پھر جو بھی ان میں سے تیری پیروی کرے گا تو جہنم تم سب کی سزا ہے، یہ تمہاری پوری جزا ہے۔",
     "persian_text": "فرمود: برو، پس هر کس از آنها که از تو پیروی کند، جهنم پاداش همه شما خواهد بود، پاداشی کامل و فراوان.",
     "transliteration": "Qalaz-hab faman tabi'aka minhum fa'inna jahannama jaza'ukum jaza'am mawfura"
@@ -601,7 +601,7 @@ ayats = [
   {
     "verse_number": 75,
     "english_text": "Then We would have made you taste in life as well as in death double the punishment, and you would not have found any helper against Us.",
-    "arabic_text": "إِذًۭا لَّاَذَقْنَـٰكَ ضِعْفَ ٱلْحَيَوٰةِ وَضِعْفَ ٱلْمَمَاتِ ثُمَّ لَا تَجِدُ لَكَ عَلَيْنَا نَصِيرًۭا",
+    "arabic_text": "إِذًۭا لَّاَذَقْنَـٰكَ ضِعْفَ ٱلْحَيَوٰةِ وَضِعْفَ ٱلْمَمَاتِ ثُمَّ لَا تَجِدُ لَكَ عَلَيْنَا نَصِيرًا",
     "urdu_text": "تب ہم تمہیں زندگی میں بھی دوگنا عذاب چکھاتے اور موت میں بھی دوگنا، اور پھر تم ہمارے مقابلے میں کوئی مددگار نہ پاتے۔",
     "persian_text": "در آن صورت دو چندان عذاب زندگی و دو چندان عذاب مرگ را به تو می‌چشاندیم، سپس هیچ یاوری در برابر ما نمی‌یافتی.",
     "transliteration": "Ithan la-athaqnaaka di'fal-hayaati wa di'fal-mamaati thumma laa tajidu laka 'alaynaa naseeraa"
@@ -641,7 +641,7 @@ ayats = [
   {
     "verse_number": 80,
     "english_text": "Say: O my Lord! Make my entry with goodliness (in Madina) and make my departure with goodliness (from Makkah), and bestow upon me from Your Court a power which will be my helper.",
-    "arabic_text": "وَقُل رَّبِّ اَدْخِلْنِى مُدْخَلَ صِدْقٍۢ وَاَخْرِجْنِى مُخْرَجَ صِدْقٍۢ وَٱجْعَل لِّى مِن لَّدُنكَ سُلْطَـٰنًۭا نَّصِيرًۭا",
+    "arabic_text": "وَقُل رَّبِّ اَدْخِلْنِى مُدْخَلَ صِدْقٍۢ وَاَخْرِجْنِى مُخْرَجَ صِدْقٍۢ وَٱجْعَل لِّى مِن لَّدُنكَ سُلْطَـٰنًۭا نَّصِيرًا",
     "urdu_text": "اور کہو: اے میرے رب! مجھے سچائی کے ساتھ داخل فرما (مدینہ میں) اور مجھے سچائی کے ساتھ نکال (مکہ سے)، اور اپنی بارگاہ سے مجھے ایسی قوت عطا فرما جو میری مددگار ہو۔",
     "persian_text": "و بگو: پروردگارا! مرا با راستی وارد کن (به مدینه) و با راستی بیرون آر (از مکه)، و از جانب خود قدرت و سلطانی یاری‌گر برایم قرار ده.",
     "transliteration": "Wa qur-rabbi adkhilnee mudkhala sidqin wa akhrijnee mukhraja sidqin waj'al lee mil-ladunka sultaanan naseeraa"
@@ -657,7 +657,7 @@ ayats = [
   {
     "verse_number": 82,
     "english_text": "And what We reveal in the Quran which is healing and mercy for the believers; and nothing adds up for disobedience but the loss.",
-    "arabic_text": "وَنُنَزِّلُ مِنَ ٱلْقُرْءَانِ مَا هُوَ شِفَآءٌۭ وَرَحْمَةٌۭ لِّلْمُؤْمِنِينَ ۙ وَلَا يَزِيدُ ٱلظَّـٰلِمِينَ إِلَّا خَسَارًۭا",
+    "arabic_text": "وَنُنَزِّلُ مِنَ ٱلْقُرْءَانِ مَا هُوَ شِفَآءٌۭ وَرَحْمَةٌۭ لِّلْمُؤْمِنِينَ ۙ وَلَا يَزِيدُ ٱلظَّـٰلِمِينَ إِلَّا خَسَارًا",
     "urdu_text": "اور ہم قرآن میں وہ نازل کرتے ہیں جو مومنوں کے لیے شفا اور رحمت ہے، اور ظالموں کے لیے نقصان کے سوا کچھ نہیں بڑھاتا۔",
     "persian_text": "و از قرآن آنچه را که شفا و رحمت برای مؤمنان است نازل می‌کنیم، و بر ستمکاران جز زیان نمی‌افزاید.",
     "transliteration": "Wa nunazzilu minal-qur'aani maa huwa shifaa'un wa rahmatun lil-mu'mineen, wa laa yazeeduz-zaalimeena illaa khasaaraa"
@@ -697,7 +697,7 @@ ayats = [
   {
     "verse_number": 87,
     "english_text": "But this is only great Mercy of your Lord (that He has not taken it back), indeed His grace and Mercy is on you.",
-    "arabic_text": "إِلَّا رَحْمَةًۭ مِّن رَّبِّكَ ۚ إِنَّ فَضْلَهُۥ كَانَ عَلَيْكَ كَبِيرًۭا",
+    "arabic_text": "إِلَّا رَحْمَةًۭ مِّن رَّبِّكَ ۚ إِنَّ فَضْلَهُۥ كَانَ عَلَيْكَ كَبِيرًا",
     "urdu_text": "مگر یہ آپ کے رب کی رحمت ہے، بے شک اس کا فضل آپ پر بہت بڑا ہے۔",
     "persian_text": "مگر این رحمتی از پروردگار توست، همانا فضل او بر تو بسیار بزرگ است.",
     "transliteration": "Illaa rahmatan min rabbik, inna fadlahu kaana 'alayka kabeeraa"
@@ -705,7 +705,7 @@ ayats = [
   {
     "verse_number": 88,
     "english_text": "And (O Prophet) say: if all the men and jinn of the world gather on this, to bring a similar Quran. (it is impossible) they could not bring a similar one (Quran), and some of them may help others.",
-    "arabic_text": "قُل لَّئِنِ ٱجْتَمَعَتِ ٱلْإِنسُ وَٱلْجِنُّ عَلَىٰٓ اَن يَأْتُواْ بِمِثْلِ هَـٰذَا ٱلْقُرْءَانِ لَا يَأْتُونَ بِمِثْلِهِۦ وَلَوْ كَانَ بَعْضُهُمْ لِبَعْضٍۢ ظَهِيرًۭا",
+    "arabic_text": "قُل لَّئِنِ ٱجْتَمَعَتِ ٱلْإِنسُ وَٱلْجِنُّ عَلَىٰٓ اَن يَأْتُواْ بِمِثْلِ هَـٰذَا ٱلْقُرْءَانِ لَا يَأْتُونَ بِمِثْلِهِۦ وَلَوْ كَانَ بَعْضُهُمْ لِبَعْضٍۢ ظَهِيرًا",
     "urdu_text": "کہہ دیجیے کہ اگر تمام انسان اور جن اس بات پر جمع ہو جائیں کہ اس قرآن جیسا لے آئیں تو وہ اس جیسا نہیں لا سکتے، خواہ وہ ایک دوسرے کے مددگار ہی کیوں نہ ہوں۔",
     "persian_text": "بگو: اگر همه انس و جن گرد هم آیند تا مثل این قرآن بیاورند، نمی‌توانند مثل آن را بیاورند، هرچند بعضی از آنها یاور بعضی دیگر باشند.",
     "transliteration": "Qul la'inij-tama'atil-insu wal-jinnu 'alaa an ya'too bi mithli haathal-qur'aani laa ya'toona bi mithlihee wa law kaana ba'duhum li ba'din zaheeraa"
@@ -713,7 +713,7 @@ ayats = [
   {
     "verse_number": 89,
     "english_text": "And We explain examples differently for the people (to make them understand), but still, most of them do not stop being ungrateful.",
-    "arabic_text": "وَلَقَدْ صَرَّفْنَا لِلنَّاسِ فِى هَـٰذَا ٱلْقُرْءَانِ مِن كُلِّ مَثَلٍۢ فَاَبَىٰٓ اَكْثَرُ ٱلنَّاسِ إِلَّا كُفُورًۭا",
+    "arabic_text": "وَلَقَدْ صَرَّفْنَا لِلنَّاسِ فِى هَـٰذَا ٱلْقُرْءَانِ مِن كُلِّ مَثَلٍۢ فَاَبَىٰٓ اَكْثَرُ ٱلنَّاسِ إِلَّا كُفُورًا",
     "urdu_text": "اور ہم نے اس قرآن میں لوگوں کے لیے ہر طرح کی مثالیں بیان کی ہیں، پھر بھی اکثر لوگوں نے انکار کے سوا کچھ قبول نہیں کیا۔",
     "persian_text": "و در این قرآن برای مردم از هر مثلی بیان کردیم، اما بیشتر مردم جز کفر نپذیرفتند.",
     "transliteration": "Wa laqad sarrafnaa linnaasi fee haathal-qur'aani min kulli mathalin fa abaa aktharun-naasi illaa kufooraa"
@@ -745,7 +745,7 @@ ayats = [
   {
     "verse_number": 93,
     "english_text": "Or you should have a house of gold or you ascend to the sky and we will not be convinced of your ascension unless you send to us a book (from there) and we read it; (O Prophet) say: Praises to my Lord, what I am except a human and a prophet (of Allah)?",
-    "arabic_text": "اَوْ يَكُونَ لَكَ بَيْتٌۭ مِّن زُخْرُفٍ اَوْ تَرْقَىٰ فِى ٱلسَّمَآءِ وَلَن نُّؤْمِنَ لِرُقِيِّكَ حَتَّىٰ تُنَزِّلَ عَلَيْنَا كِتَـٰبًۭا نَّقْرَؤُهُۥ ۗ قُلْ سُبْحَانَ رَبِّى هَلْ كُنتُ إِلَّا بَشَرًۭا رَّسُولًۭا",
+    "arabic_text": "اَوْ يَكُونَ لَكَ بَيْتٌۭ مِّن زُخْرُفٍ اَوْ تَرْقَىٰ فِى ٱلسَّمَآءِ وَلَن نُّؤْمِنَ لِرُقِيِّكَ حَتَّىٰ تُنَزِّلَ عَلَيْنَا كِتَـٰبًۭا نَّقْرَؤُهُۥ ۗ قُلْ سُبْحَانَ رَبِّى هَلْ كُنتُ إِلَّا بَشَرًا رَّسُولًۭا",
     "urdu_text": "یا تمہارا سونے کا گھر ہو، یا تم آسمان پر چڑھ جاؤ، اور ہم تمہارے چڑھنے کو نہیں مانیں گے جب تک تم ہم پر ایک کتاب نہ اتارو جسے ہم پڑھیں۔ کہہ دو: پاک ہے میرا رب، میں تو صرف ایک انسان اور رسول ہوں۔",
     "persian_text": "یا خانه‌ای از طلا داشته باشی، یا به آسمان بالا روی، و ما هرگز به بالا رفتنت ایمان نخواهیم آورد مگر اینکه کتابی بر ما نازل کنی که آن را بخوانیم. بگو: منزه است پروردگار من، آیا من جز بشری فرستاده هستم؟",
     "transliteration": "Aw yakoona laka baytum min zukhrufin aw tarqaa fis samaaa'i wa lan nu'mina liruqiyyika hattaa tunazzila 'alaynaa kitaaban naqra'uh, qul subhaana rabbee hal kuntu illaa basharan rasoolaa"
@@ -753,7 +753,7 @@ ayats = [
   {
     "verse_number": 94,
     "english_text": "And after the arrival of guidance nothing is stopping them from believing except, their saying that Allah has sent a human as a prophet.",
-    "arabic_text": "وَمَا مَنَعَ ٱلنَّاسَ اَن يُؤْمِنُوٓاْ إِذْ جَآءَهُمُ ٱلْهُدَىٰٓ إِلَّآ اَن قَالُوٓاْ اَبَعَثَ ٱللَّهُ بَشَرًۭا رَّسُولًۭا",
+    "arabic_text": "وَمَا مَنَعَ ٱلنَّاسَ اَن يُؤْمِنُوٓاْ إِذْ جَآءَهُمُ ٱلْهُدَىٰٓ إِلَّآ اَن قَالُوٓاْ اَبَعَثَ ٱللَّهُ بَشَرًا رَّسُولًۭا",
     "urdu_text": "اور جب ان کے پاس ہدایت آئی تو لوگوں کو ایمان لانے سے کسی چیز نے نہیں روکا سوائے اس کے کہ انہوں نے کہا: کیا اللہ نے ایک انسان کو رسول بنا کر بھیجا ہے؟",
     "persian_text": "و مردم را از ایمان آوردن هنگامی که هدایت به آنها رسید، چیزی باز نداشت جز اینکه گفتند: آیا خدا انسانی را به رسالت فرستاده است؟",
     "transliteration": "Wa maa mana'an naasa an yu'minooo idh jaaa'ahumul hudaaa illaa an qaaloo aba'athallaahu basharan rasoolaa"
@@ -769,7 +769,7 @@ ayats = [
   {
     "verse_number": 96,
     "english_text": "(O Prophet), say: indeed, Allah is enough between you and me as a witness, there is no doubt that He is Aware of conditions of His servants; and He Sees.",
-    "arabic_text": "قُلْ كَفَىٰ بِٱللَّهِ شَهِيدًۢا بَيْنِى وَبَيْنَكُمْ ۚ إِنَّهُۥ كَانَ بِعِبَادِهِۦ خَبِيرًۢا بَصِيرًۭا",
+    "arabic_text": "قُلْ كَفَىٰ بِٱللَّهِ شَهِيدًۢا بَيْنِى وَبَيْنَكُمْ ۚ إِنَّهُۥ كَانَ بِعِبَادِهِۦ خَبِيرًۢا بَصِيرًا",
     "urdu_text": "کہہ دو: میرے اور تمہارے درمیان اللہ گواہ کافی ہے، بیشک وہ اپنے بندوں سے خبردار ہے اور دیکھنے والا ہے۔",
     "persian_text": "بگو: خدا میان من و شما به عنوان گواه کافی است، بی‌تردید او از احوال بندگانش آگاه و بیناست.",
     "transliteration": "Qul kafaa billaahi shaheedam baynee wa baynakum, innahoo kaana bi'ibaadihee khabeeran baseeraa"
@@ -777,7 +777,7 @@ ayats = [
   {
     "verse_number": 97,
     "english_text": "And to whoever Allah guides, only he is the guided one, and to whoever He leave in misguidance, then (remember) you will not find any guardian other than Him; and on the Day of Judgement, We will raise them upside down, blind, dumb and deaf (from their graves), their abode will be Hellfire, and if it will ever (begin to) extinguish; We will flare it up again.",
-    "arabic_text": "وَمَن يَهْدِ ٱللَّهُ فَهُوَ ٱلْمُهْتَدِ ۖ وَمَن يُضْلِلْ فَلَن تَجِدَ لَهُمْ اَوْلِيَآءَ مِن دُونِهِۦ ۖ وَنَحْشُرُهُمْ يَوْمَ ٱلْقِيَـٰمَةِ عَلَىٰ وُجُوهِهِمْ عُمْيًۭا وَبُكْمًۭا وَصُمًّۭا ۖ مَّأْوَىٰهُمْ جَهَنَّمُ ۖ كُلَّمَا خَبَتْ زِدْنَـٰهُمْ سَعِيرًۭا",
+    "arabic_text": "وَمَن يَهْدِ ٱللَّهُ فَهُوَ ٱلْمُهْتَدِ ۖ وَمَن يُضْلِلْ فَلَن تَجِدَ لَهُمْ اَوْلِيَآءَ مِن دُونِهِۦ ۖ وَنَحْشُرُهُمْ يَوْمَ ٱلْقِيَـٰمَةِ عَلَىٰ وُجُوهِهِمْ عُمْيًۭا وَبُكْمًۭا وَصُمًّۭا ۖ مَّأْوَىٰهُمْ جَهَنَّمُ ۖ كُلَّمَا خَبَتْ زِدْنَـٰهُمْ سَعِيرًا",
     "urdu_text": "اور جسے اللہ ہدایت دے وہی ہدایت یافتہ ہے، اور جسے وہ گمراہ کر دے تو تم ان کے لیے اس کے سوا کوئی مددگار نہیں پاؤ گے۔ اور ہم انہیں قیامت کے دن ان کے منہ کے بل اٹھائیں گے، اندھے، گونگے اور بہرے، ان کا ٹھکانا جہنم ہے، جب کبھی وہ بجھنے لگے گی تو ہم اسے اور بھڑکا دیں گے۔",
     "persian_text": "و هر که را خدا هدایت کند، پس او هدایت یافته است، و هر که را گمراه سازد، هرگز برای آنان سرپرستی جز او نخواهی یافت. و آنها را روز قیامت بر صورتهایشان محشور می‌کنیم، کور و لال و کر، جایگاهشان جهنم است، هر زمان که فرو نشیند، آتشش را بر آنان افزون می‌کنیم.",
     "transliteration": "Wa man yahdillaahu fahuwal muhtad, wa man yudlil falan tajida lahum awliyaaa'a min doonih, wa nahshuruhum yawmal qiyaamati 'alaa wujoohihim 'umyan wa bukman wa summan ma'waahum jahannam, kullamaa khabat zidnaahum sa'eeraa"
@@ -793,7 +793,7 @@ ayats = [
   {
     "verse_number": 99,
     "english_text": "Do they not ponder that Allah who has created the skies and the earth is also have power to create similar humans again, and without any doubt We have fixed the term for them (their death), even then these unjust continue to deny this.",
-    "arabic_text": "۞ اَوَلَمْ يَرَوْاْ اَنَّ ٱللَّهَ ٱلَّذِى خَلَقَ ٱلسَّمَـٰوَٰتِ وَٱلْاَرْضَ قَادِرٌ عَلَىٰٓ اَن يَخْلُقَ مِثْلَهُمْ وَجَعَلَ لَهُمْ اَجَلًۭا لَّا رَيْبَ فِيهِ فَاَبَى ٱلظَّـٰلِمُونَ إِلَّا كُفُورًۭا",
+    "arabic_text": "۞ اَوَلَمْ يَرَوْاْ اَنَّ ٱللَّهَ ٱلَّذِى خَلَقَ ٱلسَّمَـٰوَٰتِ وَٱلْاَرْضَ قَادِرٌ عَلَىٰٓ اَن يَخْلُقَ مِثْلَهُمْ وَجَعَلَ لَهُمْ اَجَلًۭا لَّا رَيْبَ فِيهِ فَاَبَى ٱلظَّـٰلِمُونَ إِلَّا كُفُورًا",
     "urdu_text": "کیا انہوں نے نہیں دیکھا کہ اللہ جس نے آسمانوں اور زمین کو پیدا کیا ہے، وہ ان جیسے لوگوں کو دوبارہ پیدا کرنے پر قادر ہے؟ اور اس نے ان کے لیے ایک مقررہ وقت مقرر کیا ہے جس میں کوئی شک نہیں، پھر بھی ظالم لوگ انکار ہی کرتے رہتے ہیں۔",
     "persian_text": "آیا ندیدند که خدایی که آسمانها و زمین را آفرید، قادر است مانند آنها را بیافریند؟ و برای آنان اجلی معین قرار داده که در آن شکی نیست، اما ستمکاران جز انکار نپذیرفتند.",
     "transliteration": "Awalam yaraw annallaaha allathee khalaqas samaawaati wal arda qaadirun 'alaaa an yakhluqa mithlahum wa ja'ala lahum ajalan laa rayba feeh, fa'abadh dhaalimoona illaa kufooraa"
@@ -801,7 +801,7 @@ ayats = [
   {
     "verse_number": 100,
     "english_text": "(O Prophet) Say: Even if you had treasures of my Lord's Mercy, you would have kept it locked for fear of spending it, and man is very strait hearted.",
-    "arabic_text": "قُل لَّوْ اَنتُمْ تَمْلِكُونَ خَزَآئِنَ رَحْمَةِ رَبِّىٓ إِذًۭا لَّاَمْسَكْتُمْ خَشْيَةَ ٱلْإِنفَاقِ ۚ وَكَانَ ٱلْإِنسَـٰنُ قَتُورًۭا",
+    "arabic_text": "قُل لَّوْ اَنتُمْ تَمْلِكُونَ خَزَآئِنَ رَحْمَةِ رَبِّىٓ إِذًۭا لَّاَمْسَكْتُمْ خَشْيَةَ ٱلْإِنفَاقِ ۚ وَكَانَ ٱلْإِنسَـٰنُ قَتُورًا",
     "urdu_text": "کہہ دو: اگر تم میرے رب کی رحمت کے خزانوں کے مالک ہوتے تو خرچ ہو جانے کے خوف سے انہیں روک رکھتے، اور انسان بہت تنگ دل ہے۔",
     "persian_text": "بگو: اگر شما مالک خزانه‌های رحمت پروردگارم بودید، از ترس خرج کردن آنها را نگه می‌داشتید، و انسان بسیار بخیل است.",
     "transliteration": "Qul law antum tamlikoona khazaaa'ina rahmati rabbee idhal la'amsaktum khashyatal infaaq, wa kaanal insaanu qatooraa"
@@ -809,7 +809,7 @@ ayats = [
   {
     "verse_number": 101,
     "english_text": "And We gave nine manifest miracles to Moosa, so (O Prophet) ask Bani Israel, when Moosa came to them, Firaun said: O Moosa, I think somebody has cast magic on you and made you mad.",
-    "arabic_text": "وَلَقَدْ ءَاتَيْنَا مُوسَىٰ تِسْعَ ءَايَـٰتٍۭ بَيِّنَـٰتٍۢ ۖ فَسْـَٔلْ بَنِىٓ إِسْرَٰٓءِيلَ إِذْ جَآءَهُمْ فَقَالَ لَهُۥ فِرْعَوْنُ إِنِّى لَاَظُنُّكَ يَـٰمُوسَىٰ مَسْحُورًۭا",
+    "arabic_text": "وَلَقَدْ ءَاتَيْنَا مُوسَىٰ تِسْعَ ءَايَـٰتٍۭ بَيِّنَـٰتٍۢ ۖ فَسْـَٔلْ بَنِىٓ إِسْرَٰٓءِيلَ إِذْ جَآءَهُمْ فَقَالَ لَهُۥ فِرْعَوْنُ إِنِّى لَاَظُنُّكَ يَـٰمُوسَىٰ مَسْحُورًا",
     "urdu_text": "اور ہم نے موسیٰ کو نو واضح نشانیاں عطا کیں، تو (اے نبی) بنی اسرائیل سے پوچھو، جب موسیٰ ان کے پاس آئے تو فرعون نے ان سے کہا: اے موسیٰ، میں سمجھتا ہوں کہ تم پر جادو کر دیا گیا ہے۔",
     "persian_text": "و ما به موسی نه نشانه آشکار دادیم، پس (ای پیامبر) از بنی اسرائیل بپرس، هنگامی که موسی نزد آنان آمد، فرعون به او گفت: ای موسی، من گمان می‌کنم که تو جادو شده‌ای.",
     "transliteration": "Wa laqad aataynaa Moosa tis'a aayaatin bayyinaatin fas'al Banee Israa'eela idh jaaa'ahum faqaala lahu Fir'awnu innee la-azunnuka yaa Moosa mashooran"
@@ -817,7 +817,7 @@ ayats = [
   {
     "verse_number": 102,
     "english_text": "Said Moosa: you Verily know that all these miracles have been sent by the Lord of the skies and the earth, these are things for pondering; O Firaun, I believe your misfortune has begun.",
-    "arabic_text": "قَالَ لَقَدْ عَلِمْتَ مَآ اَنزَلَ هَـٰٓؤُلَآءِ إِلَّا رَبُّ ٱلسَّمَـٰوَٰتِ وَٱلْاَرْضِ بَصَآئِرَ وَإِنِّى لَاَظُنُّكَ يَـٰفِرْعَوْنُ مَثْبُورًۭا",
+    "arabic_text": "قَالَ لَقَدْ عَلِمْتَ مَآ اَنزَلَ هَـٰٓؤُلَآءِ إِلَّا رَبُّ ٱلسَّمَـٰوَٰتِ وَٱلْاَرْضِ بَصَآئِرَ وَإِنِّى لَاَظُنُّكَ يَـٰفِرْعَوْنُ مَثْبُورًا",
     "urdu_text": "موسیٰ نے کہا: تم خوب جانتے ہو کہ یہ نشانیاں آسمانوں اور زمین کے رب نے ہی نازل کی ہیں، یہ سوچنے کی چیزیں ہیں، اور اے فرعون، میں سمجھتا ہوں کہ تم ہلاک ہونے والے ہو۔",
     "persian_text": "موسی گفت: تو به یقین می‌دانی که این معجزات را جز پروردگار آسمان‌ها و زمین نازل نکرده است، اینها برای بصیرت است، و ای فرعون، من گمان می‌کنم که تو هلاک شده‌ای.",
     "transliteration": "Qaala laqad 'alimta maaa anzala haaa'ulaaa'i illaa Rabbus-samaawaati wal-ardi basaaa'ira wa innee la-azunnuka yaa Fir'awnu mathbooran"
@@ -841,7 +841,7 @@ ayats = [
   {
     "verse_number": 105,
     "english_text": "And (O Prophet), We revealed it (Quran) with truth, and it (Quran) was revealed with truth (too), and We have made you who gives glad tidings (of Paradise) and a warner (of punishment).",
-    "arabic_text": "وَبِٱلْحَقِّ اَنزَلْنَـٰهُ وَبِٱلْحَقِّ نَزَلَ ۗ وَمَآ اَرْسَلْنَـٰكَ إِلَّا مُبَشِّرًۭا وَنَذِيرًۭا",
+    "arabic_text": "وَبِٱلْحَقِّ اَنزَلْنَـٰهُ وَبِٱلْحَقِّ نَزَلَ ۗ وَمَآ اَرْسَلْنَـٰكَ إِلَّا مُبَشِّرًا وَنَذِيرًا",
     "urdu_text": "اور (اے نبی) ہم نے اسے (قرآن کو) حق کے ساتھ نازل کیا اور یہ حق کے ساتھ نازل ہوا، اور ہم نے آپ کو صرف خوشخبری دینے والا اور ڈرانے والا بنا کر بھیجا ہے۔",
     "persian_text": "و (ای پیامبر) ما آن (قرآن) را به حق نازل کردیم و به حق نازل شد، و تو را جز بشارت‌دهنده و هشداردهنده نفرستادیم.",
     "transliteration": "Wa bil-haqqi anzalnaahu wa bil-haqqi nazala wa maaa arsalnaaka illaa mubashshiranw-wa nadheeran"

@@ -42,7 +42,7 @@ ayats = [
   {
     "verse_number": 6,
     "english_text": "And whatever war booty Allah has made available from them to the Prophet, for that you made no expedition either through your horses or camels, but Allah gave domination to His prophet and Allah has power over everything.",
-    "arabic_text": "وَ مَا اَفَاءَ اللّٰهُ عَلَٰى رَسُولِهِ مِنْهُمْ فَمَآ اَوْجَفْتُمْ عَلَيْهِ مِنْ خَيْلٍۢ وَلَا رِكَابٍ وَلَٰكِنَّ اللّٰهَ يُسَلِّطُ رُسُلَهُ عَلَٰى مَن يَشَآءُ ۚ وَاللّٰهُ عَلَٰى كُلِّ شَىْءٍۢ قَدِيرٌ",
+    "arabic_text": "وَ مَا اَفَاءَ اللّٰهُ عَلَٰى رَسُولِهِ مِنْهُمْ فَمَآ اَوْجَفْتُمْ عَلَيْهِ مِنْ خَيْلٍۢ وَ لَا رِكَابٍ وَلَٰكِنَّ اللّٰهَ يُسَلِّطُ رُسُلَهُ عَلَٰى مَن يَشَآءُ ۚ وَاللّٰهُ عَلَٰى كُلِّ شَىْءٍۢ قَدِيرٌ",
     "urdu_text": "اور جو مال اللہ نے ان سے اپنے رسول کو دلوایا اس پر تم نے نہ گھوڑے دوڑائے اور نہ اونٹ، لیکن اللہ اپنے رسولوں کو جس پر چاہتا ہے غالب کر دیتا ہے، اور اللہ ہر چیز پر قادر ہے۔",
     "persian_text": "و آنچه خداوند از آنان به پیامبرش بازگردانید، شما برای آن نه اسبی تاختید و نه شتری، ولی خداوند پیامبرانش را بر هر که بخواهد چیره می‌گرداند، و خداوند بر هر چیزی تواناست.",
     "transliteration": "Wa maa afaa Allahu 'alaa Rasoolihi minhum famaa awjaftum 'alayhi min khaylin wa laa rikaab, wa laakinna Allaha yusallit Rusulahu 'alaa man yashaa, wa Allahu 'alaa kulli shay'in Qadeer",
@@ -58,7 +58,7 @@ ayats = [
   {
     "verse_number": 8,
     "english_text": "This wealth belongs to the poor migrants also who have been expelled from their homes and property and they only desire the Grace and Pleasure of Allah and help Allah and His prophet, these are the people who are true to their claim in believing.",
-    "arabic_text": "لِلْفُقَرَآءِ الْمُهٰجِرِينَ الَّذِينَ اُخْرِجُواْ مِن دِيَـٰرِهِمْ وَاَمْوَٰلِهِمْ يَبْتَغُونَ فَضْلًۭا مِّنَ اللّٰهِ وَرِضْوَٰنًۭا وَيَنصُرُونَ اللّٰهَ وَرَسُولَهُٓ ۚ اُو۟لَـٰٓئِكَ هُمُ الصَّـٰدِقُونَ",
+    "arabic_text": "لِلْفُقَرَآءِ الْمُهٰجِرِينَ الَّذِينَ اُخْرِجُواْ مِن دِيَـٰرِهِمْ وَاَمْوَٰلِهِمْ يَبْتَغُونَ فَضْلًا مِّنَ اللّٰهِ وَرِضْوَٰنًۭا وَيَنصُرُونَ اللّٰهَ وَرَسُولَهُٓ ۚ اُو۟لَـٰٓئِكَ هُمُ الصَّـٰدِقُونَ",
     "urdu_text": "یہ مال ان غریب مہاجرین کے لیے بھی ہے جو اپنے گھروں اور اپنے مالوں سے نکال دیے گئے، وہ اللہ کا فضل اور اس کی رضا چاہتے ہیں اور اللہ اور اس کے رسول کی مدد کرتے ہیں، یہی لوگ سچے ہیں۔",
     "persian_text": "این مال برای مهاجران فقیری است که از خانه‌ها و اموالشان بیرون رانده شدند، آنان که فضل و خشنودی خدا را می‌جویند و خدا و پیامبرش را یاری می‌کنند، اینان همان راستگویانند.",
     "transliteration": "Lil-fuqaraa'i al-muhaajireena alladheena ukhrijoo min diyaarihim wa amwaalihim yabtaghoona fadlan mina Allahi wa ridwaanan wa yansuroona Allaha wa Rasoolahu, ulaa'ika humu as-saadiqoon",
@@ -66,7 +66,7 @@ ayats = [
   {
     "verse_number": 9,
     "english_text": "And those who earlier had their homes (in Madina) and adopted faith before them and show affection to those who came to them after migration; and had no desire in their hearts for whatever was given to them and prefers others over themselves no matter how needful they themselves may be, and those who are saved from the greed of their Selves, they shall achieve the desires of their hearts.",
-    "arabic_text": "وَالَّذِينَ تَبَوَّءُوا الدَّارَ وَالْاِيمَـٰنَ مِن قَبْلِهِمْ يُحِبُّونَ مَنْ هَاجَرَ اِلَيْهِمْ وَلَا يَجِدُونَ فِى صُدُورِهِمْ حَاجَةًۭ مِّمَّآ اُوتُواْ وَيُؤْثِرُونَ عَلَىٰٓ اَنفُسِهِمْ وَ لَوْ كَانَ بِهِمْ خَصَاصَةٌۭ ۚ وَ مَن يُوقَ شُحَّ نَفْسِهِ فَاُو۟لَـٰٓئِكَ هُمُ الْمُفْلِحُونَ",
+    "arabic_text": "وَالَّذِينَ تَبَوَّءُوا الدَّارَ وَالْاِيمَـٰنَ مِن قَبْلِهِمْ يُحِبُّونَ مَنْ هَاجَرَ اِلَيْهِمْ وَ لَا يَجِدُونَ فِى صُدُورِهِمْ حَاجَةًۭ مِّمَّآ اُوتُواْ وَيُؤْثِرُونَ عَلَىٰٓ اَنفُسِهِمْ وَ لَوْ كَانَ بِهِمْ خَصَاصَةٌۭ ۚ وَ مَن يُوقَ شُحَّ نَفْسِهِ فَاُو۟لَـٰٓئِكَ هُمُ الْمُفْلِحُونَ",
     "urdu_text": "اور وہ لوگ جنہوں نے ان سے پہلے مدینہ میں گھر بنایا اور ایمان اختیار کیا، وہ ان سے محبت کرتے ہیں جو ان کی طرف ہجرت کر کے آئے، اور اپنے دلوں میں اس چیز کی کوئی حاجت نہیں پاتے جو انہیں دی گئی، اور اپنی جانوں پر دوسروں کو ترجیح دیتے ہیں اگرچہ خود محتاج ہوں، اور جو اپنے نفس کے لالچ سے بچا لیا گیا تو یہی لوگ کامیاب ہیں۔",
     "persian_text": "و آنان که پیش از آنان در این سرزمین و در ایمان جای گرفتند، کسانی را که به سوی آنان هجرت کردند دوست می‌دارند و در دلهایشان نیازی به آنچه به مهاجران داده شد نمی‌یابند، و دیگران را بر خود ترجیح می‌دهند هر چند خود نیازمند باشند، و کسانی که از بخل و حرص خویش نگاه داشته شوند، آنان همان رستگارانند.",
     "transliteration": "Walladheena tabawwa'oo ad-daara wal-eemaana min qablihim yuhibboona man haajara ilayhim wa laa yajidoona fee sudoorihim haajatan mimmaa ootoo wa yu'thiroona 'alaa anfusihim wa law kaana bihim khasaasah, wa man yooqa shuhha nafsihi fa-ulaa'ika humu al-muflihoon",
@@ -74,7 +74,7 @@ ayats = [
   {
     "verse_number": 10,
     "english_text": "And those who came after them say: O Lord forgive us and also our brethren who accepted faith before us and do not let the malice take place in our hearts for the believers, O Lord, You are very Kind and Merciful.",
-    "arabic_text": "وَالَّذِينَ جَآءُواْ مِنۢ بَعْدِهِمْ يَقُولُونَ رَبَّنَا اغْفِرْ لَنَا وَلِاِخْوَٰنِنَا الَّذِينَ سَبَقُونَا بِالْاِيمَـٰنِ وَلَا تَجْعَلْ فِى قُلُوبِنَا غِلًّۭا لِّلَّذِينَ ءَامَنُواْ ۚ رَبَّنَآ اِنَّكَ رَءُوفٌۭ رَّحِيمٌۭ",
+    "arabic_text": "وَالَّذِينَ جَآءُواْ مِنۢ بَعْدِهِمْ يَقُولُونَ رَبَّنَا اغْفِرْ لَنَا وَلِاِخْوَٰنِنَا الَّذِينَ سَبَقُونَا بِالْاِيمَـٰنِ وَ لَا تَجْعَلْ فِى قُلُوبِنَا غِلًّۭا لِّلَّذِينَ ءَامَنُواْ ۚ رَبَّنَآ اِنَّكَ رَءُوفٌۭ رَّحِيمٌۭ",
     "urdu_text": "اور وہ لوگ جو ان کے بعد آئے کہتے ہیں: اے ہمارے رب! ہمیں بخش دے اور ہمارے ان بھائیوں کو بھی جو ایمان میں ہم سے پہلے گزر گئے، اور ہمارے دلوں میں مومنوں کے لیے کوئی کینہ نہ رکھ، اے ہمارے رب! بیشک تو بڑا مہربان نہایت رحم کرنے والا ہے۔",
     "persian_text": "و آنان که پس از ایشان آمدند می‌گویند: پروردگارا! ما و برادرانمان را که در ایمان بر ما پیشی گرفتند بیامرز، و در دلهای ما نسبت به مؤمنان کینه‌ای قرار مده، پروردگارا! تو مهربان و بخشنده‌ای.",
     "transliteration": "Walladheena jaa'oo min ba'dihim yaqooloona Rabbanagh-fir lanaa wa li-ikhwaanina alladheena sabaqoonaa bil-eemaani wa laa taj'al fee quloobinaa ghillan lilladheena aamanoo, Rabbanaa innaka Ra'oofun Raheem",
@@ -82,7 +82,7 @@ ayats = [
   {
     "verse_number": 11,
     "english_text": "Did not you see the condition of the hypocrites that they say to their unbelieving brothers among the people of the book that if you are expelled, we will also go with you and will not obey anyone concerning you, and if you are attacked, we will help you; and Allah is witness that they are totally liars.",
-    "arabic_text": "اَلَمْ تَرَ اِلَى الَّذِينَ نَافَقُواْ يَقُولُونَ لِاِخْوَٰنِهِمُ الَّذِينَ كَفَرُواْ مِنْ اَهْلِ الْكِتٰبِ لَئِنْ اُخْرِجْتُمْ لَنَخْرُجَنَّ مَعَكُمْ وَلَا نُطِيعُ فِيكُمْ اَحَدًا اَبَدًۭا وَاِن قُوتِلْتُمْ لَنَنصُرَنَّكُمْ ۚ وَاللّٰهُ يَشْهَدُ اِنَّهُمْ لَكَـٰذِبُونَ",
+    "arabic_text": "اَلَمْ تَرَ اِلَى الَّذِينَ نَافَقُواْ يَقُولُونَ لِاِخْوَٰنِهِمُ الَّذِينَ كَفَرُواْ مِنْ اَهْلِ الْكِتٰبِ لَئِنْ اُخْرِجْتُمْ لَنَخْرُجَنَّ مَعَكُمْ وَ لَا نُطِيعُ فِيكُمْ اَحَدًا اَبَدًۭا وَاِن قُوتِلْتُمْ لَنَنصُرَنَّكُمْ ۚ وَاللّٰهُ يَشْهَدُ اِنَّهُمْ لَكَـٰذِبُونَ",
     "urdu_text": "کیا تم نے منافقوں کی حالت نہیں دیکھی کہ وہ اہل کتاب میں سے اپنے کافر بھائیوں سے کہتے ہیں کہ اگر تم نکالے گئے تو ہم بھی تمہارے ساتھ ضرور نکل جائیں گے اور تمہارے بارے میں کبھی کسی کی بات نہیں مانیں گے، اور اگر تم سے جنگ کی گئی تو ہم ضرور تمہاری مدد کریں گے، اور اللہ گواہی دیتا ہے کہ یہ بالکل جھوٹے ہیں",
     "persian_text": "آیا ندیدی حال منافقانی را که به برادران کافر خود از اهل کتاب می‌گویند که اگر شما بیرون رانده شوید، ما نیز با شما بیرون خواهیم رفت و هرگز در باره شما از کسی اطاعت نخواهیم کرد، و اگر با شما جنگ شود، حتماً شما را یاری خواهیم داد؛ و خداوند گواهی می‌دهد که آنها کاملاً دروغگو هستند",
     "transliteration": "Alam tara ilal-ladhina nafaqu yaquluna li-ikhwanihimul-ladhina kafaru min ahlil-kitabi la'in ukhrijtum lanakhrujanna ma'akum wa la nuti'u fikum ahadan abadan wa in qutiltum lanansurannakum wallahu yashhadu innahum lakathibun",
@@ -106,7 +106,7 @@ ayats = [
   {
     "verse_number": 14,
     "english_text": "They will never fight collectively with you except when they are in secured towns or from behind the walls, strong is their fighting spirit among them, you think they are united, never, there is severe discord in their hearts; and this is because this nation has no wisdom.",
-    "arabic_text": "لَا يُقَـٰتِلُونَكُمْ جَمِيعًا اِلَّا فِى قُرًۭى مُّحَصَّنَةٍ اَوْ مِن وَرَآءِ جُدُرٍۢ ۚ بَاْسُهُم بَيْنَهُمْ شَدِيدٌۭ ۖ تَحْسَبُهُمْ جَمِيعًۭا وَقُلُوبُهُمْ شَتَّىٰ ۚ ذَٰلِكَ بِاَنَّهُمْ قَوْمٌۭ لَّا يَعْقِلُونَ",
+    "arabic_text": "لَا يُقَـٰتِلُونَكُمْ جَمِيعًا اِلَّا فِى قُرًى مُّحَصَّنَةٍ اَوْ مِن وَرَآءِ جُدُرٍۢ ۚ بَاْسُهُم بَيْنَهُمْ شَدِيدٌۭ ۖ تَحْسَبُهُمْ جَمِيعًۭا وَقُلُوبُهُمْ شَتَّىٰ ۚ ذَٰلِكَ بِاَنَّهُمْ قَوْمٌۭ لَّا يَعْقِلُونَ",
     "urdu_text": "یہ تم سے اکٹھے ہو کر کبھی نہیں لڑیں گے سوائے محفوظ بستیوں میں یا دیواروں کے پیچھے سے، ان میں آپس میں لڑنے کا جوش بہت سخت ہے، تم انہیں متحد سمجھتے ہو حالانکہ ان کے دل بکھرے ہوئے ہیں، یہ اس لیے کہ یہ قوم عقل نہیں رکھتی",
     "persian_text": "آنها هرگز با شما جمعی جنگ نخواهند کرد مگر در شهرهای محصن یا از پشت دیوارها، جنگاوری آنها در میان خودشان شدید است، تو آنها را متحد می‌پنداری ولی دلهایشان پراکنده است، این بدان سبب است که آنها قومی هستند که خرد ندارند",
     "transliteration": "La yuqatilunakum jami'an illa fi quran muhassanatin aw min wara'i judurin ba'suhum baynahum shadidun tahsabuhum jami'an wa qulubuhum shatta dhalika bi'annahum qawmul-la ya'qilun",
@@ -114,7 +114,7 @@ ayats = [
   {
     "verse_number": 15,
     "english_text": "Like recently what has happened to the earlier people, they tasted the result of their conduct, and there is also painful punishment for them.",
-    "arabic_text": "كَمَثَلِ الَّذِينَ مِن قَبْلِهِمْ قَرِيبًۭا ذَاقُواْ وَبَالَ اَمْرِهِمْ ۖ وَلَهُمْ عَذَابٌ اَلِيمٌۭ",
+    "arabic_text": "كَمَثَلِ الَّذِينَ مِن قَبْلِهِمْ قَرِيبًا ذَاقُواْ وَبَالَ اَمْرِهِمْ ۖ وَلَهُمْ عَذَابٌ اَلِيمٌۭ",
     "urdu_text": "ان سے پہلے لوگوں کی مثال کی طرح جو ابھی حال ہی میں ہوا، انہوں نے اپنے کام کا وبال چکھا، اور ان کے لیے دردناک عذاب بھی ہے",
     "persian_text": "همانند کسانی که پیش از آنها بودند که اخیراً عاقبت کار خود را چشیدند، و برای آنها عذاب دردناکی نیز هست",
     "transliteration": "Kamathali-lladhina min qablihim qariban dhaqu wabala amrihim wa lahum 'adhabun alim",
@@ -146,7 +146,7 @@ ayats = [
   {
     "verse_number": 19,
     "english_text": "And beware! do not be like those who have forgotten Allah; so Allah Himself have also forgotten their Selves, and indeed they are all transgressors.",
-    "arabic_text": "وَلَا تَكُونُواْ كَالَّذِينَ نَسُواْ اللّٰهَ فَاَنسَىٰهُمْ اَنفُسَهُمْ ۚ اُو۟لَـٰٓئِكَ هُمُ الْفَـٰسِقُونَ",
+    "arabic_text": "وَ لَا تَكُونُواْ كَالَّذِينَ نَسُواْ اللّٰهَ فَاَنسَىٰهُمْ اَنفُسَهُمْ ۚ اُو۟لَـٰٓئِكَ هُمُ الْفَـٰسِقُونَ",
     "urdu_text": "اور تم ان لوگوں کی طرح نہ ہو جانا جنہوں نے اللہ کو بھلا دیا تو اللہ نے بھی انہیں ان کے نفسوں کو بھلا دیا، یہی لوگ نافرمان ہیں",
     "persian_text": "و مانند کسانی نباشید که خدا را فراموش کردند پس خدا هم آنها را از خودشان غافل ساخت، اینان همان نافرمانانند",
     "transliteration": "Wala takunu kalladhina nasu Allaha fa-ansahum anfusahum ula'ika humu al-fasiqun",

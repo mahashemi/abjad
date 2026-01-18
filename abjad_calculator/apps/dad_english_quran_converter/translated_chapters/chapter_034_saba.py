@@ -105,7 +105,7 @@ ayats = [
   {
     "verse_number": 13,
     "english_text": "They make whatever Suleiman wishes, like arcs, pictures; bowls as big as ponds; big pots that are firmly in the ground (and would not move); Dawood! be grateful; among Our servants there are very few who are grateful.",
-    "arabic_text": "يَعْمَلُونَ لَهُۥ مَا يَشَآءُ مِن مَّحَـٰرِيبَ وَتَمَـٰثِيلَ وَجِفَانٍۢ كَٱلْجَوَابِ وَقُدُورٍۢ رَّاسِيَـٰتٍ ۚ ٱعْمَلُوٓاْ ءَالَ دَاوُۥدَ شُكْرًۭا ۚ وَقَلِيلٌۭ مِّنْ عِبَادِىَ ٱلشَّكُورُ",
+    "arabic_text": "يَعْمَلُونَ لَهُۥ مَا يَشَآءُ مِن مَّحَـٰرِيبَ وَتَمَـٰثِيلَ وَجِفَانٍۢ كَٱلْجَوَابِ وَقُدُورٍۢ رَّاسِيَـٰتٍ ۚ ٱعْمَلُوٓاْ ءَالَ دَاوُۥدَ شُكْرًا ۚ وَقَلِيلٌۭ مِّنْ عِبَادِىَ ٱلشَّكُورُ",
     "urdu_text": "وه سلیمان کے لیے جو چاهتے بناتے تھے، محرابیں اور مورتیں اور حوضوں جیسے بڑے پیالے اور زمین میں جمے هوئے بڑے هنڈیا، اے آل داؤد! شکر ادا کرو، اور میرے بندوں میں شکر گزار بهت کم هیں۔",
     "persian_text": "برای او آنچه می‌خواست می‌ساختند از محراب‌ها و تندیس‌ها و کاسه‌هایی چون حوض‌ها و دیگ‌های ثابت، ای خاندان داوود! سپاسگزاری کنید، و اندکی از بندگان من سپاسگزارند.",
     "transliteration": "Ya'maloona lahu maa yashaau min mahaariba wa tamaatheel wa jifaanin kal-jawaabi wa qudoorin raasiyaat i'maloo aala Daawooda shukran wa qaleelun min 'ibaadiya ash-shakoor"
@@ -145,7 +145,7 @@ ayats = [
   {
     "verse_number": 18,
     "english_text": "And when We placed between them and the settlements which We had blessed, and appointed for the journey therein, now whenever you wish travel through them securely during the nights and days.",
-    "arabic_text": "وَجَعَلْنَا بَيْنَهُمْ وَبَيْنَ ٱلْقُرَى ٱلَّتِى بَـٰرَكْنَا فِيهَا قُرًۭى ظَـٰهِرَةًۭ وَقَدَّرْنَا فِيهَا ٱلسَّيْرَ ۖ سِيرُواْ فِيهَا لَيَالِىَ وَاَيَّامًا ءَامِنِينَ",
+    "arabic_text": "وَجَعَلْنَا بَيْنَهُمْ وَبَيْنَ ٱلْقُرَى ٱلَّتِى بَـٰرَكْنَا فِيهَا قُرًى ظَـٰهِرَةًۭ وَقَدَّرْنَا فِيهَا ٱلسَّيْرَ ۖ سِيرُواْ فِيهَا لَيَالِىَ وَاَيَّامًا ءَامِنِينَ",
     "urdu_text": "اور هم نے ان کے اور ان بستیوں کے درمیان جن میں هم نے برکت رکھی تھی، ظاهر بستیاں بنائیں اور ان میں سفر کا اندازه مقرر کیا، ان میں راتوں اور دنوں میں امن سے سفر کرو۔",
     "persian_text": "و میان آنان و شهرهایی که در آن برکت نهادیم، شهرهای آشکار قرار دادیم و در آن سیر را اندازه کردیم، در آن شب‌ها و روزها ایمن سفر کنید.",
     "transliteration": "Wa ja'alnaa baynahum wa bayna al-quraa allatee baaraknaa feehaa quran dhaahiratan wa qaddarnaa feeha as-sayra seeroo feehaa layaaliya wa ayyaaman aamineen"
@@ -225,7 +225,7 @@ ayats = [
   {
     "verse_number": 28,
     "english_text": "And O Prophet! We have sent you to all people as a giver of glad tidings and as a warner, this is another matter that most of them are not aware of reality.",
-    "arabic_text": "وَمَآ اَرْسَلْنَـٰكَ إِلَّا كَآفَّةًۭ لِّلنَّاسِ بَشِيرًۭا وَنَذِيرًۭا وَلَـٰكِنَّ اَكْثَرَ ٱلنَّاسِ لَا يَعْلَمُونَ",
+    "arabic_text": "وَمَآ اَرْسَلْنَـٰكَ إِلَّا كَآفَّةًۭ لِّلنَّاسِ بَشِيرًا وَنَذِيرًا وَلَـٰكِنَّ اَكْثَرَ ٱلنَّاسِ لَا يَعْلَمُونَ",
     "urdu_text": "اور اے نبی! هم نے آپ کو تمام لوگوں کے لیے خوشخبری دینے والا اور ڈرانے والا بنا کر بھیجا هے، لیکن اکثر لوگ نهیں جانتے۔",
     "persian_text": "و ای پیامبر! ما تو را جز برای همه مردم به عنوان بشارت‌دهنده و هشداردهنده نفرستادیم، ولی بیشتر مردم نمی‌دانند.",
     "transliteration": "Wa maaa arsalnaaka illaa kaaffatal-linnaasi basheeranw wa nadheeranw wa laakinna aktharannaasi laa ya'lamoon"
@@ -345,7 +345,7 @@ ayats = [
   {
     "verse_number": 43,
     "english_text": "When Our clear verses were recited before them, they used to say that this person wants to desist you from worshipping to whom your forefathers had worshipped; this is a forged tale; and infidels always say whenever Truth comes in front of them that this is a manifest magic.",
-    "arabic_text": "وَإِذَا تُتْلَىٰ عَلَيْهِمْ ءَايَـٰتُنَا بَيِّنَـٰتٍۢ قَالُواْ مَا هَـٰذَآ إِلَّا رَجُلٌۭ يُرِيدُ اَن يَصُدَّكُمْ عَمَّا كَانَ يَعْبُدُ ءَابَآؤُكُمْ وَقَالُواْ مَا هَـٰذَآ إِلَّآ إِفْكٌۭ مُّفْتَرًۭى ۚ وَقَالَ ٱلَّذِينَ كَفَرُواْ لِلْحَقِّ لَمَّا جَآءَهُمْ إِنْ هَـٰذَآ إِلَّا سِحْرٌۭ مُّبِينٌۭ",
+    "arabic_text": "وَإِذَا تُتْلَىٰ عَلَيْهِمْ ءَايَـٰتُنَا بَيِّنَـٰتٍۢ قَالُواْ مَا هَـٰذَآ إِلَّا رَجُلٌۭ يُرِيدُ اَن يَصُدَّكُمْ عَمَّا كَانَ يَعْبُدُ ءَابَآؤُكُمْ وَقَالُواْ مَا هَـٰذَآ إِلَّآ إِفْكٌۭ مُّفْتَرًى ۚ وَقَالَ ٱلَّذِينَ كَفَرُواْ لِلْحَقِّ لَمَّا جَآءَهُمْ إِنْ هَـٰذَآ إِلَّا سِحْرٌۭ مُّبِينٌۭ",
     "urdu_text": "اور جب ان کے سامنے هماری واضح آیات پڑھی جاتیں تو وه کهتے: یه شخص تو چاهتا هے که تمهیں ان سے روک دے جن کی تمهارے باپ دادا عبادت کرتے تھے، اور کهتے یه تو محض گھڑا هوا جھوٹ هے، اور کافر جب بھی حق ان کے پاس آیا تو کهتے: یه تو کھلا جادو هے۔",
     "persian_text": "و هنگامی که آیات روشن ما بر آنها تلاوت می‌شد، می‌گفتند: این مرد فقط می‌خواهد شما را از آنچه پدرانتان می‌پرستیدند باز دارد، و گفتند: این جز دروغی ساختگی نیست، و کافران هنگامی که حق به سویشان آمد گفتند: این جز جادویی آشکار نیست.",
     "transliteration": "Wa idhā tutlā 'alayhim āyātunā bayyinātin qālū mā hādhā illā rajulun yurīdu an yaṣuddakum 'ammā kāna ya'budu ābā'ukum wa qālū mā hādhā illā ifkun muftarā wa qāla alladhīna kafarū lil-ḥaqqi lammā jā'ahum in hādhā illā siḥrun mubīn"

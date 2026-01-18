@@ -105,7 +105,7 @@ ayats = [
   {
     "verse_number": 13,
     "english_text": "On that day hypocrite men and hypocrite women will say to the believers: look at us so we may borrow a light from your light, so they will be told: return to your rear and request for light from your demons; and thereafter separation will be brought between them by a wall - inside of which will be the Mercy, and outside of which will be the punishment.",
-    "arabic_text": "يَوْمَ يَقُولُ ٱلْمُنَـٰفِقُونَ وَٱلْمُنَـٰفِقَـٰتُ لِلَّذِينَ ءَامَنُواْ ٱنظُرُونَا نَقْتَبِسْ مِن نُّورِكُمْ قِيلَ ٱرْجِعُواْ وَرَآءَكُمْ فَٱلْتَمِسُواْ نُورًۭا فَضُرِبَ بَيْنَهُم بِسُورٍۢ لَّهُۥ بَابٌۢ بَاطِنُهُۥ فِيهِ ٱلرَّحْمَةُ وَظَـٰهِرُهُۥ مِن قِبَلِهِ ٱلْعَذَابُ",
+    "arabic_text": "يَوْمَ يَقُولُ ٱلْمُنَـٰفِقُونَ وَٱلْمُنَـٰفِقَـٰتُ لِلَّذِينَ ءَامَنُواْ ٱنظُرُونَا نَقْتَبِسْ مِن نُّورِكُمْ قِيلَ ٱرْجِعُواْ وَرَآءَكُمْ فَٱلْتَمِسُواْ نُورًا فَضُرِبَ بَيْنَهُم بِسُورٍۢ لَّهُۥ بَابٌۢ بَاطِنُهُۥ فِيهِ ٱلرَّحْمَةُ وَظَـٰهِرُهُۥ مِن قِبَلِهِ ٱلْعَذَابُ",
     "urdu_text": "جس دن منافق مرد اور منافق عورتیں ایمان والوں سے کهیں گے که هماری طرف دیکھو تاکه هم تمهارے نور سے کچھ روشنی حاصل کر لیں، تو ان سے کها جائے گا که اپنے پیچھے لوٹ جاؤ اور وهاں سے نور تلاش کرو، پھر ان کے درمیان ایک دیوار کھڑی کر دی جائے گی جس میں ایک دروازه هوگا، اس کے اندر رحمت هوگی اور اس کے باهر عذاب هوگا۔",
     "persian_text": "روزی که مردان و زنان منافق به مؤمنان می‌گویند: به ما نگاه کنید تا از نور شما بهره‌ای بگیریم، به آنان گفته می‌شود: به پشت سر خود بازگردید و نوری بجویید، پس میان آنان دیواری زده می‌شود که دری دارد، درون آن رحمت است و بیرون آن از سوی آن عذاب است.",
     "transliteration": "Yawma yaqoolul-munaafiqoona wal-munaafiqaatu lilladheena aamanun-dhuroona naqtabis min noorikum qeelar-ji'oo waraa'akum faltamisoo nooran faduriba baynahum bi-soorin lahoo baabun baatinuhoo feehir-rahmatu wa dhaahiruhoo min qibalihil-'adhaab"
@@ -225,7 +225,7 @@ ayats = [
   {
     "verse_number": 28,
     "english_text": "O believers! fear Allah and believe in His prophet in reality, so that Allah bestow upon you double His Mercy on you, and establish a light for you with which you can walk (on the straight path), and forgive you, for Allah is Most-Forgiving and Most Merciful.",
-    "arabic_text": "يَـٰٓاَيُّهَا ٱلَّذِينَ ءَامَنُواْ ٱتَّقُواْ ٱللَّهَ وَءَامِنُواْ بِرَسُولِهِۦ يُؤْتِكُمْ كِفْلَيْنِ مِن رَّحْمَتِهِۦ وَيَجْعَل لَّكُمْ نُورًۭا تَمْشُونَ بِهِۦ وَيَغْفِرْ لَكُمْ ۚ وَٱللَّهُ غَفُورٌۭ رَّحِيمٌۭ",
+    "arabic_text": "يَـٰٓاَيُّهَا ٱلَّذِينَ ءَامَنُواْ ٱتَّقُواْ ٱللَّهَ وَءَامِنُواْ بِرَسُولِهِۦ يُؤْتِكُمْ كِفْلَيْنِ مِن رَّحْمَتِهِۦ وَيَجْعَل لَّكُمْ نُورًا تَمْشُونَ بِهِۦ وَيَغْفِرْ لَكُمْ ۚ وَٱللَّهُ غَفُورٌۭ رَّحِيمٌۭ",
     "urdu_text": "اے ایمان والو! الله سے ڈرو اور اس کے رسول پر ایمان لاؤ، وه تمهیں اپنی رحمت کا دوهرا حصه عطا فرمائے گا اور تمهارے لیے ایک نور بنائے گا جس کے ساتھ تم چلو گے، اور تمهیں بخش دے گا۔ اور الله بهت بخشنے والا اور مهربان هے۔",
     "persian_text": "ای کسانی که ایمان آورده‌اید! از خدا بترسید و به پیامبرش ایمان بیاورید تا دو برابر از رحمتش به شما عطا کند و برای شما نوری قرار دهد که با آن راه بروید، و شما را بیامرزد. و خداوند آمرزنده و مهربان است.",
     "transliteration": "Yā ayyuhalladhīna āmanuttaqullāha wa āminū birasūlihī yu'tikum kiflayni min raḥmatihī wa yaj'al lakum nūran tamshūna bihī wa yaghfir lakum, wallāhu ghafūrun raḥīm"

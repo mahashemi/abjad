@@ -225,7 +225,7 @@ ayats = [
   {
     "verse_number": 28,
     "english_text": "And (O Prophet) remember the time when your Lord told the angels that from kneaded clay when it will make tinkling sound I am going to create a man.",
-    "arabic_text": "وَإِذْ قَالَ رَبُّكَ لِلْمَلَـٰٓئِكَةِ إِنِّى خَـٰلِقٌۢ بَشَرًۭا مِّن صَلْصَـٰلٍۢ مِّنْ حَمَإٍۢ مَّسْنُونٍۢ",
+    "arabic_text": "وَإِذْ قَالَ رَبُّكَ لِلْمَلَـٰٓئِكَةِ إِنِّى خَـٰلِقٌۢ بَشَرًا مِّن صَلْصَـٰلٍۢ مِّنْ حَمَإٍۢ مَّسْنُونٍۢ",
     "urdu_text": "اور جب تمهارے رب نے فرشتوں سے کها که میں بجتی هوئی مٹی سے جو سڑی هوئی کیچڑ سے بنی هے، ایک بشر پیدا کرنے والا هوں۔",
     "persian_text": "و یاد کن هنگامی را که پروردگارت به فرشتگان گفت: من بشری از گلی خشک و صدادار که از گل سیاه است، می‌آفرینم.",
     "transliteration": "Wa idh qala rabbuka lil-mala'ikati inni khaliqun basharan min salsalin min hama'in masnun"

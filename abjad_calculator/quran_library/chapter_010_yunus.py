@@ -394,7 +394,7 @@ ayats = [
   {
     "verse_number": 50,
     "english_text": "Say: If the punishment comes on the night or day time, then what you will do? Then for what, these guilty are making haste.",
-    "arabic_text": "قُلْ اَرَاَيْتُمْ اِنْ اَتٰكُمْ عَذَابُهُ بَيَاتًا اَوْ نَهَارًا مَّاذَا يَسْتَعْجِلُ مِنْهُ الْمُجْرِمُونَ",
+    "arabic_text": "قُلْ اَرَءيْتُمْ اِنْ اَتٰكُمْ عَذَابُهُ بَيَاتًا اَوْ نَهَارًا مَّاذَا يَسْتَعْجِلُ مِنْهُ الْمُجْرِمُونَ",
     "urdu_text": "کہہ دو کہ بتاؤ اگر اس کا عذاب تم پر رات کو یا دن کو آجائے تو پھر مجرم لوگ اس میں کس چیز کی جلدی کر رہے ہیں",
     "persian_text": "بگو آیا دیده‌اید اگر عذاب او شبانه یا روزانه به سراغتان بیاید، پس مجرمان در چه چیزی از آن شتاب می‌کنند",
     "transliteration": "Qul ara'aytum in atakum 'adhabuhu bayatan aw naharan madha yasta'jilu minhul-mujrimun",
@@ -538,7 +538,7 @@ ayats = [
   {
     "verse_number": 68,
     "english_text": "These people say that Allah has created His son whereas he is Self-Sufficient, and the entire universe of the skies and the earth is His, even you do not have any argument of your talk, do you blame Allah which you do not know.",
-    "arabic_text": "قَالُوا اتَّخَذَ اللّٰهُ وَ لَدًا ۗ سُبْحٰنَهُ ۖ هُوَ الْغَنِيُّ ۖ لَهُ مَا فِي السَّمٰوٰتِ وَ مَا فِي الْاَرْضِ ۚ اِنْ عِندَكُم مِّنْ سُلْطٰنٍ بِهٰذَا ۚ اَتَقُولُونَ عَلَى اللّٰهِ مَا لَا تَعْلَمُونَ",
+    "arabic_text": "قَالُوْا اتَّخَذَ اللّٰهُ وَ لَدًا ۗ سُبْحٰنَهُ ۖ هُوَ الْغَنِيُّ ۖ لَهُ مَا فِي السَّمٰوٰتِ وَ مَا فِي الْاَرْضِ ۚ اِنْ عِندَكُم مِّنْ سُلْطٰنٍ بِهٰذَا ۚ اَتَقُولُونَ عَلَى اللّٰهِ مَا لَا تَعْلَمُونَ",
     "urdu_text": "یہ لوگ کہتے ہیں کہ اللہ نے اولاد بنائی ہے، وہ پاک ہے، وہ بے نیاز ہے، آسمانوں اور زمین میں جو کچھ ہے اسی کا ہے، تمہارے پاس اس بات کی کوئی دلیل نہیں، کیا تم اللہ پر وہ بات کہتے ہو جو تم نہیں جانتے؟",
     "persian_text": "آنها گفتند خدا فرزندی برگزیده است، منزه است او، او بی‌نیاز است، آنچه در آسمان‌ها و زمین است از آنِ اوست، شما هیچ دلیلی بر این ندارید، آیا درباره خدا چیزی می‌گویید که نمی‌دانید؟",
     "transliteration": "Qalut-takhadhallahu walada, subhanahu huwal-ghaniyyu, lahu ma fis-samawati wa ma fil-ard, in 'indakum min sultanim bi-hadha, ataquluna 'alallahi ma la ta'lamun",
@@ -602,7 +602,7 @@ ayats = [
   {
     "verse_number": 76,
     "english_text": "So when Moosa came to them from Us with the truth, then they said it is manifest magic.",
-    "arabic_text": "فَلَمَّا جَاءَهُمُ الْحَقُّ مِنْ عِندِنَا قَالُوا اِنَّ هٰذَا لَسِحْرٌ مُّبِينٌ",
+    "arabic_text": "فَلَمَّا جَاءَهُمُ الْحَقُّ مِنْ عِندِنَا قَالُوْا اِنَّ هٰذَا لَسِحْرٌ مُّبِينٌ",
     "urdu_text": "پھر جب موسیٰ ان کے پاس ہماری طرف سے حق لے کر آئے تو انہوں نے کہا یہ تو کھلا جادو ہے",
     "persian_text": "پس چون موسی حق را از جانب ما برای آنان آورد، گفتند این جادویی آشکار است",
     "transliteration": "Falamma ja'ahumul haqqu min 'indina qalu inna haza lasihrun mubin",
@@ -618,7 +618,7 @@ ayats = [
   {
     "verse_number": 78,
     "english_text": "Those people said: you have brought the message to deviate us from the path of our forefathers, and that you two might take over the governance and power in the land, and certainly we are not going to accept your talk.",
-    "arabic_text": "قَالُوا اَجِئْتَنَا لِتَلْفِتَنَا عَمَّا وَ جَدْنَا عَلَيْهِ اٰبَآءَنَا وَ تَكُونَ لَكُمَا الْكِبْرِيَآءُ فِي الْاَرْضِ وَ مَا نَحْنُ لَكُمَا بِمُؤْمِنِينَ",
+    "arabic_text": "قَالُوْا اَجِئْتَنَا لِتَلْفِتَنَا عَمَّا وَ جَدْنَا عَلَيْهِ اٰبَآءَنَا وَ تَكُونَ لَكُمَا الْكِبْرِيَآءُ فِي الْاَرْضِ وَ مَا نَحْنُ لَكُمَا بِمُؤْمِنِينَ",
     "urdu_text": "انہوں نے کہا کیا تم ہمارے پاس اس لیے آئے ہو کہ ہمیں اس راستے سے ہٹا دو جس پر ہم نے اپنے باپ دادا کو پایا اور تم دونوں کو زمین میں بڑائی حاصل ہو جائے؟ اور ہم تم دونوں پر ایمان لانے والے نہیں ہیں",
     "persian_text": "گفتند آیا نزد ما آمده‌ای تا ما را از آنچه پدرانمان را بر آن یافتیم منحرف سازی و برای شما دو تن بزرگی در زمین باشد؟ و ما به شما دو تن ایمان نمی‌آوریم",
     "transliteration": "Qalu aji'tana litaftana 'amma wajadna 'alayhi aba'ana wa takuna lakumal kibriya'u fil ardi wa ma nahnu lakuma bimu'minin",
@@ -674,7 +674,7 @@ ayats = [
   {
     "verse_number": 85,
     "english_text": "So they said: Verily we trust upon Allah; (and they prayed) O Lord, do not make us centre of persecution of unjust.",
-    "arabic_text": "فَقَالُوا عَلَى اللّٰهِ تَوَكَّلْنَا رَبَّنَا لَا تَجْعَلْنٰ فِتْنَةً لِّلْقَوْمِ الظّٰلِمِينَ",
+    "arabic_text": "فَقَالُوْا عَلَى اللّٰهِ تَوَكَّلْنَا رَبَّنَا لَا تَجْعَلْنٰ فِتْنَةً لِّلْقَوْمِ الظّٰلِمِينَ",
     "urdu_text": "تو انہوں نے کہا کہ ہم نے اللہ پر بھروسہ کیا، اے ہمارے رب ہمیں ظالم قوم کے لیے آزمائش کا باعث نہ بنا",
     "persian_text": "پس گفتند: بر خدا توکل کردیم، پروردگارا ما را وسیله آزمایش قوم ستمگر قرار مده",
     "transliteration": "Faqaalu 'ala Allahi tawakkalna rabbana la taj'alna fitnatan lil-qawmi adh-dhalimeen",

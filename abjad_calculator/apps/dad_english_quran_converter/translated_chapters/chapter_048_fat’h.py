@@ -49,7 +49,7 @@ ayats = [
   {
     "verse_number": 6,
     "english_text": "May the punishment of Allah be on hypocrite men and hypocrite women and polytheist men and women who have evil thinking about Allah, punishment is circling over their heads and wrath of Allah is on them, Allah has cursed them, and Hell has been provided for them; this is the worst result.",
-    "arabic_text": "وَيُعَذِّبَ ٱلْمُنَـٰفِقِينَ وَٱلْمُنَـٰفِقَـٰتِ وَٱلْمُشْرِكِينَ وَٱلْمُشْرِكَـٰتِ ٱلظَّآنِّينَ بِٱللَّهِ ظَنَّ ٱلسَّوْءِ ۚ عَلَيْهِمْ دَآئِرَةُ ٱلسَّوْءِ ۖ وَغَضِبَ ٱللَّهُ عَلَيْهِمْ وَلَعَنَهُمْ وَاَعَدَّ لَهُمْ جَهَنَّمَ ۖ وَسَآءَتْ مَصِيرًۭا",
+    "arabic_text": "وَيُعَذِّبَ ٱلْمُنَـٰفِقِينَ وَٱلْمُنَـٰفِقَـٰتِ وَٱلْمُشْرِكِينَ وَٱلْمُشْرِكَـٰتِ ٱلظَّآنِّينَ بِٱللَّهِ ظَنَّ ٱلسَّوْءِ ۚ عَلَيْهِمْ دَآئِرَةُ ٱلسَّوْءِ ۖ وَغَضِبَ ٱللَّهُ عَلَيْهِمْ وَلَعَنَهُمْ وَاَعَدَّ لَهُمْ جَهَنَّمَ ۖ وَسَآءَتْ مَصِيرًا",
     "urdu_text": "اور منافق مردوں اور منافق عورتوں اور مشرک مردوں اور مشرک عورتوں کو عذاب دے جو اللہ کے بارے میں بری گمان رکھتے ہیں، ان پر بری مصیبت کا دائرہ ہے، اور اللہ کا غضب ان پر ہے، اللہ نے ان پر لعنت کی ہے اور ان کے لیے جہنم تیار کی ہے، اور یہ بدترین انجام ہے۔",
     "persian_text": "و مردان و زنان منافق و مردان و زنان مشرک را که به خدا گمان بد می‌برند عذاب دهد، دایره بدی بر آنان است و خشم خدا بر آنان است و خداوند آنان را لعنت کرده و جهنم را برای آنان آماده ساخته است و چه بد سرانجامی است.",
     "transliteration": "Wa yu'adh-dhibal-munaafiqeena wal-munaafiqaati wal-mushrikeena wal-mushrikaatizh-zhaanneena bil-laahi zhannnas-saw' 'alayhim daaa'iratus-saw' wa ghadhibal-laahu 'alayhim wa la'anahum wa a'adda lahum jahannama wa saaa'at maseeraa"
@@ -65,7 +65,7 @@ ayats = [
   {
     "verse_number": 8,
     "english_text": "O Prophet, We have sent you as a witness, giver of glad tidings and as warner from the punishment of Allah.",
-    "arabic_text": "إِنَّآ اَرْسَلْنَـٰكَ شَـٰهِدًۭا وَمُبَشِّرًۭا وَنَذِيرًۭا",
+    "arabic_text": "إِنَّآ اَرْسَلْنَـٰكَ شَـٰهِدًۭا وَمُبَشِّرًا وَنَذِيرًا",
     "urdu_text": "اے نبی! بیشک ہم نے آپ کو گواہ اور خوشخبری دینے والا اور ڈرانے والا بنا کر بھیجا ہے۔",
     "persian_text": "ای پیامبر! ما تو را به عنوان گواه و بشارت‌دهنده و هشداردهنده فرستادیم.",
     "transliteration": "Innaa arsalnaaka shaahidan wa mubashshiran wa nadheeraa"
@@ -97,7 +97,7 @@ ayats = [
   {
     "verse_number": 12,
     "english_text": "In fact, you were thinking that Prophet and the believers cannot ever return to their abodes and that thing was decorated in your hearts and you acted distrustfully; and you are a nation doomed to perish.",
-    "arabic_text": "بَلْ ظَنَنتُمْ اَن لَّن يَنقَلِبَ ٱلرَّسُولُ وَٱلْمُؤْمِنُونَ إِلَىٰٓ اَهْلِيهِمْ اَبَدًۭا وَزُيِّنَ ذَٰلِكَ فِى قُلُوبِكُمْ وَظَنَنتُمْ ظَنَّ ٱلسَّوْءِ وَكُنتُمْ قَوْمًۢا بُورًۭا",
+    "arabic_text": "بَلْ ظَنَنتُمْ اَن لَّن يَنقَلِبَ ٱلرَّسُولُ وَٱلْمُؤْمِنُونَ إِلَىٰٓ اَهْلِيهِمْ اَبَدًۭا وَزُيِّنَ ذَٰلِكَ فِى قُلُوبِكُمْ وَظَنَنتُمْ ظَنَّ ٱلسَّوْءِ وَكُنتُمْ قَوْمًۢا بُورًا",
     "urdu_text": "بلکہ تم نے یہ گمان کیا تھا کہ رسول اور مومنین کبھی اپنے گھروں کو واپس نہیں لوٹیں گے، اور یہ بات تمہارے دلوں میں خوبصورت بنا دی گئی، اور تم نے بری گمان کیا، اور تم ہلاکت والی قوم تھے۔",
     "persian_text": "بلکه شما گمان کردید که رسول و مؤمنان هرگز به خانواده‌های خود باز نخواهند گشت، و این در دل‌های شما زینت داده شد، و گمان بد بردید، و شما قومی هلاک‌شده بودید.",
     "transliteration": "Bal zanantum al-lan yanqalibar-rasoolu wal-mu'minoona ila ahleehim abadan wa zuyyina dhaalika fee quloobikum wa zanantum zannas-saw'i wa kuntum qawman boora"
@@ -105,7 +105,7 @@ ayats = [
   {
     "verse_number": 13,
     "english_text": "And whoever will not believe on Allah and (His) Prophet, We have prepared the Hell for such infidels.",
-    "arabic_text": "وَمَن لَّمْ يُؤْمِنۢ بِٱللَّهِ وَرَسُولِهِۦ فَإِنَّآ اَعْتَدْنَا لِلْكَـٰفِرِينَ سَعِيرًۭا",
+    "arabic_text": "وَمَن لَّمْ يُؤْمِنۢ بِٱللَّهِ وَرَسُولِهِۦ فَإِنَّآ اَعْتَدْنَا لِلْكَـٰفِرِينَ سَعِيرًا",
     "urdu_text": "اور جو اللہ اور اس کے رسول پر ایمان نہیں لائے گا تو بیشک ہم نے کافروں کے لیے دوزخ کی بھڑکتی آگ تیار کر رکھی ہے۔",
     "persian_text": "و هر کس به اللہ و رسولش ایمان نیاورد، پس ما برای کافران آتش فروزانی آماده کرده‌ایم.",
     "transliteration": "Wa mal-lam yu'mim billahi wa rasoolihi fa-inna a'tadna lil-kafireena sa'eera"
@@ -113,7 +113,7 @@ ayats = [
   {
     "verse_number": 14,
     "english_text": "And Kingdom of the earth and the skies is only of Allah's, He forgives whom He pleases and punishes whom He pleases, and Allah is very forgiving and Merciful.",
-    "arabic_text": "وَلِلَّهِ مُلْكُ ٱلسَّمَـٰوَٰتِ وَٱلْاَرْضِ ۚ يَغْفِرُ لِمَن يَشَآءُ وَيُعَذِّبُ مَن يَشَآءُ ۚ وَكَانَ ٱللَّهُ غَفُورًۭا رَّحِيمًۭا",
+    "arabic_text": "وَلِلَّهِ مُلْكُ ٱلسَّمَـٰوَٰتِ وَٱلْاَرْضِ ۚ يَغْفِرُ لِمَن يَشَآءُ وَيُعَذِّبُ مَن يَشَآءُ ۚ وَكَانَ ٱللَّهُ غَفُورًا رَّحِيمًۭا",
     "urdu_text": "اور آسمانوں اور زمین کی بادشاہی صرف اللہ ہی کی ہے، وہ جسے چاہے بخش دے اور جسے چاہے عذاب دے، اور اللہ بہت بخشنے والا مہربان ہے۔",
     "persian_text": "و فرمانروایی آسمان‌ها و زمین تنها از آنِ اللہ است. او هر که را بخواهد می‌بخشد و هر که را بخواهد عذاب می‌کند، و اللہ بسیار آمرزنده و مهربان است.",
     "transliteration": "Wa lillahi mulkus-samaawaati wal-ard yaghfiru liman yashaa'u wa yu'adhdhibu man yashaa' wa kaanallahu ghafooran raheema"
@@ -169,7 +169,7 @@ ayats = [
   {
     "verse_number": 21,
     "english_text": "And other booties on which you could not access, Allah is dominant over them also, and Allah has the power over everything.",
-    "arabic_text": "وَأُخْرَىٰ لَمْ تَقْدِرُواْ عَلَيْهَا قَدْ اَحَاطَ ٱللَّهُ بِهَا ۚ وَكَانَ ٱللَّهُ عَلَىٰ كُلِّ شَىْءٍۢ قَدِيرًۭا",
+    "arabic_text": "وَأُخْرَىٰ لَمْ تَقْدِرُواْ عَلَيْهَا قَدْ اَحَاطَ ٱللَّهُ بِهَا ۚ وَكَانَ ٱللَّهُ عَلَىٰ كُلِّ شَىْءٍۢ قَدِيرًا",
     "urdu_text": "اور دوسرے مال غنیمت جن پر تم قابو نہیں پا سکے تھے، اللہ نے ان کا احاطہ کر لیا ہے، اور اللہ ہر چیز پر قادر ہے۔",
     "persian_text": "و غنایم دیگری که بر آنها قدرت نیافتید، خداوند بر آنها احاطه دارد، و خداوند بر هر چیزی تواناست.",
     "transliteration": "Wa ukhraa lam taqdiroo 'alayhaa qad ahaata Allaahu bihaa, wa kaana Allaahu 'alaa kulli shay'in qadeeraa"
@@ -177,7 +177,7 @@ ayats = [
   {
     "verse_number": 22,
     "english_text": "And if these infidels have fought with you they would have turned their faces and run away, and then they would not have found any guardian and helper.",
-    "arabic_text": "وَلَوْ قَـٰتَلَكُمُ ٱلَّذِينَ كَفَرُواْ لَوَلَّوُاْ ٱلْاَدْبَـٰرَ ثُمَّ لَا يَجِدُونَ وَلِيًّۭا وَلَا نَصِيرًۭا",
+    "arabic_text": "وَلَوْ قَـٰتَلَكُمُ ٱلَّذِينَ كَفَرُواْ لَوَلَّوُاْ ٱلْاَدْبَـٰرَ ثُمَّ لَا يَجِدُونَ وَلِيًّۭا وَلَا نَصِيرًا",
     "urdu_text": "اور اگر کافر تم سے لڑتے تو وہ پیٹھ پھیر کر بھاگ جاتے، پھر انہیں کوئی حامی اور مددگار نہ ملتا۔",
     "persian_text": "و اگر کافران با شما می‌جنگیدند، پشت کرده فرار می‌کردند، سپس هیچ یاور و یاوری نمی‌یافتند.",
     "transliteration": "Wa law qaatalakumu alladheena kafaroo lawallaw ul-adbaara thumma laa yajidoona waliyyan wa laa naseeraa"

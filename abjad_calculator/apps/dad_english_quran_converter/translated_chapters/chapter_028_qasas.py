@@ -137,7 +137,7 @@ ayats = [
   {
     "verse_number": 17,
     "english_text": "Moosa said: O my Lord, You helped me, so I will never be among the guilty ones.",
-    "arabic_text": "قَالَ رَبِّ بِمَآ اَنْعَمْتَ عَلَىَّ فَلَنْ اَكُونَ ظَهِيرًۭا لِّلْمُجْرِمِينَ",
+    "arabic_text": "قَالَ رَبِّ بِمَآ اَنْعَمْتَ عَلَىَّ فَلَنْ اَكُونَ ظَهِيرًا لِّلْمُجْرِمِينَ",
     "urdu_text": "موسیٰ نے کہا اے میرے رب! تو نے مجھ پر احسان کیا ہے، پس میں کبھی مجرموں کا مددگار نہیں بنوں گا۔",
     "persian_text": "موسی گفت پروردگارا، به آنچه بر من نعمت دادی، هرگز یاور مجرمان نخواهم بود.",
     "transliteration": "Qaala rabbi bima an'amta 'alayya fa-lan akoona zaheeran lil-mujrimeen"
@@ -153,7 +153,7 @@ ayats = [
   {
     "verse_number": 19,
     "english_text": "When Moosa tried to attack him, who is the enemy of both, he said Moosa you want to kill me as you have killed an innocent yesterday, you want to be a transgressed ruler on the land, and you do not want that you should be counted among those who warn.",
-    "arabic_text": "فَلَمَّآ اَنْ اَرَادَ اَن يَبْطِشَ بِٱلَّذِى هُوَ عَدُوٌّۭ لَّهُمَا قَالَ يَـٰمُوسَىٰٓ اَتُرِيدُ اَن تَقْتُلَنِى كَمَا قَتَلْتَ نَفْسًۢا بِٱلْاَمْسِ ۖ إِن تُرِيدُ إِلَّآ اَن تَكُونَ جَبَّارًۭا فِى ٱلْاَرْضِ وَمَا تُرِيدُ اَن تَكُونَ مِنَ ٱلْمُصْلِحِينَ",
+    "arabic_text": "فَلَمَّآ اَنْ اَرَادَ اَن يَبْطِشَ بِٱلَّذِى هُوَ عَدُوٌّۭ لَّهُمَا قَالَ يَـٰمُوسَىٰٓ اَتُرِيدُ اَن تَقْتُلَنِى كَمَا قَتَلْتَ نَفْسًۢا بِٱلْاَمْسِ ۖ إِن تُرِيدُ إِلَّآ اَن تَكُونَ جَبَّارًا فِى ٱلْاَرْضِ وَمَا تُرِيدُ اَن تَكُونَ مِنَ ٱلْمُصْلِحِينَ",
     "urdu_text": "پھر جب موسیٰ نے اس پر حملہ کرنا چاہا جو ان دونوں کا دشمن تھا، تو اس نے کہا اے موسیٰ! کیا تم مجھے بھی قتل کرنا چاہتے ہو جیسے کل ایک شخص کو قتل کیا تھا، تم تو بس زمین میں ظالم بادشاہ بننا چاہتے ہو، اور تم اصلاح کرنے والوں میں سے نہیں بننا چاہتے۔",
     "persian_text": "پس چون خواست به کسی که دشمن هر دوی آنها بود حمله کند، گفت ای موسی، آیا می‌خواهی مرا بکشی همان‌طور که دیروز کسی را کشتی؟ تو فقط می‌خواهی در زمین جبار باشی و نمی‌خواهی از اصلاح‌کنندگان باشی.",
     "transliteration": "Fa-lamma an araada an yabtisha billadhi huwa 'aduwwun lahuma qaala ya Moosa a-tureedu an taqtulani kama qatalta nafsan bil-amsi in tureedu illa an takoona jabbaran fi al-ardi wa ma tureedu an takoona min al-musliheen"
@@ -217,7 +217,7 @@ ayats = [
   {
     "verse_number": 27,
     "english_text": "He said I desire to marry one of these my two daughters with you provided you serve me for eight years and if you will serve for ten years it will be from you, and I do not want to give any trouble to you; if Allah willing, you will find me among the good servants.",
-    "arabic_text": "قَالَ إِنِّىٓ أُرِيدُ اَنْ أُنكِحَكَ إِحْدَى ٱبْنَتَىَّ هَـٰتَيْنِ عَلَىٰٓ اَن تَأْجُرَنِى ثَمَـٰنِىَ حِجَجٍۢ ۖ فَإِنْ اَتْمَمْتَ عَشْرًۭا فَمِنْ عِندِكَ ۖ وَمَآ أُرِيدُ اَنْ اَشُقَّ عَلَيْكَ ۚ سَتَجِدُنِىٓ إِن شَآءَ ٱللَّهُ مِنَ ٱلصَّـٰلِحِينَ",
+    "arabic_text": "قَالَ إِنِّىٓ أُرِيدُ اَنْ أُنكِحَكَ إِحْدَى ٱبْنَتَىَّ هَـٰتَيْنِ عَلَىٰٓ اَن تَأْجُرَنِى ثَمَـٰنِىَ حِجَجٍۢ ۖ فَإِنْ اَتْمَمْتَ عَشْرًا فَمِنْ عِندِكَ ۖ وَمَآ أُرِيدُ اَنْ اَشُقَّ عَلَيْكَ ۚ سَتَجِدُنِىٓ إِن شَآءَ ٱللَّهُ مِنَ ٱلصَّـٰلِحِينَ",
     "urdu_text": "انہوں نے کہا: میں چاہتا ہوں کہ اپنی ان دو بیٹیوں میں سے ایک کا نکاح تم سے کر دوں، بشرطیکہ تم آٹھ سال میری خدمت کرو، اور اگر تم دس سال پورے کر دو تو یہ تمہاری مرضی ہے، اور میں تم پر کوئی سختی نہیں کرنا چاہتا، ان شاء اللہ تم مجھے نیک لوگوں میں سے پاؤ گے۔",
     "persian_text": "گفت: می‌خواهم یکی از این دو دخترم را به نکاح تو درآورم به شرط آنکه هشت سال برای من کار کنی، و اگر ده سال را تمام کنی از خود توست، و نمی‌خواهم بر تو سختی کنم، ان شاءالله مرا از صالحان خواهی یافت.",
     "transliteration": "Qaala innee ureedu anunkihaka ihdab natayya haatayni 'alaaa an ta'juranee samaaniya hijajin fa in atmamta 'ashran famin 'indika wa maaa ureedu an ashuqqa 'alayka satajidunee in shaaa'allaahu minas saaliheen"
@@ -233,7 +233,7 @@ ayats = [
   {
     "verse_number": 29,
     "english_text": "Then, when Moosa completed the period and took his family, he saw a fire from the direction of Mount Tur (Sinai), so he told his family: you stay here I have seen a fire, I may bring news or an ember from it that you may warm yourselves up.",
-    "arabic_text": "۞ فَلَمَّا قَضَىٰ مُوسَى ٱلْاَجَلَ وَسَارَ بِاَهْلِهِۦٓ ءَانَسَ مِن جَانِبِ ٱلطُّورِ نَارًۭا قَالَ لِاَهْلِهِ ٱمْكُثُوٓاْ إِنِّىٓ ءَانَسْتُ نَارًۭا لَّعَلِّىٓ ءَاتِيكُم مِّنْهَا بِخَبَرٍ اَوْ جَذْوَةٍۢ مِّنَ ٱلنَّارِ لَعَلَّكُمْ تَصْطَلُونَ",
+    "arabic_text": "۞ فَلَمَّا قَضَىٰ مُوسَى ٱلْاَجَلَ وَسَارَ بِاَهْلِهِۦٓ ءَانَسَ مِن جَانِبِ ٱلطُّورِ نَارًا قَالَ لِاَهْلِهِ ٱمْكُثُوٓاْ إِنِّىٓ ءَانَسْتُ نَارًا لَّعَلِّىٓ ءَاتِيكُم مِّنْهَا بِخَبَرٍ اَوْ جَذْوَةٍۢ مِّنَ ٱلنَّارِ لَعَلَّكُمْ تَصْطَلُونَ",
     "urdu_text": "پھر جب موسیٰ نے مدت پوری کر لی اور اپنے گھر والوں کو لے کر روانہ ہوئے تو انہوں نے طور پہاڑ کی جانب سے آگ دیکھی، انہوں نے اپنے گھر والوں سے کہا: تم ٹھہرو، میں نے آگ دیکھی ہے، شاید میں وہاں سے کوئی خبر لاؤں یا آگ کا کوئی انگارہ لاؤں تاکہ تم گرم ہو سکو۔",
     "persian_text": "پس چون موسی مدت را تمام کرد و با خانواده‌اش به راه افتاد، از جانب کوه طور آتشی دید، به خانواده‌اش گفت: اینجا بمانید، من آتشی دیدم، شاید خبری از آن برای شما بیاورم یا شعله‌ای از آتش تا گرم شوید.",
     "transliteration": "Falammaa qadaa moosal ajala wa saara bi ahlihee aanasa min jaanibit toori naaran qaala li ahlihim kuthooo innee aanastu naaran la'alleee aateekum minhaa bikhabarin aw jazwatim minan naari la'allakum tastaloon"
@@ -249,7 +249,7 @@ ayats = [
   {
     "verse_number": 31,
     "english_text": "And you keep down your staff on the ground, and Moosa sees it is moving like a snake, seeing this Moosa turned away and did not look back, then again came the sound: Moosa come ahead, do not fear, you are fully safe.",
-    "arabic_text": "وَاَنْ اَلْقِ عَصَاكَ ۖ فَلَمَّا رَءَاهَا تَهْتَزُّ كَاَنَّهَا جَآنٌّۭ وَلَّىٰ مُدْبِرًۭا وَلَمْ يُعَقِّبْ ۚ يَـٰمُوسَىٰٓ اَقْبِلْ وَلَا تَخَفْ ۖ إِنَّكَ مِنَ ٱلْـَٔامِنِينَ",
+    "arabic_text": "وَاَنْ اَلْقِ عَصَاكَ ۖ فَلَمَّا رَءَاهَا تَهْتَزُّ كَاَنَّهَا جَآنٌّۭ وَلَّىٰ مُدْبِرًا وَلَمْ يُعَقِّبْ ۚ يَـٰمُوسَىٰٓ اَقْبِلْ وَلَا تَخَفْ ۖ إِنَّكَ مِنَ ٱلْـَٔامِنِينَ",
     "urdu_text": "اور اپنی لاٹھی زمین پر ڈال دو، پھر جب موسیٰ نے دیکھا کہ وہ سانپ کی طرح حرکت کر رہی ہے تو پیچھے مڑ کر بھاگے اور پیچھے مڑ کر نہیں دیکھا، پھر آواز آئی: اے موسیٰ! آگے آؤ اور خوف نہ کرو، بے شک تم مکمل طور پر محفوظ ہو۔",
     "persian_text": "و عصای خود را بر زمین بینداز، پس چون موسی دید که آن مانند ماری حرکت می‌کند، پشت کرده فرار نمود و برنگشت، ندا آمد: ای موسی! پیش بیا و مترس، به یقین تو از ایمنان هستی.",
     "transliteration": "Wa an alqi 'asaka fa lamma ra'aha tahtazzu ka'annaha jannun walla mudbiran wa lam yu'aqqib ya Musa aqbil wa la takhaf innaka minal amineen"
@@ -289,7 +289,7 @@ ayats = [
   {
     "verse_number": 36,
     "english_text": "When Moosa came to them with Our manifest signs, they said it is just a fabricated magic, and we have not heard anything as such from our earlier elders.",
-    "arabic_text": "فَلَمَّا جَآءَهُم مُّوسَىٰ بِـَٔايَـٰتِنَا بَيِّنَـٰتٍۢ قَالُواْ مَا هَـٰذَآ إِلَّا سِحْرٌۭ مُّفْتَرًۭى وَمَا سَمِعْنَا بِهَـٰذَا فِىٓ ءَابَآئِنَا ٱلْاَوَّلِينَ",
+    "arabic_text": "فَلَمَّا جَآءَهُم مُّوسَىٰ بِـَٔايَـٰتِنَا بَيِّنَـٰتٍۢ قَالُواْ مَا هَـٰذَآ إِلَّا سِحْرٌۭ مُّفْتَرًى وَمَا سَمِعْنَا بِهَـٰذَا فِىٓ ءَابَآئِنَا ٱلْاَوَّلِينَ",
     "urdu_text": "پھر جب موسیٰ ان کے پاس ہماری واضح نشانیاں لے کر آئے تو انہوں نے کہا: یہ تو صرف گھڑا ہوا جادو ہے، اور ہم نے اپنے پہلے بزرگوں میں ایسی کوئی بات نہیں سنی۔",
     "persian_text": "پس چون موسی با آیات روشن ما نزد آنان آمد، گفتند: این جز سحری ساختگی نیست، و ما چنین چیزی را در میان پدران پیشین خود نشنیده‌ایم.",
     "transliteration": "Falamma ja'ahum Musa bi ayatina bayyinatin qalu ma hadha illa sihrun muftaran wa ma sami'na bi hadha fee aba'inal awwaleen"
@@ -689,7 +689,7 @@ ayats = [
   {
     "verse_number": 86,
     "english_text": "You were not hopeful that the book be revealed to you, this is Mercy of Allah, so beware, never side with the infidels.",
-    "arabic_text": "وَمَا كُنتَ تَرْجُوٓاْ اَن يُلْقَىٰٓ إِلَيْكَ ٱلْكِتَـٰبُ إِلَّا رَحْمَةًۭ مِّن رَّبِّكَ ۖ فَلَا تَكُونَنَّ ظَهِيرًۭا لِّلْكَـٰفِرِينَ",
+    "arabic_text": "وَمَا كُنتَ تَرْجُوٓاْ اَن يُلْقَىٰٓ إِلَيْكَ ٱلْكِتَـٰبُ إِلَّا رَحْمَةًۭ مِّن رَّبِّكَ ۖ فَلَا تَكُونَنَّ ظَهِيرًا لِّلْكَـٰفِرِينَ",
     "urdu_text": "اور تم امید نہیں رکھتے تھے کہ تم پر کتاب نازل کی جائے گی، یہ تو تمہارے رب کی رحمت ہے، پس خبردار، کافروں کا مددگار ہرگز نہ بننا۔",
     "persian_text": "و تو امید نداشتی که کتاب بر تو نازل شود، مگر رحمتی از پروردگارت، پس هرگز یاور کافران مباش.",
     "transliteration": "Wa ma kunta tarjoo an yulqa ilaykal-kitabu illa rahmatan min rabbik, fala takoonanna zaheeran lil-kafireen"

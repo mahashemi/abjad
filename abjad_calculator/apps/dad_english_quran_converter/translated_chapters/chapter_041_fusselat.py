@@ -33,7 +33,7 @@ ayats = [
   {
     "verse_number": 4,
     "english_text": "This Quran has been revealed as to give glad tidings and to warn the people, but the majority of people object to it and they are not ready to listen to anything.",
-    "arabic_text": "بَشِيرًۭا وَنَذِيرًۭا فَاَعْرَضَ اَكْثَرُهُمْ فَهُمْ لَا يَسْمَعُونَ",
+    "arabic_text": "بَشِيرًا وَنَذِيرًا فَاَعْرَضَ اَكْثَرُهُمْ فَهُمْ لَا يَسْمَعُونَ",
     "urdu_text": "خوشخبری دینے والا اور ڈرانے والا، لیکن ان میں سے اکثر نے منہ موڑ لیا، پس وہ سنتے ہی نہیں۔",
     "persian_text": "بشارت دهنده و هشدار دهنده، اما بیشتر آنها روی گردانیدند، پس آنها نمی‌شنوند.",
     "transliteration": "Basheeranw wa nazeeran fa-a'rada aksaruhum fahum laa yasma'oon"
@@ -129,7 +129,7 @@ ayats = [
   {
     "verse_number": 16,
     "english_text": "Then We sent strong winds on them on unlucky days, to taste them the disgraceful punishment in the world and punishment of the Hereafter is more disgraceful, and there they will not be helped also.",
-    "arabic_text": "فَاَرْسَلْنَا عَلَيْهِمْ رِيحًۭا صَرْصَرًۭا فِىٓ اَيَّامٍۢ نَّحِسَاتٍۢ لِّنُذِيقَهُمْ عَذَابَ ٱلْخِزْىِ فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا ۖ وَلَعَذَابُ ٱلْـَٔاخِرَةِ اَخْزَىٰ ۖ وَهُمْ لَا يُنصَرُونَ",
+    "arabic_text": "فَاَرْسَلْنَا عَلَيْهِمْ رِيحًۭا صَرْصَرًا فِىٓ اَيَّامٍۢ نَّحِسَاتٍۢ لِّنُذِيقَهُمْ عَذَابَ ٱلْخِزْىِ فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا ۖ وَلَعَذَابُ ٱلْـَٔاخِرَةِ اَخْزَىٰ ۖ وَهُمْ لَا يُنصَرُونَ",
     "urdu_text": "پھر ہم نے ان پر منحوس دنوں میں تیز آندھی بھیجی تاکہ انہیں دنیا میں رسوائی کا عذاب چکھائیں، اور آخرت کا عذاب تو اس سے بھی زیادہ رسوا کن ہے، اور وہاں ان کی مدد بھی نہیں کی جائے گی۔",
     "persian_text": "پس بر آنان بادی سخت در روزهای نحس فرستادیم تا عذاب خواری را در زندگی دنیا به آنان بچشانیم، و عذاب آخرت خوارکننده‌تر است و آنان یاری نخواهند شد.",
     "transliteration": "Fa-arsalnā 'alayhim rīḥan ṣarṣaran fī ayyāmin naḥisātin linudhīqahum 'adhāba al-khizyi fī al-ḥayāti ad-dunyā wa la-'adhābu al-ākhirati akhzā wa hum lā yunṣarūn"
@@ -177,7 +177,7 @@ ayats = [
   {
     "verse_number": 22,
     "english_text": "And you have not drawn any curtain that your ears, your eyes, your flesh, and skin does not testify against you, and you thought that they are not aware about many of your deeds.",
-    "arabic_text": "وَمَا كُنتُمْ تَسْتَتِرُونَ اَن يَشْهَدَ عَلَيْكُمْ سَمْعُكُمْ وَلَآ اَبْصَـٰرُكُمْ وَلَا جُلُودُكُمْ وَلَـٰكِن ظَنَنتُمْ اَنَّ ٱللَّهَ لَا يَعْلَمُ كَثِيرًۭا مِّمَّا تَعْمَلُونَ",
+    "arabic_text": "وَمَا كُنتُمْ تَسْتَتِرُونَ اَن يَشْهَدَ عَلَيْكُمْ سَمْعُكُمْ وَلَآ اَبْصَـٰرُكُمْ وَلَا جُلُودُكُمْ وَلَـٰكِن ظَنَنتُمْ اَنَّ ٱللَّهَ لَا يَعْلَمُ كَثِيرًا مِّمَّا تَعْمَلُونَ",
     "urdu_text": "اور تم نے کبھی یہ پردہ نہیں ڈالا کہ تمہارے کان، تمہاری آنکھیں اور تمہاری کھالیں تمہارے خلاف گواہی نہ دیں، بلکہ تم نے یہ گمان کیا کہ اللہ تمہارے بہت سے اعمال سے بے خبر ہے۔",
     "persian_text": "و شما هرگز پنهان نمی‌کردید که گوش‌ها و چشم‌ها و پوست‌هایتان علیه شما شهادت دهند، بلکه گمان می‌بردید که خداوند از بسیاری از کارهایتان آگاه نیست.",
     "transliteration": "Wa maa kuntum tastatiroona an yashhada 'alaykum sam'ukum wa laa absaarukum wa laa juloodukum wa laakin zanantum anna Allaaha laa ya'lamu katheeran mimmaa ta'maloon"

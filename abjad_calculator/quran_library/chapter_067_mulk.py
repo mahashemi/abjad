@@ -17,7 +17,7 @@ ayats = [
   {
     "verse_number": 2,
     "english_text": "He has created death and life so that He may try you that who is better among you with regards to the deed, and He is also Honorable and Forgiving.",
-    "arabic_text": "الَّذِى خَلَقَ الْمَوْتَ وَالْحَيَوٰةَ لِيَبْلُوَكُمْ اَيُّكُمْ اَحْسَنُ عَمَلًۭا ۚ وَهُوَ الْعَزِيزُ الْغَفُورُ",
+    "arabic_text": "الَّذِى خَلَقَ الْمَوْتَ وَالْحَيَوٰةَ لِيَبْلُوَكُمْ اَيُّكُمْ اَحْسَنُ عَمَلًا ۚ وَهُوَ الْعَزِيزُ الْغَفُورُ",
     "urdu_text": "جس نے موت اور زندگی کو پیدا کیا تاکه تمهیں آزمائے که تم میں سے کون عمل میں بهتر هے، اور وه غالب اور بخشنے والا هے۔",
     "persian_text": "همان کسی که مرگ و زندگی را آفرید تا شما را بیازماید که کدام یک از شما نیکوکارتر است، و او عزیز و آمرزنده است.",
     "transliteration": "Alladhī khalaqal-mawta wal-ḥayāta liyabluwakum ayyukum aḥsanu 'amalā, wa huwal-'azīzul-ghafūr"
@@ -41,7 +41,7 @@ ayats = [
   {
     "verse_number": 5,
     "english_text": "And We have beautified the world's sky with the lamps, and made them the source for stoning the satans, and have also prepared punishment of Hell separately for them.",
-    "arabic_text": "وَ لَقَدْ زَيَّنَّا السَّمَآءَ الدُّنْيَا بِمَصَـٰبِيحَ وَجَعَلْنَـٰهَا رُجُومًۭا لِّلشَّيَـٰطِينِ ۖ وَاَعْتَدْنَا لَهُمْ عَذَابَ السَّعِيرِ",
+    "arabic_text": "وَ لَقَدْ زَيَّنَّا السَّمَآءَ الدُّنْيَا بِمَصَـٰبِيحَ وَجَعَلْنَـٰهَا رُجُومًا لِّلشَّيَـٰطِينِ ۖ وَاَعْتَدْنَا لَهُمْ عَذَابَ السَّعِيرِ",
     "urdu_text": "اور هم نے دنیا کے آسمان کو چراغوں سے سجایا اور انهیں شیطانوں کو مارنے کا ذریعه بنایا، اور ان کے لیے دوزخ کا عذاب تیار کر رکھا هے۔",
     "persian_text": "و آسمان دنیا را با چراغ‌هایی زینت دادیم و آنها را وسیله‌ای برای سنگسار شیاطین قرار دادیم و برای آنان عذاب آتش فروزان آماده کردیم.",
     "transliteration": "Wa laqad zayyanas-samā'ad-dunyā bimaṣābīḥa wa ja'alnāhā rujūmal-lish-shayāṭīn, wa a'tadnā lahum 'adhābas-sa'īr"
@@ -73,7 +73,7 @@ ayats = [
   {
     "verse_number": 9,
     "english_text": "So they will say, he did come to us, but we denied him and said: Allah never sent down anything; you people are yourselves in great misguidance.",
-    "arabic_text": "قَالُواْ بَلَىٰ قَدْ جَآءَنَا نَذِيرٌۭ فَكَذَّبْنَا وَقُلْنَا مَا نَزَّلَ اللَّهُ مِن شَىْءٍ اِنْ اَنتُمْ اِلَّا فِى ضَلَـٰلٍۢ كَبِيرٍۢ",
+    "arabic_text": "قَالُوْاْ بَلَىٰ قَدْ جَآءَنَا نَذِيرٌۭ فَكَذَّبْنَا وَقُلْنَا مَا نَزَّلَ اللّٰهُ مِن شَىْءٍ اِنْ اَنتُمْ اِلَّا فِى ضَلَـٰلٍۢ كَبِيرٍۢ",
     "urdu_text": "وه کهیں گے: هاں، همارے پاس ڈرانے والا آیا تھا لیکن هم نے اسے جھٹلایا اور کها: الله نے کچھ نهیں اتارا، تم لوگ خود بڑی گمراهی میں هو۔",
     "persian_text": "گویند: آری، هشداردهنده به سوی ما آمد ولی ما تکذیب کردیم و گفتیم: خدا چیزی نازل نکرده، شما جز در گمراهی بزرگی نیستید.",
     "transliteration": "Qālū balā qad jā'anā nadhīrun fakadhdhabnā wa qulnā mā nazzalal-lāhu min shay'in in antum illā fī ḍalālin kabīr"
@@ -81,7 +81,7 @@ ayats = [
   {
     "verse_number": 10,
     "english_text": "And then they will say: if we would have heard and understood, today we would not have been among the Hellish people.",
-    "arabic_text": "وَ قَالُواْ لَوْ كُنَّا نَسْمَعُ اَوْ نَعْقِلُ مَا كُنَّا فِىٓ اَصْحَـٰبِ السَّعِيرِ",
+    "arabic_text": "وَ قَالُوْاْ لَوْ كُنَّا نَسْمَعُ اَوْ نَعْقِلُ مَا كُنَّا فِىٓ اَصْحَـٰبِ السَّعِيرِ",
     "urdu_text": "اور وه کهیں گے: اگر هم سنتے یا سمجھتے تو آج هم دوزخیوں میں نه هوتے۔",
     "persian_text": "و گویند: اگر می‌شنیدیم یا تعقل می‌کردیم در میان اهل دوزخ نبودیم.",
     "transliteration": "Wa qālū law kunnā nasma'u aw na'qilu mā kunnā fī aṣḥābis-sa'īr"
@@ -121,7 +121,7 @@ ayats = [
   {
     "verse_number": 15,
     "english_text": "It is He who made the earth soft for you, that you walk on its sides and search for the sustenance of Allah; then rising from the graves have to return towards Him.",
-    "arabic_text": "هُوَ الَّذِى جَعَلَ لَكُمُ الْاَرْضَ ذَلُولًۭا فَامْشُواْ فِى مَنَاكِبِهَا وَكُلُواْ مِن رِّزْقِهِ ۖ وَاِلَيْهِ النُّشُورُ",
+    "arabic_text": "هُوَ الَّذِى جَعَلَ لَكُمُ الْاَرْضَ ذَلُولًا فَامْشُواْ فِى مَنَاكِبِهَا وَكُلُواْ مِن رِّزْقِهِ ۖ وَ اِلَيْهِ النُّشُورُ",
     "urdu_text": "وهی هے جس نے تمهارے لیے زمین کو نرم بنایا، پس اس کے کناروں میں چلو اور اس کے رزق میں سے کھاؤ، اور اسی کی طرف (قبروں سے) اٹھ کر جانا هے۔",
     "persian_text": "اوست که زمین را برای شما رام ساخت، پس در کناره‌های آن راه بروید و از روزی او بخورید، و بازگشت به سوی اوست.",
     "transliteration": "Huwal-ladhee ja'ala lakumul-arda dhaloolan famshoo fee manaakibihaa wa kuloo mir-rizqih, wa ilayin-nushoor"
@@ -137,7 +137,7 @@ ayats = [
   {
     "verse_number": 17,
     "english_text": "Or do you feel secure from it that He will not send shower of stones on you; then you will very shortly know how is My warning.",
-    "arabic_text": "اَمْ اَمِنتُم مَّن فِى السَّمَآءِ اَن يُرْسِلَ عَلَيْكُمْ حَاصِبًۭا ۖ فَسَتَعْلَمُونَ كَيْفَ نَذِيرِ",
+    "arabic_text": "اَمْ اَمِنتُم مَّن فِى السَّمَآءِ اَن يُرْسِلَ عَلَيْكُمْ حَاصِبًا ۖ فَسَتَعْلَمُونَ كَيْفَ نَذِيرِ",
     "urdu_text": "یا تم اس سے بے خوف هو که وه تم پر پتھروں کی بارش نهیں بھیجے گا؟ پھر تم عنقریب جان لو گے که میری تنبیه کیسی هے۔",
     "persian_text": "یا از آن کسی که در آسمان است ایمن شده‌اید که بر شما سنگبارانی فرستد؟ پس به زودی خواهید دانست که هشدار من چگونه است.",
     "transliteration": "Am amintum man fis-samaaa'i an yursila 'alaykum haasibaa, fasata'lamoona kayfa nadheer"
@@ -185,7 +185,7 @@ ayats = [
   {
     "verse_number": 23,
     "english_text": "Say: \"It is Allah Who has created you and He has given you ears, eyes and heart, but you are very less grateful\".",
-    "arabic_text": "قُلْ هُوَ الَّذِىٓ اَنشَاَكُمْ وَجَعَلَ لَكُمُ السَّمْعَ وَالْاَبْصَـٰرَ وَالْاَفْـِٔدَةَ ۖ قَلِيلًۭا مَّا تَشْكُرُونَ",
+    "arabic_text": "قُلْ هُوَ الَّذِىٓ اَنشَاَكُمْ وَجَعَلَ لَكُمُ السَّمْعَ وَالْاَبْصَـٰرَ وَالْاَفْـِٔدَةَ ۖ قَلِيلًا مَّا تَشْكُرُونَ",
     "urdu_text": "کهه دو: وهی الله هے جس نے تمهیں پیدا کیا اور تمهارے لیے کان، آنکھیں اور دل بنائے، مگر تم بهت کم شکر ادا کرتے هو۔",
     "persian_text": "بگو: او خداوندی است که شما را آفرید و برای شما گوش‌ها و چشم‌ها و دل‌ها قرار داد، اما شما بسیار کم سپاسگزاری می‌کنید.",
     "transliteration": "Qul huwal-ladhee ansha'akum wa ja'ala lakumus-sam'a wal-absaara wal-af'idah, qaleelan maa tashkuroon"
@@ -193,7 +193,7 @@ ayats = [
   {
     "verse_number": 24,
     "english_text": "Say: \"That He is the one who has spread you in the earth, and you will be gathered and taken towards Him\".",
-    "arabic_text": "قُلْ هُوَ الَّذِى ذَرَاَكُمْ فِى الْاَرْضِ وَاِلَيْهِ تُحْشَرُونَ",
+    "arabic_text": "قُلْ هُوَ الَّذِى ذَرَاَكُمْ فِى الْاَرْضِ وَ اِلَيْهِ تُحْشَرُونَ",
     "urdu_text": "کهه دو: وهی هے جس نے تمهیں زمین میں پھیلایا اور اسی کی طرف تم جمع کیے جاؤ گے۔",
     "persian_text": "بگو: او کسی است که شما را در زمین پراکنده ساخت و به سوی او محشور خواهید شد.",
     "transliteration": "Qul huwal-ladhee dhara'akum fil-ardi wa ilayhi tuhsharoon"
@@ -209,7 +209,7 @@ ayats = [
   {
     "verse_number": 26,
     "english_text": "Say: \"Knowledge is with Allah and I am only a clear warner.\"",
-    "arabic_text": "قُلْ اِنَّمَا الْعِلْمُ عِندَ اللَّهِ وَاِنَّمَآ اَنَا۠ نَذِيرٌۭ مُّبِينٌۭ",
+    "arabic_text": "قُلْ اِنَّمَا الْعِلْمُ عِندَ اللّٰهِ وَاِنَّمَآ اَنَا۠ نَذِيرٌۭ مُّبِينٌ",
     "urdu_text": "کهه دو: علم تو صرف الله کے پاس هے اور میں تو صرف کھلا ڈر سنانے والا هوں۔",
     "persian_text": "بگو: علم تنها نزد خداست و من فقط هشداردهنده‌ای آشکارم.",
     "transliteration": "Qul innamal-'ilmu 'indal-laahi wa innamaaa ana nadheerum mubeen"
@@ -225,7 +225,7 @@ ayats = [
   {
     "verse_number": 28,
     "english_text": "Say: Do you think Allah will destroy me and my companions or have Mercy on us; then who is there to protect these infidels from the painful punishment.",
-    "arabic_text": "قُلْ اَرَءَيْتُمْ اِنْ اَهْلَكَنِىَ اللَّهُ وَمَن مَّعِىَ اَوْ رَحِمَنَا فَمَن يُجِيرُ الْكَـٰفِرِينَ مِنْ عَذَابٍ اَلِيمٍۢ",
+    "arabic_text": "قُلْ اَرَءَيْتُمْ اِنْ اَهْلَكَنِىَ اللّٰهُ وَمَن مَّعِىَ اَوْ رَحِمَنَا فَمَن يُجِيرُ الْكَـٰفِرِينَ مِنْ عَذَابٍ اَلِيمٍۢ",
     "urdu_text": "کهه دو: بھلا بتاؤ اگر الله مجھے اور میرے ساتھیوں کو هلاک کر دے یا هم پر رحم فرمائے، تو کون هے جو کافروں کو دردناک عذاب سے بچا سکے؟",
     "persian_text": "بگو: به من بگویید اگر خداوند مرا و کسانی را که با من هستند هلاک کند یا بر ما رحم کند، پس چه کسی کافران را از عذاب دردناک نجات خواهد داد؟",
     "transliteration": "Qul ara'aytum in ahlakaniyallaahu wa man ma'iya aw rahimanaa faman yujeerul-kaafireena min 'adhaabin aleem"
@@ -241,7 +241,7 @@ ayats = [
   {
     "verse_number": 30,
     "english_text": "Say: what you think if all your water is absorbed underground then who will bring flowing water in rivers for you.",
-    "arabic_text": "قُلْ اَرَءَيْتُمْ اِنْ اَصْبَحَ مَآؤُكُمْ غَوْرًۭا فَمَن يَاْتِيكُم بِمَآءٍۢ مَّعِينٍۭ",
+    "arabic_text": "قُلْ اَرَءَيْتُمْ اِنْ اَصْبَحَ مَآؤُكُمْ غَوْرًا فَمَن يَاْتِيكُم بِمَآءٍۢ مَّعِينٍۭ",
     "urdu_text": "کهه دو: بھلا بتاؤ اگر تمهارا پانی زمین میں اتر جائے تو کون تمهارے لیے بهتا هوا پانی لائے گا؟",
     "persian_text": "بگو: به من بگویید اگر آب شما در زمین فرو رود، پس چه کسی برای شما آب جاری خواهد آورد؟",
     "transliteration": "Qul ara'aytum in asbaha maaa'ukum ghawran faman ya'teekum bimaa'im ma'een"

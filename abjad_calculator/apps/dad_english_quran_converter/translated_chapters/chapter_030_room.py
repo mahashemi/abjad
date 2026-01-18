@@ -57,7 +57,7 @@ ayats = [
   {
     "verse_number": 7,
     "english_text": "These people know the obvious of this world, and they are totally oblivious from the Hereafter.",
-    "arabic_text": "يَعْلَمُونَ ظَـٰهِرًۭا مِّنَ ٱلْحَيَوٰةِ ٱلدُّنْيَا وَهُمْ عَنِ ٱلْـَٔاخِرَةِ هُمْ غَـٰفِلُونَ",
+    "arabic_text": "يَعْلَمُونَ ظَـٰهِرًا مِّنَ ٱلْحَيَوٰةِ ٱلدُّنْيَا وَهُمْ عَنِ ٱلْـَٔاخِرَةِ هُمْ غَـٰفِلُونَ",
     "urdu_text": "یه لوگ دنیا کی زندگی کے ظاهری پهلو کو جانتے هیں، اور وه آخرت سے بالکل غافل هیں",
     "persian_text": "آنان ظاهری زندگی دنیا را می‌دانند، و از آخرت غافل‌اند",
     "transliteration": "Ya'lamoona zahiram minal-hayatid-dunya wa hum 'anil-akhirati hum ghafiloon"
@@ -65,7 +65,7 @@ ayats = [
   {
     "verse_number": 8,
     "english_text": "Did not they reflect within themselves, that Allah has created with truth whatever is in the skies and on earth and in between them; and with an appointed term, but most of them are deniers of the meeting with their Lord.",
-    "arabic_text": "اَوَلَمْ يَتَفَكَّرُواْ فِىٓ اَنفُسِهِم ۗ مَّا خَلَقَ ٱللَّهُ ٱلسَّمَـٰوَٰتِ وَٱلْاَرْضَ وَمَا بَيْنَهُمَآ إِلَّا بِٱلْحَقِّ وَاَجَلٍۢ مُّسَمًّۭى ۗ وَإِنَّ كَثِيرًۭا مِّنَ ٱلنَّاسِ بِلِقَآئِ رَبِّهِمْ لَكَـٰفِرُونَ",
+    "arabic_text": "اَوَلَمْ يَتَفَكَّرُواْ فِىٓ اَنفُسِهِم ۗ مَّا خَلَقَ ٱللَّهُ ٱلسَّمَـٰوَٰتِ وَٱلْاَرْضَ وَمَا بَيْنَهُمَآ إِلَّا بِٱلْحَقِّ وَاَجَلٍۢ مُّسَمًّۭى ۗ وَإِنَّ كَثِيرًا مِّنَ ٱلنَّاسِ بِلِقَآئِ رَبِّهِمْ لَكَـٰفِرُونَ",
     "urdu_text": "کیا انهوں نے اپنے دلوں میں غور نهیں کیا که الله نے آسمانوں اور زمین کو اور جو کچھ ان کے درمیان هے حق کے ساتھ اور ایک مقرره مدت کے لیے پیدا کیا هے، اور بیشک بهت سے لوگ اپنے رب سے ملاقات کے منکر هیں",
     "persian_text": "آیا در خود نیندیشیدند که خدا آسمان‌ها و زمین و آنچه میان آنهاست را جز به حق و برای مدتی معین نیافریده است، و بسیاری از مردم به دیدار پروردگارشان کافرند",
     "transliteration": "Awalam yatafakkaru fee anfusihim, ma khalaqal-lahus-samawati wal-arda wa ma baynahuma illa bil-haqqi wa ajalim-musamma, wa inna kathiram minan-nasi biliqa'i Rabbihim lakaafiroon"

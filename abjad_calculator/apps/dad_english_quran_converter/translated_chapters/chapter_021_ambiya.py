@@ -385,7 +385,7 @@ ayats = [
   {
     "verse_number": 48,
     "english_text": "And Verily, We gave Moosa and Haroon the book (Taurait) so that they can differentiate (between truth and falsehood); and We bestowed upon pious people, advice and total light.",
-    "arabic_text": "وَلَقَدْ ءَاتَيْنَا مُوسَىٰ وَهَـٰرُونَ ٱلْفُرْقَانَ وَضِيَآءًۭ وَذِكْرًۭا لِّلْمُتَّقِينَ",
+    "arabic_text": "وَلَقَدْ ءَاتَيْنَا مُوسَىٰ وَهَـٰرُونَ ٱلْفُرْقَانَ وَضِيَآءًۭ وَذِكْرًا لِّلْمُتَّقِينَ",
     "urdu_text": "اور بیشک ہم نے موسیٰ اور ہارون کو فرقان اور روشنی اور نصیحت عطا کی پرہیزگاروں کے لیے۔",
     "persian_text": "و به راستی که به موسی و هارون فرقان و نور و یادآوری دادیم برای پرهیزگاران.",
     "transliteration": "Wa laqad atayna Musa wa Harunal furqana wa diya'an wa zikran lilmuttaqin"
@@ -465,7 +465,7 @@ ayats = [
   {
     "verse_number": 58,
     "english_text": "Ibrahim broke all idols into pieces except the big one, so that when they come back from festival, they should go to him.",
-    "arabic_text": "فَجَعَلَهُمْ جُذَٰذًا إِلَّا كَبِيرًۭا لَّهُمْ لَعَلَّهُمْ إِلَيْهِ يَرْجِعُونَ",
+    "arabic_text": "فَجَعَلَهُمْ جُذَٰذًا إِلَّا كَبِيرًا لَّهُمْ لَعَلَّهُمْ إِلَيْهِ يَرْجِعُونَ",
     "urdu_text": "پھر اس نے ان سب کو ٹکڑے ٹکڑے کر دیا سوائے ان کے بڑے بت کے، تاکہ شاید وہ اس کی طرف رجوع کریں۔",
     "persian_text": "پس همه آنها را خرد و پاره پاره کرد، مگر بزرگ آنها را، شاید که به سوی او بازگردند.",
     "transliteration": "Fa-ja'alahum judhādhan illā kabīral-lahum la'allahum ilayhi yarji'ūn"

@@ -66,7 +66,7 @@ ayats = [
   {
     "verse_number": 9,
     "english_text": "And establish the weight with justice and do not weigh less while weighing.",
-    "arabic_text": "وَاَقِيمُوا الْوَزْنَ بِالْقِسْطِ وَلَا تُخْسِرُوا الْمِيزَانَ",
+    "arabic_text": "وَاَقِيمُوا الْوَزْنَ بِالْقِسْطِ وَ لَا تُخْسِرُوا الْمِيزَانَ",
     "urdu_text": "اور انصاف کے ساتھ وزن کو قائم رکھو اور تولتے وقت کم نہ تولو",
     "persian_text": "و وزن را با عدالت برپا دارید و در ترازو کم نگذارید",
     "transliteration": "Wa aqimul-wazna bil-qisti wa la tukhsirul-mizan",
@@ -298,7 +298,7 @@ ayats = [
   {
     "verse_number": 39,
     "english_text": "Then on that day no Jinn and Man will be questioned about his sin.",
-    "arabic_text": "فَيَوْمَئِذٍۢ لَّا يُسْـَٔلُ عَن ذَنبِهِٓ اِنسٌۭ وَلَا جَآنٌّۭ",
+    "arabic_text": "فَيَوْمَئِذٍۢ لَّا يُسْـَٔلُ عَن ذَنبِهِٓ اِنسٌۭ وَ لَا جَآنٌّۭ",
     "urdu_text": "پھر اس دن نہ کسی انسان سے اس کے گناہ کے بارے میں پوچھا جائے گا اور نہ کسی جن سے",
     "persian_text": "پس در آن روز نه از انسان و نه از جن درباره گناهش پرسیده نخواهد شد",
     "transliteration": "Fayawma-ithin la yus-alu an thanbihi insun wala jann",
@@ -434,7 +434,7 @@ ayats = [
   {
     "verse_number": 56,
     "english_text": "In those Paradises there will be Hoories, limiting their glances; whom neither man nor jinn would have touched them before.",
-    "arabic_text": "فِيهِنَّ قَـٰصِرَٰتُ الطَّرْفِ لَمْ يَطْمِثْهُنَّ اِنسٌۭ قَبْلَهُمْ وَلَا جَآنٌّۭ",
+    "arabic_text": "فِيهِنَّ قَـٰصِرَٰتُ الطَّرْفِ لَمْ يَطْمِثْهُنَّ اِنسٌۭ قَبْلَهُمْ وَ لَا جَآنٌّۭ",
     "urdu_text": "ان جنتوں میں نیچی نگاہ والی حوریں ہوں گی جن کو ان سے پہلے نہ کسی انسان نے چھوا ہو گا اور نہ کسی جن نے",
     "persian_text": "در آن بهشت‌ها حوریانی هستند که نگاه‌شان فروتن است و پیش از آنان نه انسی و نه جنی به آنها دست نزده است",
     "transliteration": "Feehinna qasiratu at-tarfi lam yatmithhunna insun qablahum wa la jann",
@@ -530,7 +530,7 @@ ayats = [
   {
     "verse_number": 68,
     "english_text": "In both the gardens will be fruits, date-palms and pomegranates.",
-    "arabic_text": "فِيهِمَا فَـٰكِهَةٌۭ وَنَخْلٌۭ وَرُمَّانٌۭ",
+    "arabic_text": "فِيهِمَا فَـٰكِهَةٌۭ وَنَخْلٌۭ وَرُمَّانٌ",
     "urdu_text": "ان دونوں میں میوے اور کھجوریں اور انار ہوں گے",
     "persian_text": "در آن دو باغ میوه‌ها و درختان خرما و انار خواهد بود",
     "transliteration": "Feehimaa faakihatunw wa nakhlunw wa rummaan",
@@ -546,7 +546,7 @@ ayats = [
   {
     "verse_number": 70,
     "english_text": "In these Paradises there will be pure and beautiful women.",
-    "arabic_text": "فِيهِنَّ خَيْرَٰتٌ حِسَانٌۭ",
+    "arabic_text": "فِيهِنَّ خَيْرَٰتٌ حِسَانٌ",
     "urdu_text": "ان باغوں میں نیک اور خوبصورت عورتیں ہوں گی",
     "persian_text": "در آن باغ‌ها زنان پاکیزه و زیبا خواهند بود",
     "transliteration": "Feehinna khayraatun hisaan",
@@ -578,7 +578,7 @@ ayats = [
   {
     "verse_number": 74,
     "english_text": "Whom no man or jinn would have touched them before.",
-    "arabic_text": "لَمْ يَطْمِثْهُنَّ اِنسٌۭ قَبْلَهُمْ وَلَا جَآنٌّۭ",
+    "arabic_text": "لَمْ يَطْمِثْهُنَّ اِنسٌۭ قَبْلَهُمْ وَ لَا جَآنٌّۭ",
     "urdu_text": "جن کو ان سے پہلے نہ کسی انسان نے چھوا ہو اور نہ کسی جن نے",
     "persian_text": "که پیش از ایشان نه انسی و نه جنی آنان را لمس نکرده است",
     "transliteration": "Lam yatmithhunna insun qablahum wala jann",

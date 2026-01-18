@@ -193,7 +193,7 @@ ayats = [
   {
     "verse_number": 24,
     "english_text": "Dawood said: he has been unjust to you by demanding your ewe; and there are many partners who are unjust to each other, except those who are believers and do good deeds, and such people are few; Dawood thought that Allah had tested him, so he repented from Allah and fell in prostration, and turn his attention totally towards Us.",
-    "arabic_text": "قَالَ لَقَدْ ظَلَمَكَ بِسُؤَالِ نَعْجَتِكَ إِلَىٰ نِعَاجِهِۦ ۖ وَإِنَّ كَثِيرًۭا مِّنَ ٱلْخُلَطَآءِ لَيَبْغِى بَعْضُهُمْ عَلَىٰ بَعْضٍ إِلَّا ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّـٰلِحَـٰتِ وَقَلِيلٌۭ مَّا هُمْ ۗ وَظَنَّ دَاوُۥدُ اَنَّمَا فَتَنَّـٰهُ فَٱسْتَغْفَرَ رَبَّهُۥ وَخَرَّ رَاكِعًۭا وَاَنَابَ ۩",
+    "arabic_text": "قَالَ لَقَدْ ظَلَمَكَ بِسُؤَالِ نَعْجَتِكَ إِلَىٰ نِعَاجِهِۦ ۖ وَإِنَّ كَثِيرًا مِّنَ ٱلْخُلَطَآءِ لَيَبْغِى بَعْضُهُمْ عَلَىٰ بَعْضٍ إِلَّا ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّـٰلِحَـٰتِ وَقَلِيلٌۭ مَّا هُمْ ۗ وَظَنَّ دَاوُۥدُ اَنَّمَا فَتَنَّـٰهُ فَٱسْتَغْفَرَ رَبَّهُۥ وَخَرَّ رَاكِعًۭا وَاَنَابَ ۩",
     "urdu_text": "داؤد نے کہا: اس نے تیری بکری کو اپنی بکریوں میں ملانے کا مطالبہ کر کے تجھ پر ظلم کیا ہے، اور بہت سے شریک ایک دوسرے پر زیادتی کرتے ہیں سوائے ان لوگوں کے جو ایمان لائے اور نیک عمل کیے، اور ایسے لوگ بہت کم ہیں۔ اور داؤد سمجھ گئے کہ ہم نے انہیں آزمایا ہے، تو انہوں نے اپنے رب سے بخشش مانگی اور سجدے میں گر پڑے اور ہماری طرف رجوع کیا۔",
     "persian_text": "داوود گفت: او با درخواست میش تو برای افزودن به میش‌های خود، به تو ستم کرده است. و بسیاری از شرکا به یکدیگر ستم می‌کنند، مگر کسانی که ایمان آورده و کارهای شایسته انجام داده‌اند و آنان اندکند. و داوود دانست که ما او را آزموده‌ایم، پس از پروردگارش آمرزش خواست و به سجده افتاد و به سوی ما بازگشت.",
     "transliteration": "Qaala laqad zalamaka bisu'aali na'jatika ilaa ni'aajihi wa inna katheeranm minal khulataaa'i layabghee ba'duhum 'alaa ba'din illal lazeena aamanoo wa 'amilus saalihaati wa qaleelunm maa hum wa zanna Daawoodu annamaa fatannaahu fastagfhfara rabbahu wa kharra raaki'anw wa anaab"
@@ -353,7 +353,7 @@ ayats = [
   {
     "verse_number": 44,
     "english_text": "And, O Ayub, take little grass and strike it, and do not do contrary to the oath; We found Ayub full of patience and best of the servants, who turns to Us.",
-    "arabic_text": "وَخُذْ بِيَدِكَ ضِغْثًۭا فَٱضْرِب بِّهِۦ وَلَا تَحْنَثْ ۗ إِنَّا وَجَدْنَـٰهُ صَابِرًۭا ۚ نِّعْمَ ٱلْعَبْدُ ۖ إِنَّهُۥٓ اَوَّابٌۭ",
+    "arabic_text": "وَخُذْ بِيَدِكَ ضِغْثًۭا فَٱضْرِب بِّهِۦ وَلَا تَحْنَثْ ۗ إِنَّا وَجَدْنَـٰهُ صَابِرًا ۚ نِّعْمَ ٱلْعَبْدُ ۖ إِنَّهُۥٓ اَوَّابٌۭ",
     "urdu_text": "اور اے ایوب! اپنے ہاتھ میں گھاس کا ایک گٹھا لو اور اس سے مارو اور قسم نہ توڑو۔ بیشک ہم نے انہیں صابر پایا، کیا ہی اچھے بندے تھے، بے شک وہ بہت رجوع کرنے والے تھے۔",
     "persian_text": "و ای ایوب! دسته‌ای از گیاه در دست بگیر و با آن بزن و سوگند خود را نشکن. ما او را صابر یافتیم، چه بنده نیکویی بود، همانا او بسیار توبه‌کار بود.",
     "transliteration": "Wa khudh bi-yadika dighthan fadrib bihī wa lā tahnath innā wajadnāhu sābiran ni'ma al-'abdu innahū awwāb"
@@ -569,7 +569,7 @@ ayats = [
   {
     "verse_number": 71,
     "english_text": "Remind them that when your Lord said to the angels: I am going to create a mortal from the wet clay.",
-    "arabic_text": "إِذْ قَالَ رَبُّكَ لِلْمَلَـٰٓئِكَةِ إِنِّى خَـٰلِقٌۢ بَشَرًۭا مِّن طِينٍۢ",
+    "arabic_text": "إِذْ قَالَ رَبُّكَ لِلْمَلَـٰٓئِكَةِ إِنِّى خَـٰلِقٌۢ بَشَرًا مِّن طِينٍۢ",
     "urdu_text": "جب تمہارے رب نے فرشتوں سے فرمایا: میں مٹی سے ایک انسان پیدا کرنے والا ہوں۔",
     "persian_text": "آنگاه که پروردگارت به فرشتگان گفت: من بشری از گل خواهم آفرید.",
     "transliteration": "Idh qaala Rabbuka lil-mala'ikati innee khaliqum basharam min teen"

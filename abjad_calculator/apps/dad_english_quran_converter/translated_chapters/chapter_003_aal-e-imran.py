@@ -313,7 +313,7 @@ ayats = [
   {
     "verse_number": 39,
     "english_text": "Then angels called to him while Zakaria was praying in the room and told him that Allah is giving glad tiding to you of Yahya who will witness the Words of Allah, will be chief, pious and a messenger among the righteous ones.",
-    "arabic_text": "فَنَادَتْهُ الْمَلٰٓئِكَةُ وَ هُوَ قَاٰئِمٌ يُصَلِّىْ فِىْ الْمِحْرَابِ اَنَّ اللّٰهَ يُبَشِّرُكَ بِيَحْيٰى مُصَدِّقًا بِكَلِمَةٍ مِّنَ اللّٰهِ وَ سَيِّدًا وَّ حَصُورًۭا وَ نَبِيًّا مِّنَ الصّٰلِحِينَ",
+    "arabic_text": "فَنَادَتْهُ الْمَلٰٓئِكَةُ وَ هُوَ قَاٰئِمٌ يُصَلِّىْ فِىْ الْمِحْرَابِ اَنَّ اللّٰهَ يُبَشِّرُكَ بِيَحْيٰى مُصَدِّقًا بِكَلِمَةٍ مِّنَ اللّٰهِ وَ سَيِّدًا وَّ حَصُورًا وَ نَبِيًّا مِّنَ الصّٰلِحِينَ",
     "urdu_text": "پھر فرشتوں نے اسے پکارا جبکہ وہ عبادت گاہ میں کھڑا نماز پڑھ رہا تھا کہ اللہ تمہیں یحییٰ کی خوشخبری دیتا ہے جو اللہ کے کلمے کی تصدیق کرنے والا سردار پرہیزگار اور نیک لوگوں میں سے نبی ہوگا",
     "persian_text": "پس فرشتگان او را ندا دادند در حالی که ایستاده در محراب نماز می‌گزارد که خداوند تو را به یحیی بشارت می‌دهد که تصدیق کننده کلمه‌ای از خداست و سرور و پارسا و پیامبری از شایستگان",
     "transliteration": "Fanadathu al-mala'ikatu wa huwa qa'imun yusalli fi al-mihrab anna Allaha yubashshiruka bi-Yahya musaddiqan bi-kalimatin mina Allahi wa sayyidan wa hasuran wa nabiyyan mina as-salihin"

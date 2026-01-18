@@ -81,7 +81,7 @@ ayats = [
   {
     "verse_number": 10,
     "english_text": "That when he saw the fire from afar, and said to his family (you wait here) I have seen the strange fire; let me go and bring a flame of it to you; or may find some way there.",
-    "arabic_text": "إِذْ رَءَا نَارًۭا فَقَالَ لِاَهْلِهِ ٱمْكُثُوٓاْ إِنِّىٓ ءَانَسْتُ نَارًۭا لَّعَلِّىٓ ءَاتِيكُم مِّنْهَا بِقَبَسٍ اَوْ اَجِدُ عَلَى ٱلنَّارِ هُدًۭى",
+    "arabic_text": "إِذْ رَءَا نَارًا فَقَالَ لِاَهْلِهِ ٱمْكُثُوٓاْ إِنِّىٓ ءَانَسْتُ نَارًا لَّعَلِّىٓ ءَاتِيكُم مِّنْهَا بِقَبَسٍ اَوْ اَجِدُ عَلَى ٱلنَّارِ هُدًۭى",
     "urdu_text": "جب انہوں نے آگ دیکھی تو اپنے گھر والوں سے کہا کہ ٹھہرو، میں نے آگ دیکھی ہے، شاید میں تمہارے لیے اس میں سے کوئی انگارہ لے آؤں یا آگ کے پاس کوئی راستہ پا لوں",
     "persian_text": "آنگاه که آتشی دید و به خانواده‌اش گفت: درنگ کنید، من آتشی دیدم، شاید شعله‌ای از آن برای شما بیاورم یا نزد آتش راهنمایی بیابم",
     "transliteration": "Idh ra'a naran faqala li-ahlihi umkuthu inni anastu naran la'alli atikum minha biqabasin aw ajidu 'ala an-nari huda"
@@ -233,7 +233,7 @@ ayats = [
   {
     "verse_number": 29,
     "english_text": "and make a minister from among my family.",
-    "arabic_text": "وَٱجْعَل لِّى وَزِيرًۭا مِّنْ اَهْلِى",
+    "arabic_text": "وَٱجْعَل لِّى وَزِيرًا مِّنْ اَهْلِى",
     "urdu_text": "اور میرے لیے میرے گھر والوں میں سے ایک وزیر بنا دے۔",
     "persian_text": "و برایم وزیری از خانواده‌ام قرار ده.",
     "transliteration": "Waj'al lee wazeearam-min ahlee"
@@ -265,7 +265,7 @@ ayats = [
   {
     "verse_number": 33,
     "english_text": "That we both would Glorify You too much.",
-    "arabic_text": "كَىْ نُسَبِّحَكَ كَثِيرًۭا",
+    "arabic_text": "كَىْ نُسَبِّحَكَ كَثِيرًا",
     "urdu_text": "تاکہ ہم دونوں تیری بہت زیادہ تسبیح کریں۔",
     "persian_text": "تا تو را بسیار تسبیح گوییم.",
     "transliteration": "Kay nusabbihaka katheeraa"
@@ -281,7 +281,7 @@ ayats = [
   {
     "verse_number": 35,
     "english_text": "That You are seeing our condition.",
-    "arabic_text": "إِنَّكَ كُنتَ بِنَا بَصِيرًۭا",
+    "arabic_text": "إِنَّكَ كُنتَ بِنَا بَصِيرًا",
     "urdu_text": "بے شک تو ہمیں دیکھنے والا ہے۔",
     "persian_text": "به راستی که تو به حال ما بینا هستی.",
     "transliteration": "Innaka kunta binaa baseeraa"
@@ -697,7 +697,7 @@ ayats = [
   {
     "verse_number": 87,
     "english_text": "And they said we have not broken our promise on our own, but instead we were laden with the jewelry of the people (when we had fled from Firaun), on his advice (Samri) we threw them in fire; then Samri also threw (in fire) likewise;",
-    "arabic_text": "قَالُواْ مَآ اَخْلَفْنَا مَوْعِدَكَ بِمَلْكِنَا وَلَـٰكِنَّا حُمِّلْنَآ اَوْزَارًۭا مِّن زِينَةِ ٱلْقَوْمِ فَقَذَفْنَـٰهَا فَكَذَٰلِكَ اَلْقَى ٱلسَّامِرِىُّ",
+    "arabic_text": "قَالُواْ مَآ اَخْلَفْنَا مَوْعِدَكَ بِمَلْكِنَا وَلَـٰكِنَّا حُمِّلْنَآ اَوْزَارًا مِّن زِينَةِ ٱلْقَوْمِ فَقَذَفْنَـٰهَا فَكَذَٰلِكَ اَلْقَى ٱلسَّامِرِىُّ",
     "urdu_text": "انہوں نے کہا: ہم نے اپنی مرضی سے تیرے وعدے کی خلاف ورزی نہیں کی، لیکن ہم پر قوم کے زیورات کا بوجھ لاد دیا گیا تھا، تو ہم نے انہیں آگ میں پھینک دیا، اور اسی طرح سامری نے بھی ڈال دیا۔",
     "persian_text": "گفتند: ما از روی اختیار خود از وعده تو تخلف نکردیم، بلکه بار زینت‌های قوم بر ما نهاده شده بود، پس آنها را افکندیم و همچنین سامری نیز افکند.",
     "transliteration": "Qalu ma akhlafna maw'idaka bimalikina wa lakinna hummilna awzaran min zinati al-qawmi fa qazafnaha fa kazalika alqa al-Samiriyyu"
@@ -793,7 +793,7 @@ ayats = [
   {
     "verse_number": 99,
     "english_text": "(O Prophet!) And like this We relate the tales which have gone by; and from Our Court We bestowed upon you the Quran.",
-    "arabic_text": "كَذَٰلِكَ نَقُصُّ عَلَيْكَ مِنْ اَنۢبَآءِ مَا قَدْ سَبَقَ ۚ وَقَدْ ءَاتَيْنَـٰكَ مِن لَّدُنَّا ذِكْرًۭا",
+    "arabic_text": "كَذَٰلِكَ نَقُصُّ عَلَيْكَ مِنْ اَنۢبَآءِ مَا قَدْ سَبَقَ ۚ وَقَدْ ءَاتَيْنَـٰكَ مِن لَّدُنَّا ذِكْرًا",
     "urdu_text": "اے نبی! اسی طرح ہم تمہیں گزشتہ واقعات سناتے ہیں، اور ہم نے تمہیں اپنی بارگاہ سے قرآن عطا کیا ہے۔",
     "persian_text": "ای پیامبر! این گونه داستان‌های گذشته را بر تو بازگو می‌کنیم، و از جانب خود قرآن را به تو عطا کرده‌ایم.",
     "transliteration": "Kadhaalika naqussu 'alayka min anbaa'i maa qad sabaq wa qad aataynaka mil-ladunnaa dhikraa"
@@ -825,7 +825,7 @@ ayats = [
   {
     "verse_number": 103,
     "english_text": "They will talk softly among themselves that we stayed a maximum period of ten days (in the world or the grave).",
-    "arabic_text": "يَتَخَـٰفَتُونَ بَيْنَهُمْ إِن لَّبِثْتُمْ إِلَّا عَشْرًۭا",
+    "arabic_text": "يَتَخَـٰفَتُونَ بَيْنَهُمْ إِن لَّبِثْتُمْ إِلَّا عَشْرًا",
     "urdu_text": "وہ آپس میں آہستہ آہستہ بات کریں گے کہ تم نے صرف دس دن ٹھہرے تھے۔",
     "persian_text": "آنان در میان خود آهسته سخن خواهند گفت که شما جز ده روز درنگ نکردید.",
     "transliteration": "Yatakhāfatūna baynahum il-labith'tum illā 'ashrā"
@@ -905,7 +905,7 @@ ayats = [
   {
     "verse_number": 113,
     "english_text": "And We sent Quran in Arabic language and described in it the different types of punishments so that these people become pious, or it creates a reminder in their minds.",
-    "arabic_text": "وَكَذَٰلِكَ اَنزَلْنَـٰهُ قُرْءَانًا عَرَبِيًّۭا وَصَرَّفْنَا فِيهِ مِنَ ٱلْوَعِيدِ لَعَلَّهُمْ يَتَّقُونَ اَوْ يُحْدِثُ لَهُمْ ذِكْرًۭا",
+    "arabic_text": "وَكَذَٰلِكَ اَنزَلْنَـٰهُ قُرْءَانًا عَرَبِيًّۭا وَصَرَّفْنَا فِيهِ مِنَ ٱلْوَعِيدِ لَعَلَّهُمْ يَتَّقُونَ اَوْ يُحْدِثُ لَهُمْ ذِكْرًا",
     "urdu_text": "اور اسی طرح ہم نے اسے عربی زبان میں قرآن اتارا اور اس میں مختلف قسم کی وعیدیں بیان کیں تاکہ یہ لوگ پرہیزگار بن جائیں یا یہ ان کے دلوں میں نصیحت پیدا کرے۔",
     "persian_text": "و این‌گونه آن را قرآنی عربی نازل کردیم و در آن از انواع هشدارها بیان نمودیم تا شاید پرهیزگار شوند یا برای آنان یادآوری ایجاد کند.",
     "transliteration": "Wa kadhālika anzalnāhu Qur'ānan 'Arabiyyan wa ṣarrafnā fīhi minal-wa'īdi la'allahum yattaqūna aw yuḥdithu lahum dhikran"
@@ -1001,7 +1001,7 @@ ayats = [
   {
     "verse_number": 125,
     "english_text": "He will say: O my Lord! I had eyes in the world, why have you raised me as blind?",
-    "arabic_text": "قَالَ رَبِّ لِمَ حَشَرْتَنِىٓ اَعْمَىٰ وَقَدْ كُنتُ بَصِيرًۭا",
+    "arabic_text": "قَالَ رَبِّ لِمَ حَشَرْتَنِىٓ اَعْمَىٰ وَقَدْ كُنتُ بَصِيرًا",
     "urdu_text": "وہ کہے گا: اے میرے رب! تو نے مجھے اندھا کیوں اٹھایا حالانکہ میں دنیا میں بینا تھا؟",
     "persian_text": "خواهد گفت: پروردگارا! چرا مرا نابینا محشور کردی در حالی که بینا بودم؟",
     "transliteration": "Qāla rabbi lima hashar'tanī a'mā wa qad kuntu basīrā"

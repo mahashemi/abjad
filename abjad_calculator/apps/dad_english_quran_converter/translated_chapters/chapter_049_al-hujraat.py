@@ -41,7 +41,7 @@ ayats = [
   {
     "verse_number": 5,
     "english_text": "And if they had been patient till you come out, it would have been better for them, and Allah is all Forgiving and Merciful.",
-    "arabic_text": "وَلَوْ اَنَّهُمْ صَبَرُواْ حَتَّىٰ تَخْرُجَ إِلَيْهِمْ لَكَانَ خَيْرًۭا لَّهُمْ ۚ وَٱللَّهُ غَفُورٌۭ رَّحِيمٌۭ",
+    "arabic_text": "وَلَوْ اَنَّهُمْ صَبَرُواْ حَتَّىٰ تَخْرُجَ إِلَيْهِمْ لَكَانَ خَيْرًا لَّهُمْ ۚ وَٱللَّهُ غَفُورٌۭ رَّحِيمٌۭ",
     "urdu_text": "اور اگر وه صبر کرتے یهاں تک که آپ ان کے پاس باهر تشریف لاتے تو یه ان کے لیے بهتر هوتا، اور الله بخشنے والا مهربان هے۔",
     "persian_text": "و اگر آنان صبر می‌کردند تا تو به سوی آنان بیرون آیی، برای آنان بهتر بود، و خداوند آمرزنده و مهربان است.",
     "transliteration": "Wa law annahum sabaroo hattaa takhruja ilayhim lakaana khayral-lahum, wallaahu ghafoorur-raheem"
@@ -89,7 +89,7 @@ ayats = [
   {
     "verse_number": 11,
     "english_text": "O believers, beware, no nation should mock at other nation, because they may be better than they; and group of women should not laugh at the other group, those women may be better than them and do not taunt one another and do not call one another with bad titles; even the name of evil is bad after faith; and know that those who do not repent, they are in fact the unjust people.",
-    "arabic_text": "يَـٰٓاَيُّهَا ٱلَّذِينَ ءَامَنُواْ لَا يَسْخَرْ قَوْمٌۭ مِّن قَوْمٍ عَسَىٰٓ اَن يَكُونُواْ خَيْرًۭا مِّنْهُمْ وَلَا نِسَآءٌۭ مِّن نِّسَآءٍ عَسَىٰٓ اَن يَكُنَّ خَيْرًۭا مِّنْهُنَّ ۖ وَلَا تَلْمِزُوٓاْ اَنفُسَكُمْ وَلَا تَنَابَزُواْ بِٱلْاَلْقَـٰبِ ۖ بِئْسَ ٱلِٱسْمُ ٱلْفُسُوقُ بَعْدَ ٱلْإِيمَـٰنِ ۚ وَمَن لَّمْ يَتُبْ فَأُو۟لَـٰٓئِكَ هُمُ ٱلظَّـٰلِمُونَ",
+    "arabic_text": "يَـٰٓاَيُّهَا ٱلَّذِينَ ءَامَنُواْ لَا يَسْخَرْ قَوْمٌۭ مِّن قَوْمٍ عَسَىٰٓ اَن يَكُونُواْ خَيْرًا مِّنْهُمْ وَلَا نِسَآءٌۭ مِّن نِّسَآءٍ عَسَىٰٓ اَن يَكُنَّ خَيْرًا مِّنْهُنَّ ۖ وَلَا تَلْمِزُوٓاْ اَنفُسَكُمْ وَلَا تَنَابَزُواْ بِٱلْاَلْقَـٰبِ ۖ بِئْسَ ٱلِٱسْمُ ٱلْفُسُوقُ بَعْدَ ٱلْإِيمَـٰنِ ۚ وَمَن لَّمْ يَتُبْ فَأُو۟لَـٰٓئِكَ هُمُ ٱلظَّـٰلِمُونَ",
     "urdu_text": "اے ایمان والو! کوئی قوم کسی قوم کا مذاق نه اڑائے، هو سکتا هے که وه ان سے بهتر هوں، اور نه عورتیں دوسری عورتوں کا مذاق اڑائیں، هو سکتا هے که وه ان سے بهتر هوں، اور ایک دوسرے پر طعنه نه کرو اور نه ایک دوسرے کو برے لقب سے پکارو، ایمان کے بعد فسق کا نام بهت برا هے، اور جو توبه نه کریں تو وهی ظالم لوگ هیں۔",
     "persian_text": "ای کسانی که ایمان آورده‌اید! هیچ قومی نباید قوم دیگری را مسخره کند، شاید آنها از اینها بهتر باشند، و نه زنانی زنان دیگر را، شاید آنها از اینها بهتر باشند، و یکدیگر را عیب‌جویی نکنید و یکدیگر را به لقب‌های بد نخوانید، نام بدی پس از ایمان بسیار زشت است، و کسانی که توبه نکنند، آنها همان ستمکاران هستند.",
     "transliteration": "Yā ayyuhā alladhīna āmanū lā yaskhar qawmun min qawmin 'asā an yakūnū khayran minhum wa lā nisā'un min nisā'in 'asā an yakunna khayran minhunna wa lā talmizū anfusakum wa lā tanābazū bil-alqābi bi'sa al-ismu al-fusūqu ba'da al-īmāni wa man lam yatub fa'ulā'ika humu al-ẓālimūn"
@@ -97,7 +97,7 @@ ayats = [
   {
     "verse_number": 12,
     "english_text": "O people of faith avoid most of suspicions, because some suspicions are like sin, and beware, do not find faults in one another and do not backbite others; does anyone among you would like to eat the flesh of your dead brother, definitely you would consider it bad, so fear Allah, verily Allah is acceptor of repentance and Merciful.",
-    "arabic_text": "يَـٰٓاَيُّهَا ٱلَّذِينَ ءَامَنُواْ ٱجْتَنِبُواْ كَثِيرًۭا مِّنَ ٱلظَّنِّ إِنَّ بَعْضَ ٱلظَّنِّ إِثْمٌۭ ۖ وَلَا تَجَسَّسُواْ وَلَا يَغْتَب بَّعْضُكُم بَعْضًا ۚ اَيُحِبُّ اَحَدُكُمْ اَن يَأْكُلَ لَحْمَ اَخِيهِ مَيْتًۭا فَكَرِهْتُمُوهُ ۚ وَٱتَّقُواْ ٱللَّهَ ۚ إِنَّ ٱللَّهَ تَوَّابٌۭ رَّحِيمٌۭ",
+    "arabic_text": "يَـٰٓاَيُّهَا ٱلَّذِينَ ءَامَنُواْ ٱجْتَنِبُواْ كَثِيرًا مِّنَ ٱلظَّنِّ إِنَّ بَعْضَ ٱلظَّنِّ إِثْمٌۭ ۖ وَلَا تَجَسَّسُواْ وَلَا يَغْتَب بَّعْضُكُم بَعْضًا ۚ اَيُحِبُّ اَحَدُكُمْ اَن يَأْكُلَ لَحْمَ اَخِيهِ مَيْتًۭا فَكَرِهْتُمُوهُ ۚ وَٱتَّقُواْ ٱللَّهَ ۚ إِنَّ ٱللَّهَ تَوَّابٌۭ رَّحِيمٌۭ",
     "urdu_text": "اے ایمان والو! بهت سے گمانوں سے بچو، بیشک بعض گمان گناه هیں، اور تجسس نه کرو اور نه تم میں سے کوئی کسی کی غیبت کرے، کیا تم میں سے کوئی یه پسند کرے گا که اپنے مرده بھائی کا گوشت کھائے؟ تم اسے ناپسند کرتے هو، پس الله سے ڈرو، بیشک الله توبه قبول کرنے والا اور رحم فرمانے والا هے۔",
     "persian_text": "ای کسانی که ایمان آورده‌اید! از بسیاری از گمان‌ها بپرهیزید، زیرا برخی از گمان‌ها گناه است، و جاسوسی نکنید و بعضی از شما غیبت بعضی دیگر را نکنید، آیا کسی از شما دوست دارد که گوشت برادر مرده خود را بخورد؟ پس از آن کراهت دارید، و از خدا بترسید، همانا خداوند توبه‌پذیر و مهربان است.",
     "transliteration": "Yā ayyuhā alladhīna āmanū ijtanibū kathīran mina al-ẓanni inna ba'ḍa al-ẓanni ithmun wa lā tajassasū wa lā yaghtab ba'ḍukum ba'ḍan a yuḥibbu aḥadukum an ya'kula laḥma akhīhi maytan fa karihtumūhu wa ittaqū Allāha inna Allāha tawwābun raḥīm"

@@ -65,7 +65,7 @@ ayats = [
   {
     "verse_number": 8,
     "english_text": "Who listens to the recitation of verses then shows arrogance as if he has not heard, so give him the glad tiding of painful punishment.",
-    "arabic_text": "يَسْمَعُ ءَايَـٰتِ ٱللَّهِ تُتْلَىٰ عَلَيْهِ ثُمَّ يُصِرُّ مُسْتَكْبِرًۭا كَاَن لَّمْ يَسْمَعْهَا ۖ فَبَشِّرْهُ بِعَذَابٍ اَلِيمٍۢ",
+    "arabic_text": "يَسْمَعُ ءَايَـٰتِ ٱللَّهِ تُتْلَىٰ عَلَيْهِ ثُمَّ يُصِرُّ مُسْتَكْبِرًا كَاَن لَّمْ يَسْمَعْهَا ۖ فَبَشِّرْهُ بِعَذَابٍ اَلِيمٍۢ",
     "urdu_text": "جو الله کی آیات سنتا هے جو اس پر پڑھی جاتی هیں، پھر تکبر کرتا هے گویا اس نے سنا هی نهیں، تو اسے دردناک عذاب کی خوشخبری دے دو۔",
     "persian_text": "آیات خدا را می‌شنود که بر او خوانده می‌شود، سپس با تکبر اصرار می‌ورزد گویی نشنیده است، پس او را به عذاب دردناک بشارت ده.",
     "transliteration": "Yasma'u Aayaatil-laahi tutlaa 'alayhi thumma yusirru mustakbiran ka-al-lam yasma'haa fabash-shirhu bi'adhabin aleem"

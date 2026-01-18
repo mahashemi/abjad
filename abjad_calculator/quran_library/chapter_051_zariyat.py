@@ -17,7 +17,7 @@ ayats = [
   {
     "verse_number": 2,
     "english_text": "Then carries the weight of the clouds.",
-    "arabic_text": "فَالْحَـٰمِلَـٰتِ وِقْرًۭا",
+    "arabic_text": "فَالْحَـٰمِلَـٰتِ وِقْرًا",
     "urdu_text": "پھر بوجھ اٹھانے والی جو بادلوں کا بھاری بوجھ اٹھاتی هیں۔",
     "persian_text": "سپس سوگند به آنهایی که بار سنگین ابرها را حمل می‌کنند.",
     "transliteration": "Fal-ḥāmilāti wiqrā"
@@ -25,7 +25,7 @@ ayats = [
   {
     "verse_number": 3,
     "english_text": "Then it blows gently.",
-    "arabic_text": "فَالْجَـٰرِيَـٰتِ يُسْرًۭا",
+    "arabic_text": "فَالْجَـٰرِيَـٰتِ يُسْرًا",
     "urdu_text": "پھر آسانی سے چلنے والی هوائیں۔",
     "persian_text": "سپس سوگند به آنهایی که به آسانی جاری می‌شوند.",
     "transliteration": "Fal-jāriyāti yusrā"
@@ -137,7 +137,7 @@ ayats = [
   {
     "verse_number": 17,
     "english_text": "They sleep very less during the night.",
-    "arabic_text": "كَانُواْ قَلِيلًۭا مِّنَ الَّيْلِ مَا يَهْجَعُونَ",
+    "arabic_text": "كَانُواْ قَلِيلًا مِّنَ الَّيْلِ مَا يَهْجَعُونَ",
     "urdu_text": "وه رات کو بهت کم سوتے تھے۔",
     "persian_text": "آنان در شب اندک می‌خوابیدند.",
     "transliteration": "Kaanoo qaleelan minal-layli maa yahja'oon"
@@ -201,7 +201,7 @@ ayats = [
   {
     "verse_number": 25,
     "english_text": "When they entered with him and said salutation, he replied with a salutation and said: you seem to be from an unknown nation.",
-    "arabic_text": "اِذْ دَخَلُواْ عَلَيْهِ فَقَالُواْ سَلَـٰمًۭا ۖ قَالَ سَلَـٰمٌۭ قَوْمٌۭ مُّنكَرُونَ",
+    "arabic_text": "اِذْ دَخَلُواْ عَلَيْهِ فَقَالُوْاْ سَلَـٰمًا ۖ قَالَ سَلَـٰمٌۭ قَوْمٌۭ مُّنكَرُونَ",
     "urdu_text": "جب وه ان کے پاس آئے اور سلام کها، تو انهوں نے جواب میں سلام کها اور (دل میں) کها: یه تو اجنبی لوگ هیں۔",
     "persian_text": "هنگامی که بر او وارد شدند و سلام گفتند، او (در پاسخ) سلام گفت و (با خود) گفت: قومی ناشناس هستند.",
     "transliteration": "Idh dakhaloo 'alayhi faqaaloo salaaman qaala salaamun qawmum munkaroon"
@@ -225,7 +225,7 @@ ayats = [
   {
     "verse_number": 28,
     "english_text": "Then he felt fear in his soul, so they said: do not fear, and then gave him the good news of a wise son.",
-    "arabic_text": "فَاَوْجَسَ مِنْهُمْ خِيفَةًۭ ۖ قَالُواْ لَا تَخَفْ ۖ وَبَشَّرُوهُ بِغُلَـٰمٍ عَلِيمٍۢ",
+    "arabic_text": "فَاَوْجَسَ مِنْهُمْ خِيفَةًۭ ۖ قَالُوْاْ لَا تَخَفْ ۖ وَبَشَّرُوهُ بِغُلَـٰمٍ عَلِيمٍۢ",
     "urdu_text": "تو انهوں نے اپنے دل میں ان سے خوف محسوس کیا، انهوں نے کها: ڈرو نهیں، اور انهیں ایک علم والے بیٹے کی خوشخبری دی۔",
     "persian_text": "پس در دل خود از آنان ترسید، گفتند: مترس، و او را به پسری دانا بشارت دادند.",
     "transliteration": "Fa awjasa minhum kheefatan qaaloo laa takhaf wa bashsharoohu bi ghulaamin 'aleem"
@@ -241,7 +241,7 @@ ayats = [
   {
     "verse_number": 30,
     "english_text": "They said: so will it be, this is the command of your Lord, He is Wise, and Knower of everything.",
-    "arabic_text": "قَالُواْ كَذَٰلِكِ قَالَ رَبُّكِ ۖ اِنَّهُ هُوَ الْحَكِيمُ الْعَلِيمُ",
+    "arabic_text": "قَالُوْاْ كَذَٰلِكِ قَالَ رَبُّكِ ۖ اِنَّهُ هُوَ الْحَكِيمُ الْعَلِيمُ",
     "urdu_text": "انهوں نے کها: ایسا هی هوگا، تمهارے رب نے یهی فرمایا هے، بیشک وه حکیم اور علیم هے۔",
     "persian_text": "گفتند: چنین است، پروردگارت چنین فرموده است، همانا او حکیم و داناست.",
     "transliteration": "Qaaloo kadhaliki qaala Rabbuki innahoo huwal-Hakeemul-'Aleem"
@@ -313,7 +313,7 @@ ayats = [
   {
     "verse_number": 39,
     "english_text": "So on the strength of his army he turned his face away that he is magician or insane.",
-    "arabic_text": "فَتَوَلَّىٰ بِرُكْنِهِ وَقَالَ سَـٰحِرٌ اَوْ مَجْنُونٌۭ",
+    "arabic_text": "فَتَوَلَّىٰ بِرُكْنِهِ وَقَالَ سَـٰحِرٌ اَوْ مَجْنُونٌ",
     "urdu_text": "تو اس نے اپنی طاقت کے بل پر منه موڑ لیا اور کها که یه جادوگر هے یا دیوانه۔",
     "persian_text": "پس با تکیه بر قدرت خود روی گرداند و گفت: جادوگر است یا دیوانه.",
     "transliteration": "Fatawallaa biruknihee wa qaala saahirun aw majnoon"
@@ -369,7 +369,7 @@ ayats = [
   {
     "verse_number": 46,
     "english_text": "And before them was nation of Nooh that they were all transgressor and evil.",
-    "arabic_text": "وَقَوْمَ نُوحٍۢ مِّن قَبْلُ ۖ اِنَّهُمْ كَانُواْ قَوْمًۭا فَـٰسِقِينَ",
+    "arabic_text": "وَقَوْمَ نُوحٍۢ مِّن قَبْلُ ۖ اِنَّهُمْ كَانُواْ قَوْمًا فَـٰسِقِينَ",
     "urdu_text": "اور ان سے پهلے قوم نوح تھی، بے شک وه نافرمان لوگ تھے۔",
     "persian_text": "و پیش از آنان قوم نوح بودند، که آنان قومی نافرمان بودند.",
     "transliteration": "Wa qawma Noohin min qabl, innahum kaanoo qawman faasiqeen"
@@ -401,7 +401,7 @@ ayats = [
   {
     "verse_number": 50,
     "english_text": "Therefore, run towards Allah now that I am plain warner.",
-    "arabic_text": "فَفِرُّوٓاْ اِلَى اللَّهِ ۖ اِنِّى لَكُم مِّنْهُ نَذِيرٌۭ مُّبِينٌۭ",
+    "arabic_text": "فَفِرُّوٓاْ اِلَى اللّٰهِ ۖ اِنِّى لَكُم مِّنْهُ نَذِيرٌۭ مُّبِينٌ",
     "urdu_text": "پس الله کی طرف بھاگو، بے شک میں تمهارے لیے اس کی طرف سے کھلا ڈرانے والا هوں۔",
     "persian_text": "پس به سوی خداوند بشتابید، که من از جانب او برای شما هشداردهنده‌ای آشکارم.",
     "transliteration": "Fafirroo ilal-laah, innee lakum minhu nadheerum-mubeen"
@@ -409,7 +409,7 @@ ayats = [
   {
     "verse_number": 51,
     "english_text": "And beware, do not make anyone god besides Him that I am a clear warner to you.",
-    "arabic_text": "وَلَا تَجْعَلُواْ مَعَ اللَّهِ اِلَـٰهًا ءَاخَرَ ۖ اِنِّى لَكُم مِّنْهُ نَذِيرٌۭ مُّبِينٌۭ",
+    "arabic_text": "وَ لَا تَجْعَلُواْ مَعَ اللّٰهِ اِلَـٰهًا ءَاخَرَ ۖ اِنِّى لَكُم مِّنْهُ نَذِيرٌۭ مُّبِينٌ",
     "urdu_text": "اور الله کے ساتھ کسی دوسرے کو معبود نه ٹھهراؤ، بیشک میں تمهارے لیے اس کی طرف سے کھلا ڈر سنانے والا هوں۔",
     "persian_text": "و با خدا معبود دیگری قرار ندهید، همانا من از جانب او برای شما هشداردهنده‌ای آشکارم.",
     "transliteration": "Wa laa taj'aloo ma'allaahi ilaahan aakhara innee lakum minhu nazeerum mubeen"
@@ -417,7 +417,7 @@ ayats = [
   {
     "verse_number": 52,
     "english_text": "Like this, no prophet came to this nation before but these people said: he is magician or insane.",
-    "arabic_text": "كَذَٰلِكَ مَآ اَتَى الَّذِينَ مِن قَبْلِهِم مِّن رَّسُولٍ اِلَّا قَالُواْ سَاحِرٌ اَوْ مَجْنُونٌ",
+    "arabic_text": "كَذَٰلِكَ مَآ اَتَى الَّذِينَ مِن قَبْلِهِم مِّن رَّسُولٍ اِلَّا قَالُوْاْ سَاحِرٌ اَوْ مَجْنُونٌ",
     "urdu_text": "اسی طرح ان سے پهلے لوگوں کے پاس جو بھی رسول آیا انهوں نے کها که یه جادوگر هے یا دیوانه۔",
     "persian_text": "همین‌گونه هیچ پیامبری پیش از اینان نیامد مگر آنکه گفتند: او جادوگر یا دیوانه است.",
     "transliteration": "Kazaalika maa atal-lazeena min qablihim mir-rasoolin illaa qaaloo saahirun aw majnoon"
@@ -465,7 +465,7 @@ ayats = [
   {
     "verse_number": 58,
     "english_text": "Verily the one who gives sustenance is Allah only; the Lord of Power, the Strong.",
-    "arabic_text": "اِنَّ اللَّهَ هُوَ الرَّزَّاقُ ذُو الْقُوَّةِ الْمَتِينُ",
+    "arabic_text": "اِنَّ اللّٰهَ هُوَ الرَّزَّاقُ ذُو الْقُوَّةِ الْمَتِينُ",
     "urdu_text": "بیشک الله هی رزق دینے والا هے، قوت والا، زبردست۔",
     "persian_text": "همانا خداوند روزی‌دهنده است، صاحب قدرت، نیرومند.",
     "transliteration": "Innallaaha huwar-Razzaaqu zul-quwwatil-mateen"
@@ -473,7 +473,7 @@ ayats = [
   {
     "verse_number": 59,
     "english_text": "Then for those unjust is also the same rewards as were for their companions, so they should not hasten.",
-    "arabic_text": "فَاِنَّ لِلَّذِينَ ظَلَمُواْ ذَنُوبًۭا مِّثْلَ ذَنُوبِ اَصْحَـٰبِهِمْ فَلَا يَسْتَعْجِلُونِ",
+    "arabic_text": "فَاِنَّ لِلَّذِينَ ظَلَمُواْ ذَنُوبًا مِّثْلَ ذَنُوبِ اَصْحَـٰبِهِمْ فَلَا يَسْتَعْجِلُونِ",
     "urdu_text": "پس جن لوگوں نے ظلم کیا ان کے لیے بھی ویسا هی حصه هے جیسا ان کے ساتھیوں کا تھا، پس وه جلدی نه کریں۔",
     "persian_text": "پس برای کسانی که ستم کردند نیز بهره‌ای است همچون بهره یاران پیشین آنان، پس شتاب نکنند.",
     "transliteration": "Fa'inna lillazeena zalamoo zanoobam-misla zanoobe as-haabihim falaa yasta'jiloon"

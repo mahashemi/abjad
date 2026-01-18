@@ -25,7 +25,7 @@ ayats = [
   {
     "verse_number": 3,
     "english_text": "Verily, We have guided him to a (straight) path, (now) whether he be grateful or ungrateful.",
-    "arabic_text": "إِنَّا هَدَيْنَـٰهُ ٱلسَّبِيلَ إِمَّا شَاكِرًۭا وَإِمَّا كَفُورًا",
+    "arabic_text": "إِنَّا هَدَيْنَـٰهُ ٱلسَّبِيلَ إِمَّا شَاكِرًا وَإِمَّا كَفُورًا",
     "urdu_text": "بیشک ہم نے اسے راستہ دکھا دیا، اب یا تو وہ شکر گزار ہو یا ناشکرا۔",
     "persian_text": "ما او را به راه راست هدایت کردیم، خواه سپاسگزار باشد یا ناسپاس.",
     "transliteration": "Innaa hadaynaahus-sabeela immaa shaakiraw wa immaa kafooraa"
@@ -49,7 +49,7 @@ ayats = [
   {
     "verse_number": 6,
     "english_text": "This is a fountain from which righteous servants of Allah will drink and will divert its flow wherever they desire.",
-    "arabic_text": "عَيْنًۭا يَشْرَبُ بِهَا عِبَادُ ٱللَّهِ يُفَجِّرُونَهَا تَفْجِيرًۭا",
+    "arabic_text": "عَيْنًۭا يَشْرَبُ بِهَا عِبَادُ ٱللَّهِ يُفَجِّرُونَهَا تَفْجِيرًا",
     "urdu_text": "یہ ایک چشمہ ہے جس سے اللہ کے بندے پئیں گے اور اسے جہاں چاہیں گے بہا لیں گے۔",
     "persian_text": "چشمه‌ای که بندگان خدا از آن می‌نوشند و آن را هر جا بخواهند جاری می‌سازند.",
     "transliteration": "'Aynan yashrabu bihaa 'ibaadullaahi yufajjiroonahaa tafjeeraa"
@@ -57,7 +57,7 @@ ayats = [
   {
     "verse_number": 7,
     "english_text": "These (righteous) servants fulfil their vows, and fear from the day whose severity is spread everywhere.",
-    "arabic_text": "يُوفُونَ بِٱلنَّذْرِ وَيَخَافُونَ يَوْمًۭا كَانَ شَرُّهُۥ مُسْتَطِيرًۭا",
+    "arabic_text": "يُوفُونَ بِٱلنَّذْرِ وَيَخَافُونَ يَوْمًۭا كَانَ شَرُّهُۥ مُسْتَطِيرًا",
     "urdu_text": "یہ نیک بندے اپنی منتیں پوری کرتے ہیں اور اس دن سے ڈرتے ہیں جس کی سختی ہر طرف پھیلی ہوئی ہوگی۔",
     "persian_text": "آنان به نذر خود وفا می‌کنند و از روزی می‌ترسند که شرّش همه‌جا گسترده است.",
     "transliteration": "Yoofoona bin-nadhri wa yakhaafoona yawman kaana sharruhu mustateera"
@@ -81,7 +81,7 @@ ayats = [
   {
     "verse_number": 10,
     "english_text": "We fear our Lord about the Day when faces will be defaced and astonished.",
-    "arabic_text": "إِنَّا نَخَافُ مِن رَّبِّنَا يَوْمًا عَبُوسًۭا قَمْطَرِيرًۭا",
+    "arabic_text": "إِنَّا نَخَافُ مِن رَّبِّنَا يَوْمًا عَبُوسًۭا قَمْطَرِيرًا",
     "urdu_text": "ہم اپنے رب سے اس دن سے ڈرتے ہیں جو بہت سخت اور تیوری چڑھانے والا ہوگا۔",
     "persian_text": "ما از پروردگارمان روزی را می‌ترسیم که عبوس و ترسناک است.",
     "transliteration": "Innaa nakhaafu mir-rabbinaa yawman 'aboosan qamtareeraa"
@@ -89,7 +89,7 @@ ayats = [
   {
     "verse_number": 11,
     "english_text": "So, Allah saved them from the hardness of the day and gave them freshness and happiness.",
-    "arabic_text": "فَوَقَىٰهُمُ ٱللَّهُ شَرَّ ذَٰلِكَ ٱلْيَوْمِ وَلَقَّىٰهُمْ نَضْرَةًۭ وَسُرُورًۭا",
+    "arabic_text": "فَوَقَىٰهُمُ ٱللَّهُ شَرَّ ذَٰلِكَ ٱلْيَوْمِ وَلَقَّىٰهُمْ نَضْرَةًۭ وَسُرُورًا",
     "urdu_text": "پس اللہ نے انہیں اس دن کی سختی سے بچا لیا اور انہیں تازگی اور خوشی عطا فرمائی۔",
     "persian_text": "پس خداوند آنان را از سختی آن روز نگه داشت و به آنها شادابی و شادمانی بخشید.",
     "transliteration": "Fawaqahumul laahu sharra zalikal yawmi wa laqqaahum nadratan wa surooraa"
@@ -97,7 +97,7 @@ ayats = [
   {
     "verse_number": 12,
     "english_text": "In reward to their patience [He] will bestow upon them Paradise and silk of Paradise.",
-    "arabic_text": "وَجَزَىٰهُم بِمَا صَبَرُواْ جَنَّةًۭ وَحَرِيرًۭا",
+    "arabic_text": "وَجَزَىٰهُم بِمَا صَبَرُواْ جَنَّةًۭ وَحَرِيرًا",
     "urdu_text": "اور ان کے صبر کے بدلے انہیں جنت اور ریشم عطا فرمایا۔",
     "persian_text": "و به پاداش صبرشان، بهشت و لباس‌های ابریشمین به آنان ارزانی داشت.",
     "transliteration": "Wa jazaahum bimaa sabaroo jannatan wa hareeran"
@@ -105,7 +105,7 @@ ayats = [
   {
     "verse_number": 13,
     "english_text": "Where they will be reclining with cushions on the thrones, will not see the heat of the sun or the cold.",
-    "arabic_text": "مُّتَّكِـِٔينَ فِيهَا عَلَى ٱلْاَرَآئِكِ ۖ لَا يَرَوْنَ فِيهَا شَمْسًۭا وَلَا زَمْهَرِيرًۭا",
+    "arabic_text": "مُّتَّكِـِٔينَ فِيهَا عَلَى ٱلْاَرَآئِكِ ۖ لَا يَرَوْنَ فِيهَا شَمْسًۭا وَلَا زَمْهَرِيرًا",
     "urdu_text": "وہاں وہ تختوں پر تکیے لگائے بیٹھے ہوں گے، نہ انہیں دھوپ کی تپش نظر آئے گی اور نہ سردی۔",
     "persian_text": "در حالی که بر تخت‌ها تکیه زده‌اند، نه آفتاب سوزان می‌بینند و نه سرمای شدید.",
     "transliteration": "Muttaki'eena feeha 'alal araaa'ik, laa yarawna feeha shamsan wa laa zamhareeran"
@@ -129,7 +129,7 @@ ayats = [
   {
     "verse_number": 16,
     "english_text": "These goblets will also be made of silver, which these people will make according to their scale.",
-    "arabic_text": "قَوَارِيرَاْ مِن فِضَّةٍۢ قَدَّرُوهَا تَقْدِيرًۭا",
+    "arabic_text": "قَوَارِيرَاْ مِن فِضَّةٍۢ قَدَّرُوهَا تَقْدِيرًا",
     "urdu_text": "چاندی کے شیشے جن کو انہوں نے اپنی مرضی کے مطابق ناپ کر بنایا ہوگا۔",
     "persian_text": "بلورهایی از نقره که آنها را به اندازه دلخواه خود تنظیم کرده‌اند.",
     "transliteration": "Qawaareeera min fiddatin qaddaroohaa taqdeeran"
@@ -153,7 +153,7 @@ ayats = [
   {
     "verse_number": 19,
     "english_text": "And around them will be youth whose age will never alter that when you will see they will seem like scattered pearls.",
-    "arabic_text": "۞ وَيَطُوفُ عَلَيْهِمْ وِلْدَٰنٌۭ مُّخَلَّدُونَ إِذَا رَاَيْتَهُمْ حَسِبْتَهُمْ لُؤْلُؤًۭا مَّنثُورًۭا",
+    "arabic_text": "۞ وَيَطُوفُ عَلَيْهِمْ وِلْدَٰنٌۭ مُّخَلَّدُونَ إِذَا رَاَيْتَهُمْ حَسِبْتَهُمْ لُؤْلُؤًۭا مَّنثُورًا",
     "urdu_text": "اور ان کے گرد ہمیشہ جوان رہنے والے لڑکے پھریں گے، جب تم انہیں دیکھو گے تو انہیں بکھرے ہوئے موتی سمجھو گے۔",
     "persian_text": "و نوجوانان جاودانه‌ای بر گرد آنان می‌گردند که چون آنها را ببینی، مانند مروارید پراکنده به نظر می‌رسند.",
     "transliteration": "Wa yatoofu 'alayhim wildaanum mukhalladoon, izaa ra'aytahum hasibtahum lu'lu'am mansooraa"
@@ -193,7 +193,7 @@ ayats = [
   {
     "verse_number": 24,
     "english_text": "Therefore, due to the command of Allah, be patient, and do not come under the impression of any sinner or infidel.",
-    "arabic_text": "فَٱصْبِرْ لِحُكْمِ رَبِّكَ وَلَا تُطِعْ مِنْهُمْ ءَاثِمًا اَوْ كَفُورًۭا",
+    "arabic_text": "فَٱصْبِرْ لِحُكْمِ رَبِّكَ وَلَا تُطِعْ مِنْهُمْ ءَاثِمًا اَوْ كَفُورًا",
     "urdu_text": "پس اپنے رب کے حکم پر صبر کرو اور ان میں سے کسی گنہگار یا کافر کی اطاعت نہ کرو۔",
     "persian_text": "پس در برابر فرمان پروردگارت شکیبا باش و از میان آنان از هیچ گناهکار یا کافری اطاعت مکن.",
     "transliteration": "Fasbir lihukmi Rabbika wa laa tuti' minhum aasiman aw kafooraa"

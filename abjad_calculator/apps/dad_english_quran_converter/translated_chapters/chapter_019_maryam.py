@@ -41,7 +41,7 @@ ayats = [
   {
     "verse_number": 5,
     "english_text": "And I fear for my heirs that (they might destroy the religion) and my wife is a barren, so give to me an heir (child) from Your Court.",
-    "arabic_text": "وَإِنِّى خِفْتُ ٱلْمَوَٰلِىَ مِن وَرَآءِى وَكَانَتِ ٱمْرَاَتِى عَاقِرًۭا فَهَبْ لِى مِن لَّدُنكَ وَلِيًّۭا",
+    "arabic_text": "وَإِنِّى خِفْتُ ٱلْمَوَٰلِىَ مِن وَرَآءِى وَكَانَتِ ٱمْرَاَتِى عَاقِرًا فَهَبْ لِى مِن لَّدُنكَ وَلِيًّۭا",
     "urdu_text": "اور مجھے اپنے بعد اپنے وارثوں کا خوف هے (که وه دین کو برباد کر دیں گے) اور میری بیوی بانجھ هے، تو مجھے اپنے پاس سے ایک وارث عطا فرما۔",
     "persian_text": "و من از وارثان خود پس از خویش می‌ترسم و همسرم نازا است، پس از جانب خود ولی و جانشینی به من عطا فرما.",
     "transliteration": "Wa innee khiftu al-mawaaliya min waraa'ee wa kaanat imra'atee 'aaqiran fahab lee min ladunka waliyya"
@@ -65,7 +65,7 @@ ayats = [
   {
     "verse_number": 8,
     "english_text": "Zakaria said: O my Lord, how will a son be born out of me? Condition is such that my wife is barren and I myself have reached an extreme old age.",
-    "arabic_text": "قَالَ رَبِّ اَنَّىٰ يَكُونُ لِى غُلَـٰمٌۭ وَكَانَتِ ٱمْرَاَتِى عَاقِرًۭا وَقَدْ بَلَغْتُ مِنَ ٱلْكِبَرِ عِتِيًّۭا",
+    "arabic_text": "قَالَ رَبِّ اَنَّىٰ يَكُونُ لِى غُلَـٰمٌۭ وَكَانَتِ ٱمْرَاَتِى عَاقِرًا وَقَدْ بَلَغْتُ مِنَ ٱلْكِبَرِ عِتِيًّۭا",
     "urdu_text": "زکریا نے عرض کیا: اے میرے رب! میرے هاں بیٹا کیسے هوگا؟ حالت یه هے که میری بیوی بانجھ هے اور میں خود انتهائی بڑھاپے کو پهنچ گیا هوں۔",
     "persian_text": "زکریا گفت: پروردگارا! چگونه برای من پسری خواهد بود در حالی که همسرم نازاست و من به پیری شدید رسیده‌ام؟",
     "transliteration": "Qaala rabbi annaa yakoonu lee ghulaamun wa kaanat imra'atee 'aaqiran wa qad balaghtu mina al-kibari 'itiyya"
@@ -137,7 +137,7 @@ ayats = [
   {
     "verse_number": 17,
     "english_text": "Then she drew a curtain before them, then We sent Our Spirit to her, and he went in front of her as a well-made human.",
-    "arabic_text": "فَٱتَّخَذَتْ مِن دُونِهِمْ حِجَابًۭا فَاَرْسَلْنَآ إِلَيْهَا رُوحَنَا فَتَمَثَّلَ لَهَا بَشَرًۭا سَوِيًّۭا",
+    "arabic_text": "فَٱتَّخَذَتْ مِن دُونِهِمْ حِجَابًۭا فَاَرْسَلْنَآ إِلَيْهَا رُوحَنَا فَتَمَثَّلَ لَهَا بَشَرًا سَوِيًّۭا",
     "urdu_text": "پھر انهوں نے ان سے پرده کر لیا، تو هم نے ان کی طرف اپنی روح (جبرائیل) کو بھیجا، تو وه ان کے سامنے مکمل انسانی شکل میں ظاهر هوئے۔",
     "persian_text": "پس از آنان پرده‌ای کشید، آنگاه روح خود (جبرئیل) را به سوی او فرستادیم و او به صورت انسانی کامل بر او ظاهر شد.",
     "transliteration": "Fattakhazat min doonihim hijaaban fa-arsalnaa ilayhaa roohanaa fatamassala lahaa basharan sawiyyaa"
@@ -169,7 +169,7 @@ ayats = [
   {
     "verse_number": 21,
     "english_text": "It will happen, your Lord has said that this is easy for me (giving a son without a husband); so that We make him Our sign for the people, and (a source of) Our Mercy, and this has already been decided.",
-    "arabic_text": "قَالَ كَذَٰلِكِ قَالَ رَبُّكِ هُوَ عَلَىَّ هَيِّنٌۭ ۖ وَلِنَجْعَلَهُۥٓ ءَايَةًۭ لِّلنَّاسِ وَرَحْمَةًۭ مِّنَّا ۚ وَكَانَ اَمْرًۭا مَّقْضِيًّۭا",
+    "arabic_text": "قَالَ كَذَٰلِكِ قَالَ رَبُّكِ هُوَ عَلَىَّ هَيِّنٌۭ ۖ وَلِنَجْعَلَهُۥٓ ءَايَةًۭ لِّلنَّاسِ وَرَحْمَةًۭ مِّنَّا ۚ وَكَانَ اَمْرًا مَّقْضِيًّۭا",
     "urdu_text": "فرشتے نے کها: ایسا هی هوگا، تمهارے رب نے فرمایا هے که یه میرے لیے آسان هے، تاکه هم اسے لوگوں کے لیے نشانی بنائیں اور اپنی طرف سے رحمت قرار دیں، اور یه بات طے شده هو چکی هے۔",
     "persian_text": "فرشته گفت: چنین خواهد شد، پروردگار تو فرموده است که این برای من آسان است، تا او را نشانه‌ای برای مردم و رحمتی از جانب خود قرار دهیم، و این امری مقرر شده است.",
     "transliteration": "Qaala kazaaliki qaala rabbuki huwa 'alayya hayyinun wa linaj'alahu aayatal linnaasi wa rahmatan minnaa wa kaana amram maqdiyyaa"
@@ -257,7 +257,7 @@ ayats = [
   {
     "verse_number": 32,
     "english_text": "And made me obedient to my mother, and (thank Allah) He has not made me a transgressor and disobedient.",
-    "arabic_text": "وَبَرًّۢا بِوَٰلِدَتِى وَلَمْ يَجْعَلْنِى جَبَّارًۭا شَقِيًّۭا",
+    "arabic_text": "وَبَرًّۢا بِوَٰلِدَتِى وَلَمْ يَجْعَلْنِى جَبَّارًا شَقِيًّۭا",
     "urdu_text": "اور اپنی والده کا فرمانبردار بنایا، اور الله کا شکر هے که اس نے مجھے سرکش اور بدبخت نهیں بنایا۔",
     "persian_text": "و مرا نیکوکار به مادرم قرار داد و مرا سرکش و بدبخت نساخت.",
     "transliteration": "Wa barram bi-wālidatī wa lam yaj'alnī jabbāran shaqiyyā"
@@ -281,7 +281,7 @@ ayats = [
   {
     "verse_number": 35,
     "english_text": "It is not befitting for Allah to make anybody His son, He is pure and purest, and when He decides to do something, he just says: Be, and it becomes.",
-    "arabic_text": "مَا كَانَ لِلَّهِ اَن يَتَّخِذَ مِن وَلَدٍۢ ۖ سُبْحَـٰنَهُۥٓ ۚ إِذَا قَضَىٰٓ اَمْرًۭا فَإِنَّمَا يَقُولُ لَهُۥ كُن فَيَكُونُ",
+    "arabic_text": "مَا كَانَ لِلَّهِ اَن يَتَّخِذَ مِن وَلَدٍۢ ۖ سُبْحَـٰنَهُۥٓ ۚ إِذَا قَضَىٰٓ اَمْرًا فَإِنَّمَا يَقُولُ لَهُۥ كُن فَيَكُونُ",
     "urdu_text": "الله کے لیے یه مناسب نهیں که وه کسی کو اپنا بیٹا بنائے، وه پاک هے، جب وه کسی کام کا فیصله کرتا هے تو بس اسے کهتا هے که هو جا، تو وه هو جاتا هے۔",
     "persian_text": "شایسته خدا نیست که فرزندی برگزیند، منزه است او، هنگامی که کاری را اراده کند فقط می‌گوید باش پس می‌شود.",
     "transliteration": "Mā kāna lillāhi an yattakhidha min waladin subḥānahu idhā qaḍā amran fa-innamā yaqūlu lahu kun fa-yakūn"

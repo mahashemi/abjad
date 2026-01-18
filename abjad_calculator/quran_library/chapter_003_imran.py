@@ -178,7 +178,7 @@ ayats = [
   {
     "verse_number": 23,
     "english_text": "O Prophet! Did you not notice the condition of the people who are given part of the book; now they are being called towards the Book of Allah, so the justice is done among them through these books and some of them turned their face.",
-    "arabic_text": "اَلَمْ تَرَ اِلَى الَّذِيْنَ اُوتُوا نَصِيبًۭا مِّنَ الْكِتٰبِ يُدْعَوْنَ اِلَٰى كِتٰبِ اللّٰهِ لِيَحْكُمَ بَيْنَهُمْ ثُمَّ يَتَوَلَّىٰ فَرِيقٌۭ مِّنْهُمْ وَهُم مُّعْرِضُونَ",
+    "arabic_text": "اَلَمْ تَرَ اِلَى الَّذِيْنَ اُوتُوا نَصِيبًا مِّنَ الْكِتٰبِ يُدْعَوْنَ اِلَٰى كِتٰبِ اللّٰهِ لِيَحْكُمَ بَيْنَهُمْ ثُمَّ يَتَوَلَّىٰ فَرِيقٌۭ مِّنْهُمْ وَهُم مُّعْرِضُونَ",
     "urdu_text": "اے نبی! کیا آپ نے ان لوگوں کی حالت نہیں دیکھی جنہیں کتاب کا ایک حصہ دیا گیا تھا، اب انہیں اللہ کی کتاب کی طرف بلایا جاتا ہے تاکہ ان کے درمیان فیصلہ کیا جائے، پھر ان میں سے ایک گروہ منہ موڑ لیتا ہے اور وہ اعراض کرنے والے ہیں۔",
     "persian_text": "ای پیامبر! آیا ندیدی حال کسانی را که بهره‌ای از کتاب به آنها داده شده است، اکنون به سوی کتاب خدا فراخوانده می‌شوند تا میان آنها داوری کند، سپس گروهی از آنان روی برمی‌گردانند و آنها اعراض‌کنندگانند.",
     "transliteration": "Alam tara ilal-lazeena ootoo naSeeban minal-kitaabi yud'awna ilaa kitaabil-laahi liyaHkuma baynahum thumma yatawallaa fareequm-minhum wa hum mu'riDoon",
@@ -186,7 +186,7 @@ ayats = [
   {
     "verse_number": 24,
     "english_text": "These are the people who turn back, because they say they have to stay only for a few days in Hell, and more than that the fire cannot touch them, with these forgeries they are defeated in their own religion.",
-    "arabic_text": "ذٰلِكَ بِاَنَّهُمْ قَالُوا لَن تَمَسَّنَا النَّارُ اِلَّاٰ اَيَّامًۭا مَّعْدُودَٰتٍۢ   وَغَرَّهُمْ فِىْ دِينِهِم مَّا كَانُوا يَفْتَرُونَ",
+    "arabic_text": "ذٰلِكَ بِاَنَّهُمْ قَالُوْا لَن تَمَسَّنَا النَّارُ اِلَّاٰ اَيَّامًا مَّعْدُودَٰتٍۢ   وَغَرَّهُمْ فِىْ دِينِهِم مَّا كَانُوا يَفْتَرُونَ",
     "urdu_text": "یہ اس لیے ہے کہ انہوں نے کہا کہ ہمیں آگ صرف چند گنتی کے دنوں تک چھوئے گی، اور ان کے اپنے گھڑے ہوئے جھوٹ نے انہیں ان کے دین میں دھوکے میں ڈال دیا۔",
     "persian_text": "این بدان سبب است که گفتند آتش جز چند روز معدود به ما نخواهد رسید، و آنچه افترا می‌بستند آنها را در دینشان فریب داد.",
     "transliteration": "Zaalika bi-annahum qaaloo lan tamassanan-naaru illaa ayyaamam-ma'doodaatinw-wa gharrahum fee deenihim maa kaanoo yaftaroon",
@@ -306,7 +306,7 @@ ayats = [
   {
     "verse_number": 39,
     "english_text": "Then angels called to him while Zakaria was praying in the room and told him that Allah is giving glad tiding to you of Yahya who will witness the Words of Allah, will be chief, pious and a messenger among the righteous ones.",
-    "arabic_text": "فَنَادَتْهُ الْمَلٰٓئِكَةُ وَ هُوَ قَاٰئِمٌ يُصَلِّىْ فِىْ الْمِحْرَابِ اَنَّ اللّٰهَ يُبَشِّرُكَ بِيَحْيٰى مُصَدِّقًا بِكَلِمَةٍ مِّنَ اللّٰهِ وَ سَيِّدًا وَّ حَصُورًۭا وَ نَبِيًّا مِّنَ الصّٰلِحِينَ",
+    "arabic_text": "فَنَادَتْهُ الْمَلٰٓئِكَةُ وَ هُوَ قَاٰئِمٌ يُصَلِّىْ فِىْ الْمِحْرَابِ اَنَّ اللّٰهَ يُبَشِّرُكَ بِيَحْيٰى مُصَدِّقًا بِكَلِمَةٍ مِّنَ اللّٰهِ وَ سَيِّدًا وَّ حَصُورًا وَ نَبِيًّا مِّنَ الصّٰلِحِينَ",
     "urdu_text": "پھر فرشتوں نے اسے پکارا جبکہ وہ عبادت گاہ میں کھڑا نماز پڑھ رہا تھا کہ اللہ تمہیں یحییٰ کی خوشخبری دیتا ہے جو اللہ کے کلمے کی تصدیق کرنے والا سردار پرہیزگار اور نیک لوگوں میں سے نبی ہوگا",
     "persian_text": "پس فرشتگان او را ندا دادند در حالی که ایستاده در محراب نماز می‌گزارد که خداوند تو را به یحیی بشارت می‌دهد که تصدیق کننده کلمه‌ای از خداست و سرور و پارسا و پیامبری از شایستگان",
     "transliteration": "Fanadathu al-mala'ikatu wa huwa qa'imun yusalli fi al-mihrab anna Allaha yubashshiruka bi-Yahya musaddiqan bi-kalimatin mina Allahi wa sayyidan wa hasuran wa nabiyyan mina as-salihin",
@@ -594,7 +594,7 @@ ayats = [
   {
     "verse_number": 75,
     "english_text": "Among the people of book are some such that if you entrust heap of wealth they will return, and there are some with whom if you entrust even one coin they will not return until you strongly demand, and they think, they do not have any obligation towards Arabs, they tell lie about Allah and know they are lying.",
-    "arabic_text": "وَ مِنْ اَهْلِ الْكِتٰبِ مَنْ اِنْ تَاْمَنْهُ بِقِنْطٓارٍ يُّؤَدِّهِٓ اِلَيْكَ   وَ مِنْهُمْ مَّنْ اِنْ تَاْمَنْهُ بِدِيْنَارٍ لَّا يُؤَدِّهِٓ اِلَيْكَ اِلَّا مَا دُمْتَ عَلَيْهِ قَآئِمًا   ذٰلِكَ بِاَنَّهُمْ قَالُوا لَيْسَ عَلَيْنَا فِىْ الْاُمِّيِّنَ سَبِيْلٌ وَ يَقُولُوْنَ عَلَى اللّٰهِ الْكَذِبَ وَ هُمْ يَعْلَمُوْنَ",
+    "arabic_text": "وَ مِنْ اَهْلِ الْكِتٰبِ مَنْ اِنْ تَاْمَنْهُ بِقِنْطٓارٍ يُّؤَدِّهِٓ اِلَيْكَ   وَ مِنْهُمْ مَّنْ اِنْ تَاْمَنْهُ بِدِيْنَارٍ لَّا يُؤَدِّهِٓ اِلَيْكَ اِلَّا مَا دُمْتَ عَلَيْهِ قَآئِمًا   ذٰلِكَ بِاَنَّهُمْ قَالُوْا لَيْسَ عَلَيْنَا فِىْ الْاُمِّيِّنَ سَبِيْلٌ وَ يَقُولُوْنَ عَلَى اللّٰهِ الْكَذِبَ وَ هُمْ يَعْلَمُوْنَ",
     "urdu_text": "اور اہل کتاب میں سے کوئی ایسا ہے کہ اگر تم اس کے پاس ڈھیر سارا مال امانت رکھو تو وہ تمہیں واپس کر دے گا، اور ان میں سے کوئی ایسا ہے کہ اگر تم ایک دینار بھی اس کے پاس امانت رکھو تو وہ تمہیں واپس نہیں کرے گا جب تک تم اس پر کھڑے نہ رہو۔ یہ اس لیے کہ انہوں نے کہا کہ ان پڑھ لوگوں کے بارے میں ہم پر کوئی گناہ نہیں، اور وہ اللہ پر جھوٹ بولتے ہیں اور جانتے ہیں کہ جھوٹ بول رہے ہیں",
     "persian_text": "و از اهل کتاب کسی است که اگر مال فراوان به او امانت دهی آن را به تو بازگرداند، و از آنان کسی است که اگر یک دینار به او امانت دهی آن را به تو بازنگرداند مگر آنکه پیوسته بر سر او ایستاده باشی. این بدان سبب است که گفتند: در باره امیان بر ما راهی نیست، و بر خدا دروغ می‌بندند و می‌دانند که دروغ می‌گویند",
     "transliteration": "Wa min Ahlil-Kitabi man in ta'manhu biqintarin yu'addihee ilayka wa minhum man in ta'manhu bideenarin la yu'addihee ilayka illa ma dumta 'alayhi qa'ima, zalika bi-annahum qaloo laysa 'alayna fil-ummiyyeena sabeelun wa yaqooloona 'alallahil-kaziba wa hum ya'lamoon",

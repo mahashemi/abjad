@@ -17,7 +17,7 @@ ayats = [
   {
     "verse_number": 2,
     "english_text": "Rise up during the night but little less.",
-    "arabic_text": "قُمِ الَّيْلَ اِلَّا قَلِيلًۭا",
+    "arabic_text": "قُمِ الَّيْلَ اِلَّا قَلِيلًا",
     "urdu_text": "رات کو کھڑے رهو مگر تھوڑا کم۔",
     "persian_text": "شب را به عبادت بپا خیز مگر اندکی.",
     "transliteration": "Qumil layla illaa qaleelaa"
@@ -41,7 +41,7 @@ ayats = [
   {
     "verse_number": 5,
     "english_text": "We are shortly going to reveal a serious commandment on you.",
-    "arabic_text": "اِنَّا سَنُلْقِى عَلَيْكَ قَوْلًۭا ثَقِيلًا",
+    "arabic_text": "اِنَّا سَنُلْقِى عَلَيْكَ قَوْلًا ثَقِيلًا",
     "urdu_text": "بیشک هم عنقریب تم پر ایک بھاری کلام نازل کریں گے۔",
     "persian_text": "به زودی سخنی گران بر تو نازل خواهیم کرد.",
     "transliteration": "Innaa sanulqee 'alayka qawlan thaqeelaa"
@@ -57,7 +57,7 @@ ayats = [
   {
     "verse_number": 7,
     "english_text": "Verily for you during the day there is lots of busyness.",
-    "arabic_text": "اِنَّ لَكَ فِى النَّهَارِ سَبْحًۭا طَوِيلًۭا",
+    "arabic_text": "اِنَّ لَكَ فِى النَّهَارِ سَبْحًۭا طَوِيلًا",
     "urdu_text": "بیشک تمهارے لیے دن میں بهت سی مصروفیات هیں۔",
     "persian_text": "به راستی تو در روز مشغولیت‌های فراوانی داری.",
     "transliteration": "Inna laka fin nahaari sabhan taweelaa"
@@ -65,7 +65,7 @@ ayats = [
   {
     "verse_number": 8,
     "english_text": "And mention the name of your Lord; and devote yourself to Him only.",
-    "arabic_text": "وَاذْكُرِ اسْمَ رَبِّكَ وَتَبَتَّلْ اِلَيْهِ تَبْتِيلًۭا",
+    "arabic_text": "وَاذْكُرِ اسْمَ رَبِّكَ وَتَبَتَّلْ اِلَيْهِ تَبْتِيلًا",
     "urdu_text": "اور اپنے رب کے نام کا ذکر کرو اور پوری طرح اسی کی طرف متوجه هو جاؤ۔",
     "persian_text": "و نام پروردگارت را یاد کن و خود را به کلی به او وقف کن.",
     "transliteration": "Wadhkurisma rabbika wa tabattal ilayhi tabteelaa"
@@ -73,7 +73,7 @@ ayats = [
   {
     "verse_number": 9,
     "english_text": "He is Lord of the East and West, and there is no god but He, therefore make him only as your guardian.",
-    "arabic_text": "رَّبُّ الْمَشْرِقِ وَالْمَغْرِبِ لَآ اِلَـٰهَ اِلَّا هُوَ فَاتَّخِذْهُ وَكِيلًۭا",
+    "arabic_text": "رَّبُّ الْمَشْرِقِ وَالْمَغْرِبِ لَآ اِلَـٰهَ اِلَّا هُوَ فَاتَّخِذْهُ وَكِيلًا",
     "urdu_text": "وه مشرق اور مغرب کا رب هے، اس کے سوا کوئی معبود نهیں، پس اسے هی اپنا کارساز بنا لو۔",
     "persian_text": "او پروردگار مشرق و مغرب است، هیچ معبودی جز او نیست، پس او را کارگزار خود قرار ده.",
     "transliteration": "Rabbul mashriqi wal maghribi laa ilaaha illaa huwa fattakhidh-hu wakeelaa"
@@ -81,7 +81,7 @@ ayats = [
   {
     "verse_number": 10,
     "english_text": "Have patience with whatever these people are saying and separate them nicely from you.",
-    "arabic_text": "وَاصْبِرْ عَلَىٰ مَا يَقُولُونَ وَاهْجُرْهُمْ هَجْرًۭا جَمِيلًۭا",
+    "arabic_text": "وَاصْبِرْ عَلَىٰ مَا يَقُولُونَ وَاهْجُرْهُمْ هَجْرًا جَمِيلًا",
     "urdu_text": "اور جو کچھ یه لوگ کهتے هیں اس پر صبر کرو اور ان سے اچھے طریقے سے الگ هو جاؤ۔",
     "persian_text": "و بر آنچه می‌گویند صبر کن و از آنان به نیکی دوری گزین.",
     "transliteration": "Wasbir 'alaa maa yaqooloona wahjurhum hajran jameelaa"
@@ -97,7 +97,7 @@ ayats = [
   {
     "verse_number": 12,
     "english_text": "We have got fetters and flaming fire for them.",
-    "arabic_text": "اِنَّ لَدَيْنَآ اَنكَالًۭا وَجَحِيمًۭا",
+    "arabic_text": "اِنَّ لَدَيْنَآ اَنكَالًا وَجَحِيمًا",
     "urdu_text": "بیشک همارے پاس ان کے لیے بیڑیاں اور دوزخ کی آگ هے۔",
     "persian_text": "همانا نزد ما برای آنان غل‌ها و آتش سوزان است.",
     "transliteration": "Inna ladaynaa ankaalan wa jaheema"
@@ -105,7 +105,7 @@ ayats = [
   {
     "verse_number": 13,
     "english_text": "And food which sticks in the throat, and painful punishment.",
-    "arabic_text": "وَطَعَامًۭا ذَا غُصَّةٍۢ وَعَذَابًا اَلِيمًۭا",
+    "arabic_text": "وَطَعَامًا ذَا غُصَّةٍۢ وَعَذَابًا اَلِيمًا",
     "urdu_text": "اور ایسا کھانا جو گلے میں اٹک جائے، اور دردناک عذاب هے۔",
     "persian_text": "و طعامی که در گلو گیر می‌کند، و عذابی دردناک.",
     "transliteration": "Wa ta'aaman zaa ghussatin wa 'azaaban aleema"
@@ -113,7 +113,7 @@ ayats = [
   {
     "verse_number": 14,
     "english_text": "When the earth and the mountains will tremble and the mountains will become a heap of sand.",
-    "arabic_text": "يَوْمَ تَرْجُفُ الْاَرْضُ وَالْجِبَالُ وَكَانَتِ الْجِبَالُ كَثِيبًۭا مَّهِيلًا",
+    "arabic_text": "يَوْمَ تَرْجُفُ الْاَرْضُ وَالْجِبَالُ وَكَانَتِ الْجِبَالُ كَثِيبًا مَّهِيلًا",
     "urdu_text": "جس دن زمین اور پهاڑ کانپ اٹھیں گے اور پهاڑ ریت کے بکھرے هوئے ٹیلے بن جائیں گے۔",
     "persian_text": "روزی که زمین و کوه‌ها به لرزه درآیند و کوه‌ها تبدیل به تپه‌های ریگ پراکنده شوند.",
     "transliteration": "Yawma tarjuful-ardu wal-jibaalu wa kaanatil-jibaalu katheeban maheela"
@@ -121,7 +121,7 @@ ayats = [
   {
     "verse_number": 15,
     "english_text": "Verily, We have sent a Prophet towards you as a witness, like Prophet was sent towards Firaun.",
-    "arabic_text": "اِنَّآ اَرْسَلْنَآ اِلَيْكُمْ رَسُولًۭا شَـٰهِدًا عَلَيْكُمْ كَمَآ اَرْسَلْنَآ اِلَىٰ فِرْعَوْنَ رَسُولًۭا",
+    "arabic_text": "اِنَّآ اَرْسَلْنَآ اِلَيْكُمْ رَسُولًا شَـٰهِدًا عَلَيْكُمْ كَمَآ اَرْسَلْنَآ اِلَىٰ فِرْعَوْنَ رَسُولًا",
     "urdu_text": "بیشک هم نے تمهاری طرف ایک رسول بھیجا جو تم پر گواه هے، جیسے هم نے فرعون کی طرف رسول بھیجا تھا۔",
     "persian_text": "همانا ما به سوی شما پیامبری فرستادیم که بر شما گواه است، همان‌گونه که به سوی فرعون پیامبری فرستادیم.",
     "transliteration": "Innaa arsalnaa ilaykum rasoolan shaahidan 'alaykum kamaa arsalnaa ilaa Fir'awna rasoola"
@@ -129,7 +129,7 @@ ayats = [
   {
     "verse_number": 16,
     "english_text": "So Firaun disobeyed the prophet, so We took in him in Our clutches.",
-    "arabic_text": "فَعَصَىٰ فِرْعَوْنُ الرَّسُولَ فَاَخَذْنَـٰهُ اَخْذًۭا وَبِيلًۭا",
+    "arabic_text": "فَعَصَىٰ فِرْعَوْنُ الرَّسُولَ فَاَخَذْنَـٰهُ اَخْذًۭا وَبِيلًا",
     "urdu_text": "پس فرعون نے رسول کی نافرمانی کی تو هم نے اسے سخت پکڑ میں پکڑ لیا۔",
     "persian_text": "پس فرعون از پیامبر نافرمانی کرد، آنگاه او را به گرفتاری سختی گرفتار ساختیم.",
     "transliteration": "Fa'asaa Fir'awnur-rasoola fa-akhaznaahu akhzan wabeela"
@@ -137,7 +137,7 @@ ayats = [
   {
     "verse_number": 17,
     "english_text": "Then if you also will disbelieve how will save yourself on the Day which will make children the aged ones.",
-    "arabic_text": "فَكَيْفَ تَتَّقُونَ اِن كَفَرْتُمْ يَوْمًۭا يَجْعَلُ الْوِلْدَٰنَ شِيبًا",
+    "arabic_text": "فَكَيْفَ تَتَّقُونَ اِن كَفَرْتُمْ يَوْمًا يَجْعَلُ الْوِلْدَٰنَ شِيبًا",
     "urdu_text": "پھر اگر تم نے بھی کفر کیا تو اس دن سے کیسے بچو گے جو بچوں کو بوڑھا کر دے گا۔",
     "persian_text": "پس اگر کافر شوید، چگونه از آن روزی که کودکان را پیر می‌کند، خود را نگه خواهید داشت.",
     "transliteration": "Fakayfa tattaqoona in kafartum yawman yaj'alul-wildaana sheeba"
@@ -161,7 +161,7 @@ ayats = [
   {
     "verse_number": 20,
     "english_text": "Your Lord knows that you stand nearly for two-third of night (sometime) half of it or (sometime) one-third of the night, along with you there is another group, and Allah keep the correct measure of the day and the night, and He knows that you people will not be able to do this correctly, so he showed beneficence on you, now read Quran as much as you can, He knows that shortly among you some will be sick; and some will go on travel to seek Allah's sustenance, and some will fight in the way of Allah, so recite as much as possible; establish prayer, give poor-rate, and give goodly loan (Qarz-e-Hasna) to Allah; and then whatever good you will send in advance for yourself you will find it present in the Presence of Allah, better and greater by the way of reward; and seek forgiveness from Allah, that He is most forgiving and merciful.",
-    "arabic_text": "۞ اِنَّ رَبَّكَ يَعْلَمُ اَنَّكَ تَقُومُ اَدْنَىٰ مِن ثُلُثَىِ الَّيْلِ وَنِصْفَهُ وَثُلُثَهُ وَطَآئِفَةٌۭ مِّنَ الَّذِينَ مَعَكَ ۚ وَاللَّهُ يُقَدِّرُ الَّيْلَ وَالنَّهَارَ ۚ عَلِمَ اَن لَّن تُحْصُوهُ فَتَابَ عَلَيْكُمْ ۖ فَاقْرَءُواْ مَا تَيَسَّرَ مِنَ الْقُرْءَانِ ۚ عَلِمَ اَن سَيَكُونُ مِنكُم مَّرْضَىٰ ۙ وَءَاخَرُونَ يَضْرِبُونَ فِى الْاَرْضِ يَبْتَغُونَ مِن فَضْلِ اللَّهِ ۙ وَءَاخَرُونَ يُقَـٰتِلُونَ فِى سَبِيلِ اللَّهِ ۖ فَاقْرَءُواْ مَا تَيَسَّرَ مِنْهُ ۚ وَاَقِيمُواْ الصَّلَوٰةَ وَءَاتُواْ الزَّكَوٰةَ وَاَقْرِضُواْ اللَّهَ قَرْضًا حَسَنًۭا ۚ وَ مَا تُقَدِّمُواْ لِاَنفُسِكُم مِّنْ خَيْرٍۢ تَجِدُوهُ عِندَ اللَّهِ هُوَ خَيْرًۭا وَاَعْظَمَ اَجْرًۭا ۚ وَاسْتَغْفِرُواْ اللَّهَ ۖ اِنَّ اللَّهَ غَفُورٌۭ رَّحِيمٌۢ",
+    "arabic_text": "۞ اِنَّ رَبَّكَ يَعْلَمُ اَنَّكَ تَقُومُ اَدْنَىٰ مِن ثُلُثَىِ الَّيْلِ وَنِصْفَهُ وَثُلُثَهُ وَطَآئِفَةٌۭ مِّنَ الَّذِينَ مَعَكَ ۚ وَاللّٰهُ يُقَدِّرُ الَّيْلَ وَالنَّهَارَ ۚ عَلِمَ اَن لَّن تُحْصُوهُ فَتَابَ عَلَيْكُمْ ۖ فَاقْرَءُواْ مَا تَيَسَّرَ مِنَ الْقُرْءَانِ ۚ عَلِمَ اَن سَيَكُونُ مِنكُم مَّرْضَىٰ ۙ وَءَاخَرُونَ يَضْرِبُونَ فِى الْاَرْضِ يَبْتَغُونَ مِن فَضْلِ اللّٰهِ ۙ وَءَاخَرُونَ يُقَـٰتِلُونَ فِى سَبِيلِ اللّٰهِ ۖ فَاقْرَءُواْ مَا تَيَسَّرَ مِنْهُ ۚ وَاَقِيمُواْ الصَّلَوٰةَ وَءَاتُواْ الزَّكَوٰةَ وَاَقْرِضُواْ اللّٰهَ قَرْضًا حَسَنًۭا ۚ وَ مَا تُقَدِّمُواْ لِاَنفُسِكُم مِّنْ خَيْرٍۢ تَجِدُوهُ عِندَ اللّٰهِ هُوَ خَيْرًا وَاَعْظَمَ اَجْرًا ۚ وَاسْتَغْفِرُواْ اللّٰهَ ۖ اِنَّ اللّٰهَ غَفُورٌۭ رَّحِيمٌۢ",
     "urdu_text": "بیشک تمهارا رب جانتا هے که تم رات کے دو تهائی کے قریب، یا آدھی رات، یا ایک تهائی رات کھڑے رهتے هو، اور تمهارے ساتھیوں میں سے ایک جماعت بھی، اور الله رات اور دن کا اندازه رکھتا هے، اس نے جان لیا که تم اس کا صحیح حساب نهیں رکھ سکو گے، تو اس نے تم پر مهربانی فرمائی، پس قرآن میں سے جتنا آسان هو پڑھ لیا کرو، اس نے جان لیا که تم میں سے کچھ بیمار هوں گے، اور کچھ الله کے فضل کی تلاش میں زمین میں سفر کریں گے، اور کچھ الله کی راه میں جهاد کریں گے، پس اس میں سے جتنا آسان هو پڑھ لیا کرو، اور نماز قائم کرو، اور زکوٰۃ ادا کرو، اور الله کو اچھا قرض دو، اور جو نیکی تم اپنے لیے آگے بھیجو گے اسے الله کے پاس بهتر اور اجر میں بڑھا هوا پاؤ گے، اور الله سے بخشش مانگو، بیشک الله بخشنے والا مهربان هے۔",
     "persian_text": "همانا پروردگار تو می‌داند که تو نزدیک به دو سوم شب، یا نیمی از آن، یا یک سوم آن را به عبادت می‌ایستی، و گروهی از کسانی که با تو هستند نیز چنین می‌کنند، و الله شب و روز را اندازه‌گیری می‌کند، او دانست که شما نمی‌توانید آن را دقیق محاسبه کنید، پس بر شما توبه پذیرفت، پس از قرآن آنچه آسان است بخوانید، او دانست که به زودی برخی از شما بیمار خواهند شد، و برخی دیگر در زمین سفر می‌کنند تا از فضل الله بجویند، و برخی دیگر در راه الله جهاد می‌کنند، پس از آن آنچه آسان است بخوانید، و نماز را برپا دارید، و زکات را بپردازید، و به الله قرض نیکو دهید، و هر نیکی که برای خود پیش فرستید، آن را نزد الله بهتر و بزرگ‌تر از نظر پاداش خواهید یافت، و از الله آمرزش بخواهید، همانا الله آمرزنده مهربان است.",
     "transliteration": "Inna Rabbaka ya'lamu annaka taqoomu adnaa min thuluthayil-layli wa nisfahoo wa thuluthahoo wa taaa'ifatum minal-lazeena ma'ak, wallaahu yuqaddirul-layla wan-nahaar, 'alima al-lan tuhsoohu fataaba 'alaykum faqra'oo maa tayassara minal-Qur'aan, 'alima an sayakoonu minkum mardaa wa aakharoona yadriboona fil-ardi yabtaghoona min fadlillaahi wa aakharoona yuqaatiloona fee sabeelillaah, faqra'oo maa tayassara minh, wa aqeemus-salaata wa aatuz-zakaata wa aqridul-laaha qardan hasanaa, wa maa tuqaddimoo li-anfusikum min khayrin tajidoohu 'indallaahi huwa khayran wa a'zama ajraa, wastaghfirul-laah, innallaaha Ghafoorur-Raheem"

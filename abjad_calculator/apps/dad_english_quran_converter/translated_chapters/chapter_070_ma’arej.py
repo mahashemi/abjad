@@ -41,7 +41,7 @@ ayats = [
   {
     "verse_number": 5,
     "english_text": "Hence, you use your best patience.",
-    "arabic_text": "فَٱصْبِرْ صَبْرًۭا جَمِيلًا",
+    "arabic_text": "فَٱصْبِرْ صَبْرًا جَمِيلًا",
     "urdu_text": "پس آپ خوبصورت صبر کریں۔",
     "persian_text": "پس صبری زیبا پیشه کن.",
     "transliteration": "Fasbir sabran jameelaa"
@@ -329,7 +329,7 @@ ayats = [
   {
     "verse_number": 41,
     "english_text": "On the matter that We substitute them with better people and we are not incapable.",
-    "arabic_text": "عَلَىٰٓ اَن نُّبَدِّلَ خَيْرًۭا مِّنْهُمْ وَمَا نَحْنُ بِمَسْبُوقِينَ",
+    "arabic_text": "عَلَىٰٓ اَن نُّبَدِّلَ خَيْرًا مِّنْهُمْ وَمَا نَحْنُ بِمَسْبُوقِينَ",
     "urdu_text": "اس بات پر که هم ان کی جگه ان سے بهتر لوگوں کو لے آئیں اور هم اس سے عاجز نهیں هیں۔",
     "persian_text": "بر این که جای آنان را به بهتر از آنان بدل کنیم و ما ناتوان نیستیم.",
     "transliteration": "'Alaa an nubaddila khayram minhum wa maa nahnu bimasbooqeen"

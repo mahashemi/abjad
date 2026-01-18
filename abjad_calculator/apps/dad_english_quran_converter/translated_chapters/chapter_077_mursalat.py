@@ -25,7 +25,7 @@ ayats = [
   {
     "verse_number": 3,
     "english_text": "And swear by those (winds) which disperse the things (clouds).",
-    "arabic_text": "وَٱلنَّـٰشِرَٰتِ نَشْرًۭا",
+    "arabic_text": "وَٱلنَّـٰشِرَٰتِ نَشْرًا",
     "urdu_text": "اور قسم ہے ان (ہواؤں) کی جو چیزوں (بادلوں) کو پھیلاتی ہیں۔",
     "persian_text": "و سوگند به آنها (بادها) که چیزها (ابرها) را پراکنده می‌سازند.",
     "transliteration": "Wan-naashiraati nashraa"

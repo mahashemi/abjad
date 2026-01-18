@@ -289,7 +289,7 @@ ayats = [
   {
     "verse_number": 36,
     "english_text": "Source of warning to the people.",
-    "arabic_text": "نَذِيرًۭا لِّلْبَشَرِ",
+    "arabic_text": "نَذِيرًا لِّلْبَشَرِ",
     "urdu_text": "لوگوں کے لیے ڈرانے والی هے۔",
     "persian_text": "هشداری برای مردم.",
     "transliteration": "Nazeeran lil-bashar"

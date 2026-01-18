@@ -73,7 +73,7 @@ ayats = [
   {
     "verse_number": 9,
     "english_text": "The day when skies shall revolve completely.",
-    "arabic_text": "يَوْمَ تَمُورُ السَّمَآءُ مَوْرًۭا",
+    "arabic_text": "يَوْمَ تَمُورُ السَّمَآءُ مَوْرًا",
     "urdu_text": "جس دن آسمان بری طرح لرزے گا",
     "persian_text": "روزی که آسمان به شدت در حرکت خواهد بود",
     "transliteration": "Yawma tamoorus-samaaa'u mawraa"
@@ -81,7 +81,7 @@ ayats = [
   {
     "verse_number": 10,
     "english_text": "And mountains shall come in movement.",
-    "arabic_text": "وَتَسِيرُ الْجِبَالُ سَيْرًۭا",
+    "arabic_text": "وَتَسِيرُ الْجِبَالُ سَيْرًا",
     "urdu_text": "اور پہاڑ چلتے پھریں گے",
     "persian_text": "و کوه‌ها به حرکت در خواهند آمد",
     "transliteration": "Wa taseerul jibaalu sayraa"
@@ -169,7 +169,7 @@ ayats = [
   {
     "verse_number": 21,
     "english_text": "Those who believed and their children also obeyed them in faith, then We will cause them to unite with their descendants also, and We will not lessen anybody's deeds even for a particle, and everyone is responsible for his deeds.",
-    "arabic_text": "وَالَّذِينَ ءَامَنُواْ وَاتَّبَعَتْهُمْ ذُرِّيَّتُهُم بِاِيمَـٰنٍ اَلْحَقْنَا بِهِمْ ذُرِّيَّتَهُمْ وَ مَآ اَلَتْنَـٰهُم مِّنْ عَمَلِهِم مِّن شَىْءٍۢ ۚ كُلُّ امْرِئٍۭ بِمَا كَسَبَ رَهِينٌۭ",
+    "arabic_text": "وَالَّذِينَ ءَامَنُواْ وَاتَّبَعَتْهُمْ ذُرِّيَّتُهُم بِاِيمَـٰنٍ اَلْحَقْنَا بِهِمْ ذُرِّيَّتَهُمْ وَ مَآ اَلَتْنَـٰهُم مِّنْ عَمَلِهِم مِّن شَىْءٍۢ ۚ كُلُّ امْرِئٍۭ بِمَا كَسَبَ رَهِينٌ",
     "urdu_text": "اور جو لوگ ایمان لائے اور ان کی اولاد نے بھی ایمان میں ان کی پیروی کی، تو ہم ان کی اولاد کو بھی ان کے ساتھ ملا دیں گے، اور ہم ان کے اعمال میں سے ذرہ برابر بھی کمی نہیں کریں گے، ہر شخص اپنے اعمال کا ذمہ دار ہے۔",
     "persian_text": "و کسانی که ایمان آوردند و فرزندانشان نیز با ایمان از آنها پیروی کردند، فرزندانشان را به آنها ملحق می‌کنیم و از اعمالشان چیزی کم نمی‌کنیم، هر کسی به آنچه کسب کرده گرو است.",
     "transliteration": "Wallazeena aamanoo wattaba'at-hum zurriyyatuhum bi-eemaanin alhaqnaa bihim zurriyyatahum wa maaa alatnaahum min 'amalihim min shay', kullu-mri'im bimaa kasaba raheen"
@@ -185,7 +185,7 @@ ayats = [
   {
     "verse_number": 23,
     "english_text": "They will pass on the cups (of pure wine) (one to another); but there shall not be any nonsense nor any sin.",
-    "arabic_text": "يَتَنَـٰزَعُونَ فِيهَا كَاْسًۭا لَّا لَغْوٌۭ فِيهَا وَلَا تَاْثِيمٌۭ",
+    "arabic_text": "يَتَنَـٰزَعُونَ فِيهَا كَاْسًۭا لَّا لَغْوٌۭ فِيهَا وَ لَا تَاْثِيمٌۭ",
     "urdu_text": "وہ آپس میں جام شراب لیں گے، جس میں نہ کوئی بیہودہ بات ہوگی اور نہ کوئی گناہ۔",
     "persian_text": "در آنجا جام‌ها را به یکدیگر می‌دهند که در آن نه لغو است و نه گناهی.",
     "transliteration": "Yatanaaza'oona feehaa ka'sal laa laghwun feehaa wa laa ta'theem"
@@ -193,7 +193,7 @@ ayats = [
   {
     "verse_number": 24,
     "english_text": "And young boys will wander around them, who will be like carefully hidden pearls, beautiful and elegant.",
-    "arabic_text": "۞ وَيَطُوفُ عَلَيْهِمْ غِلْمَانٌۭ لَّهُمْ كَاَنَّهُمْ لُؤْلُؤٌۭ مَّكْنُونٌۭ",
+    "arabic_text": "۞ وَيَطُوفُ عَلَيْهِمْ غِلْمَانٌ لَّهُمْ كَاَنَّهُمْ لُؤْلُؤٌۭ مَّكْنُونٌ",
     "urdu_text": "اور ان کے گرد نوجوان لڑکے خدمت کے لیے پھریں گے، جو چھپے ہوئے موتیوں کی طرح خوبصورت اور پاکیزہ ہوں گے۔",
     "persian_text": "و غلامانی بر آنها طواف می‌کنند که گویی مرواریدهای پنهان شده‌ای هستند.",
     "transliteration": "Wa yatoofu 'alayhim ghilmaanul lahum ka-annahum lu'lu'um maknoon"
@@ -217,7 +217,7 @@ ayats = [
   {
     "verse_number": 27,
     "english_text": "So Allah has done favour to us, and saved us from the poisonous air of Hell.",
-    "arabic_text": "فَمَنَّ اللَّهُ عَلَيْنَا وَوَقَىٰنَا عَذَابَ السَّمُومِ",
+    "arabic_text": "فَمَنَّ اللّٰهُ عَلَيْنَا وَوَقَىٰنَا عَذَابَ السَّمُومِ",
     "urdu_text": "پس اللہ نے ہم پر احسان فرمایا اور ہمیں دوزخ کے جھلسا دینے والے عذاب سے بچا لیا۔",
     "persian_text": "پس خداوند بر ما منت نهاد و ما را از عذاب سوزان نگه داشت.",
     "transliteration": "Famannallaahu 'alaynaa wa waqaanaa 'azaabas-samoom"
@@ -233,7 +233,7 @@ ayats = [
   {
     "verse_number": 29,
     "english_text": "Therefore, continue admonishing people, by the grace of Allah you are neither a magician nor a madman.",
-    "arabic_text": "فَذَكِّرْ فَمَآ اَنتَ بِنِعْمَتِ رَبِّكَ بِكَاهِنٍۢ وَلَا مَجْنُونٍ",
+    "arabic_text": "فَذَكِّرْ فَمَآ اَنتَ بِنِعْمَتِ رَبِّكَ بِكَاهِنٍۢ وَ لَا مَجْنُونٍ",
     "urdu_text": "پس آپ نصیحت کرتے رہیں، آپ اپنے رب کے فضل سے نہ کاہن ہیں اور نہ دیوانے۔",
     "persian_text": "پس پند بده، که تو به نعمت پروردگارت نه کاهنی و نه دیوانه‌ای.",
     "transliteration": "Fazakkir famaaa anta bi-ni'mati rabbika bi-kaahiniw-wa laa majnoon"
@@ -321,7 +321,7 @@ ayats = [
   {
     "verse_number": 40,
     "english_text": "Or do you ask for any reward of prophethood from them that they are burdened with its load.",
-    "arabic_text": "اَمْ تَسْـَٔلُهُمْ اَجْرًۭا فَهُم مِّن مَّغْرَمٍۢ مُّثْقَلُونَ",
+    "arabic_text": "اَمْ تَسْـَٔلُهُمْ اَجْرًا فَهُم مِّن مَّغْرَمٍۢ مُّثْقَلُونَ",
     "urdu_text": "یا آپ ان سے نبوت کا کوئی معاوضہ مانگتے ہیں کہ وہ اس کے بوجھ سے دبے ہوئے ہیں؟",
     "persian_text": "یا از آنها پاداشی برای رسالت می‌خواهی که از بار آن سنگینی می‌کشند؟",
     "transliteration": "Am tas'aluhum ajran fahum min maghramim muthqaloon"
@@ -345,7 +345,7 @@ ayats = [
   {
     "verse_number": 43,
     "english_text": "Or for them there is another god besides Allah, whereas Allah is clean and pure from their polytheism.",
-    "arabic_text": "اَمْ لَهُمْ اِلَـٰهٌ غَيْرُ اللَّهِ ۚ سُبْحَـٰنَ اللَّهِ عَمَّا يُشْرِكُونَ",
+    "arabic_text": "اَمْ لَهُمْ اِلَـٰهٌ غَيْرُ اللّٰهِ ۚ سُبْحَـٰنَ اللّٰهِ عَمَّا يُشْرِكُونَ",
     "urdu_text": "کیا ان کے لیے اللہ کے سوا کوئی اور معبود ہے؟ اللہ پاک ہے ان کے شرک سے۔",
     "persian_text": "آیا برای آنان معبودی جز الله است؟ منزه است الله از آنچه شریک می‌سازند.",
     "transliteration": "Am lahum ilaahun ghayrul-laah, subhaanal-laahi 'ammaa yushrikoon"
@@ -369,7 +369,7 @@ ayats = [
   {
     "verse_number": 46,
     "english_text": "The day when no trick will work, nor will there be any helper for them.",
-    "arabic_text": "يَوْمَ لَا يُغْنِى عَنْهُمْ كَيْدُهُمْ شَيْـًۭٔا وَلَا هُمْ يُنصَرُونَ",
+    "arabic_text": "يَوْمَ لَا يُغْنِى عَنْهُمْ كَيْدُهُمْ شَيْـًۭٔا وَ لَا هُمْ يُنصَرُونَ",
     "urdu_text": "جس دن ان کی کوئی چال ان کے کام نہ آئے گی اور نہ ان کی مدد کی جائے گی۔",
     "persian_text": "روزی که نیرنگشان هیچ سودی به آنان نرساند و یاری نخواهند شد.",
     "transliteration": "Yawma laa yughnee 'anhum kayduhum shay'anw-wa laa hum yunsaroon"
@@ -377,7 +377,7 @@ ayats = [
   {
     "verse_number": 47,
     "english_text": "And those who did unjust, for them there is also other punishment than this; but most of them are unaware about this.",
-    "arabic_text": "وَاِنَّ لِلَّذِينَ ظَلَمُواْ عَذَابًۭا دُونَ ذَٰلِكَ وَلَـٰكِنَّ اَكْثَرَهُمْ لَا يَعْلَمُونَ",
+    "arabic_text": "وَاِنَّ لِلَّذِينَ ظَلَمُواْ عَذَابًا دُونَ ذَٰلِكَ وَلَـٰكِنَّ اَكْثَرَهُمْ لَا يَعْلَمُونَ",
     "urdu_text": "اور بے شک جن لوگوں نے ظلم کیا ان کے لیے اس سے پہلے بھی عذاب ہے لیکن ان میں سے اکثر نہیں جانتے۔",
     "persian_text": "و همانا برای کسانی که ستم کردند عذابی پیش از آن نیز هست، ولی بیشترشان نمی‌دانند.",
     "transliteration": "Wa inna lillazeena zalamoo 'azaaban doona zaalika wa laakinna aksarahum laa ya'lamoon"

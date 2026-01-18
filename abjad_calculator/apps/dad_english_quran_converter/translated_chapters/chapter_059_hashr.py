@@ -113,7 +113,7 @@ ayats = [
   {
     "verse_number": 14,
     "english_text": "They will never fight collectively with you except when they are in secured towns or from behind the walls, strong is their fighting spirit among them, you think they are united, never, there is severe discord in their hearts; and this is because this nation has no wisdom.",
-    "arabic_text": "لَا يُقَـٰتِلُونَكُمْ جَمِيعًا اِلَّا فِى قُرًۭى مُّحَصَّنَةٍ اَوْ مِن وَرَآءِ جُدُرٍۢ ۚ بَاْسُهُم بَيْنَهُمْ شَدِيدٌۭ ۖ تَحْسَبُهُمْ جَمِيعًۭا وَقُلُوبُهُمْ شَتَّىٰ ۚ ذَٰلِكَ بِاَنَّهُمْ قَوْمٌۭ لَّا يَعْقِلُونَ",
+    "arabic_text": "لَا يُقَـٰتِلُونَكُمْ جَمِيعًا اِلَّا فِى قُرًى مُّحَصَّنَةٍ اَوْ مِن وَرَآءِ جُدُرٍۢ ۚ بَاْسُهُم بَيْنَهُمْ شَدِيدٌۭ ۖ تَحْسَبُهُمْ جَمِيعًۭا وَقُلُوبُهُمْ شَتَّىٰ ۚ ذَٰلِكَ بِاَنَّهُمْ قَوْمٌۭ لَّا يَعْقِلُونَ",
     "urdu_text": "یہ تم سے اکٹھے ہو کر کبھی نہیں لڑیں گے سوائے محفوظ بستیوں میں یا دیواروں کے پیچھے سے، ان میں آپس میں لڑنے کا جوش بہت سخت ہے، تم انہیں متحد سمجھتے ہو حالانکہ ان کے دل بکھرے ہوئے ہیں، یہ اس لیے کہ یہ قوم عقل نہیں رکھتی",
     "persian_text": "آنها هرگز با شما جمعی جنگ نخواهند کرد مگر در شهرهای محصن یا از پشت دیوارها، جنگاوری آنها در میان خودشان شدید است، تو آنها را متحد می‌پنداری ولی دلهایشان پراکنده است، این بدان سبب است که آنها قومی هستند که خرد ندارند",
     "transliteration": "La yuqatilunakum jami'an illa fi quran muhassanatin aw min wara'i judurin ba'suhum baynahum shadidun tahsabuhum jami'an wa qulubuhum shatta dhalika bi'annahum qawmul-la ya'qilun"

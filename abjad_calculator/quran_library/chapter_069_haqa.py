@@ -57,7 +57,7 @@ ayats = [
   {
     "verse_number": 7,
     "english_text": "Which Allah made to prevail over them for seven nights and eight days successively, that you are observing the nation is lying dead, as if they are hollow trunks of palm trees.",
-    "arabic_text": "سَخَّرَهَا عَلَيْهِمْ سَبْعَ لَيَالٍۢ وَثَمَـٰنِيَةَ اَيَّامٍ حُسُومًۭا فَتَرَى الْقَوْمَ فِيهَا صَرْعَىٰ كَاَنَّهُمْ اَعْجَازُ نَخْلٍ خَاوِيَةٍۢ",
+    "arabic_text": "سَخَّرَهَا عَلَيْهِمْ سَبْعَ لَيَالٍۢ وَثَمَـٰنِيَةَ اَيَّامٍ حُسُومًا فَتَرَى الْقَوْمَ فِيهَا صَرْعَىٰ كَاَنَّهُمْ اَعْجَازُ نَخْلٍ خَاوِيَةٍۢ",
     "urdu_text": "الله نے اس آندھی کو سات راتیں اور آٹھ دن مسلسل ان پر مسلط رکھا، تو تم دیکھتے که وه قوم اس میں مرده پڑی هے گویا کھجور کے کھوکھلے تنے هیں۔",
     "persian_text": "که خداوند آن را هفت شب و هشت روز پیاپی بر آنان مسلط کرد، پس مردم را در آن حال می‌دیدی که مانند تنه‌های توخالی درختان خرما افتاده بودند.",
     "transliteration": "Sakhkharahaa 'alayhim sab'a layaalin wa thamaaniyata ayyaamin husooman fatara al-qawma feehaa sar'aa ka-annahum a'jaazu nakhlin khaawiyah"
@@ -97,7 +97,7 @@ ayats = [
   {
     "verse_number": 12,
     "english_text": "So that (We) make it an admonition for you, and ear that preserves may listen.",
-    "arabic_text": "لِنَجْعَلَهَا لَكُمْ تَذْكِرَةًۭ وَتَعِيَهَآ اُذُنٌۭ وَٰعِيَةٌۭ",
+    "arabic_text": "لِنَجْعَلَهَا لَكُمْ تَذْكِرَةًۭ وَتَعِيَهَآ اُذُنٌ وَٰعِيَةٌۭ",
     "urdu_text": "تاکه هم اسے تمهارے لیے نصیحت بنا دیں اور سننے والے کان اسے یاد رکھیں۔",
     "persian_text": "تا آن را برای شما عبرتی قرار دهیم و گوش شنوا آن را نگه دارد.",
     "transliteration": "Linaj'alahaa lakum tadhkiratanw-wa ta'iyahaaa udhunuw-waa'iyah"
@@ -265,7 +265,7 @@ ayats = [
   {
     "verse_number": 33,
     "english_text": "He did not believe in the Great Allah.",
-    "arabic_text": "اِنَّهُ كَانَ لَا يُؤْمِنُ بِاللَّهِ الْعَظِيمِ",
+    "arabic_text": "اِنَّهُ كَانَ لَا يُؤْمِنُ بِاللّٰهِ الْعَظِيمِ",
     "urdu_text": "بیشک وه الله عظیم پر ایمان نهیں رکھتا تھا۔",
     "persian_text": "زیرا او به خدای بزرگ ایمان نمی‌آورد.",
     "transliteration": "Innahoo kaana laa yu'minu billaahil 'Azeem"
@@ -273,7 +273,7 @@ ayats = [
   {
     "verse_number": 34,
     "english_text": "And had not encouraged people to feed the destitute.",
-    "arabic_text": "وَلَا يَحُضُّ عَلَىٰ طَعَامِ الْمِسْكِينِ",
+    "arabic_text": "وَ لَا يَحُضُّ عَلَىٰ طَعَامِ الْمِسْكِينِ",
     "urdu_text": "اور نه مسکین کو کھانا کھلانے کی ترغیب دیتا تھا۔",
     "persian_text": "و دیگران را به طعام دادن به مسکین ترغیب نمی‌کرد.",
     "transliteration": "Wa laa yahuddu 'alaa ta'aamil miskeen"
@@ -289,7 +289,7 @@ ayats = [
   {
     "verse_number": 36,
     "english_text": "And there is no food except puss.",
-    "arabic_text": "وَلَا طَعَامٌ اِلَّا مِنْ غِسْلِينٍۢ",
+    "arabic_text": "وَ لَا طَعَامٌ اِلَّا مِنْ غِسْلِينٍۢ",
     "urdu_text": "اور کوئی کھانا نهیں سوائے پیپ کے۔",
     "persian_text": "و غذایی جز چرک و خون نیست.",
     "transliteration": "Wa laa ta'aamun illaa min ghisleen"
@@ -329,7 +329,7 @@ ayats = [
   {
     "verse_number": 41,
     "english_text": "And this is not the word of any poet, yea you believe very less.",
-    "arabic_text": "وَ مَا هُوَ بِقَوْلِ شَاعِرٍۢ ۚ قَلِيلًۭا مَّا تُؤْمِنُونَ",
+    "arabic_text": "وَ مَا هُوَ بِقَوْلِ شَاعِرٍۢ ۚ قَلِيلًا مَّا تُؤْمِنُونَ",
     "urdu_text": "اور یه کسی شاعر کا کلام نهیں هے، تم بهت کم ایمان لاتے هو۔",
     "persian_text": "و این سخن هیچ شاعری نیست، شما بسیار کم ایمان می‌آورید.",
     "transliteration": "Wa maa huwa bi qawli shaa'irin qaleelam maa tu'minoon"
@@ -337,7 +337,7 @@ ayats = [
   {
     "verse_number": 42,
     "english_text": "And this is not a word of any soothsayer on which you ponder very little.",
-    "arabic_text": "وَلَا بِقَوْلِ كَاهِنٍۢ ۚ قَلِيلًۭا مَّا تَذَكَّرُونَ",
+    "arabic_text": "وَ لَا بِقَوْلِ كَاهِنٍۢ ۚ قَلِيلًا مَّا تَذَكَّرُونَ",
     "urdu_text": "اور نه یه کسی کاهن کا قول هے، تم بهت کم غور و فکر کرتے هو۔",
     "persian_text": "و نه سخن هیچ کاهنی است، شما بسیار کم تفکر می‌کنید.",
     "transliteration": "Wa laa bi qawli kaahinin qaleelam maa tazakkaroon"

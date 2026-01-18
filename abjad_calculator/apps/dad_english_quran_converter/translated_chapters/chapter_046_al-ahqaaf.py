@@ -89,7 +89,7 @@ ayats = [
   {
     "verse_number": 11,
     "english_text": "And these infidels say to the believers that if this religion was better then they would not have gone ahead of us; and when they did not get the guidance themselves now they say that it is a very old lie.",
-    "arabic_text": "وَقَالَ ٱلَّذِينَ كَفَرُواْ لِلَّذِينَ ءَامَنُواْ لَوْ كَانَ خَيْرًۭا مَّا سَبَقُونَآ إِلَيْهِ ۚ وَإِذْ لَمْ يَهْتَدُواْ بِهِۦ فَسَيَقُولُونَ هَـٰذَآ إِفْكٌۭ قَدِيمٌۭ",
+    "arabic_text": "وَقَالَ ٱلَّذِينَ كَفَرُواْ لِلَّذِينَ ءَامَنُواْ لَوْ كَانَ خَيْرًا مَّا سَبَقُونَآ إِلَيْهِ ۚ وَإِذْ لَمْ يَهْتَدُواْ بِهِۦ فَسَيَقُولُونَ هَـٰذَآ إِفْكٌۭ قَدِيمٌۭ",
     "urdu_text": "اور کافروں نے مومنوں سے کها که اگر یه دین بهتر هوتا تو یه لوگ هم سے پهلے اس کی طرف نه بڑھتے، اور جب وه خود اس سے هدایت نهیں پا سکے تو اب کهتے هیں که یه تو بهت پرانا جھوٹ هے۔",
     "persian_text": "و کسانی که کفر ورزیدند به مؤمنان گفتند: اگر این دین بهتر بود، آنها بر ما در پذیرفتن آن پیشی نمی‌گرفتند، و چون خود هدایت نیافتند، اکنون می‌گویند این دروغی کهن است.",
     "transliteration": "Wa qalal-lazeena kafaroo lil-lazeena aamanoo law kaana khayram-maa sabaqoonaaa ilayh, wa iz lam yahtadoo bihee fa-sayaqooloona haazaaa ifkun qadeem"
@@ -209,7 +209,7 @@ ayats = [
   {
     "verse_number": 26,
     "english_text": "And certainly, We had given them the authorities which (We) have not given to you, and We had given them ears, eyes and hearts, but neither ears benefitted them nor eyes and hearts, that they were deniers of the Divine verses; and they were encompassed by the punishment, which they used to mocked at.",
-    "arabic_text": "وَلَقَدْ مَكَّنَّـٰهُمْ فِيمَآ إِن مَّكَّنَّـٰكُمْ فِيهِ وَجَعَلْنَا لَهُمْ سَمْعًۭا وَاَبْصَـٰرًۭا وَاَفْـِٔدَةًۭ فَمَآ اَغْنَىٰ عَنْهُمْ سَمْعُهُمْ وَلَآ اَبْصَـٰرُهُمْ وَلَآ اَفْـِٔدَتُهُم مِّن شَىْءٍ إِذْ كَانُواْ يَجْحَدُونَ بِـَٔايَـٰتِ ٱللَّهِ وَحَاقَ بِهِم مَّا كَانُواْ بِهِۦ يَسْتَهْزِءُونَ",
+    "arabic_text": "وَلَقَدْ مَكَّنَّـٰهُمْ فِيمَآ إِن مَّكَّنَّـٰكُمْ فِيهِ وَجَعَلْنَا لَهُمْ سَمْعًۭا وَاَبْصَـٰرًا وَاَفْـِٔدَةًۭ فَمَآ اَغْنَىٰ عَنْهُمْ سَمْعُهُمْ وَلَآ اَبْصَـٰرُهُمْ وَلَآ اَفْـِٔدَتُهُم مِّن شَىْءٍ إِذْ كَانُواْ يَجْحَدُونَ بِـَٔايَـٰتِ ٱللَّهِ وَحَاقَ بِهِم مَّا كَانُواْ بِهِۦ يَسْتَهْزِءُونَ",
     "urdu_text": "اور یقیناً هم نے انهیں وه اختیارات دیے تھے جو تمهیں نهیں دیے، اور هم نے انهیں کان، آنکھیں اور دل دیے تھے، لیکن نه ان کے کان انهیں فائده دے سکے، نه آنکھیں اور نه دل، کیونکه وه الله کی آیات کا انکار کرتے تھے، اور انهیں اس عذاب نے گھیر لیا جس کا وه مذاق اڑاتے تھے۔",
     "persian_text": "و قطعاً ما آنان را در آنچه شما را در آن توانا نساخته‌ایم، توانا ساختیم و برای آنان گوش و چشم و دل قرار دادیم، اما نه گوششان و نه چشمشان و نه دلشان چیزی از آنان دفع نکرد، زیرا که آیات الله را انکار می‌کردند، و آنچه را که به آن استهزا می‌کردند آنان را فرا گرفت.",
     "transliteration": "Wa laqad makkannahum feema im-makkanakum feehi wa ja'alna lahum sam'an wa absaran wa af'idatan fama aghna 'anhum sam'uhum wa la absaruhum wa la af'idatuhum min shay'in idh kanu yajhaduna bi'ayatillahi wa haqa bihim ma kanu bihi yastahzi'oon"
@@ -233,7 +233,7 @@ ayats = [
   {
     "verse_number": 29,
     "english_text": "When We made a group of jinn attentive towards you to listen to Quran; when they came, they said among themselves to listen silently, when recitation ended, they returned immediately to their nation as warners.",
-    "arabic_text": "وَإِذْ صَرَفْنَآ إِلَيْكَ نَفَرًۭا مِّنَ ٱلْجِنِّ يَسْتَمِعُونَ ٱلْقُرْءَانَ فَلَمَّا حَضَرُوهُ قَالُوٓاْ اَنصِتُواْ ۖ فَلَمَّا قُضِىَ وَلَّوْاْ إِلَىٰ قَوْمِهِم مُّنذِرِينَ",
+    "arabic_text": "وَإِذْ صَرَفْنَآ إِلَيْكَ نَفَرًا مِّنَ ٱلْجِنِّ يَسْتَمِعُونَ ٱلْقُرْءَانَ فَلَمَّا حَضَرُوهُ قَالُوٓاْ اَنصِتُواْ ۖ فَلَمَّا قُضِىَ وَلَّوْاْ إِلَىٰ قَوْمِهِم مُّنذِرِينَ",
     "urdu_text": "اور جب هم نے جنوں کی ایک جماعت کو تیری طرف متوجه کیا تاکه قرآن سنیں، جب وه آئے تو انهوں نے آپس میں کها خاموش هو کر سنو، جب تلاوت ختم هوئی تو وه فوراً اپنی قوم کی طرف ڈرانے والے بن کر لوٹے۔",
     "persian_text": "و هنگامی که گروهی از جن را به سوی تو متوجه ساختیم تا قرآن را بشنوند، چون حاضر شدند گفتند خاموش باشید، و چون پایان یافت، به سوی قوم خود به عنوان هشداردهنده بازگشتند.",
     "transliteration": "Wa idh sarafna ilayka nafaran minal-jinni yastami'oonal-Qur'ana falamma hadaruhu qalu ansitu falamma qudiya wallaw ila qawmihim mundhireen"

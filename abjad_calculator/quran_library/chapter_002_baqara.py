@@ -106,7 +106,7 @@ ayats = [
   {
     "verse_number": 14,
     "english_text": "When they meet the believers, they say that they are the believers but when they meet with their evil ones in isolation, they say we are with you; we just make them (Muslims) fools.",
-    "arabic_text": "وَ اِذَا لَقُوا الَّذِيْنَ اٰمَنُوا قَالُوا اٰمَنَّا وَ اِذَا خَلَوْا اِلَٰى شَيٰطِينِهِمْ قَالُوْآ اِنَّا مَعَكُمْ اِنَّمَا نَحْنُ مُسْتَهْزِئُونَ",
+    "arabic_text": "وَ اِذَا لَقُوا الَّذِيْنَ اٰمَنُوا قَالُوْا اٰمَنَّا وَ اِذَا خَلَوْا اِلَٰى شَيٰطِينِهِمْ قَالُوْآ اِنَّا مَعَكُمْ اِنَّمَا نَحْنُ مُسْتَهْزِئُونَ",
     "urdu_text": "اور جب وہ ایمان والوں سے ملتے ہیں تو کہتے ہیں کہ ہم ایمان لائے، اور جب اپنے شیطانوں سے تنہائی میں ملتے ہیں تو کہتے ہیں کہ ہم تمہارے ساتھ ہیں، ہم تو صرف مذاق کر رہے ہیں۔",
     "persian_text": "و هنگامی که مؤمنان را ملاقات می‌کنند می‌گویند ایمان آورده‌ایم، و چون با شیاطین خود خلوت می‌کنند می‌گویند ما با شما هستیم، ما فقط آنها را مسخره می‌کنیم.",
     "transliteration": "Wa idhaa laqul-ladheena aamanoo qaalooo aamannaa wa idhaa khalaw ilaa shayaateenihim qaalooo innaa ma'akum innamaa nahnu mustahzi'oon",
@@ -162,7 +162,7 @@ ayats = [
   {
     "verse_number": 21,
     "english_text": "O people! Pray to your Lord who has created you and the people before you. (You) may become God-fearing.",
-    "arabic_text": "يَا اَيُّهَا النَّاسُ اعْبُدُوا رَبَّكُمُ الَّذِىْ خَلَقَكُمْ وَ الَّذِيْنَ مِن قَبْلِكُمْ لَعَلَّكُمْ تَتَّقُونَ",
+    "arabic_text": "يٰٓاَيُّهَا النَّاسُ اعْبُدُوا رَبَّكُمُ الَّذِىْ خَلَقَكُمْ وَ الَّذِيْنَ مِن قَبْلِكُمْ لَعَلَّكُمْ تَتَّقُونَ",
     "urdu_text": "اے لوگو! اپنے رب کی عبادت کرو جس نے تمہیں اور تم سے پہلے لوگوں کو پیدا کیا، تاکہ تم پرہیزگار بن جاؤ۔",
     "persian_text": "ای مردم! پروردگار خود را بپرستید که شما و کسانی را که پیش از شما بودند آفرید، باشد که پرهیزگار شوید.",
     "transliteration": "Ya ayyuhan-nasu'budu rabbakumu alladhi khalaqakum walladheena min qablikum la'allakum tattaqoon",
@@ -194,7 +194,7 @@ ayats = [
   {
     "verse_number": 25,
     "english_text": "And who have become believers and have done good work (O Prophet) grant them glad tidings that there are gardens (of Paradises) and beneath there are rivers, when they will eat the fruits they will say that they have had these fruits earlier because they will get the similar kind of fruits and in Paradise and there will be neat and pure wives and they will stay there (in gardens) forever.",
-    "arabic_text": "وَ بَشِّرِ الَّذِيْنَ اٰمَنُوا وَ عَمِلُوا الصٰلِحٰتِ اَنَّ لَهُمْ جَنّٰتٍ تَجْرِى مِن تَحْتِهَا الْاَنْهٰرُ  كُلَّمَا رُزِقُوا مِنْهَا مِن ثَمَرَةٍ رِّزْقًا ۙ قَالُوا هٰذَا الَّذِىْ رُزِقْنَا مِن قَبْلُ ۙ  وَ اُتُوْا بِهِ مُتَشَابِهًا  وَ لَهُمْ فِيهَا اَزْوَاجٌ مُّطَهَّرَةٌ  وَّ هُمْ فِيهَا خٰلِدُونَ",
+    "arabic_text": "وَ بَشِّرِ الَّذِيْنَ اٰمَنُوا وَ عَمِلُوا الصٰلِحٰتِ اَنَّ لَهُمْ جَنّٰتٍ تَجْرِى مِن تَحْتِهَا الْاَنْهٰرُ  كُلَّمَا رُزِقُوا مِنْهَا مِن ثَمَرَةٍ رِّزْقًا ۙ قَالُوْا هٰذَا الَّذِىْ رُزِقْنَا مِن قَبْلُ ۙ  وَ اُتُوْا بِهِ مُتَشَابِهًا  وَ لَهُمْ فِيهَا اَزْوَاجٌ مُّطَهَّرَةٌ  وَّ هُمْ فِيهَا خٰلِدُونَ",
     "urdu_text": "اور جو لوگ ایمان لائے اور نیک اعمال کیے انہیں خوشخبری دے دو کہ ان کے لیے ایسے باغات ہیں جن کے نیچے نہریں بہتی ہیں، جب بھی انہیں وہاں سے کوئی پھل کھانے کو ملے گا تو کہیں گے یہ وہی ہے جو ہمیں پہلے ملا تھا اور انہیں ملتے جلتے پھل دیے جائیں گے اور ان کے لیے وہاں پاکیزہ بیویاں ہوں گی اور وہ وہاں ہمیشہ رہیں گے۔",
     "persian_text": "و کسانی را که ایمان آورده و کارهای شایسته کرده‌اند بشارت ده که برای آنان باغ‌هایی است که از زیر درختانش نهرها جاری است، هر گاه از میوه‌های آن روزی داده شوند می‌گویند این همان است که پیش از این به ما داده شد و میوه‌های مشابه به آنان داده می‌شود و برای آنان در آن همسران پاکیزه‌ای است و آنان در آن جاودانه خواهند بود.",
     "transliteration": "Wa bashshiril-latheena aamanoo wa 'amilus-saalihaati anna lahum jannaatin tajree min tahtihal-anhaar kullamaa ruziqoo minhaa min samaratin rizqan qaaloo haathal-lathee ruziqnaa min qablu wa utoo bihee mutashaabihan wa lahum feehaa azwaajum mutahharatunw-wa hum feehaa khaalidoon",
@@ -234,7 +234,7 @@ ayats = [
   {
     "verse_number": 30,
     "english_text": "And (O Prophet) remember the time when your Lord said that He wants to make a vicegerent on the earth so angels said (with awe) You will create one who will spread corruption and cause bloodshed on the earth whereas (if You want to make a vicegerent we are more deserving because) we praise and glorify You and prove your piousness, the Allah said there is no doubt whatever I know you do not know.",
-    "arabic_text": "وَ اِذْ قَالَ رَبُّكَ لِلْمَلٰٓئِكَةِ اِنِّى جَاعِلٌ فِى الْاَرْضِ خَلِيفَةً  قَالُوآ اَتَجْعَلُ فِيهَا مَنْ يُفْسِدُ فِيهَا وَ يَسْفِكُ الدِّمَآءَ  وَ نَحْنُ نُسَبِّحُ بِحَمْدِكَ وَ نُقَدِّسُ لَكَ  قَالَ اِنِّى اَعْلَمُ مَا لَا تَعْلَمُونَ",
+    "arabic_text": "وَ اِذْ قَالَ رَبُّكَ لِلْمَلٰٓئِكَةِ اِنِّى جَاعِلٌ فِى الْاَرْضِ خَلِيفَةً  قَالُوْآ اَتَجْعَلُ فِيهَا مَنْ يُفْسِدُ فِيهَا وَ يَسْفِكُ الدِّمَآءَ  وَ نَحْنُ نُسَبِّحُ بِحَمْدِكَ وَ نُقَدِّسُ لَكَ  قَالَ اِنِّى اَعْلَمُ مَا لَا تَعْلَمُونَ",
     "urdu_text": "اور جب تمہارے رب نے فرشتوں سے کہا کہ میں زمین میں ایک خلیفہ بنانے والا ہوں، تو انہوں نے عرض کیا کیا تو وہاں ایسے کو بنائے گا جو فساد پھیلائے اور خون ریزی کرے، جبکہ ہم تیری حمد کے ساتھ تسبیح کرتے ہیں اور تیری پاکیزگی بیان کرتے ہیں؟ اللہ نے فرمایا بے شک میں وہ جانتا ہوں جو تم نہیں جانتے۔",
     "persian_text": "و یاد کن زمانی را که پروردگارت به فرشتگان گفت: من در زمین جانشینی قرار خواهم داد. فرشتگان گفتند: آیا کسی را در آن قرار می‌دهی که فساد کند و خون‌ریزی نماید، در حالی که ما به حمد تو تسبیح می‌گوییم و تو را تقدیس می‌کنیم؟ فرمود: من چیزی می‌دانم که شما نمی‌دانید.",
     "transliteration": "Wa idh qaala rabbuka lil-malaaa'ikati innee jaa'ilun fil-ardi khaleefatan qaaloo ataj'alu feehaa man yufsidu feehaa wa yasfikud-dimaaa'a wa nahnu nusabbihu bihamdika wa nuqaddisu laka qaala innee a'lamu maa laa ta'lamoon",
@@ -250,7 +250,7 @@ ayats = [
   {
     "verse_number": 32,
     "english_text": "The angels expressed (their) inability and replied Glory to You, we do not know anything except whatever You have taught us and You are all knowing and identifier of the interests.",
-    "arabic_text": "قَالُوا سُبْحٰنَكَ لَا عِلْمَ لَنَآ اِلَّا مَا عَلَّمْتَنَا اِنَّكَ اَنْتَ الْعَلِيمُ الْحَكِيمُ",
+    "arabic_text": "قَالُوْا سُبْحٰنَكَ لَا عِلْمَ لَنَآ اِلَّا مَا عَلَّمْتَنَا اِنَّكَ اَنْتَ الْعَلِيمُ الْحَكِيمُ",
     "urdu_text": "فرشتوں نے عرض کیا تو پاک ہے، ہمیں کوئی علم نہیں سوائے اس کے جو تو نے ہمیں سکھایا، بے شک تو ہی سب جاننے والا اور حکمت والا ہے۔",
     "persian_text": "گفتند: منزهی تو، ما هیچ علمی نداریم جز آنچه به ما آموخته‌ای، تو دانای حکیم هستی.",
     "transliteration": "Qaaloo subhaanaka laa 'ilma lanaa illaa maa 'allamtanaa innaka antal-'aleemul-hakeem",
@@ -402,7 +402,7 @@ ayats = [
   {
     "verse_number": 51,
     "english_text": "And drowned the people of Firaun in front of you and (also remember the time) when I promised Moosa the forty nights and after his departure you made a calf (for worshipping) whereas you were persecuting yourselves.",
-    "arabic_text": "وَ اِذْ وٰعَدْنَا مُوسٰٓى اَرْبَعِينَ لَيْلَةً ثُمَّ اتَّخَذْتُمُ الْعِجْلَ مِن بَعْدِهِ وَاَنتُمْ ظٰلِمُونَ",
+    "arabic_text": "وَ اِذْ وٰعَدْنَا مُوسٰٓى اَرْبَعِينَ لَيْلَةً ثُمَّ اتَّخَذْتُمُ الْعِجْلَ مِن بَعْدِهِ وَ اَنتُمْ ظٰلِمُونَ",
     "urdu_text": "اور یاد کرو جب ہم نے موسیٰ سے چالیس راتوں کا وعدہ کیا، پھر تم نے ان کے بعد بچھڑے کو معبود بنا لیا حالانکہ تم ظالم تھے۔",
     "persian_text": "و به یاد آورید زمانی را که با موسی وعده چهل شب گذاشتیم، سپس شما پس از او گوساله را (معبود) گرفتید در حالی که ستمکار بودید.",
     "transliteration": "Wa idh wa'adna Musa arba'ina laylatan thummat-takhadhtumul 'ijla min ba'dihi wa antum zalimun",
@@ -538,7 +538,7 @@ ayats = [
   {
     "verse_number": 68,
     "english_text": "Then they said to him to ask Allah how that heifer should look like, Moosa said that Allah is saying that heifer should not be too old or too young but should be of middle age and you should obey what has been commanded.",
-    "arabic_text": "قَالُوا ادْعُ لَنَا رَبَّكَ يُبَيِّن لَّنَا مَا هِىَ  قَالَ اِنَّهُ يَقُولُ اِنَّهَا بَقَرَةٌ لَّا فَارِضٌ وَ لَا بِكْرٌ عَوَانٌۢ بَيْنَ ذٰلِكَ  فَافْعَلُوا مَا تُؤْمَرُونَ",
+    "arabic_text": "قَالُوْا ادْعُ لَنَا رَبَّكَ يُبَيِّن لَّنَا مَا هِىَ  قَالَ اِنَّهُ يَقُولُ اِنَّهَا بَقَرَةٌ لَّا فَارِضٌ وَ لَا بِكْرٌ عَوَانٌۢ بَيْنَ ذٰلِكَ  فَافْعَلُوا مَا تُؤْمَرُونَ",
     "urdu_text": "انہوں نے کہا اپنے رب سے دعا کرو کہ وہ ہمیں بتائے کہ وہ کیسی ہو، موسیٰ نے کہا وہ فرماتا ہے کہ وہ ایسی گائے ہو جو نہ بہت بوڑھی ہو نہ بالکل جوان، بلکہ ان دونوں کے درمیان ہو، پس جو حکم دیا جاتا ہے وہ کرو۔",
     "persian_text": "گفتند: از پروردگارت بخواه که برای ما روشن کند که چگونه است. گفت: او می‌فرماید که گاوی است نه پیر و نه جوان، میانسال است میان آن دو، پس آنچه مأمور شده‌اید انجام دهید.",
     "transliteration": "Qaalud'u lanaa Rabbaka yubayyil lanaa maa hiya qaala innahu yaqoolu innahaa baqaratul laa faaridun wa laa bikrun 'awaanum bayna dhaalika faf'aloo maa tu'maroon",
@@ -546,7 +546,7 @@ ayats = [
   {
     "verse_number": 69,
     "english_text": "They solicit Allah that He should tell us what the color should be, Moosa said Allah is saying that heifer should be of dark fawn color and should be pleasant to the people.",
-    "arabic_text": "قَالُوا ادْعُ لَنَا رَبَّكَ يُبَيِّن لَّنَا مَا لَوْنُهَا  قَالَ اِنَّهُ يَقُولُ اِنَّهَا بَقَرَةٌ صَفْرَآءُ فَاقِعٌ لَّوْنُهَا تَسُرُّ النّٰظِرِينَ",
+    "arabic_text": "قَالُوْا ادْعُ لَنَا رَبَّكَ يُبَيِّن لَّنَا مَا لَوْنُهَا  قَالَ اِنَّهُ يَقُولُ اِنَّهَا بَقَرَةٌ صَفْرَآءُ فَاقِعٌ لَّوْنُهَا تَسُرُّ النّٰظِرِينَ",
     "urdu_text": "انہوں نے کہا اپنے رب سے دعا کرو کہ وہ ہمیں بتائے کہ اس کا رنگ کیا ہو، موسیٰ نے کہا وہ فرماتا ہے کہ وہ گہرے زرد رنگ کی گائے ہو جس کا رنگ چمکدار ہو اور دیکھنے والوں کو خوش کرے۔",
     "persian_text": "گفتند: از پروردگارت بخواه که برای ما روشن کند رنگش چیست. گفت: او می‌فرماید که گاوی است زرد، رنگش روشن است که بینندگان را خوشحال می‌کند.",
     "transliteration": "Qaalud'u lanaa Rabbaka yubayyil lanaa maa lawnuhaa qaala innahu yaqoolu innahaa baqaratun safraaa'u faaqi'ul lawnuhaa tasurrun-naazihreen",
@@ -554,7 +554,7 @@ ayats = [
   {
     "verse_number": 70,
     "english_text": "Then they said beseech Allah and He may tell us how the heifer should be because it has become ambiguous and if Allah is willing, we will find it.",
-    "arabic_text": "قَالُوا ادْعُ لَنَا رَبَّكَ يُبَيِّن لَّنَا مَا هِىَ اِنَّ الْبَقَرَ تَشٰبَهَ عَلَيْنَا وَ اِنَّآ اِن شَآءَ اللّٰهُ لَمُهْتَدُونَ",
+    "arabic_text": "قَالُوْا ادْعُ لَنَا رَبَّكَ يُبَيِّن لَّنَا مَا هِىَ اِنَّ الْبَقَرَ تَشٰبَهَ عَلَيْنَا وَ اِنَّآ اِن شَآءَ اللّٰهُ لَمُهْتَدُونَ",
     "urdu_text": "انہوں نے کہا اپنے رب سے دعا کرو کہ وہ ہمیں بتائے کہ وہ کیسی ہو کیونکہ گائیں ہم پر مشتبہ ہو گئی ہیں، اور ان شاء اللہ ہم ضرور ہدایت پا لیں گے۔",
     "persian_text": "گفتند: از پروردگارت بخواه که برای ما روشن کند که چگونه است، زیرا گاوها بر ما مشتبه شده‌اند، و ما اگر خدا بخواهد قطعاً هدایت خواهیم یافت.",
     "transliteration": "Qaalud'u lanaa Rabbaka yubayyil lanaa maa hiya innal-baqara tashaabaha 'alaynaa wa innaaa in shaaa'allaahu lamuhtadoon",
@@ -562,7 +562,7 @@ ayats = [
   {
     "verse_number": 71,
     "english_text": "Moosa said Allah has commanded that heifer should not be domesticated not should have been used for ploughing nor should have been used for irrigation, should be healthy, unicolor and spotless, they said not it has become clear, after all they slaughtered the heifer, however they were not going to do it.",
-    "arabic_text": "قَالَ اِنَّهُ يَقُولُ اِنَّهَا بَقَرَةٌ لَّا ذَلُولٌ تُثِيرُ الْاَرْضَ وَ لَا تَسْقِى الْحَرْثَ مُسَلَّمَةٌ لَّا شِيَةَ فِيهَا  قَالُوا الْئٰنَ جِئْتَ بِالْحَقِّ  فَذَبَحُوهَا وَ مَا كَادُوا يَفْعَلُونَ",
+    "arabic_text": "قَالَ اِنَّهُ يَقُولُ اِنَّهَا بَقَرَةٌ لَّا ذَلُولٌ تُثِيرُ الْاَرْضَ وَ لَا تَسْقِى الْحَرْثَ مُسَلَّمَةٌ لَّا شِيَةَ فِيهَا  قَالُوْا الْئٰنَ جِئْتَ بِالْحَقِّ  فَذَبَحُوهَا وَ مَا كَادُوا يَفْعَلُونَ",
     "urdu_text": "موسیٰ نے کہا کہ اللہ فرماتا ہے کہ وہ ایسی گائے ہو جو نہ سدھائی گئی ہو، نہ زمین جوتتی ہو اور نہ کھیت کو پانی دیتی ہو، صحیح سلامت ہو، اس میں کوئی داغ دھبہ نہ ہو۔ انہوں نے کہا اب تم حق بات لائے ہو، پھر انہوں نے اسے ذبح کر دیا حالانکہ وہ ایسا کرنے کے قریب نہیں تھے۔",
     "persian_text": "موسی گفت که خداوند می‌فرماید این گاوی است که رام نشده، زمین شخم نمی‌زند و کشتزار را آب نمی‌دهد، سالم و بی‌عیب است و هیچ لکه‌ای ندارد. گفتند اکنون حقیقت را آوردی، پس آن را سر بریدند در حالی که نزدیک بود آن را انجام ندهند.",
     "transliteration": "Qaala innahu yaqoolu innaha baqaratun laa zaloolun tutheeru al-arda wa laa tasqee al-hartha musallamatun laa shiyata feeha, qaaloo al-aana ji'ta bil-haqq, fazabahoohaa wa maa kaadoo yaf'aloon",
@@ -634,7 +634,7 @@ ayats = [
   {
     "verse_number": 80,
     "english_text": "And they say that hell fire cannot touch them for more than a few days, tell them have you taken any promise from Allah that he cannot break or they are blaming Allah without any thought.",
-    "arabic_text": "وَ قَالُوا لَن تَمَسَّنَا النَّارُ اِلَّآ اَيَّامًا مَّعْدُودَةً  قُلْ اَتَّخَذْتُمْ عِندَ اللّٰهِ عَهْدًا فَلَن يُخْلِفَ اللّٰهُ عَهْدَهُٓ  اَمْ تَقُولُونَ عَلَى اللّٰهِ مَا لَا تَعْلَمُونَ",
+    "arabic_text": "وَ قَالُوْا لَن تَمَسَّنَا النَّارُ اِلَّآ اَيَّامًا مَّعْدُودَةً  قُلْ اَتَّخَذْتُمْ عِندَ اللّٰهِ عَهْدًا فَلَن يُخْلِفَ اللّٰهُ عَهْدَهُٓ  اَمْ تَقُولُونَ عَلَى اللّٰهِ مَا لَا تَعْلَمُونَ",
     "urdu_text": "اور انہوں نے کہا کہ ہمیں آگ ہرگز نہیں چھوئے گی مگر چند گنتی کے دن، کہہ دو کیا تم نے اللہ سے کوئی عہد لے لیا ہے کہ اللہ اپنے عہد کی خلاف ورزی نہیں کرے گا، یا تم اللہ پر وہ بات کہتے ہو جو تم نہیں جانتے۔",
     "persian_text": "و گفتند که آتش جهنم ما را نخواهد سوزاند مگر چند روز معدود، بگو آیا از خدا عهدی گرفته‌اید که خدا هرگز از عهد خود تخلف نمی‌کند، یا بر خدا چیزی می‌گویید که نمی‌دانید.",
     "transliteration": "Wa qaaloo lan tamassanan-naaru illaa ayyaaman ma'doodatan qul attakhaztum 'indallaahi 'ahdan fa-lan yukhlifallaahu 'ahdahoo am taqooloona 'alallaahi maa laa ta'lamoon",
@@ -698,7 +698,7 @@ ayats = [
   {
     "verse_number": 88,
     "english_text": "They say their hearts are wrapped, no, but because of their infidelity they are cursed by Allah and few people become believers.",
-    "arabic_text": "وَ قَالُوا قُلُوبُنَا غُلْفٌ  بَلْ لَّعَنَهُمُ اللّٰهُ بِكُفْرِهِمْ فَقَلِيلًۭا مَّا يُؤْمِنُونَ",
+    "arabic_text": "وَ قَالُوْا قُلُوبُنَا غُلْفٌ  بَلْ لَّعَنَهُمُ اللّٰهُ بِكُفْرِهِمْ فَقَلِيلًا مَّا يُؤْمِنُونَ",
     "urdu_text": "اور انہوں نے کہا ہمارے دل غلاف میں ہیں، بلکہ اللہ نے ان پر ان کے کفر کی وجہ سے لعنت کی ہے، پس بہت کم لوگ ایمان لاتے ہیں۔",
     "persian_text": "و گفتند دل‌های ما در پوشش است، بلکه خداوند به خاطر کفرشان آنها را لعنت کرده است، پس کمتر ایمان می‌آورند.",
     "transliteration": "Wa qaaloo quloobunaa ghulf. Bal la'anahumul-laahu bikufrihim faqaleelam maa yu'minoon.",
@@ -722,7 +722,7 @@ ayats = [
   {
     "verse_number": 91,
     "english_text": "And when they were told to believe what have been revealed they said we already believe on whatever have been revealed to us and do not believe what has been revealed after that although whatever have been revealed is truth and whatever they already have also confirms this, now you tell them if indeed they are believers why they have slayed earlier messengers.",
-    "arabic_text": "وَ اِذَا قِيلَ لَهُمْ اٰمِنُوا بِمَآَ اَنزَلَ اللّٰهُ قَالُوا نُؤْمِنُ بِمَآَ اُنزِلَ عَلَيْنَا  وَ يَكْفُرُونَ بِمَا وَ رَآءَهُ وَ هُوَ الْحَقُّ مُصَدِّقًا لِّمَا مَعَهُمْ   قُلْ فَلِمَ تَقْتُلُونَ اَنْبِيَآءَ اللّٰهِ مِن قَبْلُ اِن كُنتُم مُّؤْمِنِينَ",
+    "arabic_text": "وَ اِذَا قِيلَ لَهُمْ اٰمِنُوا بِمَآَ اَنزَلَ اللّٰهُ قَالُوْا نُؤْمِنُ بِمَآَ اُنزِلَ عَلَيْنَا  وَ يَكْفُرُونَ بِمَا وَ رَآءَهُ وَ هُوَ الْحَقُّ مُصَدِّقًا لِّمَا مَعَهُمْ   قُلْ فَلِمَ تَقْتُلُونَ اَنْبِيَآءَ اللّٰهِ مِن قَبْلُ اِن كُنتُم مُّؤْمِنِينَ",
     "urdu_text": "اور جب ان سے کہا جاتا ہے کہ جو اللہ نے نازل کیا ہے اس پر ایمان لاؤ تو کہتے ہیں ہم تو اس پر ایمان لاتے ہیں جو ہم پر نازل ہوا، اور اس کے بعد کی چیز کا انکار کرتے ہیں حالانکہ وہ حق ہے اور اس کی تصدیق کرتا ہے جو ان کے پاس ہے۔ کہہ دو پھر تم اللہ کے نبیوں کو پہلے کیوں قتل کرتے تھے اگر تم مومن ہو؟",
     "persian_text": "و هنگامی که به آنها گفته شود به آنچه خدا نازل کرده ایمان بیاورید، می‌گویند ما به آنچه بر ما نازل شده ایمان می‌آوریم، و به آنچه بعد از آن است کفر می‌ورزند، در حالی که آن حق است و تصدیق‌کننده آنچه نزد آنهاست. بگو پس چرا پیامبران خدا را پیش از این می‌کشتید اگر مؤمن بودید؟",
     "transliteration": "Wa idhaa qeela lahum aaminoo bimaaa anzalal-laahu qaaloo nu'minu bimaaa unzila 'alaynaa wa yakfuroona bimaa waraa'ahu wa huwal-haqqu musaddiqal limaa ma'ahum. Qul falima taqtuloona ambiyaaa'al-laahi min qablu in kuntum mu'mineen.",
@@ -738,7 +738,7 @@ ayats = [
   {
     "verse_number": 93,
     "english_text": "And remember the time when we took covenant from you and brought Mount Tur (Sinai) on your heads saying hold firmly what have been sent to you and listen, they said we heard but would disobey, they drank to their hearts the love of calf, tell them your faith gives bad instructions, if you have faith.",
-    "arabic_text": "وَ اِذْ اَخَذْنَا مِيثَاقَكُمْ وَ رَفَعْنَا فَوْقَكُمُ الطُّورَ خُذُوا مَآ اٰتَيْنٰكُم بِقُوَّةٍ وَّ اسْمَعُوا  قَالُوا سَمِعْنَا وَ عَصَيْنَا  وَ اُشْرِبُوا فِى قُلُوبِهِمُ الْعِجْلَ بِكُفْرِهِمْ  قُلْ بِئْسَمَا يَاْمُرُكُمْ بِهِٓ اِيمانُكُمْ اِنْ كُنتُم مُّؤْمِنِينَ",
+    "arabic_text": "وَ اِذْ اَخَذْنَا مِيثَاقَكُمْ وَ رَفَعْنَا فَوْقَكُمُ الطُّورَ خُذُوا مَآ اٰتَيْنٰكُم بِقُوَّةٍ وَّ اسْمَعُوا  قَالُوْا سَمِعْنَا وَ عَصَيْنَا  وَ اُشْرِبُوا فِى قُلُوبِهِمُ الْعِجْلَ بِكُفْرِهِمْ  قُلْ بِئْسَمَا يَاْمُرُكُمْ بِهِٓ اِيمانُكُمْ اِنْ كُنتُم مُّؤْمِنِينَ",
     "urdu_text": "اور جب ہم نے تم سے عہد لیا اور کوہِ طور کو تمہارے اوپر اٹھایا کہ جو کچھ ہم نے تمہیں دیا ہے اسے مضبوطی سے پکڑو اور سنو، انہوں نے کہا ہم نے سنا اور نافرمانی کی، اور ان کے دلوں میں بچھڑے کی محبت پلا دی گئی ان کے کفر کی وجہ سے، کہہ دو کہ بہت بری چیز ہے جس کا تمہارا ایمان تمہیں حکم دیتا ہے اگر تم مومن ہو۔",
     "persian_text": "و به یاد آورید زمانی را که از شما پیمان گرفتیم و کوه طور را بالای سر شما برافراشتیم که آنچه به شما داده‌ایم با قوت بگیرید و بشنوید، گفتند شنیدیم و نافرمانی کردیم، و محبت گوساله در دل‌هایشان نوشانده شد به سبب کفرشان، بگو چه بد چیزی است که ایمان شما به آن فرمان می‌دهد اگر مؤمن هستید.",
     "transliteration": "Wa idh akhadhnaa meesaaqakum wa rafa'naa fawqakumut-Toora khudhoo maaa aataynaakum biquwwatiw wasma'oo qaaloo sami'naa wa 'asaynaa wa ushriboo fee quloobihimul 'ijla bikufrihim qul bi'samaa ya'murukum biheee eemaanukum in kuntum mu'mineen",
@@ -882,7 +882,7 @@ ayats = [
   {
     "verse_number": 111,
     "english_text": "And Jews and Christians both say only they will go to Paradise, it is only their imagination, tell them if you are truthful then show your proof.",
-    "arabic_text": "وَ قَالُوا لَن يَّدْخُلَ الْجَنَّةَ اِلَّا مَن كَانَ هُودًا اَوْ نَصٰرٰى   تِلْكَ اَمَانِيُّهُمْ قُلْ هَاتُوا بُرْهانَكُمْ اِن كُنتُمْ صٰدِقِينَ",
+    "arabic_text": "وَ قَالُوْا لَن يَّدْخُلَ الْجَنَّةَ اِلَّا مَن كَانَ هُودًا اَوْ نَصٰرٰى   تِلْكَ اَمَانِيُّهُمْ قُلْ هَاتُوا بُرْهانَكُمْ اِن كُنتُمْ صٰدِقِينَ",
     "urdu_text": "اور انہوں نے کہا کہ جنت میں صرف یہودی یا عیسائی ہی داخل ہوں گے، یہ ان کی خام خیالی ہے، کہہ دو کہ اگر تم سچے ہو تو اپنی دلیل پیش کرو۔",
     "persian_text": "و گفتند که جز یهودی یا مسیحی کسی به بهشت داخل نخواهد شد، این آرزوهای آنان است، بگو اگر راست می‌گویید دلیل خود را بیاورید.",
     "transliteration": "Wa qaaloo lan yadkhulal jannata illaa man kaana hoodan aw nasaaraa, tilka amaaniyyuhum, qul haatoo burhaanakum in kuntum saadiqeen",
@@ -922,7 +922,7 @@ ayats = [
   {
     "verse_number": 116,
     "english_text": "And Jews say that Allah has got a son, verily Allah is clear of all this, Allah owns everything on the earth and sky and everything obeys Him.",
-    "arabic_text": "وَ قَالُوا اتَّخَذَ اللّٰهُ وَلَدًا   سُبْحٰنَهُ  بَل لَّهُ مَا فِى السَّمٰوٰتِ وَ الْاَرْضِ  كُلٌّ لَّهُ قٰنِتُونَ",
+    "arabic_text": "وَ قَالُوْا اتَّخَذَ اللّٰهُ وَلَدًا   سُبْحٰنَهُ  بَل لَّهُ مَا فِى السَّمٰوٰتِ وَ الْاَرْضِ  كُلٌّ لَّهُ قٰنِتُونَ",
     "urdu_text": "اور انہوں نے کہا کہ اللہ نے اولاد بنائی ہے، وہ پاک ہے اس سے۔ بلکہ آسمانوں اور زمین میں جو کچھ ہے سب اسی کا ہے، سب اس کے فرمانبردار ہیں۔",
     "persian_text": "و گفتند الله فرزندی اتخاذ کرده است، منزه است او. بلکه آنچه در آسمان‌ها و زمین است از آن اوست، همه برای او فرمانبردارند.",
     "transliteration": "Wa qaalut takhazal laahu waladan subhaanahu bal lahoo maa fis samaawaati wal ard; kullul lahoo qaanitoon",
@@ -1058,7 +1058,7 @@ ayats = [
   {
     "verse_number": 133,
     "english_text": "O Jews, were you there, when death come to Yaqoob and he asked his children who you will worship after me, they said we will worship your Lord and the Lord of your father and forefathers Ibrahim, Ismail and Ishaq who is One and Only and we are His obedient.",
-    "arabic_text": "اَمْ كُنتُمْ شُهَدَآءَ اِذْ حَضَرَ يَعْقُوْبَ الْمَوْتُ اِذْ قَالَ لِبَنِيهِ مَا تَعْبُدُوْنَ مِنۢ بَعْدِى  قَالُوا نَعْبُدُ اِلٰهَكَ وَ اِلٰهَ اٰبَآئِكَ اِبْرٰهِمَ وَ اِسْمٰعِيلَ وَ اِسْحٰقَ اِلٰهًا وٰحِدًا وَّ نَحْنُ لَهُ مُسْلِمُونَ",
+    "arabic_text": "اَمْ كُنتُمْ شُهَدَآءَ اِذْ حَضَرَ يَعْقُوْبَ الْمَوْتُ اِذْ قَالَ لِبَنِيهِ مَا تَعْبُدُوْنَ مِنۢ بَعْدِى  قَالُوْا نَعْبُدُ اِلٰهَكَ وَ اِلٰهَ اٰبَآئِكَ اِبْرٰهِمَ وَ اِسْمٰعِيلَ وَ اِسْحٰقَ اِلٰهًا وٰحِدًا وَّ نَحْنُ لَهُ مُسْلِمُونَ",
     "urdu_text": "اے یہودیو! کیا تم وہاں موجود تھے جب یعقوب کو موت آئی اور انہوں نے اپنے بیٹوں سے پوچھا کہ میرے بعد تم کس کی عبادت کرو گے؟ انہوں نے کہا ہم تیرے معبود اور تیرے باپ دادا ابراہیم، اسماعیل اور اسحاق کے معبود کی عبادت کریں گے جو ایک ہی معبود ہے اور ہم اسی کے فرمانبردار ہیں۔",
     "persian_text": "ای یهودیان! آیا شما حاضر بودید هنگامی که مرگ یعقوب فرا رسید و او به فرزندانش گفت: پس از من چه کسی را خواهید پرستید؟ گفتند: معبود تو و معبود پدرانت ابراهیم و اسماعیل و اسحاق را که معبودی یکتاست خواهیم پرستید و ما فرمانبردار او هستیم.",
     "transliteration": "Am kuntum shuhada'a idh hadara Ya'qoobal-mawtu idh qala libaneehi ma ta'budoona min ba'dee qaloo na'budu ilahaka wa ilaha aba'ika Ibraheema wa Isma'eela wa Ishaqa ilahan wahidan wa nahnu lahu muslimoon",
@@ -1074,7 +1074,7 @@ ayats = [
   {
     "verse_number": 135,
     "english_text": "They ask you to become Jew or Christian to be on the right path, tell them we are on the path of Ibrahim who avoided infidelity and was not among unbelievers.",
-    "arabic_text": "وَ قَالُوا كُونُوا هُودًا اَوْ نَصٰرٰى تَهْتَدُوا  قُلْ بَلْ مِلَّةَ اِبْرٰهِمَ حَنِيفًا وَ مَا كَانَ مِنَ الْمُشْرِكِينَ",
+    "arabic_text": "وَ قَالُوْا كُونُوا هُودًا اَوْ نَصٰرٰى تَهْتَدُوا  قُلْ بَلْ مِلَّةَ اِبْرٰهِمَ حَنِيفًا وَ مَا كَانَ مِنَ الْمُشْرِكِينَ",
     "urdu_text": "اور انہوں نے کہا کہ یہودی یا عیسائی بن جاؤ تو ہدایت پاؤ گے، کہہ دو بلکہ ہم ابراہیم کے دین پر ہیں جو یکسو تھے اور مشرکوں میں سے نہیں تھے۔",
     "persian_text": "و گفتند یهودی یا مسیحی شوید تا هدایت یابید، بگو بلکه آیین ابراهیم که یکتاپرست بود و از مشرکان نبود.",
     "transliteration": "Wa qalu kunu hudan aw nasara tahtadu, qul bal millata Ibrahima hanifan wa ma kana min al-mushrikin",
@@ -1354,7 +1354,7 @@ ayats = [
   {
     "verse_number": 170,
     "english_text": "When they are asked to follow the orders sent by Allah, they deny saying we will follow the tradition of our forefathers whereas their forefathers knew nothing, nor they were on the straight path.",
-    "arabic_text": "وَ اِذَا قِيلَ لَهُمُ اتَّبِعُوا مَآ اَنْزَلَ اللّٰهُ قَالُوا بَلْ نَتَّبِعُ مَآ اَلْفَيْنَا عَلَيْهِ اٰبَآءَنَا   اَوَ لَوْ كَانَ اٰبَآؤُهُمْ لَا يَعْقِلُونَ شَيْئًا وَّ لَا يَهْتَدُونَ",
+    "arabic_text": "وَ اِذَا قِيلَ لَهُمُ اتَّبِعُوا مَآ اَنْزَلَ اللّٰهُ قَالُوْا بَلْ نَتَّبِعُ مَآ اَلْفَيْنَا عَلَيْهِ اٰبَآءَنَا   اَوَ لَوْ كَانَ اٰبَآؤُهُمْ لَا يَعْقِلُونَ شَيْئًا وَّ لَا يَهْتَدُونَ",
     "urdu_text": "اور جب ان سے کہا جاتا ہے کہ اللہ نے جو احکام نازل فرمائے ہیں ان کی پیروی کرو تو وہ کہتے ہیں کہ نہیں، ہم تو اسی طریقے کی پیروی کریں گے جس پر ہم نے اپنے باپ دادا کو پایا، کیا اگرچہ ان کے باپ دادا کچھ نہیں سمجھتے تھے اور نہ ہی ہدایت یافتہ تھے",
     "persian_text": "و هنگامی که به آنان گفته شود از آنچه خدا نازل کرده پیروی کنید، می‌گویند: بلکه ما از آنچه پدران خود را بر آن یافتیم پیروی می‌کنیم، آیا اگرچه پدرانشان چیزی نمی‌فهمیدند و هدایت نیافته بودند",
     "transliteration": "Wa iza qeela lahumuttabi'oo ma anzalallahu qaloo bal nattabi'u ma alfayna 'alayhi aba'ana a-wa law kana aba'uhum la ya'qiloona shay'an wa la yahtadoon",
@@ -1962,7 +1962,7 @@ ayats = [
   {
     "verse_number": 246,
     "english_text": "O Prophet! Have not you considered the heads of Bani-Israel tribe when they said to their messenger to appoint a king for them so they can fight in the way of Allah, he said you may not flee when you are asked to fight, they said we have left our abodes and children and have no excuse that we would not fight in the way of Allah, and when fighting was made compulsory all of them fled except a few, and Allah knows the oppressors very well.",
-    "arabic_text": "اَلَمْ تَرَ اِلَى الْمَلَاِ مِنْۢ بَنِىْٓ اِسْرآءِيْلَ مِنْۢ بَعْدِ مُوسٰى اِذْ قَالُوا لِنَبِىٍّ لَّهُمُ ابْعَثْ لَنَا مَلِكًا نُّقاتِلْ فِى سَبِيلِ اللّٰهِ  قَالَ هَلْ عَسَيْتُمْ اِن كُتِبَ عَلَيْكُمُ الْقِتَالُ اَلَّا تُقَاتِلُوا  قَالُوا وَ مَا لَنَآ اَلَّا نُقَاتِلَ فِىْ سَبِيلِ اللّٰهِ وَ قَدْ اُخْرِجْنَا مِنْ دِيَارِنَا وَ اَبْنَآئِنَا  فَلَمَّا كُتِبَ عَلَيْهِمُ الْقِتَالُ تَوَلَّوْا اِلَّا قَلِيلًا مِّنْهُمْ   وَ اللّٰهُ عَلِيمٌ بِالظّٰلِمِينَ",
+    "arabic_text": "اَلَمْ تَرَ اِلَى الْمَلَاِ مِنْۢ بَنِىْٓ اِسْرآءِيْلَ مِنْۢ بَعْدِ مُوسٰى اِذْ قَالُوْا لِنَبِىٍّ لَّهُمُ ابْعَثْ لَنَا مَلِكًا نُّقاتِلْ فِى سَبِيلِ اللّٰهِ  قَالَ هَلْ عَسَيْتُمْ اِن كُتِبَ عَلَيْكُمُ الْقِتَالُ اَلَّا تُقَاتِلُوا  قَالُوْا وَ مَا لَنَآ اَلَّا نُقَاتِلَ فِىْ سَبِيلِ اللّٰهِ وَ قَدْ اُخْرِجْنَا مِنْ دِيَارِنَا وَ اَبْنَآئِنَا  فَلَمَّا كُتِبَ عَلَيْهِمُ الْقِتَالُ تَوَلَّوْا اِلَّا قَلِيلًا مِّنْهُمْ   وَ اللّٰهُ عَلِيمٌ بِالظّٰلِمِينَ",
     "urdu_text": "کیا تم نے بنی اسرائیل کے سرداروں کو نہیں دیکھا موسیٰ کے بعد جب انہوں نے اپنے نبی سے کہا کہ ہمارے لیے ایک بادشاہ مقرر کر دو تاکہ ہم اللہ کی راہ میں جہاد کریں، نبی نے کہا کیا ممکن نہیں کہ جب تم پر جہاد فرض کیا جائے تو تم جہاد نہ کرو، انہوں نے کہا ہمیں کیا ہو گیا ہے کہ ہم اللہ کی راہ میں جہاد نہ کریں جبکہ ہم اپنے گھروں اور اپنی اولاد سے نکال دیے گئے ہیں، پھر جب ان پر جہاد فرض کیا گیا تو ان میں سے چند کے سوا سب منہ موڑ گئے، اور اللہ ظالموں کو خوب جانتا ہے",
     "persian_text": "آیا ندیدی بزرگان بنی اسرائیل را پس از موسی که به پیامبر خود گفتند پادشاهی برای ما برانگیز تا در راه خدا جهاد کنیم، گفت شاید اگر جهاد بر شما مقرر شود جهاد نکنید، گفتند چرا در راه خدا جهاد نکنیم در حالی که از خانه‌ها و فرزندانمان بیرون رانده شده‌ایم، پس چون جهاد بر آنان مقرر شد جز اندکی از آنان روی گرداندند، و خداوند ستمکاران را می‌داند",
     "transliteration": "Alam tara ilal-mala'i min bani isra'ila min ba'di musa idh qalu li nabiyyin lahumub'ath lana malikan nuqatil fi sabilillahi qala hal 'asaytum in kutiba 'alaykumul-qitalu alla tuqatilu qalu wa ma lana alla nuqatila fi sabilillahi wa qad ukhrijna min diyarina wa abna'ina falamma kutiba 'alayhimul-qitalu tawallaw illa qalilan minhum wallahu 'alimun biz-zalimin",
@@ -1986,7 +1986,7 @@ ayats = [
   {
     "verse_number": 249,
     "english_text": "When Taloot left the city with his army he said to his companions you will find a river through which you will be tested, whoever will drink its water will not be on my side and whoever will not drink its water will be definitely on my side, however if you will drink a handful of water there is no harm, when they reached the river, everyone except a few drank its water, when Taloot with the believers crossed the river they said today we do not find strength to confront Jaloot and his army, but who were real believers instantly said that it is seen quite a few times when a small group has vanquished the large group with the help of Allah, and Allah is with those who have patience.",
-    "arabic_text": "فَلَمَّا فَصَلَ طَالُوْتُ بِالْجُنُودِ قَالَ اِنَّ اللّٰهَ مُبْتَلِيْكُم بِنَهَرٍ  فَمَنْ شَرِبَ مِنْهُ فَلَيْسَ مِنِّى وَ مَن لَّمْ يَطْعَمْهُ فَاِنَّهُ مِنِّىْٓ اِلَّا مَنِ اغْتَرَفَ غُرْفَةًۭ بِيَدِهِ  فَشَرِبُوا مِنْهُ اِلَّا قَلِيْلًا مِّنْهُمْ  فَلَمَّا جَاوَزَهُ هُوَ وَ الَّذِيْنَ اٰمَنُوا مَعَهُ قَالُوا لَا طَاقَةَ لَنَا الْيَوْمَ بِجَالُوتَ وَ جُنُودِهِ  قَالَ الَّذِيْنَ يَظُنُّونَ اَنَّهُم مُّلٰقُوا اللّٰهِ كَم مِّن فِئَةٍ قَلِيْلَةٍ غَلَبَتْ فِئَةً كَثِيرَةً بِاِذْنِ اللّٰهِ   وَاللّٰهُ مَعَ الصّٰبِرِينَ",
+    "arabic_text": "فَلَمَّا فَصَلَ طَالُوْتُ بِالْجُنُودِ قَالَ اِنَّ اللّٰهَ مُبْتَلِيْكُم بِنَهَرٍ  فَمَنْ شَرِبَ مِنْهُ فَلَيْسَ مِنِّى وَ مَن لَّمْ يَطْعَمْهُ فَاِنَّهُ مِنِّىْٓ اِلَّا مَنِ اغْتَرَفَ غُرْفَةًۭ بِيَدِهِ  فَشَرِبُوا مِنْهُ اِلَّا قَلِيْلًا مِّنْهُمْ  فَلَمَّا جَاوَزَهُ هُوَ وَ الَّذِيْنَ اٰمَنُوا مَعَهُ قَالُوْا لَا طَاقَةَ لَنَا الْيَوْمَ بِجَالُوتَ وَ جُنُودِهِ  قَالَ الَّذِيْنَ يَظُنُّونَ اَنَّهُم مُّلٰقُوا اللّٰهِ كَم مِّن فِئَةٍ قَلِيْلَةٍ غَلَبَتْ فِئَةً كَثِيرَةً بِاِذْنِ اللّٰهِ   وَاللّٰهُ مَعَ الصّٰبِرِينَ",
     "urdu_text": "پھر جب طالوت لشکر لے کر روانہ ہوا تو اس نے کہا کہ اللہ تعالیٰ ایک نہر کے ذریعے تمہاری آزمائش کرے گا، جو اس میں سے پانی پیے گا وہ میرا ساتھی نہیں، اور جو اسے نہ چکھے وہ میرا ساتھی ہے، سوائے اس کے جو ہاتھ سے ایک چلو بھر لے، پھر ان میں سے چند کے سوا سب نے اس میں سے پیا، پھر جب طالوت اور اس کے ساتھ ایمان والے دریا پار کر گئے تو انہوں نے کہا کہ آج ہم میں جالوت اور اس کے لشکر کا مقابلہ کرنے کی طاقت نہیں، جو لوگ یقین رکھتے تھے کہ وہ اللہ سے ملنے والے ہیں انہوں نے کہا کہ کتنی ہی بار ایک چھوٹی جماعت نے اللہ کے حکم سے بڑی جماعت پر غالب آئی ہے، اور اللہ صبر کرنے والوں کے ساتھ ہے",
     "persian_text": "پس چون طالوت با سپاهیان بیرون رفت گفت که خداوند شما را به نهری آزمایش می‌کند، پس هر که از آن بنوشد از من نیست و هر که آن را نچشد از من است مگر آنکه یک کف به دست خود بردارد، پس همه از آن نوشیدند جز عده کمی از آنان، پس چون او و کسانی که با او ایمان آورده بودند از آن گذشتند گفتند امروز ما توان مقابله با جالوت و سپاهیانش را نداریم، کسانی که یقین داشتند که به دیدار خدا خواهند رسید گفتند چه بسیار گروه کوچکی که بر گروه بزرگی به اذن خدا پیروز شده است و خداوند با صابران است",
     "transliteration": "Falamma fasala Talootu bil-junoodi qaala innallaaha mubtaleekum bi-naharin faman shariba minhu falaisa minnee wa mal-lam yat'amhu fa-innahu minnee illa manigh-tarafa ghurfatan biyadih fashariboo minhu illa qaleelan minhum falamma jaawazahu huwa wallazeena aamanoo ma'ahu qaaloo laa taaqata lanaa al-yawma bi-Jaaloota wa junoodih qaalal-lazeena yazunnoona annahum mulaaqul-laahi kam min fi'atin qaleelatin ghalabat fi'atan katheeratan bi-iznil-laahi wallaahu ma'as-saabireen",
@@ -1994,7 +1994,7 @@ ayats = [
   {
     "verse_number": 250,
     "english_text": "At last, when they went to confront the army of Jaloot they prayed, O Lord! Give us patience and make us steadfast in fighting and grant us the victory over the unbelievers.",
-    "arabic_text": "وَ لَمَّا بَرَزُواْ لِجَالُوتَ وَ جُنُودِهِ قَالُوا رَبَّنَآ اَفْرِغْ عَلَيْنَا صَبْرًا وَّثَبِّتْ اَقْدَامَنَا وَ انْصُرْنَا عَلَى الْقَوْمِ الْكٰفِرِيْنَ",
+    "arabic_text": "وَ لَمَّا بَرَزُواْ لِجَالُوتَ وَ جُنُودِهِ قَالُوْا رَبَّنَآ اَفْرِغْ عَلَيْنَا صَبْرًا وَّثَبِّتْ اَقْدَامَنَا وَ انْصُرْنَا عَلَى الْقَوْمِ الْكٰفِرِيْنَ",
     "urdu_text": "اور جب وہ جالوت اور اس کے لشکر کے مقابلے میں نکلے تو انہوں نے دعا کی کہ اے ہمارے رب! ہم پر صبر نازل فرما اور ہمارے قدم جما دے اور کافروں کے مقابلے میں ہماری مدد فرما",
     "persian_text": "و چون برای مقابله با جالوت و سپاهیانش بیرون آمدند گفتند پروردگارا بر ما صبر فرو ریز و قدم‌های ما را ثابت کن و ما را بر قوم کافران یاری ده",
     "transliteration": "Wa lamma barazoo li-Jaaloota wa junoodihi qaaloo Rabbanaaa afrigh 'alaynaa sabran wa thabbit aqdaamanaa wansurnaa 'alal-qawmil-kaafireen",
@@ -2274,7 +2274,7 @@ ayats = [
   {
     "verse_number": 285,
     "english_text": "Prophet (Mohammad) believes, on whatever have been revealed on him, and all believers who have faith in Allah, His angels, His Books, and His Prophets, and they say they do not differentiate between the Prophets, and also say, O Lord, we heard and believed, and O Lord, we only need your Forgiveness and we have to return unto You.",
-    "arabic_text": "اٰمَنَ الرَّسُولُ بِمَآ  اُنزِلَ اِلَيْهِ مِنْ رَّبِّهِ وَ الْمُؤْمِنُونَ  كُلٌّ اٰمَنَ بِاللّٰهِ وَ مَلٰٓئِكَتِهِ وَ كُتُبِهِ وَ رُسُلِهِ لَا نُفَرِّقُ بَيْنَ اَحَدٍ مِّن رُّسُلِهِ  وَ قَالُوا سَمِعْنَا وَاَطَعْنَا  غُفْرَانَكَ رَبَّنَا وَ اِلَيْكَ الْمَصِيرُ",
+    "arabic_text": "اٰمَنَ الرَّسُولُ بِمَآ  اُنزِلَ اِلَيْهِ مِنْ رَّبِّهِ وَ الْمُؤْمِنُونَ  كُلٌّ اٰمَنَ بِاللّٰهِ وَ مَلٰٓئِكَتِهِ وَ كُتُبِهِ وَ رُسُلِهِ لَا نُفَرِّقُ بَيْنَ اَحَدٍ مِّن رُّسُلِهِ  وَ قَالُوْا سَمِعْنَا وَاَطَعْنَا  غُفْرَانَكَ رَبَّنَا وَ اِلَيْكَ الْمَصِيرُ",
     "urdu_text": "رسول ایمان لائے اس پر جو ان کے رب کی طرف سے ان پر نازل کیا گیا اور مومنین بھی، سب اللہ پر، اس کے فرشتوں پر، اس کی کتابوں پر اور اس کے رسولوں پر ایمان لائے، ہم اس کے رسولوں میں سے کسی میں فرق نہیں کرتے، اور انہوں نے کہا ہم نے سنا اور اطاعت کی، اے ہمارے رب ہم تیری بخشش چاہتے ہیں اور تیری ہی طرف لوٹنا ہے۔",
     "persian_text": "پیامبر به آنچه از جانب پروردگارش بر او نازل شده ایمان آورد و مؤمنان نیز، همه به خدا و فرشتگان او و کتاب‌هایش و پیامبرانش ایمان آوردند، ما میان هیچ یک از پیامبران او فرق نمی‌گذاریم، و گفتند شنیدیم و اطاعت کردیم، ای پروردگار ما آمرزش تو را می‌خواهیم و بازگشت به سوی توست.",
     "transliteration": "Amanar-rasulu bima unzila ilayhi mir-rabbihi wal-mu'minun, kullun amana billahi wa mala'ikatihi wa kutubihi wa rusulihi la nufarriqu bayna ahadim-mir-rusulihi, wa qalu sami'na wa ata'na ghufranaka rabbana wa ilaykal-masir",

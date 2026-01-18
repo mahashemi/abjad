@@ -241,7 +241,7 @@ ayats = [
   {
     "verse_number": 30,
     "english_text": "Say: what you think if all your water is absorbed underground then who will bring flowing water in rivers for you.",
-    "arabic_text": "قُلْ اَرَءَيْتُمْ إِنْ اَصْبَحَ مَآؤُكُمْ غَوْرًۭا فَمَن يَأْتِيكُم بِمَآءٍۢ مَّعِينٍۭ",
+    "arabic_text": "قُلْ اَرَءَيْتُمْ إِنْ اَصْبَحَ مَآؤُكُمْ غَوْرًا فَمَن يَأْتِيكُم بِمَآءٍۢ مَّعِينٍۭ",
     "urdu_text": "کهه دو: بھلا بتاؤ اگر تمهارا پانی زمین میں اتر جائے تو کون تمهارے لیے بهتا هوا پانی لائے گا؟",
     "persian_text": "بگو: به من بگویید اگر آب شما در زمین فرو رود، پس چه کسی برای شما آب جاری خواهد آورد؟",
     "transliteration": "Qul ara'aytum in asbaha maaa'ukum ghawran faman ya'teekum bimaa'im ma'een"

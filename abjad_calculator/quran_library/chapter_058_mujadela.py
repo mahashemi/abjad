@@ -10,7 +10,7 @@ ayats = [
   {
     "verse_number": 2,
     "english_text": "Those people who do Zihaar with their wives, their wives cannot be their mothers, mothers are only those who gave birth to them, and they say very evil and false talk, and Allah is all Pardoning and all Forgiving.",
-    "arabic_text": "الَّذِينَ يُظَٰهِرُونَ مِنكُم مِّن نِّسَآئِهِم مَّا هُنَّ اُمَّهَٰتِهِمْ ۖ اِنْ اُمَّهَٰتُهُمْ اِلَّا الَّٰـٓـِٔى وَلَدْنَهُمْ ۚ وَاِنَّهُمْ لَيَقُولُونَ مُنكَرًۭا مِّنَ الْقَوْلِ وَزُورًۭا ۚ وَاِنَّ اللّٰهَ لَعَفُوٌّ غَفُورٌۭ",
+    "arabic_text": "الَّذِينَ يُظَٰهِرُونَ مِنكُم مِّن نِّسَآئِهِم مَّا هُنَّ اُمَّهَٰتِهِمْ ۖ اِنْ اُمَّهَٰتُهُمْ اِلَّا الَّٰـٓـِٔى وَلَدْنَهُمْ ۚ وَاِنَّهُمْ لَيَقُولُونَ مُنكَرًا مِّنَ الْقَوْلِ وَزُورًا ۚ وَاِنَّ اللّٰهَ لَعَفُوٌّ غَفُورٌۭ",
     "urdu_text": "تم میں سے جو لوگ اپنی بیویوں سے ظہار کرتے ہیں، وہ ان کی مائیں نہیں ہیں، ان کی مائیں تو صرف وہی ہیں جنہوں نے انہیں جنا ہے، اور بیشک وہ بری اور جھوٹی بات کہتے ہیں، اور بیشک اللہ معاف کرنے والا بخشنے والا ہے",
     "persian_text": "کسانی از شما که با زنان خود ظهار می‌کنند، آنان مادران ایشان نیستند، مادرانشان تنها کسانی هستند که آنها را زاییده‌اند، و همانا آنان سخنی زشت و دروغ می‌گویند، و همانا خداوند بخشنده آمرزنده است",
     "transliteration": "Alladhina yudhahiruna minkum min nisa'ihim ma hunna ummahatuhum in ummahatuhum illal-la'i waladnahum wa innahum layaquluna munkaram minal-qawli wa zura wa innAllaha la'afuwwun ghafur",
@@ -18,7 +18,7 @@ ayats = [
   {
     "verse_number": 3,
     "english_text": "Among you, those who pronounce Zihaar to their wives and wish to go back on their words they uttered, so they should free a slave before touching the wife, this is an admonition for you from Allah, and Allah is very cognizant with your deeds.",
-    "arabic_text": "وَالَّذِينَ يُظَٰهِرُونَ مِن نِّسَآئِهِمْ ثُمَّ يَعُودُونَ لِمَا قَالُواْ فَتَحْرِيرُ رَقَبَةٍۢ مِّن قَبْلِ اَن يَتَمَآسَّا ۚ ذَٰلِكُمْ تُوعَظُونَ بِهِ ۚ وَاللّٰهُ بِمَا تَعْمَلُونَ خَبِيرٌۭ",
+    "arabic_text": "وَالَّذِينَ يُظَٰهِرُونَ مِن نِّسَآئِهِمْ ثُمَّ يَعُودُونَ لِمَا قَالُوْاْ فَتَحْرِيرُ رَقَبَةٍۢ مِّن قَبْلِ اَن يَتَمَآسَّا ۚ ذَٰلِكُمْ تُوعَظُونَ بِهِ ۚ وَاللّٰهُ بِمَا تَعْمَلُونَ خَبِيرٌۭ",
     "urdu_text": "اور جو لوگ اپنی بیویوں سے ظہار کریں پھر اپنی کہی ہوئی بات سے رجوع کرنا چاہیں تو انہیں چاہیے کہ ایک دوسرے کو ہاتھ لگانے سے پہلے ایک غلام آزاد کریں، یہ تمہیں نصیحت کی جاتی ہے، اور اللہ تمہارے اعمال سے خوب باخبر ہے",
     "persian_text": "و کسانی که با زنان خود ظهار می‌کنند سپس از آنچه گفته‌اند بازمی‌گردند، پس باید پیش از آنکه یکدیگر را لمس کنند بنده‌ای را آزاد سازند، این است آنچه به آن پند داده می‌شوید، و خداوند به آنچه انجام می‌دهید آگاه است",
     "transliteration": "Walladhina yudhahiruna min nisa'ihim thumma ya'uduna lima qalu fatahreeru raqabatin min qabli an yatamassa dhalikum tu'azhuna bihi wallahu bima ta'maluna khabir",
@@ -34,7 +34,7 @@ ayats = [
   {
     "verse_number": 5,
     "english_text": "Verily, those who keep enmity with Allah and His prophet will be as humiliated as people before them were humiliated, and We have revealed the Clear Signs, and for the infidels is humiliating punishment.",
-    "arabic_text": "اِنَّ الَّذِينَ يُحَآدُّونَ اللّٰهَ وَرَسُولَهُ كُبِتُواْ كَمَا كُبِتَ الَّذِينَ مِن قَبْلِهِمْ ۚ وَ قَدْ اَنزَلْنَآ اٰيٰتٍۢ بَيِّنَـٰتٍۢ ۚ وَلِلْكَـٰفِرِينَ عَذَابٌۭ مُّهِينٌۭ",
+    "arabic_text": "اِنَّ الَّذِينَ يُحَآدُّونَ اللّٰهَ وَرَسُولَهُ كُبِتُواْ كَمَا كُبِتَ الَّذِينَ مِن قَبْلِهِمْ ۚ وَ قَدْ اَنزَلْنَآ اٰيٰتٍۢ بَيِّنَـٰتٍۢ ۚ وَلِلْكَـٰفِرِينَ عَذَابٌۭ مُّهِينٌ",
     "urdu_text": "بیشک جو لوگ اللہ اور اس کے رسول سے دشمنی کرتے ہیں وہ ذلیل کیے گئے جیسے ان سے پہلے لوگ ذلیل کیے گئے تھے، اور ہم نے واضح آیات نازل کی ہیں، اور کافروں کے لیے رسوا کن عذاب ہے",
     "persian_text": "همانا کسانی که با خدا و پیامبرش دشمنی می‌کنند خوار شدند همانگونه که پیشینیان خوار شدند، و ما آیات روشنی نازل کرده‌ایم، و برای کافران عذابی خوارکننده است",
     "transliteration": "Innalladhina yuhaddunAllaha wa rasulahu kubitu kama kubitAlladhina min qablihim wa qad anzalna ayatin bayyinatin wa lilkafireena adhabun muhin",
@@ -50,7 +50,7 @@ ayats = [
   {
     "verse_number": 7,
     "english_text": "Don't you see that Allah is aware of everything of the skies and the earth, there is not a secret talk between three persons but that He is their fourth, and where there are five secret talk holders He is their sixth; whether less or more if there is a secret talk He is surely with them - wherever they may be; thereafter on the Day of Judgement He will inform them what they had done; verily He is Knower of all things.",
-    "arabic_text": "اَلَمْ تَرَ اَنَّ اللّٰهَ يَعْلَمُ مَا فِى السَّمَـٰوَٰتِ وَ مَا فِى الْاَرْضِ ۖ مَا يَكُونُ مِن نَّجْوَىٰ ثَلَـٰثَةٍ اِلَّا هُوَ رَابِعُهُمْ وَلَا خَمْسَةٍ اِلَّا هُوَ سَادِسُهُمْ وَلَا اَدْنَىٰ مِن ذَٰلِكَ وَلَآ اَكْثَرَ اِلَّا هُوَ مَعَهُمْ اَيْنَ مَا كَانُواْ ۖ ثُمَّ يُنَبِّئُهُم بِمَا عَمِلُواْ يَوْمَ الْقِيَـٰمَةِ ۚ اِنَّ اللّٰهَ بِكُلِّ شَىْءٍ عَلِيمٌۭ",
+    "arabic_text": "اَلَمْ تَرَ اَنَّ اللّٰهَ يَعْلَمُ مَا فِى السَّمَـٰوَٰتِ وَ مَا فِى الْاَرْضِ ۖ مَا يَكُونُ مِن نَّجْوَىٰ ثَلَـٰثَةٍ اِلَّا هُوَ رَابِعُهُمْ وَ لَا خَمْسَةٍ اِلَّا هُوَ سَادِسُهُمْ وَ لَا اَدْنَىٰ مِن ذَٰلِكَ وَلَآ اَكْثَرَ اِلَّا هُوَ مَعَهُمْ اَيْنَ مَا كَانُواْ ۖ ثُمَّ يُنَبِّئُهُم بِمَا عَمِلُواْ يَوْمَ الْقِيَـٰمَةِ ۚ اِنَّ اللّٰهَ بِكُلِّ شَىْءٍ عَلِيمٌۭ",
     "urdu_text": "کیا تم نہیں دیکھتے کہ اللہ آسمانوں اور زمین میں جو کچھ ہے سب کو جانتا ہے، تین آدمیوں کی کوئی سرگوشی نہیں ہوتی مگر وہ ان کا چوتھا ہوتا ہے، اور نہ پانچ کی مگر وہ ان کا چھٹا ہوتا ہے، اور نہ اس سے کم اور نہ زیادہ مگر وہ ان کے ساتھ ہوتا ہے جہاں کہیں بھی وہ ہوں، پھر قیامت کے دن وہ انہیں بتائے گا جو کچھ انہوں نے کیا، بیشک اللہ ہر چیز کا جاننے والا ہے۔",
     "persian_text": "آیا ندیدی که خداوند آنچه در آسمان‌ها و زمین است می‌داند، هیچ نجوای سه نفری نیست مگر اینکه او چهارمین آنهاست، و نه پنج نفری مگر اینکه او ششمین آنهاست، و نه کمتر از آن و نه بیشتر مگر اینکه او با آنهاست هر جا که باشند، سپس روز قیامت آنها را از آنچه کرده‌اند آگاه می‌سازد، همانا خداوند به هر چیزی داناست.",
     "transliteration": "Alam tara anna Allaha ya'lamu ma fis-samawati wa ma fil-ardi ma yakunu min najwa thalathatin illa huwa rabi'uhum wa la khamsatin illa huwa sadisuhum wa la adna min dhalika wa la akthara illa huwa ma'ahum ayna ma kanu thumma yunabbi'uhum bima 'amilu yawmal-qiyamah inna Allaha bikulli shay'in 'aleem",
@@ -106,7 +106,7 @@ ayats = [
   {
     "verse_number": 14,
     "english_text": "Didn't you see those people who befriended the nation on whom Allah has sent punishment, they are neither from you nor from them, and they swear falsely and they are themselves aware of their own falsehood.",
-    "arabic_text": "اَلَمْ تَرَ اِلَى الَّذِينَ تَوَلَّوْاْ قَوْمًۭا غَضِبَ اللّٰهُ عَلَيْهِم مَّا هُم مِّنكُمْ وَلَا مِنْهُمْ وَيَحْلِفُونَ عَلَى الْكَذِبِ وَهُمْ يَعْلَمُونَ",
+    "arabic_text": "اَلَمْ تَرَ اِلَى الَّذِينَ تَوَلَّوْاْ قَوْمًا غَضِبَ اللّٰهُ عَلَيْهِم مَّا هُم مِّنكُمْ وَ لَا مِنْهُمْ وَيَحْلِفُونَ عَلَى الْكَذِبِ وَهُمْ يَعْلَمُونَ",
     "urdu_text": "کیا تم نے ان لوگوں کو نہیں دیکھا جنہوں نے ان لوگوں سے دوستی کر لی جن پر اللہ کا غضب ہوا؟ وہ نہ تم میں سے ہیں اور نہ ان میں سے، اور وہ جھوٹ پر قسمیں کھاتے ہیں حالانکہ وہ خود جانتے ہیں۔",
     "persian_text": "آیا ندیدی کسانی را که با قومی که خدا بر آنان خشم گرفته دوستی کردند؟ نه از شما هستند و نه از آنان، و بر دروغ سوگند یاد می‌کنند در حالی که خود می‌دانند.",
     "transliteration": "Alam tara ilal-ladhina tawallaw qawman ghadhiballahu 'alayhim ma hum minkum wa la minhum wa yahlifuna 'alal-kadhibi wa hum ya'lamun",
@@ -114,7 +114,7 @@ ayats = [
   {
     "verse_number": 15,
     "english_text": "Allah has prepared severe punishment for them that they were doing very evil deeds.",
-    "arabic_text": "اَعَدَّ اللّٰهُ لَهُمْ عَذَابًۭا شَدِيدًا ۖ اِنَّهُمْ سَآءَ مَا كَانُواْ يَعْمَلُونَ",
+    "arabic_text": "اَعَدَّ اللّٰهُ لَهُمْ عَذَابًا شَدِيدًا ۖ اِنَّهُمْ سَآءَ مَا كَانُواْ يَعْمَلُونَ",
     "urdu_text": "اللہ نے ان کے لیے سخت عذاب تیار کر رکھا ہے، بیشک وہ بہت برے کام کرتے تھے۔",
     "persian_text": "خداوند برای آنان عذابی سخت آماده کرده است، همانا آنچه انجام می‌دادند بد بود.",
     "transliteration": "A'addallahu lahum 'adhaban shadida innahum sa'a ma kanu ya'malun",
@@ -122,7 +122,7 @@ ayats = [
   {
     "verse_number": 16,
     "english_text": "They have made their oaths their shields and are creating hurdles in the path of Allah, so for them is humiliating punishment.",
-    "arabic_text": "اتَّخَذُوٓاْ اَيْمَـٰنَهُمْ جُنَّةًۭ فَصَدُّواْ عَن سَبِيلِ اللّٰهِ فَلَهُمْ عَذَابٌۭ مُّهِينٌۭ",
+    "arabic_text": "اتَّخَذُوٓاْ اَيْمَـٰنَهُمْ جُنَّةًۭ فَصَدُّواْ عَن سَبِيلِ اللّٰهِ فَلَهُمْ عَذَابٌۭ مُّهِينٌ",
     "urdu_text": "انہوں نے اپنی قسموں کو ڈھال بنا لیا اور اللہ کی راہ سے روکتے رہے، پس ان کے لیے ذلت کا عذاب ہے۔",
     "persian_text": "آنها سوگندهای خود را سپر قرار دادند و از راه خدا بازداشتند، پس برای آنها عذابی خوارکننده است.",
     "transliteration": "Ittakhadhu aymanahum junnatan fasaddu 'an sabilillahi falahum 'adhabum muhin",

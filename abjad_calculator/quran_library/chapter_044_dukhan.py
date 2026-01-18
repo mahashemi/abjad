@@ -41,7 +41,7 @@ ayats = [
   {
     "verse_number": 5,
     "english_text": "This is commanded from Us and We send the prophets.",
-    "arabic_text": "اَمْرًۭا مِّنْ عِندِنَآ ۚ اِنَّا كُنَّا مُرْسِلِينَ",
+    "arabic_text": "اَمْرًا مِّنْ عِندِنَآ ۚ اِنَّا كُنَّا مُرْسِلِينَ",
     "urdu_text": "یه هماری طرف سے حکم هے، بیشک هم رسول بھیجنے والے هیں",
     "persian_text": "این فرمانی از جانب ماست، همانا ما فرستنده پیامبران بودیم",
     "transliteration": "Amram min 'indinaa, innaa kunnaa mursileen"
@@ -105,7 +105,7 @@ ayats = [
   {
     "verse_number": 13,
     "english_text": "Where they have admonition now in their fate, when the prophet with explicit message had come to them.",
-    "arabic_text": "اَنَّىٰ لَهُمُ الذِّكْرَىٰ وَ قَدْ جَآءَهُمْ رَسُولٌۭ مُّبِينٌۭ",
+    "arabic_text": "اَنَّىٰ لَهُمُ الذِّكْرَىٰ وَ قَدْ جَآءَهُمْ رَسُولٌۭ مُّبِينٌ",
     "urdu_text": "اب انهیں نصیحت کهاں سے ملے گی جبکه ان کے پاس واضح پیغام لانے والا رسول آ چکا تھا۔",
     "persian_text": "اکنون چگونه پند می‌گیرند در حالی که پیامبری با پیام آشکار به سوی آنان آمده بود.",
     "transliteration": "Annaa lahumuz-zikraa wa qad jaaa'ahum rasoolum mubeen"
@@ -113,7 +113,7 @@ ayats = [
   {
     "verse_number": 14,
     "english_text": "And they turn their face from him saying he is a taught insane.",
-    "arabic_text": "ثُمَّ تَوَلَّوْاْ عَنْهُ وَ قَالُواْ مُعَلَّمٌۭ مَّجْنُونٌ",
+    "arabic_text": "ثُمَّ تَوَلَّوْاْ عَنْهُ وَ قَالُوْاْ مُعَلَّمٌۭ مَّجْنُونٌ",
     "urdu_text": "پھر انهوں نے اس سے منه موڑ لیا اور کها که یه سکھایا هوا دیوانه هے۔",
     "persian_text": "سپس از او روی گرداندند و گفتند او آموخته شده و دیوانه است.",
     "transliteration": "Thumma tawallaw 'anhu wa qaaloo mu'allammum majnoon"
@@ -145,7 +145,7 @@ ayats = [
   {
     "verse_number": 18,
     "english_text": "That deliver me the servants of Allah, I am a trustworthy messenger for you.",
-    "arabic_text": "اَنْ اَدُّوٓاْ اِلَىَّ عِبَادَ اللَّهِ ۖ اِنِّى لَكُمْ رَسُولٌ اَمِينٌۭ",
+    "arabic_text": "اَنْ اَدُّوٓاْ اِلَىَّ عِبَادَ اللّٰهِ ۖ اِنِّى لَكُمْ رَسُولٌ اَمِينٌ",
     "urdu_text": "که الله کے بندوں کو میرے حوالے کر دو، میں تمهارے لیے امانت دار رسول هوں۔",
     "persian_text": "که بندگان خدا را به من تسلیم کنید، من برای شما پیامبری امین هستم.",
     "transliteration": "An addooo ilaiya 'ibaadal-laahi innee lakum rasoolun ameen"
@@ -153,7 +153,7 @@ ayats = [
   {
     "verse_number": 19,
     "english_text": "And do not feel yourself high before Allah, I have brought very explicit argument for you.",
-    "arabic_text": "وَاَن لَّا تَعْلُواْ عَلَى اللَّهِ ۖ اِنِّىٓ ءَاتِيكُم بِسُلْطَـٰنٍۢ مُّبِينٍۢ",
+    "arabic_text": "وَاَن لَّا تَعْلُواْ عَلَى اللّٰهِ ۖ اِنِّىٓ ءَاتِيكُم بِسُلْطَـٰنٍۢ مُّبِينٍۢ",
     "urdu_text": "اور الله کے سامنے سرکشی نه کرو، میں تمهارے لیے واضح دلیل لایا هوں۔",
     "persian_text": "و در برابر خدا سرکشی نکنید، من برای شما برهان آشکاری آورده‌ام.",
     "transliteration": "Wa al-laa ta'loo 'alal-laahi innee aateekum bisultaanim mubeen"
@@ -265,7 +265,7 @@ ayats = [
   {
     "verse_number": 33,
     "english_text": "And have given them such signs in which clear tests are found.",
-    "arabic_text": "وَءَاتَيْنَـٰهُم مِّنَ الْـَٔايَـٰتِ مَا فِيهِ بَلَـٰٓؤٌۭاْ مُّبِينٌ",
+    "arabic_text": "وَءَاتَيْنَـٰهُم مِّنَ الْايَـٰتِ مَا فِيهِ بَلَـٰٓؤٌۭاْ مُّبِينٌ",
     "urdu_text": "اور هم نے انهیں ایسی نشانیاں عطا کیں جن میں واضح آزمائش تھی۔",
     "persian_text": "و به آنان از نشانه‌هایی دادیم که در آن آزمایش آشکاری بود.",
     "transliteration": "Wa aataynahum minal aayaati ma feehi balaaa'um mubeen"
@@ -329,7 +329,7 @@ ayats = [
   {
     "verse_number": 41,
     "english_text": "The day when no friend will benefit a friend, and neither will they be helped.",
-    "arabic_text": "يَوْمَ لَا يُغْنِى مَوْلًى عَن مَّوْلًۭى شَيْـًۭٔا وَلَا هُمْ يُنصَرُونَ",
+    "arabic_text": "يَوْمَ لَا يُغْنِى مَوْلًى عَن مَّوْلًى شَيْـًۭٔا وَ لَا هُمْ يُنصَرُونَ",
     "urdu_text": "وه دن جب کوئی دوست کسی دوست کے کچھ کام نه آئے گا اور نه هی ان کی مدد کی جائے گی۔",
     "persian_text": "روزی که هیچ دوستی به دوست دیگری سودی نخواهد رساند و نه یاری خواهند شد.",
     "transliteration": "Yawma laa yughnee mawlan 'an mawlan shay'an wa laa hum yunsaroon"
@@ -337,7 +337,7 @@ ayats = [
   {
     "verse_number": 42,
     "english_text": "Except he to whom Allah shows mercy, Verily, He is all Forgiving and Merciful.",
-    "arabic_text": "اِلَّا مَن رَّحِمَ اللَّهُ ۚ اِنَّهُ هُوَ الْعَزِيزُ الرَّحِيمُ",
+    "arabic_text": "اِلَّا مَن رَّحِمَ اللّٰهُ ۚ اِنَّهُ هُوَ الْعَزِيزُ الرَّحِيمُ",
     "urdu_text": "سوائے اس کے جس پر الله رحم فرمائے، بیشک وهی غالب اور رحم کرنے والا هے۔",
     "persian_text": "مگر کسی که خدا بر او رحم کند، همانا او توانا و مهربان است.",
     "transliteration": "Illaa man rahima Allahu innahu huwa al-'Azeez ar-Raheem"
@@ -457,7 +457,7 @@ ayats = [
   {
     "verse_number": 57,
     "english_text": "This is all Grace and Mercy of your Lord; this is the biggest success for the human.",
-    "arabic_text": "فَضْلًۭا مِّن رَّبِّكَ ۚ ذَٰلِكَ هُوَ الْفَوْزُ الْعَظِيمُ",
+    "arabic_text": "فَضْلًا مِّن رَّبِّكَ ۚ ذَٰلِكَ هُوَ الْفَوْزُ الْعَظِيمُ",
     "urdu_text": "یه تمهارے رب کا فضل هے، یهی سب سے بڑی کامیابی هے۔",
     "persian_text": "این فضل و بخشش از پروردگار توست، این همان پیروزی بزرگ است.",
     "transliteration": "Fadlam mir-rabbik, zaalika huwal-fawzul-'azeem"

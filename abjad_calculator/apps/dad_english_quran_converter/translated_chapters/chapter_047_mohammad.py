@@ -169,7 +169,7 @@ ayats = [
   {
     "verse_number": 21,
     "english_text": "Only obedience and good talk is good for them, so when the affair of war gets settled and they remain on their promise to Allah, then it is much better for them.",
-    "arabic_text": "طَاعَةٌۭ وَقَوْلٌۭ مَّعْرُوفٌۭ ۚ فَإِذَا عَزَمَ ٱلْاَمْرُ فَلَوْ صَدَقُواْ ٱللَّهَ لَكَانَ خَيْرًۭا لَّهُمْ",
+    "arabic_text": "طَاعَةٌۭ وَقَوْلٌۭ مَّعْرُوفٌۭ ۚ فَإِذَا عَزَمَ ٱلْاَمْرُ فَلَوْ صَدَقُواْ ٱللَّهَ لَكَانَ خَيْرًا لَّهُمْ",
     "urdu_text": "فرمانبرداری اور اچھی بات هی ان کے لیے بهتر هے، پھر جب جنگ کا معامله طے هو جائے تو اگر وه الله سے سچے رهیں تو یه ان کے لیے بهت بهتر هے۔",
     "persian_text": "فرمانبرداری و سخن نیک برای آنان بهتر است، پس چون کار جنگ مصمم شود، اگر با خدا راست باشند برای آنان بهتر خواهد بود.",
     "transliteration": "Taa'atun wa qawlun ma'roof, fa-iza 'azamal-amru falaw sadaqul-laaha lakaana khayral-lahum"

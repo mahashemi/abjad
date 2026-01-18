@@ -169,7 +169,7 @@ ayats = [
   {
     "verse_number": 21,
     "english_text": "Follow them, they do not ask any reward from you and are the guided ones.",
-    "arabic_text": "ٱتَّبِعُواْ مَن لَّا يَسْـَٔلُكُمْ اَجْرًۭا وَهُم مُّهْتَدُونَ",
+    "arabic_text": "ٱتَّبِعُواْ مَن لَّا يَسْـَٔلُكُمْ اَجْرًا وَهُم مُّهْتَدُونَ",
     "urdu_text": "ان کی پیروی کرو جو تم سے کوئی اجر نهیں مانگتے اور وه هدایت یافته هیں۔",
     "persian_text": "از آنان پیروی کنید که از شما مزدی نمی‌خواهند و خود هدایت یافته‌اند.",
     "transliteration": "Ittabi'oo mal-laa yas'alukum ajraw wa hum muhtadoon"
@@ -641,7 +641,7 @@ ayats = [
   {
     "verse_number": 80,
     "english_text": "He made fire from a green tree for you, so you have been lighting the fire.",
-    "arabic_text": "ٱلَّذِى جَعَلَ لَكُم مِّنَ ٱلشَّجَرِ ٱلْاَخْضَرِ نَارًۭا فَإِذَآ اَنتُم مِّنْهُ تُوقِدُونَ",
+    "arabic_text": "ٱلَّذِى جَعَلَ لَكُم مِّنَ ٱلشَّجَرِ ٱلْاَخْضَرِ نَارًا فَإِذَآ اَنتُم مِّنْهُ تُوقِدُونَ",
     "urdu_text": "وهی جس نے تمهارے لیے هرے درخت سے آگ پیدا کی، پھر تم اسی سے آگ جلاتے هو۔",
     "persian_text": "همان که برای شما از درخت سبز، آتشی قرار داد، پس شما از آن آتش می‌افروزید.",
     "transliteration": "Alladhee ja'ala lakum minash shajaril akhdari naran fa-idha antum minhu tooqidoon"

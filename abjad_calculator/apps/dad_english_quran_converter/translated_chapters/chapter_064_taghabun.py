@@ -129,7 +129,7 @@ ayats = [
   {
     "verse_number": 16,
     "english_text": "Therefore, fear Allah as much as you can and listen to Him and obey and spend in the way of Allah that there is good in it for you; and those who are saved from stinginess of their own souls are those who will prosper and get deliverance.",
-    "arabic_text": "فَٱتَّقُواْ ٱللَّهَ مَا ٱسْتَطَعْتُمْ وَٱسْمَعُواْ وَاَطِيعُواْ وَاَنفِقُواْ خَيْرًۭا لِّاَنفُسِكُمْ ۗ وَمَن يُوقَ شُحَّ نَفْسِهِۦ فَأُو۟لَـٰٓئِكَ هُمُ ٱلْمُفْلِحُونَ",
+    "arabic_text": "فَٱتَّقُواْ ٱللَّهَ مَا ٱسْتَطَعْتُمْ وَٱسْمَعُواْ وَاَطِيعُواْ وَاَنفِقُواْ خَيْرًا لِّاَنفُسِكُمْ ۗ وَمَن يُوقَ شُحَّ نَفْسِهِۦ فَأُو۟لَـٰٓئِكَ هُمُ ٱلْمُفْلِحُونَ",
     "urdu_text": "پس جهاں تک تم سے هو سکے الله سے ڈرو اور سنو اور اطاعت کرو اور خرچ کرو جو تمهارے لیے بهتر هے، اور جو اپنے نفس کی بخل سے بچا لیا گیا تو وهی لوگ کامیاب هیں۔",
     "persian_text": "پس تا آنجا که می‌توانید از الله بترسید و بشنوید و اطاعت کنید و انفاق کنید که برای خودتان بهتر است، و کسانی که از بخل نفس خود نگه داشته شوند، پس آنان همان رستگارانند.",
     "transliteration": "Fattaqul-laaha mastataa'tum wasma'oo wa atee'oo wa anfiqoo khayral-li-anfusikum, wa man yooqa shuhha nafsihee fa-ulaaa'ika humul-muflihoon"

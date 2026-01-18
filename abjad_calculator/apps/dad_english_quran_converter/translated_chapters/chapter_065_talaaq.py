@@ -9,7 +9,7 @@ ayats = [
   {
     "verse_number": 1,
     "english_text": "O Prophet! When you people divorce women, divorce them according to their prescribed periods, then count their prescribed period and keep fearing Allah for He is your Lord, and do not turn them out of homes, nor they should leave themselves, unless they commit some open lewdness, these are limits of Allah and whoever will transgress limits of Allah, will be unjust to his own soul; you are not aware that perhaps Allah thereafter may bring about some new situation.",
-    "arabic_text": "يَـٰٓاَيُّهَا ٱلنَّبِىُّ إِذَا طَلَّقْتُمُ ٱلنِّسَآءَ فَطَلِّقُوهُنَّ لِعِدَّتِهِنَّ وَاَحْصُواْ ٱلْعِدَّةَ ۖ وَٱتَّقُواْ ٱللَّهَ رَبَّكُمْ ۖ لَا تُخْرِجُوهُنَّ مِنۢ بُيُوتِهِنَّ وَلَا يَخْرُجْنَ إِلَّآ اَن يَأْتِينَ بِفَـٰحِشَةٍۢ مُّبَيِّنَةٍۢ ۚ وَتِلْكَ حُدُودُ ٱللَّهِ ۚ وَمَن يَتَعَدَّ حُدُودَ ٱللَّهِ فَقَدْ ظَلَمَ نَفْسَهُۥ ۚ لَا تَدْرِى لَعَلَّ ٱللَّهَ يُحْدِثُ بَعْدَ ذَٰلِكَ اَمْرًۭا",
+    "arabic_text": "يَـٰٓاَيُّهَا ٱلنَّبِىُّ إِذَا طَلَّقْتُمُ ٱلنِّسَآءَ فَطَلِّقُوهُنَّ لِعِدَّتِهِنَّ وَاَحْصُواْ ٱلْعِدَّةَ ۖ وَٱتَّقُواْ ٱللَّهَ رَبَّكُمْ ۖ لَا تُخْرِجُوهُنَّ مِنۢ بُيُوتِهِنَّ وَلَا يَخْرُجْنَ إِلَّآ اَن يَأْتِينَ بِفَـٰحِشَةٍۢ مُّبَيِّنَةٍۢ ۚ وَتِلْكَ حُدُودُ ٱللَّهِ ۚ وَمَن يَتَعَدَّ حُدُودَ ٱللَّهِ فَقَدْ ظَلَمَ نَفْسَهُۥ ۚ لَا تَدْرِى لَعَلَّ ٱللَّهَ يُحْدِثُ بَعْدَ ذَٰلِكَ اَمْرًا",
     "urdu_text": "اے نبی! جب تم لوگ عورتوں کو طلاق دو تو انہیں ان کی عدت کے مطابق طلاق دو، اور عدت کو شمار کرو، اور اللہ سے ڈرتے رہو جو تمہارا رب ہے، اور انہیں ان کے گھروں سے نہ نکالو اور نہ وہ خود نکلیں، سوائے اس کے کہ وہ کھلی بے حیائی کا ارتکاب کریں، یہ اللہ کی حدیں ہیں اور جو اللہ کی حدوں سے تجاوز کرے گا تو اس نے اپنی جان پر ظلم کیا، تم نہیں جانتے شاید اللہ اس کے بعد کوئی نئی صورت پیدا کر دے۔",
     "persian_text": "ای پیامبر! هنگامی که زنان را طلاق می‌دهید، آنان را در زمان عده‌شان طلاق دهید و عده را به دقت بشمارید، و از خدای پروردگارتان بترسید، آنان را از خانه‌هایشان بیرون نکنید و خودشان نیز بیرون نروند، مگر آنکه مرتکب فحشای آشکاری شوند، اینها حدود الهی است و هر کس از حدود خدا تجاوز کند به خود ستم کرده است، نمی‌دانی شاید خداوند پس از آن وضعیت تازه‌ای پدید آورد.",
     "transliteration": "Yaa ayyuhan-nabiyyu idhaa tallaqtumun-nisaa'a fatalliqoohunna li'iddatihinna wa ahsul-'iddata wattaqul-laaha rabbakum laa tukhrijoohunna min buyootihinna wa laa yakhrujna illaa an ya'teena bifaahishatin mubayyinah, wa tilka hudoodul-laah, wa man yata'adda hudoodal-laahi faqad zhalama nafsah, laa tadree la'allal-laaha yuhdithu ba'da dhaalika amraa."
@@ -25,7 +25,7 @@ ayats = [
   {
     "verse_number": 3,
     "english_text": "And (He) provide the sustenance from such places you cannot imagine, and if anyone trust in Allah, Allah is sufficient for him, verily, Allah reaches His command, and He has specified a quantity for everything.",
-    "arabic_text": "وَيَرْزُقْهُ مِنْ حَيْثُ لَا يَحْتَسِبُ ۚ وَمَن يَتَوَكَّلْ عَلَى ٱللَّهِ فَهُوَ حَسْبُهُۥٓ ۚ إِنَّ ٱللَّهَ بَـٰلِغُ اَمْرِهِۦ ۚ قَدْ جَعَلَ ٱللَّهُ لِكُلِّ شَىْءٍۢ قَدْرًۭا",
+    "arabic_text": "وَيَرْزُقْهُ مِنْ حَيْثُ لَا يَحْتَسِبُ ۚ وَمَن يَتَوَكَّلْ عَلَى ٱللَّهِ فَهُوَ حَسْبُهُۥٓ ۚ إِنَّ ٱللَّهَ بَـٰلِغُ اَمْرِهِۦ ۚ قَدْ جَعَلَ ٱللَّهُ لِكُلِّ شَىْءٍۢ قَدْرًا",
     "urdu_text": "اور اسے ایسی جگہ سے رزق دیتا ہے جہاں سے اس کا گمان بھی نہیں ہوتا، اور جو اللہ پر بھروسہ کرتا ہے تو اللہ اس کے لیے کافی ہے، بیشک اللہ اپنے حکم کو پہنچانے والا ہے، اللہ نے ہر چیز کے لیے ایک اندازہ مقرر کر دیا ہے۔",
     "persian_text": "و او را از جایی که گمان نمی‌برد روزی می‌دهد، و هر کس بر خدا توکل کند، خدا او را کافی است، همانا خداوند به فرمان خود می‌رسد، خداوند برای هر چیزی اندازه‌ای قرار داده است.",
     "transliteration": "Wa yarzuqhu min haythu laa yahtasib, wa man yatawakkal 'alal-laahi fahuwa hasbuh, innal-laaha baalighu amrih, qad ja'alal-laahu likulli shay'in qadraa."
@@ -33,7 +33,7 @@ ayats = [
   {
     "verse_number": 4,
     "english_text": "And among your women who have passed the age of menstrual course and if you have any doubt then their prescribed period is three months, and likewise for the women who do not menstruate; and prescribed period for pregnant is till the delivery of child, and who fear Allah, Allah makes easy their affairs.",
-    "arabic_text": "وَٱلَّـٰٓـِٔى يَئِسْنَ مِنَ ٱلْمَحِيضِ مِن نِّسَآئِكُمْ إِنِ ٱرْتَبْتُمْ فَعِدَّتُهُنَّ ثَلَـٰثَةُ اَشْهُرٍۢ وَٱلَّـٰٓـِٔى لَمْ يَحِضْنَ ۚ وَأُو۟لَـٰتُ ٱلْاَحْمَالِ اَجَلُهُنَّ اَن يَضَعْنَ حَمْلَهُنَّ ۚ وَمَن يَتَّقِ ٱللَّهَ يَجْعَل لَّهُۥ مِنْ اَمْرِهِۦ يُسْرًۭا",
+    "arabic_text": "وَٱلَّـٰٓـِٔى يَئِسْنَ مِنَ ٱلْمَحِيضِ مِن نِّسَآئِكُمْ إِنِ ٱرْتَبْتُمْ فَعِدَّتُهُنَّ ثَلَـٰثَةُ اَشْهُرٍۢ وَٱلَّـٰٓـِٔى لَمْ يَحِضْنَ ۚ وَأُو۟لَـٰتُ ٱلْاَحْمَالِ اَجَلُهُنَّ اَن يَضَعْنَ حَمْلَهُنَّ ۚ وَمَن يَتَّقِ ٱللَّهَ يَجْعَل لَّهُۥ مِنْ اَمْرِهِۦ يُسْرًا",
     "urdu_text": "اور تمہاری عورتوں میں سے جو حیض سے ناامید ہو چکی ہیں اگر تمہیں شک ہو تو ان کی عدت تین مہینے ہے، اور ان کی بھی جنہیں حیض نہیں آیا، اور حاملہ عورتوں کی عدت یہ ہے کہ وہ اپنا بچہ جن دیں، اور جو اللہ سے ڈرتا ہے اللہ اس کے کام میں آسانی پیدا کر دیتا ہے۔",
     "persian_text": "و زنانی از شما که از قاعدگی نا امید شده‌اند، اگر شک دارید پس عده آنان سه ماه است، و همچنین کسانی که قاعده نشده‌اند، و زنان باردار، مدت آنان تا زمانی است که فرزند خود را بزایند، و هر که از خدا بترسد، خداوند کارش را آسان می‌گرداند.",
     "transliteration": "Wallaaa'ee ya'isna minal-maheedi min nisaaa'ikum inir-tabtum fa'iddatuhunna thalaathatu ash-hur, wallaaa'ee lam yahidn, wa ulaatul-ahmaali ajaluhunna an yada'na hamlahun, wa man yattaqil-laaha yaj'al lahoo min amrihee yusraa."
@@ -57,7 +57,7 @@ ayats = [
   {
     "verse_number": 7,
     "english_text": "Let the rich man spend according to his capacity, and the man whose sustenance is strait, let him spend according to what Allah has given him; Allah does not trouble any Self beyond what he can bear; Allah will shortly grant vastness after straitness.",
-    "arabic_text": "لِيُنفِقْ ذُو سَعَةٍۢ مِّن سَعَتِهِۦ ۖ وَمَن قُدِرَ عَلَيْهِ رِزْقُهُۥ فَلْيُنفِقْ مِمَّآ ءَاتَىٰهُ ٱللَّهُ ۚ لَا يُكَلِّفُ ٱللَّهُ نَفْسًا إِلَّا مَآ ءَاتَىٰهَا ۚ سَيَجْعَلُ ٱللَّهُ بَعْدَ عُسْرٍۢ يُسْرًۭا",
+    "arabic_text": "لِيُنفِقْ ذُو سَعَةٍۢ مِّن سَعَتِهِۦ ۖ وَمَن قُدِرَ عَلَيْهِ رِزْقُهُۥ فَلْيُنفِقْ مِمَّآ ءَاتَىٰهُ ٱللَّهُ ۚ لَا يُكَلِّفُ ٱللَّهُ نَفْسًا إِلَّا مَآ ءَاتَىٰهَا ۚ سَيَجْعَلُ ٱللَّهُ بَعْدَ عُسْرٍۢ يُسْرًا",
     "urdu_text": "صاحب حیثیت شخص اپنی حیثیت کے مطابق خرچ کرے، اور جس کا رزق تنگ ہے وہ اس میں سے خرچ کرے جو اللہ نے اسے دیا ہے، اللہ کسی جان کو اس کی طاقت سے زیادہ تکلیف نہیں دیتا، اللہ عنقریب تنگی کے بعد آسانی پیدا کر دے گا۔",
     "persian_text": "صاحب توانگری از توانگری خود خرج کند، و کسی که روزی‌اش تنگ است از آنچه خدا به او داده خرج کند، خداوند هیچ کس را جز به اندازه آنچه به او داده تکلیف نمی‌کند، خداوند به زودی پس از تنگی آسانی قرار خواهد داد.",
     "transliteration": "Liyunfiq dhoo sa'atim min sa'atih, wa man qudira 'alayhi rizquhu falyunfiq mimmaa aataahul-laah, laa yukallifullahu nafsan illaa maa aataahaa, sayaj'alul-laahu ba'da 'usrin yusraa."
@@ -65,7 +65,7 @@ ayats = [
   {
     "verse_number": 8,
     "english_text": "And how many settlements are there who disobeyed the Command of Allah and His Prophet, so We took severe account of them and afflicted them in the worst punishment.",
-    "arabic_text": "وَكَاَيِّن مِّن قَرْيَةٍ عَتَتْ عَنْ اَمْرِ رَبِّهَا وَرُسُلِهِۦ فَحَاسَبْنَـٰهَا حِسَابًۭا شَدِيدًۭا وَعَذَّبْنَـٰهَا عَذَابًۭا نُّكْرًۭا",
+    "arabic_text": "وَكَاَيِّن مِّن قَرْيَةٍ عَتَتْ عَنْ اَمْرِ رَبِّهَا وَرُسُلِهِۦ فَحَاسَبْنَـٰهَا حِسَابًۭا شَدِيدًۭا وَعَذَّبْنَـٰهَا عَذَابًۭا نُّكْرًا",
     "urdu_text": "اور کتنی ہی بستیاں ہیں جنہوں نے اپنے رب اور اس کے رسولوں کے حکم کی نافرمانی کی تو ہم نے ان سے سخت حساب لیا اور انہیں بری طرح عذاب دیا۔",
     "persian_text": "و چه بسیار شهرها که از فرمان پروردگار و پیامبرانش سرپیچی کردند، پس ما از آنان حساب سختی کشیدیم و آنان را به عذابی سخت گرفتار ساختیم.",
     "transliteration": "Wa ka-ayyin min qaryatin 'atat 'an amri rabbihaa wa rusulihee fahaasabnaahaa hisaaban shadeedan wa 'adhdhabnaahaa 'adhaaban nukraa."
@@ -81,7 +81,7 @@ ayats = [
   {
     "verse_number": 10,
     "english_text": "Allah has prepared the severest type of punishment for them; therefore, O you who believe and O you men of understanding, fear Allah that He has sent down His remembrance towards you.",
-    "arabic_text": "اَعَدَّ ٱللَّهُ لَهُمْ عَذَابًۭا شَدِيدًۭا ۖ فَٱتَّقُواْ ٱللَّهَ يَـٰٓأُو۟لِى ٱلْاَلْبَـٰبِ ٱلَّذِينَ ءَامَنُواْ ۚ قَدْ اَنزَلَ ٱللَّهُ إِلَيْكُمْ ذِكْرًۭا",
+    "arabic_text": "اَعَدَّ ٱللَّهُ لَهُمْ عَذَابًۭا شَدِيدًۭا ۖ فَٱتَّقُواْ ٱللَّهَ يَـٰٓأُو۟لِى ٱلْاَلْبَـٰبِ ٱلَّذِينَ ءَامَنُواْ ۚ قَدْ اَنزَلَ ٱللَّهُ إِلَيْكُمْ ذِكْرًا",
     "urdu_text": "اللہ نے ان کے لیے سخت عذاب تیار کر رکھا ہے، پس اللہ سے ڈرو اے عقل والو جو ایمان لائے ہو، بیشک اللہ نے تمہاری طرف نصیحت نازل کی ہے۔",
     "persian_text": "خداوند برای آنان عذابی سخت آماده کرده است، پس از خدا بترسید ای صاحبان خرد که ایمان آورده‌اید، خداوند یادآوری را بر شما نازل کرده است.",
     "transliteration": "A'addal-laahu lahum 'adhaaban shadeedan fattaqul-laaha yaa ulil-albaabil-ladheena aamanoo, qad anzalal-laahu ilaykum dhikraa."

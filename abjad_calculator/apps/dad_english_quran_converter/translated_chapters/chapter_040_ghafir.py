@@ -169,7 +169,7 @@ ayats = [
   {
     "verse_number": 21,
     "english_text": "Did not they travel in the land that they could see what had happened to the earlier people who were more powerful and influential than them, then Allah overtook them due to their sins, and there was no one who could save them against Allah.",
-    "arabic_text": "۞ اَوَلَمْ يَسِيرُواْ فِى ٱلْاَرْضِ فَيَنظُرُواْ كَيْفَ كَانَ عَـٰقِبَةُ ٱلَّذِينَ كَانُواْ مِن قَبْلِهِمْ ۚ كَانُواْ هُمْ اَشَدَّ مِنْهُمْ قُوَّةًۭ وَءَاثَارًۭا فِى ٱلْاَرْضِ فَاَخَذَهُمُ ٱللَّهُ بِذُنُوبِهِمْ وَمَا كَانَ لَهُم مِّنَ ٱللَّهِ مِن وَاقٍۢ",
+    "arabic_text": "۞ اَوَلَمْ يَسِيرُواْ فِى ٱلْاَرْضِ فَيَنظُرُواْ كَيْفَ كَانَ عَـٰقِبَةُ ٱلَّذِينَ كَانُواْ مِن قَبْلِهِمْ ۚ كَانُواْ هُمْ اَشَدَّ مِنْهُمْ قُوَّةًۭ وَءَاثَارًا فِى ٱلْاَرْضِ فَاَخَذَهُمُ ٱللَّهُ بِذُنُوبِهِمْ وَمَا كَانَ لَهُم مِّنَ ٱللَّهِ مِن وَاقٍۢ",
     "urdu_text": "کیا انہوں نے زمین میں سفر نہیں کیا کہ دیکھتے کہ ان سے پہلے لوگوں کا کیا انجام ہوا جو ان سے زیادہ طاقتور اور زمین میں زیادہ نشانات چھوڑنے والے تھے، پھر اللہ نے انہیں ان کے گناہوں کی وجہ سے پکڑ لیا اور اللہ کے مقابلے میں کوئی ان کا بچانے والا نہ تھا۔",
     "persian_text": "آیا آنها در زمین سفر نکردند تا ببینند که سرانجام کسانی که پیش از آنها بودند چگونه بود؟ آنها از اینان نیرومندتر و دارای آثار بیشتری در زمین بودند، پس خداوند به خاطر گناهانشان آنها را گرفت و هیچ کس نبود که در برابر خدا از آنها محافظت کند.",
     "transliteration": "Awalam yaseeroo fil-ardi fayanzuroo kayfa kaana 'aaqibatul-ladheena kaanoo min qablihim, kaanoo hum ashadda minhum quwwatanw-wa aathaaran fil-ardi fa-akhazahumul-laahu bidhunoobi-him wa maa kaana lahum minal-laahi min waaq"
@@ -513,7 +513,7 @@ ayats = [
   {
     "verse_number": 64,
     "english_text": "That is Allah who established the earth for you and the sky a canopy and created you with the best face, and gave you pure sustenance, that is your blessed Allah who is the Lord of the worlds.",
-    "arabic_text": "ٱللَّهُ ٱلَّذِى جَعَلَ لَكُمُ ٱلْاَرْضَ قَرَارًۭا وَٱلسَّمَآءَ بِنَآءًۭ وَصَوَّرَكُمْ فَاَحْسَنَ صُوَرَكُمْ وَرَزَقَكُم مِّنَ ٱلطَّيِّبَـٰتِ ۚ ذَٰلِكُمُ ٱللَّهُ رَبُّكُمْ ۖ فَتَبَارَكَ ٱللَّهُ رَبُّ ٱلْعَـٰلَمِينَ",
+    "arabic_text": "ٱللَّهُ ٱلَّذِى جَعَلَ لَكُمُ ٱلْاَرْضَ قَرَارًا وَٱلسَّمَآءَ بِنَآءًۭ وَصَوَّرَكُمْ فَاَحْسَنَ صُوَرَكُمْ وَرَزَقَكُم مِّنَ ٱلطَّيِّبَـٰتِ ۚ ذَٰلِكُمُ ٱللَّهُ رَبُّكُمْ ۖ فَتَبَارَكَ ٱللَّهُ رَبُّ ٱلْعَـٰلَمِينَ",
     "urdu_text": "وہ اللہ ہے جس نے تمہارے لیے زمین کو ٹھہرنے کی جگہ بنایا اور آسمان کو چھت، اور تمہاری صورتیں بنائیں پھر تمہاری صورتوں کو خوبصورت بنایا، اور تمہیں پاکیزہ رزق دیا، یہی اللہ تمہارا رب ہے، پس بابرکت ہے اللہ جو تمام جہانوں کا رب ہے۔",
     "persian_text": "خداوندی است که زمین را برای شما قرارگاه و آسمان را بنایی قرار داد، و شما را آفرید و نیکو صورتگری کرد، و از چیزهای پاکیزه به شما روزی داد، این است خدای شما، پروردگار شما، پس پربرکت است خداوند، پروردگار جهانیان.",
     "transliteration": "Allahul-lazee ja'ala lakumul-arda qaraaranw-was-samaaa'a binaaa'anw-wa sawwarakum fa-ahsana suwarakum wa razaqakum minat-tayyibaat, zaalikumul-laahu Rabbukum fatabaarakal-laahu Rabbul-'aalameen"
@@ -545,7 +545,7 @@ ayats = [
   {
     "verse_number": 68,
     "english_text": "That is He; Who gives life and also death, when He decides to do something, He says: Be, and it becomes.",
-    "arabic_text": "هُوَ ٱلَّذِى يُحْىِۦ وَيُمِيتُ ۖ فَإِذَا قَضَىٰٓ اَمْرًۭا فَإِنَّمَا يَقُولُ لَهُۥ كُن فَيَكُونُ",
+    "arabic_text": "هُوَ ٱلَّذِى يُحْىِۦ وَيُمِيتُ ۖ فَإِذَا قَضَىٰٓ اَمْرًا فَإِنَّمَا يَقُولُ لَهُۥ كُن فَيَكُونُ",
     "urdu_text": "وہی ہے جو زندہ کرتا ہے اور موت دیتا ہے، پھر جب وہ کسی کام کا فیصلہ کر لیتا ہے تو بس اسے کہتا ہے کہ ہو جا، تو وہ ہو جاتا ہے۔",
     "persian_text": "او کسی است که زنده می‌کند و می‌میراند، پس هنگامی که کاری را مقرر فرماید، تنها به آن می‌گوید: باش، پس می‌شود.",
     "transliteration": "Huwal-lazee yuhyee wa yumeetu fa-izaa qadaaa amran fa-innamaa yaqoolu lahoo kun fa-yakoon"
@@ -657,7 +657,7 @@ ayats = [
   {
     "verse_number": 82,
     "english_text": "Did not they travel in the land that they see what We have done to the earlier people who were more in numbers in their comparison and more powerful and also had influence in the land, but whatever they earned did not benefit them and they suffered the punishment.",
-    "arabic_text": "اَفَلَمْ يَسِيرُواْ فِى ٱلْاَرْضِ فَيَنظُرُواْ كَيْفَ كَانَ عَـٰقِبَةُ ٱلَّذِينَ مِن قَبْلِهِمْ ۚ كَانُوٓاْ اَكْثَرَ مِنْهُمْ وَاَشَدَّ قُوَّةًۭ وَءَاثَارًۭا فِى ٱلْاَرْضِ فَمَآ اَغْنَىٰ عَنْهُم مَّا كَانُواْ يَكْسِبُونَ",
+    "arabic_text": "اَفَلَمْ يَسِيرُواْ فِى ٱلْاَرْضِ فَيَنظُرُواْ كَيْفَ كَانَ عَـٰقِبَةُ ٱلَّذِينَ مِن قَبْلِهِمْ ۚ كَانُوٓاْ اَكْثَرَ مِنْهُمْ وَاَشَدَّ قُوَّةًۭ وَءَاثَارًا فِى ٱلْاَرْضِ فَمَآ اَغْنَىٰ عَنْهُم مَّا كَانُواْ يَكْسِبُونَ",
     "urdu_text": "کیا انہوں نے زمین میں سفر نہیں کیا کہ دیکھتے کہ ان سے پہلے لوگوں کا کیا انجام ہوا؟ وہ ان سے تعداد میں زیادہ تھے، طاقت میں زیادہ مضبوط تھے اور زمین میں زیادہ اثر و رسوخ رکھتے تھے، لیکن جو کچھ انہوں نے کمایا تھا وہ ان کے کام نہ آیا اور انہیں عذاب کا سامنا کرنا پڑا۔",
     "persian_text": "آیا آنها در زمین سفر نکردند تا ببینند که سرانجام کسانی که پیش از آنها بودند چگونه بود؟ آنها از این‌ها بیشتر و نیرومندتر و دارای آثار بیشتری در زمین بودند، اما آنچه کسب می‌کردند به آنها سودی نبخشید و عذاب را متحمل شدند.",
     "transliteration": "Afalam yaseeroo fil-ardi fayanzuroo kayfa kaana 'aaqibatul-lazeena min qablihim, kaanoo akthara minhum wa ashadda quwwatan wa aathaaran fil-ardi famaa aghnaa 'anhum maa kaanoo yaksiboon"

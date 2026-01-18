@@ -257,7 +257,7 @@ ayats = [
   {
     "verse_number": 32,
     "english_text": "Perhaps, our Lord may give us better than this; we are allured towards Him.",
-    "arabic_text": "عَسَىٰ رَبُّنَآ اَن يُبْدِلَنَا خَيْرًۭا مِّنْهَآ إِنَّآ إِلَىٰ رَبِّنَا رَٰغِبُونَ",
+    "arabic_text": "عَسَىٰ رَبُّنَآ اَن يُبْدِلَنَا خَيْرًا مِّنْهَآ إِنَّآ إِلَىٰ رَبِّنَا رَٰغِبُونَ",
     "urdu_text": "امید ہے کہ ہمارا رب ہمیں اس سے بہتر عطا فرمائے، بیشک ہم اپنے رب کی طرف رغبت رکھنے والے ہیں۔",
     "persian_text": "امید است که پروردگار ما بهتر از این را به ما عطا کند، ما به سوی پروردگارمان رغبت داریم.",
     "transliteration": "Asaa Rabbunaa any yubdilanaa khayram minhaa innaa ilaa Rabbinaa raaghiboon"
@@ -369,7 +369,7 @@ ayats = [
   {
     "verse_number": 46,
     "english_text": "Are you asking them wages that they are under the burden with this ransom.",
-    "arabic_text": "اَمْ تَسْـَٔلُهُمْ اَجْرًۭا فَهُم مِّن مَّغْرَمٍۢ مُّثْقَلُونَ",
+    "arabic_text": "اَمْ تَسْـَٔلُهُمْ اَجْرًا فَهُم مِّن مَّغْرَمٍۢ مُّثْقَلُونَ",
     "urdu_text": "کیا تم ان سے کوئی اجرت مانگتے ہو کہ وہ اس تاوان کے بوجھ تلے دبے ہوئے ہیں؟",
     "persian_text": "آیا از آنها مزدی می‌خواهی که از بار غرامت سنگین شده‌اند؟",
     "transliteration": "Am tas'aluhum ajran fahum mim maghramim muthqaloon"

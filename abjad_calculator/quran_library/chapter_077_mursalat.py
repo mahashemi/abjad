@@ -25,7 +25,7 @@ ayats = [
   {
     "verse_number": 3,
     "english_text": "And swear by those (winds) which disperse the things (clouds).",
-    "arabic_text": "وَالنَّـٰشِرَٰتِ نَشْرًۭا",
+    "arabic_text": "وَالنَّـٰشِرَٰتِ نَشْرًا",
     "urdu_text": "اور قسم ہے ان (ہواؤں) کی جو چیزوں (بادلوں) کو پھیلاتی ہیں۔",
     "persian_text": "و سوگند به آنها (بادها) که چیزها (ابرها) را پراکنده می‌سازند.",
     "transliteration": "Wan-naashiraati nashraa"
@@ -137,7 +137,7 @@ ayats = [
   {
     "verse_number": 17,
     "english_text": "Then we will make other people to follow them too.",
-    "arabic_text": "ثُمَّ نُتْبِعُهُمُ الْـَٔاخِرِينَ",
+    "arabic_text": "ثُمَّ نُتْبِعُهُمُ الْاخِرِينَ",
     "urdu_text": "پھر ہم ان کے پیچھے دوسرے لوگوں کو بھی بھیجیں گے",
     "persian_text": "سپس دیگران را نیز به دنبال آنان خواهیم فرستاد",
     "transliteration": "Thumma nutbi'uhumul-aakhireen"
@@ -249,7 +249,7 @@ ayats = [
   {
     "verse_number": 31,
     "english_text": "Neither cold, nor any support to save from the flames of Hell.",
-    "arabic_text": "لَّا ظَلِيلٍۢ وَلَا يُغْنِى مِنَ اللَّهَبِ",
+    "arabic_text": "لَّا ظَلِيلٍۢ وَ لَا يُغْنِى مِنَ اللّٰهَبِ",
     "urdu_text": "نہ ٹھنڈا سایہ اور نہ آگ کے شعلوں سے بچانے والا۔",
     "persian_text": "نه سایه‌ای خنک و نه چیزی که از شعله‌های آتش نجات دهد.",
     "transliteration": "Laa zaleelin wa laa yughnee minal-lahab"
@@ -289,7 +289,7 @@ ayats = [
   {
     "verse_number": 36,
     "english_text": "And nor they will not have the permission to present any excuse.",
-    "arabic_text": "وَلَا يُؤْذَنُ لَهُمْ فَيَعْتَذِرُونَ",
+    "arabic_text": "وَ لَا يُؤْذَنُ لَهُمْ فَيَعْتَذِرُونَ",
     "urdu_text": "اور نہ انہیں اجازت دی جائے گی کہ وہ عذر پیش کریں۔",
     "persian_text": "و به آنان اجازه داده نمی‌شود تا عذری بیاورند.",
     "transliteration": "Wa laa yu'zanu lahum faya'taziroon"

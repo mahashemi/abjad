@@ -58,7 +58,7 @@ ayats = [
   {
     "verse_number": 8,
     "english_text": "And they say why don't an angel comes to him, if I had sent an angel, matter would have been settled; and they would not have got any respite.",
-    "arabic_text": "وَقَالُوا لَوْلَآ اُنزِلَ عَلَيْهِ مَلَكٞۚ وَ لَوْ اَنزَلْنَا مَلَكًا لَّقُضِيَ الْاَمْرُ ثُمَّ لَا يُنظَرُونَ",
+    "arabic_text": "وَقَالُوْا لَوْلَآ اُنزِلَ عَلَيْهِ مَلَكٞۚ وَ لَوْ اَنزَلْنَا مَلَكًا لَّقُضِيَ الْاَمْرُ ثُمَّ لَا يُنظَرُونَ",
     "urdu_text": "اور وہ کہتے ہیں کہ ان پر کوئی فرشتہ کیوں نہیں اترا، اور اگر ہم فرشتہ اتار دیتے تو معاملہ ختم ہو جاتا اور پھر انہیں کوئی مہلت نہ ملتی",
     "persian_text": "و گفتند چرا فرشته‌ای بر او نازل نشده است، و اگر فرشته‌ای نازل می‌کردیم کار به پایان می‌رسید و سپس به آنان مهلتی داده نمی‌شد",
     "transliteration": "Wa qalu lawla unzila 'alayhi malak, wa law anzalna malakan laqudiya al-amru thumma la yunzarun",
@@ -178,7 +178,7 @@ ayats = [
   {
     "verse_number": 23,
     "english_text": "Then none of their mischief will remain; instead they will say: we swear on Allah who is our Lord, we had made none His partner.",
-    "arabic_text": "ثُمَّ لَمْ تَكُنْ فِتْنَتُهُمْ اِلَّآ اَنْ قَالُوا وَ اللّٰهِ رَبِّنَا مَا كُنَّا مُشْرِكِيْنَ",
+    "arabic_text": "ثُمَّ لَمْ تَكُنْ فِتْنَتُهُمْ اِلَّآ اَنْ قَالُوْا وَ اللّٰهِ رَبِّنَا مَا كُنَّا مُشْرِكِيْنَ",
     "urdu_text": "پھر ان کا کوئی فتنہ باقی نہیں رہے گا، سوائے اس کے کہ وہ کہیں گے کہ اللہ کی قسم جو ہمارا رب ہے، ہم مشرک نہیں تھے",
     "persian_text": "سپس هیچ بهانه‌ای برای آنان باقی نمی‌ماند جز اینکه بگویند سوگند به خدا که پروردگار ماست، ما مشرک نبودیم",
     "transliteration": "Thumma lam takun fitnatuhum illa an qalu wallahi rabbina ma kunna mushrikin",
@@ -242,7 +242,7 @@ ayats = [
   {
     "verse_number": 31,
     "english_text": "Whoever denies the presence before Allah on the Day of Judgement is in great loss, till suddenly it will come on their head, they will say, alas, we neglected it, and they will be carrying a burden of sins on their back, how bad is this burden which they will carry.",
-    "arabic_text": "قَدْ خَسِرَ الَّذِينَ كَذَّبُوا بِلِقَآءِ اللّٰهِ  حَتّٰٓى اِذَا جَآءَتْهُمُ السَّاعَةُ بَغۡتَةً قَالُوا يٰحَسْرَتَنَا عَلَٰى مَا فَرَّطْنَا فِيْهَا وَ هُمْ يَحْمِلُوْنَ اَوْزَارَهُمْ عَلَٰى ظُهُوْرِهِمْ  اَلَا سَآءَ مَا يَزِرُوْنَ",
+    "arabic_text": "قَدْ خَسِرَ الَّذِينَ كَذَّبُوا بِلِقَآءِ اللّٰهِ  حَتّٰٓى اِذَا جَآءَتْهُمُ السَّاعَةُ بَغۡتَةً قَالُوْا يٰحَسْرَتَنَا عَلَٰى مَا فَرَّطْنَا فِيْهَا وَ هُمْ يَحْمِلُوْنَ اَوْزَارَهُمْ عَلَٰى ظُهُوْرِهِمْ  اَلَا سَآءَ مَا يَزِرُوْنَ",
     "urdu_text": "بیشک وہ لوگ خسارے میں پڑ گئے جنہوں نے اللہ سے ملاقات کو جھٹلایا، یہاں تک کہ جب ان پر قیامت اچانک آ پڑے گی تو کہیں گے ہائے افسوس ہم پر کہ ہم نے اس میں کوتاہی کی، اور وہ اپنی پیٹھوں پر اپنے گناہوں کا بوجھ اٹھائے ہوئے ہوں گے، خبردار یہ بہت برا بوجھ ہے جو وہ اٹھا رہے ہیں",
     "persian_text": "به راستی کسانی که دیدار با خدا را تکذیب کردند زیان کار شدند، تا زمانی که ناگهان قیامت بر آنان فرا رسد، خواهند گفت ای افسوس بر ما از آنچه در آن کوتاهی کردیم، در حالی که بارهای گناهان خود را بر پشت خود حمل می کنند، آگاه باشید که چه بد است آنچه بر دوش می کشند",
     "transliteration": "Qad khasira allatheena kaththaboo biliqaa-illahi hatta itha jaa-at-humu as-saa'atu baghtatan qaaloo yaa hasratanaa 'alaa maa farratnaa feehaa wa hum yahmiloona awzaarahum 'alaa thuhoorihim alaa saa-a maa yaziroon",

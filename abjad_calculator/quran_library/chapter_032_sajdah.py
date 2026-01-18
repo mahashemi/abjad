@@ -25,7 +25,7 @@ ayats = [
   {
     "verse_number": 3,
     "english_text": "What, are they saying this is all the forging of the prophet, absolutely not; this is the truth from your Lord, that you may warn the nation because no warner prophet has come to them earlier than you, perhaps they may take the guidance.",
-    "arabic_text": "اَمْ يَقُولُونَ افْتَرَىٰهُ ۚ بَلْ هُوَ الْحَقُّ مِن رَّبِّكَ لِتُنذِرَ قَوْمًۭا مَّآ اَتَىٰهُم مِّن نَّذِيرٍۢ مِّن قَبْلِكَ لَعَلَّهُمْ يَهْتَدُونَ",
+    "arabic_text": "اَمْ يَقُولُونَ افْتَرَىٰهُ ۚ بَلْ هُوَ الْحَقُّ مِن رَّبِّكَ لِتُنذِرَ قَوْمًا مَّآ اَتَىٰهُم مِّن نَّذِيرٍۢ مِّن قَبْلِكَ لَعَلَّهُمْ يَهْتَدُونَ",
     "urdu_text": "کیا یہ لوگ کہتے ہیں کہ اس نے اسے گھڑ لیا ہے؟ نہیں، بلکہ یہ تمہارے رب کی طرف سے حق ہے تاکہ تم ایسی قوم کو ڈراؤ جن کے پاس تم سے پہلے کوئی ڈرانے والا نہیں آیا، شاید کہ وہ ہدایت پائیں۔",
     "persian_text": "آیا می‌گویند او آن را به دروغ بسته است؟ نه، بلکه این حق است از جانب پروردگارت تا قومی را بترسانی که پیش از تو هیچ هشداردهنده‌ای به سوی آنان نیامده است، باشد که هدایت یابند.",
     "transliteration": "Am yaqooloonaf-taraahu bal huwal-haqqu mir-Rabbika litunzira qawmam-maaa ataahum-min-nazeerim-min qablika la'allahum yahtadoon"
@@ -33,7 +33,7 @@ ayats = [
   {
     "verse_number": 4,
     "english_text": "That is Allah who created skies and the earth and everything in between them within six days, then established His Power on the Throne, and for you there is no guardian and intercessor other than Him; are not you understanding this thing.",
-    "arabic_text": "اللَّهُ الَّذِى خَلَقَ السَّمَـٰوَٰتِ وَالْاَرْضَ وَ مَا بَيْنَهُمَا فِى سِتَّةِ اَيَّامٍۢ ثُمَّ اسْتَوَىٰ عَلَى الْعَرْشِ ۖ مَا لَكُم مِّن دُونِهِ مِن وَلِىٍّۢ وَلَا شَفِيعٍ ۚ اَفَلَا تَتَذَكَّرُونَ",
+    "arabic_text": "اللّٰهُ الَّذِى خَلَقَ السَّمَـٰوَٰتِ وَالْاَرْضَ وَ مَا بَيْنَهُمَا فِى سِتَّةِ اَيَّامٍۢ ثُمَّ اسْتَوَىٰ عَلَى الْعَرْشِ ۖ مَا لَكُم مِّن دُونِهِ مِن وَلِىٍّۢ وَ لَا شَفِيعٍ ۚ اَفَلَا تَتَذَكَّرُونَ",
     "urdu_text": "اللہ وہ ہے جس نے آسمانوں اور زمین کو اور جو کچھ ان کے درمیان ہے چھ دنوں میں پیدا کیا، پھر عرش پر قائم ہوا۔ اس کے سوا تمہارا کوئی کارساز اور سفارشی نہیں، کیا تم سمجھتے نہیں؟",
     "persian_text": "خداوندی است که آسمان‌ها و زمین و آنچه میان آنهاست را در شش روز آفرید، سپس بر عرش قرار گرفت. جز او برای شما هیچ سرپرست و شفاعت‌کننده‌ای نیست، آیا متذکر نمی‌شوید؟",
     "transliteration": "Allaahul-lazee khalaqas-samaawaati wal-arda wa maa baynahumaa fee sittati ayyaamin thummas-tawaa 'alal-'arsh, maa lakum-min doonihi miw-waliyyiw-wa laa shafee', afalaa tatazakkaroon"
@@ -73,7 +73,7 @@ ayats = [
   {
     "verse_number": 9,
     "english_text": "Thereafter made him in due proportion and blew His spirit in it; and made for you ear, eye and heart, but you pay very less thanks.",
-    "arabic_text": "ثُمَّ سَوَّىٰهُ وَنَفَخَ فِيهِ مِن رُّوحِهِ ۖ وَجَعَلَ لَكُمُ السَّمْعَ وَالْاَبْصَـٰرَ وَالْاَفْـِٔدَةَ ۚ قَلِيلًۭا مَّا تَشْكُرُونَ",
+    "arabic_text": "ثُمَّ سَوَّىٰهُ وَنَفَخَ فِيهِ مِن رُّوحِهِ ۖ وَجَعَلَ لَكُمُ السَّمْعَ وَالْاَبْصَـٰرَ وَالْاَفْـِٔدَةَ ۚ قَلِيلًا مَّا تَشْكُرُونَ",
     "urdu_text": "پھر اسے درست کیا اور اس میں اپنی روح پھونکی، اور تمہارے لیے کان، آنکھیں اور دل بنائے، مگر تم بہت کم شکر ادا کرتے ہو۔",
     "persian_text": "سپس او را متناسب ساخت و از روح خود در او دمید و برای شما گوش و چشم و دل قرار داد، اما کمتر سپاسگزاری می‌کنید.",
     "transliteration": "Thumma sawwaahu wa nafakha feehi mir-roohihee wa ja'ala lakumus-sam'a wal-absaara wal-af'idah, qaleelam-maa tashkuroon"
@@ -177,7 +177,7 @@ ayats = [
   {
     "verse_number": 22,
     "english_text": "And who can be bigger unjust than he who is reminded of Divine Verses but he objects; Verily We will take revenge from the guilty ones.",
-    "arabic_text": "وَمَنْ اَظْلَمُ مِمَّن ذُكِّرَ بِـَٔايَـٰتِ رَبِّهِ ثُمَّ اَعْرَضَ عَنْهَآ ۚ اِنَّا مِنَ الْمُجْرِمِينَ مُنتَقِمُونَ",
+    "arabic_text": "وَ مَنْ اَظْلَمُ مِمَّن ذُكِّرَ بِـَٔايَـٰتِ رَبِّهِ ثُمَّ اَعْرَضَ عَنْهَآ ۚ اِنَّا مِنَ الْمُجْرِمِينَ مُنتَقِمُونَ",
     "urdu_text": "اور اس سے بڑھ کر ظالم کون ہے جسے اس کے رب کی آیات کی نصیحت کی جائے پھر وہ ان سے منہ موڑ لے؟ بیشک ہم مجرموں سے بدلہ لینے والے ہیں۔",
     "persian_text": "و چه کسی ستمکارتر است از آن کس که به آیات پروردگارش یادآوری شود، سپس از آن روی گرداند؟ ما از مجرمان انتقام خواهیم گرفت.",
     "transliteration": "Wa man adhlamu mimman dhukkira bi-aayaati Rabbihee thumma a'rada 'anhaa innaa minal mujrimeena muntaqimoon"
@@ -233,7 +233,7 @@ ayats = [
   {
     "verse_number": 29,
     "english_text": "Say: those who adopt infidelity, neither their faith will benefit them on the day of victory, nor they will be given any respite.",
-    "arabic_text": "قُلْ يَوْمَ الْفَتْحِ لَا يَنفَعُ الَّذِينَ كَفَرُوٓاْ اِيمَـٰنُهُمْ وَلَا هُمْ يُنظَرُونَ",
+    "arabic_text": "قُلْ يَوْمَ الْفَتْحِ لَا يَنفَعُ الَّذِينَ كَفَرُوٓاْ اِيمَـٰنُهُمْ وَ لَا هُمْ يُنظَرُونَ",
     "urdu_text": "کہہ دو: فیصلے کے دن کافروں کو ان کا ایمان لانا کچھ فائدہ نہیں دے گا اور نہ انہیں مہلت دی جائے گی۔",
     "persian_text": "بگو: در روز فتح (داوری)، ایمان کافران به آنان سودی نخواهد بخشید و به آنان مهلت داده نخواهد شد.",
     "transliteration": "Qul Yawmal fat-hi laa yanfa'ul ladheena kafaroo eemaanuhum wa laa hum yundharoon"

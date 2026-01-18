@@ -81,7 +81,7 @@ ayats = [
   {
     "verse_number": 10,
     "english_text": "When the prayer gets over, scatter in the land and search for the bounty of Allah (sustenance) and remember Allah in abundance, perhaps like this you may get deliverance.",
-    "arabic_text": "فَإِذَا قُضِيَتِ ٱلصَّلَوٰةُ فَٱنتَشِرُواْ فِى ٱلْاَرْضِ وَٱبْتَغُواْ مِن فَضْلِ ٱللَّهِ وَٱذْكُرُواْ ٱللَّهَ كَثِيرًۭا لَّعَلَّكُمْ تُفْلِحُونَ",
+    "arabic_text": "فَإِذَا قُضِيَتِ ٱلصَّلَوٰةُ فَٱنتَشِرُواْ فِى ٱلْاَرْضِ وَٱبْتَغُواْ مِن فَضْلِ ٱللَّهِ وَٱذْكُرُواْ ٱللَّهَ كَثِيرًا لَّعَلَّكُمْ تُفْلِحُونَ",
     "urdu_text": "پھر جب نماز پوری ہو جائے تو زمین میں پھیل جاؤ اور اللہ کا فضل تلاش کرو اور اللہ کو بہت یاد کرو تاکہ تم فلاح پاؤ۔",
     "persian_text": "پس چون نماز به پایان رسید، در زمین پراکنده شوید و از فضل خدا بجویید و خدا را بسیار یاد کنید، باشد که رستگار شوید.",
     "transliteration": "Fa-idha qudiyatis-salatu fantashiru fil-ardi wabtaghu min fadlillahi wadhkurullaha kathiran la'allakum tuflihun"

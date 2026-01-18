@@ -17,7 +17,7 @@ ayats = [
   {
     "verse_number": 2,
     "english_text": "Then carries the weight of the clouds.",
-    "arabic_text": "فَٱلْحَـٰمِلَـٰتِ وِقْرًۭا",
+    "arabic_text": "فَٱلْحَـٰمِلَـٰتِ وِقْرًا",
     "urdu_text": "پھر بوجھ اٹھانے والی جو بادلوں کا بھاری بوجھ اٹھاتی هیں۔",
     "persian_text": "سپس سوگند به آنهایی که بار سنگین ابرها را حمل می‌کنند.",
     "transliteration": "Fal-ḥāmilāti wiqrā"
@@ -25,7 +25,7 @@ ayats = [
   {
     "verse_number": 3,
     "english_text": "Then it blows gently.",
-    "arabic_text": "فَٱلْجَـٰرِيَـٰتِ يُسْرًۭا",
+    "arabic_text": "فَٱلْجَـٰرِيَـٰتِ يُسْرًا",
     "urdu_text": "پھر آسانی سے چلنے والی هوائیں۔",
     "persian_text": "سپس سوگند به آنهایی که به آسانی جاری می‌شوند.",
     "transliteration": "Fal-jāriyāti yusrā"

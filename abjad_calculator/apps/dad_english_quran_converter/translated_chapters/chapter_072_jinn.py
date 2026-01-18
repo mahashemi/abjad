@@ -193,7 +193,7 @@ ayats = [
   {
     "verse_number": 24,
     "english_text": "When they see the punishment, which was promised to them; then they will realize that whose helpers are weak and whose number is less.",
-    "arabic_text": "حَتَّىٰٓ إِذَا رَاَوْاْ مَا يُوعَدُونَ فَسَيَعْلَمُونَ مَنْ اَضْعَفُ نَاصِرًۭا وَاَقَلُّ عَدَدًۭا",
+    "arabic_text": "حَتَّىٰٓ إِذَا رَاَوْاْ مَا يُوعَدُونَ فَسَيَعْلَمُونَ مَنْ اَضْعَفُ نَاصِرًا وَاَقَلُّ عَدَدًۭا",
     "urdu_text": "یهاں تک که جب وه اس عذاب کو دیکھ لیں گے جس کا ان سے وعده کیا گیا هے تو انهیں معلوم هو جائے گا که کس کے مددگار کمزور هیں اور کس کی تعداد کم هے۔",
     "persian_text": "تا زمانی که عذابی را که به آنها وعده داده شده ببینند، پس خواهند دانست چه کسی یاوران ضعیف‌تر و شمار کمتری دارد.",
     "transliteration": "Hattaa izaa ra-aw maa yoo'adoona fa saya'lamoona man ad'afu naaṣiran wa aqallu 'adada"

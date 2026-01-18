@@ -25,7 +25,7 @@ ayats = [
   {
     "verse_number": 3,
     "english_text": "It is a matter of strong displeasure near Allah, that you say that you do not follow.",
-    "arabic_text": "كَبُرَ مَقْتًا عِندَ اللَّهِ اَن تَقُولُواْ مَا لَا تَفْعَلُونَ",
+    "arabic_text": "كَبُرَ مَقْتًا عِندَ اللّٰهِ اَن تَقُولُواْ مَا لَا تَفْعَلُونَ",
     "urdu_text": "الله کے نزدیک یه بهت ناپسندیده بات هے که تم وه کهو جو تم کرتے نهیں۔",
     "persian_text": "نزد خدا بسیار خشم‌آور است که چیزی بگویید که انجام نمی‌دهید.",
     "transliteration": "Kabura maqtan 'indallahi an taqulu ma la taf'alun"
@@ -33,7 +33,7 @@ ayats = [
   {
     "verse_number": 4,
     "english_text": "Verily, Allah likes those who fight in battle in His way by forming rows like a wall filled with lead.",
-    "arabic_text": "اِنَّ اللَّهَ يُحِبُّ الَّذِينَ يُقَـٰتِلُونَ فِى سَبِيلِهِ صَفًّۭا كَاَنَّهُم بُنْيَـٰنٌۭ مَّرْصُوصٌۭ",
+    "arabic_text": "اِنَّ اللّٰهَ يُحِبُّ الَّذِينَ يُقَـٰتِلُونَ فِى سَبِيلِهِ صَفًّۭا كَاَنَّهُم بُنْيَـٰنٌ مَّرْصُوصٌۭ",
     "urdu_text": "بیشک الله ان لوگوں کو پسند کرتا هے جو اس کی راه میں صف بسته هو کر لڑتے هیں گویا وه سیسه پلائی هوئی دیوار هیں۔",
     "persian_text": "همانا خدا کسانی را دوست دارد که در راه او صف‌بسته می‌جنگند، گویی بنایی محکم و استوارند.",
     "transliteration": "Innallaha yuhibbul-ladhina yuqatiluna fi sabilihī saffan ka-annahum bunyanun marsus"
@@ -41,7 +41,7 @@ ayats = [
   {
     "verse_number": 5,
     "english_text": "And remember the time when Moosa said to his nation: O my people why you are vexing me, although you are aware that I am a messenger of Allah to you, so when those people turned crooked then Allah let their hearts go crooked; that Allah do not guide transgressing nation.",
-    "arabic_text": "وَاِذْ قَالَ مُوسَىٰ لِقَوْمِهِ يَـٰقَوْمِ لِمَ تُؤْذُونَنِى وَقَد تَّعْلَمُونَ اَنِّى رَسُولُ اللَّهِ اِلَيْكُمْ ۖ فَلَمَّا زَاغُوٓاْ اَزَاغَ اللَّهُ قُلُوبَهُمْ ۚ وَاللَّهُ لَا يَهْدِى الْقَوْمَ الْفَـٰسِقِينَ",
+    "arabic_text": "وَاِذْ قَالَ مُوسَىٰ لِقَوْمِهِ يَـٰقَوْمِ لِمَ تُؤْذُونَنِى وَقَد تَّعْلَمُونَ اَنِّى رَسُولُ اللّٰهِ اِلَيْكُمْ ۖ فَلَمَّا زَاغُوٓاْ اَزَاغَ اللّٰهُ قُلُوبَهُمْ ۚ وَاللّٰهُ لَا يَهْدِى الْقَوْمَ الْفَـٰسِقِينَ",
     "urdu_text": "اور یاد کرو جب موسیٰ نے اپنی قوم سے کها: اے میری قوم! تم مجھے کیوں تکلیف دیتے هو جبکه تم جانتے هو که میں تمهاری طرف الله کا رسول هوں؟ پھر جب وه ٹیڑھے هو گئے تو الله نے ان کے دلوں کو ٹیڑھا کر دیا، اور الله نافرمان لوگوں کو هدایت نهیں دیتا۔",
     "persian_text": "و یاد کن هنگامی را که موسی به قوم خود گفت: ای قوم من! چرا مرا آزار می‌دهید در حالی که می‌دانید من فرستاده خدا به سوی شما هستم؟ پس چون آنان منحرف شدند، خدا دل‌هایشان را منحرف ساخت، و خدا قوم نافرمان را هدایت نمی‌کند.",
     "transliteration": "Wa idh qala Musa liqawmihī ya qawmi lima tu'dhunani wa qad ta'lamuna anni rasulullahi ilaykum, falamma zaghū azaghallahu qulubahum, wallahu la yahdil-qawmal-fasiqin"
@@ -49,7 +49,7 @@ ayats = [
   {
     "verse_number": 6,
     "english_text": "And remember the time when Isa son of Maryam said: O Bani Israel I am a messenger of Allah to you; and I am confirming the earlier book Taurait, and giving glad-tidings of a Prophet after me, whose name is Ahmed; but even then when he came with the miracles, the people said: \"this is open magic\".",
-    "arabic_text": "وَاِذْ قَالَ عِيسَى ابْنُ مَرْيَمَ يَـٰبَنِىٓ اِسْرَٰٓءِيلَ اِنِّى رَسُولُ اللَّهِ اِلَيْكُم مُّصَدِّقًۭا لِّمَا بَيْنَ يَدَىَّ مِنَ التَّوْرَىٰةِ وَمُبَشِّرًۢا بِرَسُولٍۢ يَاْتِى مِنۢ بَعْدِى اسْمُهُٓ اَحْمَدُ ۖ فَلَمَّا جَآءَهُم بِالْبَيِّنَـٰتِ قَالُواْ هَـٰذَا سِحْرٌۭ مُّبِينٌۭ",
+    "arabic_text": "وَاِذْ قَالَ عِيسَى ابْنُ مَرْيَمَ يَـٰبَنِىٓ اِسْرَٰٓءِيلَ اِنِّى رَسُولُ اللّٰهِ اِلَيْكُم مُّصَدِّقًۭا لِّمَا بَيْنَ يَدَىَّ مِنَ التَّوْرَىٰةِ وَمُبَشِّرًۢا بِرَسُولٍۢ يَاْتِى مِنۢ بَعْدِى اسْمُهُٓ اَحْمَدُ ۖ فَلَمَّا جَآءَهُم بِالْبَيِّنَـٰتِ قَالُوْاْ هَـٰذَا سِحْرٌۭ مُّبِينٌ",
     "urdu_text": "اور یاد کرو جب عیسیٰ بن مریم نے کها: اے بنی اسرائیل! میں تمهاری طرف الله کا رسول هوں، تورات کی تصدیق کرنے والا جو میرے سامنے هے، اور ایک رسول کی خوشخبری دینے والا جو میرے بعد آئے گا جس کا نام احمد هے۔ پھر جب وه ان کے پاس واضح نشانیاں لے کر آئے تو انهوں نے کها: یه تو کھلا جادو هے۔",
     "persian_text": "و یاد کن هنگامی را که عیسی پسر مریم گفت: ای بنی اسرائیل! من فرستاده خدا به سوی شما هستم، تصدیق‌کننده تورات که پیش از من است، و بشارت‌دهنده پیامبری که پس از من خواهد آمد که نامش احمد است. پس چون با دلایل روشن به سوی آنان آمد، گفتند: این جادویی آشکار است.",
     "transliteration": "Wa idh qala 'Isabnu Maryama ya Bani Isra'ila inni rasulullahi ilaykum musaddiqal-lima bayna yadayya minat-Tawrati wa mubashshiram birasuliy-ya'ti mim ba'dis-muhu Ahmad, falamma ja'ahum bil-bayyinati qalu hadha sihrum-mubin"
@@ -57,7 +57,7 @@ ayats = [
   {
     "verse_number": 7,
     "english_text": "Who can be the bigger unjust who blames Allah, whereas he is being invited towards Islam, and Allah never guides the unjust nation.",
-    "arabic_text": "وَمَنْ اَظْلَمُ مِمَّنِ افْتَرَىٰ عَلَى اللَّهِ الْكَذِبَ وَهُوَ يُدْعَىٰٓ اِلَى الْاِسْلَـٰمِ ۚ وَاللَّهُ لَا يَهْدِى الْقَوْمَ الظَّـٰلِمِينَ",
+    "arabic_text": "وَ مَنْ اَظْلَمُ مِمَّنِ افْتَرَىٰ عَلَى اللّٰهِ الْكَذِبَ وَهُوَ يُدْعَىٰٓ اِلَى الْاِسْلَـٰمِ ۚ وَاللّٰهُ لَا يَهْدِى الْقَوْمَ الظَّـٰلِمِينَ",
     "urdu_text": "اور اس سے بڑھ کر ظالم کون هو گا جو الله پر جھوٹ باندھے جبکه اسے اسلام کی طرف بلایا جا رها هو؟ اور الله ظالم لوگوں کو هدایت نهیں دیتا۔",
     "persian_text": "و چه کسی ستمکارتر است از آن که بر خدا دروغ ببندد در حالی که به سوی اسلام دعوت می‌شود؟ و خدا قوم ستمگر را هدایت نمی‌کند.",
     "transliteration": "Wa man azlamu mimmanif-tara 'alallahil-kadhiba wa huwa yud'a ilal-Islam, wallahu la yahdil-qawmaz-zalimin"
@@ -65,7 +65,7 @@ ayats = [
   {
     "verse_number": 8,
     "english_text": "Intention of these people is to extinguish the Light of Allah (by blowing) with their mouth and Allah shall complete His Light, even if the infidels may not like it.",
-    "arabic_text": "يُرِيدُونَ لِيُطْفِـُٔواْ نُورَ اللَّهِ بِاَفْوَٰهِهِمْ وَاللَّهُ مُتِمُّ نُورِهِ وَ لَوْ كَرِهَ الْكَـٰفِرُونَ",
+    "arabic_text": "يُرِيدُونَ لِيُطْفِـُٔواْ نُورَ اللّٰهِ بِاَفْوَٰهِهِمْ وَاللّٰهُ مُتِمُّ نُورِهِ وَ لَوْ كَرِهَ الْكَـٰفِرُونَ",
     "urdu_text": "یه لوگ چاهتے هیں که الله کے نور کو اپنے منه سے بجھا دیں، لیکن الله اپنے نور کو مکمل کرنے والا هے اگرچه کافر ناپسند کریں۔",
     "persian_text": "آنان می‌خواهند نور خدا را با دهان‌هایشان خاموش کنند، اما خدا نور خود را کامل خواهد کرد هر چند کافران ناخوشایند بدانند.",
     "transliteration": "Yuriduna liyutfi'u nurallahi bi-afwahihim wallahu mutimmu nurihi wa law karihal-kafirun"
@@ -89,7 +89,7 @@ ayats = [
   {
     "verse_number": 11,
     "english_text": "Believe in Allah and His Prophet, and struggle hard in the way of Allah with your life and wealth, that this is the best for you; if you know.",
-    "arabic_text": "تُؤْمِنُونَ بِاللَّهِ وَرَسُولِهِ وَتُجَـٰهِدُونَ فِى سَبِيلِ اللَّهِ بِاَمْوَٰلِكُمْ وَاَنفُسِكُمْ ۚ ذَٰلِكُمْ خَيْرٌۭ لَّكُمْ اِن كُنتُمْ تَعْلَمُونَ",
+    "arabic_text": "تُؤْمِنُونَ بِاللّٰهِ وَرَسُولِهِ وَتُجَـٰهِدُونَ فِى سَبِيلِ اللّٰهِ بِاَمْوَٰلِكُمْ وَاَنفُسِكُمْ ۚ ذَٰلِكُمْ خَيْرٌۭ لَّكُمْ اِن كُنتُمْ تَعْلَمُونَ",
     "urdu_text": "الله اور اس کے رسول پر ایمان لاؤ اور الله کی راه میں اپنے مال اور جان سے جهاد کرو، یه تمهارے لیے بهتر هے اگر تم جانتے هو۔",
     "persian_text": "به خدا و پیامبرش ایمان بیاورید و در راه خدا با مال و جان خود جهاد کنید، این برای شما بهتر است اگر بدانید.",
     "transliteration": "Tu'minoona billaahi wa rasoolihee wa tujaahidoona fee sabeelillaahi bi-amwaalikum wa anfusikum, dhaalikum khayrul lakum in kuntum ta'lamoon"
@@ -105,7 +105,7 @@ ayats = [
   {
     "verse_number": 13,
     "english_text": "And one more thing which you like - help from Allah and close victory; and you may give glad tidings to the believers.",
-    "arabic_text": "وَاُخْرَىٰ تُحِبُّونَهَا ۖ نَصْرٌۭ مِّنَ اللَّهِ وَفَتْحٌۭ قَرِيبٌۭ ۗ وَبَشِّرِ الْمُؤْمِنِينَ",
+    "arabic_text": "وَاُخْرَىٰ تُحِبُّونَهَا ۖ نَصْرٌۭ مِّنَ اللّٰهِ وَفَتْحٌۭ قَرِيبٌۭ ۗ وَبَشِّرِ الْمُؤْمِنِينَ",
     "urdu_text": "اور ایک اور چیز جو تم پسند کرتے هو، الله کی طرف سے مدد اور قریبی فتح، اور آپ مومنوں کو خوشخبری دے دیں۔",
     "persian_text": "و چیز دیگری که دوست دارید، یاری از جانب خدا و پیروزی نزدیک، و مؤمنان را بشارت ده.",
     "transliteration": "Wa ukhraa tuhibboonahaa, nasrum minAllaahi wa fathun qareeb, wa bashshiril-mu'mineen"
@@ -113,7 +113,7 @@ ayats = [
   {
     "verse_number": 14,
     "english_text": "O you who believe, become helpers of Allah, like Isa ibn Maryam said to his disciples: who is my helper in the way of Allah? So his disciples said: we are the helpers of Allah; but then one group of Bani Israel believed, and one group disbelieved, so We helped the believers against their enemy, so eventually they dominated.",
-    "arabic_text": "يٰٓاَيُّهَا الَّذِينَ ءَامَنُواْ كُونُوٓاْ اَنصَارَ اللَّهِ كَمَا قَالَ عِيسَى ابْنُ مَرْيَمَ لِلْحَوَارِيِّـۧنَ مَنْ اَنصَارِىٓ اِلَى اللَّهِ ۖ قَالَ الْحَوَارِيُّونَ نَحْنُ اَنصَارُ اللَّهِ ۖ فَـَٔامَنَت طَّآئِفَةٌۭ مِّنۢ بَنِىٓ اِسْرَٰٓءِيلَ وَكَفَرَت طَّآئِفَةٌۭ ۖ فَاَيَّدْنَا الَّذِينَ ءَامَنُواْ عَلَىٰ عَدُوِّهِمْ فَاَصْبَحُواْ ظَـٰهِرِينَ",
+    "arabic_text": "يٰٓاَيُّهَا الَّذِينَ ءَامَنُواْ كُونُوٓاْ اَنصَارَ اللّٰهِ كَمَا قَالَ عِيسَى ابْنُ مَرْيَمَ لِلْحَوَارِيِّـۧنَ مَنْ اَنصَارِىٓ اِلَى اللّٰهِ ۖ قَالَ الْحَوَارِيُّونَ نَحْنُ اَنصَارُ اللّٰهِ ۖ فَـَٔامَنَت طَّآئِفَةٌۭ مِّنۢ بَنِىٓ اِسْرَٰٓءِيلَ وَكَفَرَت طَّآئِفَةٌۭ ۖ فَاَيَّدْنَا الَّذِينَ ءَامَنُواْ عَلَىٰ عَدُوِّهِمْ فَاَصْبَحُواْ ظَـٰهِرِينَ",
     "urdu_text": "اے ایمان والو! الله کے مددگار بن جاؤ جیسے عیسیٰ بن مریم نے اپنے حواریوں سے کها تھا: الله کی راه میں میرا مددگار کون هے؟ تو حواریوں نے کها: هم الله کے مددگار هیں، پھر بنی اسرائیل کی ایک جماعت نے ایمان لایا اور ایک جماعت نے انکار کیا، تو هم نے ایمان والوں کی ان کے دشمن کے خلاف مدد کی، پس وه غالب هو گئے۔",
     "persian_text": "ای کسانی که ایمان آورده‌اید، یاران خدا باشید، همان‌گونه که عیسی پسر مریم به حواریون گفت: چه کسی یاور من در راه خداست؟ حواریون گفتند: ما یاران خدا هستیم، پس گروهی از بنی اسرائیل ایمان آوردند و گروهی کافر شدند، پس ما مؤمنان را بر دشمنشان یاری دادیم و سرانجام آنان چیره شدند.",
     "transliteration": "Yaa ayyuhal-ladheena aamanoo koonoo ansaarallaahi kamaa qaala 'Eesabnu Maryama lil-hawaariyyeena man ansaaree ilallaah, qaalal-hawaariyyoona nahnu ansaarullaah, fa-aamanat taaa'ifatum mim Banee Israa'eela wa kafarat taaa'ifah, fa-ayyadnal-ladheena aamanoo 'alaa 'aduwwihim fa-asbahoo zhaahireen"

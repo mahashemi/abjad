@@ -185,7 +185,7 @@ ayats = [
   {
     "verse_number": 23,
     "english_text": "These are the names which you and your fathers have named, and Allah has not revealed any argument for them, in fact these people just follow their speculation and desires of their heart, Verily guidance has come to them from their Lord.",
-    "arabic_text": "اِنْ هِىَ اِلَّآ اَسْمَآءٌۭ سَمَّيْتُمُوهَآ اَنتُمْ وَءَابَآؤُكُم مَّآ اَنزَلَ اللَّهُ بِهَا مِن سُلْطَـٰنٍ ۚ اِن يَتَّبِعُونَ اِلَّا الظَّنَّ وَ مَا تَهْوَى الْاَنفُسُ ۖ وَ لَقَدْ جَآءَهُم مِّن رَّبِّهِمُ الْهُدَىٰٓ",
+    "arabic_text": "اِنْ هِىَ اِلَّآ اَسْمَآءٌۭ سَمَّيْتُمُوهَآ اَنتُمْ وَءَابَآؤُكُم مَّآ اَنزَلَ اللّٰهُ بِهَا مِن سُلْطَـٰنٍ ۚ اِن يَتَّبِعُونَ اِلَّا الظَّنَّ وَ مَا تَهْوَى الْاَنفُسُ ۖ وَ لَقَدْ جَآءَهُم مِّن رَّبِّهِمُ الْهُدَىٰٓ",
     "urdu_text": "یہ تو محض نام ہیں جو تم نے اور تمہارے باپ دادا نے رکھ لیے ہیں، اللہ نے ان کے بارے میں کوئی دلیل نازل نہیں کی، یہ لوگ صرف گمان اور اپنے دلوں کی خواہشات کی پیروی کرتے ہیں، حالانکہ ان کے پاس ان کے رب کی طرف سے ہدایت آ چکی ہے۔",
     "persian_text": "اینها فقط نام‌هایی هستند که شما و پدرانتان آنها را نامیده‌اید، و خداوند هیچ دلیلی برای آنها نازل نکرده است. آنها فقط از گمان و هوای نفس پیروی می‌کنند، در حالی که هدایت از جانب پروردگارشان به آنها رسیده است.",
     "transliteration": "In hiya illaa asmaa'un sammaytumooha antum wa aabaaa'ukum maa anzala Allahu bihaa min sultaan, in yattabi'oona illaa adh-dhanna wa maa tahwaa al-anfusu wa laqad jaa'ahum min rabbihimu al-hudaa"
@@ -201,7 +201,7 @@ ayats = [
   {
     "verse_number": 25,
     "english_text": "The world and The Hereafter, everything is only for Allah.",
-    "arabic_text": "فَلِلَّهِ الْـَٔاخِرَةُ وَالْاُولَىٰ",
+    "arabic_text": "فَلِلَّهِ الْاخِرَةُ وَالْاُولَىٰ",
     "urdu_text": "آخرت اور دنیا سب کچھ صرف اللہ ہی کے لیے ہے۔",
     "persian_text": "آخرت و دنیا همه از آن خداست.",
     "transliteration": "Falillaahi al-aakhiratu wal-oolaa"
@@ -209,7 +209,7 @@ ayats = [
   {
     "verse_number": 26,
     "english_text": "And how many angels are there in the skies whose intercession cannot benefit anyone; except that Allah allows to whom He pleases and chooses.",
-    "arabic_text": "۞ وَكَم مِّن مَّلَكٍۢ فِى السَّمَـٰوَٰتِ لَا تُغْنِى شَفَـٰعَتُهُمْ شَيْـًٔا اِلَّا مِنۢ بَعْدِ اَن يَاْذَنَ اللَّهُ لِمَن يَشَآءُ وَيَرْضَىٰٓ",
+    "arabic_text": "۞ وَكَم مِّن مَّلَكٍۢ فِى السَّمَـٰوَٰتِ لَا تُغْنِى شَفَـٰعَتُهُمْ شَيْـًٔا اِلَّا مِنۢ بَعْدِ اَن يَاْذَنَ اللّٰهُ لِمَن يَشَآءُ وَيَرْضَىٰٓ",
     "urdu_text": "اور آسمانوں میں کتنے ہی فرشتے ہیں جن کی شفاعت کچھ بھی فائدہ نہیں دے سکتی، سوائے اس کے کہ اللہ جس کے لیے چاہے اور پسند فرمائے اجازت دے دے۔",
     "persian_text": "و چه بسیار فرشتگانی در آسمان‌ها هستند که شفاعت آنها هیچ سودی نمی‌بخشد، مگر پس از آنکه خداوند برای هر که بخواهد و پسند کند اجازه دهد.",
     "transliteration": "Wa kam min malakin fis-samaawaati laa tughnee shafaa'atuhum shay'an illaa min ba'di an ya'dhana Allahu liman yashaa'u wa yardaa"
@@ -217,7 +217,7 @@ ayats = [
   {
     "verse_number": 27,
     "english_text": "Verily those who do not believe in the Hereafter name the angels after female names.",
-    "arabic_text": "اِنَّ الَّذِينَ لَا يُؤْمِنُونَ بِالْـَٔاخِرَةِ لَيُسَمُّونَ الْمَلَـٰٓئِكَةَ تَسْمِيَةَ الْاُنثَىٰ",
+    "arabic_text": "اِنَّ الَّذِينَ لَا يُؤْمِنُونَ بِالْاخِرَةِ لَيُسَمُّونَ الْمَلَـٰٓئِكَةَ تَسْمِيَةَ الْاُنثَىٰ",
     "urdu_text": "بے شک جو لوگ آخرت پر ایمان نہیں رکھتے وہ فرشتوں کو عورتوں کے نام دیتے ہیں۔",
     "persian_text": "همانا کسانی که به آخرت ایمان ندارند، فرشتگان را به نام‌های مؤنث می‌نامند.",
     "transliteration": "Inna alladheena laa yu'minoona bil-aakhirati layusammoona al-malaa'ikata tasmiyata al-unthaa"
@@ -273,7 +273,7 @@ ayats = [
   {
     "verse_number": 34,
     "english_text": "And withheld after giving little in the way of Allah.",
-    "arabic_text": "وَاَعْطَىٰ قَلِيلًۭا وَاَكْدَىٰٓ",
+    "arabic_text": "وَاَعْطَىٰ قَلِيلًا وَاَكْدَىٰٓ",
     "urdu_text": "اور تھوڑا سا دیا پھر رک گیا۔",
     "persian_text": "و اندکی بخشید و سپس دریغ کرد.",
     "transliteration": "Wa a'ta qalilan wa akda"
@@ -457,7 +457,7 @@ ayats = [
   {
     "verse_number": 57,
     "english_text": "Look! the Day of Judgement is near.",
-    "arabic_text": "اَزِفَتِ الْـَٔازِفَةُ",
+    "arabic_text": "اَزِفَتِ الْازِفَةُ",
     "urdu_text": "قریب آ گئی وہ قریب آنے والی (قیامت)۔",
     "persian_text": "نزدیک شد آن روز نزدیک شونده (قیامت).",
     "transliteration": "Azifatil aazifah"
@@ -465,7 +465,7 @@ ayats = [
   {
     "verse_number": 58,
     "english_text": "Except Allah, no one can avert it.",
-    "arabic_text": "لَيْسَ لَهَا مِن دُونِ اللَّهِ كَاشِفَةٌ",
+    "arabic_text": "لَيْسَ لَهَا مِن دُونِ اللّٰهِ كَاشِفَةٌ",
     "urdu_text": "اللہ کے سوا اسے کوئی ٹالنے والا نہیں۔",
     "persian_text": "جز خدا کسی را یارای آشکار کردن آن نیست.",
     "transliteration": "Laysa laha min doonillahi kashifah"
@@ -481,7 +481,7 @@ ayats = [
   {
     "verse_number": 60,
     "english_text": "And then you laugh, and do not cry?",
-    "arabic_text": "وَتَضْحَكُونَ وَلَا تَبْكُونَ",
+    "arabic_text": "وَتَضْحَكُونَ وَ لَا تَبْكُونَ",
     "urdu_text": "اور تم ہنستے ہو اور روتے نہیں؟",
     "persian_text": "و می‌خندید و گریه نمی‌کنید؟",
     "transliteration": "Wa tadhhakoona wa la tabkoon"
@@ -489,7 +489,7 @@ ayats = [
   {
     "verse_number": 61,
     "english_text": "You are totally negligent.",
-    "arabic_text": "وَاَنتُمْ سَـٰمِدُونَ",
+    "arabic_text": "وَ اَنتُمْ سَـٰمِدُونَ",
     "urdu_text": "اور تم غافل ہو",
     "persian_text": "و شما غافل هستید",
     "transliteration": "Wa antum saamidoon"

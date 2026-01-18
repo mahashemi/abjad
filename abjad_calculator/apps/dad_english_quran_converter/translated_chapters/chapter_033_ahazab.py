@@ -17,7 +17,7 @@ ayats = [
   {
     "verse_number": 2,
     "english_text": "And follow whatever is being revealed to you from your Lord, Allah is well aware of your deeds.",
-    "arabic_text": "وَٱتَّبِعْ مَا يُوحَىٰٓ إِلَيْكَ مِن رَّبِّكَ ۚ إِنَّ ٱللَّهَ كَانَ بِمَا تَعْمَلُونَ خَبِيرًۭا",
+    "arabic_text": "وَٱتَّبِعْ مَا يُوحَىٰٓ إِلَيْكَ مِن رَّبِّكَ ۚ إِنَّ ٱللَّهَ كَانَ بِمَا تَعْمَلُونَ خَبِيرًا",
     "urdu_text": "اور جو کچھ تمهارے رب کی طرف سے تم پر وحی کیا جاتا هے اس کی پیروی کرو، بیشک الله تمهارے اعمال سے پوری طرح باخبر هے۔",
     "persian_text": "و از آنچه از جانب پروردگارت بر تو وحی می‌شود پیروی کن، همانا خداوند به آنچه انجام می‌دهید آگاه است.",
     "transliteration": "Wattabi' maa yoohaa ilayka mir-rabbik, innallaaha kaana bimaa ta'maloona khabeeraa"
@@ -41,7 +41,7 @@ ayats = [
   {
     "verse_number": 5,
     "english_text": "Call those children with their father's name, this is nearest to justice in the sight of Allah; if you do not know their father then in religion, they are your brothers and friends; there is no harm for you if you have committed any mistake, but you are responsible for whatever you have done knowingly, and Allah is all Forgiving and Merciful.",
-    "arabic_text": "ٱدْعُوهُمْ لِـَٔابَآئِهِمْ هُوَ اَقْسَطُ عِندَ ٱللَّهِ ۚ فَإِن لَّمْ تَعْلَمُوٓاْ ءَابَآءَهُمْ فَإِخْوَٰنُكُمْ فِى ٱلدِّينِ وَمَوَٰلِيكُمْ ۚ وَلَيْسَ عَلَيْكُمْ جُنَاحٌۭ فِيمَآ اَخْطَأْتُم بِهِۦ وَلَـٰكِن مَّا تَعَمَّدَتْ قُلُوبُكُمْ ۚ وَكَانَ ٱللَّهُ غَفُورًۭا رَّحِيمًا",
+    "arabic_text": "ٱدْعُوهُمْ لِـَٔابَآئِهِمْ هُوَ اَقْسَطُ عِندَ ٱللَّهِ ۚ فَإِن لَّمْ تَعْلَمُوٓاْ ءَابَآءَهُمْ فَإِخْوَٰنُكُمْ فِى ٱلدِّينِ وَمَوَٰلِيكُمْ ۚ وَلَيْسَ عَلَيْكُمْ جُنَاحٌۭ فِيمَآ اَخْطَأْتُم بِهِۦ وَلَـٰكِن مَّا تَعَمَّدَتْ قُلُوبُكُمْ ۚ وَكَانَ ٱللَّهُ غَفُورًا رَّحِيمًا",
     "urdu_text": "انهیں ان کے باپوں کے نام سے پکارو، یه الله کے نزدیک زیاده انصاف کے قریب هے، اگر تم ان کے باپوں کو نهیں جانتے تو وه دین میں تمهارے بھائی اور دوست هیں، اور جو غلطی تم سے هو جائے اس میں تم پر کوئی گناه نهیں، لیکن جو تمهارے دلوں نے جان بوجھ کر کیا اس کے ذمه دار هو، اور الله بخشنے والا مهربان هے۔",
     "persian_text": "آنها را به نام پدرانشان بخوانید، این نزد خداوند عادلانه‌تر است، اگر پدرانشان را نمی‌شناسید پس برادران دینی و دوستان شما هستند، و در آنچه از روی اشتباه انجام داده‌اید گناهی بر شما نیست، ولی آنچه دل‌هایتان عمداً انجام داده مسئولید، و خداوند آمرزنده مهربان است.",
     "transliteration": "Ud'oohum li-aabaaa'ihim huwa aqsatu 'indallaah, fa-il lam ta'lamooo aabaaa'ahum fa-ikhwaanukum fid-deeni wa mawaa leekum, wa laysa 'alaykum junaahun feemaa akhta'tum bihee wa laakim maa ta'ammadat quloobukum, wa kaanallaahu ghafooran raheemaa"
@@ -49,7 +49,7 @@ ayats = [
   {
     "verse_number": 6,
     "english_text": "Verily, prophet has much more right over the souls of the believers, and his wives are mothers to all; and among believers and migrants their close relatives are more important, but if you want to do good to friends then there is no harm, this is written and present in the book of Allah.",
-    "arabic_text": "ٱلنَّبِىُّ اَوْلَىٰ بِٱلْمُؤْمِنِينَ مِنْ اَنفُسِهِمْ ۖ وَاَزْوَٰجُهُۥٓ أُمَّهَـٰتُهُمْ ۗ وَأُو۟لُواْ ٱلْاَرْحَامِ بَعْضُهُمْ اَوْلَىٰ بِبَعْضٍۢ فِى كِتَـٰبِ ٱللَّهِ مِنَ ٱلْمُؤْمِنِينَ وَٱلْمُهَـٰجِرِينَ إِلَّآ اَن تَفْعَلُوٓاْ إِلَىٰٓ اَوْلِيَآئِكُم مَّعْرُوفًۭا ۚ كَانَ ذَٰلِكَ فِى ٱلْكِتَـٰبِ مَسْطُورًۭا",
+    "arabic_text": "ٱلنَّبِىُّ اَوْلَىٰ بِٱلْمُؤْمِنِينَ مِنْ اَنفُسِهِمْ ۖ وَاَزْوَٰجُهُۥٓ أُمَّهَـٰتُهُمْ ۗ وَأُو۟لُواْ ٱلْاَرْحَامِ بَعْضُهُمْ اَوْلَىٰ بِبَعْضٍۢ فِى كِتَـٰبِ ٱللَّهِ مِنَ ٱلْمُؤْمِنِينَ وَٱلْمُهَـٰجِرِينَ إِلَّآ اَن تَفْعَلُوٓاْ إِلَىٰٓ اَوْلِيَآئِكُم مَّعْرُوفًۭا ۚ كَانَ ذَٰلِكَ فِى ٱلْكِتَـٰبِ مَسْطُورًا",
     "urdu_text": "بیشک نبی مومنوں پر ان کی اپنی جانوں سے زیاده حق رکھتے هیں، اور ان کی بیویاں سب کی مائیں هیں، اور مومنوں اور مهاجرین میں قریبی رشته دار ایک دوسرے کے زیاده حقدار هیں الله کی کتاب میں، مگر یه که تم اپنے دوستوں کے ساتھ بھلائی کرنا چاهو تو کوئی حرج نهیں، یه الله کی کتاب میں لکھا هوا هے۔",
     "persian_text": "پیامبر بر مؤمنان از خودشان سزاوارتر است، و همسرانش مادران آنها هستند، و خویشاوندان نزدیک بعضی از آنها به بعضی دیگر در کتاب خدا سزاوارترند از مؤمنان و مهاجران، مگر اینکه بخواهید به دوستانتان نیکی کنید که اشکالی ندارد، این در کتاب خدا نوشته شده است.",
     "transliteration": "An-nabiyyu awlaa bil-mu'mineena min anfusihim wa azwaajuhoo ummahaa tuhum, wa ulul-arhaami ba'duhum awlaa biba'din fee kitaabillaahi minal-mu'mineena wal-muhaajireena illaa an taf'alooo ilaa awliyaaa'ikum ma'roofaa, kaana dhaalika fil-kitaabi mastooraa"
@@ -97,7 +97,7 @@ ayats = [
   {
     "verse_number": 12,
     "english_text": "And infidels who had sickness in their hearts said: Allah and His prophet had only made deceptive promises with us.",
-    "arabic_text": "وَإِذْ يَقُولُ ٱلْمُنَـٰفِقُونَ وَٱلَّذِينَ فِى قُلُوبِهِم مَّرَضٌۭ مَّا وَعَدَنَا ٱللَّهُ وَرَسُولُهُۥٓ إِلَّا غُرُورًۭا",
+    "arabic_text": "وَإِذْ يَقُولُ ٱلْمُنَـٰفِقُونَ وَٱلَّذِينَ فِى قُلُوبِهِم مَّرَضٌۭ مَّا وَعَدَنَا ٱللَّهُ وَرَسُولُهُۥٓ إِلَّا غُرُورًا",
     "urdu_text": "اور منافقوں اور ان لوگوں نے جن کے دلوں میں بیماری تھی، کها: الله اور اس کے رسول نے هم سے صرف فریب کے وعدے کیے هیں۔",
     "persian_text": "و منافقان و کسانی که در دل‌هایشان بیماری بود، گفتند: خدا و پیامبرش جز فریب به ما وعده نداده‌اند.",
     "transliteration": "Wa idh yaqūlu al-munāfiqūna wa alladhīna fī qulūbihim maraḍun mā wa'adanā Allāhu wa rasūluhū illā ghurūrā"
@@ -105,7 +105,7 @@ ayats = [
   {
     "verse_number": 13,
     "english_text": "When one group said O people of Madina there is no place here, we should flee, among them one group asked for permission from the Prophet that their houses are empty, whereas they were not empty, but they were only trying to flee.",
-    "arabic_text": "وَإِذْ قَالَت طَّآئِفَةٌۭ مِّنْهُمْ يَـٰٓاَهْلَ يَثْرِبَ لَا مُقَامَ لَكُمْ فَٱرْجِعُواْ ۚ وَيَسْتَـْٔذِنُ فَرِيقٌۭ مِّنْهُمُ ٱلنَّبِىَّ يَقُولُونَ إِنَّ بُيُوتَنَا عَوْرَةٌۭ وَمَا هِىَ بِعَوْرَةٍ ۖ إِن يُرِيدُونَ إِلَّا فِرَارًۭا",
+    "arabic_text": "وَإِذْ قَالَت طَّآئِفَةٌۭ مِّنْهُمْ يَـٰٓاَهْلَ يَثْرِبَ لَا مُقَامَ لَكُمْ فَٱرْجِعُواْ ۚ وَيَسْتَـْٔذِنُ فَرِيقٌۭ مِّنْهُمُ ٱلنَّبِىَّ يَقُولُونَ إِنَّ بُيُوتَنَا عَوْرَةٌۭ وَمَا هِىَ بِعَوْرَةٍ ۖ إِن يُرِيدُونَ إِلَّا فِرَارًا",
     "urdu_text": "جب ان میں سے ایک گروه نے کها: اے مدینه والو! یهاں ٹھهرنے کی جگه نهیں، تم واپس لوٹ جاؤ۔ اور ان میں سے ایک گروه نبی سے اجازت مانگتا تھا که همارے گھر کھلے هیں، حالانکه وه کھلے نهیں تھے، بلکه وه صرف بھاگنا چاهتے تھے۔",
     "persian_text": "و هنگامی که گروهی از آنان گفتند: ای مردم یثرب (مدینه)! جایی برای ماندن نیست، پس بازگردید. و گروهی از آنان از پیامبر اجازه می‌خواستند و می‌گفتند: خانه‌های ما بی‌دفاع است، در حالی که بی‌دفاع نبود، بلکه فقط می‌خواستند فرار کنند.",
     "transliteration": "Wa idh qālat ṭā'ifatun minhum yā ahla Yathriba lā muqāma lakum farji'ū wa yasta'dhinu farīqun minhumu an-nabiyya yaqūlūna inna buyūtanā 'awratun wa mā hiya bi'awratin in yurīdūna illā firārā"
@@ -113,7 +113,7 @@ ayats = [
   {
     "verse_number": 14,
     "english_text": "And if such forces would have come from all points from around Madina, and they were asked for mischief, they immediately would have come, and they would have stayed in their houses just for little while.",
-    "arabic_text": "وَلَوْ دُخِلَتْ عَلَيْهِم مِّنْ اَقْطَارِهَا ثُمَّ سُئِلُواْ ٱلْفِتْنَةَ لَـَٔاتَوْهَا وَمَا تَلَبَّثُواْ بِهَآ إِلَّا يَسِيرًۭا",
+    "arabic_text": "وَلَوْ دُخِلَتْ عَلَيْهِم مِّنْ اَقْطَارِهَا ثُمَّ سُئِلُواْ ٱلْفِتْنَةَ لَـَٔاتَوْهَا وَمَا تَلَبَّثُواْ بِهَآ إِلَّا يَسِيرًا",
     "urdu_text": "اور اگر مدینه کے اطراف سے دشمن داخل هو جاتے، پھر ان سے فتنه انگیزی کا مطالبه کیا جاتا، تو وه فوراً اس میں شامل هو جاتے، اور اپنے گھروں میں تھوڑی دیر هی ٹھهرتے۔",
     "persian_text": "و اگر از اطراف شهر بر آنان هجوم می‌آوردند و سپس از آنان فتنه‌انگیزی خواسته می‌شد، قطعاً آن را انجام می‌دادند و جز اندکی در آن درنگ نمی‌کردند.",
     "transliteration": "Wa law dukhilat 'alayhim min aqṭārihā thumma su'ilū al-fitnata la-atawhā wa mā talabbathū bihā illā yasīrā"
@@ -137,7 +137,7 @@ ayats = [
   {
     "verse_number": 17,
     "english_text": "Say: if Allah intends to do evil or good for you, then who can save you from Him, and these people cannot find any guardian or helper other than Him.",
-    "arabic_text": "قُلْ مَن ذَا ٱلَّذِى يَعْصِمُكُم مِّنَ ٱللَّهِ إِنْ اَرَادَ بِكُمْ سُوٓءًا اَوْ اَرَادَ بِكُمْ رَحْمَةًۭ ۚ وَلَا يَجِدُونَ لَهُم مِّن دُونِ ٱللَّهِ وَلِيًّۭا وَلَا نَصِيرًۭا",
+    "arabic_text": "قُلْ مَن ذَا ٱلَّذِى يَعْصِمُكُم مِّنَ ٱللَّهِ إِنْ اَرَادَ بِكُمْ سُوٓءًا اَوْ اَرَادَ بِكُمْ رَحْمَةًۭ ۚ وَلَا يَجِدُونَ لَهُم مِّن دُونِ ٱللَّهِ وَلِيًّۭا وَلَا نَصِيرًا",
     "urdu_text": "کهه دو: کون هے جو تمهیں الله سے بچا سکے اگر وه تمهارے ساتھ برائی یا بھلائی کا اراده کرے؟ اور یه لوگ الله کے سوا کوئی سرپرست اور مددگار نهیں پا سکتے۔",
     "persian_text": "بگو: چه کسی می‌تواند شما را از خدا محافظت کند اگر او برای شما بدی یا رحمتی اراده کند؟ و آنان جز خدا هیچ سرپرست و یاوری نخواهند یافت.",
     "transliteration": "Qul man dhā alladhī ya'ṣimukum mina Allāhi in arāda bikum sū'an aw arāda bikum raḥmatan wa lā yajidūna lahum min dūni Allāhi waliyyan wa lā naṣīrā"
@@ -153,7 +153,7 @@ ayats = [
   {
     "verse_number": 19,
     "english_text": "They are reluctant from you, when fear will come in front of them, they will see you as if their eyes are turning just as their death is near, when fear will wane away they will attack on you with sharp language, and they will be greedy of war-spoils, they have not believed from the beginning, hence, Allah has negated their deeds, and for Allah this is very easy.",
-    "arabic_text": "اَشِحَّةً عَلَيْكُمْ ۖ فَإِذَا جَآءَ ٱلْخَوْفُ رَاَيْتَهُمْ يَنظُرُونَ إِلَيْكَ تَدُورُ اَعْيُنُهُمْ كَٱلَّذِى يُغْشَىٰ عَلَيْهِ مِنَ ٱلْمَوْتِ ۖ فَإِذَا ذَهَبَ ٱلْخَوْفُ سَلَقُوكُم بِاَلْسِنَةٍ حِدَادٍ اَشِحَّةً عَلَى ٱلْخَيْرِ ۚ أُو۟لَـٰٓئِكَ لَمْ يُؤْمِنُواْ فَاَحْبَطَ ٱللَّهُ اَعْمَـٰلَهُمْ ۚ وَكَانَ ذَٰلِكَ عَلَى ٱللَّهِ يَسِيرًۭا",
+    "arabic_text": "اَشِحَّةً عَلَيْكُمْ ۖ فَإِذَا جَآءَ ٱلْخَوْفُ رَاَيْتَهُمْ يَنظُرُونَ إِلَيْكَ تَدُورُ اَعْيُنُهُمْ كَٱلَّذِى يُغْشَىٰ عَلَيْهِ مِنَ ٱلْمَوْتِ ۖ فَإِذَا ذَهَبَ ٱلْخَوْفُ سَلَقُوكُم بِاَلْسِنَةٍ حِدَادٍ اَشِحَّةً عَلَى ٱلْخَيْرِ ۚ أُو۟لَـٰٓئِكَ لَمْ يُؤْمِنُواْ فَاَحْبَطَ ٱللَّهُ اَعْمَـٰلَهُمْ ۚ وَكَانَ ذَٰلِكَ عَلَى ٱللَّهِ يَسِيرًا",
     "urdu_text": "وه تم سے بخل کرتے هیں، جب خوف آتا هے تو تم انهیں دیکھتے هو که وه تمهاری طرف دیکھ رهے هیں اور ان کی آنکھیں گھوم رهی هیں جیسے کسی پر موت کی بےهوشی طاری هو، پھر جب خوف دور هو جاتا هے تو وه تیز زبان سے تم پر حمله کرتے هیں اور مالِ غنیمت کے لالچی هوتے هیں۔ یه لوگ شروع سے ایمان نهیں لائے، اس لیے الله نے ان کے اعمال برباد کر دیے، اور یه الله کے لیے بهت آسان هے۔",
     "persian_text": "آنان نسبت به شما بخیل هستند، پس هنگامی که ترس فرا رسد، آنان را می‌بینی که به تو نگاه می‌کنند و چشمانشان می‌چرخد مانند کسی که از مرگ بر او غش می‌آید، اما چون ترس برطرف شد، با زبان‌های تیز به شما حمله می‌کنند و نسبت به غنایم حریص‌اند. اینان ایمان نیاوردند، پس خداوند اعمالشان را تباه کرد، و این بر خدا آسان است.",
     "transliteration": "Ashiḥḥatan 'alaykum fa-idhā jā'a al-khawfu ra'aytahum yanẓurūna ilayka tadūru a'yunuhum ka-alladhī yughshā 'alayhi mina al-mawti fa-idhā dhahaba al-khawfu salaqūkum bi-alsinatin ḥidādin ashiḥḥatan 'alā al-khayri ulā'ika lam yu'minū fa-aḥbaṭa Allāhu a'mālahum wa kāna dhālika 'alā Allāhi yasīrā"
@@ -169,7 +169,7 @@ ayats = [
   {
     "verse_number": 21,
     "english_text": "O Muslims! Life of the Prophet is an excellent example for those who are hopeful of Allah and the Day of Judgement and remember Allah a lot.",
-    "arabic_text": "لَّقَدْ كَانَ لَكُمْ فِى رَسُولِ ٱللَّهِ أُسْوَةٌ حَسَنَةٌۭ لِّمَن كَانَ يَرْجُواْ ٱللَّهَ وَٱلْيَوْمَ ٱلْـَٔاخِرَ وَذَكَرَ ٱللَّهَ كَثِيرًۭا",
+    "arabic_text": "لَّقَدْ كَانَ لَكُمْ فِى رَسُولِ ٱللَّهِ أُسْوَةٌ حَسَنَةٌۭ لِّمَن كَانَ يَرْجُواْ ٱللَّهَ وَٱلْيَوْمَ ٱلْـَٔاخِرَ وَذَكَرَ ٱللَّهَ كَثِيرًا",
     "urdu_text": "اے مسلمانو! بیشک تمهارے لیے الله کے رسول کی زندگی میں بهترین نمونه هے، ان لوگوں کے لیے جو الله اور قیامت کے دن کی امید رکھتے هیں اور الله کو بکثرت یاد کرتے هیں۔",
     "persian_text": "ای مسلمانان! به راستی که برای شما در زندگی رسول الله نمونه بسیار خوبی است، برای کسانی که به الله و روز قیامت امید دارند و الله را بسیار یاد می‌کنند.",
     "transliteration": "Laqad kana lakum fee Rasoolillahi uswatun hasanatun liman kana yarjullaha wal yawmal akhira wa zakarallaha kathira"
@@ -193,7 +193,7 @@ ayats = [
   {
     "verse_number": 24,
     "english_text": "So that Allah recompense the truthful for their truth, and as for hypocrites either He may punish them or may accept their repentance, Verily, Allah is very Forgiving and Merciful.",
-    "arabic_text": "لِّيَجْزِىَ ٱللَّهُ ٱلصَّـٰدِقِينَ بِصِدْقِهِمْ وَيُعَذِّبَ ٱلْمُنَـٰفِقِينَ إِن شَآءَ اَوْ يَتُوبَ عَلَيْهِمْ ۚ إِنَّ ٱللَّهَ كَانَ غَفُورًۭا رَّحِيمًۭا",
+    "arabic_text": "لِّيَجْزِىَ ٱللَّهُ ٱلصَّـٰدِقِينَ بِصِدْقِهِمْ وَيُعَذِّبَ ٱلْمُنَـٰفِقِينَ إِن شَآءَ اَوْ يَتُوبَ عَلَيْهِمْ ۚ إِنَّ ٱللَّهَ كَانَ غَفُورًا رَّحِيمًۭا",
     "urdu_text": "تاکه الله سچوں کو ان کی سچائی کا بدله دے، اور منافقوں کو چاهے تو عذاب دے یا ان کی توبه قبول فرمائے، بیشک الله بهت بخشنے والا اور رحم کرنے والا هے۔",
     "persian_text": "تا الله راستگویان را به خاطر راستی‌شان پاداش دهد، و منافقان را اگر بخواهد عذاب کند یا توبه‌شان را بپذیرد، همانا الله بسیار آمرزنده و مهربان است.",
     "transliteration": "Liyajziyallahus sadiqeena bisidqihim wa yu'azziban munafiqeena in sha'a aw yatooba 'alayhim innallaha kana Ghafooran Raheema"
@@ -201,7 +201,7 @@ ayats = [
   {
     "verse_number": 25,
     "english_text": "And Allah returned infidels along with their rage and they could not benefit any, and Allah saved the believers from the war, and Allah is very Powerful and Mighty.",
-    "arabic_text": "وَرَدَّ ٱللَّهُ ٱلَّذِينَ كَفَرُواْ بِغَيْظِهِمْ لَمْ يَنَالُواْ خَيْرًۭا ۚ وَكَفَى ٱللَّهُ ٱلْمُؤْمِنِينَ ٱلْقِتَالَ ۚ وَكَانَ ٱللَّهُ قَوِيًّا عَزِيزًۭا",
+    "arabic_text": "وَرَدَّ ٱللَّهُ ٱلَّذِينَ كَفَرُواْ بِغَيْظِهِمْ لَمْ يَنَالُواْ خَيْرًا ۚ وَكَفَى ٱللَّهُ ٱلْمُؤْمِنِينَ ٱلْقِتَالَ ۚ وَكَانَ ٱللَّهُ قَوِيًّا عَزِيزًۭا",
     "urdu_text": "اور الله نے کافروں کو ان کے غصے کے ساتھ واپس لوٹا دیا، انهیں کوئی فائده نه هوا، اور الله نے مومنوں کو جنگ سے بچا لیا، اور الله بهت طاقتور اور غالب هے۔",
     "persian_text": "و الله کافران را با خشم و غیظشان بازگرداند، هیچ خیری به دست نیاوردند، و الله مؤمنان را از جنگ بس کرد، و الله بسیار نیرومند و شکست‌ناپذیر است.",
     "transliteration": "Wa raddallahul lazeena kafaroo bighayzihim lam yanaloo khayran wa kafallahul mu'mineenalqitala wa kanallahu Qawiyyan 'Azeeza"
@@ -217,7 +217,7 @@ ayats = [
   {
     "verse_number": 27,
     "english_text": "And then made you inherit their land, their rivers and their wealth and made you inherit all the lands also in which you had not trodden, and Verily Allah has power over everything.",
-    "arabic_text": "وَاَوْرَثَكُمْ اَرْضَهُمْ وَدِيَـٰرَهُمْ وَاَمْوَٰلَهُمْ وَاَرْضًۭا لَّمْ تَطَـُٔوهَا ۚ وَكَانَ ٱللَّهُ عَلَىٰ كُلِّ شَىْءٍۢ قَدِيرًۭا",
+    "arabic_text": "وَاَوْرَثَكُمْ اَرْضَهُمْ وَدِيَـٰرَهُمْ وَاَمْوَٰلَهُمْ وَاَرْضًۭا لَّمْ تَطَـُٔوهَا ۚ وَكَانَ ٱللَّهُ عَلَىٰ كُلِّ شَىْءٍۢ قَدِيرًا",
     "urdu_text": "اور اس نے تمهیں ان کی زمین، ان کے گھر اور ان کے مال کا وارث بنا دیا، اور ایسی زمین کا بھی جس پر تم نے قدم نهیں رکھا تھا، اور الله هر چیز پر قادر هے۔",
     "persian_text": "و زمین‌ها و خانه‌ها و اموالشان را به شما به ارث داد، و زمینی را که هنوز پا در آن نگذاشته بودید، و الله بر هر چیزی تواناست.",
     "transliteration": "Wa awrasakum ardahum wa diyarahum wa amwalahum wa ardan lam tata'ooha wa kanallahu 'ala kulli shay'in Qadeera"
@@ -241,7 +241,7 @@ ayats = [
   {
     "verse_number": 30,
     "english_text": "O wives of the Prophet! Whoever will commit the manifest evil among you, punishment for them will be double, and this is very easy for Allah.",
-    "arabic_text": "يَـٰنِسَآءَ ٱلنَّبِىِّ مَن يَأْتِ مِنكُنَّ بِفَـٰحِشَةٍۢ مُّبَيِّنَةٍۢ يُضَـٰعَفْ لَهَا ٱلْعَذَابُ ضِعْفَيْنِ ۚ وَكَانَ ذَٰلِكَ عَلَى ٱللَّهِ يَسِيرًۭا",
+    "arabic_text": "يَـٰنِسَآءَ ٱلنَّبِىِّ مَن يَأْتِ مِنكُنَّ بِفَـٰحِشَةٍۢ مُّبَيِّنَةٍۢ يُضَـٰعَفْ لَهَا ٱلْعَذَابُ ضِعْفَيْنِ ۚ وَكَانَ ذَٰلِكَ عَلَى ٱللَّهِ يَسِيرًا",
     "urdu_text": "اے نبی کی بیویو! تم میں سے جو کوئی کھلی بے حیائی کا ارتکاب کرے گی، اس کے لیے عذاب دوگنا کر دیا جائے گا، اور یه الله کے لیے بهت آسان هے۔",
     "persian_text": "ای همسران پیامبر! هر کس از شما مرتکب فحشای آشکاری شود، عذابش دو برابر خواهد شد، و این بر الله آسان است.",
     "transliteration": "Ya nisa'an Nabiyyi man ya'ti minkunna bifahishatin mubayyinatin yuda'af lahal 'azabu dif'ayni wa kana zalika 'alallahi yaseera"
@@ -265,7 +265,7 @@ ayats = [
   {
     "verse_number": 33,
     "english_text": "And stay in your houses and do not wear make-up like ignorant period, establish prayer and give poor-rate, and obey Allah and His Prophet, Allah intends, O people of household, to keep every uncleanness away from you, and purify you in such a way as it should be purified.",
-    "arabic_text": "وَقَرْنَ فِى بُيُوتِكُنَّ وَلَا تَبَرَّجْنَ تَبَرُّجَ ٱلْجَـٰهِلِيَّةِ ٱلْأُولَىٰ ۖ وَاَقِمْنَ ٱلصَّلَوٰةَ وَءَاتِينَ ٱلزَّكَوٰةَ وَاَطِعْنَ ٱللَّهَ وَرَسُولَهُۥٓ ۚ إِنَّمَا يُرِيدُ ٱللَّهُ لِيُذْهِبَ عَنكُمُ ٱلرِّجْسَ اَهْلَ ٱلْبَيْتِ وَيُطَهِّرَكُمْ تَطْهِيرًۭا",
+    "arabic_text": "وَقَرْنَ فِى بُيُوتِكُنَّ وَلَا تَبَرَّجْنَ تَبَرُّجَ ٱلْجَـٰهِلِيَّةِ ٱلْأُولَىٰ ۖ وَاَقِمْنَ ٱلصَّلَوٰةَ وَءَاتِينَ ٱلزَّكَوٰةَ وَاَطِعْنَ ٱللَّهَ وَرَسُولَهُۥٓ ۚ إِنَّمَا يُرِيدُ ٱللَّهُ لِيُذْهِبَ عَنكُمُ ٱلرِّجْسَ اَهْلَ ٱلْبَيْتِ وَيُطَهِّرَكُمْ تَطْهِيرًا",
     "urdu_text": "اور اپنے گھروں میں ٹھهری رهو اور پهلے زمانه جاهلیت کی طرح بناؤ سنگھار نه کرو، اور نماز قائم کرو اور زکوٰۃ ادا کرو اور الله اور اس کے رسول کی اطاعت کرو، الله تو یهی چاهتا هے اے اهل بیت که تم سے هر طرح کی ناپاکی کو دور کر دے اور تمهیں پوری طرح پاک کر دے۔",
     "persian_text": "و در خانه‌های خود بمانید و مانند دوران جاهلیت نخستین خود را آراسته نکنید، و نماز را برپا دارید و زکات بدهید و از الله و رسول او اطاعت کنید، الله فقط می‌خواهد ای اهل بیت، پلیدی را از شما دور کند و شما را کاملاً پاک سازد.",
     "transliteration": "Wa qarna fi buyutikunna wa la tabarrajna tabarruja al-jahiliyyati al-ula wa aqimna as-salata wa atiyna az-zakata wa ati'na Allaha wa rasulahu innama yuridu Allahu liyudhhiba 'ankumu ar-rijsa ahla al-bayti wa yutahhirakum tathira"
@@ -281,7 +281,7 @@ ayats = [
   {
     "verse_number": 35,
     "english_text": "Verily, Muslim men and Muslim women, believing men and believing women, and men who obey and women who obey, and truthful men and truthful women, and patient men and patient women, and men who are humble and women who are humble; and men who give charity and women who give charity; and men who fast and women who fast, and men and women who guard their chastity, and men and women who profusely thank Allah; Allah has made available for them forgiveness and great reward for them.",
-    "arabic_text": "إِنَّ ٱلْمُسْلِمِينَ وَٱلْمُسْلِمَـٰتِ وَٱلْمُؤْمِنِينَ وَٱلْمُؤْمِنَـٰتِ وَٱلْقَـٰنِتِينَ وَٱلْقَـٰنِتَـٰتِ وَٱلصَّـٰدِقِينَ وَٱلصَّـٰدِقَـٰتِ وَٱلصَّـٰبِرِينَ وَٱلصَّـٰبِرَٰتِ وَٱلْخَـٰشِعِينَ وَٱلْخَـٰشِعَـٰتِ وَٱلْمُتَصَدِّقِينَ وَٱلْمُتَصَدِّقَـٰتِ وَٱلصَّـٰٓئِمِينَ وَٱلصَّـٰٓئِمَـٰتِ وَٱلْحَـٰفِظِينَ فُرُوجَهُمْ وَٱلْحَـٰفِظَـٰتِ وَٱلذَّٰكِرِينَ ٱللَّهَ كَثِيرًۭا وَٱلذَّٰكِرَٰتِ اَعَدَّ ٱللَّهُ لَهُم مَّغْفِرَةًۭ وَاَجْرًا عَظِيمًۭا",
+    "arabic_text": "إِنَّ ٱلْمُسْلِمِينَ وَٱلْمُسْلِمَـٰتِ وَٱلْمُؤْمِنِينَ وَٱلْمُؤْمِنَـٰتِ وَٱلْقَـٰنِتِينَ وَٱلْقَـٰنِتَـٰتِ وَٱلصَّـٰدِقِينَ وَٱلصَّـٰدِقَـٰتِ وَٱلصَّـٰبِرِينَ وَٱلصَّـٰبِرَٰتِ وَٱلْخَـٰشِعِينَ وَٱلْخَـٰشِعَـٰتِ وَٱلْمُتَصَدِّقِينَ وَٱلْمُتَصَدِّقَـٰتِ وَٱلصَّـٰٓئِمِينَ وَٱلصَّـٰٓئِمَـٰتِ وَٱلْحَـٰفِظِينَ فُرُوجَهُمْ وَٱلْحَـٰفِظَـٰتِ وَٱلذَّٰكِرِينَ ٱللَّهَ كَثِيرًا وَٱلذَّٰكِرَٰتِ اَعَدَّ ٱللَّهُ لَهُم مَّغْفِرَةًۭ وَاَجْرًا عَظِيمًۭا",
     "urdu_text": "بیشک مسلمان مرد اور مسلمان عورتیں، مومن مرد اور مومن عورتیں، فرمانبردار مرد اور فرمانبردار عورتیں، سچے مرد اور سچی عورتیں، صبر کرنے والے مرد اور صبر کرنے والی عورتیں، عاجزی کرنے والے مرد اور عاجزی کرنے والی عورتیں، صدقه دینے والے مرد اور صدقه دینے والی عورتیں، روزه رکھنے والے مرد اور روزه رکھنے والی عورتیں، اپنی شرمگاهوں کی حفاظت کرنے والے مرد اور حفاظت کرنے والی عورتیں، اور الله کو کثرت سے یاد کرنے والے مرد اور یاد کرنے والی عورتیں، الله نے ان کے لیے بخشش اور بڑا اجر تیار کر رکھا هے۔",
     "persian_text": "همانا مردان و زنان مسلمان، مردان و زنان مؤمن، مردان و زنان فرمانبردار، مردان و زنان راستگو، مردان و زنان صبور، مردان و زنان فروتن، مردان و زنان صدقه‌دهنده، مردان و زنان روزه‌دار، مردان و زنانی که عفت خود را حفظ می‌کنند، و مردان و زنانی که الله را بسیار یاد می‌کنند، الله برای آنان آمرزش و پاداش بزرگی آماده کرده است.",
     "transliteration": "Inna al-muslimina wal-muslimati wal-mu'minina wal-mu'minati wal-qanitina wal-qanitati was-sadiqina was-sadiqati was-sabirina was-sabirat wal-khashi'ina wal-khashi'ati wal-mutasaddiqina wal-mutasaddiqati was-sa'imina was-sa'imati wal-hafizina furujahum wal-hafizati wadh-dhakirin Allaha kathiran wadh-dhakirati a'adda Allahu lahum maghfiratan wa ajran 'azima"
@@ -297,7 +297,7 @@ ayats = [
   {
     "verse_number": 37,
     "english_text": "And remember the time when you will telling him, upon whom Allah has shown the favor and you also have done favor and were telling him to retain your wife to yourself and keep fearing Allah, you are concealing in your heart which Allah wants to bring to light, but you were afraid of people's taunting, whereas Allah has greater right that He should be feared, and when Zaid had accomplished of his want of her, We married that lady to you, that for the believers there is no harm to marry (ex) wives of their adopted sons, when they have accomplished want of them; and Allah's command will however be implemented.",
-    "arabic_text": "وَإِذْ تَقُولُ لِلَّذِىٓ اَنْعَمَ ٱللَّهُ عَلَيْهِ وَاَنْعَمْتَ عَلَيْهِ اَمْسِكْ عَلَيْكَ زَوْجَكَ وَٱتَّقِ ٱللَّهَ وَتُخْفِى فِى نَفْسِكَ مَا ٱللَّهُ مُبْدِيهِ وَتَخْشَى ٱلنَّاسَ وَٱللَّهُ اَحَقُّ اَن تَخْشَىٰهُ ۖ فَلَمَّا قَضَىٰ زَيْدٌۭ مِّنْهَا وَطَرًۭا زَوَّجْنَـٰكَهَا لِكَىْ لَا يَكُونَ عَلَى ٱلْمُؤْمِنِينَ حَرَجٌۭ فِىٓ اَزْوَٰجِ اَدْعِيَآئِهِمْ إِذَا قَضَوْاْ مِنْهُنَّ وَطَرًۭا ۚ وَكَانَ اَمْرُ ٱللَّهِ مَفْعُولًۭا",
+    "arabic_text": "وَإِذْ تَقُولُ لِلَّذِىٓ اَنْعَمَ ٱللَّهُ عَلَيْهِ وَاَنْعَمْتَ عَلَيْهِ اَمْسِكْ عَلَيْكَ زَوْجَكَ وَٱتَّقِ ٱللَّهَ وَتُخْفِى فِى نَفْسِكَ مَا ٱللَّهُ مُبْدِيهِ وَتَخْشَى ٱلنَّاسَ وَٱللَّهُ اَحَقُّ اَن تَخْشَىٰهُ ۖ فَلَمَّا قَضَىٰ زَيْدٌۭ مِّنْهَا وَطَرًا زَوَّجْنَـٰكَهَا لِكَىْ لَا يَكُونَ عَلَى ٱلْمُؤْمِنِينَ حَرَجٌۭ فِىٓ اَزْوَٰجِ اَدْعِيَآئِهِمْ إِذَا قَضَوْاْ مِنْهُنَّ وَطَرًا ۚ وَكَانَ اَمْرُ ٱللَّهِ مَفْعُولًۭا",
     "urdu_text": "اور جب آپ اس شخص سے کهه رهے تھے جس پر الله نے احسان کیا اور آپ نے بھی احسان کیا که اپنی بیوی کو اپنے پاس روکے رکھو اور الله سے ڈرو، اور آپ اپنے دل میں وه بات چھپا رهے تھے جسے الله ظاهر کرنے والا تھا، اور آپ لوگوں سے ڈر رهے تھے حالانکه الله زیاده حقدار هے که اس سے ڈرا جائے، پھر جب زید نے اس سے اپنی حاجت پوری کر لی تو هم نے اسے آپ سے نکاح کر دیا تاکه مومنوں پر اپنے منه بولے بیٹوں کی بیویوں سے نکاح کرنے میں کوئی حرج نه رهے جب وه ان سے اپنی حاجت پوری کر لیں، اور الله کا حکم پورا هونے والا هے۔",
     "persian_text": "و یاد کن هنگامی را که به کسی که الله بر او نعمت داده بود و تو نیز بر او نعمت داده بودی می‌گفتی: همسرت را نگه دار و از الله بترس، و تو در دل خود چیزی را پنهان می‌کردی که الله آن را آشکار می‌کند، و از مردم می‌ترسیدی در حالی که الله سزاوارتر است که از او بترسی، پس چون زید از او حاجت خود را برآورد، او را به همسری تو درآوردیم تا بر مؤمنان حرجی نباشد در ازدواج با همسران پسرخوانده‌هایشان هنگامی که حاجت خود را از آنان برآورند، و فرمان الله انجام‌شدنی است.",
     "transliteration": "Wa idh taqulu lilladhi an'ama Allahu 'alayhi wa an'amta 'alayhi amsik 'alayka zawjaka wattaqi Allaha wa tukhfi fi nafsika ma Allahu mubdihi wa takhsha an-nasa wallahu ahaqqu an takhshahu falamma qada Zaydun minha wataran zawwajnakaha likay la yakuna 'ala al-mu'minina harajun fi azwaji ad'iya'ihim idha qadhaw minhunna wataran wa kana amru Allahi maf'ula"
@@ -305,7 +305,7 @@ ayats = [
   {
     "verse_number": 38,
     "english_text": "There is no harm for the prophet for Allah's duties which He has ordained for him, this Divine tradition of earlier prophets, and command of Allah is a decree that is made absolute.",
-    "arabic_text": "مَّا كَانَ عَلَى ٱلنَّبِىِّ مِنْ حَرَجٍۢ فِيمَا فَرَضَ ٱللَّهُ لَهُۥ ۖ سُنَّةَ ٱللَّهِ فِى ٱلَّذِينَ خَلَوْاْ مِن قَبْلُ ۚ وَكَانَ اَمْرُ ٱللَّهِ قَدَرًۭا مَّقْدُورًا",
+    "arabic_text": "مَّا كَانَ عَلَى ٱلنَّبِىِّ مِنْ حَرَجٍۢ فِيمَا فَرَضَ ٱللَّهُ لَهُۥ ۖ سُنَّةَ ٱللَّهِ فِى ٱلَّذِينَ خَلَوْاْ مِن قَبْلُ ۚ وَكَانَ اَمْرُ ٱللَّهِ قَدَرًا مَّقْدُورًا",
     "urdu_text": "نبی پر کوئی حرج نهیں اس چیز میں جو الله نے اس کے لیے مقرر کی هے، یه الله کی سنت هے ان لوگوں میں جو پهلے گزر چکے هیں، اور الله کا حکم ایک مقرر شده فیصله هے۔",
     "persian_text": "بر پیامبر هیچ حرجی نیست در آنچه الله برای او مقرر کرده است، این سنت الله در میان کسانی است که پیش از این گذشتند، و فرمان الله تقدیری معین شده است.",
     "transliteration": "Ma kana 'ala an-nabiyyi min harajin fima farada Allahu lahu sunnata Allahi fi alladhina khalaw min qablu wa kana amru Allahi qadaran maqdura"
@@ -329,7 +329,7 @@ ayats = [
   {
     "verse_number": 41,
     "english_text": "O believers, mention the name of Allah very frequently.",
-    "arabic_text": "يَـٰٓاَيُّهَا ٱلَّذِينَ ءَامَنُواْ ٱذْكُرُواْ ٱللَّهَ ذِكْرًۭا كَثِيرًۭا",
+    "arabic_text": "يَـٰٓاَيُّهَا ٱلَّذِينَ ءَامَنُواْ ٱذْكُرُواْ ٱللَّهَ ذِكْرًا كَثِيرًا",
     "urdu_text": "اے ایمان والو! الله کو بهت زیاده یاد کرو۔",
     "persian_text": "ای کسانی که ایمان آورده‌اید! خدا را بسیار یاد کنید.",
     "transliteration": "Yaa ayyuhal-lazeena aamanuz-kurullaha zikran kaseeraa"
@@ -353,7 +353,7 @@ ayats = [
   {
     "verse_number": 44,
     "english_text": "The day when they will meet their Lord, their hospitality will be with salutations; and He has made available the best reward for them.",
-    "arabic_text": "تَحِيَّتُهُمْ يَوْمَ يَلْقَوْنَهُۥ سَلَـٰمٌۭ ۚ وَاَعَدَّ لَهُمْ اَجْرًۭا كَرِيمًۭا",
+    "arabic_text": "تَحِيَّتُهُمْ يَوْمَ يَلْقَوْنَهُۥ سَلَـٰمٌۭ ۚ وَاَعَدَّ لَهُمْ اَجْرًا كَرِيمًۭا",
     "urdu_text": "جس دن وه اپنے رب سے ملیں گے، ان کا استقبال سلام کے ساتھ هوگا، اور الله نے ان کے لیے بهترین اجر تیار کر رکھا هے۔",
     "persian_text": "روزی که او را ملاقات کنند، تحیت آنان سلام است، و برای آنان پاداش بزرگواری آماده کرده است.",
     "transliteration": "Tahiyyatuhum yawma yalqawnahu salaam, wa a'adda lahum ajran kareemaa"
@@ -361,7 +361,7 @@ ayats = [
   {
     "verse_number": 45,
     "english_text": "O Prophet! We have made you witness, giver of glad tidings, and warner from the Divine punishment;",
-    "arabic_text": "يَـٰٓاَيُّهَا ٱلنَّبِىُّ إِنَّآ اَرْسَلْنَـٰكَ شَـٰهِدًۭا وَمُبَشِّرًۭا وَنَذِيرًۭا",
+    "arabic_text": "يَـٰٓاَيُّهَا ٱلنَّبِىُّ إِنَّآ اَرْسَلْنَـٰكَ شَـٰهِدًۭا وَمُبَشِّرًا وَنَذِيرًا",
     "urdu_text": "اے نبی! بیشک هم نے آپ کو گواه، خوشخبری دینے والا اور ڈرانے والا بنا کر بھیجا هے۔",
     "persian_text": "ای پیامبر! ما تو را گواه و بشارت‌دهنده و هشداردهنده فرستادیم.",
     "transliteration": "Yaa ayyuhan-nabiyyu innaa arsalnaaka shaahidanw-wa mubashshiranw-wa nazeeraa"
@@ -369,7 +369,7 @@ ayats = [
   {
     "verse_number": 46,
     "english_text": "And has sent you as inviter with the permission of Allah, and as bright lamp.",
-    "arabic_text": "وَدَاعِيًا إِلَى ٱللَّهِ بِإِذْنِهِۦ وَسِرَاجًۭا مُّنِيرًۭا",
+    "arabic_text": "وَدَاعِيًا إِلَى ٱللَّهِ بِإِذْنِهِۦ وَسِرَاجًۭا مُّنِيرًا",
     "urdu_text": "اور الله کی اجازت سے اس کی طرف بلانے والا اور روشن چراغ بنا کر بھیجا هے۔",
     "persian_text": "و به اذن او دعوت‌کننده به سوی خدا و چراغی روشن‌بخش.",
     "transliteration": "Wa daa'iyan ilallaahi bi-iznihi wa siraajam muneeraa"
@@ -377,7 +377,7 @@ ayats = [
   {
     "verse_number": 47,
     "english_text": "Give glad tidings to the believers that there is great Grace and Mercy for them.",
-    "arabic_text": "وَبَشِّرِ ٱلْمُؤْمِنِينَ بِاَنَّ لَهُم مِّنَ ٱللَّهِ فَضْلًۭا كَبِيرًۭا",
+    "arabic_text": "وَبَشِّرِ ٱلْمُؤْمِنِينَ بِاَنَّ لَهُم مِّنَ ٱللَّهِ فَضْلًۭا كَبِيرًا",
     "urdu_text": "اور مومنوں کو خوشخبری دے دیں که ان کے لیے الله کی طرف سے بڑا فضل هے۔",
     "persian_text": "و مؤمنان را بشارت ده که برای آنان از جانب خدا فضل بزرگی است.",
     "transliteration": "Wa bashshiril-mu'mineena bi-anna lahum minallahi fadlan kabeeraa"
@@ -401,7 +401,7 @@ ayats = [
   {
     "verse_number": 50,
     "english_text": "O Prophet! We have made to you lawful your wives whose dower you have paid, and lady-slaves whom Allah has given you without war, and daughters of your uncles, and daughters of your paternal-aunts, and daughters of your maternal-uncles; and daughters of your maternal-aunts who migrated with you, and believing women who gift their soul to the Prophet, if prophet wish to marry them, it is made lawful, but this is specially only for you and not for other believers; and We know what duty we have ordained for these people's wives and lady-slaves that there is no difficulty and trouble for you; and Allah is very Forgiving and Merciful.",
-    "arabic_text": "يَـٰٓاَيُّهَا ٱلنَّبِىُّ إِنَّآ اَحْلَلْنَا لَكَ اَزْوَٰجَكَ ٱلَّـٰتِىٓ ءَاتَيْتَ أُجُورَهُنَّ وَمَا مَلَكَتْ يَمِينُكَ مِمَّآ اَفَآءَ ٱللَّهُ عَلَيْكَ وَبَنَاتِ عَمِّكَ وَبَنَاتِ عَمَّـٰتِكَ وَبَنَاتِ خَالِكَ وَبَنَاتِ خَـٰلَـٰتِكَ ٱلَّـٰتِى هَاجَرْنَ مَعَكَ وَٱمْرَاَةًۭ مُّؤْمِنَةً إِن وَهَبَتْ نَفْسَهَا لِلنَّبِىِّ إِنْ اَرَادَ ٱلنَّبِىُّ اَن يَسْتَنكِحَهَا خَالِصَةًۭ لَّكَ مِن دُونِ ٱلْمُؤْمِنِينَ ۗ قَدْ عَلِمْنَا مَا فَرَضْنَا عَلَيْهِمْ فِىٓ اَزْوَٰجِهِمْ وَمَا مَلَكَتْ اَيْمَـٰنُهُمْ لِكَيْلَا يَكُونَ عَلَيْكَ حَرَجٌۭ ۗ وَكَانَ ٱللَّهُ غَفُورًۭا رَّحِيمًۭا",
+    "arabic_text": "يَـٰٓاَيُّهَا ٱلنَّبِىُّ إِنَّآ اَحْلَلْنَا لَكَ اَزْوَٰجَكَ ٱلَّـٰتِىٓ ءَاتَيْتَ أُجُورَهُنَّ وَمَا مَلَكَتْ يَمِينُكَ مِمَّآ اَفَآءَ ٱللَّهُ عَلَيْكَ وَبَنَاتِ عَمِّكَ وَبَنَاتِ عَمَّـٰتِكَ وَبَنَاتِ خَالِكَ وَبَنَاتِ خَـٰلَـٰتِكَ ٱلَّـٰتِى هَاجَرْنَ مَعَكَ وَٱمْرَاَةًۭ مُّؤْمِنَةً إِن وَهَبَتْ نَفْسَهَا لِلنَّبِىِّ إِنْ اَرَادَ ٱلنَّبِىُّ اَن يَسْتَنكِحَهَا خَالِصَةًۭ لَّكَ مِن دُونِ ٱلْمُؤْمِنِينَ ۗ قَدْ عَلِمْنَا مَا فَرَضْنَا عَلَيْهِمْ فِىٓ اَزْوَٰجِهِمْ وَمَا مَلَكَتْ اَيْمَـٰنُهُمْ لِكَيْلَا يَكُونَ عَلَيْكَ حَرَجٌۭ ۗ وَكَانَ ٱللَّهُ غَفُورًا رَّحِيمًۭا",
     "urdu_text": "اے نبی! بیشک هم نے آپ کے لیے آپ کی بیویاں حلال کر دی هیں جن کا مهر آپ نے ادا کیا هے، اور وه لونڈیاں جو الله نے آپ کو عطا فرمائی هیں، اور آپ کے چچا کی بیٹیاں، اور آپ کی پھوپھیوں کی بیٹیاں، اور آپ کے ماموؤں کی بیٹیاں، اور آپ کی خالاؤں کی بیٹیاں جو آپ کے ساتھ هجرت کر کے آئی هیں، اور کوئی مومن عورت اگر اپنے آپ کو نبی کے لیے هبه کر دے، اگر نبی اس سے نکاح کرنا چاهیں، یه خاص آپ کے لیے هے دوسرے مومنوں کے لیے نهیں، هم جانتے هیں جو هم نے ان پر ان کی بیویوں اور لونڈیوں کے بارے میں فرض کیا هے، تاکه آپ پر کوئی تنگی نه هو، اور الله بهت بخشنے والا، مهربان هے۔",
     "persian_text": "ای پیامبر! ما برای تو حلال کردیم همسرانت را که مهر آنان را پرداخته‌ای، و آنچه مالک آن شده‌ای از آنچه خدا به تو عطا کرده، و دختران عموی تو و دختران عمه‌های تو و دختران دایی‌های تو و دختران خاله‌های تو که با تو هجرت کرده‌اند، و زن مؤمنی که خود را به پیامبر هبه کند اگر پیامبر بخواهد با او ازدواج کند، این ویژه توست نه دیگر مؤمنان، ما می‌دانیم آنچه بر آنان درباره همسران و کنیزانشان واجب کرده‌ایم، تا بر تو تنگی نباشد، و خدا آمرزنده و مهربان است.",
     "transliteration": "Yaa ayyuhan-nabiyyu innaa ahlalanaa laka azwaajaka allaatee aatayta ujoorahunna wa maa malakat yameenuka mimmaa afaaa'allaahu 'alayka wa banaati 'ammika wa banaati 'ammaatika wa banaati khaalika wa banaati khaalaatika allaatee haajarna ma'aka wamra-atam-mu'minatan in wahabat nafsahaa linnabiyyi in araadan-nabiyyu any-yastankihahaa khhaalisatal-laka min doonil-mu'mineen, qad 'alimnaa maa faradnaa 'alayhim fee azwaajihim wa maa malakat aymaanuhum likaylaa yakoona 'alayka haraj, wa kaanallaahu ghafoorar-raheemaa"
@@ -473,7 +473,7 @@ ayats = [
   {
     "verse_number": 59,
     "english_text": "O Prophet! Say to your wives, daughters and believing women to cast their outer garments over them, this is nearer to their identity and decency, and in this way they will not be given trouble, Allah is very Forgiving and Merciful.",
-    "arabic_text": "يَـٰٓاَيُّهَا ٱلنَّبِىُّ قُل لِّاَزْوَٰجِكَ وَبَنَاتِكَ وَنِسَآءِ ٱلْمُؤْمِنِينَ يُدْنِينَ عَلَيْهِنَّ مِن جَلَـٰبِيبِهِنَّ ۚ ذَٰلِكَ اَدْنَىٰٓ اَن يُعْرَفْنَ فَلَا يُؤْذَيْنَ ۗ وَكَانَ ٱللَّهُ غَفُورًۭا رَّحِيمًۭا",
+    "arabic_text": "يَـٰٓاَيُّهَا ٱلنَّبِىُّ قُل لِّاَزْوَٰجِكَ وَبَنَاتِكَ وَنِسَآءِ ٱلْمُؤْمِنِينَ يُدْنِينَ عَلَيْهِنَّ مِن جَلَـٰبِيبِهِنَّ ۚ ذَٰلِكَ اَدْنَىٰٓ اَن يُعْرَفْنَ فَلَا يُؤْذَيْنَ ۗ وَكَانَ ٱللَّهُ غَفُورًا رَّحِيمًۭا",
     "urdu_text": "اے نبی! اپنی بیویوں، اپنی بیٹیوں اور مومن عورتوں سے کهه دیں که وه اپنے اوپر چادریں لٹکا لیں، یه اس کے قریب تر هے که وه پهچانی جائیں اور انهیں تکلیف نه دی جائے۔ اور الله بهت بخشنے والا اور مهربان هے۔",
     "persian_text": "ای پیامبر! به همسرانت و دخترانت و زنان مؤمنان بگو که جلباب‌های خود را بر خود فرو افکنند، این نزدیک‌تر است به آنکه شناخته شوند و آزار نبینند. و خداوند آمرزنده و مهربان است.",
     "transliteration": "Yaa ayyuhan nabiyyu qul li-azwaajika wa banaatika wa nisaa'il mu'mineena yudneena 'alayhinna min jalaabeebihinn, dhaalika adnaa an yu'rafna falaa yu'dhayn, wa kaanallaahu ghafooran raheema"
@@ -521,7 +521,7 @@ ayats = [
   {
     "verse_number": 65,
     "english_text": "They will remain in it forever, and they will not find guardian and helper.",
-    "arabic_text": "خَـٰلِدِينَ فِيهَآ اَبَدًۭا ۖ لَّا يَجِدُونَ وَلِيًّۭا وَلَا نَصِيرًۭا",
+    "arabic_text": "خَـٰلِدِينَ فِيهَآ اَبَدًۭا ۖ لَّا يَجِدُونَ وَلِيًّۭا وَلَا نَصِيرًا",
     "urdu_text": "وه اس میں همیشه همیشه رهیں گے، نه کوئی سرپرست پائیں گے اور نه کوئی مددگار۔",
     "persian_text": "جاودانه در آن خواهند ماند، نه سرپرستی خواهند یافت و نه یاوری.",
     "transliteration": "Khālidīna fīhā abadal-lā yajidūna waliyyan wa lā nasīrā"
@@ -545,7 +545,7 @@ ayats = [
   {
     "verse_number": 68,
     "english_text": "O Lord! Give them double the punishment and curse them greatly.",
-    "arabic_text": "رَبَّنَآ ءَاتِهِمْ ضِعْفَيْنِ مِنَ ٱلْعَذَابِ وَٱلْعَنْهُمْ لَعْنًۭا كَبِيرًۭا",
+    "arabic_text": "رَبَّنَآ ءَاتِهِمْ ضِعْفَيْنِ مِنَ ٱلْعَذَابِ وَٱلْعَنْهُمْ لَعْنًۭا كَبِيرًا",
     "urdu_text": "اے همارے رب! انهیں دوگنا عذاب دے اور ان پر بڑی لعنت کر۔",
     "persian_text": "پروردگارا! به آنان دو برابر عذاب بده و آنان را لعنتی بزرگ کن.",
     "transliteration": "Rabbanā ātihim di'fayni minal-'adhābi wal-'anhum la'nan kabīrā"
@@ -585,7 +585,7 @@ ayats = [
   {
     "verse_number": 73,
     "english_text": "So that Allah send the punishment on hypocrite men and hypocrite women, and polytheist men and polytheist women; and accept the repentance of believing men and believing women; Allah is very Forgiving and Merciful.",
-    "arabic_text": "لِّيُعَذِّبَ ٱللَّهُ ٱلْمُنَـٰفِقِينَ وَٱلْمُنَـٰفِقَـٰتِ وَٱلْمُشْرِكِينَ وَٱلْمُشْرِكَـٰتِ وَيَتُوبَ ٱللَّهُ عَلَى ٱلْمُؤْمِنِينَ وَٱلْمُؤْمِنَـٰتِ ۗ وَكَانَ ٱللَّهُ غَفُورًۭا رَّحِيمًۢا",
+    "arabic_text": "لِّيُعَذِّبَ ٱللَّهُ ٱلْمُنَـٰفِقِينَ وَٱلْمُنَـٰفِقَـٰتِ وَٱلْمُشْرِكِينَ وَٱلْمُشْرِكَـٰتِ وَيَتُوبَ ٱللَّهُ عَلَى ٱلْمُؤْمِنِينَ وَٱلْمُؤْمِنَـٰتِ ۗ وَكَانَ ٱللَّهُ غَفُورًا رَّحِيمًۢا",
     "urdu_text": "تاکه الله منافق مردوں اور منافق عورتوں، اور مشرک مردوں اور مشرک عورتوں کو عذاب دے، اور مومن مردوں اور مومن عورتوں کی توبه قبول فرمائے، اور الله بڑا بخشنے والا اور مهربان هے۔",
     "persian_text": "تا خداوند مردان و زنان منافق و مردان و زنان مشرک را عذاب دهد، و توبه مردان و زنان مؤمن را بپذیرد، و خداوند بسیار آمرزنده و مهربان است.",
     "transliteration": "Liyu'adhdhiballahul munāfiqīna wal munāfiqāti wal mushrikīna wal mushrikāti wa yatūballāhu 'alal mu'minīna wal mu'mināt, wa kānallāhu ghafūran rahīmā"

@@ -273,7 +273,7 @@ ayats = [
   {
     "verse_number": 34,
     "english_text": "And if you obey a mortal like you then Verily you will be at loss.",
-    "arabic_text": "وَلَئِنْ اَطَعْتُم بَشَرًۭا مِّثْلَكُمْ إِنَّكُمْ إِذًۭا لَّخَـٰسِرُونَ",
+    "arabic_text": "وَلَئِنْ اَطَعْتُم بَشَرًا مِّثْلَكُمْ إِنَّكُمْ إِذًۭا لَّخَـٰسِرُونَ",
     "urdu_text": "اور اگر تم اپنے جیسے ایک انسان کی اطاعت کرو گے تو یقیناً تم نقصان اٹھانے والے هو۔",
     "persian_text": "و اگر از بشری مانند خودتان اطاعت کنید، قطعاً زیانکار خواهید بود.",
     "transliteration": "Wa la'in ata'tum basharam mithlakum innakum izan lakhaasiroon"
@@ -425,7 +425,7 @@ ayats = [
   {
     "verse_number": 53,
     "english_text": "Then they divided the religion into sects, and every sect is happy and satisfied with whatever they have.",
-    "arabic_text": "فَتَقَطَّعُوٓاْ اَمْرَهُم بَيْنَهُمْ زُبُرًۭا ۖ كُلُّ حِزْبٍۭ بِمَا لَدَيْهِمْ فَرِحُونَ",
+    "arabic_text": "فَتَقَطَّعُوٓاْ اَمْرَهُم بَيْنَهُمْ زُبُرًا ۖ كُلُّ حِزْبٍۭ بِمَا لَدَيْهِمْ فَرِحُونَ",
     "urdu_text": "پھر انهوں نے اپنے دین کو آپس میں ٹکڑے ٹکڑے کر دیا، هر گروه اپنے پاس جو کچھ هے اس پر خوش هے۔",
     "persian_text": "سپس کار خود را میان خویش پاره پاره کردند، هر گروهی به آنچه نزد خود دارند خوشحال هستند.",
     "transliteration": "Fataqatta'oo amrahum baynahum zuburan kullu hizbin bimaa ladayhim farihoon"
@@ -537,7 +537,7 @@ ayats = [
   {
     "verse_number": 67,
     "english_text": "Arrogantly, while talking uselessly and telling tales.",
-    "arabic_text": "مُسْتَكْبِرِينَ بِهِۦ سَـٰمِرًۭا تَهْجُرُونَ",
+    "arabic_text": "مُسْتَكْبِرِينَ بِهِۦ سَـٰمِرًا تَهْجُرُونَ",
     "urdu_text": "تکبر کرتے هوئے، رات کو بیٹھ کر بیهوده باتیں کرتے تھے۔",
     "persian_text": "با تکبر، شب‌نشینی می‌کردید و سخنان بیهوده می‌گفتید.",
     "transliteration": "Mustakbireena bihee saamiran tahjuroon"

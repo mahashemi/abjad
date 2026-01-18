@@ -41,7 +41,7 @@ ayats = [
   {
     "verse_number": 5,
     "english_text": "Has he merged many gods and made one god, this is very surprising.",
-    "arabic_text": "اَجَعَلَ الْـَٔالِهَةَ اِلَـٰهًۭا وَٰحِدًا ۖ اِنَّ هَـٰذَا لَشَىْءٌ عُجَابٌۭ",
+    "arabic_text": "اَجَعَلَ الْالِهَةَ اِلَـٰهًۭا وَٰحِدًا ۖ اِنَّ هَـٰذَا لَشَىْءٌ عُجَابٌۭ",
     "urdu_text": "کیا اس نے تمام معبودوں کو ایک معبود بنا دیا؟ یہ تو بڑی عجیب بات ہے۔",
     "persian_text": "آیا همه خدایان را یک خدا قرار داده است؟ این چیزی بسیار شگفت‌انگیز است.",
     "transliteration": "Aja'alal-aalihata ilaahan waahidan inna haadha la-shay'un 'ujaab"
@@ -57,7 +57,7 @@ ayats = [
   {
     "verse_number": 7,
     "english_text": "We did not hear this among earlier generations, it looks as if it has been forged.",
-    "arabic_text": "مَا سَمِعْنَا بِهَـٰذَا فِى الْمِلَّةِ الْـَٔاخِرَةِ اِنْ هَـٰذَآ اِلَّا اخْتِلَـٰقٌ",
+    "arabic_text": "مَا سَمِعْنَا بِهَـٰذَا فِى الْمِلَّةِ الْاخِرَةِ اِنْ هَـٰذَآ اِلَّا اخْتِلَـٰقٌ",
     "urdu_text": "ہم نے پچھلی ملت میں یہ بات نہیں سنی، یہ تو محض من گھڑت ہے۔",
     "persian_text": "ما این را در آیین پیشین نشنیده‌ایم، این جز ساختگی نیست.",
     "transliteration": "Maa sami'naa bihaadha fil-millatil-aakhirati in haadhaaa illakh-tilaaq"
@@ -129,7 +129,7 @@ ayats = [
   {
     "verse_number": 16,
     "english_text": "And they say: O Lord whatever you have written in our fate give us before the day of accounting.",
-    "arabic_text": "وَ قَالُواْ رَبَّنَا عَجِّل لَّنَا قِطَّنَا قَبْلَ يَوْمِ الْحِسَابِ",
+    "arabic_text": "وَ قَالُوْاْ رَبَّنَا عَجِّل لَّنَا قِطَّنَا قَبْلَ يَوْمِ الْحِسَابِ",
     "urdu_text": "اور وہ کہتے ہیں: اے ہمارے رب! ہمارا حصہ حساب کے دن سے پہلے ہی جلدی دے دے۔",
     "persian_text": "و گفتند: پروردگارا! بهره ما را پیش از روز حساب به ما بده.",
     "transliteration": "Wa qaaloo Rabbanaa 'ajjil lanaa qittanaa qabla yawmil-hisaab"
@@ -177,7 +177,7 @@ ayats = [
   {
     "verse_number": 22,
     "english_text": "When they came in front of Dawood, he felt frightened, they said do not be frightened we are two litigants, one has been unjust towards the other, you decide with truth and do not do injustice, and guide us to the straight path.",
-    "arabic_text": "اِذْ دَخَلُواْ عَلَىٰ دَاوُدَ فَفَزِعَ مِنْهُمْ ۖ قَالُواْ لَا تَخَفْ ۖ خَصْمَانِ بَغَىٰ بَعْضُنَا عَلَىٰ بَعْضٍۢ فَاحْكُم بَيْنَنَا بِالْحَقِّ وَلَا تُشْطِطْ وَاهْدِنَآ اِلَىٰ سَوَآءِ الصِّرَٰطِ",
+    "arabic_text": "اِذْ دَخَلُواْ عَلَىٰ دَاوُدَ فَفَزِعَ مِنْهُمْ ۖ قَالُوْاْ لَا تَخَفْ ۖ خَصْمَانِ بَغَىٰ بَعْضُنَا عَلَىٰ بَعْضٍۢ فَاحْكُم بَيْنَنَا بِالْحَقِّ وَ لَا تُشْطِطْ وَاهْدِنَآ اِلَىٰ سَوَآءِ الصِّرَٰطِ",
     "urdu_text": "جب وہ داؤد کے پاس آئے تو وہ ان سے گھبرا گئے، انہوں نے کہا ڈرو مت، ہم دو فریق ہیں، ایک نے دوسرے پر زیادتی کی ہے، تو ہمارے درمیان حق کے ساتھ فیصلہ کر اور ظلم نہ کر، اور ہمیں سیدھے راستے کی طرف رہنمائی کر۔",
     "persian_text": "هنگامی که بر داوود وارد شدند، او از آنان ترسید. گفتند: مترس! ما دو طرف دعوا هستیم که یکی از ما بر دیگری ستم کرده است، پس میان ما به حق داوری کن و از راه راست منحرف مشو و ما را به راه راست هدایت فرما.",
     "transliteration": "Idh dakhaloo 'alaa Daawooda fafazi'a minhum qaaloo laa takhaf khasmani baghaa ba'dunaa 'alaa ba'din fahkum baynanaa bilhaqqi wa laa tushtit wahdina ilaa sawaa'is siraati"
@@ -193,7 +193,7 @@ ayats = [
   {
     "verse_number": 24,
     "english_text": "Dawood said: he has been unjust to you by demanding your ewe; and there are many partners who are unjust to each other, except those who are believers and do good deeds, and such people are few; Dawood thought that Allah had tested him, so he repented from Allah and fell in prostration, and turn his attention totally towards Us.",
-    "arabic_text": "قَالَ لَقَدْ ظَلَمَكَ بِسُؤَالِ نَعْجَتِكَ اِلَىٰ نِعَاجِهِ ۖ وَاِنَّ كَثِيرًۭا مِّنَ الْخُلَطَآءِ لَيَبْغِى بَعْضُهُمْ عَلَىٰ بَعْضٍ اِلَّا الَّذِينَ ءَامَنُواْ وَعَمِلُواْ الصَّـٰلِحَـٰتِ وَقَلِيلٌۭ مَّا هُمْ ۗ وَظَنَّ دَاوُدُ اَنَّمَا فَتَنَّـٰهُ فَاسْتَغْفَرَ رَبَّهُ وَخَرَّ رَاكِعًۭا وَاَنَابَ ۩",
+    "arabic_text": "قَالَ لَقَدْ ظَلَمَكَ بِسُؤَالِ نَعْجَتِكَ اِلَىٰ نِعَاجِهِ ۖ وَاِنَّ كَثِيرًا مِّنَ الْخُلَطَآءِ لَيَبْغِى بَعْضُهُمْ عَلَىٰ بَعْضٍ اِلَّا الَّذِينَ ءَامَنُواْ وَعَمِلُواْ الصَّـٰلِحَـٰتِ وَقَلِيلٌۭ مَّا هُمْ ۗ وَظَنَّ دَاوُدُ اَنَّمَا فَتَنَّـٰهُ فَاسْتَغْفَرَ رَبَّهُ وَخَرَّ رَاكِعًۭا وَاَنَابَ ۩",
     "urdu_text": "داؤد نے کہا: اس نے تیری بکری کو اپنی بکریوں میں ملانے کا مطالبہ کر کے تجھ پر ظلم کیا ہے، اور بہت سے شریک ایک دوسرے پر زیادتی کرتے ہیں سوائے ان لوگوں کے جو ایمان لائے اور نیک عمل کیے، اور ایسے لوگ بہت کم ہیں۔ اور داؤد سمجھ گئے کہ ہم نے انہیں آزمایا ہے، تو انہوں نے اپنے رب سے بخشش مانگی اور سجدے میں گر پڑے اور ہماری طرف رجوع کیا۔",
     "persian_text": "داوود گفت: او با درخواست میش تو برای افزودن به میش‌های خود، به تو ستم کرده است. و بسیاری از شرکا به یکدیگر ستم می‌کنند، مگر کسانی که ایمان آورده و کارهای شایسته انجام داده‌اند و آنان اندکند. و داوود دانست که ما او را آزموده‌ایم، پس از پروردگارش آمرزش خواست و به سجده افتاد و به سوی ما بازگشت.",
     "transliteration": "Qaala laqad zalamaka bisu'aali na'jatika ilaa ni'aajihi wa inna katheeranm minal khulataaa'i layabghee ba'duhum 'alaa ba'din illal lazeena aamanoo wa 'amilus saalihaati wa qaleelunm maa hum wa zanna Daawoodu annamaa fatannaahu fastagfhfara rabbahu wa kharra raaki'anw wa anaab"
@@ -209,7 +209,7 @@ ayats = [
   {
     "verse_number": 26,
     "english_text": "O Dawood! We made you Our vicegerent on the earth, so you do justice among people with truth, and do not follow the desires which deviate you from the path of Allah; Verily those who deviate from the path of Allah, there is severe punishment for them that they have underestimated the Day of Account totally.",
-    "arabic_text": "يَـٰدَاوُدُ اِنَّا جَعَلْنَـٰكَ خَلِيفَةًۭ فِى الْاَرْضِ فَاحْكُم بَيْنَ النَّاسِ بِالْحَقِّ وَلَا تَتَّبِعِ الْهَوَىٰ فَيُضِلَّكَ عَن سَبِيلِ اللَّهِ ۚ اِنَّ الَّذِينَ يَضِلُّونَ عَن سَبِيلِ اللَّهِ لَهُمْ عَذَابٌۭ شَدِيدٌۢ بِمَا نَسُواْ يَوْمَ الْحِسَابِ",
+    "arabic_text": "يَـٰدَاوُدُ اِنَّا جَعَلْنَـٰكَ خَلِيفَةًۭ فِى الْاَرْضِ فَاحْكُم بَيْنَ النَّاسِ بِالْحَقِّ وَ لَا تَتَّبِعِ الْهَوَىٰ فَيُضِلَّكَ عَن سَبِيلِ اللّٰهِ ۚ اِنَّ الَّذِينَ يَضِلُّونَ عَن سَبِيلِ اللّٰهِ لَهُمْ عَذَابٌۭ شَدِيدٌۢ بِمَا نَسُواْ يَوْمَ الْحِسَابِ",
     "urdu_text": "اے داؤد! ہم نے تمہیں زمین میں خلیفہ بنایا ہے، تو لوگوں کے درمیان حق کے ساتھ فیصلہ کرو اور خواہشات کی پیروی نہ کرو کہ وہ تمہیں اللہ کی راہ سے بھٹکا دے۔ بیشک جو لوگ اللہ کی راہ سے بھٹکتے ہیں، ان کے لیے سخت عذاب ہے کیونکہ انہوں نے حساب کے دن کو بھلا دیا۔",
     "persian_text": "ای داوود! ما تو را جانشین در زمین قرار دادیم، پس میان مردم به حق داوری کن و از هوای نفس پیروی مکن که تو را از راه خدا گمراه سازد. همانا کسانی که از راه خدا گمراه می‌شوند، عذاب شدیدی برای آنهاست به سبب آنکه روز حساب را فراموش کردند.",
     "transliteration": "Yaa Daawoodu innaa ja'alnaaka khaleefatan fil ardi fahkum baynan naasi bilhaqqi wa laa tattabi'il hawaa fayudillaka 'an sabeelil laah innal lazeena yadilloona 'an sabeelil laahi lahum 'azaabun shadeedun bimaa nasoo yawmal hisaab"
@@ -217,7 +217,7 @@ ayats = [
   {
     "verse_number": 27,
     "english_text": "We have not created skies and the earth and things between them worthless, this is the thinking of infidels, then woe to the infidels on account of the fire.",
-    "arabic_text": "وَ مَا خَلَقْنَا السَّمَآءَ وَالْاَرْضَ وَ مَا بَيْنَهُمَا بَـٰطِلًۭا ۚ ذَٰلِكَ ظَنُّ الَّذِينَ كَفَرُواْ ۚ فَوَيْلٌۭ لِّلَّذِينَ كَفَرُواْ مِنَ النَّارِ",
+    "arabic_text": "وَ مَا خَلَقْنَا السَّمَآءَ وَالْاَرْضَ وَ مَا بَيْنَهُمَا بَـٰطِلًا ۚ ذَٰلِكَ ظَنُّ الَّذِينَ كَفَرُواْ ۚ فَوَيْلٌۭ لِّلَّذِينَ كَفَرُواْ مِنَ النَّارِ",
     "urdu_text": "اور ہم نے آسمان اور زمین اور جو کچھ ان کے درمیان ہے بیکار نہیں بنایا، یہ کافروں کا گمان ہے، تو آگ کی وجہ سے کافروں کے لیے ہلاکت ہے۔",
     "persian_text": "و ما آسمان و زمین و آنچه میان آنهاست را بیهوده نیافریدیم، این گمان کسانی است که کفر ورزیدند، پس وای بر کافران از آتش.",
     "transliteration": "Wa maa khalaqnas samaaa'a wal arda wa maa baynahumaa baatilaa zaalika zannul lazeena kafaroo fawaylul lillazeena kafaroo minan naar"
@@ -353,7 +353,7 @@ ayats = [
   {
     "verse_number": 44,
     "english_text": "And, O Ayub, take little grass and strike it, and do not do contrary to the oath; We found Ayub full of patience and best of the servants, who turns to Us.",
-    "arabic_text": "وَخُذْ بِيَدِكَ ضِغْثًۭا فَاضْرِب بِّهِ وَلَا تَحْنَثْ ۗ اِنَّا وَجَدْنَـٰهُ صَابِرًۭا ۚ نِّعْمَ الْعَبْدُ ۖ اِنَّهُٓ اَوَّابٌۭ",
+    "arabic_text": "وَخُذْ بِيَدِكَ ضِغْثًۭا فَاضْرِب بِّهِ وَ لَا تَحْنَثْ ۗ اِنَّا وَجَدْنَـٰهُ صَابِرًا ۚ نِّعْمَ الْعَبْدُ ۖ اِنَّهُٓ اَوَّابٌۭ",
     "urdu_text": "اور اے ایوب! اپنے ہاتھ میں گھاس کا ایک گٹھا لو اور اس سے مارو اور قسم نہ توڑو۔ بیشک ہم نے انہیں صابر پایا، کیا ہی اچھے بندے تھے، بے شک وہ بہت رجوع کرنے والے تھے۔",
     "persian_text": "و ای ایوب! دسته‌ای از گیاه در دست بگیر و با آن بزن و سوگند خود را نشکن. ما او را صابر یافتیم، چه بنده نیکویی بود، همانا او بسیار توبه‌کار بود.",
     "transliteration": "Wa khudh bi-yadika dighthan fadrib bihī wa lā tahnath innā wajadnāhu sābiran ni'ma al-'abdu innahū awwāb"
@@ -481,7 +481,7 @@ ayats = [
   {
     "verse_number": 60,
     "english_text": "Then their followers will say to their leaders: may no good be done to you, you made available this punishment for us, therefore, this is the worst abode.",
-    "arabic_text": "قَالُواْ بَلْ اَنتُمْ لَا مَرْحَبًۢا بِكُمْ ۖ اَنتُمْ قَدَّمْتُمُوهُ لَنَا ۖ فَبِئْسَ الْقَرَارُ",
+    "arabic_text": "قَالُوْاْ بَلْ اَنتُمْ لَا مَرْحَبًۢا بِكُمْ ۖ اَنتُمْ قَدَّمْتُمُوهُ لَنَا ۖ فَبِئْسَ الْقَرَارُ",
     "urdu_text": "پھر ان کے پیروکار اپنے سرداروں سے کہیں گے: بلکہ تمہارے لیے کوئی خوش آمدید نہیں، تم نے یہ عذاب ہمارے لیے تیار کیا، پس یہ بدترین ٹھکانا ہے۔",
     "persian_text": "گفتند: بلکه شما خوش آمد نیستید، شما این را برای ما فراهم کردید، پس چه بد قرارگاهی است.",
     "transliteration": "Qaloo bal antum la marhaban bikum antum qaddamtumoohu lana fabi'sal qarar"
@@ -489,7 +489,7 @@ ayats = [
   {
     "verse_number": 61,
     "english_text": "Then will say more: O Lord, who have propped us ahead, make their punishment double in Hell.",
-    "arabic_text": "قَالُواْ رَبَّنَا مَن قَدَّمَ لَنَا هَـٰذَا فَزِدْهُ عَذَابًۭا ضِعْفًۭا فِى النَّارِ",
+    "arabic_text": "قَالُوْاْ رَبَّنَا مَن قَدَّمَ لَنَا هَـٰذَا فَزِدْهُ عَذَابًا ضِعْفًۭا فِى النَّارِ",
     "urdu_text": "وہ کہیں گے: اے ہمارے رب! جس نے ہمیں اس راہ پر ڈالا، اس کو دوزخ میں دوگنا عذاب دے۔",
     "persian_text": "آنان خواهند گفت: پروردگارا! کسی که ما را به این راه کشاند، عذابش را در آتش دوچندان کن.",
     "transliteration": "Qālū rabbanā man qaddama lanā hādhā fazid'hu 'adhāban ḍi'fan fil-nār"
@@ -497,7 +497,7 @@ ayats = [
   {
     "verse_number": 62,
     "english_text": "Then they will say to themselves: what is the matter with us, we don't see them whom we had counted among the mischievous ones.",
-    "arabic_text": "وَ قَالُواْ مَا لَنَا لَا نَرَىٰ رِجَالًۭا كُنَّا نَعُدُّهُم مِّنَ الْاَشْرَارِ",
+    "arabic_text": "وَ قَالُوْاْ مَا لَنَا لَا نَرَىٰ رِجَالًا كُنَّا نَعُدُّهُم مِّنَ الْاَشْرَارِ",
     "urdu_text": "اور وہ کہیں گے: ہمیں کیا ہو گیا ہے کہ ہم ان لوگوں کو نہیں دیکھ رہے جنہیں ہم برے لوگوں میں شمار کرتے تھے۔",
     "persian_text": "و خواهند گفت: ما را چه شده که مردانی را که آنها را از بدکاران می‌شمردیم، نمی‌بینیم؟",
     "transliteration": "Wa qālū mā lanā lā narā rijālan kunnā na'udduhum minal-ashrār"
@@ -521,7 +521,7 @@ ayats = [
   {
     "verse_number": 65,
     "english_text": "(O Prophet) Say: I am just a warner, and there is no god except Allah, the One, the Dominant.",
-    "arabic_text": "قُلْ اِنَّمَآ اَنَا۠ مُنذِرٌۭ ۖ وَ مَا مِنْ اِلَـٰهٍ اِلَّا اللَّهُ الْوَٰحِدُ الْقَهَّارُ",
+    "arabic_text": "قُلْ اِنَّمَآ اَنَا۠ مُنذِرٌۭ ۖ وَ مَا مِنْ اِلَـٰهٍ اِلَّا اللّٰهُ الْوَٰحِدُ الْقَهَّارُ",
     "urdu_text": "کہہ دیجیے: میں تو صرف ڈر سنانے والا ہوں، اور اللہ واحد قہار کے سوا کوئی معبود نہیں۔",
     "persian_text": "بگو: من فقط هشداردهنده‌ای هستم، و هیچ معبودی جز الله یکتای قهار نیست.",
     "transliteration": "Qul innamā ana mundhirun wa mā min ilāhin illallāhul-wāḥidul-qahhār"
@@ -569,7 +569,7 @@ ayats = [
   {
     "verse_number": 71,
     "english_text": "Remind them that when your Lord said to the angels: I am going to create a mortal from the wet clay.",
-    "arabic_text": "اِذْ قَالَ رَبُّكَ لِلْمَلَـٰٓئِكَةِ اِنِّى خَـٰلِقٌۢ بَشَرًۭا مِّن طِينٍۢ",
+    "arabic_text": "اِذْ قَالَ رَبُّكَ لِلْمَلَـٰٓئِكَةِ اِنِّى خَـٰلِقٌۢ بَشَرًا مِّن طِينٍۢ",
     "urdu_text": "جب تمہارے رب نے فرشتوں سے فرمایا: میں مٹی سے ایک انسان پیدا کرنے والا ہوں۔",
     "persian_text": "آنگاه که پروردگارت به فرشتگان گفت: من بشری از گل خواهم آفرید.",
     "transliteration": "Idh qaala Rabbuka lil-mala'ikati innee khaliqum basharam min teen"

@@ -41,7 +41,7 @@ ayats = [
   {
     "verse_number": 5,
     "english_text": "Even if he divorces you (all), Allah will provide him better wives in your place, submissive, believers, obedient, repentant, worshipper, fasting ones, virgin and non-virgin, all.",
-    "arabic_text": "عَسَىٰ رَبُّهُۥٓ إِن طَلَّقَكُنَّ اَن يُبْدِلَهُۥٓ اَزْوَٰجًا خَيْرًۭا مِّنكُنَّ مُسْلِمَـٰتٍۢ مُّؤْمِنَـٰتٍۢ قَـٰنِتَـٰتٍۢ تَـٰٓئِبَـٰتٍ عَـٰبِدَٰتٍۢ سَـٰٓئِحَـٰتٍۢ ثَيِّبَـٰتٍۢ وَاَبْكَارًۭا",
+    "arabic_text": "عَسَىٰ رَبُّهُۥٓ إِن طَلَّقَكُنَّ اَن يُبْدِلَهُۥٓ اَزْوَٰجًا خَيْرًا مِّنكُنَّ مُسْلِمَـٰتٍۢ مُّؤْمِنَـٰتٍۢ قَـٰنِتَـٰتٍۢ تَـٰٓئِبَـٰتٍ عَـٰبِدَٰتٍۢ سَـٰٓئِحَـٰتٍۢ ثَيِّبَـٰتٍۢ وَاَبْكَارًا",
     "urdu_text": "اگر نبی تم سب کو طلاق دے دیں تو امید ہے کہ ان کا رب انہیں تم سے بہتر بیویاں عطا فرمائے گا جو فرمانبردار، مومن، عبادت گزار، توبہ کرنے والی، عبادت کرنے والی، روزہ رکھنے والی، شوہر دیدہ اور کنواری سب ہوں گی۔",
     "persian_text": "اگر او شما را طلاق دهد، امید است که پروردگارش همسرانی بهتر از شما به او عطا کند: مسلمان، مؤمن، فرمانبردار، توبه‌کار، عبادت‌کننده، روزه‌دار، بیوه و باکره.",
     "transliteration": "'Asaa rabbuhooo in tallaqakunna any-yubdilahoo azwaajan khayram minkunna muslimatin mu'minatin qaanitatin taa'ibaatin 'aabidaatin saa'ihaatin thayyibaatin wa abkaaraa"
@@ -49,7 +49,7 @@ ayats = [
   {
     "verse_number": 6,
     "english_text": "O you who believe, save yourselves and your families from this fire whose fuel will be human and stones, over which those angels will be appointed who are stern and harsh in temperament, and who do not oppose the command of Allah; and they obey the command that is given to them.",
-    "arabic_text": "يَـٰٓاَيُّهَا ٱلَّذِينَ ءَامَنُواْ قُوٓاْ اَنفُسَكُمْ وَاَهْلِيكُمْ نَارًۭا وَقُودُهَا ٱلنَّاسُ وَٱلْحِجَارَةُ عَلَيْهَا مَلَـٰٓئِكَةٌ غِلَاظٌۭ شِدَادٌۭ لَّا يَعْصُونَ ٱللَّهَ مَآ اَمَرَهُمْ وَيَفْعَلُونَ مَا يُؤْمَرُونَ",
+    "arabic_text": "يَـٰٓاَيُّهَا ٱلَّذِينَ ءَامَنُواْ قُوٓاْ اَنفُسَكُمْ وَاَهْلِيكُمْ نَارًا وَقُودُهَا ٱلنَّاسُ وَٱلْحِجَارَةُ عَلَيْهَا مَلَـٰٓئِكَةٌ غِلَاظٌۭ شِدَادٌۭ لَّا يَعْصُونَ ٱللَّهَ مَآ اَمَرَهُمْ وَيَفْعَلُونَ مَا يُؤْمَرُونَ",
     "urdu_text": "اے ایمان والو! اپنے آپ کو اور اپنے گھر والوں کو اس آگ سے بچاؤ جس کا ایندھن انسان اور پتھر ہیں، جس پر سخت اور تند خو فرشتے مقرر ہیں جو اللہ کے حکم کی نافرمانی نہیں کرتے اور جو حکم دیا جائے اسے بجا لاتے ہیں۔",
     "persian_text": "ای کسانی که ایمان آورده‌اید! خود و خانواده‌تان را از آتشی نگه دارید که سوخت آن مردم و سنگ‌هاست، بر آن فرشتگانی سخت‌گیر و نیرومند گماشته شده‌اند که از فرمان خداوند سرپیچی نمی‌کنند و آنچه را فرمان داده می‌شوند انجام می‌دهند.",
     "transliteration": "Yaa ayyuhal-ladheena aamanoo qooo anfusakum wa ahleekum naaran waqooduhan-naasu walhijaaratu 'alayhaa malaa'ikatun ghilaazun shidaadun laa ya'soonal-laaha maa amarahum wa yaf'aloona maa yu'maroon"

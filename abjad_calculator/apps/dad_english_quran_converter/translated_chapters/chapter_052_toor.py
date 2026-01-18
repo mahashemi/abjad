@@ -73,7 +73,7 @@ ayats = [
   {
     "verse_number": 9,
     "english_text": "The day when skies shall revolve completely.",
-    "arabic_text": "يَوْمَ تَمُورُ ٱلسَّمَآءُ مَوْرًۭا",
+    "arabic_text": "يَوْمَ تَمُورُ ٱلسَّمَآءُ مَوْرًا",
     "urdu_text": "جس دن آسمان بری طرح لرزے گا",
     "persian_text": "روزی که آسمان به شدت در حرکت خواهد بود",
     "transliteration": "Yawma tamoorus-samaaa'u mawraa"
@@ -81,7 +81,7 @@ ayats = [
   {
     "verse_number": 10,
     "english_text": "And mountains shall come in movement.",
-    "arabic_text": "وَتَسِيرُ ٱلْجِبَالُ سَيْرًۭا",
+    "arabic_text": "وَتَسِيرُ ٱلْجِبَالُ سَيْرًا",
     "urdu_text": "اور پہاڑ چلتے پھریں گے",
     "persian_text": "و کوه‌ها به حرکت در خواهند آمد",
     "transliteration": "Wa taseerul jibaalu sayraa"
@@ -321,7 +321,7 @@ ayats = [
   {
     "verse_number": 40,
     "english_text": "Or do you ask for any reward of prophethood from them that they are burdened with its load.",
-    "arabic_text": "اَمْ تَسْـَٔلُهُمْ اَجْرًۭا فَهُم مِّن مَّغْرَمٍۢ مُّثْقَلُونَ",
+    "arabic_text": "اَمْ تَسْـَٔلُهُمْ اَجْرًا فَهُم مِّن مَّغْرَمٍۢ مُّثْقَلُونَ",
     "urdu_text": "یا آپ ان سے نبوت کا کوئی معاوضہ مانگتے ہیں کہ وہ اس کے بوجھ سے دبے ہوئے ہیں؟",
     "persian_text": "یا از آنها پاداشی برای رسالت می‌خواهی که از بار آن سنگینی می‌کشند؟",
     "transliteration": "Am tas'aluhum ajran fahum min maghramim muthqaloon"

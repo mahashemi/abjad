@@ -146,7 +146,7 @@ ayats = [
   {
     "verse_number": 19,
     "english_text": "From which there will not be any headache nor there will be any loss of consciousness.",
-    "arabic_text": "لَا يُصَدَّعُونَ عَنْهَا وَلَا يُنزِفُونَ",
+    "arabic_text": "لَا يُصَدَّعُونَ عَنْهَا وَ لَا يُنزِفُونَ",
     "urdu_text": "جس سے نہ سر درد ہوگا اور نہ عقل جاتی رہے گی",
     "persian_text": "که نه سردرد از آن خواهند داشت و نه مست خواهند شد",
     "transliteration": "La yusadda'oona 'anha wa la yunzifoon",
@@ -194,7 +194,7 @@ ayats = [
   {
     "verse_number": 25,
     "english_text": "There they will not hear any vain talk or sinful-speech.",
-    "arabic_text": "لَا يَسْمَعُونَ فِيهَا لَغْوًا وَلَا تَاْثِيمًا",
+    "arabic_text": "لَا يَسْمَعُونَ فِيهَا لَغْوًا وَ لَا تَاْثِيمًا",
     "urdu_text": "وہاں نہ کوئی بیہودہ بات سنیں گے اور نہ کوئی گناہ کی بات",
     "persian_text": "در آنجا نه سخن بیهوده‌ای می‌شنوند و نه سخن گناه‌آلودی",
     "transliteration": "La yasma'oona feeha laghwaw wa la ta'theema",
@@ -258,7 +258,7 @@ ayats = [
   {
     "verse_number": 33,
     "english_text": "Whose continuance will never end and there won't be any hindrance.",
-    "arabic_text": "لَّا مَقْطُوعَةٖ وَلَا مَمْنُوعَةٖ",
+    "arabic_text": "لَّا مَقْطُوعَةٖ وَ لَا مَمْنُوعَةٖ",
     "urdu_text": "نہ ختم ہونے والے اور نہ ممنوع",
     "persian_text": "نه قطع شونده و نه ممنوع",
     "transliteration": "La maqtu'atin wa la mamnu'ah",
@@ -346,7 +346,7 @@ ayats = [
   {
     "verse_number": 44,
     "english_text": "Which will not be cool and nor feel good.",
-    "arabic_text": "لَّا بَارِدٖ وَلَا كَرِيمٍ",
+    "arabic_text": "لَّا بَارِدٖ وَ لَا كَرِيمٍ",
     "urdu_text": "نہ ٹھنڈا اور نہ خوشگوار",
     "persian_text": "نه خنک و نه دلپذیر",
     "transliteration": "La baridin wa la kareem",
@@ -666,7 +666,7 @@ ayats = [
   {
     "verse_number": 84,
     "english_text": "And then you shall just keep looking on.",
-    "arabic_text": "وَاَنتُمْ حِينَئِذٖ تَنظُرُونَ",
+    "arabic_text": "وَ اَنتُمْ حِينَئِذٖ تَنظُرُونَ",
     "urdu_text": "اور تم اس وقت دیکھتے رہتے ہو",
     "persian_text": "و شما در آن هنگام تنها نگاه می‌کنید",
     "transliteration": "Wa antum heena'izin tanzuroon",

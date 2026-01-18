@@ -417,7 +417,7 @@ ayats = [
   {
     "verse_number": 52,
     "english_text": "And thus, We revealed spirit (Quran) to you by Our Command, and you didn't know what the book was, and what the faith was, but We made it a light, through which We guide to Our servants to whoever We please, and Verily We are guiding you to the straight path.",
-    "arabic_text": "وَكَذَٰلِكَ اَوْحَيْنَآ إِلَيْكَ رُوحًۭا مِّنْ اَمْرِنَا ۚ مَا كُنتَ تَدْرِى مَا ٱلْكِتَـٰبُ وَلَا ٱلْإِيمَـٰنُ وَلَـٰكِن جَعَلْنَـٰهُ نُورًۭا نَّهْدِى بِهِۦ مَن نَّشَآءُ مِنْ عِبَادِنَا ۚ وَإِنَّكَ لَتَهْدِىٓ إِلَىٰ صِرَٰطٍۢ مُّسْتَقِيمٍۢ",
+    "arabic_text": "وَكَذَٰلِكَ اَوْحَيْنَآ إِلَيْكَ رُوحًۭا مِّنْ اَمْرِنَا ۚ مَا كُنتَ تَدْرِى مَا ٱلْكِتَـٰبُ وَلَا ٱلْإِيمَـٰنُ وَلَـٰكِن جَعَلْنَـٰهُ نُورًا نَّهْدِى بِهِۦ مَن نَّشَآءُ مِنْ عِبَادِنَا ۚ وَإِنَّكَ لَتَهْدِىٓ إِلَىٰ صِرَٰطٍۢ مُّسْتَقِيمٍۢ",
     "urdu_text": "اور اسی طرح هم نے اپنے حکم سے آپ کی طرف روح (قرآن) کی وحی بھیجی، آپ نهیں جانتے تھے که کتاب کیا هے اور نه ایمان کیا هے، لیکن هم نے اسے نور بنایا جس سے هم اپنے بندوں میں سے جسے چاهتے هیں هدایت دیتے هیں، اور بے شک آپ سیدھے راستے کی طرف رهنمائی کرتے هیں۔",
     "persian_text": "و همچنین روحی (قرآن) را از فرمان خود به سوی تو وحی کردیم، تو نمی‌دانستی کتاب چیست و نه ایمان، ولی آن را نوری قرار دادیم که به وسیله آن هر که را از بندگانمان بخواهیم هدایت می‌کنیم، و همانا تو به راه راست هدایت می‌کنی.",
     "transliteration": "Wa kadhālika awḥaynā ilayka rūḥan min amrinā, mā kunta tadrī mal-kitābu wa lal-īmānu wa lākin ja'alnāhu nūran nahdī bihi man nashā'u min 'ibādinā, wa innaka la-tahdī ilā ṣirāṭim mustaqīm"

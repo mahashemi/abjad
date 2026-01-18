@@ -153,7 +153,7 @@ ayats = [
   {
     "verse_number": 19,
     "english_text": "Then We sent sharp storm on them on a bitter ill-fortune day.",
-    "arabic_text": "إِنَّآ اَرْسَلْنَا عَلَيْهِمْ رِيحًۭا صَرْصَرًۭا فِى يَوْمِ نَحْسٍۢ مُّسْتَمِرٍّۢ",
+    "arabic_text": "إِنَّآ اَرْسَلْنَا عَلَيْهِمْ رِيحًۭا صَرْصَرًا فِى يَوْمِ نَحْسٍۢ مُّسْتَمِرٍّۢ",
     "urdu_text": "بیشک ہم نے ان پر ایک تیز آندھی بھیجی ایک مسلسل بدقسمتی کے دن میں۔",
     "persian_text": "همانا بر آنان بادی سخت و سرد فرستادیم در روزی نحس و پیوسته.",
     "transliteration": "Inna arsalna 'alayhim reehan sarsaran fee yawmi nahsin mustamirr"
@@ -193,7 +193,7 @@ ayats = [
   {
     "verse_number": 24,
     "english_text": "And said: shall we follow a person from among ourselves, in that case we shall be in misguidance and will be in madness.",
-    "arabic_text": "فَقَالُوٓاْ اَبَشَرًۭا مِّنَّا وَٰحِدًۭا نَّتَّبِعُهُۥٓ إِنَّآ إِذًۭا لَّفِى ضَلَـٰلٍۢ وَسُعُرٍ",
+    "arabic_text": "فَقَالُوٓاْ اَبَشَرًا مِّنَّا وَٰحِدًۭا نَّتَّبِعُهُۥٓ إِنَّآ إِذًۭا لَّفِى ضَلَـٰلٍۢ وَسُعُرٍ",
     "urdu_text": "اور کہا: کیا ہم اپنے میں سے ایک انسان کی پیروی کریں؟ اس صورت میں تو ہم یقیناً گمراہی اور دیوانگی میں ہوں گے۔",
     "persian_text": "و گفتند: آیا از یک انسان از میان خودمان پیروی کنیم؟ در آن صورت ما در گمراهی و جنون خواهیم بود.",
     "transliteration": "Faqaloo a-basharam minna wahidan nattabi'uhu inna idhal lafi dhalalin wa su'ur"

@@ -121,7 +121,7 @@ ayats = [
   {
     "verse_number": 15,
     "english_text": "And that is He, Who fixed heavy mountains on the earth so that it may not move from its place (and you are unable to stand on it); and created rivers and ways that you may reach your destinations.",
-    "arabic_text": "وَاَلْقَىٰ فِى ٱلْاَرْضِ رَوَٰسِىَ اَن تَمِيدَ بِكُمْ وَاَنْهَـٰرًۭا وَسُبُلًۭا لَّعَلَّكُمْ تَهْتَدُونَ",
+    "arabic_text": "وَاَلْقَىٰ فِى ٱلْاَرْضِ رَوَٰسِىَ اَن تَمِيدَ بِكُمْ وَاَنْهَـٰرًا وَسُبُلًۭا لَّعَلَّكُمْ تَهْتَدُونَ",
     "urdu_text": "اور اسی نے زمین میں بھاری پہاڑ گاڑ دیے تاکہ وہ تمہیں لے کر ہلے نہیں، اور دریا اور راستے بنائے تاکہ تم اپنی منزلوں تک پہنچو۔",
     "persian_text": "و کوه‌های استوار در زمین قرار داد تا شما را به لرزه نیاورد، و رودها و راه‌ها آفرید تا شاید هدایت یابید.",
     "transliteration": "Wa alqaa fil-ardi rawaasiya an tameeda bikum wa anhaaranw-wa subulal-la'allakum tahtadoon"
@@ -241,7 +241,7 @@ ayats = [
   {
     "verse_number": 30,
     "english_text": "And when the pious people are asked what have your Lord revealed, they say: everything better than the best, those who did good deeds; there is good for them in this world and in the Hereafter (also) their abode is better, and what an excellent abode is that for the pious ones;",
-    "arabic_text": "۞ وَقِيلَ لِلَّذِينَ ٱتَّقَوْاْ مَاذَآ اَنزَلَ رَبُّكُمْ ۚ قَالُواْ خَيْرًۭا ۗ لِّلَّذِينَ اَحْسَنُواْ فِى هَـٰذِهِ ٱلدُّنْيَا حَسَنَةٌۭ ۚ وَلَدَارُ ٱلْـَٔاخِرَةِ خَيْرٌۭ ۚ وَلَنِعْمَ دَارُ ٱلْمُتَّقِينَ",
+    "arabic_text": "۞ وَقِيلَ لِلَّذِينَ ٱتَّقَوْاْ مَاذَآ اَنزَلَ رَبُّكُمْ ۚ قَالُواْ خَيْرًا ۗ لِّلَّذِينَ اَحْسَنُواْ فِى هَـٰذِهِ ٱلدُّنْيَا حَسَنَةٌۭ ۚ وَلَدَارُ ٱلْـَٔاخِرَةِ خَيْرٌۭ ۚ وَلَنِعْمَ دَارُ ٱلْمُتَّقِينَ",
     "urdu_text": "اور جب پرہیزگاروں سے کہا جاتا ہے کہ تمہارے رب نے کیا نازل فرمایا ہے، تو وہ کہتے ہیں: بہترین چیز، جن لوگوں نے نیکی کی اس دنیا میں ان کے لیے بھلائی ہے، اور آخرت کا گھر تو بہتر ہے، اور کتنا اچھا گھر ہے پرہیزگاروں کا۔",
     "persian_text": "و به کسانی که تقوا پیشه کردند گفته شد: پروردگارتان چه نازل کرده است؟ گفتند: خیر و نیکی، برای کسانی که نیکی کردند در این دنیا نیکی است و خانه آخرت بهتر است، و چه خانه نیکویی است خانه پرهیزگاران.",
     "transliteration": "Wa qeela lillazeenattaqaw maazaaa anzala Rabbukum qaaloo khayran lillazeena ahsanoo fee haazihid dunyaa hasanah; wa la daarul Aakhirati khayr; wa lani'ma daarul muttaqeen"
@@ -537,7 +537,7 @@ ayats = [
   {
     "verse_number": 67,
     "english_text": "And we give you dates and grapes (to drink juices), of which sometimes make wine and sometime use it for business, and certainly in it also there is great sign (of Power of Allah) for wise people.",
-    "arabic_text": "وَمِن ثَمَرَٰتِ ٱلنَّخِيلِ وَٱلْاَعْنَـٰبِ تَتَّخِذُونَ مِنْهُ سَكَرًۭا وَرِزْقًا حَسَنًا ۗ إِنَّ فِى ذَٰلِكَ لَـَٔايَةًۭ لِّقَوْمٍۢ يَعْقِلُونَ",
+    "arabic_text": "وَمِن ثَمَرَٰتِ ٱلنَّخِيلِ وَٱلْاَعْنَـٰبِ تَتَّخِذُونَ مِنْهُ سَكَرًا وَرِزْقًا حَسَنًا ۗ إِنَّ فِى ذَٰلِكَ لَـَٔايَةًۭ لِّقَوْمٍۢ يَعْقِلُونَ",
     "urdu_text": "اور کھجوروں اور انگوروں کے پھلوں سے تم ان میں سے نشہ اور اچھا رزق حاصل کرتے ہو، بے شک اس میں عقل والوں کے لیے بڑی نشانی ہے۔",
     "persian_text": "و از میوه‌های درختان خرما و انگور، از آن مسکر و روزی نیکو برای خود می‌گیرید، بی‌تردید در این نشانه‌ای است برای قومی که تعقل می‌کنند.",
     "transliteration": "Wa min thamaraatin-nakhheeli wal-a'naabi tattakhidhoona minhu sakaranw-wa rizqan hasanaa inna fee dhaalika la-aayatal-liqawminy-ya'qiloon"
@@ -849,7 +849,7 @@ ayats = [
   {
     "verse_number": 106,
     "english_text": "And who will adopt infidelity after believing; except that he is compelled for it but his heart is content; and have space for infidelity in his chest, there is wrath of Allah on him and grievous punishment for him.",
-    "arabic_text": "مَن كَفَرَ بِٱللَّهِ مِنۢ بَعْدِ إِيمَـٰنِهِۦٓ إِلَّا مَنْ أُكْرِهَ وَقَلْبُهُۥ مُطْمَئِنٌّۢ بِٱلْإِيمَـٰنِ وَلَـٰكِن مَّن شَرَحَ بِٱلْكُفْرِ صَدْرًۭا فَعَلَيْهِمْ غَضَبٌۭ مِّنَ ٱللَّهِ وَلَهُمْ عَذَابٌ عَظِيمٌۭ",
+    "arabic_text": "مَن كَفَرَ بِٱللَّهِ مِنۢ بَعْدِ إِيمَـٰنِهِۦٓ إِلَّا مَنْ أُكْرِهَ وَقَلْبُهُۥ مُطْمَئِنٌّۢ بِٱلْإِيمَـٰنِ وَلَـٰكِن مَّن شَرَحَ بِٱلْكُفْرِ صَدْرًا فَعَلَيْهِمْ غَضَبٌۭ مِّنَ ٱللَّهِ وَلَهُمْ عَذَابٌ عَظِيمٌۭ",
     "urdu_text": "جو شخص ایمان لانے کے بعد اللہ کا انکار کرے، سوائے اس کے جسے مجبور کیا گیا ہو اور اس کا دل ایمان پر مطمئن ہو، لیکن جو اپنے سینے کو کفر کے لیے کھول دے تو ان پر اللہ کا غضب ہے اور ان کے لیے بڑا عذاب ہے۔",
     "persian_text": "کسی که پس از ایمان به خداوند کافر شود، مگر آن که اکراه شده باشد و دلش به ایمان مطمئن باشد، اما کسی که سینه‌اش را برای کفر بگشاید، پس بر آنان خشم خداوند است و برای آنان عذاب بزرگی است.",
     "transliteration": "Man kafara billahi min ba'di imanihi illa man ukriha wa qalbuhu mutma'innun bil imani wa lakin man sharaha bilkufri sadran fa'alayhim ghadabun minallahi wa lahum adhabun azim"
@@ -969,7 +969,7 @@ ayats = [
   {
     "verse_number": 121,
     "english_text": "Grateful for His favors, Allah chose them and have guided them to His straight path.",
-    "arabic_text": "شَاكِرًۭا لِّاَنْعُمِهِ ۚ ٱجْتَبَىٰهُ وَهَدَىٰهُ إِلَىٰ صِرَٰطٍۢ مُّسْتَقِيمٍۢ",
+    "arabic_text": "شَاكِرًا لِّاَنْعُمِهِ ۚ ٱجْتَبَىٰهُ وَهَدَىٰهُ إِلَىٰ صِرَٰطٍۢ مُّسْتَقِيمٍۢ",
     "urdu_text": "اللہ کی نعمتوں کا شکر گزار تھا، اللہ نے اسے چن لیا اور اسے سیدھے راستے کی طرف ہدایت دی۔",
     "persian_text": "سپاسگزار نعمت‌های او بود، خداوند او را برگزید و به راه راست هدایت کرد.",
     "transliteration": "Shaakiral li-an'umihi ijtabaahu wa hadaahu ilaa siraatim mustaqeem"

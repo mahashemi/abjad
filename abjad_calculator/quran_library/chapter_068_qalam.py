@@ -81,7 +81,7 @@ ayats = [
   {
     "verse_number": 10,
     "english_text": "And beware you (do not obey) any worthless persistent swearer; mean,",
-    "arabic_text": "وَلَا تُطِعْ كُلَّ حَلَّافٍۢ مَّهِينٍ",
+    "arabic_text": "وَ لَا تُطِعْ كُلَّ حَلَّافٍۢ مَّهِينٍ",
     "urdu_text": "اور آپ کسی بھی حقیر بہت قسمیں کھانے والے کی اطاعت نہ کریں۔",
     "persian_text": "و از هر سوگند خور خوار و پست اطاعت مکن.",
     "transliteration": "Wa laa tuti' kulla hallaafim maheen"
@@ -145,7 +145,7 @@ ayats = [
   {
     "verse_number": 18,
     "english_text": "And they will not say 'Allah willing'.",
-    "arabic_text": "وَلَا يَسْتَثْنُونَ",
+    "arabic_text": "وَ لَا يَسْتَثْنُونَ",
     "urdu_text": "اور انہوں نے ان شاء اللہ نہیں کہا",
     "persian_text": "و استثنا نکردند (ان‌شاءالله نگفتند)",
     "transliteration": "Wa laa yastathnoon"
@@ -193,7 +193,7 @@ ayats = [
   {
     "verse_number": 24,
     "english_text": "That, beware, no poor man should enter the garden today.",
-    "arabic_text": "اَن لَّا يَدْخُلَنَّهَا الْيَوْمَ عَلَيْكُم مِّسْكِينٌۭ",
+    "arabic_text": "اَن لَّا يَدْخُلَنَّهَا الْيَوْمَ عَلَيْكُم مِّسْكِينٌ",
     "urdu_text": "کہ آج ہرگز کوئی مسکین تمہارے باغ میں داخل نہ ہونے پائے۔",
     "persian_text": "که امروز هیچ بینوایی نباید بر شما وارد باغ شود.",
     "transliteration": "An lā yadkhulannahā al-yawma 'alaykum miskīn"
@@ -233,7 +233,7 @@ ayats = [
   {
     "verse_number": 29,
     "english_text": "They said: Our Lord is Pure and Self-Sufficient and we truly were unjust.",
-    "arabic_text": "قَالُواْ سُبْحَـٰنَ رَبِّنَآ اِنَّا كُنَّا ظَـٰلِمِينَ",
+    "arabic_text": "قَالُوْاْ سُبْحَـٰنَ رَبِّنَآ اِنَّا كُنَّا ظَـٰلِمِينَ",
     "urdu_text": "انہوں نے کہا: ہمارا رب پاک ہے، بے شک ہم ظالم تھے۔",
     "persian_text": "گفتند: پاک و منزه است پروردگار ما، به راستی ما ستمکار بودیم.",
     "transliteration": "Qālū subḥāna rabbinā innā kunnā ẓālimīn"
@@ -249,7 +249,7 @@ ayats = [
   {
     "verse_number": 31,
     "english_text": "They said: Alas! We were totally rebellious.",
-    "arabic_text": "قَالُواْ يَـٰوَيْلَنَآ اِنَّا كُنَّا طَـٰغِينَ",
+    "arabic_text": "قَالُوْاْ يَـٰوَيْلَنَآ اِنَّا كُنَّا طَـٰغِينَ",
     "urdu_text": "انہوں نے کہا: ہائے ہماری شامت! بیشک ہم سرکش تھے۔",
     "persian_text": "گفتند: وای بر ما! ما واقعاً سرکش و طغیانگر بودیم.",
     "transliteration": "Qaaloo yaa waylanaa innaa kunnaa taagheen"
@@ -257,7 +257,7 @@ ayats = [
   {
     "verse_number": 32,
     "english_text": "Perhaps, our Lord may give us better than this; we are allured towards Him.",
-    "arabic_text": "عَسَىٰ رَبُّنَآ اَن يُبْدِلَنَا خَيْرًۭا مِّنْهَآ اِنَّآ اِلَىٰ رَبِّنَا رَٰغِبُونَ",
+    "arabic_text": "عَسَىٰ رَبُّنَآ اَن يُبْدِلَنَا خَيْرًا مِّنْهَآ اِنَّآ اِلَىٰ رَبِّنَا رَٰغِبُونَ",
     "urdu_text": "امید ہے کہ ہمارا رب ہمیں اس سے بہتر عطا فرمائے، بیشک ہم اپنے رب کی طرف رغبت رکھنے والے ہیں۔",
     "persian_text": "امید است که پروردگار ما بهتر از این را به ما عطا کند، ما به سوی پروردگارمان رغبت داریم.",
     "transliteration": "Asaa Rabbunaa any yubdilanaa khayram minhaa innaa ilaa Rabbinaa raaghiboon"
@@ -265,7 +265,7 @@ ayats = [
   {
     "verse_number": 33,
     "english_text": "Punishment comes down like this and the punishment of the Hereafter is greater than this, if they knew.",
-    "arabic_text": "كَذَٰلِكَ الْعَذَابُ ۖ وَلَعَذَابُ الْـَٔاخِرَةِ اَكْبَرُ ۚ لَوْ كَانُواْ يَعْلَمُونَ",
+    "arabic_text": "كَذَٰلِكَ الْعَذَابُ ۖ وَلَعَذَابُ الْاخِرَةِ اَكْبَرُ ۚ لَوْ كَانُواْ يَعْلَمُونَ",
     "urdu_text": "عذاب اسی طرح آتا ہے، اور آخرت کا عذاب اس سے بھی بڑا ہے، کاش وہ جانتے ہوتے۔",
     "persian_text": "عذاب این‌چنین است، و عذاب آخرت بزرگ‌تر از این است، اگر می‌دانستند.",
     "transliteration": "Kadhalikal adhaab, wa la adhaabul aakhirati akbar, law kaanoo ya'lamoon"
@@ -369,7 +369,7 @@ ayats = [
   {
     "verse_number": 46,
     "english_text": "Are you asking them wages that they are under the burden with this ransom.",
-    "arabic_text": "اَمْ تَسْـَٔلُهُمْ اَجْرًۭا فَهُم مِّن مَّغْرَمٍۢ مُّثْقَلُونَ",
+    "arabic_text": "اَمْ تَسْـَٔلُهُمْ اَجْرًا فَهُم مِّن مَّغْرَمٍۢ مُّثْقَلُونَ",
     "urdu_text": "کیا تم ان سے کوئی اجرت مانگتے ہو کہ وہ اس تاوان کے بوجھ تلے دبے ہوئے ہیں؟",
     "persian_text": "آیا از آنها مزدی می‌خواهی که از بار غرامت سنگین شده‌اند؟",
     "transliteration": "Am tas'aluhum ajran fahum mim maghramim muthqaloon"
@@ -385,7 +385,7 @@ ayats = [
   {
     "verse_number": 48,
     "english_text": "Now wait with patience for the command of your Lord, and do not be like Man of Whale when he had called out in a very angry tone.",
-    "arabic_text": "فَاصْبِرْ لِحُكْمِ رَبِّكَ وَلَا تَكُن كَصَاحِبِ الْحُوتِ اِذْ نَادَىٰ وَهُوَ مَكْظُومٌۭ",
+    "arabic_text": "فَاصْبِرْ لِحُكْمِ رَبِّكَ وَ لَا تَكُن كَصَاحِبِ الْحُوتِ اِذْ نَادَىٰ وَهُوَ مَكْظُومٌۭ",
     "urdu_text": "پس اپنے رب کے حکم کے لیے صبر کرو اور مچھلی والے کی طرح نہ ہو جاؤ جب اس نے پکارا تھا اور وہ غم سے بھرا ہوا تھا۔",
     "persian_text": "پس برای فرمان پروردگارت صبر کن و مانند صاحب ماهی مباش، آنگاه که ندا داد در حالی که اندوهگین بود.",
     "transliteration": "Fasbir lihukmi rabbika wa laa takun kasaahibil hooti idh naadaa wa huwa makdhoom"
@@ -409,7 +409,7 @@ ayats = [
   {
     "verse_number": 51,
     "english_text": "And these infidels when they listen to Quran it seems soon they will slide you with their eyes (with hatred) and then they say that he is a madman.",
-    "arabic_text": "وَاِن يَكَادُ الَّذِينَ كَفَرُواْ لَيُزْلِقُونَكَ بِاَبْصَـٰرِهِمْ لَمَّا سَمِعُواْ الذِّكْرَ وَيَقُولُونَ اِنَّهُ لَمَجْنُونٌۭ",
+    "arabic_text": "وَاِن يَكَادُ الَّذِينَ كَفَرُواْ لَيُزْلِقُونَكَ بِاَبْصَـٰرِهِمْ لَمَّا سَمِعُواْ الذِّكْرَ وَيَقُولُونَ اِنَّهُ لَمَجْنُونٌ",
     "urdu_text": "اور یہ کافر جب قرآن سنتے ہیں تو قریب ہے کہ اپنی نظروں سے آپ کو گرا دیں (نفرت سے دیکھتے ہیں) اور کہتے ہیں کہ یہ تو دیوانہ ہے۔",
     "persian_text": "و کافران چون قرآن را می‌شنوند، نزدیک است که تو را با نگاه‌های خود بلغزانند (از شدت کینه و نفرت) و می‌گویند که او دیوانه است.",
     "transliteration": "Wa in yakādu alladhīna kafarū la-yuzliqūnaka bi-abṣārihim lammā samiʿū adh-dhikra wa yaqūlūna innahū la-majnūn"

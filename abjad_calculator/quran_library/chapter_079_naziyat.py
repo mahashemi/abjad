@@ -90,7 +90,7 @@ ayats = [
   {
     "verse_number": 12,
     "english_text": "This return will be of a great loss.",
-    "arabic_text": "قَالُواْ تِلْكَ اِذًا كَرَّةٌ خَاسِرَةً",
+    "arabic_text": "قَالُوْاْ تِلْكَ اِذًا كَرَّةٌ خَاسِرَةً",
     "urdu_text": "انہوں نے کہا یہ تو پھر نقصان کی واپسی ہوگی",
     "persian_text": "گفتند پس این بازگشتی زیان‌بار خواهد بود",
     "transliteration": "Qalu tilka idhan karratun khasirah",

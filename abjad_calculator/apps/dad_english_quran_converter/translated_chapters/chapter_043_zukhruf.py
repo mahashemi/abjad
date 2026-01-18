@@ -633,7 +633,7 @@ ayats = [
   {
     "verse_number": 79,
     "english_text": "Have they decided firmly something, then We also know this work.",
-    "arabic_text": "اَمْ اَبْرَمُوٓاْ اَمْرًۭا فَإِنَّا مُبْرِمُونَ",
+    "arabic_text": "اَمْ اَبْرَمُوٓاْ اَمْرًا فَإِنَّا مُبْرِمُونَ",
     "urdu_text": "کیا انهوں نے کوئی بات پخته کر لی هے؟ تو هم بھی پخته کرنے والے هیں۔",
     "persian_text": "آیا آنان کاری را محکم کرده‌اند؟ پس ما نیز محکم می‌کنیم.",
     "transliteration": "Am abramoo amran fa-inna mubrimoon"

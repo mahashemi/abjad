@@ -57,7 +57,7 @@ ayats = [
   {
     "verse_number": 7,
     "english_text": "And when divine verses are recited before him, he turns his face with pride, as if he has not heard anything, and as there is deafness in his ears; Give good news of painful punishment to such a person.",
-    "arabic_text": "وَإِذَا تُتْلَىٰ عَلَيْهِ ءَايَـٰتُنَا وَلَّىٰ مُسْتَكْبِرًۭا كَاَن لَّمْ يَسْمَعْهَا كَاَنَّ فِىٓ أُذُنَيْهِ وَقْرًۭا ۖ فَبَشِّرْهُ بِعَذَابٍ اَلِيمٍ",
+    "arabic_text": "وَإِذَا تُتْلَىٰ عَلَيْهِ ءَايَـٰتُنَا وَلَّىٰ مُسْتَكْبِرًا كَاَن لَّمْ يَسْمَعْهَا كَاَنَّ فِىٓ أُذُنَيْهِ وَقْرًا ۖ فَبَشِّرْهُ بِعَذَابٍ اَلِيمٍ",
     "urdu_text": "اور جب اس کے سامنے هماری آیتیں پڑھی جاتی هیں تو وه تکبر سے منه موڑ لیتا هے گویا اس نے سنا هی نهیں، جیسے اس کے کانوں میں بهرا پن هو، تو اسے دردناک عذاب کی خوشخبری دے دو",
     "persian_text": "و هنگامی که آیات ما بر او خوانده می‌شود با تکبر روی برمی‌گرداند گویی نشنیده است، گویی در گوش‌هایش سنگینی است، پس او را به عذابی دردناک بشارت ده",
     "transliteration": "Wa izaa tutlaa 'alayhi aayaatunaa wallaa mustakbiran ka al lam yasma'haa ka anna fee uzunayhi waqraa, fabashshirhu bi'azaabin aleem"

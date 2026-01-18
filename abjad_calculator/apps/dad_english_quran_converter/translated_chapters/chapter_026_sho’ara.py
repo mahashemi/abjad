@@ -1385,7 +1385,7 @@ ayats = [
   {
     "verse_number": 173,
     "english_text": "And strongly rained stones on them, this is the worst rain for the people who are warned.",
-    "arabic_text": "وَاَمْطَرْنَا عَلَيْهِم مَّطَرًۭا ۖ فَسَآءَ مَطَرُ ٱلْمُنذَرِينَ",
+    "arabic_text": "وَاَمْطَرْنَا عَلَيْهِم مَّطَرًا ۖ فَسَآءَ مَطَرُ ٱلْمُنذَرِينَ",
     "urdu_text": "اور ہم نے ان پر پتھروں کی بارش برسائی، پس یہ کتنی بری بارش تھی ڈرائے گئے لوگوں کے لیے۔",
     "persian_text": "و بر آنان باران سنگ فرو باریدیم، پس چه بد بود باران بیم داده شدگان.",
     "transliteration": "Wa amtarnaa 'alayhim mataran fasaaa'a matarul munzareen"
@@ -1817,7 +1817,7 @@ ayats = [
   {
     "verse_number": 227,
     "english_text": "Except those poets who are believers and did good works; and recite the name of Allah aplenty, and took revenge after tolerating the unjust, and shortly unjust will know where they are going to be returned.",
-    "arabic_text": "إِلَّا ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّـٰلِحَـٰتِ وَذَكَرُواْ ٱللَّهَ كَثِيرًۭا وَٱنتَصَرُواْ مِنۢ بَعْدِ مَا ظُلِمُواْ ۗ وَسَيَعْلَمُ ٱلَّذِينَ ظَلَمُوٓاْ اَىَّ مُنقَلَبٍۢ يَنقَلِبُونَ",
+    "arabic_text": "إِلَّا ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّـٰلِحَـٰتِ وَذَكَرُواْ ٱللَّهَ كَثِيرًا وَٱنتَصَرُواْ مِنۢ بَعْدِ مَا ظُلِمُواْ ۗ وَسَيَعْلَمُ ٱلَّذِينَ ظَلَمُوٓاْ اَىَّ مُنقَلَبٍۢ يَنقَلِبُونَ",
     "urdu_text": "سوائے ان لوگوں کے جو ایمان لائے اور نیک اعمال کیے اور اللہ کو بکثرت یاد کیا اور ظلم کے بعد اپنا بدلہ لیا، اور عنقریب ظالم جان لیں گے کہ وہ کس انجام کی طرف پلٹائے جائیں گے۔",
     "persian_text": "مگر کسانی که ایمان آوردند و کارهای شایسته انجام دادند و خدا را بسیار یاد کردند و پس از ستم دیدن انتقام گرفتند، و به زودی ستمکاران خواهند دانست به کدام بازگشتگاه باز می‌گردند.",
     "transliteration": "Illal-ladheena aamanoo wa 'amilus-saalihaati wa dhakarullaaha katheeranw-wantasaroo mim ba'di maa dhulimoo, wa saya'lamul-ladheena dhalamoo ayya munqalabin yanqaliboon"
