@@ -42,8 +42,8 @@ def main():
     
     # Example 2: Generate a Naqsh for headache
     print("\n2. Generate Naqsh for headache")
-    # name = " م ح م د ف ی ر و ز ا ب ن ب ل ق ی س ج ہ ا ن"
-    name = " ج ا ر ی ہ ر ض ا ع د ی ل ہ ش و ک ت "
+    # name = " م ح م د ف ی ر و ز ا ب ن ب ل ق ی س ج ه ا ن"
+    name = " ج ا ر ی ه ر ض ا ع د ی ل ه ش و ک ت "
     dard_location = "kamar"
     # huruf_sawamat_html_example(name=name, bastam_type=dard_location.upper())
 

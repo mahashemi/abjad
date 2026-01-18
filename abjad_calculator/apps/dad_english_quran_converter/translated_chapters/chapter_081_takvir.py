@@ -26,7 +26,7 @@ ayats = [
     "verse_number": 3,
     "english_text": "When the mountains will come into motion.",
     "arabic_text": "وَ اِذَا الْجِبَالُ سُيِّرَتْ",
-    "urdu_text": "اور جب پہاڑ چلائے جائیں گے",
+    "urdu_text": "اور جب پهاڑ چلائے جائیں گے",
     "persian_text": "و هنگامی که کوه‌ها به حرکت درآیند",
     "transliteration": "Wa idha al-jibalu suyyirat"
   },
@@ -34,7 +34,7 @@ ayats = [
     "verse_number": 4,
     "english_text": "When the pregnant she-camels will be left unattended.",
     "arabic_text": "وَ اِذَا الْعِشَارُ عُطِّلَتْ",
-    "urdu_text": "اور جب دس ماہ کی حاملہ اونٹنیاں چھوڑ دی جائیں گی",
+    "urdu_text": "اور جب دس ماه کی حامله اونٹنیاں چھوڑ دی جائیں گی",
     "persian_text": "و هنگامی که شترهای آبستن رها شوند",
     "transliteration": "Wa idha al-'isharu 'uttilat"
   },
@@ -66,7 +66,7 @@ ayats = [
     "verse_number": 8,
     "english_text": "And when they will be questioned about burying the girls alive.",
     "arabic_text": "وَ اِذَا الْمَوْءُدَةُ سُئِلَتْ",
-    "urdu_text": "اور جب زندہ دفن کی گئی لڑکی سے پوچھا جائے گا",
+    "urdu_text": "اور جب زنده دفن کی گئی لڑکی سے پوچھا جائے گا",
     "persian_text": "و هنگامی که از دختر زنده به گور شده پرسیده شود",
     "transliteration": "Wa idhal-maw'oodatu su'ilat"
   },
@@ -74,7 +74,7 @@ ayats = [
     "verse_number": 9,
     "english_text": "That - for what sin they were killed.",
     "arabic_text": "بِاَيِّ ذَنبٍ قُتِلَتْ",
-    "urdu_text": "کہ کس گناہ کی وجہ سے وہ قتل کی گئی",
+    "urdu_text": "که کس گناه کی وجه سے وه قتل کی گئی",
     "persian_text": "که به چه گناهی کشته شد",
     "transliteration": "Bi-ayyi dhanbin qutilat"
   },
@@ -82,7 +82,7 @@ ayats = [
     "verse_number": 10,
     "english_text": "When the books of deeds will be distributed.",
     "arabic_text": "وَ اِذَا الصُّحُفُ نُشِرَتْ",
-    "urdu_text": "اور جب نامہ اعمال کھول دیے جائیں گے",
+    "urdu_text": "اور جب نامه اعمال کھول دیے جائیں گے",
     "persian_text": "و هنگامی که نامه‌های اعمال گشوده شوند",
     "transliteration": "Wa idhas-suhufu nushirat"
   },
@@ -114,7 +114,7 @@ ayats = [
     "verse_number": 14,
     "english_text": "Then every Self will know what he has sent earlier.",
     "arabic_text": "عَلِمَتْ نَفْسٌ مَّا اَحْضَرَتْ",
-    "urdu_text": "تو ہر شخص جان لے گا جو کچھ اس نے آگے بھیجا ہے",
+    "urdu_text": "تو هر شخص جان لے گا جو کچھ اس نے آگے بھیجا هے",
     "persian_text": "هر کسی خواهد دانست آنچه را که حاضر کرده است",
     "transliteration": "'Alimat nafsun maa ahdarat"
   },
@@ -122,7 +122,7 @@ ayats = [
     "verse_number": 15,
     "english_text": "So I swear by the stars which are returned.",
     "arabic_text": "فَلَا اُقْسِمُ بِالْخُنَّسِ",
-    "urdu_text": "تو میں قسم کھاتا ہوں پیچھے ہٹنے والے ستاروں کی",
+    "urdu_text": "تو میں قسم کھاتا هوں پیچھے هٹنے والے ستاروں کی",
     "persian_text": "پس سوگند می‌خورم به ستارگان پس‌رونده",
     "transliteration": "Falaa uqsimu bil-khunnas"
   },
@@ -138,7 +138,7 @@ ayats = [
     "verse_number": 17,
     "english_text": "And (I) swear by the night when it's about to end.",
     "arabic_text": "وَ الَّيْلِ اِذَا عَسْعَسَ",
-    "urdu_text": "اور رات کی قسم جب وہ ختم ہونے لگے",
+    "urdu_text": "اور رات کی قسم جب وه ختم هونے لگے",
     "persian_text": "و سوگند به شب هنگامی که به پایان می‌رسد",
     "transliteration": "Wal-layli idha 'as'asa"
   },
@@ -146,7 +146,7 @@ ayats = [
     "verse_number": 18,
     "english_text": "And (I) swear by the morning when it starts breathing.",
     "arabic_text": "وَ الصُّبْحِ اِذَا تَنَفَّسَ",
-    "urdu_text": "اور صبح کی قسم جب وہ روشن ہونے لگے",
+    "urdu_text": "اور صبح کی قسم جب وه روشن هونے لگے",
     "persian_text": "و سوگند به صبح هنگامی که نفس می‌کشد",
     "transliteration": "Was-subhi idha tanaffasa"
   },
@@ -154,7 +154,7 @@ ayats = [
     "verse_number": 19,
     "english_text": "Verily, this is the word of a respected messenger.",
     "arabic_text": "اِنَّهُ لَقَوْلُ رَسُولٍ كَرِيمٍ",
-    "urdu_text": "بیشک یہ ایک معزز فرشتے کا قول ہے",
+    "urdu_text": "بیشک یه ایک معزز فرشتے کا قول هے",
     "persian_text": "به راستی این سخن فرستاده‌ای گرامی است",
     "transliteration": "Innahu laqawlu rasulin karim"
   },
@@ -162,7 +162,7 @@ ayats = [
     "verse_number": 20,
     "english_text": "He is owner of power and having high rank in the Presence of the Lord of the Throne.",
     "arabic_text": "ذِي قُوَّةٍ عِندَ ذِي الْعَرْشِ مَكِينٍ",
-    "urdu_text": "جو قوت والا ہے اور عرش والے کے حضور بلند مرتبہ ہے",
+    "urdu_text": "جو قوت والا هے اور عرش والے کے حضور بلند مرتبه هے",
     "persian_text": "صاحب قدرت و دارای مقام بلند نزد صاحب عرش",
     "transliteration": "Dhi quwwatin 'inda dhil-'arshi makin"
   },
@@ -170,7 +170,7 @@ ayats = [
     "verse_number": 21,
     "english_text": "He is obeyed there, and then is trusty.",
     "arabic_text": "مُّطَاعٍ ثَمَّ اَمِينٍ",
-    "urdu_text": "وہاں اس کی اطاعت کی جاتی ہے اور وہ امانت دار ہے",
+    "urdu_text": "وهاں اس کی اطاعت کی جاتی هے اور وه امانت دار هے",
     "persian_text": "در آنجا از او اطاعت می‌شود و او امین است",
     "transliteration": "Mutaa'in thumma ameen"
   },
@@ -178,7 +178,7 @@ ayats = [
     "verse_number": 22,
     "english_text": "And your companion prophet is not a madman.",
     "arabic_text": "وَ مَا صَاحِبُكُم بِمَجْنُونٍ",
-    "urdu_text": "اور تمہارا ساتھی (پیغمبر) دیوانہ نہیں ہے",
+    "urdu_text": "اور تمهارا ساتھی (پیغمبر) دیوانه نهیں هے",
     "persian_text": "و یار شما (پیامبر) دیوانه نیست",
     "transliteration": "Wa maa saahibukum bimajnoon"
   },
@@ -186,7 +186,7 @@ ayats = [
     "verse_number": 23,
     "english_text": "And he has seen the angel on the high horizon.",
     "arabic_text": "وَ لَقَدْ رَآهُ بِالْاُفُقِ الْمُبِينِ",
-    "urdu_text": "اور بیشک انہوں نے اس فرشتے کو روشن افق پر دیکھا ہے",
+    "urdu_text": "اور بیشک انهوں نے اس فرشتے کو روشن افق پر دیکھا هے",
     "persian_text": "و به راستی او فرشته را در افق روشن دیده است",
     "transliteration": "Wa laqad ra-aahu bil-ufuqil-mubeen"
   },
@@ -194,7 +194,7 @@ ayats = [
     "verse_number": 24,
     "english_text": "And He is not stingy about the unseen.",
     "arabic_text": "وَ مَا هُوَ عَلَى الْغَيْبِ بِضَنِينٍ",
-    "urdu_text": "اور وہ غیب کی باتوں میں بخل کرنے والا نہیں ہے",
+    "urdu_text": "اور وه غیب کی باتوں میں بخل کرنے والا نهیں هے",
     "persian_text": "و او در باره غیب بخل نمی‌ورزد",
     "transliteration": "Wa maa huwa 'alal-ghaybi bidaneen"
   },
@@ -202,7 +202,7 @@ ayats = [
     "verse_number": 25,
     "english_text": "And this Quran is not the word of any accursed Satan.",
     "arabic_text": "وَ مَا هُوَ بِقَوْلِ شَيْطٰنٍ رَّجِيمٍ",
-    "urdu_text": "اور یہ قرآن کسی شیطان مردود کا قول نہیں ہے",
+    "urdu_text": "اور یه قرآن کسی شیطان مردود کا قول نهیں هے",
     "persian_text": "و این قرآن سخن شیطان رانده شده نیست",
     "transliteration": "Wa maa huwa biqawli shaytaanir-rajeem"
   },
@@ -210,7 +210,7 @@ ayats = [
     "verse_number": 26,
     "english_text": "So where are you going?",
     "arabic_text": "فَاَيْنَ تَذْهَبُونَ",
-    "urdu_text": "تو تم کہاں جا رہے ہو؟",
+    "urdu_text": "تو تم کهاں جا رهے هو؟",
     "persian_text": "پس کجا می‌روید؟",
     "transliteration": "Fa-ayna tadh-haboon"
   },
@@ -218,7 +218,7 @@ ayats = [
     "verse_number": 27,
     "english_text": "This is only a thing of admonition for the world.",
     "arabic_text": "اِنْ هُوَ اِلَّا ذِكْرٌ لِّلْعٰلَمِينَ",
-    "urdu_text": "یہ تو تمام جہانوں کے لیے نصیحت ہے",
+    "urdu_text": "یه تو تمام جهانوں کے لیے نصیحت هے",
     "persian_text": "این جز پندی برای جهانیان نیست",
     "transliteration": "In huwa illa dhikrun lil-'aalameen"
   },
@@ -226,7 +226,7 @@ ayats = [
     "verse_number": 28,
     "english_text": "Whoever wants to go on a straight path among you.",
     "arabic_text": "لِمَن شَآءَ مِنكُمْ اَن يَّسْتَقِيمَ",
-    "urdu_text": "تم میں سے جو کوئی سیدھی راہ پر چلنا چاہے",
+    "urdu_text": "تم میں سے جو کوئی سیدھی راه پر چلنا چاهے",
     "persian_text": "برای کسی از شما که بخواهد راه راست پیش گیرد",
     "transliteration": "Liman shaa-a minkum an yastaqeem"
   },
@@ -234,7 +234,7 @@ ayats = [
     "verse_number": 29,
     "english_text": "You cannot aspire anything, but only if the Lord of the worlds Allah pleases.",
     "arabic_text": "وَ مَا تَشَآءُوْنَ اِلَّا اَن يَّشَآءَ اللّٰهُ رَبُّ الْعٰلَمِينَ",
-    "urdu_text": "اور تم کچھ نہیں چاہ سکتے مگر یہ کہ اللہ رب العالمین چاہے",
+    "urdu_text": "اور تم کچھ نهیں چاه سکتے مگر یه که الله رب العالمین چاهے",
     "persian_text": "و شما نمی‌خواهید مگر آنکه الله پروردگار جهانیان بخواهد",
     "transliteration": "Wa maa tashaa-oona illa an yashaa-Allahu Rabbul-'aalameen"
   }

@@ -10,7 +10,7 @@ ayats = [
     "verse_number": 1,
     "english_text": "Those of the People of the Book who are infidels and other polytheists were not going to separate from their disbelief until they would have received a manifest argument.",
     "arabic_text": "لَمْ يَكُنِ الَّذِينَ كَفَرُوا مِنْ اَهْلِ الْكِتٰبِ وَ الْمُشْرِكِينَ مُنْفَكِّينَ حَتّٰى تَاْتِيَهُمُ الْبَيِّنَةُ",
-    "urdu_text": "اہل کتاب میں سے جو کافر ہیں اور مشرک ہیں وہ اپنے کفر سے باز آنے والے نہ تھے یہاں تک کہ ان کے پاس واضح دلیل آجائے",
+    "urdu_text": "اهل کتاب میں سے جو کافر هیں اور مشرک هیں وه اپنے کفر سے باز آنے والے نه تھے یهاں تک که ان کے پاس واضح دلیل آجائے",
     "persian_text": "کسانی از اهل کتاب و مشرکان که کافر شدند، از کفر خود دست برنمی‌داشتند تا اینکه دلیل روشن به آنها برسد",
     "transliteration": "Lam yakun allatheena kafaroo min ahli al-kitabi wal-mushrikeena munfakkeena hatta ta'tiyahumu al-bayyinah"
   },
@@ -18,7 +18,7 @@ ayats = [
     "verse_number": 2,
     "english_text": "Messenger of Allah who recites pure scriptures.",
     "arabic_text": "رَسُولٌ مِّنَ اللّٰهِ يَتْلُوا صُحُفًا مُّطَهَّرَةً",
-    "urdu_text": "اللہ کی طرف سے ایک رسول جو پاک صحیفے پڑھ کر سناتا ہے",
+    "urdu_text": "الله کی طرف سے ایک رسول جو پاک صحیفے پڑھ کر سناتا هے",
     "persian_text": "فرستاده‌ای از جانب خداوند که صحیفه‌های پاک را تلاوت می‌کند",
     "transliteration": "Rasoolun min Allahi yatloo suhufan mutahharah"
   },
@@ -26,7 +26,7 @@ ayats = [
     "verse_number": 3,
     "english_text": "Wherein all the precious and strong commands are written.",
     "arabic_text": "فِيهَا كُتُبٌ قَيِّمَةٌ",
-    "urdu_text": "جن میں قیمتی اور مضبوط احکام لکھے ہوئے ہیں",
+    "urdu_text": "جن میں قیمتی اور مضبوط احکام لکھے هوئے هیں",
     "persian_text": "که در آن نوشته‌های ارزشمند و استوار است",
     "transliteration": "Feeha kutubun qayyimah"
   },
@@ -34,7 +34,7 @@ ayats = [
     "verse_number": 4,
     "english_text": "And these People of Book were not divided until the manifest argument had not come to them.",
     "arabic_text": "وَ مَا تَفَرَّقَ الَّذِينَ اُوتُوا الْكِتٰبَ اِلَّا مِنْ بَعْدِ مَا جَآءَتْهُمُ الْبَيِّنَةُ",
-    "urdu_text": "اور جن لوگوں کو کتاب دی گئی تھی وہ تفرقے میں نہیں پڑے تھے یہاں تک کہ ان کے پاس واضح دلیل آگئی",
+    "urdu_text": "اور جن لوگوں کو کتاب دی گئی تھی وه تفرقے میں نهیں پڑے تھے یهاں تک که ان کے پاس واضح دلیل آگئی",
     "persian_text": "و کسانی که کتاب به آنها داده شده بود، تفرقه نکردند مگر پس از آنکه دلیل روشن به آنها رسید",
     "transliteration": "Wa ma tafarraq allatheena ootoo al-kitaba illa min ba'di ma jaa'at-humu al-bayyinah"
   },
@@ -42,7 +42,7 @@ ayats = [
     "verse_number": 5,
     "english_text": "And they were enjoined only for that they should worship Allah, and worship Him sincerely, and establish prayer and give the poor-rate, and this is the true and right religion.",
     "arabic_text": "وَ مَآ اُمِرُوٓا اِلَّا لِيَعْبُدُوا اللّٰهَ مُخْلِصِينَ لَهُ الدِّينَ حُنَفَآءَ وَ يُقِيمُوا الصَّلٰوةَ وَ يُؤْتُوا الزَّكٰوةَ  وَ ذٰلِكَ دِينُ الْقَيِّمَةِ",
-    "urdu_text": "اور انہیں صرف یہ حکم دیا گیا تھا کہ اللہ کی عبادت کریں اس کے لیے دین کو خالص کرتے ہوئے یکسو ہو کر اور نماز قائم کریں اور زکوٰۃ ادا کریں اور یہی سیدھا اور مضبوط دین ہے",
+    "urdu_text": "اور انهیں صرف یه حکم دیا گیا تھا که الله کی عبادت کریں اس کے لیے دین کو خالص کرتے هوئے یکسو هو کر اور نماز قائم کریں اور زکوٰۃ ادا کریں اور یهی سیدھا اور مضبوط دین هے",
     "persian_text": "و به آنها جز این فرمان داده نشد که خداوند را بپرستند با اخلاص در دین و یکسو، و نماز را برپا دارند و زکات بدهند، و این است دین استوار و راستین",
     "transliteration": "Wa ma umiroo illa liya'budoo Allaha mukhliseena lahu ad-deena hunafaa'a wa yuqeemoo as-salaata wa yu'too az-zakaata wa thalika deenu al-qayyimah"
   },
@@ -50,7 +50,7 @@ ayats = [
     "verse_number": 6,
     "english_text": "Verily those from among the People of Book who adopted infidelity and other polytheists shall be in Hell, abiding forever therein; and they are the worst of creatures.",
     "arabic_text": "اِنَّ الَّذِينَ كَفَرُوا مِنْ اَهْلِ الْكِتٰبِ وَ الْمُشْرِكِينَ فِى نَارِ جَهَنَّمَ خٰلِدِينَ فِيهَآ اُولٰٓئِكَ هُمْ شَرُّ الْبَرِيَّةِ",
-    "urdu_text": "بیشک اہل کتاب میں سے جنہوں نے کفر اختیار کیا اور مشرکین، وہ جہنم کی آگ میں ہمیشہ رہنے والے ہیں، یہی لوگ بدترین مخلوق ہیں",
+    "urdu_text": "بیشک اهل کتاب میں سے جنهوں نے کفر اختیار کیا اور مشرکین، وه جهنم کی آگ میں همیشه رهنے والے هیں، یهی لوگ بدترین مخلوق هیں",
     "persian_text": "همانا کسانی از اهل کتاب که کافر شدند و مشرکان، در آتش جهنم خواهند بود و جاودانه در آن خواهند ماند، آنان بدترین مخلوقات هستند",
     "transliteration": "Innal-lazeena kafaroo min ahlil-kitaabi wal-mushrikeena fee naari jahannama khaalideena feehaa, ulaa'ika hum sharrul-bariyyah"
   },
@@ -58,7 +58,7 @@ ayats = [
     "verse_number": 7,
     "english_text": "And those who believed and they did good deeds, are the best of the creatures.",
     "arabic_text": "اِنَّ الَّذِينَ اٰمَنُوا وَ عَمِلُوا الصّٰلِحٰتِ اُولٰٓئِكَ هُمْ خَيْرُ الْبَرِيَّةِ",
-    "urdu_text": "بیشک جو لوگ ایمان لائے اور نیک اعمال کیے، یہی لوگ بہترین مخلوق ہیں",
+    "urdu_text": "بیشک جو لوگ ایمان لائے اور نیک اعمال کیے، یهی لوگ بهترین مخلوق هیں",
     "persian_text": "همانا کسانی که ایمان آوردند و کارهای شایسته انجام دادند، آنان بهترین مخلوقات هستند",
     "transliteration": "Innal-lazeena aamanoo wa 'amilus-saalihaati ulaa'ika hum khayrul-bariyyah"
   },
@@ -66,7 +66,7 @@ ayats = [
     "verse_number": 8,
     "english_text": "Their reward with their Lord is those gardens beneath which rivers flow, abiding therein forever; Allah is well pleased with them, and they are pleased with Him; and this is all for him who has fear of the Lord in his heart.",
     "arabic_text": "جَزَآؤُهُمْ عِندَ رَبِّهِمْ جَنّٰتُ عَدْنٍ تَجْرِى مِن تَحْتِهَا الْاَنْهٰرُ خٰلِدِينَ فِيهَآ اَبَدًا رَّضِىَ اللّٰهُ عَنْهُمْ وَ رَضُوا عَنْهُ ذٰلِكَ لِمَنْ خَشِىَ رَبَّهُ",
-    "urdu_text": "ان کا بدلہ ان کے رب کے پاس ہمیشہ رہنے والے باغات ہیں جن کے نیچے نہریں بہتی ہیں، وہ ان میں ہمیشہ رہیں گے، اللہ ان سے راضی ہوا اور وہ اللہ سے راضی ہوئے، یہ اس شخص کے لیے ہے جو اپنے رب سے ڈرتا ہے",
+    "urdu_text": "ان کا بدله ان کے رب کے پاس همیشه رهنے والے باغات هیں جن کے نیچے نهریں بهتی هیں، وه ان میں همیشه رهیں گے، الله ان سے راضی هوا اور وه الله سے راضی هوئے، یه اس شخص کے لیے هے جو اپنے رب سے ڈرتا هے",
     "persian_text": "پاداش آنان نزد پروردگارشان باغهای جاودان است که نهرها از زیر درختانش جاری است و جاودانه در آن خواهند ماند، خداوند از آنان خشنود است و آنان از او خشنودند، این برای کسی است که از پروردگارش بترسد",
     "transliteration": "Jazaa'uhum 'inda rabbihim jannaatu 'adnin tajree min tahtihal-anhaaru khaalideena feehaaa abadaa, radiyallaahu 'anhum wa radoo 'anhu, zaalika liman khashiya rabbah"
   }

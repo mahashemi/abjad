@@ -10,7 +10,7 @@ ayats = [
     "verse_number": 1,
     "english_text": "O people! Keep fearing Allah, because the earthquake of the Day of Judgement is not ordinary but a very severe thing.",
     "arabic_text": "يَـٰٓاَيُّهَا ٱلنَّاسُ ٱتَّقُواْ رَبَّكُمْ ۚ إِنَّ زَلْزَلَةَ ٱلسَّاعَةِ شَىْءٌ عَظِيمٌۭ",
-    "urdu_text": "اے لوگو! اپنے رب سے ڈرتے رہو، بیشک قیامت کا زلزلہ ایک بہت بڑی چیز ہے۔",
+    "urdu_text": "اے لوگو! اپنے رب سے ڈرتے رهو، بیشک قیامت کا زلزله ایک بهت بڑی چیز هے۔",
     "persian_text": "ای مردم! از پروردگار خود بترسید، زیرا زلزله روز قیامت چیزی بسیار عظیم است.",
     "transliteration": "Yaa ayyuhan naasu ittaqoo rabbakum inna zalzalatas saa'ati shay'un 'azeem"
   },
@@ -18,7 +18,7 @@ ayats = [
     "verse_number": 2,
     "english_text": "When you will see it that day, when all breastfeeding mothers shall forget her breastfed children, and (due to fright that day) all pregnant women will abort their children; in panic people will appear as intoxicated whereas they will not be drunk, but the punishment of Allah is most severe.",
     "arabic_text": "يَوْمَ تَرَوْنَهَا تَذْهَلُ كُلُّ مُرْضِعَةٍ عَمَّآ اَرْضَعَتْ وَتَضَعُ كُلُّ ذَاتِ حَمْلٍ حَمْلَهَا وَتَرَى ٱلنَّاسَ سُكَـٰرَىٰ وَمَا هُم بِسُكَـٰرَىٰ وَلَـٰكِنَّ عَذَابَ ٱللَّهِ شَدِيدٌۭ",
-    "urdu_text": "جس دن تم اسے دیکھو گے، ہر دودھ پلانے والی اپنے دودھ پیتے بچے کو بھول جائے گی، اور ہر حاملہ عورت اپنا بوجھ گرا دے گی، اور تم لوگوں کو مدہوش دیکھو گے حالانکہ وہ نشے میں نہیں ہوں گے، لیکن اللہ کا عذاب بہت سخت ہے۔",
+    "urdu_text": "جس دن تم اسے دیکھو گے، هر دودھ پلانے والی اپنے دودھ پیتے بچے کو بھول جائے گی، اور هر حامله عورت اپنا بوجھ گرا دے گی، اور تم لوگوں کو مدهوش دیکھو گے حالانکه وه نشے میں نهیں هوں گے، لیکن الله کا عذاب بهت سخت هے۔",
     "persian_text": "روزی که آن را ببینید، هر شیرده‌ای از شیرخواره‌اش غافل می‌شود و هر حامله‌ای بار خود را می‌اندازد، و مردم را مست می‌بینی در حالی که مست نیستند، ولی عذاب خداوند بسیار سخت است.",
     "transliteration": "Yawma tarawnaha tadhhalu kullu murdi'atin 'ammaa arda'at wa tada'u kullu dhaati hamlin hamlaha wa taran naasa sukaaraa wa maa hum bisukaaraa wa laakinna 'adhaabal laahi shadeed"
   },
@@ -26,7 +26,7 @@ ayats = [
     "verse_number": 3,
     "english_text": "And there are some people who dispute (without knowledge) regarding Allah and follow every transgressor Satan.",
     "arabic_text": "وَمِنَ ٱلنَّاسِ مَن يُجَـٰدِلُ فِى ٱللَّهِ بِغَيْرِ عِلْمٍۢ وَيَتَّبِعُ كُلَّ شَيْطَـٰنٍۢ مَّرِيدٍۢ",
-    "urdu_text": "اور لوگوں میں سے کچھ ایسے ہیں جو اللہ کے بارے میں بغیر علم کے جھگڑتے ہیں اور ہر سرکش شیطان کی پیروی کرتے ہیں۔",
+    "urdu_text": "اور لوگوں میں سے کچھ ایسے هیں جو الله کے بارے میں بغیر علم کے جھگڑتے هیں اور هر سرکش شیطان کی پیروی کرتے هیں۔",
     "persian_text": "و برخی از مردم هستند که درباره خداوند بدون علم مجادله می‌کنند و از هر شیطان سرکشی پیروی می‌نمایند.",
     "transliteration": "Wa minan naasi man yujaadilu fillaahi bighayri 'ilminw wa yattabi'u kulla shaytaanim mareed"
   },
@@ -34,7 +34,7 @@ ayats = [
     "verse_number": 4,
     "english_text": "It has been written for them that whoever will befriend him, Verily, he will misguide them and will Verily reach them to the punishment of Hell.",
     "arabic_text": "كُتِبَ عَلَيْهِ اَنَّهُۥ مَن تَوَلَّاهُ فَاَنَّهُۥ يُضِلُّهُۥ وَيَهْدِيهِ إِلَىٰ عَذَابِ ٱلسَّعِيرِ",
-    "urdu_text": "اس کے بارے میں لکھ دیا گیا ہے کہ جو کوئی اس سے دوستی کرے گا تو وہ اسے گمراہ کر دے گا اور اسے دوزخ کے عذاب کی طرف لے جائے گا۔",
+    "urdu_text": "اس کے بارے میں لکھ دیا گیا هے که جو کوئی اس سے دوستی کرے گا تو وه اسے گمراه کر دے گا اور اسے دوزخ کے عذاب کی طرف لے جائے گا۔",
     "persian_text": "بر او نوشته شده است که هر کس او را دوست بگیرد، پس او را گمراه می‌کند و به سوی عذاب آتش سوزان هدایتش می‌نماید.",
     "transliteration": "Kutiba 'alayhi annahoo man tawallaahu fa annahoo yudilluhoo wa yahdeehi ilaa 'adhaabis sa'eer"
   },
@@ -42,7 +42,7 @@ ayats = [
     "verse_number": 5,
     "english_text": "O People, if you have any doubt in raising again after (your) death, then indeed you were created earlier with dust, then sperm, then frozen blood, then lump of flesh (which came into shape), complete and incomplete to show you (Our Power). (then what is the difficulty in your re-production) and in the womb of women We keep sperm for an appointed period, then bring you out as babies. (then We nourish you) so you reach your youth, some of you die (before reaching old age), and some of you are brought to the worst part of life (old age); that in spite of having knowledge (due to your age) you don't understand anything; and you are seeing the barren land, when we send rain on it, it flourishes and rises (once) again, and beautiful things of all kinds are grown.",
     "arabic_text": "يَـٰٓاَيُّهَا ٱلنَّاسُ إِن كُنتُمْ فِى رَيْبٍۢ مِّنَ ٱلْبَعْثِ فَإِنَّا خَلَقْنَـٰكُم مِّن تُرَابٍۢ ثُمَّ مِن نُّطْفَةٍۢ ثُمَّ مِنْ عَلَقَةٍۢ ثُمَّ مِن مُّضْغَةٍۢ مُّخَلَّقَةٍۢ وَغَيْرِ مُخَلَّقَةٍۢ لِّنُبَيِّنَ لَكُمْ ۚ وَنُقِرُّ فِى ٱلْاَرْحَامِ مَا نَشَآءُ إِلَىٰٓ اَجَلٍۢ مُّسَمًّۭى ثُمَّ نُخْرِجُكُمْ طِفْلًۭا ثُمَّ لِتَبْلُغُوٓاْ اَشُدَّكُمْ ۖ وَمِنكُم مَّن يُتَوَفَّىٰ وَمِنكُم مَّن يُرَدُّ إِلَىٰٓ اَرْذَلِ ٱلْعُمُرِ لِكَيْلَا يَعْلَمَ مِنۢ بَعْدِ عِلْمٍۢ شَيْـًۭٔا ۚ وَتَرَى ٱلْاَرْضَ هَامِدَةًۭ فَإِذَآ اَنزَلْنَا عَلَيْهَا ٱلْمَآءَ ٱهْتَزَّتْ وَرَبَتْ وَاَنۢبَتَتْ مِن كُلِّ زَوْجٍۭ بَهِيجٍۢ",
-    "urdu_text": "اے لوگو! اگر تمہیں مرنے کے بعد دوبارہ اٹھائے جانے میں کوئی شک ہے تو یقیناً ہم نے تمہیں مٹی سے پیدا کیا، پھر نطفے سے، پھر جمے ہوئے خون سے، پھر گوشت کے لوتھڑے سے جو مکمل اور نامکمل ہوتا ہے تاکہ ہم تم پر واضح کریں۔ اور ہم رحموں میں جو چاہتے ہیں ایک مقررہ وقت تک رکھتے ہیں، پھر تمہیں بچے کی صورت میں نکالتے ہیں، پھر تاکہ تم اپنی جوانی کو پہنچو، اور تم میں سے کوئی فوت ہو جاتا ہے اور تم میں سے کوئی بدترین عمر کی طرف لوٹایا جاتا ہے تاکہ علم کے بعد کچھ نہ جانے، اور تم زمین کو بنجر دیکھتے ہو، پھر جب ہم اس پر پانی برساتے ہیں تو وہ لہلہا اٹھتی ہے اور ابھرتی ہے اور ہر قسم کی خوبصورت چیزیں اگاتی ہے۔",
+    "urdu_text": "اے لوگو! اگر تمهیں مرنے کے بعد دوباره اٹھائے جانے میں کوئی شک هے تو یقیناً هم نے تمهیں مٹی سے پیدا کیا، پھر نطفے سے، پھر جمے هوئے خون سے، پھر گوشت کے لوتھڑے سے جو مکمل اور نامکمل هوتا هے تاکه هم تم پر واضح کریں۔ اور هم رحموں میں جو چاهتے هیں ایک مقرره وقت تک رکھتے هیں، پھر تمهیں بچے کی صورت میں نکالتے هیں، پھر تاکه تم اپنی جوانی کو پهنچو، اور تم میں سے کوئی فوت هو جاتا هے اور تم میں سے کوئی بدترین عمر کی طرف لوٹایا جاتا هے تاکه علم کے بعد کچھ نه جانے، اور تم زمین کو بنجر دیکھتے هو، پھر جب هم اس پر پانی برساتے هیں تو وه لهلها اٹھتی هے اور ابھرتی هے اور هر قسم کی خوبصورت چیزیں اگاتی هے۔",
     "persian_text": "ای مردم! اگر در مورد رستاخیز در شک هستید، پس ما شما را از خاک آفریدیم، سپس از نطفه، سپس از خون بسته، سپس از پاره گوشتی که شکل گرفته و شکل نگرفته است تا برای شما آشکار سازیم. و در رحم‌ها آنچه را بخواهیم تا زمان معینی نگه می‌داریم، سپس شما را به صورت طفل بیرون می‌آوریم، سپس تا به بلوغ خود برسید، و برخی از شما می‌میرند و برخی به بدترین سن بازگردانده می‌شوند تا پس از دانستن چیزی ندانند، و زمین را خشک می‌بینی، پس چون بر آن آب فرو فرستیم، به جنبش در می‌آید و می‌روید و از هر گونه زیبا می‌رویاند.",
     "transliteration": "Yaa ayyuhan naasu in kuntum fee raybin minal ba'thi fa innaa khalaqnaakum min turaabin thumma min nutfatin thumma min 'alaqatin thumma min mudghatin mukhallaqatinw wa ghayri mukhallaqatil linubayyina lakum wa nuqirru fil arhaami maa nashaaa'u ilaa ajalim musamman thumma nukhrijukum tiflan thumma litablughooo ashuddakum wa minkum man yutawaffaa wa minkum man yuraddu ilaa ardhali 'umuri likaylaa ya'lama mim ba'di 'ilmin shay'aa wa taral arda haamidatan fa idhaa anzalnaa 'alayhal maaa'ahtazzat wa rabat wa ambatat min kulli zawjim baheej"
   },
@@ -50,7 +50,7 @@ ayats = [
     "verse_number": 6,
     "english_text": "(These powers We show you that you should know) This is because indeed Allah is Truth, and then Verily, He brings to life again the dead ones, and He has power over everything.",
     "arabic_text": "ذَٰلِكَ بِاَنَّ ٱللَّهَ هُوَ ٱلْحَقُّ وَاَنَّهُۥ يُحْىِ ٱلْمَوْتَىٰ وَاَنَّهُۥ عَلَىٰ كُلِّ شَىْءٍۢ قَدِيرٌۭ",
-    "urdu_text": "یہ اس لیے کہ بیشک اللہ ہی حق ہے، اور بیشک وہی مردوں کو زندہ کرتا ہے، اور بیشک وہ ہر چیز پر قادر ہے۔",
+    "urdu_text": "یه اس لیے که بیشک الله هی حق هے، اور بیشک وهی مردوں کو زنده کرتا هے، اور بیشک وه هر چیز پر قادر هے۔",
     "persian_text": "این بدان سبب است که خداوند حق است و او مردگان را زنده می‌کند و او بر هر چیزی تواناست.",
     "transliteration": "Dhaalika bi annal laaha huwal haqqu wa annahoo yuhyil mawtaa wa annahoo 'alaa kulli shay'in qadeer"
   },
@@ -58,7 +58,7 @@ ayats = [
     "verse_number": 7,
     "english_text": "And the Hour shall Verily come and there is no doubt in it, and who are in graves Allah will bring them to life again.",
     "arabic_text": "وَاَنَّ ٱلسَّاعَةَ ءَاتِيَةٌۭ لَّا رَيْبَ فِيهَا وَاَنَّ ٱللَّهَ يَبْعَثُ مَن فِى ٱلْقُبُورِ",
-    "urdu_text": "اور بیشک قیامت آنے والی ہے، اس میں کوئی شک نہیں، اور بیشک اللہ ان لوگوں کو زندہ کرے گا جو قبروں میں ہیں۔",
+    "urdu_text": "اور بیشک قیامت آنے والی هے، اس میں کوئی شک نهیں، اور بیشک الله ان لوگوں کو زنده کرے گا جو قبروں میں هیں۔",
     "persian_text": "و قیامت قطعاً خواهد آمد که در آن شکی نیست، و خداوند کسانی را که در قبرها هستند برمی‌انگیزد.",
     "transliteration": "Wa annas saa'ata aatiyatul laa rayba feehaa wa annal laaha yab'athu man fil quboor"
   },
@@ -66,7 +66,7 @@ ayats = [
     "verse_number": 8,
     "english_text": "And there are some people who dispute about Allah without understanding and getting guidance from the enlightening Book.",
     "arabic_text": "وَمِنَ ٱلنَّاسِ مَن يُجَـٰدِلُ فِى ٱللَّهِ بِغَيْرِ عِلْمٍۢ وَلَا هُدًۭى وَلَا كِتَـٰبٍۢ مُّنِيرٍۢ",
-    "urdu_text": "اور لوگوں میں سے کچھ ایسے ہیں جو اللہ کے بارے میں بغیر علم کے، بغیر ہدایت کے اور بغیر روشن کتاب کے جھگڑتے ہیں۔",
+    "urdu_text": "اور لوگوں میں سے کچھ ایسے هیں جو الله کے بارے میں بغیر علم کے، بغیر هدایت کے اور بغیر روشن کتاب کے جھگڑتے هیں۔",
     "persian_text": "و برخی از مردم هستند که درباره خداوند بدون علم و بدون هدایت و بدون کتاب روشنگر مجادله می‌کنند.",
     "transliteration": "Wa minan naasi man yujaadilu fillaahi bighayri 'ilminw wa laa hudanw wa laa kitaabim muneer"
   },
@@ -74,7 +74,7 @@ ayats = [
     "verse_number": 9,
     "english_text": "(Unnecessarily) they are disputing about Allah that they may misguide people from the path of Allah, for such people there is disgrace in this world as well as on the Day of Judgement, We will make him taste the punishment of Hell.",
     "arabic_text": "ثَانِىَ عِطْفِهِۦ لِيُضِلَّ عَن سَبِيلِ ٱللَّهِ ۖ لَهُۥ فِى ٱلدُّنْيَا خِزْىٌۭ ۖ وَنُذِيقُهُۥ يَوْمَ ٱلْقِيَـٰمَةِ عَذَابَ ٱلْحَرِيقِ",
-    "urdu_text": "اپنی گردن موڑ کر تاکہ لوگوں کو اللہ کی راہ سے گمراہ کرے، اس کے لیے دنیا میں رسوائی ہے، اور قیامت کے دن ہم اسے جلنے کا عذاب چکھائیں گے۔",
+    "urdu_text": "اپنی گردن موڑ کر تاکه لوگوں کو الله کی راه سے گمراه کرے، اس کے لیے دنیا میں رسوائی هے، اور قیامت کے دن هم اسے جلنے کا عذاب چکھائیں گے۔",
     "persian_text": "گردن خود را کج کرده تا از راه خداوند گمراه کند، برای او در دنیا رسوایی است و روز قیامت عذاب سوزان را به او می‌چشانیم.",
     "transliteration": "Saaniya 'itfihee liyudilla 'an sabeelil laahi lahoo fid dunyaa khizyunw wa nudheequhoo yawmal qiyaamati 'adhaabal hareeq"
   },
@@ -82,7 +82,7 @@ ayats = [
     "verse_number": 10,
     "english_text": "At that time it will be said: this is the punishment for your deeds, which your hands had done earlier, and Verily Allah do not do injustice to his servants.",
     "arabic_text": "ذَٰلِكَ بِمَا قَدَّمَتْ يَدَاكَ وَاَنَّ ٱللَّهَ لَيْسَ بِظَلَّـٰمٍۢ لِّلْعَبِيدِ",
-    "urdu_text": "یہ اس کے بدلے میں ہے جو تیرے ہاتھوں نے آگے بھیجا، اور بیشک اللہ اپنے بندوں پر ظلم کرنے والا نہیں ہے۔",
+    "urdu_text": "یه اس کے بدلے میں هے جو تیرے هاتھوں نے آگے بھیجا، اور بیشک الله اپنے بندوں پر ظلم کرنے والا نهیں هے۔",
     "persian_text": "این به خاطر آن است که دستهایت پیش فرستاده‌اند، و خداوند به بندگان ستم‌گر نیست.",
     "transliteration": "Dhaalika bimaa qaddamat yadaaka wa annal laaha laysa bizallaamil lil'abeed"
   },
@@ -90,7 +90,7 @@ ayats = [
     "verse_number": 11,
     "english_text": "And there are some among the people who worship on an edge, and if any good reaches him he becomes satisfied, but if any difficulty touches him, he immediately turns his face (towards infidelity); he is in loss in this world as well as in the Hereafter, this is the manifest loss.",
     "arabic_text": "وَمِنَ ٱلنَّاسِ مَن يَعْبُدُ ٱللَّهَ عَلَىٰ حَرْفٍۢ ۖ فَإِنْ اَصَابَهُۥ خَيْرٌ ٱطْمَاَنَّ بِهِۦ ۖ وَإِنْ اَصَابَتْهُ فِتْنَةٌ ٱنقَلَبَ عَلَىٰ وَجْهِهِۦ خَسِرَ ٱلدُّنْيَا وَٱلْـَٔاخِرَةَ ۚ ذَٰلِكَ هُوَ ٱلْخُسْرَانُ ٱلْمُبِينُ",
-    "urdu_text": "اور کچھ لوگ ایسے ہیں جو اللہ کی عبادت کنارے پر رہ کر کرتے ہیں، پھر اگر انہیں کوئی بھلائی پہنچے تو مطمئن ہو جاتے ہیں، اور اگر کوئی آزمائش آ جائے تو فوراً منہ پھیر لیتے ہیں، وہ دنیا اور آخرت دونوں میں نقصان اٹھاتے ہیں، یہی کھلا نقصان ہے۔",
+    "urdu_text": "اور کچھ لوگ ایسے هیں جو الله کی عبادت کنارے پر ره کر کرتے هیں، پھر اگر انهیں کوئی بھلائی پهنچے تو مطمئن هو جاتے هیں، اور اگر کوئی آزمائش آ جائے تو فوراً منه پھیر لیتے هیں، وه دنیا اور آخرت دونوں میں نقصان اٹھاتے هیں، یهی کھلا نقصان هے۔",
     "persian_text": "و برخی از مردم کسانی هستند که خدا را بر لبه‌ای می‌پرستند، پس اگر خیری به او برسد، به آن آرام می‌گیرد، و اگر آزمایشی به او برسد، بر روی خود برمی‌گردد، دنیا و آخرت را از دست می‌دهد، این همان زیان آشکار است.",
     "transliteration": "Wa mina an-naasi man ya'budu Allaaha 'alaa harfin fa-in asaabahu khayrun itma'anna bihi wa in asaabat-hu fitnatun inqalaba 'alaa wajhihi khasira ad-dunyaa wal-aakhirah dhaalika huwa al-khusraanu al-mubeen"
   },
@@ -98,7 +98,7 @@ ayats = [
     "verse_number": 12,
     "english_text": "Whoever calls those things at the time of his desires besides Allah, which can neither can harm him nor it can cause any benefit, this is the utter misguidance.",
     "arabic_text": "يَدْعُواْ مِن دُونِ ٱللَّهِ مَا لَا يَضُرُّهُۥ وَمَا لَا يَنفَعُهُۥ ۚ ذَٰلِكَ هُوَ ٱلضَّلَـٰلُ ٱلْبَعِيدُ",
-    "urdu_text": "وہ اللہ کے سوا ان چیزوں کو پکارتا ہے جو نہ اسے نقصان پہنچا سکتی ہیں اور نہ فائدہ دے سکتی ہیں، یہی دور کی گمراہی ہے۔",
+    "urdu_text": "وه الله کے سوا ان چیزوں کو پکارتا هے جو نه اسے نقصان پهنچا سکتی هیں اور نه فائده دے سکتی هیں، یهی دور کی گمراهی هے۔",
     "persian_text": "او غیر از خدا چیزهایی را می‌خواند که نه می‌توانند به او زیان برسانند و نه سودی به او برسانند، این همان گمراهی دور است.",
     "transliteration": "Yad'oo min dooni Allaahi maa laa yadurruhu wa maa laa yanfa'uh dhaalika huwa ad-dalaalul ba'eed"
   },
@@ -106,7 +106,7 @@ ayats = [
     "verse_number": 13,
     "english_text": "And to whom he calls (for his desires) whose loss is nearer than benefit, Verily such master and friend (both) are evil.",
     "arabic_text": "يَدْعُواْ لَمَن ضَرُّهُۥٓ اَقْرَبُ مِن نَّفْعِهِۦ ۚ لَبِئْسَ ٱلْمَوْلَىٰ وَلَبِئْسَ ٱلْعَشِيرُ",
-    "urdu_text": "وہ اس کو پکارتا ہے جس کا نقصان اس کے فائدے سے زیادہ قریب ہے، یقیناً ایسا آقا بھی برا ہے اور ایسا ساتھی بھی برا ہے۔",
+    "urdu_text": "وه اس کو پکارتا هے جس کا نقصان اس کے فائدے سے زیاده قریب هے، یقیناً ایسا آقا بھی برا هے اور ایسا ساتھی بھی برا هے۔",
     "persian_text": "او کسی را می‌خواند که زیان او نزدیک‌تر از سود اوست، چه بد سرپرستی و چه بد یاوری است.",
     "transliteration": "Yad'oo laman darruhu aqrabu min naf'ih labi'sa al-mawlaa wa labi'sa al-'asheer"
   },
@@ -114,7 +114,7 @@ ayats = [
     "verse_number": 14,
     "english_text": "Indeed, who believed and did good works, Allah will take them and enter them into lush-green gardens beneath which the rivers will be flowing, Verily Allah does whatever he pleases.",
     "arabic_text": "إِنَّ ٱللَّهَ يُدْخِلُ ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّـٰلِحَـٰتِ جَنَّـٰتٍۢ تَجْرِى مِن تَحْتِهَا ٱلْاَنْهَـٰرُ ۚ إِنَّ ٱللَّهَ يَفْعَلُ مَا يُرِيدُ",
-    "urdu_text": "بیشک جو لوگ ایمان لائے اور نیک اعمال کیے، اللہ انہیں ایسے باغات میں داخل کرے گا جن کے نیچے نہریں بہتی ہوں گی، یقیناً اللہ جو چاہتا ہے کرتا ہے۔",
+    "urdu_text": "بیشک جو لوگ ایمان لائے اور نیک اعمال کیے، الله انهیں ایسے باغات میں داخل کرے گا جن کے نیچے نهریں بهتی هوں گی، یقیناً الله جو چاهتا هے کرتا هے۔",
     "persian_text": "همانا خداوند کسانی را که ایمان آوردند و کارهای شایسته انجام دادند، به باغ‌هایی وارد می‌کند که از زیر آن نهرها جاری است، همانا خدا هر چه بخواهد انجام می‌دهد.",
     "transliteration": "Inna Allaaha yudkhilu alladheena aamanoo wa 'amilu as-saalihaati jannaatin tajree min tahtiha al-anhaar inna Allaaha yaf'alu maa yureed"
   },
@@ -122,7 +122,7 @@ ayats = [
     "verse_number": 15,
     "english_text": "(Due to anger) whoever has misconception that Allah would not help him in this world and in the Hereafter, he may ascend towards sky through a rope, then cut it off, then see that struggle can ward off that thing or not; on which he was enraged.",
     "arabic_text": "مَن كَانَ يَظُنُّ اَن لَّن يَنصُرَهُ ٱللَّهُ فِى ٱلدُّنْيَا وَٱلْـَٔاخِرَةِ فَلْيَمْدُدْ بِسَبَبٍ إِلَى ٱلسَّمَآءِ ثُمَّ لْيَقْطَعْ فَلْيَنظُرْ هَلْ يُذْهِبَنَّ كَيْدُهُۥ مَا يَغِيظُ",
-    "urdu_text": "جو شخص یہ گمان رکھتا ہے کہ اللہ اس کی دنیا اور آخرت میں مدد نہیں کرے گا، تو وہ آسمان کی طرف رسی لٹکائے، پھر اسے کاٹ دے، پھر دیکھے کہ کیا اس کی تدبیر اس چیز کو دور کر سکتی ہے جو اسے غصہ دلاتی ہے۔",
+    "urdu_text": "جو شخص یه گمان رکھتا هے که الله اس کی دنیا اور آخرت میں مدد نهیں کرے گا، تو وه آسمان کی طرف رسی لٹکائے، پھر اسے کاٹ دے، پھر دیکھے که کیا اس کی تدبیر اس چیز کو دور کر سکتی هے جو اسے غصه دلاتی هے۔",
     "persian_text": "هر کس گمان می‌برد که خدا او را در دنیا و آخرت یاری نخواهد کرد، پس باید ریسمانی به آسمان بیاویزد، سپس آن را ببرد، پس بنگرد که آیا چاره‌اش آن چیزی را که او را خشمگین می‌کند از بین می‌برد یا نه.",
     "transliteration": "Man kaana yazunnu an lan yansurahu Allaahu fi ad-dunyaa wal-aakhirati fal-yamdud bi-sababin ila as-samaa'i thumma al-yaqta' fal-yanzur hal yudh-hibanna kayduhu maa yagheez"
   },
@@ -130,7 +130,7 @@ ayats = [
     "verse_number": 16,
     "english_text": "And We have sent the Quran like manifest argument and bright sign, indeed, Allah guides to whoever He pleases.",
     "arabic_text": "وَكَذَٰلِكَ اَنزَلْنَـٰهُ ءَايَـٰتٍۭ بَيِّنَـٰتٍۢ وَاَنَّ ٱللَّهَ يَهْدِى مَن يُرِيدُ",
-    "urdu_text": "اور اسی طرح ہم نے اسے واضح آیات کی صورت میں نازل کیا ہے، اور بیشک اللہ جسے چاہتا ہے ہدایت دیتا ہے۔",
+    "urdu_text": "اور اسی طرح هم نے اسے واضح آیات کی صورت میں نازل کیا هے، اور بیشک الله جسے چاهتا هے هدایت دیتا هے۔",
     "persian_text": "و این‌گونه آن را به صورت آیات روشن نازل کردیم، و همانا خدا هر که را بخواهد هدایت می‌کند.",
     "transliteration": "Wa kadhalika anzalnaahu aayaatin bayyinaatin wa anna Allaaha yahdee man yureed"
   },
@@ -138,7 +138,7 @@ ayats = [
     "verse_number": 17,
     "english_text": "Indeed, whoever believed (Muslims) and (those who are) Jews, and Atheists and Christians and Fire Worshippers (Majoosi) and polytheists, Verily, Allah will judge between them on the Day of Judgement, and there is no doubt that Allah is seeing everything.",
     "arabic_text": "إِنَّ ٱلَّذِينَ ءَامَنُواْ وَٱلَّذِينَ هَادُواْ وَٱلصَّـٰبِـِٔينَ وَٱلنَّصَـٰرَىٰ وَٱلْمَجُوسَ وَٱلَّذِينَ اَشْرَكُوٓاْ إِنَّ ٱللَّهَ يَفْصِلُ بَيْنَهُمْ يَوْمَ ٱلْقِيَـٰمَةِ ۚ إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَىْءٍۢ شَهِيدٌ",
-    "urdu_text": "بیشک جو لوگ ایمان لائے اور جو یہودی ہیں اور صابئین اور عیسائی اور مجوسی اور مشرک ہیں، یقیناً اللہ قیامت کے دن ان کے درمیان فیصلہ کرے گا، بیشک اللہ ہر چیز پر گواہ ہے۔",
+    "urdu_text": "بیشک جو لوگ ایمان لائے اور جو یهودی هیں اور صابئین اور عیسائی اور مجوسی اور مشرک هیں، یقیناً اللہ قیامت کے دن ان کے درمیان فیصلہ کرے گا، بیشک اللہ ہر چیز پر گواہ ہے۔",
     "persian_text": "همانا کسانی که ایمان آوردند و کسانی که یهودی شدند و صابئین و مسیحیان و مجوس و کسانی که شرک ورزیدند، همانا خدا در روز قیامت میان آنها داوری خواهد کرد، همانا خدا بر هر چیزی گواه است.",
     "transliteration": "Inna alladheena aamanoo walladheena haadoo was-saabi'eena wan-nasaaraa wal-majoosa walladheena ashrakoo inna Allaaha yafsilu baynahum yawma al-qiyaamah inna Allaaha 'alaa kulli shay'in shaheed"
   },

@@ -10,7 +10,7 @@ ayats = [
     "verse_number": 1,
     "english_text": "Did not you see what your Lord did to the companions of the Elephant?",
     "arabic_text": "اَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِاَصْحٰبِ الْفِيلِ",
-    "urdu_text": "کیا تم نے نہیں دیکھا کہ تمہارے رب نے ہاتھی والوں کے ساتھ کیا کیا؟",
+    "urdu_text": "کیا تم نے نهیں دیکھا که تمهارے رب نے هاتھی والوں کے ساتھ کیا کیا؟",
     "persian_text": "آیا ندیدی که پروردگارت با اصحاب فیل چه کرد؟",
     "transliteration": "Alam tara kayfa fa'ala rabbuka bi-as'habil-fil"
   },
@@ -18,7 +18,7 @@ ayats = [
     "verse_number": 2,
     "english_text": "Did not He foil their plan?",
     "arabic_text": "اَلَمْ يَجْعَلْ كَيْدَهُمْ فِي تَضْلِيلٍ",
-    "urdu_text": "کیا اس نے ان کی چال کو ناکام نہیں کر دیا؟",
+    "urdu_text": "کیا اس نے ان کی چال کو ناکام نهیں کر دیا؟",
     "persian_text": "آیا نقشه آنان را نابود نساخت؟",
     "transliteration": "Alam yaj'al kaydahum fee tadleel"
   },
@@ -42,7 +42,7 @@ ayats = [
     "verse_number": 5,
     "english_text": "Then it made them like chewed straw.",
     "arabic_text": "فَجَعَلَهُمْ كَعَصْفٍ مَّاْكُولٍ",
-    "urdu_text": "پھر اللہ نے انہیں کھائے ہوئے بھوسے کی طرح کر دیا",
+    "urdu_text": "پھر الله نے انهیں کھائے هوئے بھوسے کی طرح کر دیا",
     "persian_text": "پس آنان را همچون کاه خورده شده گردانید",
     "transliteration": "Fa-ja'alahum ka-'asfin ma'kool"
   }

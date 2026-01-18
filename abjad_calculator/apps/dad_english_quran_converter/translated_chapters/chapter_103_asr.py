@@ -10,7 +10,7 @@ ayats = [
     "verse_number": 1,
     "english_text": "I swear by the time (‘Asr’)",
     "arabic_text": "وَالْعَصْرِ",
-    "urdu_text": "قسم ہے عصر (وقت) کی",
+    "urdu_text": "قسم هے عصر (وقت) کی",
     "persian_text": "سوگند به عصر (زمان)",
     "transliteration": "Wal-'asr"
   },
@@ -18,7 +18,7 @@ ayats = [
     "verse_number": 2,
     "english_text": "Verily, man is at a loss.",
     "arabic_text": "اِنَّ الْاِنسَانَ لَفِي خُسْرٍ",
-    "urdu_text": "بیشک انسان خسارے میں ہے",
+    "urdu_text": "بیشک انسان خسارے میں هے",
     "persian_text": "به راستی که انسان در زیان است",
     "transliteration": "Innal-insaana lafee khusr"
   },

@@ -10,7 +10,7 @@ ayats = [
     "verse_number": 1,
     "english_text": "I swear by the early hours of the day.",
     "arabic_text": "وَالضُّحَىٰ",
-    "urdu_text": "قسم ہے چاشت کی",
+    "urdu_text": "قسم هے چاشت کی",
     "persian_text": "سوگند به چاشتگاه",
     "transliteration": "Wad-duhaa"
   },
@@ -18,7 +18,7 @@ ayats = [
     "verse_number": 2,
     "english_text": "And (I) swear by the night when it covers the things.",
     "arabic_text": "وَ الَّيْلِ اِذَا سَجَىٰ",
-    "urdu_text": "اور رات کی قسم جب وہ چھا جائے",
+    "urdu_text": "اور رات کی قسم جب وه چھا جائے",
     "persian_text": "و سوگند به شب هنگامی که فرو می‌نشیند",
     "transliteration": "Wal-layli izaa sajaa"
   },
@@ -26,7 +26,7 @@ ayats = [
     "verse_number": 3,
     "english_text": "Your Lord has not abandoned you, nor is he offended by you.",
     "arabic_text": "مَا وَدَّعَكَ رَبُّكَ وَ مَا قَلَىٰ",
-    "urdu_text": "آپ کے رب نے آپ کو نہ چھوڑا اور نہ ناراض ہوا",
+    "urdu_text": "آپ کے رب نے آپ کو نه چھوڑا اور نه ناراض هوا",
     "persian_text": "پروردگارت تو را رها نکرده و از تو خشمگین نشده است",
     "transliteration": "Maa wadda'aka rabbuka wa maa qalaa"
   },
@@ -34,7 +34,7 @@ ayats = [
     "verse_number": 4,
     "english_text": "And the Hereafter is much better for you than this world.",
     "arabic_text": "وَ لَلْآخِرَةُ خَيْرٌ لَّكَ مِنَ الْاُولَىٰ",
-    "urdu_text": "اور یقیناً آخرت آپ کے لیے دنیا سے بہتر ہے",
+    "urdu_text": "اور یقیناً آخرت آپ کے لیے دنیا سے بهتر هے",
     "persian_text": "و آخرت برای تو بهتر از دنیاست",
     "transliteration": "Wa lal-aakhiratu khayrul laka minal-oolaa"
   },
@@ -42,7 +42,7 @@ ayats = [
     "verse_number": 5,
     "english_text": "And soon your Lord will give you so much that you shall be well pleased.",
     "arabic_text": "وَ لَسَوْفَ يُعْطِيكَ رَبُّكَ فَتَرْضَىٰ",
-    "urdu_text": "اور عنقریب آپ کا رب آپ کو اتنا دے گا کہ آپ راضی ہو جائیں گے",
+    "urdu_text": "اور عنقریب آپ کا رب آپ کو اتنا دے گا که آپ راضی هو جائیں گے",
     "persian_text": "و به زودی پروردگارت به تو عطا خواهد کرد تا خشنود شوی",
     "transliteration": "Wa lasawfa yu'teeka rabbuka fatardaa"
   },
@@ -50,7 +50,7 @@ ayats = [
     "verse_number": 6,
     "english_text": "Did not He give you shelter finding you orphan.",
     "arabic_text": "اَلَمْ يَجِدْكَ يَتِيمًا فَآوَىٰ",
-    "urdu_text": "کیا اس نے تمہیں یتیم پایا تو پناہ نہیں دی؟",
+    "urdu_text": "کیا اس نے تمهیں یتیم پایا تو پناه نهیں دی؟",
     "persian_text": "آیا تو را یتیم نیافت و پناه نداد؟",
     "transliteration": "Alam yajidka yateeman fa-aawa"
   },
@@ -58,7 +58,7 @@ ayats = [
     "verse_number": 7,
     "english_text": "And did not He reach you to the destination finding you lost.",
     "arabic_text": "وَ وَجَدَكَ ضَالًّا فَهَدَىٰ",
-    "urdu_text": "اور اس نے تمہیں راہ نہ جاننے والا پایا تو ہدایت دی؟",
+    "urdu_text": "اور اس نے تمهیں راه نه جاننے والا پایا تو هدایت دی؟",
     "persian_text": "و تو را گمراه یافت و هدایت کرد؟",
     "transliteration": "Wa wajadaka daallan fahada"
   },
@@ -66,7 +66,7 @@ ayats = [
     "verse_number": 8,
     "english_text": "And did not He make you needless finding you in straitness.",
     "arabic_text": "وَ وَجَدَكَ عَائِلًا فَاَغْنَىٰ",
-    "urdu_text": "اور اس نے تمہیں محتاج پایا تو غنی کر دیا؟",
+    "urdu_text": "اور اس نے تمهیں محتاج پایا تو غنی کر دیا؟",
     "persian_text": "و تو را نیازمند یافت و بی‌نیاز کرد؟",
     "transliteration": "Wa wajadaka 'aa'ilan fa-aghna"
   },
@@ -74,7 +74,7 @@ ayats = [
     "verse_number": 9,
     "english_text": "Therefore, now you do not oppress the orphan.",
     "arabic_text": "فَاَمَّا الْيَتِيمَ فَلَا تَقْهَرْ",
-    "urdu_text": "پس یتیم پر سختی نہ کرو۔",
+    "urdu_text": "پس یتیم پر سختی نه کرو۔",
     "persian_text": "پس یتیم را تحقیر مکن.",
     "transliteration": "Fa-ammal-yateema fala taqhar"
   },
@@ -82,7 +82,7 @@ ayats = [
     "verse_number": 10,
     "english_text": "And as for him who asks, do not chide (him).",
     "arabic_text": "وَ اَمَّا السَّائِلَ فَلَا تَنْهَرْ",
-    "urdu_text": "اور سائل کو نہ جھڑکو۔",
+    "urdu_text": "اور سائل کو نه جھڑکو۔",
     "persian_text": "و سائل را نران.",
     "transliteration": "Wa ammas-saa'ila fala tanhar"
   },
@@ -90,7 +90,7 @@ ayats = [
     "verse_number": 11,
     "english_text": "And as for the favor of your Lord, do announce (it).",
     "arabic_text": "وَ اَمَّا بِنِعْمَةِ رَبِّكَ فَحَدِّثْ",
-    "urdu_text": "اور اپنے رب کی نعمت کا تذکرہ کرو",
+    "urdu_text": "اور اپنے رب کی نعمت کا تذکره کرو",
     "persian_text": "و اما نعمت پروردگارت را بیان کن",
     "transliteration": "Wa amma bi ni'mati rabbika faḥaddith"
   }

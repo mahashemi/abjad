@@ -8,7 +8,7 @@ ayats = [
   <br/> وَ مُنْزِلَ اَلْقُرْآنِ اَلْعَظِيمِ
   <br/> وَ رَبَّ اَلْمَلاَئِكَةِ اَلْمُقَرَّبِيْنَ
   <br/> وَ اَلاَنْبِيَاءِ وَ اَلْمُرْسَلِيْنَ""",
-        "urdu_text": "اے اللہ! اے عظیم نور کے رب، اور بلند کرسی کے رب، اور بھڑکتے ہوئے سمندر کے رب، اور تورات، انجیل اور زبور نازل کرنے والے، اور سایہ اور حرارت کے رب، اور عظیم قرآن کو نازل کرنے والے، اور مقرب فرشتوں کے رب، اور انبیاء اور رسولوں کے رب!",
+        "urdu_text": "اے الله! اے عظیم نور کے رب، اور بلند کرسی کے رب، اور بھڑکتے هوئے سمندر کے رب، اور تورات، انجیل اور زبور نازل کرنے والے، اور سایه اور حرارت کے رب، اور عظیم قرآن کو نازل کرنے والے، اور مقرب فرشتوں کے رب، اور انبیاء اور رسولوں کے رب!",
         "persian_text": "خدایا! ای پروردگار نور عظیم، و پروردگار کرسی بلند، و پروردگار دریای برافروخته، و نازل‌کننده تورات و انجیل و زبور، و پروردگار سایه و گرما، و نازل‌کننده قرآن عظیم، و پروردگار فرشتگان مقرب، پیامبران و مرسلین!",
         "english_text": "O Allah! Lord of the Great Light, Lord of the Exalted Throne, Lord of the Boiling Sea, Revealer of the Torah, the Gospel, and the Psalms, Lord of the Shade and the Heat, Revealer of the Glorious Qur’an, Lord of the close angels, of the prophets and messengers!",
         "transliteration": "Allāhumma rabba an-nūri al-‘aẓīm, wa rabba al-kursī ar-rafī‘, wa rabba al-baḥri al-masjūr, wa munzila at-tawrāti wal-injīli waz-zabūr, wa rabba aẓ-ẓilli wal-ḥarūr, wa munzila al-qur’āni al-‘aẓīm, wa rabba al-malā’ikati al-muqarrabīn, wal-anbiyā’i wal-mursalīn",
@@ -16,7 +16,7 @@ ayats = [
     },
     {
         "arabic_text": "اَللّٰهُمَّ اِنِّي اَسْاَلُكَ بِاَسْمِكَ اَلْكَرِيْمِ وَ بِنُورِ وَجْهِكَ اَلْمُنِيْرِ وَ مُلْكِكَ اَلْقَدِيْمِ يَا حَيُّ يَا قَيُّومُ اَسْاَلُكَ بِاَسْمِكَ اَلَّذِي اَشْرَقَتْ بِهِ اَلسَّمٰوٰتُ وَ اَلاَرَضُوْنَ وَ بِاَسْمِكَ اَلَّذِي يَصْلَحُ بِهِ اَلاَوَّلُوْنَ وَ اَلآخِرُوْنَ يَا حَيّاً قَبْلَ كُلِّ حَيٍّ وَ يَا حَيّاً بَعْدَ كُلِّ حَيٍّ وَ يَا حَيّاً حِيْنَ لا حَيُّ يَا مُحْيِيَ اَلْمَوْتٰى وَ مُمِيْتَ اَلاَحْيَاءِ يَا حَيُّ لا اِلٰهَ اِلاَّ اَنْتَ",
-        "urdu_text": "اے اللہ! میں تجھ سے تیرے کریم نام سے، تیرے نورِ منیر چہرے کی روشنی سے، اور تیری قدیم بادشاہی سے سوال کرتا ہوں۔ اے زندہ، اے قائم! میں تجھ سے سوال کرتا ہوں اس نام کے ذریعے جس سے آسمانیں اور زمین روشن ہوئیں، اور اس نام کے ذریعے جس سے اولین اور آخرین ٹھیک ہو گئے۔ اے وہ جو ہر جاندار سے قبل زنده تھا، اور ہر جاندار کے بعد بھی زندہ ہے، اور وہ وقت جب کوئی جاندار نہ تھا، اے مردوں کو زندگی دینے والا اور زندوں کو موت دینے والا، اے زندہ، تیرے سوا کوئی معبود نہیں!",
+        "urdu_text": "اے الله! میں تجھ سے تیرے کریم نام سے، تیرے نورِ منیر چهرے کی روشنی سے، اور تیری قدیم بادشاهی سے سوال کرتا هوں۔ اے زنده، اے قائم! میں تجھ سے سوال کرتا هوں اس نام کے ذریعے جس سے آسمانیں اور زمین روشن هوئیں، اور اس نام کے ذریعے جس سے اولین اور آخرین ٹھیک هو گئے۔ اے وه جو هر جاندار سے قبل زنده تھا، اور هر جاندار کے بعد بھی زنده هے، اور وه وقت جب کوئی جاندار نه تھا، اے مردوں کو زندگی دینے والا اور زندوں کو موت دینے والا، اے زنده، تیرے سوا کوئی معبود نهیں!",
         "persian_text": "خدایا! از تو می‌خواهم به نام کریمت، و به نور چهره تابانت، و به ملک قدیمت. ای زنده، ای پاینده! از تو می‌خواهم به نامی که به واسطه آن آسمان‌ها و زمین‌ها روشن شدند، و به نامی که بزرگی اولیاء و آخریه را اصلاح کرد. ای زنده پیش از هر زنده، و ای زنده بعد از هر زنده، و ای زنده هنگامی که هیچ زنده‌ای نبود، ای زندگان بخش مردگان و مرگ‌آورندگان زندگان، ای زنده که معبودی جز تو نیست!",
         "english_text": "O Allah! I ask You by Your Noble Name, by the light of Your luminous Face, and by Your Ancient Kingdom. O Ever-Living, O Sustainer! I ask You by the Name by which the heavens and earth were illuminated, and by the Name by which the First and the Last are set right. O Ever-Living before every living being, and O Ever-Living after every living being, and O Ever-Living when there was no living being; O Giver of life to the dead and Marker of death for the living; O Ever-Living, there is no deity but You!",
         "transliteration": "Allāhumma innī as’aluka bismika al-karīm wa bi-nūri wajhika al-munīr wa mulkika al-qadīm, yā ḥayyu yā qayyūm. As’aluka bismika alladhī ashraqati bihi as-samāwātu wal-arāḍūn, wa bismika alladhī yaṣluḥu bihi al-awwalūna wal-ākhirūn. Yā ḥayyan qabla kulli ḥayy, wa yā ḥayyan ba‘da kulli ḥayy, wa yā ḥayyan ḥīna lā ḥayy. Yā muḥyī al-mawtā wa mumītu al-aḥyā’, yā ḥayyu lā ilāha illā anta",
@@ -24,7 +24,7 @@ ayats = [
     },
     {
         "arabic_text": "اَللّٰهُمَّ بَلِّغْ مَوْلاَنَا اَلاِمَامَ اَلْهَادِيَ اَلْمَهْدِيَّ اَلْقَائِمَ بِاَمْرِكَ صَلَوَاتُ اَللّٰهِ عَلَيْهِ وَ عَلٰى آبَائِهِ اَلطَّاهِرِيْنَ عَنْ جَمِيْعِ اَلْمُؤْمِنِيْنَ وَ اَلْمُؤْمِنَاتِ فِي مَشَارِقِ اَلاَرْضِ وَ مَغَارِبِهَا سَهْلِهَا وَ جَبَلِهَا وَ بَرِّهَا وَ بَحْرِهَا وَ عَنِّي وَ عَنْ وَالِدَيَّ مِنَ اَلصَّلَوَاتِ زِنَةَ عَرْشِ اَللّٰهِ وَ مِدَادَ كَلِمَاتِهِ وَ مَا اَحْصَاهُ عِلْمُهُ وَ اَحَاطَ بِهِ كِتٰبُهُ",
-        "urdu_text": "اے اللہ! ہمارے مولانا امام ہادی المہدی کو، جو تیرے حکم سے ہے، درود پہنچا، اور ان کے پاک والدین پر بھی۔ تمام مومن مرد و عورت کی طرف سے، مشرق و مغربِ زمین میں، میدانوں اور پہاڑوں میں، خشکی و سمندر میں، اور میری طرف سے اور میرے والدین کی طرف سے — اتنی صلواتیں جتنی تیرے عرش کی زینت ہو، اور اتنی جتنی تیرے الفاظ کی سیاہی ہو، اور جتنی تیرے علم نے گنی ہوں، اور تیری کتاب نے وہ احاطہ کیا ہو۔",
+        "urdu_text": "اے الله! همارے مولانا امام هادی المهدی کو، جو تیرے حکم سے هے، درود پهنچا، اور ان کے پاک والدین پر بھی۔ تمام مومن مرد و عورت کی طرف سے، مشرق و مغربِ زمین میں، میدانوں اور پهاڑوں میں، خشکی و سمندر میں، اور میری طرف سے اور میرے والدین کی طرف سے — اتنی صلواتیں جتنی تیرے عرش کی زینت هو، اور اتنی جتنی تیرے الفاظ کی سیاهی هو، اور جتنی تیرے علم نے گنی هوں، اور تیری کتاب نے وه احاطه کیا هو۔",
         "persian_text": "خدایا! به مولای ما امام هادی المهدی قائم به فرمانت درود برسان، و بر پدران پاکش. از جانب همه مؤمنان و مؤمنات، در شرق و غرب زمین، در دشت‌ها و کوه‌ها، بر خشکی و دریا، و از جانب من و پدر و مادرم — درودی به قدر شکوه عرش تو، و به قدر مداد کلماتت، و به اندازه آنچه علمت شمار کرده و کتابت در بر گرفته است.",
         "english_text": "O Allah! Convey to our master Imam al-Hadi al-Mahdi, who stands by Your command, blessings from Allah upon him and upon his pure forefathers; from all the believing men and women, throughout the East and West of the earth, in its plains and mountains, on its lands and seas, and from me and my parents — blessings matching the splendor of Your Throne, the ink of Your words, and all that Your knowledge has counted and Your Book has encompassed.",
         "transliteration": "Allāhumma balligh mawlānā al-imāma al-hādī al-mahdi al-qā’ima bi-amrika ṣalawātu Allāhi ‘alayhi wa ‘alā ābā’ihi aṭ-ṭāhirīn ‘an jamī‘i al-mu’minīna wal-mu’mināt fī mashāriqi al-arḍi wa maghāribihā sahlihā wa jabalihā wa barrihā wa baḥrihā wa ‘annī wa ‘an wālidayya mina aṣ-ṣalawāti zinata ‘arshi Allāh wa midāda kalimātih wa mā aḥṣāhu ‘ilmuhu wa aḥāṭa bihi kitābuh",
@@ -32,7 +32,7 @@ ayats = [
     },
     {
         "arabic_text": "اَللّٰهُمَّ اِنِّي اُجَدِّدُ لَهُ فِي صَبِيْحَةِ يَوْمِي هٰذَا وَ مَا عِشْتُ مِنْ اَيَّامِي عَهْداً وَ عَقْداً وَ بَيْعَةً لَهُ فِيْ عُنُقِي لَا اَحُوْلُ عنْها وَ لا اَزُوْلُ اَبَداً",
-        "urdu_text": "اے اللہ! میں آج کی صبح اور اپنی ساری زندگی کے دنوں میں اس کے لئے عہد اور عَقد اور بیعت تجدید کرتا ہوں اپنی گردن پر، کبھی اس سے منہ موڑنے والا نہیں، کبھی اسے چھوڑنے والا نہیں۔",
+        "urdu_text": "اے الله! میں آج کی صبح اور اپنی ساری زندگی کے دنوں میں اس کے لئے عهد اور عَقد اور بیعت تجدید کرتا هوں اپنی گردن پر، کبھی اس سے منه موڑنے والا نهیں، کبھی اسے چھوڑنے والا نهیں۔",
         "persian_text": "خدایا! در صبح این روزم و درتمام ایام عمرم، عهد و پیمانی و بیعتی را برای او در گردنم نو می‌کنم، نه هرگز از آن عدول می‌کنم و نه هرگز آن را ترک خواهم کرد.",
         "english_text": "O Allah! This morning and for as long as I live, I renew for him my covenant, my pledge, my allegiance upon my neck; never to deviate from it, never to abandon it, forever.",
         "transliteration": "Allāhumma innī ujaddidu lahu fī ṣabīḥati yawmī hādhā wa mā ‘ishtu min ayyāmī ‘ahdan wa ‘aqdan wa bay‘atan lahu fī ‘unuqī lā aḥūlu ‘anhā wa lā azūlu abadan",
@@ -40,7 +40,7 @@ ayats = [
     },
     {
         "arabic_text": "اَللّٰهُمَّ اَجْعَلْنِي مِنْ اَنْصَارِهِ وَ اَعْوَانِهِ وَ اَلذَّابِّيْنَ عَنْهُ وَ اَلْمُسَارِعِيْنَ اِلَيْهِ فِي قَضَاءِ حَوَائِجِهِ وَ اَلْمُمْتَثِلِيْنَ لاَوَامِرِهِ وَ اَلْمُحَامِيْنَ عَنْهُ وَ اَلسَّابِقِيْنَ اِلٰى اِرَادَتِهِ وَ اَلْمُسْتَشْهَدِيْنَ بَيْنَ يَدَيْهِ",
-        "urdu_text": "اے اللہ! مجھے اس کے (امام مہدی کے) حق میں سے مددگاروں میں شامل کر، اس کے انصار میں، وہ لوگ جو اس کی حمایت کریں، وہ جو اس کی طرف جلدی کریں اس کی ضروریات پورا کرنے میں، وہ جو اس کے احکام پر عمل کریں، وہ جو اس کا دفاع کریں، وہ جو اس کی مرضی میں سبقت لیں، اور وہ جو اس کے سامنے شہید ہوں۔",
+        "urdu_text": "اے الله! مجھے اس کے (امام مهدی کے) حق میں سے مددگاروں میں شامل کر، اس کے انصار میں، وه لوگ جو اس کی حمایت کریں، وه جو اس کی طرف جلدی کریں اس کی ضروریات پورا کرنے میں، وه جو اس کے احکام پر عمل کریں، وه جو اس کا دفاع کریں، وه جو اس کی مرضی میں سبقت لیں، اور وه جو اس کے سامنے شهید هوں۔",
         "persian_text": "خدایا! مرا در زمره یاران او قرار بده، و یارانش، و آنان که از او دفع کنند، و آنان که شتابان به سویش در کارهایش می‌شتابند، و فرمان‌هایش را اطاعت کنند، و مدافع او باشند، و پیشروان در اراده‌اش، و شهیدان پیش از اینکه به او برسند.",
         "english_text": "O Allah! Make me among his supporters, his helpers, those who defend him; those who hasten toward him in fulfilling his needs; those who obey his commands; those who protect him; those who precede in his will; and those who are martyred before his presence.",
         "transliteration": "Allāhumma ij‘alnī min anṣārihi wa a‘wānīhi wa al-dhābbīn ‘anhu wa al-musāri‘īna ilayhi fī qaḍā’i ḥawā’ijihī wa al-mumtathi‘līna li-awāmirihī wa al-muḥāmin ‘anhu wa al-sābiqīna ilā irādatihī wal-mustashhidīna bayna yadayhi",
@@ -48,7 +48,7 @@ ayats = [
     },
     {
         "arabic_text": "اَللّٰهُمَّ اِنْ حَالَ بَيْنِي وَ بَيْنَهُ اَلْمَوْتُ اَلَّذِي جَعَلْتَهُ عَلٰى عِبَادِكَ حَتْماً مَقْضِيّاً فَاَخْرِجْنِي مِنْ قَبْرِي مُؤْتَزِراً كَفَنِي شَاهِراً سَيْفِي مُجَرِّداً قَنَاتِي مُلَبِّياً دَعْوَةَ اَلدَّاعِي فِي اَلْحَاضِرِ وَ اَلْبَادِي",
-        "urdu_text": "اے اللہ! اگر وہ موت جو تُو نے اپنے بندوں پر مقدر و مقرر کر دی ہے میرے اور اس کے درمیان آجائے، تو مجھے قبر سے نکال جب میں کفَنَہ پہنے ہوں، تلوار نکالے ہوئے، بازو عریان، تیغ میری تیار ہو، اور میں تیرے پکارنے والے کی دعوت کی صدا بلند کروں حاضر بھی اور غائب بھی۔",
+        "urdu_text": "اے الله! اگر وه موت جو تُو نے اپنے بندوں پر مقدر و مقرر کر دی هے میرے اور اس کے درمیان آجائے، تو مجھے قبر سے نکال جب میں کفَنَه پهنے هوں، تلوار نکالے هوئے، بازو عریان، تیغ میری تیار هو، اور میں تیرے پکارنے والے کی دعوت کی صدا بلند کروں حاضر بھی اور غائب بھی۔",
         "persian_text": "خدایا! اگر مرگی که تو آن را بنا بر امر مقرر بر بندگانت کرده بین من و او فاصله انداخت، مرا از قبرم بیرون بیاور در حالی که کفنم آماده، شمشیرم آشکار، بازوم عریان، و پاسخ‌دهنده به دعوت‌کننده در حضر و بادی باشم.",
         "english_text": "O Allah! If the death which You have made inevitable upon Your servants comes between me and him, then bring me forth from my grave wrapped in my shroud, unsheathe my sword, my arm unveiled, answering the call of the Caller in the present and the absent places.",
         "transliteration": "Allāhumma inḥāla baynī wa baynahu al-mawtu alladhī ja‘altahu ‘alā ‘ibādika ḥattman maqḍiyyan fa-akh’rijnī min qabri mu’taziran kafanī shāhiran sayfī mujarradan qanātī mulabbiyan da‘wata ad-dā‘ī fī al-ḥāḍiri wal-bādi",
@@ -56,7 +56,7 @@ ayats = [
     },
     {
         "arabic_text": "اَللّٰهُمَّ اَرِنِي اَلطَّلْعَةَ اَلرَّشِيدَةَ وَ اَلْغُرَّةَ اَلْحَمِيدَةَ وَ اَكْحُلْ نَاظِرِي بِنَظْرَةٍ مِنِّي اِلَيْهِ وَ عَجِّلْ فَرَجَهُ وَ سَهِّلْ مَخْرَجَهُ وَ اَوْسِعْ مَنْهَجَهُ وَ اَسْلُكْ بِي مَحَجَّتَهُ وَ اَنْفِذْ اَمْرَهُ وَ اَشْدُدْ اَزْرَهُ",
-        "urdu_text": "اے اللہ! مجھے اُس روشن ظہور کو دکھا جس میں اصلاح ہو، اور اُس مُبارک پیشانی کو، میری نظر کو اُس کی طرف نظریں اُٹھا دے، اور اس کا فرج جلد کر دے، اور اس کا مخرج آسان فرما، اور اس کا طریقہ وسیع کرو، اور مجھے اس کی راہ دکھا، اور اس کا امر پورا فرما، اور اس کی پشت کو مضبوط کر دے۔",
+        "urdu_text": "اے الله! مجھے اُس روشن ظهور کو دکھا جس میں اصلاح هو، اور اُس مُبارک پیشانی کو، میری نظر کو اُس کی طرف نظریں اُٹھا دے، اور اس کا فرج جلد کر دے، اور اس کا مخرج آسان فرما، اور اس کا طریقه وسیع کرو، اور مجھے اس کی راه دکھا، اور اس کا امر پورا فرما، اور اس کی پشت کو مضبوط کر دے۔",
         "persian_text": "خدایا! ظهور رشید را به من نشان بده و پیشانی حمیده را، دیدگانم را نسبت به او روشن کن، فرجش را نزدیک ساز، خروجش را آسان کن، مسیرش را گسترش ده، مرا به مسیر او هدایت کن، امرش را ادا فرما، و پشتش را مستحکم ساز.",
         "english_text": "O Allah! Show me his auspicious emergence, and his glorious countenance; enlighten my eyes toward him; hasten his relief; make his coming easy; widen his path; include me in his route; fulfill his command; strengthen his support.",
         "transliteration": "Allāhumma arinī aṭ-ṭal‘ata ar-rashīdah wal-ghurrata al-ḥamīdah, wa akḥul nāẓirī binaẓratan minnī ilayhi, wa ‘ajjil farajah, wa sahhil makhrajah, wa awsi‘ minhajah, wa sluk bī maḥjatah, wa anfidh amrah, wa shudd azrah",
@@ -64,7 +64,7 @@ ayats = [
     },
     {
         "arabic_text": "وَ اَعْمُرِ اَللّٰهُمَّ بِهِ بِلادَكَ وَ اَحْيِ بِهِ عِبَادَكَ فَاِنَّكَ قُلْتَ وَ قَوْلُكَ   اَلْحَقُّ  ظَهَرَ اَلْفَسَادُ فِي اَلْبَرِّ وَ اَلْبَحْرِ بِمَا كَسَبَتْ اَيْدِي اَلنَّاسِ",
-        "urdu_text": "اور اے اللہ! تیری سرزمینوں کو اس کے توسط سے آباد کر، اور اپنے بندوں کو اس کے ذریعے زندگی بخش، کیونکہ تُو نے فرمایا — اور تیرا کلام حق ہے — “فساد نے خشکیوں اور سمندر میں ظاہر ہو گیا ہے انسانوں کے ہاتھوں سے جو انہوں نے کمایا ہے۔”",
+        "urdu_text": "اور اے الله! تیری سرزمینوں کو اس کے توسط سے آباد کر، اور اپنے بندوں کو اس کے ذریعے زندگی بخش، کیونکه تُو نے فرمایا — اور تیرا کلام حق هے — “فساد نے خشکیوں اور سمندر میں ظاهر هو گیا هے انسانوں کے هاتھوں سے جو انهوں نے کمایا هے۔”",
         "persian_text": "و خدایا! به وسیله او سرزمین‌های خود را آباد کن و بندگانت را حیاتی بخش، زیرا تو گفته‌ای — و گفتارت حق است —: «فساد در خشکی و دریا ظاهر شده است به سبب آنچه دستهای مردم به دست آورده‌اند.»",
         "english_text": "And O Allah! Through him renew Your lands, and revive by him Your servants; for You have said — and Your Word is true —: “Corruption has appeared on land and sea by what the hands of mankind have earned.”",
         "transliteration": "Wa a‘mur Allāhumma bihi bilādaka wa aḥyī bihi ‘ibādaka fa-innaka qulta wa qawluka al-ḥaqq: “ẓahara al-fasādu fī al-barr wa al-baḥr bimā kasabat ayyidatun-nās”",
@@ -72,7 +72,7 @@ ayats = [
     },
     {
         "arabic_text": "فَاَظْهِرِ اَللّٰهُمَّ لَنَا وَ لِيَّكَ وَ ابْنَ بِنْتِ نَبِيِكَ اَلْمُسَمّٰى بِاَسْمِ رَسُولِكَ صَلَّى اَللّٰهُ عَلَيْهِ وَ آلِهِ حَتّٰى لا يَظْفَرَ بِشَيْءٍ مِنَ اَلْبَاطِلِ اِلاَّ مَزَّقَهُ وَ يُحِقُّ اَلْحَقَّ وَ يُحَقِّقَهُ وَ اَجْعَلْهُ",
-        "urdu_text": "پس اے اللہ! ہمارے ولی کو، اور اپنے نبی کی بیٹی کے بیٹے کو جو تیرے رسول کے نام سے موسوم ہو، ظاہر فرما — اللہ تعالیٰ اس پر اور اس کے اہلِ بیت پر رحمت ہو — یہاں تک کہ وہ باطل کا کوئی بھی حصہ نہ باقی رہے مگر وہ اُسے جھڑ دے، اور سچ کو سچ ثابت کرے، اور اسے حقیقت میں لائے، اور اسے بنادے (اس عظمت و اقتدار میں).",
+        "urdu_text": "پس اے الله! همارے ولی کو، اور اپنے نبی کی بیٹی کے بیٹے کو جو تیرے رسول کے نام سے موسوم هو، ظاهر فرما — الله تعالیٰ اس پر اور اس کے اهلِ بیت پر رحمت هو — یهاں تک که وه باطل کا کوئی بھی حصه نه باقی رهے مگر وه اُسے جھڑ دے، اور سچ کو سچ ثابت کرے، اور اسے حقیقت میں لائے، اور اسے بنادے (اس عظمت و اقتدار میں).",
         "persian_text": "پس خدایا! ولیّت و سلطان خود را و فرزند دختر پیامبرت که به نام رسولت نامیده شده است، برای ما آشکار ساز — رحمت خدا بر او و خاندانش — تا آنکه هیچ بخشی از باطل باقی نماند مگر اینکه فروپاشد، و حق را محقق کند و تحقق دهنده آن باشد، و او را قرار ده (در جایگاه والا).",
         "english_text": "So O Allah! Manifest for us Your guardian and the son of Your Prophet’s daughter named with the name of Your Messenger — peace and blessings upon him and his family — until no part of falsehood remains except that You tear it apart, and You establish the truth and make it prevail, and appoint him (himself) (in that high rank).",
         "transliteration": "Fa-azhir Allāhumma lanā waliyyaka wa ibn binti nabiyyika al-musammā bismi rasūlika ṣallā Allāhu ‘alayhi wa ālihi ḥattā lā yaẓfara bishay’in mina al-bāṭili illā mazzaqahu wa yuḥiqq al-ḥaqqa wa yuḥaqqiqahu wa ij‘alhu",
@@ -80,7 +80,7 @@ ayats = [
     },
     {
         "arabic_text": "اَللّٰهُمَّ مَفْزَعاً لِمَظْلُومِ عِبَادِكَ وَ نَاصِراً لِمَنْ لا يَجِدُ لَهُ نَاصِراً غَيْرَكَ وَ مُجَدِّداً لِمَا عُطِّلَ مِنْ اَحْكَامِ كِتٰبِكَ وَ مُشَيِّداً لِمَا وَرَدَ مِنْ اَعْلامِ دِينِكَ وَ سُنَنِ نَبِيِّكَ صَلَّى اَللّٰهُ عَلَيْهِ و آلِهِ وَاَجْعَلْهُ",
-        "urdu_text": "اے اللہ! مظلوم بندوں کا پناہ گاہ اور اس کے لیے مددگار ہو جو تیری ذات کے سوا کسی مددگار کو نہ پائے، اور تجدید کرنے والا ہو ان احکام کی جو تیرے کتاب میں ملتوی ہو گئے ہیں، اور مضبوط کرنے والا ہو ان نشانوں، دین کی علامتوں اور سنتِ نبی کی بنیادوں کو — اللہ کے نبی پر اور ان کے اہلِ بیت پر درود ہو — اور اسے بنادے (تقدیر کر دے).",
+        "urdu_text": "اے الله! مظلوم بندوں کا پناه گاه اور اس کے لیے مددگار هو جو تیری ذات کے سوا کسی مددگار کو نه پائے، اور تجدید کرنے والا هو ان احکام کی جو تیرے کتاب میں ملتوی هو گئے هیں، اور مضبوط کرنے والا هو ان نشانوں، دین کی علامتوں اور سنتِ نبی کی بنیادوں کو — الله کے نبی پر اور ان کے اهلِ بیت پر درود هو — اور اسے بنادے (تقدیر کر دے).",
         "persian_text": "خدایا! پناهگاهی برای بندگان مظلوم و یاری‌دهنده برای کسی که یار غیر تو ندارد، و تجدیدکننده برای احکامی که تعطیل شده‌اند از کتابت، و تحکیم‌کننده برای علائم دینت و سنن پیغمبرت، صلّى الله علیه و‌آله، و آن را بنا ساز.",
         "english_text": "O Allah! Shelter for Your oppressed servants; Helper for him who finds no helper other than You; Restorer of that which has been suspended from the rulings of Your Book; Upholder of the signs of Your religion and the traditions of Your Prophet — peace and blessings upon him and his family — and make him (standing in that position).",
         "transliteration": "Allāhumma mafza‘an limazḥlūmi ‘ibādika, wa nāṣiran liman lā yajidu lahu nāṣiran ghayraka, wa mujaddidan limā ‘uṭṭila min aḥkāmi kitābika, wa mushayyidan limā warada min a‘lāmi dīnuka wa sunani nabiyyika ṣallā Allāhu ‘alayhi wa ālihi, wa ij‘alhu",
@@ -88,7 +88,7 @@ ayats = [
     },
     {
         "arabic_text": "اَللّٰهُمَّ مِمَّنْ حَصَّنْتَهُ مِنْ بَاُسِ اَلْمُعْتَدِيْنَ",
-        "urdu_text": "اے اللہ! اسے بنا ان میں سے جو تو نے محفوظ رکھا ہو ظالم حملہ آوروں کی شدت سے،",
+        "urdu_text": "اے الله! اسے بنا ان میں سے جو تو نے محفوظ رکھا هو ظالم حمله آوروں کی شدت سے،",
         "persian_text": "خدایا! او را از کسانی قرار ده که از سختی تجاوزگران محفوظشان داشته‌ای،",
         "english_text": "O Allah! Make him of those whom You protect from the onslaught of the aggressors,",
         "transliteration": "Allāhumma mimman ḥassanat-tahu min ba’si al-mu‘taḍīn",
@@ -96,7 +96,7 @@ ayats = [
     },
     {
         "arabic_text": "اَللّٰهُمَّ وَ سُرَّ نَبِيَّكَ مُحَمَّداً صَلَّى اَللّٰهُ عَلَيْهِ و آلِهِ بِرُؤْيَتِهِ وَ مَنْ تَبِعَهُ عَلٰى دَعْوَتِهِ وَ اَرْحَمِ اَسْتِكَانَتَنَا بَعْدَهُ",
-        "urdu_text": "اے اللہ! اپنے نبی محمد ﷺ کو خوشی دے اس کی نظر سے اور جو اس کی دعوت پر چلیں، اور رحم فرما ہماری سکونت کو اس کے بعد،",
+        "urdu_text": "اے الله! اپنے نبی محمد ﷺ کو خوشی دے اس کی نظر سے اور جو اس کی دعوت پر چلیں، اور رحم فرما هماری سکونت کو اس کے بعد،",
         "persian_text": "خدایا! پیامبرت محمد صلی الله علیه و آله را به دیدارش شاد کن و هر که از دعوتش پیروی کند، و بر آرامی ما پس از او رحم کن.",
         "english_text": "O Allah! Give gladness to Your Prophet Muhammad ﷺ by sight of him, and to whoever follows him by his invitation, and have mercy on our tranquility after him.",
         "transliteration": "Allāhumma wasurr nabīyya-ka Muḥammadan ṣallā Allāhu ‘alayhi wa ālihi bi-ru’yatihi wa man taba‘ahu ‘alā da‘watihi, wa urḥam istikānatana ba‘dahu",
@@ -104,7 +104,7 @@ ayats = [
     },
     {
         "arabic_text": "اَللّٰهُمَّ اَكْشِفْ هٰذِهِ اَلْغُمَّةَ عَنْ هٰذِهِ اَلاُمَّةِ بِحُضُورِهِ وَ عَجِّلْ لَنَا ظُهُورَهُ اِنَّهُمْ يَرَوْنَهُ بَعِيداً وَ نَرَاهُ قَرِيباً بِرَحْمَتِكَ يَا اَرْحَمَ اَلرَّاحِمِيْنَ",
-        "urdu_text": "اے اللہ! اس اُبھری ہوئی تاریکی کو اس امت سے دور فرما اُس کی حاضری کے ذریعے، اور ہمیں ظہور اس کا جلد نصیب فرما — “بے شک وہ اسے دور دیکھتے ہیں اور ہم اسے قریب پاتے ہیں.” تیری رحمت سے اے سب سے زیادہ رحم کرنے والاآ",
+        "urdu_text": "اے الله! اس اُبھری هوئی تاریکی کو اس امت سے دور فرما اُس کی حاضری کے ذریعے، اور همیں ظهور اس کا جلد نصیب فرما — “بے شک وه اسے دور دیکھتے هیں اور هم اسے قریب پاتے هیں.” تیری رحمت سے اے سب سے زیاده رحم کرنے والاآ",
         "persian_text": "خدایا! این تاریکی را از این امت برطرف کن به حضور او، و ظهورش را برای ما نزدیک ساز — «آنان او را دور می‌بینند و ما او را نزدیک می‌دانیم.» — به رحمت تو ای مهربان‌ترین مهربانان!",
         "english_text": "O Allah! Remove this darkness from this Ummah by his presence, and hasten for us his reappearance — “Indeed they see him distant, and We see him near.” By Your mercy, O Most Merciful of those who show mercy.",
         "transliteration": "Allāhumma ikshif hādhihi al-ghummata ‘an hādhihi al-ummah bi-ḥuḍūrihī wa ‘ajjil lanā ẓuhūrَهُ «innahum yarawnahu ba‘īdan wa narāhu qarīban.» bi-raḥmatika yā arḥama ar-rāḥimīn",

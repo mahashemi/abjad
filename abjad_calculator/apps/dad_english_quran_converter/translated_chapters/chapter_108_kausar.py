@@ -10,7 +10,7 @@ ayats = [
     "verse_number": 1,
     "english_text": "Verily, We bestow upon you Kausar.",
     "arabic_text": "اِنَّا اَعْطَيْنٰكَ الْكَوْثَرَ",
-    "urdu_text": "بیشک ہم نے آپ کو کوثر عطا فرمایا",
+    "urdu_text": "بیشک هم نے آپ کو کوثر عطا فرمایا",
     "persian_text": "به راستی که ما به تو کوثر عطا کردیم",
     "transliteration": "Inna a'taynaka al-kawthar"
   },
@@ -26,7 +26,7 @@ ayats = [
     "verse_number": 3,
     "english_text": "Certainly, your enemy will remain childless.",
     "arabic_text": "اِنَّ شَانِئَكَ هُوَ الْاَبْتَرُ",
-    "urdu_text": "بیشک آپ کا دشمن ہی بے اولاد اور بے نام و نشان ہے",
+    "urdu_text": "بیشک آپ کا دشمن هی بے اولاد اور بے نام و نشان هے",
     "persian_text": "به راستی که دشمن تو خود بی‌نام و نشان است",
     "transliteration": "Inna shani'aka huwa al-abtar"
   }

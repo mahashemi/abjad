@@ -10,7 +10,7 @@ ayats = [
     "verse_number": 1,
     "english_text": "Destruction to every taunter and backbiter.",
     "arabic_text": "وَيْلٌ لِكُلِّ هُمَزَةٍ لُمَزَةٍ",
-    "urdu_text": "ہلاکت ہے ہر طعنہ زن اور عیب جو کے لیے",
+    "urdu_text": "هلاکت هے هر طعنه زن اور عیب جو کے لیے",
     "persian_text": "وای بر هر کسی که طعنه می‌زند و عیب‌جویی می‌کند",
     "transliteration": "Waylul likulli humazatil lumazah"
   },
@@ -26,7 +26,7 @@ ayats = [
     "verse_number": 3,
     "english_text": "He thought this wealth will make him immortal.",
     "arabic_text": "يَحْسَبُ اَنَّ مَالَهُٓ اَخْلَدَهُ",
-    "urdu_text": "وہ سمجھتا ہے کہ اس کا مال اسے ہمیشہ زندہ رکھے گا",
+    "urdu_text": "وه سمجھتا هے که اس کا مال اسے همیشه زنده رکھے گا",
     "persian_text": "گمان می‌کند که مالش او را جاودانه خواهد کرد",
     "transliteration": "Yahsabu anna malahu akhladah"
   },
@@ -34,7 +34,7 @@ ayats = [
     "verse_number": 4,
     "english_text": "No way, he will verily be thrown in \"Hutamah\".",
     "arabic_text": "كَلَّا لَيُنْبَذَنَّ فِي الْحُطَمَةِ",
-    "urdu_text": "ہرگز نہیں، وہ ضرور حطمہ میں پھینک دیا جائے گا",
+    "urdu_text": "هرگز نهیں، وه ضرور حطمه میں پھینک دیا جائے گا",
     "persian_text": "هرگز چنین نیست، او قطعاً در حُطَمه افکنده خواهد شد",
     "transliteration": "Kalla layunbadhanna fil hutamah"
   },
@@ -42,7 +42,7 @@ ayats = [
     "verse_number": 5,
     "english_text": "And what do you know what \"Hutamah\" is?",
     "arabic_text": "وَ مَآ اَدْرٰكَ مَا الْحُطَمَةُ",
-    "urdu_text": "اور تم کیا جانو کہ حطمہ کیا ہے؟",
+    "urdu_text": "اور تم کیا جانو که حطمه کیا هے؟",
     "persian_text": "و تو چه می‌دانی که حُطَمه چیست؟",
     "transliteration": "Wa ma adraka mal hutamah"
   },
@@ -50,7 +50,7 @@ ayats = [
     "verse_number": 6,
     "english_text": "It is the fire kindled by Allah.",
     "arabic_text": "نَارُ اللّٰهِ الْمُوقَدَةُ",
-    "urdu_text": "یہ اللہ کی بھڑکائی ہوئی آگ ہے",
+    "urdu_text": "یه الله کی بھڑکائی هوئی آگ هے",
     "persian_text": "آتشی است که خداوند برافروخته است",
     "transliteration": "Narul-laahil-mooqadah"
   },
@@ -66,7 +66,7 @@ ayats = [
     "verse_number": 8,
     "english_text": "That fire will encircle them from above.",
     "arabic_text": "اِنَّهَا عَلَيْهِمْ مُؤْصَدَةٌ",
-    "urdu_text": "بیشک وہ ان پر بند کر دی جائے گی",
+    "urdu_text": "بیشک وه ان پر بند کر دی جائے گی",
     "persian_text": "همانا آن آتش بر آنان فرو بسته خواهد شد",
     "transliteration": "Innahaa 'alayhim mu'sadah"
   },
