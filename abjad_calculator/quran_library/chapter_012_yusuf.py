@@ -146,7 +146,7 @@ ayats = [
   {
     "verse_number": 19,
     "english_text": "There comes a caravan and they sent their watercarrier to fetch water, he let down the bucket (in the well) and Yusuf sat in it, when he pulled it up he shouted wow there is a boy (in it), and they concealed Yusuf as a valuable investment, and Allah knew whatever they were doing.",
-    "arabic_text": "وَجَاءَتْ سَيَّارَةٌ فَاَرْسَلُوا وَارِدَهُمْ فَاَدْلَىٰ دَلْوَهُ ۖ قَالَ يَا بُشْرَىٰ هَٰذَا غُلَامٌ ۚ وَاَسَرُّوهُ بِضَاعَةً ۚ وَاللَّهُ عَلِيمٌ بِمَا يَعْمَلُونَ",
+    "arabic_text": "وَجَآءَتْ سَيَّارَةٌ فَاَرْسَلُوا وَارِدَهُمْ فَاَدْلَىٰ دَلْوَهُ ۖ قَالَ يَا بُشْرَىٰ هَٰذَا غُلَامٌ ۚ وَاَسَرُّوهُ بِضَاعَةً ۚ وَاللَّهُ عَلِيمٌ بِمَا يَعْمَلُونَ",
     "urdu_text": "اور ایک قافلہ آیا تو انہوں نے اپنا پانی بھرنے والا بھیجا، اس نے اپنا ڈول کنویں میں ڈالا، اس نے کہا: خوشخبری ہو! یہ تو ایک لڑکا ہے، اور انہوں نے اسے تجارتی سامان کے طور پر چھپا لیا، اور اللہ جانتا تھا جو وہ کر رہے تھے",
     "persian_text": "و کاروانی آمد و آب‌کش خود را فرستادند، پس دلو خود را فرو افکند، گفت: ای مژده! این پسری است، و او را به عنوان کالایی پنهان کردند، و خداوند به آنچه انجام می‌دهند داناست",
     "transliteration": "Wa jaa'at sayyaaratun fa arsaloo waaridahum fa adlaa dalwahu qaala yaa bushraa haadha ghulaam, wa asarroohu bidaa'ah, wallaahu 'aleemun bimaa ya'maloon",
@@ -394,7 +394,7 @@ ayats = [
   {
     "verse_number": 50,
     "english_text": "On hearing this interpretation, the king ordered to present Yusuf to him; when the messenger came to Yusuf (again), Yusuf said: you go to your master and ask him whether he knew something about the ladies who had cut their hands. (did I desired for them or they desired for me), no doubt that my Lord was well aware of their guile.",
-    "arabic_text": "وَقَالَ الْمَلِكُ ائْتُونِي بِهِ ۖ فَلَمَّا جَاءَهُ الرَّسُولُ قَالَ ارْجِعْ اِلَىٰ رَبِّكَ فَسْاَلْهُ مَا بَالُ النِّسْوَةِ الَّاتِي قَطَّعْنَ اَيْدِيَهُنَّ ۚ اِنَّ رَبِّي بِكَيْدِهِنَّ عَلِيمٌ",
+    "arabic_text": "وَقَالَ الْمَلِكُ ائْتُونِي بِهِ ۖ فَلَمَّا جَآءَهُ الرَّسُولُ قَالَ ارْجِعْ اِلَىٰ رَبِّكَ فَسْاَلْهُ مَا بَالُ النِّسْوَةِ الَّاتِي قَطَّعْنَ اَيْدِيَهُنَّ ۚ اِنَّ رَبِّي بِكَيْدِهِنَّ عَلِيمٌ",
     "urdu_text": "اور بادشاہ نے کہا: اسے میرے پاس لاؤ۔ پھر جب قاصد اس کے پاس آیا تو یوسف نے کہا: اپنے آقا کے پاس واپس جاؤ اور اس سے پوچھو کہ ان عورتوں کا کیا معاملہ تھا جنہوں نے اپنے ہاتھ کاٹ لیے تھے۔ بے شک میرا رب ان کی چال سے خوب واقف ہے۔",
     "persian_text": "و پادشاه گفت: او را نزد من بیاورید. پس چون فرستاده نزد او آمد، یوسف گفت: نزد آقایت بازگرد و از او بپرس که ماجرای آن زنانی که دستهای خود را بریدند چه بود؟ همانا پروردگار من به مکر آنان داناست.",
     "transliteration": "Wa qaalal-maliku'toonee bihi falammaa jaaa'ahur-rasoolu qaalar-ji' ilaa rabbika fas'alhu maa baalun-niswatil-laatee qatta'na aydiyahunna inna rabbee bikaydi hinna 'aleem",
@@ -458,7 +458,7 @@ ayats = [
   {
     "verse_number": 58,
     "english_text": "(Since there was drought in Kanaan also) When (step) brothers of Yusuf came to Egypt to purchase grain, he recognized them, but they could not recognize him.",
-    "arabic_text": "وَجَاءَ اِخْوَةُ يُوسُفَ فَدَخَلُوا عَلَيْهِ فَعَرَفَهُمْ وَهُمْ لَهُ مُنكِرُونَ",
+    "arabic_text": "وَجَآءَ اِخْوَةُ يُوسُفَ فَدَخَلُوا عَلَيْهِ فَعَرَفَهُمْ وَهُمْ لَهُ مُنكِرُونَ",
     "urdu_text": "اور یوسف کے بھائی آئے اور ان کے پاس داخل ہوئے تو یوسف نے انہیں پہچان لیا لیکن وہ انہیں نہ پہچان سکے۔",
     "persian_text": "و برادران یوسف آمدند و بر او وارد شدند، پس او آنان را شناخت در حالی که آنان او را نشناختند.",
     "transliteration": "Wa ja'a ikhwatu Yusufa fadakhalu 'alayhi fa'arafahum wa hum lahu munkiroon",
@@ -570,7 +570,7 @@ ayats = [
   {
     "verse_number": 72,
     "english_text": "They said: we are not finding a bowl of the king, and I am responsible that whoever will bring that bowl I will give him a camel-load (of grain) as reward.",
-    "arabic_text": "قَالُوْا نَفْقِدُ صُوَاعَ الْمَلِكِ وَلِمَن جَاءَ بِهِ حِمْلُ بَعِيرٍ وَ اَنَا بِهِ زَعِيمٌ",
+    "arabic_text": "قَالُوْا نَفْقِدُ صُوَاعَ الْمَلِكِ وَلِمَن جَآءَ بِهِ حِمْلُ بَعِيرٍ وَ اَنَا بِهِ زَعِيمٌ",
     "urdu_text": "انہوں نے کہا: ہم بادشاہ کا پیمانہ نہیں پا رہے، اور جو اسے لائے گا اس کے لیے ایک اونٹ کا بوجھ انعام ہے، اور میں اس کا ذمہ دار ہوں۔",
     "persian_text": "گفتند: پیمانه پادشاه را گم کرده‌ایم و برای کسی که آن را بیاورد یک بار شتر پاداش است و من ضامن آن هستم.",
     "transliteration": "Qaaloo nafqidu suwaa'al maliki wa liman jaa'a bihee himlu ba'eerin wa ana bihee za'eem",
@@ -762,7 +762,7 @@ ayats = [
   {
     "verse_number": 96,
     "english_text": "Then came the giver of good news, and put the shirt on his face, and Yaqoob immediately regained his eyesight; then Yaqoob told his sons: did not I was saying whatever matter I know from Allah, you don't know.",
-    "arabic_text": "فَلَمَّا اَن جَاءَ الْبَشِيرُ اَلْقَاهُ عَلَىٰ وَجْهِهِ فَارْتَدَّ بَصِيرًا ۖ قَالَ اَلَمْ اَقُل لَّكُمْ اِنِّي اَعْلَمُ مِنَ اللَّهِ مَا لَا تَعْلَمُونَ",
+    "arabic_text": "فَلَمَّا اَن جَآءَ الْبَشِيرُ اَلْقَاهُ عَلَىٰ وَجْهِهِ فَارْتَدَّ بَصِيرًا ۖ قَالَ اَلَمْ اَقُل لَّكُمْ اِنِّي اَعْلَمُ مِنَ اللَّهِ مَا لَا تَعْلَمُونَ",
     "urdu_text": "پھر جب خوشخبری دینے والا آیا تو اس نے وہ قمیض ان کے چہرے پر ڈال دی، تو فوراً ان کی بینائی لوٹ آئی، یعقوب نے کہا: کیا میں نے تم سے نہیں کہا تھا کہ میں اللہ کی طرف سے وہ باتیں جانتا ہوں جو تم نہیں جانتے۔",
     "persian_text": "پس چون مژده‌آور آمد، پیراهن را بر چهره‌اش افکند و بینایی‌اش بازگشت، گفت: آیا به شما نگفتم که من از جانب خدا چیزهایی می‌دانم که شما نمی‌دانید؟",
     "transliteration": "Falamma an jaa'al-basheeru alqahu 'ala wajhihi fartadda baseeran qala alam aqul lakum inni a'lamu minal-lahi ma la ta'lamoon",
@@ -794,7 +794,7 @@ ayats = [
   {
     "verse_number": 100,
     "english_text": "Finally he made them sit on the throne, and they all fell in prostration before him in his honor, he said, O father, this is the interpretation (of my dream) which my Lord has made it come true; Verily He did do favor to me, when He delivered me from prison, in spite of Satan created mischief between me and my brothers, He brought you people from village (to me in the town); Verily my Lord plans well for whatever He pleases to do; indeed, He is Knowing and Wise.",
-    "arabic_text": "وَرَفَعَ اَبَوَيْهِ عَلَى الْعَرْشِ وَخَرُّوا لَهُ سُجَّدًا ۖ وَقَالَ يَا اَبَتِ هَٰذَا تَاْوِيلُ رُؤْيَايَ مِن قَبْلُ ۖ قَدْ جَعَلَهَا رَبِّي حَقًّا ۖ وَ قَدْ اَحْسَنَ بِي اِذْ اَخْرَجَنِي مِنَ السِّجْنِ وَجَاءَ بِكُم مِّنَ الْبَدْوِ مِن بَعْدِ اَن نَّزَغَ الشَّيْطَانُ بَيْنِي وَبَيْنَ اِخْوَتِي ۚ اِنَّ رَبِّي لَطِيفٌ لِّمَا يَشَاءُ ۚ اِنَّهُ هُوَ الْعَلِيمُ الْحَكِيمُ",
+    "arabic_text": "وَرَفَعَ اَبَوَيْهِ عَلَى الْعَرْشِ وَخَرُّوا لَهُ سُجَّدًا ۖ وَقَالَ يَا اَبَتِ هَٰذَا تَاْوِيلُ رُؤْيَايَ مِن قَبْلُ ۖ قَدْ جَعَلَهَا رَبِّي حَقًّا ۖ وَ قَدْ اَحْسَنَ بِي اِذْ اَخْرَجَنِي مِنَ السِّجْنِ وَجَآءَ بِكُم مِّنَ الْبَدْوِ مِن بَعْدِ اَن نَّزَغَ الشَّيْطَانُ بَيْنِي وَبَيْنَ اِخْوَتِي ۚ اِنَّ رَبِّي لَطِيفٌ لِّمَا يَشَاءُ ۚ اِنَّهُ هُوَ الْعَلِيمُ الْحَكِيمُ",
     "urdu_text": "اور انہوں نے اپنے والدین کو تخت پر بٹھایا اور سب اس کے سامنے سجدے میں گر پڑے، یوسف نے کہا: اے میرے باپ! یہ میرے پہلے خواب کی تعبیر ہے، میرے رب نے اسے سچ کر دکھایا، اور اس نے مجھ پر احسان کیا جب مجھے قید سے نکالا اور آپ سب کو دیہات سے یہاں لے آیا، اس کے بعد کہ شیطان نے میرے اور میرے بھائیوں کے درمیان فساد ڈال دیا تھا، بیشک میرا رب جو چاہتا ہے اس میں لطف و کرم فرماتا ہے، بیشک وہی جاننے والا حکمت والا ہے۔",
     "persian_text": "و پدر و مادرش را بر تخت نشاند و همه به احترام او به سجده افتادند، گفت: ای پدر! این تعبیر خواب پیشین من است که پروردگارم آن را حقیقت بخشید، و به من احسان کرد چون مرا از زندان بیرون آورد و شما را از بادیه آورد، پس از آنکه شیطان میان من و برادرانم فتنه انداخت، همانا پروردگارم در هر چه بخواهد لطف می‌کند، بی‌گمان او داناست حکیم.",
     "transliteration": "Wa rafa'a abawayhi 'alal-'arshi wa kharru lahu sujjadan wa qala ya abati hadha ta'weelu ru'yaya min qablu qad ja'alaha rabbi haqqan wa qad ahsana bi idh akhrajani minas-sijni wa jaa'a bikum minal-badwi min ba'di an nazagha ash-shaytanu bayni wa bayna ikhwati inna rabbi lateeful lima yashaa'u innahu huwal-'aleemul-hakeem",
@@ -874,7 +874,7 @@ ayats = [
   {
     "verse_number": 110,
     "english_text": "(Earlier messengers propagated so much) that when they were disappointed (because people didn't believe them) and they understood that they have been denied, Our help reached them; and We delivered whosoever We pleased; and Our punishment cannot be averted from the sinners.",
-    "arabic_text": "حَتَّىٰ اِذَا اسْتَيْاَسَ الرُّسُلُ وَظَنُّوا اَنَّهُمْ قَدْ كُذِبُوا جَاءَهُمْ نَصْرُنَا فَنُجِّيَ مَن نَّشَاءُ ۖ وَ لَا يُرَدُّ بَاْسُنَا عَنِ الْقَوْمِ الْمُجْرِمِينَ",
+    "arabic_text": "حَتَّىٰ اِذَا اسْتَيْاَسَ الرُّسُلُ وَظَنُّوا اَنَّهُمْ قَدْ كُذِبُوا جَآءَهُمْ نَصْرُنَا فَنُجِّيَ مَن نَّشَاءُ ۖ وَ لَا يُرَدُّ بَاْسُنَا عَنِ الْقَوْمِ الْمُجْرِمِينَ",
     "urdu_text": "یہاں تک کہ جب رسول مایوس ہو گئے اور انہوں نے سمجھ لیا کہ ان کو جھٹلایا جا چکا ہے تو ان کے پاس ہماری مدد آ پہنچی، پھر ہم نے جسے چاہا نجات دے دی، اور ہمارا عذاب مجرم قوم سے ٹل نہیں سکتا",
     "persian_text": "تا آنگاه که پیامبران نومید شدند و پنداشتند که تکذیب شده‌اند، یاری ما به آنان رسید و هر که را خواستیم نجات دادیم، و عذاب ما از قوم مجرمان باز نمی‌گردد",
     "transliteration": "Hatta idhas-tay'asar-rusulu wa zannoo annahum qad kudhiboo ja'ahum nasruna fanujjiya man nashaa'u wa la yuraddu ba'suna 'anil-qawmil-mujrimeen",

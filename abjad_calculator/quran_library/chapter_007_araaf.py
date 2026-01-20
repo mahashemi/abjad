@@ -498,7 +498,7 @@ ayats = [
   {
     "verse_number": 63,
     "english_text": "And, do you wonder that command of Allah has come to you through a male from among you to warn you from the punishment of your Lord so you become pious and so that Mercy may be shown to you.",
-    "arabic_text": "اَوَعَجِبْتُمْ اَنْ جَاءَكُمْ ذِكْرٌ مِّنْ رَبِّكُمْ عَلَٰى رَجُلٍ مِّنْكُمْ لِيُنْذِرَكُمْ وَ لِتَتَّقُوا وَ لَعَلَّكُمْ تُرْحَمُوْنَ",
+    "arabic_text": "اَوَعَجِبْتُمْ اَنْ جَآءَكُمْ ذِكْرٌ مِّنْ رَبِّكُمْ عَلَٰى رَجُلٍ مِّنْكُمْ لِيُنْذِرَكُمْ وَ لِتَتَّقُوا وَ لَعَلَّكُمْ تُرْحَمُوْنَ",
     "urdu_text": "کیا تمہیں تعجب ہے کہ تمہارے رب کی طرف سے نصیحت تم میں سے ایک آدمی کے ذریعے تمہارے پاس آئی تاکہ وہ تمہیں ڈرائے اور تاکہ تم پرہیزگار بنو اور تاکہ تم پر رحم کیا جائے",
     "persian_text": "آیا تعجب می‌کنید که یادآوری از جانب پروردگارتان به وسیله مردی از خودتان برای شما آمده است تا شما را بیم دهد و تا پرهیزگار شوید و شاید مورد رحمت قرار گیرید",
     "transliteration": "Awa'ajibtum an jaa'akum zikrun mir Rabbikum 'alaa rajulim minkum liyunzirakum wa litattaqoo wa la'allakum turhamoon",
@@ -546,7 +546,7 @@ ayats = [
   {
     "verse_number": 69,
     "english_text": "And, do you wonder that command of Allah has come to you through a male from among you to warn you from punishment; and remember the time when He made you vicegerent after Nooh; and did increase your creation extensively; so do remember bounties of Allah so you become successful.",
-    "arabic_text": "اَوَعَجِبْتُمْ اَنْ جَاءَكُمْ ذِكْرٌ مِّنْ رَّبِّكُمْ عَلَٰى رَجُلٍ مِّنْكُمْ لِيُنْذِرَكُمْ ۚ وَ اذْكُرُوْا اِذْ جَعَلَكُمْ خُلَفَاءَ مِنْ بَعْدِ قَوْمِ نُوْحٍ وَ زَادَكُمْ فِي الْخَلْقِ بَصْطَةً فَاذْكُرُوْٓا اٰلَآءَ اللّٰهِ لَعَلَّكُمْ تُفْلِحُوْنَ",
+    "arabic_text": "اَوَعَجِبْتُمْ اَنْ جَآءَكُمْ ذِكْرٌ مِّنْ رَّبِّكُمْ عَلَٰى رَجُلٍ مِّنْكُمْ لِيُنْذِرَكُمْ ۚ وَ اذْكُرُوْا اِذْ جَعَلَكُمْ خُلَفَاءَ مِنْ بَعْدِ قَوْمِ نُوْحٍ وَ زَادَكُمْ فِي الْخَلْقِ بَصْطَةً فَاذْكُرُوْٓا اٰلَآءَ اللّٰهِ لَعَلَّكُمْ تُفْلِحُوْنَ",
     "urdu_text": "کیا تمہیں تعجب ہے کہ تمہارے رب کی طرف سے نصیحت تم میں سے ایک آدمی کے ذریعے آئی تاکہ وہ تمہیں ڈرائے؟ اور یاد کرو جب اس نے تمہیں قوم نوح کے بعد جانشین بنایا اور تمہاری جسمانی ساخت میں وسعت عطا کی، پس اللہ کی نعمتوں کو یاد کرو تاکہ تم فلاح پاؤ",
     "persian_text": "آیا تعجب می‌کنید که یادآوری از پروردگارتان به وسیله مردی از خودتان آمده تا شما را بیم دهد؟ و یاد کنید هنگامی را که شما را پس از قوم نوح جانشین قرار داد و در آفرینش شما گستردگی بخشید، پس نعمت‌های خدا را یاد کنید باشد که رستگار شوید",
     "transliteration": "Awa'ajibtum an ja'akum dhikrun min rabbikum 'ala rajulin minkum liyundhirakum wadh-kuru idh ja'alakum khulafa'a min ba'di qawmi Nuhin wa zadakum fi al-khalqi bastatan fadh-kuru ala'a Allahi la'allakum tuflihun",

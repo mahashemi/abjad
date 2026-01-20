@@ -282,7 +282,7 @@ ayats = [
   {
     "verse_number": 36,
     "english_text": "It was revealed to Nooh, none from your people will believe now except for those who have already believed; so do not grieve on their deeds.",
-    "arabic_text": "وَاُوحِيَ اِلَىٰ نُوحٍ اَنَّهُ لَن يُؤْمِنَ مِن قَوْمِكَ اِلَّا مَن قَدْ آمَنَ فَلَا تَبْتَئِسْ بِمَا كَانُوا يَفْعَلُونَ",
+    "arabic_text": "وَ اُوحِيَ اِلَىٰ نُوحٍ اَنَّهُ لَن يُؤْمِنَ مِن قَوْمِكَ اِلَّا مَن قَدْ آمَنَ فَلَا تَبْتَئِسْ بِمَا كَانُوا يَفْعَلُونَ",
     "urdu_text": "اور نوح کی طرف وحی کی گئی کہ تیری قوم میں سے اب کوئی ایمان نہیں لائے گا سوائے ان کے جو پہلے ایمان لا چکے ہیں، پس تو ان کے اعمال پر غمگین نہ ہو",
     "persian_text": "و به نوح وحی شد که از قوم تو دیگر کسی ایمان نخواهد آورد مگر آنان که پیش از این ایمان آورده‌اند، پس از اعمال آنان اندوهگین مباش",
     "transliteration": "Wa oohiya ila Noohin annahu lan yu'mina min qawmika illa man qad aamana fala tabta'is bima kaanoo yaf'aloon",
@@ -290,7 +290,7 @@ ayats = [
   {
     "verse_number": 37,
     "english_text": "Make an ark in front of Our Eyes under the guidance of Our revelation, and do not talk to Us regarding unjust people, they are all going to be drowned.",
-    "arabic_text": "وَاصْنَعِ الْفُلْكَ بِاَعْيُنِنَا وَوَحْيِنَا وَ لَا تُخَاطِبْنِي فِي الَّذِينَ ظَلَمُوا ۚ اِنَّهُم مُّغْرَقُونَ",
+    "arabic_text": "وَ اصْنَعِ الْفُلْكَ بِاَعْيُنِنَا وَ وَحْيِنَا وَ لَا تُخَاطِبْنِي فِي الَّذِينَ ظَلَمُوا ۚ اِنَّهُم مُّغْرَقُونَ",
     "urdu_text": "اور ہماری نگرانی میں اور ہماری وحی کے مطابق کشتی بنا، اور ظالموں کے بارے میں ہم سے بات نہ کر، بے شک وہ سب غرق کیے جانے والے ہیں",
     "persian_text": "و کشتی را در برابر چشمان ما و به راهنمایی وحی ما بساز، و درباره ستمکاران با ما سخن مگو، همانا آنان غرق خواهند شد",
     "transliteration": "Wasna'il-fulka bi-a'yuninaa wa wahyinaa wa laa tukhaatibnee fil-ladheena zalamoo innahum mughraqoon",
@@ -298,7 +298,7 @@ ayats = [
   {
     "verse_number": 38,
     "english_text": "When Nooh was making the ark, whenever any party from his people passed from there they used to ridicule him, Nooh said: if you are ridiculing us today then tomorrow likewise we will ridicule you also.",
-    "arabic_text": "وَيَصْنَعُ الْفُلْكَ وَكُلَّمَا مَرَّ عَلَيْهِ مَلَاٌ مِّن قَوْمِهِ سَخِرُوا مِنْهُ ۚ قَالَ اِن تَسْخَرُوا مِنَّا فَاِنَّا نَسْخَرُ مِنكُمْ كَمَا تَسْخَرُونَ",
+    "arabic_text": "وَ يَصْنَعُ الْفُلْكَ وَ كُلَّمَا مَرَّ عَلَيْهِ مَلَاٌ مِّن قَوْمِهِ سَخِرُوا مِنْهُ ۚ قَالَ اِن تَسْخَرُوا مِنَّا فَاِنَّا نَسْخَرُ مِنكُمْ كَمَا تَسْخَرُونَ",
     "urdu_text": "اور نوح کشتی بنا رہے تھے اور جب بھی ان کی قوم کا کوئی گروہ وہاں سے گزرتا تو ان کا مذاق اڑاتے، نوح نے کہا اگر تم آج ہمارا مذاق اڑا رہے ہو تو کل ہم بھی تمہارا ویسے ہی مذاق اڑائیں گے",
     "persian_text": "و نوح کشتی می‌ساخت و هر گاه گروهی از قوم او از آنجا می‌گذشتند او را مسخره می‌کردند، نوح گفت اگر امروز ما را مسخره می‌کنید، فردا ما نیز شما را همان‌گونه مسخره خواهیم کرد",
     "transliteration": "Wa yasna'ul-fulka wa kullamaa marra 'alayhi mala'um min qawmihi sakhiroo minhu qaala in taskharoo minnaa fa-innaa naskharu minkum kamaa taskharoon",
@@ -306,7 +306,7 @@ ayats = [
   {
     "verse_number": 39,
     "english_text": "Then shortly you will come to know that on whom punishment comes he becomes disgraced, and then punishment will be lasting one.",
-    "arabic_text": "فَسَوْفَ تَعْلَمُونَ مَن يَاْتِيهِ عَذَابٌ يُخْزِيهِ وَيَحِلُّ عَلَيْهِ عَذَابٌ مُّقِيمٌ",
+    "arabic_text": "فَسَوْفَ تَعْلَمُونَ مَن يَّاْتِيهِ عَذَابٌ يُخْزِيهِ وَ يَحِلُّ عَلَيْهِ عَذَابٌ مُّقِيمٌ",
     "urdu_text": "پھر عنقریب تم جان لو گے کہ کس پر عذاب آتا ہے جو اسے رسوا کرتا ہے اور پھر اس پر دائمی عذاب نازل ہوتا ہے",
     "persian_text": "پس به زودی خواهید دانست که بر چه کسی عذابی می‌آید که او را خوار می‌سازد و عذابی پایدار بر او فرود می‌آید",
     "transliteration": "Fasawfa ta'lamoona man ya'teehi 'adhaabun yukhzeehi wa yahillu 'alayhi 'adhaabum muqeem",
@@ -314,7 +314,7 @@ ayats = [
   {
     "verse_number": 40,
     "english_text": "So much so when Our command came and water started gushing out from the oven ; We told Nooh to take two of every kind, a pair, and also take your family, except those against whom destruction has been decided, and also take the believers with you; and believers were a few.",
-    "arabic_text": "حَتَّىٰ اِذَا جَاءَ اَمْرُنَا وَفَارَ التَّنُّورُ قُلْنَا احْمِلْ فِيهَا مِن كُلٍّ زَوْجَيْنِ اثْنَيْنِ وَاَهْلَكَ اِلَّا مَن سَبَقَ عَلَيْهِ الْقَوْلُ وَ مَنْ آمَنَ ۚ وَ مَا آمَنَ مَعَهُ اِلَّا قَلِيلٌ",
+    "arabic_text": "حَتَّىٰٓ اِذَا جَآءَ اَمْرُنَا وَ فَارَ التَّنُّورُ قُلْنَا احْمِلْ فِيهَا مِن كُلٍّ زَوْجَيْنِ اثْنَيْنِ وَ اَهْلَكَ اِلَّا مَن سَبَقَ عَلَيْهِ الْقَوْلُ وَ مَنْ آمَنَ ۚ وَ مَا آمَنَ مَعَهُ اِلَّا قَلِيلٌ",
     "urdu_text": "یہاں تک کہ جب ہمارا حکم آیا اور تندور سے پانی ابلنے لگا، ہم نے کہا کہ ہر قسم کے جانوروں میں سے دو دو جوڑے اس میں سوار کر لو اور اپنے گھر والوں کو بھی سوائے ان کے جن کے بارے میں فیصلہ ہو چکا ہے، اور جو ایمان لائے ہیں انہیں بھی لے لو، اور ان کے ساتھ تھوڑے ہی لوگ ایمان لائے تھے",
     "persian_text": "تا آنگاه که فرمان ما فرا رسید و آب از تنور جوشیدن گرفت، گفتیم از هر نوع دو جفت در آن سوار کن و خانواده‌ات را نیز مگر آنان که درباره‌شان حکم صادر شده، و کسانی را که ایمان آورده‌اند، و با او جز اندکی ایمان نیاورده بودند",
     "transliteration": "Hattaa idhaa jaa'a amrunaa wa faarat-tannooru qulnahmil feehaa min kullin zawjaynis-nayni wa ahlaka illaa man sabaqa 'alayhil-qawlu wa man aamana wa maa aamana ma'ahu illaa qaleel",
@@ -322,7 +322,7 @@ ayats = [
   {
     "verse_number": 41,
     "english_text": "Nooh said: now all of you board the ark, it will sail with the Name of Allah and it will also be anchoring, and Verily my Lord is all Forgiving and Merciful.",
-    "arabic_text": "وَقَالَ ارْكَبُوا فِيهَا بِسْمِ اللّٰهِ مَجْرَاهَا وَمُرْسَاهَا ۚ اِنَّ رَبِّي لَغَفُورٌ رَّحِيمٌ",
+    "arabic_text": "وَ قَالَ ارْكَبُوا فِيهَا بِسْمِ اللّٰهِ مَجْرَاهَا وَ مُرْسٰهَا ۚ اِنَّ رَبِّي لَغَفُورٌ رَّحِيمٌ",
     "urdu_text": "اور نوح نے کہا: تم سب اس کشتی میں سوار ہو جاؤ، اللہ کے نام سے یہ چلے گی اور ٹھہرے گی، بے شک میرا رب بڑا بخشنے والا مہربان ہے۔",
     "persian_text": "و نوح گفت: همه شما بر این کشتی سوار شوید، به نام خدا حرکت و توقف آن است، همانا پروردگار من بسیار آمرزنده و مهربان است.",
     "transliteration": "Wa qaala arkaboo feeha bismillahi majraha wa mursaha inna rabbee la-ghafoorun raheem",
@@ -458,7 +458,7 @@ ayats = [
   {
     "verse_number": 58,
     "english_text": "And when Our command came; then We delivered Hood and those who have believed with him, with Our Mercy and saved them from punishment.",
-    "arabic_text": "وَلَمَّا جَاءَ اَمْرُنَا نَجَّيْنَا هُودًا وَالَّذِينَ آمَنُوا مَعَهُ بِرَحْمَةٍ مِّنَّا وَنَجَّيْنَاهُم مِّنْ عَذَابٍ غَلِيظٍ",
+    "arabic_text": "وَلَمَّا جَآءَ اَمْرُنَا نَجَّيْنَا هُودًا وَالَّذِينَ آمَنُوا مَعَهُ بِرَحْمَةٍ مِّنَّا وَنَجَّيْنَاهُم مِّنْ عَذَابٍ غَلِيظٍ",
     "urdu_text": "اور جب ہمارا حکم آیا تو ہم نے ہود اور ان کے ساتھ ایمان لانے والوں کو اپنی رحمت سے نجات دی اور انہیں سخت عذاب سے بچا لیا",
     "persian_text": "و چون فرمان ما فرا رسید، هود و کسانی را که با او ایمان آورده بودند به رحمت خود نجات دادیم و آنان را از عذاب سخت رهانیدیم",
     "transliteration": "Wa lamma ja'a amruna najjayna Hudan walladhina amanu ma'ahu bi rahmatin minna wa najjaynahum min 'adhabin ghaliz",
@@ -522,7 +522,7 @@ ayats = [
   {
     "verse_number": 66,
     "english_text": "Then, when Our command (punishment) came, so We delivered Saleh and those people who had believed with Our mercy and saved from disgrace of that day, undoubtedly your Lord is greatly Predominant.",
-    "arabic_text": "فَلَمَّا جَاءَ اَمْرُنَا نَجَّيْنَا صَالِحًا وَالَّذِينَ آمَنُوا مَعَهُ بِرَحْمَةٍ مِّنَّا وَمِنْ خِزْيِ يَوْمِئِذٍ ۗ اِنَّ رَبَّكَ هُوَ الْقَوِيُّ الْعَزِيزُ",
+    "arabic_text": "فَلَمَّا جَآءَ اَمْرُنَا نَجَّيْنَا صَالِحًا وَالَّذِينَ آمَنُوا مَعَهُ بِرَحْمَةٍ مِّنَّا وَمِنْ خِزْيِ يَوْمِئِذٍ ۗ اِنَّ رَبَّكَ هُوَ الْقَوِيُّ الْعَزِيزُ",
     "urdu_text": "پھر جب ہمارا حکم آ پہنچا تو ہم نے صالح کو اور ان لوگوں کو جو ان کے ساتھ ایمان لائے تھے اپنی رحمت سے نجات دی اور اس دن کی رسوائی سے بچا لیا، بیشک تمہارا رب بڑا طاقتور اور غالب ہے",
     "persian_text": "پس چون فرمان ما فرا رسید، صالح و کسانی را که با او ایمان آورده بودند به رحمت خود نجات دادیم و از رسوایی آن روز محفوظ داشتیم، همانا پروردگار تو قوی و عزیز است",
     "transliteration": "Falamma jaa'a amruna najjayna Salihan walladhina amanu ma'ahu birahmatim minna wa min khizyi yawmi'idh, inna Rabbaka huwal Qawiyyul 'Aziz",
@@ -546,7 +546,7 @@ ayats = [
   {
     "verse_number": 69,
     "english_text": "And angels who were sent by Us brought glad tidings to Ibrahim; they gave salutations and Ibrahim replied to their salutations, then immediately Ibrahim brought roasted meat of a calf.",
-    "arabic_text": "وَ لَقَدْ جَاءَتْ رُسُلُنَا اِبْرَاهِيمَ بِالْبُشْرَىٰ قَالُوْا سَلَامًا ۖ قَالَ سَلَامٌ ۖ فَمَا لَبِثَ اَن جَاءَ بِعِجْلٍ حَنِيذٍ",
+    "arabic_text": "وَ لَقَدْ جَآءَتْ رُسُلُنَا اِبْرَاهِيمَ بِالْبُشْرَىٰ قَالُوْا سَلَامًا ۖ قَالَ سَلَامٌ ۖ فَمَا لَبِثَ اَن جَآءَ بِعِجْلٍ حَنِيذٍ",
     "urdu_text": "اور بیشک ہمارے بھیجے ہوئے فرشتے ابراہیم کے پاس خوشخبری لے کر آئے، انہوں نے سلام کہا، ابراہیم نے جواب میں سلام کہا، پھر دیر نہ لگائی اور بھنا ہوا بچھڑا لے آئے",
     "persian_text": "و به راستی فرستادگان ما با بشارت به ابراهیم آمدند، گفتند سلام، گفت سلام، پس درنگ نکرد که گوساله ای بریان آورد",
     "transliteration": "Wa laqad ja'at rusuluna Ibrahima bil bushra qalu salaman qala salamun fama labitha an ja'a bi'ijlin hanidh",
@@ -586,7 +586,7 @@ ayats = [
   {
     "verse_number": 74,
     "english_text": "When Ibrahim's fear had gone and he received the good news (of the child), then he started pleading with regard to the people of Lut with Us.",
-    "arabic_text": "فَلَمَّا ذَهَبَ عَنْ اِبْرَاهِيمَ الرَّوْعُ وَجَاءَتْهُ الْبُشْرَىٰ يُجَادِلُنَا فِي قَوْمِ لُوطٍ",
+    "arabic_text": "فَلَمَّا ذَهَبَ عَنْ اِبْرَاهِيمَ الرَّوْعُ وَجَآءَتْهُ الْبُشْرَىٰ يُجَادِلُنَا فِي قَوْمِ لُوطٍ",
     "urdu_text": "پھر جب ابراہیم کا خوف دور ہو گیا اور انہیں خوشخبری مل گئی تو وہ ہم سے قوم لوط کے بارے میں بحث کرنے لگے",
     "persian_text": "پس چون ترس از ابراهیم رفت و بشارت به او رسید، با ما درباره قوم لوط به مجادله پرداخت",
     "transliteration": "Falammaa zahaba 'an Ibraaheema ar-raw'u wa jaa-athul-bushraa yujaadilunaa fee qawmi Loot",
@@ -602,7 +602,7 @@ ayats = [
   {
     "verse_number": 76,
     "english_text": "O Ibrahim! Do not insist in this matter, the command of your Lord has certainly come, and undoubtedly such punishment is coming on them which cannot be averted.",
-    "arabic_text": "يَا اِبْرَاهِيمُ اَعْرِضْ عَنْ هٰذَا ۖ اِنَّهُ قَدْ جَاءَ اَمْرُ رَبِّكَ ۖ وَاِنَّهُمْ آتِيهِمْ عَذَابٌ غَيْرُ مَرْدُودٍ",
+    "arabic_text": "يَا اِبْرَاهِيمُ اَعْرِضْ عَنْ هٰذَا ۖ اِنَّهُ قَدْ جَآءَ اَمْرُ رَبِّكَ ۖ وَاِنَّهُمْ آتِيهِمْ عَذَابٌ غَيْرُ مَرْدُودٍ",
     "urdu_text": "اے ابراہیم! اس معاملے میں اصرار نہ کرو، بیشک تمہارے رب کا حکم آ چکا ہے، اور بے شک ان پر ایسا عذاب آنے والا ہے جو ٹالا نہیں جا سکتا۔",
     "persian_text": "ای ابراهیم! از این کار دست بردار، همانا فرمان پروردگارت فرا رسیده است و بی‌تردید عذابی بر آنان می‌آید که بازگردانده نمی‌شود.",
     "transliteration": "Ya Ibraheemu a'rid 'an hadha innahu qad ja'a amru Rabbika wa innahum ateehim 'adhabun ghayru mardood",
@@ -610,7 +610,7 @@ ayats = [
   {
     "verse_number": 77,
     "english_text": "When our angels came to Lut as young boys, with their thoughts he became sad and straiten at heart, and he said today's day is very hard and troublesome.",
-    "arabic_text": "وَلَمَّا جَاءَتْ رُسُلُنَا لُوطًا سِيءَ بِهِمْ وَضَاقَ بِهِمْ ذَرْعًا وَقَالَ هٰذَا يَوْمٌ عَصِيبٌ",
+    "arabic_text": "وَلَمَّا جَآءَتْ رُسُلُنَا لُوطًا سِيءَ بِهِمْ وَضَاقَ بِهِمْ ذَرْعًا وَقَالَ هٰذَا يَوْمٌ عَصِيبٌ",
     "urdu_text": "اور جب ہمارے فرشتے لوط کے پاس جوان لڑکوں کی صورت میں آئے تو ان کی وجہ سے وہ غمگین ہو گئے اور ان کی وجہ سے دل تنگ ہو گیا، اور کہا یہ دن بہت سخت اور مشکل ہے۔",
     "persian_text": "و چون فرستادگان ما به صورت جوانانی نزد لوط آمدند، از آنان ناراحت شد و دلش تنگ گردید و گفت این روزی بسیار سخت و دشوار است.",
     "transliteration": "Wa lamma ja'at rusuluna Lotan see'a bihim wa daqa bihim dhar'an wa qala hadha yawmun 'aseeb",
@@ -618,7 +618,7 @@ ayats = [
   {
     "verse_number": 78,
     "english_text": "(Upon hearing the news of young boys) His people came running to him, before this also they were doing evil works, Lut said: O my people, there are my daughters (marry them), they are pure and allowed for you; don't disgrace me, about my guests, don't you have any sensible person among you?",
-    "arabic_text": "وَجَاءَهُ قَوْمُهُ يُهْرَعُونَ اِلَيْهِ وَمِن قَبْلُ كَانُوا يَعْمَلُونَ السَّيِّاٰتِ ۚ قَالَ يٰقَوْمِ هٰؤُلَاءِ بَنَاتِي هُنَّ اَطْهَرُ لَكُمْ ۖ فَاتَّقُوا اللّٰهَ وَ لَا تُخْزُونِ فِي ضَيْفِي ۖ اَلَيْسَ مِنكُمْ رَجُلٌ رَّشِيدٌ",
+    "arabic_text": "وَجَآءَهُ قَوْمُهُ يُهْرَعُونَ اِلَيْهِ وَمِن قَبْلُ كَانُوا يَعْمَلُونَ السَّيِّاٰتِ ۚ قَالَ يٰقَوْمِ هٰؤُلَاءِ بَنَاتِي هُنَّ اَطْهَرُ لَكُمْ ۖ فَاتَّقُوا اللّٰهَ وَ لَا تُخْزُونِ فِي ضَيْفِي ۖ اَلَيْسَ مِنكُمْ رَجُلٌ رَّشِيدٌ",
     "urdu_text": "اور اس کی قوم کے لوگ دوڑتے ہوئے اس کے پاس آئے، اور اس سے پہلے بھی وہ برے کام کرتے تھے۔ لوط نے کہا: اے میری قوم! یہ میری بیٹیاں ہیں، یہ تمہارے لیے زیادہ پاکیزہ ہیں، اللہ سے ڈرو اور میرے مہمانوں کے بارے میں مجھے رسوا نہ کرو، کیا تم میں کوئی سمجھدار آدمی نہیں ہے؟",
     "persian_text": "و قوم او با شتاب به سوی او آمدند و پیش از این نیز کارهای بد انجام می‌دادند. لوط گفت: ای قوم من! اینان دختران من هستند که برای شما پاکیزه‌ترند، پس از خدا بترسید و مرا در باره میهمانانم خوار نکنید، آیا در میان شما مرد عاقلی نیست؟",
     "transliteration": "Wa ja'ahu qawmuhu yuhra'oona ilayhi wa min qablu kanu ya'maloona as-sayyi'at qala ya qawmi ha'ula'i banati hunna atharu lakum fattaqullaha wa la tukhzooni fee dayfi alaysa minkum rajulun rasheed",
@@ -650,7 +650,7 @@ ayats = [
   {
     "verse_number": 82,
     "english_text": "When Our Command (punishment) came then We turned the surface of the earth of (that) town to its bottom and continuously rained on them stones of baked clay.",
-    "arabic_text": "فَلَمَّا جَاءَ اَمْرُنَا جَعَلْنَا عَالِيَهَا سَافِلَهَا وَاَمْطَرْنَا عَلَيْهَا حِجَارَةً مِّن سِجِّيلٍ مَّنضُودٍ",
+    "arabic_text": "فَلَمَّا جَآءَ اَمْرُنَا جَعَلْنَا عَالِيَهَا سَافِلَهَا وَاَمْطَرْنَا عَلَيْهَا حِجَارَةً مِّن سِجِّيلٍ مَّنضُودٍ",
     "urdu_text": "پھر جب ہمارا حکم آیا تو ہم نے اس بستی کو اوپر تلے کر دیا اور ان پر پکی ہوئی مٹی کے پتھر برسائے جو یکے بعد دیگرے آتے رہے۔",
     "persian_text": "پس چون فرمان ما فرا رسید، بالای آن شهر را پایین کردیم و بر آن سنگ‌هایی از گل پخته پی‌در‌پی باراندیم.",
     "transliteration": "Falamma ja'a amruna ja'alna 'aliyaha safilaha wa amtarna 'alayha hijaratan min sijjilin mandud",
@@ -746,7 +746,7 @@ ayats = [
   {
     "verse_number": 94,
     "english_text": "And when Our command (of punishment) came, then with Our Grace We saved Shoaib and those who have belief with him; and those who were unjust were affected with a mighty blast, and they were lying upside down in their homes.",
-    "arabic_text": "وَلَمَّا جَاءَ اَمْرُنَا نَجَّيْنَا شُعَيْبًا وَالَّذِينَ آمَنُوا مَعَهُ بِرَحْمَةٍ مِّنَّا وَاَخَذَتِ الَّذِينَ ظَلَمُوا الصَّيْحَةُ فَاَصْبَحُوا فِي دِيَارِهِمْ جَاثِمِينَ",
+    "arabic_text": "وَلَمَّا جَآءَ اَمْرُنَا نَجَّيْنَا شُعَيْبًا وَالَّذِينَ آمَنُوا مَعَهُ بِرَحْمَةٍ مِّنَّا وَاَخَذَتِ الَّذِينَ ظَلَمُوا الصَّيْحَةُ فَاَصْبَحُوا فِي دِيَارِهِمْ جَاثِمِينَ",
     "urdu_text": "اور جب ہمارا حکم آ پہنچا تو ہم نے اپنی رحمت سے شعیب اور ان کے ساتھ ایمان لانے والوں کو نجات دے دی، اور ظالموں کو ایک زبردست چیخ نے آ لیا، تو وہ اپنے گھروں میں اوندھے پڑے رہ گئے۔",
     "persian_text": "و چون فرمان ما فرا رسید، شعیب و کسانی را که با او ایمان آورده بودند به رحمت خود نجات دادیم، و ستمکاران را صیحه‌ای سخت فرا گرفت و در خانه‌های خود افتاده ماندند.",
     "transliteration": "Wa lamma ja'a amruna najjayna Shu'ayban walladheena amanoo ma'ahu birahmatim minna wa akhadhatil ladheena dhalamoo assayhatu fa asbahoo fee diyarihim jathimeen",
@@ -802,7 +802,7 @@ ayats = [
   {
     "verse_number": 101,
     "english_text": "And We did not do any injustice to them, but they were unjust unto themselves, and when the command (of punishment) of your Lord came then those gods were of no use, whom they used to call instead of Allah; and neither those gods helped them, except destroying them. (they were punished because they worshipped false gods).",
-    "arabic_text": "وَ مَا ظَلَمْنَاهُمْ وَ لٰكِن ظَلَمُوا اَنفُسَهُمْ فَمَا اَغْنَتْ عَنْهُمْ آلِهَتُهُمُ الَّتِي يَدْعُونَ مِن دُونِ اللّٰهِ مِن شَيْءٍ لَّمَّا جَاءَ اَمْرُ رَبِّكَ وَ مَا زَادُوهُمْ غَيْرَ تَتْبِيبٍ",
+    "arabic_text": "وَ مَا ظَلَمْنَاهُمْ وَ لٰكِن ظَلَمُوا اَنفُسَهُمْ فَمَا اَغْنَتْ عَنْهُمْ آلِهَتُهُمُ الَّتِي يَدْعُونَ مِن دُونِ اللّٰهِ مِن شَيْءٍ لَّمَّا جَآءَ اَمْرُ رَبِّكَ وَ مَا زَادُوهُمْ غَيْرَ تَتْبِيبٍ",
     "urdu_text": "اور ہم نے ان پر کوئی ظلم نہیں کیا بلکہ انہوں نے خود اپنے اوپر ظلم کیا، پھر جب تمہارے رب کا حکم آ گیا تو ان کے وہ معبود جنہیں وہ اللہ کے سوا پکارتے تھے ان کے کچھ کام نہ آئے اور انہوں نے ان کی ہلاکت کے سوا کچھ نہ بڑھایا",
     "persian_text": "و ما به آنان ستم نکردیم بلکه آنان به خود ستم کردند، پس هنگامی که فرمان پروردگارت فرا رسید، معبودهایشان که به جای خدا می‌خواندند هیچ سودی به آنان نرساندند و جز هلاکت چیزی بر آنان نیفزودند",
     "transliteration": "Wa ma zalamnahum walakin zalamu anfusahum fama aghnat 'anhum alihatuhumu allati yad'una min dunillahi min shay'in lamma ja'a amru rabbika wa ma zaduhum ghayra tatbibin",
@@ -954,7 +954,7 @@ ayats = [
   {
     "verse_number": 120,
     "english_text": "And (O Prophet), We relate to you all the tales of previous messengers, to strengthen your heart; and in these tales have come the truth (Quran) for you and exhortations and reminders for the believers.",
-    "arabic_text": "وَكُلًّا نَّقُصُّ عَلَيْكَ مِنْ اَنبَاءِ الرُّسُلِ مَا نُثَبِّتُ بِهِ فُؤَادَكَ ۚ وَجَاءَكَ فِي هَٰذِهِ الْحَقُّ وَمَوْعِظَةٌ وَذِكْرَىٰ لِلْمُؤْمِنِينَ",
+    "arabic_text": "وَكُلًّا نَّقُصُّ عَلَيْكَ مِنْ اَنبَاءِ الرُّسُلِ مَا نُثَبِّتُ بِهِ فُؤَادَكَ ۚ وَجَآءَكَ فِي هَٰذِهِ الْحَقُّ وَمَوْعِظَةٌ وَذِكْرَىٰ لِلْمُؤْمِنِينَ",
     "urdu_text": "اور ہم تمہیں رسولوں کے تمام واقعات سناتے ہیں جن سے ہم تمہارے دل کو مضبوط کرتے ہیں، اور ان میں تمہارے لیے حق آیا ہے اور مومنوں کے لیے نصیحت اور یاد دہانی ہے",
     "persian_text": "و همه خبرهای پیامبران را برای تو بیان می‌کنیم تا دلت را محکم سازیم، و در این داستان‌ها حق و پند و یادآوری برای مؤمنان برایت آمده است",
     "transliteration": "Wa kullan naqussu 'alayka min anba'ir-rusuli ma nuthabbitu bihi fu'adak, wa ja'aka fi hadhihil-haqqu wa maw'izatun wa dhikra lil-mu'minin",

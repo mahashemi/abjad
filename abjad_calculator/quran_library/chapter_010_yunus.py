@@ -170,7 +170,7 @@ ayats = [
   {
     "verse_number": 22,
     "english_text": "And this is that Allah who make you roam on earth and the sea, until you were on the ship, and they sail on them in pure breeze, and all the passengers became happy, and suddenly a strong air blew surge on them from all sides, and they thought that they have been encircled from all sides, then they started praying with pure heart, that if they are delivered from this difficulty they will be among the thankful.",
-    "arabic_text": "هُوَ الَّذِي يُسَيِّرُكُمْ فِي الْبَرِّ وَالْبَحْرِ ۖ حَتَّىٰ اِذَا كُنتُمْ فِي الْفُلْكِ وَ جَرَيْنَ بِهِم بِرِيحٍ طَيِّبَةٍ وَّ فَرِحُوا بِهَا جَآءَتْهَا رِيحٌ عَاصِفٌ وَّ جَاءَهُمُ الْمَوْجُ مِن كُلِّ مَكَانٍ وَّ ظَنُّوا اَنَّهُمْ اُحِيطَ بِهِمْ ۙ دَعَوُا اللّٰهَ مُخْلِصِينَ لَهُ الدِّينَ لَئِنْ اَنجَيْتَنَا مِنْ هٰذِهِ لَنَكُونَنَّ مِنَ الشّٰكِرِيْنَ",
+    "arabic_text": "هُوَ الَّذِي يُسَيِّرُكُمْ فِي الْبَرِّ وَالْبَحْرِ ۖ حَتَّىٰ اِذَا كُنتُمْ فِي الْفُلْكِ وَ جَرَيْنَ بِهِم بِرِيحٍ طَيِّبَةٍ وَّ فَرِحُوا بِهَا جَآءَتْهَا رِيحٌ عَاصِفٌ وَّ جَآءَهُمُ الْمَوْجُ مِن كُلِّ مَكَانٍ وَّ ظَنُّوا اَنَّهُمْ اُحِيطَ بِهِمْ ۙ دَعَوُا اللّٰهَ مُخْلِصِينَ لَهُ الدِّينَ لَئِنْ اَنجَيْتَنَا مِنْ هٰذِهِ لَنَكُونَنَّ مِنَ الشّٰكِرِيْنَ",
     "urdu_text": "وہی ہے جو تمہیں خشکی اور سمندر میں چلاتا ہے، یہاں تک کہ جب تم کشتیوں میں ہوتے ہو اور وہ اچھی ہوا سے چلتی ہیں اور لوگ اس سے خوش ہوتے ہیں، اچانک تیز آندھی آجاتی ہے اور ہر طرف سے موجیں آنے لگتی ہیں اور وہ سمجھتے ہیں کہ وہ گھر گئے، تو وہ خالص دل سے اللہ کو پکارتے ہیں کہ اگر تو نے ہمیں اس مصیبت سے نجات دی تو ہم ضرور شکر گزار بنیں گے",
     "persian_text": "اوست که شما را در خشکی و دریا می‌گرداند، تا آنگاه که در کشتی‌ها هستید و با بادی خوش حرکت می‌کنند و از آن شاد می‌شوند، ناگهان بادی تندخو می‌آید و موج از هر سو به سراغشان می‌آید و گمان می‌برند که احاطه شده‌اند، پس خدا را با اخلاص می‌خوانند که اگر ما را از این نجات دهی، قطعاً از سپاسگزاران خواهیم بود",
     "transliteration": "Huwa alladhi yusayyirukum fi al-barri wal-bahri hatta idha kuntum fi al-fulki wa jarayna bihim bi-riihin tayyibatin wa farihoo biha jaa'at-ha reehun 'aasifun wa jaa'ahumu al-mawju min kulli makanin wa dhannoo annahum uheeta bihim da'awu Allaha mukhliseena lahu ad-deena la'in anjaytana min hadhihi lanakoonanna mina ash-shakireen",
@@ -602,7 +602,7 @@ ayats = [
   {
     "verse_number": 76,
     "english_text": "So when Moosa came to them from Us with the truth, then they said it is manifest magic.",
-    "arabic_text": "فَلَمَّا جَاءَهُمُ الْحَقُّ مِنْ عِندِنَا قَالُوْا اِنَّ هٰذَا لَسِحْرٌ مُّبِينٌ",
+    "arabic_text": "فَلَمَّا جَآءَهُمُ الْحَقُّ مِنْ عِندِنَا قَالُوْا اِنَّ هٰذَا لَسِحْرٌ مُّبِينٌ",
     "urdu_text": "پھر جب موسیٰ ان کے پاس ہماری طرف سے حق لے کر آئے تو انہوں نے کہا یہ تو کھلا جادو ہے",
     "persian_text": "پس چون موسی حق را از جانب ما برای آنان آورد، گفتند این جادویی آشکار است",
     "transliteration": "Falamma ja'ahumul haqqu min 'indina qalu inna haza lasihrun mubin",
