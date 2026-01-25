@@ -41,7 +41,7 @@ ayats = [
   {
     "verse_number": 5,
     "english_text": "Who can be more misguided who call upon others besides Allah who cannot reply to their calls (even) till the Day of Judgement, and they are oblivious of the sound of their calls.",
-    "arabic_text": "وَ مَنْ اَضَلُّ مِمَّن يَدْعُواْ مِن دُونِ اللّٰهِ مَن لَّا يَسْتَجِيبُ لَهُٓ اِلَىٰ يَوْمِ الْقِيَـٰمَةِ وَهُمْ عَن دُعَآئِهِمْ غَـٰفِلُونَ",
+    "arabic_text": "وَ مَنْ اَضَلُّ مِمَّن يَدْعُواْ مِن دُونِ اللّٰهِ مَن لَّا يَسْتَجِيبُ لَهُٓ اِلـٰى يَوْمِ الْقِيَـٰمَةِ وَهُمْ عَن دُعَآئِهِمْ غَـٰفِلُونَ",
     "urdu_text": "اور اس سے بڑھ کر گمراہ کون ہو گا جو اللہ کے سوا ان کو پکارے جو قیامت کے دن تک ان کی دعا کا جواب نہیں دے سکتے، اور وہ ان کی پکار سے بے خبر ہیں۔",
     "persian_text": "و چه کسی گمراه‌تر است از آن که غیر از خدا کسی را بخواند که تا روز قیامت پاسخش را نمی‌دهد و آنها از دعای ایشان غافل هستند.",
     "transliteration": "Wa man adallu mimman yad'oo min doonil-laahi mal-laa yastajeebo lahoo ilaa Yawmil-Qiyaamati wa hum 'an du'aaa'ihim ghaafiloon"
@@ -161,7 +161,7 @@ ayats = [
   {
     "verse_number": 20,
     "english_text": "And the day when infidels will be brought before Hell, that you have enjoyed the life in the world and have rested there, so today (you) will be given disgraceful punishment that you were arrogant on the earth and were disobeying the commands of the Lord.",
-    "arabic_text": "وَيَوْمَ يُعْرَضُ الَّذِينَ كَفَرُواْ عَلَى النَّارِ اَذْهَبْتُمْ طَيِّبَـٰتِكُمْ فِى حَيَاتِكُمُ الدُّنْيَا وَاسْتَمْتَعْتُم بِهَا فَالْيَوْمَ تُجْزَوْنَ عَذَابَ الْهُونِ بِمَا كُنتُمْ تَسْتَكْبِرُونَ فِى الْاَرْضِ بِغَيْرِ الْحَقِّ وَبِمَا كُنتُمْ تَفْسُقُونَ",
+    "arabic_text": "وَ يَوْمَ يُعْرَضُ الَّذِينَ كَفَرُواْ عَلَى النَّارِ اَذْهَبْتُمْ طَيِّبَـٰتِكُمْ فِى حَيَاتِكُمُ الدُّنْيٰوَاسْتَمْتَعْتُم بِهَا فَالْيَوْمَ تُجْزَوْنَ عَذَابَ الْهُونِ بِمَا كُنتُمْ تَسْتَكْبِرُونَ فِى الْاَرْضِ بِغَيْرِ الْحَقِّ وَبِمَا كُنتُمْ تَفْسُقُونَ",
     "urdu_text": "اور جس دن کافروں کو دوزخ کے سامنے پیش کیا جائے گا تو کہا جائے گا: تم نے دنیا کی زندگی میں اپنی اچھی چیزیں ختم کر لیں اور ان سے لطف اندوز ہوئے، تو آج تمہیں ذلت کا عذاب دیا جائے گا کیونکہ تم زمین میں ناحق تکبر کرتے تھے اور رب کے احکام کی نافرمانی کرتے تھے۔",
     "persian_text": "و روزی که کافران بر آتش عرضه می‌شوند، گفته می‌شود: شما نعمت‌های خود را در زندگی دنیا تمام کردید و از آنها بهره‌مند شدید، پس امروز به خاطر تکبری که بر زمین بی‌حق می‌ورزیدید و به خاطر نافرمانی‌هایتان، عذاب خواری به شما داده می‌شود.",
     "transliteration": "Wa yawma yu'radul-lazeena kafaroo 'alan-naari azhabtum tayyibaatikum fee hayaatikumud-dunyaa wastamta'tum bihaa fal-yawma tujzawna 'azaabal-hooni bimaa kuntum tastakbiroona fil-ardi bighayril-haqqi wa bimaa kuntum tafsuqoon"
@@ -233,7 +233,7 @@ ayats = [
   {
     "verse_number": 29,
     "english_text": "When We made a group of jinn attentive towards you to listen to Quran; when they came, they said among themselves to listen silently, when recitation ended, they returned immediately to their nation as warners.",
-    "arabic_text": "وَاِذْ صَرَفْنَآ اِلَيْكَ نَفَرًا مِّنَ الْجِنِّ يَسْتَمِعُونَ الْقُرْءَانَ فَلَمَّا حَضَرُوهُ قَالُوٓاْ اَنصِتُواْ ۖ فَلَمَّا قُضِىَ وَلَّوْاْ اِلَىٰ قَوْمِهِم مُّنذِرِينَ",
+    "arabic_text": "وَاِذْ صَرَفْنَآ اِلَيْكَ نَفَرًا مِّنَ الْجِنِّ يَسْتَمِعُونَ الْقُرْءَانَ فَلَمَّا حَضَرُوهُ قَالُوٓاْ اَنصِتُواْ ۖ فَلَمَّا قُضِىَ وَلَّوْاْ اِلـٰى قَوْمِهِم مُّنذِرِينَ",
     "urdu_text": "اور جب ہم نے جنوں کی ایک جماعت کو تیری طرف متوجہ کیا تاکہ قرآن سنیں، جب وہ آئے تو انہوں نے آپس میں کہا خاموش ہو کر سنو، جب تلاوت ختم ہوئی تو وہ فوراً اپنی قوم کی طرف ڈرانے والے بن کر لوٹے۔",
     "persian_text": "و هنگامی که گروهی از جن را به سوی تو متوجه ساختیم تا قرآن را بشنوند، چون حاضر شدند گفتند خاموش باشید، و چون پایان یافت، به سوی قوم خود به عنوان هشداردهنده بازگشتند.",
     "transliteration": "Wa idh sarafna ilayka nafaran minal-jinni yastami'oonal-Qur'ana falamma hadaruhu qalu ansitu falamma qudiya wallaw ila qawmihim mundhireen"
@@ -241,7 +241,7 @@ ayats = [
   {
     "verse_number": 30,
     "english_text": "(They) said: O people of the nation we have heard the Book which has been revealed after Moosa, it verifies the books before it and guides towards the truth, justice, and the straight path.",
-    "arabic_text": "قَالُوْاْ يَـٰقَوْمَنَآ اِنَّا سَمِعْنَا كِتٰبًا اُنزِلَ مِنۢ بَعْدِ مُوسَىٰ مُصَدِّقًۭا لِّمَا بَيْنَ يَدَيْهِ يَهْدِىٓ اِلَى الْحَقِّ وَاِلَىٰ طَرِيقٍۢ مُّسْتَقِيمٍۢ",
+    "arabic_text": "قَالُوْاْ يَـٰقَوْمَنَآ اِنَّا سَمِعْنَا كِتٰبًا اُنزِلَ مِنۢ بَعْدِ مُوسَىٰ مُصَدِّقًۭا لِّمَا بَيْنَ يَدَيْهِ يَهْدِىٓ اِلَى الْحَقِّ وَ اِلـٰى طَرِيقٍۢ مُّسْتَقِيمٍۢ",
     "urdu_text": "انہوں نے کہا: اے ہماری قوم کے لوگو! ہم نے ایک کتاب سنی ہے جو موسیٰ کے بعد نازل کی گئی ہے، یہ اپنے سے پہلے کی کتابوں کی تصدیق کرتی ہے اور حق اور سیدھے راستے کی طرف رہنمائی کرتی ہے۔",
     "persian_text": "گفتند: ای قوم ما! ما کتابی شنیدیم که پس از موسی نازل شده است، تصدیق‌کننده آنچه پیش از آن است، به سوی حق و راه راست هدایت می‌کند.",
     "transliteration": "Qalu ya qawmana inna sami'na kitaban unzila min ba'di Musa musaddiqan lima bayna yadayhi yahdi ilal-haqqi wa ila tareeqin mustaqeem"
@@ -273,7 +273,7 @@ ayats = [
   {
     "verse_number": 34,
     "english_text": "When these infidels will be presented before Hell, they will all say; is that not the Truth?; by Lord this is all Truth, then (Allah) will say: now taste the punishment because earlier you were denying it.",
-    "arabic_text": "وَيَوْمَ يُعْرَضُ الَّذِينَ كَفَرُواْ عَلَى النَّارِ اَلَيْسَ هَـٰذَا بِالْحَقِّ ۖ قَالُوْاْ بَلَىٰ وَرَبِّنَا ۚ قَالَ فَذُوقُواْ الْعَذَابَ بِمَا كُنتُمْ تَكْفُرُونَ",
+    "arabic_text": "وَ يَوْمَ يُعْرَضُ الَّذِينَ كَفَرُواْ عَلَى النَّارِ اَلَيْسَ هَـٰذَا بِالْحَقِّ ۖ قَالُوْاْ بَلَىٰ وَرَبِّنَا ۚ قَالَ فَذُوقُواْ الْعَذَابَ بِمَا كُنتُمْ تَكْفُرُونَ",
     "urdu_text": "اور جس دن کافروں کو آگ کے سامنے پیش کیا جائے گا تو ان سے کہا جائے گا: کیا یہ حق نہیں ہے؟ وہ کہیں گے: ہاں ہمارے رب کی قسم! یہ حق ہے۔ اللہ فرمائے گا: تو اب عذاب کا مزہ چکھو اس لیے کہ تم انکار کرتے تھے۔",
     "persian_text": "و روزی که کافران بر آتش عرضه شوند، به آنان گفته می‌شود: آیا این حق نیست؟ می‌گویند: آری، به پروردگار ما قسم! خداوند می‌فرماید: پس عذاب را بچشید به خاطر آنچه انکار می‌کردید.",
     "transliteration": "Wa yawma yu'radul ladheena kafaroo 'alan naari alaysa haathaa bilhaqq, qaaloo balaa wa rabbinaa, qaala fadhooqul 'adhaaba bimaa kuntum takfuroon"

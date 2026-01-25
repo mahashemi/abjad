@@ -81,7 +81,7 @@ ayats = [
   {
     "verse_number": 10,
     "english_text": "Then Allah revealed to his servant, whatever secret He meant to reveal.",
-    "arabic_text": "فَاَوْحَىٰٓ اِلَىٰ عَبْدِهِ مَآ اَوْحَىٰ",
+    "arabic_text": "فَاَوْحَىٰٓ اِلـٰى عَبْدِهِ مَآ اَوْحَىٰ",
     "urdu_text": "پھر اللہ نے اپنے بندے کی طرف وحی کی جو کچھ وحی کرنا تھا",
     "persian_text": "پس به بنده‌اش وحی کرد آنچه را که وحی فرمود",
     "transliteration": "Fa-awḥā ilā ʿabdihī mā awḥā"
@@ -337,7 +337,7 @@ ayats = [
   {
     "verse_number": 42,
     "english_text": "And Verily, the final destination is the Presence of the Lord.",
-    "arabic_text": "وَاَنَّ اِلَىٰ رَبِّكَ الْمُنتَهَىٰ",
+    "arabic_text": "وَاَنَّ اِلـٰى رَبِّكَ الْمُنتَهَىٰ",
     "urdu_text": "اور یقیناً تیرے رب ہی کی طرف انتہا ہے",
     "persian_text": "و همانا بازگشت نهایی به سوی پروردگار توست",
     "transliteration": "Wa anna ilā rabbika al-muntahā"

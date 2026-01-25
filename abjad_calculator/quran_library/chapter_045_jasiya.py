@@ -41,7 +41,7 @@ ayats = [
   {
     "verse_number": 5,
     "english_text": "And in alternation of the day and night; and in the sustenance which Allah sends down from the sky, through which dead earth is brought to life, and in the moving of breeze, signs are found for that nation which have wisdom.",
-    "arabic_text": "وَاخْتِلَـٰفِ الَّيْلِ وَالنَّهَارِ وَ مَآ اَنزَلَ اللّٰهُ مِنَ السَّمَآءِ مِن رِّزْقٍۢ فَاَحْيَا بِهِ الْاَرْضَ بَعْدَ مَوْتِهَا وَتَصْرِيفِ الرِّيَـٰحِ اٰيٰتٌۭ لِّقَوْمٍۢ يَعْقِلُونَ",
+    "arabic_text": "وَاخْتِلَـٰفِ الَّيْلِ وَالنَّهَارِ وَ مَآ اَنزَلَ اللّٰهُ مِنَ السَّمَآءِ مِن رِّزْقٍۢ فَاَحْيٰبِهِ الْاَرْضَ بَعْدَ مَوْتِهَا وَتَصْرِيفِ الرِّيَـٰحِ اٰيٰتٌۭ لِّقَوْمٍۢ يَعْقِلُونَ",
     "urdu_text": "اور رات اور دن کے بدلنے میں، اور جو رزق الله آسمان سے نازل فرماتا هے جس سے مرده زمین کو زنده کرتا هے، اور هواؤں کے چلنے میں عقل رکھنے والوں کے لیے نشانیاں هیں۔",
     "persian_text": "و در تناوب شب و روز، و در روزی که خداوند از آسمان نازل می‌کند و با آن زمین مرده را زنده می‌سازد، و در گردش بادها، نشانه‌هایی است برای قومی که تعقل می‌کنند.",
     "transliteration": "Wakh-tilaafil-layli wan-nahaari wa maaa anzalal-laahu minas-samaaa'i mir-rizqin fa-ahyaa bihil-arda ba'da mawtihaa wa tasreefir-riyaahi Aayaatul-liqawminy-ya'qiloon"
@@ -121,7 +121,7 @@ ayats = [
   {
     "verse_number": 15,
     "english_text": "Whoever will do good work will do it for his own benefit, and whoever will do bad deeds will do it for his own loss, thereafter you will all be returned to your Lord.",
-    "arabic_text": "مَنْ عَمِلَ صَـٰلِحًۭا فَلِنَفْسِهِ ۖ وَ مَنْ اَسَآءَ فَعَلَيْهَا ۖ ثُمَّ اِلَىٰ رَبِّكُمْ تُرْجَعُونَ",
+    "arabic_text": "مَنْ عَمِلَ صَـٰلِحًۭا فَلِنَفْسِهِ ۖ وَ مَنْ اَسَآءَ فَعَلَيْهَا ۖ ثُمَّ اِلـٰى رَبِّكُمْ تُرْجَعُونَ",
     "urdu_text": "جو نیک عمل کرے گا وه اپنے هی فائدے کے لیے کرے گا، اور جو برائی کرے گا تو اس کا وبال اسی پر هوگا، پھر تم سب اپنے رب کی طرف لوٹائے جاؤ گے۔",
     "persian_text": "هر کس کار نیک انجام دهد به سود خودش است، و هر کس بدی کند به زیان خودش است، سپس همه به سوی پروردگارتان بازگردانده می‌شوید.",
     "transliteration": "Man 'amila saalihan falinafsihi, wa man asaaa'a fa'alayhaa, thumma ilaa rabbikum turja'oon"
@@ -193,7 +193,7 @@ ayats = [
   {
     "verse_number": 24,
     "english_text": "And these people say that this is worldly life only in which we die and live and time destroys us; they have no knowledge of this, that this is their thinking only, and that's it.",
-    "arabic_text": "وَ قَالُوْاْ مَا هِىَ اِلَّا حَيَاتُنَا الدُّنْيَا نَمُوتُ وَنَحْيَا وَ مَا يُهْلِكُنَآ اِلَّا الدَّهْرُ ۚ وَ مَا لَهُم بِذَٰلِكَ مِنْ عِلْمٍ ۖ اِنْ هُمْ اِلَّا يَظُنُّونَ",
+    "arabic_text": "وَ قَالُوْاْ مَا هِىَ اِلَّا حَيَاتُنَا الدُّنْيٰنَمُوتُ وَنَحْيٰوَ مَا يُهْلِكُنَآ اِلَّا الدَّهْرُ ۚ وَ مَا لَهُم بِذَٰلِكَ مِنْ عِلْمٍ ۖ اِنْ هُمْ اِلَّا يَظُنُّونَ",
     "urdu_text": "اور یه لوگ کهتے هیں که یه صرف دنیاوی زندگی هے جس میں هم مرتے اور جیتے هیں اور وقت همیں هلاک کرتا هے۔ انهیں اس کا کوئی علم نهیں، یه صرف ان کا گمان هے، بس۔",
     "persian_text": "و آنها گفتند: جز این زندگی دنیوی چیزی نیست که در آن می‌میریم و زندگی می‌کنیم، و جز روزگار چیزی ما را هلاک نمی‌کند. و آنها از این هیچ علمی ندارند، جز اینکه گمان می‌برند.",
     "transliteration": "Wa qālū mā hiya illā ḥayātunā ad-dunyā namūtu wa naḥyā wa mā yuhlikunā illā ad-dahr, wa mā lahum bi-dhālika min 'ilmin in hum illā yaẓunnūn"
@@ -209,7 +209,7 @@ ayats = [
   {
     "verse_number": 26,
     "english_text": "Say: Allah has also kept you alive, then one day He will cause death to you, in the end He will gather everybody on the Day of Judgement; and there is no doubt in it, but most of the people even do not understand this.",
-    "arabic_text": "قُلِ اللّٰهُ يُحْيِيكُمْ ثُمَّ يُمِيتُكُمْ ثُمَّ يَجْمَعُكُمْ اِلَىٰ يَوْمِ الْقِيَـٰمَةِ لَا رَيْبَ فِيهِ وَلَـٰكِنَّ اَكْثَرَ النَّاسِ لَا يَعْلَمُونَ",
+    "arabic_text": "قُلِ اللّٰهُ يُحْيِيكُمْ ثُمَّ يُمِيتُكُمْ ثُمَّ يَجْمَعُكُمْ اِلـٰى يَوْمِ الْقِيَـٰمَةِ لَا رَيْبَ فِيهِ وَلَـٰكِنَّ اَكْثَرَ النَّاسِ لَا يَعْلَمُونَ",
     "urdu_text": "کهه دو: الله نے تمهیں زنده رکھا هے، پھر ایک دن وه تمهیں موت دے گا، پھر آخر میں وه تم سب کو قیامت کے دن جمع کرے گا، اس میں کوئی شک نهیں، لیکن اکثر لوگ یه بھی نهیں سمجھتے۔",
     "persian_text": "بگو: خداوند شما را زنده می‌کند، سپس شما را می‌میراند، سپس شما را در روز قیامت جمع خواهد کرد که در آن شکی نیست، ولی بیشتر مردم نمی‌دانند.",
     "transliteration": "Quli Allāhu yuḥyīkum thumma yumītukum thumma yajma'ukum ilā yawmi al-qiyāmati lā rayba fīhi wa lākinna akthara an-nāsi lā ya'lamūn"
@@ -217,7 +217,7 @@ ayats = [
   {
     "verse_number": 27,
     "english_text": "And the Kingdom of the earth and the sky is of Allah, and when the Day of Judgement will be established Verily that day people of falsehood will be at a loss.",
-    "arabic_text": "وَلِلَّهِ مُلْكُ السَّمَـٰوَٰتِ وَالْاَرْضِ ۚ وَيَوْمَ تَقُومُ السَّاعَةُ يَوْمَئِذٍۢ يَخْسَرُ الْمُبْطِلُونَ",
+    "arabic_text": "وَلِلَّهِ مُلْكُ السَّمَـٰوَٰتِ وَالْاَرْضِ ۚ وَ يَوْمَ تَقُومُ السَّاعَةُ يَوْمَئِذٍۢ يَخْسَرُ الْمُبْطِلُونَ",
     "urdu_text": "اور آسمانوں اور زمین کی بادشاهی الله کی هے، اور جب قیامت کا دن قائم هو گا تو یقیناً اس دن باطل پرست لوگ خسارے میں هوں گے۔",
     "persian_text": "و فرمانروایی آسمان‌ها و زمین از آن خداست، و روزی که قیامت برپا شود، در آن روز اهل باطل زیان‌کار خواهند بود.",
     "transliteration": "Wa lillāhi mulku as-samāwāti wa al-arḍ, wa yawma taqūmu as-sā'atu yawma'idhin yakhsaru al-mubṭilūn"
@@ -225,7 +225,7 @@ ayats = [
   {
     "verse_number": 28,
     "english_text": "You will see all the nations kneeling, and everyone shall be called towards their book of deeds that today you will be recompensed for your deeds.",
-    "arabic_text": "وَتَرَىٰ كُلَّ اُمَّةٍۢ جَاثِيَةًۭ ۚ كُلُّ اُمَّةٍۢ تُدْعَىٰٓ اِلَىٰ كِتٰبِهَا الْيَوْمَ تُجْزَوْنَ مَا كُنتُمْ تَعْمَلُونَ",
+    "arabic_text": "وَتَرَىٰ كُلَّ اُمَّةٍۢ جَاثِيَةًۭ ۚ كُلُّ اُمَّةٍۢ تُدْعَىٰٓ اِلـٰى كِتٰبِهَا الْيَوْمَ تُجْزَوْنَ مَا كُنتُمْ تَعْمَلُونَ",
     "urdu_text": "تم دیکھو گے که تمام امتیں گھٹنوں کے بل هیں، اور هر امت کو اس کی کتاب اعمال کی طرف بلایا جائے گا که آج تمهیں تمهارے اعمال کا بدله دیا جائے گا۔",
     "persian_text": "و خواهی دید که هر امتی زانو زده است، هر امتی به سوی کتاب اعمالش خوانده می‌شود که امروز به آنچه انجام می‌دادید پاداش داده می‌شوید.",
     "transliteration": "Wa tarā kulla ummatin jāthiyah, kullu ummatin tud'ā ilā kitābihā al-yawma tujzawna mā kuntum ta'malūn"
@@ -281,7 +281,7 @@ ayats = [
   {
     "verse_number": 35,
     "english_text": "This is all because you had mocked at the Divine Verses, and worldly life had kept you in deception, today they will not be taken out of punishment, and they will not be even given chance to seek the forgiveness.",
-    "arabic_text": "ذَٰلِكُم بِاَنَّكُمُ اتَّخَذْتُمْ اٰيٰتِ اللّٰهِ هُزُوًۭا وَغَرَّتْكُمُ الْحَيَوٰةُ الدُّنْيَا ۚ فَالْيَوْمَ لَا يُخْرَجُونَ مِنْهَا وَ لَا هُمْ يُسْتَعْتَبُونَ",
+    "arabic_text": "ذَٰلِكُم بِاَنَّكُمُ اتَّخَذْتُمْ اٰيٰتِ اللّٰهِ هُزُوًۭا وَغَرَّتْكُمُ الْحَيَوٰةُ الدُّنْيٰۚ فَالْيَوْمَ لَا يُخْرَجُونَ مِنْهَا وَ لَا هُمْ يُسْتَعْتَبُونَ",
     "urdu_text": "یه سب اس لیے هے که تم نے الله کی آیات کو مذاق بنایا اور دنیا کی زندگی نے تمهیں دھوکے میں رکھا، پس آج نه وه عذاب سے نکالے جائیں گے اور نه انهیں معافی مانگنے کا موقع دیا جائے گا۔",
     "persian_text": "این به خاطر آن است که شما آیات خدا را به مسخره گرفتید و زندگی دنیا شما را فریب داد، پس امروز نه از آن بیرون برده می‌شوند و نه فرصت جبران داده می‌شود.",
     "transliteration": "Zaalikum bi-annakumut-takhaztum aayaatil-laahi huzuwanw wa gharratkumul-hayaatud-dunyaa fal-yawma laa yukhrajoona minhaa wa laa hum yusta'taboon"

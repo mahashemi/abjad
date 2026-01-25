@@ -225,7 +225,7 @@ ayats = [
   {
     "verse_number": 28,
     "english_text": "And (O Prophet), you also be patient along with those who remember Allah early morning and at dusk and desire His pleasure, and do not turn your sight from them that you (also) desire beauty of world's life; and whose heart We have made heedless of Our remembrance, he follows his worldly desires, his act is to commit manifest excesses.",
-    "arabic_text": "وَاصْبِرْ نَفْسَكَ مَعَ الَّذِينَ يَدْعُونَ رَبَّهُم بِالْغَدَوٰةِ وَالْعَشِىِّ يُرِيدُونَ وَجْهَهُ ۖ وَ لَا تَعْدُ عَيْنَاكَ عَنْهُمْ تُرِيدُ زِينَةَ الْحَيَوٰةِ الدُّنْيَا ۖ وَ لَا تُطِعْ مَنْ اَغْفَلْنَا قَلْبَهُ عَن ذِكْرِنَا وَاتَّبَعَ هَوَىٰهُ وَكَانَ اَمْرُهُ فُرُطًۭا",
+    "arabic_text": "وَاصْبِرْ نَفْسَكَ مَعَ الَّذِينَ يَدْعُونَ رَبَّهُم بِالْغَدَوٰةِ وَالْعَشِىِّ يُرِيدُونَ وَجْهَهُ ۖ وَ لَا تَعْدُ عَيْنَاكَ عَنْهُمْ تُرِيدُ زِينَةَ الْحَيَوٰةِ الدُّنْيٰۖ وَ لَا تُطِعْ مَنْ اَغْفَلْنَا قَلْبَهُ عَن ذِكْرِنَا وَاتَّبَعَ هَوَىٰهُ وَكَانَ اَمْرُهُ فُرُطًۭا",
     "urdu_text": "اور اے نبی آپ ان لوگوں کے ساتھ صبر کریں جو صبح و شام اپنے رب کو پکارتے هیں اور اس کی رضا چاهتے هیں، اور آپ کی نگاهیں ان سے نه هٹیں که آپ دنیا کی زندگی کی زینت چاهیں، اور جس کے دل کو هم نے اپنی یاد سے غافل کر دیا هے اس کی اطاعت نه کریں، وه اپنی خواهشات کی پیروی کرتا هے اور اس کا کام حد سے بڑھ جانا هے۔",
     "persian_text": "و خود را با کسانی که پروردگارشان را صبح و شام می‌خوانند و خشنودی او را می‌جویند صبور دار، و چشمانت از آنان برمگردان که زینت زندگی دنیا را بخواهی، و از کسی که دلش را از یاد خود غافل ساخته‌ایم و از هوای نفس خود پیروی می‌کند و کارش افراط است، اطاعت مکن.",
     "transliteration": "Wasbir nafsaka ma'alladhina yad'una rabbahum bilghadati wal'ashiyyi yuriduna wajhahu wa la ta'du 'aynaka 'anhum turidu zinatal-hayatid-dunya wa la tuti' man aghfalna qalbahu 'an dhikrina wattaba'a hawahu wa kana amruhu furuta"
@@ -289,7 +289,7 @@ ayats = [
   {
     "verse_number": 36,
     "english_text": "And I do not even think that the Day of Judgement will ever happen, and if ever I will be returned to Lord then indeed He will give me much better place than this.",
-    "arabic_text": "وَ مَآ اَظُنُّ السَّاعَةَ قَآئِمَةًۭ وَلَئِن رُّدِدتُّ اِلَىٰ رَبِّى لَاَجِدَنَّ خَيْرًا مِّنْهَا مُنقَلَبًا",
+    "arabic_text": "وَ مَآ اَظُنُّ السَّاعَةَ قَآئِمَةًۭ وَلَئِن رُّدِدتُّ اِلـٰى رَبِّى لَاَجِدَنَّ خَيْرًا مِّنْهَا مُنقَلَبًا",
     "urdu_text": "اور میں یه بھی نهیں سمجھتا که قیامت کبھی آئے گی، اور اگر میں اپنے رب کی طرف لوٹایا بھی گیا تو یقیناً وه مجھے اس سے بهتر جگه دے گا۔",
     "persian_text": "و گمان نمی‌کنم که قیامت برپا شود، و اگر هم به سوی پروردگارم بازگردانده شوم، قطعاً جایگاهی بهتر از این خواهم یافت.",
     "transliteration": "Wa maaa azunnus-saa'ata qaaa'imataw-wa la'ir-rudidtu ilaa Rabbee la-ajidanna khayram-minhaa munqalabaa"
@@ -361,7 +361,7 @@ ayats = [
   {
     "verse_number": 45,
     "english_text": "And (O Prophet), describe to them examples of the world also, its condition is like water which We rain down from the sky which will be absorbed by earth's vegetation, then in the end it will become particles which will be blown by the wind, and Allah has Power over everything.",
-    "arabic_text": "وَاضْرِبْ لَهُم مَّثَلَ الْحَيَوٰةِ الدُّنْيَا كَمَآءٍ اَنزَلْنَـٰهُ مِنَ السَّمَآءِ فَاخْتَلَطَ بِهِ نَبَاتُ الْاَرْضِ فَاَصْبَحَ هَشِيمًا تَذْرُوهُ الرِّيَـٰحُ ۗ وَكَانَ اللّٰهُ عَلَىٰ كُلِّ شَىْءٍۢ مُّقْتَدِرًا",
+    "arabic_text": "وَاضْرِبْ لَهُم مَّثَلَ الْحَيَوٰةِ الدُّنْيٰكَمَآءٍ اَنزَلْنَـٰهُ مِنَ السَّمَآءِ فَاخْتَلَطَ بِهِ نَبَاتُ الْاَرْضِ فَاَصْبَحَ هَشِيمًا تَذْرُوهُ الرِّيَـٰحُ ۗ وَكَانَ اللّٰهُ عَلَىٰ كُلِّ شَىْءٍۢ مُّقْتَدِرًا",
     "urdu_text": "اور اے نبی، ان کے لیے دنیا کی زندگی کی مثال بیان کرو، یه اس پانی کی طرح هے جو هم نے آسمان سے برسایا، پھر اس سے زمین کی نباتات مل گئیں، پھر وه خشک ٹکڑے بن گئے جنهیں هوائیں اڑا لے جاتی هیں، اور الله هر چیز پر قادر هے۔",
     "persian_text": "و ای پیامبر، برای آنان مثال زندگی دنیا را بیان کن، همچون آبی که از آسمان فرو فرستادیم و گیاهان زمین با آن درآمیخت، سپس خرد و خشک شد که بادها آن را می‌پراکنند، و خداوند بر هر چیزی تواناست.",
     "transliteration": "Wadrib lahum mathalal-hayaatid-dunyaa kamaa'in anzalnaahu minas-samaa'i fakhtalaṭa bihee nabaatul-ardi fa-asbaha hasheeman tadhroohur-riyaah, wa kaanallaahu 'alaa kulli shay'im-muqtadiraa"
@@ -369,7 +369,7 @@ ayats = [
   {
     "verse_number": 46,
     "english_text": "And (O Prophet), wealth and children are adornments of life of the world, and good deeds are much better with your Lord in regards to hopes and rewards.",
-    "arabic_text": "الْمَالُ وَالْبَنُونَ زِينَةُ الْحَيَوٰةِ الدُّنْيَا ۖ وَالْبَـٰقِيَـٰتُ الصَّـٰلِحَـٰتُ خَيْرٌ عِندَ رَبِّكَ ثَوَابًا وَخَيْرٌ اَمَلًا",
+    "arabic_text": "الْمَالُ وَالْبَنُونَ زِينَةُ الْحَيَوٰةِ الدُّنْيٰۖ وَالْبَـٰقِيَـٰتُ الصَّـٰلِحَـٰتُ خَيْرٌ عِندَ رَبِّكَ ثَوَابًا وَخَيْرٌ اَمَلًا",
     "urdu_text": "اور اے نبی، مال اور اولاد دنیوی زندگی کی زینت هیں، اور باقی رهنے والے نیک اعمال تمهارے رب کے نزدیک ثواب میں بهتر هیں اور امید میں بھی بهتر هیں۔",
     "persian_text": "و ای پیامبر، مال و فرزندان زینت زندگی دنیاست، و کارهای نیک پایدار نزد پروردگارت در پاداش بهتر و در امید بهتر است.",
     "transliteration": "Al-maalu wal-banoona zeenatil-hayaatid-dunyaa, wal-baaqiyaatus-saalihaatu khayrun 'inda Rabbika thawaaban wa khayrun amalaa"
@@ -377,7 +377,7 @@ ayats = [
   {
     "verse_number": 47,
     "english_text": "(Fear that day) when We will move the mountains and you will see the earth as an open ground, and We will gather them all and will not leave even a single one.",
-    "arabic_text": "وَيَوْمَ نُسَيِّرُ الْجِبَالَ وَتَرَى الْاَرْضَ بَارِزَةًۭ وَحَشَرْنَـٰهُمْ فَلَمْ نُغَادِرْ مِنْهُمْ اَحَدًۭا",
+    "arabic_text": "وَ يَوْمَ نُسَيِّرُ الْجِبَالَ وَتَرَى الْاَرْضَ بَارِزَةًۭ وَحَشَرْنَـٰهُمْ فَلَمْ نُغَادِرْ مِنْهُمْ اَحَدًۭا",
     "urdu_text": "اور اس دن سے ڈرو جب هم پهاڑوں کو چلائیں گے اور تم زمین کو کھلا میدان دیکھو گے، اور هم سب کو جمع کریں گے اور ان میں سے کسی ایک کو بھی نهیں چھوڑیں گے۔",
     "persian_text": "و روزی که کوه‌ها را به حرکت درآوریم و زمین را هموار ببینی، و همه را گرد آوریم و هیچ یک از آنان را باقی نگذاریم.",
     "transliteration": "Wa yawma nusayyirul-jibaala wa taral-arda baarizatan wa hasharnaahum falam nughaadir minhum ahadaa"
@@ -417,7 +417,7 @@ ayats = [
   {
     "verse_number": 52,
     "english_text": "(And fear that day) when Allah will say: call upon those whom you considered My partner; they will call them, but they will not listen to them any; and We will make a strong curtain between them.",
-    "arabic_text": "وَيَوْمَ يَقُولُ نَادُواْ شُرَكَآءِىَ الَّذِينَ زَعَمْتُمْ فَدَعَوْهُمْ فَلَمْ يَسْتَجِيبُواْ لَهُمْ وَجَعَلْنَا بَيْنَهُم مَّوْبِقًۭا",
+    "arabic_text": "وَ يَوْمَ يَقُولُ نَادُواْ شُرَكَآءِىَ الَّذِينَ زَعَمْتُمْ فَدَعَوْهُمْ فَلَمْ يَسْتَجِيبُواْ لَهُمْ وَجَعَلْنَا بَيْنَهُم مَّوْبِقًۭا",
     "urdu_text": "اور اس دن کو یاد کرو جب الله فرمائے گا: بلاؤ ان شریکوں کو جنهیں تم نے میرا شریک سمجھا تھا، پھر وه انهیں پکاریں گے لیکن وه ان کی نهیں سنیں گے، اور هم نے ان کے درمیان هلاکت کی جگه بنا دی هے۔",
     "persian_text": "و روزی که خداوند می‌گوید: شریکان مرا که گمان می‌بردید فرا بخوانید، پس آنها را می‌خوانند ولی آنها پاسخشان نمی‌دهند، و ما میان آنها مکان هلاکتی قرار دادیم.",
     "transliteration": "Wa yawma yaqoolu naadoo shurakaaa'iyal ladheena za'amtum fada'awhum falam yastajeeboo lahum wa ja'alnaa baynahum mawbiqa"
@@ -489,7 +489,7 @@ ayats = [
   {
     "verse_number": 61,
     "english_text": "When they reached the junction of the rivers, he left their (barbeque) fish, it made its way and swam away.",
-    "arabic_text": "فَلَمَّا بَلَغَا مَجْمَعَ بَيْنِهِمَا نَسِيَا حُوتَهُمَا فَاتَّخَذَ سَبِيلَهُ فِى الْبَحْرِ سَرَبًا",
+    "arabic_text": "فَلَمَّا بَلَغَا مَجْمَعَ بَيْنِهِمَا نَسِيٰحُوتَهُمَا فَاتَّخَذَ سَبِيلَهُ فِى الْبَحْرِ سَرَبًا",
     "urdu_text": "پھر جب وه دونوں دریاؤں کے سنگم پر پهنچے تو اپنی مچھلی کو بھول گئے، اور وه سمندر میں اپنا راسته بنا کر چلی گئی۔",
     "persian_text": "پس چون به محل اجتماع دو دریا رسیدند، ماهی خود را فراموش کردند و آن در دریا راه خود را گرفت و شنا کنان رفت.",
     "transliteration": "Falammā balaghā majma'a baynihimā nasiyā ḥūtahumā fattakhadha sabīlahū fī al-baḥri sarabā"
@@ -593,7 +593,7 @@ ayats = [
   {
     "verse_number": 74,
     "english_text": "Then they both went ahead until they met a boy, then that servant of Allah killed him, Moosa said: did you kill an innocent person, and that's too without any revenge for a blood, indeed your act was strange.",
-    "arabic_text": "فَانطَلَقَا حَتَّىٰٓ اِذَا لَقِيَا غُلَـٰمًا فَقَتَلَهُ قَالَ اَقَتَلْتَ نَفْسًۭا زَكِيَّةًۢ بِغَيْرِ نَفْسٍۢ لَّقَدْ جِئْتَ شَيْـًۭٔا نُّكْرًا",
+    "arabic_text": "فَانطَلَقَا حَتَّىٰٓ اِذَا لَقِيٰغُلَـٰمًا فَقَتَلَهُ قَالَ اَقَتَلْتَ نَفْسًۭا زَكِيَّةًۢ بِغَيْرِ نَفْسٍۢ لَّقَدْ جِئْتَ شَيْـًۭٔا نُّكْرًا",
     "urdu_text": "پھر دونوں چل پڑے یهاں تک که ایک لڑکے سے ملے تو اس نے اسے قتل کر دیا۔ موسیٰ نے کها: کیا تم نے ایک بے گناه جان کو بغیر کسی قصاص کے قتل کر دیا؟ بیشک تم نے بڑا هی برا کام کیا۔",
     "persian_text": "پس هر دو روان شدند تا آنگاه که پسری را دیدند و او وی را کشت. موسی گفت: آیا انسان پاکی را بدون قصاص کشتی؟ به راستی کار بسیار زشتی انجام دادی.",
     "transliteration": "Fantalaqā ḥattā idhā laqiyā ghulāman faqatalahu qāla aqatalta nafsan zakiyyatan bighayri nafsin laqad ji'ta shay'an nukrā"
@@ -697,7 +697,7 @@ ayats = [
   {
     "verse_number": 87,
     "english_text": "Zulqarnain said: Verily I will punish him who will do transgression, then at last they will all be returned before their Lord (on the Day of Judgement) and He will give them the worst punishment.",
-    "arabic_text": "قَالَ اَمَّا مَن ظَلَمَ فَسَوْفَ نُعَذِّبُهُ ثُمَّ يُرَدُّ اِلَىٰ رَبِّهِ فَيُعَذِّبُهُ عَذَابًا نُّكْرًا",
+    "arabic_text": "قَالَ اَمَّا مَن ظَلَمَ فَسَوْفَ نُعَذِّبُهُ ثُمَّ يُرَدُّ اِلـٰى رَبِّهِ فَيُعَذِّبُهُ عَذَابًا نُّكْرًا",
     "urdu_text": "اس نے کها: جو ظلم کرے گا تو هم اسے سزا دیں گے، پھر وه اپنے رب کی طرف لوٹایا جائے گا اور وه اسے سخت عذاب دے گا۔",
     "persian_text": "گفت: اما کسی که ستم کند، او را عذاب خواهیم داد، سپس به سوی پروردگارش بازگردانده می‌شود و او را به عذابی سخت عذاب خواهد کرد.",
     "transliteration": "Qaala amma man zalama fasawfa nu'adhdhibuhu thumma yuraddu ila Rabbihi fayu'adhdhibuhu 'adhaban nukra"
@@ -833,7 +833,7 @@ ayats = [
   {
     "verse_number": 104,
     "english_text": "Those are the people whose endeavours of the world have gone waste, and they are thinking that Verily they are doing good deeds.",
-    "arabic_text": "الَّذِينَ ضَلَّ سَعْيُهُمْ فِى الْحَيَوٰةِ الدُّنْيَا وَهُمْ يَحْسَبُونَ اَنَّهُمْ يُحْسِنُونَ صُنْعًا",
+    "arabic_text": "الَّذِينَ ضَلَّ سَعْيُهُمْ فِى الْحَيَوٰةِ الدُّنْيٰوَهُمْ يَحْسَبُونَ اَنَّهُمْ يُحْسِنُونَ صُنْعًا",
     "urdu_text": "یه وه لوگ هیں جن کی دنیوی زندگی میں ساری کوششیں ضائع هو گئیں اور وه سمجھتے هیں که وه اچھے کام کر رهے هیں۔",
     "persian_text": "کسانی که تلاش‌شان در زندگی دنیا گمراه شد و آنان می‌پندارند که نیکو عمل می‌کنند.",
     "transliteration": "Allatheena dalla sa'yuhum fil-hayaatid-dunyaa wa hum yahsaboona annahum yuhsinoona sun'a"

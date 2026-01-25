@@ -113,7 +113,7 @@ ayats = [
   {
     "verse_number": 14,
     "english_text": "And We sent Nooh towards his nation, and he remained among them for nine hundred fifty years, then his nation was overtaken by the storm, because they were unjust.",
-    "arabic_text": "وَ لَقَدْ اَرْسَلْنَا نُوحًا اِلَىٰ قَوْمِهِ فَلَبِثَ فِيهِمْ اَلْفَ سَنَةٍ اِلَّا خَمْسِينَ عَامًا فَاَخَذَهُمُ الطُّوفَانُ وَهُمْ ظَـٰلِمُونَ",
+    "arabic_text": "وَ لَقَدْ اَرْسَلْنَا نُوحًا اِلـٰى قَوْمِهِ فَلَبِثَ فِيهِمْ اَلْفَ سَنَةٍ اِلَّا خَمْسِينَ عَامًا فَاَخَذَهُمُ الطُّوفَانُ وَهُمْ ظَـٰلِمُونَ",
     "urdu_text": "اور بیشک ہم نے نوح کو ان کی قوم کی طرف بھیجا، پھر وہ ان میں نو سو پچاس سال رہے، پھر انہیں طوفان نے آ لیا اور وہ ظالم تھے۔",
     "persian_text": "و ما نوح را به سوی قومش فرستادیم، پس نهصد و پنجاه سال در میان آنها ماند، سپس طوفان آنها را فرا گرفت در حالی که ستمگر بودند.",
     "transliteration": "Wa laqad arsalnā Nūḥan ilā qawmihī fa-labitha fīhim alfa sanatin illā khamsīna 'āman fa-akhadhahumut-ṭūfānu wa hum ẓālimūn"
@@ -201,7 +201,7 @@ ayats = [
   {
     "verse_number": 25,
     "english_text": "And Ibrahim said: only for the love of life of this world you have adopted idols leaving Allah, and on the Day of Judgement you will deny each other and curse each other, then your abode will be Hell and no one will be your helper.",
-    "arabic_text": "وَقَالَ اِنَّمَا اتَّخَذْتُم مِّن دُونِ اللّٰهِ اَوْثَـٰنًۭا مَّوَدَّةَ بَيْنِكُمْ فِى الْحَيَوٰةِ الدُّنْيَا ۖ ثُمَّ يَوْمَ الْقِيَـٰمَةِ يَكْفُرُ بَعْضُكُم بِبَعْضٍۢ وَيَلْعَنُ بَعْضُكُم بَعْضًۭا وَمَاْوَىٰكُمُ النَّارُ وَ مَا لَكُم مِّن نَّـٰصِرِينَ",
+    "arabic_text": "وَقَالَ اِنَّمَا اتَّخَذْتُم مِّن دُونِ اللّٰهِ اَوْثَـٰنًۭا مَّوَدَّةَ بَيْنِكُمْ فِى الْحَيَوٰةِ الدُّنْيٰۖ ثُمَّ يَوْمَ الْقِيَـٰمَةِ يَكْفُرُ بَعْضُكُم بِبَعْضٍۢ وَيَلْعَنُ بَعْضُكُم بَعْضًۭا وَمَاْوَىٰكُمُ النَّارُ وَ مَا لَكُم مِّن نَّـٰصِرِينَ",
     "urdu_text": "اور ابراہیم نے کہا: تم نے اللہ کو چھوڑ کر بت صرف دنیوی زندگی میں آپس کی محبت کے لیے بنائے ہیں، پھر قیامت کے دن تم ایک دوسرے کا انکار کرو گے اور ایک دوسرے پر لعنت کرو گے، اور تمہارا ٹھکانا جہنم ہے اور تمہارا کوئی مددگار نہیں۔",
     "persian_text": "و ابراهیم گفت: شما جز برای محبت میان خود در زندگی دنیا، به جای خدا بتانی برگزیده‌اید، سپس در روز قیامت بعضی از شما بعضی دیگر را انکار خواهید کرد و بعضی بعضی دیگر را لعنت خواهید کرد، و جایگاه شما آتش است و هیچ یاوری برای شما نیست.",
     "transliteration": "Wa qaala innamattakhadhtum min doonillaahi awsaanan mawaddata baynikum fil hayaatid dunyaa thumma yawmal qiyaamati yakfuru ba'dukum biba'din wa yal'anu ba'dukum ba'dan wa ma'waakumun naaru wa maa lakum min naasireen"
@@ -209,7 +209,7 @@ ayats = [
   {
     "verse_number": 26,
     "english_text": "Then Lut believed in him (Ibrahim) and said: I am migrating towards Allah and He is the Honorable and Wise.",
-    "arabic_text": "۞ فَـَٔامَنَ لَهُ لُوطٌۭ ۘ وَقَالَ اِنِّى مُهَاجِرٌ اِلَىٰ رَبِّىٓ ۖ اِنَّهُ هُوَ الْعَزِيزُ الْحَكِيمُ",
+    "arabic_text": "۞ فَـَٔامَنَ لَهُ لُوطٌۭ ۘ وَقَالَ اِنِّى مُهَاجِرٌ اِلـٰى رَبِّىٓ ۖ اِنَّهُ هُوَ الْعَزِيزُ الْحَكِيمُ",
     "urdu_text": "پھر لوط ان پر ایمان لائے اور کہا: میں اپنے رب کی طرف ہجرت کرتا ہوں، بیشک وہی غالب اور حکمت والا ہے۔",
     "persian_text": "پس لوط به او ایمان آورد و گفت: من به سوی پروردگارم هجرت می‌کنم، همانا او عزیز و حکیم است.",
     "transliteration": "Fa aamana lahoo loot wa qaala innee muhajirun ilaa rabbee innahoo huwal 'azeezul hakeem"
@@ -217,7 +217,7 @@ ayats = [
   {
     "verse_number": 27,
     "english_text": "And then We gave him children like Ishaq and Yaqoob, then kept book and prophethood in their progeny, and in the world recompense them and in the Hereafter, they will be counted among the good character people.",
-    "arabic_text": "وَوَهَبْنَا لَهُٓ اِسْحَـٰقَ وَيَعْقُوبَ وَجَعَلْنَا فِى ذُرِّيَّتِهِ النُّبُوَّةَ وَالْكِتٰبَ وَءَاتَيْنَـٰهُ اَجْرَهُ فِى الدُّنْيَا ۖ وَاِنَّهُ فِى الْاخِرَةِ لَمِنَ الصَّـٰلِحِينَ",
+    "arabic_text": "وَوَهَبْنَا لَهُٓ اِسْحَـٰقَ وَيَعْقُوبَ وَجَعَلْنَا فِى ذُرِّيَّتِهِ النُّبُوَّةَ وَالْكِتٰبَ وَءَاتَيْنَـٰهُ اَجْرَهُ فِى الدُّنْيٰۖ وَاِنَّهُ فِى الْاخِرَةِ لَمِنَ الصَّـٰلِحِينَ",
     "urdu_text": "اور ہم نے انہیں اسحاق اور یعقوب عطا کیے اور ان کی اولاد میں نبوت اور کتاب رکھی، اور انہیں دنیا میں ان کا اجر دیا، اور بیشک وہ آخرت میں نیکوکاروں میں سے ہیں۔",
     "persian_text": "و به او اسحاق و یعقوب بخشیدیم و در نسل او نبوت و کتاب قرار دادیم، و پاداش او را در دنیا به او دادیم، و همانا او در آخرت از شایستگان است.",
     "transliteration": "Wa wahabnaa lahoo Ishaqa wa Ya'qooba wa ja'alnaa fee dhurriyyatihin nubuwwata wal kitaaba wa aataynaahu ajrahoo fid dunyaa wa innahoo fil aakhirati laminas saaliheen"
@@ -289,7 +289,7 @@ ayats = [
   {
     "verse_number": 36,
     "english_text": "And We sent his brother Shoaib towards Madyan, so he said: worship Allah and be hopeful of the Day of Judgement, and do not make mischief in the land.",
-    "arabic_text": "وَاِلَىٰ مَدْيَنَ اَخَاهُمْ شُعَيْبًا فَقَالَ يَـٰقَوْمِ اعْبُدُواْ اللّٰهَ وَارْجُواْ الْيَوْمَ الْاخِرَ وَ لَا تَعْثَوْاْ فِى الْاَرْضِ مُفْسِدِينَ",
+    "arabic_text": "وَ اِلـٰى مَدْيَنَ اَخَاهُمْ شُعَيْبًا فَقَالَ يَـٰقَوْمِ اعْبُدُواْ اللّٰهَ وَارْجُواْ الْيَوْمَ الْاخِرَ وَ لَا تَعْثَوْاْ فِى الْاَرْضِ مُفْسِدِينَ",
     "urdu_text": "اور مدین کی طرف ہم نے ان کے بھائی شعیب کو بھیجا، تو انہوں نے کہا: اے میری قوم! اللہ کی عبادت کرو اور آخرت کے دن کی امید رکھو، اور زمین میں فساد مچاتے نہ پھرو۔",
     "persian_text": "و به سوی مدین برادرشان شعیب را فرستادیم، پس گفت: ای قوم من! خدا را پرستش کنید و به روز آخرت امیدوار باشید، و در زمین فساد نکنید.",
     "transliteration": "Wa ilaa Madyana akhaahum Shu'ayban faqaala yaa qawmi'budullaaha warjul-Yawmal-Aakhira wa laa ta'thaw fil-ardi mufsideen"
@@ -505,7 +505,7 @@ ayats = [
   {
     "verse_number": 63,
     "english_text": "And if you ask them who rained the water from sky, and enlivened earth once again after being dead, they will say: Allah did, then say: all Praises are for Allah, and majority of them do not use their intelligence.",
-    "arabic_text": "وَلَئِن سَاَلْتَهُم مَّن نَّزَّلَ مِنَ السَّمَآءِ مَآءًۭ فَاَحْيَا بِهِ الْاَرْضَ مِنۢ بَعْدِ مَوْتِهَا لَيَقُولُنَّ اللّٰهُ ۚ قُلِ الْحَمْدُ لِلَّهِ ۚ بَلْ اَكْثَرُهُمْ لَا يَعْقِلُونَ",
+    "arabic_text": "وَلَئِن سَاَلْتَهُم مَّن نَّزَّلَ مِنَ السَّمَآءِ مَآءًۭ فَاَحْيٰبِهِ الْاَرْضَ مِنۢ بَعْدِ مَوْتِهَا لَيَقُولُنَّ اللّٰهُ ۚ قُلِ الْحَمْدُ لِلَّهِ ۚ بَلْ اَكْثَرُهُمْ لَا يَعْقِلُونَ",
     "urdu_text": "اور اگر تم ان سے پوچھو کہ آسمان سے پانی کس نے برسایا اور اس کے ذریعے زمین کو اس کی موت کے بعد زندہ کیا تو وہ ضرور کہیں گے کہ اللہ نے، تو کہہ دو کہ تمام تعریفیں اللہ ہی کے لیے ہیں، بلکہ ان میں سے اکثر عقل نہیں رکھتے۔",
     "persian_text": "و اگر از آنان بپرسی چه کسی از آسمان آب فرو فرستاد و با آن زمین را پس از مردنش زنده کرد، قطعاً خواهند گفت: الله. بگو: ستایش مخصوص الله است، بلکه بیشترشان تعقل نمی‌کنند.",
     "transliteration": "Wa la'in sa'altahum man nazzala minas-samaaa'i maaa'an fa-ahyaa bihil-arda min ba'di mawtihaa la-yaqoolunnal-laah, qulil-hamdu lillaah, bal aktharuhum laa ya'qiloon"

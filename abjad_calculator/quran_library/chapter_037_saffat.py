@@ -49,7 +49,7 @@ ayats = [
   {
     "verse_number": 6,
     "english_text": "Verily We adorned the sky of earth with stars.",
-    "arabic_text": "اِنَّا زَيَّنَّا السَّمَآءَ الدُّنْيَا بِزِينَةٍ الْكَوَاكِبِ",
+    "arabic_text": "اِنَّا زَيَّنَّا السَّمَآءَ الدُّنْيٰبِزِينَةٍ الْكَوَاكِبِ",
     "urdu_text": "بیشک هم نے آسمان دنیا کو ستاروں کی زینت سے آراسته کیا",
     "persian_text": "به راستی که ما آسمان دنیا را با زینت ستارگان آراستیم",
     "transliteration": "Innaa zayyanas-samaaa'ad-dunyaa bi-zeenatil-kawaakib"
@@ -185,7 +185,7 @@ ayats = [
   {
     "verse_number": 23,
     "english_text": "And to all their gods and (also) to them, show the way to Hell.",
-    "arabic_text": "مِن دُونِ اللّٰهِ فَاهْدُوهُمْ اِلَىٰ صِرَٰطِ الْجَحِيمِ",
+    "arabic_text": "مِن دُونِ اللّٰهِ فَاهْدُوهُمْ اِلـٰى صِرَٰطِ الْجَحِيمِ",
     "urdu_text": "الله کے سوا، پھر ان سب کو جهنم کے راستے کی طرف لے جاؤ۔",
     "persian_text": "غیر از خدا، پس آنها را به راه جهنم هدایت کنید.",
     "transliteration": "Min dūnillāhi fahdūhum ilā ṣirāṭil-jaḥīm"
@@ -601,7 +601,7 @@ ayats = [
   {
     "verse_number": 75,
     "english_text": "And Verily, Nooh called upon us, and We are the best Acceptor.",
-    "arabic_text": "وَ لَقَدْ نَادَىٰنَا نُوحٌۭ فَلَنِعْمَ الْمُجِيبُونَ",
+    "arabic_text": "وَ لَقَدْ نَادٰىنَا نُوحٌۭ فَلَنِعْمَ الْمُجِيبُونَ",
     "urdu_text": "اور یقیناً نوح نے همیں پکارا تو هم کیا هی بهترین قبول کرنے والے هیں۔",
     "persian_text": "و به راستی نوح ما را خواند و ما چه بهترین پاسخ‌دهندگانیم.",
     "transliteration": "Wa laqad nadana Noohun fala-ni'mal mujeeboon"
@@ -729,7 +729,7 @@ ayats = [
   {
     "verse_number": 91,
     "english_text": "And Ibrahim turned to their gods and said why don't you eat something?",
-    "arabic_text": "فَرَاغَ اِلَىٰٓ ءَالِهَتِهِمْ فَقَالَ اَلَا تَاْكُلُونَ",
+    "arabic_text": "فَرَاغَ اِلـٰىٓ ءَالِهَتِهِمْ فَقَالَ اَلَا تَاْكُلُونَ",
     "urdu_text": "پھر ابراهیم ان کے بتوں کی طرف متوجه هوئے اور کها کیا تم کھاتے نهیں هو؟",
     "persian_text": "پس ابراهیم به سوی بت‌های آنان رفت و گفت: چرا نمی‌خورید؟",
     "transliteration": "Faraagha ilaa aalihatihim faqaala alaa ta'kuloon"
@@ -793,7 +793,7 @@ ayats = [
   {
     "verse_number": 99,
     "english_text": "Ibrahim said, I am going towards my Lord, he will send guidance to me.",
-    "arabic_text": "وَقَالَ اِنِّى ذَاهِبٌ اِلَىٰ رَبِّى سَيَهْدِينِ",
+    "arabic_text": "وَقَالَ اِنِّى ذَاهِبٌ اِلـٰى رَبِّى سَيَهْدِينِ",
     "urdu_text": "اور ابراهیم نے کها میں اپنے رب کی طرف جا رها هوں، وه مجھے هدایت دے گا۔",
     "persian_text": "و گفت: من به سوی پروردگارم می‌روم، او مرا هدایت خواهد کرد.",
     "transliteration": "Wa qaala innee dhahibun ilaa rabbee sayahdeen"
@@ -1153,7 +1153,7 @@ ayats = [
   {
     "verse_number": 144,
     "english_text": "Then he would have remained in the belly (of fish) till the Day of Judgement.",
-    "arabic_text": "لَلَبِثَ فِى بَطْنِهِٓ اِلَىٰ يَوْمِ يُبْعَثُونَ",
+    "arabic_text": "لَلَبِثَ فِى بَطْنِهِٓ اِلـٰى يَوْمِ يُبْعَثُونَ",
     "urdu_text": "تو وه قیامت کے دن تک اس کے پیٹ میں رهتے۔",
     "persian_text": "تا روز قیامت در شکم آن می‌ماند.",
     "transliteration": "Lalabitha fee batniheee ilaa yawmi yub'athoon"
@@ -1177,7 +1177,7 @@ ayats = [
   {
     "verse_number": 147,
     "english_text": "And sent him as messenger towards over a lakh or more people.",
-    "arabic_text": "وَاَرْسَلْنَـٰهُ اِلَىٰ مِاْئَةِ اَلْفٍ اَوْ يَزِيدُونَ",
+    "arabic_text": "وَاَرْسَلْنَـٰهُ اِلـٰى مِاْئَةِ اَلْفٍ اَوْ يَزِيدُونَ",
     "urdu_text": "اور هم نے انهیں ایک لاکھ یا اس سے زیاده لوگوں کی طرف رسول بنا کر بھیجا۔",
     "persian_text": "و او را به سوی صد هزار یا بیشتر فرستادیم.",
     "transliteration": "Wa arsalnaahu ilaa mi'ati alfin aw yazeedoon"
@@ -1185,7 +1185,7 @@ ayats = [
   {
     "verse_number": 148,
     "english_text": "They believed and We also gave him rest till a certain period.",
-    "arabic_text": "فَـَٔامَنُواْ فَمَتَّعْنَـٰهُمْ اِلَىٰ حِينٍۢ",
+    "arabic_text": "فَـَٔامَنُواْ فَمَتَّعْنَـٰهُمْ اِلـٰى حِينٍۢ",
     "urdu_text": "تو وه ایمان لے آئے، پھر هم نے انهیں ایک وقت تک فائده پهنچایا۔",
     "persian_text": "پس ایمان آوردند و ما آنان را تا زمانی معینی بهره‌مند ساختیم.",
     "transliteration": "Fa-aamanoo famatta'naahum ilaa heen"

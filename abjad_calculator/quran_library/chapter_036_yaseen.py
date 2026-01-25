@@ -353,7 +353,7 @@ ayats = [
   {
     "verse_number": 44,
     "english_text": "But only with our Mercy, and We allow them to take rest for a period.",
-    "arabic_text": "اِلَّا رَحْمَةًۭ مِّنَّا وَمَتَـٰعًا اِلَىٰ حِينٍۢ",
+    "arabic_text": "اِلَّا رَحْمَةًۭ مِّنَّا وَمَتَـٰعًا اِلـٰى حِينٍۢ",
     "urdu_text": "مگر ہماری رحمت سے اور ایک وقت تک فائدہ اٹھانے کے لیے",
     "persian_text": "مگر از رحمت ما و بهره‌مندی تا زمانی معین",
     "transliteration": "Illaa rahmatam minnaa wa mataa'an ilaa heenin"
@@ -401,7 +401,7 @@ ayats = [
   {
     "verse_number": 50,
     "english_text": "Then no one will be able to make a will; nor shall they be able to return to their families.",
-    "arabic_text": "فَلَا يَسْتَطِيعُونَ تَوْصِيَةًۭ وَ لَآ اِلَىٰٓ اَهْلِهِمْ يَرْجِعُونَ",
+    "arabic_text": "فَلَا يَسْتَطِيعُونَ تَوْصِيَةًۭ وَ لَآ اِلـٰىٓ اَهْلِهِمْ يَرْجِعُونَ",
     "urdu_text": "پھر نہ وہ وصیت کر سکیں گے اور نہ اپنے گھر والوں کی طرف لوٹ سکیں گے",
     "persian_text": "پس نه قادر به وصیت کردن خواهند بود و نه به سوی خانواده‌شان باز می‌گردند",
     "transliteration": "Falaa yastatee'oona tawsiyataw wa laaa ilaaa ahlihim yarji'oona"
@@ -409,7 +409,7 @@ ayats = [
   {
     "verse_number": 51,
     "english_text": "And when the trumpet will be blown then everyone will rise from their graves and move towards their Lord.",
-    "arabic_text": "وَنُفِخَ فِى الصُّورِ فَاِذَا هُم مِّنَ الْاَجْدَاثِ اِلَىٰ رَبِّهِمْ يَنسِلُونَ",
+    "arabic_text": "وَنُفِخَ فِى الصُّورِ فَاِذَا هُم مِّنَ الْاَجْدَاثِ اِلـٰى رَبِّهِمْ يَنسِلُونَ",
     "urdu_text": "اور جب صور پھونکا جائے گا تو وہ سب اپنی قبروں سے نکل کر اپنے رب کی طرف دوڑ پڑیں گے۔",
     "persian_text": "و چون در صور دمیده شود، ناگهان همه از گورها به سوی پروردگارشان شتابان خواهند آمد.",
     "transliteration": "Wa nufikha fis-soori fa-iza hum minal-ajdaasi ila rabbihim yansiloon"

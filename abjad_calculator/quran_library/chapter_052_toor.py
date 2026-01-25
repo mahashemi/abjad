@@ -105,7 +105,7 @@ ayats = [
   {
     "verse_number": 13,
     "english_text": "The day when they will forcefully pushed into Hell.",
-    "arabic_text": "يَوْمَ يُدَعُّونَ اِلَىٰ نَارِ جَهَنَّمَ دَعًّا",
+    "arabic_text": "يَوْمَ يُدَعُّونَ اِلـٰى نَارِ جَهَنَّمَ دَعًّا",
     "urdu_text": "جس دن انہیں دھکے دے کر جہنم کی آگ میں ڈالا جائے گا۔",
     "persian_text": "روزی که به شدت به سوی آتش جهنم رانده می‌شوند.",
     "transliteration": "Yawma yud'aoona ilaa naari jahannama da'aa"

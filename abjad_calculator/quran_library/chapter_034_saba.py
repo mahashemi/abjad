@@ -49,7 +49,7 @@ ayats = [
   {
     "verse_number": 6,
     "english_text": "And whoever is given the knowledge they know that whatever is revealed on you is absolutely truth, and guide towards Allah, who is Predominant and worthy of Praise.",
-    "arabic_text": "وَيَرَى الَّذِينَ اُوتُواْ الْعِلْمَ الَّذِىٓ اُنزِلَ اِلَيْكَ مِن رَّبِّكَ هُوَ الْحَقَّ وَيَهْدِىٓ اِلَىٰ صِرَٰطِ الْعَزِيزِ الْحَمِيدِ",
+    "arabic_text": "وَيَرَى الَّذِينَ اُوتُواْ الْعِلْمَ الَّذِىٓ اُنزِلَ اِلَيْكَ مِن رَّبِّكَ هُوَ الْحَقَّ وَيَهْدِىٓ اِلـٰى صِرَٰطِ الْعَزِيزِ الْحَمِيدِ",
     "urdu_text": "اور جن لوگوں کو علم دیا گیا هے وه دیکھتے هیں که جو کچھ آپ پر آپ کے رب کی طرف سے نازل کیا گیا هے وه حق هے، اور غالب اور قابل تعریف الله کی راه کی طرف رهنمائی کرتا هے۔",
     "persian_text": "و کسانی که به آنان علم داده شده می‌بینند که آنچه از جانب پروردگارت بر تو نازل شده حق است و به راه خداوند عزیز و ستوده راهنمایی می‌کند.",
     "transliteration": "Wa yaral-lazina utul-'ilmal-lazi unzila ilayka mir-rabbika huwal-haqqa wa yahdi ila sirатil-'azizil-hamid"
@@ -73,7 +73,7 @@ ayats = [
   {
     "verse_number": 9,
     "english_text": "Did not they see the skies and the earth, and things of their front and their back? If We wish we can sink them in the earth or make the sky fall on them in pieces, and in these signs of Power of Allah are found for those who ponder.",
-    "arabic_text": "اَفَلَمْ يَرَوْاْ اِلَىٰ مَا بَيْنَ اَيْدِيهِمْ وَ مَا خَلْفَهُم مِّنَ السَّمَآءِ وَالْاَرْضِ ۚ اِن نَّشَاْ نَخْسِفْ بِهِمُ الْاَرْضَ اَوْ نُسْقِطْ عَلَيْهِمْ كِسَفًۭا مِّنَ السَّمَآءِ ۚ اِنَّ فِى ذَٰلِكَ لَـَٔايَةًۭ لِّكُلِّ عَبْدٍۢ مُّنِيبٍۢ",
+    "arabic_text": "اَفَلَمْ يَرَوْاْ اِلـٰى مَا بَيْنَ اَيْدِيهِمْ وَ مَا خَلْفَهُم مِّنَ السَّمَآءِ وَالْاَرْضِ ۚ اِن نَّشَاْ نَخْسِفْ بِهِمُ الْاَرْضَ اَوْ نُسْقِطْ عَلَيْهِمْ كِسَفًۭا مِّنَ السَّمَآءِ ۚ اِنَّ فِى ذَٰلِكَ لَـَٔايَةًۭ لِّكُلِّ عَبْدٍۢ مُّنِيبٍۢ",
     "urdu_text": "کیا انهوں نے آسمان اور زمین کو نهیں دیکھا جو ان کے آگے اور پیچھے هے؟ اگر هم چاهیں تو انهیں زمین میں دھنسا دیں یا آسمان کے ٹکڑے ان پر گرا دیں، بیشک اس میں هر رجوع کرنے والے بندے کے لیے نشانی هے۔",
     "persian_text": "آیا آنچه را که در پیش و پشت آنان از آسمان و زمین است نمی‌بینند؟ اگر بخواهیم آنان را در زمین فرو می‌بریم یا پاره‌ای از آسمان بر آنان فرو می‌ریزیم، در این نشانه‌ای است برای هر بنده‌ای که به سوی خدا بازگردد.",
     "transliteration": "Afalam yaraw ila ma bayna aydihim wa ma khalfahum minas-sama'i wal-ardi in nasha' nakhsif bihimul-arda aw nusqit 'alayhim kisafam-minas-sama'i inna fi zalika la-ayatal-likulli 'abdim-munib"
@@ -249,7 +249,7 @@ ayats = [
   {
     "verse_number": 31,
     "english_text": "And these infidels say: they will not have belief on this Quran and neither on the earlier books, wish you would see when these unjust will be made to stand before the Lord, and everyone will return the talk to another, and those who are considered weak, they will say to the proud-ones that if you had not come in between we would have been believers.",
-    "arabic_text": "وَقَالَ الَّذِينَ كَفَرُواْ لَن نُّؤْمِنَ بِهَـٰذَا الْقُرْءَانِ وَ لَا بِالَّذِى بَيْنَ يَدَيْهِ ۗ وَ لَوْ تَرَىٰٓ اِذِ الظَّـٰلِمُونَ مَوْقُوفُونَ عِندَ رَبِّهِمْ يَرْجِعُ بَعْضُهُمْ اِلَىٰ بَعْضٍ الْقَوْلَ يَقُولُ الَّذِينَ اسْتُضْعِفُواْ لِلَّذِينَ اسْتَكْبَرُواْ لَوْلَآ اَنتُمْ لَكُنَّا مُؤْمِنِينَ",
+    "arabic_text": "وَقَالَ الَّذِينَ كَفَرُواْ لَن نُّؤْمِنَ بِهَـٰذَا الْقُرْءَانِ وَ لَا بِالَّذِى بَيْنَ يَدَيْهِ ۗ وَ لَوْ تَرَىٰٓ اِذِ الظَّـٰلِمُونَ مَوْقُوفُونَ عِندَ رَبِّهِمْ يَرْجِعُ بَعْضُهُمْ اِلـٰى بَعْضٍ الْقَوْلَ يَقُولُ الَّذِينَ اسْتُضْعِفُواْ لِلَّذِينَ اسْتَكْبَرُواْ لَوْلَآ اَنتُمْ لَكُنَّا مُؤْمِنِينَ",
     "urdu_text": "اور کافروں نے کها که هم اس قرآن پر ایمان نهیں لائیں گے اور نه ان کتابوں پر جو اس سے پهلے آئیں۔ کاش آپ دیکھتے جب یه ظالم لوگ اپنے رب کے سامنے کھڑے کیے جائیں گے، وه ایک دوسرے پر الزام لگائیں گے۔ کمزور سمجھے جانے والے لوگ متکبروں سے کهیں گے که اگر تم نه هوتے تو هم ضرور ایمان لے آتے۔",
     "persian_text": "و کسانی که کفر ورزیدند گفتند: ما هرگز به این قرآن و نه به آنچه پیش از آن بوده ایمان نخواهیم آورد. و ای کاش می‌دیدی هنگامی که ستمکاران در پیشگاه پروردگارشان نگه داشته می‌شوند و سخن را به یکدیگر بازمی‌گردانند. آنان که ضعیف شمرده شدند به متکبران می‌گویند: اگر شما نبودید ما مؤمن می‌شدیم.",
     "transliteration": "Wa qalal-lazeena kafaroo lan nu'mina bihaazal-qur'aani wa laa billazee bayna yadayh, wa law taraaa iziz-zaalimoona mawqoofoona 'inda rabbihim yarji'u ba'duhum ilaa ba'dil-qawl, yaqoolul-lazeenas-tud'ifoo lillazeenas-takbaroo lawlaaa antum lakunna mu'mineen"
@@ -321,7 +321,7 @@ ayats = [
   {
     "verse_number": 40,
     "english_text": "The day Allah will collect them all and say to the angels: were they worshipping you?",
-    "arabic_text": "وَيَوْمَ يَحْشُرُهُمْ جَمِيعًۭا ثُمَّ يَقُولُ لِلْمَلَـٰٓئِكَةِ اَهَـٰٓؤُلَآءِ اِيَّاكُمْ كَانُواْ يَعْبُدُونَ",
+    "arabic_text": "وَ يَوْمَ يَحْشُرُهُمْ جَمِيعًۭا ثُمَّ يَقُولُ لِلْمَلَـٰٓئِكَةِ اَهَـٰٓؤُلَآءِ اِيَّاكُمْ كَانُواْ يَعْبُدُونَ",
     "urdu_text": "اور جس دن الله ان سب کو جمع کرے گا، پھر فرشتوں سے کهے گا: کیا یه لوگ تمهاری عبادت کرتے تھے؟",
     "persian_text": "و روزی که همه آنان را جمع می‌کند، سپس به فرشتگان می‌گوید: آیا اینان شما را می‌پرستیدند؟",
     "transliteration": "Wa yawma yahshuruhum jamee'an thumma yaqoolu lilmalaaa'ikati a-haaa'ulaaa'i iyyaakum kaanoo ya'budoon"

@@ -33,7 +33,7 @@ ayats = [
   {
     "verse_number": 4,
     "english_text": "And We had told Bani Israel in the book (Taurait) that you will create the mischief on the earth twice and will do great transgression.",
-    "arabic_text": "وَقَضَيْنَآ اِلَىٰ بَنِىٓ اِسْرَٰٓءِيلَ فِى الْكِتٰبِ لَتُفْسِدُنَّ فِى الْاَرْضِ مَرَّتَيْنِ وَلَتَعْلُنَّ عُلُوًّۭا كَبِيرًا",
+    "arabic_text": "وَقَضَيْنَآ اِلـٰى بَنِىٓ اِسْرَٰٓءِيلَ فِى الْكِتٰبِ لَتُفْسِدُنَّ فِى الْاَرْضِ مَرَّتَيْنِ وَلَتَعْلُنَّ عُلُوًّۭا كَبِيرًا",
     "urdu_text": "اور ہم نے بنی اسرائیل کو کتاب (تورات) میں فیصلہ سنا دیا تھا کہ تم زمین میں دو بار فساد کرو گے اور بڑی سرکشی کرو گے۔",
     "persian_text": "و به بنی‌اسرائیل در کتاب اعلام کردیم که دو بار در زمین فساد خواهید کرد و سرکشی بزرگی خواهید نمود.",
     "transliteration": "Wa qadayna ila banee isra'eela fil-kitabi latufsidunna fil-ardi marratayni wa lata'lunna 'uluwwan kabeera"
@@ -233,7 +233,7 @@ ayats = [
   {
     "verse_number": 29,
     "english_text": "Do not close your hand tightly to your neck (do not give anything) or open them completely (give everything) so you have to sit down blamed.",
-    "arabic_text": "وَ لَا تَجْعَلْ يَدَكَ مَغْلُولَةً اِلَىٰ عُنُقِكَ وَ لَا تَبْسُطْهَا كُلَّ الْبَسْطِ فَتَقْعُدَ مَلُومًا مَّحْسُورًا",
+    "arabic_text": "وَ لَا تَجْعَلْ يَدَكَ مَغْلُولَةً اِلـٰى عُنُقِكَ وَ لَا تَبْسُطْهَا كُلَّ الْبَسْطِ فَتَقْعُدَ مَلُومًا مَّحْسُورًا",
     "urdu_text": "اور اپنا ہاتھ اپنی گردن سے بندھا ہوا نہ رکھو اور نہ اسے بالکل کھول دو، ورنہ ملامت زدہ اور تھکا ماندہ بیٹھ رہ جاؤ گے۔",
     "persian_text": "و دست خود را به گردنت بسته مگذار و آن را کاملاً باز مکن که سرزنش‌شده و درمانده بنشینی.",
     "transliteration": "Wa la taj'al yadaka maghlulatan ila 'unuqika wa la tabsutha kullal-basti fataq'uda maluman mahsura"
@@ -337,7 +337,7 @@ ayats = [
   {
     "verse_number": 42,
     "english_text": "(O Prophet) say to these people: if there would have been more gods as they say, till now their gods would certainly be able to find a way to the Master of Throne.",
-    "arabic_text": "قُل لَّوْ كَانَ مَعَهُٓ ءَالِهَةٌۭ كَمَا يَقُولُونَ اِذًۭا لَّابْتَغَوْاْ اِلَىٰ ذِى الْعَرْشِ سَبِيلًا",
+    "arabic_text": "قُل لَّوْ كَانَ مَعَهُٓ ءَالِهَةٌۭ كَمَا يَقُولُونَ اِذًۭا لَّابْتَغَوْاْ اِلـٰى ذِى الْعَرْشِ سَبِيلًا",
     "urdu_text": "کہہ دیجیے کہ اگر اللہ کے ساتھ اور معبود ہوتے جیسا کہ یہ لوگ کہتے ہیں، تو وہ ضرور عرش والے تک پہنچنے کی کوئی راہ تلاش کرتے۔",
     "persian_text": "بگو: اگر همراه او خدایانی بودند چنان‌که می‌گویند، آن‌گاه حتماً راهی به سوی صاحب عرش جستجو می‌کردند.",
     "transliteration": "Qul law kaana ma'ahoo aalihatun kamaa yaqooloona idhal-labtaghaw ilaa dhil-'arshi sabeelaa"
@@ -457,7 +457,7 @@ ayats = [
   {
     "verse_number": 57,
     "english_text": "And to whom these polytheists consider lord and worship them, they themselves are seeking the ways for access to their lord, those who have more nearness to Him and expect (His) Mercy and fears Him; indeed, punishment of your Lord is something which is to be feared about.",
-    "arabic_text": "اُو۟لَـٰٓئِكَ الَّذِينَ يَدْعُونَ يَبْتَغُونَ اِلَىٰ رَبِّهِمُ الْوَسِيلَةَ اَيُّهُمْ اَقْرَبُ وَيَرْجُونَ رَحْمَتَهُ وَيَخَافُونَ عَذَابَهُٓ ۚ اِنَّ عَذَابَ رَبِّكَ كَانَ مَحْذُورًا",
+    "arabic_text": "اُو۟لَـٰٓئِكَ الَّذِينَ يَدْعُونَ يَبْتَغُونَ اِلـٰى رَبِّهِمُ الْوَسِيلَةَ اَيُّهُمْ اَقْرَبُ وَيَرْجُونَ رَحْمَتَهُ وَيَخَافُونَ عَذَابَهُٓ ۚ اِنَّ عَذَابَ رَبِّكَ كَانَ مَحْذُورًا",
     "urdu_text": "اور جن کو یہ مشرک رب سمجھتے ہیں اور ان کی عبادت کرتے ہیں، وہ خود اپنے رب تک پہنچنے کے راستے تلاش کرتے ہیں کہ ان میں سے کون زیادہ قریب ہے، اور اس کی رحمت کی امید رکھتے ہیں اور اس کے عذاب سے ڈرتے ہیں، بے شک تمہارے رب کا عذاب ایسی چیز ہے جس سے ڈرنا چاہیے۔",
     "persian_text": "آنان که مشرکان آنها را می‌خوانند، خود به سوی پروردگارشان وسیله می‌جویند که کدامشان نزدیک‌تر است، و به رحمت او امیدوارند و از عذاب او می‌ترسند، همانا عذاب پروردگار تو چیزی است که باید از آن ترسید.",
     "transliteration": "Ulaaa'ikal-ladheena yad'oona yabtaghoona ilaa rabbihimul-waseelata ayyuhum aqrabu wa yarjoona rahmatahoo wa yakhaafoona 'adhaabah inna 'adhaaba rabbika kaana mahdhooraa"
@@ -481,7 +481,7 @@ ayats = [
   {
     "verse_number": 60,
     "english_text": "(O Prophet), remember when We told you that We have prevented people from all sides (from you); and the dream We showed you was for the trial (of faith) of such people, likewise the tree which is cursed in Quran and We warn people in different ways, but it only increases their inordinate transgression.",
-    "arabic_text": "وَاِذْ قُلْنَا لَكَ اِنَّ رَبَّكَ اَحَاطَ بِالنَّاسِ ۚ وَ مَا جَعَلْنَا الرُّءْيَا الَّتِىٓ اَرَيْنَـٰكَ اِلَّا فِتْنَةًۭ لِّلنَّاسِ وَالشَّجَرَةَ الْمَلْعُونَةَ فِى الْقُرْءَانِ ۚ وَنُخَوِّفُهُمْ فَمَا يَزِيدُهُمْ اِلَّا طُغْيَـٰنًۭا كَبِيرًا",
+    "arabic_text": "وَاِذْ قُلْنَا لَكَ اِنَّ رَبَّكَ اَحَاطَ بِالنَّاسِ ۚ وَ مَا جَعَلْنَا الرُّءْيٰالَّتِىٓ اَرَيْنَـٰكَ اِلَّا فِتْنَةًۭ لِّلنَّاسِ وَالشَّجَرَةَ الْمَلْعُونَةَ فِى الْقُرْءَانِ ۚ وَنُخَوِّفُهُمْ فَمَا يَزِيدُهُمْ اِلَّا طُغْيَـٰنًۭا كَبِيرًا",
     "urdu_text": "(اے نبی) یاد کرو جب ہم نے تم سے کہا کہ تمہارے رب نے لوگوں کو ہر طرف سے گھیر رکھا ہے، اور جو خواب ہم نے تمہیں دکھایا وہ لوگوں کی آزمائش کے لیے تھا، اسی طرح وہ درخت جو قرآن میں ملعون ہے، اور ہم انہیں مختلف طریقوں سے ڈراتے ہیں، لیکن یہ صرف ان کی سرکشی میں اضافہ کرتا ہے۔",
     "persian_text": "(ای پیامبر) یاد کن هنگامی که به تو گفتیم که پروردگارت مردم را احاطه کرده است، و خوابی که به تو نشان دادیم جز آزمایشی برای مردم نبود، و همچنین درخت ملعون در قرآن، و ما آنها را می‌ترسانیم اما جز طغیان بزرگ بر آنها نمی‌افزاید.",
     "transliteration": "Wa idh qulnaa laka inna rabbaka ahaata bin-naas wa maa ja'alnar-ru'yal-lateee arayynaaka illaa fitnatal-linnaasi wash-shajaratal-mal'oonata fil-qur'aan wa nukhawwifuhum famaa yazeeduhum illaa tughyaanan kabeeraa"
@@ -497,7 +497,7 @@ ayats = [
   {
     "verse_number": 62,
     "english_text": "(Iblis) said: see this is he, whom you have excelled over me; if you give me respite till the Day of Judgement; I will most Verily cut the roots of his progeny except a few.",
-    "arabic_text": "قَالَ اَرَءَيْتَكَ هَـٰذَا الَّذِى كَرَّمْتَ عَلَىَّ لَئِنْ اَخَّرْتَنِ اِلَىٰ يَوْمِ الْقِيَـٰمَةِ لَاَحْتَنِكَنَّ ذُرِّيَّتَهُٓ اِلَّا قَلِيلًا",
+    "arabic_text": "قَالَ اَرَءَيْتَكَ هَـٰذَا الَّذِى كَرَّمْتَ عَلَىَّ لَئِنْ اَخَّرْتَنِ اِلـٰى يَوْمِ الْقِيَـٰمَةِ لَاَحْتَنِكَنَّ ذُرِّيَّتَهُٓ اِلَّا قَلِيلًا",
     "urdu_text": "ابلیس نے کہا: دیکھ یہ وہی ہے جسے تو نے مجھ پر فضیلت دی ہے، اگر تو مجھے قیامت کے دن تک مہلت دے تو میں اس کی اولاد کو بہکا کر رہوں گا سوائے تھوڑے سے لوگوں کے۔",
     "persian_text": "گفت: آیا دیدی این کسی است که او را بر من برتری دادی؟ اگر مرا تا روز قیامت مهلت دهی، قطعاً فرزندان او را گمراه خواهم کرد مگر عده کمی از آنها را.",
     "transliteration": "Qala ara'aytaka hadhal-ladhi karramta 'alayya la'in akhkhartani ila yawmil-qiyamati la'ahtanikanna dhurriyyatahu illa qaleela"
@@ -625,7 +625,7 @@ ayats = [
   {
     "verse_number": 78,
     "english_text": "Keep up the prayer from the decline of sun until the darkness of night. (Zohr, Asr, Maghrib & Isha); and morning prayer (also); because morning prayer is testified upon (by angels of night and day both).",
-    "arabic_text": "اَقِمِ الصَّلَوٰةَ لِدُلُوكِ الشَّمْسِ اِلَىٰ غَسَقِ الَّيْلِ وَقُرْءَانَ الْفَجْرِ ۖ اِنَّ قُرْءَانَ الْفَجْرِ كَانَ مَشْهُودًۭا",
+    "arabic_text": "اَقِمِ الصَّلَوٰةَ لِدُلُوكِ الشَّمْسِ اِلـٰى غَسَقِ الَّيْلِ وَقُرْءَانَ الْفَجْرِ ۖ اِنَّ قُرْءَانَ الْفَجْرِ كَانَ مَشْهُودًۭا",
     "urdu_text": "سورج کے ڈھلنے سے لے کر رات کی تاریکی تک نماز قائم کرو (ظہر، عصر، مغرب اور عشاء)، اور فجر کی نماز (بھی)، بیشک فجر کی نماز میں (رات اور دن کے فرشتے) حاضر ہوتے ہیں۔",
     "persian_text": "نماز را از زوال خورشید تا تاریکی شب برپا دار (ظهر، عصر، مغرب و عشا)، و قرآن فجر را نیز، زیرا قرآن فجر مشهود است (فرشتگان شب و روز در آن حاضرند).",
     "transliteration": "Aqimis-salaata li-dulookish-shamsi ilaa ghasaqil-layli wa qur'aanal-fajri inna qur'aanal-fajri kaana mash-hoodaa"

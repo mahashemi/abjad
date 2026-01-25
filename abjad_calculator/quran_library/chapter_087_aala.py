@@ -10,7 +10,7 @@ ayats = [
   {
     "verse_number": 2,
     "english_text": "Who created and then gave order and perfection.",
-    "arabic_text": "الَّذِي خَلَقَ فَسَوّٰى",
+    "arabic_text": "الَّذِى خَلَقَ فَسَوّٰى",
     "urdu_text": "جس نے پیدا کیا پھر درست کیا",
     "persian_text": "همان که آفرید و سپس متناسب ساخت",
     "transliteration": "Allazee khalaqa fasawwaa",
@@ -18,7 +18,7 @@ ayats = [
   {
     "verse_number": 3,
     "english_text": "Who appointed fate and then guided.",
-    "arabic_text": "وَ الَّذِي قَدَّرَ فَهَدٰى",
+    "arabic_text": "وَ الَّذِى قَدَّرَ فَهَدٰى",
     "urdu_text": "اور جس نے تقدیر مقرر کی پھر راہ دکھائی",
     "persian_text": "و آن که اندازه گیری کرد و سپس هدایت نمود",
     "transliteration": "Wallazee qaddara fahadaa",
@@ -90,7 +90,7 @@ ayats = [
   {
     "verse_number": 12,
     "english_text": "Who is going to burn in a very big fire.",
-    "arabic_text": "الَّذِي يَصْلَى النَّارَ الْكُبْرٰى",
+    "arabic_text": "الَّذِى يَصْلَى النَّارَ الْكُبْرٰى",
     "urdu_text": "جو بڑی آگ میں داخل ہوگا",
     "persian_text": "همان که در آتش بزرگ وارد خواهد شد",
     "transliteration": "Allazi yaslan naaral kubra",
@@ -138,7 +138,7 @@ ayats = [
   {
     "verse_number": 18,
     "english_text": "This is present in all earlier scriptures also.",
-    "arabic_text": "اِنَّ هَٰذَا لَفِي الصُّحُفِ الْاُولَٰى",
+    "arabic_text": "اِنَّ هَٰذَا لَفِى الصُّحُفِ الْاُولَٰى",
     "urdu_text": "بیشک یہ بات پہلے صحیفوں میں بھی موجود ہے",
     "persian_text": "به راستی این در صحیفه‌های پیشین نیز آمده است",
     "transliteration": "Inna hadha lafi as-suhufi al-oola",

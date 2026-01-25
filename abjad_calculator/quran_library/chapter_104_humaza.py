@@ -10,7 +10,7 @@ ayats = [
   {
     "verse_number": 2,
     "english_text": "Who amassed the wealth and kept its accounting.",
-    "arabic_text": "الَّذِي جَمَعَ مَالًا وَّعَدَّدَهُ",
+    "arabic_text": "الَّذِى جَمَعَ مَالًا وَّعَدَّدَهُ",
     "urdu_text": "جس نے مال جمع کیا اور اسے گن گن کر رکھا",
     "persian_text": "کسی که مال جمع کرد و آن را شمرد و نگه داشت",
     "transliteration": "Allazi jama'a malaw wa 'addadah",
@@ -26,7 +26,7 @@ ayats = [
   {
     "verse_number": 4,
     "english_text": "No way, he will verily be thrown in \"Hutamah\".",
-    "arabic_text": "كَلَّا لَيُنْبَذَنَّ فِي الْحُطَمَةِ",
+    "arabic_text": "كَلَّا لَيُنْبَذَنَّ فِى الْحُطَمَةِ",
     "urdu_text": "ہرگز نہیں، وہ ضرور حطمہ میں پھینک دیا جائے گا",
     "persian_text": "هرگز چنین نیست، او قطعاً در حُطَمه افکنده خواهد شد",
     "transliteration": "Kalla layunbadhanna fil hutamah",
@@ -50,7 +50,7 @@ ayats = [
   {
     "verse_number": 7,
     "english_text": "Which rises above the hearts.",
-    "arabic_text": "الَّتِي تَطَّلِعُ عَلَى الْاَفْئِدَةِ",
+    "arabic_text": "الَّتِى تَطَّلِعُ عَلَى الْاَفْئِدَةِ",
     "urdu_text": "جو دلوں پر چڑھ جائے گی",
     "persian_text": "که بر دل‌ها سایه می‌افکند",
     "transliteration": "Allatee tattali'u 'alal-af'idah",
@@ -66,7 +66,7 @@ ayats = [
   {
     "verse_number": 9,
     "english_text": "With long columns.",
-    "arabic_text": "فِي عَمَدٍ مُمَدَّدَةٍ",
+    "arabic_text": "فِى عَمَدٍ مُمَدَّدَةٍ",
     "urdu_text": "لمبے ستونوں میں",
     "persian_text": "در ستون‌های دراز کشیده",
     "transliteration": "Fee 'amadin mumaddadah",

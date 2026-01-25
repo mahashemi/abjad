@@ -41,7 +41,7 @@ ayats = [
   {
     "verse_number": 5,
     "english_text": "Kingdom of the skies and the earth is for Him, and all the affairs return to Allah only.",
-    "arabic_text": "لَّهُ مُلْكُ السَّمَـٰوَٰتِ وَالْاَرْضِ ۚ وَاِلَى اللّٰهِ تُرْجَعُ الْاُمُورُ",
+    "arabic_text": "لَّهُ مُلْكُ السَّمَـٰوَٰتِ وَالْاَرْضِ ۚ وَ اِلـٰى اللّٰهِ تُرْجَعُ الْاُمُورُ",
     "urdu_text": "آسمانوں اور زمین کی بادشاهی اسی کی هے، اور تمام معاملات الله هی کی طرف لوٹائے جاتے هیں۔",
     "persian_text": "فرمانروایی آسمان‌ها و زمین از آن اوست، و همه کارها به سوی خدا بازگردانده می‌شود.",
     "transliteration": "Lahu mulkus-samawati wal-ard, wa ilallahi turja'ul-umur"
@@ -161,7 +161,7 @@ ayats = [
   {
     "verse_number": 20,
     "english_text": "Remember, life of the world is play, entertainment, adornment and mutual boasting, and competition about abundance of wealth and children; an example is of rain that its power of growth make the farmers happy, and later their farms withers and you see it grow yellow, and then it becomes dry and crumbles; and in the Hereafter there is severe Punishment and Forgiveness and Pleasure of Allah is also there, and life of this world is nothing but means of deception.",
-    "arabic_text": "اعْلَمُوٓاْ اَنَّمَا الْحَيَوٰةُ الدُّنْيَا لَعِبٌۭ وَلَهْوٌۭ وَزِينَةٌۭ وَتَفَاخُرٌۢ بَيْنَكُمْ وَتَكَاثُرٌۭ فِى الْاَمْوَٰلِ وَالْاَوْلَـٰدِ ۖ كَمَثَلِ غَيْثٍ اَعْجَبَ الْكُفَّارَ نَبَاتُهُ ثُمَّ يَهِيجُ فَتَرَىٰهُ مُصْفَرًّۭا ثُمَّ يَكُونُ حُطَـٰمًا ۖ وَفِى الْاخِرَةِ عَذَابٌۭ شَدِيدٌۭ وَمَغْفِرَةٌۭ مِّنَ اللّٰهِ وَرِضْوَٰنٌ ۚ وَ مَا الْحَيَوٰةُ الدُّنْيَآ اِلَّا مَتَـٰعُ الْغُرُورِ",
+    "arabic_text": "اعْلَمُوٓاْ اَنَّمَا الْحَيَوٰةُ الدُّنْيٰلَعِبٌۭ وَلَهْوٌۭ وَزِينَةٌۭ وَتَفَاخُرٌۢ بَيْنَكُمْ وَتَكَاثُرٌۭ فِى الْاَمْوَٰلِ وَالْاَوْلَـٰدِ ۖ كَمَثَلِ غَيْثٍ اَعْجَبَ الْكُفَّارَ نَبَاتُهُ ثُمَّ يَهِيجُ فَتَرَىٰهُ مُصْفَرًّۭا ثُمَّ يَكُونُ حُطَـٰمًا ۖ وَفِى الْاخِرَةِ عَذَابٌۭ شَدِيدٌۭ وَمَغْفِرَةٌۭ مِّنَ اللّٰهِ وَرِضْوَٰنٌ ۚ وَ مَا الْحَيَوٰةُ الدُّنْيَآ اِلَّا مَتَـٰعُ الْغُرُورِ",
     "urdu_text": "جان لو که دنیا کی زندگی محض کھیل اور تماشا اور زینت اور آپس میں فخر اور مال و اولاد میں کثرت کی طلب هے، اس کی مثال بارش کی سی هے جس کی پیداوار کسانوں کو خوش کر دیتی هے، پھر وه خشک هو جاتی هے تو تم اسے زرد دیکھتے هو، پھر وه ریزه ریزه هو جاتی هے، اور آخرت میں سخت عذاب هے اور الله کی طرف سے مغفرت اور رضا بھی هے، اور دنیا کی زندگی دھوکے کے سامان کے سوا کچھ نهیں۔",
     "persian_text": "بدانید که زندگی دنیا فقط بازی و سرگرمی و زینت و فخرفروشی میان شما و افزون‌طلبی در اموال و فرزندان است، مانند بارانی که رویش آن کشاورزان را به شگفتی آورد، سپس خشک شود و آن را زرد بینی، آنگاه خرد شده گردد، و در آخرت عذابی سخت و آمرزش و خشنودی از سوی خداست، و زندگی دنیا جز متاع فریب نیست.",
     "transliteration": "I'lamooo annamal-hayaatud-dunyaa la'ibunw-wa lahwunw-wa zeenatunw-wa tafaakhurum baynakum wa takaathurun fil-amwaali wal-awlaadi ka-mathali ghaythin a'jabal-kuffaara nabaatuhoo thumma yaheeju fa-taraahu musfarran thumma yakoonu hutaaman wa fil-aakhirati 'adhaabun shadeedunw-wa maghfiratun minal-laahi wa ridwaan wa mal-hayaatud-dunyaaa illaa mataa'ul-ghuroor"
@@ -169,7 +169,7 @@ ayats = [
   {
     "verse_number": 21,
     "english_text": "Hasten towards the forgiveness of your Lord and His Paradise - width of which is equal to the earth and the skies, that has been provided for the people who believe on Allah and His prophet, this is in fact the Grace of Allah which He bestows upon whom He pleases; and Allah is the Master of abounding Grace.",
-    "arabic_text": "سَابِقُوٓاْ اِلَىٰ مَغْفِرَةٍۢ مِّن رَّبِّكُمْ وَجَنَّةٍ عَرْضُهَا كَعَرْضِ السَّمَآءِ وَالْاَرْضِ اُعِدَّتْ لِلَّذِينَ ءَامَنُواْ بِاللّٰهِ وَرُسُلِهِ ۚ ذَٰلِكَ فَضْلُ اللّٰهِ يُؤْتِيهِ مَن يَشَآءُ ۚ وَاللّٰهُ ذُو الْفَضْلِ الْعَظِيمِ",
+    "arabic_text": "سَابِقُوٓاْ اِلـٰى مَغْفِرَةٍۢ مِّن رَّبِّكُمْ وَجَنَّةٍ عَرْضُهَا كَعَرْضِ السَّمَآءِ وَالْاَرْضِ اُعِدَّتْ لِلَّذِينَ ءَامَنُواْ بِاللّٰهِ وَرُسُلِهِ ۚ ذَٰلِكَ فَضْلُ اللّٰهِ يُؤْتِيهِ مَن يَشَآءُ ۚ وَاللّٰهُ ذُو الْفَضْلِ الْعَظِيمِ",
     "urdu_text": "اپنے رب کی بخشش اور اس کی جنت کی طرف دوڑو جس کی وسعت آسمانوں اور زمین کی وسعت کے برابر هے، جو ان لوگوں کے لیے تیار کی گئی هے جو الله اور اس کے رسولوں پر ایمان لائے۔ یه الله کا فضل هے جو وه جسے چاهتا هے عطا فرماتا هے، اور الله بڑے فضل والا هے۔",
     "persian_text": "به سوی آمرزش پروردگارتان و بهشتی که پهنای آن به اندازه آسمان‌ها و زمین است بشتابید، که برای کسانی که به خدا و پیامبرانش ایمان آورده‌اند آماده شده است. این فضل خداست که به هر که بخواهد می‌بخشد، و خداوند دارای فضل بزرگ است.",
     "transliteration": "Sābiqū ilā maghfiratin min rabbikum wa jannatin 'arḍuhā ka'arḍis-samā'i wal-arḍi u'iddat lilladhīna āmanū billāhi wa rusulih, dhālika faḍlullāhi yu'tīhi man yashā', wallāhu dhul-faḍlil-'aẓīm"

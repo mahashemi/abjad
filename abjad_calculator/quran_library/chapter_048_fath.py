@@ -97,7 +97,7 @@ ayats = [
   {
     "verse_number": 12,
     "english_text": "In fact, you were thinking that Prophet and the believers cannot ever return to their abodes and that thing was decorated in your hearts and you acted distrustfully; and you are a nation doomed to perish.",
-    "arabic_text": "بَلْ ظَنَنتُمْ اَن لَّن يَنقَلِبَ الرَّسُولُ وَالْمُؤْمِنُونَ اِلَىٰٓ اَهْلِيهِمْ اَبَدًۭا وَزُيِّنَ ذَٰلِكَ فِى قُلُوبِكُمْ وَظَنَنتُمْ ظَنَّ السَّوْءِ وَكُنتُمْ قَوْمًۢا بُورًا",
+    "arabic_text": "بَلْ ظَنَنتُمْ اَن لَّن يَنقَلِبَ الرَّسُولُ وَالْمُؤْمِنُونَ اِلـٰىٓ اَهْلِيهِمْ اَبَدًۭا وَزُيِّنَ ذَٰلِكَ فِى قُلُوبِكُمْ وَظَنَنتُمْ ظَنَّ السَّوْءِ وَكُنتُمْ قَوْمًۢا بُورًا",
     "urdu_text": "بلکہ تم نے یہ گمان کیا تھا کہ رسول اور مومنین کبھی اپنے گھروں کو واپس نہیں لوٹیں گے، اور یہ بات تمہارے دلوں میں خوبصورت بنا دی گئی، اور تم نے بری گمان کیا، اور تم ہلاکت والی قوم تھے۔",
     "persian_text": "بلکه شما گمان کردید که رسول و مؤمنان هرگز به خانواده‌های خود باز نخواهند گشت، و این در دل‌های شما زینت داده شد، و گمان بد بردید، و شما قومی هلاک‌شده بودید.",
     "transliteration": "Bal zanantum al-lan yanqalibar-rasoolu wal-mu'minoona ila ahleehim abadan wa zuyyina dhaalika fee quloobikum wa zanantum zannas-saw'i wa kuntum qawman boora"
@@ -121,7 +121,7 @@ ayats = [
   {
     "verse_number": 15,
     "english_text": "Shortly these who stayed behind will say: allow us to accompany you when you go for war booty, they want to change the word of Allah; so say: you cannot come with us, Allah has decided this earlier; then they will say: you are envious of us, whereas in fact they understand very little.",
-    "arabic_text": "سَيَقُولُ الْمُخَلَّفُونَ اِذَا انطَلَقْتُمْ اِلَىٰ مَغَانِمَ لِتَاْخُذُوهَا ذَرُونَا نَتَّبِعْكُمْ ۖ يُرِيدُونَ اَن يُبَدِّلُواْ كَلَـٰمَ اللّٰهِ ۚ قُل لَّن تَتَّبِعُونَا كَذَٰلِكُمْ قَالَ اللّٰهُ مِن قَبْلُ ۖ فَسَيَقُولُونَ بَلْ تَحْسُدُونَنَا ۚ بَلْ كَانُواْ لَا يَفْقَهُونَ اِلَّا قَلِيلًا",
+    "arabic_text": "سَيَقُولُ الْمُخَلَّفُونَ اِذَا انطَلَقْتُمْ اِلـٰى مَغَانِمَ لِتَاْخُذُوهَا ذَرُونَا نَتَّبِعْكُمْ ۖ يُرِيدُونَ اَن يُبَدِّلُواْ كَلَـٰمَ اللّٰهِ ۚ قُل لَّن تَتَّبِعُونَا كَذَٰلِكُمْ قَالَ اللّٰهُ مِن قَبْلُ ۖ فَسَيَقُولُونَ بَلْ تَحْسُدُونَنَا ۚ بَلْ كَانُواْ لَا يَفْقَهُونَ اِلَّا قَلِيلًا",
     "urdu_text": "عنقریب یہ پیچھے رہ جانے والے کہیں گے جب تم مالِ غنیمت لینے جاؤ: ہمیں اجازت دو کہ ہم تمہارے ساتھ چلیں۔ وہ اللہ کے کلام کو بدلنا چاہتے ہیں۔ کہہ دو: تم ہمارے ساتھ نہیں آ سکتے، اللہ نے پہلے ہی یہ فیصلہ کر دیا ہے۔ پھر وہ کہیں گے: بلکہ تم ہم سے حسد کرتے ہو۔ حالانکہ وہ بہت کم سمجھتے ہیں۔",
     "persian_text": "به زودی عقب‌ماندگان خواهند گفت هنگامی که به سوی غنایم بروید تا آن‌ها را بگیرید: بگذارید ما از شما پیروی کنیم. آنها می‌خواهند کلام اللہ را تغییر دهند. بگو: هرگز از ما پیروی نخواهید کرد، اللہ پیش از این چنین فرموده است. پس خواهند گفت: بلکه شما به ما حسد می‌برید. در حالی که آنها جز اندکی نمی‌فهمند.",
     "transliteration": "Sayaqoolul-mukhallafoona idhan-talaqtum ila maghanima lita'khudhoohaa dharoona nattabi'kum yureedoona ay-yubaddiloo kalaamallah qul lan tattabi'oona kadhaalikum qaalallahu min qabl fasayaqooloona bal tahsudoonana bal kaanoo la yafqahoona illa qaleela"
@@ -129,7 +129,7 @@ ayats = [
   {
     "verse_number": 16,
     "english_text": "Say to these who stayed behind, shortly you will be called towards a hard fighting nation that you continue fighting or they become Muslims, so if you obey Allah, He will give you the best reward; and if you will turn back as you had done earlier then you will be punished through the painful punishment.",
-    "arabic_text": "قُل لِّلْمُخَلَّفِينَ مِنَ الْاَعْرَابِ سَتُدْعَوْنَ اِلَىٰ قَوْمٍ اُو۟لِى بَاْسٍۢ شَدِيدٍۢ تُقَـٰتِلُونَهُمْ اَوْ يُسْلِمُونَ ۖ فَاِن تُطِيعُواْ يُؤْتِكُمُ اللّٰهُ اَجْرًا حَسَنًۭا ۖ وَاِن تَتَوَلَّوْاْ كَمَا تَوَلَّيْتُم مِّن قَبْلُ يُعَذِّبْكُمْ عَذَابًا اَلِيمًا",
+    "arabic_text": "قُل لِّلْمُخَلَّفِينَ مِنَ الْاَعْرَابِ سَتُدْعَوْنَ اِلـٰى قَوْمٍ اُو۟لِى بَاْسٍۢ شَدِيدٍۢ تُقَـٰتِلُونَهُمْ اَوْ يُسْلِمُونَ ۖ فَاِن تُطِيعُواْ يُؤْتِكُمُ اللّٰهُ اَجْرًا حَسَنًۭا ۖ وَاِن تَتَوَلَّوْاْ كَمَا تَوَلَّيْتُم مِّن قَبْلُ يُعَذِّبْكُمْ عَذَابًا اَلِيمًا",
     "urdu_text": "ان دیہاتیوں سے کہہ دو جو پیچھے رہ گئے تھے: عنقریب تمہیں ایک سخت جنگجو قوم کی طرف بلایا جائے گا، تم ان سے لڑو گے یا وہ مسلمان ہو جائیں گے۔ پس اگر تم نے اطاعت کی تو اللہ تمہیں اچھا اجر عطا فرمائے گا، اور اگر تم منہ موڑ لو جیسے پہلے منہ موڑا تھا تو وہ تمہیں دردناک عذاب دے گا۔",
     "persian_text": "به عقب‌ماندگان از بادیه‌نشینان بگو: به زودی به سوی قومی دارای قدرت سخت فراخوانده خواهید شد که با آنان بجنگید یا مسلمان شوند. پس اگر اطاعت کنید، اللہ به شما پاداش نیکو خواهد داد، و اگر روی برگردانید همان‌گونه که پیش از این روی برگرداندید، شما را به عذابی دردناک عذاب خواهد کرد.",
     "transliteration": "Qul lil-mukhallafeena minal-a'raabi satud'awna ila qawmin ulee ba'sin shadeedin tuqaatiloonahum aw yuslimoona fa-in tutee'oo yu'tikumullahu ajran hasanan wa in tatawallaw kama tawallaytum min qablu yu'adhdhibkum 'adhaaban aleema"
@@ -217,7 +217,7 @@ ayats = [
   {
     "verse_number": 27,
     "english_text": "Verily Allah had shown the true dream to His Prophet, Allah pleases, you enter the Sacred Mosque after shaving off the head or trimming your hair and you shall not have any fear; and He knew what you do not know; so He gave you a close victory before the victory of Makkah.",
-    "arabic_text": "لَّقَدْ صَدَقَ اللّٰهُ رَسُولَهُ الرُّءْيَا بِالْحَقِّ ۖ لَتَدْخُلُنَّ الْمَسْجِدَ الْحَرَامَ اِن شَآءَ اللّٰهُ ءَامِنِينَ مُحَلِّقِينَ رُءُوسَكُمْ وَمُقَصِّرِينَ لَا تَخَافُونَ ۖ فَعَلِمَ مَا لَمْ تَعْلَمُواْ فَجَعَلَ مِن دُونِ ذَٰلِكَ فَتْحًۭا قَرِيبًا",
+    "arabic_text": "لَّقَدْ صَدَقَ اللّٰهُ رَسُولَهُ الرُّءْيٰبِالْحَقِّ ۖ لَتَدْخُلُنَّ الْمَسْجِدَ الْحَرَامَ اِن شَآءَ اللّٰهُ ءَامِنِينَ مُحَلِّقِينَ رُءُوسَكُمْ وَمُقَصِّرِينَ لَا تَخَافُونَ ۖ فَعَلِمَ مَا لَمْ تَعْلَمُواْ فَجَعَلَ مِن دُونِ ذَٰلِكَ فَتْحًۭا قَرِيبًا",
     "urdu_text": "بیشک اللہ نے اپنے رسول کو سچا خواب دکھایا، ان شاء اللہ تم ضرور مسجد حرام میں داخل ہو گے امن کے ساتھ، اپنے سر منڈواتے ہوئے یا بال کتراتے ہوئے، بغیر کسی خوف کے، پس اللہ نے وہ جانا جو تم نہیں جانتے تھے، تو اس نے اس سے پہلے ایک قریبی فتح عطا فرمائی۔",
     "persian_text": "به راستی خداوند خواب پیامبرش را به حق تحقق بخشید، که ان شاءالله به مسجد الحرام در امنیت داخل خواهید شد، در حالی که سرهای خود را تراشیده یا کوتاه کرده‌اید، بدون هیچ ترسی، پس او آنچه را که شما نمی‌دانستید می‌دانست، و پیش از آن فتحی نزدیک قرار داد.",
     "transliteration": "Laqad sadaqa Allaahu rasoolahu ar-ru'yaa bil-haqq, la-tadkhulunna al-masjida al-haraama in shaa'a Allaahu aamineen muhalliqeena ru'oosakum wa muqassireena laa takhaafoona, fa-'alima maa lam ta'lamoo fa-ja'ala min dooni dhaalika fathan qareebaa"

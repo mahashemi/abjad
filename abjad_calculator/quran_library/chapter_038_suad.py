@@ -177,7 +177,7 @@ ayats = [
   {
     "verse_number": 22,
     "english_text": "When they came in front of Dawood, he felt frightened, they said do not be frightened we are two litigants, one has been unjust towards the other, you decide with truth and do not do injustice, and guide us to the straight path.",
-    "arabic_text": "اِذْ دَخَلُواْ عَلَىٰ دَاوُدَ فَفَزِعَ مِنْهُمْ ۖ قَالُوْاْ لَا تَخَفْ ۖ خَصْمَانِ بَغَىٰ بَعْضُنَا عَلَىٰ بَعْضٍۢ فَاحْكُم بَيْنَنَا بِالْحَقِّ وَ لَا تُشْطِطْ وَاهْدِنَآ اِلَىٰ سَوَآءِ الصِّرَٰطِ",
+    "arabic_text": "اِذْ دَخَلُواْ عَلَىٰ دَاوُدَ فَفَزِعَ مِنْهُمْ ۖ قَالُوْاْ لَا تَخَفْ ۖ خَصْمَانِ بَغَىٰ بَعْضُنَا عَلَىٰ بَعْضٍۢ فَاحْكُم بَيْنَنَا بِالْحَقِّ وَ لَا تُشْطِطْ وَاهْدِنَآ اِلـٰى سَوَآءِ الصِّرَٰطِ",
     "urdu_text": "جب وہ داؤد کے پاس آئے تو وہ ان سے گھبرا گئے، انہوں نے کہا ڈرو مت، ہم دو فریق ہیں، ایک نے دوسرے پر زیادتی کی ہے، تو ہمارے درمیان حق کے ساتھ فیصلہ کر اور ظلم نہ کر، اور ہمیں سیدھے راستے کی طرف رہنمائی کر۔",
     "persian_text": "هنگامی که بر داوود وارد شدند، او از آنان ترسید. گفتند: مترس! ما دو طرف دعوا هستیم که یکی از ما بر دیگری ستم کرده است، پس میان ما به حق داوری کن و از راه راست منحرف مشو و ما را به راه راست هدایت فرما.",
     "transliteration": "Idh dakhaloo 'alaa Daawooda fafazi'a minhum qaaloo laa takhaf khasmani baghaa ba'dunaa 'alaa ba'din fahkum baynanaa bilhaqqi wa laa tushtit wahdina ilaa sawaa'is siraati"
@@ -193,7 +193,7 @@ ayats = [
   {
     "verse_number": 24,
     "english_text": "Dawood said: he has been unjust to you by demanding your ewe; and there are many partners who are unjust to each other, except those who are believers and do good deeds, and such people are few; Dawood thought that Allah had tested him, so he repented from Allah and fell in prostration, and turn his attention totally towards Us.",
-    "arabic_text": "قَالَ لَقَدْ ظَلَمَكَ بِسُؤَالِ نَعْجَتِكَ اِلَىٰ نِعَاجِهِ ۖ وَاِنَّ كَثِيرًا مِّنَ الْخُلَطَآءِ لَيَبْغِى بَعْضُهُمْ عَلَىٰ بَعْضٍ اِلَّا الَّذِينَ ءَامَنُواْ وَعَمِلُواْ الصَّـٰلِحَـٰتِ وَقَلِيلٌۭ مَّا هُمْ ۗ وَظَنَّ دَاوُدُ اَنَّمَا فَتَنَّـٰهُ فَاسْتَغْفَرَ رَبَّهُ وَخَرَّ رَاكِعًۭا وَاَنَابَ ۩",
+    "arabic_text": "قَالَ لَقَدْ ظَلَمَكَ بِسُؤَالِ نَعْجَتِكَ اِلـٰى نِعَاجِهِ ۖ وَاِنَّ كَثِيرًا مِّنَ الْخُلَطَآءِ لَيَبْغِى بَعْضُهُمْ عَلَىٰ بَعْضٍ اِلَّا الَّذِينَ ءَامَنُواْ وَعَمِلُواْ الصَّـٰلِحَـٰتِ وَقَلِيلٌۭ مَّا هُمْ ۗ وَظَنَّ دَاوُدُ اَنَّمَا فَتَنَّـٰهُ فَاسْتَغْفَرَ رَبَّهُ وَخَرَّ رَاكِعًۭا وَاَنَابَ ۩",
     "urdu_text": "داؤد نے کہا: اس نے تیری بکری کو اپنی بکریوں میں ملانے کا مطالبہ کر کے تجھ پر ظلم کیا ہے، اور بہت سے شریک ایک دوسرے پر زیادتی کرتے ہیں سوائے ان لوگوں کے جو ایمان لائے اور نیک عمل کیے، اور ایسے لوگ بہت کم ہیں۔ اور داؤد سمجھ گئے کہ ہم نے انہیں آزمایا ہے، تو انہوں نے اپنے رب سے بخشش مانگی اور سجدے میں گر پڑے اور ہماری طرف رجوع کیا۔",
     "persian_text": "داوود گفت: او با درخواست میش تو برای افزودن به میش‌های خود، به تو ستم کرده است. و بسیاری از شرکا به یکدیگر ستم می‌کنند، مگر کسانی که ایمان آورده و کارهای شایسته انجام داده‌اند و آنان اندکند. و داوود دانست که ما او را آزموده‌ایم، پس از پروردگارش آمرزش خواست و به سجده افتاد و به سوی ما بازگشت.",
     "transliteration": "Qaala laqad zalamaka bisu'aali na'jatika ilaa ni'aajihi wa inna katheeranm minal khulataaa'i layabghee ba'duhum 'alaa ba'din illal lazeena aamanoo wa 'amilus saalihaati wa qaleelunm maa hum wa zanna Daawoodu annamaa fatannaahu fastagfhfara rabbahu wa kharra raaki'anw wa anaab"
@@ -329,7 +329,7 @@ ayats = [
   {
     "verse_number": 41,
     "english_text": "And remember Our servant Ayub, when he called out to his Lord that Satan has troubled him a lot.",
-    "arabic_text": "وَاذْكُرْ عَبْدَنَآ اَيُّوبَ اِذْ نَادَىٰ رَبَّهُٓ اَنِّى مَسَّنِىَ الشَّيْطَـٰنُ بِنُصْبٍۢ وَعَذَابٍ",
+    "arabic_text": "وَاذْكُرْ عَبْدَنَآ اَيُّوبَ اِذْ نَادٰى رَبَّهُٓ اَنِّى مَسَّنِىَ الشَّيْطَـٰنُ بِنُصْبٍۢ وَعَذَابٍ",
     "urdu_text": "اور یاد کرو ہمارے بندے ایوب کو، جب انہوں نے اپنے رب کو پکارا کہ شیطان نے مجھے سخت تکلیف اور عذاب میں مبتلا کر دیا ہے۔",
     "persian_text": "و یاد کن بنده ما ایوب را، آنگاه که پروردگارش را ندا داد که شیطان مرا به رنج و عذاب گرفتار کرده است.",
     "transliteration": "Wadhkur 'abdanā Ayyūba idh nādā Rabbahū annī massaniya ash-shaytānu bi-nusbin wa 'adhāb"
@@ -625,7 +625,7 @@ ayats = [
   {
     "verse_number": 78,
     "english_text": "And Verily you are accursed by Me, until the Day of Judgement.",
-    "arabic_text": "وَاِنَّ عَلَيْكَ لَعْنَتِىٓ اِلَىٰ يَوْمِ الدِّينِ",
+    "arabic_text": "وَاِنَّ عَلَيْكَ لَعْنَتِىٓ اِلـٰى يَوْمِ الدِّينِ",
     "urdu_text": "اور بیشک تجھ پر میری لعنت ہے قیامت کے دن تک۔",
     "persian_text": "و همانا لعنت من بر تو تا روز قیامت خواهد بود.",
     "transliteration": "Wa inna 'alayka la'natee ila yawm ad-deen"
@@ -633,7 +633,7 @@ ayats = [
   {
     "verse_number": 79,
     "english_text": "He said: my Lord give me respite until the Day of Judgement.",
-    "arabic_text": "قَالَ رَبِّ فَاَنظِرْنِىٓ اِلَىٰ يَوْمِ يُبْعَثُونَ",
+    "arabic_text": "قَالَ رَبِّ فَاَنظِرْنِىٓ اِلـٰى يَوْمِ يُبْعَثُونَ",
     "urdu_text": "اس نے کہا: اے میرے رب! مجھے اس دن تک مہلت دے جب لوگ اٹھائے جائیں گے۔",
     "persian_text": "گفت: پروردگارا! پس مرا تا روزی که برانگیخته می‌شوند مهلت ده.",
     "transliteration": "Qaala Rabbi fa-anzirnee ila yawmi yub'athoon"
@@ -649,7 +649,7 @@ ayats = [
   {
     "verse_number": 81,
     "english_text": "But until a certain time.",
-    "arabic_text": "اِلَىٰ يَوْمِ الْوَقْتِ الْمَعْلُومِ",
+    "arabic_text": "اِلـٰى يَوْمِ الْوَقْتِ الْمَعْلُومِ",
     "urdu_text": "ایک مقررہ وقت کے دن تک۔",
     "persian_text": "تا روز زمان معین.",
     "transliteration": "Ilā yawmil-waqtil-ma'lūm"

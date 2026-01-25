@@ -177,7 +177,7 @@ ayats = [
   {
     "verse_number": 22,
     "english_text": "Until an appointed time.",
-    "arabic_text": "اِلَىٰ قَدَرٍۢ مَّعْلُومٍۢ",
+    "arabic_text": "اِلـٰى قَدَرٍۢ مَّعْلُومٍۢ",
     "urdu_text": "ایک مقررہ وقت تک",
     "persian_text": "تا زمان معینی",
     "transliteration": "Ila qadarin ma'loom"
@@ -233,7 +233,7 @@ ayats = [
   {
     "verse_number": 29,
     "english_text": "Go towards it which you were denying.",
-    "arabic_text": "انطَلِقُوٓاْ اِلَىٰ مَا كُنتُم بِهِ تُكَذِّبُونَ",
+    "arabic_text": "انطَلِقُوٓاْ اِلـٰى مَا كُنتُم بِهِ تُكَذِّبُونَ",
     "urdu_text": "چلو اس کی طرف جسے تم جھٹلاتے تھے",
     "persian_text": "بروید به سوی آنچه تکذیبش می‌کردید",
     "transliteration": "Intaliqoo ila ma kuntum bihi tukaththiboon"
@@ -241,7 +241,7 @@ ayats = [
   {
     "verse_number": 30,
     "english_text": "Go towards the shadow of smoke, which has three corners.",
-    "arabic_text": "انطَلِقُوٓاْ اِلَىٰ ظِلٍّۢ ذِى ثَلَـٰثِ شُعَبٍۢ",
+    "arabic_text": "انطَلِقُوٓاْ اِلـٰى ظِلٍّۢ ذِى ثَلَـٰثِ شُعَبٍۢ",
     "urdu_text": "چلو اس سائے کی طرف جس کی تین شاخیں ہیں",
     "persian_text": "بروید به سوی سایه‌ای که دارای سه شاخه است",
     "transliteration": "Intaliqoo ila zillin zee thalathi shu'ab"

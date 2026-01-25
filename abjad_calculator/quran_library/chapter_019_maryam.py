@@ -25,7 +25,7 @@ ayats = [
   {
     "verse_number": 3,
     "english_text": "When Zakaria called his Lord in low voice.",
-    "arabic_text": "اِذْ نَادَىٰ رَبَّهُ نِدَآءً خَفِيًّۭا",
+    "arabic_text": "اِذْ نَادٰى رَبَّهُ نِدَآءً خَفِيًّۭا",
     "urdu_text": "جب زکریا نے اپنے رب کو آهسته آواز سے پکارا۔",
     "persian_text": "هنگامی که زکریا پروردگارش را به آواز آهسته خواند.",
     "transliteration": "Idh naadaa rabbahu nidaa'an khafiyya"
@@ -121,7 +121,7 @@ ayats = [
   {
     "verse_number": 15,
     "english_text": "And salutations are on him (from Our side) when he was born and when he will die and when he will be raised again.",
-    "arabic_text": "وَسَلَـٰمٌ عَلَيْهِ يَوْمَ وُلِدَ وَيَوْمَ يَمُوتُ وَيَوْمَ يُبْعَثُ حَيًّۭا",
+    "arabic_text": "وَسَلَـٰمٌ عَلَيْهِ يَوْمَ وُلِدَ وَ يَوْمَ يَمُوتُ وَ يَوْمَ يُبْعَثُ حَيًّۭا",
     "urdu_text": "اور سلامتی هو ان پر جس دن وه پیدا هوئے، اور جس دن وه فوت هوں گے، اور جس دن وه زنده اٹھائے جائیں گے۔",
     "persian_text": "و سلام بر او در روزی که متولد شد و روزی که می‌میرد و روزی که زنده برانگیخته می‌شود.",
     "transliteration": "Wa salaamun 'alayhi yawma wulida wa yawma yamootu wa yawma yub'athu hayyaa"
@@ -185,7 +185,7 @@ ayats = [
   {
     "verse_number": 23,
     "english_text": "(When the time for childbirth neared), labor-pain brought her to a dried palm tree, she said: I wish I would have died before this; and I would have been a forgotten thing.",
-    "arabic_text": "فَاَجَآءَهَا الْمَخَاضُ اِلَىٰ جِذْعِ النَّخْلَةِ قَالَتْ يَـٰلَيْتَنِى مِتُّ قَبْلَ هَـٰذَا وَكُنتُ نَسْيًۭا مَّنسِيًّۭا",
+    "arabic_text": "فَاَجَآءَهَا الْمَخَاضُ اِلـٰى جِذْعِ النَّخْلَةِ قَالَتْ يَـٰلَيْتَنِى مِتُّ قَبْلَ هَـٰذَا وَكُنتُ نَسْيًۭا مَّنسِيًّۭا",
     "urdu_text": "پھر درد زه انهیں کھجور کے ایک خشک تنے کے پاس لے آیا، انهوں نے کها: کاش میں اس سے پهلے مر گئی هوتی اور بالکل بھلا دی گئی هوتی۔",
     "persian_text": "پس درد زایمان او را به تنه درخت خرمایی کشاند، گفت: ای کاش پیش از این مرده بودم و چیزی فراموش شده و نادیده بودم.",
     "transliteration": "Fa-ajaa-ahal makhaadu ilaa jidh'in nakhlati qaalat yaa laytanee mittu qabla haazaa wa kuntu nasyan mansiyyaa"
@@ -193,7 +193,7 @@ ayats = [
   {
     "verse_number": 24,
     "english_text": "Then Gabriel called out from below, do not grieve, see that your Lord has made to flow for you a fountain beneath you.",
-    "arabic_text": "فَنَادَىٰهَا مِن تَحْتِهَآ اَلَّا تَحْزَنِى قَدْ جَعَلَ رَبُّكِ تَحْتَكِ سَرِيًّۭا",
+    "arabic_text": "فَنَادٰىهَا مِن تَحْتِهَآ اَلَّا تَحْزَنِى قَدْ جَعَلَ رَبُّكِ تَحْتَكِ سَرِيًّۭا",
     "urdu_text": "تو ان کے نیچے سے آواز آئی که غمگین نه هو، تمهارے رب نے تمهارے نیچے ایک چشمه جاری کر دیا هے۔",
     "persian_text": "پس از زیر او ندایش داد که غمگین مباش، پروردگارت زیر تو جویباری جاری ساخته است.",
     "transliteration": "Fannaadaahaa min tahtihaa allaa tahzanee qad ja'ala rabbuki tahtaki sariyyaa"
@@ -265,7 +265,7 @@ ayats = [
   {
     "verse_number": 33,
     "english_text": "And salutation is on me (from Allah) on the day when I was born, the day when I will die and the day when I will be raised to life again.",
-    "arabic_text": "وَالسَّلَـٰمُ عَلَىَّ يَوْمَ وُلِدتُّ وَيَوْمَ اَمُوتُ وَيَوْمَ اُبْعَثُ حَيًّۭا",
+    "arabic_text": "وَالسَّلَـٰمُ عَلَىَّ يَوْمَ وُلِدتُّ وَ يَوْمَ اَمُوتُ وَ يَوْمَ اُبْعَثُ حَيًّۭا",
     "urdu_text": "اور سلامتی هے مجھ پر الله کی طرف سے جس دن میں پیدا هوا، جس دن میں مروں گا اور جس دن میں دوباره زنده کر کے اٹھایا جاؤں گا۔",
     "persian_text": "و سلام بر من باد روزی که متولد شدم و روزی که می‌میرم و روزی که زنده برانگیخته می‌شوم.",
     "transliteration": "Was-salāmu 'alayya yawma wulidtu wa yawma amūtu wa yawma ub'athu ḥayyā"
@@ -689,7 +689,7 @@ ayats = [
   {
     "verse_number": 86,
     "english_text": "And (We) will drive away the sinners towards Hell like thirsty (animals).",
-    "arabic_text": "وَنَسُوقُ الْمُجْرِمِينَ اِلَىٰ جَهَنَّمَ وِرْدًۭا",
+    "arabic_text": "وَنَسُوقُ الْمُجْرِمِينَ اِلـٰى جَهَنَّمَ وِرْدًۭا",
     "urdu_text": "اور گناهگاروں کو جهنم کی طرف پیاسے جانوروں کی طرح هانک کر لے جائیں گے۔",
     "persian_text": "و گناهکاران را همچون حیوانات تشنه، به سوی جهنم خواهیم راند.",
     "transliteration": "Wa nasuqul mujrimeena ila jahannama wirda"

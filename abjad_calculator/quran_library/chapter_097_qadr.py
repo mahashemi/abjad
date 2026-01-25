@@ -2,7 +2,7 @@ ayats = [
   {
     "verse_number": 1,
     "english_text": "Verily, We revealed it on the Grand Night.",
-    "arabic_text": "اِنَّآ اَنزَلْنٰهُ فِي لَيْلَةِ الْقَدْرِ",
+    "arabic_text": "اِنَّآ اَنزَلْنٰهُ فِى لَيْلَةِ الْقَدْرِ",
     "urdu_text": "بیشک ہم نے اسے شب قدر میں نازل کیا",
     "persian_text": "به راستی ما آن را در شب قدر نازل کردیم",
     "transliteration": "Innaa anzalnaahu fee laylatul-qadr",

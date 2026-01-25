@@ -377,7 +377,7 @@ ayats = [
   {
     "verse_number": 47,
     "english_text": "Angels will be commanded to catch them and take them to the middle of Hell.",
-    "arabic_text": "خُذُوهُ فَاعْتِلُوهُ اِلَىٰ سَوَآءِ الْجَحِيمِ",
+    "arabic_text": "خُذُوهُ فَاعْتِلُوهُ اِلـٰى سَوَآءِ الْجَحِيمِ",
     "urdu_text": "حکم هوگا که اسے پکڑو اور گھسیٹ کر دوزخ کے بیچ میں لے جاؤ۔",
     "persian_text": "او را بگیرید و به میان دوزخ بکشانید.",
     "transliteration": "Khuzoohu fa'tiloohu ilaa sawaa' al-jaheem"

@@ -121,7 +121,7 @@ ayats = [
   {
     "verse_number": 15,
     "english_text": "Verily, We have sent a Prophet towards you as a witness, like Prophet was sent towards Firaun.",
-    "arabic_text": "اِنَّآ اَرْسَلْنَآ اِلَيْكُمْ رَسُولًا شَـٰهِدًا عَلَيْكُمْ كَمَآ اَرْسَلْنَآ اِلَىٰ فِرْعَوْنَ رَسُولًا",
+    "arabic_text": "اِنَّآ اَرْسَلْنَآ اِلَيْكُمْ رَسُولًا شَـٰهِدًا عَلَيْكُمْ كَمَآ اَرْسَلْنَآ اِلـٰى فِرْعَوْنَ رَسُولًا",
     "urdu_text": "بیشک هم نے تمهاری طرف ایک رسول بھیجا جو تم پر گواه هے، جیسے هم نے فرعون کی طرف رسول بھیجا تھا۔",
     "persian_text": "همانا ما به سوی شما پیامبری فرستادیم که بر شما گواه است، همان‌گونه که به سوی فرعون پیامبری فرستادیم.",
     "transliteration": "Innaa arsalnaa ilaykum rasoolan shaahidan 'alaykum kamaa arsalnaa ilaa Fir'awna rasoola"
@@ -153,7 +153,7 @@ ayats = [
   {
     "verse_number": 19,
     "english_text": "These in fact are the talk of lesson and admonition and whoever wishes may adopt the path of his Lord.",
-    "arabic_text": "اِنَّ هَـٰذِهِ تَذْكِرَةٌۭ ۖ فَمَن شَآءَ اتَّخَذَ اِلَىٰ رَبِّهِ سَبِيلًا",
+    "arabic_text": "اِنَّ هَـٰذِهِ تَذْكِرَةٌۭ ۖ فَمَن شَآءَ اتَّخَذَ اِلـٰى رَبِّهِ سَبِيلًا",
     "urdu_text": "بیشک یه نصیحت هے، پس جو چاهے اپنے رب کی طرف راه اختیار کر لے۔",
     "persian_text": "همانا این یک یادآوری است، پس هر که بخواهد راهی به سوی پروردگارش برگزیند.",
     "transliteration": "Inna haazihee tazkira, faman shaaa'-ttakhaza ilaa Rabbihee sabeela"

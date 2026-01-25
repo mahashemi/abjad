@@ -9,7 +9,7 @@ ayats = [
   {
     "verse_number": 1,
     "english_text": "Verily, We sent Nooh towards his nation so that he may warn his nation before the coming of the painful punishment.",
-    "arabic_text": "اِنَّآ اَرْسَلْنَا نُوحًا اِلَىٰ قَوْمِهِٓ اَنْ اَنذِرْ قَوْمَكَ مِن قَبْلِ اَن يَاْتِيَهُمْ عَذَابٌ اَلِيمٌۭ",
+    "arabic_text": "اِنَّآ اَرْسَلْنَا نُوحًا اِلـٰى قَوْمِهِٓ اَنْ اَنذِرْ قَوْمَكَ مِن قَبْلِ اَن يَاْتِيَهُمْ عَذَابٌ اَلِيمٌۭ",
     "urdu_text": "بیشک ہم نے نوح کو ان کی قوم کی طرف بھیجا کہ اپنی قوم کو ڈراؤ اس سے پہلے کہ ان پر دردناک عذاب آ جائے۔",
     "persian_text": "به راستی ما نوح را به سوی قوم خود فرستادیم تا قوم خود را پیش از آنکه عذاب دردناکی به سراغشان آید، هشدار دهد.",
     "transliteration": "Innaa arsalnaa Noohan ilaa qawmihee an andhir qawmaka min qabli an ya'tiyahum 'adhaabun aleem"
@@ -33,7 +33,7 @@ ayats = [
   {
     "verse_number": 4,
     "english_text": "He will forgive your sins and will keep you alive until an appointed term; when the time will come in cannot be averted, if you know anything.",
-    "arabic_text": "يَغْفِرْ لَكُم مِّن ذُنُوبِكُمْ وَيُؤَخِّرْكُمْ اِلَىٰٓ اَجَلٍۢ مُّسَمًّى ۚ اِنَّ اَجَلَ اللّٰهِ اِذَا جَآءَ لَا يُؤَخَّرُ ۖ لَوْ كُنتُمْ تَعْلَمُونَ",
+    "arabic_text": "يَغْفِرْ لَكُم مِّن ذُنُوبِكُمْ وَيُؤَخِّرْكُمْ اِلـٰىٓ اَجَلٍۢ مُّسَمًّى ۚ اِنَّ اَجَلَ اللّٰهِ اِذَا جَآءَ لَا يُؤَخَّرُ ۖ لَوْ كُنتُمْ تَعْلَمُونَ",
     "urdu_text": "وہ تمہارے گناہ معاف کر دے گا اور تمہیں ایک مقررہ وقت تک مہلت دے گا۔ بیشک اللہ کا مقرر کردہ وقت جب آ جائے تو ٹالا نہیں جا سکتا، کاش تم جانتے ہوتے۔",
     "persian_text": "گناهان شما را خواهد بخشید و شما را تا زمان معینی مهلت خواهد داد. همانا زمان مقرر خدا چون فرا رسد، به تاخیر نمی‌افتد، اگر می‌دانستید.",
     "transliteration": "Yaghfir lakum min dhunoobikum wa yu'akhkhirkum ilaa ajalin musammaa inna ajalAllaahi idhaa jaa'a laa yu'akhkhar law kuntum ta'lamoon"

@@ -10,7 +10,7 @@ ayats = [
   {
     "verse_number": 2,
     "english_text": "Verily, man is at a loss.",
-    "arabic_text": "اِنَّ الْاِنسَانَ لَفِي خُسْرٍ",
+    "arabic_text": "اِنَّ الْاِنسَانَ لَفِى خُسْرٍ",
     "urdu_text": "بیشک انسان خسارے میں ہے",
     "persian_text": "به راستی که انسان در زیان است",
     "transliteration": "Innal-insaana lafee khusr",

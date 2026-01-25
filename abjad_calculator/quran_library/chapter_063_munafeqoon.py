@@ -81,7 +81,7 @@ ayats = [
   {
     "verse_number": 10,
     "english_text": "And spend in Our way from the sustenance what We have bestowed upon you, before death come to any of you and he may say, \"O Lord! Why don't you give us the respite for some days so that we give charity and be counted among the good servants\".",
-    "arabic_text": "وَاَنفِقُواْ مِن مَّا رَزَقْنَـٰكُم مِّن قَبْلِ اَن يَاْتِىَ اَحَدَكُمُ الْمَوْتُ فَيَقُولَ رَبِّ لَوْلَآ اَخَّرْتَنِىٓ اِلَىٰٓ اَجَلٍۢ قَرِيبٍۢ فَاَصَّدَّقَ وَاَكُن مِّنَ الصَّـٰلِحِينَ",
+    "arabic_text": "وَاَنفِقُواْ مِن مَّا رَزَقْنَـٰكُم مِّن قَبْلِ اَن يَاْتِىَ اَحَدَكُمُ الْمَوْتُ فَيَقُولَ رَبِّ لَوْلَآ اَخَّرْتَنِىٓ اِلـٰىٓ اَجَلٍۢ قَرِيبٍۢ فَاَصَّدَّقَ وَاَكُن مِّنَ الصَّـٰلِحِينَ",
     "urdu_text": "اور جو رزق هم نے تمهیں دیا هے اس میں سے خرچ کرو اس سے پهلے که تم میں سے کسی کو موت آ جائے اور وه کهے: اے میرے رب! تو نے مجھے تھوڑی مدت کیوں نه دی تاکه میں صدقه کرتا اور نیک لوگوں میں سے هو جاتا۔",
     "persian_text": "و از آنچه به شما روزی داده‌ایم انفاق کنید پیش از آنکه مرگ یکی از شما فرا رسد و بگوید: پروردگارا! چرا مرا تا مدتی نزدیک مهلت ندادی تا صدقه دهم و از شایستگان باشم.",
     "transliteration": "Wa anfiqoo min ma razaqnakum min qabli an ya'tiya ahadakumu al-mawtu fayaqoola rabbi lawla akhkhartanee ila ajalin qareebin fa-assaddaqa wa akun mina as-saliheen"

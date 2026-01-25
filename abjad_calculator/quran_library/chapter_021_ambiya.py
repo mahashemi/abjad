@@ -105,7 +105,7 @@ ayats = [
   {
     "verse_number": 13,
     "english_text": "(We said) do not run (now), go back to your homes where you lived an easy life, so that something is enquired with you.",
-    "arabic_text": "لَا تَرْكُضُواْ وَارْجِعُوٓاْ اِلَىٰ مَآ اُتْرِفْتُمْ فِيهِ وَمَسَـٰكِنِكُمْ لَعَلَّكُمْ تُسْـَٔلُونَ",
+    "arabic_text": "لَا تَرْكُضُواْ وَارْجِعُوٓاْ اِلـٰى مَآ اُتْرِفْتُمْ فِيهِ وَمَسَـٰكِنِكُمْ لَعَلَّكُمْ تُسْـَٔلُونَ",
     "urdu_text": "(ہم نے کہا) اب مت بھاگو، واپس لوٹ جاؤ اپنی آسائشوں اور اپنے گھروں کی طرف تاکہ تم سے پوچھا جائے۔",
     "persian_text": "(گفتیم) مدوید و بازگردید به آنچه در آن ناز پرورده شده بودید و به خانه‌هایتان، شاید از شما پرسیده شود.",
     "transliteration": "La tarkudo warji'u ila ma utriftum feehi wa masakinikum la'allakum tus'aloon"
@@ -513,7 +513,7 @@ ayats = [
   {
     "verse_number": 64,
     "english_text": "Then they thought and said: (to each other) Verily only you yourselves are unjust.",
-    "arabic_text": "فَرَجَعُوٓاْ اِلَىٰٓ اَنفُسِهِمْ فَقَالُوٓاْ اِنَّكُمْ اَنتُمُ الظَّـٰلِمُونَ",
+    "arabic_text": "فَرَجَعُوٓاْ اِلـٰىٓ اَنفُسِهِمْ فَقَالُوٓاْ اِنَّكُمْ اَنتُمُ الظَّـٰلِمُونَ",
     "urdu_text": "تب وہ اپنے دلوں میں لوٹے اور آپس میں کہنے لگے: بے شک تم خود ہی ظالم ہو۔",
     "persian_text": "پس به خود بازگشتند و گفتند: به راستی شما خود ستمکارید.",
     "transliteration": "Faraja'ooo ilaaa anfusihim faqaalooo innakum antumuz-zaalimoon"
@@ -609,7 +609,7 @@ ayats = [
   {
     "verse_number": 76,
     "english_text": "And (O Prophet! before Lut) We gave prophethood to Nooh, when he called Me then We heard his prayer, and delivered him and his companions from great distress (of typhoon).",
-    "arabic_text": "وَنُوحًا اِذْ نَادَىٰ مِن قَبْلُ فَاسْتَجَبْنَا لَهُ فَنَجَّيْنَـٰهُ وَاَهْلَهُ مِنَ الْكَرْبِ الْعَظِيمِ",
+    "arabic_text": "وَنُوحًا اِذْ نَادٰى مِن قَبْلُ فَاسْتَجَبْنَا لَهُ فَنَجَّيْنَـٰهُ وَاَهْلَهُ مِنَ الْكَرْبِ الْعَظِيمِ",
     "urdu_text": "اور نوح کو بھی یاد کرو جب انہوں نے پہلے ہمیں پکارا تو ہم نے ان کی دعا قبول کی اور انہیں اور ان کے گھر والوں کو بڑی مصیبت سے نجات دی۔",
     "persian_text": "و نوح را نیز یاد کن، آنگاه که پیش از این ما را خواند، پس دعایش را اجابت کردیم و او و خانواده‌اش را از اندوه بزرگ نجات دادیم.",
     "transliteration": "Wa Nūḥan idh nādā min qablu fastajab'nā lahu fanajjaynāhu wa ahlahu minal-karbil-'aẓīm"
@@ -665,7 +665,7 @@ ayats = [
   {
     "verse_number": 83,
     "english_text": "And O Prophet! remember the tale of Ayub, when he prayed to his Lord that ailment has afflicted me, and You are the most Merciful among the mercifuls.",
-    "arabic_text": "۞ وَاَيُّوبَ اِذْ نَادَىٰ رَبَّهُٓ اَنِّى مَسَّنِىَ الضُّرُّ وَاَنتَ اَرْحَمُ الرَّٰحِمِينَ",
+    "arabic_text": "۞ وَاَيُّوبَ اِذْ نَادٰى رَبَّهُٓ اَنِّى مَسَّنِىَ الضُّرُّ وَاَنتَ اَرْحَمُ الرَّٰحِمِينَ",
     "urdu_text": "اور ایوب کو یاد کرو جب انہوں نے اپنے رب کو پکارا کہ مجھے تکلیف پہنچی ہے اور تو سب رحم کرنے والوں سے زیادہ رحم کرنے والا ہے۔",
     "persian_text": "و ایوب را یاد کن، آنگاه که پروردگارش را ندا داد که رنج به من رسیده و تو مهربان‌ترین مهربانان هستی.",
     "transliteration": "Wa Ayyūba idh nādā Rabbahū annī massaniya aḍ-ḍurru wa anta arḥamu ar-rāḥimīn"
@@ -697,7 +697,7 @@ ayats = [
   {
     "verse_number": 87,
     "english_text": "And remember Yunus when he went in anger thinking We will not straiten his sustenance; then he went into darkness and called Us: O Lord there is no god except You, Glory be to You, the Self-Sufficient, and I was among those who were unjust on their own souls.",
-    "arabic_text": "وَذَا النُّونِ اِذ ذَّهَبَ مُغَـٰضِبًا فَظَنَّ اَن لَّن نَّقْدِرَ عَلَيْهِ فَنَادَىٰ فِى الظُّلُمَـٰتِ اَن لَّآ اِلَـٰهَ اِلَّآ اَنتَ سُبْحَـٰنَكَ اِنِّى كُنتُ مِنَ الظَّـٰلِمِينَ",
+    "arabic_text": "وَذَا النُّونِ اِذ ذَّهَبَ مُغَـٰضِبًا فَظَنَّ اَن لَّن نَّقْدِرَ عَلَيْهِ فَنَادٰى فِى الظُّلُمَـٰتِ اَن لَّآ اِلَـٰهَ اِلَّآ اَنتَ سُبْحَـٰنَكَ اِنِّى كُنتُ مِنَ الظَّـٰلِمِينَ",
     "urdu_text": "اور مچھلی والے یونس کو یاد کرو جب وہ غصے میں چلے گئے اور سمجھے کہ ہم ان پر تنگی نہیں کریں گے، پھر انہوں نے اندھیروں میں پکارا کہ تیرے سوا کوئی معبود نہیں، تو پاک ہے، بیشک میں ظالموں میں سے تھا۔",
     "persian_text": "و ذوالنون (یونس) را یاد کن، آنگاه که با خشم رفت و گمان کرد که بر او تنگ نخواهیم گرفت، پس در تاریکی‌ها ندا داد که معبودی جز تو نیست، منزهی تو، من از ستمکاران بودم.",
     "transliteration": "Wa Dha an-Nūni idh dhahaba mughāḍiban fa-ẓanna an lan naqdira 'alayhi fa-nādā fī aẓ-ẓulumāti an lā ilāha illā anta subḥānaka innī kuntu mina aẓ-ẓālimīn"
@@ -713,7 +713,7 @@ ayats = [
   {
     "verse_number": 89,
     "english_text": "And remember Zakaria, when he prayed to his Lord: O my Lord, leave me not alone (without a child); and you are the best heir among heirs.",
-    "arabic_text": "وَزَكَرِيَّآ اِذْ نَادَىٰ رَبَّهُ رَبِّ لَا تَذَرْنِى فَرْدًۭا وَاَنتَ خَيْرُ الْوَٰرِثِينَ",
+    "arabic_text": "وَزَكَرِيَّآ اِذْ نَادٰى رَبَّهُ رَبِّ لَا تَذَرْنِى فَرْدًۭا وَاَنتَ خَيْرُ الْوَٰرِثِينَ",
     "urdu_text": "اور زکریا کو یاد کرو جب انہوں نے اپنے رب کو پکارا کہ اے میرے رب، مجھے اکیلا نہ چھوڑ اور تو سب وارثوں سے بہتر وارث ہے۔",
     "persian_text": "و زکریا را یاد کن، آنگاه که پروردگارش را ندا داد که پروردگارا، مرا تنها مگذار و تو بهترین وارثان هستی.",
     "transliteration": "Wa Zakariyyā idh nādā Rabbahū Rabbi lā tadharnī fardan wa anta khayru al-wārithīn"
@@ -889,7 +889,7 @@ ayats = [
   {
     "verse_number": 111,
     "english_text": "And I also do not know whether this delay is a trial for you and for a period there may be ease for you.",
-    "arabic_text": "وَاِنْ اَدْرِى لَعَلَّهُ فِتْنَةٌۭ لَّكُمْ وَمَتَـٰعٌ اِلَىٰ حِينٍۢ",
+    "arabic_text": "وَاِنْ اَدْرِى لَعَلَّهُ فِتْنَةٌۭ لَّكُمْ وَمَتَـٰعٌ اِلـٰى حِينٍۢ",
     "urdu_text": "اور میں نہیں جانتا شاید یہ تمہارے لیے آزمائش ہو اور ایک مدت تک تمہارے لیے فائدہ ہو۔",
     "persian_text": "و من نمی‌دانم شاید این برای شما آزمایشی باشد و تا مدتی برای شما بهره‌مندی باشد.",
     "transliteration": "Wa in adree la'allahu fitnatun lakum wa mata'un ila heen"

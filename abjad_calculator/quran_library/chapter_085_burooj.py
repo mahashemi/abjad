@@ -2,7 +2,7 @@ ayats = [
   {
     "verse_number": 1,
     "english_text": "I swear by the sky of mansions.",
-    "arabic_text": "وَ السَّمَاءِ ذَاتِ الْبُرُوجِ",
+    "arabic_text": "وَ السَّمَآءِ ذَاتِ الْبُرُوجِ",
     "urdu_text": "قسم ہے برجوں والے آسمان کی",
     "persian_text": "سوگند به آسمان دارای برج‌ها",
     "transliteration": "Was-samaaa'i zaatil burooj",
@@ -66,7 +66,7 @@ ayats = [
   {
     "verse_number": 9,
     "english_text": "That is Allah in whose possession is the kingdom of skies and the earth and he is also the witness and guardian of all things.",
-    "arabic_text": "الَّذِي لَهُ مُلْكُ السَّمٰوٰتِ وَ الْاَرْضِ  وَ اللّٰهُ عَلَٰى كُلِّ شَيْءٍ شَهِيدٌ",
+    "arabic_text": "الَّذِى لَهُ مُلْكُ السَّمٰوٰتِ وَ الْاَرْضِ  وَ اللّٰهُ عَلَٰى كُلِّ شَيْءٍ شَهِيدٌ",
     "urdu_text": "وہ اللہ جس کے لیے آسمانوں اور زمین کی بادشاہی ہے اور اللہ ہر چیز پر گواہ ہے",
     "persian_text": "همان خدایی که فرمانروایی آسمان‌ها و زمین از آن اوست و خداوند بر هر چیزی گواه است",
     "transliteration": "Allathee lahu mulkus-samawati wal-ard, wallahu 'ala kulli shay'in shaheed",

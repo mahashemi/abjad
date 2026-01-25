@@ -41,7 +41,7 @@ ayats = [
   {
     "verse_number": 5,
     "english_text": "And We have beautified the world's sky with the lamps, and made them the source for stoning the satans, and have also prepared punishment of Hell separately for them.",
-    "arabic_text": "وَ لَقَدْ زَيَّنَّا السَّمَآءَ الدُّنْيَا بِمَصَـٰبِيحَ وَجَعَلْنَـٰهَا رُجُومًا لِّلشَّيَـٰطِينِ ۖ وَاَعْتَدْنَا لَهُمْ عَذَابَ السَّعِيرِ",
+    "arabic_text": "وَ لَقَدْ زَيَّنَّا السَّمَآءَ الدُّنْيٰبِمَصَـٰبِيحَ وَجَعَلْنَـٰهَا رُجُومًا لِّلشَّيَـٰطِينِ ۖ وَاَعْتَدْنَا لَهُمْ عَذَابَ السَّعِيرِ",
     "urdu_text": "اور هم نے دنیا کے آسمان کو چراغوں سے سجایا اور انهیں شیطانوں کو مارنے کا ذریعه بنایا، اور ان کے لیے دوزخ کا عذاب تیار کر رکھا هے۔",
     "persian_text": "و آسمان دنیا را با چراغ‌هایی زینت دادیم و آنها را وسیله‌ای برای سنگسار شیاطین قرار دادیم و برای آنان عذاب آتش فروزان آماده کردیم.",
     "transliteration": "Wa laqad zayyanas-samā'ad-dunyā bimaṣābīḥa wa ja'alnāhā rujūmal-lish-shayāṭīn, wa a'tadnā lahum 'adhābas-sa'īr"

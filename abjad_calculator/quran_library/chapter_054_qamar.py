@@ -49,7 +49,7 @@ ayats = [
   {
     "verse_number": 6,
     "english_text": "Therefore, turn your face from them, the day when a caller (Israfeel) shall call them towards an unpleasant task.",
-    "arabic_text": "فَتَوَلَّ عَنْهُمْ ۘ يَوْمَ يَدْعُ الدَّاعِ اِلَىٰ شَىْءٍۢ نُّكُرٍ",
+    "arabic_text": "فَتَوَلَّ عَنْهُمْ ۘ يَوْمَ يَدْعُ الدَّاعِ اِلـٰى شَىْءٍۢ نُّكُرٍ",
     "urdu_text": "پس آپ ان سے منہ پھیر لیں، جس دن پکارنے والا ایک سخت چیز کی طرف پکارے گا۔",
     "persian_text": "پس از آنان روی بگردان، روزی که ندادهنده‌ای آنان را به سوی چیزی ناخوشایند فرا خواهد خواند.",
     "transliteration": "Fatawalla 'anhum yawma yad'ud-da'i ila shay'in nukur"

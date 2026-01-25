@@ -97,7 +97,7 @@ ayats = [
   {
     "verse_number": 12,
     "english_text": "Now center of everyone is towards your Lord.",
-    "arabic_text": "اِلَىٰ رَبِّكَ يَوْمَئِذٍ الْمُسْتَقَرُّ",
+    "arabic_text": "اِلـٰى رَبِّكَ يَوْمَئِذٍ الْمُسْتَقَرُّ",
     "urdu_text": "اس دن سب کا ٹھکانه تیرے رب کی طرف هے۔",
     "persian_text": "در آن روز بازگشت همه به سوی پروردگار توست.",
     "transliteration": "Ila rabbika yawma'idhin almustaqarru"
@@ -185,7 +185,7 @@ ayats = [
   {
     "verse_number": 23,
     "english_text": "They will be keeping an eye on the blessings of their Lord.",
-    "arabic_text": "اِلَىٰ رَبِّهَا نَاظِرَةٌۭ",
+    "arabic_text": "اِلـٰى رَبِّهَا نَاظِرَةٌۭ",
     "urdu_text": "اپنے رب کی طرف دیکھ رهے هوں گے۔",
     "persian_text": "به سوی پروردگارشان نگران خواهند بود.",
     "transliteration": "Ilaa Rabbihaa naazirah"
@@ -241,7 +241,7 @@ ayats = [
   {
     "verse_number": 30,
     "english_text": "Today everyone will be taken towards the Lord.",
-    "arabic_text": "اِلَىٰ رَبِّكَ يَوْمَئِذٍ الْمَسَاقُ",
+    "arabic_text": "اِلـٰى رَبِّكَ يَوْمَئِذٍ الْمَسَاقُ",
     "urdu_text": "اس دن تیرے رب هی کی طرف لے جایا جائے گا۔",
     "persian_text": "در آن روز بازگشت به سوی پروردگار توست.",
     "transliteration": "Ilaa Rabbika yawma'idhinil masaaq"
@@ -265,7 +265,7 @@ ayats = [
   {
     "verse_number": 33,
     "english_text": "Then went toward his family with arrogance.",
-    "arabic_text": "ثُمَّ ذَهَبَ اِلَىٰٓ اَهْلِهِ يَتَمَطَّىٰٓ",
+    "arabic_text": "ثُمَّ ذَهَبَ اِلـٰىٓ اَهْلِهِ يَتَمَطَّىٰٓ",
     "urdu_text": "پھر اپنے گھر والوں کی طرف اکڑتا هوا چلا گیا",
     "persian_text": "سپس به سوی خانواده‌اش با تکبر رفت",
     "transliteration": "Thumma dhahaba ila ahlihi yatamatta"

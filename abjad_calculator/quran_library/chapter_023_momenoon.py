@@ -185,7 +185,7 @@ ayats = [
   {
     "verse_number": 23,
     "english_text": "And We sent Nooh to his people, he said: O my people! worship Allah, that for it you do not have any other god, why you do not fear Him.",
-    "arabic_text": "وَ لَقَدْ اَرْسَلْنَا نُوحًا اِلَىٰ قَوْمِهِ فَقَالَ يَـٰقَوْمِ اعْبُدُواْ اللّٰهَ مَا لَكُم مِّنْ اِلَـٰهٍ غَيْرُهُٓ ۖ اَفَلَا تَتَّقُونَ",
+    "arabic_text": "وَ لَقَدْ اَرْسَلْنَا نُوحًا اِلـٰى قَوْمِهِ فَقَالَ يَـٰقَوْمِ اعْبُدُواْ اللّٰهَ مَا لَكُم مِّنْ اِلَـٰهٍ غَيْرُهُٓ ۖ اَفَلَا تَتَّقُونَ",
     "urdu_text": "اور بیشک هم نے نوح کو ان کی قوم کی طرف بھیجا، تو انهوں نے کها: اے میری قوم! الله کی عبادت کرو، اس کے سوا تمهارا کوئی معبود نهیں، کیا تم ڈرتے نهیں؟",
     "persian_text": "و به راستی نوح را به سوی قومش فرستادیم، پس گفت: ای قوم من! الله را پرستش کنید، برای شما هیچ معبودی جز او نیست، آیا پرهیزگاری نمی‌کنید؟",
     "transliteration": "Wa laqad arsalnaa Noohan ilaa qawmihee faqaala yaa qawmi'budullaaha maa lakum min ilaahin ghayruhu afalaa tattaqoon"
@@ -265,7 +265,7 @@ ayats = [
   {
     "verse_number": 33,
     "english_text": "Chiefs of their tribes who have adopted infidelity and were denying the meeting of Allah in the Hereafter and We had given them life of ease, said: he is nothing but a mortal like you, he eats like you and drinks like you do.",
-    "arabic_text": "وَقَالَ الْمَلَاُ مِن قَوْمِهِ الَّذِينَ كَفَرُواْ وَكَذَّبُواْ بِلِقَآءِ الْاخِرَةِ وَاَتْرَفْنَـٰهُمْ فِى الْحَيَوٰةِ الدُّنْيَا مَا هَـٰذَآ اِلَّا بَشَرٌۭ مِّثْلُكُمْ يَاْكُلُ مِمَّا تَاْكُلُونَ مِنْهُ وَيَشْرَبُ مِمَّا تَشْرَبُونَ",
+    "arabic_text": "وَقَالَ الْمَلَاُ مِن قَوْمِهِ الَّذِينَ كَفَرُواْ وَكَذَّبُواْ بِلِقَآءِ الْاخِرَةِ وَاَتْرَفْنَـٰهُمْ فِى الْحَيَوٰةِ الدُّنْيٰمَا هَـٰذَآ اِلَّا بَشَرٌۭ مِّثْلُكُمْ يَاْكُلُ مِمَّا تَاْكُلُونَ مِنْهُ وَيَشْرَبُ مِمَّا تَشْرَبُونَ",
     "urdu_text": "اور ان کی قوم کے سرداروں نے جنهوں نے کفر اختیار کیا اور آخرت کی ملاقات کو جھٹلایا اور هم نے انهیں دنیوی زندگی میں آسائش دی تھی، کها: یه تو تمهاری طرح ایک انسان هے، جو کھاتا هے جیسے تم کھاتے هو اور پیتا هے جیسے تم پیتے هو۔",
     "persian_text": "و بزرگان قوم او که کافر شده و دیدار آخرت را تکذیب کرده بودند و ما آنان را در زندگی دنیا در ناز و نعمت قرار داده بودیم، گفتند: این جز بشری مانند شما نیست که از آنچه شما می‌خورید می‌خورد و از آنچه شما می‌نوشید می‌نوشد.",
     "transliteration": "Wa qalal mala'u min qawmihil lazeena kafaroo wa kazzaboo biliqaa'il aakhirati wa atrafnaahum fil hayaatid dunya ma haaza illa basharum mithlukum ya'kulu mimma ta'kuloona minhu wa yashrabu mimma tashraboon"
@@ -297,7 +297,7 @@ ayats = [
   {
     "verse_number": 37,
     "english_text": "This is a worldly life where we will die and are not going to be raised again.",
-    "arabic_text": "اِنْ هِىَ اِلَّا حَيَاتُنَا الدُّنْيَا نَمُوتُ وَنَحْيَا وَ مَا نَحْنُ بِمَبْعُوثِينَ",
+    "arabic_text": "اِنْ هِىَ اِلَّا حَيَاتُنَا الدُّنْيٰنَمُوتُ وَنَحْيٰوَ مَا نَحْنُ بِمَبْعُوثِينَ",
     "urdu_text": "یه تو صرف هماری دنیوی زندگی هے، هم مرتے هیں اور جیتے هیں اور هم دوباره اٹھائے جانے والے نهیں هیں۔",
     "persian_text": "این جز زندگی دنیای ما نیست که می‌میریم و زنده می‌مانیم و ما برانگیخته نخواهیم شد.",
     "transliteration": "In hiya illa hayaatunad dunya namootu wa nahya wa ma nahnu bimab'ootheen"
@@ -369,7 +369,7 @@ ayats = [
   {
     "verse_number": 46,
     "english_text": "Towards Firaun and his chiefs of the government, they also showed arrogance, and they were people of haughty type.",
-    "arabic_text": "اِلَىٰ فِرْعَوْنَ وَمَلَاِي۟هِ فَاسْتَكْبَرُواْ وَكَانُواْ قَوْمًا عَالِينَ",
+    "arabic_text": "اِلـٰى فِرْعَوْنَ وَمَلَاِي۟هِ فَاسْتَكْبَرُواْ وَكَانُواْ قَوْمًا عَالِينَ",
     "urdu_text": "فرعون اور اس کے سرداروں کی طرف، تو انهوں نے تکبر کیا اور وه بڑے متکبر لوگ تھے۔",
     "persian_text": "به سوی فرعون و اشراف او، پس تکبر ورزیدند و آنان قومی سرکش بودند.",
     "transliteration": "Ila Fir'awna wa mala'ihi fastakbaroo wa kanoo qawman 'aaleen"
@@ -401,7 +401,7 @@ ayats = [
   {
     "verse_number": 50,
     "english_text": "And We made the son of Maryam and his mother, our signs; We gave them a place to settle on the height, where a fountain was also there.",
-    "arabic_text": "وَجَعَلْنَا ابْنَ مَرْيَمَ وَاُمَّهُٓ ءَايَةًۭ وَءَاوَيْنَـٰهُمَآ اِلَىٰ رَبْوَةٍۢ ذَاتِ قَرَارٍۢ وَمَعِينٍۢ",
+    "arabic_text": "وَجَعَلْنَا ابْنَ مَرْيَمَ وَاُمَّهُٓ ءَايَةًۭ وَءَاوَيْنَـٰهُمَآ اِلـٰى رَبْوَةٍۢ ذَاتِ قَرَارٍۢ وَمَعِينٍۢ",
     "urdu_text": "اور هم نے مریم کے بیٹے اور ان کی ماں کو ایک نشانی بنایا اور هم نے انهیں ایک بلند جگه پر پناه دی جو قیام کے لائق تھی اور جهاں چشمه بھی تھا۔",
     "persian_text": "و پسر مریم و مادرش را نشانه‌ای قرار دادیم و ایشان را به تپه‌ای آرام‌بخش که دارای چشمه‌ای روان بود، جای دادیم.",
     "transliteration": "Wa ja'alna ibna Maryama wa ummahu ayatan wa awayna-huma ila rabwatin dhaati qararin wa ma'een"
@@ -481,7 +481,7 @@ ayats = [
   {
     "verse_number": 60,
     "english_text": "And those who keep giving in the way of Allah according to their capacity, and they keep fearing that they have to return to His Court.",
-    "arabic_text": "وَالَّذِينَ يُؤْتُونَ مَآ ءَاتَواْ وَّقُلُوبُهُمْ وَجِلَةٌ اَنَّهُمْ اِلَىٰ رَبِّهِمْ رَٰجِعُونَ",
+    "arabic_text": "وَالَّذِينَ يُؤْتُونَ مَآ ءَاتَواْ وَّقُلُوبُهُمْ وَجِلَةٌ اَنَّهُمْ اِلـٰى رَبِّهِمْ رَٰجِعُونَ",
     "urdu_text": "اور جو لوگ جو کچھ دیتے هیں دیتے رهتے هیں اور ان کے دل ڈرتے رهتے هیں که انهیں اپنے رب کی طرف لوٹنا هے۔",
     "persian_text": "و کسانی که آنچه می‌دهند می‌دهند در حالی که دلهایشان بیمناک است که به سوی پروردگارشان بازمی‌گردند.",
     "transliteration": "Wallazeena yu'toona maaa aataw wa quloobuhum wajilatun annahum ilaa rabbihim raaji'oon"
@@ -585,7 +585,7 @@ ayats = [
   {
     "verse_number": 73,
     "english_text": "And you are the inviter to the straight path for them.",
-    "arabic_text": "وَاِنَّكَ لَتَدْعُوهُمْ اِلَىٰ صِرَٰطٍۢ مُّسْتَقِيمٍۢ",
+    "arabic_text": "وَاِنَّكَ لَتَدْعُوهُمْ اِلـٰى صِرَٰطٍۢ مُّسْتَقِيمٍۢ",
     "urdu_text": "اور بیشک آپ انهیں سیدھے راستے کی طرف بلانے والے هیں۔",
     "persian_text": "و به راستی تو آنان را به راه راست دعوت می‌کنی.",
     "transliteration": "Wa innaka latad'oohum ilaa siraatim mustaqeem"
@@ -801,7 +801,7 @@ ayats = [
   {
     "verse_number": 100,
     "english_text": "I may do some good deeds, ney, this is one thing which he is saying; and behind them there is a Barrier, which will remain until the Day of Judgement.",
-    "arabic_text": "لَعَلِّىٓ اَعْمَلُ صَـٰلِحًۭا فِيمَا تَرَكْتُ ۚ كَلَّآ ۚ اِنَّهَا كَلِمَةٌ هُوَ قَآئِلُهَا ۖ وَمِن وَرَآئِهِم بَرْزَخٌ اِلَىٰ يَوْمِ يُبْعَثُونَ",
+    "arabic_text": "لَعَلِّىٓ اَعْمَلُ صَـٰلِحًۭا فِيمَا تَرَكْتُ ۚ كَلَّآ ۚ اِنَّهَا كَلِمَةٌ هُوَ قَآئِلُهَا ۖ وَمِن وَرَآئِهِم بَرْزَخٌ اِلـٰى يَوْمِ يُبْعَثُونَ",
     "urdu_text": "تاکه میں نیک عمل کروں جو میں نے چھوڑ دیا تھا۔ هرگز نهیں! یه تو محض ایک بات هے جو وه کهه رها هے، اور ان کے پیچھے ایک برزخ هے جو قیامت کے دن تک رهے گا۔",
     "persian_text": "شاید کار نیکی انجام دهم در آنچه ترک کردم. هرگز! این سخنی است که او می‌گوید، و پشت سر آنان برزخی است تا روز رستاخیز.",
     "transliteration": "La'allī a'malu ṣāliḥan fīmā tarakt, kallā innahā kalimatun huwa qā'iluhā wa min warā'ihim barzakhun ilā yawmi yub'athūn"

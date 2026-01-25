@@ -137,7 +137,7 @@ ayats = [
   {
     "verse_number": 17,
     "english_text": "The day when He shall gather them and those at one place whom they had called besides Allah, and shall ask them whether you misguided my servants or they went astray by their own?",
-    "arabic_text": "وَيَوْمَ يَحْشُرُهُمْ وَ مَا يَعْبُدُونَ مِن دُونِ اللّٰهِ فَيَقُولُ ءَاَنتُمْ اَضْلَلْتُمْ عِبَادِى هَـٰٓؤُلَآءِ اَمْ هُمْ ضَلُّواْ السَّبِيلَ",
+    "arabic_text": "وَ يَوْمَ يَحْشُرُهُمْ وَ مَا يَعْبُدُونَ مِن دُونِ اللّٰهِ فَيَقُولُ ءَاَنتُمْ اَضْلَلْتُمْ عِبَادِى هَـٰٓؤُلَآءِ اَمْ هُمْ ضَلُّواْ السَّبِيلَ",
     "urdu_text": "اور جس دن وه ان کو اور ان کو جنهیں یه الله کے سوا پوجتے تھے ایک جگه جمع کرے گا، پھر پوچھے گا: کیا تم نے میرے ان بندوں کو گمراه کیا یا یه خود راستے سے بھٹک گئے؟",
     "persian_text": "و روزی که آنان و آنچه را غیر از خدا می‌پرستیدند گرد آورد، پس خواهد گفت: آیا شما بندگان مرا گمراه کردید یا خودشان راه را گم کردند؟",
     "transliteration": "Wa yawma yahshuruhum wa ma ya'budoona min doonillahi fa-yaqoolu a-antum adlaltum 'ibadi ha'ula'i am hum dallus-sabeel"
@@ -185,7 +185,7 @@ ayats = [
   {
     "verse_number": 23,
     "english_text": "Then We will turn to their deeds; and will make them all like flying particles of dust.",
-    "arabic_text": "وَقَدِمْنَآ اِلَىٰ مَا عَمِلُواْ مِنْ عَمَلٍۢ فَجَعَلْنَـٰهُ هَبَآءًۭ مَّنثُورًا",
+    "arabic_text": "وَقَدِمْنَآ اِلـٰى مَا عَمِلُواْ مِنْ عَمَلٍۢ فَجَعَلْنَـٰهُ هَبَآءًۭ مَّنثُورًا",
     "urdu_text": "اور هم ان کے اعمال کی طرف متوجه هوں گے، پھر انهیں اڑتے هوئے ذرات کی طرح بنا دیں گے۔",
     "persian_text": "و به سوی اعمالی که انجام داده‌اند روی می‌آوریم و آن‌ها را همچون غبار پراکنده می‌سازیم.",
     "transliteration": "Wa qadimna ila ma 'amilu min 'amalin faja'alnahu haba'am-mansura"
@@ -201,7 +201,7 @@ ayats = [
   {
     "verse_number": 25,
     "english_text": "That day the sky will burst apart because of clouds, and angels will come in groups (after groups).",
-    "arabic_text": "وَيَوْمَ تَشَقَّقُ السَّمَآءُ بِالْغَمَـٰمِ وَنُزِّلَ الْمَلَـٰٓئِكَةُ تَنزِيلًا",
+    "arabic_text": "وَ يَوْمَ تَشَقَّقُ السَّمَآءُ بِالْغَمَـٰمِ وَنُزِّلَ الْمَلَـٰٓئِكَةُ تَنزِيلًا",
     "urdu_text": "اور جس دن آسمان بادلوں کے ساتھ پھٹ جائے گا اور فرشتے گروه در گروه اتارے جائیں گے۔",
     "persian_text": "و روزی که آسمان با ابرها شکافته شود و فرشتگان گروه گروه فرود آیند.",
     "transliteration": "Wa yawma tashaqqaqus-sama'u bil-ghamami wa nuzzilal-mala'ikatu tanzeela"
@@ -217,7 +217,7 @@ ayats = [
   {
     "verse_number": 27,
     "english_text": "That day unjust will cut their hand and say: Alas! I would have taken the path with the prophet.",
-    "arabic_text": "وَيَوْمَ يَعَضُّ الظَّالِمُ عَلَىٰ يَدَيْهِ يَقُولُ يَـٰلَيْتَنِى اتَّخَذْتُ مَعَ الرَّسُولِ سَبِيلًا",
+    "arabic_text": "وَ يَوْمَ يَعَضُّ الظَّالِمُ عَلَىٰ يَدَيْهِ يَقُولُ يَـٰلَيْتَنِى اتَّخَذْتُ مَعَ الرَّسُولِ سَبِيلًا",
     "urdu_text": "اور جس دن ظالم اپنے هاتھوں کو کاٹے گا اور کهے گا: کاش! میں نے رسول کے ساتھ راه اختیار کی هوتی۔",
     "persian_text": "و روزی که ستمکار دست‌های خود را به دندان می‌گیرد و می‌گوید: ای کاش با پیامبر راهی را برگزیده بودم.",
     "transliteration": "Wa yawma ya'adduz-zalimu 'ala yadayhi yaqoolu ya laytanit-takhaztu ma'ar-rasooli sabeela"
@@ -273,7 +273,7 @@ ayats = [
   {
     "verse_number": 34,
     "english_text": "Those who will be brought to Hell dragging on their face, their abode is the worst, and they are strayed to a great extent.",
-    "arabic_text": "الَّذِينَ يُحْشَرُونَ عَلَىٰ وُجُوهِهِمْ اِلَىٰ جَهَنَّمَ اُو۟لَـٰٓئِكَ شَرٌّۭ مَّكَانًۭا وَاَضَلُّ سَبِيلًا",
+    "arabic_text": "الَّذِينَ يُحْشَرُونَ عَلَىٰ وُجُوهِهِمْ اِلـٰى جَهَنَّمَ اُو۟لَـٰٓئِكَ شَرٌّۭ مَّكَانًۭا وَاَضَلُّ سَبِيلًا",
     "urdu_text": "جو لوگ اپنے چهروں کے بل دوزخ کی طرف گھسیٹے جائیں گے، وهی بدترین ٹھکانے والے هیں اور راستے سے بهت بھٹکے هوئے هیں۔",
     "persian_text": "کسانی که بر روی خود به سوی جهنم کشیده می‌شوند، آنان بدترین جایگاه و گمراه‌ترین راه را دارند.",
     "transliteration": "Alladheena yuhsharuna 'ala wujoohihim ila jahannama ula'ika sharrun makanan wa adallu sabeela"
@@ -361,7 +361,7 @@ ayats = [
   {
     "verse_number": 45,
     "english_text": "Didn't you see that how your Lord spread the shadow, if He pleased, He could have made it stagnant at one place, then We made sun its argument.",
-    "arabic_text": "اَلَمْ تَرَ اِلَىٰ رَبِّكَ كَيْفَ مَدَّ الظِّلَّ وَ لَوْ شَآءَ لَجَعَلَهُ سَاكِنًۭا ثُمَّ جَعَلْنَا الشَّمْسَ عَلَيْهِ دَلِيلًا",
+    "arabic_text": "اَلَمْ تَرَ اِلـٰى رَبِّكَ كَيْفَ مَدَّ الظِّلَّ وَ لَوْ شَآءَ لَجَعَلَهُ سَاكِنًۭا ثُمَّ جَعَلْنَا الشَّمْسَ عَلَيْهِ دَلِيلًا",
     "urdu_text": "کیا آپ نے نهیں دیکھا که آپ کے رب نے سایه کو کیسے پھیلایا؟ اور اگر وه چاهتا تو اسے ایک جگه ساکن رکھ دیتا، پھر هم نے سورج کو اس پر دلیل بنایا۔",
     "persian_text": "آیا ندیدی که پروردگارت چگونه سایه را گسترده است؟ و اگر می‌خواست آن را ساکن می‌گذاشت، سپس خورشید را بر آن راهنما قرار دادیم.",
     "transliteration": "Alam tara ila rabbika kayfa maddaz zilla wa law sha'a laja'alahu sakinan thumma ja'alnash shamsa 'alayhi dalila"
@@ -457,7 +457,7 @@ ayats = [
   {
     "verse_number": 57,
     "english_text": "Say: I do not want any recompense from you people, but whoever wants he can adopt the path of their Lord.",
-    "arabic_text": "قُلْ مَآ اَسْـَٔلُكُمْ عَلَيْهِ مِنْ اَجْرٍ اِلَّا مَن شَآءَ اَن يَتَّخِذَ اِلَىٰ رَبِّهِ سَبِيلًا",
+    "arabic_text": "قُلْ مَآ اَسْـَٔلُكُمْ عَلَيْهِ مِنْ اَجْرٍ اِلَّا مَن شَآءَ اَن يَتَّخِذَ اِلـٰى رَبِّهِ سَبِيلًا",
     "urdu_text": "کهه دیجیے که میں تم سے اس پر کوئی اجر نهیں مانگتا، سوائے اس کے که جو چاهے اپنے رب کی طرف راسته اختیار کرے۔",
     "persian_text": "بگو: من از شما بر این کار مزدی نمی‌خواهم، مگر آنکه بخواهد به سوی پروردگارش راهی بگیرد.",
     "transliteration": "Qul maaa as'alukum 'alayhi min ajrin illaa man shaaa'a an yattakhidha ilaa rabbihee sabeelaa"

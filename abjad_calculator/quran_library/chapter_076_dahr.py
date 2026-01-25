@@ -233,7 +233,7 @@ ayats = [
   {
     "verse_number": 29,
     "english_text": "This is the thing of admonition, whoever wishes, may adopt the path of his Lord.",
-    "arabic_text": "اِنَّ هَـٰذِهِ تَذْكِرَةٌۭ ۖ فَمَن شَآءَ اتَّخَذَ اِلَىٰ رَبِّهِ سَبِيلًا",
+    "arabic_text": "اِنَّ هَـٰذِهِ تَذْكِرَةٌۭ ۖ فَمَن شَآءَ اتَّخَذَ اِلـٰى رَبِّهِ سَبِيلًا",
     "urdu_text": "بیشک یه نصیحت هے، پس جو چاهے اپنے رب کی طرف راسته اختیار کرے۔",
     "persian_text": "این یک یادآوری است، پس هر که بخواهد راهی به سوی پروردگارش برگزیند.",
     "transliteration": "Inna haazihee tazkiratun faman shaaa'at takhaza ilaa Rabbihee sabeelaa"

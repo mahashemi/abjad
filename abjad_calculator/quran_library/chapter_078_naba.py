@@ -18,7 +18,7 @@ ayats = [
   {
     "verse_number": 3,
     "english_text": "In which they differ among them.",
-    "arabic_text": "الَّذِي هُمْ فِيهِ مُخْتَلِفُونَ",
+    "arabic_text": "الَّذِى هُمْ فِيهِ مُخْتَلِفُونَ",
     "urdu_text": "جس میں وہ اختلاف کر رہے ہیں۔",
     "persian_text": "همان که آنان در آن اختلاف دارند.",
     "transliteration": "Allazee hum feehi mukhtalifoon",
@@ -138,7 +138,7 @@ ayats = [
   {
     "verse_number": 18,
     "english_text": "The day trumpet will be blown, and you will come all in groups.",
-    "arabic_text": "يَوْمَ يُنفَخُ فِي الصُّورِ فَتَاْتُونَ اَفْوَاجًا",
+    "arabic_text": "يَوْمَ يُنفَخُ فِى الصُّورِ فَتَاْتُونَ اَفْوَاجًا",
     "urdu_text": "جس دن صور میں پھونکا جائے گا تو تم گروہ در گروہ آؤ گے",
     "persian_text": "روزی که در صور دمیده شود پس شما گروه گروه خواهید آمد",
     "transliteration": "Yawma yunfakhu fis soori fata'toona afwaja",
@@ -314,7 +314,7 @@ ayats = [
   {
     "verse_number": 40,
     "english_text": "We have warned you from a near punishment, the day man will see his deeds, and infidel will say, O! I wish I would have become dust.",
-    "arabic_text": "اِنَّآ اَنذَرْنٰكُمْ عَذَابًا قَرِيبًا يَوْمَ يَنظُرُ الْمَرْءُ مَا قَدَّمَتْ يَدٰهُ وَ يَقُولُ الْكٰفِرُ يٰلَيْتَنِي كُنتُ تُرٰبا",
+    "arabic_text": "اِنَّآ اَنذَرْنٰكُمْ عَذَابًا قَرِيبًا يَوْمَ يَنظُرُ الْمَرْءُ مَا قَدَّمَتْ يَدٰهُ وَ يَقُولُ الْكٰفِرُ يٰلَيْتَنِى كُنتُ تُرٰبا",
     "urdu_text": "ہم نے تمہیں قریب کے عذاب سے ڈرایا ہے، جس دن انسان دیکھے گا جو اس کے ہاتھوں نے آگے بھیجا، اور کافر کہے گا اے کاش میں مٹی ہوتا",
     "persian_text": "ما شما را از عذابی نزدیک بیم دادیم، روزی که انسان می‌بیند آنچه دستانش پیش فرستاده و کافر می‌گوید ای کاش خاک بودم",
     "transliteration": "Innaa andharnakum 'adhaaban qareeban yawma yandhurur mar'u maa qaddamat yadaahu wa yaqoolul kaafiru yaa laytanee kuntu turaaba",

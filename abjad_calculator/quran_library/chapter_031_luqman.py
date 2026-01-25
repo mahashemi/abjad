@@ -121,7 +121,7 @@ ayats = [
   {
     "verse_number": 15,
     "english_text": "And if your parents compel you to make something My partner of which you have no knowledge, do not obey them; but be kind to them in the world, and follow the path of him which reminds Me, then thereafter return of all of you are towards Me only; then I will inform you what you have done.",
-    "arabic_text": "وَاِن جَـٰهَدَاكَ عَلَىٰٓ اَن تُشْرِكَ بِى مَا لَيْسَ لَكَ بِهِ عِلْمٌۭ فَلَا تُطِعْهُمَا ۖ وَصَاحِبْهُمَا فِى الدُّنْيَا مَعْرُوفًۭا ۖ وَاتَّبِعْ سَبِيلَ مَنْ اَنَابَ اِلَىَّ ۚ ثُمَّ اِلَىَّ مَرْجِعُكُمْ فَاُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ",
+    "arabic_text": "وَاِن جَـٰهَدَاكَ عَلَىٰٓ اَن تُشْرِكَ بِى مَا لَيْسَ لَكَ بِهِ عِلْمٌۭ فَلَا تُطِعْهُمَا ۖ وَصَاحِبْهُمَا فِى الدُّنْيٰمَعْرُوفًۭا ۖ وَاتَّبِعْ سَبِيلَ مَنْ اَنَابَ اِلَىَّ ۚ ثُمَّ اِلَىَّ مَرْجِعُكُمْ فَاُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ",
     "urdu_text": "اور اگر تمهارے والدین تم پر زور ڈالیں که میرے ساتھ کسی ایسی چیز کو شریک ٹھهراؤ جس کا تمهیں علم نهیں، تو ان کی اطاعت نه کرو، لیکن دنیا میں ان کے ساتھ اچھا سلوک کرو، اور اس کی راه کی پیروی کرو جو میری طرف رجوع کرتا هے، پھر تم سب کی واپسی میری هی طرف هے، پھر میں تمهیں بتاؤں گا جو تم کرتے تھے۔",
     "persian_text": "و اگر والدینت تو را وادار کنند که چیزی را که از آن آگاهی نداری با من شریک سازی، از آنها اطاعت مکن، اما در دنیا با آنها به نیکی رفتار کن، و راه کسی را پیروی کن که به سوی من بازگشت کرده است، سپس بازگشت همه شما به سوی من است، پس شما را از آنچه انجام می‌دادید آگاه خواهم کرد.",
     "transliteration": "Wa in jāhadāka 'alā an tushrika bī mā laysa laka bihi 'ilmun fa-lā tuṭi'humā wa ṣāḥibhumā fī ad-dunyā ma'rūfan wa attabi' sabīla man anāba ilayya thumma ilayya marji'ukum fa-unabbi'ukum bimā kuntum ta'malūn"
@@ -169,7 +169,7 @@ ayats = [
   {
     "verse_number": 21,
     "english_text": "And when they are told to follow what is revealed by Allah, they say: we follow whatever our forefathers had followed, even if they are invited by Satan towards Hell.",
-    "arabic_text": "وَاِذَا قِيلَ لَهُمُ اتَّبِعُواْ مَآ اَنزَلَ اللّٰهُ قَالُوْاْ بَلْ نَتَّبِعُ مَا وَجَدْنَا عَلَيْهِ ءَابَآءَنَآ ۚ اَوَ لَوْ كَانَ الشَّيْطَـٰنُ يَدْعُوهُمْ اِلَىٰ عَذَابِ السَّعِيرِ",
+    "arabic_text": "وَاِذَا قِيلَ لَهُمُ اتَّبِعُواْ مَآ اَنزَلَ اللّٰهُ قَالُوْاْ بَلْ نَتَّبِعُ مَا وَجَدْنَا عَلَيْهِ ءَابَآءَنَآ ۚ اَوَ لَوْ كَانَ الشَّيْطَـٰنُ يَدْعُوهُمْ اِلـٰى عَذَابِ السَّعِيرِ",
     "urdu_text": "اور جب ان سے کها جاتا هے که الله نے جو نازل فرمایا هے اس کی پیروی کرو تو وه کهتے هیں که نهیں، هم تو اسی کی پیروی کریں گے جس پر هم نے اپنے باپ دادا کو پایا، کیا اگرچه شیطان انهیں دوزخ کے عذاب کی طرف بلا رها هو؟",
     "persian_text": "و هنگامی که به آنان گفته می‌شود از آنچه خداوند نازل کرده پیروی کنید، می‌گویند: بلکه ما از آنچه پدران خود را بر آن یافتیم پیروی می‌کنیم، آیا اگرچه شیطان آنان را به سوی عذاب آتش فروزان فرا می‌خواند؟",
     "transliteration": "Wa idha qeela lahumuttabi'oo ma anzalal-lahu qaloo bal nattabi'u ma wajadna 'alayhi aba'ana, awa law kanash-shaytanu yad'oohum ila 'adhabi sa'eer"
@@ -177,7 +177,7 @@ ayats = [
   {
     "verse_number": 22,
     "english_text": "And who turns his life wholly towards Allah and also has good character, then he has held the rope of guidance firmly, and on Allah is the end of all affairs.",
-    "arabic_text": "۞ وَمَن يُسْلِمْ وَجْهَهُٓ اِلَى اللّٰهِ وَهُوَ مُحْسِنٌ فَقَدِ اسْتَمْسَكَ بِالْعُرْوَةِ الْوُثْقَىٰ ۗ وَاِلَى اللّٰهِ عَـٰقِبَةُ الْاُمُورِ",
+    "arabic_text": "۞ وَمَن يُسْلِمْ وَجْهَهُٓ اِلَى اللّٰهِ وَهُوَ مُحْسِنٌ فَقَدِ اسْتَمْسَكَ بِالْعُرْوَةِ الْوُثْقَىٰ ۗ وَ اِلـٰى اللّٰهِ عَـٰقِبَةُ الْاُمُورِ",
     "urdu_text": "اور جو شخص اپنا چهره الله کی طرف جھکا دے اور وه نیکو کار بھی هو تو اس نے مضبوط رسی کو تھام لیا، اور تمام معاملات کا انجام الله هی کی طرف هے۔",
     "persian_text": "و هر کس خود را به خدا تسلیم کند در حالی که نیکوکار باشد، پس به دستاویز محکم چنگ زده است، و فرجام همه کارها به سوی خداست.",
     "transliteration": "Wa man yuslim wajhahu ilal-lahi wa huwa muhsinun faqadistamsaka bil'urwatil wuthqa, wa ilal-lahi 'aqibatul umoor"
@@ -193,7 +193,7 @@ ayats = [
   {
     "verse_number": 24,
     "english_text": "We will give them rest for some days, then shall drag and bring them towards the severest punishment.",
-    "arabic_text": "نُمَتِّعُهُمْ قَلِيلًا ثُمَّ نَضْطَرُّهُمْ اِلَىٰ عَذَابٍ غَلِيظٍۢ",
+    "arabic_text": "نُمَتِّعُهُمْ قَلِيلًا ثُمَّ نَضْطَرُّهُمْ اِلـٰى عَذَابٍ غَلِيظٍۢ",
     "urdu_text": "هم انهیں تھوڑے دن فائده اٹھانے دیتے هیں، پھر انهیں سخت عذاب کی طرف کھینچ لے جائیں گے۔",
     "persian_text": "آنان را اندکی بهره‌مند می‌سازیم، سپس آنان را به سوی عذابی سخت می‌کشانیم.",
     "transliteration": "Numatti'uhum qaleelan thumma nadtarruhum ila 'adhabin ghaleez"
@@ -233,7 +233,7 @@ ayats = [
   {
     "verse_number": 29,
     "english_text": "Did you not see that it is Allah Who makes night to enter into the day; and makes day enter into the night; He made moon and the sun that they will continue to move until the appointed day, and Allah is Cognizant of your affairs.",
-    "arabic_text": "اَلَمْ تَرَ اَنَّ اللّٰهَ يُولِجُ الَّيْلَ فِى النَّهَارِ وَيُولِجُ النَّهَارَ فِى الَّيْلِ وَسَخَّرَ الشَّمْسَ وَالْقَمَرَ كُلٌّۭ يَجْرِىٓ اِلَىٰٓ اَجَلٍۢ مُّسَمًّۭى وَاَنَّ اللّٰهَ بِمَا تَعْمَلُونَ خَبِيرٌۭ",
+    "arabic_text": "اَلَمْ تَرَ اَنَّ اللّٰهَ يُولِجُ الَّيْلَ فِى النَّهَارِ وَيُولِجُ النَّهَارَ فِى الَّيْلِ وَسَخَّرَ الشَّمْسَ وَالْقَمَرَ كُلٌّۭ يَجْرِىٓ اِلـٰىٓ اَجَلٍۢ مُّسَمًّۭى وَاَنَّ اللّٰهَ بِمَا تَعْمَلُونَ خَبِيرٌۭ",
     "urdu_text": "کیا تم نے نهیں دیکھا که الله رات کو دن میں داخل کرتا هے اور دن کو رات میں داخل کرتا هے، اور اس نے سورج اور چاند کو مسخر کیا هے، هر ایک ایک مقرره وقت تک چل رها هے، اور بے شک الله تمهارے اعمال سے باخبر هے۔",
     "persian_text": "آیا ندیدی که خداوند شب را در روز داخل می‌کند و روز را در شب داخل می‌کند، و خورشید و ماه را مسخر ساخته که هر یک تا زمانی معین در حرکتند، و خداوند به آنچه انجام می‌دهید آگاه است.",
     "transliteration": "Alam tara annal-laha yoolijul layla fin nahari wa yoolijun nahara fil layl, wa sakhkharash shamsa walqamar, kullun yajree ila ajalin musamma, wa annal-laha bima ta'maloona khabeer"
@@ -265,7 +265,7 @@ ayats = [
   {
     "verse_number": 33,
     "english_text": "O People! Fear your Lord, fear the day when father will not be useful to son nor son will be useful to father, Verily, Allah's promise is truth, therefore worldly life should not deceive you; and beware, let no deceiver deceive you.",
-    "arabic_text": "يٰٓاَيُّهَا النَّاسُ اتَّقُواْ رَبَّكُمْ وَاخْشَوْاْ يَوْمًا لَّا يَجْزِى وَالِدٌ عَن وَلَدِهِ وَ لَا مَوْلُودٌ هُوَ جَازٍ عَن وَالِدِهِ شَيْـًٔا ۚ اِنَّ وَعْدَ اللّٰهِ حَقٌّۭ ۖ فَلَا تَغُرَّنَّكُمُ الْحَيَوٰةُ الدُّنْيَا وَ لَا يَغُرَّنَّكُم بِاللّٰهِ الْغَرُورُ",
+    "arabic_text": "يٰٓاَيُّهَا النَّاسُ اتَّقُواْ رَبَّكُمْ وَاخْشَوْاْ يَوْمًا لَّا يَجْزِى وَالِدٌ عَن وَلَدِهِ وَ لَا مَوْلُودٌ هُوَ جَازٍ عَن وَالِدِهِ شَيْـًٔا ۚ اِنَّ وَعْدَ اللّٰهِ حَقٌّۭ ۖ فَلَا تَغُرَّنَّكُمُ الْحَيَوٰةُ الدُّنْيٰوَ لَا يَغُرَّنَّكُم بِاللّٰهِ الْغَرُورُ",
     "urdu_text": "اے لوگو! اپنے رب سے ڈرو اور اس دن سے ڈرو جب نه باپ اپنے بیٹے کے کام آئے گا اور نه بیٹا اپنے باپ کے کچھ کام آئے گا، بیشک الله کا وعده سچا هے، پس دنیا کی زندگی تمهیں دھوکے میں نه ڈالے اور نه کوئی دھوکے باز تمهیں الله کے بارے میں دھوکه دے۔",
     "persian_text": "ای مردم! از پروردگار خود بترسید و از روزی بترسید که نه پدری به جای فرزندش سودی خواهد داشت و نه فرزندی به جای پدرش چیزی را جبران خواهد کرد، همانا وعده خداوند حق است، پس زندگی دنیا شما را فریب ندهد و فریبنده‌ای شما را درباره خدا فریب ندهد.",
     "transliteration": "Yaa ayyuhan-naasut-taqoo rabbakum wakhshaw yawmal-laa yajzee waalidun 'an waladihi wa laa mawloodun huwa jaazin 'an waalidihi shay'aa, inna wa'dal-laahi haqq, falaa taghurrannakumul-hayaatud-dunyaa wa laa yaghurrannakum billaahil-gharoor"

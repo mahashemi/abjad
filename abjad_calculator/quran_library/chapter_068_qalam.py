@@ -257,7 +257,7 @@ ayats = [
   {
     "verse_number": 32,
     "english_text": "Perhaps, our Lord may give us better than this; we are allured towards Him.",
-    "arabic_text": "عَسَىٰ رَبُّنَآ اَن يُبْدِلَنَا خَيْرًا مِّنْهَآ اِنَّآ اِلَىٰ رَبِّنَا رَٰغِبُونَ",
+    "arabic_text": "عَسَىٰ رَبُّنَآ اَن يُبْدِلَنَا خَيْرًا مِّنْهَآ اِنَّآ اِلـٰى رَبِّنَا رَٰغِبُونَ",
     "urdu_text": "امید ہے کہ ہمارا رب ہمیں اس سے بہتر عطا فرمائے، بیشک ہم اپنے رب کی طرف رغبت رکھنے والے ہیں۔",
     "persian_text": "امید است که پروردگار ما بهتر از این را به ما عطا کند، ما به سوی پروردگارمان رغبت داریم.",
     "transliteration": "Asaa Rabbunaa any yubdilanaa khayram minhaa innaa ilaa Rabbinaa raaghiboon"
@@ -313,7 +313,7 @@ ayats = [
   {
     "verse_number": 39,
     "english_text": "Or have you taken oaths from Us till the Day of Judgement that you will get everything for which you will decide.",
-    "arabic_text": "اَمْ لَكُمْ اَيْمَـٰنٌ عَلَيْنَا بَـٰلِغَةٌ اِلَىٰ يَوْمِ الْقِيَـٰمَةِ ۙ اِنَّ لَكُمْ لَمَا تَحْكُمُونَ",
+    "arabic_text": "اَمْ لَكُمْ اَيْمَـٰنٌ عَلَيْنَا بَـٰلِغَةٌ اِلـٰى يَوْمِ الْقِيَـٰمَةِ ۙ اِنَّ لَكُمْ لَمَا تَحْكُمُونَ",
     "urdu_text": "یا تم نے ہم سے قیامت کے دن تک کے لیے پختہ عہد لے رکھے ہیں کہ تمہارے لیے وہی کچھ ہوگا جو تم فیصلہ کرو گے؟",
     "persian_text": "یا از ما پیمان‌های محکمی تا روز قیامت گرفته‌اید که برای شما همان چیزی خواهد بود که حکم می‌کنید؟",
     "transliteration": "Am lakum aymaanun alaynaa baalighatun ilaa Yawmil Qiyaamati inna lakum lamaa tahkumoon"
@@ -385,7 +385,7 @@ ayats = [
   {
     "verse_number": 48,
     "english_text": "Now wait with patience for the command of your Lord, and do not be like Man of Whale when he had called out in a very angry tone.",
-    "arabic_text": "فَاصْبِرْ لِحُكْمِ رَبِّكَ وَ لَا تَكُن كَصَاحِبِ الْحُوتِ اِذْ نَادَىٰ وَهُوَ مَكْظُومٌۭ",
+    "arabic_text": "فَاصْبِرْ لِحُكْمِ رَبِّكَ وَ لَا تَكُن كَصَاحِبِ الْحُوتِ اِذْ نَادٰى وَهُوَ مَكْظُومٌۭ",
     "urdu_text": "پس اپنے رب کے حکم کے لیے صبر کرو اور مچھلی والے کی طرح نہ ہو جاؤ جب اس نے پکارا تھا اور وہ غم سے بھرا ہوا تھا۔",
     "persian_text": "پس برای فرمان پروردگارت صبر کن و مانند صاحب ماهی مباش، آنگاه که ندا داد در حالی که اندوهگین بود.",
     "transliteration": "Fasbir lihukmi rabbika wa laa takun kasaahibil hooti idh naadaa wa huwa makdhoom"

@@ -113,7 +113,7 @@ ayats = [
   {
     "verse_number": 14,
     "english_text": "If Allah's Grace would not have been in the world and the Hereafter and Mercy was not there then grievous punishment would have afflicted you on account of discourse you describe.",
-    "arabic_text": "وَلَوْلَا فَضْلُ اللّٰهِ عَلَيْكُمْ وَرَحْمَتُهُ فِى الدُّنْيَا وَالْاخِرَةِ لَمَسَّكُمْ فِى مَآ اَفَضْتُمْ فِيهِ عَذَابٌ عَظِيمٌ",
+    "arabic_text": "وَلَوْلَا فَضْلُ اللّٰهِ عَلَيْكُمْ وَرَحْمَتُهُ فِى الدُّنْيٰوَالْاخِرَةِ لَمَسَّكُمْ فِى مَآ اَفَضْتُمْ فِيهِ عَذَابٌ عَظِيمٌ",
     "urdu_text": "اور اگر دنیا اور آخرت میں تم پر الله کا فضل اور اس کی رحمت نه هوتی تو جس بات میں تم پڑ گئے تھے اس کی وجه سے تمهیں بڑا عذاب پهنچتا۔",
     "persian_text": "و اگر فضل و رحمت خدا بر شما در دنیا و آخرت نبود، به خاطر آنچه در آن فرو رفتید عذابی بزرگ به شما می‌رسید.",
     "transliteration": "Wa-lawlā faḍlu Allāhi 'alaykum wa-raḥmatuhu fī ad-dunyā wal-ākhirati la-massakum fī mā afaḍtum fīhi 'adhābun 'aẓīm"
@@ -153,7 +153,7 @@ ayats = [
   {
     "verse_number": 19,
     "english_text": "Who wishes to spread the evil discourse among the believers, for them there is painful punishment in the world and also in the Hereafter, and Allah Knows everything, only you do not know anything.",
-    "arabic_text": "اِنَّ الَّذِينَ يُحِبُّونَ اَن تَشِيعَ الْفَـٰحِشَةُ فِى الَّذِينَ ءَامَنُواْ لَهُمْ عَذَابٌ اَلِيمٌۭ فِى الدُّنْيَا وَالْاخِرَةِ ۚ وَاللّٰهُ يَعْلَمُ وَ اَنتُمْ لَا تَعْلَمُونَ",
+    "arabic_text": "اِنَّ الَّذِينَ يُحِبُّونَ اَن تَشِيعَ الْفَـٰحِشَةُ فِى الَّذِينَ ءَامَنُواْ لَهُمْ عَذَابٌ اَلِيمٌۭ فِى الدُّنْيٰوَالْاخِرَةِ ۚ وَاللّٰهُ يَعْلَمُ وَ اَنتُمْ لَا تَعْلَمُونَ",
     "urdu_text": "بیشک جو لوگ چاهتے هیں که مومنوں میں بے حیائی پھیلے، ان کے لیے دنیا اور آخرت میں دردناک عذاب هے، اور الله جانتا هے اور تم نهیں جانتے۔",
     "persian_text": "همانا کسانی که دوست دارند فحشا در میان مؤمنان شایع شود، برای آنان عذابی دردناک در دنیا و آخرت است و خداوند می‌داند و شما نمی‌دانید.",
     "transliteration": "Inna alladhīna yuḥibbūna an tashī'a al-fāḥishatu fī alladhīna āmanū lahum 'adhābun alīmun fī ad-dunyā wal-ākhirati wa-Allāhu ya'lamu wa-antum lā ta'lamūn"
@@ -185,7 +185,7 @@ ayats = [
   {
     "verse_number": 23,
     "english_text": "Those who are chaste, and unknowingly accuse women, Verily, there are curses on them and great punishment for them.",
-    "arabic_text": "اِنَّ الَّذِينَ يَرْمُونَ الْمُحْصَنَـٰتِ الْغَـٰفِلَـٰتِ الْمُؤْمِنَـٰتِ لُعِنُواْ فِى الدُّنْيَا وَالْاخِرَةِ وَلَهُمْ عَذَابٌ عَظِيمٌۭ",
+    "arabic_text": "اِنَّ الَّذِينَ يَرْمُونَ الْمُحْصَنَـٰتِ الْغَـٰفِلَـٰتِ الْمُؤْمِنَـٰتِ لُعِنُواْ فِى الدُّنْيٰوَالْاخِرَةِ وَلَهُمْ عَذَابٌ عَظِيمٌۭ",
     "urdu_text": "بے شک جو لوگ پاک دامن، بھولی بھالی مومن عورتوں پر تهمت لگاتے هیں، ان پر دنیا اور آخرت میں لعنت هے، اور ان کے لیے بڑا عذاب هے۔",
     "persian_text": "کسانی که زنان پاکدامن، غافل و مؤمن را متهم می‌کنند، در دنیا و آخرت لعنت شده‌اند و برای آنان عذابی بزرگ است.",
     "transliteration": "Innal-lazeena yarmoonal-muhsanaatil-ghaafilaatil-mu'minaati lu'inoo fid-dunyaa wal-aakhirati wa lahum 'azaabun 'azheem"
@@ -265,7 +265,7 @@ ayats = [
   {
     "verse_number": 33,
     "english_text": "Who do not have the capacity for Nikah, they must also guard their purity until Allah make them rich with His Grace and Mercy, and slaves and lady-slaves who wish to make covenant, see if they are good, make covenant with them, then whatever riches Allah has given you, give them also something from it; and beware do not compel your lady-slaves into prostitution for your own benefit, and whoever will compel them (for prostitution) and they desire to keep their chastity, then Verily after their compulsion Allah is greatly Forgiving and Merciful with regards to women.",
-    "arabic_text": "وَلْيَسْتَعْفِفِ الَّذِينَ لَا يَجِدُونَ نِكَاحًا حَتَّىٰ يُغْنِيَهُمُ اللّٰهُ مِن فَضْلِهِ ۗ وَالَّذِينَ يَبْتَغُونَ الْكِتٰبَ مِمَّا مَلَكَتْ اَيْمَـٰنُكُمْ فَكَاتِبُوهُمْ اِنْ عَلِمْتُمْ فِيهِمْ خَيْرًا ۖ وَءَاتُوهُم مِّن مَّالِ اللّٰهِ الَّذِىٓ ءَاتَىٰكُمْ ۚ وَ لَا تُكْرِهُواْ فَتَيَـٰتِكُمْ عَلَى الْبِغَآءِ اِنْ اَرَدْنَ تَحَصُّنًۭا لِّتَبْتَغُواْ عَرَضَ الْحَيَوٰةِ الدُّنْيَا ۚ وَمَن يُكْرِههُّنَّ فَاِنَّ اللّٰهَ مِنۢ بَعْدِ اِكْرَٰهِهِنَّ غَفُورٌۭ رَّحِيمٌۭ",
+    "arabic_text": "وَلْيَسْتَعْفِفِ الَّذِينَ لَا يَجِدُونَ نِكَاحًا حَتَّىٰ يُغْنِيَهُمُ اللّٰهُ مِن فَضْلِهِ ۗ وَالَّذِينَ يَبْتَغُونَ الْكِتٰبَ مِمَّا مَلَكَتْ اَيْمَـٰنُكُمْ فَكَاتِبُوهُمْ اِنْ عَلِمْتُمْ فِيهِمْ خَيْرًا ۖ وَءَاتُوهُم مِّن مَّالِ اللّٰهِ الَّذِىٓ ءَاتَىٰكُمْ ۚ وَ لَا تُكْرِهُواْ فَتَيَـٰتِكُمْ عَلَى الْبِغَآءِ اِنْ اَرَدْنَ تَحَصُّنًۭا لِّتَبْتَغُواْ عَرَضَ الْحَيَوٰةِ الدُّنْيٰۚ وَمَن يُكْرِههُّنَّ فَاِنَّ اللّٰهَ مِنۢ بَعْدِ اِكْرَٰهِهِنَّ غَفُورٌۭ رَّحِيمٌۭ",
     "urdu_text": "اور جو لوگ نکاح کی استطاعت نهیں رکھتے وه پاکدامنی اختیار کریں یهاں تک که الله انهیں اپنے فضل سے غنی کر دے، اور تمهارے غلاموں اور لونڈیوں میں سے جو آزادی کا معاهده چاهیں، اگر تم ان میں بھلائی دیکھو تو ان سے معاهده کر لو، اور الله نے جو مال تمهیں دیا هے اس میں سے انهیں بھی کچھ دو، اور اپنی لونڈیوں کو بدکاری پر مجبور نه کرو اگر وه پاکدامنی چاهتی هوں، تاکه تم دنیوی زندگی کا فائده حاصل کرو، اور جو انهیں مجبور کرے تو بیشک الله ان کی مجبوری کے بعد بخشنے والا اور مهربان هے۔",
     "persian_text": "و کسانی که توانایی ازدواج ندارند باید عفت پیشه کنند تا خداوند از فضل خود آنان را بی‌نیاز گرداند، و بندگان و کنیزانی که خواهان قرارداد آزادی هستند، اگر در آنان خیر می‌بینید با آنان قرارداد کنید، و از مالی که خداوند به شما داده از آن به آنان نیز بدهید، و کنیزان خود را به فحشا مجبور نکنید اگر آنان خواهان پاکدامنی باشند، تا منافع دنیوی به دست آورید، و هر کس آنان را مجبور کند پس خداوند پس از اجبارشان آمرزنده و مهربان است.",
     "transliteration": "Wal-yasta'fifil-ladheena laa yajidoona nikaahan hattaa yughniyahumul-laahu min fadlih, walladheena yabtaghoonal-kitaaba mimmaa malakat aymaanukum fa-kaatiboohum in 'alimtum feehim khayran wa aatoohum min maalil-laahil-ladhee aataakum wa laa tukrihoo fataayaatikum 'alal-bighaaa'i in aradna tahassunnal-litabtaghoo 'aradal-hayaatid-dunyaa wa man yukrihhunna fa-innallaaha mim ba'di ikraahihinna ghafoorur-raheem"
@@ -337,7 +337,7 @@ ayats = [
   {
     "verse_number": 42,
     "english_text": "Kingdom of the earth and the sky is only for Allah, and everyone has to return to Him only.",
-    "arabic_text": "وَلِلَّهِ مُلْكُ السَّمَـٰوَٰتِ وَالْاَرْضِ ۖ وَاِلَى اللّٰهِ الْمَصِيرُ",
+    "arabic_text": "وَلِلَّهِ مُلْكُ السَّمَـٰوَٰتِ وَالْاَرْضِ ۖ وَ اِلـٰى اللّٰهِ الْمَصِيرُ",
     "urdu_text": "اور آسمانوں اور زمین کی بادشاهی صرف الله هی کے لیے هے، اور سب کو الله هی کی طرف لوٹنا هے۔",
     "persian_text": "و فرمانروایی آسمان‌ها و زمین تنها از آن الله است، و بازگشت همه به سوی الله است.",
     "transliteration": "Wa lillahi mulkus-samawati wal-ardi wa ilallahil-masir"
@@ -369,7 +369,7 @@ ayats = [
   {
     "verse_number": 46,
     "english_text": "Verily We have revealed manifest verses, and Allah guides to the straight path to whoever He pleases.",
-    "arabic_text": "لَّقَدْ اَنزَلْنَآ اٰيٰتٍۢ مُّبَيِّنَـٰتٍۢ ۚ وَاللّٰهُ يَهْدِى مَن يَشَآءُ اِلَىٰ صِرَٰطٍۢ مُّسْتَقِيمٍۢ",
+    "arabic_text": "لَّقَدْ اَنزَلْنَآ اٰيٰتٍۢ مُّبَيِّنَـٰتٍۢ ۚ وَاللّٰهُ يَهْدِى مَن يَشَآءُ اِلـٰى صِرَٰطٍۢ مُّسْتَقِيمٍۢ",
     "urdu_text": "بے شک هم نے واضح آیتیں نازل کی هیں، اور الله جسے چاهتا هے سیدھے راستے کی طرف هدایت دیتا هے۔",
     "persian_text": "به راستی ما آیات روشنی نازل کرده‌ایم، و الله هر که را بخواهد به راه راست هدایت می‌کند.",
     "transliteration": "Laqad anzalna ayatin mubayyinatin wallahu yahdi man yasha'u ila siratin mustaqim"
@@ -513,7 +513,7 @@ ayats = [
   {
     "verse_number": 64,
     "english_text": "And, remember all the universe of the sky and earth is His, and is cognizant of your condition, and that day when everyone will be returned to His Court, He will tell them about their deeds, and He is Knower of all things.",
-    "arabic_text": "اَلَآ اِنَّ لِلَّهِ مَا فِى السَّمَـٰوَٰتِ وَالْاَرْضِ ۖ قَدْ يَعْلَمُ مَآ اَنتُمْ عَلَيْهِ وَيَوْمَ يُرْجَعُونَ اِلَيْهِ فَيُنَبِّئُهُم بِمَا عَمِلُواْ ۗ وَاللّٰهُ بِكُلِّ شَىْءٍ عَلِيمٌۢ",
+    "arabic_text": "اَلَآ اِنَّ لِلَّهِ مَا فِى السَّمَـٰوَٰتِ وَالْاَرْضِ ۖ قَدْ يَعْلَمُ مَآ اَنتُمْ عَلَيْهِ وَ يَوْمَ يُرْجَعُونَ اِلَيْهِ فَيُنَبِّئُهُم بِمَا عَمِلُواْ ۗ وَاللّٰهُ بِكُلِّ شَىْءٍ عَلِيمٌۢ",
     "urdu_text": "خبردار! جو کچھ آسمانوں اور زمین میں هے وه الله هی کا هے۔ وه تمهاری حالت کو خوب جانتا هے، اور جس دن سب اس کی طرف لوٹائے جائیں گے تو وه انهیں بتا دے گا جو کچھ انهوں نے کیا تھا۔ اور الله هر چیز کا جانے والا هے۔",
     "persian_text": "آگاه باشید که آنچه در آسمان‌ها و زمین است از آنِ خداست. او به آنچه بر آن هستید داناست و روزی که همه به سوی او بازگردانده می‌شوند، پس آنان را از آنچه انجام داده‌اند آگاه می‌سازد. و خداوند به هر چیزی داناست.",
     "transliteration": "Alaa inna lillaahi maa fis-samaawaati wal-ard. Qad ya'lamu maa antum 'alayhi wa yawma yurja'oona ilayhi fayunabbi'uhum bimaa 'amiloo. Wallaahu bikulli shay'in 'aleem."

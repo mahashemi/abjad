@@ -81,7 +81,7 @@ ayats = [
   {
     "verse_number": 10,
     "english_text": "And remember the time when your Lord called out to Moosa saying: go to that unjust nation.",
-    "arabic_text": "وَاِذْ نَادَىٰ رَبُّكَ مُوسَىٰٓ اَنِ ائْتِ الْقَوْمَ الظَّـٰلِمِينَ",
+    "arabic_text": "وَاِذْ نَادٰى رَبُّكَ مُوسَىٰٓ اَنِ ائْتِ الْقَوْمَ الظَّـٰلِمِينَ",
     "urdu_text": "اور یاد کرو جب آپ کے رب نے موسیٰ کو پکارا که ظالم قوم کے پاس جاؤ۔",
     "persian_text": "و یاد کن هنگامی را که پروردگارت موسی را ندا داد که: نزد قوم ستمگر برو.",
     "transliteration": "Wa iz naadaa rabbuka Moosaaa aniti alqawmaz zaalimeen"
@@ -105,7 +105,7 @@ ayats = [
   {
     "verse_number": 13,
     "english_text": "My heart is becoming strait, my tongue is not fluent, send Haroon with this message.",
-    "arabic_text": "وَيَضِيقُ صَدْرِى وَ لَا يَنطَلِقُ لِسَانِى فَاَرْسِلْ اِلَىٰ هَـٰرُونَ",
+    "arabic_text": "وَيَضِيقُ صَدْرِى وَ لَا يَنطَلِقُ لِسَانِى فَاَرْسِلْ اِلـٰى هَـٰرُونَ",
     "urdu_text": "اور میرا سینه تنگ هو جاتا هے اور میری زبان صاف نهیں چلتی، پس هارون کو بھی میرے ساتھ بھیج دے۔",
     "persian_text": "و سینه‌ام تنگ می‌شود و زبانم روان نیست، پس هارون را نیز بفرست.",
     "transliteration": "Wa yadeequ sadree wa laa yantaliqu lisaanee fa arsil ilaa Haaroon"
@@ -129,7 +129,7 @@ ayats = [
   {
     "verse_number": 16,
     "english_text": "Go to Firaun and say: we both have been sent by the Lord of the Worlds.",
-    "arabic_text": "فَاْتِيَا فِرْعَوْنَ فَقُولَآ اِنَّا رَسُولُ رَبِّ الْعَـٰلَمِينَ",
+    "arabic_text": "فَاْتِيٰفِرْعَوْنَ فَقُولَآ اِنَّا رَسُولُ رَبِّ الْعَـٰلَمِينَ",
     "urdu_text": "پس فرعون کے پاس جاؤ اور کهو: بیشک هم رب العالمین کے بھیجے هوئے رسول هیں۔",
     "persian_text": "پس نزد فرعون بروید و بگویید: ما فرستاده پروردگار جهانیان هستیم.",
     "transliteration": "Fa'tiyaa Fir'awna fa qoolaaa innaa rasoolu Rabbil 'aalameen"
@@ -401,7 +401,7 @@ ayats = [
   {
     "verse_number": 50,
     "english_text": "They said, no problem, we shall all return and reach to our Lord.",
-    "arabic_text": "قَالُوْاْ لَا ضَيْرَ ۖ اِنَّآ اِلَىٰ رَبِّنَا مُنقَلِبُونَ",
+    "arabic_text": "قَالُوْاْ لَا ضَيْرَ ۖ اِنَّآ اِلـٰى رَبِّنَا مُنقَلِبُونَ",
     "urdu_text": "انهوں نے کها: کوئی حرج نهیں، هم اپنے رب کی طرف لوٹنے والے هیں۔",
     "persian_text": "گفتند: زیانی نیست، ما به سوی پروردگارمان بازمی‌گردیم.",
     "transliteration": "Qaaloo laa dayra innaa ilaa Rabbinaa munqaliboon"
@@ -417,7 +417,7 @@ ayats = [
   {
     "verse_number": 52,
     "english_text": "We revealed to Moosa: take my servants and leave in the night that you will be pursued.",
-    "arabic_text": "۞ وَاَوْحَيْنَآ اِلَىٰ مُوسَىٰٓ اَنْ اَسْرِ بِعِبَادِىٓ اِنَّكُم مُّتَّبَعُونَ",
+    "arabic_text": "۞ وَاَوْحَيْنَآ اِلـٰى مُوسَىٰٓ اَنْ اَسْرِ بِعِبَادِىٓ اِنَّكُم مُّتَّبَعُونَ",
     "urdu_text": "اور هم نے موسیٰ کی طرف وحی بھیجی که میرے بندوں کو لے کر رات میں نکل جاؤ، بے شک تمهارا پیچھا کیا جائے گا۔",
     "persian_text": "و به موسی وحی کردیم که بندگان مرا ببر و شبانه حرکت کن، زیرا شما تعقیب خواهید شد.",
     "transliteration": "Wa awhainaa ilaa Moosaa an asri bi'ibaadee innakum muttaba'oon"
@@ -505,7 +505,7 @@ ayats = [
   {
     "verse_number": 63,
     "english_text": "Then We revealed to Moosa: strike the river with your staff, and river cracked up and every part seems like a mountain.",
-    "arabic_text": "فَاَوْحَيْنَآ اِلَىٰ مُوسَىٰٓ اَنِ اضْرِب بِّعَصَاكَ الْبَحْرَ ۖ فَانفَلَقَ فَكَانَ كُلُّ فِرْقٍۢ كَالطَّوْدِ الْعَظِيمِ",
+    "arabic_text": "فَاَوْحَيْنَآ اِلـٰى مُوسَىٰٓ اَنِ اضْرِب بِّعَصَاكَ الْبَحْرَ ۖ فَانفَلَقَ فَكَانَ كُلُّ فِرْقٍۢ كَالطَّوْدِ الْعَظِيمِ",
     "urdu_text": "پھر هم نے موسیٰ کی طرف وحی بھیجی که اپنی لاٹھی سے دریا پر مارو، تو وه پھٹ گیا اور هر حصه ایک بڑے پهاڑ کی طرح هو گیا۔",
     "persian_text": "پس به موسی وحی کردیم که عصای خود را بر دریا بزن، آنگاه شکافته شد و هر بخشی چون کوهی بزرگ گردید.",
     "transliteration": "Fa'awḥaynā ilā Mūsā ani iḍrib bi'aṣāka al-baḥra fanfalaqa fakāna kullu firqin kaṭ-ṭawdi al-'aẓīm"

@@ -97,7 +97,7 @@ ayats = [
   {
     "verse_number": 12,
     "english_text": "Put your hand in collar and take out then you will see without any sickness it is white and bright, this is one of the miracles (out of many) which have been given for the nation of Firaun, they have become a very wicked nation.",
-    "arabic_text": "وَاَدْخِلْ يَدَكَ فِى جَيْبِكَ تَخْرُجْ بَيْضَآءَ مِنْ غَيْرِ سُوٓءٍۢ ۖ فِى تِسْعِ اٰيٰتٍ اِلَىٰ فِرْعَوْنَ وَقَوْمِهِٓ ۚ اِنَّهُمْ كَانُواْ قَوْمًا فَـٰسِقِينَ",
+    "arabic_text": "وَاَدْخِلْ يَدَكَ فِى جَيْبِكَ تَخْرُجْ بَيْضَآءَ مِنْ غَيْرِ سُوٓءٍۢ ۖ فِى تِسْعِ اٰيٰتٍ اِلـٰى فِرْعَوْنَ وَقَوْمِهِٓ ۚ اِنَّهُمْ كَانُواْ قَوْمًا فَـٰسِقِينَ",
     "urdu_text": "اور اپنا هاتھ اپنے گریبان میں ڈالو، وه بغیر کسی بیماری کے سفید اور چمکدار نکلے گا، یه نو نشانیوں میں سے ایک هے جو فرعون اور اس کی قوم کے لیے دی گئی هیں، بیشک وه بهت نافرمان قوم تھے۔",
     "persian_text": "و دست خود را در گریبانت فرو بر، که بدون هیچ بیماری سفید و درخشان بیرون می‌آید، این یکی از نه نشانه‌ای است که برای فرعون و قومش داده شده، همانا آنها قومی بسیار نافرمان بودند.",
     "transliteration": "Wa adkhil yadaka fee jaybika takhruj bayda'a min ghayri soo'in fee tis'i aayaatin ila Fir'awna wa qawmihi innahum kaanoo qawman faasiqeen"
@@ -361,7 +361,7 @@ ayats = [
   {
     "verse_number": 45,
     "english_text": "And We sent towards nation of Samood his brother Saleh that you people worship Allah, then both the parties started quarrelling.",
-    "arabic_text": "وَ لَقَدْ اَرْسَلْنَآ اِلَىٰ ثَمُودَ اَخَاهُمْ صَـٰلِحًا اَنِ اعْبُدُواْ اللّٰهَ فَاِذَا هُمْ فَرِيقَانِ يَخْتَصِمُونَ",
+    "arabic_text": "وَ لَقَدْ اَرْسَلْنَآ اِلـٰى ثَمُودَ اَخَاهُمْ صَـٰلِحًا اَنِ اعْبُدُواْ اللّٰهَ فَاِذَا هُمْ فَرِيقَانِ يَخْتَصِمُونَ",
     "urdu_text": "اور هم نے قوم ثمود کی طرف ان کے بھائی صالح کو بھیجا که الله کی عبادت کرو، تو وه دو گروه هو کر جھگڑنے لگے۔",
     "persian_text": "و به راستی به سوی ثمود برادرشان صالح را فرستادیم که خدا را بپرستید، پس ناگهان دو گروه شدند که با هم نزاع می‌کردند.",
     "transliteration": "Wa laqad arsalnaaa ilaa Thamooda akhaahum Saalihan ani'budul-laaha fa-izaa hum fareeqaani yakhtasimoon"
@@ -665,7 +665,7 @@ ayats = [
   {
     "verse_number": 83,
     "english_text": "And that day We will collect the army of every Ummah who were denying our verses, then they will be divided separately.",
-    "arabic_text": "وَيَوْمَ نَحْشُرُ مِن كُلِّ اُمَّةٍۢ فَوْجًۭا مِّمَّن يُكَذِّبُ بِـَٔايَـٰتِنَا فَهُمْ يُوزَعُونَ",
+    "arabic_text": "وَ يَوْمَ نَحْشُرُ مِن كُلِّ اُمَّةٍۢ فَوْجًۭا مِّمَّن يُكَذِّبُ بِـَٔايَـٰتِنَا فَهُمْ يُوزَعُونَ",
     "urdu_text": "اور جس دن هم هر امت سے ایک گروه جمع کریں گے جو هماری آیات کو جھٹلاتے تھے، پھر انهیں الگ الگ تقسیم کیا جائے گا۔",
     "persian_text": "و روزی که از هر امتی گروهی را که آیات ما را تکذیب می‌کردند جمع می‌کنیم، پس آنها جدا جدا دسته‌بندی می‌شوند.",
     "transliteration": "Wa yawma nahshuru min kulli ummatin fawjam mimman yukadhdhibu bi aayaatinaa fahum yooza'oon"
@@ -697,7 +697,7 @@ ayats = [
   {
     "verse_number": 87,
     "english_text": "When the trumpet will be blown, whatever is in the earth and the skies will feel tremor, except those whom Allah pleases, and everyone will be presented in His Court, with their heads bowed down.",
-    "arabic_text": "وَيَوْمَ يُنفَخُ فِى الصُّورِ فَفَزِعَ مَن فِى السَّمَـٰوَٰتِ وَمَن فِى الْاَرْضِ اِلَّا مَن شَآءَ اللّٰهُ ۚ وَكُلٌّ اَتَوْهُ دَٰخِرِينَ",
+    "arabic_text": "وَ يَوْمَ يُنفَخُ فِى الصُّورِ فَفَزِعَ مَن فِى السَّمَـٰوَٰتِ وَمَن فِى الْاَرْضِ اِلَّا مَن شَآءَ اللّٰهُ ۚ وَكُلٌّ اَتَوْهُ دَٰخِرِينَ",
     "urdu_text": "اور جس دن صور میں پھونکا جائے گا تو آسمانوں اور زمین میں جو کوئی هے گھبرا جائے گا سوائے اس کے جسے الله چاهے، اور سب اس کے حضور سر جھکائے هوئے حاضر هوں گے۔",
     "persian_text": "و روزی که در صور دمیده شود، پس هر که در آسمان‌ها و زمین است وحشت‌زده می‌شود مگر آن که خدا بخواهد، و همه با سر فرود آمده نزد او حاضر می‌شوند.",
     "transliteration": "Wa yawma yunfakhu fis soori fafazi'a man fis samaawaati wa man fil ardi illaa man shaaa'allaahu wa kullun atawhu daakhireen"

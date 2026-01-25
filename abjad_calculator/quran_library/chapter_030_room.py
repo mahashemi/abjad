@@ -33,7 +33,7 @@ ayats = [
   {
     "verse_number": 4,
     "english_text": "Within a few years, only Allah has the authority over the beginning and the end, and on that day believers shall rejoice.",
-    "arabic_text": "فِى بِضْعِ سِنِينَ ۗ لِلَّهِ الْاَمْرُ مِن قَبْلُ وَمِنۢ بَعْدُ ۚ وَيَوْمَئِذٍۢ يَفْرَحُ الْمُؤْمِنُونَ",
+    "arabic_text": "فِى بِضْعِ سِنِينَ ۗ لِلَّهِ الْاَمْرُ مِن قَبْلُ وَمِنۢ بَعْدُ ۚ وَ يَوْمَئِذٍۢ يَفْرَحُ الْمُؤْمِنُونَ",
     "urdu_text": "چند سالوں میں، تمام اختیار الله هی کا هے پهلے بھی اور بعد میں بھی، اور اس دن مومن خوش هوں گے",
     "persian_text": "در چند سال، فرمان از آن خداست پیش و پس، و در آن روز مؤمنان شادمان خواهند شد",
     "transliteration": "Fee bid'i sineen, lillahil-amru min qablu wa mim ba'd, wa yawma'iziny-yafrahul-mu'minoon"
@@ -57,7 +57,7 @@ ayats = [
   {
     "verse_number": 7,
     "english_text": "These people know the obvious of this world, and they are totally oblivious from the Hereafter.",
-    "arabic_text": "يَعْلَمُونَ ظَـٰهِرًا مِّنَ الْحَيَوٰةِ الدُّنْيَا وَهُمْ عَنِ الْاخِرَةِ هُمْ غَـٰفِلُونَ",
+    "arabic_text": "يَعْلَمُونَ ظَـٰهِرًا مِّنَ الْحَيَوٰةِ الدُّنْيٰوَهُمْ عَنِ الْاخِرَةِ هُمْ غَـٰفِلُونَ",
     "urdu_text": "یه لوگ دنیا کی زندگی کے ظاهری پهلو کو جانتے هیں، اور وه آخرت سے بالکل غافل هیں",
     "persian_text": "آنان ظاهری زندگی دنیا را می‌دانند، و از آخرت غافل‌اند",
     "transliteration": "Ya'lamoona zahiram minal-hayatid-dunya wa hum 'anil-akhirati hum ghafiloon"
@@ -97,7 +97,7 @@ ayats = [
   {
     "verse_number": 12,
     "english_text": "When the Day of Judgment will be established, then all the guilty ones will be disappointed.",
-    "arabic_text": "وَيَوْمَ تَقُومُ السَّاعَةُ يُبْلِسُ الْمُجْرِمُونَ",
+    "arabic_text": "وَ يَوْمَ تَقُومُ السَّاعَةُ يُبْلِسُ الْمُجْرِمُونَ",
     "urdu_text": "اور جس دن قیامت قائم هوگی، اس دن مجرم لوگ مایوس هو جائیں گے۔",
     "persian_text": "و روزی که قیامت برپا شود، مجرمان نومید و مایوس خواهند شد.",
     "transliteration": "Wa yawma taqoomus-sa'atu yublisul-mujrimoon"
@@ -113,7 +113,7 @@ ayats = [
   {
     "verse_number": 14,
     "english_text": "When the Day of Judgement will be established, they will be divided into groups among themselves.",
-    "arabic_text": "وَيَوْمَ تَقُومُ السَّاعَةُ يَوْمَئِذٍۢ يَتَفَرَّقُونَ",
+    "arabic_text": "وَ يَوْمَ تَقُومُ السَّاعَةُ يَوْمَئِذٍۢ يَتَفَرَّقُونَ",
     "urdu_text": "اور جس دن قیامت قائم هوگی، اس دن وه آپس میں الگ الگ گروهوں میں بٹ جائیں گے۔",
     "persian_text": "و روزی که قیامت برپا شود، در آن روز از یکدیگر جدا خواهند شد.",
     "transliteration": "Wa yawma taqoomus-sa'atu yawma'idhin yatafarraqoon"
@@ -377,7 +377,7 @@ ayats = [
   {
     "verse_number": 47,
     "english_text": "And We sent many messengers before you towards their nations, who came to them with manifest signs, then We took revenge with the guilty ones, and it was imperative on Us to help the believers.",
-    "arabic_text": "وَ لَقَدْ اَرْسَلْنَا مِن قَبْلِكَ رُسُلًا اِلَىٰ قَوْمِهِمْ فَجَآءُوهُم بِالْبَيِّنَـٰتِ فَانتَقَمْنَا مِنَ الَّذِينَ اَجْرَمُواْ ۖ وَكَانَ حَقًّا عَلَيْنَا نَصْرُ الْمُؤْمِنِينَ",
+    "arabic_text": "وَ لَقَدْ اَرْسَلْنَا مِن قَبْلِكَ رُسُلًا اِلـٰى قَوْمِهِمْ فَجَآءُوهُم بِالْبَيِّنَـٰتِ فَانتَقَمْنَا مِنَ الَّذِينَ اَجْرَمُواْ ۖ وَكَانَ حَقًّا عَلَيْنَا نَصْرُ الْمُؤْمِنِينَ",
     "urdu_text": "اور هم نے تم سے پهلے بهت سے رسول ان کی قوموں کی طرف بھیجے، وه ان کے پاس واضح نشانیاں لے کر آئے، پھر هم نے مجرموں سے بدله لیا، اور مومنوں کی مدد کرنا هم پر لازم تھا۔",
     "persian_text": "و به راستی پیش از تو فرستادگانی به سوی قوم خودشان فرستادیم، پس با دلایل روشن به سراغشان آمدند، سپس از کسانی که گناه کردند انتقام گرفتیم، و یاری مؤمنان بر ما حق بود.",
     "transliteration": "Wa-laqad arsalna min qablika rusulan ila qawmihim faja'uhum bil-bayyinati fantaqamna min alladhina ajramu wa-kana haqqan 'alayna nasru al-mu'minin"
@@ -401,7 +401,7 @@ ayats = [
   {
     "verse_number": 50,
     "english_text": "Now see the signs of Allah's Mercy that how He brings to life the dead earth, Verily, He brings to life the dead ones, and He has Power over everything.",
-    "arabic_text": "فَانظُرْ اِلَىٰٓ ءَاثَـٰرِ رَحْمَتِ اللّٰهِ كَيْفَ يُحْىِ الْاَرْضَ بَعْدَ مَوْتِهَآ ۚ اِنَّ ذَٰلِكَ لَمُحْىِ الْمَوْتَىٰ ۖ وَهُوَ عَلَىٰ كُلِّ شَىْءٍۢ قَدِيرٌۭ",
+    "arabic_text": "فَانظُرْ اِلـٰىٓ ءَاثَـٰرِ رَحْمَتِ اللّٰهِ كَيْفَ يُحْىِ الْاَرْضَ بَعْدَ مَوْتِهَآ ۚ اِنَّ ذَٰلِكَ لَمُحْىِ الْمَوْتَىٰ ۖ وَهُوَ عَلَىٰ كُلِّ شَىْءٍۢ قَدِيرٌۭ",
     "urdu_text": "اب الله کی رحمت کے آثار کو دیکھو که وه کیسے مرده زمین کو زنده کرتا هے، بے شک وهی مردوں کو زنده کرنے والا هے، اور وه هر چیز پر قادر هے۔",
     "persian_text": "پس به آثار رحمت خدا بنگر که چگونه زمین را پس از مرگش زنده می‌کند، همانا او زنده‌کننده مردگان است، و او بر هر چیزی تواناست.",
     "transliteration": "Fanzur ila athari rahmati Allahi kayfa yuhyi al-arda ba'da mawtiha inna dhalika lamuhyi al-mawta wa-huwa 'ala kulli shay'in qadir"
@@ -441,7 +441,7 @@ ayats = [
   {
     "verse_number": 55,
     "english_text": "When the Day of Judgement will be established, that day the guilty ones will swear and say we didn't stay in the world for more than an hour, in fact they were blaming such in the world also.",
-    "arabic_text": "وَيَوْمَ تَقُومُ السَّاعَةُ يُقْسِمُ الْمُجْرِمُونَ مَا لَبِثُواْ غَيْرَ سَاعَةٍۢ ۚ كَذَٰلِكَ كَانُواْ يُؤْفَكُونَ",
+    "arabic_text": "وَ يَوْمَ تَقُومُ السَّاعَةُ يُقْسِمُ الْمُجْرِمُونَ مَا لَبِثُواْ غَيْرَ سَاعَةٍۢ ۚ كَذَٰلِكَ كَانُواْ يُؤْفَكُونَ",
     "urdu_text": "اور جس دن قیامت قائم هوگی، مجرم لوگ قسم کھائیں گے که وه ایک گھڑی سے زیاده نهیں ٹھهرے، اسی طرح وه دنیا میں بھی بهکائے جاتے تھے۔",
     "persian_text": "و روزی که قیامت برپا شود، مجرمان سوگند یاد می‌کنند که بیش از یک ساعت نمانده‌اند، این‌گونه در دنیا نیز منحرف می‌شدند.",
     "transliteration": "Wa yawma taqoomus saa'atu yuqsimul mujrimoona maa labithoo ghayra saa'ah, kazaalika kaanoo yu'fakoon"
@@ -449,7 +449,7 @@ ayats = [
   {
     "verse_number": 56,
     "english_text": "And who are given the knowledge and faith, they will say: according to the Book of Allah you stayed until the Day of Judgement, this is the Day of Judgement and you are unaware.",
-    "arabic_text": "وَقَالَ الَّذِينَ اُوتُواْ الْعِلْمَ وَالْاِيمَـٰنَ لَقَدْ لَبِثْتُمْ فِى كِتٰبِ اللّٰهِ اِلَىٰ يَوْمِ الْبَعْثِ ۖ فَهَـٰذَا يَوْمُ الْبَعْثِ وَلَـٰكِنَّكُمْ كُنتُمْ لَا تَعْلَمُونَ",
+    "arabic_text": "وَقَالَ الَّذِينَ اُوتُواْ الْعِلْمَ وَالْاِيمَـٰنَ لَقَدْ لَبِثْتُمْ فِى كِتٰبِ اللّٰهِ اِلـٰى يَوْمِ الْبَعْثِ ۖ فَهَـٰذَا يَوْمُ الْبَعْثِ وَلَـٰكِنَّكُمْ كُنتُمْ لَا تَعْلَمُونَ",
     "urdu_text": "اور جن لوگوں کو علم اور ایمان دیا گیا وه کهیں گے: تم الله کی کتاب میں قیامت کے دن تک ٹھهرے رهے، پس یه قیامت کا دن هے لیکن تم نهیں جانتے تھے۔",
     "persian_text": "و کسانی که علم و ایمان به آنان داده شده است می‌گویند: به راستی در کتاب خدا تا روز رستاخیز ماندید، پس این روز رستاخیز است ولی شما نمی‌دانستید.",
     "transliteration": "Wa qaalal ladheena ootul 'ilma wal eemaana laqad labithtum fee Kitaabil laahi ilaa Yawmil ba'th, fahaazaa Yawmul ba'thi wa laakinnakum kuntum laa ta'lamoon"

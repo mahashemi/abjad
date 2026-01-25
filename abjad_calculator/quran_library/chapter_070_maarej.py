@@ -345,7 +345,7 @@ ayats = [
   {
     "verse_number": 43,
     "english_text": "The day when they will hastily come out of the graves, as if they are rushing towards any flag.",
-    "arabic_text": "يَوْمَ يَخْرُجُونَ مِنَ الْاَجْدَاثِ سِرَاعًۭا كَاَنَّهُمْ اِلَىٰ نُصُبٍۢ يُوفِضُونَ",
+    "arabic_text": "يَوْمَ يَخْرُجُونَ مِنَ الْاَجْدَاثِ سِرَاعًۭا كَاَنَّهُمْ اِلـٰى نُصُبٍۢ يُوفِضُونَ",
     "urdu_text": "جس دن وه قبروں سے تیزی سے نکلیں گے گویا که وه کسی نشان کی طرف دوڑے چلے جا رهے هیں۔",
     "persian_text": "روزی که از گورها به سرعت بیرون می‌آیند، گویی به سوی نشانه‌ای می‌شتابند.",
     "transliteration": "Yawma yakhrujoona minal ajdaathi siraa'an ka annahum ilaa nusubin yoofidoon"

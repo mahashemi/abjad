@@ -89,7 +89,7 @@ ayats = [
   {
     "verse_number": 11,
     "english_text": "Say: Angel of death will reach you to the end of your life, who is deployed for you, thereafter you will all be presented in the Court of the Lord.",
-    "arabic_text": "۞ قُلْ يَتَوَفَّىٰكُم مَّلَكُ الْمَوْتِ الَّذِى وُكِّلَ بِكُمْ ثُمَّ اِلَىٰ رَبِّكُمْ تُرْجَعُونَ",
+    "arabic_text": "۞ قُلْ يَتَوَفَّىٰكُم مَّلَكُ الْمَوْتِ الَّذِى وُكِّلَ بِكُمْ ثُمَّ اِلـٰى رَبِّكُمْ تُرْجَعُونَ",
     "urdu_text": "کہہ دیجیے کہ تمہیں موت کا فرشتہ موت دے گا جو تم پر مقرر کیا گیا ہے، پھر تم سب اپنے رب کی طرف لوٹائے جاؤ گے۔",
     "persian_text": "بگو: فرشته مرگ که بر شما گماشته شده، جان شما را خواهد گرفت، سپس به سوی پروردگارتان بازگردانده خواهید شد.",
     "transliteration": "Qul yatawaffākum malakul-mawtil-ladhī wukkila bikum thumma ilā rabbikum turja'ūn"

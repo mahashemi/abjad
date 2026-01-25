@@ -33,7 +33,7 @@ ayats = [
   {
     "verse_number": 4,
     "english_text": "And if they deny you, before you also, they have denied many prophets and return of all the affairs is to the Lord only.",
-    "arabic_text": "وَاِن يُكَذِّبُوكَ فَقَدْ كُذِّبَتْ رُسُلٌۭ مِّن قَبْلِكَ ۚ وَاِلَى اللّٰهِ تُرْجَعُ الْاُمُورُ",
+    "arabic_text": "وَاِن يُكَذِّبُوكَ فَقَدْ كُذِّبَتْ رُسُلٌۭ مِّن قَبْلِكَ ۚ وَ اِلـٰى اللّٰهِ تُرْجَعُ الْاُمُورُ",
     "urdu_text": "اور اگر وہ تمہیں جھٹلاتے ہیں تو تم سے پہلے بھی بہت سے رسولوں کو جھٹلایا گیا، اور تمام معاملات اللہ ہی کی طرف لوٹائے جاتے ہیں۔",
     "persian_text": "و اگر تو را تکذیب کنند، پس پیش از تو نیز پیامبرانی تکذیب شدند، و همه کارها به سوی خداوند بازگردانده می‌شود.",
     "transliteration": "Wa-in yukaththibooka faqad kuththibat rusulun min qablika wa-ila Allahi turja'u al-umoor"
@@ -41,7 +41,7 @@ ayats = [
   {
     "verse_number": 5,
     "english_text": "O People! Promise of the Lord is Truth, so do not allow the life of the world to deceive you, and no deceiver should deceive you.",
-    "arabic_text": "يٰٓاَيُّهَا النَّاسُ اِنَّ وَعْدَ اللّٰهِ حَقٌّۭ ۖ فَلَا تَغُرَّنَّكُمُ الْحَيَوٰةُ الدُّنْيَا ۖ وَ لَا يَغُرَّنَّكُم بِاللّٰهِ الْغَرُورُ",
+    "arabic_text": "يٰٓاَيُّهَا النَّاسُ اِنَّ وَعْدَ اللّٰهِ حَقٌّۭ ۖ فَلَا تَغُرَّنَّكُمُ الْحَيَوٰةُ الدُّنْيٰۖ وَ لَا يَغُرَّنَّكُم بِاللّٰهِ الْغَرُورُ",
     "urdu_text": "اے لوگو! بیشک اللہ کا وعدہ سچا ہے، پس دنیا کی زندگی تمہیں دھوکا نہ دے، اور کوئی دھوکے باز تمہیں اللہ کے بارے میں دھوکا نہ دے۔",
     "persian_text": "ای مردم! همانا وعده خداوند حق است، پس زندگی دنیا شما را فریب ندهد، و هیچ فریبنده‌ای شما را درباره خداوند فریب ندهد.",
     "transliteration": "Ya ayyuha alnnasu inna wa'da Allahi haqqun fala taghurrannakumu alhayatu alddunya wala yaghurrannakum biAllahi algharoor"
@@ -73,7 +73,7 @@ ayats = [
   {
     "verse_number": 9,
     "english_text": "That is Allah who sent winds to scatter the clouds, and We take them to the dead cities, and bring the dead land to the life again, and like this people would be raised to life (once again).",
-    "arabic_text": "وَاللّٰهُ الَّذِىٓ اَرْسَلَ الرِّيَـٰحَ فَتُثِيرُ سَحَابًا فَسُقْنَـٰهُ اِلَىٰ بَلَدٍۢ مَّيِّتٍۢ فَاَحْيَيْنَا بِهِ الْاَرْضَ بَعْدَ مَوْتِهَا ۚ كَذَٰلِكَ النُّشُورُ",
+    "arabic_text": "وَاللّٰهُ الَّذِىٓ اَرْسَلَ الرِّيَـٰحَ فَتُثِيرُ سَحَابًا فَسُقْنَـٰهُ اِلـٰى بَلَدٍۢ مَّيِّتٍۢ فَاَحْيَيْنَا بِهِ الْاَرْضَ بَعْدَ مَوْتِهَا ۚ كَذَٰلِكَ النُّشُورُ",
     "urdu_text": "اور اللہ ہی ہے جس نے ہوائیں بھیجیں تو وہ بادلوں کو اٹھاتی ہیں، پھر ہم انہیں مردہ شہر کی طرف لے جاتے ہیں اور اس سے زمین کو اس کی موت کے بعد زندہ کر دیتے ہیں، اسی طرح لوگ دوبارہ زندہ کیے جائیں گے۔",
     "persian_text": "و خداوند کسی است که بادها را فرستاد تا ابرها را برانگیزند، پس آن را به سوی سرزمین مرده راندیم و زمین را پس از مرگش زنده کردیم، همین‌گونه رستاخیز است.",
     "transliteration": "WaAllahu allathee arsala alrriyaha fathutheeru sahaban fasuqnahu ila baladin mayyitin fa-ahyayna bihi al-arda ba'da mawtiha kathalika alnnushoor"
@@ -113,7 +113,7 @@ ayats = [
   {
     "verse_number": 14,
     "english_text": "You will call them but they will not be able to listen to you, and if they hear, they will not be able to reply to you, and on the Day of Judgement they will deny your association, and nobody can say all this, except that Who Knows.",
-    "arabic_text": "اِن تَدْعُوهُمْ لَا يَسْمَعُواْ دُعَآءَكُمْ وَ لَوْ سَمِعُواْ مَا اسْتَجَابُواْ لَكُمْ ۖ وَيَوْمَ الْقِيَـٰمَةِ يَكْفُرُونَ بِشِرْكِكُمْ ۚ وَ لَا يُنَبِّئُكَ مِثْلُ خَبِيرٍۢ",
+    "arabic_text": "اِن تَدْعُوهُمْ لَا يَسْمَعُواْ دُعَآءَكُمْ وَ لَوْ سَمِعُواْ مَا اسْتَجَابُواْ لَكُمْ ۖ وَ يَوْمَ الْقِيَـٰمَةِ يَكْفُرُونَ بِشِرْكِكُمْ ۚ وَ لَا يُنَبِّئُكَ مِثْلُ خَبِيرٍۢ",
     "urdu_text": "اگر تم انہیں پکارو گے تو وہ تمہاری پکار نہیں سنیں گے، اور اگر سن بھی لیں تو تمہیں جواب نہیں دے سکیں گے، اور قیامت کے دن وہ تمہارے شرک کا انکار کریں گے، اور کوئی تمہیں ایسی خبر نہیں دے سکتا جیسے خبیر (خدا) دیتا ہے۔",
     "persian_text": "اگر آنان را بخوانید دعای شما را نمی‌شنوند، و اگر بشنوند پاسخ شما را نمی‌دهند، و در روز قیامت شرک شما را انکار می‌کنند، و هیچ کس مانند آگاه (خدا) تو را خبر نمی‌دهد.",
     "transliteration": "In tad'uhum la yasma'u du'a'akum wa law sami'u mastajjabu lakum, wa yawmal qiyamati yakfuruna bishirkikum, wa la yunabbi'uka mithlu khabir"
@@ -145,7 +145,7 @@ ayats = [
   {
     "verse_number": 18,
     "english_text": "And no one will carry the burden of another's sins, and if somebody will be called to carry this, he will not be able to lift anything, even if they are the kins, you can only warn those people, who fear Allah from the unseen, and who establishes prayer, and whoever will adopt purity will be for his benefit, and all of them have to return to Allah only.",
-    "arabic_text": "وَ لَا تَزِرُ وَازِرَةٌۭ وِزْرَ اُخْرَىٰ ۚ وَاِن تَدْعُ مُثْقَلَةٌ اِلَىٰ حِمْلِهَا لَا يُحْمَلْ مِنْهُ شَىْءٌۭ وَ لَوْ كَانَ ذَا قُرْبَىٰٓ ۗ اِنَّمَا تُنذِرُ الَّذِينَ يَخْشَوْنَ رَبَّهُم بِالْغَيْبِ وَاَقَامُواْ الصَّلَوٰةَ ۚ وَمَن تَزَكَّىٰ فَاِنَّمَا يَتَزَكَّىٰ لِنَفْسِهِ ۚ وَاِلَى اللّٰهِ الْمَصِيرُ",
+    "arabic_text": "وَ لَا تَزِرُ وَازِرَةٌۭ وِزْرَ اُخْرَىٰ ۚ وَاِن تَدْعُ مُثْقَلَةٌ اِلـٰى حِمْلِهَا لَا يُحْمَلْ مِنْهُ شَىْءٌۭ وَ لَوْ كَانَ ذَا قُرْبَىٰٓ ۗ اِنَّمَا تُنذِرُ الَّذِينَ يَخْشَوْنَ رَبَّهُم بِالْغَيْبِ وَاَقَامُواْ الصَّلَوٰةَ ۚ وَمَن تَزَكَّىٰ فَاِنَّمَا يَتَزَكَّىٰ لِنَفْسِهِ ۚ وَ اِلـٰى اللّٰهِ الْمَصِيرُ",
     "urdu_text": "اور کوئی بوجھ اٹھانے والا دوسرے کا بوجھ نہیں اٹھائے گا، اور اگر کوئی بوجھ سے دبا ہوا اپنا بوجھ اٹھانے کے لیے پکارے تو اس میں سے کچھ بھی نہیں اٹھایا جائے گا اگرچہ وہ قریبی رشتہ دار ہی کیوں نہ ہو، تم صرف انہیں ڈرا سکتے ہو جو بن دیکھے اپنے رب سے ڈرتے ہیں اور نماز قائم کرتے ہیں، اور جو پاکیزگی اختیار کرے گا تو وہ اپنے ہی فائدے کے لیے ہے، اور سب کو اللہ ہی کی طرف لوٹنا ہے۔",
     "persian_text": "و هیچ گناهکاری بار گناه دیگری را بر نمی‌دارد، و اگر کسی که زیر بار سنگین است برای حمل بارش فریاد کند چیزی از آن برداشته نمی‌شود اگرچه خویشاوند نزدیک باشد، تو تنها کسانی را بیم می‌دهی که از پروردگارشان در نهان می‌ترسند و نماز برپا می‌دارند، و هر که پاکی جوید تنها برای خود پاکی می‌جوید، و بازگشت به سوی خداست.",
     "transliteration": "Wa la taziru waziratun wizra ukhra, wa in tad'u muthqalatun ila himliha la yuhmal minhu shay'un wa law kana dha qurba, innama tundhirul ladhina yakhshawna rabbahum bilghaybi wa aqamus salah, wa man tazakka fa innama yatazakka linafsihi, wa ilallahil masir"
@@ -361,7 +361,7 @@ ayats = [
   {
     "verse_number": 45,
     "english_text": "And were Allah to punish them all for they have done, then no living being would have been left on the earth, but He gives respite up to an appointed and fixed time, when that time will come then Allah has great insight for His servants.",
-    "arabic_text": "وَ لَوْ يُؤَاخِذُ اللّٰهُ النَّاسَ بِمَا كَسَبُواْ مَا تَرَكَ عَلَىٰ ظَهْرِهَا مِن دَآبَّةٍۢ وَلَـٰكِن يُؤَخِّرُهُمْ اِلَىٰٓ اَجَلٍۢ مُّسَمًّۭى ۖ فَاِذَا جَآءَ اَجَلُهُمْ فَاِنَّ اللّٰهَ كَانَ بِعِبَادِهِ بَصِيرًۢا",
+    "arabic_text": "وَ لَوْ يُؤَاخِذُ اللّٰهُ النَّاسَ بِمَا كَسَبُواْ مَا تَرَكَ عَلَىٰ ظَهْرِهَا مِن دَآبَّةٍۢ وَلَـٰكِن يُؤَخِّرُهُمْ اِلـٰىٓ اَجَلٍۢ مُّسَمًّۭى ۖ فَاِذَا جَآءَ اَجَلُهُمْ فَاِنَّ اللّٰهَ كَانَ بِعِبَادِهِ بَصِيرًۢا",
     "urdu_text": "اور اگر اللہ لوگوں کو ان کے کیے پر پکڑتا تو زمین کی پشت پر کوئی چلنے والا نہ چھوڑتا، لیکن وہ انہیں ایک مقررہ وقت تک مہلت دیتا ہے، پھر جب ان کا وقت آ جائے گا تو بیشک اللہ اپنے بندوں کو خوب دیکھنے والا ہے۔",
     "persian_text": "و اگر خداوند مردم را به آنچه کسب کرده‌اند مؤاخذه کند، هیچ جنبنده‌ای بر پشت زمین باقی نمی‌گذارد، ولی آنان را تا زمانی معین مهلت می‌دهد، پس چون زمانشان فرا رسد، همانا خداوند به بندگانش بیناست.",
     "transliteration": "Wa law yu'aakhizullaahun naasa bimaa kasaboo maa taraka 'alaa zahrihaa min daaabbah, wa laakin yu'akhkhiruhum ilaa ajalin musammaa, fa izaa jaaa'a ajaluhum fa innallaaha kaana bi'ibaadihee baseeraa"

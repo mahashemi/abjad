@@ -34,7 +34,7 @@ ayats = [
   {
     "verse_number": 5,
     "english_text": "Who creates whispering in the hearts of mankind.",
-    "arabic_text": "الَّذِي يُوَسْوِسُ فِي صُدُورِ النَّاسِ",
+    "arabic_text": "الَّذِى يُوَسْوِسُ فِى صُدُورِ النَّاسِ",
     "urdu_text": "جو لوگوں کے دلوں میں وسوسے ڈالتا ہے",
     "persian_text": "که در سینه‌های مردم وسوسه می‌اندازد",
     "transliteration": "Allathee yuwaswisu fee sudoorin naas",

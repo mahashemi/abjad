@@ -65,7 +65,7 @@ ayats = [
   {
     "verse_number": 8,
     "english_text": "Say: the death from which you are escaping is going to meet you itself, thereafter you will be returned to His Presence, Who is aware of all, the unseen and the seen and He will tell you what you had been doing in the world.",
-    "arabic_text": "قُلْ اِنَّ الْمَوْتَ الَّذِى تَفِرُّونَ مِنْهُ فَاِنَّهُ مُلَـٰقِيكُمْ ۖ ثُمَّ تُرَدُّونَ اِلَىٰ عَـٰلِمِ الْغَيْبِ وَالشَّهَـٰدَةِ فَيُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ",
+    "arabic_text": "قُلْ اِنَّ الْمَوْتَ الَّذِى تَفِرُّونَ مِنْهُ فَاِنَّهُ مُلَـٰقِيكُمْ ۖ ثُمَّ تُرَدُّونَ اِلـٰى عَـٰلِمِ الْغَيْبِ وَالشَّهَـٰدَةِ فَيُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ",
     "urdu_text": "کہہ دو: جس موت سے تم بھاگ رہے ہو وہ تم سے ضرور ملے گی، پھر تم اس کی طرف لوٹائے جاؤ گے جو غیب اور حاضر کا جانے والا ہے، پھر وہ تمہیں بتائے گا جو تم کرتے تھے۔",
     "persian_text": "بگو: همانا مرگی که از آن می‌گریزید، قطعاً به شما خواهد رسید، سپس به سوی دانای نهان و آشکار بازگردانده می‌شوید و او شما را از آنچه انجام می‌دادید خبر خواهد داد.",
     "transliteration": "Qul innal-mawtal-ladhi tafiruna minhu fa-innahu mulaqikum, thumma turadduna ila 'alimil-ghaybi wash-shahadati fa-yunabbi'ukum bima kuntum ta'malun"
@@ -73,7 +73,7 @@ ayats = [
   {
     "verse_number": 9,
     "english_text": "O believers, when on Friday you are called for the prayer, hasten towards the remembrance of Allah and close your business, that this is best for you; if you know.",
-    "arabic_text": "يٰٓاَيُّهَا الَّذِينَ ءَامَنُوٓاْ اِذَا نُودِىَ لِلصَّلَوٰةِ مِن يَوْمِ الْجُمُعَةِ فَاسْعَوْاْ اِلَىٰ ذِكْرِ اللّٰهِ وَذَرُواْ الْبَيْعَ ۚ ذَٰلِكُمْ خَيْرٌۭ لَّكُمْ اِن كُنتُمْ تَعْلَمُونَ",
+    "arabic_text": "يٰٓاَيُّهَا الَّذِينَ ءَامَنُوٓاْ اِذَا نُودِىَ لِلصَّلَوٰةِ مِن يَوْمِ الْجُمُعَةِ فَاسْعَوْاْ اِلـٰى ذِكْرِ اللّٰهِ وَذَرُواْ الْبَيْعَ ۚ ذَٰلِكُمْ خَيْرٌۭ لَّكُمْ اِن كُنتُمْ تَعْلَمُونَ",
     "urdu_text": "اے ایمان والو! جب جمعہ کے دن نماز کے لیے پکارا جائے تو اللہ کے ذکر کی طرف دوڑو اور خرید و فروخت چھوڑ دو، یہ تمہارے لیے بہتر ہے اگر تم جانتے ہو۔",
     "persian_text": "ای کسانی که ایمان آورده‌اید! هنگامی که در روز جمعه برای نماز ندا داده شود، به سوی یاد خدا بشتابید و خرید و فروش را رها کنید، این برای شما بهتر است اگر بدانید.",
     "transliteration": "Ya ayyuhal-ladhina amanu idha nudiya lis-salati min yawmil-jumu'ati fas'aw ila dhikril-lahi wa dharul-bay', dhalikum khayrun lakum in kuntum ta'lamun"

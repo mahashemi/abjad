@@ -113,7 +113,7 @@ ayats = [
   {
     "verse_number": 14,
     "english_text": "And after all we are going to return to the Presence of our Lord.",
-    "arabic_text": "وَاِنَّآ اِلَىٰ رَبِّنَا لَمُنقَلِبُونَ",
+    "arabic_text": "وَاِنَّآ اِلـٰى رَبِّنَا لَمُنقَلِبُونَ",
     "urdu_text": "اور بے شک هم اپنے رب کی طرف لوٹنے والے هیں۔",
     "persian_text": "و همانا ما به سوی پروردگارمان بازگشت خواهیم کرد.",
     "transliteration": "Wa innaa ilaa rabbinaa lamunqaliboon"
@@ -257,7 +257,7 @@ ayats = [
   {
     "verse_number": 32,
     "english_text": "So are they distributing the blessings of Allah? We distribute among them their livelihood in the life of this world, and We have exalted some of them above others, that some of them may take work from one another, and blessings of Allah is much better than the wealth they have collected.",
-    "arabic_text": "اَهُمْ يَقْسِمُونَ رَحْمَتَ رَبِّكَ ۚ نَحْنُ قَسَمْنَا بَيْنَهُم مَّعِيشَتَهُمْ فِى الْحَيَوٰةِ الدُّنْيَا ۚ وَرَفَعْنَا بَعْضَهُمْ فَوْقَ بَعْضٍۢ دَرَجَـٰتٍۢ لِّيَتَّخِذَ بَعْضُهُم بَعْضًۭا سُخْرِيًّۭا ۗ وَرَحْمَتُ رَبِّكَ خَيْرٌۭ مِّمَّا يَجْمَعُونَ",
+    "arabic_text": "اَهُمْ يَقْسِمُونَ رَحْمَتَ رَبِّكَ ۚ نَحْنُ قَسَمْنَا بَيْنَهُم مَّعِيشَتَهُمْ فِى الْحَيَوٰةِ الدُّنْيٰۚ وَرَفَعْنَا بَعْضَهُمْ فَوْقَ بَعْضٍۢ دَرَجَـٰتٍۢ لِّيَتَّخِذَ بَعْضُهُم بَعْضًۭا سُخْرِيًّۭا ۗ وَرَحْمَتُ رَبِّكَ خَيْرٌۭ مِّمَّا يَجْمَعُونَ",
     "urdu_text": "کیا یه تیرے رب کی رحمت تقسیم کرتے هیں؟ هم نے ان کے درمیان دنیا کی زندگی میں ان کی روزی تقسیم کی هے، اور هم نے بعض کو بعض پر درجات میں بلند کیا هے تاکه بعض بعض سے کام لیں، اور تیرے رب کی رحمت اس سے بهتر هے جو یه جمع کرتے هیں۔",
     "persian_text": "آیا آنان رحمت پروردگار تو را تقسیم می‌کنند؟ ما معیشت آنان را در زندگی دنیا میان آنان تقسیم کرده‌ایم و بعضی را بر بعضی دیگر درجاتی برتری داده‌ایم تا بعضی از بعضی دیگر کار بگیرند، و رحمت پروردگار تو بهتر است از آنچه آنان جمع می‌کنند.",
     "transliteration": "Ahum yaqsimoona rahmata rabbik, nahnu qasamna baynahum ma'eeshatahum fil hayaatid dunyaa wa rafa'naa ba'dahum fawqa ba'din darajaatil liyattakhiza ba'duhum ba'dan sukhriyyaa, wa rahmatu rabbika khayrum mimmaa yajma'oon"
@@ -281,7 +281,7 @@ ayats = [
   {
     "verse_number": 35,
     "english_text": "And from gold also, but it is the material for enjoyment of life of the world only, and the Hereafter near Allah is only for the pious people.",
-    "arabic_text": "وَزُخْرُفًۭا ۚ وَاِن كُلُّ ذَٰلِكَ لَمَّا مَتَـٰعُ الْحَيَوٰةِ الدُّنْيَا ۚ وَالْاخِرَةُ عِندَ رَبِّكَ لِلْمُتَّقِينَ",
+    "arabic_text": "وَزُخْرُفًۭا ۚ وَاِن كُلُّ ذَٰلِكَ لَمَّا مَتَـٰعُ الْحَيَوٰةِ الدُّنْيٰۚ وَالْاخِرَةُ عِندَ رَبِّكَ لِلْمُتَّقِينَ",
     "urdu_text": "اور سونے کی زینت بھی، لیکن یه سب کچھ صرف دنیا کی زندگی کا سامان هے، اور آخرت تیرے رب کے نزدیک پرهیزگاروں کے لیے هے۔",
     "persian_text": "و زیور طلا نیز، و همه اینها فقط متاع زندگی دنیاست، و آخرت نزد پروردگار تو برای پرهیزگاران است.",
     "transliteration": "Wa zukhrufaa, wa in kullu zaalika lammaa mataa'ul hayaatid dunyaa, wal aakhiratu 'inda rabbika lilmuttaqeen"
@@ -369,7 +369,7 @@ ayats = [
   {
     "verse_number": 46,
     "english_text": "And We sent Moosa with our signs towards Firaun and chiefs of his nation, he said: I am the messenger from the Lord of the Worlds.",
-    "arabic_text": "وَ لَقَدْ اَرْسَلْنَا مُوسَىٰ بِـَٔايَـٰتِنَآ اِلَىٰ فِرْعَوْنَ وَمَلَاِي۟هِ فَقَالَ اِنِّى رَسُولُ رَبِّ الْعَـٰلَمِينَ",
+    "arabic_text": "وَ لَقَدْ اَرْسَلْنَا مُوسَىٰ بِـَٔايَـٰتِنَآ اِلـٰى فِرْعَوْنَ وَمَلَاِي۟هِ فَقَالَ اِنِّى رَسُولُ رَبِّ الْعَـٰلَمِينَ",
     "urdu_text": "اور بیشک هم نے موسیٰ کو اپنی نشانیوں کے ساتھ فرعون اور اس کے سرداروں کی طرف بھیجا، تو انهوں نے کها: میں رب العالمین کا رسول هوں۔",
     "persian_text": "و ما موسی را با آیات خود به سوی فرعون و بزرگان او فرستادیم، پس گفت: من فرستاده پروردگار جهانیان هستم.",
     "transliteration": "Wa laqad arsalnaa Moosaa bi-aayaatinaa ilaa Fir'awna wa mala'ihee faqaala innee rasoolu Rabbil-'aalameen"
@@ -409,7 +409,7 @@ ayats = [
   {
     "verse_number": 51,
     "english_text": "And Firaun called out to his nation and said: O nation, is this country Egypt is not mine, and all these rivers which are beneath my feet are not mine, then why you are not seeing?",
-    "arabic_text": "وَنَادَىٰ فِرْعَوْنُ فِى قَوْمِهِ قَالَ يَـٰقَوْمِ اَلَيْسَ لِى مُلْكُ مِصْرَ وَهَـٰذِهِ الْاَنْهَـٰرُ تَجْرِى مِن تَحْتِىٓ ۖ اَفَلَا تُبْصِرُونَ",
+    "arabic_text": "وَنَادٰى فِرْعَوْنُ فِى قَوْمِهِ قَالَ يَـٰقَوْمِ اَلَيْسَ لِى مُلْكُ مِصْرَ وَهَـٰذِهِ الْاَنْهَـٰرُ تَجْرِى مِن تَحْتِىٓ ۖ اَفَلَا تُبْصِرُونَ",
     "urdu_text": "اور فرعون نے اپنی قوم میں پکار کر کها: اے میری قوم! کیا مصر کی بادشاهی میری نهیں هے؟ اور یه نهریں جو میرے نیچے بهه رهی هیں، کیا تم دیکھتے نهیں هو؟",
     "persian_text": "و فرعون در میان قوم خود ندا داد و گفت: ای قوم من! آیا فرمانروایی مصر از آن من نیست؟ و این رودها که در زیر پای من جاری هستند، آیا نمی‌بینید؟",
     "transliteration": "Wa nādā Fir'awnu fī qawmihī qāla yā qawmi alaysa lī mulku Miṣra wa hādhihil-anhāru tajrī min taḥtī afalā tubṣirūn"

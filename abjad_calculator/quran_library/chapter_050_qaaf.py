@@ -193,7 +193,7 @@ ayats = [
   {
     "verse_number": 24,
     "english_text": "Command shall come: both of you throw every ungrateful transgressor into Hell.",
-    "arabic_text": "اَلْقِيَا فِى جَهَنَّمَ كُلَّ كَفَّارٍ عَنِيدٍۢ",
+    "arabic_text": "اَلْقِيٰفِى جَهَنَّمَ كُلَّ كَفَّارٍ عَنِيدٍۢ",
     "urdu_text": "حکم هوگا: تم دونوں هر ناشکرے سرکش کو جهنم میں ڈال دو۔",
     "persian_text": "فرمان خواهد آمد: شما دو تن هر کافر سرکش را در جهنم بیفکنید.",
     "transliteration": "Alqiyaa fee jahannama kulla kaffaarin 'aneed"

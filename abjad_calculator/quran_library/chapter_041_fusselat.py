@@ -89,7 +89,7 @@ ayats = [
   {
     "verse_number": 11,
     "english_text": "Then He turned towards the sky which was like smoke, and He commanded to earth whether willingly or unwillingly come to Us, so both said: we come obediently.",
-    "arabic_text": "ثُمَّ اسْتَوَىٰٓ اِلَى السَّمَآءِ وَهِىَ دُخَانٌ فَقَالَ لَهَا وَلِلْاَرْضِ ائْتِيَا طَوْعًا اَوْ كَرْهًۭا قَالَتَآ اَتَيْنَا طَآئِعِينَ",
+    "arabic_text": "ثُمَّ اسْتَوَىٰٓ اِلَى السَّمَآءِ وَهِىَ دُخَانٌ فَقَالَ لَهَا وَلِلْاَرْضِ ائْتِيٰطَوْعًا اَوْ كَرْهًۭا قَالَتَآ اَتَيْنَا طَآئِعِينَ",
     "urdu_text": "پھر الله نے آسمان کی طرف توجه فرمائی جو دھوئیں کی طرح تھا، اور اس نے آسمان اور زمین سے فرمایا که خوشی سے آؤ یا ناخوشی سے، دونوں نے کها: هم فرمانبرداری سے حاضر هیں۔",
     "persian_text": "سپس به سوی آسمان توجه کرد که همچون دود بود، و به آسمان و زمین فرمود: خواه و ناخواه بیایید، هر دو گفتند: ما با اطاعت آمدیم.",
     "transliteration": "Thumma istawā ilā as-samā'i wa hiya dukhānun faqāla lahā wa lil-arḍi'tiyā ṭaw'an aw karhan qālatā ataynā ṭā'i'īn"
@@ -97,7 +97,7 @@ ayats = [
   {
     "verse_number": 12,
     "english_text": "Then made seven skies among the skies in two days, and revealed to each sky about its affairs, and decorated sky of the world with the lamps, and made it secure, this is the decree of Mighty and Knowing Allah.",
-    "arabic_text": "فَقَضَىٰهُنَّ سَبْعَ سَمَـٰوَاتٍۢ فِى يَوْمَيْنِ وَاَوْحَىٰ فِى كُلِّ سَمَآءٍ اَمْرَهَا ۚ وَزَيَّنَّا السَّمَآءَ الدُّنْيَا بِمَصَـٰبِيحَ وَحِفْظًۭا ۚ ذَٰلِكَ تَقْدِيرُ الْعَزِيزِ الْعَلِيمِ",
+    "arabic_text": "فَقَضَىٰهُنَّ سَبْعَ سَمَـٰوَاتٍۢ فِى يَوْمَيْنِ وَاَوْحَىٰ فِى كُلِّ سَمَآءٍ اَمْرَهَا ۚ وَزَيَّنَّا السَّمَآءَ الدُّنْيٰبِمَصَـٰبِيحَ وَحِفْظًۭا ۚ ذَٰلِكَ تَقْدِيرُ الْعَزِيزِ الْعَلِيمِ",
     "urdu_text": "پھر اس نے دو دن میں سات آسمان بنا دیے اور هر آسمان میں اس کا کام بتا دیا، اور هم نے قریبی آسمان کو چراغوں سے سجایا اور اسے محفوظ بنایا، یه زبردست اور جاننے والے الله کا فیصله هے۔",
     "persian_text": "پس آنها را در دو روز هفت آسمان قرار داد و به هر آسمانی کار خود را وحی کرد، و آسمان دنیا را با چراغ‌ها زینت دادیم و آن را محفوظ ساختیم، این تقدیر خداوند عزیز و دانا است.",
     "transliteration": "Faqaḍāhunna sab'a samāwātin fī yawmayni wa awḥā fī kulli samā'in amrahā wa zayyannā as-samā'a ad-dunyā bimaṣābīḥa wa ḥifẓan dhālika taqdīru al-'azīzi al-'alīm"
@@ -129,7 +129,7 @@ ayats = [
   {
     "verse_number": 16,
     "english_text": "Then We sent strong winds on them on unlucky days, to taste them the disgraceful punishment in the world and punishment of the Hereafter is more disgraceful, and there they will not be helped also.",
-    "arabic_text": "فَاَرْسَلْنَا عَلَيْهِمْ رِيحًۭا صَرْصَرًا فِىٓ اَيَّامٍۢ نَّحِسَاتٍۢ لِّنُذِيقَهُمْ عَذَابَ الْخِزْىِ فِى الْحَيَوٰةِ الدُّنْيَا ۖ وَلَعَذَابُ الْاخِرَةِ اَخْزَىٰ ۖ وَهُمْ لَا يُنصَرُونَ",
+    "arabic_text": "فَاَرْسَلْنَا عَلَيْهِمْ رِيحًۭا صَرْصَرًا فِىٓ اَيَّامٍۢ نَّحِسَاتٍۢ لِّنُذِيقَهُمْ عَذَابَ الْخِزْىِ فِى الْحَيَوٰةِ الدُّنْيٰۖ وَلَعَذَابُ الْاخِرَةِ اَخْزَىٰ ۖ وَهُمْ لَا يُنصَرُونَ",
     "urdu_text": "پھر هم نے ان پر منحوس دنوں میں تیز آندھی بھیجی تاکه انهیں دنیا میں رسوائی کا عذاب چکھائیں، اور آخرت کا عذاب تو اس سے بھی زیاده رسوا کن هے، اور وهاں ان کی مدد بھی نهیں کی جائے گی۔",
     "persian_text": "پس بر آنان بادی سخت در روزهای نحس فرستادیم تا عذاب خواری را در زندگی دنیا به آنان بچشانیم، و عذاب آخرت خوارکننده‌تر است و آنان یاری نخواهند شد.",
     "transliteration": "Fa-arsalnā 'alayhim rīḥan ṣarṣaran fī ayyāmin naḥisātin linudhīqahum 'adhāba al-khizyi fī al-ḥayāti ad-dunyā wa la-'adhābu al-ākhirati akhzā wa hum lā yunṣarūn"
@@ -153,7 +153,7 @@ ayats = [
   {
     "verse_number": 19,
     "english_text": "The day when enemies of Allah will be sent to Hell that day they will be tortured and reprimanded.",
-    "arabic_text": "وَيَوْمَ يُحْشَرُ اَعْدَآءُ اللّٰهِ اِلَى النَّارِ فَهُمْ يُوزَعُونَ",
+    "arabic_text": "وَ يَوْمَ يُحْشَرُ اَعْدَآءُ اللّٰهِ اِلَى النَّارِ فَهُمْ يُوزَعُونَ",
     "urdu_text": "اور جس دن الله کے دشمنوں کو جهنم کی طرف جمع کیا جائے گا تو انهیں روکا جائے گا اور سزا دی جائے گی۔",
     "persian_text": "و روزی که دشمنان خدا به سوی آتش محشور شوند، پس آنان نگه داشته می‌شوند.",
     "transliteration": "Wa yawma yuḥsharu a'dā'u Allāhi ilā an-nāri fahum yūza'ūn"
@@ -249,7 +249,7 @@ ayats = [
   {
     "verse_number": 31,
     "english_text": "We are with you; in life of this world and we are with you in the Hereafter, and in Paradise everything is available which your heart desires and which you will demand.",
-    "arabic_text": "نَحْنُ اَوْلِيَآؤُكُمْ فِى الْحَيَوٰةِ الدُّنْيَا وَفِى الْاخِرَةِ ۖ وَلَكُمْ فِيهَا مَا تَشْتَهِىٓ اَنفُسُكُمْ وَلَكُمْ فِيهَا مَا تَدَّعُونَ",
+    "arabic_text": "نَحْنُ اَوْلِيَآؤُكُمْ فِى الْحَيَوٰةِ الدُّنْيٰوَفِى الْاخِرَةِ ۖ وَلَكُمْ فِيهَا مَا تَشْتَهِىٓ اَنفُسُكُمْ وَلَكُمْ فِيهَا مَا تَدَّعُونَ",
     "urdu_text": "هم دنیا کی زندگی میں تمهارے دوست هیں اور آخرت میں بھی تمهارے ساتھ هیں، اور جنت میں تمهارے لیے وه سب کچھ هوگا جو تمهارے دل چاهیں گے اور جو تم مانگو گے۔",
     "persian_text": "ما در زندگی دنیا یاران شما هستیم و در آخرت نیز با شما خواهیم بود، و در بهشت برای شما آن چیزی است که دلهایتان بخواهد و آنچه درخواست کنید.",
     "transliteration": "Nahnu awliyaa'ukum fil-hayaatid-dunyaa wa fil-aakhirati wa lakum feehaa maa tashtahee anfusukum wa lakum feehaa maa tadda'oon"
@@ -377,7 +377,7 @@ ayats = [
   {
     "verse_number": 47,
     "english_text": "To Him is the knowledge of the Day of Judgement; and fruits which come out of the covering or women who get pregnant or the children they bear, this is all according to His Knowledge, that day when He will call out: where are My partners? Polytheists will forcibly say: we have already said that we do not know them.",
-    "arabic_text": "۞ اِلَيْهِ يُرَدُّ عِلْمُ السَّاعَةِ ۚ وَ مَا تَخْرُجُ مِن ثَمَرَٰتٍۢ مِّنْ اَكْمَامِهَا وَ مَا تَحْمِلُ مِنْ اُنثَىٰ وَ لَا تَضَعُ اِلَّا بِعِلْمِهِ ۚ وَيَوْمَ يُنَادِيهِمْ اَيْنَ شُرَكَآءِى قَالُوٓاْ ءَاذَنَّـٰكَ مَا مِنَّا مِن شَهِيدٍۢ",
+    "arabic_text": "۞ اِلَيْهِ يُرَدُّ عِلْمُ السَّاعَةِ ۚ وَ مَا تَخْرُجُ مِن ثَمَرَٰتٍۢ مِّنْ اَكْمَامِهَا وَ مَا تَحْمِلُ مِنْ اُنثَىٰ وَ لَا تَضَعُ اِلَّا بِعِلْمِهِ ۚ وَ يَوْمَ يُنَادِيهِمْ اَيْنَ شُرَكَآءِى قَالُوٓاْ ءَاذَنَّـٰكَ مَا مِنَّا مِن شَهِيدٍۢ",
     "urdu_text": "قیامت کا علم اسی کی طرف لوٹایا جاتا هے، اور کوئی پھل اپنے غلاف سے نهیں نکلتا اور نه کوئی عورت حامله هوتی هے اور نه بچه جنتی هے مگر اس کے علم سے، اور جس دن وه انهیں پکارے گا که میرے شریک کهاں هیں؟ وه کهیں گے: هم نے آپ کو بتا دیا که هم میں سے کوئی گواه نهیں هے۔",
     "persian_text": "علم قیامت به سوی او بازگردانده می‌شود، و هیچ میوه‌ای از غلاف خود بیرون نمی‌آید و هیچ ماده‌ای حامله نمی‌شود و نمی‌زاید مگر به علم او، و روزی که آنان را ندا دهد: کجایند شریکان من؟ گویند: به تو اعلام کردیم که از میان ما هیچ گواهی نیست.",
     "transliteration": "Ilayhi yuraddu 'ilmu as-sā'ah wa mā takhruju min thamarātin min akmāmihā wa mā taḥmilu min unthā wa lā taḍa'u illā bi'ilmih wa yawma yunādīhim ayna shurakā'ī qālū ādhannāka mā minnā min shahīd"
@@ -401,7 +401,7 @@ ayats = [
   {
     "verse_number": 50,
     "english_text": "And after trouble if We taste him Our Mercy, he says it was my right, and I do not think that the Day of Judgement will ever establish, and if I am returned to the Lord there is good for me over there; then We shall tell infidels what they did, and will taste them severe punishment.",
-    "arabic_text": "وَلَئِنْ اَذَقْنَـٰهُ رَحْمَةًۭ مِّنَّا مِنۢ بَعْدِ ضَرَّآءَ مَسَّتْهُ لَيَقُولَنَّ هَـٰذَا لِى وَ مَآ اَظُنُّ السَّاعَةَ قَآئِمَةًۭ وَلَئِن رُّجِعْتُ اِلَىٰ رَبِّىٓ اِنَّ لِى عِندَهُ لَلْحُسْنَىٰ ۚ فَلَنُنَبِّئَنَّ الَّذِينَ كَفَرُواْ بِمَا عَمِلُواْ وَلَنُذِيقَنَّهُم مِّنْ عَذَابٍ غَلِيظٍۢ",
+    "arabic_text": "وَلَئِنْ اَذَقْنَـٰهُ رَحْمَةًۭ مِّنَّا مِنۢ بَعْدِ ضَرَّآءَ مَسَّتْهُ لَيَقُولَنَّ هَـٰذَا لِى وَ مَآ اَظُنُّ السَّاعَةَ قَآئِمَةًۭ وَلَئِن رُّجِعْتُ اِلـٰى رَبِّىٓ اِنَّ لِى عِندَهُ لَلْحُسْنَىٰ ۚ فَلَنُنَبِّئَنَّ الَّذِينَ كَفَرُواْ بِمَا عَمِلُواْ وَلَنُذِيقَنَّهُم مِّنْ عَذَابٍ غَلِيظٍۢ",
     "urdu_text": "اور اگر هم اسے مصیبت کے بعد اپنی رحمت چکھائیں تو وه کهتا هے یه میرا حق تھا، اور میں نهیں سمجھتا که قیامت قائم هوگی، اور اگر میں اپنے رب کی طرف لوٹایا گیا تو وهاں میرے لیے بھلائی هے، تو هم کافروں کو ضرور بتائیں گے جو انهوں نے کیا، اور انهیں سخت عذاب چکھائیں گے۔",
     "persian_text": "و اگر پس از سختی که به او رسیده رحمتی از جانب خود به او بچشانیم، می‌گوید این حق من بود، و گمان نمی‌کنم که قیامت برپا شود، و اگر به سوی پروردگارم بازگردانده شوم نزد او برای من نیکی است، پس به کافران خواهیم گفت آنچه کردند، و عذابی سخت به آنان خواهیم چشانید.",
     "transliteration": "Wa la'in adhaqnāhu raḥmatan minnā min ba'di ḍarrā'a massathu layaqūlanna hādhā lī wa mā aẓunnu as-sā'ata qā'imatan wa la'in ruji'tu ilā rabbī inna lī 'indahu lal-ḥusnā falanunabbi'anna alladhīna kafarū bimā 'amilū wa lanudhīqannahum min 'adhābin ghalīẓ"

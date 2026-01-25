@@ -90,7 +90,7 @@ ayats = [
   {
     "verse_number": 12,
     "english_text": "(They) shall be in the Paradises of full of Bliss.",
-    "arabic_text": "فِي جَنَّٰتِ النَّعِيمِ",
+    "arabic_text": "فِى جَنَّٰتِ النَّعِيمِ",
     "urdu_text": "نعمتوں بھری جنتوں میں",
     "persian_text": "در باغ‌های پر نعمت بهشت",
     "transliteration": "Fee jannaatin na'eem",
@@ -202,7 +202,7 @@ ayats = [
   {
     "verse_number": 26,
     "english_text": "There only will be peace and greetings everywhere.",
-    "arabic_text": "اِلَّا قِيلًا سَلَامًا سَلَامًا",
+    "arabic_text": "اِلَّا قِيلًا سَلٰمًا سَلٰمًا",
     "urdu_text": "سوائے اس کے کہ سلام ہی سلام ہوگا",
     "persian_text": "جز سخنی که سلام، سلام باشد",
     "transliteration": "Illa qeelan salaman salama",
@@ -218,7 +218,7 @@ ayats = [
   {
     "verse_number": 28,
     "english_text": "(There will be) bores without thorns;",
-    "arabic_text": "فِي سِدْرٍ مَّخْضُودٍ",
+    "arabic_text": "فِى سِدْرٍ مَّخْضُودٍ",
     "urdu_text": "بیریوں میں جن کے کانٹے اتار دیے گئے ہوں",
     "persian_text": "در میان درختان سدر بی‌خار",
     "transliteration": "Fee sidrin makhdhud",
@@ -242,7 +242,7 @@ ayats = [
   {
     "verse_number": 31,
     "english_text": "Water falling from the Falls.",
-    "arabic_text": "وَمَاءٍ مَّسْكُوبٍ",
+    "arabic_text": "وَمَآءٍ مَّسْكُوبٍ",
     "urdu_text": "اور بہتا ہوا پانی",
     "persian_text": "و آب جاری",
     "transliteration": "Wa ma'im maskub",
@@ -330,7 +330,7 @@ ayats = [
   {
     "verse_number": 42,
     "english_text": "Hot air and boiling water.",
-    "arabic_text": "فِي سَمُومٖ وَحَمِيمٖ",
+    "arabic_text": "فِى سَمُومٖ وَحَمِيمٖ",
     "urdu_text": "گرم ہوا اور کھولتے ہوئے پانی میں",
     "persian_text": "در باد سوزان و آب جوشان",
     "transliteration": "Fi samoomin wa hameem",
@@ -394,7 +394,7 @@ ayats = [
   {
     "verse_number": 50,
     "english_text": "They will all be collected on an appointed day at a promised place.",
-    "arabic_text": "لَمَجْمُوعُونَ اِلَىٰ مِيقَٰتِ يَوْمٖ مَّعْلُومٖ",
+    "arabic_text": "لَمَجْمُوعُونَ اِلـٰى مِيقَٰتِ يَوْمٖ مَّعْلُومٖ",
     "urdu_text": "ضرور ایک مقررہ دن کے وقت پر جمع کیے جائیں گے",
     "persian_text": "قطعاً در وقت معین روزی معلوم گرد آورده خواهند شد",
     "transliteration": "Lamajmoo'oona ilaa meeqaati yawmim ma'loom",
@@ -482,7 +482,7 @@ ayats = [
   {
     "verse_number": 61,
     "english_text": "That We may create other people like you; and transform you in such a form which even you do not know.",
-    "arabic_text": "عَلَىٰٓ اَن نُّبَدِّلَ اَمْثَٰلَكُمْ وَنُنشِئَكُمْ فِي مَا لَا تَعْلَمُونَ",
+    "arabic_text": "عَلَىٰٓ اَن نُّبَدِّلَ اَمْثَٰلَكُمْ وَنُنشِئَكُمْ فِى مَا لَا تَعْلَمُونَ",
     "urdu_text": "تاکہ ہم تمہاری جگہ تمہارے جیسے اور لوگ پیدا کر دیں اور تمہیں ایسی صورت میں بنا دیں جسے تم جانتے بھی نہیں",
     "persian_text": "تا مانند شما را تبدیل کنیم و شما را در صورتی که نمی‌دانید ایجاد نماییم",
     "transliteration": "'Ala an nubaddila amthalakum wa nunshi'akum fi ma la ta'lamun",
@@ -538,7 +538,7 @@ ayats = [
   {
     "verse_number": 68,
     "english_text": "Did you see the water which you drink?",
-    "arabic_text": "اَفَرَءَيْتُمُ الْمَآءَ الَّذِي تَشْرَبُونَ",
+    "arabic_text": "اَفَرَءَيْتُمُ الْمَآءَ الَّذِى تَشْرَبُونَ",
     "urdu_text": "کیا تم نے اس پانی کو دیکھا جو تم پیتے ہو؟",
     "persian_text": "آیا آبی را که می‌نوشید دیده‌اید؟",
     "transliteration": "Afa-ra'aytumul-ma'allazi tashraboon",
@@ -562,7 +562,7 @@ ayats = [
   {
     "verse_number": 71,
     "english_text": "Did you see the fire which you kindle from wood?",
-    "arabic_text": "اَفَرَءَيْتُمُ النَّارَ الَّتِي تُورُونَ",
+    "arabic_text": "اَفَرَءَيْتُمُ النَّارَ الَّتِى تُورُونَ",
     "urdu_text": "کیا تم نے اس آگ کو دیکھا جسے تم جلاتے ہو؟",
     "persian_text": "آیا آتشی را که برمی‌افروزید دیده‌اید؟",
     "transliteration": "Afara'aytumun-naaral-latee tooroon",
@@ -618,7 +618,7 @@ ayats = [
   {
     "verse_number": 78,
     "english_text": "This has been kept in the hidden book.",
-    "arabic_text": "فِي كِتَٰبٖ مَّكْنُونٖ",
+    "arabic_text": "فِى كِتَٰبٖ مَّكْنُونٖ",
     "urdu_text": "ایک محفوظ کتاب میں",
     "persian_text": "در کتابی نهان و محفوظ",
     "transliteration": "Fee kitaabim maknoon",

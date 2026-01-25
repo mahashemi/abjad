@@ -154,7 +154,7 @@ ayats = [
   {
     "verse_number": 20,
     "english_text": "He is owner of power and having high rank in the Presence of the Lord of the Throne.",
-    "arabic_text": "ذِي قُوَّةٍ عِندَ ذِي الْعَرْشِ مَكِينٍ",
+    "arabic_text": "ذِى قُوَّةٍ عِندَ ذِى الْعَرْشِ مَكِينٍ",
     "urdu_text": "جو قوت والا ہے اور عرش والے کے حضور بلند مرتبہ ہے",
     "persian_text": "صاحب قدرت و دارای مقام بلند نزد صاحب عرش",
     "transliteration": "Dhi quwwatin 'inda dhil-'arshi makin",

@@ -2,7 +2,7 @@ ayats = [
   {
     "verse_number": 1,
     "english_text": "Did you see the man who denies the Day of Judgement.",
-    "arabic_text": "اَرَءَيْتَ الَّذِي يُكَذِّبُ بِالدِّينِ",
+    "arabic_text": "اَرَءَيْتَ الَّذِى يُكَذِّبُ بِالدِّينِ",
     "urdu_text": "کیا تم نے اُس شخص کو دیکھا جو روزِ جزا کو جھٹلاتا ہے",
     "persian_text": "آیا دیدی کسی را که روز جزا را تکذیب می‌کند",
     "transliteration": "Ara'ayta allathee yukaththibu bid-deen",
@@ -10,7 +10,7 @@ ayats = [
   {
     "verse_number": 2,
     "english_text": "He is the one to treat the orphan with harshness.",
-    "arabic_text": "فَذٰلِكَ الَّذِي يَدُعُّ الْيَتِيمَ",
+    "arabic_text": "فَذٰلِكَ الَّذِى يَدُعُّ الْيَتِيمَ",
     "urdu_text": "پس وہی تو ہے جو یتیم کو دھکے دیتا ہے",
     "persian_text": "پس او همان کسی است که یتیم را با خشونت می‌راند",
     "transliteration": "Fathalika allathee yadu'ul-yateem",

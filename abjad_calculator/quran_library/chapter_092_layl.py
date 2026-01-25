@@ -82,7 +82,7 @@ ayats = [
   {
     "verse_number": 11,
     "english_text": "And his wealth will not avail him when he will be perished.",
-    "arabic_text": "وَ مَا يُغْنِي عَنْهُ مَالُهُ اِذَا تَرَدّٰى",
+    "arabic_text": "وَ مَا يُغْنِى عَنْهُ مَالُهُ اِذَا تَرَدّٰى",
     "urdu_text": "اور اس کا مال اسے کچھ کام نہیں آئے گا جب وہ ہلاک ہو جائے گا",
     "persian_text": "و ثروتش به او سودی نخواهد رساند هنگامی که هلاک شود",
     "transliteration": "Wa maa yughnee 'anhu maaluhu izaa taraddaa",
@@ -122,7 +122,7 @@ ayats = [
   {
     "verse_number": 16,
     "english_text": "Who had denied and turned away",
-    "arabic_text": "الَّذِي كَذَّبَ وَ تَوَلّٰى",
+    "arabic_text": "الَّذِى كَذَّبَ وَ تَوَلّٰى",
     "urdu_text": "جس نے جھٹلایا اور منہ موڑ لیا",
     "persian_text": "آن کسی که تکذیب کرد و روی برگرداند",
     "transliteration": "Allaḏī kadhdhaba wa tawallā",
@@ -138,7 +138,7 @@ ayats = [
   {
     "verse_number": 18,
     "english_text": "Who arranges his purity by giving away his wealth.",
-    "arabic_text": "الَّذِي يُؤْتِي مَالَهُ يَتَزَكّٰى",
+    "arabic_text": "الَّذِى يُؤْتِى مَالَهُ يَتَزَكّٰى",
     "urdu_text": "جو اپنا مال دیتا ہے تاکہ پاک ہو جائے",
     "persian_text": "کسی که مال خود را می‌بخشد تا پاک شود",
     "transliteration": "Allathee yu'tee malahu yatazakka",

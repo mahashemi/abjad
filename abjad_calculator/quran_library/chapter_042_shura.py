@@ -25,7 +25,7 @@ ayats = [
   {
     "verse_number": 3,
     "english_text": "Likewise, Mighty and Wise Allah send the revelation to you and people earlier than you.",
-    "arabic_text": "كَذَٰلِكَ يُوحِىٓ اِلَيْكَ وَاِلَى الَّذِينَ مِن قَبْلِكَ اللّٰهُ الْعَزِيزُ الْحَكِيمُ",
+    "arabic_text": "كَذَٰلِكَ يُوحِىٓ اِلَيْكَ وَ اِلـٰى الَّذِينَ مِن قَبْلِكَ اللّٰهُ الْعَزِيزُ الْحَكِيمُ",
     "urdu_text": "اسی طرح آپ کی طرف اور آپ سے پهلے لوگوں کی طرف وحی بھیجتا هے الله جو زبردست اور حکمت والا هے",
     "persian_text": "همین‌گونه به تو و به کسانی که پیش از تو بودند وحی می‌فرستد، الله عزیز و حکیم",
     "transliteration": "Kazaalika yoohee ilayka wa ilal lazeena min qablika Allahul Azeezul Hakeem"
@@ -113,7 +113,7 @@ ayats = [
   {
     "verse_number": 14,
     "english_text": "And these people disagreed among themselves, at the time when they had received the knowledge, this was because of enmity among them, and if the Lord had not decided thing for an appointed period, then it would have been decided among them; and Verily those who have been made to inherit the book, they are in severe doubt about it.",
-    "arabic_text": "وَ مَا تَفَرَّقُوٓاْ اِلَّا مِنۢ بَعْدِ مَا جَآءَهُمُ الْعِلْمُ بَغْيًۢا بَيْنَهُمْ ۚ وَلَوْلَا كَلِمَةٌۭ سَبَقَتْ مِن رَّبِّكَ اِلَىٰٓ اَجَلٍۢ مُّسَمًّۭى لَّقُضِىَ بَيْنَهُمْ ۚ وَاِنَّ الَّذِينَ اُورِثُواْ الْكِتٰبَ مِنۢ بَعْدِهِمْ لَفِى شَكٍّۢ مِّنْهُ مُرِيبٍۢ",
+    "arabic_text": "وَ مَا تَفَرَّقُوٓاْ اِلَّا مِنۢ بَعْدِ مَا جَآءَهُمُ الْعِلْمُ بَغْيًۢا بَيْنَهُمْ ۚ وَلَوْلَا كَلِمَةٌۭ سَبَقَتْ مِن رَّبِّكَ اِلـٰىٓ اَجَلٍۢ مُّسَمًّۭى لَّقُضِىَ بَيْنَهُمْ ۚ وَاِنَّ الَّذِينَ اُورِثُواْ الْكِتٰبَ مِنۢ بَعْدِهِمْ لَفِى شَكٍّۢ مِّنْهُ مُرِيبٍۢ",
     "urdu_text": "اور انهوں نے اختلاف نهیں کیا مگر اُس وقت جب اُن کے پاس علم آ چکا تھا، یه آپس کی دشمنی کی وجه سے تھا، اور اگر تمهارے رب کی طرف سے ایک مقرره وقت تک کے لیے فیصله نه هو چکا هوتا تو اُن کے درمیان فیصله کر دیا جاتا، اور بیشک جن لوگوں کو اُن کے بعد کتاب کا وارث بنایا گیا وه اُس کے بارے میں سخت شک میں مبتلا هیں۔",
     "persian_text": "و آنان اختلاف نکردند مگر پس از آنکه علم به آنان رسید، از روی ستمگری میان خودشان، و اگر کلمه‌ای از سوی پروردگارت تا زمان معینی نبود، میان آنان داوری می‌شد، و همانا کسانی که پس از آنان وارث کتاب شدند در شک آشکاری از آن هستند.",
     "transliteration": "Wa ma tafarraqu illa min ba'di ma ja'ahumul-'ilmu baghyan baynahum, wa lawla kalimatun sabaqat min rabbika ila ajalin musammal-laqudiya baynahum, wa innal-ladhina urithul-kitaba min ba'dihim lafi shakkin minhu murib"
@@ -161,7 +161,7 @@ ayats = [
   {
     "verse_number": 20,
     "english_text": "Whoever desires the reward of the Hereafter, We increase (reward) for him, and who desires the reward in the world, We give him here only, then he will not have any share in the Hereafter.",
-    "arabic_text": "مَن كَانَ يُرِيدُ حَرْثَ الْاخِرَةِ نَزِدْ لَهُ فِى حَرْثِهِ ۖ وَمَن كَانَ يُرِيدُ حَرْثَ الدُّنْيَا نُؤْتِهِ مِنْهَا وَ مَا لَهُ فِى الْاخِرَةِ مِن نَّصِيبٍ",
+    "arabic_text": "مَن كَانَ يُرِيدُ حَرْثَ الْاخِرَةِ نَزِدْ لَهُ فِى حَرْثِهِ ۖ وَمَن كَانَ يُرِيدُ حَرْثَ الدُّنْيٰنُؤْتِهِ مِنْهَا وَ مَا لَهُ فِى الْاخِرَةِ مِن نَّصِيبٍ",
     "urdu_text": "جو شخص آخرت کی کھیتی چاهتا هے هم اُس کی کھیتی میں اضافه کر دیتے هیں، اور جو دنیا کی کھیتی چاهتا هے هم اُسے اِسی میں سے دے دیتے هیں اور آخرت میں اُس کا کوئی حصه نهیں۔",
     "persian_text": "هر که کشت آخرت را بخواهد در کشتش می‌افزاییم، و هر که کشت دنیا را بخواهد از آن به او می‌دهیم و در آخرت برایش بهره‌ای نیست.",
     "transliteration": "Man kana yuridu harthal-akhirati nazid lahu fi harthih, wa man kana yuridu harthal-dunya nu'tihi minha wa ma lahu fil-akhirati min nasib"
@@ -289,7 +289,7 @@ ayats = [
   {
     "verse_number": 36,
     "english_text": "Then whatever has been given to you is for your comfort in this world, and whatever is in His Presence is (more) good and everlasting for those who believe and rely on their Lord.",
-    "arabic_text": "فَمَآ اُوتِيتُم مِّن شَىْءٍۢ فَمَتَـٰعُ الْحَيَوٰةِ الدُّنْيَا ۖ وَ مَا عِندَ اللّٰهِ خَيْرٌۭ وَاَبْقَىٰ لِلَّذِينَ ءَامَنُواْ وَعَلَىٰ رَبِّهِمْ يَتَوَكَّلُونَ",
+    "arabic_text": "فَمَآ اُوتِيتُم مِّن شَىْءٍۢ فَمَتَـٰعُ الْحَيَوٰةِ الدُّنْيٰۖ وَ مَا عِندَ اللّٰهِ خَيْرٌۭ وَاَبْقَىٰ لِلَّذِينَ ءَامَنُواْ وَعَلَىٰ رَبِّهِمْ يَتَوَكَّلُونَ",
     "urdu_text": "پس جو کچھ تمهیں دیا گیا هے وه دنیا کی زندگی کا سامان هے، اور جو الله کے پاس هے وه بهتر اور باقی رهنے والا هے ان لوگوں کے لیے جو ایمان لائے اور اپنے رب پر بھروسه کرتے هیں۔",
     "persian_text": "پس آنچه به شما داده شده متاع زندگی دنیاست، و آنچه نزد خداست بهتر و پایدارتر است برای کسانی که ایمان آورده‌اند و بر پروردگارشان توکل می‌کنند.",
     "transliteration": "Fa-maaa ooteetum min shay'in fa-mataa'ul-hayaatid-dunyaa wa maa 'indallahi khayrunw-wa abqaa lilladheena aamanoo wa 'alaa rabbihim yatawakkaloon"
@@ -353,7 +353,7 @@ ayats = [
   {
     "verse_number": 44,
     "english_text": "And to whoever Allah leaves in misguidance then there is no friend and guardian for him, you will see that the unjust will say after seeing the punishment: is there any way to return.",
-    "arabic_text": "وَمَن يُضْلِلِ اللّٰهُ فَمَا لَهُ مِن وَلِىٍّۢ مِّنۢ بَعْدِهِ ۗ وَتَرَى الظَّـٰلِمِينَ لَمَّا رَاَوُاْ الْعَذَابَ يَقُولُونَ هَلْ اِلَىٰ مَرَدٍّۢ مِّن سَبِيلٍۢ",
+    "arabic_text": "وَمَن يُضْلِلِ اللّٰهُ فَمَا لَهُ مِن وَلِىٍّۢ مِّنۢ بَعْدِهِ ۗ وَتَرَى الظَّـٰلِمِينَ لَمَّا رَاَوُاْ الْعَذَابَ يَقُولُونَ هَلْ اِلـٰى مَرَدٍّۢ مِّن سَبِيلٍۢ",
     "urdu_text": "اور جسے الله گمراه کر دے تو اس کے بعد اس کا کوئی مددگار نهیں، اور تم ظالموں کو دیکھو گے که جب وه عذاب دیکھیں گے تو کهیں گے: کیا واپس جانے کی کوئی راه هے؟",
     "persian_text": "و هر که را خداوند گمراه کند، پس برای او پس از آن هیچ یاوری نیست، و ستمکاران را خواهی دید که چون عذاب را ببینند، می‌گویند: آیا راهی برای بازگشت هست؟",
     "transliteration": "Wa man yudlilil-laahu famaa lahu min waliyyim-mim ba'dih, wa taraz-zaalimeena lammaa ra-awul-'azaaba yaqooloona hal ilaa maraddim-min sabeel"
@@ -417,7 +417,7 @@ ayats = [
   {
     "verse_number": 52,
     "english_text": "And thus, We revealed spirit (Quran) to you by Our Command, and you didn't know what the book was, and what the faith was, but We made it a light, through which We guide to Our servants to whoever We please, and Verily We are guiding you to the straight path.",
-    "arabic_text": "وَكَذَٰلِكَ اَوْحَيْنَآ اِلَيْكَ رُوحًۭا مِّنْ اَمْرِنَا ۚ مَا كُنتَ تَدْرِى مَا الْكِتٰبُ وَ لَا الْاِيمَـٰنُ وَلَـٰكِن جَعَلْنَـٰهُ نُورًا نَّهْدِى بِهِ مَن نَّشَآءُ مِنْ عِبَادِنَا ۚ وَاِنَّكَ لَتَهْدِىٓ اِلَىٰ صِرَٰطٍۢ مُّسْتَقِيمٍۢ",
+    "arabic_text": "وَكَذَٰلِكَ اَوْحَيْنَآ اِلَيْكَ رُوحًۭا مِّنْ اَمْرِنَا ۚ مَا كُنتَ تَدْرِى مَا الْكِتٰبُ وَ لَا الْاِيمَـٰنُ وَلَـٰكِن جَعَلْنَـٰهُ نُورًا نَّهْدِى بِهِ مَن نَّشَآءُ مِنْ عِبَادِنَا ۚ وَاِنَّكَ لَتَهْدِىٓ اِلـٰى صِرَٰطٍۢ مُّسْتَقِيمٍۢ",
     "urdu_text": "اور اسی طرح هم نے اپنے حکم سے آپ کی طرف روح (قرآن) کی وحی بھیجی، آپ نهیں جانتے تھے که کتاب کیا هے اور نه ایمان کیا هے، لیکن هم نے اسے نور بنایا جس سے هم اپنے بندوں میں سے جسے چاهتے هیں هدایت دیتے هیں، اور بے شک آپ سیدھے راستے کی طرف رهنمائی کرتے هیں۔",
     "persian_text": "و همچنین روحی (قرآن) را از فرمان خود به سوی تو وحی کردیم، تو نمی‌دانستی کتاب چیست و نه ایمان، ولی آن را نوری قرار دادیم که به وسیله آن هر که را از بندگانمان بخواهیم هدایت می‌کنیم، و همانا تو به راه راست هدایت می‌کنی.",
     "transliteration": "Wa kadhālika awḥaynā ilayka rūḥan min amrinā, mā kunta tadrī mal-kitābu wa lal-īmānu wa lākin ja'alnāhu nūran nahdī bihi man nashā'u min 'ibādinā, wa innaka la-tahdī ilā ṣirāṭim mustaqīm"

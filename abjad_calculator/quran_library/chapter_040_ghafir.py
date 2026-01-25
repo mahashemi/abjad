@@ -89,7 +89,7 @@ ayats = [
   {
     "verse_number": 11,
     "english_text": "They will say O Lord you gave us death two times and life two times, now we have accepted our sins, now is there any way to get rid of it?",
-    "arabic_text": "قَالُوْاْ رَبَّنَآ اَمَتَّنَا اثْنَتَيْنِ وَاَحْيَيْتَنَا اثْنَتَيْنِ فَاعْتَرَفْنَا بِذُنُوبِنَا فَهَلْ اِلَىٰ خُرُوجٍۢ مِّن سَبِيلٍۢ",
+    "arabic_text": "قَالُوْاْ رَبَّنَآ اَمَتَّنَا اثْنَتَيْنِ وَاَحْيَيْتَنَا اثْنَتَيْنِ فَاعْتَرَفْنَا بِذُنُوبِنَا فَهَلْ اِلـٰى خُرُوجٍۢ مِّن سَبِيلٍۢ",
     "urdu_text": "وہ کہیں گے: اے ہمارے رب! تو نے ہمیں دو بار موت دی اور دو بار زندگی عطا کی، اب ہم نے اپنے گناہوں کا اعتراف کر لیا ہے، تو کیا یہاں سے نکلنے کی کوئی راہ ہے؟",
     "persian_text": "آنان خواهند گفت: پروردگارا! تو ما را دو بار میراندی و دو بار زنده کردی، اکنون به گناهان خود اعتراف کردیم، آیا راهی برای بیرون رفتن وجود دارد؟",
     "transliteration": "Qaaloo rabbanaa amattanaa ithnatayni wa ahyaytanaa ithnatayni fa'tarafnaa bi-dhunoobinaa fahal ilaa khuroojim min sabeel"
@@ -193,7 +193,7 @@ ayats = [
   {
     "verse_number": 24,
     "english_text": "Towards Firaun, Hamaan and Qaroon, they all said he is a magician and a liar.",
-    "arabic_text": "اِلَىٰ فِرْعَوْنَ وَهَـٰمَـٰنَ وَقَـٰرُونَ فَقَالُوْاْ سَـٰحِرٌۭ كَذَّابٌۭ",
+    "arabic_text": "اِلـٰى فِرْعَوْنَ وَهَـٰمَـٰنَ وَقَـٰرُونَ فَقَالُوْاْ سَـٰحِرٌۭ كَذَّابٌۭ",
     "urdu_text": "فرعون، ہامان اور قارون کی طرف، تو انہوں نے کہا یہ جادوگر اور جھوٹا ہے۔",
     "persian_text": "به سوی فرعون و هامان و قارون، پس آنها گفتند او جادوگر و دروغگو است.",
     "transliteration": "Ilaa Fir'awna wa Haamaana wa Qaaroona faqaaloo saahirun kadhdhaab"
@@ -297,7 +297,7 @@ ayats = [
   {
     "verse_number": 37,
     "english_text": "From the ways in the sky I may see the Lord of Moosa, I think Moosa is a liar and there is no Allah, and like this Firaun's bad deeds were decorated and he was stopped from his way, and result of plotting of Firaun was nothing but destruction.",
-    "arabic_text": "اَسْبَـٰبَ السَّمَـٰوَٰتِ فَاَطَّلِعَ اِلَىٰٓ اِلَـٰهِ مُوسَىٰ وَاِنِّى لَاَظُنُّهُ كَـٰذِبًا ۚ وَكَذَٰلِكَ زُيِّنَ لِفِرْعَوْنَ سُوٓءُ عَمَلِهِ وَصُدَّ عَنِ السَّبِيلِ ۚ وَ مَا كَيْدُ فِرْعَوْنَ اِلَّا فِى تَبَابٍۢ",
+    "arabic_text": "اَسْبَـٰبَ السَّمَـٰوَٰتِ فَاَطَّلِعَ اِلـٰىٓ اِلَـٰهِ مُوسَىٰ وَاِنِّى لَاَظُنُّهُ كَـٰذِبًا ۚ وَكَذَٰلِكَ زُيِّنَ لِفِرْعَوْنَ سُوٓءُ عَمَلِهِ وَصُدَّ عَنِ السَّبِيلِ ۚ وَ مَا كَيْدُ فِرْعَوْنَ اِلَّا فِى تَبَابٍۢ",
     "urdu_text": "آسمانوں کے راستوں تک، تاکہ میں موسیٰ کے رب کو دیکھ سکوں، اور میں یقیناً سمجھتا ہوں کہ موسیٰ جھوٹا ہے، اور اسی طرح فرعون کے لیے اس کے برے اعمال خوبصورت بنا دیے گئے اور وہ راہ راست سے روک دیا گیا، اور فرعون کی چال کا انجام صرف تباہی تھا۔",
     "persian_text": "راه‌های آسمان‌ها را، تا به خدای موسی نگاه کنم، و من یقیناً او را دروغگو می‌پندارم، و این‌گونه برای فرعون اعمال بدش زینت داده شد و از راه باز داشته شد، و نیرنگ فرعون جز در نابودی نبود.",
     "transliteration": "Asbaabas-samaawaati fa-attali'a ilaa ilaahi Moosaa wa innee la-azunnuhoo kaadhibaa, wa kadhaalika zuyyina li-Fir'awna soo'u 'amalihee wa sudda 'anis-sabeel, wa maa kaydu Fir'awna illaa fee tabaab"
@@ -313,7 +313,7 @@ ayats = [
   {
     "verse_number": 39,
     "english_text": "O people of the nation, remember the enjoyment of the worldly life is for some days, and everlasting abode is the Hereafter.",
-    "arabic_text": "يَـٰقَوْمِ اِنَّمَا هَـٰذِهِ الْحَيَوٰةُ الدُّنْيَا مَتَـٰعٌۭ وَاِنَّ الْاخِرَةَ هِىَ دَارُ الْقَرَارِ",
+    "arabic_text": "يَـٰقَوْمِ اِنَّمَا هَـٰذِهِ الْحَيَوٰةُ الدُّنْيٰمَتَـٰعٌۭ وَاِنَّ الْاخِرَةَ هِىَ دَارُ الْقَرَارِ",
     "urdu_text": "اے میری قوم! یہ دنیا کی زندگی تو صرف چند روزہ فائدہ ہے، اور آخرت ہی ہمیشہ رہنے کا گھر ہے۔",
     "persian_text": "ای قوم من! این زندگی دنیا فقط متاعی است، و آخرت سرای جاودانی است.",
     "transliteration": "Yaa qawmi innamaa haadhihil-hayaatud-dunyaa mataa'un wa innal-aakhirata hiya daarul-qaraar"
@@ -345,7 +345,7 @@ ayats = [
   {
     "verse_number": 43,
     "english_text": "Verily you are inviting me towards that who is neither worthy of calling upon in the world nor in the Hereafter, our return is all towards Allah, and who do excesses are Hellish people.",
-    "arabic_text": "لَا جَرَمَ اَنَّمَا تَدْعُونَنِىٓ اِلَيْهِ لَيْسَ لَهُ دَعْوَةٌۭ فِى الدُّنْيَا وَ لَا فِى الْاخِرَةِ وَاَنَّ مَرَدَّنَآ اِلَى اللّٰهِ وَاَنَّ الْمُسْرِفِينَ هُمْ اَصْحَـٰبُ النَّارِ",
+    "arabic_text": "لَا جَرَمَ اَنَّمَا تَدْعُونَنِىٓ اِلَيْهِ لَيْسَ لَهُ دَعْوَةٌۭ فِى الدُّنْيٰوَ لَا فِى الْاخِرَةِ وَاَنَّ مَرَدَّنَآ اِلَى اللّٰهِ وَاَنَّ الْمُسْرِفِينَ هُمْ اَصْحَـٰبُ النَّارِ",
     "urdu_text": "بے شک تم مجھے اس کی طرف بلاتے ہو جو نہ دنیا میں پکارے جانے کے لائق ہے اور نہ آخرت میں، اور ہماری واپسی اللہ ہی کی طرف ہے، اور جو حد سے تجاوز کرنے والے ہیں وہی جہنم والے ہیں۔",
     "persian_text": "یقیناً شما مرا به سوی چیزی دعوت می‌کنید که نه در دنیا و نه در آخرت شایسته خوانده شدن نیست، و بازگشت ما به سوی خداست، و کسانی که زیاده‌روی می‌کنند همان اهل آتش هستند.",
     "transliteration": "Lā jarama annamā tad'ūnanī ilayhi laysa lahū da'watun fī ad-dunyā wa lā fī al-ākhirati wa anna maraddanā ilā Allāhi wa anna al-musrifīna hum aṣḥābu an-nār"
@@ -369,7 +369,7 @@ ayats = [
   {
     "verse_number": 46,
     "english_text": "They are presented before the Hell every morning and evening, when Day of Judgement will be established then angels will be commanded to put them in the worst stage of punishment in Hell.",
-    "arabic_text": "النَّارُ يُعْرَضُونَ عَلَيْهَا غُدُوًّۭا وَعَشِيًّۭا ۖ وَيَوْمَ تَقُومُ السَّاعَةُ اَدْخِلُوٓاْ ءَالَ فِرْعَوْنَ اَشَدَّ الْعَذَابِ",
+    "arabic_text": "النَّارُ يُعْرَضُونَ عَلَيْهَا غُدُوًّۭا وَعَشِيًّۭا ۖ وَ يَوْمَ تَقُومُ السَّاعَةُ اَدْخِلُوٓاْ ءَالَ فِرْعَوْنَ اَشَدَّ الْعَذَابِ",
     "urdu_text": "وہ آگ پر صبح و شام پیش کیے جاتے ہیں، اور جس دن قیامت قائم ہو گی تو حکم دیا جائے گا کہ فرعون کے لوگوں کو سب سے سخت عذاب میں داخل کرو۔",
     "persian_text": "آنان را صبح و شام بر آتش عرضه می‌کنند، و روزی که قیامت برپا شود (گفته می‌شود:) خاندان فرعون را در سخت‌ترین عذاب داخل کنید.",
     "transliteration": "An-nāru yu'raḍūna 'alayhā ghuduwwan wa 'ashiyyan wa yawma taqūmu as-sā'atu adkhilū āla fir'awna ashadda al-'adhāb"
@@ -409,7 +409,7 @@ ayats = [
   {
     "verse_number": 51,
     "english_text": "Verily, We do help the prophets and the believers in the world, and that day also will help them when all the witnesses will be gathered.",
-    "arabic_text": "اِنَّا لَنَنصُرُ رُسُلَنَا وَالَّذِينَ ءَامَنُواْ فِى الْحَيَوٰةِ الدُّنْيَا وَيَوْمَ يَقُومُ الْاَشْهَـٰدُ",
+    "arabic_text": "اِنَّا لَنَنصُرُ رُسُلَنَا وَالَّذِينَ ءَامَنُواْ فِى الْحَيَوٰةِ الدُّنْيٰوَ يَوْمَ يَقُومُ الْاَشْهَـٰدُ",
     "urdu_text": "بیشک ہم اپنے رسولوں اور ایمان والوں کی دنیا کی زندگی میں مدد کرتے ہیں اور اس دن بھی ان کی مدد کریں گے جب گواہ کھڑے ہوں گے۔",
     "persian_text": "به راستی ما پیامبران و کسانی را که ایمان آورده‌اند در زندگی دنیا یاری می‌کنیم و در روزی که گواهان برپا می‌شوند نیز یاری‌شان خواهیم کرد.",
     "transliteration": "Inna lanansuru rusulana walladhina amanu fil-hayatid-dunya wa yawma yaqumul-ashhad"

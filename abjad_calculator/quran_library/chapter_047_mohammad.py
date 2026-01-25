@@ -289,7 +289,7 @@ ayats = [
   {
     "verse_number": 36,
     "english_text": "This worldly life is just idle sport and play and if you have adopted faith and piety then Allah will give you full reward and would not ask your possessions from you.",
-    "arabic_text": "اِنَّمَا الْحَيَوٰةُ الدُّنْيَا لَعِبٌۭ وَلَهْوٌۭ ۚ وَاِن تُؤْمِنُواْ وَتَتَّقُواْ يُؤْتِكُمْ اُجُورَكُمْ وَ لَا يَسْـَٔلْكُمْ اَمْوَٰلَكُمْ",
+    "arabic_text": "اِنَّمَا الْحَيَوٰةُ الدُّنْيٰلَعِبٌۭ وَلَهْوٌۭ ۚ وَاِن تُؤْمِنُواْ وَتَتَّقُواْ يُؤْتِكُمْ اُجُورَكُمْ وَ لَا يَسْـَٔلْكُمْ اَمْوَٰلَكُمْ",
     "urdu_text": "یه دنیوی زندگی تو محض کھیل اور تماشا هے، اور اگر تم ایمان لاؤ اور تقویٰ اختیار کرو تو الله تمهیں پورا اجر دے گا اور تم سے تمهارے مال نهیں مانگے گا۔",
     "persian_text": "زندگی دنیا فقط بازی و سرگرمی است، و اگر ایمان بیاورید و تقوا پیشه کنید، خداوند پاداش کامل به شما خواهد داد و اموال شما را از شما نخواهد خواست.",
     "transliteration": "Innamā al-ḥayātu ad-dunyā la'ibun wa lahwun wa in tu'minū wa tattaqū yu'tikum ujūrakum wa lā yas'alkum amwālakum"

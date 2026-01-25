@@ -25,7 +25,7 @@ ayats = [
   {
     "verse_number": 3,
     "english_text": "When Prophet disclosed a matter to one of his wives in confidence and she divulged it to the other (wife) and Allah made this known to the Prophet, so Prophet told some matters to her and withheld some; then when he told her, she asked: who told you this, so prophet said: Allah is all Knower and all Aware.",
-    "arabic_text": "وَاِذْ اَسَرَّ النَّبِىُّ اِلَىٰ بَعْضِ اَزْوَٰجِهِ حَدِيثًۭا فَلَمَّا نَبَّاَتْ بِهِ وَاَظْهَرَهُ اللّٰهُ عَلَيْهِ عَرَّفَ بَعْضَهُ وَاَعْرَضَ عَنۢ بَعْضٍۢ ۖ فَلَمَّا نَبَّاَهَا بِهِ قَالَتْ مَنْ اَنۢبَاَكَ هَـٰذَا ۖ قَالَ نَبَّاَنِىَ الْعَلِيمُ الْخَبِيرُ",
+    "arabic_text": "وَاِذْ اَسَرَّ النَّبِىُّ اِلـٰى بَعْضِ اَزْوَٰجِهِ حَدِيثًۭا فَلَمَّا نَبَّاَتْ بِهِ وَاَظْهَرَهُ اللّٰهُ عَلَيْهِ عَرَّفَ بَعْضَهُ وَاَعْرَضَ عَنۢ بَعْضٍۢ ۖ فَلَمَّا نَبَّاَهَا بِهِ قَالَتْ مَنْ اَنۢبَاَكَ هَـٰذَا ۖ قَالَ نَبَّاَنِىَ الْعَلِيمُ الْخَبِيرُ",
     "urdu_text": "اور جب نبی نے اپنی ایک بیوی سے ایک بات راز میں کهی، پھر جب اس نے وه بات ظاهر کر دی اور الله نے نبی کو اس پر مطلع کر دیا، تو نبی نے اسے کچھ بتایا اور کچھ سے درگزر کیا، پھر جب نبی نے اسے بتایا تو اس نے کها: آپ کو یه کس نے بتایا؟ نبی نے کها: مجھے جاننے والے خبردار نے بتایا۔",
     "persian_text": "و هنگامی که پیامبر سخنی را به یکی از همسرانش در نهان گفت، پس چون او آن را فاش کرد و خداوند پیامبر را از آن آگاه ساخت، پیامبر بخشی از آن را به او گفت و از بخشی چشم‌پوشی کرد، پس چون او را از آن آگاه ساخت، گفت: چه کسی این را به تو خبر داد؟ گفت: دانای آگاه مرا خبر داد.",
     "transliteration": "Wa idh asarran-nabiyyu ilaa ba'di azwaajihee hadeethan falammaa nabba'at bihee wa adhharahul-laahu 'alayhi 'arrafa ba'dahoo wa a'rada 'am ba'd, falammaa nabba'ahaa bihee qaalat man amba'aka haadha qaala nabba'aniyal-'aleemul-khabeer"
@@ -81,7 +81,7 @@ ayats = [
   {
     "verse_number": 10,
     "english_text": "Those who adopted infidelity, Allah has described the example of wife of Nooh and wife of Lut for they both were under the marriage of our righteous servants, but they betrayed them (their husbands); therefore, their marriage (with the prophets) did not benefit them in the Presence of Allah, and they were told: you also enter the Hell along with other Hellish people.",
-    "arabic_text": "ضَرَبَ اللّٰهُ مَثَلًا لِّلَّذِينَ كَفَرُواْ امْرَاَتَ نُوحٍۢ وَامْرَاَتَ لُوطٍۢ ۖ كَانَتَا تَحْتَ عَبْدَيْنِ مِنْ عِبَادِنَا صَـٰلِحَيْنِ فَخَانَتَاهُمَا فَلَمْ يُغْنِيَا عَنْهُمَا مِنَ اللّٰهِ شَيْـًۭٔا وَقِيلَ ادْخُلَا النَّارَ مَعَ الدَّٰخِلِينَ",
+    "arabic_text": "ضَرَبَ اللّٰهُ مَثَلًا لِّلَّذِينَ كَفَرُواْ امْرَاَتَ نُوحٍۢ وَامْرَاَتَ لُوطٍۢ ۖ كَانَتَا تَحْتَ عَبْدَيْنِ مِنْ عِبَادِنَا صَـٰلِحَيْنِ فَخَانَتَاهُمَا فَلَمْ يُغْنِيٰعَنْهُمَا مِنَ اللّٰهِ شَيْـًۭٔا وَقِيلَ ادْخُلَا النَّارَ مَعَ الدَّٰخِلِينَ",
     "urdu_text": "الله نے کافروں کے لیے نوح کی بیوی اور لوط کی بیوی کی مثال بیان فرمائی هے، وه دونوں همارے دو نیک بندوں کے نکاح میں تھیں لیکن انهوں نے ان سے خیانت کی، تو ان کے شوهر الله کے سامنے ان کے کچھ کام نه آئے اور ان سے کها گیا: تم بھی دوسرے داخل هونے والوں کے ساتھ آگ میں داخل هو جاؤ۔",
     "persian_text": "خداوند برای کسانی که کافر شدند مثالی زده است: همسر نوح و همسر لوط، آن دو زیر نکاح دو بنده صالح از بندگان ما بودند، پس به آنان خیانت کردند، و شوهرانشان هیچ سودی از جانب خدا به آنان نرساندند، و گفته شد: با دیگر داخل‌شوندگان به آتش درآیید.",
     "transliteration": "Darabal-laahu mathalan lilladheena kafaroom-ra'ata noohinw-wamra'ata loot, kaanataa tahta 'abdayni min 'ibaadinaa saalihayni fakhaanataahuma falam yughniyaa 'anhumaa minal-laahi shay'anw-wa qeelad-khulaan-naara ma'ad-daakhileen"

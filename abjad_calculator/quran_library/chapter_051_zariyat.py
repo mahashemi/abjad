@@ -209,7 +209,7 @@ ayats = [
   {
     "verse_number": 26,
     "english_text": "Then he went home, prepared and brought a fat (roasted) calf.",
-    "arabic_text": "فَرَاغَ اِلَىٰٓ اَهْلِهِ فَجَآءَ بِعِجْلٍۢ سَمِينٍۢ",
+    "arabic_text": "فَرَاغَ اِلـٰىٓ اَهْلِهِ فَجَآءَ بِعِجْلٍۢ سَمِينٍۢ",
     "urdu_text": "پھر وه چپکے سے اپنے گھر والوں کے پاس گئے اور ایک فربه بچھڑا لے آئے۔",
     "persian_text": "پس به خانواده‌اش رفت و گوساله‌ای فربه آورد.",
     "transliteration": "Fa raagha ilaa ahlihee fa jaaa'a bi'ijlin sameen"
@@ -257,7 +257,7 @@ ayats = [
   {
     "verse_number": 32,
     "english_text": "They said: we have been sent towards a guilty nation.",
-    "arabic_text": "قَالُوٓاْ اِنَّآ اُرْسِلْنَآ اِلَىٰ قَوْمٍۢ مُّجْرِمِينَ",
+    "arabic_text": "قَالُوٓاْ اِنَّآ اُرْسِلْنَآ اِلـٰى قَوْمٍۢ مُّجْرِمِينَ",
     "urdu_text": "انهوں نے کها: هم ایک مجرم قوم کی طرف بھیجے گئے هیں۔",
     "persian_text": "گفتند: ما به سوی قومی گناهکار فرستاده شده‌ایم.",
     "transliteration": "Qaalooo innaaa ursilnaaa ilaa qawmim mujrimeen"
@@ -305,7 +305,7 @@ ayats = [
   {
     "verse_number": 38,
     "english_text": "And in the story of Moosa Our signs are there when We sent him towards Firaun with the explicit argument.",
-    "arabic_text": "وَفِى مُوسَىٰٓ اِذْ اَرْسَلْنَـٰهُ اِلَىٰ فِرْعَوْنَ بِسُلْطَـٰنٍۢ مُّبِينٍۢ",
+    "arabic_text": "وَفِى مُوسَىٰٓ اِذْ اَرْسَلْنَـٰهُ اِلـٰى فِرْعَوْنَ بِسُلْطَـٰنٍۢ مُّبِينٍۢ",
     "urdu_text": "اور موسیٰ کے قصے میں بھی هماری نشانیاں هیں جب هم نے انهیں واضح دلیل کے ساتھ فرعون کی طرف بھیجا۔",
     "persian_text": "و در موسی نیز، آنگاه که او را با برهان آشکار به سوی فرعون فرستادیم.",
     "transliteration": "Wa fee Moosaaa idh arsalnaahu ilaa Fir'awna bisultaanim mubeen"

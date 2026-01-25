@@ -10,7 +10,7 @@ ayats = [
   {
     "verse_number": 2,
     "english_text": "Did not He foil their plan?",
-    "arabic_text": "اَلَمْ يَجْعَلْ كَيْدَهُمْ فِي تَضْلِيلٍ",
+    "arabic_text": "اَلَمْ يَجْعَلْ كَيْدَهُمْ فِى تَضْلِيلٍ",
     "urdu_text": "کیا اس نے ان کی چال کو ناکام نہیں کر دیا؟",
     "persian_text": "آیا نقشه آنان را نابود نساخت؟",
     "transliteration": "Alam yaj'al kaydahum fee tadleel",

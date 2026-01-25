@@ -2,7 +2,7 @@ ayats = [
   {
     "verse_number": 1,
     "english_text": "All praises are due to Allah, who has created many skies and earths, and made different darkness and light, and yet the infidels try to compare Allah with others.",
-    "arabic_text": "الْحَمْدُ لِلّٰهِ الَّذِي خَلَقَ السَّمٰوٰتِ وَ الْاَرْضَ وَ جَعَلَ الظُّلُمٰتِ وَ النُّوْرَ  ثُمَّ الَّذِيْنَ كَفَرُوْا بِرَبِّهِمْ يَعْدِلُوْنَ",
+    "arabic_text": "الْحَمْدُ لِلّٰهِ الَّذِى خَلَقَ السَّمٰوٰتِ وَ الْاَرْضَ وَ جَعَلَ الظُّلُمٰتِ وَ النُّوْرَ  ثُمَّ الَّذِيْنَ كَفَرُوْا بِرَبِّهِمْ يَعْدِلُوْنَ",
     "urdu_text": "تمام تعریفیں اللہ کے لیے ہیں جس نے آسمانوں اور زمین کو پیدا کیا اور اندھیروں اور روشنی کو بنایا، پھر بھی کافر لوگ اپنے رب کے ساتھ دوسروں کو برابر ٹھہراتے ہیں۔",
     "persian_text": "ستایش مخصوص خداوندی است که آسمان‌ها و زمین را آفرید و تاریکی‌ها و نور را قرار داد، با این حال کسانی که کافر شدند، برای پروردگارشان همتایانی قرار می‌دهند.",
     "transliteration": "Alhamdu lillahil-ladhi khalaqas-samawati wal-arda wa ja'alaz-zulumati wan-nur, thummal-ladhina kafaru bi-rabbihim ya'dilun",
@@ -10,7 +10,7 @@ ayats = [
   {
     "verse_number": 2,
     "english_text": "This is Allah, who created you from clay, and fixed a time for your death, and the time of Day of Judgement is fixed by Him, yet you doubt.",
-    "arabic_text": "هُوَ الَّذِي خَلَقَكُمْ مِّنْ طِيْنٍ ثُمَّ قَضٰٓى اَجَلًا  وَ اَجَلٌ مُّسَمًّى عِنْدَهُ ثُمَّ اَنْتُمْ تَمْتَرُوْنَ",
+    "arabic_text": "هُوَ الَّذِى خَلَقَكُمْ مِّنْ طِيْنٍ ثُمَّ قَضٰٓى اَجَلًا  وَ اَجَلٌ مُّسَمًّى عِنْدَهُ ثُمَّ اَنْتُمْ تَمْتَرُوْنَ",
     "urdu_text": "وہی ہے جس نے تمہیں مٹی سے پیدا کیا، پھر موت کا وقت مقرر کیا، اور قیامت کا وقت بھی اس کے پاس مقرر ہے، پھر بھی تم شک کرتے ہو۔",
     "persian_text": "اوست که شما را از گل آفرید، سپس مدت زمانی را مقرر کرد و زمان معینی نزد اوست، با این حال شما تردید می‌کنید.",
     "transliteration": "Huwal-ladhi khalaqakum min tinin thumma qada ajalan wa ajalum musamman 'indahu thumma antum tamtarun",
@@ -42,7 +42,7 @@ ayats = [
   {
     "verse_number": 6,
     "english_text": "Don't you see, I have destroyed many generations who were given such a power which so far, I have not given you, and sent downpour over them from the skies, and made rivers beneath them (their abodes); but then on account of their sins I destroyed them, and after them I created another generation.",
-    "arabic_text": "اَلَمْ يَرَوْا كَمْ اَهْلَكْنَا مِن قَبْلِهِم مِّن قَرْنٍ مَّكَّنّٰهُمْ فِىْ الْاَرْضِ مَا لَمْ نُمَكِّن لَّكُمْ وَ اَرْسَلْنَا السَّمَآءَ عَلَيْهِم مِّدْرَارًا وَ جَعَلْنَا الْاَنْهٰرَ تَجْرِي مِنْ تَحْتِهِمْ فَاَهْلَكْنٰهُم بِذُنُوْبِهِمْ وَ اَنْشَانَا مِنْۢ بَعْدِهِمْ قَرْنًا اٰخَرِيْنَ",
+    "arabic_text": "اَلَمْ يَرَوْا كَمْ اَهْلَكْنَا مِن قَبْلِهِم مِّن قَرْنٍ مَّكَّنّٰهُمْ فِىْ الْاَرْضِ مَا لَمْ نُمَكِّن لَّكُمْ وَ اَرْسَلْنَا السَّمَآءَ عَلَيْهِم مِّدْرَارًا وَ جَعَلْنَا الْاَنْهٰرَ تَجْرِى مِنْ تَحْتِهِمْ فَاَهْلَكْنٰهُم بِذُنُوْبِهِمْ وَ اَنْشَانَا مِنْۢ بَعْدِهِمْ قَرْنًا اٰخَرِيْنَ",
     "urdu_text": "کیا انہوں نے نہیں دیکھا کہ ہم نے ان سے پہلے کتنی قوموں کو ہلاک کر دیا جنہیں ہم نے زمین میں ایسی طاقت دی تھی جو تمہیں نہیں دی، اور ہم نے ان پر آسمان سے خوب بارش برسائی اور ان کے نیچے نہریں جاری کیں، پھر ہم نے انہیں ان کے گناہوں کی وجہ سے ہلاک کر دیا اور ان کے بعد دوسری قوم پیدا کی",
     "persian_text": "آیا ندیدند که چه بسیار نسل‌هایی را پیش از ایشان هلاک کردیم که آنان را در زمین چنان قدرتی دادیم که به شما نداده‌ایم، و بر آنان از آسمان باران فراوان فرستادیم و نهرها را از زیر آنان جاری ساختیم، سپس به سبب گناهانشان آنان را نابود کردیم و پس از ایشان نسل دیگری پدید آوردیم",
     "transliteration": "Alam yaraw kam ahlakna min qablihim min qarnin makkannahum fil-ardi ma lam numakkin lakum wa arsalnas-sama'a 'alayhim midraran wa ja'alnal-anhara tajri min tahtihim fa-ahlaknahum bidhunubihim wa ansha'na mim ba'dihim qarnan akharin",
@@ -146,7 +146,7 @@ ayats = [
   {
     "verse_number": 19,
     "english_text": "O Prophet! Ask them which is biggest testimony; say: Allah is Witness between you and me; this Quran has been revealed to me so that I may give you news and warn you; and do you bear witness that along with Allah there are other gods; O Prophet, tell them you do not testify this; and tell them there is only one Allah, and I deny the things to whom you make partner with Allah.",
-    "arabic_text": "قُلْ اَيُّ شَيْءٍ اَكْبَرُ شَهَادَةً  قُلِ اللّٰهُ  شَهِيْدُۢ بَيْنِي وَ بَيْنَكُمْ  وَ اُوْحِيَ اِلَيَّ هٰذَا الْقُرْاٰنُ لِاُنْذِرَكُمْ بِهِ وَ مَنْۢ بَلَغَ اَئِنَّكُمْ لَتَشْهَدُوْنَ اَنَّ مَعَ اللّٰهِ اٰلِهَةً اُخْرٰى  قُلْ لَّآ اَشْهَدُ قُلْ اِنَّمَا هُوَ اِلٰهٌ وَّاحِدٌ  وَ اِنَّنِيْ بَرِىْٓءٌ مِّمَّا تُشْرِكُوْنَ",
+    "arabic_text": "قُلْ اَيُّ شَيْءٍ اَكْبَرُ شَهَادَةً  قُلِ اللّٰهُ  شَهِيْدُۢ بَيْنِى وَ بَيْنَكُمْ  وَ اُوْحِيَ اِلَيَّ هٰذَا الْقُرْاٰنُ لِاُنْذِرَكُمْ بِهِ وَ مَنْۢ بَلَغَ اَئِنَّكُمْ لَتَشْهَدُوْنَ اَنَّ مَعَ اللّٰهِ اٰلِهَةً اُخْرٰى  قُلْ لَّآ اَشْهَدُ قُلْ اِنَّمَا هُوَ اِلٰهٌ وَّاحِدٌ  وَ اِنَّنِيْ بَرِىْٓءٌ مِّمَّا تُشْرِكُوْنَ",
     "urdu_text": "کہو کون سی چیز گواہی میں سب سے بڑی ہے، کہو اللہ میرے اور تمہارے درمیان گواہ ہے، اور میری طرف یہ قرآن وحی کیا گیا ہے تاکہ میں اس کے ذریعے تمہیں اور جس تک یہ پہنچے انہیں ڈراؤں، کیا تم گواہی دیتے ہو کہ اللہ کے ساتھ اور معبود ہیں، کہو میں گواہی نہیں دیتا، کہو وہ صرف ایک معبود ہے اور میں ان چیزوں سے بری ہوں جنہیں تم شریک بناتے ہو",
     "persian_text": "بگو کدام چیز بزرگترین گواهی است، بگو خداوند میان من و شما گواه است، و این قرآن به من وحی شده تا شما و هر که به او برسد را با آن بیم دهم، آیا شما گواهی می‌دهید که با خدا خدایان دیگری هستند، بگو من گواهی نمی‌دهم، بگو او تنها یک خداست و من از آنچه شریک می‌سازید بیزارم",
     "transliteration": "Qul ayyu shay'in akbaru shahadatan quli Allahu shaheedun bayni wa baynakum wa oohiya ilayya hadha al-Qur'anu li-undhirakum bihi wa man balagha a'innakum latashhadoona anna ma'a Allahi alihatan ukhra qul la ashhadu qul innama huwa ilahun wahidun wa innani baree'un mimma tushrikoon",
@@ -226,7 +226,7 @@ ayats = [
   {
     "verse_number": 29,
     "english_text": "And infidels also say that everything is worldly life only (and Day of Judgement is a myth), and we will not be raised again (after our death).",
-    "arabic_text": "وَ قَالُوْآ اِنْ هِيَ اِلَّا حَيَاتُنَا الدُّنْيَا وَ مَا نَحْنُ بِمَبْعُوْثِيْنَ",
+    "arabic_text": "وَ قَالُوْآ اِنْ هِيَ اِلَّا حَيَاتُنَا الدُّنْيٰوَ مَا نَحْنُ بِمَبْعُوْثِيْنَ",
     "urdu_text": "اور کافر کہتے ہیں کہ یہ صرف ہماری دنیاوی زندگی ہے اور ہم دوبارہ اٹھائے نہیں جائیں گے",
     "persian_text": "و گفتند: این جز زندگی دنیای ما نیست و ما برانگیخته نخواهیم شد",
     "transliteration": "Wa qalu in hiya illa hayatuna ad-dunya wa ma nahnu bi-mab'utheen",
@@ -258,7 +258,7 @@ ayats = [
   {
     "verse_number": 33,
     "english_text": "We know you are grieved by their talk; they deny you not; but (in fact) these tyrants deny the verses of Allah.",
-    "arabic_text": "قَدْ نَعْلَمُ اِنَّهُ لَيَحْزُنُكَ الَّذِي يَقُوْلُوْنَ  فَاِنَّهُمْ لَا يُكَذِّبُوْنَكَ وَ لٰكِنَّ الظّٰلِمِيْنَ بِاٰيٰتِ اللّٰهِ يَجْحَدُوْنَ",
+    "arabic_text": "قَدْ نَعْلَمُ اِنَّهُ لَيَحْزُنُكَ الَّذِى يَقُوْلُوْنَ  فَاِنَّهُمْ لَا يُكَذِّبُوْنَكَ وَ لٰكِنَّ الظّٰلِمِيْنَ بِاٰيٰتِ اللّٰهِ يَجْحَدُوْنَ",
     "urdu_text": "ہم جانتے ہیں کہ جو باتیں وہ کہتے ہیں وہ آپ کو رنج پہنچاتی ہیں، در حقیقت وہ آپ کو نہیں جھٹلاتے بلکہ یہ ظالم اللہ کی آیتوں کا انکار کرتے ہیں",
     "persian_text": "ما می دانیم که آنچه می گویند تو را اندوهگین می کند، پس به راستی آنها تو را تکذیب نمی کنند بلکه این ستمگران آیات خدا را انکار می کنند",
     "transliteration": "Qad na'lamu innahu layahzunuka allathee yaqooloona fa-innahum laa yukaththiboonaka wa laakinna ath-thaalimeena bi-aayaatillahi yajhadoon",
@@ -442,7 +442,7 @@ ayats = [
   {
     "verse_number": 56,
     "english_text": "O Prophet say: leaving Allah, I have been forbidden from worshipping gods, whom you worship, also tell: I will not follow your low desires otherwise I will be among the misguided, and will not remain among the guided ones.",
-    "arabic_text": "قُلْ اِنِّي نُهِيْتُ اَنْ اَعْبُدَ الَّذِيْنَ تَدْعُوْنَ مِنْ دُوْنِ اللّٰهِ قُلْ لَّآ اَتَّبِعُ اَهْوَآءَكُمْ قَدْ ضَلَلْتُ اِذًا وَّ مَآ اَنَاْ مِنَ الْمُهْتَدِيْنَ",
+    "arabic_text": "قُلْ اِنِّى نُهِيْتُ اَنْ اَعْبُدَ الَّذِيْنَ تَدْعُوْنَ مِنْ دُوْنِ اللّٰهِ قُلْ لَّآ اَتَّبِعُ اَهْوَآءَكُمْ قَدْ ضَلَلْتُ اِذًا وَّ مَآ اَنَاْ مِنَ الْمُهْتَدِيْنَ",
     "urdu_text": "اے نبی کہہ دیجیے کہ مجھے منع کیا گیا ہے کہ میں ان کی عبادت کروں جنہیں تم اللہ کے سوا پکارتے ہو، کہہ دیجیے کہ میں تمہاری خواہشات کی پیروی نہیں کروں گا ورنہ میں گمراہ ہو جاؤں گا اور ہدایت یافتہ لوگوں میں سے نہیں رہوں گا",
     "persian_text": "بگو که من از پرستش آنچه شما غیر از خدا می‌خوانید نهی شده‌ام، بگو من از هوس‌های شما پیروی نخواهم کرد وگرنه گمراه خواهم شد و از هدایت یافتگان نخواهم بود",
     "transliteration": "Qul innee nuheetu an a'buda alladheena tad'oona min doonillahi qul laa attabi'u ahwaa'akum qad dalaltu idhan wa maa ana minal muhtadeen",
@@ -450,7 +450,7 @@ ayats = [
   {
     "verse_number": 57,
     "english_text": "O Prophet say: I am following the clear argument of Allah and you have denied it, and (in punishment) you try to hasten; which I don't have with me, governance is that of Allah only; and He states the truth and He is Best among who give judgements.",
-    "arabic_text": "قُلْ اِنِّي عَلَٰى بَيِّنَةٍ مِّن رَّبِّي وَ كَذَّبْتُم بِهِ مَا عِنْدِي مَا تَسْتَعْجِلُوْنَ بِهِ اِنِ الْحُكْمُ اِلَّا لِلّٰهِ  يَقُصُّ الْحَقَّ  وَ هُوَ خَيْرُ الْفَاصِلِيْنَ",
+    "arabic_text": "قُلْ اِنِّى عَلَٰى بَيِّنَةٍ مِّن رَّبِّى وَ كَذَّبْتُم بِهِ مَا عِنْدِى مَا تَسْتَعْجِلُوْنَ بِهِ اِنِ الْحُكْمُ اِلَّا لِلّٰهِ  يَقُصُّ الْحَقَّ  وَ هُوَ خَيْرُ الْفَاصِلِيْنَ",
     "urdu_text": "کہہ دیجیے کہ میں اپنے رب کی طرف سے واضح دلیل پر ہوں اور تم نے اس کو جھٹلایا ہے، جس عذاب میں تم جلدی مچا رہے ہو وہ میرے پاس نہیں ہے، حکم صرف اللہ ہی کا ہے، وہ حق بیان کرتا ہے اور وہ بہترین فیصلہ کرنے والا ہے",
     "persian_text": "بگو من بر دلیل روشنی از پروردگارم هستم و شما آن را تکذیب کردید، آنچه برای آن شتاب می‌کنید نزد من نیست، حکم تنها از آن خداست، او حق را بیان می‌کند و او بهترین داوران است",
     "transliteration": "Qul innee 'alaa bayyinatin min rabbee wa kadhdhabtum bih, maa 'indee maa tasta'jiloona bih, inil hukmu illaa lillah, yaqussul haqqa wa huwa khayrul faasileen",
@@ -458,7 +458,7 @@ ayats = [
   {
     "verse_number": 58,
     "english_text": "And tell them in which (in punishment) you try to hasten, if I had it with me; so that would certainly have been decided between you and me, and Allah is well aware of the tyrants.",
-    "arabic_text": "قُل لَّوْ اَنَّ عِنْدِي مَا تَسْتَعْجِلُوْنَ بِهِ لَقُضِيَ الْاَمْرُ بَيْنِي وَ بَيْنَكُمْ وَ اللّٰهُ اَعْلَمُ بِالظّٰلِمِيْنَ",
+    "arabic_text": "قُل لَّوْ اَنَّ عِنْدِى مَا تَسْتَعْجِلُوْنَ بِهِ لَقُضِيَ الْاَمْرُ بَيْنِى وَ بَيْنَكُمْ وَ اللّٰهُ اَعْلَمُ بِالظّٰلِمِيْنَ",
     "urdu_text": "کہہ دیجیے کہ اگر جس عذاب میں تم جلدی کر رہے ہو وہ میرے پاس ہوتا تو میرے اور تمہارے درمیان فیصلہ ہو چکا ہوتا، اور اللہ ظالموں کو خوب جانتا ہے",
     "persian_text": "بگو اگر آنچه برای آن شتاب می‌کنید نزد من بود، قطعاً کار میان من و شما حل می‌شد، و خداوند به ستمکاران داناتر است",
     "transliteration": "Qul law anna 'indee maa tasta'jiloona bihi laqudiya al-amru baynee wa baynakum, wallaahu a'lamu bidh-dhaalimeen",
@@ -474,7 +474,7 @@ ayats = [
   {
     "verse_number": 60,
     "english_text": "He is the Lord who take your soul at night, and know what you did during the day, when He raises you up at day, so an appointed term of life (which He knows) is completed, then at last you have to return unto Him, then He will inform you about your deeds.",
-    "arabic_text": "وَ هُوَ الَّذِي يَتَوَفّٰكُم بِالَّيْلِ وَ يَعْلَمُ مَا جَرَحْتُمْ بِالنَّهَارِ ثُمَّ يَبْعَثُكُمْ فِيْهِ لِيُقْضٰٓى اَجَلٌ مُّسَمًّى ثُمَّ اِلَيْهِ مَرْجِعُكُمْ ثُمَّ يُنَبِّئُكُمْ بِمَا كُنْتُمْ تَعْمَلُوْنَ",
+    "arabic_text": "وَ هُوَ الَّذِى يَتَوَفّٰكُم بِالَّيْلِ وَ يَعْلَمُ مَا جَرَحْتُمْ بِالنَّهَارِ ثُمَّ يَبْعَثُكُمْ فِيْهِ لِيُقْضٰٓى اَجَلٌ مُّسَمًّى ثُمَّ اِلَيْهِ مَرْجِعُكُمْ ثُمَّ يُنَبِّئُكُمْ بِمَا كُنْتُمْ تَعْمَلُوْنَ",
     "urdu_text": "اور وہی ہے جو رات کو تمہاری روحیں قبض کرتا ہے اور جانتا ہے جو تم نے دن میں کیا، پھر دن میں تمہیں اٹھاتا ہے تاکہ مقررہ مدت پوری ہو، پھر اسی کی طرف تمہاری واپسی ہے، پھر وہ تمہیں بتائے گا جو تم کرتے تھے",
     "persian_text": "و اوست که شب جان شما را می‌گیرد و می‌داند آنچه در روز انجام داده‌اید، سپس شما را در روز برمی‌انگیزد تا مدت معینی تمام شود، سپس بازگشت شما به سوی اوست، آنگاه شما را از آنچه انجام می‌دادید آگاه می‌سازد",
     "transliteration": "Wa huwal ladhee yatawaffaakum bil layli wa ya'lamu maa jarahtum bin nahaari thumma yab'athukum feehi liyuqdaa ajalum musamman thumma ilayhi marji'ukum thumma yunabbi'ukum bimaa kuntum ta'maloon",
@@ -554,7 +554,7 @@ ayats = [
   {
     "verse_number": 70,
     "english_text": "And whoever considers religion a play and amusement, they are deceiving themselves, leave such people, and keep advising them through Quran lest someone is afflicted with distress and then they will not find any guardian or intercessor other than Allah, and if they give ransom of the whole world in exchange of their sins, it shall not be accepted; who are afflicted with sins due to their deeds, they will be given hot and boiling water for drinking and they will face painful punishment because they practice infidelity.",
-    "arabic_text": "وَ ذَرِ الَّذِيْنَ اتَّخَذُوْا دِيْنَهُمْ لَعِبًا وَ لَهْوًا وَ غَرَّتْهُمُ الْحَيٰوةُ الدُّنْيَا وَذَكِّرْ بِهِٓ اَنْ تُبْسَلَ نَفْسُۢ بِمَا كَسَبَتْ لَيْسَ لَهَا مِن دُونِ اللّٰهِ وَ لِيٌّ وَّ لَا شَفِيْعٌ  وَ اِنْ تَعْدِلْ كُلَّ عَدْلٍ لَّا يُؤْخَذْ مِنْهَا اُوْلٰٓئِكَ الَّذِيْنَ اُبْسِلُوْا بِمَا كَسَبُوْا  لَهُمْ شَرَابٌ مِّنْ حَمِيْمٍ وَ عَذَابٌ اَلِيمُۢ بِمَا كَانُوا يَكْفُرُوْنَ",
+    "arabic_text": "وَ ذَرِ الَّذِيْنَ اتَّخَذُوْا دِيْنَهُمْ لَعِبًا وَ لَهْوًا وَ غَرَّتْهُمُ الْحَيٰوةُ الدُّنْيٰوَذَكِّرْ بِهِٓ اَنْ تُبْسَلَ نَفْسُۢ بِمَا كَسَبَتْ لَيْسَ لَهَا مِن دُونِ اللّٰهِ وَ لِيٌّ وَّ لَا شَفِيْعٌ  وَ اِنْ تَعْدِلْ كُلَّ عَدْلٍ لَّا يُؤْخَذْ مِنْهَا اُوْلٰٓئِكَ الَّذِيْنَ اُبْسِلُوْا بِمَا كَسَبُوْا  لَهُمْ شَرَابٌ مِّنْ حَمِيْمٍ وَ عَذَابٌ اَلِيمُۢ بِمَا كَانُوا يَكْفُرُوْنَ",
     "urdu_text": "اور چھوڑ دو ان لوگوں کو جنہوں نے اپنے دین کو کھیل اور تماشا بنا لیا ہے اور دنیا کی زندگی نے انہیں دھوکے میں ڈال دیا ہے، اور قرآن کے ذریعے نصیحت کرتے رہو تاکہ کوئی شخص اپنے اعمال کی وجہ سے ہلاکت میں نہ پڑ جائے، اللہ کے سوا اس کا نہ کوئی مددگار ہوگا اور نہ سفارشی، اور اگر وہ تمام دنیا کا فدیہ دے تو بھی قبول نہیں کیا جائے گا، یہ وہ لوگ ہیں جو اپنے اعمال کی وجہ سے ہلاکت میں پڑے، ان کے لیے کھولتا ہوا پانی پینے کو ہوگا اور دردناک عذاب ہوگا کیونکہ وہ کفر کرتے تھے",
     "persian_text": "و کسانی را که دین خود را بازی و سرگرمی قرار دادند و زندگی دنیا آنان را فریفت، رها کن، و به وسیله قرآن پند ده مبادا کسی به خاطر اعمالش گرفتار شود که برای او جز خدا یاور و شفیعی نیست، و اگر تمام فدیه‌های دنیا را بدهد پذیرفته نخواهد شد، اینان کسانی هستند که به خاطر اعمالشان گرفتار شدند، برای آنان نوشیدنی از آب جوشان است و عذابی دردناک به خاطر کفری که می‌ورزیدند",
     "transliteration": "Wa dhari alladheena ittakhadho deenahum la'iban wa lahwan wa gharrat-humu al-hayatu ad-dunya wa dhakkir bihi an tubsala nafsun bima kasabat laysa laha min dooni Allahi waliyyun wa la shafee' wa in ta'dil kulla 'adlin la yu'khadh minha ula'ika alladheena ubsiloo bima kasaboo lahum sharabun min hameemin wa 'adhabun aleemun bima kanoo yakfuroon",
@@ -1034,7 +1034,7 @@ ayats = [
   {
     "verse_number": 130,
     "english_text": "(Then We will ask them) O assembly of jinn and men, didn't the prophets among you came who recited Our verses and warn you about this day (Day of Judgement), they will reply: (Verily they did come), and we are testifying against our own selves, worldly life of some days kept deceiving them and they testified against themselves, they Verily were all infidels.",
-    "arabic_text": "يٰمَعْشَرَ الْجِنِّ وَ الْاِنسِ اَلَمْ يَاتِكُمْ رُسُلٌ مِّنْكُمْ يَقُصُّوْنَ عَلَيْكُمْ اٰيٰتِى وَ يُنْذِرُوْنَكُمْ لِقَآءَ يَوْمِكُمْ هٰذَا  قَالُوْا شَهِدْنَا عَلَىٰٓ اَنْفُسِنَا   وَ غَرَّتْهُمُ الْحَيٰوةُ الدُّنْيَا وَ شَهِدُوْا عَلَىٰٓ اَنْفُسِهِمْ اَنَّهُمْ كَانُوا كٰفِرِيْنَ",
+    "arabic_text": "يٰمَعْشَرَ الْجِنِّ وَ الْاِنسِ اَلَمْ يَاتِكُمْ رُسُلٌ مِّنْكُمْ يَقُصُّوْنَ عَلَيْكُمْ اٰيٰتِى وَ يُنْذِرُوْنَكُمْ لِقَآءَ يَوْمِكُمْ هٰذَا  قَالُوْا شَهِدْنَا عَلَىٰٓ اَنْفُسِنَا   وَ غَرَّتْهُمُ الْحَيٰوةُ الدُّنْيٰوَ شَهِدُوْا عَلَىٰٓ اَنْفُسِهِمْ اَنَّهُمْ كَانُوا كٰفِرِيْنَ",
     "urdu_text": "اے جنوں اور انسانوں کی جماعت! کیا تمہارے پاس تم میں سے رسول نہیں آئے تھے جو تم پر میری آیات پڑھتے اور تمہیں اس دن کی ملاقات سے ڈراتے تھے؟ وہ کہیں گے: ہم اپنے اوپر گواہی دیتے ہیں، اور دنیا کی زندگی نے انہیں دھوکے میں ڈال دیا تھا اور انہوں نے اپنے اوپر گواہی دی کہ وہ کافر تھے",
     "persian_text": "ای گروه جن و انس! آیا پیامبرانی از خودتان نزد شما نیامدند که آیات مرا بر شما می‌خواندند و شما را از ملاقات این روزتان بیم می‌دادند؟ گویند: بر خودمان گواهی دادیم، و زندگی دنیا آنان را فریب داد و بر خودشان گواهی دادند که کافر بودند",
     "transliteration": "Ya ma'sharal-jinni wal-insi alam ya'tikum rusulun minkum yaqussuna 'alaykum ayati wa yundhirunakum liqa'a yawmikum hadha qalu shahidna 'ala anfusina wa gharrat-humul-hayatud-dunya wa shahidu 'ala anfusihim annahum kanu kafireen",

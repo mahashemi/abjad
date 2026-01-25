@@ -281,7 +281,7 @@ ayats = [
   {
     "verse_number": 35,
     "english_text": "And Verily curses shall be on you, till the day of reward.",
-    "arabic_text": "وَاِنَّ عَلَيْكَ اللَّعْنَةَ اِلَىٰ يَوْمِ الدِّينِ",
+    "arabic_text": "وَاِنَّ عَلَيْكَ اللَّعْنَةَ اِلـٰى يَوْمِ الدِّينِ",
     "urdu_text": "اور بیشک تجھ پر لعنت هے قیامت کے دن تک۔",
     "persian_text": "و همانا لعنت بر تو تا روز جزا خواهد بود.",
     "transliteration": "Wa inna 'alaykal la'nata ilaa yawmid deen"
@@ -289,7 +289,7 @@ ayats = [
   {
     "verse_number": 36,
     "english_text": "(Iblis) said: give me the respite till the day (when You raise the people again).",
-    "arabic_text": "قَالَ رَبِّ فَاَنظِرْنِىٓ اِلَىٰ يَوْمِ يُبْعَثُونَ",
+    "arabic_text": "قَالَ رَبِّ فَاَنظِرْنِىٓ اِلـٰى يَوْمِ يُبْعَثُونَ",
     "urdu_text": "(ابلیس نے) کها: اے میرے رب! مجھے اس دن تک مهلت دے جب لوگ دوباره اٹھائے جائیں گے۔",
     "persian_text": "(ابلیس) گفت: پروردگارا! پس مرا تا روزی که مردم برانگیخته می‌شوند مهلت ده.",
     "transliteration": "Qaala rabbi fa'anzhirnee ilaa yawmi yub'athoon"
@@ -305,7 +305,7 @@ ayats = [
   {
     "verse_number": 38,
     "english_text": "Till the day of Appointed Time.",
-    "arabic_text": "اِلَىٰ يَوْمِ الْوَقْتِ الْمَعْلُومِ",
+    "arabic_text": "اِلـٰى يَوْمِ الْوَقْتِ الْمَعْلُومِ",
     "urdu_text": "مقرره وقت کے دن تک۔",
     "persian_text": "تا روز وقت معلوم.",
     "transliteration": "Ilaa yawmil waqtil ma'loom"
@@ -465,7 +465,7 @@ ayats = [
   {
     "verse_number": 58,
     "english_text": "They said: We have been sent towards misguided people (with punishment).",
-    "arabic_text": "قَالُوٓاْ اِنَّآ اُرْسِلْنَآ اِلَىٰ قَوْمٍۢ مُّجْرِمِينَ",
+    "arabic_text": "قَالُوٓاْ اِنَّآ اُرْسِلْنَآ اِلـٰى قَوْمٍۢ مُّجْرِمِينَ",
     "urdu_text": "انهوں نے کها: هم مجرم قوم کی طرف بھیجے گئے هیں (عذاب کے ساتھ)۔",
     "persian_text": "گفتند: ما به سوی قومی مجرم فرستاده شده‌ایم.",
     "transliteration": "Qaaloo innaa ursilnaa ilaa qawmin mujrimeen"
@@ -705,7 +705,7 @@ ayats = [
   {
     "verse_number": 88,
     "english_text": "And We have made some infidels happy (with the wealth of the world), don't even see them, and nor even feel sorry for them (on their infidelity), and meet politely with believers (even if they are poor).",
-    "arabic_text": "لَا تَمُدَّنَّ عَيْنَيْكَ اِلَىٰ مَا مَتَّعْنَا بِهِٓ اَزْوَٰجًۭا مِّنْهُمْ وَ لَا تَحْزَنْ عَلَيْهِمْ وَاخْفِضْ جَنَاحَكَ لِلْمُؤْمِنِينَ",
+    "arabic_text": "لَا تَمُدَّنَّ عَيْنَيْكَ اِلـٰى مَا مَتَّعْنَا بِهِٓ اَزْوَٰجًۭا مِّنْهُمْ وَ لَا تَحْزَنْ عَلَيْهِمْ وَاخْفِضْ جَنَاحَكَ لِلْمُؤْمِنِينَ",
     "urdu_text": "اپنی نگاهیں ان چیزوں کی طرف نه اٹھاؤ جو هم نے ان میں سے بعض گروهوں کو دے رکھی هیں، اور نه ان پر افسوس کرو، اور مومنوں کے لیے اپنا بازو جھکا دو۔",
     "persian_text": "چشمان خود را به آنچه به گروه‌هایی از آنان متاع دادیم مدوز، و بر آنان اندوهگین مباش، و بال شفقت خود را بر مؤمنان فرود آر.",
     "transliteration": "Laa tamuddanna 'aynayka ilaa maa matta'naa bihee azwaajam minhum wa laa tahzan 'alayhim wakhfid janaahaka lilmu'mineen"

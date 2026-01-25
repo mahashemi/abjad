@@ -138,7 +138,7 @@ ayats = [
   {
     "verse_number": 18,
     "english_text": "Say to him, is it possible that you refine your character.",
-    "arabic_text": "فَقُلْ هَل لَّكَ اِلَىٰٓ اَن تَزَكّٰى",
+    "arabic_text": "فَقُلْ هَل لَّكَ اِلـٰىٓ اَن تَزَكّٰى",
     "urdu_text": "پھر اس سے کہو کیا تو اس بات کی خواہش رکھتا ہے کہ پاکیزہ بن جائے",
     "persian_text": "پس به او بگو آیا می‌خواهی که پاک شوی",
     "transliteration": "Fa-qul hal laka ila an tazakka",

@@ -42,7 +42,7 @@ ayats = [
   {
     "verse_number": 6,
     "english_text": "It is He who carve your faces in the womb of your mother as He pleases, there is no god but Allah, He is Predominant and Wise.",
-    "arabic_text": "هُوَ الَّذِي يُصَوِّرُكُمْ فِىْ الْاَرْحَامِ كَيْفَ يَشَآءُ لَا اِلٰهَ اِلَّا هُوَ الْعَزِيزُ الْحَكِيمُ",
+    "arabic_text": "هُوَ الَّذِى يُصَوِّرُكُمْ فِىْ الْاَرْحَامِ كَيْفَ يَشَآءُ لَا اِلٰهَ اِلَّا هُوَ الْعَزِيزُ الْحَكِيمُ",
     "urdu_text": "وہی ہے جو تمہاری صورتیں ماؤں کے پیٹ میں جیسے چاہتا ہے بناتا ہے، اس کے سوا کوئی معبود نہیں، وہ غالب اور حکمت والا ہے",
     "persian_text": "اوست که شما را در رحم‌های مادران به هر صورتی که بخواهد می‌آفریند، هیچ معبودی جز او نیست، او توانا و حکیم است",
     "transliteration": "Huwa allathee yusawwirukum fee al-arhami kayfa yasha'u la ilaha illa huwa al-'Azeezu al-Hakeem",
@@ -50,7 +50,7 @@ ayats = [
   {
     "verse_number": 7,
     "english_text": "It is He Who have revealed the Book and some of the verses are very decisive which are base of the Book, and some verses are metaphoric, and whose hearts are not straight, follow only these verses which are metaphoric to create mischief and interpret their own meaning, whereas except Allah and those who are firmly entrenched in knowledge ; nobody knows their meaning, they say we believe in all whatever has been revealed from the Lord, and only knowledgeable understand.",
-    "arabic_text": "هُوَ الَّذِي اَنزَلَ عَلَيْكَ الْكِتٰبَ مِنْهُ اٰيٰتٌ مُّحْكَمٰتٌ هُنَّ اُمُّ الْكِتٰبِ وَ اُخَرُ مُتَشٰبِهٰتٌ   فَاَمَّا الَّذِيْنَ فِىْ قُلُوبِهِمْ زَيْغٌ فَيَتَّبِعُونَ مَا تَشَابَهَ مِنْهُ ابْتِغَآءَ الْفِتْنَةِ وَ ابْتِغَآءَ تَاْوِيْلِهِ  وَ مَا يَعْلَمُ تَاْوِيْلَهُٓ  اِلَّا اللّٰهُ   وَ الرَاسِخُونَ فِىْ الْعِلْمِ يَقُوْلُوْنَ اٰمَنَّا بِهِ   كُلٌّ مِّنْ عِندِ رَبِّنَا  وَ مَا يَذَّكَّرُ اِلَّآ اُو۟لُوا الْاَلْبَابِ",
+    "arabic_text": "هُوَ الَّذِى اَنزَلَ عَلَيْكَ الْكِتٰبَ مِنْهُ اٰيٰتٌ مُّحْكَمٰتٌ هُنَّ اُمُّ الْكِتٰبِ وَ اُخَرُ مُتَشٰبِهٰتٌ   فَاَمَّا الَّذِيْنَ فِىْ قُلُوبِهِمْ زَيْغٌ فَيَتَّبِعُونَ مَا تَشَابَهَ مِنْهُ ابْتِغَآءَ الْفِتْنَةِ وَ ابْتِغَآءَ تَاْوِيْلِهِ  وَ مَا يَعْلَمُ تَاْوِيْلَهُٓ  اِلَّا اللّٰهُ   وَ الرَاسِخُونَ فِىْ الْعِلْمِ يَقُوْلُوْنَ اٰمَنَّا بِهِ   كُلٌّ مِّنْ عِندِ رَبِّنَا  وَ مَا يَذَّكَّرُ اِلَّآ اُو۟لُوا الْاَلْبَابِ",
     "urdu_text": "وہی ہے جس نے تم پر کتاب نازل کی، اس میں کچھ آیتیں محکم ہیں جو کتاب کی اصل ہیں، اور کچھ متشابہ ہیں، پس جن کے دلوں میں کجی ہے وہ فتنہ کی طلب اور اپنی من مانی تاویل کے لیے متشابہات کی پیروی کرتے ہیں، حالانکہ ان کی حقیقی تاویل اللہ کے سوا کوئی نہیں جانتا، اور علم میں پختہ لوگ کہتے ہیں کہ ہم اس پر ایمان لائے، سب ہمارے رب کی طرف سے ہے، اور نصیحت صرف عقلمند ہی حاصل کرتے ہیں",
     "persian_text": "اوست که کتاب را بر تو نازل کرد که برخی از آیات آن محکم و استوار است که اصل کتاب هستند و برخی دیگر متشابه‌اند، پس کسانی که در دل‌هایشان کجی است از آیات متشابه پیروی می‌کنند برای ایجاد فتنه و تفسیر دلخواه، در حالی که تأویل آن را جز خدا کسی نمی‌داند، و راسخان در علم می‌گویند ما به آن ایمان آوردیم، همه از جانب پروردگار ماست، و جز خردمندان کسی پند نمی‌گیرد",
     "transliteration": "Huwa allathee anzala 'alayka al-kitaba minhu ayatun muhkamatun hunna ummu al-kitabi wa ukharu mutashabihatun fa-amma allatheena fee quloobihim zayghun fayattabi'oona ma tashabaha minhu ibtighaa'a al-fitnati wa ibtighaa'a ta'weelihi wa ma ya'lamu ta'weelahu illa Allahu wa ar-rasikhuna fi al-'ilmi yaqooloona amanna bihi kullun min 'indi rabbina wa ma yaththakkaru illa ulu al-albab",
@@ -98,7 +98,7 @@ ayats = [
   {
     "verse_number": 13,
     "english_text": "Verily, there is a big sign for you in two group which confronted each other, one group was fighting holy war, and another of the unbelievers, whom believers saw double in quantity, but Allah gave victory to the small group, and Allah strengthens with His help whom He pleases verily it is a lesson in this incident for those who can see.",
-    "arabic_text": "قَدْ كَانَ لَكُمْ اٰيَةٌ فِىْ فِئَتَيْنِ الْتَقَتَا   فِئَةٌ تُقَاتِلُ فِىْ سَبِيلِ اللّٰهِ وَ اُخْرٰى كٰفِرَةٌ يَّرَوْنَهُم مِّثْلَيْهِمْ رَاْيَ الْعَيْنِ ۚ  وَ اللّٰهُ يُؤَيِّدُ بِنَصْرِهِ مَن يَّشَآءُ  اِنَّ فِىْ ذٰلِكَ لَعِبْرَةً لِّاُولِي الْاَبْصَارِ",
+    "arabic_text": "قَدْ كَانَ لَكُمْ اٰيَةٌ فِىْ فِئَتَيْنِ الْتَقَتَا   فِئَةٌ تُقَاتِلُ فِىْ سَبِيلِ اللّٰهِ وَ اُخْرٰى كٰفِرَةٌ يَّرَوْنَهُم مِّثْلَيْهِمْ رَاْيَ الْعَيْنِ ۚ  وَ اللّٰهُ يُؤَيِّدُ بِنَصْرِهِ مَن يَّشَآءُ  اِنَّ فِىْ ذٰلِكَ لَعِبْرَةً لِّاُولِى الْاَبْصَارِ",
     "urdu_text": "بیشک تمہارے لیے دو گروہوں میں جو آپس میں ٹکرائے ایک بڑی نشانی تھی ایک گروہ اللہ کی راہ میں لڑ رہا تھا اور دوسرا کافر تھا جنہیں مومنین اپنی آنکھوں سے دوگنا دیکھ رہے تھے اور اللہ اپنی مدد سے جسے چاہتا ہے تقویت دیتا ہے بیشک اس میں دیکھنے والوں کے لیے بڑی عبرت ہے",
     "persian_text": "به راستی برای شما در دو گروهی که با هم روبرو شدند نشانه‌ای بود یک گروه در راه خدا می‌جنگید و دیگری کافر بودند که آنان را دو برابر خود می‌دیدند به چشم سر و خداوند هر که را بخواهد با یاری خود تأیید می‌کند همانا در این برای صاحبان بصیرت عبرتی است",
     "transliteration": "Qad kana lakum ayatun fee fi'ataynil taqata fi'atun tuqatilu fee sabeelillahi wa ukhra kafiratun yarawnahum mithlayhim ra'yal 'ayni wallahu yu'ayyidu binasrihi man yasha'u inna fee zaalika la 'ibratal li ulil absaar",
@@ -106,7 +106,7 @@ ayats = [
   {
     "verse_number": 14,
     "english_text": "In this world, love of beautiful things such as, wives and sons, large piles of gold and silver, superior breeds of horse and livestock and agricultural fields are made to seem good; these are few benefits of this world, but an everlasting living place is with Allah.",
-    "arabic_text": "زُيِّنَ لِلنَّاسِ حُبُّ الشَّهَوٰتِ مِنَ النِّسَآءِ وَ الْبَنِينَ وَ الْقَنَاطِيرِ الْمُقَنْطَرَةِ مِنَ الذَّهَبِ وَ الْفِضَّةِ وَ الْخَيْلِ الْمُسَوَّمَةِ وَ الْاَنْعَامِ وَالْحَرْثِ   ذٰلِكَ مَتَاعُ الْحَيٰوةِ الدُّنْيَا   وَ اللّٰهُ عِنْدَهُ حُسْنُ الْمَآبِ",
+    "arabic_text": "زُيِّنَ لِلنَّاسِ حُبُّ الشَّهَوٰتِ مِنَ النِّسَآءِ وَ الْبَنِينَ وَ الْقَنَاطِيرِ الْمُقَنْطَرَةِ مِنَ الذَّهَبِ وَ الْفِضَّةِ وَ الْخَيْلِ الْمُسَوَّمَةِ وَ الْاَنْعَامِ وَالْحَرْثِ   ذٰلِكَ مَتَاعُ الْحَيٰوةِ الدُّنْيٰ  وَ اللّٰهُ عِنْدَهُ حُسْنُ الْمَآبِ",
     "urdu_text": "لوگوں کے لیے خواہشات کی محبت یعنی عورتوں اور بیٹوں اور سونے چاندی کے ڈھیروں اور عمدہ نسل کے گھوڑوں اور مویشیوں اور کھیتوں کی محبت خوشنما بنا دی گئی ہے یہ دنیا کی زندگی کا سامان ہے اور اللہ کے پاس بہترین ٹھکانا ہے",
     "persian_text": "برای مردم محبت شهوات از زنان و پسران و توده‌های انباشته از طلا و نقره و اسبان نشان‌دار و چارپایان و کشتزارها زینت داده شده است این متاع زندگی دنیاست و خداوند نزد اوست بهترین بازگشت",
     "transliteration": "Zuyyina linnaasi hubbush shahawaati minan nisaa'i walbaneen walqanaateeril muqantarati minaz zahabi walfiddati walkhayl ilmusawwamati wal an'aami walhars zaalika mataa'ul hayaatid dunya wallahu 'indahu husnul ma'aab",
@@ -114,7 +114,7 @@ ayats = [
   {
     "verse_number": 15,
     "english_text": "Tell them shall I tell you something better than these things, whoever followed piety, there are gardens of Paradise for them with the rivers flowing beneath, and they will remain forever there, and apart from this there are pure and clean spouses for them, and above all there is happiness of Allah, and Allah is watching these believers.",
-    "arabic_text": "قُلْ اَؤُنَبِّئُكُم بِخَيْرٍ مِّن ذٰلِكُمْ   لِلَّذِيْنَ اتَّقَوْا عِندَ رَبِّهِمْ جَنّٰتٌ تَجْرِي مِن تَحْتِهَا الْاَنْهٰرُ خٰلِدِينَ فِيْهَا وَ اَزْوَاجٌ مُّطَهَّرَةٌ وَّ رِضْوَانٌ مِّنَ اللّٰهِ   وَ اللّٰهُ بَصِيرٌ بِالْعِبَادِ",
+    "arabic_text": "قُلْ اَؤُنَبِّئُكُم بِخَيْرٍ مِّن ذٰلِكُمْ   لِلَّذِيْنَ اتَّقَوْا عِندَ رَبِّهِمْ جَنّٰتٌ تَجْرِى مِن تَحْتِهَا الْاَنْهٰرُ خٰلِدِينَ فِيْهَا وَ اَزْوَاجٌ مُّطَهَّرَةٌ وَّ رِضْوَانٌ مِّنَ اللّٰهِ   وَ اللّٰهُ بَصِيرٌ بِالْعِبَادِ",
     "urdu_text": "کہہ دیجیے کیا میں تمہیں ان چیزوں سے بہتر چیز کی خبر دوں جو لوگ پرہیزگار ہیں ان کے لیے ان کے رب کے پاس ایسے باغات ہیں جن کے نیچے نہریں بہتی ہیں وہ ان میں ہمیشہ رہیں گے اور ان کے لیے پاکیزہ بیویاں ہیں اور اللہ کی رضامندی ہے اور اللہ بندوں کو دیکھنے والا ہے",
     "persian_text": "بگو آیا شما را از بهتر از آن خبر دهم برای کسانی که تقوا پیشه کردند نزد پروردگارشان باغهایی است که از زیر آن نهرها جاری است جاودانه در آن خواهند بود و همسران پاکیزه و خشنودی از جانب خداوند و خداوند به بندگان بیناست",
     "transliteration": "Qul a'unabbi'ukum bikhayrim min zaalikum lillazeenattaqaw 'inda rabbihim jannaatun tajree min tahtihal anhaaru khaalideena feeha wa azwaajum mutahharatuw wa ridwaanum minallahi wallahu baseerum bil 'ibaad",
@@ -170,7 +170,7 @@ ayats = [
   {
     "verse_number": 22,
     "english_text": "These are the unlucky people whose all acts are futile in this world and the world hereafter, and no one will help them.",
-    "arabic_text": "اُولٰٓئِكَ الَّذِيْنَ حَبِطَتْ اَعْمَالُهُمْ فِىْ الدُّنْيَا وَ الْاٰخِرَةِ   وَ مَا لَهُمْ مِّن نّٰصِرِيْنَ",
+    "arabic_text": "اُولٰٓئِكَ الَّذِيْنَ حَبِطَتْ اَعْمَالُهُمْ فِىْ الدُّنْيٰوَ الْاٰخِرَةِ   وَ مَا لَهُمْ مِّن نّٰصِرِيْنَ",
     "urdu_text": "یہ وہ بدنصیب لوگ ہیں جن کے تمام اعمال دنیا اور آخرت میں برباد ہو گئے، اور ان کا کوئی مددگار نہیں ہوگا۔",
     "persian_text": "اینان کسانی هستند که اعمالشان در دنیا و آخرت تباه شده است و هیچ یاوری برای آنها نخواهد بود.",
     "transliteration": "Ulaaa'ikal-lazeena habitat a'maaluhum fid-dunyaa wal-aakhirati wa maa lahum min-naaSireen",
@@ -354,7 +354,7 @@ ayats = [
   {
     "verse_number": 45,
     "english_text": "When people were quarrelling among them, remember when angels told Maryam that Allah is giving glad tidings to you for a son, whose name will be Isa ibn Maryam, and he will be among the honourable in this world and The Hereafter and will be among the near ones.",
-    "arabic_text": "اِذْ قَالَتِ الْمَلٰٓئِكَةُ يٰمَرْيَمُ اِنَّ اللّٰهَ يُبَشِّرُكِ بِكَلِمَةٍ مِّنْهُ اسْمُهُ الْمَسِيحُ عِيسَى ابْنُ مَرْيَمَ وَ جِيهًا فِى الدُّنْيَا وَ الْاٰخِرَةِ وَ مِنَ الْمُقَرَّبِينَ",
+    "arabic_text": "اِذْ قَالَتِ الْمَلٰٓئِكَةُ يٰمَرْيَمُ اِنَّ اللّٰهَ يُبَشِّرُكِ بِكَلِمَةٍ مِّنْهُ اسْمُهُ الْمَسِيحُ عِيسَى ابْنُ مَرْيَمَ وَ جِيهًا فِى الدُّنْيٰوَ الْاٰخِرَةِ وَ مِنَ الْمُقَرَّبِينَ",
     "urdu_text": "جب فرشتوں نے کہا اے مریم! بیشک اللہ تجھے اپنے ایک کلمہ کی خوشخبری دیتا ہے جس کا نام مسیح عیسیٰ ابن مریم ہوگا، وہ دنیا اور آخرت میں عزت والا ہوگا اور مقربین میں سے ہوگا۔",
     "persian_text": "هنگامی که فرشتگان گفتند: ای مریم! همانا خداوند تو را به کلمه‌ای از جانب خود بشارت می‌دهد که نامش مسیح عیسی پسر مریم است، در دنیا و آخرت صاحب آبرو و از مقربان خواهد بود.",
     "transliteration": "Idh qalatil-mala'ikatu ya Maryamu innallaha yubashshiruki bi kalimatin minhu ismuhu al-Masihu 'Isa ibnu Maryama wajihan fid-dunya wal-akhirati wa minal-muqarrabin",
@@ -386,7 +386,7 @@ ayats = [
   {
     "verse_number": 49,
     "english_text": "And will make him a messenger for Bani Israel and he will tell them: I have come to you from your Lord and brought these signs for my prophethood, I will make a bird from clay and blow something on it and with the command of Allah it will fly, and with command of Allah will give sight to the blinds, and will cure people afflicted with leprosy, and will bring alive the dead, and will inform you, whatever you eat and hoard in your homes, if you are honest, these are signs for you.",
-    "arabic_text": "وَ رَسُولًا اِلَٰى بَنِٓي اِسْرَآئِيْلَ اَنِّي قَدْ جِئْتُكُم بِاٰيَةٍ مِّن رَّبِّكُمْ اَنِّىْٓ اَخْلُقُ لَكُمْ مِّنَ الطِّيْنِ كَهَيْئَةِ الطَّيْرِ فَاَنْفُخُ فِيْهِ فَيَكُوْنُ طَيْرًا بِاِذْنِ اللّٰهِ   وَ اُبْرِئُ الْاَكْمَهَ وَ الْاَبْرَصَ وَ اُحِْى الْمَوْتٰى بِاِذْنِ اللّٰهِ   وَ اُنَبِّئُكُمْ بِمَا تَاْكُلُوْنَ وَ مَا تَدَّخِرُوْنَ فِىْ بُيُوتِكُمْ  اِنَّ فِىْ ذٰلِكَ لَاٰيَةً لَّكُمْ اِنْ كُنْتُمْ مُّؤْمِنِيْنَ",
+    "arabic_text": "وَ رَسُولًا اِلَٰى بَنِٓى اِسْرَآئِيْلَ اَنِّى قَدْ جِئْتُكُم بِاٰيَةٍ مِّن رَّبِّكُمْ اَنِّىْٓ اَخْلُقُ لَكُمْ مِّنَ الطِّيْنِ كَهَيْئَةِ الطَّيْرِ فَاَنْفُخُ فِيْهِ فَيَكُوْنُ طَيْرًا بِاِذْنِ اللّٰهِ   وَ اُبْرِئُ الْاَكْمَهَ وَ الْاَبْرَصَ وَ اُحِْى الْمَوْتٰى بِاِذْنِ اللّٰهِ   وَ اُنَبِّئُكُمْ بِمَا تَاْكُلُوْنَ وَ مَا تَدَّخِرُوْنَ فِىْ بُيُوتِكُمْ  اِنَّ فِىْ ذٰلِكَ لَاٰيَةً لَّكُمْ اِنْ كُنْتُمْ مُّؤْمِنِيْنَ",
     "urdu_text": "اور اسے بنی اسرائیل کی طرف رسول بنائے گا، وہ کہے گا: میں تمہارے پاس تمہارے رب کی طرف سے نشانی لے کر آیا ہوں، میں تمہارے لیے مٹی سے پرندے کی شکل بناتا ہوں پھر اس میں پھونک مارتا ہوں تو وہ اللہ کے حکم سے پرندہ بن جاتا ہے، اور اللہ کے حکم سے پیدائشی اندھے اور کوڑھی کو شفا دیتا ہوں اور مردوں کو زندہ کرتا ہوں، اور تمہیں بتاتا ہوں جو تم کھاتے ہو اور جو اپنے گھروں میں جمع کرتے ہو، اگر تم ایمان والے ہو تو یقیناً اس میں تمہارے لیے نشانی ہے",
     "persian_text": "و او را فرستاده‌ای به سوی بنی اسرائیل خواهد کرد که بگوید: من از جانب پروردگارتان نشانه‌ای برای شما آورده‌ام، من برای شما از گل به شکل پرنده‌ای می‌سازم سپس در آن می‌دمم و به فرمان خدا پرنده‌ای می‌شود، و به فرمان خدا کور مادرزاد و پیسی را شفا می‌دهم و مردگان را زنده می‌کنم، و شما را از آنچه می‌خورید و در خانه‌هایتان ذخیره می‌کنید خبر می‌دهم، اگر مؤمن باشید در این برای شما نشانه‌ای است",
     "transliteration": "Wa rasoolan ilaa Banee Israa'eela annee qad ji'tukum bi-aayatin min Rabbikum annee akhluqu lakum mina at-teeni ka-hay'ati at-tayri fa-anfukhu feehi fa-yakoonu tayran bi-idhni Allahi, wa ubri'u al-akmaha wal-abrasa wa uhyi al-mawtaa bi-idhni Allahi, wa unabbi'ukum bimaa ta'kuloona wa maa taddakhiroona fee buyootikum, inna fee dhaalika la-aayatan lakum in kuntum mu'mineen",
@@ -402,7 +402,7 @@ ayats = [
   {
     "verse_number": 51,
     "english_text": "Verily, Allah is my Lord and your Lord, so worship Him because this is the straight path.",
-    "arabic_text": "اِنَّ اللّٰهَ رَبِّي وَ رَبُّكُمْ فَاعْبُدُوْهُ  هٰذَا صِرَاطٌ مُّسْتَقِيْمٌ",
+    "arabic_text": "اِنَّ اللّٰهَ رَبِّى وَ رَبُّكُمْ فَاعْبُدُوْهُ  هٰذَا صِرَاطٌ مُّسْتَقِيْمٌ",
     "urdu_text": "بیشک اللہ میرا رب بھی ہے اور تمہارا رب بھی، پس اسی کی عبادت کرو، یہی سیدھا راستہ ہے۔",
     "persian_text": "همانا خداوند، پروردگار من و پروردگار شماست، پس او را پرستش کنید، این راه راست است.",
     "transliteration": "Innallaha rabbee wa rabbukum fa'budooh, hadha siratun mustaqeem",
@@ -442,7 +442,7 @@ ayats = [
   {
     "verse_number": 56,
     "english_text": "Whoever turned unbeliever (Allah) will punish them severely in this world and The Hereafter and nobody will be their helper.",
-    "arabic_text": "فَاَمَّا الَّذِيْنَ كَفَرُوْا فَاُعَذِّبُهُمْ عَذَابًا شَدِيْدًا فِىْ الدُّنْيَا وَ الْاٰخِرَةِ   وَ مَا لَهُمْ مِّنْ نّٰصِرِيْنَ",
+    "arabic_text": "فَاَمَّا الَّذِيْنَ كَفَرُوْا فَاُعَذِّبُهُمْ عَذَابًا شَدِيْدًا فِىْ الدُّنْيٰوَ الْاٰخِرَةِ   وَ مَا لَهُمْ مِّنْ نّٰصِرِيْنَ",
     "urdu_text": "پس جن لوگوں نے کفر کیا تو میں انہیں دنیا اور آخرت میں سخت عذاب دوں گا اور ان کا کوئی مددگار نہیں ہوگا",
     "persian_text": "اما کسانی که کافر شدند، آنها را در دنیا و آخرت به عذاب شدیدی گرفتار خواهم کرد و هیچ یاوری برای آنها نخواهد بود",
     "transliteration": "Fa-amma alladhina kafaru fa-u'adhdhibuhum 'adhaban shadidan fid-dunya wal-akhirati wa ma lahum min nasirin",
@@ -930,7 +930,7 @@ ayats = [
   {
     "verse_number": 117,
     "english_text": "In the few days of this world whatever they spend is like a breeze full of frost, which fell on their fields, and whoever has done injustice on themselves and destroyed it and then fell the frost, Allah has not oppressed them, but they have done injustice to themselves.",
-    "arabic_text": "مَّثَلُ مَا يُنْفِقُونَ فِىْ هٰذِهِ الْحَيٰوةِ الدُّنْيَا كَمَثَلِ رِيْحٍ فِيْهَا صِرٌّ اَصَابَتْ حَرْثَ قَوْمٍۢ ظَلَمُوٓا اَنفُسَهُمْ فَاَهْلَكَتْهُ   وَ مَا ظَلَمَهُمُ اللّٰهُ وَ لٰكِنْ اَنْفُسَهُمْ يَظْلِمُوْنَ",
+    "arabic_text": "مَّثَلُ مَا يُنْفِقُونَ فِىْ هٰذِهِ الْحَيٰوةِ الدُّنْيٰكَمَثَلِ رِيْحٍ فِيْهَا صِرٌّ اَصَابَتْ حَرْثَ قَوْمٍۢ ظَلَمُوٓا اَنفُسَهُمْ فَاَهْلَكَتْهُ   وَ مَا ظَلَمَهُمُ اللّٰهُ وَ لٰكِنْ اَنْفُسَهُمْ يَظْلِمُوْنَ",
     "urdu_text": "اس دنیا کی زندگی میں جو کچھ یہ خرچ کرتے ہیں اس کی مثال اس ٹھنڈی ہوا کی سی ہے جس میں پالا ہو، جو ان لوگوں کی کھیتی پر پڑی جنہوں نے اپنے اوپر ظلم کیا تھا اور اسے تباہ کر دیا، اور اللہ نے ان پر ظلم نہیں کیا بلکہ وہ خود اپنے اوپر ظلم کرتے ہیں۔",
     "persian_text": "مثل آنچه در این زندگی دنیا انفاق می‌کنند، همچون بادی است که در آن سرمای شدید است و به کشتزار قومی که بر خود ستم کرده‌اند می‌رسد و آن را نابود می‌سازد، و خدا بر آنها ستم نکرده بلکه خودشان بر خویشتن ستم می‌کنند.",
     "transliteration": "Masalu maa yunfiqoona fee haazihil-hayaatid-dunyaa kamathali reehin feehaa sirrun asaabat hartha qawmin zalamoo anfusahum fa-ahlakat-hu, wa maa zalamahumul-laahu wa laakin anfusahum yazlimoon",
@@ -1154,7 +1154,7 @@ ayats = [
   {
     "verse_number": 145,
     "english_text": "And no one can die without command of Allah, and the time is fixed for every one’s death, and whoever desires for reward in this world, I will give here, and whoever desire for the reward in the Hereafter, I will give them there, and shortly We will reward the thankful.",
-    "arabic_text": "وَ مَا كَانَ لِنَفْسٍ اَنْ تَمُوْتَ اِلَّا بِاِذْنِ اللّٰهِ كِتٰبًا مُّؤَجَّلًا   وَ مَنْ يُرِدْ ثَوَابَ الدُّنْيَا نُؤْتِهِ مِنْهَا   وَ مَنْ يُّرِدْ ثَوَابَ الْاٰخِرَةِ نُؤْتِهِ مِنْهَا  وَ سَنَجْزِى الشّٰكِرِيْنَ",
+    "arabic_text": "وَ مَا كَانَ لِنَفْسٍ اَنْ تَمُوْتَ اِلَّا بِاِذْنِ اللّٰهِ كِتٰبًا مُّؤَجَّلًا   وَ مَنْ يُرِدْ ثَوَابَ الدُّنْيٰنُؤْتِهِ مِنْهَا   وَ مَنْ يُّرِدْ ثَوَابَ الْاٰخِرَةِ نُؤْتِهِ مِنْهَا  وَ سَنَجْزِى الشّٰكِرِيْنَ",
     "urdu_text": "اور کوئی جان اللہ کے حکم کے بغیر نہیں مر سکتی، اور موت کا وقت مقرر ہے، اور جو دنیا کا ثواب چاہے گا ہم اسے دنیا میں دیں گے، اور جو آخرت کا ثواب چاہے گا ہم اسے آخرت میں دیں گے، اور ہم عنقریب شکر کرنے والوں کو جزا دیں گے",
     "persian_text": "و هیچ کس نمی‌تواند بمیرد مگر به فرمان خداوند، مرگی که زمانش معین و مقرر است، و هر کس پاداش دنیا را بخواهد از آن به او خواهیم داد، و هر کس پاداش آخرت را بخواهد از آن به او عطا خواهیم کرد، و به زودی سپاسگزاران را پاداش خواهیم داد",
     "transliteration": "Wa ma kana li-nafsin an tamuta illa bi-idhni Allahi kitaban mu'ajjalan wa man yurid thawaba ad-dunya nu'tihi minha wa man yurid thawaba al-akhirati nu'tihi minha wa sa-najzi ash-shakirin",
@@ -1178,7 +1178,7 @@ ayats = [
   {
     "verse_number": 148,
     "english_text": "So, Allah rewarded them in this world and good reward for the Hereafter, and Allah loves the people of good deeds.",
-    "arabic_text": "فَاٰتٰهُمُ اللّٰهُ ثَوَابَ الدُّنْيَا وَ حُسْنَ ثَوَابِ الْاٰخِرَةِ   وَ اللّٰهُ يُحِبُّ الْمُحْسِنِيْنَ",
+    "arabic_text": "فَاٰتٰهُمُ اللّٰهُ ثَوَابَ الدُّنْيٰوَ حُسْنَ ثَوَابِ الْاٰخِرَةِ   وَ اللّٰهُ يُحِبُّ الْمُحْسِنِيْنَ",
     "urdu_text": "تو اللہ نے انہیں دنیا کا ثواب عطا فرمایا اور آخرت کا بہترین اجر بھی، اور اللہ نیکی کرنے والوں سے محبت کرتا ہے",
     "persian_text": "پس خداوند پاداش دنیا و پاداش نیکوی آخرت را به آنان عطا فرمود، و خداوند نیکوکاران را دوست می‌دارد",
     "transliteration": "Fa'atahumu-llahu thawabad-dunya wa husna thawabal-akhirah, wallahu yuhibbul-muhsineen",
@@ -1210,7 +1210,7 @@ ayats = [
   {
     "verse_number": 152,
     "english_text": "Certainly, Allah fulfilled his promise when you were slaying the infidels with His command in the Battle of Ohad until you reached your desire, later you showed your cowardice for war booty and disputed the instructions of the Prophet and disobeyed him, some of you are desirous of this world, and some desire the Hereafter (and sacrificed themselves over the Prophet), then He turned you from them, and Allah wanted to test you, then Allah forgave you, Allah is very Considerate and Gracious for the believers.",
-    "arabic_text": "وَ لَقَدْ صَدَقَكُمُ اللّٰهُ وَعْدَهُٓ اِذْ تَحُسُّوْنَهُم بِاِذْنِهِ   حَتّٰٓى اِذَا فَشِلْتُمْ وَ تَنَازَعْتُمْ فِىْ الْاَمْرِ وَ عَصَيْتُم مِّنۢ بَعْدِ مَآ اَرٰكُمْ مَّا تُحِبُّوْنَ  مِنْكُمْ مَّنْ يُّرِيْدُ الدُّنْيَا وَ مِنْكُمْ مَّنْ يُّرِيْدُ الْاٰخِرَةَ  ۚ  ثُمَّ صَرَفَكُمْ عَنْهُمْ لِيَبْتَلِيَكُمْ  ۚ  وَ لَقَدْ عَفَا عَنْكُمْ   وَ اللّٰهُ ذُوْ فَضْلٍ عَلَى الْمُؤْمِنِيْنَ",
+    "arabic_text": "وَ لَقَدْ صَدَقَكُمُ اللّٰهُ وَعْدَهُٓ اِذْ تَحُسُّوْنَهُم بِاِذْنِهِ   حَتّٰٓى اِذَا فَشِلْتُمْ وَ تَنَازَعْتُمْ فِىْ الْاَمْرِ وَ عَصَيْتُم مِّنۢ بَعْدِ مَآ اَرٰكُمْ مَّا تُحِبُّوْنَ  مِنْكُمْ مَّنْ يُّرِيْدُ الدُّنْيٰوَ مِنْكُمْ مَّنْ يُّرِيْدُ الْاٰخِرَةَ  ۚ  ثُمَّ صَرَفَكُمْ عَنْهُمْ لِيَبْتَلِيَكُمْ  ۚ  وَ لَقَدْ عَفَا عَنْكُمْ   وَ اللّٰهُ ذُوْ فَضْلٍ عَلَى الْمُؤْمِنِيْنَ",
     "urdu_text": "اور بیشک اللہ نے اپنا وعدہ سچا کر دکھایا جب تم اس کے حکم سے انہیں قتل کر رہے تھے یہاں تک کہ جب تم کمزور پڑ گئے اور حکم میں جھگڑنے لگے اور نافرمانی کی اس کے بعد کہ اللہ نے تمہیں وہ دکھا دیا جو تم چاہتے تھے، تم میں سے کچھ دنیا چاہتے تھے اور تم میں سے کچھ آخرت چاہتے تھے، پھر اللہ نے تمہیں ان سے پھیر دیا تاکہ تمہیں آزمائے، اور بیشک اللہ نے تمہیں معاف کر دیا، اور اللہ مومنوں پر بڑا فضل کرنے والا ہے۔",
     "persian_text": "و به راستی خداوند وعده خود را به شما راست کرد آنگاه که به فرمان او آنان را می‌کشتید تا زمانی که سست شدید و در کار با هم به نزاع پرداختید و نافرمانی کردید پس از آنکه خداوند آنچه را دوست می‌داشتید به شما نشان داد، بعضی از شما خواهان دنیا بودند و بعضی خواهان آخرت، سپس شما را از آنان بازگرداند تا شما را بیازماید، و به راستی شما را بخشید، و خداوند صاحب فضل بر مؤمنان است.",
     "transliteration": "Wa laqad sadaqakumul-laahu wa'dahoo iz tahussoonahum bi-iznihi hattaa izaa fashiltum wa tanaaza'tum fil-amri wa 'asaitum mim ba'di maa araakum maa tuhibboon, minkum maiy-yureedul-dunyaa wa minkum maiy-yureedil-aakhirah, thumma sarafakum 'anhum liyabtaliyakum, wa laqad 'afaa 'ankum, wallaahu zoo fadlin 'alal-mu'mineen",
@@ -1226,7 +1226,7 @@ ayats = [
   {
     "verse_number": 154,
     "english_text": "Later, Allah made to sleep peacefully a group and another one was deprived of sleep because they were worried about their lives only and have untruthful and ignorant thoughts, and they were saying, what control do we have over affairs of war, O Prophet, tell them that Control is only that of Allah, they concealed in their hearts which they do not tell you and they say, if it was in our hands we would not have been killed here, tell them, even if you stayed back in homes and if martyrdom was your fate you would have come to battlefield, Allah wishes to test thoughts of your hearts and wishes to clarify the truth of your conscience, and He know the thoughts of the hearts.",
-    "arabic_text": "ثُمَّ اَنْزَلَ عَلَيْكُم مِّنۢ بَعْدِ الْغَمِّ اَمَنَةً نُّعَاسًا يَّغْشٰى طَآئِفَةً مِّنْكُمْ   وَ طَآئِفَةٌ قَدْ اَهَمَّتْهُمْ اَنْفُسُهُمْ يَظُنُّوْنَ بِاللّٰهِ غَيْرَ الْحَقِّ ظَنَّ الْجَاهِلِيَّةِ   يَقُوْلُوْنَ هَل لَّنَا مِنَ الْاَمْرِ مِنْ شَىْءٍ   قُلْ اِنَّ الْاَمْرَ كُلَّهُ لِلّٰهِ   يُخْفُوْنَ فِىْٓ اَنْفُسِهِم مَّا لَا يُبْدُوْنَ لَكَ   يَقُوْلُوْنَ لَوْ كَانَ لَنَا مِنَ الْاَمْرِ شَىْءٌ مَّا قُتِلْنَا هٰهُنَا   قُل لَّوْ كُنْتُمْ فِىْ بُيُوتِكُمْ لَبَرَزَ الَّذِيْنَ كُتِبَ عَلَيْهِمُ الْقَتْلُ اِلَٰى مَضَاجِعِهِمْ  ۚ  وَ لِيَبْتَلِىَ اللّٰهُ مَا فِىْ صُدُورِكُمْ وَ لِيُمَحِّصَ مَا فِىْ قُلُوْبِكُمْ   وَ اللّٰهُ عَلِيمٌۢ بِذَاتِ الصُّدُوْرِ",
+    "arabic_text": "ثُمَّ اَنْزَلَ عَلَيْكُم مِّنۢ بَعْدِ الْغَمِّ اَمَنَةً نُّعَاسًا يَّغْشٰى طَآئِفَةً مِّنْكُمْ   وَ طَآئِفَةٌ قَدْ اَهَمَّتْهُمْ اَنْفُسُهُمْ يَظُنُّوْنَ بِاللّٰهِ غَيْرَ الْحَقِّ ظَنَّ الْجٰهِلِيَّةِ   يَقُوْلُوْنَ هَل لَّنَا مِنَ الْاَمْرِ مِنْ شَىْءٍ   قُلْ اِنَّ الْاَمْرَ كُلَّهُ لِلّٰهِ   يُخْفُوْنَ فِىْٓ اَنْفُسِهِم مَّا لَا يُبْدُوْنَ لَكَ   يَقُوْلُوْنَ لَوْ كَانَ لَنَا مِنَ الْاَمْرِ شَىْءٌ مَّا قُتِلْنَا هٰهُنَا   قُل لَّوْ كُنْتُمْ فِىْ بُيُوتِكُمْ لَبَرَزَ الَّذِيْنَ كُتِبَ عَلَيْهِمُ الْقَتْلُ اِلَٰى مَضَاجِعِهِمْ  ۚ  وَ لِيَبْتَلِىَ اللّٰهُ مَا فِىْ صُدُورِكُمْ وَ لِيُمَحِّصَ مَا فِىْ قُلُوْبِكُمْ   وَ اللّٰهُ عَلِيمٌۢ بِذَاتِ الصُّدُوْرِ",
     "urdu_text": "پھر اللہ نے غم کے بعد تم پر امن کی نیند نازل کی جو تم میں سے ایک گروہ کو ڈھانپ رہی تھی، اور ایک گروہ اپنی جانوں کی فکر میں تھا، وہ اللہ کے بارے میں ناحق گمان کرتے تھے جیسے جاہلیت کا گمان، وہ کہتے تھے کیا اس معاملے میں ہمارا کچھ اختیار ہے؟ کہہ دو کہ سارا معاملہ اللہ کے ہاتھ میں ہے، وہ اپنے دلوں میں چھپاتے ہیں جو تم پر ظاہر نہیں کرتے، وہ کہتے ہیں اگر ہمارا کچھ اختیار ہوتا تو ہم یہاں قتل نہ ہوتے، کہہ دو اگر تم اپنے گھروں میں بھی ہوتے تو جن پر قتل لکھا تھا وہ اپنی جگہ پر ضرور نکل آتے، اور تاکہ اللہ تمہارے سینوں میں جو ہے اسے آزمائے اور تمہارے دلوں میں جو ہے اسے پاک کرے، اور اللہ دلوں کی باتوں کو خوب جانتا ہے۔",
     "persian_text": "سپس پس از اندوه، آرامشی به صورت خواب بر شما نازل کرد که گروهی از شما را فرا می‌گرفت، و گروهی که جان خود آنان را به اندیشه انداخته بود، درباره خدا گمان ناحق می‌بردند همچون گمان دوران جاهلیت، می‌گفتند آیا ما در این کار اختیاری داریم؟ بگو همه کار از آن خداست، آنچه را در دل پنهان می‌دارند به تو آشکار نمی‌سازند، می‌گویند اگر ما در این کار اختیاری داشتیم اینجا کشته نمی‌شدیم، بگو اگر در خانه‌های خود هم بودید کسانی که کشته شدن بر آنان مقدر شده بود به سوی جایگاه مرگ خود بیرون می‌آمدند، و تا خداوند آنچه در سینه‌های شماست بیازماید و آنچه در دل‌های شماست پاک کند، و خداوند به آنچه در سینه‌هاست داناست.",
     "transliteration": "Thumma anzala 'alaikum mim ba'dil-ghammi amanatan nu'aasaiy-yaghshaa taaa'ifatam minkum, wa taaa'ifatun qad ahammat-hum anfusuhum yazunnoona billaahi ghairal-haqqi zannal-jaahiliyyah, yaqooloona hal lanaa minal-amri min shay', qul innal-amra kullahu lillaah, yukhfoona feee anfusihim maa laa yubdoona lak, yaqooloona law kaana lanaa minal-amri shay'um maa qutilnaa haahunaa, qul law kuntum fee buyootikum labarazal-lazeena kutiba 'alaihimul-qatlu ilaa madaaji'ihim, wa liyabtaliyallaahu maa fee sudoorikum wa liyumahhisa maa fee quloobikum, wallaahu 'aleemum bizaatis-sudoor",
@@ -1314,7 +1314,7 @@ ayats = [
   {
     "verse_number": 165,
     "english_text": "When affliction befallen you whereas you had befallen double the affliction on them, they said from where this affliction has come, O Prophet, tell them this is from you only (because you have disobeyed Prophet), Verily, Allah has power over everything.",
-    "arabic_text": "اَوَلَمَّآ اَصَابَتْكُم مُّصِيْبَةٌ قَدْ اَصَبْتُم مِّثْلَيْهَا قُلْتُمْ اَنّٰى هٰذَا   قُلْ هُوَ مِنْ عِنْدِ اَنفُسِكُمْ   اِنَّ اللّٰهَ عَلَٰى كُلِّ شَىْءٍ قَدِيْرٌ",
+    "arabic_text": "اَوَ لَمَّآ اَصَابَتْكُم مُّصِيْبَةٌ قَدْ اَصَبْتُم مِّثْلَيْهَا قُلْتُمْ اَنّٰى هٰذَا   قُلْ هُوَ مِنْ عِنْدِ اَنفُسِكُمْ   اِنَّ اللّٰهَ عَلَٰى كُلِّ شَىْءٍ قَدِيْرٌ",
     "urdu_text": "اور جب تم پر مصیبت آئی حالانکہ تم اس سے دوگنی مصیبت ان پر ڈال چکے تھے، تو تم نے کہا یہ کہاں سے آ گئی؟ کہہ دو کہ یہ تمہاری اپنی طرف سے ہے، بیشک اللہ ہر چیز پر قادر ہے",
     "persian_text": "آیا هنگامی که مصیبتی به شما رسید در حالی که دو برابر آن را به دشمن رسانده بودید، گفتید این از کجا آمد؟ بگو این از جانب خودتان است، همانا خداوند بر هر چیزی تواناست",
     "transliteration": "Awa lamma asabatkum museebatun qad asabtum mithlayha qultum anna hadha qul huwa min 'indi anfusikum innal laha 'ala kulli shay'in qadeer",

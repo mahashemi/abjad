@@ -50,7 +50,7 @@ ayats = [
   {
     "verse_number": 7,
     "english_text": "He raised the sky, and established the Balance (of Justice).",
-    "arabic_text": "وَالسَّمَاءَ رَفَعَهَا وَوَضَعَ الْمِيزَانَ",
+    "arabic_text": "وَالسَّمَآءَ رَفَعَهَا وَوَضَعَ الْمِيزَانَ",
     "urdu_text": "اور آسمان کو اس نے بلند کیا اور میزان (انصاف) قائم کی",
     "persian_text": "و آسمان را برافراشت و ترازو (عدالت) را برقرار کرد",
     "transliteration": "Was-samaa'a rafa'aha wa wada'al-mizan",
@@ -58,7 +58,7 @@ ayats = [
   {
     "verse_number": 8,
     "english_text": "That you may not transgress in balance.",
-    "arabic_text": "اَلَّا تَطْغَوْا فِي الْمِيزَانِ",
+    "arabic_text": "اَلَّا تَطْغَوْا فِى الْمِيزَانِ",
     "urdu_text": "تاکہ تم میزان میں زیادتی نہ کرو",
     "persian_text": "تا در ترازو تجاوز نکنید",
     "transliteration": "Alla tatghaw fil-mizan",

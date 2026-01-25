@@ -2,7 +2,7 @@ ayats = [
   {
     "verse_number": 1,
     "english_text": "Whatever is in the skies and on the earth, everything is busy glorifying Allah, and He is Honorable and Owner of Wisdom.",
-    "arabic_text": "سَبَّحَ لِلَّهِ مَا فِي السَّمٰوٰتِ وَ مَا فِي الْاَرْضِ ۖ وَ هُوَ الْعَزِيزُ الْحَكِيمُ",
+    "arabic_text": "سَبَّحَ لِلَّهِ مَا فِى السَّمٰوٰتِ وَ مَا فِى الْاَرْضِ ۖ وَ هُوَ الْعَزِيزُ الْحَكِيمُ",
     "urdu_text": "جو کچھ آسمانوں میں ہے اور جو کچھ زمین میں ہے سب اللہ کی تسبیح کرتا ہے، اور وہ غالب اور حکمت والا ہے۔",
     "persian_text": "آنچه در آسمان‌ها و آنچه در زمین است، همه تسبیح الله می‌گویند و او عزیز و حکیم است.",
     "transliteration": "Sabbaha lillahi ma fis-samawati wa ma fil-ard, wa huwal-'Azizul-Hakim",
@@ -10,7 +10,7 @@ ayats = [
   {
     "verse_number": 2,
     "english_text": "It is He who got out unbelievers among the People of the Book from their homes at the first gathering and you were not even imagining that they can be exiled, and they were also of the opinion that their forts will saved them from Allah, but Allah behaved in such a way that they could not had envisage about it, and cast terror in their hearts that they started to destroy their houses from their own hands and from the hands of the believers; so that people with the vision may take the lesson.",
-    "arabic_text": "هُوَ الَّذِي اَخْرَجَ الَّذِينَ كَفَرُوا مِنْ اَهْلِ الْكِتٰبِ مِن دِيَارِهِمْ لِاَوَّلِ الْحَشْرِ ۚ مَا ظَنَنتُمْ اَن يَخْرُجُوا وَظَنُّوا اَنَّهُم مَّانِعَتُهُمْ حُصُونُهُم مِّنَ اللّٰهِ فَاَتَاهُمُ اللّٰهُ مِنْ حَيْثُ لَمْ يَحْتَسِبُوا وَقَذَفَ فِي قُلُوبِهِمُ الرُّعْبَ",
+    "arabic_text": "هُوَ الَّذِى اَخْرَجَ الَّذِينَ كَفَرُوا مِنْ اَهْلِ الْكِتٰبِ مِن دِيَارِهِمْ لِاَوَّلِ الْحَشْرِ ۚ مَا ظَنَنتُمْ اَن يَخْرُجُوا وَظَنُّوا اَنَّهُم مَّانِعَتُهُمْ حُصُونُهُم مِّنَ اللّٰهِ فَاَتَاهُمُ اللّٰهُ مِنْ حَيْثُ لَمْ يَحْتَسِبُوا وَقَذَفَ فِى قُلُوبِهِمُ الرُّعْبَ",
     "urdu_text": "وہی ہے جس نے اہل کتاب میں سے کافروں کو پہلی جلاوطنی میں ان کے گھروں سے نکال دیا، تم نے یہ گمان بھی نہیں کیا تھا کہ وہ نکل جائیں گے اور انہوں نے سمجھا تھا کہ ان کے قلعے انہیں اللہ سے بچا لیں گے، لیکن اللہ ان پر ایسی جگہ سے آیا جہاں سے انہوں نے گمان بھی نہیں کیا تھا اور ان کے دلوں میں رعب ڈال دیا۔",
     "persian_text": "او کسی است که کافران اهل کتاب را در اولین حشر از خانه‌هایشان بیرون کرد، شما گمان نمی‌بردید که آنها بیرون روند و آنها پنداشتند که قلعه‌هایشان آنها را از الله محافظت خواهد کرد، اما الله از جایی که گمان نمی‌بردند بر آنها آمد و در دل‌هایشان رعب افکند.",
     "transliteration": "Huwal-ladhi akhraja alladhina kafaru min ahlil-kitabi min diyarihim li-awwalil-hashr, ma zanantum an yakhruju wa zannu annahum mani'atuhum husunuhum minallahi fa-atahumullaahu min haythu lam yahtasibu wa qadhafa fi qulubihimur-ru'b",
@@ -18,7 +18,7 @@ ayats = [
   {
     "verse_number": 3,
     "english_text": "If Allah would not have written exile in their fate, then He would have sent punishment on them in the world, and in the Hereafter punishment of Hell is certain.",
-    "arabic_text": "وَلَوْلَا اَن كَتَبَ اللّٰهُ عَلَيْهِمُ الْجَلَآءَ لَعَذَّبَهُمْ فِى الدُّنْيَا ۖ وَلَهُمْ فِى الْءَاخِرَةِ عَذَابُ النَّارِ",
+    "arabic_text": "وَلَوْلَا اَن كَتَبَ اللّٰهُ عَلَيْهِمُ الْجَلَآءَ لَعَذَّبَهُمْ فِى الدُّنْيٰۖ وَلَهُمْ فِى الْءَاخِرَةِ عَذَابُ النَّارِ",
     "urdu_text": "اور اگر اللہ نے ان کی تقدیر میں جلاوطنی نہ لکھی ہوتی تو انہیں دنیا میں عذاب دیتا، اور آخرت میں ان کے لیے آگ کا عذاب ہے۔",
     "persian_text": "و اگر الله تبعید را بر آنها مقرر نکرده بود، قطعاً در دنیا آنها را عذاب می‌داد و برای آنها در آخرت عذاب آتش است.",
     "transliteration": "Wa lawla an kataballahu 'alayhimul-jala'a la-'adhdhabahum fid-dunya, wa lahum fil-akhirati 'adhabun-nar",
@@ -66,7 +66,7 @@ ayats = [
   {
     "verse_number": 9,
     "english_text": "And those who earlier had their homes (in Madina) and adopted faith before them and show affection to those who came to them after migration; and had no desire in their hearts for whatever was given to them and prefers others over themselves no matter how needful they themselves may be, and those who are saved from the greed of their Selves, they shall achieve the desires of their hearts.",
-    "arabic_text": "وَالَّذِينَ تَبَوَّءُوا الدَّارَ وَالْاِيمَـٰنَ مِن قَبْلِهِمْ يُحِبُّونَ مَنْ هَاجَرَ اِلَيْهِمْ وَ لَا يَجِدُونَ فِى صُدُورِهِمْ حَاجَةًۭ مِّمَّآ اُوتُواْ وَيُؤْثِرُونَ عَلَىٰٓ اَنفُسِهِمْ وَ لَوْ كَانَ بِهِمْ خَصَاصَةٌۭ ۚ وَ مَن يُوقَ شُحَّ نَفْسِهِ فَاُو۟لَـٰٓئِكَ هُمُ الْمُفْلِحُونَ",
+    "arabic_text": "وَ الَّذِينَ تَبَوَّءُوا الدَّارَ وَالْاِيمَـٰنَ مِن قَبْلِهِمْ يُحِبُّونَ مَنْ هَاجَرَ اِلَيْهِمْ وَ لَا يَجِدُونَ فِى صُدُورِهِمْ حَاجَةًۭ مِّمَّآ اُوتُواْ وَيُؤْثِرُونَ عَلَىٰٓ اَنفُسِهِمْ وَ لَوْ كَانَ بِهِمْ خَصَاصَةٌۭ ۚ وَ مَن يُوقَ شُحَّ نَفْسِهِ فَاُو۟لَـٰٓئِكَ هُمُ الْمُفْلِحُونَ",
     "urdu_text": "اور وہ لوگ جنہوں نے ان سے پہلے مدینہ میں گھر بنایا اور ایمان اختیار کیا، وہ ان سے محبت کرتے ہیں جو ان کی طرف ہجرت کر کے آئے، اور اپنے دلوں میں اس چیز کی کوئی حاجت نہیں پاتے جو انہیں دی گئی، اور اپنی جانوں پر دوسروں کو ترجیح دیتے ہیں اگرچہ خود محتاج ہوں، اور جو اپنے نفس کے لالچ سے بچا لیا گیا تو یہی لوگ کامیاب ہیں۔",
     "persian_text": "و آنان که پیش از آنان در این سرزمین و در ایمان جای گرفتند، کسانی را که به سوی آنان هجرت کردند دوست می‌دارند و در دلهایشان نیازی به آنچه به مهاجران داده شد نمی‌یابند، و دیگران را بر خود ترجیح می‌دهند هر چند خود نیازمند باشند، و کسانی که از بخل و حرص خویش نگاه داشته شوند، آنان همان رستگارانند.",
     "transliteration": "Walladheena tabawwa'oo ad-daara wal-eemaana min qablihim yuhibboona man haajara ilayhim wa laa yajidoona fee sudoorihim haajatan mimmaa ootoo wa yu'thiroona 'alaa anfusihim wa law kaana bihim khasaasah, wa man yooqa shuhha nafsihi fa-ulaa'ika humu al-muflihoon",
@@ -74,7 +74,7 @@ ayats = [
   {
     "verse_number": 10,
     "english_text": "And those who came after them say: O Lord forgive us and also our brethren who accepted faith before us and do not let the malice take place in our hearts for the believers, O Lord, You are very Kind and Merciful.",
-    "arabic_text": "وَالَّذِينَ جَآءُواْ مِنۢ بَعْدِهِمْ يَقُولُونَ رَبَّنَا اغْفِرْ لَنَا وَلِاِخْوَٰنِنَا الَّذِينَ سَبَقُونَا بِالْاِيمَـٰنِ وَ لَا تَجْعَلْ فِى قُلُوبِنَا غِلًّۭا لِّلَّذِينَ ءَامَنُواْ ۚ رَبَّنَآ اِنَّكَ رَءُوفٌۭ رَّحِيمٌۭ",
+    "arabic_text": "وَ الَّذِينَ جَآءُواْ مِنۢ بَعْدِهِمْ يَقُولُونَ رَبَّنَا اغْفِرْ لَنَا وَلِاِخْوَٰنِنَا الَّذِينَ سَبَقُونَا بِالْاِيمَـٰنِ وَ لَا تَجْعَلْ فِى قُلُوبِنَا غِلًّۭا لِّلَّذِينَ ءَامَنُواْ ۚ رَبَّنَآ اِنَّكَ رَءُوفٌۭ رَّحِيمٌۭ",
     "urdu_text": "اور وہ لوگ جو ان کے بعد آئے کہتے ہیں: اے ہمارے رب! ہمیں بخش دے اور ہمارے ان بھائیوں کو بھی جو ایمان میں ہم سے پہلے گزر گئے، اور ہمارے دلوں میں مومنوں کے لیے کوئی کینہ نہ رکھ، اے ہمارے رب! بیشک تو بڑا مہربان نہایت رحم کرنے والا ہے۔",
     "persian_text": "و آنان که پس از ایشان آمدند می‌گویند: پروردگارا! ما و برادرانمان را که در ایمان بر ما پیشی گرفتند بیامرز، و در دلهای ما نسبت به مؤمنان کینه‌ای قرار مده، پروردگارا! تو مهربان و بخشنده‌ای.",
     "transliteration": "Walladheena jaa'oo min ba'dihim yaqooloona Rabbanagh-fir lanaa wa li-ikhwaanina alladheena sabaqoonaa bil-eemaani wa laa taj'al fee quloobinaa ghillan lilladheena aamanoo, Rabbanaa innaka Ra'oofun Raheem",

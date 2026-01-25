@@ -57,7 +57,7 @@ ayats = [
   {
     "verse_number": 7,
     "english_text": "Even if you become infidel, Allah is Self-Sufficient from you, and He does not like infidelity for His servants, He likes if you are thankful to Him, and no one will carry the burden of sins of others; thereafter you will all be returned to your Lord; then He will inform you what you had been doing in the world; He is also aware of the secrets hidden in the hearts.",
-    "arabic_text": "اِن تَكْفُرُواْ فَاِنَّ اللّٰهَ غَنِىٌّ عَنكُمْ ۖ وَ لَا يَرْضَىٰ لِعِبَادِهِ الْكُفْرَ ۖ وَاِن تَشْكُرُواْ يَرْضَهُ لَكُمْ ۗ وَ لَا تَزِرُ وَازِرَةٌۭ وِزْرَ اُخْرَىٰ ۗ ثُمَّ اِلَىٰ رَبِّكُم مَّرْجِعُكُمْ فَيُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ ۚ اِنَّهُ عَلِيمٌۢ بِذَاتِ الصُّدُورِ",
+    "arabic_text": "اِن تَكْفُرُواْ فَاِنَّ اللّٰهَ غَنِىٌّ عَنكُمْ ۖ وَ لَا يَرْضَىٰ لِعِبَادِهِ الْكُفْرَ ۖ وَاِن تَشْكُرُواْ يَرْضَهُ لَكُمْ ۗ وَ لَا تَزِرُ وَازِرَةٌۭ وِزْرَ اُخْرَىٰ ۗ ثُمَّ اِلـٰى رَبِّكُم مَّرْجِعُكُمْ فَيُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ ۚ اِنَّهُ عَلِيمٌۢ بِذَاتِ الصُّدُورِ",
     "urdu_text": "اگر تم کفر کرو تو اللہ تم سے بے نیاز ہے، اور وہ اپنے بندوں کے لیے کفر کو پسند نہیں کرتا، اور اگر تم شکر کرو تو وہ اسے تمہارے لیے پسند کرتا ہے، اور کوئی بوجھ اٹھانے والا دوسرے کا بوجھ نہیں اٹھائے گا، پھر تمہارے رب کی طرف تمہاری واپسی ہے، پھر وہ تمہیں بتائے گا جو تم کرتے تھے، بیشک وہ دلوں کے بھیدوں کو جاننے والا ہے۔",
     "persian_text": "اگر کفر ورزید، خدا از شما بی‌نیاز است، و او برای بندگانش کفر را نمی‌پسندد، و اگر شکر کنید آن را برای شما می‌پسندد، و هیچ گناهکاری بار گناه دیگری را بر نمی‌دارد، سپس بازگشت شما به سوی پروردگارتان است، پس شما را از آنچه انجام می‌دادید آگاه می‌کند، همانا او به راز دل‌ها داناست.",
     "transliteration": "In takfuroo fa-innallaaha ghaniyyun 'ankum wa laa yardaa li'ibaadihil-kufr, wa in tashkuroo yardahu lakum, wa laa taziru waaziratuw-wizra ukhraa, thumma ilaa Rabbikum marji'ukum fa-yunabbi'ukum bimaa kuntum ta'maloon, innahoo 'Aleemum bidhaa tis-sudoor"
@@ -81,7 +81,7 @@ ayats = [
   {
     "verse_number": 10,
     "english_text": "Say: O my believing servants! Fear your Lord; there is good (in the Hereafter) for them who do good in this world, and Allah's land is very vast; the uncountable reward is only for the patient ones.",
-    "arabic_text": "قُلْ يَـٰعِبَادِ الَّذِينَ ءَامَنُواْ اتَّقُواْ رَبَّكُمْ ۚ لِلَّذِينَ اَحْسَنُواْ فِى هَـٰذِهِ الدُّنْيَا حَسَنَةٌۭ ۗ وَاَرْضُ اللّٰهِ وَٰسِعَةٌ ۗ اِنَّمَا يُوَفَّى الصَّـٰبِرُونَ اَجْرَهُم بِغَيْرِ حِسَابٍۢ",
+    "arabic_text": "قُلْ يَـٰعِبَادِ الَّذِينَ ءَامَنُواْ اتَّقُواْ رَبَّكُمْ ۚ لِلَّذِينَ اَحْسَنُواْ فِى هَـٰذِهِ الدُّنْيٰحَسَنَةٌۭ ۗ وَاَرْضُ اللّٰهِ وَٰسِعَةٌ ۗ اِنَّمَا يُوَفَّى الصَّـٰبِرُونَ اَجْرَهُم بِغَيْرِ حِسَابٍۢ",
     "urdu_text": "کہہ دو اے میرے ایمان والے بندو! اپنے رب سے ڈرو، جن لوگوں نے اس دنیا میں نیکی کی ان کے لیے بھلائی ہے، اور اللہ کی زمین بہت وسیع ہے، بیشک صبر کرنے والوں کو ان کا اجر بے حساب دیا جائے گا۔",
     "persian_text": "بگو: ای بندگان من که ایمان آورده‌اید! از پروردگارتان بترسید، برای کسانی که در این دنیا نیکی کردند نیکی است، و زمین خدا وسیع است، تنها صابران پاداش خود را بی‌حساب دریافت می‌کنند.",
     "transliteration": "Qul yaa 'ibaadil-ladheena aamanut-taqoo Rabbakum, lilladheena ahsanoo fee haadhi hid-dunyaa hasanah, wa ardul-laahi waasi'ah, innamaa yuwaffas-saabiroona ajrahum bighayri hisaab"
@@ -185,7 +185,7 @@ ayats = [
   {
     "verse_number": 23,
     "english_text": "Allah has revealed the best words in the form of a Book, whose verses are similar to each other, and have been repeated, that their hairs are raised who have fear of Allah, then their bodies and hearts become soft for remembrance of Allah, this is the real guidance of Allah, He gives to whoever He pleases; and to whoever He leaves in misguidance, nobody can guide him.",
-    "arabic_text": "اللّٰهُ نَزَّلَ اَحْسَنَ الْحَدِيثِ كِتٰبًا مُّتَشَـٰبِهًۭا مَّثَانِىَ تَقْشَعِرُّ مِنْهُ جُلُودُ الَّذِينَ يَخْشَوْنَ رَبَّهُمْ ثُمَّ تَلِينُ جُلُودُهُمْ وَقُلُوبُهُمْ اِلَىٰ ذِكْرِ اللّٰهِ ۚ ذَٰلِكَ هُدَى اللّٰهِ يَهْدِى بِهِ مَن يَشَآءُ ۚ وَمَن يُضْلِلِ اللّٰهُ فَمَا لَهُ مِنْ هَادٍ",
+    "arabic_text": "اللّٰهُ نَزَّلَ اَحْسَنَ الْحَدِيثِ كِتٰبًا مُّتَشَـٰبِهًۭا مَّثَانِىَ تَقْشَعِرُّ مِنْهُ جُلُودُ الَّذِينَ يَخْشَوْنَ رَبَّهُمْ ثُمَّ تَلِينُ جُلُودُهُمْ وَقُلُوبُهُمْ اِلـٰى ذِكْرِ اللّٰهِ ۚ ذَٰلِكَ هُدَى اللّٰهِ يَهْدِى بِهِ مَن يَشَآءُ ۚ وَمَن يُضْلِلِ اللّٰهُ فَمَا لَهُ مِنْ هَادٍ",
     "urdu_text": "اللہ نے بہترین کلام نازل فرمایا ہے، ایک ایسی کتاب جس کی آیات ایک دوسرے سے ملتی جلتی ہیں اور بار بار دہرائی گئی ہیں، جس سے ان لوگوں کے رونگٹے کھڑے ہو جاتے ہیں جو اپنے رب سے ڈرتے ہیں، پھر ان کے جسم اور دل اللہ کے ذکر کی طرف نرم ہو جاتے ہیں۔ یہ اللہ کی ہدایت ہے، وہ جسے چاہتا ہے ہدایت دیتا ہے، اور جسے اللہ گمراہ کر دے اس کا کوئی رہنما نہیں۔",
     "persian_text": "خداوند بهترین سخن را نازل کرده است، کتابی که آیاتش همانند یکدیگر و تکرار شونده است، که از آن پوست کسانی که از پروردگارشان می‌ترسند مور مور می‌شود، سپس پوست و دل‌هایشان به یاد خدا نرم می‌گردد. این هدایت خداست که هر که را بخواهد هدایت می‌کند، و هر که را خدا گمراه کند، هیچ راهنمایی برای او نیست.",
     "transliteration": "Allahu nazzala ahsana al-hadithi kitaban mutashabihan mathani taqsha'irru minhu juludu alladhina yakhshawna rabbahum thumma talinu juluduhum waqulubuhum ila dhikri Allahi dhalika huda Allahi yahdi bihi man yasha'u waman yudlili Allahu fama lahu min had"
@@ -209,7 +209,7 @@ ayats = [
   {
     "verse_number": 26,
     "english_text": "Then Allah made them taste the disgrace in the world, and punishment of the Hereafter is very severe; if they can understand.",
-    "arabic_text": "فَاَذَاقَهُمُ اللّٰهُ الْخِزْىَ فِى الْحَيَوٰةِ الدُّنْيَا ۖ وَلَعَذَابُ الْاخِرَةِ اَكْبَرُ ۚ لَوْ كَانُواْ يَعْلَمُونَ",
+    "arabic_text": "فَاَذَاقَهُمُ اللّٰهُ الْخِزْىَ فِى الْحَيَوٰةِ الدُّنْيٰۖ وَلَعَذَابُ الْاخِرَةِ اَكْبَرُ ۚ لَوْ كَانُواْ يَعْلَمُونَ",
     "urdu_text": "پھر اللہ نے انہیں دنیا کی زندگی میں رسوائی کا مزہ چکھایا، اور آخرت کا عذاب تو بہت بڑا ہے، کاش وہ جانتے ہوتے۔",
     "persian_text": "پس خداوند خواری را در زندگی دنیا به آنان چشانید، و عذاب آخرت بزرگتر است، اگر می‌دانستند.",
     "transliteration": "Fa-adhaqahumu Allahu al-khizya fi al-hayati ad-dunya wala'adhabu al-akhirati akbaru law kanu ya'lamun"
@@ -337,7 +337,7 @@ ayats = [
   {
     "verse_number": 42,
     "english_text": "That is Allah who calls towards Him the spirits at the time of death, and those who do not die also calls their spirits to Him when they are asleep, and then if He decides anybody's death He withheld that spirit with Him, and releases all other spirits until a certain period, there are many signs in this for the people who ponder.",
-    "arabic_text": "اللّٰهُ يَتَوَفَّى الْاَنفُسَ حِينَ مَوْتِهَا وَالَّتِى لَمْ تَمُتْ فِى مَنَامِهَا ۖ فَيُمْسِكُ الَّتِى قَضَىٰ عَلَيْهَا الْمَوْتَ وَيُرْسِلُ الْاُخْرَىٰٓ اِلَىٰٓ اَجَلٍۢ مُّسَمًّى ۚ اِنَّ فِى ذَٰلِكَ لَـَٔايَـٰتٍۢ لِّقَوْمٍۢ يَتَفَكَّرُونَ",
+    "arabic_text": "اللّٰهُ يَتَوَفَّى الْاَنفُسَ حِينَ مَوْتِهَا وَالَّتِى لَمْ تَمُتْ فِى مَنَامِهَا ۖ فَيُمْسِكُ الَّتِى قَضَىٰ عَلَيْهَا الْمَوْتَ وَيُرْسِلُ الْاُخْرَىٰٓ اِلـٰىٓ اَجَلٍۢ مُّسَمًّى ۚ اِنَّ فِى ذَٰلِكَ لَـَٔايَـٰتٍۢ لِّقَوْمٍۢ يَتَفَكَّرُونَ",
     "urdu_text": "اللہ ہی روحوں کو موت کے وقت قبض کرتا ہے اور جو نہیں مرتے ان کی روحوں کو نیند میں قبض کرتا ہے، پھر جس کی موت کا فیصلہ کر دیتا ہے اس کی روح کو روک لیتا ہے اور دوسری روحوں کو ایک مقررہ وقت تک چھوڑ دیتا ہے، بیشک اس میں غور و فکر کرنے والوں کے لیے بہت سی نشانیاں ہیں۔",
     "persian_text": "خداوند است که جان‌ها را هنگام مرگشان می‌گیرد و آنها را که نمرده‌اند در خوابشان می‌گیرد، پس آن جان را که مرگش را مقرر کرده نگه می‌دارد و دیگری را تا زمان معینی رها می‌کند، همانا در این نشانه‌هایی است برای قومی که تفکر می‌کنند.",
     "transliteration": "Allaahu yatawaffal-anfusa heena mawtihaa wallatee lam tamut fee manaamihaa, fa-yumsikul-latee qadaa 'alayhal-mawta wa yursilul-ukhraa ilaa ajalin musammaa, inna fee dhaalika la-aayaatil-liqawminy-yatafakkaroon"
@@ -433,7 +433,7 @@ ayats = [
   {
     "verse_number": 54,
     "english_text": "You all turn towards your Lord, and be entirely submissive to Him, before any punishment comes to you, then you cannot be helped.",
-    "arabic_text": "وَاَنِيبُوٓاْ اِلَىٰ رَبِّكُمْ وَاَسْلِمُواْ لَهُ مِن قَبْلِ اَن يَاْتِيَكُمُ الْعَذَابُ ثُمَّ لَا تُنصَرُونَ",
+    "arabic_text": "وَاَنِيبُوٓاْ اِلـٰى رَبِّكُمْ وَاَسْلِمُواْ لَهُ مِن قَبْلِ اَن يَاْتِيَكُمُ الْعَذَابُ ثُمَّ لَا تُنصَرُونَ",
     "urdu_text": "اور تم سب اپنے رب کی طرف رجوع کرو اور اس کے فرمانبردار ہو جاؤ، اس سے پہلے کہ تم پر عذاب آ جائے، پھر تمہاری مدد نہیں کی جائے گی۔",
     "persian_text": "و به سوی پروردگارتان بازگردید و تسلیم او شوید، پیش از آنکه عذاب به سراغتان آید، سپس یاری نخواهید شد.",
     "transliteration": "Wa anibu ila Rabbikum wa aslimu lahu min qabli an ya'tiyakumu al-'azabu thumma la tunsarun"
@@ -481,7 +481,7 @@ ayats = [
   {
     "verse_number": 60,
     "english_text": "And you will see on the Day of Judgement, whoever slander Allah, their faces will be black, and is Hell not the abode of those who show pride?",
-    "arabic_text": "وَيَوْمَ الْقِيَـٰمَةِ تَرَى الَّذِينَ كَذَبُواْ عَلَى اللّٰهِ وُجُوهُهُم مُّسْوَدَّةٌ ۚ اَلَيْسَ فِى جَهَنَّمَ مَثْوًۭى لِّلْمُتَكَبِّرِينَ",
+    "arabic_text": "وَ يَوْمَ الْقِيَـٰمَةِ تَرَى الَّذِينَ كَذَبُواْ عَلَى اللّٰهِ وُجُوهُهُم مُّسْوَدَّةٌ ۚ اَلَيْسَ فِى جَهَنَّمَ مَثْوًۭى لِّلْمُتَكَبِّرِينَ",
     "urdu_text": "اور قیامت کے دن تم دیکھو گے کہ جنہوں نے اللہ پر جھوٹ باندھا ان کے چہرے سیاہ ہوں گے، کیا جہنم میں متکبروں کا ٹھکانہ نہیں؟",
     "persian_text": "و روز قیامت خواهی دید کسانی که بر خدا دروغ بستند، چهره‌هایشان سیاه است، آیا در جهنم جایگاهی برای متکبران نیست؟",
     "transliteration": "Wa yawma al-qiyamati tara allazina kazabu 'ala Allahi wujuhuhum muswaddah, alaysa fi jahannama mathwan lilmutakabbirin"
@@ -521,7 +521,7 @@ ayats = [
   {
     "verse_number": 65,
     "english_text": "And Verily, We sent revelation to you and to the people earlier than you that if you will adopt polytheism all your deeds will go waste, and your counting will be among those who are the losers.",
-    "arabic_text": "وَ لَقَدْ اُوحِىَ اِلَيْكَ وَاِلَى الَّذِينَ مِن قَبْلِكَ لَئِنْ اَشْرَكْتَ لَيَحْبَطَنَّ عَمَلُكَ وَلَتَكُونَنَّ مِنَ الْخَـٰسِرِينَ",
+    "arabic_text": "وَ لَقَدْ اُوحِىَ اِلَيْكَ وَ اِلـٰى الَّذِينَ مِن قَبْلِكَ لَئِنْ اَشْرَكْتَ لَيَحْبَطَنَّ عَمَلُكَ وَلَتَكُونَنَّ مِنَ الْخَـٰسِرِينَ",
     "urdu_text": "اور یقیناً تمہاری طرف اور تم سے پہلے لوگوں کی طرف وحی بھیجی گئی کہ اگر تم نے شرک کیا تو تمہارے تمام اعمال برباد ہو جائیں گے، اور تم نقصان اٹھانے والوں میں سے ہو جاؤ گے۔",
     "persian_text": "و به راستی به تو و به کسانی که پیش از تو بودند وحی شد که اگر شرک ورزی، اعمالت نابود خواهد شد و از زیانکاران خواهی بود.",
     "transliteration": "Wa laqad oohiya ilayka wa ilal-ladheena min qablika la'in ashrakta layahbatanna 'amaluka wa latakoonanna minal-khaasireen"
@@ -569,7 +569,7 @@ ayats = [
   {
     "verse_number": 71,
     "english_text": "Those who had adopted infidelity will be driven away in groups towards Hell until they reach in front of it, then its doors will be opened, its custodian will say did not any prophet came to you who would recite the divine verses to you and warn you from the meeting of today, so all of them will say Verily prophets have come, but sentence of punishment has been proven for the infidels.",
-    "arabic_text": "وَسِيقَ الَّذِينَ كَفَرُوٓاْ اِلَىٰ جَهَنَّمَ زُمَرًا ۖ حَتَّىٰٓ اِذَا جَآءُوهَا فُتِحَتْ اَبْوَٰبُهَا وَقَالَ لَهُمْ خَزَنَتُهَآ اَلَمْ يَاْتِكُمْ رُسُلٌۭ مِّنكُمْ يَتْلُونَ عَلَيْكُمْ اٰيٰتِ رَبِّكُمْ وَيُنذِرُونَكُمْ لِقَآءَ يَوْمِكُمْ هَـٰذَا ۚ قَالُوْاْ بَلَىٰ وَلَـٰكِنْ حَقَّتْ كَلِمَةُ الْعَذَابِ عَلَى الْكَـٰفِرِينَ",
+    "arabic_text": "وَسِيقَ الَّذِينَ كَفَرُوٓاْ اِلـٰى جَهَنَّمَ زُمَرًا ۖ حَتَّىٰٓ اِذَا جَآءُوهَا فُتِحَتْ اَبْوَٰبُهَا وَقَالَ لَهُمْ خَزَنَتُهَآ اَلَمْ يَاْتِكُمْ رُسُلٌۭ مِّنكُمْ يَتْلُونَ عَلَيْكُمْ اٰيٰتِ رَبِّكُمْ وَيُنذِرُونَكُمْ لِقَآءَ يَوْمِكُمْ هَـٰذَا ۚ قَالُوْاْ بَلَىٰ وَلَـٰكِنْ حَقَّتْ كَلِمَةُ الْعَذَابِ عَلَى الْكَـٰفِرِينَ",
     "urdu_text": "اور جن لوگوں نے کفر اختیار کیا تھا انہیں گروہ در گروہ جہنم کی طرف ہانکا جائے گا، یہاں تک کہ جب وہ اس کے پاس پہنچیں گے تو اس کے دروازے کھول دیے جائیں گے، اور اس کے نگہبان ان سے کہیں گے: کیا تمہارے پاس تم میں سے رسول نہیں آئے تھے جو تم پر تمہارے رب کی آیات پڑھتے تھے اور تمہیں آج کے دن کی ملاقات سے ڈراتے تھے؟ وہ کہیں گے: ہاں ضرور آئے تھے، لیکن کافروں پر عذاب کا فیصلہ ثابت ہو چکا تھا۔",
     "persian_text": "و کسانی که کفر ورزیدند، گروه گروه به سوی جهنم رانده می‌شوند، تا هنگامی که به آن رسیدند، درهای آن گشوده شد و نگهبانان آن به ایشان گفتند: آیا پیامبرانی از خودتان نزد شما نیامدند که آیات پروردگارتان را بر شما می‌خواندند و شما را از ملاقات این روزتان بیم می‌دادند؟ گفتند: آری، ولی فرمان عذاب بر کافران محقق شد.",
     "transliteration": "Wa seeqal-lazeena kafaroo ilaa jahannama zumaran hattaa izaa jaaa'oohaa futihat abwaabuhaa wa qaala lahum khazanatuhaaa alam ya'tikum rusulum minkum yatloona 'alaykum aayaati rabbikum wa yunziroonakum liqaaa'a yawmikum haazaa qaaloo balaa wa laakin haqqat kalimatul-'azaabi 'alal-kaafireen"
