@@ -121,7 +121,7 @@ ayats = [
   {
     "verse_number": 15,
     "english_text": "Now worship whoever you want, say: The losers Verily are those who shall have kept themselves and their families in loss on the Day of Judgement; be aware this is the clear loss.",
-    "arabic_text": "فَاعْبُدُواْ مَا شِئْتُم مِّن دُونِهِ ۗ قُلْ اِنَّ الْخَـٰسِرِينَ الَّذِينَ خَسِرُوٓاْ اَنفُسَهُمْ وَاَهْلِيهِمْ يَوْمَ الْقِيَـٰمَةِ ۗ اَلَا ذَٰلِكَ هُوَ الْخُسْرَانُ الْمُبِينُ",
+    "arabic_text": "فَاعْبُدُواْ مَا شِئْتُم مِّن دُونِهِ ۗ قُلْ اِنَّ الْخَـٰسِرِينَ الَّذِينَ خَسِرُوٓاْ اَنفُسَهُمْ وَاَهْلِيهِمْ يَوْمَ الْقِيَـٰمَةِ ۗ اَلَا ذٰلِكَ هُوَ الْخُسْرَانُ الْمُبِينُ",
     "urdu_text": "تو اس کے سوا جس کی چاہو عبادت کرو۔ کہہ دیجیے کہ بے شک نقصان اٹھانے والے وہ ہیں جنہوں نے قیامت کے دن اپنے آپ کو اور اپنے گھر والوں کو نقصان میں ڈالا۔ خبردار! یہی کھلا نقصان ہے۔",
     "persian_text": "پس هر که را می‌خواهید غیر از او بپرستید. بگو: همانا زیانکاران کسانی هستند که خود و خانواده‌شان را در روز قیامت به زیان افکنده‌اند. آگاه باشید که این همان زیان آشکار است.",
     "transliteration": "Fa'budoo maa shi'tum min doonihee qul innal-khaasireena alladheena khasiroo anfusahum wa ahleehim yawmal-qiyaamah alaa dhaalika huwal-khusraanul-mubeen"
@@ -129,7 +129,7 @@ ayats = [
   {
     "verse_number": 16,
     "english_text": "Upon them will be the covering of Hellfire and below the bedding of fire, these are the talks by which Allah warns His servants, so O My servants, fear Me.",
-    "arabic_text": "لَهُم مِّن فَوْقِهِمْ ظُلَلٌۭ مِّنَ النَّارِ وَمِن تَحْتِهِمْ ظُلَلٌۭ ۚ ذَٰلِكَ يُخَوِّفُ اللّٰهُ بِهِ عِبَادَهُ ۚ يَـٰعِبَادِ فَاتَّقُونِ",
+    "arabic_text": "لَهُم مِّن فَوْقِهِمْ ظُلَلٌۭ مِّنَ النَّارِ وَ مِن تَحْتِهِمْ ظُلَلٌۭ ۚ ذٰلِكَ يُخَوِّفُ اللّٰهُ بِهِ عِبَادَهُ ۚ يَـٰعِبَادِ فَاتَّقُونِ",
     "urdu_text": "ان کے اوپر آگ کے سائبان ہوں گے اور ان کے نیچے بھی آگ کے بستر۔ یہ وہ باتیں ہیں جن سے اللہ اپنے بندوں کو ڈراتا ہے۔ اے میرے بندو! پس مجھ سے ڈرو۔",
     "persian_text": "برای آنان از بالای سرشان سایبان‌هایی از آتش است و از زیرشان نیز سایبان‌ها. این است که خداوند بندگانش را با آن می‌ترساند. ای بندگان من، پس از من بترسید.",
     "transliteration": "Lahum min fawqihim zulalum minan-naari wa min tahtihim zulal dhaalika yukhawwiful-laahu bihee 'ibaadahoo yaa 'ibaadi fattaqoon"
@@ -137,7 +137,7 @@ ayats = [
   {
     "verse_number": 17,
     "english_text": "Whoever separated from the unjust that they don't worship and turned to Allah, for them is glad tidings from Us, therefore, O Prophet! Give glad tidings to my servants.",
-    "arabic_text": "وَالَّذِينَ اجْتَنَبُواْ الطَّـٰغُوتَ اَن يَعْبُدُوهَا وَاَنَابُوٓاْ اِلَى اللّٰهِ لَهُمُ الْبُشْرَىٰ ۚ فَبَشِّرْ عِبَادِ",
+    "arabic_text": "وَالَّذِينَ اجْتَنَبُواْ الطَّـٰغُوتَ اَن يَعْبُدُوهَا وَاَنَابُوٓاْ اِلَى اللّٰهِ لَهُمُ الْبُشْرٰى ۚ فَبَشِّرْ عِبَادِ",
     "urdu_text": "اور جن لوگوں نے طاغوت کی عبادت سے پرہیز کیا اور اللہ کی طرف رجوع کیا، ان کے لیے خوشخبری ہے۔ پس اے نبی! میرے بندوں کو خوشخبری سنا دیجیے۔",
     "persian_text": "و کسانی که از پرستش طاغوت دوری کردند و به سوی خدا بازگشتند، برای آنان بشارت است. پس ای پیامبر، بندگان مرا بشارت ده.",
     "transliteration": "Walladheenaj-tanabut-taaghoota an ya'budoohaa wa anaaboo ilal-laahi lahumul-bushraa fabashshir 'ibaad"
@@ -169,7 +169,7 @@ ayats = [
   {
     "verse_number": 21,
     "english_text": "Did not you see that Allah sent the water from sky, then flown it into the different rivers, then made colourful farming from it, then it withers and becomes yellow, He makes it into husk; most Verily there is admonition in this for those who understand.",
-    "arabic_text": "اَلَمْ تَرَ اَنَّ اللّٰهَ اَنزَلَ مِنَ السَّمَآءِ مَآءًۭ فَسَلَكَهُ يَنَـٰبِيعَ فِى الْاَرْضِ ثُمَّ يُخْرِجُ بِهِ زَرْعًۭا مُّخْتَلِفًا اَلْوَٰنُهُ ثُمَّ يَهِيجُ فَتَرَىٰهُ مُصْفَرًّۭا ثُمَّ يَجْعَلُهُ حُطَـٰمًا ۚ اِنَّ فِى ذَٰلِكَ لَذِكْرَىٰ لِاُو۟لِى الْاَلْبَـٰبِ",
+    "arabic_text": "اَلَمْ تَرَ اَنَّ اللّٰهَ اَنزَلَ مِنَ السَّمَآءِ مَآءًۭ فَسَلَكَهُ يَنَـٰبِيعَ فِى الْاَرْضِ ثُمَّ يُخْرِجُ بِهِ زَرْعًۭا مُّخْتَلِفًا اَلْوَٰنُهُ ثُمَّ يَهِيجُ فَتَرَىٰهُ مُصْفَرًّۭا ثُمَّ يَجْعَلُهُ حُطَـٰمًا ۚ اِنَّ فِى ذٰلِكَ لَذِكْرَىٰ لِاُو۟لِى الْاَلْبَـٰبِ",
     "urdu_text": "کیا تم نے نہیں دیکھا کہ اللہ نے آسمان سے پانی برسایا، پھر اسے زمین میں چشموں کی شکل میں بہایا، پھر اس سے مختلف رنگوں کی کھیتی اُگائی، پھر وہ خشک ہو جاتی ہے اور تم اسے زرد دیکھتے ہو، پھر اللہ اسے ریزہ ریزہ کر دیتا ہے۔ بیشک اس میں عقل والوں کے لیے نصیحت ہے۔",
     "persian_text": "آیا ندیدی که خداوند از آسمان آب فرو فرستاد، سپس آن را به صورت چشمه‌ها در زمین جاری ساخت، آنگاه با آن کشتی رنگارنگ بیرون آورد، سپس خشک می‌شود و آن را زرد می‌بینی، آنگاه آن را خرد و پوسیده می‌گرداند. همانا در این برای خردمندان پندی است.",
     "transliteration": "Alam tara anna Allaha anzala mina as-sama'i ma'an fasalakahu yanabi'a fi al-ardi thumma yukhriju bihi zar'an mukhtalifan alwanuhu thumma yahiju fatarahu musfarran thumma yaj'aluhu hutaman inna fi dhalika ladhikra li-uli al-albab"
@@ -185,7 +185,7 @@ ayats = [
   {
     "verse_number": 23,
     "english_text": "Allah has revealed the best words in the form of a Book, whose verses are similar to each other, and have been repeated, that their hairs are raised who have fear of Allah, then their bodies and hearts become soft for remembrance of Allah, this is the real guidance of Allah, He gives to whoever He pleases; and to whoever He leaves in misguidance, nobody can guide him.",
-    "arabic_text": "اللّٰهُ نَزَّلَ اَحْسَنَ الْحَدِيثِ كِتٰبًا مُّتَشَـٰبِهًۭا مَّثَانِىَ تَقْشَعِرُّ مِنْهُ جُلُودُ الَّذِينَ يَخْشَوْنَ رَبَّهُمْ ثُمَّ تَلِينُ جُلُودُهُمْ وَقُلُوبُهُمْ اِلـٰى ذِكْرِ اللّٰهِ ۚ ذَٰلِكَ هُدَى اللّٰهِ يَهْدِى بِهِ مَن يَشَآءُ ۚ وَمَن يُضْلِلِ اللّٰهُ فَمَا لَهُ مِنْ هَادٍ",
+    "arabic_text": "اللّٰهُ نَزَّلَ اَحْسَنَ الْحَدِيثِ كِتٰبًا مُّتَشَـٰبِهًۭا مَّثَانِىَ تَقْشَعِرُّ مِنْهُ جُلُودُ الَّذِينَ يَخْشَوْنَ رَبَّهُمْ ثُمَّ تَلِينُ جُلُودُهُمْ وَقُلُوبُهُمْ اِلـٰى ذِكْرِ اللّٰهِ ۚ ذٰلِكَ هُدَى اللّٰهِ يَهْدِى بِهِ مَن يَشَآءُ ۚ وَمَن يُضْلِلِ اللّٰهُ فَمَا لَهُ مِنْ هَادٍ",
     "urdu_text": "اللہ نے بہترین کلام نازل فرمایا ہے، ایک ایسی کتاب جس کی آیات ایک دوسرے سے ملتی جلتی ہیں اور بار بار دہرائی گئی ہیں، جس سے ان لوگوں کے رونگٹے کھڑے ہو جاتے ہیں جو اپنے رب سے ڈرتے ہیں، پھر ان کے جسم اور دل اللہ کے ذکر کی طرف نرم ہو جاتے ہیں۔ یہ اللہ کی ہدایت ہے، وہ جسے چاہتا ہے ہدایت دیتا ہے، اور جسے اللہ گمراہ کر دے اس کا کوئی رہنما نہیں۔",
     "persian_text": "خداوند بهترین سخن را نازل کرده است، کتابی که آیاتش همانند یکدیگر و تکرار شونده است، که از آن پوست کسانی که از پروردگارشان می‌ترسند مور مور می‌شود، سپس پوست و دل‌هایشان به یاد خدا نرم می‌گردد. این هدایت خداست که هر که را بخواهد هدایت می‌کند، و هر که را خدا گمراه کند، هیچ راهنمایی برای او نیست.",
     "transliteration": "Allahu nazzala ahsana al-hadithi kitaban mutashabihan mathani taqsha'irru minhu juludu alladhina yakhshawna rabbahum thumma talinu juluduhum waqulubuhum ila dhikri Allahi dhalika huda Allahi yahdi bihi man yasha'u waman yudlili Allahu fama lahu min had"
@@ -273,7 +273,7 @@ ayats = [
   {
     "verse_number": 34,
     "english_text": "For them everything is there with the Lord whatever they wish, this is the recompense of the good deeds.",
-    "arabic_text": "لَهُم مَّا يَشَآءُونَ عِندَ رَبِّهِمْ ۚ ذَٰلِكَ جَزَآءُ الْمُحْسِنِينَ",
+    "arabic_text": "لَهُم مَّا يَشَآءُونَ عِندَ رَبِّهِمْ ۚ ذٰلِكَ جَزَآءُ الْمُحْسِنِينَ",
     "urdu_text": "ان کے لیے ان کے رب کے پاس وہ سب کچھ ہے جو وہ چاہیں، یہ نیکوکاروں کا بدلہ ہے۔",
     "persian_text": "برای آنان نزد پروردگارشان هر چه بخواهند هست، این پاداش نیکوکاران است.",
     "transliteration": "Lahum maa yashaa'oona 'inda rabbihim, dhaalika jazaa'ul-muhsineen"
@@ -337,7 +337,7 @@ ayats = [
   {
     "verse_number": 42,
     "english_text": "That is Allah who calls towards Him the spirits at the time of death, and those who do not die also calls their spirits to Him when they are asleep, and then if He decides anybody's death He withheld that spirit with Him, and releases all other spirits until a certain period, there are many signs in this for the people who ponder.",
-    "arabic_text": "اللّٰهُ يَتَوَفَّى الْاَنفُسَ حِينَ مَوْتِهَا وَالَّتِى لَمْ تَمُتْ فِى مَنَامِهَا ۖ فَيُمْسِكُ الَّتِى قَضَىٰ عَلَيْهَا الْمَوْتَ وَيُرْسِلُ الْاُخْرَىٰٓ اِلـٰىٓ اَجَلٍۢ مُّسَمًّى ۚ اِنَّ فِى ذَٰلِكَ لَـَٔايَـٰتٍۢ لِّقَوْمٍۢ يَتَفَكَّرُونَ",
+    "arabic_text": "اللّٰهُ يَتَوَفَّى الْاَنفُسَ حِينَ مَوْتِهَا وَالَّتِى لَمْ تَمُتْ فِى مَنَامِهَا ۖ فَيُمْسِكُ الَّتِى قَضَىٰ عَلَيْهَا الْمَوْتَ وَيُرْسِلُ الْاُخْرَىٰٓ اِلـٰىٓ اَجَلٍۢ مُّسَمًّى ۚ اِنَّ فِى ذٰلِكَ لَـَٔايَـٰتٍۢ لِّقَوْمٍۢ يَتَفَكَّرُونَ",
     "urdu_text": "اللہ ہی روحوں کو موت کے وقت قبض کرتا ہے اور جو نہیں مرتے ان کی روحوں کو نیند میں قبض کرتا ہے، پھر جس کی موت کا فیصلہ کر دیتا ہے اس کی روح کو روک لیتا ہے اور دوسری روحوں کو ایک مقررہ وقت تک چھوڑ دیتا ہے، بیشک اس میں غور و فکر کرنے والوں کے لیے بہت سی نشانیاں ہیں۔",
     "persian_text": "خداوند است که جان‌ها را هنگام مرگشان می‌گیرد و آنها را که نمرده‌اند در خوابشان می‌گیرد، پس آن جان را که مرگش را مقرر کرده نگه می‌دارد و دیگری را تا زمان معینی رها می‌کند، همانا در این نشانه‌هایی است برای قومی که تفکر می‌کنند.",
     "transliteration": "Allaahu yatawaffal-anfusa heena mawtihaa wallatee lam tamut fee manaamihaa, fa-yumsikul-latee qadaa 'alayhal-mawta wa yursilul-ukhraa ilaa ajalin musammaa, inna fee dhaalika la-aayaatil-liqawminy-yatafakkaroon"
@@ -417,7 +417,7 @@ ayats = [
   {
     "verse_number": 52,
     "english_text": "Do they not know that it is Allah who expands the sustenance of whoever He pleases, and straitens the sustenance of whoever He pleases, in these affairs many signs are found for the believers.",
-    "arabic_text": "اَوَلَمْ يَعْلَمُوٓاْ اَنَّ اللّٰهَ يَبْسُطُ الرِّزْقَ لِمَن يَشَآءُ وَيَقْدِرُ ۚ اِنَّ فِى ذَٰلِكَ لَـَٔايَـٰتٍۢ لِّقَوْمٍۢ يُؤْمِنُونَ",
+    "arabic_text": "اَوَلَمْ يَعْلَمُوٓاْ اَنَّ اللّٰهَ يَبْسُطُ الرِّزْقَ لِمَن يَشَآءُ وَيَقْدِرُ ۚ اِنَّ فِى ذٰلِكَ لَـَٔايَـٰتٍۢ لِّقَوْمٍۢ يُؤْمِنُونَ",
     "urdu_text": "کیا انہیں معلوم نہیں کہ اللہ ہی جس کے لیے چاہتا ہے رزق کشادہ کرتا ہے اور جس کے لیے چاہتا ہے تنگ کرتا ہے؟ بے شک اس میں ایمان والوں کے لیے بہت سی نشانیاں ہیں۔",
     "persian_text": "آیا نمی‌دانند که خداوند روزی را برای هر که بخواهد گسترش می‌دهد و برای هر که بخواهد تنگ می‌کند؟ در این امر نشانه‌های بسیاری برای مردمی است که ایمان می‌آورند.",
     "transliteration": "Awa lam ya'lamu anna Allaha yabsutu ar-rizqa liman yasha'u wa yaqdiru, inna fi zalika la-ayatin liqawmin yu'minun"

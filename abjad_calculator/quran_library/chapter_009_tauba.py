@@ -298,7 +298,7 @@ ayats = [
   {
     "verse_number": 38,
     "english_text": "O Believers! What has happened to you, when you were told to come out and fight in the way of Allah, you glued to the ground, are you satisfied with this worldly life in exchange of the Hereafter; then remember, in the Hereafter, provision of this worldly life is very little compared to actual reality of this world.",
-    "arabic_text": "يٰٓاَيُّهَا الَّذِيْنَ اٰمَنُوْا مَا لَكُمْ اِذَا قِيْلَ لَكُمُ انْفِرُوْا فِى سَبِيْلِ اللّٰهِ اثَّاقَلْتُمْ اِلَى الْاَرْضِ ۚ اَرَضِيْتُم بِالْحَيٰوةِ الدُّنْيٰمِنَ الْاٰخِرَةِ ۚ فَمَا مَتَاعُ الْحَيٰوةِ الدُّنْيٰفِى الْاٰخِرَةِ اِلَّا قَلِيْلٌ",
+    "arabic_text": "يٰٓاَيُّهَا الَّذِيْنَ اٰمَنُوْا مَا لَكُمْ اِذَا قِيْلَ لَكُمُ انْفِرُوْا فِى سَبِيْلِ اللّٰهِ اثَّاقَلْتُمْ اِلَى الْاَرْضِ ۚ اَرَضِيْتُم بِالْحَيٰوةِ الدُّنْيَا مِنَ الْاٰخِرَةِ ۚ فَمَا مَتَاعُ الْحَيٰوةِ الدُّنْيَا فِى الْاٰخِرَةِ اِلَّا قَلِيْلٌ",
     "urdu_text": "اے ایمان والو! تمہیں کیا ہو گیا ہے کہ جب تم سے کہا جاتا ہے کہ اللہ کی راہ میں نکلو تو تم زمین سے چمٹ جاتے ہو، کیا تم آخرت کے بدلے دنیا کی زندگی پر راضی ہو گئے ہو؟ تو یاد رکھو کہ آخرت کے مقابلے میں دنیا کی زندگی کا سامان بہت ہی کم ہے۔",
     "persian_text": "ای کسانی که ایمان آورده‌اید! شما را چه شده است که وقتی به شما گفته می‌شود در راه خدا بیرون آیید، به زمین سنگینی می‌کنید؟ آیا به زندگی دنیا به جای آخرت راضی شده‌اید؟ پس بهره زندگی دنیا در برابر آخرت جز اندکی نیست.",
     "transliteration": "Ya ayyuha alladhina amanu ma lakum idha qila lakumu infiru fi sabilillahi iththaqaltum ila al-ard, araditu bil-hayati ad-dunya mina al-akhirah, fama mata'u al-hayati ad-dunya fi al-akhirati illa qalil",
@@ -434,7 +434,7 @@ ayats = [
   {
     "verse_number": 55,
     "english_text": "Their wealth and children should not surprise you, this is the will of Allah to punish them through these in their life of this world and they will die as unbelievers.",
-    "arabic_text": "فَلَا تُعْجِبْكَ اَمْوَالُهُمْ وَ لَآ اَوْلادُهُمْ اِنَّمَا يُرِيْدُ اللّٰهُ لِيُعَذِّبَهُم بِهَا فِى الْحَيٰوةِ الدُّنْيٰوَ تَزْهَقَ اَنْفُسُهُمْ وَ هُمْ كٰفِرُوْنَ",
+    "arabic_text": "فَلَا تُعْجِبْكَ اَمْوَالُهُمْ وَ لَآ اَوْلادُهُمْ اِنَّمَا يُرِيْدُ اللّٰهُ لِيُعَذِّبَهُم بِهَا فِى الْحَيٰوةِ الدُّنْيَا وَ تَزْهَقَ اَنْفُسُهُمْ وَ هُمْ كٰفِرُوْنَ",
     "urdu_text": "ان کے مال اور اولاد تمہیں حیران نہ کریں، اللہ کی مشیت یہ ہے کہ انہیں دنیا کی زندگی میں ان چیزوں کے ذریعے عذاب دے، اور وہ کافر ہی مریں",
     "persian_text": "پس اموال و فرزندان آنها تو را به شگفتی نیاندازد، خداوند می‌خواهد که آنان را در زندگی دنیا به وسیله آنها عذاب دهد و جانشان در حالی که کافرند از تن بیرون رود",
     "transliteration": "Fala tu'jibka amwaluhum wa la awladuhum innama yureedullahu liyu'adhdhibahum biha fil hayatid dunya wa tazhaqa anfusuhum wa hum kafiroon",
@@ -546,7 +546,7 @@ ayats = [
   {
     "verse_number": 69,
     "english_text": "Your example is like your earlier people who were more powerful than you and also wealthier and they had more children than you, they benefitted well from their share, and you also took advantage of your fate, like your earlier ones have benefitted; and like this you indulge in useless things, as they have indulged, although, they are the people whose deeds have gone waste in this world and the Hereafter, and (they) are the same people who are in loss.",
-    "arabic_text": "كَالَّذِيْنَ مِنْ قَبْلِكُمْ كَانُوْا اَشَدَّ مِنْكُمْ قُوَّةً وَ اَكْثَرَ اَمْوَالًا وَ اَوْلَادًا فَاسْتَمْتَعُوْا بِخَلَاقِهِمْ فَاسْتَمْتَعْتُم بِخَلَاقِكُمْ كَمَا اسْتَمْتَعَ الَّذِيْنَ مِنْ قَبْلِكُمْ بِخَلَاقِهِمْ وَ خُضْتُمْ كَالَّذِى خَاضُوا ۚ اُولٰٓئِكَ حَبِطَتْ اَعْمَالُهُمْ فِى الدُّنْيٰوَ الْاٰخِرَةِ وَ اُولٰئِكَ هُمُ الْخٰسِرُوْنَ",
+    "arabic_text": "كَالَّذِيْنَ مِنْ قَبْلِكُمْ كَانُوْا اَشَدَّ مِنْكُمْ قُوَّةً وَ اَكْثَرَ اَمْوَالًا وَ اَوْلَادًا فَاسْتَمْتَعُوْا بِخَلَاقِهِمْ فَاسْتَمْتَعْتُم بِخَلَاقِكُمْ كَمَا اسْتَمْتَعَ الَّذِيْنَ مِنْ قَبْلِكُمْ بِخَلَاقِهِمْ وَ خُضْتُمْ كَالَّذِى خَاضُوا ۚ اُولٰٓئِكَ حَبِطَتْ اَعْمَالُهُمْ فِى الدُّنْيَا وَ الْاٰخِرَةِ وَ اُولٰئِكَ هُمُ الْخٰسِرُوْنَ",
     "urdu_text": "تمہاری مثال ان لوگوں کی طرح ہے جو تم سے پہلے تھے، وہ تم سے زیادہ طاقتور تھے، مال و اولاد میں بھی زیادہ تھے، انہوں نے اپنے حصے سے فائدہ اٹھایا اور تم نے بھی اپنے حصے سے فائدہ اٹھایا جیسے تم سے پہلے والوں نے فائدہ اٹھایا تھا، اور تم نے بھی فضول باتوں میں پڑے رہے جیسے وہ پڑے رہے تھے، یہی وہ لوگ ہیں جن کے اعمال دنیا اور آخرت میں برباد ہو گئے اور یہی لوگ نقصان اٹھانے والے ہیں",
     "persian_text": "مانند کسانی که پیش از شما بودند که از شما نیرومندتر و دارای مال و فرزندان بیشتر بودند، پس از بهره خود بهره‌مند شدند و شما نیز از بهره خود بهره‌مند شدید همان‌گونه که پیشینیان از بهره خود بهره‌مند شدند و همچون آنان به سخنان باطل پرداختید، اینان کسانی هستند که اعمالشان در دنیا و آخرت تباه شد و آنان زیانکارانند",
     "transliteration": "Kalladhina min qablikum kanu ashadda minkum quwwatan wa akthara amwalan wa awladan fastamta'u bi-khalaqihim fastamta'tum bi-khalaqikum kamastamta'a alladhina min qablikum bi-khalaqihim wa khudtum kalladhi khadu ula'ika habitat a'maluhum fid-dunya wal-akhirati wa ula'ika humul-khasirun",
@@ -586,7 +586,7 @@ ayats = [
   {
     "verse_number": 74,
     "english_text": "They swear on Allah in their talk that they did not say this, whereas they uttered words of infidel, and became infidel after adopting Islam, and wished for, which they could not get, and their anger is on this that Allah and His Prophet with their Grace and Mercy have enriched Muslims, anyhow if they still repent is better for them, and if they turn their face; then He will give painful punishment to them in this world and the Hereafter, and on the earth no one will be their guardian and helper.",
-    "arabic_text": "يَحْلِفُونَ بِاللّٰهِ مَا قَالُوْا وَ لَقَدْ قَالُوْا كَلِمَةَ الْكُفْرِ وَ كَفَرُوْا بَعْدَ اِسْلامِهِمْ وَ هَمُّوْا بِمَا لَمْ يَنَالُوْا ۚ وَ مَا نَقَمُوْا اِلَّآ اَنْ اَغْنٰهُمُ اللّٰهُ وَ رَسُولُهُ مِنْ فَضْلِهِ ۚ فَاِنْ يَتُوْبُوْا يَكُ خَيْرًا لَّهُمْ وَ اِنْ يَّتَوَلَّوْا يُعَذِّبْهُمُ اللّٰهُ عَذَابًا اَلِيْمًا فِى الدُّنْيٰوَالْاٰخِرَةِ وَ مَا لَهُمْ فِى الْاَرْضِ مِنْ وَّلِىٍّ وَّ لَا نَصِيْرٍ",
+    "arabic_text": "يَحْلِفُونَ بِاللّٰهِ مَا قَالُوْا وَ لَقَدْ قَالُوْا كَلِمَةَ الْكُفْرِ وَ كَفَرُوْا بَعْدَ اِسْلامِهِمْ وَ هَمُّوْا بِمَا لَمْ يَنَالُوْا ۚ وَ مَا نَقَمُوْا اِلَّآ اَنْ اَغْنٰهُمُ اللّٰهُ وَ رَسُولُهُ مِنْ فَضْلِهِ ۚ فَاِنْ يَتُوْبُوْا يَكُ خَيْرًا لَّهُمْ وَ اِنْ يَّتَوَلَّوْا يُعَذِّبْهُمُ اللّٰهُ عَذَابًا اَلِيْمًا فِى الدُّنْيَا وَالْاٰخِرَةِ وَ مَا لَهُمْ فِى الْاَرْضِ مِنْ وَّلِىٍّ وَّ لَا نَصِيْرٍ",
     "urdu_text": "وہ اللہ کی قسمیں کھاتے ہیں کہ انہوں نے یہ نہیں کہا، حالانکہ انہوں نے کفر کا کلمہ کہا تھا، اور اسلام لانے کے بعد کافر ہو گئے، اور ایسی چیز کا ارادہ کیا جو انہیں نہیں مل سکی، اور ان کی ناراضگی صرف اس بات پر ہے کہ اللہ اور اس کے رسول نے اپنے فضل سے مسلمانوں کو مالدار بنا دیا، پھر اگر وہ توبہ کر لیں تو یہ ان کے لیے بہتر ہے، اور اگر منہ موڑ لیں تو اللہ انہیں دنیا اور آخرت میں دردناک عذاب دے گا، اور زمین میں ان کا کوئی حامی اور مددگار نہیں ہوگا۔",
     "persian_text": "به خدا سوگند یاد می‌کنند که چنین نگفته‌اند، در حالی که سخن کفر گفتند و پس از اسلام آوردن کافر شدند، و به چیزی که نتوانستند به دست آورند اراده کردند، و جز این بر آنان خرده نگرفتند که خدا و پیامبرش از فضل خود آنان را بی‌نیاز کرد، پس اگر توبه کنند برای آنان بهتر است، و اگر روی برگردانند خداوند آنان را در دنیا و آخرت به عذاب دردناک گرفتار خواهد کرد، و در زمین نه یاوری دارند و نه یاری‌دهنده‌ای.",
     "transliteration": "Yahlifoona billahi ma qaaloo wa laqad qaaloo kalimata al-kufri wa kafaroo ba'da islaamihim wa hammoo bimaa lam yanaaloo, wa maa naqamoo illaa an aghnaahumu Allahu wa Rasooluhoo min fadhlihi, fa-in yatooboo yaku khayran lahum wa in yatawallaw yu'adhdhibhumu Allahu 'adhaaban aleeman fid-dunyaa wal-aakhirati wa maa lahum fil-ardi min waliyyin wa laa naseer",
@@ -674,7 +674,7 @@ ayats = [
   {
     "verse_number": 85,
     "english_text": "And their wealth and children should not look good to you, Allah wish to punish them in this world through them, and wish them they may die in disbelief.",
-    "arabic_text": "وَ لَا تُعْجِبْكَ اَمْوَالُهُمْ وَ اَوْلَادُهُمْ ۚ اِنَّمَا يُرِيْدُ اللّٰهُ اَن يُّعَذِّبَهُم بِهَا فِىْ الدُّنْيٰوَ تَزْهَقَ اَنْفُسُهُمْ وَ هُمْ كٰفِرُوْنَ",
+    "arabic_text": "وَ لَا تُعْجِبْكَ اَمْوَالُهُمْ وَ اَوْلَادُهُمْ ۚ اِنَّمَا يُرِيْدُ اللّٰهُ اَن يُّعَذِّبَهُم بِهَا فِىْ الدُّنْيَا وَ تَزْهَقَ اَنْفُسُهُمْ وَ هُمْ كٰفِرُوْنَ",
     "urdu_text": "اور ان کے مال اور اولاد آپ کو اچھے نہ لگیں، اللہ تو یہ چاہتا ہے کہ انہیں دنیا میں ان کے ذریعے عذاب دے اور ان کی جانیں کفر کی حالت میں نکلیں۔",
     "persian_text": "و اموال و فرزندان آنان تو را به شگفتی نیاندازد، خداوند فقط می‌خواهد که آنان را در دنیا به وسیله آنها عذاب دهد و جان‌هایشان در حالی که کافرند، جدا شود.",
     "transliteration": "Wa laa tu'jibka amwaaluhum wa awlaaduhum; innamaa yureedullaahu an yu'azzibahum bihaa fid-dunyaa wa tazhaqa anfusuhum wa hum kaafiroon",

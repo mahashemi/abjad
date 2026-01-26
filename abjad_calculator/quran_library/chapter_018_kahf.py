@@ -137,7 +137,7 @@ ayats = [
   {
     "verse_number": 17,
     "english_text": "(At last they settled in the cave) When sun rises you will see that it inclines towards right side of their cave, and when it set, it tilts towards their left; and they are staying in spacious place in the cave; this is one sign out of (Many) signs of Allah, and to whomsoever Allah guides, only he is the guided one, and to whomsoever He misguides then you can never find a guardian for him.",
-    "arabic_text": "۞ وَتَرَى الشَّمْسَ اِذَا طَلَعَت تَّزَٰوَرُ عَن كَهْفِهِمْ ذَاتَ الْيَمِينِ وَاِذَا غَرَبَت تَّقْرِضُهُمْ ذَاتَ الشِّمَالِ وَهُمْ فِى فَجْوَةٍۢ مِّنْهُ ۚ ذَٰلِكَ مِنْ اٰيٰتِ اللّٰهِ ۗ مَن يَهْدِ اللّٰهُ فَهُوَ الْمُهْتَدِ ۖ وَمَن يُضْلِلْ فَلَن تَجِدَ لَهُ وَلِيًّۭا مُّرْشِدًۭا",
+    "arabic_text": "۞ وَتَرَى الشَّمْسَ اِذَا طَلَعَت تَّزَٰوَرُ عَن كَهْفِهِمْ ذَاتَ الْيَمِينِ وَاِذَا غَرَبَت تَّقْرِضُهُمْ ذَاتَ الشِّمَالِ وَهُمْ فِى فَجْوَةٍۢ مِّنْهُ ۚ ذٰلِكَ مِنْ اٰيٰتِ اللّٰهِ ۗ مَن يَهْدِ اللّٰهُ فَهُوَ الْمُهْتَدِ ۖ وَمَن يُضْلِلْ فَلَن تَجِدَ لَهُ وَلِيًّۭا مُّرْشِدًۭا",
     "urdu_text": "اور تم دیکھو گے که جب سورج طلوع هوتا هے تو ان کے غار کی دائیں طرف جھک جاتا هے، اور جب غروب هوتا هے تو بائیں طرف مائل هو جاتا هے، اور وه غار کی کشاده جگه میں هیں، یه الله کی نشانیوں میں سے ایک نشانی هے، جسے الله هدایت دے وهی هدایت یافته هے، اور جسے گمراه کرے تو تم اس کے لیے کوئی رهنما سرپرست نهیں پاؤ گے۔",
     "persian_text": "و خورشید را می‌بینی که چون طلوع کند از غار آنان به سمت راست منحرف می‌شود و چون غروب کند از سمت چپشان می‌گذرد، و آنان در جای فراخی از غار قرار دارند، این از آیات الهی است، هر که را الله هدایت کند او هدایت‌یافته است و هر که را گمراه سازد هرگز برای او سرپرست و راهنمایی نخواهی یافت.",
     "transliteration": "Wa tarashshamsa idha tala'at tazawaru 'an kahfihim dhatal-yamini wa idha gharabat taqriduhum dhatashshimali wa hum fi fajwatim-minh, dhalika min ayatillah, man yahdillahu fahuwal-muhtad, wa man yudlil falan tajida lahu waliyyan murshida"
@@ -153,7 +153,7 @@ ayats = [
   {
     "verse_number": 19,
     "english_text": "And (as We put them to sleep) likewise We raised them (woke them up) that they may question each other, and one speaker among them said: for how long you stayed (here). (another one) said: one day or even less than that. (thereafter they) said: your Lord knows for how long you have stayed, now send one of us to the city with some coins so he goes and see which is the best food (available), and bring some provision for you, he should go discreetly, that no one should come to know about you.",
-    "arabic_text": "وَكَذَٰلِكَ بَعَثْنَـٰهُمْ لِيَتَسَآءَلُواْ بَيْنَهُمْ ۚ قَالَ قَآئِلٌۭ مِّنْهُمْ كَمْ لَبِثْتُمْ ۖ قَالُوْاْ لَبِثْنَا يَوْمًا اَوْ بَعْضَ يَوْمٍۢ ۚ قَالُوْاْ رَبُّكُمْ اَعْلَمُ بِمَا لَبِثْتُمْ فَابْعَثُوٓاْ اَحَدَكُم بِوَرِقِكُمْ هَـٰذِهِٓ اِلَى الْمَدِينَةِ فَلْيَنظُرْ اَيُّهَآ اَزْكَىٰ طَعَامًا فَلْيَاْتِكُم بِرِزْقٍۢ مِّنْهُ وَلْيَتَلَطَّفْ وَ لَا يُشْعِرَنَّ بِكُمْ اَحَدًا",
+    "arabic_text": "وَكَذٰلِكَ بَعَثْنَـٰهُمْ لِيَتَسَآءَلُواْ بَيْنَهُمْ ۚ قَالَ قَآئِلٌۭ مِّنْهُمْ كَمْ لَبِثْتُمْ ۖ قَالُوْاْ لَبِثْنَا يَوْمًا اَوْ بَعْضَ يَوْمٍۢ ۚ قَالُوْاْ رَبُّكُمْ اَعْلَمُ بِمَا لَبِثْتُمْ فَابْعَثُوٓاْ اَحَدَكُم بِوَرِقِكُمْ هَـٰذِهِٓ اِلَى الْمَدِينَةِ فَلْيَنظُرْ اَيُّهَآ اَزْكَىٰ طَعَامًا فَلْيَاْتِكُم بِرِزْقٍۢ مِّنْهُ وَلْيَتَلَطَّفْ وَ لَا يُشْعِرَنَّ بِكُمْ اَحَدًا",
     "urdu_text": "اور اسی طرح هم نے انهیں جگایا تاکه وه آپس میں سوال کریں، ان میں سے ایک کهنے والے نے کها: تم کتنی دیر ٹھهرے؟ انهوں نے کها: ایک دن یا دن کا کچھ حصه، پھر کها: تمهارا رب بهتر جانتا هے که تم کتنی دیر ٹھهرے، اب اپنے میں سے کسی ایک کو یه چاندی کے سکے دے کر شهر بھیجو، وه دیکھے که کون سا کھانا بهتر هے اور وهاں سے تمهارے لیے کچھ رزق لائے، اور احتیاط سے جائے اور کسی کو تمهاری خبر نه هونے دے۔",
     "persian_text": "و همچنین آنان را برانگیختیم تا از یکدیگر بپرسند، یکی از آنان گفت: چقدر درنگ کردید؟ گفتند: یک روز یا بخشی از روز، گفتند: پروردگارتان به مدت درنگ شما داناتر است، پس یکی از خود را با این سکه‌های نقره به شهر بفرستید تا ببیند کدام غذا پاکیزه‌تر است و برای شما از آن روزی بیاورد و باید با ملایمت رفتار کند و هیچ کس را از شما آگاه نسازد.",
     "transliteration": "Wa kadhalika ba'athnahum liyatasaa'alu baynahum, qala qa'ilum minhum kam labithtum, qalu labithna yawman aw ba'da yawm, qalu rabbukum a'lamu bima labithtum fab'athu ahadakum biwariqikum hadhihi ilal-madinati falyanzur ayyuha azka ta'aman falya'tikum birizqim-minhu walyatalattaf wa la yush'iranna bikum ahada"
@@ -169,7 +169,7 @@ ayats = [
   {
     "verse_number": 21,
     "english_text": "And in this way We made them know their condition so they should see that promise of Allah is true, and that there is no doubt in the Day of Judgement. (after getting their news) they disputed among themselves; some of them said that an edifice should be erected on the cave in their remembrance, their Lord knows of their condition well, and those who prevailed over others said: we will make a mosque on it.",
-    "arabic_text": "وَكَذَٰلِكَ اَعْثَرْنَا عَلَيْهِمْ لِيَعْلَمُوٓاْ اَنَّ وَعْدَ اللّٰهِ حَقٌّۭ وَاَنَّ السَّاعَةَ لَا رَيْبَ فِيهَآ اِذْ يَتَنَـٰزَعُونَ بَيْنَهُمْ اَمْرَهُمْ ۖ فَقَالُوْاْ ابْنُواْ عَلَيْهِم بُنْيَـٰنًۭا ۖ رَّبُّهُمْ اَعْلَمُ بِهِمْ ۚ قَالَ الَّذِينَ غَلَبُواْ عَلَىٰٓ اَمْرِهِمْ لَنَتَّخِذَنَّ عَلَيْهِم مَّسْجِدًۭا",
+    "arabic_text": "وَكَذٰلِكَ اَعْثَرْنَا عَلَيْهِمْ لِيَعْلَمُوٓاْ اَنَّ وَعْدَ اللّٰهِ حَقٌّۭ وَاَنَّ السَّاعَةَ لَا رَيْبَ فِيهَآ اِذْ يَتَنَـٰزَعُونَ بَيْنَهُمْ اَمْرَهُمْ ۖ فَقَالُوْاْ ابْنُواْ عَلَيْهِم بُنْيَـٰنًۭا ۖ رَّبُّهُمْ اَعْلَمُ بِهِمْ ۚ قَالَ الَّذِينَ غَلَبُواْ عَلَىٰٓ اَمْرِهِمْ لَنَتَّخِذَنَّ عَلَيْهِم مَّسْجِدًۭا",
     "urdu_text": "اور اسی طرح هم نے لوگوں کو ان کے حال سے آگاه کیا تاکه وه جان لیں که الله کا وعده سچا هے اور قیامت میں کوئی شک نهیں۔ جب لوگوں نے ان کا حال معلوم کیا تو آپس میں جھگڑنے لگے، بعض نے کها که ان کی یاد میں غار پر ایک عمارت بنا دو، ان کا رب ان کے حال کو خوب جانتا هے، اور جن لوگوں کا اختیار غالب تھا انهوں نے کها که هم اس پر ضرور ایک مسجد بنائیں گے۔",
     "persian_text": "و این‌گونه آنان را بر حال خود آگاه ساختیم تا بدانند که وعده خداوند حق است و در قیامت هیچ شکی نیست. هنگامی که مردم از حال آنان آگاه شدند، در میان خود به نزاع پرداختند، برخی گفتند بر آن غار بنایی بسازید، پروردگارشان به حال آنان داناتر است، و کسانی که بر کارشان چیره بودند گفتند: ما بر آن مسجدی خواهیم ساخت.",
     "transliteration": "Wa kadhalika a'tharna 'alayhim liya'lamu anna wa'dallahi haqqun wa annas-sa'ata la rayba fiha idh yatanaza'una baynahum amrahum faqalub-nu 'alayhim bunyanan rabbuhum a'lamu bihim qalal-ladhina ghalabu 'ala amrihim lanattakhidhanna 'alayhim masjida"
@@ -185,7 +185,7 @@ ayats = [
   {
     "verse_number": 23,
     "english_text": "And do not say for any work that you will do it tomorrow.",
-    "arabic_text": "وَ لَا تَقُولَنَّ لِشَاْىْءٍ اِنِّى فَاعِلٌۭ ذَٰلِكَ غَدًا",
+    "arabic_text": "وَ لَا تَقُولَنَّ لِشَاْىْءٍ اِنِّى فَاعِلٌۭ ذٰلِكَ غَدًا",
     "urdu_text": "اور کسی کام کے بارے میں یه نه کهو که میں کل یه کام کروں گا۔",
     "persian_text": "و درباره هیچ کاری مگو که من فردا آن را انجام خواهم داد.",
     "transliteration": "Wa la taqulanna lishay'in inni fa'ilun dhalika ghada"
@@ -313,7 +313,7 @@ ayats = [
   {
     "verse_number": 39,
     "english_text": "And when you entered the garden why didn't you say: it is all as Allah pleased (nothing is mine), because without the help of Allah no one has any power, even if you consider me inferior to you in wealth and children.",
-    "arabic_text": "وَلَوْلَآ اِذْ دَخَلْتَ جَنَّتَكَ قُلْتَ مَا شَآءَ اللّٰهُ لَا قُوَّةَ اِلَّا بِاللّٰهِ ۚ اِن تَرَنِ اَنَا۠ اَقَلَّ مِنكَ مَالًا وَوَلَدًۭا",
+    "arabic_text": "وَ لَوْلَآ اِذْ دَخَلْتَ جَنَّتَكَ قُلْتَ مَا شَآءَ اللّٰهُ لَا قُوَّةَ اِلَّا بِاللّٰهِ ۚ اِن تَرَنِ اَنَا۠ اَقَلَّ مِنكَ مَالًا وَوَلَدًۭا",
     "urdu_text": "اور جب تو اپنے باغ میں داخل هوا تو تو نے کیوں نهیں کها: ماشاء الله، لا قوۃ الا بالله (جو الله چاهے، الله کی مدد کے بغیر کوئی طاقت نهیں)، اگرچه تو مجھے اپنے سے مال اور اولاد میں کم سمجھتا هے۔",
     "persian_text": "و چرا هنگامی که وارد باغت شدی نگفتی: ماشاءالله، لا قوة إلا بالله (آنچه خدا بخواهد، قدرتی جز به یاری خدا نیست)، اگرچه مرا در مال و فرزند کمتر از خود می‌بینی.",
     "transliteration": "Wa law laaa iz dakhalta jannataka qulta maa shaaa'allaahu laa quwwata illaa billaah, in tarani ana aqalla minka maalaw-wa waladaa"
@@ -513,7 +513,7 @@ ayats = [
   {
     "verse_number": 64,
     "english_text": "Moosa said: That was the place we were looking for, then both of them returned back to that place (retracing their own footsteps, where they had left the fish).",
-    "arabic_text": "قَالَ ذَٰلِكَ مَا كُنَّا نَبْغِ ۚ فَارْتَدَّا عَلَىٰٓ ءَاثَارِهِمَا قَصَصًۭا",
+    "arabic_text": "قَالَ ذٰلِكَ مَا كُنَّا نَبْغِ ۚ فَارْتَدَّا عَلَىٰٓ ءَاثَارِهِمَا قَصَصًۭا",
     "urdu_text": "موسیٰ نے کها: یهی وه جگه هے جسے هم تلاش کر رهے تھے، پھر دونوں اپنے قدموں کے نشانات پر واپس لوٹ گئے۔",
     "persian_text": "گفت: همان جایی است که ما می‌جستیم، پس هر دو بر جای پای خود بازگشتند.",
     "transliteration": "Qāla dhālika mā kunnā nabghi fartaddā 'alā āthārihimā qaṣaṣā"
@@ -657,7 +657,7 @@ ayats = [
   {
     "verse_number": 82,
     "english_text": "And about that wall, it belonged two orphan boys and there was a treasure of them buried beneath it, and their father was a righteous person, so Allah pleased that both boys reach their youth then with the grace of your Lord they will dug out that treasure, and whatever I did was not out of my free will (but I did it with the command of Allah), this is the reality of those incidents on which you did not had patience.",
-    "arabic_text": "وَاَمَّا الْجِدَارُ فَكَانَ لِغُلَـٰمَيْنِ يَتِيمَيْنِ فِى الْمَدِينَةِ وَكَانَ تَحْتَهُ كَنزٌۭ لَّهُمَا وَكَانَ اَبُوهُمَا صَـٰلِحًۭا فَاَرَادَ رَبُّكَ اَن يَبْلُغَآ اَشُدَّهُمَا وَيَسْتَخْرِجَا كَنزَهُمَا رَحْمَةًۭ مِّن رَّبِّكَ ۚ وَ مَا فَعَلْتُهُ عَنْ اَمْرِى ۚ ذَٰلِكَ تَاْوِيلُ مَا لَمْ تَسْطِع عَّلَيْهِ صَبْرًا",
+    "arabic_text": "وَاَمَّا الْجِدَارُ فَكَانَ لِغُلَـٰمَيْنِ يَتِيمَيْنِ فِى الْمَدِينَةِ وَكَانَ تَحْتَهُ كَنزٌۭ لَّهُمَا وَكَانَ اَبُوهُمَا صَـٰلِحًۭا فَاَرَادَ رَبُّكَ اَن يَبْلُغَآ اَشُدَّهُمَا وَيَسْتَخْرِجَا كَنزَهُمَا رَحْمَةًۭ مِّن رَّبِّكَ ۚ وَ مَا فَعَلْتُهُ عَنْ اَمْرِى ۚ ذٰلِكَ تَاْوِيلُ مَا لَمْ تَسْطِع عَّلَيْهِ صَبْرًا",
     "urdu_text": "اور رهی وه دیوار، تو وه شهر میں دو یتیم لڑکوں کی تھی اور اس کے نیچے ان کا خزانه دفن تھا، اور ان کا باپ نیک آدمی تھا، تو تمهارے رب نے چاها که وه دونوں اپنی جوانی کو پهنچیں اور پھر اپنے رب کی رحمت سے اپنا خزانه نکالیں، اور میں نے یه سب کچھ اپنی مرضی سے نهیں کیا، یه هے ان باتوں کی حقیقت جن پر تم صبر نه کر سکے۔",
     "persian_text": "و اما دیوار، آن متعلق به دو پسر یتیم در شهر بود و زیر آن گنجی برای آنها بود و پدرشان مرد صالحی بود، پس پروردگار تو خواست که آن دو به سن بلوغ برسند و گنج خود را با رحمت پروردگارت بیرون آورند، و من این کار را از روی اختیار خود انجام ندادم، این است تفسیر آنچه تو نتوانستی بر آن صبر کنی.",
     "transliteration": "Wa ammal-jidaru fakana lighulaamayni yateemayni fil-madeenati wa kana tahtahu kanzul-lahuma wa kana aboohuma saalihan fa-araada Rabbuka ay-yablugha ashuddahuma wa yastakhrijaa kanzahuma rahmatan mir-Rabbik, wa ma fa'altuhu 'an amree, dhaalika ta'weelu ma lam tasti' 'alayhi sabra"
@@ -729,7 +729,7 @@ ayats = [
   {
     "verse_number": 91,
     "english_text": "And it was like this, and whatever was with Zulqarnain We were totally aware of it.",
-    "arabic_text": "كَذَٰلِكَ وَ قَدْ اَحَطْنَا بِمَا لَدَيْهِ خُبْرًا",
+    "arabic_text": "كَذٰلِكَ وَ قَدْ اَحَطْنَا بِمَا لَدَيْهِ خُبْرًا",
     "urdu_text": "اور ایسا هی هوا، اور جو کچھ ذوالقرنین کے پاس تھا هم نے اس کا پورا علم گھیرے میں لیا هوا تھا۔",
     "persian_text": "چنین بود، و ما به آنچه نزد ذوالقرنین بود کاملاً آگاه بودیم.",
     "transliteration": "Kadhalika wa qad ahatna bima ladayhi khubraa"
@@ -849,7 +849,7 @@ ayats = [
   {
     "verse_number": 106,
     "english_text": "(And straight away will throw them in Hell), this Hell is reward for their deeds that they adopted infidelity and mocked at My verses and My prophets.",
-    "arabic_text": "ذَٰلِكَ جَزَآؤُهُمْ جَهَنَّمُ بِمَا كَفَرُواْ وَاتَّخَذُوٓاْ اٰيٰتِى وَرُسُلِى هُزُوًا",
+    "arabic_text": "ذٰلِكَ جَزَآؤُهُمْ جَهَنَّمُ بِمَا كَفَرُواْ وَاتَّخَذُوٓاْ اٰيٰتِى وَرُسُلِى هُزُوًا",
     "urdu_text": "یه جهنم ان کی جزا هے اس لیے که انهوں نے کفر کیا اور میری آیات اور میرے رسولوں کو مذاق بنایا۔",
     "persian_text": "این جهنم پاداش آنان است به خاطر کفرشان و اینکه آیات و پیامبران مرا به مسخره گرفتند.",
     "transliteration": "Dhaalika jazaa'uhum jahannamu bimaa kafaroo wattakhadhoo aayaatee wa rusulee huzuwa"

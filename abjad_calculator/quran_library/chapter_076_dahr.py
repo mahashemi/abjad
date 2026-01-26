@@ -89,7 +89,7 @@ ayats = [
   {
     "verse_number": 11,
     "english_text": "So, Allah saved them from the hardness of the day and gave them freshness and happiness.",
-    "arabic_text": "فَوَقَىٰهُمُ اللّٰهُ شَرَّ ذَٰلِكَ الْيَوْمِ وَلَقَّىٰهُمْ نَضْرَةًۭ وَسُرُورًا",
+    "arabic_text": "فَوَقَىٰهُمُ اللّٰهُ شَرَّ ذٰلِكَ الْيَوْمِ وَلَقَّىٰهُمْ نَضْرَةًۭ وَسُرُورًا",
     "urdu_text": "پس الله نے انهیں اس دن کی سختی سے بچا لیا اور انهیں تازگی اور خوشی عطا فرمائی۔",
     "persian_text": "پس خداوند آنان را از سختی آن روز نگه داشت و به آنها شادابی و شادمانی بخشید.",
     "transliteration": "Fawaqahumul laahu sharra zalikal yawmi wa laqqaahum nadratan wa surooraa"

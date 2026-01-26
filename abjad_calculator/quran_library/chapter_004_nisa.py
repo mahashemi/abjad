@@ -586,7 +586,7 @@ ayats = [
   {
     "verse_number": 74,
     "english_text": "Now it is required that people should fight in the way of Allah who buy the Hereafter in exchange of this world, if they are martyred or return victorious, shortly We will give them great reward.",
-    "arabic_text": "فَلْيُقَاتِلْ فِى سَبِيْلِ اللّٰهِ الَّذِيْنَ يَشْرُوْنَ الْحَيٰوةَ الدُّنْيٰبِالْاٰخِرَةِ  وَ مَنْ يُّقاتِلْ فِى سَبِيْلِ اللّٰهِ فَيُقْتَلْ اَوْ يَغْلِبْ فَسَوْفَ نُؤْتِيْهِ اَجْرًا عَظِيْمًا",
+    "arabic_text": "فَلْيُقَاتِلْ فِى سَبِيْلِ اللّٰهِ الَّذِيْنَ يَشْرُوْنَ الْحَيٰوةَ الدُّنْيَا بِالْاٰخِرَةِ  وَ مَنْ يُّقاتِلْ فِى سَبِيْلِ اللّٰهِ فَيُقْتَلْ اَوْ يَغْلِبْ فَسَوْفَ نُؤْتِيْهِ اَجْرًا عَظِيْمًا",
     "urdu_text": "پس اللہ کی راہ میں انہیں لڑنا چاہیے جو دنیا کی زندگی کو آخرت کے بدلے بیچ دیتے ہیں، اور جو اللہ کی راہ میں لڑے پھر شہید ہو جائے یا غالب آ جائے تو ہم عنقریب اسے بڑا اجر عطا کریں گے۔",
     "persian_text": "پس باید در راه خدا بجنگند کسانی که زندگی دنیا را به آخرت می‌فروشند، و هر کس در راه خدا بجنگد و کشته شود یا پیروز گردد، به زودی پاداش بزرگی به او خواهیم داد.",
     "transliteration": "Fal-yuqatil fi sabilillahil-ladhina yashrunal-hayatad-dunya bil-akhirati wa man yuqatil fi sabilillahi fa-yuqtal aw yaghlib fa-sawfa nu'tihi ajran 'azhima",
@@ -610,7 +610,7 @@ ayats = [
   {
     "verse_number": 77,
     "english_text": "O Prophet! Didn’t you notice their condition who were advised to withhold their hands, pray and pay poor-rate (but they become restless), and when fighting was made obligatory, a group from them feared (from enemy) as if they are fearing Allah and even more, and saying: O Lord, why did you made fighting obligatory so soon, we wish you would have delayed it more, O Prophet, tell them capital of this world is few, and better place for the pious ones is the Hereafter, and you will not be wronged even as a thread.",
-    "arabic_text": "اَلَمْ تَرَ اِلَى الَّذِيْنَ قِيْلَ لَهُمْ كُفُّوْٓا اَيْدِيَكُمْ وَ اَقِيْمُوْا الصَّلٰوةَ وَ اٰتُوا الزَّكٰوةَ  ۚ فَلَمَّا كُتِبَ عَلَيْهِمُ الْقِتَالُ اِذَا فَرِيْقٌ مِّنْهُمْ يَخْشَوْنَ النَّاسَ كَخَشْيَةِ اللّٰهِ اَوْ اَشَدَّ خَشْيَةً ۚ وَ قَالُوْا رَبَّنَا لِمَ كَتَبْتَ عَلَيْنَا الْقِتَالَ لَوْلَآ اَخَّرْتَنَآ اِلٰٓى اَجَلٍ قَرِيْبٍ   قُلْ مَتَاعُ الدُّنْيٰقَلِيْلٌ وَ الْاٰخِرَةُ خَيْرٌ لِّمَنِ اتَّقٰى   وَ لَا تُظْلَمُوْنَ فَتِيْلًا",
+    "arabic_text": "اَلَمْ تَرَ اِلَى الَّذِيْنَ قِيْلَ لَهُمْ كُفُّوْٓا اَيْدِيَكُمْ وَ اَقِيْمُوْا الصَّلٰوةَ وَ اٰتُوا الزَّكٰوةَ  ۚ فَلَمَّا كُتِبَ عَلَيْهِمُ الْقِتَالُ اِذَا فَرِيْقٌ مِّنْهُمْ يَخْشَوْنَ النَّاسَ كَخَشْيَةِ اللّٰهِ اَوْ اَشَدَّ خَشْيَةً ۚ وَ قَالُوْا رَبَّنَا لِمَ كَتَبْتَ عَلَيْنَا الْقِتَالَ لَوْلَآ اَخَّرْتَنَآ اِلٰٓى اَجَلٍ قَرِيْبٍ   قُلْ مَتَاعُ الدُّنْيَا قَلِيْلٌ وَ الْاٰخِرَةُ خَيْرٌ لِّمَنِ اتَّقٰى   وَ لَا تُظْلَمُوْنَ فَتِيْلًا",
     "urdu_text": "کیا تم نے ان لوگوں کو نہیں دیکھا جن سے کہا گیا تھا کہ اپنے ہاتھ روکے رکھو اور نماز قائم کرو اور زکوٰۃ ادا کرو، پھر جب ان پر جہاد فرض کیا گیا تو ان میں سے ایک گروہ لوگوں سے ایسے ڈرنے لگا جیسے اللہ سے ڈرتے ہیں یا اس سے بھی زیادہ، اور کہنے لگے: اے ہمارے رب! تو نے ہم پر جہاد کیوں فرض کر دیا، کاش تو ہمیں تھوڑی مدت اور مہلت دیتا۔ کہہ دو کہ دنیا کا سامان تھوڑا ہے اور آخرت پرہیزگاروں کے لیے بہتر ہے اور تم پر دھاگے کے برابر بھی ظلم نہیں کیا جائے گا",
     "persian_text": "آیا ندیدی کسانی را که به آنها گفته شد دست‌های خود را نگه دارید و نماز برپا کنید و زکات بدهید، پس چون جنگ بر آنها مقرر شد، ناگاه گروهی از آنان از مردم می‌ترسند همچون ترس از خدا یا شدیدتر، و گفتند: پروردگارا چرا جنگ را بر ما مقرر کردی، چرا ما را تا مدتی نزدیک تأخیر ندادی؟ بگو: متاع دنیا اندک است و آخرت برای پرهیزگاران بهتر است و بر شما به اندازه رشته خرمایی ستم نخواهد شد",
     "transliteration": "Alam tara ilallatheena qeela lahum kuffoo aydiyakum wa aqeemus salaata wa aatuz zakaata falammaa kutiba 'alayhimul qitaalu ithaa fareequm minhum yakhshawnan naasa kakhashyatillahi aw ashadda khashyatan wa qaaloo rabbanaa lima katabta 'alayna alqitaala lawlaa akhkhartanaa ilaa ajalin qareeb qul mataa'ud dunyaa qaleelun wal aakhiratu khayrun limanittaqaa wa laa tuthlamoona fateelaa",
@@ -746,7 +746,7 @@ ayats = [
   {
     "verse_number": 94,
     "english_text": "O Believers! When you go to fight in the name of Allah do not hasten and make investigation before killing, and if someone salutes you even just to show his belief, do not say: 'you are not a believer', are you just after materialistic benefits whereas there are lots of gains with Allah. (O believers) you were also like them, but Allah conferred Mercy on you, so check thoroughly; Verily Allah is aware of what you do.",
-    "arabic_text": "يٰٓاَيُّهَا الَّذِيْنَ اٰمَنُوْا اِذَا ضَرَبْتُمْ فِى سَبِيْلِ اللّٰهِ فَتَبَيَّنُوْا وَ لَا تَقُوْلُوْا لِمَنْ اَلْقٰٓى اِلَيْكُمُ السَّلَامَ لَسْتَ مُؤْمِنًا ۚ تَبْتَغُوْنَ عَرَضَ الْحَيٰوةِ الدُّنْيٰ فَعِنْدَ اللّٰهِ مَغَانِمُ كَثِيْرَةٌ  كَذٰلِكَ كُنْتُم مِّنْ قَبْلُ فَمَنَّ اللّٰهُ عَلَيْكُمْ فَتَبَيَّنُوْا  اِنَّ اللّٰهَ كَانَ بِمَا تَعْمَلُوْنَ خَبِيْرًا",
+    "arabic_text": "يٰٓاَيُّهَا الَّذِيْنَ اٰمَنُوْا اِذَا ضَرَبْتُمْ فِى سَبِيْلِ اللّٰهِ فَتَبَيَّنُوْا وَ لَا تَقُوْلُوْا لِمَنْ اَلْقٰٓى اِلَيْكُمُ السَّلَامَ لَسْتَ مُؤْمِنًا ۚ تَبْتَغُوْنَ عَرَضَ الْحَيٰوةِ الدُّنْيَا فَعِنْدَ اللّٰهِ مَغَانِمُ كَثِيْرَةٌ  كَذٰلِكَ كُنْتُم مِّنْ قَبْلُ فَمَنَّ اللّٰهُ عَلَيْكُمْ فَتَبَيَّنُوْا  اِنَّ اللّٰهَ كَانَ بِمَا تَعْمَلُوْنَ خَبِيْرًا",
     "urdu_text": "اے ایمان والو! جب تم اللہ کی راہ میں نکلو تو تحقیق کر لیا کرو، اور جو شخص تمہیں سلام کرے اسے یہ نہ کہو کہ تو مومن نہیں ہے، کیا تم دنیا کی زندگی کا فائدہ چاہتے ہو جبکہ اللہ کے پاس بہت سے فائدے ہیں، تم بھی پہلے ایسے ہی تھے پھر اللہ نے تم پر احسان کیا، پس تحقیق کیا کرو، بیشک اللہ تمہارے اعمال سے خبردار ہے",
     "persian_text": "ای کسانی که ایمان آورده‌اید! هنگامی که در راه خدا به سفر می‌روید پس تحقیق کنید و به کسی که سلام به شما می‌دهد مگویید تو مؤمن نیستی، آیا متاع زندگی دنیا را می‌جویید؟ پس نزد خدا غنائم بسیاری است، شما نیز پیش از این چنین بودید پس خدا بر شما منت نهاد، پس تحقیق کنید، همانا خدا به آنچه انجام می‌دهید آگاه است",
     "transliteration": "Yaaa ayyuhal lazeena aamanoo idhaa darabtum fee sabeelillaahi fatabayyanoo wa laa taqooloo liman alqaa ilaykumus salaama lasta mu'minan tabtaghoona 'aradal hayaatid dunyaa fa'indallaahi maghaanimu katheerah kadhaalika kuntum min qablu famannallaahu 'alaykum fatabayyanoo innallaaha kaana bimaa ta'maloona khabeeraa",
@@ -866,7 +866,7 @@ ayats = [
   {
     "verse_number": 109,
     "english_text": "Beware, in this life you have started fighting for them, but who will fight with Allah on their behalf on the Day of Judgement or who will be their advocate.",
-    "arabic_text": "هٰٓاَنْتُمْ هٰٓؤُلَآءِ جَادَلْتُمْ عَنْهُمْ فِى الْحَيٰوةِ الدُّنْيٰفَمَنْ يُّجَادِلُ اللّٰهَ عَنْهُمْ يَوْمَ الْقِيٰمَةِ اَمْ مَّنْ يَّكُوْنُ عَلَيْهِمْ وَكِيْلًا",
+    "arabic_text": "هٰٓاَنْتُمْ هٰٓؤُلَآءِ جَادَلْتُمْ عَنْهُمْ فِى الْحَيٰوةِ الدُّنْيَا فَمَنْ يُّجَادِلُ اللّٰهَ عَنْهُمْ يَوْمَ الْقِيٰمَةِ اَمْ مَّنْ يَّكُوْنُ عَلَيْهِمْ وَكِيْلًا",
     "urdu_text": "دیکھو، تم نے دنیا کی زندگی میں ان کی طرف سے بحث کی، لیکن قیامت کے دن کون اللہ سے ان کی طرف سے بحث کرے گا یا کون ان کا وکیل ہوگا۔",
     "persian_text": "آگاه باشید، شما در زندگی دنیا از آنها دفاع کردید، اما چه کسی در روز قیامت با خداوند از آنها دفاع خواهد کرد یا چه کسی وکیل آنها خواهد بود.",
     "transliteration": "Ha antum ha'ula'i jadaltum 'anhum fil hayatid dunya faman yujadilul laha 'anhum yawmal qiyamati am man yakoonu 'alayhim wakeela",
@@ -1066,7 +1066,7 @@ ayats = [
   {
     "verse_number": 134,
     "english_text": "Whoever wants the reward for his deeds only in this world (then he should know) Allah has the rewards of this world and the Hereafter both, and He listens and sees everyone.",
-    "arabic_text": "مَّنْ كَانَ يُرِيْدُ ثَوَابَ الدُّنْيٰفَعِنْدَ اللّٰهِ ثَوَابُ الدُّنْيٰوَ الْاٰخِرَةِ  وَ كَانَ اللّٰهُ سَمِيْعًاۢ بَصِيْرًا",
+    "arabic_text": "مَّنْ كَانَ يُرِيْدُ ثَوَابَ الدُّنْيَا فَعِنْدَ اللّٰهِ ثَوَابُ الدُّنْيَا وَ الْاٰخِرَةِ  وَ كَانَ اللّٰهُ سَمِيْعًاۢ بَصِيْرًا",
     "urdu_text": "جو شخص صرف دنیا کا اجر چاہتا ہے تو اللہ کے پاس دنیا اور آخرت دونوں کا اجر ہے، اور اللہ سننے والا اور دیکھنے والا ہے۔",
     "persian_text": "هر کس پاداش دنیا را بخواهد، پس نزد خداوند پاداش دنیا و آخرت هر دو است، و خداوند شنوا و بیناست.",
     "transliteration": "Man kana yuridu thawabad-dunya fa'indallahi thawabud-dunya wal-akhirah, wa kanallahu sami'am basira",

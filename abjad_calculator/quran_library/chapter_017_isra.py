@@ -281,7 +281,7 @@ ayats = [
   {
     "verse_number": 35,
     "english_text": "And if you have to give something in measure, then measure properly. (and if it is to be given in weight) then weigh properly, this is the best way of transaction, and its result is also good.",
-    "arabic_text": "وَاَوْفُواْ الْكَيْلَ اِذَا كِلْتُمْ وَزِنُواْ بِالْقِسْطَاسِ الْمُسْتَقِيمِ ۚ ذَٰلِكَ خَيْرٌۭ وَاَحْسَنُ تَاْوِيلًا",
+    "arabic_text": "وَاَوْفُواْ الْكَيْلَ اِذَا كِلْتُمْ وَزِنُواْ بِالْقِسْطَاسِ الْمُسْتَقِيمِ ۚ ذٰلِكَ خَيْرٌۭ وَاَحْسَنُ تَاْوِيلًا",
     "urdu_text": "اور جب ناپو تو پورا ناپو اور سیدھی ترازو سے تولو، یہ بہتر ہے اور انجام کے لحاظ سے بھی اچھا ہے۔",
     "persian_text": "و هنگامی که پیمانه می‌کنید پیمانه را کامل کنید و با ترازوی درست بسنجید، این بهتر و نتیجه‌اش نیکوتر است.",
     "transliteration": "Wa awful kayla idhaa kiltum wa zinoo bilqistaasil mustaqeem, dhaalika khayrun wa ahsanu ta'weelaa"
@@ -305,7 +305,7 @@ ayats = [
   {
     "verse_number": 38,
     "english_text": "(O Prophet) among the talks which is evil, is hateful near your Lord.",
-    "arabic_text": "كُلُّ ذَٰلِكَ كَانَ سَيِّئُهُ عِندَ رَبِّكَ مَكْرُوهًۭا",
+    "arabic_text": "كُلُّ ذٰلِكَ كَانَ سَيِّئُهُ عِندَ رَبِّكَ مَكْرُوهًۭا",
     "urdu_text": "یہ سب باتیں جو بری ہیں تمہارے رب کے نزدیک ناپسندیدہ ہیں۔",
     "persian_text": "همه اینها که بد است نزد پروردگار تو مکروه است.",
     "transliteration": "Kullu dhaalika kaana sayyi'uhu 'inda rabbika makroohaa"
@@ -313,7 +313,7 @@ ayats = [
   {
     "verse_number": 39,
     "english_text": "This is from Wisdom of your Lord what has been sent to you as revelation, and do not make another lord with Allah, lest be thrown into Hell with reproach and disgrace.",
-    "arabic_text": "ذَٰلِكَ مِمَّآ اَوْحَىٰٓ اِلَيْكَ رَبُّكَ مِنَ الْحِكْمَةِ ۗ وَ لَا تَجْعَلْ مَعَ اللّٰهِ اِلَـٰهًا ءَاخَرَ فَتُلْقَىٰ فِى جَهَنَّمَ مَلُومًا مَّدْحُورًا",
+    "arabic_text": "ذٰلِكَ مِمَّآ اَوْحَىٰٓ اِلَيْكَ رَبُّكَ مِنَ الْحِكْمَةِ ۗ وَ لَا تَجْعَلْ مَعَ اللّٰهِ اِلَـٰهًا ءَاخَرَ فَتُلْقَىٰ فِى جَهَنَّمَ مَلُومًا مَّدْحُورًا",
     "urdu_text": "یہ اس حکمت میں سے ہے جو تمہارے رب نے تمہاری طرف وحی کی ہے، اور اللہ کے ساتھ کسی اور معبود کو نہ بناؤ ورنہ ملامت زدہ اور دھتکارے ہوئے جہنم میں ڈالے جاؤ گے۔",
     "persian_text": "این از حکمتی است که پروردگارت به تو وحی کرده است، و با خدا معبود دیگری قرار مده که مذموم و رانده شده در جهنم افکنده شوی.",
     "transliteration": "Dhaalika mimmaa awhaa ilayka rabbuka minal hikmah, wa laa taj'al ma'allaahi ilaahan aakhara fatulqaa fee jahannama malooman madhooraa"
@@ -465,7 +465,7 @@ ayats = [
   {
     "verse_number": 58,
     "english_text": "And there is no town, but We will destroy it before the Day of Judgement or will send severe punishment on it; and this has (already) been written in the Divine Book.",
-    "arabic_text": "وَاِن مِّن قَرْيَةٍ اِلَّا نَحْنُ مُهْلِكُوهَا قَبْلَ يَوْمِ الْقِيَـٰمَةِ اَوْ مُعَذِّبُوهَا عَذَابًا شَدِيدًۭا ۚ كَانَ ذَٰلِكَ فِى الْكِتٰبِ مَسْطُورًا",
+    "arabic_text": "وَاِن مِّن قَرْيَةٍ اِلَّا نَحْنُ مُهْلِكُوهَا قَبْلَ يَوْمِ الْقِيَـٰمَةِ اَوْ مُعَذِّبُوهَا عَذَابًا شَدِيدًۭا ۚ كَانَ ذٰلِكَ فِى الْكِتٰبِ مَسْطُورًا",
     "urdu_text": "اور کوئی بستی ایسی نہیں مگر ہم اسے قیامت سے پہلے تباہ کر دیں گے یا اس پر سخت عذاب بھیجیں گے، اور یہ الہٰی کتاب میں لکھا ہوا ہے۔",
     "persian_text": "و هیچ شهری نیست مگر اینکه ما آن را پیش از روز قیامت هلاک می‌کنیم یا عذابی سخت بر آن می‌فرستیم، این در کتاب الهی نوشته شده است.",
     "transliteration": "Wa im min qaryatin illaa nahnu muhlikooha qabla yawmil-qiyaamati aw mu'adhdhiboohaa 'adhaaban shadeedaa kaana dhaalika fil-kitaabi mastooraa"
@@ -593,7 +593,7 @@ ayats = [
   {
     "verse_number": 74,
     "english_text": "And if it was not that we kept you steadfast, you would have somehow inclined towards them.",
-    "arabic_text": "وَلَوْلَآ اَن ثَبَّتْنَـٰكَ لَقَدْ كِدتَّ تَرْكَنُ اِلَيْهِمْ شَيْـًۭٔا قَلِيلًا",
+    "arabic_text": "وَ لَوْلَآ اَن ثَبَّتْنَـٰكَ لَقَدْ كِدتَّ تَرْكَنُ اِلَيْهِمْ شَيْـًۭٔا قَلِيلًا",
     "urdu_text": "اور اگر ہم نے تمہیں ثابت قدم نہ رکھا ہوتا تو تم کچھ نہ کچھ اُن کی طرف جھک ہی جاتے۔",
     "persian_text": "و اگر ما تو را استوار نمی‌داشتیم، نزدیک بود که اندکی به سوی آنان متمایل شوی.",
     "transliteration": "Wa law laa an thabbatnaka la-qad kitta tarkanu ilayhim shay'an qaleelaa"
@@ -785,7 +785,7 @@ ayats = [
   {
     "verse_number": 98,
     "english_text": "This is their punishment because of their denial of our verses; and their saying that: after our death when we will become bones and decayed particles, will we be raised as new creation?",
-    "arabic_text": "ذَٰلِكَ جَزَآؤُهُم بِاَنَّهُمْ كَفَرُواْ بِـَٔايَـٰتِنَا وَقَالُوٓاْ اَءِذَا كُنَّا عِظَـٰمًا وَرُفَـٰتًا اَءِنَّا لَمَبْعُوثُونَ خَلْقًۭا جَدِيدًا",
+    "arabic_text": "ذٰلِكَ جَزَآؤُهُم بِاَنَّهُمْ كَفَرُواْ بِـَٔايَـٰتِنَا وَقَالُوٓاْ اَءِذَا كُنَّا عِظَـٰمًا وَرُفَـٰتًا اَءِنَّا لَمَبْعُوثُونَ خَلْقًۭا جَدِيدًا",
     "urdu_text": "یہ ان کی سزا ہے اس لیے کہ انہوں نے ہماری آیات کا انکار کیا اور کہا: کیا جب ہم ہڈیاں اور ریزہ ریزہ ہو جائیں گے تو کیا ہم نئی مخلوق بنا کر اٹھائے جائیں گے؟",
     "persian_text": "این کیفرشان است به خاطر اینکه آیات ما را انکار کردند و گفتند: آیا هنگامی که استخوان و خاک پوسیده شدیم، آیا به آفرینشی نو برانگیخته خواهیم شد؟",
     "transliteration": "Dhaalika jazaaa'uhum bi'annahum kafaroo bi'aayaatinaa wa qaaloo a'idhaa kunnaa 'izaaman wa rufaatan a'innaa lamab'oothoona khalqan jadeedaa"
@@ -881,7 +881,7 @@ ayats = [
   {
     "verse_number": 110,
     "english_text": "{Prostrate Non-Obligatory} (O Prophet), say: either you call Him Allah or Merciful (Raheem), all His (all) names are Beautiful, and don't recite your prayer very loudly, and neither recite your prayer with complete silence, but adopt a medium tone.",
-    "arabic_text": "قُلِ ادْعُواْ اللّٰهَ اَوِ ادْعُواْ الرَّحْمَـٰنَ ۖ اَيًّۭا مَّا تَدْعُواْ فَلَهُ الْاَسْمَآءُ الْحُسْنَىٰ ۚ وَ لَا تَجْهَرْ بِصَلَاتِكَ وَ لَا تُخَافِتْ بِهَا وَابْتَغِ بَيْنَ ذَٰلِكَ سَبِيلًا",
+    "arabic_text": "قُلِ ادْعُواْ اللّٰهَ اَوِ ادْعُواْ الرَّحْمَـٰنَ ۖ اَيًّۭا مَّا تَدْعُواْ فَلَهُ الْاَسْمَآءُ الْحُسْنَىٰ ۚ وَ لَا تَجْهَرْ بِصَلَاتِكَ وَ لَا تُخَافِتْ بِهَا وَابْتَغِ بَيْنَ ذٰلِكَ سَبِيلًا",
     "urdu_text": "کہہ دیجیے: تم اسے اللہ کہہ کر پکارو یا رحمٰن کہہ کر، جس نام سے بھی پکارو، اس کے سب نام خوبصورت ہیں، اور اپنی نماز میں بہت بلند آواز سے نہ پڑھو اور نہ بالکل آہستہ، بلکہ ان دونوں کے درمیان راستہ اختیار کرو۔",
     "persian_text": "(ای پیامبر) بگو: او را الله بخوانید یا رحمان، هر نامی که بخوانید، همه نام‌های نیکو از آن اوست، و در نمازت بلند آواز مخوان و نه آهسته، و راهی میانه در پیش گیر.",
     "transliteration": "Qulid'ul-laaha awid'ur-Rahmaana ayyam-maa tad'oo falahul-Asmaa'ul-Husnaa wa laa tajhar bi-Salaatika wa laa tukhaafit bihaa wabtaghi bayna dhaalika sabeelaa"

@@ -113,7 +113,7 @@ ayats = [
   {
     "verse_number": 14,
     "english_text": "And when Moosa reached the strength of youth and became healthy, then We gave him knowledge and wisdom; and like this We recompense to the people who do good deeds.",
-    "arabic_text": "وَلَمَّا بَلَغَ اَشُدَّهُ وَاسْتَوَىٰٓ ءَاتَيْنَـٰهُ حُكْمًا وَعِلْمًا ۚ وَكَذَٰلِكَ نَجْزِى الْمُحْسِنِينَ",
+    "arabic_text": "وَلَمَّا بَلَغَ اَشُدَّهُ وَاسْتَوَىٰٓ ءَاتَيْنَـٰهُ حُكْمًا وَعِلْمًا ۚ وَكَذٰلِكَ نَجْزِى الْمُحْسِنِينَ",
     "urdu_text": "اور جب موسیٰ جوانی کی طاقت کو پہنچے اور مکمل ہو گئے تو ہم نے انہیں حکمت اور علم عطا کیا، اور اسی طرح ہم نیکی کرنے والوں کو بدلہ دیتے ہیں۔",
     "persian_text": "و چون موسی به قوت جوانی رسید و کامل شد، به او حکمت و دانش دادیم، و این‌گونه نیکوکاران را پاداش می‌دهیم.",
     "transliteration": "Wa lamma balagha ashuddahu wa-stawaa aataynahu hukman wa 'ilman wa kadhalika najzi al-muhsineen"
@@ -225,7 +225,7 @@ ayats = [
   {
     "verse_number": 28,
     "english_text": "Moosa said: there is a covenant between me and you, whatever period I complete, then I will have no responsibility, and whatever I am saying, Allah is witness to it.",
-    "arabic_text": "قَالَ ذَٰلِكَ بَيْنِى وَبَيْنَكَ ۖ اَيَّمَا الْاَجَلَيْنِ قَضَيْتُ فَلَا عُدْوَٰنَ عَلَىَّ ۖ وَاللّٰهُ عَلَىٰ مَا نَقُولُ وَكِيلٌۭ",
+    "arabic_text": "قَالَ ذٰلِكَ بَيْنِى وَبَيْنَكَ ۖ اَيَّمَا الْاَجَلَيْنِ قَضَيْتُ فَلَا عُدْوَٰنَ عَلَىَّ ۖ وَ اللّٰهُ عَلَىٰ مَا نَقُولُ وَكِيلٌۭ",
     "urdu_text": "موسیٰ نے کہا: یہ میرے اور آپ کے درمیان طے ہے، دونوں میں سے جو بھی مدت میں پوری کروں تو مجھ پر کوئی زیادتی نہیں، اور جو ہم کہہ رہے ہیں اللہ اس پر گواہ ہے۔",
     "persian_text": "موسی گفت: این پیمان میان من و توست، هر یک از دو مدت را که تمام کنم، هیچ تعدی بر من نیست، و خدا بر آنچه می‌گوییم گواه است.",
     "transliteration": "Qaala zaalika baynee wa baynaka ayyamal ajalayni qadaytu falaa 'udwaana 'alayya wallaahu 'alaa maa naqoolu wakeel"
@@ -377,7 +377,7 @@ ayats = [
   {
     "verse_number": 47,
     "english_text": "And if any affliction has befallen on them due to their earlier deeds, they would have said: O Lord why any messenger was not sent towards us that we would have followed your signs and we would be among the believers.",
-    "arabic_text": "وَلَوْلَآ اَن تُصِيبَهُم مُّصِيبَةٌۢ بِمَا قَدَّمَتْ اَيْدِيهِمْ فَيَقُولُواْ رَبَّنَا لَوْلَآ اَرْسَلْتَ اِلَيْنَا رَسُولًا فَنَتَّبِعَ اٰيٰتِكَ وَنَكُونَ مِنَ الْمُؤْمِنِينَ",
+    "arabic_text": "وَ لَوْلَآ اَن تُصِيبَهُم مُّصِيبَةٌۢ بِمَا قَدَّمَتْ اَيْدِيهِمْ فَيَقُولُواْ رَبَّنَا لَوْلَآ اَرْسَلْتَ اِلَيْنَا رَسُولًا فَنَتَّبِعَ اٰيٰتِكَ وَنَكُونَ مِنَ الْمُؤْمِنِينَ",
     "urdu_text": "اور اگر ان پر کوئی مصیبت آ پڑتی ان کے اپنے اعمال کی وجہ سے، تو وہ کہتے: اے ہمارے رب! تو نے ہماری طرف کوئی رسول کیوں نہیں بھیجا تاکہ ہم تیری آیات کی پیروی کرتے اور ہم مومنوں میں سے ہوتے۔",
     "persian_text": "و اگر نبود که مصیبتی به سبب آنچه دستانشان پیش فرستاده به آنان برسد و بگویند: پروردگارا، چرا پیامبری به سوی ما نفرستادی تا از آیات تو پیروی کنیم و از مؤمنان باشیم.",
     "transliteration": "Wa law laaa an tuseebahum museebatum bimaa qaddamat aydeehim fayaqooloo Rabbanaa law laaa arsalta ilaynaa rasoolan fanattabi'a aayaatika wa nakoona minal mu'mineen"

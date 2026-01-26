@@ -137,7 +137,7 @@ ayats = [
   {
     "verse_number": 17,
     "english_text": "And Allah has created you from the earth.",
-    "arabic_text": "وَاللّٰهُ اَنۢبَتَكُم مِّنَ الْاَرْضِ نَبَاتًۭا",
+    "arabic_text": "وَ اللّٰهُ اَنۢبَتَكُم مِّنَ الْاَرْضِ نَبَاتًۭا",
     "urdu_text": "اور اللہ نے تمہیں زمین سے اگایا ہے جیسے پودا اگتا ہے",
     "persian_text": "و خداوند شما را از زمین رویانید همچون گیاه",
     "transliteration": "Wallaahu ambatakum minal-ardi nabaataa"
@@ -153,7 +153,7 @@ ayats = [
   {
     "verse_number": 19,
     "english_text": "And Allah has made the earth for you a carpet.",
-    "arabic_text": "وَاللّٰهُ جَعَلَ لَكُمُ الْاَرْضَ بِسَاطًۭا",
+    "arabic_text": "وَ اللّٰهُ جَعَلَ لَكُمُ الْاَرْضَ بِسَاطًۭا",
     "urdu_text": "اور اللہ نے تمہارے لیے زمین کو فرش بنایا ہے",
     "persian_text": "و خداوند زمین را برای شما فرشی گسترده قرار داده است",
     "transliteration": "Wallaahu ja'ala lakumul-arda bisaataa"

@@ -97,7 +97,7 @@ ayats = [
   {
     "verse_number": 12,
     "english_text": "(As if) we put the misguidance, in the hearts of sinners.",
-    "arabic_text": "كَذَٰلِكَ نَسْلُكُهُ فِى قُلُوبِ الْمُجْرِمِينَ",
+    "arabic_text": "كَذٰلِكَ نَسْلُكُهُ فِى قُلُوبِ الْمُجْرِمِينَ",
     "urdu_text": "اسی طرح هم گمراهی کو مجرموں کے دلوں میں داخل کر دیتے هیں۔",
     "persian_text": "اینچنین آن را در دل‌های گناهکاران راه می‌دهیم.",
     "transliteration": "Kazaalika naslukuhoo fee quloobil mujrimeen"
@@ -529,7 +529,7 @@ ayats = [
   {
     "verse_number": 66,
     "english_text": "And We informed Lut about Our definite command that by the dawn their roots will be cut.",
-    "arabic_text": "وَقَضَيْنَآ اِلَيْهِ ذَٰلِكَ الْاَمْرَ اَنَّ دَابِرَ هَـٰٓؤُلَآءِ مَقْطُوعٌۭ مُّصْبِحِينَ",
+    "arabic_text": "وَقَضَيْنَآ اِلَيْهِ ذٰلِكَ الْاَمْرَ اَنَّ دَابِرَ هَـٰٓؤُلَآءِ مَقْطُوعٌۭ مُّصْبِحِينَ",
     "urdu_text": "اور هم نے لوط کو یه فیصله بتا دیا که صبح هوتے هوتے ان لوگوں کی جڑ کاٹ دی جائے گی۔",
     "persian_text": "و ما این فرمان را به او ابلاغ کردیم که ریشه این قوم صبحگاهان بریده خواهد شد.",
     "transliteration": "Wa qadaynaaa ilayhi zaalikal amra anna daabira haaa'ulaaa'i maqtoo'um musbiheen"
@@ -601,7 +601,7 @@ ayats = [
   {
     "verse_number": 75,
     "english_text": "There is no doubt that for the people who understand the talk, there are many signs of Authority in it.",
-    "arabic_text": "اِنَّ فِى ذَٰلِكَ لَـَٔايَـٰتٍۢ لِّلْمُتَوَسِّمِينَ",
+    "arabic_text": "اِنَّ فِى ذٰلِكَ لَـَٔايَـٰتٍۢ لِّلْمُتَوَسِّمِينَ",
     "urdu_text": "بے شک اس میں غور و فکر کرنے والوں کے لیے بهت سی نشانیاں هیں۔",
     "persian_text": "بی‌تردید در این برای کسانی که می‌اندیشند نشانه‌های بسیاری است.",
     "transliteration": "Inna fī dhaalika la aayaatil lil mutawassimīn"
@@ -617,7 +617,7 @@ ayats = [
   {
     "verse_number": 77,
     "english_text": "There is not any doubt that for believers there is a big sign (of authority of Allah) in it.",
-    "arabic_text": "اِنَّ فِى ذَٰلِكَ لَـَٔايَةًۭ لِّلْمُؤْمِنِينَ",
+    "arabic_text": "اِنَّ فِى ذٰلِكَ لَـَٔايَةًۭ لِّلْمُؤْمِنِينَ",
     "urdu_text": "بے شک اس میں مومنوں کے لیے بڑی نشانی هے۔",
     "persian_text": "بی‌شک در این برای مؤمنان نشانه‌ای بزرگ است.",
     "transliteration": "Inna fī dhaalika la aayatal lil mu'minīn"

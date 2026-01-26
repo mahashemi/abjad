@@ -129,7 +129,7 @@ ayats = [
   {
     "verse_number": 16,
     "english_text": "Whatever their Lord is going to give, they will receive it, these are the people who earlier did good.",
-    "arabic_text": "ءَاخِذِينَ مَآ ءَاتَىٰهُمْ رَبُّهُمْ ۚ اِنَّهُمْ كَانُواْ قَبْلَ ذَٰلِكَ مُحْسِنِينَ",
+    "arabic_text": "ءَاخِذِينَ مَآ ءَاتَىٰهُمْ رَبُّهُمْ ۚ اِنَّهُمْ كَانُواْ قَبْلَ ذٰلِكَ مُحْسِنِينَ",
     "urdu_text": "جو کچھ ان کا رب انهیں دے گا وه لیں گے، یه وه لوگ هیں جو اس سے پهلے نیکی کرتے تھے۔",
     "persian_text": "آنچه را پروردگارشان به آنان می‌دهد دریافت می‌کنند، آنان کسانی هستند که پیش از این نیکوکار بودند.",
     "transliteration": "Aakhizeena maaa aataahum Rabbuhum; innahum kaanoo qabla zaalika muhsineen"
@@ -417,7 +417,7 @@ ayats = [
   {
     "verse_number": 52,
     "english_text": "Like this, no prophet came to this nation before but these people said: he is magician or insane.",
-    "arabic_text": "كَذَٰلِكَ مَآ اَتَى الَّذِينَ مِن قَبْلِهِم مِّن رَّسُولٍ اِلَّا قَالُوْاْ سَاحِرٌ اَوْ مَجْنُونٌ",
+    "arabic_text": "كَذٰلِكَ مَآ اَتَى الَّذِينَ مِن قَبْلِهِم مِّن رَّسُولٍ اِلَّا قَالُوْاْ سَاحِرٌ اَوْ مَجْنُونٌ",
     "urdu_text": "اسی طرح ان سے پهلے لوگوں کے پاس جو بھی رسول آیا انهوں نے کها که یه جادوگر هے یا دیوانه۔",
     "persian_text": "همین‌گونه هیچ پیامبری پیش از اینان نیامد مگر آنکه گفتند: او جادوگر یا دیوانه است.",
     "transliteration": "Kazaalika maa atal-lazeena min qablihim mir-rasoolin illaa qaaloo saahirun aw majnoon"

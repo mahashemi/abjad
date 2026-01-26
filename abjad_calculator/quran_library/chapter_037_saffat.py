@@ -273,7 +273,7 @@ ayats = [
   {
     "verse_number": 34,
     "english_text": "And we deal like this with the guilty ones.",
-    "arabic_text": "اِنَّا كَذَٰلِكَ نَفْعَلُ بِالْمُجْرِمِينَ",
+    "arabic_text": "اِنَّا كَذٰلِكَ نَفْعَلُ بِالْمُجْرِمِينَ",
     "urdu_text": "بیشک هم مجرموں کے ساتھ ایسا هی کرتے هیں۔",
     "persian_text": "همانا ما با مجرمان چنین رفتار می‌کنیم.",
     "transliteration": "Innā kadhālika naf'alu bil-mujrimīn"
@@ -457,7 +457,7 @@ ayats = [
   {
     "verse_number": 57,
     "english_text": "If it was not the favour of Allah then I would also be present there.",
-    "arabic_text": "وَلَوْلَا نِعْمَةُ رَبِّى لَكُنتُ مِنَ الْمُحْضَرِينَ",
+    "arabic_text": "وَ لَوْلَا نِعْمَةُ رَبِّى لَكُنتُ مِنَ الْمُحْضَرِينَ",
     "urdu_text": "اور اگر میرے رب کی نعمت نه هوتی تو میں بھی وهاں حاضر کیے جانے والوں میں سے هوتا",
     "persian_text": "و اگر نعمت پروردگارم نبود، من هم از حاضر شدگان در آنجا بودم",
     "transliteration": "Wa law laa ni'matu rabbee lakuntu minal muhdareen"
@@ -497,7 +497,7 @@ ayats = [
   {
     "verse_number": 62,
     "english_text": "Just say, for hospitality it is better or the Zaqqum tree?",
-    "arabic_text": "اَذَٰلِكَ خَيْرٌۭ نُّزُلًا اَمْ شَجَرَةُ الزَّقُّومِ",
+    "arabic_text": "اَذٰلِكَ خَيْرٌۭ نُّزُلًا اَمْ شَجَرَةُ الزَّقُّومِ",
     "urdu_text": "کیا یه مهمان نوازی بهتر هے یا زقوم کا درخت؟",
     "persian_text": "آیا این پذیرایی بهتر است یا درخت زقوم؟",
     "transliteration": "Adhālika khayrun nuzulan am shajaratu-z-zaqqūm"
@@ -641,7 +641,7 @@ ayats = [
   {
     "verse_number": 80,
     "english_text": "Like this We recompense the good doers.",
-    "arabic_text": "اِنَّا كَذَٰلِكَ نَجْزِى الْمُحْسِنِينَ",
+    "arabic_text": "اِنَّا كَذٰلِكَ نَجْزِى الْمُحْسِنِينَ",
     "urdu_text": "بے شک هم نیکی کرنے والوں کو اسی طرح بدله دیتے هیں۔",
     "persian_text": "به راستی ما نیکوکاران را این‌گونه پاداش می‌دهیم.",
     "transliteration": "Inna kadhalika najzil muhsineen"
@@ -769,7 +769,7 @@ ayats = [
   {
     "verse_number": 96,
     "english_text": "Whereas Allah has created you all.",
-    "arabic_text": "وَاللّٰهُ خَلَقَكُمْ وَ مَا تَعْمَلُونَ",
+    "arabic_text": "وَ اللّٰهُ خَلَقَكُمْ وَ مَا تَعْمَلُونَ",
     "urdu_text": "حالانکه الله نے تمهیں اور جو کچھ تم بناتے هو سب کو پیدا کیا هے۔",
     "persian_text": "در حالی که خداوند شما و آنچه را که می‌سازید آفریده است.",
     "transliteration": "Wallaahu khalaqakum wa maa ta'maloon"
@@ -841,7 +841,7 @@ ayats = [
   {
     "verse_number": 105,
     "english_text": "You made your dream come true, We reward like this for the good doers.",
-    "arabic_text": "قَدْ صَدَّقْتَ الرُّءْيَآ ۚ اِنَّا كَذَٰلِكَ نَجْزِى الْمُحْسِنِينَ",
+    "arabic_text": "قَدْ صَدَّقْتَ الرُّءْيَآ ۚ اِنَّا كَذٰلِكَ نَجْزِى الْمُحْسِنِينَ",
     "urdu_text": "تم نے خواب کو سچ کر دکھایا، بے شک هم نیکی کرنے والوں کو ایسا هی بدله دیتے هیں۔",
     "persian_text": "تو خواب خود را راست کردی، همانا ما نیکوکاران را چنین پاداش می‌دهیم.",
     "transliteration": "Qad ṣaddaqta ar-ru'yā innā kadhālika najzī al-muḥsinīn"
@@ -881,7 +881,7 @@ ayats = [
   {
     "verse_number": 110,
     "english_text": "Like this We reward doers of the good deeds.",
-    "arabic_text": "كَذَٰلِكَ نَجْزِى الْمُحْسِنِينَ",
+    "arabic_text": "كَذٰلِكَ نَجْزِى الْمُحْسِنِينَ",
     "urdu_text": "هم نیکی کرنے والوں کو اسی طرح بدله دیتے هیں۔",
     "persian_text": "اینچنین نیکوکاران را پاداش می‌دهیم.",
     "transliteration": "Kadhālika najzī al-muḥsinīn"
@@ -905,7 +905,7 @@ ayats = [
   {
     "verse_number": 113,
     "english_text": "And We sent blessing on him and on Is’haq, and among his children some of them are of good character, and some are those who are openly unjust to their souls.",
-    "arabic_text": "وَبَـٰرَكْنَا عَلَيْهِ وَعَلَىٰٓ اِسْحَـٰقَ ۚ وَمِن ذُرِّيَّتِهِمَا مُحْسِنٌ وَظَالِمٌۭ لِّنَفْسِهِ مُبِينٌ",
+    "arabic_text": "وَبَـٰرَكْنَا عَلَيْهِ وَعَلَىٰٓ اِسْحَـٰقَ ۚ وَ مِن ذُرِّيَّتِهِمَا مُحْسِنٌ وَظَالِمٌۭ لِّنَفْسِهِ مُبِينٌ",
     "urdu_text": "اور هم نے ان پر اور اسحاق پر برکت نازل کی، اور ان دونوں کی اولاد میں سے کچھ نیکوکار هیں اور کچھ اپنے اوپر کھلم کھلا ظلم کرنے والے هیں۔",
     "persian_text": "و بر او و بر اسحاق برکت دادیم، و از فرزندان آن دو، بعضی نیکوکارند و بعضی آشکارا به خود ستم می‌کنند.",
     "transliteration": "Wa barakna 'alayhi wa 'ala Ishaq, wa min dhurriyyatihima muhsinun wa zalimun linafsihi mubeen"
@@ -969,7 +969,7 @@ ayats = [
   {
     "verse_number": 121,
     "english_text": "Like this We reward the people who do good deeds.",
-    "arabic_text": "اِنَّا كَذَٰلِكَ نَجْزِى الْمُحْسِنِينَ",
+    "arabic_text": "اِنَّا كَذٰلِكَ نَجْزِى الْمُحْسِنِينَ",
     "urdu_text": "بیشک هم نیکی کرنے والوں کو اسی طرح بدله دیتے هیں۔",
     "persian_text": "همانا ما نیکوکاران را این‌گونه پاداش می‌دهیم.",
     "transliteration": "Innaa kazaalika najzil muhsineen"
@@ -1049,7 +1049,7 @@ ayats = [
   {
     "verse_number": 131,
     "english_text": "Like this we reward the doers of the good deeds.",
-    "arabic_text": "اِنَّا كَذَٰلِكَ نَجْزِى الْمُحْسِنِينَ",
+    "arabic_text": "اِنَّا كَذٰلِكَ نَجْزِى الْمُحْسِنِينَ",
     "urdu_text": "بیشک هم نیکی کرنے والوں کو اسی طرح بدله دیتے هیں۔",
     "persian_text": "همانا ما نیکوکاران را این‌گونه پاداش می‌دهیم.",
     "transliteration": "Innaa kazaalika najzil muhsineen"

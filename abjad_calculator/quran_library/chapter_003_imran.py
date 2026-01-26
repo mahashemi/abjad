@@ -106,7 +106,7 @@ ayats = [
   {
     "verse_number": 14,
     "english_text": "In this world, love of beautiful things such as, wives and sons, large piles of gold and silver, superior breeds of horse and livestock and agricultural fields are made to seem good; these are few benefits of this world, but an everlasting living place is with Allah.",
-    "arabic_text": "زُيِّنَ لِلنَّاسِ حُبُّ الشَّهَوٰتِ مِنَ النِّسَآءِ وَ الْبَنِينَ وَ الْقَنَاطِيرِ الْمُقَنْطَرَةِ مِنَ الذَّهَبِ وَ الْفِضَّةِ وَ الْخَيْلِ الْمُسَوَّمَةِ وَ الْاَنْعَامِ وَالْحَرْثِ   ذٰلِكَ مَتَاعُ الْحَيٰوةِ الدُّنْيٰ  وَ اللّٰهُ عِنْدَهُ حُسْنُ الْمَآبِ",
+    "arabic_text": "زُيِّنَ لِلنَّاسِ حُبُّ الشَّهَوٰتِ مِنَ النِّسَآءِ وَ الْبَنِينَ وَ الْقَنَاطِيرِ الْمُقَنْطَرَةِ مِنَ الذَّهَبِ وَ الْفِضَّةِ وَ الْخَيْلِ الْمُسَوَّمَةِ وَ الْاَنْعَامِ وَالْحَرْثِ   ذٰلِكَ مَتَاعُ الْحَيٰوةِ الدُّنْيَا  وَ اللّٰهُ عِنْدَهُ حُسْنُ الْمَآبِ",
     "urdu_text": "لوگوں کے لیے خواہشات کی محبت یعنی عورتوں اور بیٹوں اور سونے چاندی کے ڈھیروں اور عمدہ نسل کے گھوڑوں اور مویشیوں اور کھیتوں کی محبت خوشنما بنا دی گئی ہے یہ دنیا کی زندگی کا سامان ہے اور اللہ کے پاس بہترین ٹھکانا ہے",
     "persian_text": "برای مردم محبت شهوات از زنان و پسران و توده‌های انباشته از طلا و نقره و اسبان نشان‌دار و چارپایان و کشتزارها زینت داده شده است این متاع زندگی دنیاست و خداوند نزد اوست بهترین بازگشت",
     "transliteration": "Zuyyina linnaasi hubbush shahawaati minan nisaa'i walbaneen walqanaateeril muqantarati minaz zahabi walfiddati walkhayl ilmusawwamati wal an'aami walhars zaalika mataa'ul hayaatid dunya wallahu 'indahu husnul ma'aab",
@@ -170,7 +170,7 @@ ayats = [
   {
     "verse_number": 22,
     "english_text": "These are the unlucky people whose all acts are futile in this world and the world hereafter, and no one will help them.",
-    "arabic_text": "اُولٰٓئِكَ الَّذِيْنَ حَبِطَتْ اَعْمَالُهُمْ فِىْ الدُّنْيٰوَ الْاٰخِرَةِ   وَ مَا لَهُمْ مِّن نّٰصِرِيْنَ",
+    "arabic_text": "اُولٰٓئِكَ الَّذِيْنَ حَبِطَتْ اَعْمَالُهُمْ فِىْ الدُّنْيَا وَ الْاٰخِرَةِ   وَ مَا لَهُمْ مِّن نّٰصِرِيْنَ",
     "urdu_text": "یہ وہ بدنصیب لوگ ہیں جن کے تمام اعمال دنیا اور آخرت میں برباد ہو گئے، اور ان کا کوئی مددگار نہیں ہوگا۔",
     "persian_text": "اینان کسانی هستند که اعمالشان در دنیا و آخرت تباه شده است و هیچ یاوری برای آنها نخواهد بود.",
     "transliteration": "Ulaaa'ikal-lazeena habitat a'maaluhum fid-dunyaa wal-aakhirati wa maa lahum min-naaSireen",
@@ -354,7 +354,7 @@ ayats = [
   {
     "verse_number": 45,
     "english_text": "When people were quarrelling among them, remember when angels told Maryam that Allah is giving glad tidings to you for a son, whose name will be Isa ibn Maryam, and he will be among the honourable in this world and The Hereafter and will be among the near ones.",
-    "arabic_text": "اِذْ قَالَتِ الْمَلٰٓئِكَةُ يٰمَرْيَمُ اِنَّ اللّٰهَ يُبَشِّرُكِ بِكَلِمَةٍ مِّنْهُ اسْمُهُ الْمَسِيحُ عِيسَى ابْنُ مَرْيَمَ وَ جِيهًا فِى الدُّنْيٰوَ الْاٰخِرَةِ وَ مِنَ الْمُقَرَّبِينَ",
+    "arabic_text": "اِذْ قَالَتِ الْمَلٰٓئِكَةُ يٰمَرْيَمُ اِنَّ اللّٰهَ يُبَشِّرُكِ بِكَلِمَةٍ مِّنْهُ اسْمُهُ الْمَسِيحُ عِيسَى ابْنُ مَرْيَمَ وَ جِيهًا فِى الدُّنْيَا وَ الْاٰخِرَةِ وَ مِنَ الْمُقَرَّبِينَ",
     "urdu_text": "جب فرشتوں نے کہا اے مریم! بیشک اللہ تجھے اپنے ایک کلمہ کی خوشخبری دیتا ہے جس کا نام مسیح عیسیٰ ابن مریم ہوگا، وہ دنیا اور آخرت میں عزت والا ہوگا اور مقربین میں سے ہوگا۔",
     "persian_text": "هنگامی که فرشتگان گفتند: ای مریم! همانا خداوند تو را به کلمه‌ای از جانب خود بشارت می‌دهد که نامش مسیح عیسی پسر مریم است، در دنیا و آخرت صاحب آبرو و از مقربان خواهد بود.",
     "transliteration": "Idh qalatil-mala'ikatu ya Maryamu innallaha yubashshiruki bi kalimatin minhu ismuhu al-Masihu 'Isa ibnu Maryama wajihan fid-dunya wal-akhirati wa minal-muqarrabin",
@@ -442,7 +442,7 @@ ayats = [
   {
     "verse_number": 56,
     "english_text": "Whoever turned unbeliever (Allah) will punish them severely in this world and The Hereafter and nobody will be their helper.",
-    "arabic_text": "فَاَمَّا الَّذِيْنَ كَفَرُوْا فَاُعَذِّبُهُمْ عَذَابًا شَدِيْدًا فِىْ الدُّنْيٰوَ الْاٰخِرَةِ   وَ مَا لَهُمْ مِّنْ نّٰصِرِيْنَ",
+    "arabic_text": "فَاَمَّا الَّذِيْنَ كَفَرُوْا فَاُعَذِّبُهُمْ عَذَابًا شَدِيْدًا فِىْ الدُّنْيَا وَ الْاٰخِرَةِ   وَ مَا لَهُمْ مِّنْ نّٰصِرِيْنَ",
     "urdu_text": "پس جن لوگوں نے کفر کیا تو میں انہیں دنیا اور آخرت میں سخت عذاب دوں گا اور ان کا کوئی مددگار نہیں ہوگا",
     "persian_text": "اما کسانی که کافر شدند، آنها را در دنیا و آخرت به عذاب شدیدی گرفتار خواهم کرد و هیچ یاوری برای آنها نخواهد بود",
     "transliteration": "Fa-amma alladhina kafaru fa-u'adhdhibuhum 'adhaban shadidan fid-dunya wal-akhirati wa ma lahum min nasirin",
@@ -930,7 +930,7 @@ ayats = [
   {
     "verse_number": 117,
     "english_text": "In the few days of this world whatever they spend is like a breeze full of frost, which fell on their fields, and whoever has done injustice on themselves and destroyed it and then fell the frost, Allah has not oppressed them, but they have done injustice to themselves.",
-    "arabic_text": "مَّثَلُ مَا يُنْفِقُونَ فِىْ هٰذِهِ الْحَيٰوةِ الدُّنْيٰكَمَثَلِ رِيْحٍ فِيْهَا صِرٌّ اَصَابَتْ حَرْثَ قَوْمٍۢ ظَلَمُوٓا اَنفُسَهُمْ فَاَهْلَكَتْهُ   وَ مَا ظَلَمَهُمُ اللّٰهُ وَ لٰكِنْ اَنْفُسَهُمْ يَظْلِمُوْنَ",
+    "arabic_text": "مَّثَلُ مَا يُنْفِقُونَ فِىْ هٰذِهِ الْحَيٰوةِ الدُّنْيَا كَمَثَلِ رِيْحٍ فِيْهَا صِرٌّ اَصَابَتْ حَرْثَ قَوْمٍۢ ظَلَمُوٓا اَنفُسَهُمْ فَاَهْلَكَتْهُ   وَ مَا ظَلَمَهُمُ اللّٰهُ وَ لٰكِنْ اَنْفُسَهُمْ يَظْلِمُوْنَ",
     "urdu_text": "اس دنیا کی زندگی میں جو کچھ یہ خرچ کرتے ہیں اس کی مثال اس ٹھنڈی ہوا کی سی ہے جس میں پالا ہو، جو ان لوگوں کی کھیتی پر پڑی جنہوں نے اپنے اوپر ظلم کیا تھا اور اسے تباہ کر دیا، اور اللہ نے ان پر ظلم نہیں کیا بلکہ وہ خود اپنے اوپر ظلم کرتے ہیں۔",
     "persian_text": "مثل آنچه در این زندگی دنیا انفاق می‌کنند، همچون بادی است که در آن سرمای شدید است و به کشتزار قومی که بر خود ستم کرده‌اند می‌رسد و آن را نابود می‌سازد، و خدا بر آنها ستم نکرده بلکه خودشان بر خویشتن ستم می‌کنند.",
     "transliteration": "Masalu maa yunfiqoona fee haazihil-hayaatid-dunyaa kamathali reehin feehaa sirrun asaabat hartha qawmin zalamoo anfusahum fa-ahlakat-hu, wa maa zalamahumul-laahu wa laakin anfusahum yazlimoon",
@@ -1154,7 +1154,7 @@ ayats = [
   {
     "verse_number": 145,
     "english_text": "And no one can die without command of Allah, and the time is fixed for every one’s death, and whoever desires for reward in this world, I will give here, and whoever desire for the reward in the Hereafter, I will give them there, and shortly We will reward the thankful.",
-    "arabic_text": "وَ مَا كَانَ لِنَفْسٍ اَنْ تَمُوْتَ اِلَّا بِاِذْنِ اللّٰهِ كِتٰبًا مُّؤَجَّلًا   وَ مَنْ يُرِدْ ثَوَابَ الدُّنْيٰنُؤْتِهِ مِنْهَا   وَ مَنْ يُّرِدْ ثَوَابَ الْاٰخِرَةِ نُؤْتِهِ مِنْهَا  وَ سَنَجْزِى الشّٰكِرِيْنَ",
+    "arabic_text": "وَ مَا كَانَ لِنَفْسٍ اَنْ تَمُوْتَ اِلَّا بِاِذْنِ اللّٰهِ كِتٰبًا مُّؤَجَّلًا   وَ مَنْ يُرِدْ ثَوَابَ الدُّنْيَا نُؤْتِهِ مِنْهَا   وَ مَنْ يُّرِدْ ثَوَابَ الْاٰخِرَةِ نُؤْتِهِ مِنْهَا  وَ سَنَجْزِى الشّٰكِرِيْنَ",
     "urdu_text": "اور کوئی جان اللہ کے حکم کے بغیر نہیں مر سکتی، اور موت کا وقت مقرر ہے، اور جو دنیا کا ثواب چاہے گا ہم اسے دنیا میں دیں گے، اور جو آخرت کا ثواب چاہے گا ہم اسے آخرت میں دیں گے، اور ہم عنقریب شکر کرنے والوں کو جزا دیں گے",
     "persian_text": "و هیچ کس نمی‌تواند بمیرد مگر به فرمان خداوند، مرگی که زمانش معین و مقرر است، و هر کس پاداش دنیا را بخواهد از آن به او خواهیم داد، و هر کس پاداش آخرت را بخواهد از آن به او عطا خواهیم کرد، و به زودی سپاسگزاران را پاداش خواهیم داد",
     "transliteration": "Wa ma kana li-nafsin an tamuta illa bi-idhni Allahi kitaban mu'ajjalan wa man yurid thawaba ad-dunya nu'tihi minha wa man yurid thawaba al-akhirati nu'tihi minha wa sa-najzi ash-shakirin",
@@ -1178,7 +1178,7 @@ ayats = [
   {
     "verse_number": 148,
     "english_text": "So, Allah rewarded them in this world and good reward for the Hereafter, and Allah loves the people of good deeds.",
-    "arabic_text": "فَاٰتٰهُمُ اللّٰهُ ثَوَابَ الدُّنْيٰوَ حُسْنَ ثَوَابِ الْاٰخِرَةِ   وَ اللّٰهُ يُحِبُّ الْمُحْسِنِيْنَ",
+    "arabic_text": "فَاٰتٰهُمُ اللّٰهُ ثَوَابَ الدُّنْيَا وَ حُسْنَ ثَوَابِ الْاٰخِرَةِ   وَ اللّٰهُ يُحِبُّ الْمُحْسِنِيْنَ",
     "urdu_text": "تو اللہ نے انہیں دنیا کا ثواب عطا فرمایا اور آخرت کا بہترین اجر بھی، اور اللہ نیکی کرنے والوں سے محبت کرتا ہے",
     "persian_text": "پس خداوند پاداش دنیا و پاداش نیکوی آخرت را به آنان عطا فرمود، و خداوند نیکوکاران را دوست می‌دارد",
     "transliteration": "Fa'atahumu-llahu thawabad-dunya wa husna thawabal-akhirah, wallahu yuhibbul-muhsineen",
@@ -1210,7 +1210,7 @@ ayats = [
   {
     "verse_number": 152,
     "english_text": "Certainly, Allah fulfilled his promise when you were slaying the infidels with His command in the Battle of Ohad until you reached your desire, later you showed your cowardice for war booty and disputed the instructions of the Prophet and disobeyed him, some of you are desirous of this world, and some desire the Hereafter (and sacrificed themselves over the Prophet), then He turned you from them, and Allah wanted to test you, then Allah forgave you, Allah is very Considerate and Gracious for the believers.",
-    "arabic_text": "وَ لَقَدْ صَدَقَكُمُ اللّٰهُ وَعْدَهُٓ اِذْ تَحُسُّوْنَهُم بِاِذْنِهِ   حَتّٰٓى اِذَا فَشِلْتُمْ وَ تَنَازَعْتُمْ فِىْ الْاَمْرِ وَ عَصَيْتُم مِّنۢ بَعْدِ مَآ اَرٰكُمْ مَّا تُحِبُّوْنَ  مِنْكُمْ مَّنْ يُّرِيْدُ الدُّنْيٰوَ مِنْكُمْ مَّنْ يُّرِيْدُ الْاٰخِرَةَ  ۚ  ثُمَّ صَرَفَكُمْ عَنْهُمْ لِيَبْتَلِيَكُمْ  ۚ  وَ لَقَدْ عَفَا عَنْكُمْ   وَ اللّٰهُ ذُوْ فَضْلٍ عَلَى الْمُؤْمِنِيْنَ",
+    "arabic_text": "وَ لَقَدْ صَدَقَكُمُ اللّٰهُ وَعْدَهُٓ اِذْ تَحُسُّوْنَهُم بِاِذْنِهِ   حَتّٰٓى اِذَا فَشِلْتُمْ وَ تَنَازَعْتُمْ فِىْ الْاَمْرِ وَ عَصَيْتُم مِّنۢ بَعْدِ مَآ اَرٰكُمْ مَّا تُحِبُّوْنَ  مِنْكُمْ مَّنْ يُّرِيْدُ الدُّنْيَا وَ مِنْكُمْ مَّنْ يُّرِيْدُ الْاٰخِرَةَ  ۚ  ثُمَّ صَرَفَكُمْ عَنْهُمْ لِيَبْتَلِيَكُمْ  ۚ  وَ لَقَدْ عَفَا عَنْكُمْ   وَ اللّٰهُ ذُوْ فَضْلٍ عَلَى الْمُؤْمِنِيْنَ",
     "urdu_text": "اور بیشک اللہ نے اپنا وعدہ سچا کر دکھایا جب تم اس کے حکم سے انہیں قتل کر رہے تھے یہاں تک کہ جب تم کمزور پڑ گئے اور حکم میں جھگڑنے لگے اور نافرمانی کی اس کے بعد کہ اللہ نے تمہیں وہ دکھا دیا جو تم چاہتے تھے، تم میں سے کچھ دنیا چاہتے تھے اور تم میں سے کچھ آخرت چاہتے تھے، پھر اللہ نے تمہیں ان سے پھیر دیا تاکہ تمہیں آزمائے، اور بیشک اللہ نے تمہیں معاف کر دیا، اور اللہ مومنوں پر بڑا فضل کرنے والا ہے۔",
     "persian_text": "و به راستی خداوند وعده خود را به شما راست کرد آنگاه که به فرمان او آنان را می‌کشتید تا زمانی که سست شدید و در کار با هم به نزاع پرداختید و نافرمانی کردید پس از آنکه خداوند آنچه را دوست می‌داشتید به شما نشان داد، بعضی از شما خواهان دنیا بودند و بعضی خواهان آخرت، سپس شما را از آنان بازگرداند تا شما را بیازماید، و به راستی شما را بخشید، و خداوند صاحب فضل بر مؤمنان است.",
     "transliteration": "Wa laqad sadaqakumul-laahu wa'dahoo iz tahussoonahum bi-iznihi hattaa izaa fashiltum wa tanaaza'tum fil-amri wa 'asaitum mim ba'di maa araakum maa tuhibboon, minkum maiy-yureedul-dunyaa wa minkum maiy-yureedil-aakhirah, thumma sarafakum 'anhum liyabtaliyakum, wa laqad 'afaa 'ankum, wallaahu zoo fadlin 'alal-mu'mineen",
@@ -1474,7 +1474,7 @@ ayats = [
   {
     "verse_number": 185,
     "english_text": "Every soul shall taste the death, and you will get full reward for your deeds on the Day of Judgement, and successful will be the person who will be saved from Hell and will enter Paradise, and a few days' life in the world is only delusion.",
-    "arabic_text": "كُلُّ نَفْسٍ ذَآئِقَةُ الْمَوْتِ   وَ اِنَّمَا تُوَفَّوْنَ اُجُوْرَكُمْ يَوْمَ الْقِيٰمَةِ   فَمَنْ زُحْزِحَ عَنِ النَّارِ وَ اُدْخِلَ الْجَنَّةَ فَقَدْ فَازَ   وَ مَا الْحَيٰوةُ الدُّنْيَآ اِلَّا مَتَاعُ الْغُرُوْرِ",
+    "arabic_text": "كُلُّ نَفْسٍ ذَآئِقَةُ الْمَوْتِ   وَ اِنَّمَا تُوَفَّوْنَ اُجُوْرَكُمْ يَوْمَ الْقِيٰمَةِ   فَمَنْ زُحْزِحَ عَنِ النَّارِ وَ اُدْخِلَ الْجَنَّةَ فَقَدْ فَازَ   وَ مَا الْحَيٰوةُ الدُّنْيَا ٓ اِلَّا مَتَاعُ الْغُرُوْرِ",
     "urdu_text": "ہر جان کو موت کا مزہ چکھنا ہے، اور تمہیں اپنے اعمال کا پورا بدلہ قیامت کے دن ملے گا، پس جو شخص جہنم سے بچا لیا گیا اور جنت میں داخل کر دیا گیا تو وہ کامیاب ہو گیا، اور دنیا کی زندگی تو صرف دھوکے کا سامان ہے۔",
     "persian_text": "هر جانی چشنده مرگ است و پاداش اعمالتان را در روز قیامت به طور کامل خواهید یافت. پس هر کس از آتش دور شود و به بهشت درآید، رستگار شده است و زندگی دنیا جز متاع فریب نیست.",
     "transliteration": "Kullu nafsin dhaa'iqatul-mawt. Wa innamaa tuwaffawna ujoorakum yawmal-qiyaamah. Faman zuhziha 'anin-naari wa udkhilal-jannata faqad faaz. Wa mal-hayaatud-dunyaa illaa mataa'ul-ghuroor.",

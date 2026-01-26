@@ -41,7 +41,7 @@ ayats = [
   {
     "verse_number": 5,
     "english_text": "And remember the time when Moosa said to his nation: O my people why you are vexing me, although you are aware that I am a messenger of Allah to you, so when those people turned crooked then Allah let their hearts go crooked; that Allah do not guide transgressing nation.",
-    "arabic_text": "وَاِذْ قَالَ مُوسَىٰ لِقَوْمِهِ يَـٰقَوْمِ لِمَ تُؤْذُونَنِى وَقَد تَّعْلَمُونَ اَنِّى رَسُولُ اللّٰهِ اِلَيْكُمْ ۖ فَلَمَّا زَاغُوٓاْ اَزَاغَ اللّٰهُ قُلُوبَهُمْ ۚ وَاللّٰهُ لَا يَهْدِى الْقَوْمَ الْفَـٰسِقِينَ",
+    "arabic_text": "وَاِذْ قَالَ مُوسَىٰ لِقَوْمِهِ يَـٰقَوْمِ لِمَ تُؤْذُونَنِى وَقَد تَّعْلَمُونَ اَنِّى رَسُولُ اللّٰهِ اِلَيْكُمْ ۖ فَلَمَّا زَاغُوٓاْ اَزَاغَ اللّٰهُ قُلُوبَهُمْ ۚ وَ اللّٰهُ لَا يَهْدِى الْقَوْمَ الْفَـٰسِقِينَ",
     "urdu_text": "اور یاد کرو جب موسیٰ نے اپنی قوم سے کها: اے میری قوم! تم مجھے کیوں تکلیف دیتے هو جبکه تم جانتے هو که میں تمهاری طرف الله کا رسول هوں؟ پھر جب وه ٹیڑھے هو گئے تو الله نے ان کے دلوں کو ٹیڑھا کر دیا، اور الله نافرمان لوگوں کو هدایت نهیں دیتا۔",
     "persian_text": "و یاد کن هنگامی را که موسی به قوم خود گفت: ای قوم من! چرا مرا آزار می‌دهید در حالی که می‌دانید من فرستاده خدا به سوی شما هستم؟ پس چون آنان منحرف شدند، خدا دل‌هایشان را منحرف ساخت، و خدا قوم نافرمان را هدایت نمی‌کند.",
     "transliteration": "Wa idh qala Musa liqawmihī ya qawmi lima tu'dhunani wa qad ta'lamuna anni rasulullahi ilaykum, falamma zaghū azaghallahu qulubahum, wallahu la yahdil-qawmal-fasiqin"
@@ -57,7 +57,7 @@ ayats = [
   {
     "verse_number": 7,
     "english_text": "Who can be the bigger unjust who blames Allah, whereas he is being invited towards Islam, and Allah never guides the unjust nation.",
-    "arabic_text": "وَ مَنْ اَظْلَمُ مِمَّنِ افْتَرَىٰ عَلَى اللّٰهِ الْكَذِبَ وَهُوَ يُدْعَىٰٓ اِلَى الْاِسْلَـٰمِ ۚ وَاللّٰهُ لَا يَهْدِى الْقَوْمَ الظَّـٰلِمِينَ",
+    "arabic_text": "وَ مَنْ اَظْلَمُ مِمَّنِ افْتَرَىٰ عَلَى اللّٰهِ الْكَذِبَ وَهُوَ يُدْعَىٰٓ اِلَى الْاِسْلَـٰمِ ۚ وَ اللّٰهُ لَا يَهْدِى الْقَوْمَ الظَّـٰلِمِينَ",
     "urdu_text": "اور اس سے بڑھ کر ظالم کون هو گا جو الله پر جھوٹ باندھے جبکه اسے اسلام کی طرف بلایا جا رها هو؟ اور الله ظالم لوگوں کو هدایت نهیں دیتا۔",
     "persian_text": "و چه کسی ستمکارتر است از آن که بر خدا دروغ ببندد در حالی که به سوی اسلام دعوت می‌شود؟ و خدا قوم ستمگر را هدایت نمی‌کند.",
     "transliteration": "Wa man azlamu mimmanif-tara 'alallahil-kadhiba wa huwa yud'a ilal-Islam, wallahu la yahdil-qawmaz-zalimin"
@@ -65,7 +65,7 @@ ayats = [
   {
     "verse_number": 8,
     "english_text": "Intention of these people is to extinguish the Light of Allah (by blowing) with their mouth and Allah shall complete His Light, even if the infidels may not like it.",
-    "arabic_text": "يُرِيدُونَ لِيُطْفِـُٔواْ نُورَ اللّٰهِ بِاَفْوَٰهِهِمْ وَاللّٰهُ مُتِمُّ نُورِهِ وَ لَوْ كَرِهَ الْكَـٰفِرُونَ",
+    "arabic_text": "يُرِيدُونَ لِيُطْفِـُٔواْ نُورَ اللّٰهِ بِاَفْوَٰهِهِمْ وَ اللّٰهُ مُتِمُّ نُورِهِ وَ لَوْ كَرِهَ الْكَـٰفِرُونَ",
     "urdu_text": "یه لوگ چاهتے هیں که الله کے نور کو اپنے منه سے بجھا دیں، لیکن الله اپنے نور کو مکمل کرنے والا هے اگرچه کافر ناپسند کریں۔",
     "persian_text": "آنان می‌خواهند نور خدا را با دهان‌هایشان خاموش کنند، اما خدا نور خود را کامل خواهد کرد هر چند کافران ناخوشایند بدانند.",
     "transliteration": "Yuriduna liyutfi'u nurallahi bi-afwahihim wallahu mutimmu nurihi wa law karihal-kafirun"
@@ -97,7 +97,7 @@ ayats = [
   {
     "verse_number": 12,
     "english_text": "He will also forgive your sins and will enter you in that Paradises beneath which the rivers will be flowing, and there will be pure houses in this forever-remaining Paradise, and this the greater success.",
-    "arabic_text": "يَغْفِرْ لَكُمْ ذُنُوبَكُمْ وَيُدْخِلْكُمْ جَنَّـٰتٍۢ تَجْرِى مِن تَحْتِهَا الْاَنْهَـٰرُ وَمَسَـٰكِنَ طَيِّبَةًۭ فِى جَنَّـٰتِ عَدْنٍۢ ۚ ذَٰلِكَ الْفَوْزُ الْعَظِيمُ",
+    "arabic_text": "يَغْفِرْ لَكُمْ ذُنُوبَكُمْ وَيُدْخِلْكُمْ جَنَّـٰتٍۢ تَجْرِى مِن تَحْتِهَا الْاَنْهَـٰرُ وَمَسَـٰكِنَ طَيِّبَةًۭ فِى جَنَّـٰتِ عَدْنٍۢ ۚ ذٰلِكَ الْفَوْزُ الْعَظِيمُ",
     "urdu_text": "وه تمهارے گناه بخش دے گا اور تمهیں ایسی جنتوں میں داخل کرے گا جن کے نیچے نهریں بهتی هیں اور همیشه رهنے والی جنتوں میں پاکیزه مکانات ملیں گے، اور یهی بڑی کامیابی هے۔",
     "persian_text": "گناهان شما را می‌بخشد و شما را به بهشت‌هایی وارد می‌کند که از زیر درختانش نهرها جاری است و خانه‌های پاکیزه در بهشت‌های جاودان، و این پیروزی بزرگ است.",
     "transliteration": "Yaghfir lakum dhunoobakum wa yudkhilkum jannaatin tajree min tahtihal-anhaaru wa masaakina tayyibatan fee jannaati 'adn, dhalikal-fawzul-'azheem"

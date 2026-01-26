@@ -145,7 +145,7 @@ ayats = [
   {
     "verse_number": 18,
     "english_text": "We treat the guilty ones like this.",
-    "arabic_text": "كَذَٰلِكَ نَفْعَلُ بِالْمُجْرِمِينَ",
+    "arabic_text": "كَذٰلِكَ نَفْعَلُ بِالْمُجْرِمِينَ",
     "urdu_text": "ہم مجرموں کے ساتھ ایسا ہی کرتے ہیں",
     "persian_text": "این چنین با مجرمان رفتار می‌کنیم",
     "transliteration": "Kazaalika naf'alu bil-mujrimeen"
@@ -353,7 +353,7 @@ ayats = [
   {
     "verse_number": 44,
     "english_text": "Like this We reward the good-doers.",
-    "arabic_text": "اِنَّا كَذَٰلِكَ نَجْزِى الْمُحْسِنِينَ",
+    "arabic_text": "اِنَّا كَذٰلِكَ نَجْزِى الْمُحْسِنِينَ",
     "urdu_text": "بیشک ہم نیکوکاروں کو اسی طرح بدلہ دیتے ہیں",
     "persian_text": "همانا ما نیکوکاران را چنین پاداش می‌دهیم",
     "transliteration": "Innaa kazaalika najzil-muhsineen"

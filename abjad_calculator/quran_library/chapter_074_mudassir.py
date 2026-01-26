@@ -73,7 +73,7 @@ ayats = [
   {
     "verse_number": 9,
     "english_text": "So that Day will be very difficult day.",
-    "arabic_text": "فَذَٰلِكَ يَوْمَئِذٍۢ يَوْمٌ عَسِيرٌ",
+    "arabic_text": "فَذٰلِكَ يَوْمَئِذٍۢ يَوْمٌ عَسِيرٌ",
     "urdu_text": "تو وه دن بهت سخت دن هوگا۔",
     "persian_text": "پس آن روز، روزی بسیار سخت خواهد بود.",
     "transliteration": "Fa-dhaalika yawma-idhin yawmun 'aseer"
@@ -249,7 +249,7 @@ ayats = [
   {
     "verse_number": 31,
     "english_text": "And We have made only angels to guard Hell and their numbers is a source of trial for infidels that people of book may be certain and faith of the believers may increase, and people of book and believers may not doubt in any way; and whoever has a disease in his heart and infidels say what is the purpose of this example, like this Allah leaves in misguidance to whoever He pleases, and guides to whoever He please; and nobody knows His armies except Him, this is only a source of admonition for the people.",
-    "arabic_text": "وَ مَا جَعَلْنَآ اَصْحَـٰبَ النَّارِ اِلَّا مَلَـٰٓئِكَةًۭ ۙ وَ مَا جَعَلْنَا عِدَّتَهُمْ اِلَّا فِتْنَةًۭ لِّلَّذِينَ كَفَرُواْ لِيَسْتَيْقِنَ الَّذِينَ اُوتُواْ الْكِتٰبَ وَيَزْدَادَ الَّذِينَ ءَامَنُوٓاْ اِيمَـٰنًۭا ۙ وَ لَا يَرْتَابَ الَّذِينَ اُوتُواْ الْكِتٰبَ وَالْمُؤْمِنُونَ ۙ وَلِيَقُولَ الَّذِينَ فِى قُلُوبِهِم مَّرَضٌۭ وَالْكَـٰفِرُونَ مَاذَآ اَرَادَ اللّٰهُ بِهَـٰذَا مَثَلًا ۚ كَذَٰلِكَ يُضِلُّ اللّٰهُ مَن يَشَآءُ وَيَهْدِى مَن يَشَآءُ ۚ وَ مَا يَعْلَمُ جُنُودَ رَبِّكَ اِلَّا هُوَ ۚ وَ مَا هِىَ اِلَّا ذِكْرَىٰ لِلْبَشَرِ",
+    "arabic_text": "وَ مَا جَعَلْنَآ اَصْحَـٰبَ النَّارِ اِلَّا مَلَـٰٓئِكَةًۭ ۙ وَ مَا جَعَلْنَا عِدَّتَهُمْ اِلَّا فِتْنَةًۭ لِّلَّذِينَ كَفَرُواْ لِيَسْتَيْقِنَ الَّذِينَ اُوتُواْ الْكِتٰبَ وَيَزْدَادَ الَّذِينَ ءَامَنُوٓاْ اِيمَـٰنًۭا ۙ وَ لَا يَرْتَابَ الَّذِينَ اُوتُواْ الْكِتٰبَ وَالْمُؤْمِنُونَ ۙ وَلِيَقُولَ الَّذِينَ فِى قُلُوبِهِم مَّرَضٌۭ وَالْكَـٰفِرُونَ مَاذَآ اَرَادَ اللّٰهُ بِهَـٰذَا مَثَلًا ۚ كَذٰلِكَ يُضِلُّ اللّٰهُ مَن يَشَآءُ وَيَهْدِى مَن يَشَآءُ ۚ وَ مَا يَعْلَمُ جُنُودَ رَبِّكَ اِلَّا هُوَ ۚ وَ مَا هِىَ اِلَّا ذِكْرَىٰ لِلْبَشَرِ",
     "urdu_text": "اور هم نے دوزخ کے نگهبان صرف فرشتے مقرر کیے هیں، اور هم نے ان کی تعداد کو کافروں کے لیے آزمائش بنایا هے تاکه اهل کتاب یقین کر لیں اور ایمان والوں کا ایمان بڑھ جائے، اور اهل کتاب اور مومنین کو کوئی شک نه رهے، اور تاکه وه لوگ جن کے دلوں میں بیماری هے اور کافر کهیں که الله نے اس مثال سے کیا مراد لی هے۔ اسی طرح الله جسے چاهتا هے گمراه کرتا هے اور جسے چاهتا هے هدایت دیتا هے، اور تمهارے رب کے لشکروں کو اس کے سوا کوئی نهیں جانتا، اور یه تو لوگوں کے لیے صرف نصیحت هے۔",
     "persian_text": "و ما نگهبانان دوزخ را جز فرشتگان قرار ندادیم، و تعداد آنها را جز آزمایشی برای کافران قرار ندادیم تا اهل کتاب یقین کنند و ایمان مؤمنان افزوده شود، و اهل کتاب و مؤمنان هیچ تردیدی نداشته باشند، و تا کسانی که در دلهایشان بیماری است و کافران بگویند که منظور خداوند از این مثال چیست. این چنین خداوند هر که را بخواهد گمراه می‌کند و هر که را بخواهد هدایت می‌کند، و لشکریان پروردگار تو را جز او کسی نمی‌داند، و این جز پندی برای مردم نیست.",
     "transliteration": "Wa maa ja'alnaa as-haaban-naari illaa malaa'ikatan wa maa ja'alnaa 'iddatahum illaa fitnatal-lillazeena kafaroo li-yastayqinal-lazeena ootul-kitaaba wa yazdaadal-lazeena aamanoo eemaanan wa laa yartaabal-lazeena ootul-kitaaba wal-mu'minoona wa li-yaqoolal-lazeena fee quloobihim maradun wal-kaafiroona maazaaa araadal-laahu bi-haazaa masalan kazaalika yudillul-laahu man yashaaa'u wa yahdee man yashaaa'u wa maa ya'lamu junooda rabbika illaa huwa wa maa hiya illaa zikraa lil-bashar"

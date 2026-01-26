@@ -226,7 +226,7 @@ ayats = [
   {
     "verse_number": 29,
     "english_text": "And infidels also say that everything is worldly life only (and Day of Judgement is a myth), and we will not be raised again (after our death).",
-    "arabic_text": "وَ قَالُوْآ اِنْ هِيَ اِلَّا حَيَاتُنَا الدُّنْيٰوَ مَا نَحْنُ بِمَبْعُوْثِيْنَ",
+    "arabic_text": "وَ قَالُوْآ اِنْ هِيَ اِلَّا حَيَاتُنَا الدُّنْيَا وَ مَا نَحْنُ بِمَبْعُوْثِيْنَ",
     "urdu_text": "اور کافر کہتے ہیں کہ یہ صرف ہماری دنیاوی زندگی ہے اور ہم دوبارہ اٹھائے نہیں جائیں گے",
     "persian_text": "و گفتند: این جز زندگی دنیای ما نیست و ما برانگیخته نخواهیم شد",
     "transliteration": "Wa qalu in hiya illa hayatuna ad-dunya wa ma nahnu bi-mab'utheen",
@@ -554,7 +554,7 @@ ayats = [
   {
     "verse_number": 70,
     "english_text": "And whoever considers religion a play and amusement, they are deceiving themselves, leave such people, and keep advising them through Quran lest someone is afflicted with distress and then they will not find any guardian or intercessor other than Allah, and if they give ransom of the whole world in exchange of their sins, it shall not be accepted; who are afflicted with sins due to their deeds, they will be given hot and boiling water for drinking and they will face painful punishment because they practice infidelity.",
-    "arabic_text": "وَ ذَرِ الَّذِيْنَ اتَّخَذُوْا دِيْنَهُمْ لَعِبًا وَ لَهْوًا وَ غَرَّتْهُمُ الْحَيٰوةُ الدُّنْيٰوَذَكِّرْ بِهِٓ اَنْ تُبْسَلَ نَفْسُۢ بِمَا كَسَبَتْ لَيْسَ لَهَا مِن دُونِ اللّٰهِ وَ لِيٌّ وَّ لَا شَفِيْعٌ  وَ اِنْ تَعْدِلْ كُلَّ عَدْلٍ لَّا يُؤْخَذْ مِنْهَا اُوْلٰٓئِكَ الَّذِيْنَ اُبْسِلُوْا بِمَا كَسَبُوْا  لَهُمْ شَرَابٌ مِّنْ حَمِيْمٍ وَ عَذَابٌ اَلِيمُۢ بِمَا كَانُوا يَكْفُرُوْنَ",
+    "arabic_text": "وَ ذَرِ الَّذِيْنَ اتَّخَذُوْا دِيْنَهُمْ لَعِبًا وَ لَهْوًا وَ غَرَّتْهُمُ الْحَيٰوةُ الدُّنْيَا وَذَكِّرْ بِهِٓ اَنْ تُبْسَلَ نَفْسُۢ بِمَا كَسَبَتْ لَيْسَ لَهَا مِن دُونِ اللّٰهِ وَ لِيٌّ وَّ لَا شَفِيْعٌ  وَ اِنْ تَعْدِلْ كُلَّ عَدْلٍ لَّا يُؤْخَذْ مِنْهَا اُوْلٰٓئِكَ الَّذِيْنَ اُبْسِلُوْا بِمَا كَسَبُوْا  لَهُمْ شَرَابٌ مِّنْ حَمِيْمٍ وَ عَذَابٌ اَلِيمُۢ بِمَا كَانُوا يَكْفُرُوْنَ",
     "urdu_text": "اور چھوڑ دو ان لوگوں کو جنہوں نے اپنے دین کو کھیل اور تماشا بنا لیا ہے اور دنیا کی زندگی نے انہیں دھوکے میں ڈال دیا ہے، اور قرآن کے ذریعے نصیحت کرتے رہو تاکہ کوئی شخص اپنے اعمال کی وجہ سے ہلاکت میں نہ پڑ جائے، اللہ کے سوا اس کا نہ کوئی مددگار ہوگا اور نہ سفارشی، اور اگر وہ تمام دنیا کا فدیہ دے تو بھی قبول نہیں کیا جائے گا، یہ وہ لوگ ہیں جو اپنے اعمال کی وجہ سے ہلاکت میں پڑے، ان کے لیے کھولتا ہوا پانی پینے کو ہوگا اور دردناک عذاب ہوگا کیونکہ وہ کفر کرتے تھے",
     "persian_text": "و کسانی را که دین خود را بازی و سرگرمی قرار دادند و زندگی دنیا آنان را فریفت، رها کن، و به وسیله قرآن پند ده مبادا کسی به خاطر اعمالش گرفتار شود که برای او جز خدا یاور و شفیعی نیست، و اگر تمام فدیه‌های دنیا را بدهد پذیرفته نخواهد شد، اینان کسانی هستند که به خاطر اعمالشان گرفتار شدند، برای آنان نوشیدنی از آب جوشان است و عذابی دردناک به خاطر کفری که می‌ورزیدند",
     "transliteration": "Wa dhari alladheena ittakhadho deenahum la'iban wa lahwan wa gharrat-humu al-hayatu ad-dunya wa dhakkir bihi an tubsala nafsun bima kasabat laysa laha min dooni Allahi waliyyun wa la shafee' wa in ta'dil kulla 'adlin la yu'khadh minha ula'ika alladheena ubsiloo bima kasaboo lahum sharabun min hameemin wa 'adhabun aleemun bima kanoo yakfuroon",
@@ -1034,7 +1034,7 @@ ayats = [
   {
     "verse_number": 130,
     "english_text": "(Then We will ask them) O assembly of jinn and men, didn't the prophets among you came who recited Our verses and warn you about this day (Day of Judgement), they will reply: (Verily they did come), and we are testifying against our own selves, worldly life of some days kept deceiving them and they testified against themselves, they Verily were all infidels.",
-    "arabic_text": "يٰمَعْشَرَ الْجِنِّ وَ الْاِنسِ اَلَمْ يَاتِكُمْ رُسُلٌ مِّنْكُمْ يَقُصُّوْنَ عَلَيْكُمْ اٰيٰتِى وَ يُنْذِرُوْنَكُمْ لِقَآءَ يَوْمِكُمْ هٰذَا  قَالُوْا شَهِدْنَا عَلَىٰٓ اَنْفُسِنَا   وَ غَرَّتْهُمُ الْحَيٰوةُ الدُّنْيٰوَ شَهِدُوْا عَلَىٰٓ اَنْفُسِهِمْ اَنَّهُمْ كَانُوا كٰفِرِيْنَ",
+    "arabic_text": "يٰمَعْشَرَ الْجِنِّ وَ الْاِنسِ اَلَمْ يَاتِكُمْ رُسُلٌ مِّنْكُمْ يَقُصُّوْنَ عَلَيْكُمْ اٰيٰتِى وَ يُنْذِرُوْنَكُمْ لِقَآءَ يَوْمِكُمْ هٰذَا  قَالُوْا شَهِدْنَا عَلَىٰٓ اَنْفُسِنَا   وَ غَرَّتْهُمُ الْحَيٰوةُ الدُّنْيَا وَ شَهِدُوْا عَلَىٰٓ اَنْفُسِهِمْ اَنَّهُمْ كَانُوا كٰفِرِيْنَ",
     "urdu_text": "اے جنوں اور انسانوں کی جماعت! کیا تمہارے پاس تم میں سے رسول نہیں آئے تھے جو تم پر میری آیات پڑھتے اور تمہیں اس دن کی ملاقات سے ڈراتے تھے؟ وہ کہیں گے: ہم اپنے اوپر گواہی دیتے ہیں، اور دنیا کی زندگی نے انہیں دھوکے میں ڈال دیا تھا اور انہوں نے اپنے اوپر گواہی دی کہ وہ کافر تھے",
     "persian_text": "ای گروه جن و انس! آیا پیامبرانی از خودتان نزد شما نیامدند که آیات مرا بر شما می‌خواندند و شما را از ملاقات این روزتان بیم می‌دادند؟ گویند: بر خودمان گواهی دادیم، و زندگی دنیا آنان را فریب داد و بر خودشان گواهی دادند که کافر بودند",
     "transliteration": "Ya ma'sharal-jinni wal-insi alam ya'tikum rusulun minkum yaqussuna 'alaykum ayati wa yundhirunakum liqa'a yawmikum hadha qalu shahidna 'ala anfusina wa gharrat-humul-hayatud-dunya wa shahidu 'ala anfusihim annahum kanu kafireen",

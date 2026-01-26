@@ -81,7 +81,7 @@ ayats = [
   {
     "verse_number": 10,
     "english_text": "Blessed is He, Who, if pleases could provide for you much better material than this, and provide you such Paradise beneath which rivers will be flowing, then could make large palaces for you (people).",
-    "arabic_text": "تَبَارَكَ الَّذِىٓ اِن شَآءَ جَعَلَ لَكَ خَيْرًا مِّن ذَٰلِكَ جَنَّـٰتٍۢ تَجْرِى مِن تَحْتِهَا الْاَنْهَـٰرُ وَيَجْعَل لَّكَ قُصُورًۢا",
+    "arabic_text": "تَبَارَكَ الَّذِىٓ اِن شَآءَ جَعَلَ لَكَ خَيْرًا مِّن ذٰلِكَ جَنَّـٰتٍۢ تَجْرِى مِن تَحْتِهَا الْاَنْهَـٰرُ وَيَجْعَل لَّكَ قُصُورًۢا",
     "urdu_text": "بابرکت هے وه جو اگر چاهے تو تمهارے لیے اس سے بهتر چیزیں بنا دے، ایسے باغات جن کے نیچے نهریں بهتی هوں اور تمهارے لیے محلات بنا دے۔",
     "persian_text": "متبارک است آن کسی که اگر بخواهد برای تو بهتر از آن قرار دهد، باغ‌هایی که از زیر آنها نهرها جاری است و برای تو کاخ‌ها بسازد.",
     "transliteration": "Tabarakal-lazee in sha'a ja'ala laka khayran min zalika jannatin tajree min tahtihal-anharu wa yaj'al laka qusoora"
@@ -121,7 +121,7 @@ ayats = [
   {
     "verse_number": 15,
     "english_text": "O Prophet! Ask them: punishment is better or everlasting Paradise? For which pious people have been promised, and that is their reward and their abode.",
-    "arabic_text": "قُلْ اَذَٰلِكَ خَيْرٌ اَمْ جَنَّةُ الْخُلْدِ الَّتِى وُعِدَ الْمُتَّقُونَ ۚ كَانَتْ لَهُمْ جَزَآءًۭ وَمَصِيرًا",
+    "arabic_text": "قُلْ اَذٰلِكَ خَيْرٌ اَمْ جَنَّةُ الْخُلْدِ الَّتِى وُعِدَ الْمُتَّقُونَ ۚ كَانَتْ لَهُمْ جَزَآءًۭ وَمَصِيرًا",
     "urdu_text": "اے نبی! ان سے پوچھو: کیا یه عذاب بهتر هے یا همیشه رهنے والی جنت جس کا پرهیزگاروں سے وعده کیا گیا هے؟ وه ان کی جزا اور ٹھکانا هے۔",
     "persian_text": "بگو: آیا این بهتر است یا بهشت جاودان که به پرهیزگاران وعده داده شده است؟ آن پاداش و جایگاه آنان است.",
     "transliteration": "Qul adhalika khayrun am jannatul-khuldil-lati wu'idal-muttaqoon, kanat lahum jaza'an wa maseera"
@@ -177,7 +177,7 @@ ayats = [
   {
     "verse_number": 22,
     "english_text": "The day they will see angels, then there won't be any good news for the guilty ones, and angels will say: get away.",
-    "arabic_text": "يَوْمَ يَرَوْنَ الْمَلَـٰٓئِكَةَ لَا بُشْرَىٰ يَوْمَئِذٍۢ لِّلْمُجْرِمِينَ وَيَقُولُونَ حِجْرًا مَّحْجُورًا",
+    "arabic_text": "يَوْمَ يَرَوْنَ الْمَلَـٰٓئِكَةَ لَا بُشْرٰى يَوْمَئِذٍۢ لِّلْمُجْرِمِينَ وَيَقُولُونَ حِجْرًا مَّحْجُورًا",
     "urdu_text": "جس دن وه فرشتوں کو دیکھیں گے، اس دن مجرموں کے لیے کوئی خوشخبری نهیں هوگی، اور فرشتے کهیں گے: روک دیا گیا، منع هے۔",
     "persian_text": "روزی که فرشتگان را ببینند، در آن روز برای مجرمان بشارتی نیست و فرشتگان می‌گویند: ممنوع و حرام است.",
     "transliteration": "Yawma yarawnal-mala'ikata la bushra yawma'izil-lil-mujrimeena wa yaqooloona hijram-mahjoora"
@@ -225,7 +225,7 @@ ayats = [
   {
     "verse_number": 28,
     "english_text": "Oh Alas! I would not have made that man a friend.",
-    "arabic_text": "يَـٰوَيْلَتَىٰ لَيْتَنِى لَمْ اَتَّخِذْ فُلَانًا خَلِيلًا",
+    "arabic_text": "يَـٰوَيْلَتٰى لَيْتَنِى لَمْ اَتَّخِذْ فُلَانًا خَلِيلًا",
     "urdu_text": "اے افسوس! کاش میں نے فلاں شخص کو دوست نه بنایا هوتا۔",
     "persian_text": "ای وای بر من! کاش فلانی را دوست نگرفته بودم.",
     "transliteration": "Ya waylataa laytanee lam attakhiz fulanan khaleela"
@@ -249,7 +249,7 @@ ayats = [
   {
     "verse_number": 31,
     "english_text": "And like this We have made some enemies of every prophet among the guilty ones; and for your guidance and help your Lord is Sufficient.",
-    "arabic_text": "وَكَذَٰلِكَ جَعَلْنَا لِكُلِّ نَبِىٍّ عَدُوًّۭا مِّنَ الْمُجْرِمِينَ ۗ وَكَفَىٰ بِرَبِّكَ هَادِيًۭا وَنَصِيرًا",
+    "arabic_text": "وَكَذٰلِكَ جَعَلْنَا لِكُلِّ نَبِىٍّ عَدُوًّۭا مِّنَ الْمُجْرِمِينَ ۗ وَكَفَىٰ بِرَبِّكَ هَادِيًۭا وَنَصِيرًا",
     "urdu_text": "اور اسی طرح هم نے هر نبی کے لیے مجرموں میں سے دشمن بنائے، اور آپ کے رب هدایت دینے والا اور مددگار هونے کے لیے کافی هے۔",
     "persian_text": "و همین‌گونه برای هر پیامبری دشمنانی از مجرمان قرار دادیم، و پروردگار تو برای هدایت و یاری کافی است.",
     "transliteration": "Wa kadhalika ja'alna likulli nabiyyin 'aduwwan minal-mujrimeen, wa kafa birabbika hadiyan wa naseera"
@@ -257,7 +257,7 @@ ayats = [
   {
     "verse_number": 32,
     "english_text": "And infidels also say this that why this Quran has not been revealed on them all at once, but We reveal it gradually so we can strengthen your hearts, and We have revealed it slowly.",
-    "arabic_text": "وَقَالَ الَّذِينَ كَفَرُواْ لَوْلَا نُزِّلَ عَلَيْهِ الْقُرْءَانُ جُمْلَةًۭ وَٰحِدَةًۭ ۚ كَذَٰلِكَ لِنُثَبِّتَ بِهِ فُؤَادَكَ ۖ وَرَتَّلْنَـٰهُ تَرْتِيلًا",
+    "arabic_text": "وَقَالَ الَّذِينَ كَفَرُواْ لَوْلَا نُزِّلَ عَلَيْهِ الْقُرْءَانُ جُمْلَةًۭ وَٰحِدَةًۭ ۚ كَذٰلِكَ لِنُثَبِّتَ بِهِ فُؤَادَكَ ۖ وَرَتَّلْنَـٰهُ تَرْتِيلًا",
     "urdu_text": "اور کافروں نے کها که یه قرآن ان پر ایک ساتھ کیوں نهیں اتارا گیا، هم نے اسے اس لیے تھوڑا تھوڑا اتارا تاکه اس سے آپ کے دل کو مضبوط کریں، اور هم نے اسے ٹھهر ٹھهر کر نازل کیا۔",
     "persian_text": "و کسانی که کافر شدند گفتند چرا قرآن یکجا بر او نازل نشد، ما این‌گونه نازل کردیم تا دل تو را استوار کنیم، و آن را به آهستگی و ترتیب نازل کردیم.",
     "transliteration": "Wa qalal-ladheena kafaru lawla nuzzila 'alayhil-Qur'anu jumlatan wahidah, kadhalika linuthabbita bihi fu'adak, wa rattalnahu tarteela"
@@ -305,7 +305,7 @@ ayats = [
   {
     "verse_number": 38,
     "english_text": "And We have also destroyed nations of Aad and Samood and companion of Rass and many people between them.",
-    "arabic_text": "وَعَادًۭا وَثَمُودَاْ وَاَصْحَـٰبَ الرَّسِّ وَقُرُونًۢا بَيْنَ ذَٰلِكَ كَثِيرًا",
+    "arabic_text": "وَعَادًۭا وَثَمُودَاْ وَاَصْحَـٰبَ الرَّسِّ وَقُرُونًۢا بَيْنَ ذٰلِكَ كَثِيرًا",
     "urdu_text": "اور عاد اور ثمود اور اصحاب رس کو بھی، اور ان کے درمیان بهت سی قوموں کو بھی هم نے هلاک کر دیا۔",
     "persian_text": "و قوم عاد و ثمود و اصحاب رس و نسل‌های بسیاری را که میان آنان بودند نیز نابود کردیم.",
     "transliteration": "Wa 'Adan wa Thamooda wa as-habar-Rassi wa qurunan bayna dhalika kathira"
@@ -537,7 +537,7 @@ ayats = [
   {
     "verse_number": 67,
     "english_text": "These people when they spend, they neither over spend nor with stinginess, but take a middle way out of it.",
-    "arabic_text": "وَالَّذِينَ اِذَآ اَنفَقُواْ لَمْ يُسْرِفُواْ وَلَمْ يَقْتُرُواْ وَكَانَ بَيْنَ ذَٰلِكَ قَوَامًا",
+    "arabic_text": "وَالَّذِينَ اِذَآ اَنفَقُواْ لَمْ يُسْرِفُواْ وَلَمْ يَقْتُرُواْ وَكَانَ بَيْنَ ذٰلِكَ قَوَامًا",
     "urdu_text": "اور وه لوگ جب خرچ کرتے هیں تو نه فضول خرچی کرتے هیں اور نه بخل کرتے هیں، بلکه ان دونوں کے درمیان اعتدال پر رهتے هیں۔",
     "persian_text": "و آنان که هنگام خرج کردن نه اسراف می‌کنند و نه بخل، بلکه میان این دو میانه‌روی دارند.",
     "transliteration": "Wal-ladhīna idhā anfaqū lam yusrifū wa lam yaqturū wa kāna bayna dhālika qawāmā"
@@ -545,7 +545,7 @@ ayats = [
   {
     "verse_number": 68,
     "english_text": "And they do not call upon another god with Allah, and do not unjustly kill any soul whom Allah has forbidden, and they do not commit fornication, who will do such an act shall bear the punishment for the same.",
-    "arabic_text": "وَالَّذِينَ لَا يَدْعُونَ مَعَ اللّٰهِ اِلَـٰهًا ءَاخَرَ وَ لَا يَقْتُلُونَ النَّفْسَ الَّتِى حَرَّمَ اللّٰهُ اِلَّا بِالْحَقِّ وَ لَا يَزْنُونَ ۚ وَمَن يَفْعَلْ ذَٰلِكَ يَلْقَ اَثَامًا",
+    "arabic_text": "وَالَّذِينَ لَا يَدْعُونَ مَعَ اللّٰهِ اِلَـٰهًا ءَاخَرَ وَ لَا يَقْتُلُونَ النَّفْسَ الَّتِى حَرَّمَ اللّٰهُ اِلَّا بِالْحَقِّ وَ لَا يَزْنُونَ ۚ وَمَن يَفْعَلْ ذٰلِكَ يَلْقَ اَثَامًا",
     "urdu_text": "اور وه لوگ الله کے ساتھ کسی دوسرے معبود کو نهیں پکارتے، اور کسی جان کو جسے الله نے حرام کیا هے ناحق قتل نهیں کرتے، اور زنا نهیں کرتے، اور جو یه کام کرے گا وه سزا پائے گا۔",
     "persian_text": "و آنان که با الله، خدای دیگری را نمی‌خوانند و جانی را که خدا حرام کرده جز به حق نمی‌کشند و زنا نمی‌کنند، و هر که چنین کند به کیفر خواهد رسید.",
     "transliteration": "Wal-ladhīna lā yad'ūna ma'al-lāhi ilāhan ākhara wa lā yaqtulūnan-nafsallatī ḥarramal-lāhu illā bil-ḥaqqi wa lā yaznūn, wa man yaf'al dhālika yalqa athāmā"

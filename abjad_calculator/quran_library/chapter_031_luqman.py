@@ -137,7 +137,7 @@ ayats = [
   {
     "verse_number": 17,
     "english_text": "O my Son! establish prayer, enjoin good and despise what is wrong, if any trouble afflicts you in the way of Allah, be patient, indeed that it is the matter of courage.",
-    "arabic_text": "يَـٰبُنَىَّ اَقِمِ الصَّلَوٰةَ وَاْمُرْ بِالْمَعْرُوفِ وَانْهَ عَنِ الْمُنكَرِ وَاصْبِرْ عَلَىٰ مَآ اَصَابَكَ ۖ اِنَّ ذَٰلِكَ مِنْ عَزْمِ الْاُمُورِ",
+    "arabic_text": "يَـٰبُنَىَّ اَقِمِ الصَّلَوٰةَ وَاْمُرْ بِالْمَعْرُوفِ وَانْهَ عَنِ الْمُنكَرِ وَاصْبِرْ عَلَىٰ مَآ اَصَابَكَ ۖ اِنَّ ذٰلِكَ مِنْ عَزْمِ الْاُمُورِ",
     "urdu_text": "اے میرے بیٹے! نماز قائم کرو، نیکی کا حکم دو اور برائی سے منع کرو، اور جو مصیبت تم پر آئے اس پر صبر کرو، بیشک یه همت کے کاموں میں سے هے۔",
     "persian_text": "ای پسرم! نماز را برپا دار، به نیکی فرمان ده و از بدی نهی کن، و بر آنچه به تو می‌رسد صبر کن، همانا این از کارهای با عزم است.",
     "transliteration": "Yā bunayya aqimi aṣ-ṣalāta wa'mur bil-ma'rūfi wanha 'ani al-munkari waṣbir 'alā mā aṣābaka inna dhālika min 'azmi al-umūr"
@@ -241,7 +241,7 @@ ayats = [
   {
     "verse_number": 30,
     "english_text": "This is all because Allah is the truthful Lord, and to whomever they call besides Him are falsehood, Allah is Exalted, High and Great.",
-    "arabic_text": "ذَٰلِكَ بِاَنَّ اللّٰهَ هُوَ الْحَقُّ وَاَنَّ مَا يَدْعُونَ مِن دُونِهِ الْبَـٰطِلُ وَاَنَّ اللّٰهَ هُوَ الْعَلِىُّ الْكَبِيرُ",
+    "arabic_text": "ذٰلِكَ بِاَنَّ اللّٰهَ هُوَ الْحَقُّ وَاَنَّ مَا يَدْعُونَ مِن دُونِهِ الْبَـٰطِلُ وَاَنَّ اللّٰهَ هُوَ الْعَلِىُّ الْكَبِيرُ",
     "urdu_text": "یه اس لیے که الله هی حق هے اور جن کو وه اس کے سوا پکارتے هیں وه باطل هیں، اور بے شک الله هی بلند اور بڑا هے۔",
     "persian_text": "این بدان سبب است که خداوند حق است و آنچه غیر از او می‌خوانند باطل است، و خداوند بلند مرتبه و بزرگ است.",
     "transliteration": "Dhalika bi'annal-laha huwal haqq, wa anna ma yad'oona min doonihi albatil, wa annal-laha huwal 'aliyyul kabeer"
@@ -249,7 +249,7 @@ ayats = [
   {
     "verse_number": 31,
     "english_text": "Did you not see that ships are moving in the sea with Allah's Mercy, that He may show you His signs, there are big signs in this for the people who are patient and thankful.",
-    "arabic_text": "اَلَمْ تَرَ اَنَّ الْفُلْكَ تَجْرِى فِى الْبَحْرِ بِنِعْمَتِ اللّٰهِ لِيُرِيَكُم مِّنْ اٰيٰتِهِٓ ۚ اِنَّ فِى ذَٰلِكَ لَـَٔايَـٰتٍۢ لِّكُلِّ صَبَّارٍۢ شَكُورٍۢ",
+    "arabic_text": "اَلَمْ تَرَ اَنَّ الْفُلْكَ تَجْرِى فِى الْبَحْرِ بِنِعْمَتِ اللّٰهِ لِيُرِيَكُم مِّنْ اٰيٰتِهِٓ ۚ اِنَّ فِى ذٰلِكَ لَـَٔايَـٰتٍۢ لِّكُلِّ صَبَّارٍۢ شَكُورٍۢ",
     "urdu_text": "کیا تم نے نهیں دیکھا که کشتیاں الله کی نعمت سے سمندر میں چلتی هیں تاکه وه تمهیں اپنی نشانیاں دکھائے، بیشک اس میں هر صبر کرنے والے اور شکر گزار کے لیے بڑی نشانیاں هیں۔",
     "persian_text": "آیا ندیدی که کشتی‌ها به فضل و نعمت خداوند در دریا حرکت می‌کنند تا نشانه‌های خود را به شما نشان دهد، همانا در این امر نشانه‌های بزرگی است برای هر کسی که صبور و سپاسگزار باشد.",
     "transliteration": "Alam tara annal-fulka tajree fil-bahri bi-ni'matil-laahi li-yuriyakum min aayaatih, inna fee dhaalika la-aayaatil-likulli sabbarin shakoor"

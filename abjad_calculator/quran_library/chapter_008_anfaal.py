@@ -330,7 +330,7 @@ ayats = [
   {
     "verse_number": 42,
     "english_text": "At the time you were nearer side of valley in battlefield, and those people were far away in battlefront, and caravan was on a slope from you, if you would have earlier left for fighting that you Verily would have done to the contrary, but Allah wanted to decide about the happenings, that whoever is killed might be killed by clear proof and whoever would live might live by clear proof, and Allah hear all and know the condition of hearts.",
-    "arabic_text": "اِذْ اَنْتُم بِالْعُدْوَةِ الدُّنْيٰوَ هُم بِالْعُدْوَةِ الْقُصْوٰى وَ الرَّكْبُ اَسْفَلَ مِنْكُمْ ۚ وَ لَوْ تَوَاعَدتُّمْ لَاخْتَلَفْتُمْ فِى الْمِيْعٰدِ وَ لٰكِنْ لِّيَقْضِيَ اللّٰهُ اَمْرًا كَانَ مَفْعُوْلًا لِّيَهْلِكَ مَنْ هَلَكَ عَنْ بَيِّنَةٍ وَّ يَحْيٰى مَنْ حَيَّ عَنْ بَيِّنَةٍ وَ اِنَّ اللّٰهَ لَسَمِيْعٌ عَلِيْمٌ",
+    "arabic_text": "اِذْ اَنْتُم بِالْعُدْوَةِ الدُّنْيَا وَ هُم بِالْعُدْوَةِ الْقُصْوٰى وَ الرَّكْبُ اَسْفَلَ مِنْكُمْ ۚ وَ لَوْ تَوَاعَدتُّمْ لَاخْتَلَفْتُمْ فِى الْمِيْعٰدِ وَ لٰكِنْ لِّيَقْضِيَ اللّٰهُ اَمْرًا كَانَ مَفْعُوْلًا لِّيَهْلِكَ مَنْ هَلَكَ عَنْ بَيِّنَةٍ وَّ يَحْيٰى مَنْ حَيَّ عَنْ بَيِّنَةٍ وَ اِنَّ اللّٰهَ لَسَمِيْعٌ عَلِيْمٌ",
     "urdu_text": "جب تم وادی کے قریب والے کنارے پر تھے اور وہ دور والے کنارے پر تھے اور قافلہ تم سے نیچے تھا، اور اگر تم آپس میں وعدہ کرتے تو یقیناً وعدے میں اختلاف کر دیتے، لیکن اللہ نے ایک ایسے کام کو انجام دینا چاہا جو ہونا ہی تھا، تاکہ جو ہلاک ہو وہ واضح دلیل کے بعد ہلاک ہو اور جو زندہ رہے وہ واضح دلیل کے بعد زندہ رہے، اور بیشک اللہ سننے والا اور جانے والا ہے",
     "persian_text": "آن هنگام که شما در کناره نزدیک وادی بودید و آنها در کناره دور، و کاروان پایین تر از شما بود، و اگر با هم قرار می گذاشتید حتماً در قرار اختلاف می کردید، ولی خداوند خواست کاری را که باید انجام می شد به انجام برساند، تا آنکه هلاک می شود با دلیل روشن هلاک شود و آنکه زنده می ماند با دلیل روشن زنده بماند، و همانا خداوند شنوا و داناست",
     "transliteration": "Idh antum bil-'udwatid-dunya wa hum bil-'udwatil-quswa war-rakbu asfala minkum wa law tawa'adtum lakhtalaftum fil-mee'adi wa lakin liyaqdiyallahu amran kana maf'oolan liyahlika man halaka 'an bayyinatin wa yahya man hayya 'an bayyinatin wa innallaha lasamee'un 'aleem",
@@ -530,7 +530,7 @@ ayats = [
   {
     "verse_number": 67,
     "english_text": "No prophet is allowed to take prisoner until he faces difficulties of fighting on the earth; you people wish only for the wealth of this world whereas Allah wishes for the Hereafter (for you) and only He is having Honor and Wisdom.",
-    "arabic_text": "مَا كَانَ لِنَبِيٍّ اَنْ يَّكُوْنَ لَهُٓ اَسْرٰى حَتّٰى يُثْخِنَ فِىْ الْاَرْضِ ۚ تُرِيْدُوْنَ عَرَضَ الدُّنْيٰوَ اللّٰهُ يُرِيدُ الْاٰخِرَةَ ۗ وَ اللّٰهُ عَزِيْزٌ حَكِيْمٌ",
+    "arabic_text": "مَا كَانَ لِنَبِيٍّ اَنْ يَّكُوْنَ لَهُٓ اَسْرٰى حَتّٰى يُثْخِنَ فِىْ الْاَرْضِ ۚ تُرِيْدُوْنَ عَرَضَ الدُّنْيَا وَ اللّٰهُ يُرِيدُ الْاٰخِرَةَ ۗ وَ اللّٰهُ عَزِيْزٌ حَكِيْمٌ",
     "urdu_text": "کسی نبی کے لیے یہ جائز نہیں کہ اس کے پاس قیدی ہوں جب تک کہ وہ زمین میں خوب جنگ نہ کر لے، تم لوگ دنیا کے مال کی خواہش رکھتے ہو جبکہ اللہ آخرت چاہتا ہے، اور اللہ غالب اور حکمت والا ہے۔",
     "persian_text": "هیچ پیامبری را سزاوار نیست که اسیرانی داشته باشد تا آنکه در زمین به شدت بجنگد، شما متاع دنیا را می‌خواهید و خداوند آخرت را می‌خواهد، و خداوند توانا و حکیم است.",
     "transliteration": "Ma kana li-nabiyyin an yakoona lahu asra hatta yuthkhina fil-ard, tureedoona 'arada ad-dunya wa Allahu yureedu al-akhirah, wa Allahu 'azeezun hakeem",

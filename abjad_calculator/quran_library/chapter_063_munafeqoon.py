@@ -9,7 +9,7 @@ ayats = [
   {
     "verse_number": 1,
     "english_text": "O prophet, these hypocrites come to you and say: we bear witness that you are the prophet of Allah, Yes, Allah Knows that you are His prophet and Allah bears witness that these hypocrites are liars in their claim.",
-    "arabic_text": "اِذَا جَآءَكَ الْمُنَـٰفِقُونَ قَالُوْاْ نَشْهَدُ اِنَّكَ لَرَسُولُ اللّٰهِ ۗ وَاللّٰهُ يَعْلَمُ اِنَّكَ لَرَسُولُهُ وَاللّٰهُ يَشْهَدُ اِنَّ الْمُنَـٰفِقِينَ لَكَـٰذِبُونَ",
+    "arabic_text": "اِذَا جَآءَكَ الْمُنَـٰفِقُونَ قَالُوْاْ نَشْهَدُ اِنَّكَ لَرَسُولُ اللّٰهِ ۗ وَ اللّٰهُ يَعْلَمُ اِنَّكَ لَرَسُولُهُ وَ اللّٰهُ يَشْهَدُ اِنَّ الْمُنَـٰفِقِينَ لَكَـٰذِبُونَ",
     "urdu_text": "اے نبی! جب منافق آپ کے پاس آتے هیں تو کهتے هیں که هم گواهی دیتے هیں که بیشک آپ الله کے رسول هیں، اور الله جانتا هے که بیشک آپ اس کے رسول هیں، اور الله گواهی دیتا هے که یه منافق یقیناً جھوٹے هیں۔",
     "persian_text": "ای پیامبر! هنگامی که منافقان نزد تو می‌آیند، می‌گویند: ما گواهی می‌دهیم که تو رسول خدا هستی، و خداوند می‌داند که تو رسول او هستی، و خداوند گواهی می‌دهد که این منافقان دروغگویانند.",
     "transliteration": "Idha jaa'aka al-munafiqoona qaloo nashhadu innaka la-rasoolu Allahi wallahu ya'lamu innaka la-rasooluhu wallahu yashhadu inna al-munafiqeena la-kadhiboon"
@@ -25,7 +25,7 @@ ayats = [
   {
     "verse_number": 3,
     "english_text": "This is because they believed first and then they became infidels, so their hearts have been sealed, now they are not understanding anything.",
-    "arabic_text": "ذَٰلِكَ بِاَنَّهُمْ ءَامَنُواْ ثُمَّ كَفَرُواْ فَطُبِعَ عَلَىٰ قُلُوبِهِمْ فَهُمْ لَا يَفْقَهُونَ",
+    "arabic_text": "ذٰلِكَ بِاَنَّهُمْ ءَامَنُواْ ثُمَّ كَفَرُواْ فَطُبِعَ عَلَىٰ قُلُوبِهِمْ فَهُمْ لَا يَفْقَهُونَ",
     "urdu_text": "یه اس لیے که انهوں نے پهلے ایمان لایا پھر کفر اختیار کیا، پس ان کے دلوں پر مهر لگا دی گئی، لهٰذا وه سمجھتے نهیں۔",
     "persian_text": "این بدان سبب است که ابتدا ایمان آوردند سپس کافر شدند، پس بر دلهایشان مهر زده شد، از این رو چیزی نمی‌فهمند.",
     "transliteration": "Dhalika bi-annahum aamanoo thumma kafaroo fa-tubi'a 'ala quloobihim fahum la yafqahoon"
@@ -73,7 +73,7 @@ ayats = [
   {
     "verse_number": 9,
     "english_text": "O you who believe! beware, your wealth and your children may not make you oblivious from the remembrance of Allah, and Verily whoever will do this will be counted among the losers.",
-    "arabic_text": "يٰٓاَيُّهَا الَّذِينَ ءَامَنُواْ لَا تُلْهِكُمْ اَمْوَٰلُكُمْ وَ لَآ اَوْلَـٰدُكُمْ عَن ذِكْرِ اللّٰهِ ۚ وَمَن يَفْعَلْ ذَٰلِكَ فَاُو۟لَـٰٓئِكَ هُمُ الْخَـٰسِرُونَ",
+    "arabic_text": "يٰٓاَيُّهَا الَّذِينَ ءَامَنُواْ لَا تُلْهِكُمْ اَمْوَٰلُكُمْ وَ لَآ اَوْلَـٰدُكُمْ عَن ذِكْرِ اللّٰهِ ۚ وَمَن يَفْعَلْ ذٰلِكَ فَاُو۟لَـٰٓئِكَ هُمُ الْخَـٰسِرُونَ",
     "urdu_text": "اے ایمان والو! تمهارے مال اور تمهاری اولاد تمهیں الله کی یاد سے غافل نه کر دیں، اور جو ایسا کرے گا تو وهی لوگ نقصان اٹھانے والے هیں۔",
     "persian_text": "ای کسانی که ایمان آورده‌اید! اموال و فرزندانتان شما را از یاد خدا غافل نسازد، و هر کس چنین کند، آنان زیانکارانند.",
     "transliteration": "Ya ayyuha alladheena aamanoo la tulhikum amwalukum wala awladukum 'an dhikri Allahi wa man yaf'al dhalika fa-ula'ika humu al-khasiroon"
@@ -89,7 +89,7 @@ ayats = [
   {
     "verse_number": 11,
     "english_text": "And when the appointed time (of death) comes, Allah does not grant respite to any soul, and He is well aware of your deeds.",
-    "arabic_text": "وَلَن يُؤَخِّرَ اللّٰهُ نَفْسًا اِذَا جَآءَ اَجَلُهَا ۚ وَاللّٰهُ خَبِيرٌۢ بِمَا تَعْمَلُونَ",
+    "arabic_text": "وَلَن يُؤَخِّرَ اللّٰهُ نَفْسًا اِذَا جَآءَ اَجَلُهَا ۚ وَ اللّٰهُ خَبِيرٌۢ بِمَا تَعْمَلُونَ",
     "urdu_text": "اور الله کسی جان کو مهلت نهیں دیتا جب اس کا مقرره وقت آ جائے، اور الله تمهارے اعمال سے پوری طرح باخبر هے۔",
     "persian_text": "و خداوند هیچ جانی را مهلت نمی‌دهد هنگامی که اجلش فرا رسد، و خداوند به آنچه انجام می‌دهید آگاه است.",
     "transliteration": "Wa lan yu'akhkhira Allahu nafsan idha jaa ajaluha, wallahu khabeerun bima ta'maloon"

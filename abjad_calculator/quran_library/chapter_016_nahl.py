@@ -41,7 +41,7 @@ ayats = [
   {
     "verse_number": 5,
     "english_text": "He also created cattle, their skin (and wool) is for you, which is goods for winter, and there are other benefits also, and you eat some of them.",
-    "arabic_text": "وَالْاَنْعَـٰمَ خَلَقَهَا ۗ لَكُمْ فِيهَا دِفْءٌۭ وَمَنَـٰفِعُ وَمِنْهَا تَاْكُلُونَ",
+    "arabic_text": "وَالْاَنْعَـٰمَ خَلَقَهَا ۗ لَكُمْ فِيهَا دِفْءٌۭ وَمَنَـٰفِعُ وَ مِنْهَا تَاْكُلُونَ",
     "urdu_text": "اور اس نے چوپائے پیدا کیے، ان میں تمہارے لیے گرمی اور بہت سے فائدے ہیں، اور ان میں سے تم کھاتے بھی ہو۔",
     "persian_text": "و چهارپایان را آفرید، در آنها برای شما گرما و منافع بسیار است و از آنها می‌خورید.",
     "transliteration": "Wal-an'aama khalaqahaa lakum feehaa dif'unw-wa manaafi'u wa minhaa ta'kuloon"
@@ -73,7 +73,7 @@ ayats = [
   {
     "verse_number": 9,
     "english_text": "Guidance to the straight path is on Allah only; but some of the paths are crooked, and if Allah pleased, He might have reached you all to the destination.",
-    "arabic_text": "وَعَلَى اللّٰهِ قَصْدُ السَّبِيلِ وَمِنْهَا جَآئِرٌۭ ۚ وَ لَوْ شَآءَ لَهَدَىٰكُمْ اَجْمَعِينَ",
+    "arabic_text": "وَعَلَى اللّٰهِ قَصْدُ السَّبِيلِ وَ مِنْهَا جَآئِرٌۭ ۚ وَ لَوْ شَآءَ لَهَدَىٰكُمْ اَجْمَعِينَ",
     "urdu_text": "اور سیدھے راستے کی رہنمائی اللہ کے ذمے ہے، اور کچھ راستے ٹیڑھے بھی ہیں، اور اگر وہ چاہتا تو تم سب کو ہدایت دے دیتا۔",
     "persian_text": "و هدایت به راه راست بر عهده خداست، و برخی از راه‌ها کج است، و اگر می‌خواست همه شما را هدایت می‌کرد.",
     "transliteration": "Wa 'alal-laahi qasdus-sabeeli wa minhaa jaaa'ir, wa law shaaa'a lahadaakum ajma'een"
@@ -81,7 +81,7 @@ ayats = [
   {
     "verse_number": 10,
     "english_text": "That is He, Who rained water from the sky which you drink, and trees (pastures) become fresh in which you graze your cattle.",
-    "arabic_text": "هُوَ الَّذِىٓ اَنزَلَ مِنَ السَّمَآءِ مَآءًۭ ۖ لَّكُم مِّنْهُ شَرَابٌۭ وَمِنْهُ شَجَرٌۭ فِيهِ تُسِيمُونَ",
+    "arabic_text": "هُوَ الَّذِىٓ اَنزَلَ مِنَ السَّمَآءِ مَآءًۭ ۖ لَّكُم مِّنْهُ شَرَابٌۭ وَ مِنْهُ شَجَرٌۭ فِيهِ تُسِيمُونَ",
     "urdu_text": "وہی ہے جس نے آسمان سے پانی برسایا جس میں سے تمہارے لیے پینے کا پانی ہے، اور اسی سے درخت اگتے ہیں جن میں تم اپنے مویشی چراتے ہو۔",
     "persian_text": "او کسی است که از آسمان آبی فرو فرستاد که از آن برای شما آشامیدنی است و از آن درختانی می‌روید که در آن چهارپایان خود را می‌چرانید.",
     "transliteration": "Huwal-ladhee anzala minas-samaaa'i maaa'al-lakum minhu sharaabunw-wa minhu shajarun feehi tuseemoon"
@@ -89,7 +89,7 @@ ayats = [
   {
     "verse_number": 11,
     "english_text": "From this water He grows for you farming, olive and dates and all types of fruits; there is not any doubt that in it is a great sign (of Power of Allah), for those who ponder.",
-    "arabic_text": "يُنۢبِتُ لَكُم بِهِ الزَّرْعَ وَالزَّيْتُونَ وَالنَّخِيلَ وَالْاَعْنَـٰبَ وَمِن كُلِّ الثَّمَرَٰتِ ۗ اِنَّ فِى ذَٰلِكَ لَـَٔايَةًۭ لِّقَوْمٍۢ يَتَفَكَّرُونَ",
+    "arabic_text": "يُنۢبِتُ لَكُم بِهِ الزَّرْعَ وَالزَّيْتُونَ وَالنَّخِيلَ وَالْاَعْنَـٰبَ وَ مِن كُلِّ الثَّمَرَٰتِ ۗ اِنَّ فِى ذٰلِكَ لَـَٔايَةًۭ لِّقَوْمٍۢ يَتَفَكَّرُونَ",
     "urdu_text": "وہ اسی پانی سے تمہارے لیے کھیتی، زیتون، کھجور، انگور اور ہر قسم کے پھل اُگاتا ہے۔ بے شک اس میں سوچنے والوں کے لیے بڑی نشانی ہے۔",
     "persian_text": "او با این آب برای شما کشت و زیتون و خرما و انگور و از هر نوع میوه‌ای می‌رویاند. بی‌گمان در این نشانه‌ای است برای مردمی که تفکر می‌کنند.",
     "transliteration": "Yumbitu lakum bihiz-zar'a waz-zaytoona wan-nakheela wal-a'naaba wa min kullis-samaraat; inna fee dhaalika la-aayatal-liqawminy-yatafakkaroon"
@@ -97,7 +97,7 @@ ayats = [
   {
     "verse_number": 12,
     "english_text": "He made night and day, sun and moon subservient to you; and stars are also by His command obey you, there is not any doubt that in it are many signs (of Power of Allah) for those who ponder.",
-    "arabic_text": "وَسَخَّرَ لَكُمُ الَّيْلَ وَالنَّهَارَ وَالشَّمْسَ وَالْقَمَرَ ۖ وَالنُّجُومُ مُسَخَّرَٰتٌۢ بِاَمْرِهِٓ ۗ اِنَّ فِى ذَٰلِكَ لَـَٔايَـٰتٍۢ لِّقَوْمٍۢ يَعْقِلُونَ",
+    "arabic_text": "وَسَخَّرَ لَكُمُ الَّيْلَ وَالنَّهَارَ وَالشَّمْسَ وَالْقَمَرَ ۖ وَالنُّجُومُ مُسَخَّرَٰتٌۢ بِاَمْرِهِٓ ۗ اِنَّ فِى ذٰلِكَ لَـَٔايَـٰتٍۢ لِّقَوْمٍۢ يَعْقِلُونَ",
     "urdu_text": "اور اس نے تمہارے لیے رات اور دن، سورج اور چاند کو مسخر کر دیا، اور ستارے بھی اس کے حکم سے تمہارے تابع ہیں۔ بے شک اس میں عقل رکھنے والوں کے لیے بہت سی نشانیاں ہیں۔",
     "persian_text": "و شب و روز و خورشید و ماه را برای شما مسخر ساخت، و ستارگان نیز به فرمان او رام شده‌اند. بی‌گمان در این نشانه‌هایی است برای مردمی که تعقل می‌کنند.",
     "transliteration": "Wa sakhkhara lakumul-layla wan-nahaara wash-shamsa wal-qamar; wan-nujomu musakhkharaatum bi-amrih; inna fee dhaalika la-aayaatil-liqawminy-ya'qiloon"
@@ -105,7 +105,7 @@ ayats = [
   {
     "verse_number": 13,
     "english_text": "And different colorful things which have been created for your benefit; undoubtedly there is great sign (of Power of Allah) for those who wish to get advice and lessons.",
-    "arabic_text": "وَ مَا ذَرَاَ لَكُمْ فِى الْاَرْضِ مُخْتَلِفًا اَلْوَٰنُهُٓ ۗ اِنَّ فِى ذَٰلِكَ لَـَٔايَةًۭ لِّقَوْمٍۢ يَذَّكَّرُونَ",
+    "arabic_text": "وَ مَا ذَرَاَ لَكُمْ فِى الْاَرْضِ مُخْتَلِفًا اَلْوَٰنُهُٓ ۗ اِنَّ فِى ذٰلِكَ لَـَٔايَةًۭ لِّقَوْمٍۢ يَذَّكَّرُونَ",
     "urdu_text": "اور جو مختلف رنگوں کی چیزیں زمین میں تمہارے لیے پیدا کی ہیں، بے شک اس میں نصیحت حاصل کرنے والوں کے لیے بڑی نشانی ہے۔",
     "persian_text": "و آنچه را در زمین برای شما آفرید با رنگ‌های گوناگون. بی‌گمان در این نشانه‌ای است برای مردمی که پند می‌گیرند.",
     "transliteration": "Wa maa dhara-a lakum fil-ardi mukh-talifan alwaanuh; inna fee dhaalika la-aayatal-liqawminy-yadhdhakkaroon"
@@ -153,7 +153,7 @@ ayats = [
   {
     "verse_number": 19,
     "english_text": "Whatever you do openly or secretly, Allah knows everything.",
-    "arabic_text": "وَاللّٰهُ يَعْلَمُ مَا تُسِرُّونَ وَ مَا تُعْلِنُونَ",
+    "arabic_text": "وَ اللّٰهُ يَعْلَمُ مَا تُسِرُّونَ وَ مَا تُعْلِنُونَ",
     "urdu_text": "اور اللہ جانتا ہے جو تم چھپاتے ہو اور جو ظاہر کرتے ہو۔",
     "persian_text": "و خداوند می‌داند آنچه را پنهان می‌کنید و آنچه را آشکار می‌سازید.",
     "transliteration": "Wallaahu ya'lamu maa tusirrona wa maa tu'linoon"
@@ -201,7 +201,7 @@ ayats = [
   {
     "verse_number": 25,
     "english_text": "(Let them say); On the Day of Judgement, they will carry the load of their sins and the load of sins of those whom they have misguided without knowledge; look, what a bad load they are carrying.",
-    "arabic_text": "لِيَحْمِلُوٓاْ اَوْزَارَهُمْ كَامِلَةًۭ يَوْمَ الْقِيَـٰمَةِ ۙ وَمِنْ اَوْزَارِ الَّذِينَ يُضِلُّونَهُم بِغَيْرِ عِلْمٍ ۗ اَلَا سَآءَ مَا يَزِرُونَ",
+    "arabic_text": "لِيَحْمِلُوٓاْ اَوْزَارَهُمْ كَامِلَةًۭ يَوْمَ الْقِيَـٰمَةِ ۙ وَ مِنْ اَوْزَارِ الَّذِينَ يُضِلُّونَهُم بِغَيْرِ عِلْمٍ ۗ اَلَا سَآءَ مَا يَزِرُونَ",
     "urdu_text": "تاکہ وہ قیامت کے دن اپنے گناہوں کا پورا بوجھ اٹھائیں اور ان لوگوں کے گناہوں میں سے بھی جنہیں انہوں نے بغیر علم کے گمراہ کیا، دیکھو کتنا برا بوجھ ہے جو وہ اٹھا رہے ہیں۔",
     "persian_text": "تا بار گناهان خود را به طور کامل در روز قیامت بردارند و از بار گناهان کسانی که بدون دانش گمراهشان کرده‌اند، آگاه باشید چه بار بدی را حمل می‌کنند.",
     "transliteration": "Liyahmiloo awzaarahum kaamilatan Yawmal Qiyaamati wa min awzaaril lazeena yudilloonahum bighayri 'ilm; alaa saaa'a maa yaziroon"
@@ -249,7 +249,7 @@ ayats = [
   {
     "verse_number": 31,
     "english_text": "They will reach without hesitation in the evergreen gardens beneath which rivers will be flowing, for whatever thing they will desire will be presented (to them), like this Allah will bestow the reward upon the pious ones.",
-    "arabic_text": "جَنَّـٰتُ عَدْنٍۢ يَدْخُلُونَهَا تَجْرِى مِن تَحْتِهَا الْاَنْهَـٰرُ ۖ لَهُمْ فِيهَا مَا يَشَآءُونَ ۚ كَذَٰلِكَ يَجْزِى اللّٰهُ الْمُتَّقِينَ",
+    "arabic_text": "جَنَّـٰتُ عَدْنٍۢ يَدْخُلُونَهَا تَجْرِى مِن تَحْتِهَا الْاَنْهَـٰرُ ۖ لَهُمْ فِيهَا مَا يَشَآءُونَ ۚ كَذٰلِكَ يَجْزِى اللّٰهُ الْمُتَّقِينَ",
     "urdu_text": "ہمیشہ رہنے والے باغات جن میں وہ داخل ہوں گے، ان کے نیچے نہریں بہہ رہی ہوں گی، ان میں ان کے لیے وہ سب کچھ ہوگا جو وہ چاہیں گے، اللہ پرہیزگاروں کو اسی طرح بدلہ دیتا ہے۔",
     "persian_text": "باغ‌های جاودان که وارد آن می‌شوند، نهرها از زیر آن جاری است، در آن هر چه بخواهند برای آنان است، این‌گونه خداوند پرهیزگاران را پاداش می‌دهد.",
     "transliteration": "Jannatu 'Adnin yadkhuloonaha tajree min tahtihal anhaaru lahum feeha ma yasha'oon, kazaalika yajzil laahul muttaqeen"
@@ -265,7 +265,7 @@ ayats = [
   {
     "verse_number": 33,
     "english_text": "(O Prophet), are they waiting that angels come to them to extract their souls, or punishment of your Lord comes to them, people of earlier times also had talked like this; Allah had not been unjust to them, but they were unjust to themselves (because of their infidelity).",
-    "arabic_text": "هَلْ يَنظُرُونَ اِلَّآ اَن تَاْتِيَهُمُ الْمَلَـٰٓئِكَةُ اَوْ يَاْتِىَ اَمْرُ رَبِّكَ ۚ كَذَٰلِكَ فَعَلَ الَّذِينَ مِن قَبْلِهِمْ ۚ وَ مَا ظَلَمَهُمُ اللّٰهُ وَلَـٰكِن كَانُوٓاْ اَنفُسَهُمْ يَظْلِمُونَ",
+    "arabic_text": "هَلْ يَنظُرُونَ اِلَّآ اَن تَاْتِيَهُمُ الْمَلَـٰٓئِكَةُ اَوْ يَاْتِىَ اَمْرُ رَبِّكَ ۚ كَذٰلِكَ فَعَلَ الَّذِينَ مِن قَبْلِهِمْ ۚ وَ مَا ظَلَمَهُمُ اللّٰهُ وَلَـٰكِن كَانُوٓاْ اَنفُسَهُمْ يَظْلِمُونَ",
     "urdu_text": "کیا یہ اس کے منتظر ہیں کہ ان کے پاس فرشتے آئیں یا تمہارے رب کا حکم آ جائے؟ ان سے پہلے لوگوں نے بھی ایسا ہی کیا تھا، اللہ نے ان پر ظلم نہیں کیا بلکہ وہ خود اپنے اوپر ظلم کرتے تھے۔",
     "persian_text": "آیا جز این انتظار می‌کشند که فرشتگان نزد آنان بیایند یا فرمان پروردگارت فرا رسد؟ کسانی که پیش از آنان بودند نیز چنین کردند، خدا به آنان ستم نکرد ولی خود به خویشتن ستم می‌کردند.",
     "transliteration": "Hal yanzuroona illa an ta'tiyahumul mala'ikatu aw ya'tiya amru rabbik, kazaalika fa'alal lazeena min qablihim wa ma zalamahumul laahu wa laakin kaanoo anfusahum yazlimoon"
@@ -281,7 +281,7 @@ ayats = [
   {
     "verse_number": 35,
     "english_text": "And polytheists say: if Allah pleased, we would not have worshipping anything except Him, nor our forefathers; nor would we have forbidden anything without His permission; those who have gone by. (had also) done such talk; (so let them say); prophets' responsibility is only to deliver His commands clearly, and nothing else.",
-    "arabic_text": "وَقَالَ الَّذِينَ اَشْرَكُواْ لَوْ شَآءَ اللّٰهُ مَا عَبَدْنَا مِن دُونِهِ مِن شَىْءٍۢ نَّحْنُ وَ لَآ ءَابَآؤُنَا وَ لَا حَرَّمْنَا مِن دُونِهِ مِن شَىْءٍۢ ۚ كَذَٰلِكَ فَعَلَ الَّذِينَ مِن قَبْلِهِمْ ۚ فَهَلْ عَلَى الرُّسُلِ اِلَّا الْبَلَـٰغُ الْمُبِينُ",
+    "arabic_text": "وَقَالَ الَّذِينَ اَشْرَكُواْ لَوْ شَآءَ اللّٰهُ مَا عَبَدْنَا مِن دُونِهِ مِن شَىْءٍۢ نَّحْنُ وَ لَآ ءَابَآؤُنَا وَ لَا حَرَّمْنَا مِن دُونِهِ مِن شَىْءٍۢ ۚ كَذٰلِكَ فَعَلَ الَّذِينَ مِن قَبْلِهِمْ ۚ فَهَلْ عَلَى الرُّسُلِ اِلَّا الْبَلَـٰغُ الْمُبِينُ",
     "urdu_text": "اور مشرکوں نے کہا: اگر اللہ چاہتا تو نہ ہم اس کے سوا کسی چیز کی عبادت کرتے اور نہ ہمارے باپ دادا، اور نہ ہم اس کے حکم کے بغیر کسی چیز کو حرام ٹھہراتے، ان سے پہلے لوگوں نے بھی ایسا ہی کیا تھا، پس رسولوں پر صرف واضح طور پر پیغام پہنچانا ہے۔",
     "persian_text": "و کسانی که شرک ورزیدند گفتند: اگر خدا می‌خواست نه ما و نه پدرانمان چیزی جز او را نمی‌پرستیدیم و بدون اذن او چیزی را حرام نمی‌کردیم، کسانی که پیش از آنان بودند نیز چنین کردند، آیا بر پیامبران جز ابلاغ آشکار چیزی است؟",
     "transliteration": "Wa qalal lazeena ashrakoo law sha'al laahu ma 'abadna min doonihi min shay'in nahnu wa la aba'una wa la harramna min doonihi min shay', kazaalika fa'alal lazeena min qablihim fahal 'alar rusuli illal balaaghul mubeen"
@@ -289,7 +289,7 @@ ayats = [
   {
     "verse_number": 36,
     "english_text": "And We Verily sent a prophet for each nation; so that they tell them to worship Allah and desist from (worshipping) idols; to some of them Allah guided and some of them remained in misguidance, so you travel in the land and see (for yourself) what was the end of those who denied (prophets of Allah).",
-    "arabic_text": "وَ لَقَدْ بَعَثْنَا فِى كُلِّ اُمَّةٍۢ رَّسُولًا اَنِ اعْبُدُواْ اللّٰهَ وَاجْتَنِبُواْ الطَّـٰغُوتَ ۖ فَمِنْهُم مَّنْ هَدَى اللّٰهُ وَمِنْهُم مَّنْ حَقَّتْ عَلَيْهِ الضَّلَـٰلَةُ ۚ فَسِيرُواْ فِى الْاَرْضِ فَانظُرُواْ كَيْفَ كَانَ عَـٰقِبَةُ الْمُكَذِّبِينَ",
+    "arabic_text": "وَ لَقَدْ بَعَثْنَا فِى كُلِّ اُمَّةٍۢ رَّسُولًا اَنِ اعْبُدُواْ اللّٰهَ وَاجْتَنِبُواْ الطَّـٰغُوتَ ۖ فَمِنْهُم مَّنْ هَدَى اللّٰهُ وَ مِنْهُم مَّنْ حَقَّتْ عَلَيْهِ الضَّلَـٰلَةُ ۚ فَسِيرُواْ فِى الْاَرْضِ فَانظُرُواْ كَيْفَ كَانَ عَـٰقِبَةُ الْمُكَذِّبِينَ",
     "urdu_text": "اور ہم نے ہر امت میں ایک رسول بھیجا کہ اللہ کی عبادت کرو اور طاغوت سے بچو، پھر ان میں سے بعض کو اللہ نے ہدایت دی اور بعض پر گمراہی ثابت ہو گئی، پس زمین میں چلو پھرو اور دیکھو کہ جھٹلانے والوں کا انجام کیسا ہوا۔",
     "persian_text": "و به راستی در هر امتی پیامبری فرستادیم که خدا را بپرستید و از طاغوت دوری کنید، پس برخی از آنان را خدا هدایت کرد و برخی را گمراهی بر آنان ثابت شد، پس در زمین بگردید و بنگرید که عاقبت تکذیب‌کنندگان چگونه بود.",
     "transliteration": "Wa laqad ba'athna fee kulli ummatin rasoolan ani'budul laaha wajtanibut taaghoota faminhum man hadal laahu wa minhum man haqqat 'alayhid dalaalah faseeroo fil ardi fanzuroo kayfa kaana 'aaqibatul mukazzibeen"
@@ -521,7 +521,7 @@ ayats = [
   {
     "verse_number": 65,
     "english_text": "And Allah sent down water from the sky and through which He relived the dead earth, undoubtedly for those who hear there is a great sign in it.",
-    "arabic_text": "وَاللّٰهُ اَنزَلَ مِنَ السَّمَآءِ مَآءًۭ فَاَحْيٰبِهِ الْاَرْضَ بَعْدَ مَوْتِهَآ ۚ اِنَّ فِى ذَٰلِكَ لَـَٔايَةًۭ لِّقَوْمٍۢ يَسْمَعُونَ",
+    "arabic_text": "وَ اللّٰهُ اَنزَلَ مِنَ السَّمَآءِ مَآءًۭ فَاَحْيٰبِهِ الْاَرْضَ بَعْدَ مَوْتِهَآ ۚ اِنَّ فِى ذٰلِكَ لَـَٔايَةًۭ لِّقَوْمٍۢ يَسْمَعُونَ",
     "urdu_text": "اور اللہ نے آسمان سے پانی برسایا، پھر اس کے ذریعے مردہ زمین کو زندہ کیا، بے شک اس میں سننے والوں کے لیے بڑی نشانی ہے۔",
     "persian_text": "و خداوند از آسمان آبی نازل کرد و به وسیله آن زمین را پس از مرگش زنده کرد، بی‌تردید در این نشانه‌ای است برای قومی که می‌شنوند.",
     "transliteration": "Wallaahu anzala minas-samaaa'i maaa'an fa-ahyaa bihil-arda ba'da mawtihaa inna fee dhaalika la-aayatal-liqawminy-yasma'oon"
@@ -537,7 +537,7 @@ ayats = [
   {
     "verse_number": 67,
     "english_text": "And we give you dates and grapes (to drink juices), of which sometimes make wine and sometime use it for business, and certainly in it also there is great sign (of Power of Allah) for wise people.",
-    "arabic_text": "وَمِن ثَمَرَٰتِ النَّخِيلِ وَالْاَعْنَـٰبِ تَتَّخِذُونَ مِنْهُ سَكَرًا وَرِزْقًا حَسَنًا ۗ اِنَّ فِى ذَٰلِكَ لَـَٔايَةًۭ لِّقَوْمٍۢ يَعْقِلُونَ",
+    "arabic_text": "وَمِن ثَمَرَٰتِ النَّخِيلِ وَالْاَعْنَـٰبِ تَتَّخِذُونَ مِنْهُ سَكَرًا وَرِزْقًا حَسَنًا ۗ اِنَّ فِى ذٰلِكَ لَـَٔايَةًۭ لِّقَوْمٍۢ يَعْقِلُونَ",
     "urdu_text": "اور کھجوروں اور انگوروں کے پھلوں سے تم ان میں سے نشہ اور اچھا رزق حاصل کرتے ہو، بے شک اس میں عقل والوں کے لیے بڑی نشانی ہے۔",
     "persian_text": "و از میوه‌های درختان خرما و انگور، از آن مسکر و روزی نیکو برای خود می‌گیرید، بی‌تردید در این نشانه‌ای است برای قومی که تعقل می‌کنند.",
     "transliteration": "Wa min thamaraatin-nakhheeli wal-a'naabi tattakhidhoona minhu sakaranw-wa rizqan hasanaa inna fee dhaalika la-aayatal-liqawminy-ya'qiloon"
@@ -553,7 +553,7 @@ ayats = [
   {
     "verse_number": 69,
     "english_text": "Then suck the essence from all flowers and travel with the obedience of your Lord; there comes out a drink (honey) of different colors from the bellies of bees, in it there is healing for people (from illness); there is no doubt that in this there is a great sign (of Power of Allah) for the people who ponder.",
-    "arabic_text": "ثُمَّ كُلِى مِن كُلِّ الثَّمَرَٰتِ فَاسْلُكِى سُبُلَ رَبِّكِ ذُلُلًا ۚ يَخْرُجُ مِنۢ بُطُونِهَا شَرَابٌۭ مُّخْتَلِفٌ اَلْوَٰنُهُ فِيهِ شِفَآءٌۭ لِّلنَّاسِ ۗ اِنَّ فِى ذَٰلِكَ لَـَٔايَةًۭ لِّقَوْمٍۢ يَتَفَكَّرُونَ",
+    "arabic_text": "ثُمَّ كُلِى مِن كُلِّ الثَّمَرَٰتِ فَاسْلُكِى سُبُلَ رَبِّكِ ذُلُلًا ۚ يَخْرُجُ مِنۢ بُطُونِهَا شَرَابٌۭ مُّخْتَلِفٌ اَلْوَٰنُهُ فِيهِ شِفَآءٌۭ لِّلنَّاسِ ۗ اِنَّ فِى ذٰلِكَ لَـَٔايَةًۭ لِّقَوْمٍۢ يَتَفَكَّرُونَ",
     "urdu_text": "پھر ہر قسم کے پھلوں میں سے کھا اور اپنے رب کی راہوں پر فرمانبرداری سے چل، ان کے پیٹ سے مختلف رنگوں کا مشروب نکلتا ہے جس میں لوگوں کے لیے شفا ہے، بے شک اس میں سوچنے والوں کے لیے بڑی نشانی ہے۔",
     "persian_text": "سپس از همه میوه‌ها بخور و راه‌های پروردگارت را با فرمانبرداری بپیما، از شکم آنها نوشیدنی با رنگ‌های مختلف بیرون می‌آید که در آن شفایی برای مردم است، بی‌تردید در این نشانه‌ای است برای قومی که تفکر می‌کنند.",
     "transliteration": "Thumma kulee min kullis-samaraati faslukee subula rabbiki dhululaa yakhruju mim butoonihaa sharaabum-mukhtalifun alwaanuhoo feehi shifaaa'ul-linnaas inna fee dhaalika la-aayatal-liqawminy-yatafakkaroon"
@@ -561,7 +561,7 @@ ayats = [
   {
     "verse_number": 70,
     "english_text": "And Allah created you and He will cause you to die; and some of them are brought back to the worst part of their lives (very old age); that in spite of having much knowledge, you will not know anything, certainly Allah is all knowing and Powerful.",
-    "arabic_text": "وَاللّٰهُ خَلَقَكُمْ ثُمَّ يَتَوَفَّىٰكُمْ ۚ وَمِنكُم مَّن يُرَدُّ اِلـٰىٓ اَرْذَلِ الْعُمُرِ لِكَىْ لَا يَعْلَمَ بَعْدَ عِلْمٍۢ شَيْـًٔا ۚ اِنَّ اللّٰهَ عَلِيمٌۭ قَدِيرٌۭ",
+    "arabic_text": "وَ اللّٰهُ خَلَقَكُمْ ثُمَّ يَتَوَفَّىٰكُمْ ۚ وَمِنكُم مَّن يُرَدُّ اِلـٰىٓ اَرْذَلِ الْعُمُرِ لِكَىْ لَا يَعْلَمَ بَعْدَ عِلْمٍۢ شَيْـًٔا ۚ اِنَّ اللّٰهَ عَلِيمٌۭ قَدِيرٌۭ",
     "urdu_text": "اور اللہ نے تمہیں پیدا کیا پھر وہ تمہیں موت دیتا ہے، اور تم میں سے کوئی انتہائی بڑھاپے کی طرف لوٹایا جاتا ہے تاکہ علم کے بعد کچھ نہ جانے، بے شک اللہ جاننے والا اور قدرت والا ہے۔",
     "persian_text": "و خداوند شما را آفرید سپس شما را می‌میراند، و برخی از شما به پست‌ترین مرحله عمر بازگردانده می‌شوند تا پس از دانستن چیزی ندانند، بی‌تردید خداوند دانا و تواناست.",
     "transliteration": "Wallaahu khalaqakum thumma yatawaffaakum wa minkum many-yuraddu ilaaa ardhali-l'umuri likay laa ya'lama ba'da 'ilmin shay'aa innallaaha 'aleemun qadeer"
@@ -569,7 +569,7 @@ ayats = [
   {
     "verse_number": 71,
     "english_text": "And it is Allah, Who has given preference (to some of you) over others in sustenance (and wealth), however who have been given more sustenance do not give to those who are their subordinates (workers and slaves, etc.); whereas, everyone has a part in that sustenance, so do they deny the favor of Allah.",
-    "arabic_text": "وَاللّٰهُ فَضَّلَ بَعْضَكُمْ عَلَىٰ بَعْضٍۢ فِى الرِّزْقِ ۚ فَمَا الَّذِينَ فُضِّلُواْ بِرَآدِّى رِزْقِهِمْ عَلَىٰ مَا مَلَكَتْ اَيْمَـٰنُهُمْ فَهُمْ فِيهِ سَوَآءٌ ۚ اَفَبِنِعْمَةِ اللّٰهِ يَجْحَدُونَ",
+    "arabic_text": "وَ اللّٰهُ فَضَّلَ بَعْضَكُمْ عَلَىٰ بَعْضٍۢ فِى الرِّزْقِ ۚ فَمَا الَّذِينَ فُضِّلُواْ بِرَآدِّى رِزْقِهِمْ عَلَىٰ مَا مَلَكَتْ اَيْمَـٰنُهُمْ فَهُمْ فِيهِ سَوَآءٌ ۚ اَفَبِنِعْمَةِ اللّٰهِ يَجْحَدُونَ",
     "urdu_text": "اور اللہ نے تم میں سے بعض کو بعض پر رزق میں فضیلت دی ہے، پھر جن کو فضیلت دی گئی وہ اپنا رزق اپنے ماتحتوں کو نہیں لوٹاتے کہ وہ اس میں برابر ہو جائیں، تو کیا وہ اللہ کی نعمت کا انکار کرتے ہیں؟",
     "persian_text": "و خداوند برخی از شما را بر برخی دیگر در روزی برتری داده است، اما کسانی که برتری داده شده‌اند، روزی خود را به بندگان خویش نمی‌دهند تا در آن برابر شوند، پس آیا نعمت خدا را انکار می‌کنند؟",
     "transliteration": "Wallahu faddala ba'dakum 'ala ba'din fir-rizq, fama alladhina fuddiloo bi-raddi rizqihim 'ala ma malakat aymanuhum fahum fihi sawa', afabi-ni'matillahi yajhadoon"
@@ -577,7 +577,7 @@ ayats = [
   {
     "verse_number": 72,
     "english_text": "And Allah made your wives of your nature from among you, and He made your sons and grandsons from your wives, and gave you pure sustenance to consume, so do they totally believe in falsehood, and deny the favor of Allah?",
-    "arabic_text": "وَاللّٰهُ جَعَلَ لَكُم مِّنْ اَنفُسِكُمْ اَزْوَٰجًۭا وَجَعَلَ لَكُم مِّنْ اَزْوَٰجِكُم بَنِينَ وَحَفَدَةًۭ وَرَزَقَكُم مِّنَ الطَّيِّبَـٰتِ ۚ اَفَبِالْبَـٰطِلِ يُؤْمِنُونَ وَبِنِعْمَتِ اللّٰهِ هُمْ يَكْفُرُونَ",
+    "arabic_text": "وَ اللّٰهُ جَعَلَ لَكُم مِّنْ اَنفُسِكُمْ اَزْوَٰجًۭا وَجَعَلَ لَكُم مِّنْ اَزْوَٰجِكُم بَنِينَ وَحَفَدَةًۭ وَرَزَقَكُم مِّنَ الطَّيِّبَـٰتِ ۚ اَفَبِالْبَـٰطِلِ يُؤْمِنُونَ وَبِنِعْمَتِ اللّٰهِ هُمْ يَكْفُرُونَ",
     "urdu_text": "اور اللہ نے تمہارے لیے تمہاری ہی جنس سے بیویاں بنائیں، اور تمہارے لیے تمہاری بیویوں سے بیٹے اور پوتے نواسے بنائے، اور تمہیں پاکیزہ چیزوں سے رزق دیا، تو کیا وہ باطل پر ایمان لاتے ہیں اور اللہ کی نعمت کا انکار کرتے ہیں؟",
     "persian_text": "و خداوند برای شما از جنس خودتان همسرانی قرار داد، و از همسرانتان برایتان فرزندان و نوادگان قرار داد، و از چیزهای پاکیزه به شما روزی داد، آیا به باطل ایمان می‌آورند و نعمت خدا را انکار می‌کنند؟",
     "transliteration": "Wallahu ja'ala lakum min anfusikum azwajan wa ja'ala lakum min azwajikum banina wa hafadatan wa razaqakum minat-tayyibat, afabil-batili yu'minoona wa bi-ni'matillahi hum yakfuroon"
@@ -625,7 +625,7 @@ ayats = [
   {
     "verse_number": 78,
     "english_text": "And Allah brought you out of the wombs of your mothers, when you were unaware, and gave you ears, eyes and heart, so that you be grateful.",
-    "arabic_text": "وَاللّٰهُ اَخْرَجَكُم مِّنۢ بُطُونِ اُمَّهَـٰتِكُمْ لَا تَعْلَمُونَ شَيْـًۭٔا وَجَعَلَ لَكُمُ السَّمْعَ وَالْاَبْصَـٰرَ وَالْاَفْـِٔدَةَ ۙ لَعَلَّكُمْ تَشْكُرُونَ",
+    "arabic_text": "وَ اللّٰهُ اَخْرَجَكُم مِّنۢ بُطُونِ اُمَّهَـٰتِكُمْ لَا تَعْلَمُونَ شَيْـًۭٔا وَجَعَلَ لَكُمُ السَّمْعَ وَالْاَبْصَـٰرَ وَالْاَفْـِٔدَةَ ۙ لَعَلَّكُمْ تَشْكُرُونَ",
     "urdu_text": "اور اللہ نے تمہیں تمہاری ماؤں کے پیٹوں سے نکالا جب تم کچھ نہیں جانتے تھے، اور تمہارے لیے کان، آنکھیں اور دل بنائے تاکہ تم شکر ادا کرو۔",
     "persian_text": "و خداوند شما را از شکم مادرانتان بیرون آورد در حالی که چیزی نمی‌دانستید، و برای شما گوش‌ها و چشم‌ها و دل‌ها قرار داد تا شکرگزار باشید۔",
     "transliteration": "Wallahu akhrajakum min butooni ummahatikum la ta'lamoona shay'an wa ja'ala lakumus-sam'a wal-absara wal-af'idata la'allakum tashkuroon"
@@ -633,7 +633,7 @@ ayats = [
   {
     "verse_number": 79,
     "english_text": "Didn't you ponder over the birds, who fly under the skies encircle in air, and Allah prevents them (from falling), Verily in this also there are many signs for those who believe.",
-    "arabic_text": "اَلَمْ يَرَوْاْ اِلَى الطَّيْرِ مُسَخَّرَٰتٍۢ فِى جَوِّ السَّمَآءِ مَا يُمْسِكُهُنَّ اِلَّا اللّٰهُ ۗ اِنَّ فِى ذَٰلِكَ لَـَٔايَـٰتٍۢ لِّقَوْمٍۢ يُؤْمِنُونَ",
+    "arabic_text": "اَلَمْ يَرَوْاْ اِلَى الطَّيْرِ مُسَخَّرَٰتٍۢ فِى جَوِّ السَّمَآءِ مَا يُمْسِكُهُنَّ اِلَّا اللّٰهُ ۗ اِنَّ فِى ذٰلِكَ لَـَٔايَـٰتٍۢ لِّقَوْمٍۢ يُؤْمِنُونَ",
     "urdu_text": "کیا انہوں نے پرندوں کو نہیں دیکھا جو آسمان کی فضا میں مسخر ہیں، انہیں اللہ کے سوا کوئی تھامے نہیں رکھتا، بیشک اس میں ایمان لانے والوں کے لیے بہت سی نشانیاں ہیں۔",
     "persian_text": "آیا پرندگانی را که در فضای آسمان مسخر شده‌اند ندیده‌اند؟ آنها را جز خدا نگه نمی‌دارد، همانا در این نشانه‌هایی است برای قومی که ایمان می‌آورند۔",
     "transliteration": "Alam yaraw ilat-tayri musakhkharatin fee jawwis-sama'i ma yumsikuhunna illallah, inna fee dhalika la-ayatin liqawmin yu'minoon"
@@ -641,7 +641,7 @@ ayats = [
   {
     "verse_number": 80,
     "english_text": "And Allah made home your place (to stay), and he provided for you hides of cattle from which you make tents; that you carry while you travel, and He made wool and fur and hair and other useful things which you can use until appointed time.",
-    "arabic_text": "وَاللّٰهُ جَعَلَ لَكُم مِّنۢ بُيُوتِكُمْ سَكَنًۭا وَجَعَلَ لَكُم مِّن جُلُودِ الْاَنْعَـٰمِ بُيُوتًۭا تَسْتَخِفُّونَهَا يَوْمَ ظَعْنِكُمْ وَ يَوْمَ اِقَامَتِكُمْ ۙ وَمِنْ اَصْوَافِهَا وَاَوْبَارِهَا وَاَشْعَارِهَآ اَثَـٰثًۭا وَمَتَـٰعًا اِلـٰى حِينٍۢ",
+    "arabic_text": "وَ اللّٰهُ جَعَلَ لَكُم مِّنۢ بُيُوتِكُمْ سَكَنًۭا وَجَعَلَ لَكُم مِّن جُلُودِ الْاَنْعَـٰمِ بُيُوتًۭا تَسْتَخِفُّونَهَا يَوْمَ ظَعْنِكُمْ وَ يَوْمَ اِقَامَتِكُمْ ۙ وَ مِنْ اَصْوَافِهَا وَاَوْبَارِهَا وَاَشْعَارِهَآ اَثَـٰثًۭا وَمَتَـٰعًا اِلـٰى حِينٍۢ",
     "urdu_text": "اور اللہ نے تمہارے لیے تمہارے گھروں کو سکون کی جگہ بنایا، اور تمہارے لیے مویشیوں کی کھالوں سے خیمے بنائے جنہیں تم سفر کے وقت اور قیام کے وقت ہلکا سمجھتے ہو، اور ان کی اون، پشم اور بالوں سے گھر کا سامان اور ایک وقت تک استعمال کی چیزیں بنائیں۔",
     "persian_text": "و خداوند خانه‌هایتان را برای شما آرامگاه قرار داد، و از پوست چارپایان برای شما خیمه‌هایی قرار داد که آنها را در روز کوچ و اقامت سبک می‌یابید، و از پشم و کرک و موی آنها اثاثیه و متاعی تا زمانی معین قرار داد۔",
     "transliteration": "Wallahu ja'ala lakum min buyootikum sakanan wa ja'ala lakum min juloodil-an'ami buyootan tastakhiffoonaha yawma za'nikum wa yawma iqamatikum, wa min aswaafiha wa awbariha wa ash'ariha athathan wa mata'an ila heen"
@@ -649,7 +649,7 @@ ayats = [
   {
     "verse_number": 81,
     "english_text": "And Allah made shades of his creations for your rest, He made for you caves in the mountains for you to retreat, He made garments to save you from heat (and cold), and gave you coats of mails to protect you from weapons' attack; like this Allah completes His favours that you may become obedient.",
-    "arabic_text": "وَاللّٰهُ جَعَلَ لَكُم مِّمَّا خَلَقَ ظِلَـٰلًا وَجَعَلَ لَكُم مِّنَ الْجِبَالِ اَكْنَـٰنًۭا وَجَعَلَ لَكُمْ سَرَٰبِيلَ تَقِيكُمُ الْحَرَّ وَسَرَٰبِيلَ تَقِيكُم بَاْسَكُمْ ۚ كَذَٰلِكَ يُتِمُّ نِعْمَتَهُ عَلَيْكُمْ لَعَلَّكُمْ تُسْلِمُونَ",
+    "arabic_text": "وَ اللّٰهُ جَعَلَ لَكُم مِّمَّا خَلَقَ ظِلَـٰلًا وَجَعَلَ لَكُم مِّنَ الْجِبَالِ اَكْنَـٰنًۭا وَجَعَلَ لَكُمْ سَرَٰبِيلَ تَقِيكُمُ الْحَرَّ وَسَرَٰبِيلَ تَقِيكُم بَاْسَكُمْ ۚ كَذٰلِكَ يُتِمُّ نِعْمَتَهُ عَلَيْكُمْ لَعَلَّكُمْ تُسْلِمُونَ",
     "urdu_text": "اور اللہ نے تمہارے لیے اپنی مخلوقات میں سے سائے بنائے، اور تمہارے لیے پہاڑوں میں پناہ گاہیں بنائیں، اور تمہارے لیے کپڑے بنائے جو تمہیں گرمی سے بچاتے ہیں، اور زرہیں بنائیں جو تمہیں جنگ میں بچاتی ہیں۔ اسی طرح اللہ تم پر اپنی نعمتیں پوری کرتا ہے تاکہ تم فرمانبردار بن جاؤ۔",
     "persian_text": "و خداوند برای شما از آنچه آفریده سایه‌هایی قرار داد، و برای شما از کوه‌ها پناهگاه‌هایی قرار داد، و برای شما لباس‌هایی قرار داد که شما را از گرما محافظت می‌کند، و زره‌هایی که شما را در جنگ حفظ می‌کند. این‌گونه خداوند نعمت خود را بر شما کامل می‌کند تا شاید تسلیم شوید.",
     "transliteration": "Wallahu ja'ala lakum mimma khalaqa zilalan wa ja'ala lakum minal jibali aknanan wa ja'ala lakum sarabila taqikumul harra wa sarabila taqikum ba'sakum, kadhalika yutimmu ni'matahu 'alaykum la'allakum tuslimun"
@@ -713,7 +713,7 @@ ayats = [
   {
     "verse_number": 89,
     "english_text": "And (remember the day) when We will raise up in every people a witness from among them to testify against themselves, and (O Prophet), will make you witness against them, We revealed the Book on you and described everything in it, and for Muslims, this is guidance, mercy and glad tidings.",
-    "arabic_text": "وَ يَوْمَ نَبْعَثُ فِى كُلِّ اُمَّةٍۢ شَهِيدًا عَلَيْهِم مِّنْ اَنفُسِهِمْ ۖ وَجِئْنَا بِكَ شَهِيدًا عَلَىٰ هَـٰٓؤُلَآءِ ۚ وَنَزَّلْنَا عَلَيْكَ الْكِتٰبَ تِبْيَـٰنًۭا لِّكُلِّ شَىْءٍۢ وَهُدًۭى وَرَحْمَةًۭ وَبُشْرَىٰ لِلْمُسْلِمِينَ",
+    "arabic_text": "وَ يَوْمَ نَبْعَثُ فِى كُلِّ اُمَّةٍۢ شَهِيدًا عَلَيْهِم مِّنْ اَنفُسِهِمْ ۖ وَجِئْنَا بِكَ شَهِيدًا عَلَىٰ هَـٰٓؤُلَآءِ ۚ وَنَزَّلْنَا عَلَيْكَ الْكِتٰبَ تِبْيَـٰنًۭا لِّكُلِّ شَىْءٍۢ وَهُدًۭى وَرَحْمَةًۭ وَبُشْرٰى لِلْمُسْلِمِينَ",
     "urdu_text": "اور جس دن ہم ہر امت میں ان کے اپنے لوگوں میں سے ایک گواہ اٹھائیں گے، اور اے نبی! ہم آپ کو ان لوگوں پر گواہ بنائیں گے۔ اور ہم نے آپ پر کتاب نازل کی جو ہر چیز کی تفصیل ہے اور مسلمانوں کے لیے ہدایت، رحمت اور خوشخبری ہے۔",
     "persian_text": "و روزی که در هر امتی گواهی از خودشان برمی‌انگیزیم و تو را بر اینان گواه می‌آوریم، و کتاب را بر تو نازل کردیم که بیان هر چیزی و هدایت و رحمت و بشارت برای مسلمانان است.",
     "transliteration": "Wa yawma nab'athu fi kulli ummatin shahidan 'alayhim min anfusihim wa ji'na bika shahidan 'ala ha'ula'i wa nazzalna 'alaykal kitaba tibyanan likulli shay'in wa hudan wa rahmatan wa bushra lilmuslimin"
@@ -809,7 +809,7 @@ ayats = [
   {
     "verse_number": 101,
     "english_text": "And (O Prophet), when We change a verse with another verse then what We reveal (We know its prudence well), but these people say you are a forger, but most of them know nothing about it.",
-    "arabic_text": "وَاِذَا بَدَّلْنَآ ءَايَةًۭ مَّكَانَ ءَايَةٍۢ ۙ وَاللّٰهُ اَعْلَمُ بِمَا يُنَزِّلُ قَالُوٓاْ اِنَّمَآ اَنتَ مُفْتَرٍۭ ۚ بَلْ اَكْثَرُهُمْ لَا يَعْلَمُونَ",
+    "arabic_text": "وَاِذَا بَدَّلْنَآ ءَايَةًۭ مَّكَانَ ءَايَةٍۢ ۙ وَ اللّٰهُ اَعْلَمُ بِمَا يُنَزِّلُ قَالُوٓاْ اِنَّمَآ اَنتَ مُفْتَرٍۭ ۚ بَلْ اَكْثَرُهُمْ لَا يَعْلَمُونَ",
     "urdu_text": "اور (اے نبی) جب ہم کسی آیت کی جگہ دوسری آیت بدل دیتے ہیں اور اللہ خوب جانتا ہے جو کچھ وہ نازل فرماتا ہے، تو یہ لوگ کہتے ہیں کہ تم محض جھوٹ گھڑنے والے ہو، بلکہ ان میں سے اکثر کچھ نہیں جانتے۔",
     "persian_text": "و (ای پیامبر) هنگامی که ما آیه‌ای را به جای آیه دیگری تبدیل می‌کنیم و خداوند به آنچه نازل می‌کند داناتر است، آنان می‌گویند تو فقط جعل‌کننده‌ای، بلکه بیشتر آنان نمی‌دانند.",
     "transliteration": "Wa idha baddalna ayatan makana ayatin wallahu a'lamu bima yunazzilu qalu innama anta muftarin bal aktharuhum la ya'lamun"
@@ -817,7 +817,7 @@ ayats = [
   {
     "verse_number": 102,
     "english_text": "And (O Prophet) make it clear to them that this (Quran) has been revealed to you by Sacred Spirit from your Lord with truth; so those who have believed should be steadfast, and for the Muslims it is entirely guidance and glad tidings.",
-    "arabic_text": "قُلْ نَزَّلَهُ رُوحُ الْقُدُسِ مِن رَّبِّكَ بِالْحَقِّ لِيُثَبِّتَ الَّذِينَ ءَامَنُواْ وَهُدًۭى وَبُشْرَىٰ لِلْمُسْلِمِينَ",
+    "arabic_text": "قُلْ نَزَّلَهُ رُوحُ الْقُدُسِ مِن رَّبِّكَ بِالْحَقِّ لِيُثَبِّتَ الَّذِينَ ءَامَنُواْ وَهُدًۭى وَبُشْرٰى لِلْمُسْلِمِينَ",
     "urdu_text": "اور (اے نبی) کہہ دیجیے کہ اسے روح القدس نے تمہارے رب کی طرف سے حق کے ساتھ نازل کیا ہے تاکہ ایمان والوں کو ثابت قدم رکھے، اور مسلمانوں کے لیے ہدایت اور خوشخبری ہے۔",
     "persian_text": "بگو روح‌القدس آن را از جانب پروردگارت به حق نازل کرده است تا کسانی را که ایمان آورده‌اند استوار کند و برای مسلمانان هدایت و بشارت است.",
     "transliteration": "Qul nazzalahu ruhul qudusi min rabbika bilhaqqi liyuthabbita alladhina amanu wa hudan wa bushra lilmuslimin"
@@ -857,7 +857,7 @@ ayats = [
   {
     "verse_number": 107,
     "english_text": "This is because of those people who preferred worldly life over the Hereafter, and Allah never guides transgressing nations.",
-    "arabic_text": "ذَٰلِكَ بِاَنَّهُمُ اسْتَحَبُّواْ الْحَيَوٰةَ الدُّنْيٰعَلَى الْاخِرَةِ وَاَنَّ اللّٰهَ لَا يَهْدِى الْقَوْمَ الْكَـٰفِرِينَ",
+    "arabic_text": "ذٰلِكَ بِاَنَّهُمُ اسْتَحَبُّواْ الْحَيَوٰةَ الدُّنْيٰعَلَى الْاخِرَةِ وَاَنَّ اللّٰهَ لَا يَهْدِى الْقَوْمَ الْكَـٰفِرِينَ",
     "urdu_text": "یہ اس لیے کہ انہوں نے دنیا کی زندگی کو آخرت پر ترجیح دی، اور بیشک اللہ کافر قوم کو ہدایت نہیں دیتا۔",
     "persian_text": "این بدان سبب است که آنان زندگی دنیا را بر آخرت ترجیح دادند و خداوند قوم کافران را هدایت نمی‌کند.",
     "transliteration": "Dhalika bi annahumu istahabbul hayatad dunya 'alal akhirati wa annallaha la yahdil qawmal kafirin"
@@ -953,7 +953,7 @@ ayats = [
   {
     "verse_number": 119,
     "english_text": "Then those who committed sins unknowingly but repent (wholeheartedly) and amended themselves; so (O Prophet), indeed your Lord after this is all Forgiving and Merciful.",
-    "arabic_text": "ثُمَّ اِنَّ رَبَّكَ لِلَّذِينَ عَمِلُواْ السُّوٓءَ بِجَهَـٰلَةٍۢ ثُمَّ تَابُواْ مِنۢ بَعْدِ ذَٰلِكَ وَاَصْلَحُوٓاْ اِنَّ رَبَّكَ مِنۢ بَعْدِهَا لَغَفُورٌۭ رَّحِيمٌ",
+    "arabic_text": "ثُمَّ اِنَّ رَبَّكَ لِلَّذِينَ عَمِلُواْ السُّوٓءَ بِجَهَـٰلَةٍۢ ثُمَّ تَابُواْ مِنۢ بَعْدِ ذٰلِكَ وَاَصْلَحُوٓاْ اِنَّ رَبَّكَ مِنۢ بَعْدِهَا لَغَفُورٌۭ رَّحِيمٌ",
     "urdu_text": "پھر جن لوگوں نے نادانی میں برائی کی، پھر اُس کے بعد توبہ کر لی اور اپنی اصلاح کر لی، تو بیشک تمہارا رب اِس کے بعد بخشنے والا مہربان ہے۔",
     "persian_text": "سپس کسانی که از روی نادانی بدی کردند، آنگاه پس از آن توبه کردند و اصلاح نمودند، پس پروردگار تو پس از آن آمرزنده مهربان است.",
     "transliteration": "Thumma inna rabbaka lilladheena 'amilu as-soo'a bijahalatin thumma taaboo min ba'di dhaalika wa aslahoo inna rabbaka min ba'dihaa laghafoorun raheem"

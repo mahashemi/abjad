@@ -145,7 +145,7 @@ ayats = [
   {
     "verse_number": 18,
     "english_text": "He saw the greatest signs of his Lord.",
-    "arabic_text": "لَقَدْ رَاَىٰ مِنْ اٰيٰتِ رَبِّهِ الْكُبْرَىٰٓ",
+    "arabic_text": "لَقَدْ رَآٰ مِنْ اٰيٰتِ رَبِّهِ الْكُبْرَىٰٓ",
     "urdu_text": "بیشک اس نے اپنے رب کی بڑی نشانیاں دیکھیں۔",
     "persian_text": "به راستی او از نشانه‌های بزرگ پروردگارش دید.",
     "transliteration": "Laqad ra'aa min aayaati rabbihil kubraa"
@@ -241,7 +241,7 @@ ayats = [
   {
     "verse_number": 30,
     "english_text": "This is the limit of their knowledge, and certainly your Lord knows who has gone astray from His path and who is on the path of guidance.",
-    "arabic_text": "ذَٰلِكَ مَبْلَغُهُم مِّنَ الْعِلْمِ ۚ اِنَّ رَبَّكَ هُوَ اَعْلَمُ بِمَن ضَلَّ عَن سَبِيلِهِ وَهُوَ اَعْلَمُ بِمَنِ اهْتَدَىٰ",
+    "arabic_text": "ذٰلِكَ مَبْلَغُهُم مِّنَ الْعِلْمِ ۚ اِنَّ رَبَّكَ هُوَ اَعْلَمُ بِمَن ضَلَّ عَن سَبِيلِهِ وَهُوَ اَعْلَمُ بِمَنِ اهْتَدَىٰ",
     "urdu_text": "یہی ان کے علم کی انتہا ہے، بے شک تمہارا رب خوب جانتا ہے کہ کون اس کی راہ سے بھٹک گیا ہے اور کون ہدایت پر ہے۔",
     "persian_text": "این حد دانش آنهاست، و همانا پروردگار تو به کسی که از راه او گمراه شده بهتر می‌داند و او به کسی که هدایت یافته نیز داناتر است.",
     "transliteration": "Dhaalika mablaghuhum mina al-'ilmi inna rabbaka huwa a'lamu biman dhalla 'an sabeelihi wa huwa a'lamu bimani ihtadaa"

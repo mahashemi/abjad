@@ -9,7 +9,7 @@ ayats = [
   {
     "verse_number": 1,
     "english_text": "O Prophet! When you people divorce women, divorce them according to their prescribed periods, then count their prescribed period and keep fearing Allah for He is your Lord, and do not turn them out of homes, nor they should leave themselves, unless they commit some open lewdness, these are limits of Allah and whoever will transgress limits of Allah, will be unjust to his own soul; you are not aware that perhaps Allah thereafter may bring about some new situation.",
-    "arabic_text": "يٰٓاَيُّهَا النَّبِىُّ اِذَا طَلَّقْتُمُ النِّسَآءَ فَطَلِّقُوهُنَّ لِعِدَّتِهِنَّ وَاَحْصُواْ الْعِدَّةَ ۖ وَاتَّقُواْ اللّٰهَ رَبَّكُمْ ۖ لَا تُخْرِجُوهُنَّ مِنۢ بُيُوتِهِنَّ وَ لَا يَخْرُجْنَ اِلَّآ اَن يَاْتِينَ بِفَـٰحِشَةٍۢ مُّبَيِّنَةٍۢ ۚ وَتِلْكَ حُدُودُ اللّٰهِ ۚ وَمَن يَتَعَدَّ حُدُودَ اللّٰهِ فَقَدْ ظَلَمَ نَفْسَهُ ۚ لَا تَدْرِى لَعَلَّ اللّٰهَ يُحْدِثُ بَعْدَ ذَٰلِكَ اَمْرًا",
+    "arabic_text": "يٰٓاَيُّهَا النَّبِىُّ اِذَا طَلَّقْتُمُ النِّسَآءَ فَطَلِّقُوهُنَّ لِعِدَّتِهِنَّ وَاَحْصُواْ الْعِدَّةَ ۖ وَاتَّقُواْ اللّٰهَ رَبَّكُمْ ۖ لَا تُخْرِجُوهُنَّ مِنۢ بُيُوتِهِنَّ وَ لَا يَخْرُجْنَ اِلَّآ اَن يَاْتِينَ بِفَـٰحِشَةٍۢ مُّبَيِّنَةٍۢ ۚ وَتِلْكَ حُدُودُ اللّٰهِ ۚ وَمَن يَتَعَدَّ حُدُودَ اللّٰهِ فَقَدْ ظَلَمَ نَفْسَهُ ۚ لَا تَدْرِى لَعَلَّ اللّٰهَ يُحْدِثُ بَعْدَ ذٰلِكَ اَمْرًا",
     "urdu_text": "اے نبی! جب تم لوگ عورتوں کو طلاق دو تو انہیں ان کی عدت کے مطابق طلاق دو، اور عدت کو شمار کرو، اور اللہ سے ڈرتے رہو جو تمہارا رب ہے، اور انہیں ان کے گھروں سے نہ نکالو اور نہ وہ خود نکلیں، سوائے اس کے کہ وہ کھلی بے حیائی کا ارتکاب کریں، یہ اللہ کی حدیں ہیں اور جو اللہ کی حدوں سے تجاوز کرے گا تو اس نے اپنی جان پر ظلم کیا، تم نہیں جانتے شاید اللہ اس کے بعد کوئی نئی صورت پیدا کر دے۔",
     "persian_text": "ای پیامبر! هنگامی که زنان را طلاق می‌دهید، آنان را در زمان عده‌شان طلاق دهید و عده را به دقت بشمارید، و از خدای پروردگارتان بترسید، آنان را از خانه‌هایشان بیرون نکنید و خودشان نیز بیرون نروند، مگر آنکه مرتکب فحشای آشکاری شوند، اینها حدود الهی است و هر کس از حدود خدا تجاوز کند به خود ستم کرده است، نمی‌دانی شاید خداوند پس از آن وضعیت تازه‌ای پدید آورد.",
     "transliteration": "Yaa ayyuhan-nabiyyu idhaa tallaqtumun-nisaa'a fatalliqoohunna li'iddatihinna wa ahsul-'iddata wattaqul-laaha rabbakum laa tukhrijoohunna min buyootihinna wa laa yakhrujna illaa an ya'teena bifaahishatin mubayyinah, wa tilka hudoodul-laah, wa man yata'adda hudoodal-laahi faqad zhalama nafsah, laa tadree la'allal-laaha yuhdithu ba'da dhaalika amraa."
@@ -41,7 +41,7 @@ ayats = [
   {
     "verse_number": 5,
     "english_text": "This is the command of Allah which He has sent down towards you, and who fear Allah, Allah removes his evils, and increases his reward.",
-    "arabic_text": "ذَٰلِكَ اَمْرُ اللّٰهِ اَنزَلَهُٓ اِلَيْكُمْ ۚ وَمَن يَتَّقِ اللّٰهَ يُكَفِّرْ عَنْهُ سَيِّـَٔاتِهِ وَيُعْظِمْ لَهُٓ اَجْرًا",
+    "arabic_text": "ذٰلِكَ اَمْرُ اللّٰهِ اَنزَلَهُٓ اِلَيْكُمْ ۚ وَمَن يَتَّقِ اللّٰهَ يُكَفِّرْ عَنْهُ سَيِّـَٔاتِهِ وَيُعْظِمْ لَهُٓ اَجْرًا",
     "urdu_text": "یہ اللہ کا حکم ہے جو اس نے تمہاری طرف نازل کیا ہے، اور جو اللہ سے ڈرتا ہے اللہ اس کی برائیاں دور کر دیتا ہے اور اس کا اجر بڑھا دیتا ہے۔",
     "persian_text": "این فرمان خداست که آن را بر شما نازل کرده است، و هر که از خدا بترسد، خداوند بدی‌هایش را می‌زداید و پاداشش را بزرگ می‌گرداند.",
     "transliteration": "Dhaalika amrul-laahi anzalahoo ilaykum, wa man yattaqil-laaha yukaffir 'anhu sayyi'aatihee wa yu'zhim lahoo ajraa."

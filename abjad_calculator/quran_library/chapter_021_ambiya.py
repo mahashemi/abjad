@@ -233,7 +233,7 @@ ayats = [
   {
     "verse_number": 29,
     "english_text": "If somebody say that Allah does not exist, but I am the lord, then he is rejected one (from Allah) and We will give him punishment of Hell, and We give such punishment to the unjust.",
-    "arabic_text": "۞ وَمَن يَقُلْ مِنْهُمْ اِنِّىٓ اِلَـٰهٌۭ مِّن دُونِهِ فَذَٰلِكَ نَجْزِيهِ جَهَنَّمَ ۚ كَذَٰلِكَ نَجْزِى الظَّـٰلِمِينَ",
+    "arabic_text": "۞ وَمَن يَقُلْ مِنْهُمْ اِنِّىٓ اِلَـٰهٌۭ مِّن دُونِهِ فَذٰلِكَ نَجْزِيهِ جَهَنَّمَ ۚ كَذٰلِكَ نَجْزِى الظَّـٰلِمِينَ",
     "urdu_text": "اور ان میں سے جو کوئی کہے کہ میں اللہ کے سوا معبود ہوں، تو ہم اسے جہنم کی سزا دیں گے، اور ہم ظالموں کو ایسی ہی سزا دیتے ہیں۔",
     "persian_text": "و هر کس از آنها بگوید که من معبودی جز او هستم، پس او را به جهنم کیفر می‌دهیم، اینچنین ستمکاران را کیفر می‌دهیم.",
     "transliteration": "Wa man yaqul minhum innee ilaahum min doonihee fadhalika najzeehi jahannam, kadhalika najziz-zaalimeen"
@@ -657,7 +657,7 @@ ayats = [
   {
     "verse_number": 82,
     "english_text": "And the Jinn who were diving to bring out gems, and were doing other works also; We directed them to obey Suleiman, and We were watching over them (so that they may not run away).",
-    "arabic_text": "وَمِنَ الشَّيَـٰطِينِ مَن يَغُوصُونَ لَهُ وَيَعْمَلُونَ عَمَلًا دُونَ ذَٰلِكَ ۖ وَكُنَّا لَهُمْ حَـٰفِظِينَ",
+    "arabic_text": "وَمِنَ الشَّيَـٰطِينِ مَن يَغُوصُونَ لَهُ وَيَعْمَلُونَ عَمَلًا دُونَ ذٰلِكَ ۖ وَكُنَّا لَهُمْ حَـٰفِظِينَ",
     "urdu_text": "اور شیاطین میں سے کچھ ایسے تھے جو ان کے لیے غوطہ لگاتے تھے اور اس کے علاوہ دوسرے کام بھی کرتے تھے، اور ہم ان کی نگرانی کرنے والے تھے۔",
     "persian_text": "و از شیاطین کسانی بودند که برای او غواصی می‌کردند و کارهای دیگری نیز انجام می‌دادند، و ما نگهبان آنها بودیم.",
     "transliteration": "Wa mina ash-shayāṭīni man yaghūṣūna lahū wa ya'malūna 'amalan dūna dhālika, wa kunnā lahum ḥāfiẓīn"
@@ -705,7 +705,7 @@ ayats = [
   {
     "verse_number": 88,
     "english_text": "Then We accepted his prayer and delivered him from grief, and thus We deliver the believers.",
-    "arabic_text": "فَاسْتَجَبْنَا لَهُ وَنَجَّيْنَـٰهُ مِنَ الْغَمِّ ۚ وَكَذَٰلِكَ نُـۨجِى الْمُؤْمِنِينَ",
+    "arabic_text": "فَاسْتَجَبْنَا لَهُ وَنَجَّيْنَـٰهُ مِنَ الْغَمِّ ۚ وَكَذٰلِكَ نُـۨجِى الْمُؤْمِنِينَ",
     "urdu_text": "پھر ہم نے ان کی دعا قبول کی اور انہیں غم سے نجات دی، اور اسی طرح ہم مومنوں کو نجات دیتے ہیں۔",
     "persian_text": "پس دعای او را اجابت کردیم و او را از اندوه رهایی بخشیدیم، و این‌گونه مؤمنان را نجات می‌دهیم.",
     "transliteration": "Fa-استajab-nā lahū wa najjaynāhu mina al-ghamm, wa kadhālika nunjī al-mu'minīn"

@@ -49,7 +49,7 @@ ayats = [
   {
     "verse_number": 6,
     "english_text": "Like this the punishment of your Lord has been proven for the infidels that they are going to Hell.",
-    "arabic_text": "وَكَذَٰلِكَ حَقَّتْ كَلِمَتُ رَبِّكَ عَلَى الَّذِينَ كَفَرُوٓاْ اَنَّهُمْ اَصْحَـٰبُ النَّارِ",
+    "arabic_text": "وَكَذٰلِكَ حَقَّتْ كَلِمَتُ رَبِّكَ عَلَى الَّذِينَ كَفَرُوٓاْ اَنَّهُمْ اَصْحَـٰبُ النَّارِ",
     "urdu_text": "اسی طرح تمہارے رب کا فیصلہ کافروں پر ثابت ہو گیا کہ وہ دوزخ والے ہیں۔",
     "persian_text": "و همین‌گونه فرمان پروردگار تو بر کافران ثابت شد که آنها اهل آتش هستند.",
     "transliteration": "Wa kadhaalika haqqat Kalimatu Rabbika 'alal-ladheena kafarooo annahum Ashaabun-Naar"
@@ -73,7 +73,7 @@ ayats = [
   {
     "verse_number": 9,
     "english_text": "And save them from evil deeds, and whom You save from evil deeds this day, indeed You did (shower) Mercy on them, and that is the big achievement.",
-    "arabic_text": "وَقِهِمُ السَّيِّـَٔاتِ ۚ وَمَن تَقِ السَّيِّـَٔاتِ يَوْمَئِذٍۢ فَقَدْ رَحِمْتَهُ ۚ وَذَٰلِكَ هُوَ الْفَوْزُ الْعَظِيمُ",
+    "arabic_text": "وَقِهِمُ السَّيِّـَٔاتِ ۚ وَمَن تَقِ السَّيِّـَٔاتِ يَوْمَئِذٍۢ فَقَدْ رَحِمْتَهُ ۚ وَذٰلِكَ هُوَ الْفَوْزُ الْعَظِيمُ",
     "urdu_text": "اور انہیں برائیوں سے بچا، اور جسے تو اس دن برائیوں سے بچا لے تو بے شک تو نے اس پر رحم فرمایا، اور یہی بڑی کامیابی ہے۔",
     "persian_text": "و آنها را از بدی‌ها نگه دار، و هر که را در آن روز از بدی‌ها نگه داری، به راستی بر او رحم کرده‌ای، و این همان رستگاری بزرگ است.",
     "transliteration": "Wa qihimus-sayyi-aat, wa man taqis-sayyi-aati Yawma'idhin faqad rahimtah, wa dhaalika huwal-fawzul-'Adheem"
@@ -161,7 +161,7 @@ ayats = [
   {
     "verse_number": 20,
     "english_text": "He judges with the Truth, and they cannot even judge whom they worship leaving Allah, indeed Allah hears and sees everything.",
-    "arabic_text": "وَاللّٰهُ يَقْضِى بِالْحَقِّ ۖ وَالَّذِينَ يَدْعُونَ مِن دُونِهِ لَا يَقْضُونَ بِشَىْءٍ ۗ اِنَّ اللّٰهَ هُوَ السَّمِيعُ الْبَصِيرُ",
+    "arabic_text": "وَ اللّٰهُ يَقْضِى بِالْحَقِّ ۖ وَالَّذِينَ يَدْعُونَ مِن دُونِهِ لَا يَقْضُونَ بِشَىْءٍ ۗ اِنَّ اللّٰهَ هُوَ السَّمِيعُ الْبَصِيرُ",
     "urdu_text": "اور اللہ حق کے ساتھ فیصلہ کرتا ہے، اور جن کو یہ اللہ کو چھوڑ کر پکارتے ہیں وہ کسی چیز کا فیصلہ نہیں کر سکتے، بے شک اللہ ہی سننے والا دیکھنے والا ہے۔",
     "persian_text": "و خداوند به حق داوری می‌کند، و آنان که غیر از او می‌خوانند به هیچ چیز داوری نمی‌کنند، همانا خداوند شنوا و بیناست.",
     "transliteration": "Wallaahu yaqdee bil-haqq, walladheena yad'oona min doonihee laa yaqdoona bi-shay', innAllaaha huwas-samee'ul-baseer"
@@ -177,7 +177,7 @@ ayats = [
   {
     "verse_number": 22,
     "english_text": "This happened because prophets have come to them with explicit signs but they denied them, then Allah also overtook them; He is very powerful and giver of severe punishment.",
-    "arabic_text": "ذَٰلِكَ بِاَنَّهُمْ كَانَت تَّاْتِيهِمْ رُسُلُهُم بِالْبَيِّنَـٰتِ فَكَفَرُواْ فَاَخَذَهُمُ اللّٰهُ ۚ اِنَّهُ قَوِىٌّۭ شَدِيدُ الْعِقَابِ",
+    "arabic_text": "ذٰلِكَ بِاَنَّهُمْ كَانَت تَّاْتِيهِمْ رُسُلُهُم بِالْبَيِّنَـٰتِ فَكَفَرُواْ فَاَخَذَهُمُ اللّٰهُ ۚ اِنَّهُ قَوِىٌّۭ شَدِيدُ الْعِقَابِ",
     "urdu_text": "یہ اس لیے ہوا کہ ان کے پاس رسول واضح نشانیوں کے ساتھ آئے لیکن انہوں نے انکار کیا، پھر اللہ نے انہیں پکڑ لیا، بے شک وہ بہت طاقتور اور سخت عذاب دینے والا ہے۔",
     "persian_text": "این به خاطر آن بود که پیامبرانشان با دلایل روشن به سراغشان آمدند اما آنها کفر ورزیدند، پس خداوند آنها را گرفت، همانا او بسیار نیرومند و دارای عذاب شدید است.",
     "transliteration": "Dhaalika bi-annahum kaanat ta'teehim rusuluhum bil-bayyinaati fakafaru fa-akhazahumul-laah, innahu qawiyyun shadeedul-'iqaab"
@@ -273,7 +273,7 @@ ayats = [
   {
     "verse_number": 34,
     "english_text": "And before this Yusuf also came to you, and you were in doubt about his message, and when he left the world, you said Allah did not send any prophet after him; like this Allah leaves in misguidance to those who do excesses and doubt.",
-    "arabic_text": "وَ لَقَدْ جَآءَكُمْ يُوسُفُ مِن قَبْلُ بِالْبَيِّنَـٰتِ فَمَا زِلْتُمْ فِى شَكٍّۢ مِّمَّا جَآءَكُم بِهِ ۖ حَتَّىٰٓ اِذَا هَلَكَ قُلْتُمْ لَن يَبْعَثَ اللّٰهُ مِنۢ بَعْدِهِ رَسُولًا ۚ كَذَٰلِكَ يُضِلُّ اللّٰهُ مَنْ هُوَ مُسْرِفٌۭ مُّرْتَابٌ",
+    "arabic_text": "وَ لَقَدْ جَآءَكُمْ يُوسُفُ مِن قَبْلُ بِالْبَيِّنَـٰتِ فَمَا زِلْتُمْ فِى شَكٍّۢ مِّمَّا جَآءَكُم بِهِ ۖ حَتَّىٰٓ اِذَا هَلَكَ قُلْتُمْ لَن يَبْعَثَ اللّٰهُ مِنۢ بَعْدِهِ رَسُولًا ۚ كَذٰلِكَ يُضِلُّ اللّٰهُ مَنْ هُوَ مُسْرِفٌۭ مُّرْتَابٌ",
     "urdu_text": "اور اس سے پہلے یوسف بھی تمہارے پاس واضح نشانیوں کے ساتھ آئے تھے، لیکن تم ان کے پیغام میں شک کرتے رہے، یہاں تک کہ جب وہ فوت ہو گئے تو تم نے کہا کہ اللہ ان کے بعد کوئی رسول نہیں بھیجے گا، اسی طرح اللہ ہر حد سے بڑھنے والے اور شک کرنے والے کو گمراہ کر دیتا ہے۔",
     "persian_text": "و قطعاً یوسف پیش از این با دلایل روشن به سوی شما آمد، اما شما همچنان در شک از آنچه آورده بود باقی ماندید، تا زمانی که درگذشت، گفتید الله بعد از او هیچ پیامبری نخواهد فرستاد، این‌گونه الله هر کسی را که زیاده‌روی کند و شک داشته باشد گمراه می‌کند.",
     "transliteration": "Wa laqad jaa'akum Yoosufu min qablu bil-bayyinaati famaa ziltum fee shakkin mimmaa jaa'akum bih, hattaa idhaa halaka qultum lan yab'athallahu min ba'dihi rasoola, kadhaalika yudillullaahu man huwa musrifun murtaab"
@@ -281,7 +281,7 @@ ayats = [
   {
     "verse_number": 35,
     "english_text": "Those who argue in verses of Allah without having any proof from Him, they are worthy of hate near Allah and the believers; and like this Allah seals the hearts of every person who does excesses and is proud.",
-    "arabic_text": "الَّذِينَ يُجَـٰدِلُونَ فِىٓ اٰيٰتِ اللّٰهِ بِغَيْرِ سُلْطَـٰنٍ اَتَىٰهُمْ ۖ كَبُرَ مَقْتًا عِندَ اللّٰهِ وَعِندَ الَّذِينَ ءَامَنُواْ ۚ كَذَٰلِكَ يَطْبَعُ اللّٰهُ عَلَىٰ كُلِّ قَلْبِ مُتَكَبِّرٍۢ جَبَّارٍۢ",
+    "arabic_text": "الَّذِينَ يُجَـٰدِلُونَ فِىٓ اٰيٰتِ اللّٰهِ بِغَيْرِ سُلْطَـٰنٍ اَتَىٰهُمْ ۖ كَبُرَ مَقْتًا عِندَ اللّٰهِ وَعِندَ الَّذِينَ ءَامَنُواْ ۚ كَذٰلِكَ يَطْبَعُ اللّٰهُ عَلَىٰ كُلِّ قَلْبِ مُتَكَبِّرٍۢ جَبَّارٍۢ",
     "urdu_text": "جو لوگ اللہ کی آیات میں بغیر کسی دلیل کے جھگڑتے ہیں، وہ اللہ اور مومنوں کے نزدیک سخت نفرت کے لائق ہیں، اور اسی طرح اللہ ہر متکبر اور سرکش دل پر مہر لگا دیتا ہے۔",
     "persian_text": "کسانی که در آیات الله بدون هیچ دلیلی که به آنها رسیده باشد جدال می‌کنند، نزد الله و نزد مؤمنان بسیار مورد نفرت هستند، این‌گونه الله بر هر دل متکبر و ستمگری مهر می‌زند.",
     "transliteration": "Alladheena yujadiloona fee aayaatillaahi bighayri sultaanin ataahum, kabura maqtan 'indallahi wa 'indalladheena aamanoo, kadhaalika yatba'ullaahu 'alaa kulli qalbi mutakabbirin jabbaar"
@@ -297,7 +297,7 @@ ayats = [
   {
     "verse_number": 37,
     "english_text": "From the ways in the sky I may see the Lord of Moosa, I think Moosa is a liar and there is no Allah, and like this Firaun's bad deeds were decorated and he was stopped from his way, and result of plotting of Firaun was nothing but destruction.",
-    "arabic_text": "اَسْبَـٰبَ السَّمَـٰوَٰتِ فَاَطَّلِعَ اِلـٰىٓ اِلَـٰهِ مُوسَىٰ وَاِنِّى لَاَظُنُّهُ كَـٰذِبًا ۚ وَكَذَٰلِكَ زُيِّنَ لِفِرْعَوْنَ سُوٓءُ عَمَلِهِ وَصُدَّ عَنِ السَّبِيلِ ۚ وَ مَا كَيْدُ فِرْعَوْنَ اِلَّا فِى تَبَابٍۢ",
+    "arabic_text": "اَسْبَـٰبَ السَّمَـٰوَٰتِ فَاَطَّلِعَ اِلـٰىٓ اِلَـٰهِ مُوسَىٰ وَاِنِّى لَاَظُنُّهُ كَـٰذِبًا ۚ وَكَذٰلِكَ زُيِّنَ لِفِرْعَوْنَ سُوٓءُ عَمَلِهِ وَصُدَّ عَنِ السَّبِيلِ ۚ وَ مَا كَيْدُ فِرْعَوْنَ اِلَّا فِى تَبَابٍۢ",
     "urdu_text": "آسمانوں کے راستوں تک، تاکہ میں موسیٰ کے رب کو دیکھ سکوں، اور میں یقیناً سمجھتا ہوں کہ موسیٰ جھوٹا ہے، اور اسی طرح فرعون کے لیے اس کے برے اعمال خوبصورت بنا دیے گئے اور وہ راہ راست سے روک دیا گیا، اور فرعون کی چال کا انجام صرف تباہی تھا۔",
     "persian_text": "راه‌های آسمان‌ها را، تا به خدای موسی نگاه کنم، و من یقیناً او را دروغگو می‌پندارم، و این‌گونه برای فرعون اعمال بدش زینت داده شد و از راه باز داشته شد، و نیرنگ فرعون جز در نابودی نبود.",
     "transliteration": "Asbaabas-samaawaati fa-attali'a ilaa ilaahi Moosaa wa innee la-azunnuhoo kaadhibaa, wa kadhaalika zuyyina li-Fir'awna soo'u 'amalihee wa sudda 'anis-sabeel, wa maa kaydu Fir'awna illaa fee tabaab"
@@ -505,7 +505,7 @@ ayats = [
   {
     "verse_number": 63,
     "english_text": "Like this they are misguided who deny Allah's signs.",
-    "arabic_text": "كَذَٰلِكَ يُؤْفَكُ الَّذِينَ كَانُواْ بِـَٔايَـٰتِ اللّٰهِ يَجْحَدُونَ",
+    "arabic_text": "كَذٰلِكَ يُؤْفَكُ الَّذِينَ كَانُواْ بِـَٔايَـٰتِ اللّٰهِ يَجْحَدُونَ",
     "urdu_text": "اسی طرح گمراہ کیے جاتے ہیں وہ لوگ جو اللہ کی آیات کا انکار کرتے ہیں۔",
     "persian_text": "همین‌گونه منحرف می‌شوند کسانی که آیات خدا را انکار می‌کردند.",
     "transliteration": "Kazaalika yu'fakul-lazeena kaanoo bi-Aayaatil-laahi yajhadoon"
@@ -593,7 +593,7 @@ ayats = [
   {
     "verse_number": 74,
     "english_text": "Besides Allah; so they will reply: they have vanished leaving us (here), but we were not calling upon anyone, and like this Allah leaves infidels in misguidance.",
-    "arabic_text": "مِن دُونِ اللّٰهِ ۖ قَالُوْاْ ضَلُّواْ عَنَّا بَل لَّمْ نَكُن نَّدْعُواْ مِن قَبْلُ شَيْـًۭٔا ۚ كَذَٰلِكَ يُضِلُّ اللّٰهُ الْكَـٰفِرِينَ",
+    "arabic_text": "مِن دُونِ اللّٰهِ ۖ قَالُوْاْ ضَلُّواْ عَنَّا بَل لَّمْ نَكُن نَّدْعُواْ مِن قَبْلُ شَيْـًۭٔا ۚ كَذٰلِكَ يُضِلُّ اللّٰهُ الْكَـٰفِرِينَ",
     "urdu_text": "اللہ کے سوا؟ وہ کہیں گے: وہ ہم سے گم ہو گئے، بلکہ ہم پہلے کسی چیز کو نہیں پکارتے تھے۔ اسی طرح اللہ کافروں کو گمراہی میں چھوڑ دیتا ہے۔",
     "persian_text": "غیر از خدا؟ گویند: از ما گم شده‌اند، بلکه ما پیش از این چیزی را نمی‌خواندیم. این‌گونه خداوند کافران را گمراه می‌گذارد.",
     "transliteration": "Min dunillah, qalu dallu 'anna bal lam nakun nad'u min qablu shay'a, kazalika yudillullahul-kafirin"
@@ -625,7 +625,7 @@ ayats = [
   {
     "verse_number": 78,
     "english_text": "And We have sent many prophets before you of which some of them were mentioned to you, and some of them were not even mentioned to you; and no prophet has the ability that he can bring the miracle without the permission of Allah; when the time came then it was decided with the Truth, and then people of falsehood were in loss.",
-    "arabic_text": "وَ لَقَدْ اَرْسَلْنَا رُسُلًا مِّن قَبْلِكَ مِنْهُم مَّن قَصَصْنَا عَلَيْكَ وَمِنْهُم مَّن لَّمْ نَقْصُصْ عَلَيْكَ ۗ وَ مَا كَانَ لِرَسُولٍ اَن يَاْتِىَ بِـَٔايَةٍ اِلَّا بِاِذْنِ اللّٰهِ ۚ فَاِذَا جَآءَ اَمْرُ اللّٰهِ قُضِىَ بِالْحَقِّ وَخَسِرَ هُنَالِكَ الْمُبْطِلُونَ",
+    "arabic_text": "وَ لَقَدْ اَرْسَلْنَا رُسُلًا مِّن قَبْلِكَ مِنْهُم مَّن قَصَصْنَا عَلَيْكَ وَ مِنْهُم مَّن لَّمْ نَقْصُصْ عَلَيْكَ ۗ وَ مَا كَانَ لِرَسُولٍ اَن يَاْتِىَ بِـَٔايَةٍ اِلَّا بِاِذْنِ اللّٰهِ ۚ فَاِذَا جَآءَ اَمْرُ اللّٰهِ قُضِىَ بِالْحَقِّ وَخَسِرَ هُنَالِكَ الْمُبْطِلُونَ",
     "urdu_text": "اور بیشک ہم نے تم سے پہلے بہت سے رسول بھیجے جن میں سے بعض کا ذکر ہم نے تمہیں سنایا اور بعض کا ذکر نہیں سنایا، اور کسی رسول کے لیے یہ نہیں کہ وہ اللہ کی اجازت کے بغیر کوئی نشانی لائے، پھر جب اللہ کا حکم آ گیا تو حق کے ساتھ فیصلہ کر دیا گیا اور وہاں باطل والے خسارے میں رہے۔",
     "persian_text": "و قطعاً پیامبرانی پیش از تو فرستادیم که برخی از آنان را بر تو قصه کردیم و برخی را قصه نکردیم، و هیچ پیامبری را نبود که معجزه‌ای بیاورد مگر به اذن خدا، پس چون فرمان خدا آمد به حق داوری شد و آنجا اهل باطل زیان‌کار شدند.",
     "transliteration": "Wa laqad arsalna rusulan min qablika minhum man qasasna 'alayka wa minhum man lam naqsus 'alayk, wa ma kana lirasulin an ya'tiya bi-ayatin illa bi-iznillah, fa-iza ja'a amrullahi qudiya bil-haqqi wa khasira hunalikal-mubtilun"
@@ -633,7 +633,7 @@ ayats = [
   {
     "verse_number": 79,
     "english_text": "That is Allah who has created cattle for you, of which some of them you ride upon and some of them you use for eating.",
-    "arabic_text": "اللّٰهُ الَّذِى جَعَلَ لَكُمُ الْاَنْعَـٰمَ لِتَرْكَبُواْ مِنْهَا وَمِنْهَا تَاْكُلُونَ",
+    "arabic_text": "اللّٰهُ الَّذِى جَعَلَ لَكُمُ الْاَنْعَـٰمَ لِتَرْكَبُواْ مِنْهَا وَ مِنْهَا تَاْكُلُونَ",
     "urdu_text": "اللہ وہ ہے جس نے تمہارے لیے چوپائے بنائے تاکہ ان میں سے بعض پر تم سوار ہو اور بعض کو کھاؤ۔",
     "persian_text": "خداوند کسی است که چهارپایان را برای شما قرار داد تا بر برخی از آنها سوار شوید و از برخی بخورید.",
     "transliteration": "Allahullazi ja'ala lakumul-an'ama litarkabu minha wa minha ta'kulun"

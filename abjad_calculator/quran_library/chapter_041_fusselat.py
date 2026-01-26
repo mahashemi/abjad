@@ -73,7 +73,7 @@ ayats = [
   {
     "verse_number": 9,
     "english_text": "Say: are you denying the Lord which has created the earth in two days, and make associates for him Who is Lord of the worlds.",
-    "arabic_text": "۞ قُلْ اَئِنَّكُمْ لَتَكْفُرُونَ بِالَّذِى خَلَقَ الْاَرْضَ فِى يَوْمَيْنِ وَتَجْعَلُونَ لَهُٓ اَندَادًۭا ۚ ذَٰلِكَ رَبُّ الْعَـٰلَمِينَ",
+    "arabic_text": "۞ قُلْ اَئِنَّكُمْ لَتَكْفُرُونَ بِالَّذِى خَلَقَ الْاَرْضَ فِى يَوْمَيْنِ وَتَجْعَلُونَ لَهُٓ اَندَادًۭا ۚ ذٰلِكَ رَبُّ الْعَـٰلَمِينَ",
     "urdu_text": "کهه دو: کیا تم واقعی اس ذات کا انکار کرتے هو جس نے زمین کو دو دن میں پیدا کیا، اور تم اس کے لیے شریک ٹھهراتے هو؟ وهی تو تمام جهانوں کا رب هے۔",
     "persian_text": "بگو: آیا شما واقعاً کسی را که زمین را در دو روز آفرید انکار می‌کنید و برای او همتایانی قرار می‌دهید؟ آن پروردگار جهانیان است.",
     "transliteration": "Qul a'innakum latakfuroona billazee khalaqal arda fee yawmayni wa taj'aloona lahooo andaadaa, zaalika Rabbul 'aalameen"
@@ -97,7 +97,7 @@ ayats = [
   {
     "verse_number": 12,
     "english_text": "Then made seven skies among the skies in two days, and revealed to each sky about its affairs, and decorated sky of the world with the lamps, and made it secure, this is the decree of Mighty and Knowing Allah.",
-    "arabic_text": "فَقَضَىٰهُنَّ سَبْعَ سَمَـٰوَاتٍۢ فِى يَوْمَيْنِ وَاَوْحَىٰ فِى كُلِّ سَمَآءٍ اَمْرَهَا ۚ وَزَيَّنَّا السَّمَآءَ الدُّنْيٰبِمَصَـٰبِيحَ وَحِفْظًۭا ۚ ذَٰلِكَ تَقْدِيرُ الْعَزِيزِ الْعَلِيمِ",
+    "arabic_text": "فَقَضَىٰهُنَّ سَبْعَ سَمَـٰوَاتٍۢ فِى يَوْمَيْنِ وَاَوْحَىٰ فِى كُلِّ سَمَآءٍ اَمْرَهَا ۚ وَزَيَّنَّا السَّمَآءَ الدُّنْيٰبِمَصَـٰبِيحَ وَحِفْظًۭا ۚ ذٰلِكَ تَقْدِيرُ الْعَزِيزِ الْعَلِيمِ",
     "urdu_text": "پھر اس نے دو دن میں سات آسمان بنا دیے اور هر آسمان میں اس کا کام بتا دیا، اور هم نے قریبی آسمان کو چراغوں سے سجایا اور اسے محفوظ بنایا، یه زبردست اور جاننے والے الله کا فیصله هے۔",
     "persian_text": "پس آنها را در دو روز هفت آسمان قرار داد و به هر آسمانی کار خود را وحی کرد، و آسمان دنیا را با چراغ‌ها زینت دادیم و آن را محفوظ ساختیم، این تقدیر خداوند عزیز و دانا است.",
     "transliteration": "Faqaḍāhunna sab'a samāwātin fī yawmayni wa awḥā fī kulli samā'in amrahā wa zayyannā as-samā'a ad-dunyā bimaṣābīḥa wa ḥifẓan dhālika taqdīru al-'azīzi al-'alīm"
@@ -113,7 +113,7 @@ ayats = [
   {
     "verse_number": 14,
     "english_text": "When Our messengers came from front and from behind that do not worship anyone except Allah, they said: if our Lord pleased, He could have sent angels, we are not going to accept your message.",
-    "arabic_text": "اِذْ جَآءَتْهُمُ الرُّسُلُ مِنۢ بَيْنِ اَيْدِيهِمْ وَمِنْ خَلْفِهِمْ اَلَّا تَعْبُدُوٓاْ اِلَّا اللّٰهَ ۖ قَالُوْاْ لَوْ شَآءَ رَبُّنَا لَاَنزَلَ مَلَـٰٓئِكَةًۭ فَاِنَّا بِمَآ اُرْسِلْتُم بِهِ كَـٰفِرُونَ",
+    "arabic_text": "اِذْ جَآءَتْهُمُ الرُّسُلُ مِنۢ بَيْنِ اَيْدِيهِمْ وَ مِنْ خَلْفِهِمْ اَلَّا تَعْبُدُوٓاْ اِلَّا اللّٰهَ ۖ قَالُوْاْ لَوْ شَآءَ رَبُّنَا لَاَنزَلَ مَلَـٰٓئِكَةًۭ فَاِنَّا بِمَآ اُرْسِلْتُم بِهِ كَـٰفِرُونَ",
     "urdu_text": "جب ان کے پاس همارے رسول آگے سے اور پیچھے سے آئے که الله کے سوا کسی کی عبادت نه کرو، تو انهوں نے کها: اگر همارا رب چاهتا تو فرشتے بھیجتا، هم تمهارے پیغام کو ماننے والے نهیں هیں۔",
     "persian_text": "هنگامی که پیامبران ما از پیش و پس آنان آمدند که جز خدا را عبادت نکنید، گفتند: اگر پروردگار ما می‌خواست فرشتگان می‌فرستاد، پس ما به آنچه با آن فرستاده شده‌اید کافریم.",
     "transliteration": "Idh jā'at-humu ar-rusulu min bayni aydīhim wa min khalfihim allā ta'budū illā Allāha qālū law shā'a rabbunā la-anzala malā'ikatan fa-innā bimā ursiltum bihī kāfirūn"
@@ -225,7 +225,7 @@ ayats = [
   {
     "verse_number": 28,
     "english_text": "This Hell is the right punishment for the enemies of Allah in which their abode is forever, this is the punishment for they had denied the verses of Allah.",
-    "arabic_text": "ذَٰلِكَ جَزَآءُ اَعْدَآءِ اللّٰهِ النَّارُ ۖ لَهُمْ فِيهَا دَارُ الْخُلْدِ ۖ جَزَآءًۢ بِمَا كَانُواْ بِـَٔايَـٰتِنَا يَجْحَدُونَ",
+    "arabic_text": "ذٰلِكَ جَزَآءُ اَعْدَآءِ اللّٰهِ النَّارُ ۖ لَهُمْ فِيهَا دَارُ الْخُلْدِ ۖ جَزَآءًۢ بِمَا كَانُواْ بِـَٔايَـٰتِنَا يَجْحَدُونَ",
     "urdu_text": "یه آگ الله کے دشمنوں کی سزا هے، ان کے لیے اس میں همیشه رهنے کا گھر هے، یه اس بات کی سزا هے که وه هماری آیات کا انکار کرتے تھے۔",
     "persian_text": "این است کیفر دشمنان خدا: آتش، که در آن جایگاه جاودانه دارند، این سزای آن است که آیات ما را انکار می‌کردند.",
     "transliteration": "Dhaalika jazaaa'u a'daaa'illahin-naaru lahum feehaa daarul-khuldi jazaaa'am bimaa kaanoo bi-aayaatinaa yajhadoon"
@@ -297,7 +297,7 @@ ayats = [
   {
     "verse_number": 37,
     "english_text": "And these signs of Allah are night and day, sun and the moon, therefore do not prostrate before sun and the Moon but prostrate before Allah who have created all this, if you are really worshipping Him.",
-    "arabic_text": "وَمِنْ اٰيٰتِهِ الَّيْلُ وَالنَّهَارُ وَالشَّمْسُ وَالْقَمَرُ ۚ لَا تَسْجُدُواْ لِلشَّمْسِ وَ لَا لِلْقَمَرِ وَاسْجُدُواْ لِلَّهِ الَّذِى خَلَقَهُنَّ اِن كُنتُمْ اِيَّاهُ تَعْبُدُونَ",
+    "arabic_text": "وَ مِنْ اٰيٰتِهِ الَّيْلُ وَالنَّهَارُ وَالشَّمْسُ وَالْقَمَرُ ۚ لَا تَسْجُدُواْ لِلشَّمْسِ وَ لَا لِلْقَمَرِ وَاسْجُدُواْ لِلَّهِ الَّذِى خَلَقَهُنَّ اِن كُنتُمْ اِيَّاهُ تَعْبُدُونَ",
     "urdu_text": "اور اس کی نشانیوں میں سے رات اور دن، سورج اور چاند هیں، پس سورج اور چاند کو سجده نه کرو بلکه الله کو سجده کرو جس نے ان سب کو پیدا کیا هے، اگر تم واقعی اسی کی عبادت کرتے هو۔",
     "persian_text": "و از نشانه‌های او شب و روز و خورشید و ماه است، پس برای خورشید و ماه سجده نکنید، بلکه برای خدایی سجده کنید که آنها را آفریده است، اگر واقعاً او را عبادت می‌کنید.",
     "transliteration": "Wa min aayaatihil-laylu wan-nahaaru wash-shamsu wal-qamar laa tasjudoo lish-shamsi wa laa lil-qamari wasjudoo lillaahil-lazee khalaqahunna in kuntum iyyaahu ta'budoon"
@@ -313,7 +313,7 @@ ayats = [
   {
     "verse_number": 39,
     "english_text": "This is among His signs that you see the earth plain and dead and when We send water it flourishes again, then you see growth in it. Verily, who brought earth to life, will bring alive the dead (humans) also, indeed He has power over everything.",
-    "arabic_text": "وَمِنْ اٰيٰتِهِٓ اَنَّكَ تَرَى الْاَرْضَ خَـٰشِعَةًۭ فَاِذَآ اَنزَلْنَا عَلَيْهَا الْمَآءَ اهْتَزَّتْ وَرَبَتْ ۚ اِنَّ الَّذِىٓ اَحْيَاهَا لَمُحْىِ الْمَوْتَىٰٓ ۚ اِنَّهُ عَلَىٰ كُلِّ شَىْءٍۢ قَدِيرٌ",
+    "arabic_text": "وَ مِنْ اٰيٰتِهِٓ اَنَّكَ تَرَى الْاَرْضَ خَـٰشِعَةًۭ فَاِذَآ اَنزَلْنَا عَلَيْهَا الْمَآءَ اهْتَزَّتْ وَرَبَتْ ۚ اِنَّ الَّذِىٓ اَحْيَاهَا لَمُحْىِ الْمَوْتَىٰٓ ۚ اِنَّهُ عَلَىٰ كُلِّ شَىْءٍۢ قَدِيرٌ",
     "urdu_text": "اور اس کی نشانیوں میں سے یه هے که تم زمین کو خشک اور بے جان دیکھتے هو، پھر جب هم اس پر پانی برساتے هیں تو وه لهلها اٹھتی هے اور ابھر آتی هے، بے شک جس نے اسے زنده کیا وهی مردوں کو بھی زنده کرے گا، یقیناً وه هر چیز پر قادر هے۔",
     "persian_text": "و از نشانه‌های او این است که زمین را خشک و بی‌جان می‌بینی، پس چون بر آن آب فرو فرستیم به جنبش درآید و برآید، همانا کسی که آن را زنده کرد، مردگان را نیز زنده خواهد کرد، بی‌گمان او بر هر چیزی تواناست.",
     "transliteration": "Wa min aayaatihee annaka taral-arda khaashi'atan fa-izaaa anzalnaa 'alayhal-maa'ahtazzat wa rabat innal-lazeee ahyaahaa lamuhyil-mawtaa innahoo 'alaa kulli shay'in qadeer"
@@ -361,7 +361,7 @@ ayats = [
   {
     "verse_number": 45,
     "english_text": "And Verily, We gave the book to Moosa but they created a quarrel in it, and if it was not decided earlier, it would have been decided among them, they were in a very uneasy doubt.",
-    "arabic_text": "وَ لَقَدْ ءَاتَيْنَا مُوسَى الْكِتٰبَ فَاخْتُلِفَ فِيهِ ۗ وَلَوْلَا كَلِمَةٌۭ سَبَقَتْ مِن رَّبِّكَ لَقُضِىَ بَيْنَهُمْ ۚ وَاِنَّهُمْ لَفِى شَكٍّۢ مِّنْهُ مُرِيبٍۢ",
+    "arabic_text": "وَ لَقَدْ ءَاتَيْنَا مُوسَى الْكِتٰبَ فَاخْتُلِفَ فِيهِ ۗ وَ لَوْلَا كَلِمَةٌۭ سَبَقَتْ مِن رَّبِّكَ لَقُضِىَ بَيْنَهُمْ ۚ وَاِنَّهُمْ لَفِى شَكٍّۢ مِّنْهُ مُرِيبٍۢ",
     "urdu_text": "اور بیشک هم نے موسیٰ کو کتاب دی تو اس میں اختلاف کیا گیا، اور اگر آپ کے رب کی طرف سے پهلے سے فیصله نه هوتا تو ان کے درمیان فیصله کر دیا جاتا، اور بیشک وه اس کے بارے میں بڑے پریشان کن شک میں هیں۔",
     "persian_text": "و به راستی ما به موسی کتاب دادیم پس در آن اختلاف کردند، و اگر کلمه‌ای از پروردگارت پیش از این نبود، میان آنان داوری می‌شد، و آنان در شک آشفته‌کننده‌ای از آن هستند.",
     "transliteration": "Wa laqad ātaynā Mūsa al-kitāba fakhtulifa fīh wa lawlā kalimatun sabaqat min rabbika laquḍiya baynahum wa innahum lafī shakkin minhu murīb"

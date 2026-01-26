@@ -57,7 +57,7 @@ ayats = [
   {
     "verse_number": 7,
     "english_text": "Then if anybody will find another way (for his carnal desires), he shall commit excesses.",
-    "arabic_text": "فَمَنِ ابْتَغَىٰ وَرَآءَ ذَٰلِكَ فَاُو۟لَـٰٓئِكَ هُمُ الْعَادُونَ",
+    "arabic_text": "فَمَنِ ابْتَغَىٰ وَرَآءَ ذٰلِكَ فَاُو۟لَـٰٓئِكَ هُمُ الْعَادُونَ",
     "urdu_text": "پھر جو اس کے علاوه کچھ اور چاهے تو وهی حد سے بڑھنے والے هیں",
     "persian_text": "پس هر که فراتر از این بخواهد، آنان تجاوزکارانند",
     "transliteration": "Famanib taghaa waraaa'a zaalika fa ulaaa'ika humul 'aadoon"
@@ -121,7 +121,7 @@ ayats = [
   {
     "verse_number": 15,
     "english_text": "Then you are all going to die.",
-    "arabic_text": "ثُمَّ اِنَّكُم بَعْدَ ذَٰلِكَ لَمَيِّتُونَ",
+    "arabic_text": "ثُمَّ اِنَّكُم بَعْدَ ذٰلِكَ لَمَيِّتُونَ",
     "urdu_text": "پھر بیشک تم سب اس کے بعد مرنے والے هو۔",
     "persian_text": "سپس به راستی شما پس از آن همگی خواهید مرد.",
     "transliteration": "Thumma innakum ba'da zaalika lamayyitoon"
@@ -153,7 +153,7 @@ ayats = [
   {
     "verse_number": 19,
     "english_text": "Then with this water We created the gardens of palms and grapes in which ample of fruits are found, and you eat also some from them.",
-    "arabic_text": "فَاَنشَاْنَا لَكُم بِهِ جَنَّـٰتٍۢ مِّن نَّخِيلٍۢ وَاَعْنَـٰبٍۢ لَّكُمْ فِيهَا فَوَٰكِهُ كَثِيرَةٌۭ وَمِنْهَا تَاْكُلُونَ",
+    "arabic_text": "فَاَنشَاْنَا لَكُم بِهِ جَنَّـٰتٍۢ مِّن نَّخِيلٍۢ وَاَعْنَـٰبٍۢ لَّكُمْ فِيهَا فَوَٰكِهُ كَثِيرَةٌۭ وَ مِنْهَا تَاْكُلُونَ",
     "urdu_text": "پھر هم نے اس پانی سے تمهارے لیے کھجوروں اور انگوروں کے باغ اُگائے جن میں تمهارے لیے بهت سے پھل هیں، اور تم ان میں سے کھاتے بھی هو۔",
     "persian_text": "پس با آن برای شما باغ‌هایی از درختان خرما و انگور پدید آوردیم که در آن‌ها میوه‌های فراوان برای شماست و از آن‌ها می‌خورید.",
     "transliteration": "Fa-ansha'naa lakum bihee jannaatim min nakheelinw wa a'naabin lakum feehaa fawaakihu katheeratunw wa minhaa ta'kuloon"
@@ -169,7 +169,7 @@ ayats = [
   {
     "verse_number": 21,
     "english_text": "And verily there is a lesson for you in the animals, and in their bellies, there is substance for your fulfilment, and there are many advantages in it and you also eat from it.",
-    "arabic_text": "وَاِنَّ لَكُمْ فِى الْاَنْعَـٰمِ لَعِبْرَةًۭ ۖ نُّسْقِيكُم مِّمَّا فِى بُطُونِهَا وَلَكُمْ فِيهَا مَنَـٰفِعُ كَثِيرَةٌۭ وَمِنْهَا تَاْكُلُونَ",
+    "arabic_text": "وَاِنَّ لَكُمْ فِى الْاَنْعَـٰمِ لَعِبْرَةًۭ ۖ نُّسْقِيكُم مِّمَّا فِى بُطُونِهَا وَلَكُمْ فِيهَا مَنَـٰفِعُ كَثِيرَةٌۭ وَ مِنْهَا تَاْكُلُونَ",
     "urdu_text": "اور بیشک تمهارے لیے چوپایوں میں عبرت هے، هم تمهیں ان کے پیٹوں میں سے پلاتے هیں، اور تمهارے لیے ان میں بهت سے فائدے هیں، اور تم ان میں سے کھاتے بھی هو۔",
     "persian_text": "و همانا برای شما در چهارپایان عبرتی است، ما شما را از آنچه در شکم آنهاست سیراب می‌کنیم، و برای شما در آنها منافع بسیاری است و از آنها می‌خورید.",
     "transliteration": "Wa inna lakum fil-an'aami la'ibrah, nusqeekum mimmaa fee butoonihaa wa lakum feehaa manaafi'u katheeratun wa minhaa ta'kuloon"
@@ -241,7 +241,7 @@ ayats = [
   {
     "verse_number": 30,
     "english_text": "In this there are many of Our signs, We only take tests (from you).",
-    "arabic_text": "اِنَّ فِى ذَٰلِكَ لَـَٔايَـٰتٍۢ وَاِن كُنَّا لَمُبْتَلِينَ",
+    "arabic_text": "اِنَّ فِى ذٰلِكَ لَـَٔايَـٰتٍۢ وَاِن كُنَّا لَمُبْتَلِينَ",
     "urdu_text": "بیشک اس میں هماری بهت سی نشانیاں هیں، اور هم ضرور آزمانے والے هیں۔",
     "persian_text": "همانا در این نشانه‌های بسیاری است و ما قطعاً آزمایندگانیم.",
     "transliteration": "Inna fee dhaalika la-aayaatin wa in kunnaa lamubtaleen"
@@ -505,7 +505,7 @@ ayats = [
   {
     "verse_number": 63,
     "english_text": "Whereas their hearts are drowned in total ignorance, and they have a different set of deeds which they follow.",
-    "arabic_text": "بَلْ قُلُوبُهُمْ فِى غَمْرَةٍۢ مِّنْ هَـٰذَا وَلَهُمْ اَعْمَـٰلٌۭ مِّن دُونِ ذَٰلِكَ هُمْ لَهَا عَـٰمِلُونَ",
+    "arabic_text": "بَلْ قُلُوبُهُمْ فِى غَمْرَةٍۢ مِّنْ هَـٰذَا وَلَهُمْ اَعْمَـٰلٌۭ مِّن دُونِ ذٰلِكَ هُمْ لَهَا عَـٰمِلُونَ",
     "urdu_text": "بلکه ان کے دل اس سے غفلت میں ڈوبے هوئے هیں، اور ان کے اور اعمال هیں جو وه کرتے رهتے هیں۔",
     "persian_text": "بلکه دل‌های آنان در غفلت از این غرق است، و اعمال دیگری دارند که آنها را انجام می‌دهند.",
     "transliteration": "Bal quloobuhum fee ghamratin min haazaa wa lahum a'maalun min dooni zaalika hum lahaa 'aamiloon"
@@ -801,7 +801,7 @@ ayats = [
   {
     "verse_number": 100,
     "english_text": "I may do some good deeds, ney, this is one thing which he is saying; and behind them there is a Barrier, which will remain until the Day of Judgement.",
-    "arabic_text": "لَعَلِّىٓ اَعْمَلُ صَـٰلِحًۭا فِيمَا تَرَكْتُ ۚ كَلَّآ ۚ اِنَّهَا كَلِمَةٌ هُوَ قَآئِلُهَا ۖ وَمِن وَرَآئِهِم بَرْزَخٌ اِلـٰى يَوْمِ يُبْعَثُونَ",
+    "arabic_text": "لَعَلِّىٓ اَعْمَلُ صَـٰلِحًۭا فِيمَا تَرَكْتُ ۚ كَلَّآ ۚ اِنَّهَا كَلِمَةٌ هُوَ قَآئِلُهَا ۖ وَ مِن وَرَآئِهِم بَرْزَخٌ اِلـٰى يَوْمِ يُبْعَثُونَ",
     "urdu_text": "تاکه میں نیک عمل کروں جو میں نے چھوڑ دیا تھا۔ هرگز نهیں! یه تو محض ایک بات هے جو وه کهه رها هے، اور ان کے پیچھے ایک برزخ هے جو قیامت کے دن تک رهے گا۔",
     "persian_text": "شاید کار نیکی انجام دهم در آنچه ترک کردم. هرگز! این سخنی است که او می‌گوید، و پشت سر آنان برزخی است تا روز رستاخیز.",
     "transliteration": "La'allī a'malu ṣāliḥan fīmā tarakt, kallā innahā kalimatun huwa qā'iluhā wa min warā'ihim barzakhun ilā yawmi yub'athūn"

@@ -73,7 +73,7 @@ ayats = [
   {
     "verse_number": 9,
     "english_text": "And We have made one wall in front of them and one wall on their back, and then have covered them with punishment, they are unable to see anything.",
-    "arabic_text": "وَجَعَلْنَا مِنۢ بَيْنِ اَيْدِيهِمْ سَدًّۭا وَمِنْ خَلْفِهِمْ سَدًّۭا فَاَغْشَيْنَـٰهُمْ فَهُمْ لَا يُبْصِرُونَ",
+    "arabic_text": "وَجَعَلْنَا مِنۢ بَيْنِ اَيْدِيهِمْ سَدًّۭا وَ مِنْ خَلْفِهِمْ سَدًّۭا فَاَغْشَيْنَـٰهُمْ فَهُمْ لَا يُبْصِرُونَ",
     "urdu_text": "اور ہم نے ان کے آگے ایک دیوار اور ان کے پیچھے ایک دیوار بنا دی، پھر ہم نے انہیں ڈھانپ دیا، پس وہ کچھ نہیں دیکھ سکتے",
     "persian_text": "و از پیش رویشان سدی و از پشت سرشان سدی قرار دادیم، سپس آنان را پوشاندیم، پس نمی‌بینند",
     "transliteration": "Wa ja'alna mim bayni aydeehim saddan wa min khalfihim saddan fa-aghshaynahum fahum la yubsiroon"
@@ -289,7 +289,7 @@ ayats = [
   {
     "verse_number": 36,
     "english_text": "Pure and Self-Sufficient is that Lord who created all the pairs which grow on earth; and from their souls and from the things of which they do not have any knowledge.",
-    "arabic_text": "سُبْحَـٰنَ الَّذِى خَلَقَ الْاَزْوَٰجَ كُلَّهَا مِمَّا تُنۢبِتُ الْاَرْضُ وَمِنْ اَنفُسِهِمْ وَمِمَّا لَا يَعْلَمُونَ",
+    "arabic_text": "سُبْحَـٰنَ الَّذِى خَلَقَ الْاَزْوَٰجَ كُلَّهَا مِمَّا تُنۢبِتُ الْاَرْضُ وَ مِنْ اَنفُسِهِمْ وَمِمَّا لَا يَعْلَمُونَ",
     "urdu_text": "پاک ہے وہ ذات جس نے تمام جوڑے پیدا کیے، جو زمین سے اُگتے ہیں اور خود ان کی جانوں سے اور ان چیزوں سے جن کا انہیں علم نہیں۔",
     "persian_text": "منزه است آن ذاتی که همه جفت‌ها را آفرید از آنچه زمین می‌رویاند و از خود آنان و از آنچه نمی‌دانند.",
     "transliteration": "Subhānallathee khalaqal-azwāja kullahā mimmā tunbitul-ardu wa min anfusihim wa mimmā lā ya'lamoon"
@@ -305,7 +305,7 @@ ayats = [
   {
     "verse_number": 38,
     "english_text": "And the sun is running on its center point, this movement is established by the Mighty and Knowledgeable Allah.",
-    "arabic_text": "وَالشَّمْسُ تَجْرِى لِمُسْتَقَرٍّۢ لَّهَا ۚ ذَٰلِكَ تَقْدِيرُ الْعَزِيزِ الْعَلِيمِ",
+    "arabic_text": "وَالشَّمْسُ تَجْرِى لِمُسْتَقَرٍّۢ لَّهَا ۚ ذٰلِكَ تَقْدِيرُ الْعَزِيزِ الْعَلِيمِ",
     "urdu_text": "اور سورج اپنے ٹھکانے کی طرف چل رہا ہے، یہ زبردست اور جاننے والے اللہ کا مقرر کردہ حساب ہے۔",
     "persian_text": "و خورشید به سوی قرارگاه خود در حرکت است، این تقدیر خداوند توانا و دانای است.",
     "transliteration": "Wash-shamsu tajree limustaqarrin lahā thālika taqdeerul-'azeezil-'aleem"
@@ -577,7 +577,7 @@ ayats = [
   {
     "verse_number": 72,
     "english_text": "Then We made the animals submissive to them, so they use some of them for riding and eat some of them.",
-    "arabic_text": "وَذَلَّلْنَـٰهَا لَهُمْ فَمِنْهَا رَكُوبُهُمْ وَمِنْهَا يَاْكُلُونَ",
+    "arabic_text": "وَذَلَّلْنَـٰهَا لَهُمْ فَمِنْهَا رَكُوبُهُمْ وَ مِنْهَا يَاْكُلُونَ",
     "urdu_text": "اور ہم نے ان جانوروں کو ان کے لیے مسخر کر دیا، پس ان میں سے کچھ پر وہ سوار ہوتے ہیں اور کچھ کو کھاتے ہیں۔",
     "persian_text": "و آنها را برای آنان رام ساختیم، پس بعضی از آنها را سواری می‌کنند و از بعضی می‌خورند.",
     "transliteration": "Wa dhallalnaha lahum faminha rakoobuhum wa minha ya'kuloon"

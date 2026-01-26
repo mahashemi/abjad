@@ -9,7 +9,7 @@ ayats = [
   {
     "verse_number": 1,
     "english_text": "O Prophet! Why are you withholding yourself from what Allah has made lawful for you, are you desirous of pleasing your wives; Allah is All-Forgiving and Most Merciful.",
-    "arabic_text": "يٰٓاَيُّهَا النَّبِىُّ لِمَ تُحَرِّمُ مَآ اَحَلَّ اللّٰهُ لَكَ ۖ تَبْتَغِى مَرْضَاتَ اَزْوَٰجِكَ ۚ وَاللّٰهُ غَفُورٌۭ رَّحِيمٌۭ",
+    "arabic_text": "يٰٓاَيُّهَا النَّبِىُّ لِمَ تُحَرِّمُ مَآ اَحَلَّ اللّٰهُ لَكَ ۖ تَبْتَغِى مَرْضَاتَ اَزْوَٰجِكَ ۚ وَ اللّٰهُ غَفُورٌۭ رَّحِيمٌۭ",
     "urdu_text": "اے نبی! آپ اس چیز کو کیوں حرام کر رهے هیں جو الله نے آپ کے لیے حلال کی هے، کیا آپ اپنی بیویوں کی خوشنودی چاهتے هیں؟ اور الله بخشنے والا مهربان هے۔",
     "persian_text": "ای پیامبر! چرا آنچه را که خداوند برای تو حلال کرده، بر خود حرام می‌کنی؟ آیا می‌خواهی همسرانت را خشنود سازی؟ و خداوند آمرزنده و مهربان است.",
     "transliteration": "Yaa ayyuhan-nabiyyu lima tuharrimu maa ahallal-laahu laka tabtaghee mardaata azwaajika wallahu ghafoorun raheem"
@@ -17,7 +17,7 @@ ayats = [
   {
     "verse_number": 2,
     "english_text": "Allah has obliged that you end your oaths by giving expiation, and Allah is your Master, and He is the Knower of all things and has Wisdom.",
-    "arabic_text": "قَدْ فَرَضَ اللّٰهُ لَكُمْ تَحِلَّةَ اَيْمَـٰنِكُمْ ۚ وَاللّٰهُ مَوْلَىٰكُمْ ۖ وَهُوَ الْعَلِيمُ الْحَكِيمُ",
+    "arabic_text": "قَدْ فَرَضَ اللّٰهُ لَكُمْ تَحِلَّةَ اَيْمَـٰنِكُمْ ۚ وَ اللّٰهُ مَوْلَىٰكُمْ ۖ وَهُوَ الْعَلِيمُ الْحَكِيمُ",
     "urdu_text": "الله نے تمهارے لیے تمهاری قسموں کا کفاره مقرر کر دیا هے، اور الله تمهارا مولیٰ هے، اور وه جاننے والا حکمت والا هے۔",
     "persian_text": "خداوند برای شما کفاره سوگندهایتان را مقرر فرموده است، و خداوند سرپرست شماست، و او دانای حکیم است.",
     "transliteration": "Qad faradal-laahu lakum tahillata aymanikum wallahu mawlaakum wa huwal-aleemul-hakeem"
@@ -33,7 +33,7 @@ ayats = [
   {
     "verse_number": 4,
     "english_text": "Now both of you seek repentance, crookedness has developed in your hearts, otherwise if you will back up each other against him, then remember, Allah is his Guardian and Gabriel, and righteous believers and angels all are his helpers.",
-    "arabic_text": "اِن تَتُوبَآ اِلَى اللّٰهِ فَقَدْ صَغَتْ قُلُوبُكُمَا ۖ وَاِن تَظَـٰهَرَا عَلَيْهِ فَاِنَّ اللّٰهَ هُوَ مَوْلَىٰهُ وَجِبْرِيلُ وَصَـٰلِحُ الْمُؤْمِنِينَ ۖ وَالْمَلَـٰٓئِكَةُ بَعْدَ ذَٰلِكَ ظَهِيرٌ",
+    "arabic_text": "اِن تَتُوبَآ اِلَى اللّٰهِ فَقَدْ صَغَتْ قُلُوبُكُمَا ۖ وَاِن تَظَـٰهَرَا عَلَيْهِ فَاِنَّ اللّٰهَ هُوَ مَوْلَىٰهُ وَجِبْرِيلُ وَصَـٰلِحُ الْمُؤْمِنِينَ ۖ وَالْمَلَـٰٓئِكَةُ بَعْدَ ذٰلِكَ ظَهِيرٌ",
     "urdu_text": "اگر تم دونوں الله کی طرف توبه کرو تو بهتر هے کیونکه تمهارے دل ٹیڑھے هو گئے هیں، اور اگر تم دونوں نبی کے خلاف ایک دوسرے کی مدد کرو گی تو یاد رکھو که الله ان کا مولیٰ هے اور جبریل اور نیک مومن اور اس کے بعد فرشتے بھی ان کے مددگار هیں۔",
     "persian_text": "اگر شما دو نفر به سوی خداوند توبه کنید، پس دلهای شما منحرف شده است، و اگر بر ضد او با هم همکاری کنید، پس بدانید که خداوند یار اوست و جبرئیل و صالحان مؤمنان، و فرشتگان نیز پس از آن یاورانند.",
     "transliteration": "In tatoobaa ilal-laahi faqad saghat quloobukumaa wa in tazaaharaa 'alayhi fa-innal-laaha huwa mawlaahu wa jibreelu wa saalihul-mu'mineena walmalaa'ikatu ba'da dhaalika dhaheer"

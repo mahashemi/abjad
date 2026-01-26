@@ -281,7 +281,7 @@ ayats = [
   {
     "verse_number": 35,
     "english_text": "This was one of Our favors, and like this We reward Our thankful servants.",
-    "arabic_text": "نِّعْمَةًۭ مِّنْ عِندِنَا ۚ كَذَٰلِكَ نَجْزِى مَن شَكَرَ",
+    "arabic_text": "نِّعْمَةًۭ مِّنْ عِندِنَا ۚ كَذٰلِكَ نَجْزِى مَن شَكَرَ",
     "urdu_text": "یہ ہماری طرف سے ایک نعمت تھی، اسی طرح ہم شکر گزاروں کو جزا دیتے ہیں۔",
     "persian_text": "این نعمتی از جانب ما بود، اینچنین کسی را که سپاسگزاری کند پاداش می‌دهیم.",
     "transliteration": "Ni'matan min 'indinaa kazaalika najzee man shakar"

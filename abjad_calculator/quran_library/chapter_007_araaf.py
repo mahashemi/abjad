@@ -250,7 +250,7 @@ ayats = [
   {
     "verse_number": 32,
     "english_text": "O Prophet! ask them, who has prohibited things of adornment, and good provision, which have been created by Allah for His servants? You tell them that these good provisions are purely for them on the Day of Judgement who were believers in the life of this world, in this way we explain Our verses for the sensible persons.",
-    "arabic_text": "قُلْ مَنْ حَرَّمَ زِيْنَةَ اللّٰهِ الَّتِىْٓ اَخْرَجَ لِعِبَادِهِ وَ الطَّيِّبٰتِ مِنَ الرِّزْقِ ۚ قُلْ هِىَ لِلَّذِينَ اٰمَنُوا فِى الْحَيٰوةِ الدُّنْيٰخَالِصَةً يَوْمَ الْقِيٰمَةِ كَذٰلِكَ نُفَصِّلُ الْاٰيٰتِ لِقَوْمٍ يَّعْلَمُوْنَ",
+    "arabic_text": "قُلْ مَنْ حَرَّمَ زِيْنَةَ اللّٰهِ الَّتِىْٓ اَخْرَجَ لِعِبَادِهِ وَ الطَّيِّبٰتِ مِنَ الرِّزْقِ ۚ قُلْ هِىَ لِلَّذِينَ اٰمَنُوا فِى الْحَيٰوةِ الدُّنْيَا خَالِصَةً يَوْمَ الْقِيٰمَةِ كَذٰلِكَ نُفَصِّلُ الْاٰيٰتِ لِقَوْمٍ يَّعْلَمُوْنَ",
     "urdu_text": "آپ کہہ دیجیے کہ اللہ کی زینت کو جو اس نے اپنے بندوں کے لیے پیدا کی ہے اور پاکیزہ رزق کو کس نے حرام کیا ہے؟ آپ کہہ دیجیے کہ یہ چیزیں دنیا کی زندگی میں ایمان والوں کے لیے ہیں اور قیامت کے دن خاص ان ہی کے لیے ہوں گی، اس طرح ہم آیتوں کو تفصیل سے بیان کرتے ہیں ان لوگوں کے لیے جو علم رکھتے ہیں۔",
     "persian_text": "بگو چه کسی زینت خدا را که برای بندگانش بیرون آورده و روزی‌های پاکیزه را حرام کرده است؟ بگو اینها در زندگی دنیا برای مؤمنان است و در روز قیامت خالصاً از آنِ آنهاست، اینچنین آیات را برای قومی که می‌دانند تفصیل می‌دهیم.",
     "transliteration": "Qul man harrama zeenatal laahil latee akhraja li'ibaadihi wat tayyibaati minar rizq qul hiya lillazeena aamanoo fil hayaatid dunya khalisatan yawmal qiyaamah kazaalika nufassilul aayaati liqawminy ya'lamoon",
@@ -402,7 +402,7 @@ ayats = [
   {
     "verse_number": 51,
     "english_text": "Who had made their religion a play and the life of world has deceived them, so today (Day of Judgement) We will intentionally forget them, the way they had forgotten that they will be presented today, and used to deny Our verses.",
-    "arabic_text": "الَّذِيْنَ اتَّخَذُوْا دِيْنَهُمْ لَهْوًا وَ لَعِبًا وَّ غَرَّتْهُمُ الْحَيٰوةُ الدُّنْيٰفَالْيَوْمَ نَنْسٰهُمْ كَمَا نَسُوا لِقَآءَ يَوْمِهِمْ هٰذَا وَ مَآ كَانُوا بِاٰيَاتِنَا يُجْحَدُوْنَ",
+    "arabic_text": "الَّذِيْنَ اتَّخَذُوْا دِيْنَهُمْ لَهْوًا وَ لَعِبًا وَّ غَرَّتْهُمُ الْحَيٰوةُ الدُّنْيَا فَالْيَوْمَ نَنْسٰهُمْ كَمَا نَسُوا لِقَآءَ يَوْمِهِمْ هٰذَا وَ مَآ كَانُوا بِاٰيَاتِنَا يُجْحَدُوْنَ",
     "urdu_text": "جنہوں نے اپنے دین کو کھیل تماشہ بنا لیا اور دنیا کی زندگی نے انہیں دھوکے میں ڈال دیا، تو آج ہم انہیں بھلا دیں گے جیسے انہوں نے اس دن کی حاضری کو بھلا دیا تھا اور ہماری آیات کا انکار کرتے رہے۔",
     "persian_text": "کسانی که دین خود را بازی و سرگرمی قرار دادند و زندگی دنیا آنها را فریب داد، پس امروز ما آنها را فراموش می‌کنیم همان‌گونه که آنها ملاقات این روز خود را فراموش کردند و آیات ما را انکار می‌کردند.",
     "transliteration": "Alladheenat takhadhoo deenahum lahwan wa la'iban wa gharrat humul hayaatud dunya fal yawma nansaahum kama nasoo liqaa'a yawmihim hadha wa ma kanoo bi ayatina yajhadoon",
@@ -1210,7 +1210,7 @@ ayats = [
   {
     "verse_number": 152,
     "english_text": "Verily, whoever adopted (idol of) calf, wrath of Allah will shortly befall on them, there is humiliation for them in this world also; and like this that We give punishment to those who falsely accuse.",
-    "arabic_text": "اِنَّ الَّذِيْنَ اتَّخَذُوا الْعِجْلَ سَيَنَالُهُمْ غَضَبٌ مِّن رَّبِّهِمْ وَ ذِلَّةٌ فِى الْحَيٰوةِ الدُّنْيٰوَ كَذٰلِكَ نَجْزِى الْمُفْتَرِيْنَ",
+    "arabic_text": "اِنَّ الَّذِيْنَ اتَّخَذُوا الْعِجْلَ سَيَنَالُهُمْ غَضَبٌ مِّن رَّبِّهِمْ وَ ذِلَّةٌ فِى الْحَيٰوةِ الدُّنْيَا وَ كَذٰلِكَ نَجْزِى الْمُفْتَرِيْنَ",
     "urdu_text": "بیشک جن لوگوں نے بچھڑے کو معبود بنایا، عنقریب ان پر ان کے رب کا غضب نازل ہوگا اور دنیا کی زندگی میں ان کے لیے ذلت ہے، اور اسی طرح ہم جھوٹ گھڑنے والوں کو سزا دیتے ہیں",
     "persian_text": "همانا کسانی که گوساله را برگزیدند، به زودی خشم پروردگارشان بر آنان فرود خواهد آمد و در زندگی دنیا خواری برای آنان است و این گونه تهمت‌زنان را کیفر می‌دهیم",
     "transliteration": "Innal-ladhina attakhadhul-'ijla sayanaluhum ghadabun min rabbihim wa dhillatun fil-hayatid-dunya wa kadhalika najzil-muftarin",
@@ -1242,7 +1242,7 @@ ayats = [
   {
     "verse_number": 156,
     "english_text": "And do write for us good in this world and the Hereafter, we turn to You only; said He: my punishment, it will reach to those to whoever I please, and My Mercy has spread over everything and I will shortly write it for who have fear of Allah, pays poor-rate, and are believers of our signs.",
-    "arabic_text": "وَ اكْتُبْ لَنَا فِى هٰذِهِ الدُّنْيٰحَسَنَةً وَ فِى الْآخِرَةِ اِنَّا هُدْنَآ اِلَيْكَ قَالَ عَذَابِٓى اُصِيْبُ بِهِ مَنْ اَشَآءُ وَ رَحْمَتِى وَسِعَتْ كُلَّ شَيْءٍ فَسَاَكْتُبُهَا لِلَّذِيْنَ يَتَّقُوْنَ وَ يُؤْتُوْنَ الزَّكٰوةَ وَ الَّذِينَ هُم بِاٰيَاتِنَا يُؤْمِنُوْنَ",
+    "arabic_text": "وَ اكْتُبْ لَنَا فِى هٰذِهِ الدُّنْيَا حَسَنَةً وَ فِى الْآخِرَةِ اِنَّا هُدْنَآ اِلَيْكَ قَالَ عَذَابِٓى اُصِيْبُ بِهِ مَنْ اَشَآءُ وَ رَحْمَتِى وَسِعَتْ كُلَّ شَيْءٍ فَسَاَكْتُبُهَا لِلَّذِيْنَ يَتَّقُوْنَ وَ يُؤْتُوْنَ الزَّكٰوةَ وَ الَّذِينَ هُم بِاٰيَاتِنَا يُؤْمِنُوْنَ",
     "urdu_text": "اور ہمارے لیے اس دنیا میں بھی بھلائی لکھ دے اور آخرت میں بھی، بیشک ہم تیری طرف رجوع کرتے ہیں۔ اللہ نے فرمایا: میرا عذاب، میں جس پر چاہوں نازل کروں گا، اور میری رحمت ہر چیز پر وسیع ہے، پس میں عنقریب اسے ان لوگوں کے لیے لکھ دوں گا جو تقویٰ اختیار کرتے ہیں، زکوٰۃ ادا کرتے ہیں، اور جو ہماری آیات پر ایمان لاتے ہیں۔",
     "persian_text": "و برای ما در این دنیا نیکی بنویس و در آخرت نیز، همانا ما به سوی تو بازگشتیم. فرمود: عذاب من را به هر که بخواهم می‌رسانم، و رحمت من همه چیز را فراگرفته است، پس به زودی آن را برای کسانی خواهم نوشت که تقوا پیشه می‌کنند و زکات می‌دهند و کسانی که به آیات ما ایمان دارند.",
     "transliteration": "Waktub lana fi hadhihid-dunya hasanatanw wa fil-akhirati inna hudna ilayk, qala 'adhabi useebu bihi man asha'u wa rahmati wasi'at kulla shay'in fasaaktubuha lilladhina yattaquna wa yu'tunaz-zakata walladhina hum bi-ayatina yu'minun",

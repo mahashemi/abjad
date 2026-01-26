@@ -25,7 +25,7 @@ ayats = [
   {
     "verse_number": 3,
     "english_text": "This is because infidels did follow the falsehood and people of faith did follow the Truth which came from their Lord, and like this Allah describes the examples for the people.",
-    "arabic_text": "ذَٰلِكَ بِاَنَّ الَّذِينَ كَفَرُواْ اتَّبَعُواْ الْبَـٰطِلَ وَاَنَّ الَّذِينَ ءَامَنُواْ اتَّبَعُواْ الْحَقَّ مِن رَّبِّهِمْ ۚ كَذَٰلِكَ يَضْرِبُ اللّٰهُ لِلنَّاسِ اَمْثَـٰلَهُمْ",
+    "arabic_text": "ذٰلِكَ بِاَنَّ الَّذِينَ كَفَرُواْ اتَّبَعُواْ الْبَـٰطِلَ وَاَنَّ الَّذِينَ ءَامَنُواْ اتَّبَعُواْ الْحَقَّ مِن رَّبِّهِمْ ۚ كَذٰلِكَ يَضْرِبُ اللّٰهُ لِلنَّاسِ اَمْثَـٰلَهُمْ",
     "urdu_text": "یه اس لیے که کافروں نے باطل کی پیروی کی اور ایمان والوں نے حق کی پیروی کی جو ان کے رب کی طرف سے آیا، اور اسی طرح الله لوگوں کے لیے مثالیں بیان فرماتا هے۔",
     "persian_text": "این بدان سبب است که کافران از باطل پیروی کردند و مؤمنان از حقی که از جانب پروردگارشان آمده پیروی نمودند، اینگونه خداوند برای مردم مثال‌ها را بیان می‌کند.",
     "transliteration": "Dhālika bi'annal-ladhīna kafarut-taba'ul-bāṭila wa annal-ladhīna āmanut-taba'ul-ḥaqqa mir-rabbihim kadhālika yaḍribullāhu lin-nāsi amthālahum"
@@ -33,7 +33,7 @@ ayats = [
   {
     "verse_number": 4,
     "english_text": "When the infidels come to confront you, smite their necks until they are injured with wounds do tie their arms, thereafter either leave them as a favour or take ransom (and leave them) until they lay down their weapons, remember, if Allah pleased He would have taken the recompense Himself but He wish to test one through another, those who have been slain in His way Allah cannot waste their deeds.",
-    "arabic_text": "فَاِذَا لَقِيتُمُ الَّذِينَ كَفَرُواْ فَضَرْبَ الرِّقَابِ حَتَّىٰٓ اِذَآ اَثْخَنتُمُوهُمْ فَشُدُّواْ الْوَثَاقَ فَاِمَّا مَنًّۢا بَعْدُ وَاِمَّا فِدَآءً حَتَّىٰ تَضَعَ الْحَرْبُ اَوْزَارَهَا ۚ ذَٰلِكَ وَ لَوْ يَشَآءُ اللّٰهُ لَانتَصَرَ مِنْهُمْ وَلَـٰكِن لِّيَبْلُوَاْ بَعْضَكُم بِبَعْضٍۢ ۗ وَالَّذِينَ قُتِلُواْ فِى سَبِيلِ اللّٰهِ فَلَن يُضِلَّ اَعْمَـٰلَهُمْ",
+    "arabic_text": "فَاِذَا لَقِيتُمُ الَّذِينَ كَفَرُواْ فَضَرْبَ الرِّقَابِ حَتَّىٰٓ اِذَآ اَثْخَنتُمُوهُمْ فَشُدُّواْ الْوَثَاقَ فَاِمَّا مَنًّۢا بَعْدُ وَاِمَّا فِدَآءً حَتَّىٰ تَضَعَ الْحَرْبُ اَوْزَارَهَا ۚ ذٰلِكَ وَ لَوْ يَشَآءُ اللّٰهُ لَانتَصَرَ مِنْهُمْ وَلَـٰكِن لِّيَبْلُوَاْ بَعْضَكُم بِبَعْضٍۢ ۗ وَالَّذِينَ قُتِلُواْ فِى سَبِيلِ اللّٰهِ فَلَن يُضِلَّ اَعْمَـٰلَهُمْ",
     "urdu_text": "پس جب تمهارا کافروں سے مقابله هو تو گردنیں مارو یهاں تک که جب تم انهیں زخمی کر دو تو رسیاں مضبوط باندھ دو، پھر اس کے بعد یا تو احسان کر کے چھوڑ دو یا فدیه لے کر، یهاں تک که جنگ اپنے هتھیار رکھ دے، یه حکم هے، اور اگر الله چاهتا تو خود ان سے بدله لے لیتا لیکن وه تم میں سے ایک کو دوسرے کے ذریعے آزمانا چاهتا هے، اور جو لوگ الله کی راه میں شهید هوئے الله ان کے اعمال ضائع نهیں کرے گا۔",
     "persian_text": "پس هنگامی که با کافران روبرو شدید، گردن‌ها را بزنید تا آنگاه که آنان را سخت مجروح ساختید، پس بندها را محکم کنید، سپس یا منت نهید و یا فدیه بگیرید تا جنگ بارهای خود را فرو نهد، این چنین است و اگر خدا می‌خواست خود از آنان انتقام می‌گرفت ولی می‌خواهد بعضی از شما را به وسیله بعضی دیگر بیازماید، و کسانی که در راه خدا کشته شدند، خداوند هرگز اعمالشان را تباه نخواهد کرد.",
     "transliteration": "Fa'idhā laqītumul-ladhīna kafarū faḍarbar-riqābi ḥattā idhā athkhantumūhum fashuddūl-wathāqa fa'immā mannam ba'du wa immā fidā'an ḥattā taḍa'al-ḥarbu awzārahā dhālika wa law yashā'ullāhu lantaṣara minhum walākin liyabluwā ba'ḍakum biba'ḍ walladhīna qutilū fī sabīlillāhi falan yuḍilla a'mālahum"
@@ -73,7 +73,7 @@ ayats = [
   {
     "verse_number": 9,
     "english_text": "This is because they thought evil about the commands revealed by Allah, so Allah also rendered their deeds null.",
-    "arabic_text": "ذَٰلِكَ بِاَنَّهُمْ كَرِهُواْ مَآ اَنزَلَ اللّٰهُ فَاَحْبَطَ اَعْمَـٰلَهُمْ",
+    "arabic_text": "ذٰلِكَ بِاَنَّهُمْ كَرِهُواْ مَآ اَنزَلَ اللّٰهُ فَاَحْبَطَ اَعْمَـٰلَهُمْ",
     "urdu_text": "یه اس لیے که انهوں نے اس چیز کو ناپسند کیا جو الله نے نازل فرمائی، تو الله نے ان کے اعمال اکارت کر دیے۔",
     "persian_text": "این بدان سبب است که آنچه را خدا نازل کرده بود ناخوش داشتند، پس خداوند اعمالشان را باطل ساخت.",
     "transliteration": "Dhālika bi'annahum karihū mā anzalallāhu fa'aḥbaṭa a'mālahum"
@@ -89,7 +89,7 @@ ayats = [
   {
     "verse_number": 11,
     "english_text": "This is all because Allah is the Guardian of the people of the faith and there is no guardian for the infidels.",
-    "arabic_text": "ذَٰلِكَ بِاَنَّ اللّٰهَ مَوْلَى الَّذِينَ ءَامَنُواْ وَاَنَّ الْكَـٰفِرِينَ لَا مَوْلَىٰ لَهُمْ",
+    "arabic_text": "ذٰلِكَ بِاَنَّ اللّٰهَ مَوْلَى الَّذِينَ ءَامَنُواْ وَاَنَّ الْكَـٰفِرِينَ لَا مَوْلَىٰ لَهُمْ",
     "urdu_text": "یه اس لیے هے که الله ایمان والوں کا مولیٰ هے اور کافروں کا کوئی مولیٰ نهیں۔",
     "persian_text": "این بدان سبب است که خداوند سرپرست مؤمنان است و کافران هیچ سرپرستی ندارند.",
     "transliteration": "Dhālika bi'anna Allāha mawlā alladhīna āmanū wa anna al-kāfirīna lā mawlā lahum"
@@ -129,7 +129,7 @@ ayats = [
   {
     "verse_number": 16,
     "english_text": "And among them are some people who seem to listen to you attentively, and when they go away from you (they) ask those who have been given the knowledge that what was it that he said just now; these are the people whose hearts have been sealed, and they are following their desires.",
-    "arabic_text": "وَمِنْهُم مَّن يَسْتَمِعُ اِلَيْكَ حَتَّىٰٓ اِذَا خَرَجُواْ مِنْ عِندِكَ قَالُوْاْ لِلَّذِينَ اُوتُواْ الْعِلْمَ مَاذَا قَالَ ءَانِفًا ۚ اُو۟لَـٰٓئِكَ الَّذِينَ طَبَعَ اللّٰهُ عَلَىٰ قُلُوبِهِمْ وَاتَّبَعُوٓاْ اَهْوَآءَهُمْ",
+    "arabic_text": "وَ مِنْهُم مَّن يَسْتَمِعُ اِلَيْكَ حَتَّىٰٓ اِذَا خَرَجُواْ مِنْ عِندِكَ قَالُوْاْ لِلَّذِينَ اُوتُواْ الْعِلْمَ مَاذَا قَالَ ءَانِفًا ۚ اُو۟لَـٰٓئِكَ الَّذِينَ طَبَعَ اللّٰهُ عَلَىٰ قُلُوبِهِمْ وَاتَّبَعُوٓاْ اَهْوَآءَهُمْ",
     "urdu_text": "اور ان میں سے کچھ لوگ هیں جو آپ کی بات غور سے سنتے هیں، لیکن جب وه آپ کے پاس سے نکل جاتے هیں تو علم والوں سے پوچھتے هیں که ابھی انهوں نے کیا کها تھا؟ یه وه لوگ هیں جن کے دلوں پر الله نے مهر لگا دی هے اور انهوں نے اپنی خواهشات کی پیروی کی هے۔",
     "persian_text": "و از آنها کسانی هستند که به تو گوش می‌دهند، اما وقتی از نزد تو بیرون می‌روند به کسانی که علم داده شده‌اند می‌گویند: الان چه گفت؟ اینها کسانی هستند که خداوند بر دلهایشان مهر زده و از هوای نفس خود پیروی کرده‌اند.",
     "transliteration": "Wa minhum man yastami'u ilayka ḥattā idhā kharajū min 'indika qālū lilladhīna ūtū al-'ilma mādhā qāla ānifan ulā'ika alladhīna ṭaba'a Allāhu 'alā qulūbihim wa attaba'ū ahwā'ahum"
@@ -153,7 +153,7 @@ ayats = [
   {
     "verse_number": 19,
     "english_text": "So understand that there is no god except Allah, and keep seeking forgiveness for you and your men and women who are people of faith; Allah is well aware of your movement and stillness.",
-    "arabic_text": "فَاعْلَمْ اَنَّهُ لَآ اِلَـٰهَ اِلَّا اللّٰهُ وَاسْتَغْفِرْ لِذَنۢبِكَ وَلِلْمُؤْمِنِينَ وَالْمُؤْمِنَـٰتِ ۗ وَاللّٰهُ يَعْلَمُ مُتَقَلَّبَكُمْ وَمَثْوَىٰكُمْ",
+    "arabic_text": "فَاعْلَمْ اَنَّهُ لَآ اِلَـٰهَ اِلَّا اللّٰهُ وَاسْتَغْفِرْ لِذَنۢبِكَ وَلِلْمُؤْمِنِينَ وَالْمُؤْمِنَـٰتِ ۗ وَ اللّٰهُ يَعْلَمُ مُتَقَلَّبَكُمْ وَمَثْوَىٰكُمْ",
     "urdu_text": "پس جان لو که الله کے سوا کوئی معبود نهیں، اور اپنے گناه کے لیے اور مومن مردوں اور مومن عورتوں کے لیے بخشش مانگتے رهو، اور الله تمهارے چلنے پھرنے اور ٹھهرنے کو خوب جانتا هے۔",
     "persian_text": "پس بدان که هیچ معبودی جز خداوند نیست، و برای گناهت و برای مردان و زنان مؤمن آمرزش بخواه، و خداوند جنبش و آرامگاه شما را می‌داند.",
     "transliteration": "Fa'lam annahu lā ilāha illā Allāhu wa astaghfir lidhanbika wa lilmu'minīna wa almu'mināti wa Allāhu ya'lamu mutaqallabakum wa mathwākum"
@@ -209,7 +209,7 @@ ayats = [
   {
     "verse_number": 26,
     "english_text": "This is because, they said to those who did not like the things revealed by Allah that in some matters we would obey you, and Allah is well aware from their secret talks.",
-    "arabic_text": "ذَٰلِكَ بِاَنَّهُمْ قَالُوْاْ لِلَّذِينَ كَرِهُواْ مَا نَزَّلَ اللّٰهُ سَنُطِيعُكُمْ فِى بَعْضِ الْاَمْرِ ۖ وَاللّٰهُ يَعْلَمُ اِسْرَارَهُمْ",
+    "arabic_text": "ذٰلِكَ بِاَنَّهُمْ قَالُوْاْ لِلَّذِينَ كَرِهُواْ مَا نَزَّلَ اللّٰهُ سَنُطِيعُكُمْ فِى بَعْضِ الْاَمْرِ ۖ وَ اللّٰهُ يَعْلَمُ اِسْرَارَهُمْ",
     "urdu_text": "یه اس لیے که انهوں نے ان لوگوں سے کها جو الله کے نازل کرده احکام کو ناپسند کرتے تھے که هم کچھ معاملات میں تمهاری اطاعت کریں گے، اور الله ان کی خفیه باتوں سے خوب واقف هے۔",
     "persian_text": "این بدان سبب است که به کسانی که از آنچه خدا نازل کرده بود ناخشنود بودند گفتند: در بعضی امور از شما اطاعت خواهیم کرد، و خداوند از رازهای آنان آگاه است.",
     "transliteration": "Zaalika bi-annahum qaaloo lillazeena karihoo maa nazzalal-laahu sanutee'ukum fee ba'dil-amr, wallaahu ya'lamu israarahum"
@@ -225,7 +225,7 @@ ayats = [
   {
     "verse_number": 28,
     "english_text": "This is because they followed the things which are displeasing to Allah, and (they) disliked His Will, so Allah also made their deeds null.",
-    "arabic_text": "ذَٰلِكَ بِاَنَّهُمُ اتَّبَعُواْ مَآ اَسْخَطَ اللّٰهَ وَكَرِهُواْ رِضْوَٰنَهُ فَاَحْبَطَ اَعْمَـٰلَهُمْ",
+    "arabic_text": "ذٰلِكَ بِاَنَّهُمُ اتَّبَعُواْ مَآ اَسْخَطَ اللّٰهَ وَكَرِهُواْ رِضْوَٰنَهُ فَاَحْبَطَ اَعْمَـٰلَهُمْ",
     "urdu_text": "یه اس لیے که انهوں نے ان چیزوں کی پیروی کی جو الله کو ناراض کرتی هیں اور اس کی رضا کو ناپسند کیا، تو الله نے ان کے اعمال برباد کر دیے۔",
     "persian_text": "این بدان سبب است که از آنچه خدا را خشمگین می‌کند پیروی کردند و از خشنودی او کراهت داشتند، پس اعمالشان را تباه ساخت.",
     "transliteration": "Zaalika bi-annahumut-taba'oo maa askhatallaha wa karihoo ridwaanahu fa-ahbata a'maalahum"
@@ -241,7 +241,7 @@ ayats = [
   {
     "verse_number": 30,
     "english_text": "And if We pleased, We would have shown them to you, and you would have recognized them from the expression of their faces, and you would certainly guess by their speech; and Allah is well aware of the deeds of all of you.",
-    "arabic_text": "وَ لَوْ نَشَآءُ لَاَرَيْنَـٰكَهُمْ فَلَعَرَفْتَهُم بِسِيمَـٰهُمْ ۚ وَلَتَعْرِفَنَّهُمْ فِى لَحْنِ الْقَوْلِ ۚ وَاللّٰهُ يَعْلَمُ اَعْمَـٰلَكُمْ",
+    "arabic_text": "وَ لَوْ نَشَآءُ لَاَرَيْنَـٰكَهُمْ فَلَعَرَفْتَهُم بِسِيمَـٰهُمْ ۚ وَلَتَعْرِفَنَّهُمْ فِى لَحْنِ الْقَوْلِ ۚ وَ اللّٰهُ يَعْلَمُ اَعْمَـٰلَكُمْ",
     "urdu_text": "اور اگر هم چاهتے تو انهیں تمهیں دکھا دیتے، پھر تم انهیں ان کے چهروں کی علامات سے پهچان لیتے، اور تم یقیناً انهیں ان کی بات کے لهجے سے پهچان لو گے، اور الله تمهارے سب اعمال سے خوب واقف هے۔",
     "persian_text": "و اگر می‌خواستیم آنان را به تو نشان می‌دادیم تا آنان را از نشانه‌های چهره‌شان بشناسی، و قطعاً آنان را از لحن گفتارشان خواهی شناخت، و خداوند به اعمال شما آگاه است.",
     "transliteration": "Wa law nashaa'u la-araynaa kahum fala'araftahum bi-seemaa hum, wa lata'rifannahum fee lahnilqawl, wallaahu ya'lamu a'maalakum"
@@ -281,7 +281,7 @@ ayats = [
   {
     "verse_number": 35,
     "english_text": "Hence, do not give up, do not propose peace to the enemy, you have upper hand and Allah is with you, He will never lessen the reward of your deeds.",
-    "arabic_text": "فَلَا تَهِنُواْ وَتَدْعُوٓاْ اِلَى السَّلْمِ وَاَنتُمُ الْاَعْلَوْنَ وَاللّٰهُ مَعَكُمْ وَلَن يَتِرَكُمْ اَعْمَـٰلَكُمْ",
+    "arabic_text": "فَلَا تَهِنُواْ وَتَدْعُوٓاْ اِلَى السَّلْمِ وَاَنتُمُ الْاَعْلَوْنَ وَ اللّٰهُ مَعَكُمْ وَلَن يَتِرَكُمْ اَعْمَـٰلَكُمْ",
     "urdu_text": "لهٰذا کمزور نه پڑو اور دشمن کے سامنے صلح کی پیشکش نه کرو، تم هی غالب هو اور الله تمهارے ساتھ هے، وه تمهارے اعمال کا اجر کبھی کم نهیں کرے گا۔",
     "persian_text": "پس سست نشوید و دشمن را به صلح دعوت نکنید در حالی که شما برتر هستید و خداوند با شماست و هرگز پاداش اعمال شما را کم نخواهد کرد.",
     "transliteration": "Falā tahinū wa tad'ū ilā as-salmi wa antumu al-a'lawna wa Allāhu ma'akum wa lan yatirakum a'mālakum"
@@ -305,7 +305,7 @@ ayats = [
   {
     "verse_number": 38,
     "english_text": "Yes, you are those people that when they are called upon to spend in the way of Allah, some of you show stinginess, and those who are stingy are stingy for themselves, and Allah is Self-Sufficient; you are poor and needy in front of Him, and if you turn your face, Allah will bring another nation in your place who will not be like you.",
-    "arabic_text": "هَـٰٓاَنتُمْ هَـٰٓؤُلَآءِ تُدْعَوْنَ لِتُنفِقُواْ فِى سَبِيلِ اللّٰهِ فَمِنكُم مَّن يَبْخَلُ ۖ وَمَن يَبْخَلْ فَاِنَّمَا يَبْخَلُ عَن نَّفْسِهِ ۚ وَاللّٰهُ الْغَنِىُّ وَاَنتُمُ الْفُقَرَآءُ ۚ وَاِن تَتَوَلَّوْاْ يَسْتَبْدِلْ قَوْمًا غَيْرَكُمْ ثُمَّ لَا يَكُونُوٓاْ اَمْثَـٰلَكُم",
+    "arabic_text": "هَـٰٓاَنتُمْ هَـٰٓؤُلَآءِ تُدْعَوْنَ لِتُنفِقُواْ فِى سَبِيلِ اللّٰهِ فَمِنكُم مَّن يَبْخَلُ ۖ وَمَن يَبْخَلْ فَاِنَّمَا يَبْخَلُ عَن نَّفْسِهِ ۚ وَ اللّٰهُ الْغَنِىُّ وَاَنتُمُ الْفُقَرَآءُ ۚ وَاِن تَتَوَلَّوْاْ يَسْتَبْدِلْ قَوْمًا غَيْرَكُمْ ثُمَّ لَا يَكُونُوٓاْ اَمْثَـٰلَكُم",
     "urdu_text": "هاں، تم وه لوگ هو که جب تمهیں الله کی راه میں خرچ کرنے کے لیے بلایا جاتا هے تو تم میں سے کچھ لوگ بخل کرتے هیں، اور جو بخل کرتا هے وه اپنے هی نقصان کے لیے بخل کرتا هے، اور الله بے نیاز هے اور تم اس کے سامنے محتاج هو، اور اگر تم منه موڑو گے تو الله تمهاری جگه کوئی اور قوم لے آئے گا جو تمهاری طرح نهیں هوگی۔",
     "persian_text": "آری، شما همان مردمی هستید که وقتی فراخوانده می‌شوید تا در راه خدا انفاق کنید، برخی از شما بخل می‌ورزند، و هر کس بخل ورزد تنها به زیان خودش بخل می‌ورزد، و خداوند بی‌نیاز است و شما نیازمندان، و اگر روی برگردانید، خداوند قومی دیگر به جای شما خواهد آورد که مانند شما نخواهند بود.",
     "transliteration": "Hā'antum hā'ulā'i tud'awna litunfiqū fī sabīli Allāhi faminkum man yabkhalu wa man yabkhal fa'innamā yabkhalu 'an nafsihī wa Allāhu al-ghaniyyu wa antumu al-fuqarā'u wa in tatawallaw yastabdil qawman ghayrakum thumma lā yakūnū amthālakum"

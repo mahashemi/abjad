@@ -25,7 +25,7 @@ ayats = [
   {
     "verse_number": 3,
     "english_text": "What, when we will die and become dust, will we return again, it does not seem so.",
-    "arabic_text": "اَءِذَا مِتْنَا وَكُنَّا تُرَابًا ۖ ذَٰلِكَ رَجْعٌۢ بَعِيدٌۭ",
+    "arabic_text": "اَءِذَا مِتْنَا وَكُنَّا تُرَابًا ۖ ذٰلِكَ رَجْعٌۢ بَعِيدٌۭ",
     "urdu_text": "کیا جب هم مر جائیں گے اور مٹی هو جائیں گے تو کیا واپس آئیں گے؟ یه لوٹنا بعید هے۔",
     "persian_text": "آیا وقتی که بمیریم و خاک شویم، آیا بازگشت خواهیم داشت؟ این بازگشتی دور از واقعیت است.",
     "transliteration": "A-idhaa mitnaa wa kunnaa turaabaa, dhaalika raj'um ba'eed"
@@ -89,7 +89,7 @@ ayats = [
   {
     "verse_number": 11,
     "english_text": "This is all for the sustenance of Our servants, and We brought to life the dead lands from this water, like this We will bring you forth from the earth.",
-    "arabic_text": "رِّزْقًۭا لِّلْعِبَادِ ۖ وَاَحْيَيْنَا بِهِ بَلْدَةًۭ مَّيْتًۭا ۚ كَذَٰلِكَ الْخُرُوجُ",
+    "arabic_text": "رِّزْقًۭا لِّلْعِبَادِ ۖ وَاَحْيَيْنَا بِهِ بَلْدَةًۭ مَّيْتًۭا ۚ كَذٰلِكَ الْخُرُوجُ",
     "urdu_text": "یه سب همارے بندوں کی روزی کے لیے هے، اور هم نے اس پانی سے مرده زمین کو زنده کیا، اسی طرح هم تمهیں زمین سے نکالیں گے۔",
     "persian_text": "این همه برای روزی بندگان ماست، و ما با این آب سرزمین مرده را زنده کردیم، همین‌گونه شما را از زمین بیرون خواهیم آورد.",
     "transliteration": "Rizqal lil-'ibaad, wa ahyaynaa bihee baldatam maytaa, kazaalikal khurooj"
@@ -153,7 +153,7 @@ ayats = [
   {
     "verse_number": 19,
     "english_text": "And the unconsciousness of death will certainly come; this is the thing from which you were running away.",
-    "arabic_text": "وَجَآءَتْ سَكْرَةُ الْمَوْتِ بِالْحَقِّ ۖ ذَٰلِكَ مَا كُنتَ مِنْهُ تَحِيدُ",
+    "arabic_text": "وَجَآءَتْ سَكْرَةُ الْمَوْتِ بِالْحَقِّ ۖ ذٰلِكَ مَا كُنتَ مِنْهُ تَحِيدُ",
     "urdu_text": "اور موت کی بے هوشی یقیناً آئے گی، یه وهی چیز هے جس سے تم بھاگ رهے تھے۔",
     "persian_text": "و مستی مرگ به حق خواهد آمد، این همان چیزی است که از آن گریزان بودی.",
     "transliteration": "Wa jaaa'at sakratul mawti bil haqq, zaalika maa kunta minhu taheed"
@@ -161,7 +161,7 @@ ayats = [
   {
     "verse_number": 20,
     "english_text": "And then the trumpet shall be blown, this is the day when punishment was promised.",
-    "arabic_text": "وَنُفِخَ فِى الصُّورِ ۚ ذَٰلِكَ يَوْمُ الْوَعِيدِ",
+    "arabic_text": "وَنُفِخَ فِى الصُّورِ ۚ ذٰلِكَ يَوْمُ الْوَعِيدِ",
     "urdu_text": "اور صور پھونکا جائے گا، یه وه دن هے جس کا وعده کیا گیا تھا۔",
     "persian_text": "و در صور دمیده خواهد شد، این روز وعده داده شده است.",
     "transliteration": "Wa nufikha fis-Soor, zaalika yawmul wa'eed"
@@ -273,7 +273,7 @@ ayats = [
   {
     "verse_number": 34,
     "english_text": "All of you enter Paradise with peace, this is the day of forever.",
-    "arabic_text": "ادْخُلُوهَا بِسَلَـٰمٍۢ ۖ ذَٰلِكَ يَوْمُ الْخُلُودِ",
+    "arabic_text": "ادْخُلُوهَا بِسَلَـٰمٍۢ ۖ ذٰلِكَ يَوْمُ الْخُلُودِ",
     "urdu_text": "تم سب سلامتی کے ساتھ اس میں داخل هو جاؤ، یه همیشگی کا دن هے۔",
     "persian_text": "با سلامتی در آن داخل شوید، این روز جاودانگی است.",
     "transliteration": "Udkhulooha bisalaam, zaalika yawmul khulood"
@@ -297,7 +297,7 @@ ayats = [
   {
     "verse_number": 37,
     "english_text": "There is admonition in this event for the man who has heart or who listens attentively.",
-    "arabic_text": "اِنَّ فِى ذَٰلِكَ لَذِكْرَىٰ لِمَن كَانَ لَهُ قَلْبٌ اَوْ اَلْقَى السَّمْعَ وَهُوَ شَهِيدٌۭ",
+    "arabic_text": "اِنَّ فِى ذٰلِكَ لَذِكْرَىٰ لِمَن كَانَ لَهُ قَلْبٌ اَوْ اَلْقَى السَّمْعَ وَهُوَ شَهِيدٌۭ",
     "urdu_text": "بیشک اس واقعے میں اس شخص کے لیے نصیحت هے جس کے پاس دل هو یا جو توجه سے سنتا هو اور حاضر دماغ هو۔",
     "persian_text": "در این قطعاً پندی است برای کسی که دل داشته باشد یا با حضور قلب گوش فرا دهد.",
     "transliteration": "Inna fee zaalika lazikraa liman kaana lahoo qalbun aw alqas-sam'a wa huwa shaheed"
@@ -337,7 +337,7 @@ ayats = [
   {
     "verse_number": 42,
     "english_text": "The day; when they all shall hear the sound of the sky, and that is the day of coming forth from the graves.",
-    "arabic_text": "يَوْمَ يَسْمَعُونَ الصَّيْحَةَ بِالْحَقِّ ۚ ذَٰلِكَ يَوْمُ الْخُرُوجِ",
+    "arabic_text": "يَوْمَ يَسْمَعُونَ الصَّيْحَةَ بِالْحَقِّ ۚ ذٰلِكَ يَوْمُ الْخُرُوجِ",
     "urdu_text": "جس دن وه سب حق کے ساتھ چنگھاڑ سنیں گے، یهی قبروں سے نکلنے کا دن هے۔",
     "persian_text": "روزی که همه فریاد حق را خواهند شنید، آن روز خروج از قبرهاست.",
     "transliteration": "Yawma yasma'ūnas-sayhata bil-haqq, dhālika yawmul-khurūj"
@@ -353,7 +353,7 @@ ayats = [
   {
     "verse_number": 44,
     "english_text": "And that day the earth will be ruptured from their side, and they will come out hastening, saying the Resurrection is easy for us.",
-    "arabic_text": "يَوْمَ تَشَقَّقُ الْاَرْضُ عَنْهُمْ سِرَاعًۭا ۚ ذَٰلِكَ حَشْرٌ عَلَيْنَا يَسِيرٌۭ",
+    "arabic_text": "يَوْمَ تَشَقَّقُ الْاَرْضُ عَنْهُمْ سِرَاعًۭا ۚ ذٰلِكَ حَشْرٌ عَلَيْنَا يَسِيرٌۭ",
     "urdu_text": "جس دن زمین ان کے اوپر سے پھٹ جائے گی اور وه تیزی سے نکل آئیں گے، یه جمع کرنا هم پر آسان هے۔",
     "persian_text": "روزی که زمین از روی آنان شکافته شود و با شتاب بیرون آیند، این حشر بر ما آسان است.",
     "transliteration": "Yawma tashaqqaqul-ardu 'anhum sirā'ā, dhālika hashrun 'alaynā yasīr"

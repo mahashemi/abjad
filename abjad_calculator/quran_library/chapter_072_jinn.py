@@ -89,7 +89,7 @@ ayats = [
   {
     "verse_number": 11,
     "english_text": "And there are some of good character among us and some are otherwise, and we are different parties.",
-    "arabic_text": "وَاَنَّا مِنَّا الصَّـٰلِحُونَ وَمِنَّا دُونَ ذَٰلِكَ ۖ كُنَّا طَرَآئِقَ قِدَدًۭا",
+    "arabic_text": "وَاَنَّا مِنَّا الصَّـٰلِحُونَ وَمِنَّا دُونَ ذٰلِكَ ۖ كُنَّا طَرَآئِقَ قِدَدًۭا",
     "urdu_text": "اور هم میں سے کچھ نیک هیں اور کچھ اس سے کم درجے کے هیں، هم مختلف راستوں پر تھے۔",
     "persian_text": "و برخی از ما شایسته‌اند و برخی کمتر از آن، و ما گروه‌های مختلفی بودیم.",
     "transliteration": "Wa anna minna as-salihoona wa minna doona dhalika kunna tara'iqa qidada"
@@ -217,7 +217,7 @@ ayats = [
   {
     "verse_number": 27,
     "english_text": "Except to the Prophet whom he chooses; He appoints the guarding angels from front and from behind him.",
-    "arabic_text": "اِلَّا مَنِ ارْتَضَىٰ مِن رَّسُولٍۢ فَاِنَّهُ يَسْلُكُ مِنۢ بَيْنِ يَدَيْهِ وَمِنْ خَلْفِهِ رَصَدًۭا",
+    "arabic_text": "اِلَّا مَنِ ارْتَضَىٰ مِن رَّسُولٍۢ فَاِنَّهُ يَسْلُكُ مِنۢ بَيْنِ يَدَيْهِ وَ مِنْ خَلْفِهِ رَصَدًۭا",
     "urdu_text": "سوائے اس رسول کے جسے وه پسند فرمائے، پھر وه اس کے آگے اور پیچھے نگهبان فرشتے مقرر کر دیتا هے۔",
     "persian_text": "مگر فرستاده‌ای که برگزیند، پس او نگهبانانی را از پیش و پس او قرار می‌دهد.",
     "transliteration": "Illa manir tadaa min rasoolin fa innahu yasluku min bayni yadayhi wa min khalfihi rasada"

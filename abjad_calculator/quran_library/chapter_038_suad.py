@@ -201,7 +201,7 @@ ayats = [
   {
     "verse_number": 25,
     "english_text": "{Prostrate Non-Obligatory} So we forgive him, he has nearness to Us and an excellent return.",
-    "arabic_text": "فَغَفَرْنَا لَهُ ذَٰلِكَ ۖ وَاِنَّ لَهُ عِندَنَا لَزُلْفَىٰ وَحُسْنَ مَـَٔابٍۢ",
+    "arabic_text": "فَغَفَرْنَا لَهُ ذٰلِكَ ۖ وَاِنَّ لَهُ عِندَنَا لَزُلْفَىٰ وَحُسْنَ مَـَٔابٍۢ",
     "urdu_text": "تو ہم نے اسے معاف کر دیا، اور بیشک اس کے لیے ہمارے پاس قربت اور بہترین ٹھکانا ہے۔",
     "persian_text": "پس ما آن را برای او بخشیدیم و همانا برای او نزد ما قربت و بازگشت نیکو است.",
     "transliteration": "Faghafarnaa lahu zaalika wa inna lahu 'indanaa lazulfaa wa husna ma'aab"
@@ -217,7 +217,7 @@ ayats = [
   {
     "verse_number": 27,
     "english_text": "We have not created skies and the earth and things between them worthless, this is the thinking of infidels, then woe to the infidels on account of the fire.",
-    "arabic_text": "وَ مَا خَلَقْنَا السَّمَآءَ وَالْاَرْضَ وَ مَا بَيْنَهُمَا بَـٰطِلًا ۚ ذَٰلِكَ ظَنُّ الَّذِينَ كَفَرُواْ ۚ فَوَيْلٌۭ لِّلَّذِينَ كَفَرُواْ مِنَ النَّارِ",
+    "arabic_text": "وَ مَا خَلَقْنَا السَّمَآءَ وَالْاَرْضَ وَ مَا بَيْنَهُمَا بَـٰطِلًا ۚ ذٰلِكَ ظَنُّ الَّذِينَ كَفَرُواْ ۚ فَوَيْلٌۭ لِّلَّذِينَ كَفَرُواْ مِنَ النَّارِ",
     "urdu_text": "اور ہم نے آسمان اور زمین اور جو کچھ ان کے درمیان ہے بیکار نہیں بنایا، یہ کافروں کا گمان ہے، تو آگ کی وجہ سے کافروں کے لیے ہلاکت ہے۔",
     "persian_text": "و ما آسمان و زمین و آنچه میان آنهاست را بیهوده نیافریدیم، این گمان کسانی است که کفر ورزیدند، پس وای بر کافران از آتش.",
     "transliteration": "Wa maa khalaqnas samaaa'a wal arda wa maa baynahumaa baatilaa zaalika zannul lazeena kafaroo fawaylul lillazeena kafaroo minan naar"
@@ -513,7 +513,7 @@ ayats = [
   {
     "verse_number": 64,
     "english_text": "This quarrelling among the Hellish people is a sure thing.",
-    "arabic_text": "اِنَّ ذَٰلِكَ لَحَقٌّۭ تَخَاصُمُ اَهْلِ النَّارِ",
+    "arabic_text": "اِنَّ ذٰلِكَ لَحَقٌّۭ تَخَاصُمُ اَهْلِ النَّارِ",
     "urdu_text": "بے شک یہ دوزخیوں کا آپس میں جھگڑنا یقینی بات ہے۔",
     "persian_text": "به راستی این جدال اهل آتش حقیقتی یقینی است.",
     "transliteration": "Inna dhālika laḥaqqun takhāṣumu ahlil-nār"

@@ -17,7 +17,7 @@ ayats = [
   {
     "verse_number": 2,
     "english_text": "This is admonition and glad tidings for the believers.",
-    "arabic_text": "هُدًۭى وَبُشْرَىٰ لِلْمُؤْمِنِينَ",
+    "arabic_text": "هُدًۭى وَبُشْرٰى لِلْمُؤْمِنِينَ",
     "urdu_text": "هدایت اور خوشخبری هے مومنوں کے لیے۔",
     "persian_text": "هدایت و بشارت برای مؤمنان.",
     "transliteration": "Hudan wa bushra lil mu'mineen"
@@ -273,7 +273,7 @@ ayats = [
   {
     "verse_number": 34,
     "english_text": "She said: when kings enter a town they destroy it and treat noblest people with disgrace (and make them low), this is their practice.",
-    "arabic_text": "قَالَتْ اِنَّ الْمُلُوكَ اِذَا دَخَلُواْ قَرْيَةً اَفْسَدُوهَا وَجَعَلُوٓاْ اَعِزَّةَ اَهْلِهَآ اَذِلَّةًۭ ۖ وَكَذَٰلِكَ يَفْعَلُونَ",
+    "arabic_text": "قَالَتْ اِنَّ الْمُلُوكَ اِذَا دَخَلُواْ قَرْيَةً اَفْسَدُوهَا وَجَعَلُوٓاْ اَعِزَّةَ اَهْلِهَآ اَذِلَّةًۭ ۖ وَكَذٰلِكَ يَفْعَلُونَ",
     "urdu_text": "اس نے کها: بادشاه جب کسی بستی میں داخل هوتے هیں تو اسے تباه کر دیتے هیں اور وهاں کے عزت والوں کو ذلیل کر دیتے هیں، اور وه ایسا هی کرتے هیں",
     "persian_text": "گفت: همانا پادشاهان چون به شهری داخل شوند آن را تباه می‌کنند و عزیزان آن را خوار می‌سازند، و چنین می‌کنند",
     "transliteration": "Qālat innal-mulūka idhā dakhalū qaryatan afsadūhā wa ja'alū a'izzata ahlihā adhillatan wa kadhālika yaf'alūn"
@@ -417,7 +417,7 @@ ayats = [
   {
     "verse_number": 52,
     "english_text": "Now, their homes which are vacant because of their being unjust, there is a sign in it for the people who have knowledge.",
-    "arabic_text": "فَتِلْكَ بُيُوتُهُمْ خَاوِيَةًۢ بِمَا ظَلَمُوٓاْ ۗ اِنَّ فِى ذَٰلِكَ لَـَٔايَةًۭ لِّقَوْمٍۢ يَعْلَمُونَ",
+    "arabic_text": "فَتِلْكَ بُيُوتُهُمْ خَاوِيَةًۢ بِمَا ظَلَمُوٓاْ ۗ اِنَّ فِى ذٰلِكَ لَـَٔايَةًۭ لِّقَوْمٍۢ يَعْلَمُونَ",
     "urdu_text": "یه ان کے گھر هیں جو ان کے ظلم کی وجه سے ویران پڑے هیں، بیشک اس میں علم رکھنے والوں کے لیے نشانی هے۔",
     "persian_text": "پس این خانه‌های آنهاست که به سبب ستمشان ویران مانده است، در این نشانه‌ای است برای قومی که می‌دانند.",
     "transliteration": "Fatilka buyūtuhum khāwiyatan bimā ẓalamū inna fī dhālika la'āyatal liqawmin ya'lamūn"
@@ -689,7 +689,7 @@ ayats = [
   {
     "verse_number": 86,
     "english_text": "Didn't they see that We created night that they take rest, and made day the cause of light, in this there are big signs for the believers.",
-    "arabic_text": "اَلَمْ يَرَوْاْ اَنَّا جَعَلْنَا الَّيْلَ لِيَسْكُنُواْ فِيهِ وَالنَّهَارَ مُبْصِرًا ۚ اِنَّ فِى ذَٰلِكَ لَـَٔايَـٰتٍۢ لِّقَوْمٍۢ يُؤْمِنُونَ",
+    "arabic_text": "اَلَمْ يَرَوْاْ اَنَّا جَعَلْنَا الَّيْلَ لِيَسْكُنُواْ فِيهِ وَالنَّهَارَ مُبْصِرًا ۚ اِنَّ فِى ذٰلِكَ لَـَٔايَـٰتٍۢ لِّقَوْمٍۢ يُؤْمِنُونَ",
     "urdu_text": "کیا انهوں نے نهیں دیکھا که هم نے رات کو بنایا تاکه وه اس میں آرام کریں اور دن کو روشن بنایا، بے شک اس میں ایمان والوں کے لیے بڑی نشانیاں هیں۔",
     "persian_text": "آیا ندیدند که ما شب را قرار دادیم تا در آن آرام گیرند و روز را روشن ساختیم، همانا در این نشانه‌هایی است برای قومی که ایمان می‌آورند.",
     "transliteration": "Alam yaraw annaa ja'alnal layla liyaskunoo feehi wannahaara mubsiraa inna fee dhaalika la aayaatil liqawminy yu'minoon"

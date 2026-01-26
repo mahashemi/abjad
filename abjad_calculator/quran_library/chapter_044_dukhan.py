@@ -225,7 +225,7 @@ ayats = [
   {
     "verse_number": 28,
     "english_text": "That is the consequence; and We made other nation to inherit this.",
-    "arabic_text": "كَذَٰلِكَ ۖ وَاَوْرَثْنَـٰهَا قَوْمًا ءَاخَرِينَ",
+    "arabic_text": "كَذٰلِكَ ۖ وَاَوْرَثْنَـٰهَا قَوْمًا ءَاخَرِينَ",
     "urdu_text": "ایسا هی هوا، اور هم نے ان چیزوں کا وارث دوسری قوم کو بنا دیا۔",
     "persian_text": "چنین بود، و آن را به قوم دیگری به میراث دادیم.",
     "transliteration": "Kadhalika wa awrathnaa haa qawman aakhareen"
@@ -433,7 +433,7 @@ ayats = [
   {
     "verse_number": 54,
     "english_text": "Thus shall it be; and We shall make their pairs with the big-eyed Hoories.",
-    "arabic_text": "كَذَٰلِكَ وَزَوَّجْنَـٰهُم بِحُورٍ عِينٍۢ",
+    "arabic_text": "كَذٰلِكَ وَزَوَّجْنَـٰهُم بِحُورٍ عِينٍۢ",
     "urdu_text": "اسی طرح هوگا، اور هم نے ان کا جوڑا بڑی آنکھوں والی حوروں سے کر دیا۔",
     "persian_text": "چنین است، و ما آنان را با حوران بزرگ چشم همسر می‌کنیم.",
     "transliteration": "Kazaalika wa zawwajnaahum bi hoorin 'een"
@@ -457,7 +457,7 @@ ayats = [
   {
     "verse_number": 57,
     "english_text": "This is all Grace and Mercy of your Lord; this is the biggest success for the human.",
-    "arabic_text": "فَضْلًا مِّن رَّبِّكَ ۚ ذَٰلِكَ هُوَ الْفَوْزُ الْعَظِيمُ",
+    "arabic_text": "فَضْلًا مِّن رَّبِّكَ ۚ ذٰلِكَ هُوَ الْفَوْزُ الْعَظِيمُ",
     "urdu_text": "یه تمهارے رب کا فضل هے، یهی سب سے بڑی کامیابی هے۔",
     "persian_text": "این فضل و بخشش از پروردگار توست، این همان پیروزی بزرگ است.",
     "transliteration": "Fadlam mir-rabbik, zaalika huwal-fawzul-'azeem"

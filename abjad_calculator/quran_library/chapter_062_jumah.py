@@ -33,7 +33,7 @@ ayats = [
   {
     "verse_number": 4,
     "english_text": "It is the Grace of Allah, He bestows upon whomever He pleases, and He is the Owner of the Mighty Grace.",
-    "arabic_text": "ذَٰلِكَ فَضْلُ اللّٰهِ يُؤْتِيهِ مَن يَشَآءُ ۚ وَاللّٰهُ ذُو الْفَضْلِ الْعَظِيمِ",
+    "arabic_text": "ذٰلِكَ فَضْلُ اللّٰهِ يُؤْتِيهِ مَن يَشَآءُ ۚ وَ اللّٰهُ ذُو الْفَضْلِ الْعَظِيمِ",
     "urdu_text": "یہ اللہ کا فضل ہے، وہ جسے چاہتا ہے عطا کرتا ہے، اور اللہ بڑے فضل والا ہے۔",
     "persian_text": "این فضل خداست که به هر که بخواهد می‌بخشد، و خدا صاحب فضل بزرگ است.",
     "transliteration": "Dhalika fadlullahi yu'tihi man yasha', wallahu dhul-fadlil-'adhim"
@@ -41,7 +41,7 @@ ayats = [
   {
     "verse_number": 5,
     "english_text": "The example of the people who were given a load of Taurait and they could not bear it; its load are similar to a donkey who is carrying a load of books; this worst example is of those people who denied the Divine Verses, and Allah does not guide the unjust nation.",
-    "arabic_text": "مَثَلُ الَّذِينَ حُمِّلُواْ التَّوْرَىٰةَ ثُمَّ لَمْ يَحْمِلُوهَا كَمَثَلِ الْحِمَارِ يَحْمِلُ اَسْفَارًۢا ۚ بِئْسَ مَثَلُ الْقَوْمِ الَّذِينَ كَذَّبُواْ بِـَٔايَـٰتِ اللّٰهِ ۚ وَاللّٰهُ لَا يَهْدِى الْقَوْمَ الظَّـٰلِمِينَ",
+    "arabic_text": "مَثَلُ الَّذِينَ حُمِّلُواْ التَّوْرَىٰةَ ثُمَّ لَمْ يَحْمِلُوهَا كَمَثَلِ الْحِمَارِ يَحْمِلُ اَسْفَارًۢا ۚ بِئْسَ مَثَلُ الْقَوْمِ الَّذِينَ كَذَّبُواْ بِـَٔايَـٰتِ اللّٰهِ ۚ وَ اللّٰهُ لَا يَهْدِى الْقَوْمَ الظَّـٰلِمِينَ",
     "urdu_text": "جن لوگوں کو تورات کا بوجھ دیا گیا پھر انہوں نے اسے نہ اٹھایا، ان کی مثال اس گدھے کی سی ہے جو کتابوں کا بوجھ اٹھائے ہوئے ہو۔ بری مثال ہے ان لوگوں کی جنہوں نے اللہ کی آیات کو جھٹلایا، اور اللہ ظالم قوم کو ہدایت نہیں دیتا۔",
     "persian_text": "مثل کسانی که تورات بر آنان بار شد و سپس آن را حمل نکردند، همچون الاغی است که کتاب‌ها حمل می‌کند. بد مثالی است برای قومی که آیات خدا را تکذیب کردند، و خدا قوم ستمگر را هدایت نمی‌کند.",
     "transliteration": "Mathalul-ladhina hummilut-tawrata thumma lam yahmilluha kamathali al-himari yahmilu asfara, bi'sa mathalul-qawmil-ladhina kadhdhabu bi-ayatillah, wallahu la yahdil-qawmadh-dhalimin"
@@ -57,7 +57,7 @@ ayats = [
   {
     "verse_number": 7,
     "english_text": "And they will never desire for death because of the deeds their hands have already done, and Allah is well aware of the conditions of the unjust.",
-    "arabic_text": "وَ لَا يَتَمَنَّوْنَهُٓ اَبَدًۢا بِمَا قَدَّمَتْ اَيْدِيهِمْ ۚ وَاللّٰهُ عَلِيمٌۢ بِالظَّـٰلِمِينَ",
+    "arabic_text": "وَ لَا يَتَمَنَّوْنَهُٓ اَبَدًۢا بِمَا قَدَّمَتْ اَيْدِيهِمْ ۚ وَ اللّٰهُ عَلِيمٌۢ بِالظَّـٰلِمِينَ",
     "urdu_text": "اور وہ کبھی بھی اس کی تمنا نہیں کریں گے ان اعمال کی وجہ سے جو ان کے ہاتھوں نے آگے بھیجے ہیں، اور اللہ ظالموں کو خوب جانتا ہے۔",
     "persian_text": "و هرگز آرزوی آن را نخواهند کرد به سبب آنچه دستانشان پیش فرستاده است، و خدا به ستمگران آگاه است.",
     "transliteration": "Wa la yatamannawnahu abadan bima qaddamat aydihim, wallahu 'alimun bidh-dhalimin"
@@ -89,7 +89,7 @@ ayats = [
   {
     "verse_number": 11,
     "english_text": "And O prophet, when these people see the trade and games then they run towards and leave you standing alone; Say: whatever is with Allah is much better than this game and trade, and He is the best provider of the sustenance.",
-    "arabic_text": "وَاِذَا رَاَوْاْ تِجَـٰرَةً اَوْ لَهْوًا انفَضُّوٓاْ اِلَيْهَا وَتَرَكُوكَ قَآئِمًا ۚ قُلْ مَا عِندَ اللّٰهِ خَيْرٌۭ مِّنَ اللّٰهْوِ وَمِنَ التِّجَـٰرَةِ ۚ وَاللّٰهُ خَيْرُ الرَّٰزِقِينَ",
+    "arabic_text": "وَاِذَا رَاَوْاْ تِجَـٰرَةً اَوْ لَهْوًا انفَضُّوٓاْ اِلَيْهَا وَتَرَكُوكَ قَآئِمًا ۚ قُلْ مَا عِندَ اللّٰهِ خَيْرٌۭ مِّنَ اللّٰهْوِ وَمِنَ التِّجَـٰرَةِ ۚ وَ اللّٰهُ خَيْرُ الرَّٰزِقِينَ",
     "urdu_text": "اور اے نبی! جب یہ لوگ تجارت یا کوئی تماشا دیکھتے ہیں تو اس کی طرف دوڑ پڑتے ہیں اور آپ کو کھڑا چھوڑ دیتے ہیں۔ آپ کہہ دیجیے کہ جو کچھ اللہ کے پاس ہے وہ تماشے اور تجارت سے کہیں بہتر ہے، اور اللہ سب سے بہتر رزق دینے والا ہے۔",
     "persian_text": "و ای پیامبر! هنگامی که این مردم تجارت یا سرگرمی‌ای می‌بینند، به سوی آن می‌شتابند و تو را ایستاده رها می‌کنند. بگو: آنچه نزد خداست بهتر از سرگرمی و تجارت است، و خداوند بهترین روزی‌دهنده است.",
     "transliteration": "Wa idha ra'aw tijaratan aw lahwan infaddu ilayha wa tarakuka qa'ima; qul ma 'indallahi khayrun minal lahwi wa minat tijarah; wallahu khayru ar-raziqin"

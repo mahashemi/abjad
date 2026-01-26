@@ -105,7 +105,7 @@ ayats = [
   {
     "verse_number": 13,
     "english_text": "Ill-tempered and thereafter do not obey a person of a bad lineage.",
-    "arabic_text": "عُتُلٍّۭ بَعْدَ ذَٰلِكَ زَنِيمٍ",
+    "arabic_text": "عُتُلٍّۭ بَعْدَ ذٰلِكَ زَنِيمٍ",
     "urdu_text": "سخت مزاج، اور اس کے علاوہ حرامزادہ",
     "persian_text": "خشن و درشت‌خو، و علاوه بر آن، حرامزاده",
     "transliteration": "Utullin ba'da dhaalika zaneem"
@@ -265,7 +265,7 @@ ayats = [
   {
     "verse_number": 33,
     "english_text": "Punishment comes down like this and the punishment of the Hereafter is greater than this, if they knew.",
-    "arabic_text": "كَذَٰلِكَ الْعَذَابُ ۖ وَلَعَذَابُ الْاخِرَةِ اَكْبَرُ ۚ لَوْ كَانُواْ يَعْلَمُونَ",
+    "arabic_text": "كَذٰلِكَ الْعَذَابُ ۖ وَلَعَذَابُ الْاخِرَةِ اَكْبَرُ ۚ لَوْ كَانُواْ يَعْلَمُونَ",
     "urdu_text": "عذاب اسی طرح آتا ہے، اور آخرت کا عذاب اس سے بھی بڑا ہے، کاش وہ جانتے ہوتے۔",
     "persian_text": "عذاب این‌چنین است، و عذاب آخرت بزرگ‌تر از این است، اگر می‌دانستند.",
     "transliteration": "Kadhalikal adhaab, wa la adhaabul aakhirati akbar, law kaanoo ya'lamoon"
@@ -321,7 +321,7 @@ ayats = [
   {
     "verse_number": 40,
     "english_text": "Ask them who is responsible for all these talks.",
-    "arabic_text": "سَلْهُمْ اَيُّهُم بِذَٰلِكَ زَعِيمٌ",
+    "arabic_text": "سَلْهُمْ اَيُّهُم بِذٰلِكَ زَعِيمٌ",
     "urdu_text": "ان سے پوچھو کہ ان میں سے کون اس کا ذمہ دار ہے؟",
     "persian_text": "از آنان بپرس کدام یک از آنها مسئول این سخنان است؟",
     "transliteration": "Salhum ayyuhum bidhaalika za'eem"

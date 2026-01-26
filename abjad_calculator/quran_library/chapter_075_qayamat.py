@@ -321,7 +321,7 @@ ayats = [
   {
     "verse_number": 40,
     "english_text": "Is that Allah not capable of this to bring to life again the dead ones?",
-    "arabic_text": "اَلَيْسَ ذَٰلِكَ بِقَـٰدِرٍ عَلَىٰٓ اَن يُحْـِۧىَ الْمَوْتَىٰ",
+    "arabic_text": "اَلَيْسَ ذٰلِكَ بِقَـٰدِرٍ عَلَىٰٓ اَن يُحْـِۧىَ الْمَوْتَىٰ",
     "urdu_text": "کیا وه الله اس پر قادر نهیں که مردوں کو دوباره زنده کر دے؟",
     "persian_text": "آیا آن خداوند قادر نیست که مردگان را زنده کند؟",
     "transliteration": "Alaysa dhalika biqadirin 'ala ay yuhyiyal mawta"

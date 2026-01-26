@@ -10,7 +10,7 @@ ayats = [
   {
     "verse_number": 2,
     "english_text": "Those people who do Zihaar with their wives, their wives cannot be their mothers, mothers are only those who gave birth to them, and they say very evil and false talk, and Allah is all Pardoning and all Forgiving.",
-    "arabic_text": "الَّذِينَ يُظَٰهِرُونَ مِنكُم مِّن نِّسَآئِهِم مَّا هُنَّ اُمَّهَٰتِهِمْ ۖ اِنْ اُمَّهَٰتُهُمْ اِلَّا الَّٰـٓـِٔى وَلَدْنَهُمْ ۚ وَاِنَّهُمْ لَيَقُولُونَ مُنكَرًا مِّنَ الْقَوْلِ وَزُورًا ۚ وَاِنَّ اللّٰهَ لَعَفُوٌّ غَفُورٌۭ",
+    "arabic_text": "الَّذِينَ يُظَٰهِرُونَ مِنكُم مِّن نِّسَآئِهِم مَّا هُنَّ اُمَّهَٰتِهِمْ ۖ اِنْ اُمَّهَٰتُهُمْ اِلَّا الَّٰـٓـِٔى وَلَدْنَهُمْ ۚ وَ اِنَّهُمْ لَيَقُولُونَ مُنكَرًا مِّنَ الْقَوْلِ وَزُورًا ۚ وَاِنَّ اللّٰهَ لَعَفُوٌّ غَفُورٌۭ",
     "urdu_text": "تم میں سے جو لوگ اپنی بیویوں سے ظہار کرتے ہیں، وہ ان کی مائیں نہیں ہیں، ان کی مائیں تو صرف وہی ہیں جنہوں نے انہیں جنا ہے، اور بیشک وہ بری اور جھوٹی بات کہتے ہیں، اور بیشک اللہ معاف کرنے والا بخشنے والا ہے",
     "persian_text": "کسانی از شما که با زنان خود ظهار می‌کنند، آنان مادران ایشان نیستند، مادرانشان تنها کسانی هستند که آنها را زاییده‌اند، و همانا آنان سخنی زشت و دروغ می‌گویند، و همانا خداوند بخشنده آمرزنده است",
     "transliteration": "Alladhina yudhahiruna minkum min nisa'ihim ma hunna ummahatuhum in ummahatuhum illal-la'i waladnahum wa innahum layaquluna munkaram minal-qawli wa zura wa innAllaha la'afuwwun ghafur",
@@ -26,7 +26,7 @@ ayats = [
   {
     "verse_number": 4,
     "english_text": "Then if it is not possible for him to free a slave, he should keep the fast for two months consecutively before touching each other, if this is also not possible then he should feed sixty destitute; this is because you should keep faith on Allah and His prophet correctly, these are the limits set by Allah, and for the infidels there is very painful punishment.",
-    "arabic_text": "فَمَن لَّمْ يَجِدْ فَصِيَامُ شَهْرَيْنِ مُتَتَابِعَيْنِ مِن قَبْلِ اَن يَتَمَآسَّا ۖ فَمَن لَّمْ يَسْتَطِعْ فَاِطْعَامُ سِتِّينَ مِسْكِينًۭا ۚ ذَٰلِكَ لِتُؤْمِنُواْ بِاللّٰهِ وَرَسُولِهِ ۚ وَتِلْكَ حُدُودُ اللّٰهِ ۗ وَلِلْكَـٰفِرِينَ عَذَابٌ اَلِيمٌۭ",
+    "arabic_text": "فَمَن لَّمْ يَجِدْ فَصِيَامُ شَهْرَيْنِ مُتَتَابِعَيْنِ مِن قَبْلِ اَن يَتَمَآسَّا ۖ فَمَن لَّمْ يَسْتَطِعْ فَاِطْعَامُ سِتِّينَ مِسْكِينًۭا ۚ ذٰلِكَ لِتُؤْمِنُواْ بِاللّٰهِ وَرَسُولِهِ ۚ وَتِلْكَ حُدُودُ اللّٰهِ ۗ وَلِلْكَـٰفِرِينَ عَذَابٌ اَلِيمٌۭ",
     "urdu_text": "پھر جو نہ پائے تو ایک دوسرے کو ہاتھ لگانے سے پہلے دو مہینے مسلسل روزے رکھے، پھر جو اس کی بھی طاقت نہ رکھے تو ساٹھ مسکینوں کو کھانا کھلائے، یہ اس لیے ہے کہ تم اللہ اور اس کے رسول پر ایمان لاؤ، اور یہ اللہ کی مقرر کردہ حدیں ہیں، اور کافروں کے لیے دردناک عذاب ہے",
     "persian_text": "پس هرکه نیابد دو ماه پی‌درپی روزه بگیرد پیش از آنکه یکدیگر را لمس کنند، و هرکه نتواند شصت مسکین را اطعام دهد، این برای آن است که به خدا و پیامبرش ایمان آورید، و اینها حدود خداست، و برای کافران عذابی دردناک است",
     "transliteration": "Faman lam yajid fasiyamu shahrayni mutatabiayyni min qabli an yatamassa faman lam yastati' fa-it'amu sitteena miskina dhalika litu'minu billahi wa rasulihi wa tilka hududullahi wa lilkafireena adhabun alim",
@@ -50,7 +50,7 @@ ayats = [
   {
     "verse_number": 7,
     "english_text": "Don't you see that Allah is aware of everything of the skies and the earth, there is not a secret talk between three persons but that He is their fourth, and where there are five secret talk holders He is their sixth; whether less or more if there is a secret talk He is surely with them - wherever they may be; thereafter on the Day of Judgement He will inform them what they had done; verily He is Knower of all things.",
-    "arabic_text": "اَلَمْ تَرَ اَنَّ اللّٰهَ يَعْلَمُ مَا فِى السَّمَـٰوَٰتِ وَ مَا فِى الْاَرْضِ ۖ مَا يَكُونُ مِن نَّجْوَىٰ ثَلَـٰثَةٍ اِلَّا هُوَ رَابِعُهُمْ وَ لَا خَمْسَةٍ اِلَّا هُوَ سَادِسُهُمْ وَ لَا اَدْنَىٰ مِن ذَٰلِكَ وَلَآ اَكْثَرَ اِلَّا هُوَ مَعَهُمْ اَيْنَ مَا كَانُواْ ۖ ثُمَّ يُنَبِّئُهُم بِمَا عَمِلُواْ يَوْمَ الْقِيَـٰمَةِ ۚ اِنَّ اللّٰهَ بِكُلِّ شَىْءٍ عَلِيمٌۭ",
+    "arabic_text": "اَلَمْ تَرَ اَنَّ اللّٰهَ يَعْلَمُ مَا فِى السَّمَـٰوَٰتِ وَ مَا فِى الْاَرْضِ ۖ مَا يَكُونُ مِن نَّجْوَىٰ ثَلَـٰثَةٍ اِلَّا هُوَ رَابِعُهُمْ وَ لَا خَمْسَةٍ اِلَّا هُوَ سَادِسُهُمْ وَ لَا اَدْنَىٰ مِن ذٰلِكَ وَلَآ اَكْثَرَ اِلَّا هُوَ مَعَهُمْ اَيْنَ مَا كَانُواْ ۖ ثُمَّ يُنَبِّئُهُم بِمَا عَمِلُواْ يَوْمَ الْقِيَـٰمَةِ ۚ اِنَّ اللّٰهَ بِكُلِّ شَىْءٍ عَلِيمٌۭ",
     "urdu_text": "کیا تم نہیں دیکھتے کہ اللہ آسمانوں اور زمین میں جو کچھ ہے سب کو جانتا ہے، تین آدمیوں کی کوئی سرگوشی نہیں ہوتی مگر وہ ان کا چوتھا ہوتا ہے، اور نہ پانچ کی مگر وہ ان کا چھٹا ہوتا ہے، اور نہ اس سے کم اور نہ زیادہ مگر وہ ان کے ساتھ ہوتا ہے جہاں کہیں بھی وہ ہوں، پھر قیامت کے دن وہ انہیں بتائے گا جو کچھ انہوں نے کیا، بیشک اللہ ہر چیز کا جاننے والا ہے۔",
     "persian_text": "آیا ندیدی که خداوند آنچه در آسمان‌ها و زمین است می‌داند، هیچ نجوای سه نفری نیست مگر اینکه او چهارمین آنهاست، و نه پنج نفری مگر اینکه او ششمین آنهاست، و نه کمتر از آن و نه بیشتر مگر اینکه او با آنهاست هر جا که باشند، سپس روز قیامت آنها را از آنچه کرده‌اند آگاه می‌سازد، همانا خداوند به هر چیزی داناست.",
     "transliteration": "Alam tara anna Allaha ya'lamu ma fis-samawati wa ma fil-ardi ma yakunu min najwa thalathatin illa huwa rabi'uhum wa la khamsatin illa huwa sadisuhum wa la adna min dhalika wa la akthara illa huwa ma'ahum ayna ma kanu thumma yunabbi'uhum bima 'amilu yawmal-qiyamah inna Allaha bikulli shay'in 'aleem",
@@ -90,7 +90,7 @@ ayats = [
   {
     "verse_number": 12,
     "english_text": "O you who believe! whenever you talk confidentially to the prophet give something in charity beforehand, it is better and purity for you; if charity is not possible then Allah is very Forgiving and Merciful.",
-    "arabic_text": "يَـٰٓاَيُّهَا الَّذِينَ ءَامَنُوٓاْ اِذَا نَـٰجَيْتُمُ الرَّسُولَ فَقَدِّمُواْ بَيْنَ يَدَىْ نَجْوَىٰكُمْ صَدَقَةًۭ ۚ ذَٰلِكَ خَيْرٌۭ لَّكُمْ وَاَطْهَرُ ۚ فَاِن لَّمْ تَجِدُواْ فَاِنَّ اللّٰهَ غَفُورٌۭ رَّحِيمٌ",
+    "arabic_text": "يَـٰٓاَيُّهَا الَّذِينَ ءَامَنُوٓاْ اِذَا نَـٰجَيْتُمُ الرَّسُولَ فَقَدِّمُواْ بَيْنَ يَدَىْ نَجْوَىٰكُمْ صَدَقَةًۭ ۚ ذٰلِكَ خَيْرٌۭ لَّكُمْ وَاَطْهَرُ ۚ فَاِن لَّمْ تَجِدُواْ فَاِنَّ اللّٰهَ غَفُورٌۭ رَّحِيمٌ",
     "urdu_text": "اے ایمان والو! جب تم رسول سے سرگوشی کرنا چاہو تو اپنی سرگوشی سے پہلے کچھ صدقہ دے دیا کرو، یہ تمہارے لیے بہتر اور زیادہ پاکیزہ ہے، پھر اگر تم نہ پاؤ تو بیشک اللہ بخشنے والا مہربان ہے۔",
     "persian_text": "ای کسانی که ایمان آورده‌اید! هنگامی که با پیامبر نجوا می‌کنید پیش از نجوای خود صدقه‌ای بپردازید، این برای شما بهتر و پاکیزه‌تر است، پس اگر نیافتید خداوند آمرزنده مهربان است.",
     "transliteration": "Ya ayyuhal-ladhina amanu idha najaytumur-rasula faqaddimu bayna yaday najwakum sadaqah, dhalika khayrul-lakum wa athar, fa il lam tajidu fa innallaha ghafurun rahim",

@@ -89,7 +89,7 @@ ayats = [
   {
     "verse_number": 11,
     "english_text": "And Who sent water from the sky in a fixed quantity, and then We enliven the dead earths through it, and like this you will also be taken out of the earth.",
-    "arabic_text": "وَالَّذِى نَزَّلَ مِنَ السَّمَآءِ مَآءًۢ بِقَدَرٍۢ فَاَنشَرْنَا بِهِ بَلْدَةًۭ مَّيْتًۭا ۚ كَذَٰلِكَ تُخْرَجُونَ",
+    "arabic_text": "وَالَّذِى نَزَّلَ مِنَ السَّمَآءِ مَآءًۢ بِقَدَرٍۢ فَاَنشَرْنَا بِهِ بَلْدَةًۭ مَّيْتًۭا ۚ كَذٰلِكَ تُخْرَجُونَ",
     "urdu_text": "اور وه جس نے آسمان سے ایک مقرر مقدار میں پانی اتارا، پھر هم نے اس کے ذریعے مرده زمین کو زنده کیا، اسی طرح تم بھی نکالے جاؤ گے۔",
     "persian_text": "و آن کسی که از آسمان آب را به اندازه‌ای معین نازل کرد، پس ما به وسیله آن سرزمین مرده را زنده کردیم، همین‌گونه شما نیز بیرون آورده خواهید شد.",
     "transliteration": "Wallazee nazzala minas-samaaa'i maaa'am biqadarin fa-ansharnaaa bihee baldatam maytaa, kazaalika tukhrajoon"
@@ -161,7 +161,7 @@ ayats = [
   {
     "verse_number": 20,
     "english_text": "And they say if Allah pleased, we would not have worshipped them, they have no knowledge of it, they are just guessing.",
-    "arabic_text": "وَ قَالُوْاْ لَوْ شَآءَ الرَّحْمَـٰنُ مَا عَبَدْنَـٰهُم ۗ مَّا لَهُم بِذَٰلِكَ مِنْ عِلْمٍ ۖ اِنْ هُمْ اِلَّا يَخْرُصُونَ",
+    "arabic_text": "وَ قَالُوْاْ لَوْ شَآءَ الرَّحْمَـٰنُ مَا عَبَدْنَـٰهُم ۗ مَّا لَهُم بِذٰلِكَ مِنْ عِلْمٍ ۖ اِنْ هُمْ اِلَّا يَخْرُصُونَ",
     "urdu_text": "اور وه کهتے هیں که اگر رحمان چاهتا تو هم ان کی عبادت نه کرتے، انهیں اس کا کوئی علم نهیں، وه محض اٹکل پچو باتیں کرتے هیں۔",
     "persian_text": "و گفتند اگر رحمان می‌خواست ما آنان را عبادت نمی‌کردیم، آنان هیچ دانشی از این ندارند، آنان جز حدس نمی‌زنند.",
     "transliteration": "Wa qaaloo law shaaa'ar-rahmaanu maa 'abadnaahum, maa lahum bizaalika min 'ilmin in hum illaa yakhrusoon"
@@ -185,7 +185,7 @@ ayats = [
   {
     "verse_number": 23,
     "english_text": "And thus, We did not send before you any warner in a settlement, but those who led easy lives in it said: Verily we found our forefathers on a course, and Verily we are followers of their footsteps.",
-    "arabic_text": "وَكَذَٰلِكَ مَآ اَرْسَلْنَا مِن قَبْلِكَ فِى قَرْيَةٍۢ مِّن نَّذِيرٍ اِلَّا قَالَ مُتْرَفُوهَآ اِنَّا وَجَدْنَآ ءَابَآءَنَا عَلَىٰٓ اُمَّةٍۢ وَ اِنَّا عَلَىٰٓ ءَاثَـٰرِهِم مُّقْتَدُونَ",
+    "arabic_text": "وَكَذٰلِكَ مَآ اَرْسَلْنَا مِن قَبْلِكَ فِى قَرْيَةٍۢ مِّن نَّذِيرٍ اِلَّا قَالَ مُتْرَفُوهَآ اِنَّا وَجَدْنَآ ءَابَآءَنَا عَلَىٰٓ اُمَّةٍۢ وَ اِنَّا عَلَىٰٓ ءَاثَـٰرِهِم مُّقْتَدُونَ",
     "urdu_text": "اور اسی طرح هم نے آپ سے پهلے کسی بستی میں کوئی ڈرانے والا نهیں بھیجا مگر وهاں کے خوشحال لوگوں نے کها که هم نے اپنے باپ دادا کو ایک طریقے پر پایا اور هم ان کے نقش قدم پر چلنے والے هیں۔",
     "persian_text": "و همین‌گونه پیش از تو هیچ هشداردهنده‌ای به شهری نفرستادیم مگر آنکه ناز پروردگان آن گفتند ما پدران خود را بر آیینی یافتیم و ما از آثار آنان پیروی می‌کنیم.",
     "transliteration": "Wa kazaalika maa arsalnaa min qablika fee qaryatim min nazheerin illaa qaala mutrafoohaaa innaa wajadnaa aabaaa'anaa 'alaa ummatiw wa innaa 'alaa aathaarihim muqtadoon"
@@ -265,7 +265,7 @@ ayats = [
   {
     "verse_number": 33,
     "english_text": "And were it not that all people would become a single nation, then to those who deny Beneficent Allah We would have certainly made their roofs and stairs of their houses of silver, by which they climb.",
-    "arabic_text": "وَلَوْلَآ اَن يَكُونَ النَّاسُ اُمَّةًۭ وَٰحِدَةًۭ لَّجَعَلْنَا لِمَن يَكْفُرُ بِالرَّحْمَـٰنِ لِبُيُوتِهِمْ سُقُفًۭا مِّن فِضَّةٍۢ وَمَعَارِجَ عَلَيْهَا يَظْهَرُونَ",
+    "arabic_text": "وَ لَوْلَآ اَن يَكُونَ النَّاسُ اُمَّةًۭ وَٰحِدَةًۭ لَّجَعَلْنَا لِمَن يَكْفُرُ بِالرَّحْمَـٰنِ لِبُيُوتِهِمْ سُقُفًۭا مِّن فِضَّةٍۢ وَمَعَارِجَ عَلَيْهَا يَظْهَرُونَ",
     "urdu_text": "اور اگر یه خطره نه هوتا که سب لوگ ایک هی امت بن جائیں گے تو هم ان لوگوں کے لیے جو رحمان کا انکار کرتے هیں، ان کے گھروں کی چھتیں چاندی کی بنا دیتے اور سیڑھیاں بھی جن پر وه چڑھتے هیں۔",
     "persian_text": "و اگر نبود که همه مردم یک امت واحد شوند، برای کسانی که به رحمان کفر می‌ورزند، سقف‌های خانه‌هایشان را از نقره قرار می‌دادیم و نردبان‌هایی که بر آن بالا می‌روند.",
     "transliteration": "Wa law laaa any yakoonan naasu ummatan waahidatal laja'alnaa limay yakfuru bir rahmaani libuyootihim suqufam min fiddatiw wa ma'aarija 'alayhaa yazharoon"
@@ -281,7 +281,7 @@ ayats = [
   {
     "verse_number": 35,
     "english_text": "And from gold also, but it is the material for enjoyment of life of the world only, and the Hereafter near Allah is only for the pious people.",
-    "arabic_text": "وَزُخْرُفًۭا ۚ وَاِن كُلُّ ذَٰلِكَ لَمَّا مَتَـٰعُ الْحَيَوٰةِ الدُّنْيٰۚ وَالْاخِرَةُ عِندَ رَبِّكَ لِلْمُتَّقِينَ",
+    "arabic_text": "وَزُخْرُفًۭا ۚ وَاِن كُلُّ ذٰلِكَ لَمَّا مَتَـٰعُ الْحَيَوٰةِ الدُّنْيٰۚ وَالْاخِرَةُ عِندَ رَبِّكَ لِلْمُتَّقِينَ",
     "urdu_text": "اور سونے کی زینت بھی، لیکن یه سب کچھ صرف دنیا کی زندگی کا سامان هے، اور آخرت تیرے رب کے نزدیک پرهیزگاروں کے لیے هے۔",
     "persian_text": "و زیور طلا نیز، و همه اینها فقط متاع زندگی دنیاست، و آخرت نزد پروردگار تو برای پرهیزگاران است.",
     "transliteration": "Wa zukhrufaa, wa in kullu zaalika lammaa mataa'ul hayaatid dunyaa, wal aakhiratu 'inda rabbika lilmuttaqeen"

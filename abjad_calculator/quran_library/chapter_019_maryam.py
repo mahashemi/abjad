@@ -73,7 +73,7 @@ ayats = [
   {
     "verse_number": 9,
     "english_text": "Allah said: it will happen, your Lord is saying that it is easy for Me, before this you were created when you were nothing.",
-    "arabic_text": "قَالَ كَذَٰلِكَ قَالَ رَبُّكَ هُوَ عَلَىَّ هَيِّنٌ وَ قَدْ خَلَقْتُكَ مِن قَبْلُ وَلَمْ تَكُ شَيْـًۭٔا",
+    "arabic_text": "قَالَ كَذٰلِكَ قَالَ رَبُّكَ هُوَ عَلَىَّ هَيِّنٌ وَ قَدْ خَلَقْتُكَ مِن قَبْلُ وَلَمْ تَكُ شَيْـًۭٔا",
     "urdu_text": "الله نے فرمایا: ایسا هی هوگا، تیرا رب فرماتا هے که یه میرے لیے آسان هے، اور اس سے پهلے میں نے تجھے پیدا کیا تھا جب تو کچھ بھی نهیں تھا۔",
     "persian_text": "فرمود: چنین است، پروردگارت می‌گوید این بر من آسان است، و پیش از این تو را آفریدم در حالی که هیچ چیز نبودی.",
     "transliteration": "Qaala kadhalika qaala rabbuka huwa 'alayya hayyinun wa qad khalaqtuka min qablu wa lam taku shay'a"
@@ -273,7 +273,7 @@ ayats = [
   {
     "verse_number": 34,
     "english_text": "This is the true tale of the son of Maryam, Isa, in which these people doubt (unnecessarily).",
-    "arabic_text": "ذَٰلِكَ عِيسَى ابْنُ مَرْيَمَ ۚ قَوْلَ الْحَقِّ الَّذِى فِيهِ يَمْتَرُونَ",
+    "arabic_text": "ذٰلِكَ عِيسَى ابْنُ مَرْيَمَ ۚ قَوْلَ الْحَقِّ الَّذِى فِيهِ يَمْتَرُونَ",
     "urdu_text": "یه هے عیسیٰ ابن مریم کا سچا بیان، جس میں یه لوگ بلاوجه شک کرتے هیں۔",
     "persian_text": "این است عیسی پسر مریم، سخن حق که در آن شک می‌کنند.",
     "transliteration": "Dhālika 'Īsab-nu Maryama qawlal-ḥaqqi alladhī fīhi yamtarūn"
@@ -465,7 +465,7 @@ ayats = [
   {
     "verse_number": 58,
     "english_text": "These prophets upon whom Allah bestowed His Mercy are the children of Adam, and from the generation of those, to whom We had made to embark on the Ark of Nooh, and are the children of Ibrahim and Yaqoob; and are from the people to whom We have guided and chosen, when verses of (Allah) the Beneficent are recited in front of them, they fall down in prostration while crying.",
-    "arabic_text": "اُو۟لَـٰٓئِكَ الَّذِينَ اَنْعَمَ اللّٰهُ عَلَيْهِم مِّنَ النَّبِيِّـۧنَ مِن ذُرِّيَّةِ ءَادَمَ وَمِمَّنْ حَمَلْنَا مَعَ نُوحٍۢ وَمِن ذُرِّيَّةِ اِبْرَٰهِيمَ وَاِسْرَٰٓءِيلَ وَمِمَّنْ هَدَيْنَا وَاجْتَبَيْنَآ ۚ اِذَا تُتْلَىٰ عَلَيْهِمْ اٰيٰتُ الرَّحْمَـٰنِ خَرُّواْ سُجَّدًۭا وَبُكِيًّۭا ۩",
+    "arabic_text": "اُو۟لَـٰٓئِكَ الَّذِينَ اَنْعَمَ اللّٰهُ عَلَيْهِم مِّنَ النَّبِيِّـۧنَ مِن ذُرِّيَّةِ ءَادَمَ وَمِمَّنْ حَمَلْنَا مَعَ نُوحٍۢ وَ مِن ذُرِّيَّةِ اِبْرَٰهِيمَ وَاِسْرَٰٓءِيلَ وَمِمَّنْ هَدَيْنَا وَاجْتَبَيْنَآ ۚ اِذَا تُتْلَىٰ عَلَيْهِمْ اٰيٰتُ الرَّحْمَـٰنِ خَرُّواْ سُجَّدًۭا وَبُكِيًّۭا ۩",
     "urdu_text": "یه وه نبی هیں جن پر الله نے انعام فرمایا، آدم کی اولاد میں سے اور ان میں سے جنهیں هم نے نوح کے ساتھ کشتی میں سوار کیا تھا، اور ابراهیم اور اسرائیل کی اولاد میں سے، اور ان میں سے جنهیں هم نے هدایت دی اور چن لیا۔ جب ان کے سامنے رحمٰن کی آیات پڑھی جاتیں تو وه روتے هوئے سجدے میں گر پڑتے تھے۔",
     "persian_text": "اینان پیامبرانی هستند که خداوند بر آنان نعمت داد، از فرزندان آدم و از کسانی که با نوح در کشتی سوار کردیم و از نسل ابراهیم و اسرائیل و از کسانی که هدایت کردیم و برگزیدیم. هنگامی که آیات رحمان بر آنان خوانده می‌شد، گریان به سجده می‌افتادند.",
     "transliteration": "Ula'ikal-ladheena an'amallahu 'alayhim minan-nabiyyeena min dhurriyyati Adama wa mimman hamalna ma'a Noohin wa min dhurriyyati Ibraheema wa Isra'eela wa mimman hadayna wajtabayna idha tutla 'alayhim ayatur-Rahmani kharru sujjadan wa bukiyya"
@@ -513,7 +513,7 @@ ayats = [
   {
     "verse_number": 64,
     "english_text": "(O Prophet, said Gabriel), we do not descend without the command of your Lord, whatever is in our front and rear, and whatever is in between them. (i.e. everything) belongs to Him; and your Lord is not forgetful.",
-    "arabic_text": "وَ مَا نَتَنَزَّلُ اِلَّا بِاَمْرِ رَبِّكَ ۖ لَهُ مَا بَيْنَ اَيْدِينَا وَ مَا خَلْفَنَا وَ مَا بَيْنَ ذَٰلِكَ ۚ وَ مَا كَانَ رَبُّكَ نَسِيًّۭا",
+    "arabic_text": "وَ مَا نَتَنَزَّلُ اِلَّا بِاَمْرِ رَبِّكَ ۖ لَهُ مَا بَيْنَ اَيْدِينَا وَ مَا خَلْفَنَا وَ مَا بَيْنَ ذٰلِكَ ۚ وَ مَا كَانَ رَبُّكَ نَسِيًّۭا",
     "urdu_text": "(اے نبی، جبرائیل نے کها) هم تیرے رب کے حکم کے بغیر نهیں اترتے، جو کچھ همارے آگے اور پیچھے هے اور جو اس کے درمیان هے (یعنی هر چیز) اسی کی هے، اور تیرا رب بھولنے والا نهیں۔",
     "persian_text": "(ای پیامبر، جبرئیل گفت) ما جز به فرمان پروردگار تو نازل نمی‌شویم، آنچه پیش روی ما و پشت سر ما و آنچه میان آن است از آن اوست، و پروردگار تو فراموش‌کار نیست.",
     "transliteration": "Wa mā natanazzalu illā bi-amri rabbik, lahū mā bayna aydīnā wa mā khalfanā wa mā bayna dhālik, wa mā kāna rabbuka nasiyyā"

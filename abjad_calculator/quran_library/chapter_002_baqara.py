@@ -146,7 +146,7 @@ ayats = [
   {
     "verse_number": 19,
     "english_text": "Or their likeness is to the night of rain where there is pit darkness, thundering and lightening and with the fear of death they have plugged their ears with their fingers, but Allah has encircled the unbelievers (that they could not escape).",
-    "arabic_text": "اَوْ كَصَيِّبٍ مِّنَ السَّمَآءِ فِيهِ ظُلُمٰتٌ وَ رَعْدٌ وَ بَرْقٌ يَجْعَلُونَ اَصَابِعَهُمْ فِى اٰذَانِهِم مِّنَ الصَّوَاعِقِ حَذَرَ الْمَوْتِ  وَاللّٰهُ مُحِيطٌ بِالْكٰفِرِينَ",
+    "arabic_text": "اَوْ كَصَيِّبٍ مِّنَ السَّمَآءِ فِيهِ ظُلُمٰتٌ وَ رَعْدٌ وَ بَرْقٌ يَجْعَلُونَ اَصَابِعَهُمْ فِى اٰذَانِهِم مِّنَ الصَّوَاعِقِ حَذَرَ الْمَوْتِ  وَ اللّٰهُ مُحِيطٌ بِالْكٰفِرِينَ",
     "urdu_text": "یا ان کی مثال آسمان سے برسنے والی بارش کی سی ہے جس میں اندھیرے، گرج اور بجلی ہو، وہ کڑک سے موت کے خوف سے اپنی انگلیاں اپنے کانوں میں ٹھونس لیتے ہیں، اور اللہ کافروں کو گھیرے ہوئے ہے۔",
     "persian_text": "یا همچون بارانی از آسمان که در آن تاریکی‌ها و رعد و برق است، انگشتان خود را از ترس مرگ از صاعقه‌ها در گوشهایشان می‌گذارند، و خداوند کافران را احاطه کرده است.",
     "transliteration": "Aw kasayyibim minas-sama'i feehi thulumatun wa ra'dun wa barqun yaj'aloona asabi'ahum fee adhanihim minas-sawa'iqi hadhara al-mawt wallahu muheetun bil-kafireen",
@@ -570,7 +570,7 @@ ayats = [
   {
     "verse_number": 72,
     "english_text": "When you killed a person there was a dispute and you started blaming each other and you were hiding but Allah wished to reveal it.",
-    "arabic_text": "وَ اِذْ قَتَلْتُمْ نَفْسًا فَادّٰرءْتُمْ فِيهَا  وَاللّٰهُ مُخْرِجٌ مَّا كُنتُمْ تَكْتُمُونَ",
+    "arabic_text": "وَ اِذْ قَتَلْتُمْ نَفْسًا فَادّٰرءْتُمْ فِيهَا  وَ اللّٰهُ مُخْرِجٌ مَّا كُنتُمْ تَكْتُمُونَ",
     "urdu_text": "اور جب تم نے ایک شخص کو قتل کیا تو اس کے بارے میں جھگڑنے لگے اور ایک دوسرے پر الزام لگانے لگے، اور تم چھپا رہے تھے لیکن اللہ اسے ظاہر کرنے والا تھا جو تم چھپا رہے تھے۔",
     "persian_text": "و هنگامی که شخصی را کشتید، در آن اختلاف کردید و یکدیگر را متهم ساختید، و شما پنهان می‌کردید اما خداوند آنچه را پنهان می‌داشتید آشکار می‌سازد.",
     "transliteration": "Wa iz qataltum nafsan faddaara'tum feehaa, wallaahu mukhrijun maa kuntum taktumoon",
@@ -674,7 +674,7 @@ ayats = [
   {
     "verse_number": 85,
     "english_text": "Then you are the people who kill each other and unfairly assist a group to deport others from the city and it is interesting if they come as prisoners you release them by paying ransom though you were prohibited from deporting them, then do you believe part of the Book of Allah and reject some parts, and whoever among you will follow this will be punished and defamed and will return to the severest punishment on the Day of Judgement and Allah is not unaware of what you do.",
-    "arabic_text": "ثُمَّ اَنتُمْ هٰٓؤُلَآءِ تَقْتُلُونَ اَنفُسَكُمْ وَ تُخْرِجُونَ فَرِيقًا مِّنْكُم مِّن دِيَارِهِمْ تَظٰهَرُونَ عَلَيْهِم بِالْاِثْمِ وَ الْعُدْوانِ  وَ اِن يَاْتُوكُمْ اُسٰرٰى تُفٰدُوهُمْ وَ هُوَ مُحَرَّمٌ عَلَيْكُمْ اِخْرَاجُهُمْ  اَفَتُؤْمِنُونَ بِبَعْضِ الْكِتٰبِ وَ تَكْفُرُونَ بِبَعْضٍ  فَمَا جَزَآءُ مَنْ يَّفْعَلُ ذٰلِكَ مِنكُمْ اِلَّا خِزْىٌ فِى الْحَيٰوةِ الدُّنْيٰ وَ يَوْمَ الْقِيٰمَةِ يُرَدُّونَ اِلٰٓى اَشَدِّ الْعَذَابِ   وَ مَا اللّٰهُ بِغَافِلٍ عَمَّا تَعْمَلُونَ",
+    "arabic_text": "ثُمَّ اَنتُمْ هٰٓؤُلَآءِ تَقْتُلُونَ اَنفُسَكُمْ وَ تُخْرِجُونَ فَرِيقًا مِّنْكُم مِّن دِيَارِهِمْ تَظٰهَرُونَ عَلَيْهِم بِالْاِثْمِ وَ الْعُدْوانِ  وَ اِن يَاْتُوكُمْ اُسٰرٰى تُفٰدُوهُمْ وَ هُوَ مُحَرَّمٌ عَلَيْكُمْ اِخْرَاجُهُمْ  اَفَتُؤْمِنُونَ بِبَعْضِ الْكِتٰبِ وَ تَكْفُرُونَ بِبَعْضٍ  فَمَا جَزَآءُ مَنْ يَّفْعَلُ ذٰلِكَ مِنكُمْ اِلَّا خِزْىٌ فِى الْحَيٰوةِ الدُّنْيَا وَ يَوْمَ الْقِيٰمَةِ يُرَدُّونَ اِلٰٓى اَشَدِّ الْعَذَابِ   وَ مَا اللّٰهُ بِغَافِلٍ عَمَّا تَعْمَلُونَ",
     "urdu_text": "پھر تم وہی لوگ ہو جو ایک دوسرے کو قتل کرتے ہو اور اپنے میں سے ایک گروہ کو ان کے گھروں سے نکالتے ہو، گناہ اور زیادتی سے ان کے خلاف مدد کرتے ہو، اور اگر وہ قیدی بن کر تمہارے پاس آئیں تو فدیہ لے کر انہیں چھڑاتے ہو، حالانکہ ان کا نکالنا تم پر حرام تھا۔ تو کیا تم کتاب اللہ کے کچھ حصے پر ایمان لاتے ہو اور کچھ کا انکار کرتے ہو؟ پس تم میں سے جو ایسا کرے اس کی سزا دنیا کی زندگی میں رسوائی کے سوا کچھ نہیں، اور قیامت کے دن وہ سخت ترین عذاب کی طرف لوٹائے جائیں گے، اور اللہ تمہارے اعمال سے غافل نہیں۔",
     "persian_text": "سپس شما همان کسانی هستید که یکدیگر را می‌کشید و گروهی از خودتان را از خانه‌هایشان بیرون می‌کنید، با گناه و ستم بر ضد آنها همکاری می‌کنید، و اگر اسیر شده نزد شما بیایند با گرفتن فدیه آنها را آزاد می‌کنید، در حالی که بیرون کردن آنها بر شما حرام بود. آیا به بخشی از کتاب خدا ایمان می‌آورید و بخشی را انکار می‌کنید؟ پس جزای کسی از شما که چنین کند جز رسوایی در زندگی دنیا چیزی نیست، و در روز قیامت به سخت‌ترین عذاب بازگردانده خواهند شد، و خداوند از آنچه انجام می‌دهید غافل نیست.",
     "transliteration": "Thumma antum haa'ulaa'i taqtuloona anfusakum wa tukhrijoona fareeqam minkum min diyaarihim tazaaharoona 'alayhim bil-ithmi wal-'udwaani wa in ya'tookum usaaraa tufaadoohum wa huwa muharramun 'alaykum ikhraajuhum. Afatu'minoona biba'dil-kitaabi wa takfuroona biba'd. Famaa jazaa'u man yaf'alu dhaalika minkum illaa khizyun fil-hayaatid-dunyaa wa yawmal-qiyaamati yuradoona ilaa ashaddil-'adhaab. Wa mallaahu bighaafilin 'ammaa ta'maloon.",
@@ -682,7 +682,7 @@ ayats = [
   {
     "verse_number": 86,
     "english_text": "These are the people who brought this world in lieu of the everlasting world, there won’t be any concession in their punishment nor any help will reach them.",
-    "arabic_text": "اُولٰٓئِكَ الَّذِيْنَ اشْتَرَوُا الْحَيٰوةَ الدُّنْيٰبِالْاٰخِرَةِ  فَلَا يُخَفَّفُ عَنْهُمُ الْعَذَابُ وَ لَا هُمْ يُنصَرُونَ",
+    "arabic_text": "اُولٰٓئِكَ الَّذِيْنَ اشْتَرَوُا الْحَيٰوةَ الدُّنْيَا بِالْاٰخِرَةِ  فَلَا يُخَفَّفُ عَنْهُمُ الْعَذَابُ وَ لَا هُمْ يُنصَرُونَ",
     "urdu_text": "یہ وہ لوگ ہیں جنہوں نے آخرت کے بدلے دنیا کی زندگی خرید لی، پس نہ ان سے عذاب ہلکا کیا جائے گا اور نہ ان کی مدد کی جائے گی۔",
     "persian_text": "اینها کسانی هستند که زندگی دنیا را به بهای آخرت خریدند، پس نه عذاب از آنها سبک می‌شود و نه یاری خواهند شد.",
     "transliteration": "Ulaa'ikal-ladheenash-tarawul-hayaatad-dunyaa bil-aakhirati falaa yukhaffafu 'anhumul-'adhaab wa laa hum yunsaroon.",
@@ -906,7 +906,7 @@ ayats = [
   {
     "verse_number": 114,
     "english_text": "And what cruelty will more that people are stopped from going to Mosques and plan to destroy them, they should not enter the Mosques but fearfully, there is heavy punishment for such people on the Day of Judgement.",
-    "arabic_text": "وَ مَنْ اَظْلَمُ مِمَّن مَّنَعَ مَسٰجِدَ اللّٰهِ اَن يُذْكَرَ فِيهَا اسْمُهُ وَ سَعٰى فِى خَرَابِهَا  اُولٰٓئِكَ مَا كَانَ لَهُمْ اَن يَّدْخُلُوهَآ اِلَّا خَآئِفِينَ  لَهُمْ فِى الدُّنْيٰخِزْىٌ  وَّ لَهُمْ فِى الْاٰخِرَةِ عَذَابٌ عَظِيمٌ",
+    "arabic_text": "وَ مَنْ اَظْلَمُ مِمَّن مَّنَعَ مَسٰجِدَ اللّٰهِ اَن يُذْكَرَ فِيهَا اسْمُهُ وَ سَعٰى فِى خَرَابِهَا  اُولٰٓئِكَ مَا كَانَ لَهُمْ اَن يَّدْخُلُوهَآ اِلَّا خَآئِفِينَ  لَهُمْ فِى الدُّنْيَا خِزْىٌ  وَّ لَهُمْ فِى الْاٰخِرَةِ عَذَابٌ عَظِيمٌ",
     "urdu_text": "اور اس سے بڑھ کر ظالم کون ہے جو اللہ کی مسجدوں میں اس کے نام کی یاد سے روکے اور ان کی ویرانی میں کوشش کرے۔ ایسے لوگوں کو مسجدوں میں داخل ہونا نہیں چاہیے مگر ڈرتے ہوئے۔ ان کے لیے دنیا میں رسوائی ہے اور آخرت میں بڑا عذاب ہے۔",
     "persian_text": "و چه کسی ستمکارتر است از آن کس که مساجد الله را از یاد نام او منع کند و در ویرانی آنها بکوشد. چنین کسانی حق ندارند که جز با ترس وارد آنها شوند. برای آنان در دنیا خواری است و در آخرت عذابی بزرگ.",
     "transliteration": "Wa man azlamu mimman mana'a masaajidal laahi any yuzkara feehas muhu wa sa'aa fee kharaabihaa; ulaaa'ika maa kaana lahum any yadkhuloohaaa illaa khaaa'ifeen; lahum fid dunyaa khizyunw wa lahum fil aakhirati 'azaabun 'azeem",
@@ -1034,7 +1034,7 @@ ayats = [
   {
     "verse_number": 130,
     "english_text": "And who is who will hate the way of Ibrahim and make himself fool and verily We selected him in this world, and he will be among the righteous people on the Day of Judgement.",
-    "arabic_text": "وَ مَن يَرْغَبُ عَن مِّلَّةِ اِبْرٰهِمَ اِلَّا مَن سَفِهَ نَفْسَهُ  وَ لَقَدِ اصْطَفَيْنٰهُ فِى الدُّنْيٰ وَ اِنَّهُ فِى الْاٰخِرَةِ لَمِنَ الصّٰلِحِينَ",
+    "arabic_text": "وَ مَن يَرْغَبُ عَن مِّلَّةِ اِبْرٰهِمَ اِلَّا مَن سَفِهَ نَفْسَهُ  وَ لَقَدِ اصْطَفَيْنٰهُ فِى الدُّنْيَا وَ اِنَّهُ فِى الْاٰخِرَةِ لَمِنَ الصّٰلِحِينَ",
     "urdu_text": "اور کون ہے جو ابراہیم کے طریقے سے منہ موڑے سوائے اس کے جو اپنے آپ کو بے وقوف بنائے، اور بے شک ہم نے انہیں دنیا میں چن لیا تھا اور وہ آخرت میں یقیناً نیکوکاروں میں سے ہوں گے۔",
     "persian_text": "و چه کسی از آیین ابراهیم روی می‌گرداند مگر کسی که خود را نادان ساخته است، و به راستی ما او را در دنیا برگزیدیم و او در آخرت قطعاً از شایستگان خواهد بود.",
     "transliteration": "Wa man yarghabu 'an millati Ibraheema illa man safiha nafsahu wa laqadi istafaynahu fid-dunya wa innahu fil-akhirati lamina as-saliheen",
@@ -1594,7 +1594,7 @@ ayats = [
   {
     "verse_number": 200,
     "english_text": "When you complete the Hajj rites then remember Allah as you remember your forefathers, and even more, and there are some people who ask for benefits in this world only, then they would not have any share on the Day of Judgement.",
-    "arabic_text": "فَاِذَا قَضَيْتُمْ مَّنَاسِكَكُمْ فَاذْكُرُوا اللّٰهَ كَذِكْرِكُمْ اٰبَآءَكُمْ اَوْ اَشَدَّ ذِكْرًا   فَمِنَ النَّاسِ مَنْ يَقُولُ رَبَّنَآ اٰتِنَا فِى الدُّنْيٰوَ مَا لَهُ فِى الْاٰخِرَةِ مِنْ خَلَاقٍ",
+    "arabic_text": "فَاِذَا قَضَيْتُمْ مَّنَاسِكَكُمْ فَاذْكُرُوا اللّٰهَ كَذِكْرِكُمْ اٰبَآءَكُمْ اَوْ اَشَدَّ ذِكْرًا   فَمِنَ النَّاسِ مَنْ يَقُولُ رَبَّنَآ اٰتِنَا فِى الدُّنْيَا وَ مَا لَهُ فِى الْاٰخِرَةِ مِنْ خَلَاقٍ",
     "urdu_text": "پھر جب تم اپنے حج کے ارکان پورے کر لو تو اللہ کو یاد کرو جیسے تم اپنے باپ دادا کو یاد کرتے تھے بلکہ اس سے بھی زیادہ، اور کچھ لوگ ایسے ہیں جو کہتے ہیں اے ہمارے رب ہمیں دنیا میں دے دے اور ان کے لیے آخرت میں کوئی حصہ نہیں",
     "persian_text": "پس هنگامی که مناسک حج خود را به پایان رساندید، خداوند را یاد کنید همان‌گونه که پدران خود را یاد می‌کردید یا حتی بیشتر، و برخی از مردم هستند که می‌گویند پروردگارا به ما در دنیا عطا کن و برای آنان در آخرت بهره‌ای نیست",
     "transliteration": "Fa-idha qadaytum manasikakum fadhkurullaha kadhikrikum aba'akum aw ashadda dhikra, famin-nasi man yaqoolu Rabbana atina fid-dunya wa ma lahu fil-akhirati min khalaq",
@@ -1602,7 +1602,7 @@ ayats = [
   {
     "verse_number": 201,
     "english_text": "And there are some people who say O Lord give us the benefits of this world and also reward on the Day of Judgement and save us from Hell-Fire.",
-    "arabic_text": "وَ مِنْهُم مَّن يَّقُولُ رَبَّنَآ اٰتِنَا فِى الدُّنْيٰحَسَنَةً وَّ فِى الْاٰخِرَةِ حَسَنَةً وَّ قِنَا عَذَابَ النَّارِ",
+    "arabic_text": "وَ مِنْهُم مَّن يَّقُولُ رَبَّنَآ اٰتِنَا فِى الدُّنْيَا حَسَنَةً وَّ فِى الْاٰخِرَةِ حَسَنَةً وَّ قِنَا عَذَابَ النَّارِ",
     "urdu_text": "اور ان میں سے کچھ لوگ ایسے ہیں جو کہتے ہیں اے ہمارے رب ہمیں دنیا میں بھلائی عطا فرما اور آخرت میں بھی بھلائی عطا فرما اور ہمیں دوزخ کے عذاب سے بچا",
     "persian_text": "و برخی از آنان هستند که می‌گویند پروردگارا به ما در دنیا نیکی عطا کن و در آخرت نیز نیکی عطا فرما و ما را از عذاب آتش نگه دار",
     "transliteration": "Wa minhum man yaqoolu Rabbana atina fid-dunya hasanatan wa fil-akhirati hasanatan wa qina adhaban-nar",
@@ -1610,7 +1610,7 @@ ayats = [
   {
     "verse_number": 202,
     "english_text": "These are people who will have their portion of what they have earned and Allah is quick in taking account.",
-    "arabic_text": "اُولٰٓئِكَ لَهُمْ نَصِيبٌ مِّمَّا كَسَبُوا  وَاللّٰهُ سَرِيعُ الْحِسَابِ",
+    "arabic_text": "اُولٰٓئِكَ لَهُمْ نَصِيبٌ مِّمَّا كَسَبُوا  وَ اللّٰهُ سَرِيعُ الْحِسَابِ",
     "urdu_text": "یہ وہ لوگ ہیں جن کے لیے ان کی کمائی کا حصہ ہے اور اللہ حساب لینے میں بہت تیز ہے",
     "persian_text": "اینان کسانی هستند که برای آنان بهره‌ای از آنچه کسب کرده‌اند خواهد بود و خداوند سریع الحساب است",
     "transliteration": "Ula'ika lahum naseebun mimma kasabu wallahu saree'ul-hisab",
@@ -1626,7 +1626,7 @@ ayats = [
   {
     "verse_number": 204,
     "english_text": "O Prophet! There are certain people who talk sweetly, which looks nice in this world and they swear on Allah for your love, but they are quarrelsome and your enemies.",
-    "arabic_text": "وَ مِنَ النَّاسِ مَنّ يُّعْجِبُكَ قَوْلُهُ فِى الْحَيٰوةِ الدُّنْيٰوَ يُشْهِدُ اللّٰهَ عَلَٰى مَا فِى قَلْبِهِ وَ هُوَ اَلَدُّ الْخِصَامِ",
+    "arabic_text": "وَ مِنَ النَّاسِ مَنّ يُّعْجِبُكَ قَوْلُهُ فِى الْحَيٰوةِ الدُّنْيَا وَ يُشْهِدُ اللّٰهَ عَلَٰى مَا فِى قَلْبِهِ وَ هُوَ اَلَدُّ الْخِصَامِ",
     "urdu_text": "اور لوگوں میں سے کوئی ایسا ہے کہ اس کی بات دنیا کی زندگی میں تمہیں اچھی لگتی ہے اور وہ اپنے دل کی بات پر اللہ کو گواہ بناتا ہے حالانکہ وہ سخت جھگڑالو ہے",
     "persian_text": "و از مردم کسی است که سخن او در زندگی دنیا تو را به شگفتی آورد و خدا را بر آنچه در دل اوست گواه می‌گیرد در حالی که او سخت‌ترین دشمنان است",
     "transliteration": "Wa mina an-naasi man yu'jibuka qawluhu fil-hayaatid-dunya wa yush-hidul-laaha 'ala ma fee qalbihi wa huwa aladdul-khisaam",
@@ -1690,7 +1690,7 @@ ayats = [
   {
     "verse_number": 212,
     "english_text": "Who has chosen the infidelity world looks beautiful to them, and they make fun of believers whereas on the Day of Judgement the status of pious ones will be much higher, and Allah gives abundant sustenance to whoever He pleases.",
-    "arabic_text": "زُيِّنَ لِلَّذِينَ كَفَرُوا الْحَيٰوةُ الدُّنْيٰوَ يَسْخَرُوْنَ مِنَ الَّذِيْنَ اٰمَنُوا  وَ الَّذِيْنَ اتَّقَوْا فَوْقَهُمْ يَوْمَ الْقِيٰمَةِ   وَاللّٰهُ يَرْزُقُ مَن يَّشَآءُ بِغَيْرِ حِسَابٍ",
+    "arabic_text": "زُيِّنَ لِلَّذِينَ كَفَرُوا الْحَيٰوةُ الدُّنْيَا وَ يَسْخَرُوْنَ مِنَ الَّذِيْنَ اٰمَنُوا  وَ الَّذِيْنَ اتَّقَوْا فَوْقَهُمْ يَوْمَ الْقِيٰمَةِ   وَ اللّٰهُ يَرْزُقُ مَن يَّشَآءُ بِغَيْرِ حِسَابٍ",
     "urdu_text": "جن لوگوں نے کفر اختیار کیا ان کے لیے دنیا کی زندگی خوبصورت بنا دی گئی ہے اور وہ مومنوں کا مذاق اڑاتے ہیں، حالانکہ قیامت کے دن پرہیزگار لوگ ان سے بلند مقام پر ہوں گے، اور اللہ جسے چاہتا ہے بے حساب رزق دیتا ہے",
     "persian_text": "زندگی دنیا برای کسانی که کفر ورزیدند زینت داده شده و از مؤمنان مسخره می‌کنند، در حالی که پرهیزگاران در روز قیامت بالاتر از آنها خواهند بود، و خداوند به هر که بخواهد بی‌حساب روزی می‌دهد",
     "transliteration": "Zuyyina lilladheena kafarul hayatud dunya wa yaskharoona minalladheena aamanu, walladheenattaqaw fawqahum yawmal qiyamah, wallahu yarzuqu man yasha'u bighairi hisab",
@@ -1730,7 +1730,7 @@ ayats = [
   {
     "verse_number": 217,
     "english_text": "O Prophet! They question you whether warfare during the sacred months are allowed, so tell them warfare is great sin in these months, creating hindrance in the way of Allah and denying Allah, and denying entry into Sacred Mosque, is greater sin near Allah, and persecution is much grievous sin than bloodshed, these unbelievers will keep fighting you till they can made you renegades from your religion, and if somebody renegades and dies as unbeliever, such people will not get any reward of their deeds and these are people destined for Hell-Fire and they will remain there forever.",
-    "arabic_text": "يَسْئَلُونَكَ عَنِ الشَّهْرِ الحَرَامِ قِتَالٍ فِيهِ  قُلْ قِتَالٌ فِيهِ كَبِيرٌ  وَ صَدٌّ عَنْ سَبِيلِ اللّٰهِ وَ كُفْرٌ بِهِ وَ الْمَسْجِدِ الْحَرَامِ وَ اِخْرَاجُ اَهْلِهِ مِنْهُ اَكْبَرُ عِنْدَ اللّٰهِ  وَ الْفِتْنَةُ اَكْبَرُ مِنَ الْقَتْلِ   وَ لَا يَزَالُونَ يُقَاتِلُونَكُمْ حَتّٰى يَرُدُّوكُمْ عَنْ دِينِكُمْ اِنِ اسْتَطَاعُوا  وَ مَن يَّرْتَدِدْ مِنكُمْ عَنْ دِينِهِ فَيَمُتْ وَ هُوَ كٰفِرٌ فَاُولٰٓئِكَ حَبِطَتْ اَعْمَالُهُمْ فِى الدُّنْيٰوَ الْاٰخِرَةِ  وَ اُولٰٓئِكَ اَصْحٰبُ النَّارِ  هُمْ فِيهَا خٰلِدُونَ",
+    "arabic_text": "يَسْئَلُونَكَ عَنِ الشَّهْرِ الحَرَامِ قِتَالٍ فِيهِ  قُلْ قِتَالٌ فِيهِ كَبِيرٌ  وَ صَدٌّ عَنْ سَبِيلِ اللّٰهِ وَ كُفْرٌ بِهِ وَ الْمَسْجِدِ الْحَرَامِ وَ اِخْرَاجُ اَهْلِهِ مِنْهُ اَكْبَرُ عِنْدَ اللّٰهِ  وَ الْفِتْنَةُ اَكْبَرُ مِنَ الْقَتْلِ   وَ لَا يَزَالُونَ يُقَاتِلُونَكُمْ حَتّٰى يَرُدُّوكُمْ عَنْ دِينِكُمْ اِنِ اسْتَطَاعُوا  وَ مَن يَّرْتَدِدْ مِنكُمْ عَنْ دِينِهِ فَيَمُتْ وَ هُوَ كٰفِرٌ فَاُولٰٓئِكَ حَبِطَتْ اَعْمَالُهُمْ فِى الدُّنْيَا وَ الْاٰخِرَةِ  وَ اُولٰٓئِكَ اَصْحٰبُ النَّارِ  هُمْ فِيهَا خٰلِدُونَ",
     "urdu_text": "اے نبی! لوگ آپ سے حرمت والے مہینے میں جنگ کے بارے میں پوچھتے ہیں، آپ کہہ دیجیے کہ اس میں جنگ کرنا بڑا گناہ ہے، لیکن اللہ کی راہ سے روکنا اور اللہ کا انکار کرنا اور مسجد حرام سے روکنا اور اس کے رہنے والوں کو وہاں سے نکالنا اللہ کے نزدیک زیادہ بڑا گناہ ہے، اور فتنہ قتل سے بھی بڑھ کر ہے، اور یہ کافر تم سے لڑتے رہیں گے یہاں تک کہ تمہیں تمہارے دین سے پھیر دیں اگر وہ قدرت رکھیں، اور تم میں سے جو اپنے دین سے پھر جائے اور کافر ہو کر مرے تو ایسے لوگوں کے اعمال دنیا اور آخرت میں برباد ہو گئے، اور یہی لوگ جہنم والے ہیں اور وہ اس میں ہمیشہ رہیں گے۔",
     "persian_text": "از تو درباره جنگ در ماه حرام می‌پرسند، بگو جنگ در آن گناه بزرگی است، اما بازداشتن از راه خدا و کفر به او و مسجدالحرام و بیرون کردن اهل آن از آن نزد خدا بزرگتر است، و فتنه از کشتن بزرگتر است، و آنان پیوسته با شما می‌جنگند تا شما را از دینتان برگردانند اگر بتوانند، و هر کس از شما از دینش برگردد و در حال کفر بمیرد پس اعمال آنان در دنیا و آخرت تباه شده است و آنان اهل آتشند و در آن جاودانه خواهند بود.",
     "transliteration": "Yas'aloonaka 'anish-shahril-harami qitalin feehi qul qitalun feehi kabeer wa saddun 'an sabeelillahi wa kufrun bihi wal-masjidil-harami wa ikhraaju ahlihi minhu akbaru 'indallahi wal-fitnatu akbaru minal-qatl wa la yazaloona yuqatiloonakum hatta yaruddookum 'an deenikum inis-tata'oo wa man yartadid minkum 'an deenihi fayamut wa huwa kafirun fa-ula'ika habitat a'maluhum fid-dunya wal-akhirati wa ula'ika as-habun-nari hum feeha khalidoon",
@@ -1754,7 +1754,7 @@ ayats = [
   {
     "verse_number": 220,
     "english_text": "And in this world and the Hereafter they ask you about orphans, tell them setting their affairs right is better and is better if you mix their affairs with yours, eventually they are your brothers, Allah differentiate between perverts and well-wishers very well, and if He wanted, he could have put you in adversity, and verily Allah has great Wisdom.",
-    "arabic_text": "فِى الدُّنْيٰوَ الْاٰخِرَةِ  وَ يَسْئَلُونَكَ عَنِ اليَتٰمٰى  قُلْ اِصْلَاحٌ لَّهُمْ خَيْرٌ  وَ اِن تُخَالِطُوهُمْ فَاِخْوانُكُمْ  وَ اللّٰهُ يَعْلَمُ الْمُفْسِدَ مِنَ الْمُصْلِحِ  وَ لَوْ شَآءَ اللّٰهُ لَاَعْنَتَكُمْ  اِنَّ اللّٰهَ عَزِيْزٌ حَكِيمٌ",
+    "arabic_text": "فِى الدُّنْيَا وَ الْاٰخِرَةِ  وَ يَسْئَلُونَكَ عَنِ اليَتٰمٰى  قُلْ اِصْلَاحٌ لَّهُمْ خَيْرٌ  وَ اِن تُخَالِطُوهُمْ فَاِخْوانُكُمْ  وَ اللّٰهُ يَعْلَمُ الْمُفْسِدَ مِنَ الْمُصْلِحِ  وَ لَوْ شَآءَ اللّٰهُ لَاَعْنَتَكُمْ  اِنَّ اللّٰهَ عَزِيْزٌ حَكِيمٌ",
     "urdu_text": "دنیا اور آخرت میں، اور وہ آپ سے یتیموں کے بارے میں پوچھتے ہیں، آپ کہہ دیجیے کہ ان کی اصلاح بہتر ہے، اور اگر تم ان کے معاملات اپنے ساتھ ملا لو تو وہ تمہارے بھائی ہیں، اور اللہ خرابی کرنے والے اور اصلاح کرنے والے کو خوب جانتا ہے، اور اگر اللہ چاہتا تو تمہیں مشکل میں ڈال دیتا، بے شک اللہ غالب اور حکمت والا ہے",
     "persian_text": "در دنیا و آخرت، و از تو درباره یتیمان می‌پرسند، بگو اصلاح کار آنها بهتر است، و اگر کارهایشان را با خود مخلوط کنید پس آنها برادران شما هستند، و خداوند مفسد را از مصلح می‌شناسد، و اگر خدا می‌خواست شما را به سختی می‌انداخت، همانا خداوند توانا و حکیم است",
     "transliteration": "Fid dunya wal aakhirati wa yas'aloonaka 'anil yataamaa qul islaahul lahum khayrun wa in tukhaalitoo hum fa ikhwaanukum wallaahu ya'lamul mufsida minal muslihi wa law shaaa'allaahu la a'natakum innallaaha 'azeezun hakeem",
@@ -1986,7 +1986,7 @@ ayats = [
   {
     "verse_number": 249,
     "english_text": "When Taloot left the city with his army he said to his companions you will find a river through which you will be tested, whoever will drink its water will not be on my side and whoever will not drink its water will be definitely on my side, however if you will drink a handful of water there is no harm, when they reached the river, everyone except a few drank its water, when Taloot with the believers crossed the river they said today we do not find strength to confront Jaloot and his army, but who were real believers instantly said that it is seen quite a few times when a small group has vanquished the large group with the help of Allah, and Allah is with those who have patience.",
-    "arabic_text": "فَلَمَّا فَصَلَ طَالُوْتُ بِالْجُنُودِ قَالَ اِنَّ اللّٰهَ مُبْتَلِيْكُم بِنَهَرٍ  فَمَنْ شَرِبَ مِنْهُ فَلَيْسَ مِنِّى وَ مَن لَّمْ يَطْعَمْهُ فَاِنَّهُ مِنِّىْٓ اِلَّا مَنِ اغْتَرَفَ غُرْفَةًۭ بِيَدِهِ  فَشَرِبُوا مِنْهُ اِلَّا قَلِيْلًا مِّنْهُمْ  فَلَمَّا جَاوَزَهُ هُوَ وَ الَّذِيْنَ اٰمَنُوا مَعَهُ قَالُوْا لَا طَاقَةَ لَنَا الْيَوْمَ بِجَالُوتَ وَ جُنُودِهِ  قَالَ الَّذِيْنَ يَظُنُّونَ اَنَّهُم مُّلٰقُوا اللّٰهِ كَم مِّن فِئَةٍ قَلِيْلَةٍ غَلَبَتْ فِئَةً كَثِيرَةً بِاِذْنِ اللّٰهِ   وَاللّٰهُ مَعَ الصّٰبِرِينَ",
+    "arabic_text": "فَلَمَّا فَصَلَ طَالُوْتُ بِالْجُنُودِ قَالَ اِنَّ اللّٰهَ مُبْتَلِيْكُم بِنَهَرٍ  فَمَنْ شَرِبَ مِنْهُ فَلَيْسَ مِنِّى وَ مَن لَّمْ يَطْعَمْهُ فَاِنَّهُ مِنِّىْٓ اِلَّا مَنِ اغْتَرَفَ غُرْفَةًۭ بِيَدِهِ  فَشَرِبُوا مِنْهُ اِلَّا قَلِيْلًا مِّنْهُمْ  فَلَمَّا جَاوَزَهُ هُوَ وَ الَّذِيْنَ اٰمَنُوا مَعَهُ قَالُوْا لَا طَاقَةَ لَنَا الْيَوْمَ بِجَالُوتَ وَ جُنُودِهِ  قَالَ الَّذِيْنَ يَظُنُّونَ اَنَّهُم مُّلٰقُوا اللّٰهِ كَم مِّن فِئَةٍ قَلِيْلَةٍ غَلَبَتْ فِئَةً كَثِيرَةً بِاِذْنِ اللّٰهِ   وَ اللّٰهُ مَعَ الصّٰبِرِينَ",
     "urdu_text": "پھر جب طالوت لشکر لے کر روانہ ہوا تو اس نے کہا کہ اللہ تعالیٰ ایک نہر کے ذریعے تمہاری آزمائش کرے گا، جو اس میں سے پانی پیے گا وہ میرا ساتھی نہیں، اور جو اسے نہ چکھے وہ میرا ساتھی ہے، سوائے اس کے جو ہاتھ سے ایک چلو بھر لے، پھر ان میں سے چند کے سوا سب نے اس میں سے پیا، پھر جب طالوت اور اس کے ساتھ ایمان والے دریا پار کر گئے تو انہوں نے کہا کہ آج ہم میں جالوت اور اس کے لشکر کا مقابلہ کرنے کی طاقت نہیں، جو لوگ یقین رکھتے تھے کہ وہ اللہ سے ملنے والے ہیں انہوں نے کہا کہ کتنی ہی بار ایک چھوٹی جماعت نے اللہ کے حکم سے بڑی جماعت پر غالب آئی ہے، اور اللہ صبر کرنے والوں کے ساتھ ہے",
     "persian_text": "پس چون طالوت با سپاهیان بیرون رفت گفت که خداوند شما را به نهری آزمایش می‌کند، پس هر که از آن بنوشد از من نیست و هر که آن را نچشد از من است مگر آنکه یک کف به دست خود بردارد، پس همه از آن نوشیدند جز عده کمی از آنان، پس چون او و کسانی که با او ایمان آورده بودند از آن گذشتند گفتند امروز ما توان مقابله با جالوت و سپاهیانش را نداریم، کسانی که یقین داشتند که به دیدار خدا خواهند رسید گفتند چه بسیار گروه کوچکی که بر گروه بزرگی به اذن خدا پیروز شده است و خداوند با صابران است",
     "transliteration": "Falamma fasala Talootu bil-junoodi qaala innallaaha mubtaleekum bi-naharin faman shariba minhu falaisa minnee wa mal-lam yat'amhu fa-innahu minnee illa manigh-tarafa ghurfatan biyadih fashariboo minhu illa qaleelan minhum falamma jaawazahu huwa wallazeena aamanoo ma'ahu qaaloo laa taaqata lanaa al-yawma bi-Jaaloota wa junoodih qaalal-lazeena yazunnoona annahum mulaaqul-laahi kam min fi'atin qaleelatin ghalabat fi'atan katheeratan bi-iznil-laahi wallaahu ma'as-saabireen",

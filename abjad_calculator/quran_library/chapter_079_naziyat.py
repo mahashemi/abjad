@@ -298,7 +298,7 @@ ayats = [
   {
     "verse_number": 38,
     "english_text": "And adopted the worldly life.",
-    "arabic_text": "وَ اٰثَرَ الْحَيٰوةَ الدُّنْيَا",
+    "arabic_text": "وَ اٰثَرَ الْحَيٰوةَ الدُّنْيَا ",
     "urdu_text": "اور دنیا کی زندگی کو ترجیح دی",
     "persian_text": "و زندگی دنیا را برگزید",
     "transliteration": "Wa atharal hayatad-dunya",

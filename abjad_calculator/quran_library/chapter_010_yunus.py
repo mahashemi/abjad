@@ -50,7 +50,7 @@ ayats = [
   {
     "verse_number": 7,
     "english_text": "Verily those who do not desire for Our Meeting, and are pleased and content on the life of this world, and those who are negligent of Our verses;",
-    "arabic_text": "اِنَّ الَّذِيْنَ لَا يَرْجُونَ لِقَآءَنَا وَ رَضُوا بِالْحَيٰوةِ الدُّنْيٰوَ اطْمَاَنُّوْا بِهَا وَ الَّذِيْنَ هُمْ عَنْ اٰيَاتِنَا غٰفِلُوْنَ",
+    "arabic_text": "اِنَّ الَّذِيْنَ لَا يَرْجُونَ لِقَآءَنَا وَ رَضُوا بِالْحَيٰوةِ الدُّنْيَا وَ اطْمَاَنُّوْا بِهَا وَ الَّذِيْنَ هُمْ عَنْ اٰيَاتِنَا غٰفِلُوْنَ",
     "urdu_text": "بیشک جو لوگ ہماری ملاقات کی امید نہیں رکھتے اور دنیا کی زندگی پر راضی ہیں اور اس سے مطمئن ہو گئے ہیں اور جو ہماری آیات سے غافل ہیں",
     "persian_text": "همانا کسانی که امید دیدار ما را ندارند و به زندگی دنیا خشنود و مطمئن شده‌اند و آنان که از آیات ما غافل هستند",
     "transliteration": "Innal lazeena la yarjoona liqaana wa radoo bil hayatid dunya watma'annoo biha wallazeena hum 'an ayatina ghafiloon",
@@ -178,7 +178,7 @@ ayats = [
   {
     "verse_number": 23,
     "english_text": "When He delivered them, then they started unjust on the land, O People, your unjust would be against yourselves, the fun of life is of few days, later you all will be returned towards Us only, then We will tell what you were doing in the world.",
-    "arabic_text": "فَلَمَّآ اَنجـٰهُمْ اِذَا هُم يَبْغُونَ فِى الْاَرْضِ بِغَيْرِ الْحَقِّ ۗ يٰٓاَيُّهَا النَّاسُ اِنَّمَا بَغْيُكُمْ عَلَىٰٓ اَنْفُسِكُم ۖ مَّتَاعَ الْحَيٰوةِ الدُّنْيٰۖ ثُمَّ اِلَيْنَا مَرْجِعُكُمْ فَنُنَبِّئُكُم بِمَا كُنْتُمْ تَعْمَلُوْنَ",
+    "arabic_text": "فَلَمَّآ اَنجـٰهُمْ اِذَا هُم يَبْغُونَ فِى الْاَرْضِ بِغَيْرِ الْحَقِّ ۗ يٰٓاَيُّهَا النَّاسُ اِنَّمَا بَغْيُكُمْ عَلَىٰٓ اَنْفُسِكُم ۖ مَّتَاعَ الْحَيٰوةِ الدُّنْيَا ۖ ثُمَّ اِلَيْنَا مَرْجِعُكُمْ فَنُنَبِّئُكُم بِمَا كُنْتُمْ تَعْمَلُوْنَ",
     "urdu_text": "پھر جب اللہ نے انہیں نجات دی تو وہ زمین میں ناحق ظلم کرنے لگے، اے لوگو! تمہارا ظلم تمہارے اپنے اوپر ہے، دنیا کی زندگی کا فائدہ چند روزہ ہے، پھر تم سب کو ہماری طرف لوٹنا ہے، پھر ہم تمہیں بتائیں گے جو تم کرتے تھے",
     "persian_text": "پس چون آنان را نجات داد، ناگهان در زمین به ناحق ستم می‌کنند، ای مردم! ستم شما بر خودتان است، این بهره‌مندی زندگی دنیاست، سپس بازگشت شما به سوی ماست، پس شما را از آنچه انجام می‌دادید خبر خواهیم داد",
     "transliteration": "Falamma anjahum idha hum yabghoona fi al-ardi bighayri al-haqqi ya ayyuha an-nasu innama baghyukum 'ala anfusikum mata'a al-hayati ad-dunya thumma ilayna marji'ukum fanunabbi'ukum bima kuntum ta'maloon",
@@ -186,7 +186,7 @@ ayats = [
   {
     "verse_number": 24,
     "english_text": "Life of this world is like rain which We send down from the sky, then the vegetation comes out of the ground which men and animals eat, when the ground became lush green and becomes garnished, so the owners thought now they have an authority over it; then suddenly Our command came on day or night time, and We rendered it like totally harvested field; as if nothing was there in it yesterday, We described Our verses in this way, for the people who reflect.",
-    "arabic_text": "اِنَّمَا مَثَلُ الْحَيٰوةِ الدُّنْيٰكَمَآءٍ اَنْزَلْنٰهُ مِنَ السَّمَآءِ فَاخْتَلَطَ بِهِ نَبَاتُ الْاَرْضِ مِمَّا يَاْكُلُ النَّاسُ وَ الْاَنْعَامُ حَتّٰٓى اِذَآ اَخَذَتِ الْاَرْضُ زُخْرُفَهَا وَ ازَّيَّنَتْ وَ ظَنَّ اَهْلُهَا اَنَّهُمْ قٰدِرُونَ عَلَيْهَآ اَتٰهَا اَمْرُنَا لَيْلًا اَوْ نَهَارًا فَجَعَلْنٰهَا حَصِيْدًا كَاَن لَّمْ تَغْنَ بِالْاَمْسِ ۚ كَذٰلِكَ نُفَصِّلُ الْاٰيٰتِ لِقَوْمٍ يَتَفَكَّرُونَ",
+    "arabic_text": "اِنَّمَا مَثَلُ الْحَيٰوةِ الدُّنْيَا كَمَآءٍ اَنْزَلْنٰهُ مِنَ السَّمَآءِ فَاخْتَلَطَ بِهِ نَبَاتُ الْاَرْضِ مِمَّا يَاْكُلُ النَّاسُ وَ الْاَنْعَامُ حَتّٰٓى اِذَآ اَخَذَتِ الْاَرْضُ زُخْرُفَهَا وَ ازَّيَّنَتْ وَ ظَنَّ اَهْلُهَا اَنَّهُمْ قٰدِرُونَ عَلَيْهَآ اَتٰهَا اَمْرُنَا لَيْلًا اَوْ نَهَارًا فَجَعَلْنٰهَا حَصِيْدًا كَاَن لَّمْ تَغْنَ بِالْاَمْسِ ۚ كَذٰلِكَ نُفَصِّلُ الْاٰيٰتِ لِقَوْمٍ يَتَفَكَّرُونَ",
     "urdu_text": "دنیا کی زندگی کی مثال ایسی ہے جیسے پانی جو ہم نے آسمان سے برسایا، پھر اس سے زمین کی نباتات اگیں جنہیں انسان اور جانور کھاتے ہیں، یہاں تک کہ جب زمین نے اپنی رونق لے لی اور سج سنور گئی اور اس کے مالک سمجھے کہ اب ان کا اس پر اختیار ہے، تو اچانک رات یا دن میں ہمارا حکم آگیا اور ہم نے اسے ایسا کٹا ہوا بنا دیا گویا کل وہاں کچھ تھا ہی نہیں، ہم اسی طرح آیات کو تفصیل سے بیان کرتے ہیں ان لوگوں کے لیے جو غور و فکر کرتے ہیں",
     "persian_text": "مثل زندگی دنیا همچون آبی است که از آسمان فرو فرستادیم، پس گیاهان زمین که مردم و چهارپایان می‌خورند با آن درآمیخت، تا آنگاه که زمین زینت خود را گرفت و آراسته شد و اهلش پنداشتند که بر آن تواناییند، فرمان ما شب یا روز به آن رسید و آن را چون درویده‌ای ساختیم، گویی دیروز هرگز سرسبز نبوده است، اینچنین آیات را برای قومی که تفکر می‌کنند تفصیل می‌دهیم",
     "transliteration": "Innama mathalu al-hayati ad-dunya kama'in anzalnahu mina as-sama'i fakhthalata bihi nabatu al-ardi mimma ya'kulu an-nasu wal-an'amu hatta idha akhadhati al-ardu zukhrufa-ha wazzayyanat wa dhanna ahluha annahum qadiroona 'alayha ataha amruna laylan aw naharan faja'alnaha haseedan ka'an lam taghna bil-amsi kadhalika nufassilu al-ayati liqawmin yatafakkaroon",
@@ -506,7 +506,7 @@ ayats = [
   {
     "verse_number": 64,
     "english_text": "Both, this world and the Hereafter are the places of glad tidings for them, and there cannot be any change in the words of Allah, and this is in fact great achievement.",
-    "arabic_text": "لَهُمُ الْبُشْرَىٰ فِى الْحَيٰوةِ الدُّنْيٰوَ فِى الْاٰخِرَةِ ۚ لَا تَبْدِيلَ لِكَلِمٰتِ اللّٰهِ ۚ ذٰلِكَ هُوَ الْفَوْزُ الْعَظِيمُ",
+    "arabic_text": "لَهُمُ الْبُشْرٰى فِى الْحَيٰوةِ الدُّنْيَا وَ فِى الْاٰخِرَةِ ۚ لَا تَبْدِيلَ لِكَلِمٰتِ اللّٰهِ ۚ ذٰلِكَ هُوَ الْفَوْزُ الْعَظِيمُ",
     "urdu_text": "ان کے لیے دنیا کی زندگی میں اور آخرت میں خوشخبری ہے، اللہ کی باتوں میں کوئی تبدیلی نہیں، یہی بڑی کامیابی ہے۔",
     "persian_text": "برای آنان در زندگی دنیا و آخرت بشارت است، هیچ تغییری در کلمات خدا نیست، این همان رستگاری بزرگ است.",
     "transliteration": "Lahumul bushra fil hayatid dunya wa fil akhirati la tabdeela li kalimatillahi dhalika huwal fawzul 'adheem",
@@ -554,7 +554,7 @@ ayats = [
   {
     "verse_number": 70,
     "english_text": "There is a little rest in this world and then to Us shall be their return, then We will make them taste the severe punishment because of their infidelity.",
-    "arabic_text": "مَتَاعٌ فِى الدُّنْيٰثُمَّ اِلَيْنَا مَرْجِعُهُمْ ثُمَّ نُذِيقُهُمُ الْعَذَابَ الشَّدِيدَ بِمَا كَانُوا يَكْفُرُونَ",
+    "arabic_text": "مَتَاعٌ فِى الدُّنْيَا ثُمَّ اِلَيْنَا مَرْجِعُهُمْ ثُمَّ نُذِيقُهُمُ الْعَذَابَ الشَّدِيدَ بِمَا كَانُوا يَكْفُرُونَ",
     "urdu_text": "دنیا میں تھوڑا سا فائدہ ہے پھر ہماری طرف ان کی واپسی ہے، پھر ہم انہیں سخت عذاب چکھائیں گے اس کفر کی وجہ سے جو وہ کرتے تھے۔",
     "persian_text": "بهره‌ای اندک در دنیاست، سپس بازگشتشان به سوی ماست، آنگاه به سبب کفری که می‌ورزیدند عذاب شدید را به آنها می‌چشانیم.",
     "transliteration": "Mata'un fid-dunya thumma ilayna marji'uhum thumma nudhiquhumuladhaba ash-shadida bima kanu yakfurun",
@@ -698,7 +698,7 @@ ayats = [
   {
     "verse_number": 88,
     "english_text": "And Moosa said: O Lord, You have bestowed on Firaun and his companions the riches of this world, O Lord, they will cause people to go astray from Your path, O Lord, destroy their wealth, harden their hearts; those people shall not believe, until they will see the painful punishment with their eyes.",
-    "arabic_text": "وَ قَالَ مُوسٰى رَبَّنَآ اِنَّكَ اٰتَيْتَ فِرْعَوْنَ وَ مَلَاَهُ زِينَةً وَ اَمْوَالًا فِى الْحَيٰوةِ الدُّنْيٰرَبَّنَا لِيُضِلُّوا عَن سَبِيلِكَ ۖ رَبَّنَا اطْمِسْ عَلَٰى اَمْوَالِهِمْ وَ اشْدُدْ عَلَٰى قُلُوبِهِمْ فَلَا يُؤْمِنُوا حَتَّىٰ يَرَوُا الْعَذَابَ الْاَلِيمَ",
+    "arabic_text": "وَ قَالَ مُوسٰى رَبَّنَآ اِنَّكَ اٰتَيْتَ فِرْعَوْنَ وَ مَلَاَهُ زِينَةً وَ اَمْوَالًا فِى الْحَيٰوةِ الدُّنْيَا رَبَّنَا لِيُضِلُّوا عَن سَبِيلِكَ ۖ رَبَّنَا اطْمِسْ عَلَٰى اَمْوَالِهِمْ وَ اشْدُدْ عَلَٰى قُلُوبِهِمْ فَلَا يُؤْمِنُوا حَتَّىٰ يَرَوُا الْعَذَابَ الْاَلِيمَ",
     "urdu_text": "اور موسیٰ نے کہا اے ہمارے رب تو نے فرعون اور اس کے سرداروں کو دنیا کی زندگی میں زینت اور مال و دولت دیا ہے اے ہمارے رب تاکہ وہ لوگوں کو تیرے راستے سے بھٹکائیں اے ہمارے رب ان کے مالوں کو تباہ کر دے اور ان کے دلوں کو سخت کر دے تو وہ ایمان نہ لائیں یہاں تک کہ دردناک عذاب کو دیکھ لیں",
     "persian_text": "و موسی گفت پروردگارا تو به فرعون و اشراف او زینت و اموال در زندگی دنیا عطا کردی پروردگارا تا مردم را از راه تو گمراه کنند پروردگارا اموال آنان را نابود کن و دلهایشان را سخت گردان تا ایمان نیاورند مگر آنکه عذاب دردناک را ببینند",
     "transliteration": "Wa qala Musa rabbana innaka atayta Fir'awna wa mala'ahu zeenatan wa amwalan fil hayatid dunya rabbana liyudillu 'an sabeelika rabbanatmis 'ala amwalihim washdud 'ala quloobihim fala yu'minu hatta yarawul 'adhabal aleem",
@@ -778,7 +778,7 @@ ayats = [
   {
     "verse_number": 98,
     "english_text": "Then there is no township (whose people) believe and their believing benefitted them, except people of Yunus, when they believed so We averted the disgraceful punishment from their worldly life, and allowed them to live peacefully for a period.",
-    "arabic_text": "فَلَوْلَا كَانَتْ قَرْيَةٌ اٰمَنَتْ فَنَفَعَهَا اِيمَانُهَآ اِلَّا قَوْمَ يُونُسَ لَمَّا اٰمَنُوا كَشَفْنَا عَنْهُمْ عَذَابَ الْخِزْيِ فِى الْحَيٰوةِ الدُّنْيٰوَ مَتَّعْنٰهُمْ اِلَٰى حِينٍ",
+    "arabic_text": "فَلَوْلَا كَانَتْ قَرْيَةٌ اٰمَنَتْ فَنَفَعَهَا اِيمَانُهَآ اِلَّا قَوْمَ يُونُسَ لَمَّا اٰمَنُوا كَشَفْنَا عَنْهُمْ عَذَابَ الْخِزْيِ فِى الْحَيٰوةِ الدُّنْيَا وَ مَتَّعْنٰهُمْ اِلَٰى حِينٍ",
     "urdu_text": "پھر کوئی بستی ایسی نہیں جو ایمان لائی ہو اور اس کا ایمان اسے فائدہ دیا ہو سوائے قوم یونس کے، جب وہ ایمان لائے تو ہم نے ان سے دنیوی زندگی میں رسوائی کا عذاب ٹال دیا اور انہیں ایک مدت تک فائدہ پہنچایا",
     "persian_text": "پس هیچ شهر و آبادی نبود که ایمان آورده و ایمانش به آنان سود رسانده باشد، مگر قوم یونس که چون ایمان آوردند، عذاب خواری را از آنان در زندگی دنیا برطرف ساختیم و تا مدتی از آن بهره‌مند گردانیدیم",
     "transliteration": "Fa law laa kaanat qaryatun aamanat fa-nafa'ahaa eemaanuhaa illaa qawma Yoonus; lammaa aamanoo kashafnaa 'anhum 'azaabal-khizyi fil-hayaatid-dunyaa wa matta'naahum ilaa heen",

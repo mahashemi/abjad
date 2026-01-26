@@ -377,7 +377,7 @@ ayats = [
   {
     "verse_number": 47,
     "english_text": "And those who did unjust, for them there is also other punishment than this; but most of them are unaware about this.",
-    "arabic_text": "وَاِنَّ لِلَّذِينَ ظَلَمُواْ عَذَابًا دُونَ ذَٰلِكَ وَلَـٰكِنَّ اَكْثَرَهُمْ لَا يَعْلَمُونَ",
+    "arabic_text": "وَاِنَّ لِلَّذِينَ ظَلَمُواْ عَذَابًا دُونَ ذٰلِكَ وَلَـٰكِنَّ اَكْثَرَهُمْ لَا يَعْلَمُونَ",
     "urdu_text": "اور بے شک جن لوگوں نے ظلم کیا ان کے لیے اس سے پہلے بھی عذاب ہے لیکن ان میں سے اکثر نہیں جانتے۔",
     "persian_text": "و همانا برای کسانی که ستم کردند عذابی پیش از آن نیز هست، ولی بیشترشان نمی‌دانند.",
     "transliteration": "Wa inna lillazeena zalamoo 'azaaban doona zaalika wa laakinna aksarahum laa ya'lamoon"

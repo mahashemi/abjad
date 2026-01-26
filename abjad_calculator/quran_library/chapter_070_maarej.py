@@ -249,7 +249,7 @@ ayats = [
   {
     "verse_number": 31,
     "english_text": "Then if he who wishes apart from this, he is transgressor.",
-    "arabic_text": "فَمَنِ ابْتَغَىٰ وَرَآءَ ذَٰلِكَ فَاُو۟لَـٰٓئِكَ هُمُ الْعَادُونَ",
+    "arabic_text": "فَمَنِ ابْتَغَىٰ وَرَآءَ ذٰلِكَ فَاُو۟لَـٰٓئِكَ هُمُ الْعَادُونَ",
     "urdu_text": "پھر جو شخص اس کے علاوه کچھ اور چاهے تو ایسے لوگ حد سے تجاوز کرنے والے هیں۔",
     "persian_text": "پس هر کس که فراتر از این بخواهد، آنان تجاوزکارانند.",
     "transliteration": "Fa-mani-btaghā warā'a dhālika fa-ulā'ika humu-l-'ādūn"
@@ -353,7 +353,7 @@ ayats = [
   {
     "verse_number": 44,
     "english_text": "Their eyes will be downcast, and disgrace will have covered them; this will be the Day which has been promised to them.",
-    "arabic_text": "خَـٰشِعَةً اَبْصَـٰرُهُمْ تَرْهَقُهُمْ ذِلَّةٌۭ ۚ ذَٰلِكَ الْيَوْمُ الَّذِى كَانُواْ يُوعَدُونَ",
+    "arabic_text": "خَـٰشِعَةً اَبْصَـٰرُهُمْ تَرْهَقُهُمْ ذِلَّةٌۭ ۚ ذٰلِكَ الْيَوْمُ الَّذِى كَانُواْ يُوعَدُونَ",
     "urdu_text": "ان کی نگاهیں جھکی هوئی هوں گی، ذلت انهیں ڈھانپ لے گی، یه وهی دن هے جس کا ان سے وعده کیا جاتا تھا۔",
     "persian_text": "چشمانشان فروتن است و خواری آنان را فرا می‌گیرد، این همان روزی است که به آنان وعده داده می‌شد.",
     "transliteration": "Khaashi'atan absaaruhum tarhaquhum thillah, thalikal yawmul ladhee kaanoo yoo'adoon"

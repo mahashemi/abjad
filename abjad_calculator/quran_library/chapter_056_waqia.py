@@ -354,7 +354,7 @@ ayats = [
   {
     "verse_number": 45,
     "english_text": "These are the people who were living a very (lavish) luxurious life.",
-    "arabic_text": "اِنَّهُمْ كَانُواْ قَبْلَ ذَٰلِكَ مُتْرَفِينَ",
+    "arabic_text": "اِنَّهُمْ كَانُواْ قَبْلَ ذٰلِكَ مُتْرَفِينَ",
     "urdu_text": "بیشک یہ لوگ اس سے پہلے عیش و عشرت میں رہتے تھے",
     "persian_text": "آنان پیش از این در ناز و نعمت زندگی می‌کردند",
     "transliteration": "Innahum kanu qabla dhalika mutrafeen",

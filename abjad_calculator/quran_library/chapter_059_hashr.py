@@ -18,7 +18,7 @@ ayats = [
   {
     "verse_number": 3,
     "english_text": "If Allah would not have written exile in their fate, then He would have sent punishment on them in the world, and in the Hereafter punishment of Hell is certain.",
-    "arabic_text": "وَلَوْلَا اَن كَتَبَ اللّٰهُ عَلَيْهِمُ الْجَلَآءَ لَعَذَّبَهُمْ فِى الدُّنْيٰۖ وَلَهُمْ فِى الْءَاخِرَةِ عَذَابُ النَّارِ",
+    "arabic_text": "وَ لَوْلَا اَن كَتَبَ اللّٰهُ عَلَيْهِمُ الْجَلَآءَ لَعَذَّبَهُمْ فِى الدُّنْيَا ۖ وَلَهُمْ فِى الْءَاخِرَةِ عَذَابُ النَّارِ",
     "urdu_text": "اور اگر اللہ نے ان کی تقدیر میں جلاوطنی نہ لکھی ہوتی تو انہیں دنیا میں عذاب دیتا، اور آخرت میں ان کے لیے آگ کا عذاب ہے۔",
     "persian_text": "و اگر الله تبعید را بر آنها مقرر نکرده بود، قطعاً در دنیا آنها را عذاب می‌داد و برای آنها در آخرت عذاب آتش است.",
     "transliteration": "Wa lawla an kataballahu 'alayhimul-jala'a la-'adhdhabahum fid-dunya, wa lahum fil-akhirati 'adhabun-nar",
@@ -26,7 +26,7 @@ ayats = [
   {
     "verse_number": 4,
     "english_text": "This is because they disputed with Allah and His prophet, and those who dispute with Allah, then Allah is severe in punishment.",
-    "arabic_text": "ذَٰلِكَ بِاَنَّهُمْ شَآقُّوا اللّٰهَ وَرَسُولَهُ ۖ وَ مَن يُشَآقِّ اللّٰهَ فَاِنَّ اللّٰهَ شَدِيدُ الْعِقَابِ",
+    "arabic_text": "ذٰلِكَ بِاَنَّهُمْ شَآقُّوا اللّٰهَ وَرَسُولَهُ ۖ وَ مَن يُشَآقِّ اللّٰهَ فَاِنَّ اللّٰهَ شَدِيدُ الْعِقَابِ",
     "urdu_text": "یہ اس لیے کہ انہوں نے اللہ اور اس کے رسول سے مخالفت کی، اور جو اللہ سے مخالفت کرے تو بیشک اللہ سخت عذاب دینے والا ہے۔",
     "persian_text": "این بدان سبب است که آنها با الله و رسولش دشمنی کردند و هر کس با الله دشمنی کند، پس الله سخت‌کیفر است.",
     "transliteration": "Dhalika bi-annahum shaqqullaha wa Rasulah, wa man yushaqqillaha fa-innallaha shadid-ul-'iqab",
@@ -98,7 +98,7 @@ ayats = [
   {
     "verse_number": 13,
     "english_text": "O Muslims! You arouse greater fear in their hearts than Allah, this is because this nation is devoid of understanding.",
-    "arabic_text": "لَاَنتُمْ اَشَدُّ رَهْبَةًۭ فِى صُدُورِهِم مِّنَ اللّٰهِ ۚ ذَٰلِكَ بِاَنَّهُمْ قَوْمٌۭ لَّا يَفْقَهُونَ",
+    "arabic_text": "لَاَنتُمْ اَشَدُّ رَهْبَةًۭ فِى صُدُورِهِم مِّنَ اللّٰهِ ۚ ذٰلِكَ بِاَنَّهُمْ قَوْمٌۭ لَّا يَفْقَهُونَ",
     "urdu_text": "اے مسلمانو! تم ان کے دلوں میں اللہ سے زیادہ خوف پیدا کرتے ہو، یہ اس لیے کہ یہ قوم سمجھ نہیں رکھتی",
     "persian_text": "ای مسلمانان! شما در دلهای آنها بیش از خدا ترس ایجاد می‌کنید، این بدان سبب است که آنها قومی هستند که درک نمی‌کنند",
     "transliteration": "La'antum ashaddu rahbatan fi sudurihim minallahi dhalika bi'annahum qawmul-la yafqahun",
@@ -106,7 +106,7 @@ ayats = [
   {
     "verse_number": 14,
     "english_text": "They will never fight collectively with you except when they are in secured towns or from behind the walls, strong is their fighting spirit among them, you think they are united, never, there is severe discord in their hearts; and this is because this nation has no wisdom.",
-    "arabic_text": "لَا يُقَـٰتِلُونَكُمْ جَمِيعًا اِلَّا فِى قُرًى مُّحَصَّنَةٍ اَوْ مِن وَرَآءِ جُدُرٍۢ ۚ بَاْسُهُم بَيْنَهُمْ شَدِيدٌۭ ۖ تَحْسَبُهُمْ جَمِيعًۭا وَقُلُوبُهُمْ شَتَّىٰ ۚ ذَٰلِكَ بِاَنَّهُمْ قَوْمٌۭ لَّا يَعْقِلُونَ",
+    "arabic_text": "لَا يُقَـٰتِلُونَكُمْ جَمِيعًا اِلَّا فِى قُرًى مُّحَصَّنَةٍ اَوْ مِن وَرَآءِ جُدُرٍۢ ۚ بَاْسُهُم بَيْنَهُمْ شَدِيدٌۭ ۖ تَحْسَبُهُمْ جَمِيعًۭا وَقُلُوبُهُمْ شَتَّىٰ ۚ ذٰلِكَ بِاَنَّهُمْ قَوْمٌۭ لَّا يَعْقِلُونَ",
     "urdu_text": "یہ تم سے اکٹھے ہو کر کبھی نہیں لڑیں گے سوائے محفوظ بستیوں میں یا دیواروں کے پیچھے سے، ان میں آپس میں لڑنے کا جوش بہت سخت ہے، تم انہیں متحد سمجھتے ہو حالانکہ ان کے دل بکھرے ہوئے ہیں، یہ اس لیے کہ یہ قوم عقل نہیں رکھتی",
     "persian_text": "آنها هرگز با شما جمعی جنگ نخواهند کرد مگر در شهرهای محصن یا از پشت دیوارها، جنگاوری آنها در میان خودشان شدید است، تو آنها را متحد می‌پنداری ولی دلهایشان پراکنده است، این بدان سبب است که آنها قومی هستند که خرد ندارند",
     "transliteration": "La yuqatilunakum jami'an illa fi quran muhassanatin aw min wara'i judurin ba'suhum baynahum shadidun tahsabuhum jami'an wa qulubuhum shatta dhalika bi'annahum qawmul-la ya'qilun",
@@ -130,7 +130,7 @@ ayats = [
   {
     "verse_number": 17,
     "english_text": "So consequence of both of them is that both shall abide in the Hell forever; and this is really the punishment of the unjust.",
-    "arabic_text": "فَكَانَ عَـٰقِبَتَهُمَآ اَنَّهُمَا فِى النَّارِ خَـٰلِدَيْنِ فِيهَا ۚ وَذَٰلِكَ جَزَٰٓؤُاْ الظَّـٰلِمِينَ",
+    "arabic_text": "فَكَانَ عَـٰقِبَتَهُمَآ اَنَّهُمَا فِى النَّارِ خَـٰلِدَيْنِ فِيهَا ۚ وَذٰلِكَ جَزَٰٓؤُاْ الظَّـٰلِمِينَ",
     "urdu_text": "پس ان دونوں کا انجام یہ ہوا کہ دونوں آگ میں ہمیشہ رہنے والے ہیں، اور یہی ظالموں کی سزا ہے",
     "persian_text": "پس عاقبت هر دوی آنها این است که هر دو در آتش جاودانه خواهند ماند و این است جزای ستمکاران",
     "transliteration": "Fakana 'aqibatahuma annahuma fin-nari khalidayni fiha wa dhalika jaza'u az-zalimin",

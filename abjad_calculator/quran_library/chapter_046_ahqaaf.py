@@ -97,7 +97,7 @@ ayats = [
   {
     "verse_number": 12,
     "english_text": "Before this, it was the Book of Moosa which was guidance and mercy; and this Book is in Arabic which verifies all that it may warn the unjust from the punishment of Allah, and for the good doers it is complete good news.",
-    "arabic_text": "وَمِن قَبْلِهِ كِتٰبُ مُوسَىٰٓ اِمَامًا وَرَحْمَةًۭ ۚ وَهَـٰذَا كِتٰبٌۭ مُّصَدِّقٌۭ لِّسَانًا عَرَبِيًّۭا لِّيُنذِرَ الَّذِينَ ظَلَمُواْ وَبُشْرَىٰ لِلْمُحْسِنِينَ",
+    "arabic_text": "وَمِن قَبْلِهِ كِتٰبُ مُوسَىٰٓ اِمَامًا وَرَحْمَةًۭ ۚ وَهَـٰذَا كِتٰبٌۭ مُّصَدِّقٌۭ لِّسَانًا عَرَبِيًّۭا لِّيُنذِرَ الَّذِينَ ظَلَمُواْ وَبُشْرٰى لِلْمُحْسِنِينَ",
     "urdu_text": "اور اس سے پہلے موسیٰ کی کتاب تھی جو رہنما اور رحمت تھی، اور یہ کتاب عربی زبان میں ہے جو تصدیق کرنے والی ہے تاکہ ظالموں کو اللہ کے عذاب سے ڈرائے، اور نیکی کرنے والوں کے لیے مکمل خوشخبری ہے۔",
     "persian_text": "و پیش از آن، کتاب موسی پیشوا و رحمت بود، و این کتاب به زبان عربی تصدیق‌کننده است تا ستمکاران را از عذاب الهی بترساند، و برای نیکوکاران بشارتی کامل است.",
     "transliteration": "Wa min qablihee kitaabu Moosaaa imaaman wa rahmah, wa haazaa kitaabum-musaddiqul-lisaanan 'arabiyyal-liyunziral-lazeena zalamoo wa bushraa lil-muhsineen"
@@ -169,7 +169,7 @@ ayats = [
   {
     "verse_number": 21,
     "english_text": "And remember brother of Aad, Hud that he warned his nation in the sandy plains, that before him and after him many messengers have passed (saying) do not worship anyone except Allah, I am fearful for you from the punishment of a hard day.",
-    "arabic_text": "۞ وَاذْكُرْ اَخَا عَادٍ اِذْ اَنذَرَ قَوْمَهُ بِالْاَحْقَافِ وَ قَدْ خَلَتِ النُّذُرُ مِنۢ بَيْنِ يَدَيْهِ وَمِنْ خَلْفِهِٓ اَلَّا تَعْبُدُوٓاْ اِلَّا اللّٰهَ اِنِّىٓ اَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ عَظِيمٍۢ",
+    "arabic_text": "۞ وَاذْكُرْ اَخَا عَادٍ اِذْ اَنذَرَ قَوْمَهُ بِالْاَحْقَافِ وَ قَدْ خَلَتِ النُّذُرُ مِنۢ بَيْنِ يَدَيْهِ وَ مِنْ خَلْفِهِٓ اَلَّا تَعْبُدُوٓاْ اِلَّا اللّٰهَ اِنِّىٓ اَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ عَظِيمٍۢ",
     "urdu_text": "اور یاد کرو عاد کے بھائی ہود کو جب اس نے ریتلے میدانوں میں اپنی قوم کو ڈرایا، اور اس سے پہلے اور اس کے بعد بہت سے ڈرانے والے گزر چکے تھے کہ اللہ کے سوا کسی کی عبادت نہ کرو، میں تمہارے لیے ایک بڑے دن کے عذاب سے ڈرتا ہوں۔",
     "persian_text": "و یاد کن برادر قوم عاد، هود را، هنگامی که قوم خود را در سرزمین‌های شنی هشدار داد، و پیش از او و پس از او بسیاری از هشداردهندگان گذشته بودند که جز الله را پرستش نکنید، من بر شما از عذاب روزی بزرگ می‌ترسم.",
     "transliteration": "Wadhkur akha 'Aadin idh andhara qawmahu bil-ahqafi wa qad khalatin-nudhuru min bayni yadayhi wa min khalfihi alla ta'budu illa Allaha inni akhafu 'alaykum 'adhaba yawmin 'adheem"
@@ -201,7 +201,7 @@ ayats = [
   {
     "verse_number": 25,
     "english_text": "It will destroy everything by the command of Allah; result was that nothing was seen except the houses, and like this We punish the criminal nation.",
-    "arabic_text": "تُدَمِّرُ كُلَّ شَىْءٍۭ بِاَمْرِ رَبِّهَا فَاَصْبَحُواْ لَا يُرَىٰٓ اِلَّا مَسَـٰكِنُهُمْ ۚ كَذَٰلِكَ نَجْزِى الْقَوْمَ الْمُجْرِمِينَ",
+    "arabic_text": "تُدَمِّرُ كُلَّ شَىْءٍۭ بِاَمْرِ رَبِّهَا فَاَصْبَحُواْ لَا يُرَىٰٓ اِلَّا مَسَـٰكِنُهُمْ ۚ كَذٰلِكَ نَجْزِى الْقَوْمَ الْمُجْرِمِينَ",
     "urdu_text": "یہ اپنے رب کے حکم سے ہر چیز کو تباہ کر دے گی، نتیجہ یہ ہوا کہ ان کے گھروں کے سوا کچھ نظر نہیں آیا، اور اسی طرح ہم مجرم قوم کو سزا دیتے ہیں۔",
     "persian_text": "همه چیز را به فرمان پروردگارش نابود می‌کند، پس چنان شدند که جز خانه‌هایشان چیزی دیده نمی‌شد، اینگونه قوم مجرمان را کیفر می‌دهیم.",
     "transliteration": "Tudammiru kulla shay'in bi'amri rabbiha fa'asbahu la yura illa masakinuhum kadhalika najzil-qawmal-mujrimeen"
@@ -225,7 +225,7 @@ ayats = [
   {
     "verse_number": 28,
     "english_text": "So why they did not benefitted them whom they have adopted as gods besides Allah to draw near to Him, but instead they disappeared; and this was their lie and slander which they used to fabricate regularly.",
-    "arabic_text": "فَلَوْلَا نَصَرَهُمُ الَّذِينَ اتَّخَذُواْ مِن دُونِ اللّٰهِ قُرْبَانًا ءَالِهَةًۢ ۖ بَلْ ضَلُّواْ عَنْهُمْ ۚ وَذَٰلِكَ اِفْكُهُمْ وَ مَا كَانُواْ يَفْتَرُونَ",
+    "arabic_text": "فَلَوْلَا نَصَرَهُمُ الَّذِينَ اتَّخَذُواْ مِن دُونِ اللّٰهِ قُرْبَانًا ءَالِهَةًۢ ۖ بَلْ ضَلُّواْ عَنْهُمْ ۚ وَذٰلِكَ اِفْكُهُمْ وَ مَا كَانُواْ يَفْتَرُونَ",
     "urdu_text": "تو کیوں ان کی مدد نہیں کی جنہیں انہوں نے اللہ کے سوا قربت حاصل کرنے کے لیے معبود بنایا تھا، بلکہ وہ ان سے غائب ہو گئے، اور یہ ان کا جھوٹ اور بہتان تھا جو وہ گھڑتے رہتے تھے۔",
     "persian_text": "پس چرا آنانی که به جای الله برای تقرب به او خدایانی اتخاذ کرده بودند، آنان را یاری نکردند، بلکه از آنان گم شدند، و این دروغ و افترایی بود که می‌بستند.",
     "transliteration": "Falawla nasarahumul-ladheenat-takhadhu min dunillahi qurbanan alihatan bal dallu 'anhum wa dhalika ifkuhum wa ma kanu yaftaroon"

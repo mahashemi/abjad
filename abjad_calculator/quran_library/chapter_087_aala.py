@@ -122,7 +122,7 @@ ayats = [
   {
     "verse_number": 16,
     "english_text": "But you people give precedence to the worldly life.",
-    "arabic_text": "بَلْ تُؤْثِرُونَ الْحَيَٰوةَ الدُّنْيَا",
+    "arabic_text": "بَلْ تُؤْثِرُونَ الْحَيَٰوةَ الدُّنْيَا ",
     "urdu_text": "بلکہ تم دنیا کی زندگی کو ترجیح دیتے ہو",
     "persian_text": "بلکه شما زندگی دنیا را ترجیح می‌دهید",
     "transliteration": "Bal tu'thiroona al-hayaata ad-dunya",

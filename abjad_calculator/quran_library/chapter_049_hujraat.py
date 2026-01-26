@@ -41,7 +41,7 @@ ayats = [
   {
     "verse_number": 5,
     "english_text": "And if they had been patient till you come out, it would have been better for them, and Allah is all Forgiving and Merciful.",
-    "arabic_text": "وَ لَوْ اَنَّهُمْ صَبَرُواْ حَتَّىٰ تَخْرُجَ اِلَيْهِمْ لَكَانَ خَيْرًا لَّهُمْ ۚ وَاللّٰهُ غَفُورٌۭ رَّحِيمٌۭ",
+    "arabic_text": "وَ لَوْ اَنَّهُمْ صَبَرُواْ حَتَّىٰ تَخْرُجَ اِلَيْهِمْ لَكَانَ خَيْرًا لَّهُمْ ۚ وَ اللّٰهُ غَفُورٌۭ رَّحِيمٌۭ",
     "urdu_text": "اور اگر وہ صبر کرتے یہاں تک کہ آپ ان کے پاس باہر تشریف لاتے تو یہ ان کے لیے بہتر ہوتا، اور اللہ بخشنے والا مہربان ہے۔",
     "persian_text": "و اگر آنان صبر می‌کردند تا تو به سوی آنان بیرون آیی، برای آنان بهتر بود، و خداوند آمرزنده و مهربان است.",
     "transliteration": "Wa law annahum sabaroo hattaa takhruja ilayhim lakaana khayral-lahum, wallaahu ghafoorur-raheem"
@@ -65,7 +65,7 @@ ayats = [
   {
     "verse_number": 8,
     "english_text": "This is Allah's Grace and His Blessings, and Allah is Knower of everything and (He) also has Wisdom.",
-    "arabic_text": "فَضْلًا مِّنَ اللّٰهِ وَنِعْمَةًۭ ۚ وَاللّٰهُ عَلِيمٌ حَكِيمٌۭ",
+    "arabic_text": "فَضْلًا مِّنَ اللّٰهِ وَنِعْمَةًۭ ۚ وَ اللّٰهُ عَلِيمٌ حَكِيمٌۭ",
     "urdu_text": "یہ اللہ کا فضل اور اس کی نعمت ہے، اور اللہ جاننے والا حکمت والا ہے۔",
     "persian_text": "این فضل و نعمتی از جانب خداست، و خداوند دانا و حکیم است.",
     "transliteration": "Fadlam-minal-laahi wa ni'mah, wallaahu 'aleemun hakeem"
@@ -129,7 +129,7 @@ ayats = [
   {
     "verse_number": 16,
     "english_text": "You tell them: are you teaching your religion to Allah, whereas He is Aware of everything in the skies and the earth, and He is Knower of everything of the universe.",
-    "arabic_text": "قُلْ اَتُعَلِّمُونَ اللّٰهَ بِدِينِكُمْ وَاللّٰهُ يَعْلَمُ مَا فِى السَّمَـٰوَٰتِ وَ مَا فِى الْاَرْضِ ۚ وَاللّٰهُ بِكُلِّ شَىْءٍ عَلِيمٌۭ",
+    "arabic_text": "قُلْ اَتُعَلِّمُونَ اللّٰهَ بِدِينِكُمْ وَ اللّٰهُ يَعْلَمُ مَا فِى السَّمَـٰوَٰتِ وَ مَا فِى الْاَرْضِ ۚ وَ اللّٰهُ بِكُلِّ شَىْءٍ عَلِيمٌۭ",
     "urdu_text": "آپ کہہ دیجیے: کیا تم اللہ کو اپنے دین کی تعلیم دے رہے ہو؟ حالانکہ اللہ آسمانوں اور زمین میں جو کچھ ہے سب کو جانتا ہے، اور اللہ ہر چیز کا جاننے والا ہے۔",
     "persian_text": "بگو آیا شما دین خود را به خدا می‌آموزید؟ در حالی که خداوند آنچه را در آسمان‌ها و زمین است می‌داند، و خداوند به هر چیزی دانا است.",
     "transliteration": "Qul atu'allimūna Allāha bi-dīnikum wa Allāhu ya'lamu mā fī al-samāwāti wa mā fī al-arḍi wa Allāhu bikulli shay'in 'alīm"
@@ -145,7 +145,7 @@ ayats = [
   {
     "verse_number": 18,
     "english_text": "Indeed, Allah is aware of every unseen of the skies and the earth, and He is seeing all your deeds.",
-    "arabic_text": "اِنَّ اللّٰهَ يَعْلَمُ غَيْبَ السَّمَـٰوَٰتِ وَالْاَرْضِ ۚ وَاللّٰهُ بَصِيرٌۢ بِمَا تَعْمَلُونَ",
+    "arabic_text": "اِنَّ اللّٰهَ يَعْلَمُ غَيْبَ السَّمَـٰوَٰتِ وَالْاَرْضِ ۚ وَ اللّٰهُ بَصِيرٌۢ بِمَا تَعْمَلُونَ",
     "urdu_text": "بیشک اللہ آسمانوں اور زمین کی ہر پوشیدہ چیز کو جانتا ہے، اور اللہ تمہارے تمام اعمال کو دیکھنے والا ہے۔",
     "persian_text": "همانا خداوند غیب آسمان‌ها و زمین را می‌داند، و خداوند به آنچه انجام می‌دهید بینا است.",
     "transliteration": "Inna Allāha ya'lamu ghayba al-samāwāti wa al-arḍi wa Allāhu baṣīrun bimā ta'malūn"

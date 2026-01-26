@@ -105,7 +105,7 @@ ayats = [
   {
     "verse_number": 13,
     "english_text": "And only He made subservient everything of earth and skies for you; Verily in these, signs are found for that nation which ponder.",
-    "arabic_text": "وَسَخَّرَ لَكُم مَّا فِى السَّمَـٰوَٰتِ وَ مَا فِى الْاَرْضِ جَمِيعًۭا مِّنْهُ ۚ اِنَّ فِى ذَٰلِكَ لَـَٔايَـٰتٍۢ لِّقَوْمٍۢ يَتَفَكَّرُونَ",
+    "arabic_text": "وَسَخَّرَ لَكُم مَّا فِى السَّمَـٰوَٰتِ وَ مَا فِى الْاَرْضِ جَمِيعًۭا مِّنْهُ ۚ اِنَّ فِى ذٰلِكَ لَـَٔايَـٰتٍۢ لِّقَوْمٍۢ يَتَفَكَّرُونَ",
     "urdu_text": "اور اسی نے تمهارے لیے آسمانوں اور زمین میں جو کچھ هے سب کو مسخر کر دیا، یه سب اسی کی طرف سے هے۔ بیشک اس میں نشانیاں هیں ان لوگوں کے لیے جو غور و فکر کرتے هیں۔",
     "persian_text": "و آنچه در آسمان‌ها و آنچه در زمین است، همه را از جانب خود برای شما رام کرد. در این، نشانه‌هایی است برای قومی که تفکر می‌کنند.",
     "transliteration": "Wa sakhkhara lakum maa fis samaawaati wa maa fil ardi jamee'am minhu, inna fee zaalika la-aayaatil liqawmiy yatafakkaroon"
@@ -153,7 +153,7 @@ ayats = [
   {
     "verse_number": 19,
     "english_text": "These people are not of slightest useful against Allah, these oppressors are friends of each other, so then Allah is Guardian of the pious people.",
-    "arabic_text": "اِنَّهُمْ لَن يُغْنُواْ عَنكَ مِنَ اللّٰهِ شَيْـًۭٔا ۚ وَاِنَّ الظَّـٰلِمِينَ بَعْضُهُمْ اَوْلِيَآءُ بَعْضٍۢ ۖ وَاللّٰهُ وَلِىُّ الْمُتَّقِينَ",
+    "arabic_text": "اِنَّهُمْ لَن يُغْنُواْ عَنكَ مِنَ اللّٰهِ شَيْـًۭٔا ۚ وَاِنَّ الظَّـٰلِمِينَ بَعْضُهُمْ اَوْلِيَآءُ بَعْضٍۢ ۖ وَ اللّٰهُ وَلِىُّ الْمُتَّقِينَ",
     "urdu_text": "یه لوگ الله کے مقابلے میں تمهارے کچھ بھی کام نهیں آئیں گے۔ ظالم لوگ ایک دوسرے کے دوست هیں، اور الله پرهیزگاروں کا دوست هے۔",
     "persian_text": "آنان هرگز در برابر خدا چیزی از تو دفع نخواهند کرد. و همانا ستمگران یاور یکدیگرند، و خداوند یاور پرهیزگاران است.",
     "transliteration": "Innahum lay yughnoo 'anka minAllaahi shay'aa, wa innaz zaalimeena ba'duhum awliyaaa'u ba'd, wallaahu waliyyul muttaqeen"
@@ -193,7 +193,7 @@ ayats = [
   {
     "verse_number": 24,
     "english_text": "And these people say that this is worldly life only in which we die and live and time destroys us; they have no knowledge of this, that this is their thinking only, and that's it.",
-    "arabic_text": "وَ قَالُوْاْ مَا هِىَ اِلَّا حَيَاتُنَا الدُّنْيٰنَمُوتُ وَنَحْيٰوَ مَا يُهْلِكُنَآ اِلَّا الدَّهْرُ ۚ وَ مَا لَهُم بِذَٰلِكَ مِنْ عِلْمٍ ۖ اِنْ هُمْ اِلَّا يَظُنُّونَ",
+    "arabic_text": "وَ قَالُوْاْ مَا هِىَ اِلَّا حَيَاتُنَا الدُّنْيٰنَمُوتُ وَنَحْيٰوَ مَا يُهْلِكُنَآ اِلَّا الدَّهْرُ ۚ وَ مَا لَهُم بِذٰلِكَ مِنْ عِلْمٍ ۖ اِنْ هُمْ اِلَّا يَظُنُّونَ",
     "urdu_text": "اور یه لوگ کهتے هیں که یه صرف دنیاوی زندگی هے جس میں هم مرتے اور جیتے هیں اور وقت همیں هلاک کرتا هے۔ انهیں اس کا کوئی علم نهیں، یه صرف ان کا گمان هے، بس۔",
     "persian_text": "و آنها گفتند: جز این زندگی دنیوی چیزی نیست که در آن می‌میریم و زندگی می‌کنیم، و جز روزگار چیزی ما را هلاک نمی‌کند. و آنها از این هیچ علمی ندارند، جز اینکه گمان می‌برند.",
     "transliteration": "Wa qālū mā hiya illā ḥayātunā ad-dunyā namūtu wa naḥyā wa mā yuhlikunā illā ad-dahr, wa mā lahum bi-dhālika min 'ilmin in hum illā yaẓunnūn"
@@ -241,7 +241,7 @@ ayats = [
   {
     "verse_number": 30,
     "english_text": "Now, those who believed and did good deeds, Allah will make them enter into His Mercy, this is obvious success.",
-    "arabic_text": "فَاَمَّا الَّذِينَ ءَامَنُواْ وَعَمِلُواْ الصَّـٰلِحَـٰتِ فَيُدْخِلُهُمْ رَبُّهُمْ فِى رَحْمَتِهِ ۚ ذَٰلِكَ هُوَ الْفَوْزُ الْمُبِينُ",
+    "arabic_text": "فَاَمَّا الَّذِينَ ءَامَنُواْ وَعَمِلُواْ الصَّـٰلِحَـٰتِ فَيُدْخِلُهُمْ رَبُّهُمْ فِى رَحْمَتِهِ ۚ ذٰلِكَ هُوَ الْفَوْزُ الْمُبِينُ",
     "urdu_text": "اب جو لوگ ایمان لائے اور نیک عمل کیے، الله انهیں اپنی رحمت میں داخل کرے گا، یهی واضح کامیابی هے۔",
     "persian_text": "اما کسانی که ایمان آوردند و کارهای نیک انجام دادند، پروردگارشان آنها را در رحمت خود داخل خواهد کرد، این همان رستگاری آشکار است.",
     "transliteration": "Fa-ammā alladhīna āmanū wa 'amilū aṣ-ṣāliḥāti fa-yudkhiluhum rabbuhum fī raḥmatih, dhālika huwa al-fawzu al-mubīn"

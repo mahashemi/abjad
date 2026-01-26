@@ -49,7 +49,7 @@ ayats = [
   {
     "verse_number": 6,
     "english_text": "That is Allah, the knower of all things; present and the unseen, and He is the Mighty, the Merciful.",
-    "arabic_text": "ذَٰلِكَ عَـٰلِمُ الْغَيْبِ وَالشَّهَـٰدَةِ الْعَزِيزُ الرَّحِيمُ",
+    "arabic_text": "ذٰلِكَ عَـٰلِمُ الْغَيْبِ وَالشَّهَـٰدَةِ الْعَزِيزُ الرَّحِيمُ",
     "urdu_text": "یہ ہے اللہ جو غیب اور حاضر کا جاننے والا، زبردست اور مہربان ہے۔",
     "persian_text": "این است خداوند، دانای غیب و شهادت، توانا و مهربان.",
     "transliteration": "Zaalika 'Aalimul-ghaybi wash-shahaadatil-'Azeezur-Raheem"
@@ -209,7 +209,7 @@ ayats = [
   {
     "verse_number": 26,
     "english_text": "Is it not enough for their guidance that We destroyed many nations before them, in the settlements they are moving around, and there are many signs in this, so do not they listen?",
-    "arabic_text": "اَوَلَمْ يَهْدِ لَهُمْ كَمْ اَهْلَكْنَا مِن قَبْلِهِم مِّنَ الْقُرُونِ يَمْشُونَ فِى مَسَـٰكِنِهِمْ ۚ اِنَّ فِى ذَٰلِكَ لَـَٔايَـٰتٍ ۖ اَفَلَا يَسْمَعُونَ",
+    "arabic_text": "اَوَلَمْ يَهْدِ لَهُمْ كَمْ اَهْلَكْنَا مِن قَبْلِهِم مِّنَ الْقُرُونِ يَمْشُونَ فِى مَسَـٰكِنِهِمْ ۚ اِنَّ فِى ذٰلِكَ لَـَٔايَـٰتٍ ۖ اَفَلَا يَسْمَعُونَ",
     "urdu_text": "کیا ان کے لیے یہ ہدایت نہیں کہ ہم نے ان سے پہلے کتنی قوموں کو ہلاک کیا جن کی بستیوں میں یہ چلتے پھرتے ہیں؟ بیشک اس میں بہت سی نشانیاں ہیں، کیا یہ سنتے نہیں؟",
     "persian_text": "آیا برای آنان راهنمایی نیست که چه بسیار نسل‌ها را پیش از آنان هلاک کردیم که در خانه‌های آنان راه می‌روند؟ همانا در این نشانه‌هایی است، آیا نمی‌شنوند؟",
     "transliteration": "Awalam yahdi lahum kam ahlaknaa min qablihim minal qurooni yamshoona fee masaakinihim inna fee dhaalika la-aayaatin afalaa yasma'oon"

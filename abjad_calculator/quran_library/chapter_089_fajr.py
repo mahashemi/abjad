@@ -34,7 +34,7 @@ ayats = [
   {
     "verse_number": 5,
     "english_text": "Verily there is an oath in these things for the people of understanding.",
-    "arabic_text": "هَلْ فِى ذَٰلِكَ قَسَمٌ لِّذِى حِجْرٍ",
+    "arabic_text": "هَلْ فِى ذٰلِكَ قَسَمٌ لِّذِى حِجْرٍ",
     "urdu_text": "کیا ان چیزوں میں عقل والوں کے لیے بڑی قسم ہے",
     "persian_text": "آیا در این سوگندها برای صاحبان خرد قسمی است",
     "transliteration": "Hal fee zaalika qasamul lizee hijr",

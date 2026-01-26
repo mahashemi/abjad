@@ -25,7 +25,7 @@ ayats = [
   {
     "verse_number": 3,
     "english_text": "Infidels say the Day of Judgment is not going to come, say: by Allah, it will Verily come, He has knowledge of the unseen, and no particle of sky and the earth is away from Him; nothing small or bigger than this but everything is present in this manifest Book.",
-    "arabic_text": "وَقَالَ الَّذِينَ كَفَرُواْ لَا تَاْتِينَا السَّاعَةُ ۖ قُلْ بَلَىٰ وَرَبِّى لَتَاْتِيَنَّكُمْ عَـٰلِمِ الْغَيْبِ ۖ لَا يَعْزُبُ عَنْهُ مِثْقَالُ ذَرَّةٍۢ فِى السَّمَـٰوَٰتِ وَ لَا فِى الْاَرْضِ وَ لَآ اَصْغَرُ مِن ذَٰلِكَ وَ لَآ اَكْبَرُ اِلَّا فِى كِتٰبٍۢ مُّبِينٍۢ",
+    "arabic_text": "وَقَالَ الَّذِينَ كَفَرُواْ لَا تَاْتِينَا السَّاعَةُ ۖ قُلْ بَلَىٰ وَرَبِّى لَتَاْتِيَنَّكُمْ عَـٰلِمِ الْغَيْبِ ۖ لَا يَعْزُبُ عَنْهُ مِثْقَالُ ذَرَّةٍۢ فِى السَّمَـٰوَٰتِ وَ لَا فِى الْاَرْضِ وَ لَآ اَصْغَرُ مِن ذٰلِكَ وَ لَآ اَكْبَرُ اِلَّا فِى كِتٰبٍۢ مُّبِينٍۢ",
     "urdu_text": "اور کافروں نے کها که قیامت هم پر نهیں آئے گی، کهه دو که کیوں نهیں، میرے رب کی قسم! ضرور تم پر آئے گی، وه غیب کا جاننے والا هے، آسمانوں اور زمین میں ذره برابر بھی کوئی چیز اس سے پوشیده نهیں، نه اس سے چھوٹی اور نه بڑی، مگر سب کچھ کھلی کتاب میں موجود هے۔",
     "persian_text": "و کسانی که کافر شدند گفتند: قیامت بر ما نخواهد آمد. بگو: آری، به پروردگارم سوگند که حتماً بر شما خواهد آمد، او دانای غیب است، از او به وزن ذره‌ای در آسمان‌ها و زمین پنهان نیست، و نه کوچکتر از آن و نه بزرگتر، مگر اینکه در کتاب آشکار است.",
     "transliteration": "Wa qalal-lazina kafaru la ta'tinas-sa'atu qul bala wa rabbi lata'tiyannakum 'alimil-ghaybi la ya'zubu 'anhu mithqalu zarratin fis-samawati wa la fil-ardi wa la asgharu min zalika wa la akbaru illa fi kitabim-mubin"
@@ -73,7 +73,7 @@ ayats = [
   {
     "verse_number": 9,
     "english_text": "Did not they see the skies and the earth, and things of their front and their back? If We wish we can sink them in the earth or make the sky fall on them in pieces, and in these signs of Power of Allah are found for those who ponder.",
-    "arabic_text": "اَفَلَمْ يَرَوْاْ اِلـٰى مَا بَيْنَ اَيْدِيهِمْ وَ مَا خَلْفَهُم مِّنَ السَّمَآءِ وَالْاَرْضِ ۚ اِن نَّشَاْ نَخْسِفْ بِهِمُ الْاَرْضَ اَوْ نُسْقِطْ عَلَيْهِمْ كِسَفًۭا مِّنَ السَّمَآءِ ۚ اِنَّ فِى ذَٰلِكَ لَـَٔايَةًۭ لِّكُلِّ عَبْدٍۢ مُّنِيبٍۢ",
+    "arabic_text": "اَفَلَمْ يَرَوْاْ اِلـٰى مَا بَيْنَ اَيْدِيهِمْ وَ مَا خَلْفَهُم مِّنَ السَّمَآءِ وَالْاَرْضِ ۚ اِن نَّشَاْ نَخْسِفْ بِهِمُ الْاَرْضَ اَوْ نُسْقِطْ عَلَيْهِمْ كِسَفًۭا مِّنَ السَّمَآءِ ۚ اِنَّ فِى ذٰلِكَ لَـَٔايَةًۭ لِّكُلِّ عَبْدٍۢ مُّنِيبٍۢ",
     "urdu_text": "کیا انهوں نے آسمان اور زمین کو نهیں دیکھا جو ان کے آگے اور پیچھے هے؟ اگر هم چاهیں تو انهیں زمین میں دھنسا دیں یا آسمان کے ٹکڑے ان پر گرا دیں، بیشک اس میں هر رجوع کرنے والے بندے کے لیے نشانی هے۔",
     "persian_text": "آیا آنچه را که در پیش و پشت آنان از آسمان و زمین است نمی‌بینند؟ اگر بخواهیم آنان را در زمین فرو می‌بریم یا پاره‌ای از آسمان بر آنان فرو می‌ریزیم، در این نشانه‌ای است برای هر بنده‌ای که به سوی خدا بازگردد.",
     "transliteration": "Afalam yaraw ila ma bayna aydihim wa ma khalfahum minas-sama'i wal-ardi in nasha' nakhsif bihimul-arda aw nusqit 'alayhim kisafam-minas-sama'i inna fi zalika la-ayatal-likulli 'abdim-munib"
@@ -137,7 +137,7 @@ ayats = [
   {
     "verse_number": 17,
     "english_text": "This punishment was because of their ungratefulness, and to whom We give punishment, except the ungrateful.",
-    "arabic_text": "ذَٰلِكَ جَزَيْنَـٰهُم بِمَا كَفَرُواْ ۖ وَهَلْ نُجَـٰزِىٓ اِلَّا الْكَفُورَ",
+    "arabic_text": "ذٰلِكَ جَزَيْنَـٰهُم بِمَا كَفَرُواْ ۖ وَهَلْ نُجَـٰزِىٓ اِلَّا الْكَفُورَ",
     "urdu_text": "یه هم نے انهیں ان کی ناشکری کی سزا دی، اور هم سزا نهیں دیتے مگر ناشکروں کو۔",
     "persian_text": "این جزای آنان بود به سبب کفرانشان، و آیا جز ناسپاس را کیفر می‌دهیم؟",
     "transliteration": "Dhaalika jazaynaahum bimaa kafaroo wa hal nujaazee illaa al-kafoor"
@@ -153,7 +153,7 @@ ayats = [
   {
     "verse_number": 19,
     "english_text": "On this they said: O Lord, make our journey far away and like this they were unjust on their souls; so We left them as tales and broke them into pieces; and Verily signs are found in them for those who are patient and grateful.",
-    "arabic_text": "فَقَالُوْاْ رَبَّنَا بَـٰعِدْ بَيْنَ اَسْفَارِنَا وَظَلَمُوٓاْ اَنفُسَهُمْ فَجَعَلْنَـٰهُمْ اَحَادِيثَ وَمَزَّقْنَـٰهُمْ كُلَّ مُمَزَّقٍ ۚ اِنَّ فِى ذَٰلِكَ لَـَٔايَـٰتٍۢ لِّكُلِّ صَبَّارٍۢ شَكُورٍۢ",
+    "arabic_text": "فَقَالُوْاْ رَبَّنَا بَـٰعِدْ بَيْنَ اَسْفَارِنَا وَظَلَمُوٓاْ اَنفُسَهُمْ فَجَعَلْنَـٰهُمْ اَحَادِيثَ وَمَزَّقْنَـٰهُمْ كُلَّ مُمَزَّقٍ ۚ اِنَّ فِى ذٰلِكَ لَـَٔايَـٰتٍۢ لِّكُلِّ صَبَّارٍۢ شَكُورٍۢ",
     "urdu_text": "تو انهوں نے کها اے همارے رب! همارے سفروں کے درمیان فاصلے بڑھا دے، اور انهوں نے اپنی جانوں پر ظلم کیا، پس هم نے انهیں کهانیاں بنا دیا اور انهیں ٹکڑے ٹکڑے کر دیا، بیشک اس میں هر صبر کرنے والے شکر گزار کے لیے نشانیاں هیں۔",
     "persian_text": "پس گفتند پروردگارا! میان سفرهایمان فاصله بینداز، و بر خود ستم کردند، پس آنان را افسانه‌ها ساختیم و پراکنده‌شان کردیم، همانا در این نشانه‌هایی است برای هر شکیبا و سپاسگزار.",
     "transliteration": "Fa-qaaloo Rabbanaa baa'id bayna asfaarinaa wa dhalamoo anfusahum fa-ja'alnaahum ahaadeetha wa mazzaqnaahum kulla mumazzaqin inna fee dhaalika la-aayaatin li-kulli sabbaarin shakoor"

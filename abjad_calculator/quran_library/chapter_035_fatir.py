@@ -73,7 +73,7 @@ ayats = [
   {
     "verse_number": 9,
     "english_text": "That is Allah who sent winds to scatter the clouds, and We take them to the dead cities, and bring the dead land to the life again, and like this people would be raised to life (once again).",
-    "arabic_text": "وَاللّٰهُ الَّذِىٓ اَرْسَلَ الرِّيَـٰحَ فَتُثِيرُ سَحَابًا فَسُقْنَـٰهُ اِلـٰى بَلَدٍۢ مَّيِّتٍۢ فَاَحْيَيْنَا بِهِ الْاَرْضَ بَعْدَ مَوْتِهَا ۚ كَذَٰلِكَ النُّشُورُ",
+    "arabic_text": "وَ اللّٰهُ الَّذِىٓ اَرْسَلَ الرِّيَـٰحَ فَتُثِيرُ سَحَابًا فَسُقْنَـٰهُ اِلـٰى بَلَدٍۢ مَّيِّتٍۢ فَاَحْيَيْنَا بِهِ الْاَرْضَ بَعْدَ مَوْتِهَا ۚ كَذٰلِكَ النُّشُورُ",
     "urdu_text": "اور اللہ ہی ہے جس نے ہوائیں بھیجیں تو وہ بادلوں کو اٹھاتی ہیں، پھر ہم انہیں مردہ شہر کی طرف لے جاتے ہیں اور اس سے زمین کو اس کی موت کے بعد زندہ کر دیتے ہیں، اسی طرح لوگ دوبارہ زندہ کیے جائیں گے۔",
     "persian_text": "و خداوند کسی است که بادها را فرستاد تا ابرها را برانگیزند، پس آن را به سوی سرزمین مرده راندیم و زمین را پس از مرگش زنده کردیم، همین‌گونه رستاخیز است.",
     "transliteration": "WaAllahu allathee arsala alrriyaha fathutheeru sahaban fasuqnahu ila baladin mayyitin fa-ahyayna bihi al-arda ba'da mawtiha kathalika alnnushoor"
@@ -89,7 +89,7 @@ ayats = [
   {
     "verse_number": 11,
     "english_text": "And Allah has created you from dust, then made sperm, then made pair, and whatever a woman carries in her womb, or gives birth, is aware of all, then whoever is given long life or short life; everything is mentioned in the Divine Book, and for Allah it is all very easy.",
-    "arabic_text": "وَاللّٰهُ خَلَقَكُم مِّن تُرَابٍۢ ثُمَّ مِن نُّطْفَةٍۢ ثُمَّ جَعَلَكُمْ اَزْوَٰجًۭا ۚ وَ مَا تَحْمِلُ مِنْ اُنثَىٰ وَ لَا تَضَعُ اِلَّا بِعِلْمِهِ ۚ وَ مَا يُعَمَّرُ مِن مُّعَمَّرٍۢ وَ لَا يُنقَصُ مِنْ عُمُرِهِٓ اِلَّا فِى كِتٰبٍ ۚ اِنَّ ذَٰلِكَ عَلَى اللّٰهِ يَسِيرٌۭ",
+    "arabic_text": "وَ اللّٰهُ خَلَقَكُم مِّن تُرَابٍۢ ثُمَّ مِن نُّطْفَةٍۢ ثُمَّ جَعَلَكُمْ اَزْوَٰجًۭا ۚ وَ مَا تَحْمِلُ مِنْ اُنثَىٰ وَ لَا تَضَعُ اِلَّا بِعِلْمِهِ ۚ وَ مَا يُعَمَّرُ مِن مُّعَمَّرٍۢ وَ لَا يُنقَصُ مِنْ عُمُرِهِٓ اِلَّا فِى كِتٰبٍ ۚ اِنَّ ذٰلِكَ عَلَى اللّٰهِ يَسِيرٌۭ",
     "urdu_text": "اور اللہ نے تمہیں مٹی سے پیدا کیا، پھر نطفے سے، پھر تمہیں جوڑے بنایا، اور کوئی عورت حمل نہیں اٹھاتی اور نہ جنتی ہے مگر اس کے علم میں، اور نہ کسی کو لمبی عمر دی جاتی ہے اور نہ اس کی عمر میں کمی کی جاتی ہے مگر یہ سب کتاب میں لکھا ہے، بے شک یہ اللہ کے لیے بہت آسان ہے۔",
     "persian_text": "و خداوند شما را از خاک آفرید، سپس از نطفه، آنگاه شما را جفت‌ها قرار داد، و هیچ ماده‌ای حمل نمی‌کند و نمی‌زاید مگر به علم او، و به هیچ کس عمر طولانی داده نمی‌شود و از عمرش کاسته نمی‌گردد مگر اینکه در کتابی ثبت است، بی‌گمان این بر خداوند آسان است.",
     "transliteration": "Wallahu khalaqakum min turabin thumma min nutfatin thumma ja'alakum azwaja, wa ma tahmilu min untha wa la tada'u illa bi'ilmihi, wa ma yu'ammaru min mu'ammarin wa la yunqasu min 'umrihi illa fi kitab, inna dhalika 'alallahi yasir"
@@ -97,7 +97,7 @@ ayats = [
   {
     "verse_number": 12,
     "english_text": "And two seas cannot be the same, one with sweet and pleasant water and other with salty and bitter water; and yet from both of them you eat fresh meat and take out the jewelry which you wear; you see the ships which swiftly move on the water that you may search for the bounties of Allah (sustenance); perhaps you become thankful in this way.",
-    "arabic_text": "وَ مَا يَسْتَوِى الْبَحْرَانِ هَـٰذَا عَذْبٌۭ فُرَاتٌۭ سَآئِغٌۭ شَرَابُهُ وَهَـٰذَا مِلْحٌ اُجَاجٌۭ ۖ وَمِن كُلٍّۢ تَاْكُلُونَ لَحْمًا طَرِيًّۭا وَتَسْتَخْرِجُونَ حِلْيَةًۭ تَلْبَسُونَهَا ۖ وَتَرَى الْفُلْكَ فِيهِ مَوَاخِرَ لِتَبْتَغُواْ مِن فَضْلِهِ وَلَعَلَّكُمْ تَشْكُرُونَ",
+    "arabic_text": "وَ مَا يَسْتَوِى الْبَحْرَانِ هَـٰذَا عَذْبٌۭ فُرَاتٌۭ سَآئِغٌۭ شَرَابُهُ وَهَـٰذَا مِلْحٌ اُجَاجٌۭ ۖ وَ مِن كُلٍّۢ تَاْكُلُونَ لَحْمًا طَرِيًّۭا وَتَسْتَخْرِجُونَ حِلْيَةًۭ تَلْبَسُونَهَا ۖ وَتَرَى الْفُلْكَ فِيهِ مَوَاخِرَ لِتَبْتَغُواْ مِن فَضْلِهِ وَلَعَلَّكُمْ تَشْكُرُونَ",
     "urdu_text": "اور دونوں سمندر یکساں نہیں ہیں، ایک میٹھا اور خوشگوار پانی ہے اور دوسرا کھاری اور کڑوا، اور دونوں سے تم تازہ گوشت کھاتے ہو اور زیورات نکالتے ہو جنہیں تم پہنتے ہو، اور تم کشتیوں کو دیکھتے ہو جو پانی میں تیزی سے چلتی ہیں تاکہ تم اللہ کا فضل تلاش کرو، شاید تم شکر گزار بن جاؤ۔",
     "persian_text": "و دو دریا یکسان نیستند، این یکی شیرین و گوارا که نوشیدنش خوشایند است و آن دیگری شور و تلخ، و از هر دو گوشت تازه می‌خورید و زیورهایی بیرون می‌آورید که می‌پوشید، و کشتی‌ها را می‌بینی که در آن شناورند تا از فضل او روزی بجویید، باشد که سپاسگزار باشید.",
     "transliteration": "Wa ma yastawil bahrani hadha 'adhbun furatun sa'ighun sharabuhu wa hadha milhun ujaj, wa min kullin ta'kuluna lahman tariyyan wa tastakhrijuna hilyatan talbasunaha, wa taral fulka fihi mawakhira litabtaghu min fadlihi wa la'allakum tashkurun"
@@ -121,7 +121,7 @@ ayats = [
   {
     "verse_number": 15,
     "english_text": "O People, you are all needy in the presence of Allah, and Allah is master of wealth and worthy of Praise.",
-    "arabic_text": "۞ يٰٓاَيُّهَا النَّاسُ اَنتُمُ الْفُقَرَآءُ اِلَى اللّٰهِ ۖ وَاللّٰهُ هُوَ الْغَنِىُّ الْحَمِيدُ",
+    "arabic_text": "۞ يٰٓاَيُّهَا النَّاسُ اَنتُمُ الْفُقَرَآءُ اِلَى اللّٰهِ ۖ وَ اللّٰهُ هُوَ الْغَنِىُّ الْحَمِيدُ",
     "urdu_text": "اے لوگو! تم سب اللہ کے محتاج ہو، اور اللہ ہی بے نیاز اور قابل تعریف ہے۔",
     "persian_text": "ای مردم! شما همگی نیازمند خداوندید، و خداوند بی‌نیاز و ستوده است.",
     "transliteration": "Ya ayyuhan nasu antumul fuqara'u ilallah, wallahu huwal ghaniyyul hamid"
@@ -137,7 +137,7 @@ ayats = [
   {
     "verse_number": 17,
     "english_text": "And this is not a difficult task for Allah.",
-    "arabic_text": "وَ مَا ذَٰلِكَ عَلَى اللّٰهِ بِعَزِيزٍۢ",
+    "arabic_text": "وَ مَا ذٰلِكَ عَلَى اللّٰهِ بِعَزِيزٍۢ",
     "urdu_text": "اور یہ اللہ پر کچھ مشکل نہیں۔",
     "persian_text": "و این بر خداوند دشوار نیست.",
     "transliteration": "Wa ma dhalika 'alallahi bi'aziz"
@@ -225,7 +225,7 @@ ayats = [
   {
     "verse_number": 28,
     "english_text": "And different color of creatures are found among humans, cattle and animals, and among the people who fear Allah are those who have knowledge and wisdom, Verily, Allah is Honorable and very Forgiving.",
-    "arabic_text": "وَمِنَ النَّاسِ وَالدَّوَآبِّ وَالْاَنْعَـٰمِ مُخْتَلِفٌ اَلْوَٰنُهُ كَذَٰلِكَ ۗ اِنَّمَا يَخْشَى اللّٰهَ مِنْ عِبَادِهِ الْعُلَمَـٰٓؤُاْ ۗ اِنَّ اللّٰهَ عَزِيزٌ غَفُورٌ",
+    "arabic_text": "وَمِنَ النَّاسِ وَالدَّوَآبِّ وَالْاَنْعَـٰمِ مُخْتَلِفٌ اَلْوَٰنُهُ كَذٰلِكَ ۗ اِنَّمَا يَخْشَى اللّٰهَ مِنْ عِبَادِهِ الْعُلَمَـٰٓؤُاْ ۗ اِنَّ اللّٰهَ عَزِيزٌ غَفُورٌ",
     "urdu_text": "اور انسانوں، جانوروں اور چوپایوں میں بھی مختلف رنگ پائے جاتے ہیں، اسی طرح اللہ کے بندوں میں سے صرف علم والے ہی اللہ سے ڈرتے ہیں، بیشک اللہ غالب اور بخشنے والا ہے۔",
     "persian_text": "و از میان مردم و جنبندگان و چارپایان نیز رنگ‌هایشان گوناگون است، همین‌گونه، تنها دانشمندان از بندگان او از الله می‌ترسند، همانا الله توانا و آمرزنده است.",
     "transliteration": "Wa minan-naasi wad-dawaabi wal-an'aami mukhtalifun alwaanuhoo kadhalik, innamaa yakhshal-laaha min 'ibaadihil-'ulamaaa', innal-laaha 'azeezun ghafoor"
@@ -257,7 +257,7 @@ ayats = [
   {
     "verse_number": 32,
     "english_text": "Then We made to inherit this book to those whom We have chosen, some of them are unjust to their souls, some are moderate, and some of them goes ahead in doing the good work with the permission of Allah; and indeed, this is biggest blessing and excellence.",
-    "arabic_text": "ثُمَّ اَوْرَثْنَا الْكِتٰبَ الَّذِينَ اصْطَفَيْنَا مِنْ عِبَادِنَا ۖ فَمِنْهُمْ ظَالِمٌۭ لِّنَفْسِهِ وَمِنْهُم مُّقْتَصِدٌۭ وَمِنْهُمْ سَابِقٌۢ بِالْخَيْرَٰتِ بِاِذْنِ اللّٰهِ ۚ ذَٰلِكَ هُوَ الْفَضْلُ الْكَبِيرُ",
+    "arabic_text": "ثُمَّ اَوْرَثْنَا الْكِتٰبَ الَّذِينَ اصْطَفَيْنَا مِنْ عِبَادِنَا ۖ فَمِنْهُمْ ظَالِمٌۭ لِّنَفْسِهِ وَ مِنْهُم مُّقْتَصِدٌۭ وَ مِنْهُمْ سَابِقٌۢ بِالْخَيْرَٰتِ بِاِذْنِ اللّٰهِ ۚ ذٰلِكَ هُوَ الْفَضْلُ الْكَبِيرُ",
     "urdu_text": "پھر ہم نے اس کتاب کا وارث ان لوگوں کو بنایا جنہیں ہم نے اپنے بندوں میں سے چن لیا، تو ان میں سے کوئی اپنے نفس پر ظلم کرنے والا ہے، کوئی میانہ رو ہے، اور کوئی اللہ کے حکم سے نیکیوں میں سبقت کرنے والا ہے، یہی بہت بڑا فضل ہے۔",
     "persian_text": "سپس این کتاب را به کسانی که از بندگانمان برگزیدیم به میراث دادیم، پس برخی از آنان به خود ستم می‌کنند، برخی میانه‌رو هستند و برخی به اذن الله در کارهای نیک پیشی می‌گیرند، این همان فضل بزرگ است.",
     "transliteration": "Thumma awrathnalkitabal lazeenas tafayna min 'ibadina faminhum zalimul linafsihi wa minhum muqtasidun wa minhum sabiqum bilkhayrati bi'iznillah, zalikal huwal fadlul kabeer"
@@ -289,7 +289,7 @@ ayats = [
   {
     "verse_number": 36,
     "english_text": "There is Hellfire for those who adopted infidelity, and there neither death will come to them nor there would be any concession in their punishment, and We give punishment like this to the infidels.",
-    "arabic_text": "وَالَّذِينَ كَفَرُواْ لَهُمْ نَارُ جَهَنَّمَ لَا يُقْضَىٰ عَلَيْهِمْ فَيَمُوتُواْ وَ لَا يُخَفَّفُ عَنْهُم مِّنْ عَذَابِهَا ۚ كَذَٰلِكَ نَجْزِى كُلَّ كَفُورٍۢ",
+    "arabic_text": "وَالَّذِينَ كَفَرُواْ لَهُمْ نَارُ جَهَنَّمَ لَا يُقْضَىٰ عَلَيْهِمْ فَيَمُوتُواْ وَ لَا يُخَفَّفُ عَنْهُم مِّنْ عَذَابِهَا ۚ كَذٰلِكَ نَجْزِى كُلَّ كَفُورٍۢ",
     "urdu_text": "اور جن لوگوں نے کفر اختیار کیا ان کے لیے جہنم کی آگ ہے، نہ ان کی موت آئے گی اور نہ ان کے عذاب میں کمی کی جائے گی، ہم ہر ناشکرے کو ایسی ہی سزا دیتے ہیں۔",
     "persian_text": "و کسانی که کافر شدند برایشان آتش جهنم است، نه بر آنان حکم مرگ داده می‌شود تا بمیرند و نه از عذابشان کاسته می‌گردد، اینچنین هر ناسپاسی را جزا می‌دهیم.",
     "transliteration": "Wallazeena kafaroo lahum naru jahannama la yuqda 'alayhim fayamutoo wa la yukhaffafu 'anhum min 'azabiha, kazalika najzee kulla kafoor"

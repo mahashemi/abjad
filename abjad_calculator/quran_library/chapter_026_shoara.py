@@ -65,7 +65,7 @@ ayats = [
   {
     "verse_number": 8,
     "english_text": "There is Our sign in it, but majority of them is not going to believe.",
-    "arabic_text": "اِنَّ فِى ذَٰلِكَ لَـَٔايَةًۭ ۖ وَ مَا كَانَ اَكْثَرُهُم مُّؤْمِنِينَ",
+    "arabic_text": "اِنَّ فِى ذٰلِكَ لَـَٔايَةًۭ ۖ وَ مَا كَانَ اَكْثَرُهُم مُّؤْمِنِينَ",
     "urdu_text": "بیشک اس میں ایک نشانی هے، لیکن ان میں سے اکثر ایمان لانے والے نهیں هیں۔",
     "persian_text": "در این نشانه‌ای است، اما بیشتر آنان ایمان نمی‌آورند.",
     "transliteration": "Inna fee zaalika la aayah, wa maa kaana aksaruhum mu'mineen"
@@ -473,7 +473,7 @@ ayats = [
   {
     "verse_number": 59,
     "english_text": "And We punish like this, and We made Bani Israel to inherit the land.",
-    "arabic_text": "كَذَٰلِكَ وَاَوْرَثْنَـٰهَا بَنِىٓ اِسْرَٰٓءِيلَ",
+    "arabic_text": "كَذٰلِكَ وَاَوْرَثْنَـٰهَا بَنِىٓ اِسْرَٰٓءِيلَ",
     "urdu_text": "اسی طرح هوا اور هم نے ان چیزوں کا وارث بنی اسرائیل کو بنا دیا۔",
     "persian_text": "چنین بود و آنها را به بنی اسرائیل به میراث دادیم.",
     "transliteration": "Kadhaalika wa awrathnaa haa Banee Israa'eel"
@@ -537,7 +537,7 @@ ayats = [
   {
     "verse_number": 67,
     "english_text": "There is also Our sign in it, and majority among Bani Israel were not going to believe.",
-    "arabic_text": "اِنَّ فِى ذَٰلِكَ لَـَٔايَةًۭ ۖ وَ مَا كَانَ اَكْثَرُهُم مُّؤْمِنِينَ",
+    "arabic_text": "اِنَّ فِى ذٰلِكَ لَـَٔايَةًۭ ۖ وَ مَا كَانَ اَكْثَرُهُم مُّؤْمِنِينَ",
     "urdu_text": "بے شک اس میں ایک نشانی هے، اور ان میں سے اکثر ایمان لانے والے نه تھے۔",
     "persian_text": "همانا در این نشانه‌ای است، و بیشتر آنان مؤمن نبودند.",
     "transliteration": "Inna fī dhālika la'āyatan wa mā kāna aktharuhum mu'minīn"
@@ -593,7 +593,7 @@ ayats = [
   {
     "verse_number": 74,
     "english_text": "They said: we have seen our forefathers do this.",
-    "arabic_text": "قَالُوْاْ بَلْ وَجَدْنَآ ءَابَآءَنَا كَذَٰلِكَ يَفْعَلُونَ",
+    "arabic_text": "قَالُوْاْ بَلْ وَجَدْنَآ ءَابَآءَنَا كَذٰلِكَ يَفْعَلُونَ",
     "urdu_text": "انهوں نے کها: بلکه هم نے اپنے باپ دادا کو ایسا هی کرتے پایا هے۔",
     "persian_text": "گفتند: بلکه پدران خود را یافتیم که چنین می‌کردند.",
     "transliteration": "Qaaloo bal wajadnaa aabaaa'anaa kadhalika yaf'aloon"
@@ -825,7 +825,7 @@ ayats = [
   {
     "verse_number": 103,
     "english_text": "Therein is one of our signs, whereas majority of them were not the believers.",
-    "arabic_text": "اِنَّ فِى ذَٰلِكَ لَـَٔايَةًۭ ۖ وَ مَا كَانَ اَكْثَرُهُم مُّؤْمِنِينَ",
+    "arabic_text": "اِنَّ فِى ذٰلِكَ لَـَٔايَةًۭ ۖ وَ مَا كَانَ اَكْثَرُهُم مُّؤْمِنِينَ",
     "urdu_text": "بیشک اس میں ایک نشانی هے، اور ان میں سے اکثر ایمان والے نهیں تھے۔",
     "persian_text": "همانا در این نشانه‌ای است، و بیشتر آنان مؤمن نبودند.",
     "transliteration": "Inna fee dhaalika la aayatan wa maa kaana aktharuhum mu'mineen"
@@ -969,7 +969,7 @@ ayats = [
   {
     "verse_number": 121,
     "english_text": "Verily, in it also there is Our sign; and their majority were not going to believe.",
-    "arabic_text": "اِنَّ فِى ذَٰلِكَ لَـَٔايَةًۭ ۖ وَ مَا كَانَ اَكْثَرُهُم مُّؤْمِنِينَ",
+    "arabic_text": "اِنَّ فِى ذٰلِكَ لَـَٔايَةًۭ ۖ وَ مَا كَانَ اَكْثَرُهُم مُّؤْمِنِينَ",
     "urdu_text": "بیشک اس میں هماری نشانی هے، اور ان میں سے اکثر ایمان لانے والے نه تھے۔",
     "persian_text": "به راستی در این نیز نشانه‌ای از ماست، و بیشتر آنان ایمان نمی‌آوردند.",
     "transliteration": "Inna fee dhaalika la-aayatan wa maa kaana aktharuhum mu'mineen"
@@ -1113,7 +1113,7 @@ ayats = [
   {
     "verse_number": 139,
     "english_text": "Then nation denied and We destroyed them, in it there is one of Our signs, and majority of them were not the believers.",
-    "arabic_text": "فَكَذَّبُوهُ فَاَهْلَكْنَـٰهُمْ ۗ اِنَّ فِى ذَٰلِكَ لَـَٔايَةًۭ ۖ وَ مَا كَانَ اَكْثَرُهُم مُّؤْمِنِينَ",
+    "arabic_text": "فَكَذَّبُوهُ فَاَهْلَكْنَـٰهُمْ ۗ اِنَّ فِى ذٰلِكَ لَـَٔايَةًۭ ۖ وَ مَا كَانَ اَكْثَرُهُم مُّؤْمِنِينَ",
     "urdu_text": "پھر انهوں نے اُسے جھٹلایا تو هم نے انهیں هلاک کر دیا، بیشک اس میں ایک نشانی هے، اور ان میں سے اکثر ایمان والے نه تھے۔",
     "persian_text": "پس او را تکذیب کردند و ما آنان را هلاک ساختیم، همانا در این نشانه‌ای است و بیشتر آنان مؤمن نبودند.",
     "transliteration": "Fakazzaboohu fa-ahlaknaa-hum inna fee zaalika la-aayatan wa maa kaana aksaruhum mu'mineen"
@@ -1265,7 +1265,7 @@ ayats = [
   {
     "verse_number": 158,
     "english_text": "And punishment afflicted them, and Verily there is our sign in it, and most of them were not going to believe.",
-    "arabic_text": "فَاَخَذَهُمُ الْعَذَابُ ۗ اِنَّ فِى ذَٰلِكَ لَـَٔايَةًۭ ۖ وَ مَا كَانَ اَكْثَرُهُم مُّؤْمِنِينَ",
+    "arabic_text": "فَاَخَذَهُمُ الْعَذَابُ ۗ اِنَّ فِى ذٰلِكَ لَـَٔايَةًۭ ۖ وَ مَا كَانَ اَكْثَرُهُم مُّؤْمِنِينَ",
     "urdu_text": "پھر انهیں عذاب نے آ لیا، بیشک اس میں هماری نشانی هے، اور ان میں سے اکثر ایمان لانے والے نه تھے۔",
     "persian_text": "پس عذاب آنان را فرا گرفت، همانا در این نشانه‌ای است، و بیشتر آنان مؤمن نبودند.",
     "transliteration": "Fa akhazahumul 'azaab, inna fee zaalika la aayah, wa maa kaana aktharuhum mu'mineen"
@@ -1393,7 +1393,7 @@ ayats = [
   {
     "verse_number": 174,
     "english_text": "And in this also there is Our sign, and majority of them were not the believers.",
-    "arabic_text": "اِنَّ فِى ذَٰلِكَ لَـَٔايَةًۭ ۖ وَ مَا كَانَ اَكْثَرُهُم مُّؤْمِنِينَ",
+    "arabic_text": "اِنَّ فِى ذٰلِكَ لَـَٔايَةًۭ ۖ وَ مَا كَانَ اَكْثَرُهُم مُّؤْمِنِينَ",
     "urdu_text": "بیشک اس میں بھی هماری نشانی هے، اور ان میں سے اکثر ایمان والے نهیں تھے۔",
     "persian_text": "همانا در این نیز نشانه‌ای است، و بیشتر آنان مؤمن نبودند.",
     "transliteration": "Inna fee zaalika la-aayatan wa maa kaana aktharuhum mu'mineen"
@@ -1521,7 +1521,7 @@ ayats = [
   {
     "verse_number": 190,
     "english_text": "Verily, there is a sign in this only, and majority of them were not going to believe.",
-    "arabic_text": "اِنَّ فِى ذَٰلِكَ لَـَٔايَةًۭ ۖ وَ مَا كَانَ اَكْثَرُهُم مُّؤْمِنِينَ",
+    "arabic_text": "اِنَّ فِى ذٰلِكَ لَـَٔايَةًۭ ۖ وَ مَا كَانَ اَكْثَرُهُم مُّؤْمِنِينَ",
     "urdu_text": "بیشک اس میں نشانی هے اور ان میں سے اکثر ایمان لانے والے نه تھے۔",
     "persian_text": "همانا در این نشانه‌ای است، و بیشتر آنان مؤمن نبودند.",
     "transliteration": "Inna fee dhaalika la-aayah, wa maa kaana aktharuhum mu'mineen"
@@ -1601,7 +1601,7 @@ ayats = [
   {
     "verse_number": 200,
     "english_text": "And like this (as if) we made a way, to the hearts for denial for the guilty ones?",
-    "arabic_text": "كَذَٰلِكَ سَلَكْنَـٰهُ فِى قُلُوبِ الْمُجْرِمِينَ",
+    "arabic_text": "كَذٰلِكَ سَلَكْنَـٰهُ فِى قُلُوبِ الْمُجْرِمِينَ",
     "urdu_text": "اسی طرح هم نے اسے مجرموں کے دلوں میں داخل کر دیا هے۔",
     "persian_text": "این‌چنین آن را در دل‌های گناهکاران راه دادیم.",
     "transliteration": "Kadhalika salaknaahu fee quloobil-mujrimeen"
