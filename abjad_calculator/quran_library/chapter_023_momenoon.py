@@ -569,7 +569,7 @@ ayats = [
   {
     "verse_number": 71,
     "english_text": "If truth would have followed their desires, then whatever is in between skies and on earth and in between them would have been destroyed, whereas We have given them admonition, but they have turned away from the admonition.",
-    "arabic_text": "وَلَوِ اتَّبَعَ الْحَقُّ اَهْوَآءَهُمْ لَفَسَدَتِ السَّمَـٰوَٰتُ وَالْاَرْضُ وَمَن فِيهِنَّ ۚ بَلْ اَتَيْنَـٰهُم بِذِكْرِهِمْ فَهُمْ عَن ذِكْرِهِم مُّعْرِضُونَ",
+    "arabic_text": "وَلَوِ اتَّبَعَ الْحَقُّ اَهْوَآءَهُمْ لَفَسَدَتِ السَّمَـٰوَٰتُ وَ الْاَرْضُ وَمَن فِيهِنَّ ۚ بَلْ اَتَيْنَـٰهُم بِذِكْرِهِمْ فَهُمْ عَن ذِكْرِهِم مُّعْرِضُونَ",
     "urdu_text": "اور اگر حق ان کی خواهشات کی پیروی کرتا تو آسمان اور زمین اور جو کچھ ان میں هے سب تباه هو جاتے، بلکه هم نے انهیں ان کی نصیحت دی هے مگر وه اپنی نصیحت سے منه موڑنے والے هیں۔",
     "persian_text": "و اگر حق از هوس‌های آنان پیروی می‌کرد، آسمان‌ها و زمین و آنچه در آنهاست تباه می‌شدند، بلکه ما پند و اندرزشان را به آنان آوردیم اما آنان از یاد خود روی گردان هستند.",
     "transliteration": "Wa lawi ittaba'al-haqqu ahwaa'ahum lafasadatis-samaawaatu wal-ardu wa man feehinna bal ataynaahum bidhikrihim fahum 'an dhikrihim mu'ridoon"

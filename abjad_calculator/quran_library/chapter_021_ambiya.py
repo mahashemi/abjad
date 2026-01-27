@@ -705,7 +705,7 @@ ayats = [
   {
     "verse_number": 88,
     "english_text": "Then We accepted his prayer and delivered him from grief, and thus We deliver the believers.",
-    "arabic_text": "فَاسْتَجَبْنَا لَهُ وَنَجَّيْنَـٰهُ مِنَ الْغَمِّ ۚ وَكَذٰلِكَ نُـۨجِى الْمُؤْمِنِينَ",
+    "arabic_text": "فَاسْتَجَبْنَا لَهُ وَنَجَّيْنَـٰهُ مِنَ الْغَمِّ ۚ وَ كَذٰلِكَ نُـۨجِى الْمُؤْمِنِينَ",
     "urdu_text": "پھر ہم نے ان کی دعا قبول کی اور انہیں غم سے نجات دی، اور اسی طرح ہم مومنوں کو نجات دیتے ہیں۔",
     "persian_text": "پس دعای او را اجابت کردیم و او را از اندوه رهایی بخشیدیم، و این‌گونه مؤمنان را نجات می‌دهیم.",
     "transliteration": "Fa-استajab-nā lahū wa najjaynāhu mina al-ghamm, wa kadhālika nunjī al-mu'minīn"

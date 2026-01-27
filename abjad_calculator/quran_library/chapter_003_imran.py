@@ -82,7 +82,7 @@ ayats = [
   {
     "verse_number": 11,
     "english_text": "They are like tribes of Firaun and people earlier than them, who denied Our verses, so Allah punished them because of their sins, Allah is strict in punishment.",
-    "arabic_text": "كَدَاْبِ اٰلِ فِرْعَوْنَ وَ الَّذِيْنَ مِنْ قَبْلِهِمْ  ۚ  كَذَّبُوا بِاٰيَاتِنَا  فَاَخَذَهُمُ اللّٰهُ بِذُنُوبِهِمْ   وَ اللّٰهُ شَدِيدُ الْعِقَابِ",
+    "arabic_text": "كَدَاْبِ اٰلِ فِرْعَوْنَ وَ الَّذِيْنَ مِنْ قَبْلِهِمْ  ۚ  كَذَّبُوا بِاٰيٰتِنَا  فَاَخَذَهُمُ اللّٰهُ بِذُنُوبِهِمْ   وَ اللّٰهُ شَدِيدُ الْعِقَابِ",
     "urdu_text": "یہ لوگ فرعون کی قوم اور ان سے پہلے لوگوں کی طرح ہیں جنہوں نے ہماری آیات کو جھٹلایا تو اللہ نے انہیں ان کے گناہوں کی وجہ سے پکڑ لیا اور اللہ سخت عذاب دینے والا ہے",
     "persian_text": "همانند قوم فرعون و کسانی که پیش از آنان بودند که آیات ما را تکذیب کردند پس خداوند آنان را به سبب گناهانشان گرفت و خداوند سخت کیفر است",
     "transliteration": "Ka da'bi aali fir'awna wallazheena min qablihim kazzabu bi ayatina fa akhazahumullahu bizunubihim wallahu shadeedul iqab",

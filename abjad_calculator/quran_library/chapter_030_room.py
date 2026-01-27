@@ -153,7 +153,7 @@ ayats = [
   {
     "verse_number": 19,
     "english_text": "That Allah brings forth living out of the dead, and brings forth the dead from living; and brings to life again the dead earth, and like this you will also be raised one day.",
-    "arabic_text": "يُخْرِجُ الْحَىَّ مِنَ الْمَيِّتِ وَيُخْرِجُ الْمَيِّتَ مِنَ الْحَىِّ وَيُحْىِ الْاَرْضَ بَعْدَ مَوْتِهَا ۚ وَكَذٰلِكَ تُخْرَجُونَ",
+    "arabic_text": "يُخْرِجُ الْحَىَّ مِنَ الْمَيِّتِ وَيُخْرِجُ الْمَيِّتَ مِنَ الْحَىِّ وَيُحْىِ الْاَرْضَ بَعْدَ مَوْتِهَا ۚ وَ كَذٰلِكَ تُخْرَجُونَ",
     "urdu_text": "وه زنده کو مرده سے نکالتا هے اور مرده کو زنده سے نکالتا هے، اور مرده زمین کو زنده کرتا هے، اور اسی طرح تم بھی نکالے جاؤ گے۔",
     "persian_text": "او زنده را از مرده بیرون می‌آورد و مرده را از زنده خارج می‌کند، و زمین مرده را زنده می‌گرداند، و همین‌گونه شما نیز بیرون آورده خواهید شد.",
     "transliteration": "Yukhrijul-hayya minal-mayyiti wa yukhrijul-mayyita minal-hayyi wa yuhyil-arda ba'da mawtihaa wa kadhaalika tukhrajoon"
@@ -201,7 +201,7 @@ ayats = [
   {
     "verse_number": 25,
     "english_text": "And among His signs is that sky and the earth subsist through His command; and when He will call you, you all will come out of the earth at once.",
-    "arabic_text": "وَ مِنْ اٰيٰتِهِٓ اَن تَقُومَ السَّمَآءُ وَالْاَرْضُ بِاَمْرِهِ ۚ ثُمَّ اِذَا دَعَاكُمْ دَعْوَةًۭ مِّنَ الْاَرْضِ اِذَآ اَنتُمْ تَخْرُجُونَ",
+    "arabic_text": "وَ مِنْ اٰيٰتِهِٓ اَن تَقُومَ السَّمَآءُ وَ الْاَرْضُ بِاَمْرِهِ ۚ ثُمَّ اِذَا دَعَاكُمْ دَعْوَةًۭ مِّنَ الْاَرْضِ اِذَآ اَنتُمْ تَخْرُجُونَ",
     "urdu_text": "اور اس کی نشانیوں میں سے یه هے که آسمان اور زمین اس کے حکم سے قائم هیں، پھر جب وه تمهیں زمین سے ایک پکار سے بلائے گا تو تم فوراً نکل آؤ گے۔",
     "persian_text": "و از نشانه‌های او این است که آسمان و زمین به فرمان او برپا هستند، سپس هنگامی که شما را با یک ندا از زمین بخواند، ناگهان بیرون می‌آیید.",
     "transliteration": "Wa min aayaatihi an taqoomus samaaa'u wal-ardu bi amrih; thumma idhaa da'aakum da'watam minal ardi idhaa antum takhrujoon"

@@ -57,7 +57,7 @@ ayats = [
   {
     "verse_number": 7,
     "english_text": "And like this We revealed to you Quran in Arabic language, so you warn people of Makkah and its vicinity, and warn them from the day when everyone will be gathered, and there is not any doubt in it, that day one group will be in Paradise and another group will be in Hell.",
-    "arabic_text": "وَكَذٰلِكَ اَوْحَيْنَآ اِلَيْكَ قُرْءَانًا عَرَبِيًّۭا لِّتُنذِرَ اُمَّ الْقُرَىٰ وَ مَنْ حَوْلَهَا وَتُنذِرَ يَوْمَ الْجَمْعِ لَا رَيْبَ فِيهِ ۚ فَرِيقٌۭ فِى الْجَنَّةِ وَفَرِيقٌۭ فِى السَّعِيرِ",
+    "arabic_text": "وَ كَذٰلِكَ اَوْحَيْنَآ اِلَيْكَ قُرْءَانًا عَرَبِيًّۭا لِّتُنذِرَ اُمَّ الْقُرٰى وَ مَنْ حَوْلَهَا وَتُنذِرَ يَوْمَ الْجَمْعِ لَا رَيْبَ فِيهِ ۚ فَرِيقٌۭ فِى الْجَنَّةِ وَفَرِيقٌۭ فِى السَّعِيرِ",
     "urdu_text": "اور اسی طرح هم نے آپ کی طرف عربی زبان میں قرآن نازل کیا تاکه آپ مکه اور اس کے آس پاس کے لوگوں کو ڈرائیں، اور جمع هونے کے دن سے ڈرائیں جس میں کوئی شک نهیں، ایک گروه جنت میں هوگا اور ایک گروه دوزخ میں",
     "persian_text": "و همین‌گونه قرآنی عربی به تو وحی کردیم تا مردم مکه و اطراف آن را بترسانی، و از روز جمع شدن بترسانی که در آن شکی نیست، گروهی در بهشت و گروهی در آتش سوزان",
     "transliteration": "Wa kazaalika awhainaa ilaika Qur'aanan Arabiyyal litunzira Ummal Quraa wa man hawlahaa wa tunzira Yawmal Jam'i laa rayba feeh, fareequn fil Jannati wa fareequn fis Sa'eer"
@@ -417,7 +417,7 @@ ayats = [
   {
     "verse_number": 52,
     "english_text": "And thus, We revealed spirit (Quran) to you by Our Command, and you didn't know what the book was, and what the faith was, but We made it a light, through which We guide to Our servants to whoever We please, and Verily We are guiding you to the straight path.",
-    "arabic_text": "وَكَذٰلِكَ اَوْحَيْنَآ اِلَيْكَ رُوحًۭا مِّنْ اَمْرِنَا ۚ مَا كُنتَ تَدْرِى مَا الْكِتٰبُ وَ لَا الْاِيمَـٰنُ وَلَـٰكِن جَعَلْنَـٰهُ نُورًا نَّهْدِى بِهِ مَن نَّشَآءُ مِنْ عِبَادِنَا ۚ وَاِنَّكَ لَتَهْدِىٓ اِلـٰى صِرَٰطٍۢ مُّسْتَقِيمٍۢ",
+    "arabic_text": "وَ كَذٰلِكَ اَوْحَيْنَآ اِلَيْكَ رُوحًۭا مِّنْ اَمْرِنَا ۚ مَا كُنتَ تَدْرِى مَا الْكِتٰبُ وَ لَا الْاِيمَـٰنُ وَلَـٰكِن جَعَلْنَـٰهُ نُورًا نَّهْدِى بِهِ مَن نَّشَآءُ مِنْ عِبَادِنَا ۚ وَاِنَّكَ لَتَهْدِىٓ اِلـٰى صِرَٰطٍۢ مُّسْتَقِيمٍۢ",
     "urdu_text": "اور اسی طرح هم نے اپنے حکم سے آپ کی طرف روح (قرآن) کی وحی بھیجی، آپ نهیں جانتے تھے که کتاب کیا هے اور نه ایمان کیا هے، لیکن هم نے اسے نور بنایا جس سے هم اپنے بندوں میں سے جسے چاهتے هیں هدایت دیتے هیں، اور بے شک آپ سیدھے راستے کی طرف رهنمائی کرتے هیں۔",
     "persian_text": "و همچنین روحی (قرآن) را از فرمان خود به سوی تو وحی کردیم، تو نمی‌دانستی کتاب چیست و نه ایمان، ولی آن را نوری قرار دادیم که به وسیله آن هر که را از بندگانمان بخواهیم هدایت می‌کنیم، و همانا تو به راه راست هدایت می‌کنی.",
     "transliteration": "Wa kadhālika awḥaynā ilayka rūḥan min amrinā, mā kunta tadrī mal-kitābu wa lal-īmānu wa lākin ja'alnāhu nūran nahdī bihi man nashā'u min 'ibādinā, wa innaka la-tahdī ilā ṣirāṭim mustaqīm"

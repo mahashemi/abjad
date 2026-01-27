@@ -273,7 +273,7 @@ ayats = [
   {
     "verse_number": 34,
     "english_text": "She said: when kings enter a town they destroy it and treat noblest people with disgrace (and make them low), this is their practice.",
-    "arabic_text": "قَالَتْ اِنَّ الْمُلُوكَ اِذَا دَخَلُواْ قَرْيَةً اَفْسَدُوهَا وَجَعَلُوٓاْ اَعِزَّةَ اَهْلِهَآ اَذِلَّةًۭ ۖ وَكَذٰلِكَ يَفْعَلُونَ",
+    "arabic_text": "قَالَتْ اِنَّ الْمُلُوكَ اِذَا دَخَلُواْ قَرْيَةً اَفْسَدُوهَا وَجَعَلُوٓاْ اَعِزَّةَ اَهْلِهَآ اَذِلَّةًۭ ۖ وَ كَذٰلِكَ يَفْعَلُونَ",
     "urdu_text": "اس نے کها: بادشاه جب کسی بستی میں داخل هوتے هیں تو اسے تباه کر دیتے هیں اور وهاں کے عزت والوں کو ذلیل کر دیتے هیں، اور وه ایسا هی کرتے هیں",
     "persian_text": "گفت: همانا پادشاهان چون به شهری داخل شوند آن را تباه می‌کنند و عزیزان آن را خوار می‌سازند، و چنین می‌کنند",
     "transliteration": "Qālat innal-mulūka idhā dakhalū qaryatan afsadūhā wa ja'alū a'izzata ahlihā adhillatan wa kadhālika yaf'alūn"

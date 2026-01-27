@@ -233,7 +233,7 @@ ayats = [
   {
     "verse_number": 29,
     "english_text": "Then neither skies nor earth wept on them; and nor they were given the respite.",
-    "arabic_text": "فَمَا بَكَتْ عَلَيْهِمُ السَّمَآءُ وَالْاَرْضُ وَ مَا كَانُواْ مُنظَرِينَ",
+    "arabic_text": "فَمَا بَكَتْ عَلَيْهِمُ السَّمَآءُ وَ الْاَرْضُ وَ مَا كَانُواْ مُنظَرِينَ",
     "urdu_text": "پھر نه آسمان نے ان پر رویا اور نه زمین نے، اور نه انهیں مهلت دی گئی۔",
     "persian_text": "پس نه آسمان بر آنها گریست و نه زمین، و مهلتی به آنها داده نشد.",
     "transliteration": "Famaa bakat 'alayhimus samaaa'u wal ardu wa maa kaanoo mundhareen"

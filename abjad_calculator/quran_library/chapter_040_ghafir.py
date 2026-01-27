@@ -49,7 +49,7 @@ ayats = [
   {
     "verse_number": 6,
     "english_text": "Like this the punishment of your Lord has been proven for the infidels that they are going to Hell.",
-    "arabic_text": "وَكَذٰلِكَ حَقَّتْ كَلِمَتُ رَبِّكَ عَلَى الَّذِينَ كَفَرُوٓاْ اَنَّهُمْ اَصْحَـٰبُ النَّارِ",
+    "arabic_text": "وَ كَذٰلِكَ حَقَّتْ كَلِمَتُ رَبِّكَ عَلَى الَّذِينَ كَفَرُوٓاْ اَنَّهُمْ اَصْحَـٰبُ النَّارِ",
     "urdu_text": "اسی طرح تمہارے رب کا فیصلہ کافروں پر ثابت ہو گیا کہ وہ دوزخ والے ہیں۔",
     "persian_text": "و همین‌گونه فرمان پروردگار تو بر کافران ثابت شد که آنها اهل آتش هستند.",
     "transliteration": "Wa kadhaalika haqqat Kalimatu Rabbika 'alal-ladheena kafarooo annahum Ashaabun-Naar"
@@ -73,7 +73,7 @@ ayats = [
   {
     "verse_number": 9,
     "english_text": "And save them from evil deeds, and whom You save from evil deeds this day, indeed You did (shower) Mercy on them, and that is the big achievement.",
-    "arabic_text": "وَقِهِمُ السَّيِّـَٔاتِ ۚ وَمَن تَقِ السَّيِّـَٔاتِ يَوْمَئِذٍۢ فَقَدْ رَحِمْتَهُ ۚ وَذٰلِكَ هُوَ الْفَوْزُ الْعَظِيمُ",
+    "arabic_text": "وَقِهِمُ السَّيِّـَٔاتِ ۚ وَمَن تَقِ السَّيِّـَٔاتِ يَوْمَئِذٍۢ فَقَدْ رَحِمْتَهُ ۚ وَ ذٰلِكَ هُوَ الْفَوْزُ الْعَظِيمُ",
     "urdu_text": "اور انہیں برائیوں سے بچا، اور جسے تو اس دن برائیوں سے بچا لے تو بے شک تو نے اس پر رحم فرمایا، اور یہی بڑی کامیابی ہے۔",
     "persian_text": "و آنها را از بدی‌ها نگه دار، و هر که را در آن روز از بدی‌ها نگه داری، به راستی بر او رحم کرده‌ای، و این همان رستگاری بزرگ است.",
     "transliteration": "Wa qihimus-sayyi-aat, wa man taqis-sayyi-aati Yawma'idhin faqad rahimtah, wa dhaalika huwal-fawzul-'Adheem"
@@ -297,7 +297,7 @@ ayats = [
   {
     "verse_number": 37,
     "english_text": "From the ways in the sky I may see the Lord of Moosa, I think Moosa is a liar and there is no Allah, and like this Firaun's bad deeds were decorated and he was stopped from his way, and result of plotting of Firaun was nothing but destruction.",
-    "arabic_text": "اَسْبَـٰبَ السَّمَـٰوَٰتِ فَاَطَّلِعَ اِلـٰىٓ اِلَـٰهِ مُوسَىٰ وَاِنِّى لَاَظُنُّهُ كَـٰذِبًا ۚ وَكَذٰلِكَ زُيِّنَ لِفِرْعَوْنَ سُوٓءُ عَمَلِهِ وَصُدَّ عَنِ السَّبِيلِ ۚ وَ مَا كَيْدُ فِرْعَوْنَ اِلَّا فِى تَبَابٍۢ",
+    "arabic_text": "اَسْبَـٰبَ السَّمَـٰوَٰتِ فَاَطَّلِعَ اِلـٰىٓ اِلَـٰهِ مُوسَىٰ وَاِنِّى لَاَظُنُّهُ كَـٰذِبًا ۚ وَ كَذٰلِكَ زُيِّنَ لِفِرْعَوْنَ سُوٓءُ عَمَلِهِ وَصُدَّ عَنِ السَّبِيلِ ۚ وَ مَا كَيْدُ فِرْعَوْنَ اِلَّا فِى تَبَابٍۢ",
     "urdu_text": "آسمانوں کے راستوں تک، تاکہ میں موسیٰ کے رب کو دیکھ سکوں، اور میں یقیناً سمجھتا ہوں کہ موسیٰ جھوٹا ہے، اور اسی طرح فرعون کے لیے اس کے برے اعمال خوبصورت بنا دیے گئے اور وہ راہ راست سے روک دیا گیا، اور فرعون کی چال کا انجام صرف تباہی تھا۔",
     "persian_text": "راه‌های آسمان‌ها را، تا به خدای موسی نگاه کنم، و من یقیناً او را دروغگو می‌پندارم، و این‌گونه برای فرعون اعمال بدش زینت داده شد و از راه باز داشته شد، و نیرنگ فرعون جز در نابودی نبود.",
     "transliteration": "Asbaabas-samaawaati fa-attali'a ilaa ilaahi Moosaa wa innee la-azunnuhoo kaadhibaa, wa kadhaalika zuyyina li-Fir'awna soo'u 'amalihee wa sudda 'anis-sabeel, wa maa kaydu Fir'awna illaa fee tabaab"

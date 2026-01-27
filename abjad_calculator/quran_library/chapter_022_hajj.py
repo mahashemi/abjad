@@ -129,7 +129,7 @@ ayats = [
   {
     "verse_number": 16,
     "english_text": "And We have sent the Quran like manifest argument and bright sign, indeed, Allah guides to whoever He pleases.",
-    "arabic_text": "وَكَذٰلِكَ اَنزَلْنَـٰهُ اٰيٰتٍۭ بَيِّنَـٰتٍۢ وَاَنَّ اللّٰهَ يَهْدِى مَن يُرِيدُ",
+    "arabic_text": "وَ كَذٰلِكَ اَنزَلْنَـٰهُ اٰيٰتٍۭ بَيِّنَـٰتٍۢ وَاَنَّ اللّٰهَ يَهْدِى مَن يُرِيدُ",
     "urdu_text": "اور اسی طرح هم نے اسے واضح آیات کی صورت میں نازل کیا هے، اور بیشک الله جسے چاهتا هے هدایت دیتا هے۔",
     "persian_text": "و این‌گونه آن را به صورت آیات روشن نازل کردیم، و همانا خدا هر که را بخواهد هدایت می‌کند.",
     "transliteration": "Wa kadhalika anzalnaahu aayaatin bayyinaatin wa anna Allaaha yahdee man yureed"

@@ -66,7 +66,7 @@ ayats = [
   {
     "verse_number": 9,
     "english_text": "And whose scale of deeds will be light then Verily they had harmed themselves by disobeying Our verses.",
-    "arabic_text": "وَ مَنْ خَفَّتْ مَوَازِينُهُ فَاُوْلٰٓئِكَ الَّذِيْنَ خَسِرُوْٓا اَنْفُسَهُمْ بِمَا كَانُوْا بِاٰيَاتِنَا يَظْلِمُوْنَ",
+    "arabic_text": "وَ مَنْ خَفَّتْ مَوَازِينُهُ فَاُوْلٰٓئِكَ الَّذِيْنَ خَسِرُوْٓا اَنْفُسَهُمْ بِمَا كَانُوْا بِاٰيٰتِنَا يَظْلِمُوْنَ",
     "urdu_text": "اور جس کے اعمال کا پلڑا ہلکا ہوگا تو یہی وہ لوگ ہیں جنہوں نے اپنے آپ کو نقصان پہنچایا کیونکہ وہ ہماری آیات کے ساتھ ظلم کرتے تھے",
     "persian_text": "و کسانی که ترازوی اعمالشان سبک باشد آنان کسانی هستند که خود را زیان کردند به سبب آنکه به آیات ما ستم می‌کردند",
     "transliteration": "Wa man khaffat mawazeenuhu fa'ula'ika allazeena khasiroo anfusahum bima kanoo bi'ayatina yazlimoon",
@@ -282,7 +282,7 @@ ayats = [
   {
     "verse_number": 36,
     "english_text": "And whoever will deny our verses and will show pride, these are Hellish people, and they shall remain forever in it.",
-    "arabic_text": "وَ الَّذِيْنَ كَذَّبُوْا بِاٰيَاتِنَا وَ اسْتَكْبَرُوْا عَنْهَآ اُوْلٰٓئِكَ اَصْحٰبُ النَّارِ  ۚ هُمْ فِيْهَا خٰلِدُوْنَ",
+    "arabic_text": "وَ الَّذِيْنَ كَذَّبُوْا بِاٰيٰتِنَا وَ اسْتَكْبَرُوْا عَنْهَآ اُوْلٰٓئِكَ اَصْحٰبُ النَّارِ  ۚ هُمْ فِيْهَا خٰلِدُوْنَ",
     "urdu_text": "اور جن لوگوں نے ہماری آیتوں کو جھٹلایا اور ان سے تکبر کیا، یہی لوگ دوزخ والے ہیں، وہ اس میں ہمیشہ رہنے والے ہیں۔",
     "persian_text": "و کسانی که آیات ما را تکذیب کردند و از آنها تکبر ورزیدند، اینان اهل آتش هستند و جاودانه در آن خواهند ماند.",
     "transliteration": "Wallazeena kazzaboo bi-aayaatinaa wastakbaroo 'anhaa ulaaa'ika as-haabun-naar, hum feehaa khaalidoon",
@@ -314,7 +314,7 @@ ayats = [
   {
     "verse_number": 40,
     "english_text": "Verily, who denied Our verses and displayed haughtiness, for them neither gates of skies will open nor they can enter Paradise, so much so until camel pass through the eye of the needle, and We give such punishments to the guilty.",
-    "arabic_text": "اِنَّ الَّذِيْنَ كَذَّبُوْا بِاٰيَاتِنَا وَ اسْتَكْبَرُوْا عَنْهَا لَا تُفَتَّحُ لَهُمْ اَبْوَابُ السَّمَآءِ وَ لَا يَدْخُلُوْنَ الْجَنَّةَ حَتّٰى يَلِجَ الْجَمَلُ فِى سَمِّ الْخِيَاطِ ۚ وَ كَذٰلِكَ نَجْزِىْ الْمُجْرِمِيْنَ",
+    "arabic_text": "اِنَّ الَّذِيْنَ كَذَّبُوْا بِاٰيٰتِنَا وَ اسْتَكْبَرُوْا عَنْهَا لَا تُفَتَّحُ لَهُمْ اَبْوَابُ السَّمَآءِ وَ لَا يَدْخُلُوْنَ الْجَنَّةَ حَتّٰى يَلِجَ الْجَمَلُ فِى سَمِّ الْخِيَاطِ ۚ وَ كَذٰلِكَ نَجْزِىْ الْمُجْرِمِيْنَ",
     "urdu_text": "بیشک جن لوگوں نے ہماری آیتوں کو جھٹلایا اور ان سے تکبر کیا، ان کے لیے نہ آسمان کے دروازے کھولے جائیں گے اور نہ وہ جنت میں داخل ہوں گے، یہاں تک کہ اونٹ سوئی کے ناکے میں سے گزر جائے، اور ہم مجرموں کو ایسی ہی سزا دیتے ہیں۔",
     "persian_text": "همانا کسانی که آیات ما را تکذیب کردند و از آنها تکبر ورزیدند، درهای آسمان بر آنان گشوده نخواهد شد و داخل بهشت نخواهند شد تا شتر از سوراخ سوزن بگذرد، و اینچنین مجرمان را جزا می‌دهیم.",
     "transliteration": "Innal-lazeena kazzaboo bi-aayaatinaa wastakbaroo 'anhaa laa tufattahu lahum abwabus-samaaa'i wa laa yadkhuloonal-jannata hattaa yalijal-jamalu fee sammil-khiyaat, wa kazaalika najzil-mujrimeen",
@@ -402,7 +402,7 @@ ayats = [
   {
     "verse_number": 51,
     "english_text": "Who had made their religion a play and the life of world has deceived them, so today (Day of Judgement) We will intentionally forget them, the way they had forgotten that they will be presented today, and used to deny Our verses.",
-    "arabic_text": "الَّذِيْنَ اتَّخَذُوْا دِيْنَهُمْ لَهْوًا وَ لَعِبًا وَّ غَرَّتْهُمُ الْحَيٰوةُ الدُّنْيَا فَالْيَوْمَ نَنْسٰهُمْ كَمَا نَسُوا لِقَآءَ يَوْمِهِمْ هٰذَا وَ مَآ كَانُوا بِاٰيَاتِنَا يُجْحَدُوْنَ",
+    "arabic_text": "الَّذِيْنَ اتَّخَذُوْا دِيْنَهُمْ لَهْوًا وَ لَعِبًا وَّ غَرَّتْهُمُ الْحَيٰوةُ الدُّنْيَا فَالْيَوْمَ نَنْسٰهُمْ كَمَا نَسُوا لِقَآءَ يَوْمِهِمْ هٰذَا وَ مَآ كَانُوا بِاٰيٰتِنَا يُجْحَدُوْنَ",
     "urdu_text": "جنہوں نے اپنے دین کو کھیل تماشہ بنا لیا اور دنیا کی زندگی نے انہیں دھوکے میں ڈال دیا، تو آج ہم انہیں بھلا دیں گے جیسے انہوں نے اس دن کی حاضری کو بھلا دیا تھا اور ہماری آیات کا انکار کرتے رہے۔",
     "persian_text": "کسانی که دین خود را بازی و سرگرمی قرار دادند و زندگی دنیا آنها را فریب داد، پس امروز ما آنها را فراموش می‌کنیم همان‌گونه که آنها ملاقات این روز خود را فراموش کردند و آیات ما را انکار می‌کردند.",
     "transliteration": "Alladheenat takhadhoo deenahum lahwan wa la'iban wa gharrat humul hayaatud dunya fal yawma nansaahum kama nasoo liqaa'a yawmihim hadha wa ma kanoo bi ayatina yajhadoon",
@@ -506,7 +506,7 @@ ayats = [
   {
     "verse_number": 64,
     "english_text": "Even then the people denied him, then We delivered him and those who were on ark, and drowned all others whoever have rejected Our verses, and Verily they were all blind.",
-    "arabic_text": "فَكَذَّبُوْهُ فَاَنْجَيْنٰهُ وَ الَّذِينَ مَعَهُ فِى الْفُلْكِ وَ اَغْرَقْنَا الَّذِيْنَ كَذَّبُوْا بِاٰيَاتِنَا اِنَّهُمْ كَانُوْا قَوْمًا عَمِيْنَ",
+    "arabic_text": "فَكَذَّبُوْهُ فَاَنْجَيْنٰهُ وَ الَّذِينَ مَعَهُ فِى الْفُلْكِ وَ اَغْرَقْنَا الَّذِيْنَ كَذَّبُوْا بِاٰيٰتِنَا اِنَّهُمْ كَانُوْا قَوْمًا عَمِيْنَ",
     "urdu_text": "پھر انہوں نے اسے جھٹلایا تو ہم نے اسے اور جو لوگ اس کے ساتھ کشتی میں تھے انہیں نجات دی اور جنہوں نے ہماری آیات کو جھٹلایا تھا انہیں غرق کر دیا بیشک وہ اندھی قوم تھے",
     "persian_text": "پس او را تکذیب کردند آنگاه ما او و کسانی را که با او در کشتی بودند نجات دادیم و کسانی را که آیات ما را تکذیب کردند غرق کردیم زیرا آنها قومی نابینا بودند",
     "transliteration": "Fakazzaboohu fa-anjaynaahu wallazeena ma'ahu fil fulki wa aghraqnallazeena kazzaboo bi-aayaatinaa innahum kaanoo qawman 'ameen",
@@ -570,7 +570,7 @@ ayats = [
   {
     "verse_number": 72,
     "english_text": "Finally, We delivered those who were with him and uprooted them who denied our verses; and that also they would not have accepted faith.",
-    "arabic_text": "فَاَنْجَيْنٰهُ وَ الَّذِيْنَ مَعَهُ بِرَحْمَةٍ مِّنَّا وَ قَطَعْنَا دَابِرَ الَّذِيْنَ كَذَّبُوا بِاٰيَاتِنَا وَ مَا كَانُوا مُؤْمِنِيْنَ",
+    "arabic_text": "فَاَنْجَيْنٰهُ وَ الَّذِيْنَ مَعَهُ بِرَحْمَةٍ مِّنَّا وَ قَطَعْنَا دَابِرَ الَّذِيْنَ كَذَّبُوا بِاٰيٰتِنَا وَ مَا كَانُوا مُؤْمِنِيْنَ",
     "urdu_text": "پھر ہم نے اپنی رحمت سے ان کو اور جو لوگ ان کے ساتھ تھے نجات دی، اور جنہوں نے ہماری آیات کو جھٹلایا ان کی جڑ کاٹ دی، اور وہ ایمان لانے والے نہیں تھے۔",
     "persian_text": "پس او و کسانی را که با او بودند به رحمت خود نجات دادیم، و ریشه کسانی را که آیات ما را تکذیب کردند بریدیم، و آنها ایمان آورندگان نبودند.",
     "transliteration": "Fa-anjainahu walladhina ma'ahu birahmatim minna wa qata'na dabirallathina kaththabu bi-ayatina wa ma kanu mu'minin",
@@ -818,7 +818,7 @@ ayats = [
   {
     "verse_number": 103,
     "english_text": "Then after them We sent Moosa with Our miracles to Firaun and his people, so they also did unjust, now see the result of the mischief makers.",
-    "arabic_text": "ثُمَّ بَعَثْنَا مِنْ بَعْدِهِمْ مُوسٰى بِاٰيَاتِنَآ اِلَٰى فِرْعَوْنَ وَ مَلَئِهِ فَظَلَمُوا بِهَا فَانْظُرْ كَيْفَ كَانَ عَاقِبَةُ الْمُفْسِدِيْنَ",
+    "arabic_text": "ثُمَّ بَعَثْنَا مِنْ بَعْدِهِمْ مُوسٰى بِاٰيٰتِنَآ اِلَٰى فِرْعَوْنَ وَ مَلَئِهِ فَظَلَمُوا بِهَا فَانْظُرْ كَيْفَ كَانَ عَاقِبَةُ الْمُفْسِدِيْنَ",
     "urdu_text": "پھر ان کے بعد ہم نے موسیٰ کو اپنی نشانیوں کے ساتھ فرعون اور اس کے سرداروں کی طرف بھیجا، تو انہوں نے ان کے ساتھ ظلم کیا، پس دیکھو کہ فساد کرنے والوں کا انجام کیسا ہوا",
     "persian_text": "سپس پس از آنان موسی را با آیات خود به سوی فرعون و اطرافیانش فرستادیم، پس آنها به آیات ستم کردند، بنگر که عاقبت مفسدان چگونه بود",
     "transliteration": "Thumma ba'athna min ba'dihim Musa bi-ayatina ila Fir'awna wa mala'ihi fazalamu biha fanzur kayfa kana aqibatul mufsideen",
@@ -1082,7 +1082,7 @@ ayats = [
   {
     "verse_number": 136,
     "english_text": "Then We took revenge on them and drowned them in the sea, and they had denied our verses and they were negligent of them.",
-    "arabic_text": "فَانْتَقَمْنَا مِنْهُمْ فَاَغْرَقْنٰهُمْ فِى الْيَمِّ بِاَنَّهُمْ كَذَّبُوا بِاٰيَاتِنَا وَ كَانُوا عَنْهَا غٰفِلِيْنَ",
+    "arabic_text": "فَانْتَقَمْنَا مِنْهُمْ فَاَغْرَقْنٰهُمْ فِى الْيَمِّ بِاَنَّهُمْ كَذَّبُوا بِاٰيٰتِنَا وَ كَانُوا عَنْهَا غٰفِلِيْنَ",
     "urdu_text": "پھر ہم نے ان سے بدلہ لیا اور انہیں سمندر میں غرق کر دیا کیونکہ انہوں نے ہماری آیات کو جھٹلایا تھا اور وہ ان سے غافل تھے",
     "persian_text": "پس از آنان انتقام گرفتیم و آنها را در دریا غرق کردیم، زیرا که آیات ما را تکذیب کردند و از آنها غافل بودند",
     "transliteration": "Fantaqamna minhum fa-aghraqnahum fil-yammi bi-annahum kadhdhabo bi-ayatina wa kanu 'anha ghafileen",
@@ -1162,7 +1162,7 @@ ayats = [
   {
     "verse_number": 146,
     "english_text": "And shortly We will make them turn away from our verses who roam on the land haughtily, and if they see every sign, they will not believe in it, their condition is such that if they will see the path of guidance, they will not adapt to it, but if they see any path of misguidance, they immediately adapt to it, this is because they have denied our signs and were negligent of them.",
-    "arabic_text": "سَاَصْرِفُ عَنْ اٰيٰتِىَ الَّذِيْنَ يَتَكَبَّرُوْنَ فِى الْاَرْضِ بِغَيْرِ الْحَقِّ وَ اِنْ يَّرَوْا كُلَّ اٰيَةٍ لَّا يُؤْمِنُوْا بِهَا وَ اِنْ يَرَوْا سَبِيْلَ الرُّشْدِ لَا يَتَّخِذُوْهُ سَبِيْلًا وَ اِنْ يَّرَوْا سَبِيْلَ الْغَىِّ يَتَّخِذُوْهُ سَبِيْلًا ۚ ذٰلِكَ بِاَنَّهُمْ كَذَّبُوْا بِاٰيَاتِنَا وَ كَانُوْا عَنْهَا غٰفِلِيْنَ",
+    "arabic_text": "سَاَصْرِفُ عَنْ اٰيٰتِىَ الَّذِيْنَ يَتَكَبَّرُوْنَ فِى الْاَرْضِ بِغَيْرِ الْحَقِّ وَ اِنْ يَّرَوْا كُلَّ اٰيَةٍ لَّا يُؤْمِنُوْا بِهَا وَ اِنْ يَرَوْا سَبِيْلَ الرُّشْدِ لَا يَتَّخِذُوْهُ سَبِيْلًا وَ اِنْ يَّرَوْا سَبِيْلَ الْغَىِّ يَتَّخِذُوْهُ سَبِيْلًا ۚ ذٰلِكَ بِاَنَّهُمْ كَذَّبُوْا بِاٰيٰتِنَا وَ كَانُوْا عَنْهَا غٰفِلِيْنَ",
     "urdu_text": "میں عنقریب اپنی آیتوں سے ان لوگوں کو پھیر دوں گا جو زمین میں ناحق تکبر کرتے ہیں، اور اگر وہ ہر نشانی دیکھ لیں تو بھی اس پر ایمان نہیں لائیں گے، اور اگر وہ ہدایت کا راستہ دیکھیں تو اسے اپنا راستہ نہیں بنائیں گے، اور اگر گمراہی کا راستہ دیکھیں تو اسے فوراً اپنا راستہ بنا لیں گے، یہ اس لیے کہ انہوں نے ہماری آیتوں کو جھٹلایا اور ان سے غافل رہے",
     "persian_text": "به زودی کسانی را که در زمین به ناحق تکبر می‌کنند از آیات خود منصرف خواهم کرد، و اگر هر نشانه‌ای را ببینند به آن ایمان نمی‌آورند، و اگر راه هدایت را ببینند آن را راه خود قرار نمی‌دهند، و اگر راه گمراهی را ببینند فوراً آن را راه خود قرار می‌دهند، این به خاطر آن است که آیات ما را تکذیب کردند و از آنها غافل بودند",
     "transliteration": "Sa-asrifu 'an ayatiya alladhina yatakabbaruna fil-ardi bighayril-haqqi wa iy-yaraw kulla ayatil-la yu'minu biha wa iy-yaraw sabila rushdi la yattakhidhuhu sabila wa iy-yaraw sabila ghayyi yattakhidhuhu sabila, dhalika bi-annahum kadhdhabu bi-ayatina wa kanu 'anha ghafilin",
@@ -1170,7 +1170,7 @@ ayats = [
   {
     "verse_number": 147,
     "english_text": "And whoever denied our verses and meeting of the Hereafter, their deeds are a waste, and they will be given the reward as per their deeds.",
-    "arabic_text": "وَ الَّذِيْنَ كَذَّبُوْا بِاٰيَاتِنَا وَ لِقَآءِ الْاٰخِرَةِ حَبِطَتْ اَعْمَالُهُمْ ۚ هَلْ يُجْزَوْنَ اِلَّا مَا كَانُوْا يَعْمَلُوْنَ",
+    "arabic_text": "وَ الَّذِيْنَ كَذَّبُوْا بِاٰيٰتِنَا وَ لِقَآءِ الْاٰخِرَةِ حَبِطَتْ اَعْمَالُهُمْ ۚ هَلْ يُجْزَوْنَ اِلَّا مَا كَانُوْا يَعْمَلُوْنَ",
     "urdu_text": "اور جن لوگوں نے ہماری آیتوں اور آخرت کی ملاقات کو جھٹلایا، ان کے اعمال برباد ہو گئے، کیا انہیں اس کے سوا کوئی بدلہ ملے گا جو وہ عمل کرتے تھے",
     "persian_text": "و کسانی که آیات ما و دیدار آخرت را تکذیب کردند، اعمالشان تباه شد، آیا جز به آنچه عمل می‌کردند جزا داده می‌شوند",
     "transliteration": "Walladhina kadhdhabu bi-ayatina wa liqa'il-akhirati habitat a'maluhum, hal yujzawna illa ma kanu ya'malun",
@@ -1242,7 +1242,7 @@ ayats = [
   {
     "verse_number": 156,
     "english_text": "And do write for us good in this world and the Hereafter, we turn to You only; said He: my punishment, it will reach to those to whoever I please, and My Mercy has spread over everything and I will shortly write it for who have fear of Allah, pays poor-rate, and are believers of our signs.",
-    "arabic_text": "وَ اكْتُبْ لَنَا فِى هٰذِهِ الدُّنْيَا حَسَنَةً وَ فِى الْآخِرَةِ اِنَّا هُدْنَآ اِلَيْكَ قَالَ عَذَابِٓى اُصِيْبُ بِهِ مَنْ اَشَآءُ وَ رَحْمَتِى وَسِعَتْ كُلَّ شَيْءٍ فَسَاَكْتُبُهَا لِلَّذِيْنَ يَتَّقُوْنَ وَ يُؤْتُوْنَ الزَّكٰوةَ وَ الَّذِينَ هُم بِاٰيَاتِنَا يُؤْمِنُوْنَ",
+    "arabic_text": "وَ اكْتُبْ لَنَا فِى هٰذِهِ الدُّنْيَا حَسَنَةً وَ فِى الْآخِرَةِ اِنَّا هُدْنَآ اِلَيْكَ قَالَ عَذَابِٓى اُصِيْبُ بِهِ مَنْ اَشَآءُ وَ رَحْمَتِى وَسِعَتْ كُلَّ شَيْءٍ فَسَاَكْتُبُهَا لِلَّذِيْنَ يَتَّقُوْنَ وَ يُؤْتُوْنَ الزَّكٰوةَ وَ الَّذِينَ هُم بِاٰيٰتِنَا يُؤْمِنُوْنَ",
     "urdu_text": "اور ہمارے لیے اس دنیا میں بھی بھلائی لکھ دے اور آخرت میں بھی، بیشک ہم تیری طرف رجوع کرتے ہیں۔ اللہ نے فرمایا: میرا عذاب، میں جس پر چاہوں نازل کروں گا، اور میری رحمت ہر چیز پر وسیع ہے، پس میں عنقریب اسے ان لوگوں کے لیے لکھ دوں گا جو تقویٰ اختیار کرتے ہیں، زکوٰۃ ادا کرتے ہیں، اور جو ہماری آیات پر ایمان لاتے ہیں۔",
     "persian_text": "و برای ما در این دنیا نیکی بنویس و در آخرت نیز، همانا ما به سوی تو بازگشتیم. فرمود: عذاب من را به هر که بخواهم می‌رسانم، و رحمت من همه چیز را فراگرفته است، پس به زودی آن را برای کسانی خواهم نوشت که تقوا پیشه می‌کنند و زکات می‌دهند و کسانی که به آیات ما ایمان دارند.",
     "transliteration": "Waktub lana fi hadhihid-dunya hasanatanw wa fil-akhirati inna hudna ilayk, qala 'adhabi useebu bihi man asha'u wa rahmati wasi'at kulla shay'in fasaaktubuha lilladhina yattaquna wa yu'tunaz-zakata walladhina hum bi-ayatina yu'minun",
@@ -1394,7 +1394,7 @@ ayats = [
   {
     "verse_number": 175,
     "english_text": "And give them the news of the person to whom We gave our verses, but he totally separated from it, so Satan caught hold of him and he became among misguided people.",
-    "arabic_text": "وَ اتْلُ عَلَيْهِمْ نَبَاَ الَّذِىْٓ اٰتَيْنٰهُ اٰيَاتِنَا فَانسَلَخَ مِنْهَا فَاَتْبَعَهُ الشَّيْطٰنُ فَكَانَ مِنَْ الْغٰوِيْنَ",
+    "arabic_text": "وَ اتْلُ عَلَيْهِمْ نَبَاَ الَّذِىْٓ اٰتَيْنٰهُ اٰيٰتِنَا فَانسَلَخَ مِنْهَا فَاَتْبَعَهُ الشَّيْطٰنُ فَكَانَ مِنَْ الْغٰوِيْنَ",
     "urdu_text": "اور انہیں اس شخص کی خبر سناؤ جسے ہم نے اپنی آیات دیں لیکن وہ ان سے بالکل الگ ہو گیا، پھر شیطان نے اس کا پیچھا کیا اور وہ گمراہوں میں سے ہو گیا۔",
     "persian_text": "و خبر کسی را که آیات خود را به او دادیم بر آنان بخوان، اما او از آنها بیرون شد، پس شیطان او را پیروی کرد و از گمراهان گردید.",
     "transliteration": "Watlu 'alayhim naba'a alladhi ataynahu ayatina fa-ansalakha minha fa-atba'ahu ash-shaytanu fa-kana mina al-ghawin",
@@ -1402,7 +1402,7 @@ ayats = [
   {
     "verse_number": 176,
     "english_text": "And if We pleased We would have elevated him because of the verses but he himself leaned towards the ground, and he followed his low-desires, now his example is like a dog that he gives out his tongue if you attack him, and (if you) leave him (still) he gives out his tongue, this is the example of people who denied our verses, so now you narrate these incidents, so they might ponder.",
-    "arabic_text": "وَ لَوْ شِئْنَا لَرَفَعْنٰهُ بِهَا وَ لٰكِنَّهُٓ اَخْلَدَ اِلَى الْاَرْضِ وَ اتَّبَعَ هَوٰهُ ۚ فَمَثَلُهُ كَمَثَلِ الْكَلْبِ اِنْ تَحْمِلْ عَلَيْهِ يَلْهَثْ اَوْ تَتْرُكْهُ يَلْهَثْ ۚ ذّٰلِكَ مَثَلُ الْقَوْمِ الَّذِيْنَ كَذَّبُوْا بِاٰيَاتِنَا ۚ فَاقْصُصِ الْقَصَصَ لَعَلَّهُمْ يَتَفَكَّرُوْنَ",
+    "arabic_text": "وَ لَوْ شِئْنَا لَرَفَعْنٰهُ بِهَا وَ لٰكِنَّهُٓ اَخْلَدَ اِلَى الْاَرْضِ وَ اتَّبَعَ هَوٰهُ ۚ فَمَثَلُهُ كَمَثَلِ الْكَلْبِ اِنْ تَحْمِلْ عَلَيْهِ يَلْهَثْ اَوْ تَتْرُكْهُ يَلْهَثْ ۚ ذّٰلِكَ مَثَلُ الْقَوْمِ الَّذِيْنَ كَذَّبُوْا بِاٰيٰتِنَا ۚ فَاقْصُصِ الْقَصَصَ لَعَلَّهُمْ يَتَفَكَّرُوْنَ",
     "urdu_text": "اور اگر ہم چاہتے تو ان آیات کے ذریعے اس کو بلند مرتبہ کر دیتے لیکن وہ خود دنیا کی طرف جھک گیا اور اپنی خواہشات کی پیروی کی، پس اس کی مثال کتے کی سی ہے کہ اگر تم اس پر حملہ کرو تو بھی وہ زبان نکالتا ہے اور اگر اسے چھوڑ دو تب بھی زبان نکالتا ہے، یہ ان لوگوں کی مثال ہے جنہوں نے ہماری آیات کو جھٹلایا، پس تم یہ واقعات بیان کرو تاکہ وہ غور و فکر کریں",
     "persian_text": "و اگر می‌خواستیم او را به وسیله این آیات بلند می‌کردیم ولی او خود به زمین گرایش یافت و از هوای نفس خود پیروی کرد، پس مثل او مانند سگی است که اگر بر او حمله کنی زبان بیرون می‌آورد و اگر او را رها کنی باز هم زبان بیرون می‌آورد، این است مثل قومی که آیات ما را تکذیب کردند، پس این داستان‌ها را بازگو کن شاید که تفکر کنند",
     "transliteration": "Wa law shi'na larafa'nahu biha wa lakinnahu akhlada ilal-ardi wattaba'a hawahu famathalu hu kamathali l-kalbi in tahmil 'alayhi yalhath aw tatruk-hu yalhath dhalika mathalu l-qawmi l-ladhina kadhdhabu bi-ayatina faqsusi l-qasasa la'allahum yatafakkarun",
@@ -1410,7 +1410,7 @@ ayats = [
   {
     "verse_number": 177,
     "english_text": "How evil is the example of the people who deny our verses, and those people are being unjust on their souls.",
-    "arabic_text": "سَآءَ مَثَلًا الْقَوْمُ الَّذِيْنَ كَذَّبُوا بِاٰيَاتِنَا وَ اَنْفُسَهُمْ كَانُوا يَظْلِمُوْنَ",
+    "arabic_text": "سَآءَ مَثَلًا الْقَوْمُ الَّذِيْنَ كَذَّبُوا بِاٰيٰتِنَا وَ اَنْفُسَهُمْ كَانُوا يَظْلِمُوْنَ",
     "urdu_text": "بہت بری مثال ہے ان لوگوں کی جنہوں نے ہماری آیات کو جھٹلایا اور وہ اپنی جانوں پر ظلم کرتے تھے",
     "persian_text": "چه بد مثالی است مثال قومی که آیات ما را تکذیب کردند و بر خودشان ستم می‌کردند",
     "transliteration": "Sa'a mathalan al-qawmu l-ladhina kadhdhabu bi-ayatina wa anfusahum kanu yazlimun",
@@ -1450,7 +1450,7 @@ ayats = [
   {
     "verse_number": 182,
     "english_text": "And whosoever denied our verses, We will shortly wrap them in such a way that they will not even understand.",
-    "arabic_text": "وَ الَّذِيْنَ كَذَّبُوا بِاٰيَاتِنَا سَنَسْتَدْرِجُهُمْ مِّنْ حَيْثُ لَا يَعْلَمُوْنَ",
+    "arabic_text": "وَ الَّذِيْنَ كَذَّبُوا بِاٰيٰتِنَا سَنَسْتَدْرِجُهُمْ مِّنْ حَيْثُ لَا يَعْلَمُوْنَ",
     "urdu_text": "اور جن لوگوں نے ہماری آیتوں کو جھٹلایا ہم عنقریب انہیں اس طرح پکڑیں گے کہ انہیں خبر بھی نہیں ہوگی",
     "persian_text": "و کسانی که آیات ما را تکذیب کردند به تدریج آنان را از جایی که نمی‌دانند به سوی هلاکت می‌کشانیم",
     "transliteration": "Wallazeena kazzaboo bi-aayaatina sanastadrijuhum min haythu laa ya'lamoon",

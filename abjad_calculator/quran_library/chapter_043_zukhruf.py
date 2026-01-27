@@ -185,7 +185,7 @@ ayats = [
   {
     "verse_number": 23,
     "english_text": "And thus, We did not send before you any warner in a settlement, but those who led easy lives in it said: Verily we found our forefathers on a course, and Verily we are followers of their footsteps.",
-    "arabic_text": "وَكَذٰلِكَ مَآ اَرْسَلْنَا مِن قَبْلِكَ فِى قَرْيَةٍۢ مِّن نَّذِيرٍ اِلَّا قَالَ مُتْرَفُوهَآ اِنَّا وَجَدْنَآ ءَابَآءَنَا عَلَىٰٓ اُمَّةٍۢ وَ اِنَّا عَلَىٰٓ ءَاثَـٰرِهِم مُّقْتَدُونَ",
+    "arabic_text": "وَ كَذٰلِكَ مَآ اَرْسَلْنَا مِن قَبْلِكَ فِى قَرْيَةٍۢ مِّن نَّذِيرٍ اِلَّا قَالَ مُتْرَفُوهَآ اِنَّا وَجَدْنَآ ءَابَآءَنَا عَلَىٰٓ اُمَّةٍۢ وَ اِنَّا عَلَىٰٓ ءَاثَـٰرِهِم مُّقْتَدُونَ",
     "urdu_text": "اور اسی طرح هم نے آپ سے پهلے کسی بستی میں کوئی ڈرانے والا نهیں بھیجا مگر وهاں کے خوشحال لوگوں نے کها که هم نے اپنے باپ دادا کو ایک طریقے پر پایا اور هم ان کے نقش قدم پر چلنے والے هیں۔",
     "persian_text": "و همین‌گونه پیش از تو هیچ هشداردهنده‌ای به شهری نفرستادیم مگر آنکه ناز پروردگان آن گفتند ما پدران خود را بر آیینی یافتیم و ما از آثار آنان پیروی می‌کنیم.",
     "transliteration": "Wa kazaalika maa arsalnaa min qablika fee qaryatim min nazheerin illaa qaala mutrafoohaaa innaa wajadnaa aabaaa'anaa 'alaa ummatiw wa innaa 'alaa aathaarihim muqtadoon"

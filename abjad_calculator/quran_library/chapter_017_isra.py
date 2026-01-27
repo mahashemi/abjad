@@ -353,7 +353,7 @@ ayats = [
   {
     "verse_number": 44,
     "english_text": "And whoever is in the seven skies and on the earth, they all glorify Him; and there is nothing in the world which do not glorify His Praise, but you do not understand their glorification, indeed He is very Forbearing and Forgiving.",
-    "arabic_text": "تُسَبِّحُ لَهُ السَّمَـٰوَٰتُ السَّبْعُ وَالْاَرْضُ وَمَن فِيهِنَّ ۚ وَاِن مِّن شَىْءٍ اِلَّا يُسَبِّحُ بِحَمْدِهِ وَلَـٰكِن لَّا تَفْقَهُونَ تَسْبِيحَهُمْ ۗ اِنَّهُ كَانَ حَلِيمًا غَفُورًا",
+    "arabic_text": "تُسَبِّحُ لَهُ السَّمَـٰوَٰتُ السَّبْعُ وَ الْاَرْضُ وَمَن فِيهِنَّ ۚ وَاِن مِّن شَىْءٍ اِلَّا يُسَبِّحُ بِحَمْدِهِ وَلَـٰكِن لَّا تَفْقَهُونَ تَسْبِيحَهُمْ ۗ اِنَّهُ كَانَ حَلِيمًا غَفُورًا",
     "urdu_text": "ساتوں آسمان اور زمین اور جو کوئی ان میں ہے سب اس کی تسبیح کرتے ہیں، اور کوئی چیز ایسی نہیں جو اس کی حمد کے ساتھ تسبیح نہ کرتی ہو، لیکن تم ان کی تسبیح کو نہیں سمجھتے، بیشک وہ بڑا بردبار اور بخشنے والا ہے۔",
     "persian_text": "هفت آسمان و زمین و هر که در آنهاست او را تسبیح می‌گویند، و هیچ چیزی نیست مگر آنکه به ستایش او تسبیح می‌گوید، ولی شما تسبیح آنها را درک نمی‌کنید، همانا او بردبار و آمرزنده است.",
     "transliteration": "Tusabbihu lahus-samaawaatus-sab'u wal-ardu wa man feehinna wa im-min shay'in illaa yusabbihu bihamdihee wa laakin laa tafqahoona tasbeehahum innahoo kaana haleeman ghafooraa"

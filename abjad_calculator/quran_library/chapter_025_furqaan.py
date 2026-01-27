@@ -249,7 +249,7 @@ ayats = [
   {
     "verse_number": 31,
     "english_text": "And like this We have made some enemies of every prophet among the guilty ones; and for your guidance and help your Lord is Sufficient.",
-    "arabic_text": "وَكَذٰلِكَ جَعَلْنَا لِكُلِّ نَبِىٍّ عَدُوًّۭا مِّنَ الْمُجْرِمِينَ ۗ وَكَفَىٰ بِرَبِّكَ هَادِيًۭا وَنَصِيرًا",
+    "arabic_text": "وَ كَذٰلِكَ جَعَلْنَا لِكُلِّ نَبِىٍّ عَدُوًّۭا مِّنَ الْمُجْرِمِينَ ۗ وَكَفَىٰ بِرَبِّكَ هَادِيًۭا وَنَصِيرًا",
     "urdu_text": "اور اسی طرح هم نے هر نبی کے لیے مجرموں میں سے دشمن بنائے، اور آپ کے رب هدایت دینے والا اور مددگار هونے کے لیے کافی هے۔",
     "persian_text": "و همین‌گونه برای هر پیامبری دشمنانی از مجرمان قرار دادیم، و پروردگار تو برای هدایت و یاری کافی است.",
     "transliteration": "Wa kadhalika ja'alna likulli nabiyyin 'aduwwan minal-mujrimeen, wa kafa birabbika hadiyan wa naseera"

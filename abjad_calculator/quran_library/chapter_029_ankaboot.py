@@ -377,7 +377,7 @@ ayats = [
   {
     "verse_number": 47,
     "english_text": "Like this We revealed the Book to you, so to whoever We gave the book earlier they believe in this book, and some of these people (Arabs) also believe in this (book), and Our verses are only denied by the infidels.",
-    "arabic_text": "وَكَذٰلِكَ اَنزَلْنَآ اِلَيْكَ الْكِتٰبَ ۚ فَالَّذِينَ ءَاتَيْنَـٰهُمُ الْكِتٰبَ يُؤْمِنُونَ بِهِ ۖ وَ مِنْ هَـٰٓؤُلَآءِ مَن يُؤْمِنُ بِهِ ۚ وَ مَا يَجْحَدُ بِـَٔايَـٰتِنَآ اِلَّا الْكَـٰفِرُونَ",
+    "arabic_text": "وَ كَذٰلِكَ اَنزَلْنَآ اِلَيْكَ الْكِتٰبَ ۚ فَالَّذِينَ ءَاتَيْنَـٰهُمُ الْكِتٰبَ يُؤْمِنُونَ بِهِ ۖ وَ مِنْ هَـٰٓؤُلَآءِ مَن يُؤْمِنُ بِهِ ۚ وَ مَا يَجْحَدُ بِـَٔايَـٰتِنَآ اِلَّا الْكَـٰفِرُونَ",
     "urdu_text": "اور اسی طرح ہم نے تمہاری طرف کتاب نازل کی، پس جن لوگوں کو ہم نے پہلے کتاب دی تھی وہ اس پر ایمان لاتے ہیں، اور ان میں سے بھی کچھ لوگ اس پر ایمان لاتے ہیں، اور ہماری آیتوں کا انکار صرف کافر ہی کرتے ہیں۔",
     "persian_text": "و این‌چنین کتاب را بر تو نازل کردیم، پس کسانی که به آنان کتاب دادیم به آن ایمان می‌آورند، و از اینان نیز برخی به آن ایمان می‌آورند، و جز کافران کسی آیات ما را انکار نمی‌کند.",
     "transliteration": "Wa kadhālika anzalnā ilaykal-kitāb, falladhīna ātaynāhumul-kitāba yu'minūna bih, wa min hā'ulā'i man yu'minu bih, wa mā yajhadu bi-āyātinā illal-kāfirūn"

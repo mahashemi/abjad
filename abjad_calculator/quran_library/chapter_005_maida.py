@@ -74,7 +74,7 @@ ayats = [
   {
     "verse_number": 10,
     "english_text": "Who adopted infidelity and deny Our verses, they are all Hellish.",
-    "arabic_text": "وَ الَّذِيْنَ كَفَرُوْا وَ كَذَّبُوْا بِاٰيَاتِنَآ اُولٰٓئِكَ اَصْحٰبُ الْجَحِيْمِ",
+    "arabic_text": "وَ الَّذِيْنَ كَفَرُوْا وَ كَذَّبُوْا بِاٰيٰتِنَآ اُولٰٓئِكَ اَصْحٰبُ الْجَحِيْمِ",
     "urdu_text": "اور جنہوں نے کفر اختیار کیا اور ہماری آیتوں کو جھٹلایا، وہی لوگ دوزخ کے ساتھی ہیں",
     "persian_text": "و کسانی که کافر شدند و آیات ما را تکذیب کردند، آنان اهل دوزخند",
     "transliteration": "Walladhina kafaru wa kadhdhabu bi'ayatina ula'ika as'habul-jahim",

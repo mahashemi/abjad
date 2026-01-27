@@ -537,7 +537,7 @@ ayats = [
   {
     "verse_number": 67,
     "english_text": "Verily, they did not value Allah, on the Day of Judgement all the earth will be in His fist, and skies will be wrapped upon His hands; He is Pure and Self-Sufficient, He is much higher than what they associate with Him.",
-    "arabic_text": "وَ مَا قَدَرُواْ اللّٰهَ حَقَّ قَدْرِهِ وَالْاَرْضُ جَمِيعًۭا قَبْضَتُهُ يَوْمَ الْقِيَـٰمَةِ وَالسَّمَـٰوَٰتُ مَطْوِيَّـٰتٌۢ بِيَمِينِهِ ۚ سُبْحَـٰنَهُ وَتَعَـٰلَىٰ عَمَّا يُشْرِكُونَ",
+    "arabic_text": "وَ مَا قَدَرُواْ اللّٰهَ حَقَّ قَدْرِهِ وَ الْاَرْضُ جَمِيعًۭا قَبْضَتُهُ يَوْمَ الْقِيَـٰمَةِ وَالسَّمَـٰوَٰتُ مَطْوِيَّـٰتٌۢ بِيَمِينِهِ ۚ سُبْحَـٰنَهُ وَتَعَـٰلَىٰ عَمَّا يُشْرِكُونَ",
     "urdu_text": "انہوں نے اللہ کی قدر نہیں پہچانی جیسی اس کی قدر پہچاننی چاہیے تھی، قیامت کے دن ساری زمین اس کی مٹھی میں ہوگی، اور آسمان اس کے داہنے ہاتھ میں لپٹے ہوئے ہوں گے، وہ پاک ہے اور ان چیزوں سے بہت بلند ہے جنہیں یہ لوگ اس کا شریک ٹھہراتے ہیں۔",
     "persian_text": "و آنان خدا را آن‌گونه که شایسته اوست قدر ندانستند، روز قیامت تمام زمین در مشت او خواهد بود و آسمان‌ها در دست راست او پیچیده شده‌اند، منزه است او و برتر از آنچه شریک او قرار می‌دهند.",
     "transliteration": "Wa maa qadarul-laaha haqqa qadrihee wal-ardu jamee'an qabdatuhoo yawmal-qiyaamati was-samaawaatu matwiyyaatum bi-yameenih, subhaanahoo wa ta'aalaa 'ammaa yushrikoon"

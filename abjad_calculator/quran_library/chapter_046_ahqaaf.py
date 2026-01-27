@@ -217,7 +217,7 @@ ayats = [
   {
     "verse_number": 27,
     "english_text": "Verily, We destroyed many a settlement around you, and showed Our signs repeatedly that perhaps they may come back towards the Truth.",
-    "arabic_text": "وَ لَقَدْ اَهْلَكْنَا مَا حَوْلَكُم مِّنَ الْقُرَىٰ وَصَرَّفْنَا الْايَـٰتِ لَعَلَّهُمْ يَرْجِعُونَ",
+    "arabic_text": "وَ لَقَدْ اَهْلَكْنَا مَا حَوْلَكُم مِّنَ الْقُرٰى وَصَرَّفْنَا الْايَـٰتِ لَعَلَّهُمْ يَرْجِعُونَ",
     "urdu_text": "اور یقیناً ہم نے تمہارے اردگرد کی بہت سی بستیوں کو تباہ کر دیا، اور ہم نے اپنی نشانیاں بار بار دکھائیں تاکہ شاید وہ حق کی طرف لوٹ آئیں۔",
     "persian_text": "و قطعاً ما بسیاری از آبادی‌های اطراف شما را هلاک کردیم و آیات را بارها نشان دادیم، شاید که بازگردند.",
     "transliteration": "Wa laqad ahlakna ma hawlakum minal-qura wa sarrafnal-ayati la'allahum yarji'oon"
@@ -225,7 +225,7 @@ ayats = [
   {
     "verse_number": 28,
     "english_text": "So why they did not benefitted them whom they have adopted as gods besides Allah to draw near to Him, but instead they disappeared; and this was their lie and slander which they used to fabricate regularly.",
-    "arabic_text": "فَلَوْلَا نَصَرَهُمُ الَّذِينَ اتَّخَذُواْ مِن دُونِ اللّٰهِ قُرْبَانًا ءَالِهَةًۢ ۖ بَلْ ضَلُّواْ عَنْهُمْ ۚ وَذٰلِكَ اِفْكُهُمْ وَ مَا كَانُواْ يَفْتَرُونَ",
+    "arabic_text": "فَلَوْلَا نَصَرَهُمُ الَّذِينَ اتَّخَذُواْ مِن دُونِ اللّٰهِ قُرْبَانًا ءَالِهَةًۢ ۖ بَلْ ضَلُّواْ عَنْهُمْ ۚ وَ ذٰلِكَ اِفْكُهُمْ وَ مَا كَانُواْ يَفْتَرُونَ",
     "urdu_text": "تو کیوں ان کی مدد نہیں کی جنہیں انہوں نے اللہ کے سوا قربت حاصل کرنے کے لیے معبود بنایا تھا، بلکہ وہ ان سے غائب ہو گئے، اور یہ ان کا جھوٹ اور بہتان تھا جو وہ گھڑتے رہتے تھے۔",
     "persian_text": "پس چرا آنانی که به جای الله برای تقرب به او خدایانی اتخاذ کرده بودند، آنان را یاری نکردند، بلکه از آنان گم شدند، و این دروغ و افترایی بود که می‌بستند.",
     "transliteration": "Falawla nasarahumul-ladheenat-takhadhu min dunillahi qurbanan alihatan bal dallu 'anhum wa dhalika ifkuhum wa ma kanu yaftaroon"

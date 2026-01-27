@@ -57,7 +57,7 @@ ayats = [
   {
     "verse_number": 7,
     "english_text": "These infidels think that they will not be raised again, say: by my Lord, you shall be brought to life again, then (you) shall be told of all that you did, and this is very easy for Allah.",
-    "arabic_text": "زَعَمَ الَّذِينَ كَفَرُوٓاْ اَن لَّن يُبْعَثُواْ ۚ قُلْ بَلَىٰ وَرَبِّى لَتُبْعَثُنَّ ثُمَّ لَتُنَبَّؤُنَّ بِمَا عَمِلْتُمْ ۚ وَذٰلِكَ عَلَى اللّٰهِ يَسِيرٌۭ",
+    "arabic_text": "زَعَمَ الَّذِينَ كَفَرُوٓاْ اَن لَّن يُبْعَثُواْ ۚ قُلْ بَلَىٰ وَرَبِّى لَتُبْعَثُنَّ ثُمَّ لَتُنَبَّؤُنَّ بِمَا عَمِلْتُمْ ۚ وَ ذٰلِكَ عَلَى اللّٰهِ يَسِيرٌۭ",
     "urdu_text": "کافروں نے گمان کیا که وه دوباره نهیں اٹھائے جائیں گے، کهه دو که هاں، میرے رب کی قسم، تم ضرور اٹھائے جاؤ گے، پھر تمهیں بتایا جائے گا جو تم نے کیا تھا، اور یه الله پر بهت آسان هے۔",
     "persian_text": "کسانی که کافر شدند پنداشتند که برانگیخته نخواهند شد، بگو: آری، به پروردگارم سوگند که حتماً برانگیخته خواهید شد، سپس به آنچه انجام داده‌اید آگاه خواهید شد، و این بر الله آسان است.",
     "transliteration": "Za'amal-ladhina kafaru al-lan yub'athu, qul bala wa rabbi latub'athunna thumma latunabba'unna bima 'amiltum, wa dhalika 'alallahi yasir"

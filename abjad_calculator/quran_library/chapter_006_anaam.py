@@ -306,7 +306,7 @@ ayats = [
   {
     "verse_number": 39,
     "english_text": "And whoever denied Our Verses they have gone into the darkness (of infidelity) and they have become deaf and dumb, Allah may leave in misguidance to whom He pleases and He may guide to whom He pleases.",
-    "arabic_text": "وَ الَّذِينَ كَذَّبُوا بِاٰيَاتِنَا صُمٌّ وَ بُكْمٌ فِى الظُّلُمٰتِ مَنْ يَّشَاِ اللّٰهُ يُضْلِلْهُ وَ مَنْ يَّشَاْ يَجْعَلْهُ عَلَٰى صِرَاطٍ مُّسْتَقِيْمٍ",
+    "arabic_text": "وَ الَّذِينَ كَذَّبُوا بِاٰيٰتِنَا صُمٌّ وَ بُكْمٌ فِى الظُّلُمٰتِ مَنْ يَّشَاِ اللّٰهُ يُضْلِلْهُ وَ مَنْ يَّشَاْ يَجْعَلْهُ عَلَٰى صِرَاطٍ مُّسْتَقِيْمٍ",
     "urdu_text": "اور جن لوگوں نے ہماری آیتوں کو جھٹلایا وہ بہرے اور گونگے ہیں اندھیروں میں، اللہ جسے چاہے گمراہ کر دے اور جسے چاہے سیدھے راستے پر رکھ دے",
     "persian_text": "و کسانی که آیات ما را تکذیب کردند کر و لال در تاریکی‌ها هستند، خداوند هر که را بخواهد گمراه می‌کند و هر که را بخواهد بر راه راست قرار می‌دهد",
     "transliteration": "Wallazeena kazzaboo bi aayaatinaa summunw wa bukmun fiz zulumaat, many yashaaa'illaahu yudlilhu wa many yashaa yaj'alhu 'alaa siraatim mustaqeem",
@@ -386,7 +386,7 @@ ayats = [
   {
     "verse_number": 49,
     "english_text": "And whoever denies our verses, torment will engulf them because they were wicked.",
-    "arabic_text": "وَ الَّذِيْنَ كَذَّبُوْا بِاٰيَاتِنَا يَمَسُّهُمُ الْعَذَابُ بِمَا كَانُوْا يَفْسُقُوْنَ",
+    "arabic_text": "وَ الَّذِيْنَ كَذَّبُوْا بِاٰيٰتِنَا يَمَسُّهُمُ الْعَذَابُ بِمَا كَانُوْا يَفْسُقُوْنَ",
     "urdu_text": "اور جن لوگوں نے ہماری آیتوں کو جھٹلایا ان کو عذاب پہنچے گا اس وجہ سے کہ وہ نافرمانی کرتے تھے",
     "persian_text": "و کسانی که آیات ما را تکذیب کردند، عذاب به آنان خواهد رسید به سبب آنکه نافرمانی می‌کردند",
     "transliteration": "Wallazeena kazzaboo bi-aayaatinaa yamasshumul-'azaabu bimaa kaanoo yafsuqoon",
@@ -426,7 +426,7 @@ ayats = [
   {
     "verse_number": 54,
     "english_text": "And whoever believed our verses and come to you, give salutation (to them) and tell them: Allah has made Mercy imperative upon Himself, Verily, who commit a wrong in ignorance but repent and reform himself, then Allah is all Forgiving and Merciful.",
-    "arabic_text": "وَ اِذَا جَآءَكَ الَّذِيْنَ يُؤْمِنُوْنَ بِاٰيَاتِنَا فَقُلْ سَلٰمٌ عَلَيْكُمْ  كَتَبَ رَبُّكُمْ عَلَٰى نَفْسِهِ الرَّحْمَةَ  اَنَّهُ مَنْ عَمِلَ مِنْكُمْ سُوْٓءًا بِجَهَالَةٍ ثُمَّ تَابَ مِنۢ بَعْدِهِ وَ اَصْلَحَ فَاَنَّهُ غَفُورٌ رَّحِيْمٌ",
+    "arabic_text": "وَ اِذَا جَآءَكَ الَّذِيْنَ يُؤْمِنُوْنَ بِاٰيٰتِنَا فَقُلْ سَلٰمٌ عَلَيْكُمْ  كَتَبَ رَبُّكُمْ عَلَٰى نَفْسِهِ الرَّحْمَةَ  اَنَّهُ مَنْ عَمِلَ مِنْكُمْ سُوْٓءًا بِجَهَالَةٍ ثُمَّ تَابَ مِنۢ بَعْدِهِ وَ اَصْلَحَ فَاَنَّهُ غَفُورٌ رَّحِيْمٌ",
     "urdu_text": "اور جب تمہارے پاس وہ لوگ آئیں جو ہماری آیات پر ایمان لاتے ہیں تو ان سے کہو: تم پر سلامتی ہو، تمہارے رب نے اپنے اوپر رحمت لازم کر لی ہے، بیشک تم میں سے جو کوئی نادانی سے برائی کرے پھر اس کے بعد توبہ کرے اور اصلاح کرے تو بیشک وہ بخشنے والا مہربان ہے",
     "persian_text": "و هنگامی که کسانی که به آیات ما ایمان می‌آورند نزد تو آیند، بگو: سلام بر شما، پروردگار شما رحمت را بر خود واجب کرده است، که هر کس از شما از روی نادانی کار بدی کند، سپس توبه کند و اصلاح نماید، پس او آمرزنده مهربان است",
     "transliteration": "Wa idhaa jaaa'akal-ladheena yu'minoona bi-Aayaatinaa faqul salaamun 'alaykum kataba Rabbukum 'alaa nafsihir-rahmah, annahoo man 'amila minkum sooo'am bi-jahaalatin thumma taaba mim ba'dihee wa aslaha fa-annahoo Ghafoorur-Raheem",
@@ -538,7 +538,7 @@ ayats = [
   {
     "verse_number": 68,
     "english_text": "And when you see people are absurdly arguing about Our verses, then leave from there, lest they start some other argument, if Satan has caused you to forget this; do not sit (again) with them when you remember.",
-    "arabic_text": "وَ اِذَا رَاَيْتَ الَّذِيْنَ يَخُوْضُوْنَ فِىْٓ اٰيَاتِنَا فَاَعْرِضْ عَنْهُمْ حَتّٰى يَخُوْضُوْا فِىْ حَدِيْثٍ غَيْرِهِ وَ اِمَّا يُنْسِيَنَّكَ الشَّيْطٰنُ فَلَا تَقْعُدْ بَعْدَ الذِّكْرٰى مَعَ الْقَوْمِ الظّٰلِمِيْنَ",
+    "arabic_text": "وَ اِذَا رَاَيْتَ الَّذِيْنَ يَخُوْضُوْنَ فِىْٓ اٰيٰتِنَا فَاَعْرِضْ عَنْهُمْ حَتّٰى يَخُوْضُوْا فِىْ حَدِيْثٍ غَيْرِهِ وَ اِمَّا يُنْسِيَنَّكَ الشَّيْطٰنُ فَلَا تَقْعُدْ بَعْدَ الذِّكْرٰى مَعَ الْقَوْمِ الظّٰلِمِيْنَ",
     "urdu_text": "اور جب تم دیکھو کہ لوگ ہماری آیات میں بحث کر رہے ہیں تو ان سے منہ پھیر لو یہاں تک کہ وہ کسی اور بات میں مشغول ہو جائیں، اور اگر شیطان تمہیں بھلا دے تو یاد آنے کے بعد ظالم لوگوں کے ساتھ مت بیٹھو",
     "persian_text": "و هنگامی که دیدی کسانی که در آیات ما به بحث بیهوده می‌پردازند، از آنان روی بگردان تا به سخن دیگری بپردازند، و اگر شیطان تو را فراموش کند، پس از یادآوری با قوم ستمکار منشین",
     "transliteration": "Wa idha ra'ayta alladheena yakhoodoona fee ayatina fa-a'rid 'anhum hatta yakhoodoo fee hadeethin ghayrihi wa imma yunsiyannaka ash-shaytanu fala taq'ud ba'da adh-dhikra ma'a al-qawmi adh-dhalimeen",
@@ -1194,7 +1194,7 @@ ayats = [
   {
     "verse_number": 150,
     "english_text": "O Prophet! Say: Present your witnesses and they should testify that whatever things you say unlawful, Allah has made them unlawful, and (in case) even if they testify, O Prophet, you don't testify with them; and do not follow their low-desires who deny our verses and do not believe on the Hereafter, and make others partner with their Lord.",
-    "arabic_text": "قُلْ هَلُمَّ شُهَدَآءَكُمُ الَّذِيْنَ يَشْهَدُوْنَ اَنَّ اللّٰهَ حَرَّمَ هٰذَا  ۚ فَاِنْ شَهِدُوْا فَلَا تَشْهَدْ مَعَهُمْ ۚ وَ لَا تَتَّبِعْ اَهْوَآءَ الَّذِيْنَ كَذَّبُوْا بِاٰيَاتِنَا وَ الَّذِيْنَ لَا يُؤْمِنُوْنَ بِالْاٰخِرَةِ وَ هُمْ بِرَبِّهِمْ يَعْدِلُوْنَ",
+    "arabic_text": "قُلْ هَلُمَّ شُهَدَآءَكُمُ الَّذِيْنَ يَشْهَدُوْنَ اَنَّ اللّٰهَ حَرَّمَ هٰذَا  ۚ فَاِنْ شَهِدُوْا فَلَا تَشْهَدْ مَعَهُمْ ۚ وَ لَا تَتَّبِعْ اَهْوَآءَ الَّذِيْنَ كَذَّبُوْا بِاٰيٰتِنَا وَ الَّذِيْنَ لَا يُؤْمِنُوْنَ بِالْاٰخِرَةِ وَ هُمْ بِرَبِّهِمْ يَعْدِلُوْنَ",
     "urdu_text": "اے نبی! کہہ دیجیے کہ اپنے گواہ پیش کرو جو گواہی دیں کہ اللہ نے اس چیز کو حرام کیا ہے، پھر اگر وہ گواہی دیں تو آپ ان کے ساتھ گواہی نہ دیں، اور ان لوگوں کی خواہشات کی پیروی نہ کریں جنہوں نے ہماری آیات کو جھٹلایا اور جو آخرت پر ایمان نہیں رکھتے اور اپنے رب کے ساتھ دوسروں کو برابر ٹھہراتے ہیں۔",
     "persian_text": "بگو: شاهدان خود را بیاورید که گواهی دهند خدا این را حرام کرده است، پس اگر گواهی دادند تو با آنان گواهی مده، و از هوس‌های کسانی که آیات ما را تکذیب کردند و به آخرت ایمان ندارند و برای پروردگارشان همتایانی قرار می‌دهند، پیروی مکن.",
     "transliteration": "Qul halumma shuhada'akumul-ladhina yashhadoona annAllaha harrama hadha, fa in shahidu fala tashhad ma'ahum, wa la tattabi' ahwa'al-ladhina kadhdhabu bi-ayatina wal-ladhina la yu'minoona bil-akhirati wa hum birabbihim ya'diloon",
@@ -1250,7 +1250,7 @@ ayats = [
   {
     "verse_number": 157,
     "english_text": "Or may say: if the book was revealed to us, we would have been better followers of the straight path, now (see) the bright argument and book and Mercy had come to you from your Lord, now who will be more unjust who will deny the verses of Allah and turn their face from it, who turn their face away from our verses, We will shortly punish them for turning their face away.",
-    "arabic_text": "اَوْ تَقُوْلُوْا لَوْ اَنَّآ اُنْزِلَ عَلَيْنَا الْكِتٰبُ لَكُنَّآ اَهْدٰى مِنْهُمْ   فَقَدْ جَآءَكُم بَيِّنَةٌ مِّنْ رَّبِّكُمْ وَ هُدًى وَّ رَحْمَةٌ  ۚ فَمَنْ اَظْلَمُ مِمَّنْ كَذَّبَ بِاٰيٰتِ اللّٰهِ وَ صَدَفَ عَنْهَا  ۚ سَنَجْزِى الَّذِيْنَ يَصْدِفُوْنَ عَنْ اٰيَاتِنَا سُوْٓءَ الْعَذَابِ بِمَا كَانُوْا يَصْدِفُوْنَ",
+    "arabic_text": "اَوْ تَقُوْلُوْا لَوْ اَنَّآ اُنْزِلَ عَلَيْنَا الْكِتٰبُ لَكُنَّآ اَهْدٰى مِنْهُمْ   فَقَدْ جَآءَكُم بَيِّنَةٌ مِّنْ رَّبِّكُمْ وَ هُدًى وَّ رَحْمَةٌ  ۚ فَمَنْ اَظْلَمُ مِمَّنْ كَذَّبَ بِاٰيٰتِ اللّٰهِ وَ صَدَفَ عَنْهَا  ۚ سَنَجْزِى الَّذِيْنَ يَصْدِفُوْنَ عَنْ اٰيٰتِنَا سُوْٓءَ الْعَذَابِ بِمَا كَانُوْا يَصْدِفُوْنَ",
     "urdu_text": "یا یہ کہو کہ اگر ہم پر کتاب نازل ہوتی تو ہم ان سے زیادہ ہدایت یافتہ ہوتے، پس تمہارے پاس تمہارے رب کی طرف سے روشن دلیل اور ہدایت اور رحمت آ چکی ہے، تو اس سے بڑھ کر ظالم کون ہوگا جو اللہ کی آیات کو جھٹلائے اور ان سے منہ موڑے، جو ہماری آیات سے منہ موڑتے ہیں عنقریب ہم انہیں ان کے منہ موڑنے کی وجہ سے سخت عذاب دیں گے",
     "persian_text": "یا بگویید اگر کتاب بر ما نازل می‌شد قطعاً از آنان هدایت‌یافته‌تر بودیم، پس برهان روشن و هدایت و رحمت از سوی پروردگارتان به شما رسیده است، پس چه کسی ستمکارتر است از آن که آیات الهی را تکذیب کند و از آن روی بگرداند، به زودی کسانی را که از آیات ما روی می‌گردانند به سبب اعراضشان به عذاب سخت کیفر خواهیم داد",
     "transliteration": "Aw taqooloo law anna unzila 'alayna al-kitabu la-kunna ahda minhum faqad ja'akum bayyinatun min rabbikum wa hudan wa rahmatun faman azlamu mimman kadhdhaba bi-ayati Allahi wa sadafa 'anha sanajzi alladheena yasdifoona 'an ayatina soo'a al-'adhabi bima kano yasdifoona",

@@ -218,7 +218,7 @@ ayats = [
   {
     "verse_number": 28,
     "english_text": "They regularly denied Our verses.",
-    "arabic_text": "وَ كَذَّبُوا بِاٰيَاتِنَا كِذَّابًا",
+    "arabic_text": "وَ كَذَّبُوا بِاٰيٰتِنَا كِذَّابًا",
     "urdu_text": "اور انہوں نے ہماری آیات کو جھٹلایا سخت جھٹلایا",
     "persian_text": "و آیات ما را به شدت تکذیب کردند",
     "transliteration": "Wa kazzaboo bi-aayaatinaa kizzaaba",

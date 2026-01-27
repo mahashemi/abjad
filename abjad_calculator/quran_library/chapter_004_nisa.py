@@ -442,7 +442,7 @@ ayats = [
   {
     "verse_number": 56,
     "english_text": "Whoever deny Our verses, Verily, shortly We will enter them in Hell-fire, their skins will melt We will replace with new skins, so they taste the punishment, Allah is Predominant and Wise.",
-    "arabic_text": "اِنَّ الَّذِيْنَ كَفَرُوا بِاٰيَاتِنَا سَوْفَ نُصْلِيْهِمْ نَارًا  كُلَّمَا نَضِجَتْ جُلُوْدُهُمْ بَدَّلْنٰهُمْ جُلُوْدًا غَيْرَهَا لِيَذُوْقُوْا الْعَذَابَ   اِنَّ اللّٰهَ كَانَ عَزِيْزًا حَكِيْمًا",
+    "arabic_text": "اِنَّ الَّذِيْنَ كَفَرُوا بِاٰيٰتِنَا سَوْفَ نُصْلِيْهِمْ نَارًا  كُلَّمَا نَضِجَتْ جُلُوْدُهُمْ بَدَّلْنٰهُمْ جُلُوْدًا غَيْرَهَا لِيَذُوْقُوْا الْعَذَابَ   اِنَّ اللّٰهَ كَانَ عَزِيْزًا حَكِيْمًا",
     "urdu_text": "بیشک جن لوگوں نے ہماری آیتوں کا انکار کیا، عنقریب ہم انہیں آگ میں داخل کریں گے، جب بھی ان کی کھالیں پک جائیں گی تو ہم انہیں دوسری کھالوں سے بدل دیں گے تاکہ وہ عذاب کا مزہ چکھیں، بیشک اللہ غالب اور حکمت والا ہے۔",
     "persian_text": "همانا کسانی که آیات ما را انکار کردند، به زودی آنان را در آتش داخل خواهیم کرد، هر زمان که پوست‌هایشان بپزد، پوست‌های دیگری به جای آن قرار می‌دهیم تا عذاب را بچشند، همانا خداوند توانا و حکیم است.",
     "transliteration": "Innal-lazeena kafaroo bi-aayaatinaa sawfa nusleehim naaran kullamaa nadijat julooduhum baddalnaahum juloodan ghayraha liyazooqul-'azaab, innallaaha kaana 'azeezan hakeemaa",

@@ -609,7 +609,7 @@ ayats = [
   {
     "verse_number": 76,
     "english_text": "They will forever abide in evergreen-gardens beneath which the rivers will be flowing; and this is the reward for those who kept themselves purified (from the sins).",
-    "arabic_text": "جَنَّـٰتُ عَدْنٍۢ تَجْرِى مِن تَحْتِهَا الْاَنْهَـٰرُ خَـٰلِدِينَ فِيهَا ۚ وَذٰلِكَ جَزَآءُ مَن تَزَكَّىٰ",
+    "arabic_text": "جَنَّـٰتُ عَدْنٍۢ تَجْرِى مِن تَحْتِهَا الْاَنْهَـٰرُ خَـٰلِدِينَ فِيهَا ۚ وَ ذٰلِكَ جَزَآءُ مَن تَزَكَّىٰ",
     "urdu_text": "همیشه رهنے والے باغات جن کے نیچے نهریں بهه رهی هوں گی، وه ان میں همیشه رهنے والے هیں، اور یه ان لوگوں کا بدله هے جنهوں نے اپنے آپ کو پاک رکھا۔",
     "persian_text": "باغ‌های جاودانه که از زیر آنها نهرها جاری است، جاودانه در آن خواهند ماند، و این پاداش کسی است که خود را پاک نگه داشته است.",
     "transliteration": "Jannatu 'adnin tajree min tahtihal anharu khalideena feeha wa zalika jaza'u man tazakka"
@@ -769,7 +769,7 @@ ayats = [
   {
     "verse_number": 96,
     "english_text": "He replied: I saw the thing which others could not see. (when Gabriel was going on his horse) I picked a handful of dust from beneath the feet of Gabriel (his horse) (and threw it in the mouth of the idol, and he started talking), then my soul commanded me this.",
-    "arabic_text": "قَالَ بَصُرْتُ بِمَا لَمْ يَبْصُرُواْ بِهِ فَقَبَضْتُ قَبْضَةًۭ مِّنْ اَثَرِ الرَّسُولِ فَنَبَذْتُهَا وَكَذٰلِكَ سَوَّلَتْ لِى نَفْسِى",
+    "arabic_text": "قَالَ بَصُرْتُ بِمَا لَمْ يَبْصُرُواْ بِهِ فَقَبَضْتُ قَبْضَةًۭ مِّنْ اَثَرِ الرَّسُولِ فَنَبَذْتُهَا وَ كَذٰلِكَ سَوَّلَتْ لِى نَفْسِى",
     "urdu_text": "اس نے جواب دیا: میں نے وه چیز دیکھی جو دوسروں نے نهیں دیکھی، میں نے رسول (جبرائیل) کے نقش قدم سے ایک مٹھی بھر مٹی اٹھائی اور اسے (بچھڑے کے منه میں) ڈال دیا، اور اسی طرح میرے نفس نے مجھے یه بات سجھائی۔",
     "persian_text": "گفت: من چیزی دیدم که دیگران ندیدند، پس مشتی از اثر فرستاده (جبرئیل) برداشتم و آن را افکندم، و این گونه نفسم به من وسوسه کرد.",
     "transliteration": "Qaala basurtu bimaa lam yabsuroo bihee faqabadtu qabdatan min atharir-rasooli fanabadhtuhaa wa kadhaalika sawwalat lee nafsee"
@@ -905,7 +905,7 @@ ayats = [
   {
     "verse_number": 113,
     "english_text": "And We sent Quran in Arabic language and described in it the different types of punishments so that these people become pious, or it creates a reminder in their minds.",
-    "arabic_text": "وَكَذٰلِكَ اَنزَلْنَـٰهُ قُرْءَانًا عَرَبِيًّۭا وَصَرَّفْنَا فِيهِ مِنَ الْوَعِيدِ لَعَلَّهُمْ يَتَّقُونَ اَوْ يُحْدِثُ لَهُمْ ذِكْرًا",
+    "arabic_text": "وَ كَذٰلِكَ اَنزَلْنَـٰهُ قُرْءَانًا عَرَبِيًّۭا وَصَرَّفْنَا فِيهِ مِنَ الْوَعِيدِ لَعَلَّهُمْ يَتَّقُونَ اَوْ يُحْدِثُ لَهُمْ ذِكْرًا",
     "urdu_text": "اور اسی طرح هم نے اسے عربی زبان میں قرآن اتارا اور اس میں مختلف قسم کی وعیدیں بیان کیں تاکه یه لوگ پرهیزگار بن جائیں یا یه ان کے دلوں میں نصیحت پیدا کرے۔",
     "persian_text": "و این‌گونه آن را قرآنی عربی نازل کردیم و در آن از انواع هشدارها بیان نمودیم تا شاید پرهیزگار شوند یا برای آنان یادآوری ایجاد کند.",
     "transliteration": "Wa kadhālika anzalnāhu Qur'ānan 'Arabiyyan wa ṣarrafnā fīhi minal-wa'īdi la'allahum yattaqūna aw yuḥdithu lahum dhikran"
@@ -1009,7 +1009,7 @@ ayats = [
   {
     "verse_number": 126,
     "english_text": "Allah will say: it should be like this, you forgot when Our verses had come to you; likewise, you will be forgotten today.",
-    "arabic_text": "قَالَ كَذٰلِكَ اَتَتْكَ اٰيٰتُنَا فَنَسِيتَهَا ۖ وَكَذٰلِكَ الْيَوْمَ تُنسَىٰ",
+    "arabic_text": "قَالَ كَذٰلِكَ اَتَتْكَ اٰيٰتُنَا فَنَسِيتَهَا ۖ وَ كَذٰلِكَ الْيَوْمَ تُنسَىٰ",
     "urdu_text": "الله فرمائے گا: اسی طرح تیرے پاس هماری آیات آئیں تو تو نے انهیں بھلا دیا، اسی طرح آج تو بھلا دیا جائے گا۔",
     "persian_text": "خواهد فرمود: همین‌گونه آیات ما به سوی تو آمد و تو آنها را فراموش کردی، و همین‌گونه امروز تو فراموش می‌شوی.",
     "transliteration": "Qāla kadhālika atatka āyātunā fanasītahā wa kadhālika al-yawma tunsā"
@@ -1017,7 +1017,7 @@ ayats = [
   {
     "verse_number": 127,
     "english_text": "And whoever transgressed and did not believe in his Lord's verses, then We will recompense him similarly, and punishment of the Hereafter is very severe and long lasting.",
-    "arabic_text": "وَكَذٰلِكَ نَجْزِى مَنْ اَسْرَفَ وَلَمْ يُؤْمِنۢ بِـَٔايَـٰتِ رَبِّهِ ۚ وَلَعَذَابُ الْاخِرَةِ اَشَدُّ وَاَبْقَىٰٓ",
+    "arabic_text": "وَ كَذٰلِكَ نَجْزِى مَنْ اَسْرَفَ وَلَمْ يُؤْمِنۢ بِـَٔايَـٰتِ رَبِّهِ ۚ وَلَعَذَابُ الْاخِرَةِ اَشَدُّ وَاَبْقَىٰٓ",
     "urdu_text": "اور اسی طرح هم اسے سزا دیتے هیں جس نے حد سے تجاوز کیا اور اپنے رب کی آیات پر ایمان نهیں لایا، اور آخرت کا عذاب بهت سخت اور دائمی هے۔",
     "persian_text": "و این‌گونه کسی را که زیاده‌روی کرد و به آیات پروردگارش ایمان نیاورد جزا می‌دهیم، و عذاب آخرت سخت‌تر و پایدارتر است.",
     "transliteration": "Wa kadhālika najzī man asrafa wa lam yu'min bi āyāti rabbihi wa la'adhābu al-ākhirati ashaddu wa abqā"

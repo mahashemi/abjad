@@ -306,7 +306,7 @@ ayats = [
   {
     "verse_number": 39,
     "english_text": "And remember this also that whoever becomes infidel and denies Our verses then he will go to Hell and will remain in Hell forever.",
-    "arabic_text": "وَ الَّذِيْنَ كَفَرُوا وَ كَذَّبُوا بِاٰيَاتِنَآ اُولٰٓئِكَ اَصْحٰبُ النَّارِ  هُمْ فِيهَا خٰلِدُونَ",
+    "arabic_text": "وَ الَّذِيْنَ كَفَرُوا وَ كَذَّبُوا بِاٰيٰتِنَآ اُولٰٓئِكَ اَصْحٰبُ النَّارِ  هُمْ فِيهَا خٰلِدُونَ",
     "urdu_text": "اور جن لوگوں نے کفر کیا اور ہماری آیات کو جھٹلایا وہی دوزخ والے ہیں، وہ اس میں ہمیشہ رہنے والے ہیں۔",
     "persian_text": "و کسانی که کافر شدند و آیات ما را تکذیب کردند، آنان اهل آتش‌اند و در آن جاودانه خواهند ماند.",
     "transliteration": "Wallazeena kafaroo wa kazzaboo bi-Aayaatinaaa ulaaa'ika As-haabun-Naar, hum feehaa khaalidoon",
@@ -1202,7 +1202,7 @@ ayats = [
   {
     "verse_number": 151,
     "english_text": "Like We sent a messenger from among you who read out our verses to purify you, teach you stories of the Book and wisdom, and teach you the things which you did not know.",
-    "arabic_text": "كَمَآ اَرْسَلْنَا فِيكُمْ رَسُولًا مِّنكُمْ يَتْلُوا عَلَيْكُمْ اٰيَاتِنَا وَ يُزَكِّيكُمْ وَ يُعَلِّمُكُمُ الْكِتٰبَ وَ الْحِكْمَةَ وَ يُعَلِّمُكُم مَّا لَمْ تَكُونُوا تَعْلَمُونَ",
+    "arabic_text": "كَمَآ اَرْسَلْنَا فِيكُمْ رَسُولًا مِّنكُمْ يَتْلُوا عَلَيْكُمْ اٰيٰتِنَا وَ يُزَكِّيكُمْ وَ يُعَلِّمُكُمُ الْكِتٰبَ وَ الْحِكْمَةَ وَ يُعَلِّمُكُم مَّا لَمْ تَكُونُوا تَعْلَمُونَ",
     "urdu_text": "جیسے ہم نے تم میں تم ہی میں سے ایک رسول بھیجا جو تم پر ہماری آیات پڑھتا ہے اور تمہیں پاک کرتا ہے اور تمہیں کتاب اور حکمت سکھاتا ہے اور تمہیں وہ باتیں سکھاتا ہے جو تم نہیں جانتے تھے",
     "persian_text": "همان‌گونه که در میان شما پیامبری از خودتان فرستادیم که آیات ما را بر شما می‌خواند و شما را پاک می‌کند و کتاب و حکمت به شما می‌آموزد و چیزهایی را که نمی‌دانستید به شما یاد می‌دهد",
     "transliteration": "Kamā arsalnā fīkum rasūlam minkum yatlū 'alaykum āyātinā wa yuzakkīkum wa yu'allimukumul-kitāba wal-ḥikmata wa yu'allimukum mā lam takūnū ta'lamūn",

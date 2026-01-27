@@ -50,7 +50,7 @@ ayats = [
   {
     "verse_number": 7,
     "english_text": "Verily those who do not desire for Our Meeting, and are pleased and content on the life of this world, and those who are negligent of Our verses;",
-    "arabic_text": "اِنَّ الَّذِيْنَ لَا يَرْجُونَ لِقَآءَنَا وَ رَضُوا بِالْحَيٰوةِ الدُّنْيَا وَ اطْمَاَنُّوْا بِهَا وَ الَّذِيْنَ هُمْ عَنْ اٰيَاتِنَا غٰفِلُوْنَ",
+    "arabic_text": "اِنَّ الَّذِيْنَ لَا يَرْجُونَ لِقَآءَنَا وَ رَضُوا بِالْحَيٰوةِ الدُّنْيَا وَ اطْمَاَنُّوْا بِهَا وَ الَّذِيْنَ هُمْ عَنْ اٰيٰتِنَا غٰفِلُوْنَ",
     "urdu_text": "بیشک جو لوگ ہماری ملاقات کی امید نہیں رکھتے اور دنیا کی زندگی پر راضی ہیں اور اس سے مطمئن ہو گئے ہیں اور جو ہماری آیات سے غافل ہیں",
     "persian_text": "همانا کسانی که امید دیدار ما را ندارند و به زندگی دنیا خشنود و مطمئن شده‌اند و آنان که از آیات ما غافل هستند",
     "transliteration": "Innal lazeena la yarjoona liqaana wa radoo bil hayatid dunya watma'annoo biha wallazeena hum 'an ayatina ghafiloon",
@@ -114,7 +114,7 @@ ayats = [
   {
     "verse_number": 15,
     "english_text": "Those who do not desire for Our meeting, when Our verses are recited in front of them, they say: bring another Quran or change this, then you tell them: I do not have any right to change it; I follow only the commands which are revealed towards me; I fear for the punishment of a Mighty Day if I disobey my Lord.",
-    "arabic_text": "وَ اِذَا تُتْلَىٰ عَلَيْهِمْ اٰيَاتُنَا بَيِّنٰتٍ ۙ قَالَ الَّذِينَ لَا يَرْجُونَ لِقَآءَنَا ائْتِ بِقُرْاٰنٍ غَيْرِ هٰذَآ اَوْ بَدِّلْهُ ۚ قُلْ مَا يَكُونُ لِىْٓ اَنْ اُبَدِّلَهُ مِن تِلْقَآئِ نَفْسِىٓ ۖ اِنْ اَتَّبِعُ اِلَّا مَا يُوحَىٰٓ اِلَىَّ ۖ اِنِّىٓ اَخَافُ اِنْ عَصَيْتُ رَبِّى عَذَابَ يَوْمٍ عَظِيمٍ",
+    "arabic_text": "وَ اِذَا تُتْلَىٰ عَلَيْهِمْ اٰيٰتُنَا بَيِّنٰتٍ ۙ قَالَ الَّذِينَ لَا يَرْجُونَ لِقَآءَنَا ائْتِ بِقُرْاٰنٍ غَيْرِ هٰذَآ اَوْ بَدِّلْهُ ۚ قُلْ مَا يَكُونُ لِىْٓ اَنْ اُبَدِّلَهُ مِن تِلْقَآئِ نَفْسِىٓ ۖ اِنْ اَتَّبِعُ اِلَّا مَا يُوحَىٰٓ اِلَىَّ ۖ اِنِّىٓ اَخَافُ اِنْ عَصَيْتُ رَبِّى عَذَابَ يَوْمٍ عَظِيمٍ",
     "urdu_text": "اور جب ان کے سامنے ہماری واضح آیات پڑھی جاتی ہیں تو وہ لوگ جو ہماری ملاقات کی امید نہیں رکھتے کہتے ہیں کہ اس کے علاوہ کوئی اور قرآن لے آؤ یا اسے بدل دو، آپ کہہ دیجیے کہ میرے لیے یہ جائز نہیں کہ میں اسے اپنی طرف سے بدل دوں، میں تو صرف اسی کی پیروی کرتا ہوں جو میری طرف وحی کیا جاتا ہے، بیشک اگر میں اپنے رب کی نافرمانی کروں تو مجھے ایک عظیم دن کے عذاب کا خوف ہے",
     "persian_text": "و هنگامی که آیات روشن ما بر آنها خوانده می‌شود، کسانی که امید دیدار ما ندارند می‌گویند: قرآن دیگری غیر از این بیاور یا آن را تغییر ده، بگو: برای من روا نیست که آن را از پیش خود تغییر دهم، من جز آنچه به من وحی می‌شود پیروی نمی‌کنم، همانا اگر پروردگارم را نافرمانی کنم از عذاب روز بزرگی می‌ترسم",
     "transliteration": "Wa idha tutla 'alayhim aayaatuna bayyinaatin qaalal-ladheena la yarjoona liqaa'anaa'ti bi-qur'aanin ghayri hadha aw baddilhu qul ma yakoonu lee an ubaddilahu min tilqaa'i nafsee in attabi'u illa ma yooha ilayya innee akhafu in 'asaytu rabbee 'adhaba yawmin 'azeem",
@@ -162,7 +162,7 @@ ayats = [
   {
     "verse_number": 21,
     "english_text": "And after the difficulty when We made them taste Mercy, then immediately they started wickedness in Our verses, so say: Allah is much swift in strategy than you, and Our representatives are watching your strategies.",
-    "arabic_text": "وَ اِذَآ اَذَقْنَا النَّاسَ رَحْمَةً مِّنۢ بَعْدِ ضَرَّآءَ مَسَّتْهُمْ اِذَا لَهُم مَّكْرٌ فِىٓ اٰيَاتِنَا ۚ قُلِ اللّٰهُ اَسْرَعُ مَكْرًا ۚ اِنَّ رُسُلَنَا يَكْتُبُونَ مَا تَمْكُرُونَ",
+    "arabic_text": "وَ اِذَآ اَذَقْنَا النَّاسَ رَحْمَةً مِّنۢ بَعْدِ ضَرَّآءَ مَسَّتْهُمْ اِذَا لَهُم مَّكْرٌ فِىٓ اٰيٰتِنَا ۚ قُلِ اللّٰهُ اَسْرَعُ مَكْرًا ۚ اِنَّ رُسُلَنَا يَكْتُبُونَ مَا تَمْكُرُونَ",
     "urdu_text": "اور جب ہم لوگوں کو مصیبت کے بعد رحمت کا مزہ چکھاتے ہیں تو فوراً وہ ہماری آیات میں چالیں چلنے لگتے ہیں، کہہ دو کہ اللہ تمہاری چالوں سے کہیں زیادہ تیز ہے، بیشک ہمارے فرشتے تمہاری چالوں کو لکھ رہے ہیں",
     "persian_text": "و هنگامی که پس از سختی، مردم را رحمتی چشانیدیم، ناگهان در آیات ما مکر و حیله می‌ورزند، بگو: خداوند در تدبیر از شما سریعتر است، همانا فرستادگان ما آنچه را مکر می‌کنید می‌نویسند",
     "transliteration": "Wa idha adhaqna an-nasa rahmatan min ba'di darraa massat-hum idha lahum makrun fi ayatina qul Allahu asra'u makran inna rusulana yaktuboona ma tamkuroon",
@@ -578,7 +578,7 @@ ayats = [
   {
     "verse_number": 73,
     "english_text": "The (his) people denied him so We delivered Nooh and his companions on the ship and made them heirs on the earth, and drowned those who denied our verses, now see, who are warned, what will be their result.",
-    "arabic_text": "فَكَذَّبُوهُ فَنَجَّيْنَاهُ وَ مَن مَّعَهُ فِى الْفُلْكِ وَ جَعَلْنٰهُمْ خَلَائِفَ وَ اَغْرَقْنَا الَّذِينَ كَذَّبُوا بِاٰيَاتِنَا ۖ فَانظُرْ كَيْفَ كَانَ عَاقِبَةُ الْمُنذَرِينَ",
+    "arabic_text": "فَكَذَّبُوهُ فَنَجَّيْنَاهُ وَ مَن مَّعَهُ فِى الْفُلْكِ وَ جَعَلْنٰهُمْ خَلَائِفَ وَ اَغْرَقْنَا الَّذِينَ كَذَّبُوا بِاٰيٰتِنَا ۖ فَانظُرْ كَيْفَ كَانَ عَاقِبَةُ الْمُنذَرِينَ",
     "urdu_text": "تو انہوں نے اسے جھٹلایا پس ہم نے اسے اور جو اس کے ساتھ کشتی میں تھے نجات دی اور انہیں زمین میں جانشین بنایا اور جنہوں نے ہماری آیات کو جھٹلایا انہیں غرق کر دیا پس دیکھو کہ ڈرائے گئے لوگوں کا انجام کیسا ہوا",
     "persian_text": "پس او را تکذیب کردند آنگاه او و کسانی را که با او در کشتی بودند نجات دادیم و آنان را جانشینان زمین قرار دادیم و کسانی را که آیات ما را تکذیب کردند غرق نمودیم پس بنگر که عاقبت بیم داده شدگان چگونه بود",
     "transliteration": "Fakadh-dhaboohu fanajjaynaahu wa man ma'ahu fil-fulki wa ja'alnaahum khalaaa'ifa wa aghraqnalladheena kadh-dhaboo bi-aayaatinaa fa-undhur kayfa kaana 'aaqibatul-mundhareen",
@@ -594,7 +594,7 @@ ayats = [
   {
     "verse_number": 75,
     "english_text": "Then after those messengers, We sent Moosa and Haroon with Our signs towards Firaun and his people, so they also denied and they were all also guilty.",
-    "arabic_text": "ثُمَّ بَعَثْنَا مِن بَعْدِهِم مُّوسَىٰ وَ هٰرُونَ اِلَٰى فِرْعَوْنَ وَ مَلَئِهِ بِاٰيَاتِنَا فَاسْتَكْبَرُوا وَ كَانُوا قَوْمًا مُّجْرِمِينَ",
+    "arabic_text": "ثُمَّ بَعَثْنَا مِن بَعْدِهِم مُّوسَىٰ وَ هٰرُونَ اِلَٰى فِرْعَوْنَ وَ مَلَئِهِ بِاٰيٰتِنَا فَاسْتَكْبَرُوا وَ كَانُوا قَوْمًا مُّجْرِمِينَ",
     "urdu_text": "پھر ان کے بعد ہم نے موسیٰ اور ہارون کو اپنی آیات کے ساتھ فرعون اور اس کے سرداروں کی طرف بھیجا تو انہوں نے تکبر کیا اور وہ مجرم لوگ تھے",
     "persian_text": "سپس پس از آنان موسی و هارون را با آیات خود به سوی فرعون و اشراف او فرستادیم پس استکبار ورزیدند و آنان قومی مجرم بودند",
     "transliteration": "Thumma ba'athnaa mim ba'dihim Moosaa wa Haaroona ilaa Fir'awna wa mala'ihi bi-aayaatinaa fastakbaroo wa kaanoo qawmam mujrimeen",
@@ -730,7 +730,7 @@ ayats = [
   {
     "verse_number": 92,
     "english_text": "So, today I am saving your body, that you become a sign for the people after you; however, many people remain negligent from our signs.",
-    "arabic_text": "فَالْيَوْمَ نُنَجِّيْكَ بِبَدَنِكَ لِتَكُونَ لِمَنْ خَلْفَكَ اٰيَةً ۚ وَ اِنَّ كَثِيرًا مِّنَ النَّاسِ عَنْ اٰيَاتِنَا لَغٰفِلُونَ",
+    "arabic_text": "فَالْيَوْمَ نُنَجِّيْكَ بِبَدَنِكَ لِتَكُونَ لِمَنْ خَلْفَكَ اٰيَةً ۚ وَ اِنَّ كَثِيرًا مِّنَ النَّاسِ عَنْ اٰيٰتِنَا لَغٰفِلُونَ",
     "urdu_text": "تو آج ہم تیرے بدن کو بچا لیں گے تاکہ تو اپنے بعد والوں کے لیے نشانی بن جائے، اور بیشک بہت سے لوگ ہماری نشانیوں سے غافل ہیں",
     "persian_text": "پس امروز بدن تو را نجات می‌دهیم تا برای کسانی که پس از تو هستند عبرتی باشی، و بسیاری از مردم از آیات ما غافلند",
     "transliteration": "Fal-yawma nunajjeeka bi-badanika li-takoona liman khalfaka aayatan wa inna katheeran minan-naasi 'an aayaatinaa la-ghaafiloon",

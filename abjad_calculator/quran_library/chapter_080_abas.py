@@ -58,7 +58,7 @@ ayats = [
   {
     "verse_number": 8,
     "english_text": "But who has come running to you?",
-    "arabic_text": "وَاَمَّا مَن جَآءَكَ يَسْعَىٰ",
+    "arabic_text": "وَ اَمَّا مَن جَآءَكَ يَسْعَىٰ",
     "urdu_text": "اور جو آپ کے پاس دوڑتا ہوا آیا",
     "persian_text": "و اما کسی که شتابان به سوی تو آمد",
     "transliteration": "Wa amma man ja'aka yas'a",

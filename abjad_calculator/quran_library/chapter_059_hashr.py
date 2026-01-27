@@ -50,7 +50,7 @@ ayats = [
   {
     "verse_number": 7,
     "english_text": "Whatever Allah has made available from the people of the towns, all belong to Allah, to His prophet, relatives of the prophet, orphans, destitute and to poor-travelers; that all the wealth may not circulate and may not remain among the wealthy people only; and take whatever prophet give you, and refrain from whatever he prohibits you, and fear Allah; for Allah is strict in punishment.",
-    "arabic_text": "مَّآ اَفَآءَ اللّٰهُ عَلَٰى رَسُولِهِ مِنْ اَهْلِ الْقُرَىٰ فَلِلَّهِ وَلِلرَّسُولِ وَلِذِى الْقُرْبَىٰ وَالْيَتَـٰمَىٰ وَالْمَسَـٰكِينِ وَابْنِ السَّبِيلِ كَىْ لَا يَكُونَ دُولَةًۢ بَيْنَ الْاَغْنِيَآءِ مِنكُمْ ۚ وَمَآ ءَاتَىٰكُمُ الرَّسُولُ فَخُذُوهُ ۖ وَ مَا نَهَىٰكُمْ عَنْهُ فَانتَهُواْ ۚ وَاتَّقُواْ اللّٰهَ ۖ اِنَّ اللّٰهَ شَدِيدُ الْعِقَابِ",
+    "arabic_text": "مَّآ اَفَآءَ اللّٰهُ عَلَٰى رَسُولِهِ مِنْ اَهْلِ الْقُرٰى فَلِلَّهِ وَلِلرَّسُولِ وَلِذِى الْقُرْبَىٰ وَالْيَتَـٰمَىٰ وَالْمَسَـٰكِينِ وَابْنِ السَّبِيلِ كَىْ لَا يَكُونَ دُولَةًۢ بَيْنَ الْاَغْنِيَآءِ مِنكُمْ ۚ وَمَآ ءَاتَىٰكُمُ الرَّسُولُ فَخُذُوهُ ۖ وَ مَا نَهَىٰكُمْ عَنْهُ فَانتَهُواْ ۚ وَاتَّقُواْ اللّٰهَ ۖ اِنَّ اللّٰهَ شَدِيدُ الْعِقَابِ",
     "urdu_text": "جو مال اللہ نے بستیوں والوں سے اپنے رسول کو دلوایا وہ اللہ کا ہے اور رسول کا ہے اور قرابت داروں کا اور یتیموں کا اور مسکینوں کا اور مسافروں کا، تاکہ وہ تمہارے دولت مندوں کے درمیان ہی گردش نہ کرتا رہے، اور جو کچھ رسول تمہیں دے وہ لے لو اور جس سے منع کرے اس سے رک جاؤ، اور اللہ سے ڈرو، بیشک اللہ سخت عذاب دینے والا ہے۔",
     "persian_text": "آنچه خداوند از اهل شهرها به پیامبرش بازگردانید، از آن خداست و پیامبر و خویشاوندان و یتیمان و بینوایان و در راه ماندگان، تا میان ثروتمندان شما دست به دست نگردد، و آنچه پیامبر به شما داد بگیرید و از آنچه نهی کرد خودداری کنید، و از خدا پروا کنید، همانا خداوند سخت کیفر است.",
     "transliteration": "Maa afaa Allahu 'alaa Rasoolihi min ahli al-quraa fa lillahi wa lir-Rasooli wa li dhil-qurbaa wal-yataamaa wal-masaakeeni wabni as-sabeeli kay laa yakoona doolatan bayna al-aghniyaa'i minkum, wa maa aataakumu ar-Rasoolu fa-khudhoohu wa maa nahaakum 'anhu fantahoo, wattaqoo Allah, inna Allaha shadeedu al-'iqaab",
@@ -130,7 +130,7 @@ ayats = [
   {
     "verse_number": 17,
     "english_text": "So consequence of both of them is that both shall abide in the Hell forever; and this is really the punishment of the unjust.",
-    "arabic_text": "فَكَانَ عَـٰقِبَتَهُمَآ اَنَّهُمَا فِى النَّارِ خَـٰلِدَيْنِ فِيهَا ۚ وَذٰلِكَ جَزَٰٓؤُاْ الظَّـٰلِمِينَ",
+    "arabic_text": "فَكَانَ عَـٰقِبَتَهُمَآ اَنَّهُمَا فِى النَّارِ خَـٰلِدَيْنِ فِيهَا ۚ وَ ذٰلِكَ جَزَٰٓؤُاْ الظَّـٰلِمِينَ",
     "urdu_text": "پس ان دونوں کا انجام یہ ہوا کہ دونوں آگ میں ہمیشہ رہنے والے ہیں، اور یہی ظالموں کی سزا ہے",
     "persian_text": "پس عاقبت هر دوی آنها این است که هر دو در آتش جاودانه خواهند ماند و این است جزای ستمکاران",
     "transliteration": "Fakana 'aqibatahuma annahuma fin-nari khalidayni fiha wa dhalika jaza'u az-zalimin",

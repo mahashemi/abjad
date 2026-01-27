@@ -113,7 +113,7 @@ ayats = [
   {
     "verse_number": 14,
     "english_text": "And when Moosa reached the strength of youth and became healthy, then We gave him knowledge and wisdom; and like this We recompense to the people who do good deeds.",
-    "arabic_text": "وَلَمَّا بَلَغَ اَشُدَّهُ وَاسْتَوَىٰٓ ءَاتَيْنَـٰهُ حُكْمًا وَعِلْمًا ۚ وَكَذٰلِكَ نَجْزِى الْمُحْسِنِينَ",
+    "arabic_text": "وَلَمَّا بَلَغَ اَشُدَّهُ وَاسْتَوَىٰٓ ءَاتَيْنَـٰهُ حُكْمًا وَعِلْمًا ۚ وَ كَذٰلِكَ نَجْزِى الْمُحْسِنِينَ",
     "urdu_text": "اور جب موسیٰ جوانی کی طاقت کو پہنچے اور مکمل ہو گئے تو ہم نے انہیں حکمت اور علم عطا کیا، اور اسی طرح ہم نیکی کرنے والوں کو بدلہ دیتے ہیں۔",
     "persian_text": "و چون موسی به قوت جوانی رسید و کامل شد، به او حکمت و دانش دادیم، و این‌گونه نیکوکاران را پاداش می‌دهیم.",
     "transliteration": "Wa lamma balagha ashuddahu wa-stawaa aataynahu hukman wa 'ilman wa kadhalika najzi al-muhsineen"
@@ -473,7 +473,7 @@ ayats = [
   {
     "verse_number": 59,
     "english_text": "Your Lord does not destroy any settlement unless We send the messenger to them who recite our communications in front of them, and We are not going to destroy any settlement unless people there are unjust.",
-    "arabic_text": "وَ مَا كَانَ رَبُّكَ مُهْلِكَ الْقُرَىٰ حَتَّىٰ يَبْعَثَ فِىٓ اُمِّهَا رَسُولًا يَتْلُواْ عَلَيْهِمْ اٰيٰتِنَا ۚ وَ مَا كُنَّا مُهْلِكِى الْقُرَىٰٓ اِلَّا وَاَهْلُهَا ظَـٰلِمُونَ",
+    "arabic_text": "وَ مَا كَانَ رَبُّكَ مُهْلِكَ الْقُرٰى حَتَّىٰ يَبْعَثَ فِىٓ اُمِّهَا رَسُولًا يَتْلُواْ عَلَيْهِمْ اٰيٰتِنَا ۚ وَ مَا كُنَّا مُهْلِكِى الْقُرَىٰٓ اِلَّا وَاَهْلُهَا ظَـٰلِمُونَ",
     "urdu_text": "اور آپ کا رب کسی بستی کو ہلاک نہیں کرتا جب تک کہ اس کے مرکزی شہر میں ایک رسول نہ بھیج دے جو ان پر ہماری آیات تلاوت کرے، اور ہم کسی بستی کو ہلاک نہیں کرتے مگر جب کہ وہاں کے لوگ ظالم ہوں۔",
     "persian_text": "و پروردگار تو هیچ شهری را نابود نمی‌کند تا اینکه در مرکز آن پیامبری بفرستد که آیات ما را بر آنان تلاوت کند، و ما شهرها را نابود نمی‌کنیم مگر آنکه مردمش ستمگر باشند.",
     "transliteration": "Wa ma kana rabbuka muhlika al-qura hatta yab'atha fi ummiha rasulan yatlu 'alayhim ayatina wa ma kunna muhliki al-qura illa wa ahluha zalimun"

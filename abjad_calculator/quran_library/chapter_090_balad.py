@@ -146,7 +146,7 @@ ayats = [
   {
     "verse_number": 19,
     "english_text": "And those who denied our signs are the unfortunate people.",
-    "arabic_text": "وَ الَّذِينَ كَفَرُوا بِاٰيَاتِنَا هُمْ اَصْحٰبُ الْمَشْـَٔمَةِ",
+    "arabic_text": "وَ الَّذِينَ كَفَرُوا بِاٰيٰتِنَا هُمْ اَصْحٰبُ الْمَشْـَٔمَةِ",
     "urdu_text": "اور جن لوگوں نے ہماری آیتوں کا انکار کیا وہ بائیں ہاتھ والے ہیں",
     "persian_text": "و کسانی که آیات ما را انکار کردند، آنان یاران دست چپ هستند",
     "transliteration": "Walladheena kafaroo bi-aayaatinaa hum as-haabul-mash'amah",
