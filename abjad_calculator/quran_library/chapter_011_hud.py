@@ -66,7 +66,7 @@ ayats = [
   {
     "verse_number": 9,
     "english_text": "And if We bestow Mercy on men and then takes it back from him, he becomes disappointed and ungrateful.",
-    "arabic_text": "وَلَئِنْ اَذَقْنَا الْاِنسَانَ مِنَّا رَحْمَةً ثُمَّ نَزَعْنَاهَا مِنْهُ اِنَّهُ لَيَئُوسٌ كَفُورٌ",
+    "arabic_text": "وَلَئِنْ اَذَقْنَا الْاِنسَانَ مِنَّا رَحْمَةً ثُمَّ نَزَعْنٰهَا مِنْهُ اِنَّهُ لَيَئُوسٌ كَفُورٌ",
     "urdu_text": "اور اگر ہم انسان کو اپنی رحمت کا مزہ چکھائیں پھر اسے اس سے چھین لیں تو وہ بالکل مایوس اور ناشکرا ہو جاتا ہے",
     "persian_text": "و اگر به انسان رحمتی از جانب خود بچشانیم سپس آن را از او بگیریم، او بسیار نومید و ناسپاس می‌شود",
     "transliteration": "Wa la'in adhaqnal-insana minna rahmatan thumma naza'naha minhu innahu laya'usun kafur",
@@ -74,7 +74,7 @@ ayats = [
   {
     "verse_number": 10,
     "english_text": "And after difficulty if he tastes the favour and comfort, then he says now our difficulties have gone and he becomes happy and starts boasting.",
-    "arabic_text": "وَ لَئِنْ اَذَقْنَاهُ نَعْمَآءَ بَعْدَ ضَرَّاءَ مَسَّتْهُ لَيَقُولَنَّ ذَهَبَ السَّيِّاٰتُ عَنِّى ۚ اِنَّهُ لَفَرِحٌ فَخُورٌ",
+    "arabic_text": "وَ لَئِنْ اَذَقْنٰهُ نَعْمَآءَ بَعْدَ ضَرَّاءَ مَسَّتْهُ لَيَقُولَنَّ ذَهَبَ السَّيِّاٰتُ عَنِّى ۚ اِنَّهُ لَفَرِحٌ فَخُورٌ",
     "urdu_text": "اور اگر مصیبت کے بعد ہم اسے نعمت کا مزہ چکھائیں تو وہ کہتا ہے کہ میری مشکلات دور ہو گئیں، پھر وہ خوش ہو کر فخر کرنے لگتا ہے",
     "persian_text": "و اگر پس از سختی که به او رسیده نعمتی به او بچشانیم، می‌گوید بدی‌ها از من دور شد، او بسیار شادمان و متکبر می‌شود",
     "transliteration": "Wa la'in adhaqnahu na'ma'a ba'da darraa massat-hu layaqulanna dhahabas-sayyi'atu 'anni innahu lafarihun fakhur",
@@ -250,7 +250,7 @@ ayats = [
   {
     "verse_number": 32,
     "english_text": "They said O Nooh, you quarreled with us and you quarreled much, so now bring the thing what you have promised, if you are truthful in your promise.",
-    "arabic_text": "قَالُوْا يٰنُوحُ قَدْ جَادَلْتَنَا فَاَكْثَرْتَ جِدَالَنَا فَاْتِنَا بِمَا تَعِدُنَا اِن كُنتَ مِنَ الصّٰدِقِيْنَ",
+    "arabic_text": "قَالُوْا يٰنُوحُ قَدْ جٰدَلْتَنَا فَاَكْثَرْتَ جِدَالَنَا فَاْتِنَا بِمَا تَعِدُنَا اِن كُنتَ مِنَ الصّٰدِقِيْنَ",
     "urdu_text": "انہوں نے کہا اے نوح، تم نے ہم سے بحث کی اور بہت زیادہ بحث کی، اب جو تم ہم سے وعدہ کرتے ہو وہ لے آؤ اگر تم سچے ہو",
     "persian_text": "گفتند ای نوح، با ما بحث کردی و بسیار بحث کردی، پس اکنون آنچه را به ما وعده می‌دهی بیاور اگر از راستگویان هستی",
     "transliteration": "Qalu ya Nuhu qad jadaltana fa-aktharta jidalana fa'tina bima ta'iduna in kunta mina as-sadiqin",
