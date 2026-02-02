@@ -342,9 +342,10 @@ function displayResults() {
         </div>
         <div class="result-text">
           <div class="result-arabic">${verse.arabic}</div>
-          ${verse.english ? `<div class="result-translation"><strong>English:</strong> ${verse.english}</div>` : ''}
-          ${verse.urdu ? `<div class="result-translation" dir="rtl"><strong>اردو:</strong> ${verse.urdu}</div>` : ''}
-          ${verse.transliteration ? `<div class="result-translation"><strong>Transliteration:</strong> ${verse.transliteration}</div>` : ''}
+          ${verse.english ? `<div class="result-translation" style="padding-top: 10px; border-top: 1px solid rgba(143, 104, 26, 0.2);"><strong>English:</strong> ${verse.english}</div>` : ''}
+          ${verse.urdu ? `<div class="result-translation" dir="rtl" style="padding-top: 10px; border-top: 1px solid rgba(143, 104, 26, 0.2);"><strong>اردو:</strong> ${verse.urdu}</div>` : ''}
+          ${verse.persian ? `<div class="result-translation" dir="rtl" style="padding-top: 10px; border-top: 1px solid rgba(143, 104, 26, 0.2);"><strong>فارسی:</strong> ${verse.persian}</div>` : ''}
+          ${verse.transliteration ? `<div class="result-translation" style="padding-top: 10px; border-top: 1px solid rgba(143, 104, 26, 0.2);"><strong>Transliteration:</strong> ${verse.transliteration}</div>` : ''}
         </div>
         ${result.matchedIn ? `<div style="font-size: 14px; color: #5a3e2f; margin-top: 10px;">Matched in: ${result.matchedIn.join(', ')}</div>` : ''}
         ${result.abjadMatch ? `<div style="font-size: 14px; color: #2d7647; margin-top: 10px; font-weight: bold;">
