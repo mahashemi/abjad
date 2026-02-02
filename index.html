@@ -317,6 +317,317 @@
         box-shadow: 0 2px 8px #321414;
       }
 
+      /* Search Section Styles */
+      .search-section {
+        max-width: 1000px;
+        margin: 40px auto;
+        padding: 0 20px;
+      }
+
+      .search-box {
+        display: flex;
+        gap: 10px;
+        margin-bottom: 30px;
+        flex-wrap: wrap;
+      }
+
+      .search-box input {
+        flex: 1;
+        min-width: 250px;
+        padding: 15px 20px;
+        font-size: 18px;
+        font-family: "Scheherazade New", "Amiri", serif;
+        background: linear-gradient(135deg, #e9dcc0 0%, #dcd7c9 50%);
+        border: 2px solid #8f681a;
+        border-radius: 8px;
+        color: #2d1a10;
+        box-shadow: inset 0 2px 4px rgba(0,0,0,0.1);
+      }
+
+      .search-box input:focus {
+        outline: none;
+        border-color: #d4af74;
+        box-shadow: 0 0 0 3px rgba(212, 175, 116, 0.2), inset 0 2px 4px rgba(0,0,0,0.1);
+      }
+
+      .search-box input::placeholder {
+        color: #7a5d3a;
+        opacity: 0.7;
+      }
+
+      .search-btn {
+        padding: 15px 40px;
+        font-size: 18px;
+        font-family: "Scheherazade New", "Amiri", serif;
+        background: linear-gradient(135deg, #8f681a 0%, #b48a1f 50%, #8f681a 100%);
+        color: #fff;
+        border: none;
+        border-radius: 8px;
+        cursor: pointer;
+        transition: all 0.3s;
+        box-shadow: 0 4px 6px rgba(0,0,0,0.3);
+        text-shadow: 1px 1px 2px rgba(0,0,0,0.5);
+      }
+
+      .search-btn:hover {
+        background: linear-gradient(135deg, #a07820 0%, #c99b25 50%, #a07820 100%);
+        transform: translateY(-2px);
+        box-shadow: 0 6px 12px rgba(0,0,0,0.4);
+      }
+
+      .filters {
+        display: flex;
+        gap: 15px;
+        flex-wrap: wrap;
+        margin-bottom: 30px;
+        padding: 20px;
+        background: rgba(0,0,0,0.2);
+        border-radius: 8px;
+      }
+
+      .filter-group {
+        display: flex;
+        flex-direction: column;
+        gap: 8px;
+      }
+
+      .filter-group label {
+        font-size: 16px;
+        color: #d4af74;
+        font-weight: bold;
+      }
+
+      .filter-group select,
+      .filter-group input[type="number"] {
+        padding: 8px 12px;
+        font-size: 16px;
+        font-family: "Scheherazade New", "Amiri", serif;
+        background: #2d1a10;
+        border: 1px solid #8f681a;
+        border-radius: 4px;
+        color: #d4af74;
+      }
+
+      .filter-group select {
+        min-width: 150px;
+      }
+
+      .search-results {
+        margin-top: 30px;
+      }
+
+      .result-item {
+        background: linear-gradient(135deg, #e9dcc0 0%, #dcd7c9 50%);
+        border: 2px solid #8f681a;
+        border-radius: 8px;
+        padding: 20px;
+        margin-bottom: 20px;
+        box-shadow: 0 4px 6px rgba(0,0,0,0.2);
+      }
+
+      .result-header {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-bottom: 15px;
+        padding-bottom: 10px;
+        border-bottom: 2px solid #8f681a;
+      }
+
+      .result-reference {
+        font-size: 18px;
+        font-weight: bold;
+        color: #2d1a10;
+      }
+
+      .result-abjad {
+        display: flex;
+        gap: 15px;
+        font-size: 14px;
+        color: #5a3e2f;
+      }
+
+      .result-text {
+        margin: 15px 0;
+      }
+
+      .result-arabic {
+        font-family: "Quran-Uthmani", serif;
+        font-size: 28px;
+        line-height: 1.8;
+        color: #2d1a10;
+        margin-bottom: 10px;
+        text-align: right;
+        direction: rtl;
+      }
+
+      .result-translation {
+        font-size: 16px;
+        line-height: 1.6;
+        color: #4a3225;
+        margin: 8px 0;
+      }
+
+      .welcome-search {
+        text-align: center;
+        color: #d4af74;
+        padding: 60px 20px;
+      }
+
+      .welcome-search h2 {
+        font-size: 32px;
+        margin-bottom: 20px;
+      }
+
+      .welcome-search p {
+        font-size: 18px;
+        margin: 10px 0;
+      }
+
+      .welcome-search ul {
+        list-style: none;
+        padding: 0;
+        margin: 30px 0;
+      }
+
+      .welcome-search li {
+        font-size: 18px;
+        margin: 10px 0;
+      }
+
+      /* Hamburger Menu Styles */
+      .mobile-menu-btn {
+        display: none;
+        position: fixed;
+        top: 20px;
+        left: 20px;
+        z-index: 1000;
+        background: linear-gradient(135deg, #8f681a 0%, #b48a1f 50%, #8f681a 100%);
+        border: 2px solid #d4af74;
+        border-radius: 8px;
+        width: 50px;
+        height: 50px;
+        cursor: pointer;
+        box-shadow: 0 4px 8px rgba(0,0,0,0.4);
+        transition: all 0.3s;
+      }
+
+      .mobile-menu-btn:hover {
+        transform: scale(1.05);
+        box-shadow: 0 6px 12px rgba(0,0,0,0.5);
+      }
+
+      .hamburger-icon {
+        position: relative;
+        width: 24px;
+        height: 18px;
+        margin: auto;
+      }
+
+      .hamburger-icon span {
+        display: block;
+        position: absolute;
+        height: 3px;
+        width: 100%;
+        background: #fff;
+        border-radius: 2px;
+        opacity: 1;
+        left: 0;
+        transition: 0.25s ease-in-out;
+      }
+
+      .hamburger-icon span:nth-child(1) {
+        top: 0px;
+      }
+
+      .hamburger-icon span:nth-child(2) {
+        top: 7px;
+      }
+
+      .hamburger-icon span:nth-child(3) {
+        top: 14px;
+      }
+
+      .mobile-menu-btn.active .hamburger-icon span:nth-child(1) {
+        top: 7px;
+        transform: rotate(135deg);
+      }
+
+      .mobile-menu-btn.active .hamburger-icon span:nth-child(2) {
+        opacity: 0;
+        left: -30px;
+      }
+
+      .mobile-menu-btn.active .hamburger-icon span:nth-child(3) {
+        top: 7px;
+        transform: rotate(-135deg);
+      }
+
+      .mobile-menu-overlay {
+        display: none;
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background: rgba(0, 0, 0, 0.8);
+        z-index: 999;
+        opacity: 0;
+        transition: opacity 0.3s;
+      }
+
+      .mobile-menu-overlay.active {
+        opacity: 1;
+      }
+
+      .mobile-menu {
+        display: none;
+        position: fixed;
+        top: 0;
+        left: -300px;
+        width: 280px;
+        height: 100%;
+        background: linear-gradient(135deg, #3a261b 0%, #4a3225 50%, #5a3e2f 100%);
+        z-index: 1000;
+        padding: 80px 20px 20px 20px;
+        box-shadow: 4px 0 12px rgba(0,0,0,0.5);
+        transition: left 0.3s;
+        overflow-y: auto;
+      }
+
+      .mobile-menu.active {
+        left: 0;
+      }
+
+      .mobile-menu-item {
+        display: block;
+        padding: 18px 20px;
+        margin-bottom: 10px;
+        background: linear-gradient(135deg, #e9dcc0 0%, #dcd7c9 50%);
+        border: 2px solid #8f681a;
+        border-radius: 8px;
+        color: #2d1a10;
+        font-family: "Scheherazade New", "Amiri", serif;
+        font-size: 22px;
+        text-align: center;
+        cursor: pointer;
+        transition: all 0.3s;
+        box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+      }
+
+      .mobile-menu-item:hover {
+        background: linear-gradient(135deg, #f5e8d0 0%, #e9dcc0 50%);
+        transform: translateX(5px);
+        box-shadow: 0 4px 8px rgba(0,0,0,0.3);
+      }
+
+      .mobile-menu-item.active {
+        background: linear-gradient(135deg, #8f681a 0%, #b48a1f 50%, #8f681a 100%);
+        color: #fff;
+        font-weight: bold;
+        border-color: #d4af74;
+      }
+
       /* Removed verse-count class as we're using verse-count positioning for verse count */
 
       @media (max-width: 768px) {
@@ -330,11 +641,6 @@
         #header-after {
           width: 95%;
         }
-        /* .surah-book { */
-        /* width: calc(50% - 20px);
-          min-width: 120px; */
-        /* height: 220px; */
-        /* } */
 
         .surah-name {
           font-size: 28px;
@@ -348,14 +654,103 @@
           font-size: 14px;
         }
 
-        .tab-navigation {
-          gap: 15px;
-          margin: 20px auto 30px auto;
+        /* Hide tabs and show hamburger menu on mobile */
+        .mobile-menu-btn,
+        .mobile-menu-overlay,
+        .mobile-menu {
+          display: block;
         }
 
-        .tab-button {
-          font-size: 22px;
-          padding: 10px 20px;
+        .tab-navigation {
+          display: none;
+        }
+
+        /* Mobile Search Styles */
+        .search-section {
+          padding: 0 10px;
+          margin: 20px auto;
+        }
+
+        .search-box {
+          flex-direction: column;
+          gap: 10px;
+        }
+
+        .search-box input {
+          width: 100%;
+          min-width: unset;
+          font-size: 16px;
+          padding: 12px 15px;
+        }
+
+        .search-btn {
+          width: 100%;
+          padding: 12px 20px;
+          font-size: 16px;
+        }
+
+        .filters {
+          flex-direction: column;
+          padding: 15px;
+          gap: 12px;
+        }
+
+        .filter-group {
+          width: 100%;
+        }
+
+        .filter-group label {
+          font-size: 14px;
+        }
+
+        .filter-group select,
+        .filter-group input[type="number"] {
+          width: 100%;
+          font-size: 14px;
+        }
+
+        .result-item {
+          padding: 15px;
+        }
+
+        .result-header {
+          flex-direction: column;
+          align-items: flex-start;
+          gap: 10px;
+        }
+
+        .result-reference {
+          font-size: 16px;
+        }
+
+        .result-abjad {
+          flex-direction: column;
+          gap: 5px;
+          font-size: 12px;
+        }
+
+        .result-arabic {
+          font-size: 24px;
+        }
+
+        .result-translation {
+          font-size: 14px;
+        }
+
+        .welcome-search {
+          padding: 40px 15px;
+        }
+
+        .welcome-search h2 {
+          font-size: 24px;
+        }
+
+        .welcome-search p {
+          font-size: 16px;
+        }
+
+        .welcome-search li {
+          font-size: 16px;
         }
       }
     </style>
@@ -367,6 +762,31 @@
       <div class="tag-line"><em>With Qamari, Malfuzi & Batini Aadad</em></div>
       <div id="header-after"></div>
     </h1>
+
+    <!-- Mobile Hamburger Menu -->
+    <button class="mobile-menu-btn" id="mobileMenuBtn" onclick="toggleMobileMenu()">
+      <div class="hamburger-icon">
+        <span></span>
+        <span></span>
+        <span></span>
+      </div>
+    </button>
+
+    <!-- Mobile Menu Overlay -->
+    <div class="mobile-menu-overlay" id="mobileMenuOverlay" onclick="closeMobileMenu()"></div>
+
+    <!-- Mobile Menu -->
+    <div class="mobile-menu" id="mobileMenu">
+      <div class="mobile-menu-item active" data-tab="surahs" onclick="switchTabMobile('surahs')">
+        السور
+      </div>
+      <div class="mobile-menu-item" data-tab="duas" onclick="switchTabMobile('duas')">
+        الأدعية
+      </div>
+      <div class="mobile-menu-item" data-tab="search" onclick="switchTabMobile('search')">
+        البحث
+      </div>
+    </div>
     
     <!-- Tab Navigation -->
     <div class="tab-navigation">
@@ -375,6 +795,9 @@
       </button>
       <button class="tab-button" data-tab="duas" onclick="switchTab('duas')">
         الأدعية
+      </button>
+      <button class="tab-button" data-tab="search" onclick="switchTab('search')">
+        البحث
       </button>
     </div>
 
@@ -505,6 +928,45 @@
             "surah-container"
           ).innerHTML = `<div class="error">Error loading files: ${err}</div>`;
         });
+
+      // Mobile menu functions
+      function toggleMobileMenu() {
+        const btn = document.getElementById('mobileMenuBtn');
+        const overlay = document.getElementById('mobileMenuOverlay');
+        const menu = document.getElementById('mobileMenu');
+        
+        btn.classList.toggle('active');
+        overlay.classList.toggle('active');
+        menu.classList.toggle('active');
+      }
+
+      function closeMobileMenu() {
+        const btn = document.getElementById('mobileMenuBtn');
+        const overlay = document.getElementById('mobileMenuOverlay');
+        const menu = document.getElementById('mobileMenu');
+        
+        btn.classList.remove('active');
+        overlay.classList.remove('active');
+        menu.classList.remove('active');
+      }
+
+      function switchTabMobile(tabName) {
+        // Close mobile menu
+        closeMobileMenu();
+        
+        // Update currentTab
+        currentTab = tabName;
+        
+        // Update mobile menu item states
+        document.querySelectorAll('.mobile-menu-item').forEach(item => {
+          item.classList.remove('active');
+        });
+        document.querySelector(`.mobile-menu-item[data-tab="${tabName}"]`).classList.add('active');
+        
+        // Re-render the filtered content
+        renderFiles(allFiles, tabName);
+      }
     </script>
+<script src="abjad_calculator/apps/quran/template/static/js/search.js"></script>
   </body>
 </html>

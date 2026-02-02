@@ -27,10 +27,10 @@ def get_root_path():
 ROOT_PATH = get_root_path()
 
 
-with open(os.path.join(ROOT_PATH, "template/static/style.css")) as f:
+with open(os.path.join(ROOT_PATH, "template/static/css/style.css")) as f:
     css_file = f.read()
 
-with open(os.path.join(ROOT_PATH, "template/static/script.js")) as f:
+with open(os.path.join(ROOT_PATH, "template/static/js/script.js")) as f:
     js_file = f.read()
 
 with open(os.path.join(ROOT_PATH, "template/static/template.html")) as f:
