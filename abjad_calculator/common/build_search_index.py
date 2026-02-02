@@ -173,7 +173,7 @@ def build_search_index(debug_folder_path, output_path):
 if __name__ == "__main__":
     # Get paths (already defined at top for imports)
     debug_folder = project_root.parent / "debug"
-    output_file = project_root / "static" / "data" / "quran_search_index.json"
+    output_file = project_root / "apps" / "quran" / "template" / "static" / "data" / "quran_search_index.json"
     
     print(f"Debug folder: {debug_folder}")
     print(f"Output file: {output_file}")

@@ -8,7 +8,7 @@ let searchResults = [];
 async function loadSearchIndex() {
   const USER = "mahashemi";
   const REPO = "abjad";
-  const indexUrl = `https://${USER}.github.io/${REPO}/abjad_calculator/static/data/quran_search_index.json`;
+  const indexUrl = `https://${USER}.github.io/${REPO}/abjad_calculator/apps/quran/template/static/data/quran_search_index.json`;
   
   try {
     const response = await fetch(indexUrl);

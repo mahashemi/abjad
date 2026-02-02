@@ -823,8 +823,12 @@
         });
         document.querySelector(`[data-tab="${tabName}"]`).classList.add('active');
 
-        // Re-render the filtered content
-        renderFiles(allFiles, tabName);
+        // Handle different tabs
+        if (tabName === 'search') {
+          renderSearchInterface();
+        } else {
+          renderFiles(allFiles, tabName);
+        }
       }
 
       function renderFiles(files, filterTab = 'surahs') {
@@ -963,8 +967,12 @@
         });
         document.querySelector(`.mobile-menu-item[data-tab="${tabName}"]`).classList.add('active');
         
-        // Re-render the filtered content
-        renderFiles(allFiles, tabName);
+        // Handle different tabs
+        if (tabName === 'search') {
+          renderSearchInterface();
+        } else {
+          renderFiles(allFiles, tabName);
+        }
       }
     </script>
 <script src="abjad_calculator/apps/quran/template/static/js/search.js"></script>
