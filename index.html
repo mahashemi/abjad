@@ -375,6 +375,35 @@
         box-shadow: 0 6px 12px rgba(0,0,0,0.4);
       }
 
+      .filters-toggle-btn {
+        width: 100%;
+        padding: 12px 20px;
+        margin-bottom: 15px;
+        font-size: 16px;
+        font-family: "Scheherazade New", "Amiri", serif;
+        background: linear-gradient(135deg, #5a3e2f 0%, #4a3225 50%, #3a261b 100%);
+        color: #d4af74;
+        border: 2px solid #8f681a;
+        border-radius: 8px;
+        cursor: pointer;
+        transition: all 0.3s;
+        text-align: center;
+        box-shadow: 0 2px 4px rgba(0,0,0,0.3);
+      }
+
+      .filters-toggle-btn:hover {
+        background: linear-gradient(135deg, #6a4e3f 0%, #5a3e35 50%, #4a322b 100%);
+        transform: translateY(-1px);
+        box-shadow: 0 4px 8px rgba(0,0,0,0.4);
+      }
+
+      #filtersToggleIcon {
+        display: inline-block;
+        transition: transform 0.3s;
+        font-size: 12px;
+        margin-right: 8px;
+      }
+
       .filters {
         display: flex;
         gap: 15px;
@@ -383,6 +412,8 @@
         padding: 20px;
         background: rgba(0,0,0,0.2);
         border-radius: 8px;
+        overflow: hidden;
+        transition: all 0.3s ease;
       }
 
       .filter-group {
@@ -499,8 +530,8 @@
       .mobile-menu-btn {
         display: none;
         position: fixed;
-        top: 20px;
-        left: 20px;
+        top: 125px;
+        right: 20px;
         z-index: 1000;
         background: linear-gradient(135deg, #8f681a 0%, #b48a1f 50%, #8f681a 100%);
         border: 2px solid #d4af74;
@@ -571,12 +602,13 @@
         width: 100%;
         height: 100%;
         background: rgba(0, 0, 0, 0.8);
-        z-index: 999;
+        z-index: -1;
         opacity: 0;
         transition: opacity 0.3s;
       }
 
       .mobile-menu-overlay.active {
+        display: block;
         opacity: 1;
       }
 
@@ -596,6 +628,7 @@
       }
 
       .mobile-menu.active {
+        display: block;
         left: 0;
       }
 
@@ -654,7 +687,7 @@
           font-size: 14px;
         }
 
-        /* Hide tabs and show hamburger menu on mobile */
+        /* Show hamburger menu and hide tabs on mobile */
         .mobile-menu-btn,
         .mobile-menu-overlay,
         .mobile-menu {

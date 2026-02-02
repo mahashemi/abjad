@@ -49,7 +49,11 @@ function renderSearchInterface() {
         <button class="search-btn" onclick="performSearch()">بحث Search</button>
       </div>
       
-      <div class="filters">
+      <button class="filters-toggle-btn" onclick="toggleFilters()">
+        <span id="filtersToggleIcon">▼</span> خيارات البحث Advanced Filters
+      </button>
+      
+      <div class="filters" id="searchFilters" style="display: none;">
         <div class="filter-group">
           <label>اللغة Language:</label>
           <select id="languageFilter">
@@ -193,11 +197,22 @@ function performSearch() {
   
   console.log('[SEARCH] Chapters to search:', chaptersToSearch.length);
   
-  // Perform search based on type
+  // Smart search: If search text is a number and no Abjad type selected, search all Abjad systems
+  const isNumericSearch = searchText && !isNaN(searchText) && searchText.trim() !== '';
+  
   if (abjadType) {
-    console.log('[SEARCH] Performing Abjad search...');
+    // Explicit Abjad search with selected type
+    console.log('[SEARCH] Performing Abjad search with type:', abjadType);
     performAbjadSearch(chaptersToSearch, abjadType);
+  } else if (isNumericSearch) {
+    // Auto-detect numeric search - search ALL Abjad systems
+    console.log('[SEARCH] Detected numeric search, searching ALL Abjad systems for:', searchText);
+    const targetValue = parseInt(searchText);
+    performAbjadSearch(chaptersToSearch, 'qamari', targetValue);
+    performAbjadSearch(chaptersToSearch, 'malfuzi', targetValue);
+    performAbjadSearch(chaptersToSearch, 'bayenati', targetValue);
   } else {
+    // Regular text search
     console.log('[SEARCH] Performing text search...');
     performTextSearch(chaptersToSearch, searchText, language);
   }
@@ -261,9 +276,9 @@ function performTextSearch(chapters, searchText, language) {
 }
 
 // Abjad value search
-function performAbjadSearch(chapters, abjadType) {
-  const targetValue = parseInt(document.getElementById('abjadValue').value);
-  const tolerance = parseInt(document.getElementById('abjadTolerance').value) || 0;
+function performAbjadSearch(chapters, abjadType, manualValue = null) {
+  const targetValue = manualValue !== null ? manualValue : parseInt(document.getElementById('abjadValue').value);
+  const tolerance = manualValue !== null ? 0 : (parseInt(document.getElementById('abjadTolerance').value) || 0);
   
   console.log('[SEARCH] Abjad search parameters:');
   console.log('[SEARCH]   - Type:', abjadType);
@@ -361,7 +376,22 @@ function displayResults() {
   console.log('[SEARCH] ═══════════════════════════════════════');
 }
 
+// Toggle filters visibility
+function toggleFilters() {
+  const filters = document.getElementById('searchFilters');
+  const icon = document.getElementById('filtersToggleIcon');
+  
+  if (filters.style.display === 'none') {
+    filters.style.display = 'flex';
+    icon.textContent = '▲';
+  } else {
+    filters.style.display = 'none';
+    icon.textContent = '▼';
+  }
+}
+
 // Make functions globally available
 window.performSearch = performSearch;
 window.toggleAbjadRange = toggleAbjadRange;
 window.renderSearchInterface = renderSearchInterface;
+window.toggleFilters = toggleFilters;
