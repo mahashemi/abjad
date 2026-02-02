@@ -5,6 +5,7 @@ quran.py Functions for Quranic verse calculation.
 import json
 import os
 import re
+from pathlib import Path
 from typing import List
 from dataclasses import asdict
 
@@ -27,11 +28,31 @@ def get_root_path():
 ROOT_PATH = get_root_path()
 
 
-with open(os.path.join(ROOT_PATH, "template/static/css/style.css")) as f:
-    css_file = f.read()
+def get_relative_path_to_static(output_file_path, static_file_relative_path):
+    """
+    Compute relative path from output HTML file to static resource.
+    
+    Args:
+        output_file_path: Path where the HTML will be saved (e.g., "output/quran/chapter_001.html")
+        static_file_relative_path: Path to static file relative to ROOT_PATH 
+                                   (e.g., "template/static/css/style.css")
+    
+    Returns:
+        str: Relative path from output file to static resource
+    """
+    # Get absolute paths
+    output_abs = Path(output_file_path).resolve()
+    static_abs = Path(ROOT_PATH).joinpath(static_file_relative_path).resolve()
+    
+    # Compute relative path from output directory to static file
+    output_dir = output_abs.parent
+    relative_path = os.path.relpath(static_abs, output_dir)
+    
+    # Convert to forward slashes for web paths
+    relative_path = relative_path.replace('\\', '/')
+    
+    return relative_path
 
-with open(os.path.join(ROOT_PATH, "template/static/js/script.js")) as f:
-    js_file = f.read()
 
 with open(os.path.join(ROOT_PATH, "template/static/template.html")) as f:
     quran_html_template_start = f.read()
@@ -85,6 +106,21 @@ def process_multiple_verses(
     debug=False,
     chars_per_row=18,
 ):
+    """
+    Process multiple Quranic verses and calculate their combined abjad value.
+
+    Args:
+        bismillah: Bismillah text
+        surat_number_name_verse_count: Surah metadata string
+        verses_list: List of verse dictionaries
+        output_html (bool): Whether to save HTML output to a file
+        output_path (str, optional): Path to save HTML output
+        debug (bool): Whether to save debug JSON files
+        chars_per_row (int): Maximum number of characters per row in letter tables
+
+    Returns:
+        str: Combined HTML string
+    """
     """
     Process multiple Quranic verses and calculate their combined abjad value.
 
@@ -237,13 +273,26 @@ def process_multiple_verses(
 </div>
 """
 
+    # Compute relative paths to static files based on output path
+    if output_path:
+        css_path = get_relative_path_to_static(output_path, "template/static/css/style.css")
+        js_path = get_relative_path_to_static(output_path, "template/static/js/script.js")
+        css_link = f'<link rel="stylesheet" href="{css_path}">'
+        js_script = f'<script src="{js_path}"></script>'
+    else:
+        # Fallback to embedded content if no output path specified
+        with open(os.path.join(ROOT_PATH, "template/static/css/style.css")) as f:
+            css_link = f'<style>{f.read()}</style>'
+        with open(os.path.join(ROOT_PATH, "template/static/js/script.js")) as f:
+            js_script = f'<script>{f.read()}</script>'
+    
     quran_html = quran_html.replace("{{bismillah}}", bismillah)
     quran_html = quran_html.replace("{{surat_name}}", surat_name)
     quran_html = quran_html.replace("{{surat_number}}", surat_number)
     quran_html = quran_html.replace("{{surat_verse_count}}", surat_verse_count)
     quran_html = quran_html.replace("{{quran_data_html}}", quran_data_html)
-    quran_html = quran_html.replace("{{style}}", css_file)
-    quran_html = quran_html.replace("{{script}}", js_file)
+    quran_html = quran_html.replace("{{style}}", css_link)
+    quran_html = quran_html.replace("{{script}}", js_script)
     # Save to file if requested
     if output_html:
         path = output_path or "quranic_verses.html"

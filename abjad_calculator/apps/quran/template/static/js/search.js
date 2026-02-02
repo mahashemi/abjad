@@ -4,26 +4,42 @@
 let searchIndex = null;
 let searchResults = [];
 
-// Load search index from GitHub Pages
+// Load search index from relative path
 async function loadSearchIndex() {
-  const USER = "mahashemi";
-  const REPO = "abjad";
-  const indexUrl = `https://${USER}.github.io/${REPO}/abjad_calculator/apps/quran/template/static/data/quran_search_index.json`;
+  // Use relative path - works both locally and on GitHub Pages
+  const indexUrl = 'abjad_calculator/apps/quran/template/static/data/quran_search_index.json';
+  
+  console.log('[SEARCH] Starting to load search index from:', indexUrl);
   
   try {
+    console.log('[SEARCH] Fetching search index...');
     const response = await fetch(indexUrl);
-    if (!response.ok) throw new Error('Failed to load search index');
+    console.log('[SEARCH] Fetch response status:', response.status, response.statusText);
+    
+    if (!response.ok) {
+      throw new Error(`HTTP ${response.status}: ${response.statusText}`);
+    }
+    
+    console.log('[SEARCH] Parsing JSON...');
     searchIndex = await response.json();
-    console.log('Search index loaded:', searchIndex.metadata);
+    console.log('[SEARCH] ✓ Search index loaded successfully!');
+    console.log('[SEARCH] Metadata:', searchIndex.metadata);
+    console.log('[SEARCH] Total chapters:', searchIndex.chapters.length);
+    console.log('[SEARCH] Total verses:', searchIndex.metadata.total_verses);
+    console.log('[SEARCH] Languages:', searchIndex.metadata.languages);
+    console.log('[SEARCH] Abjad systems:', searchIndex.metadata.abjad_systems);
     return true;
   } catch (error) {
-    console.error('Error loading search index:', error);
+    console.error('[SEARCH] ✗ Failed to load search index!');
+    console.error('[SEARCH] Error details:', error);
+    console.error('[SEARCH] URL attempted:', indexUrl);
     return false;
   }
 }
 
 // Render search interface
 function renderSearchInterface() {
+  console.log('[SEARCH] Rendering search interface...');
   const container = document.getElementById("surah-container");
   
   container.innerHTML = `
@@ -90,15 +106,19 @@ function renderSearchInterface() {
   
   // Load search index if not loaded
   if (!searchIndex) {
+    console.log('[SEARCH] Search index not loaded yet, loading now...');
     loadSearchIndex().then(success => {
       if (success) {
+        console.log('[SEARCH] ✓ Search index loaded, populating chapter filter...');
         populateChapterFilter();
       } else {
+        console.error('[SEARCH] ✗ Failed to load search index');
         document.getElementById('searchResults').innerHTML = 
           '<div class="error">Failed to load search index. Please refresh the page.</div>';
       }
     });
   } else {
+    console.log('[SEARCH] ✓ Search index already loaded, populating chapter filter...');
     populateChapterFilter();
   }
   
@@ -112,8 +132,12 @@ function renderSearchInterface() {
 
 // Populate chapter filter dropdown
 function populateChapterFilter() {
-  if (!searchIndex) return;
+  if (!searchIndex) {
+    console.warn('[SEARCH] Cannot populate chapter filter - search index not loaded');
+    return;
+  }
   
+  console.log('[SEARCH] Populating chapter filter with', searchIndex.chapters.length, 'chapters...');
   const select = document.getElementById('chapterFilter');
   searchIndex.chapters.forEach(chapter => {
     const option = document.createElement('option');
@@ -121,6 +145,7 @@ function populateChapterFilter() {
     option.textContent = `سورة ${chapter.chapter_number}: ${chapter.chapter_name_arabic}`;
     select.appendChild(option);
   });
+  console.log('[SEARCH] ✓ Chapter filter populated');
 }
 
 // Toggle abjad range input visibility
@@ -132,7 +157,11 @@ function toggleAbjadRange() {
 
 // Perform search
 function performSearch() {
+  console.log('[SEARCH] ═══════════════════════════════════════');
+  console.log('[SEARCH] Starting search...');
+  
   if (!searchIndex) {
+    console.error('[SEARCH] ✗ Search index not loaded!');
     alert('Search index not loaded yet. Please wait...');
     return;
   }
@@ -142,8 +171,15 @@ function performSearch() {
   const abjadType = document.getElementById('abjadType').value;
   const chapterFilter = document.getElementById('chapterFilter').value;
   
+  console.log('[SEARCH] Search parameters:');
+  console.log('[SEARCH]   - Text:', searchText || '(none)');
+  console.log('[SEARCH]   - Language:', language);
+  console.log('[SEARCH]   - Abjad type:', abjadType || '(none)');
+  console.log('[SEARCH]   - Chapter filter:', chapterFilter || 'All chapters');
+  
   // Validate inputs
   if (!searchText && !abjadType) {
+    console.warn('[SEARCH] ✗ No search criteria provided');
     alert('Please enter search text or select Abjad search');
     return;
   }
@@ -155,13 +191,18 @@ function performSearch() {
     [searchIndex.chapters.find(c => c.chapter_number == chapterFilter)] :
     searchIndex.chapters;
   
+  console.log('[SEARCH] Chapters to search:', chaptersToSearch.length);
+  
   // Perform search based on type
   if (abjadType) {
+    console.log('[SEARCH] Performing Abjad search...');
     performAbjadSearch(chaptersToSearch, abjadType);
   } else {
+    console.log('[SEARCH] Performing text search...');
     performTextSearch(chaptersToSearch, searchText, language);
   }
   
+  console.log('[SEARCH] Search complete. Results found:', searchResults.length);
   displayResults();
 }
 
@@ -224,18 +265,29 @@ function performAbjadSearch(chapters, abjadType) {
   const targetValue = parseInt(document.getElementById('abjadValue').value);
   const tolerance = parseInt(document.getElementById('abjadTolerance').value) || 0;
   
+  console.log('[SEARCH] Abjad search parameters:');
+  console.log('[SEARCH]   - Type:', abjadType);
+  console.log('[SEARCH]   - Target value:', targetValue);
+  console.log('[SEARCH]   - Tolerance:', tolerance);
+  
   if (isNaN(targetValue)) {
+    console.error('[SEARCH] ✗ Invalid Abjad value');
     alert('Please enter a valid Abjad value');
     return;
   }
   
   const minValue = targetValue - tolerance;
   const maxValue = targetValue + tolerance;
+  console.log('[SEARCH]   - Search range:', minValue, 'to', maxValue);
+  
+  let versesChecked = 0;
   
   chapters.forEach(chapter => {
     chapter.verses.forEach(verse => {
+      versesChecked++;
       const verseValue = verse.abjad[abjadType];
       if (verseValue >= minValue && verseValue <= maxValue) {
+        console.log(`[SEARCH] ✓ Match found: Chapter ${chapter.chapter_number}:${verse.verse_number} = ${verseValue}`);
         searchResults.push({
           chapter: chapter.chapter_number,
           chapterName: chapter.chapter_name_arabic,
@@ -250,13 +302,18 @@ function performAbjadSearch(chapters, abjadType) {
       }
     });
   });
+  
+  console.log('[SEARCH] Verses checked:', versesChecked);
+  console.log('[SEARCH] Matches found:', searchResults.length);
 }
 
 // Display search results
 function displayResults() {
+  console.log('[SEARCH] Displaying', searchResults.length, 'results...');
   const resultsDiv = document.getElementById('searchResults');
   
   if (searchResults.length === 0) {
+    console.log('[SEARCH] No results to display');
     resultsDiv.innerHTML = `
       <div class="error">
         No results found. لم يتم العثور على نتائج
@@ -299,6 +356,8 @@ function displayResults() {
   });
   
   resultsDiv.innerHTML = html;
+  console.log('[SEARCH] ✓ Results displayed successfully');
+  console.log('[SEARCH] ═══════════════════════════════════════');
 }
 
 // Make functions globally available
