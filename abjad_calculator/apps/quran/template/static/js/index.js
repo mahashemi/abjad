@@ -9,11 +9,15 @@ let currentTab = 'surahs'; // Track current active tab
 function switchTab(tabName) {
   currentTab = tabName;
 
-  // Update button states
+  // Update button states - be specific to target only .tab-button
   document.querySelectorAll('.tab-button').forEach(btn => {
     btn.classList.remove('active');
   });
-  document.querySelector(`[data-tab="${tabName}"]`).classList.add('active');
+  // Specifically target .tab-button, not mobile menu items
+  const targetButton = document.querySelector(`.tab-button[data-tab="${tabName}"]`);
+  if (targetButton) {
+    targetButton.classList.add('active');
+  }
 
   // Handle different tabs
   if (tabName === 'search') {
@@ -117,7 +121,10 @@ Promise.all([
 ])
   .then(([quranFiles, duaFiles]) => {
     allFiles = [...quranFiles, ...duaFiles]; // Combine files from both folders
-    renderFiles(allFiles, currentTab); // Initial render with surahs tab
+    
+    // Don't call switchTab - the HTML already has active class set
+    // Just render the initial content for the current tab
+    renderFiles(allFiles, currentTab);
   })
   .catch((err) => {
     document.getElementById(
@@ -158,6 +165,15 @@ function switchTabMobile(tabName) {
     item.classList.remove('active');
   });
   document.querySelector(`.mobile-menu-item[data-tab="${tabName}"]`).classList.add('active');
+  
+  // Also update desktop tab button states to keep them in sync
+  document.querySelectorAll('.tab-button').forEach(btn => {
+    btn.classList.remove('active');
+  });
+  const desktopTab = document.querySelector(`.tab-button[data-tab="${tabName}"]`);
+  if (desktopTab) {
+    desktopTab.classList.add('active');
+  }
   
   // Handle different tabs
   if (tabName === 'search') {

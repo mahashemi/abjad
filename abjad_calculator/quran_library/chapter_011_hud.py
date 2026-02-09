@@ -362,7 +362,7 @@ ayats = [
   {
     "verse_number": 46,
     "english_text": "Came the reply: Nooh he is not from your family, his conduct is unrighteous; so do not ask from Me of which you do not have any knowledge, I give you counsel lest you may not be counted among ignorant.",
-    "arabic_text": "قَالَ يٰنُوحُ اِنَّهُ لَيْسَ مِنْ اَهْلِكَ ۖ اِنَّهُ عَمَلٌ غَيْرُ صٰلِحٍ ۖ فَلَا تَسْاَلْنِ مَا لَيْسَ لَكَ بِهِ عِلْمٌ ۖ اِنِّى اَعِظُكَ اَن تَكُونَ مِنَ الْجٰهِلِينَ",
+    "arabic_text": "قَالَ يٰنُوحُ اِنَّهُ لَيْسَ مِنْ اَهْلِكَ ۖ اِنَّهُ عَمَلٌ غَيْرُ صَالِحٍ ۖ فَلَا تَسْئلْنِ مَا لَيْسَ لَكَ بِهِ عِلْمٌ ۖ اِنِّى اَعِظُكَ اَن تَكُونَ مِنَ الْجٰهِلِينَ",
     "urdu_text": "ارشاد ہوا: اے نوح! وہ تمہارے گھر والوں میں سے نہیں ہے، بیشک اس کا عمل ناصالح ہے، پس مجھ سے وہ بات نہ پوچھو جس کا تمہیں علم نہیں، میں تمہیں نصیحت کرتا ہوں کہ تم جاہلوں میں سے نہ ہو جاؤ۔",
     "persian_text": "فرمود: ای نوح! او از خانواده تو نیست، زیرا عمل او ناشایست است، پس از من چیزی مپرس که علم به آن نداری، من تو را پند می‌دهم که از نادانان مباش.",
     "transliteration": "Qala ya Noohu innahu laysa min ahlika innahu 'amalun ghayru salihin fala tas'alni ma laysa laka bihi 'ilmun inni a'izuka an takoona minal jahileen",
@@ -458,7 +458,7 @@ ayats = [
   {
     "verse_number": 58,
     "english_text": "And when Our command came; then We delivered Hood and those who have believed with him, with Our Mercy and saved them from punishment.",
-    "arabic_text": "وَ لَمَّا جَآءَ اَمْرُنَا نَجَّيْنَا هُودًا وَ الَّذِينَ آمَنُوا مَعَهُ بِرَحْمَةٍ مِّنَّا وَ نَجَّيْنَاهُم مِّنْ عَذَابٍ غَلِيظٍ",
+    "arabic_text": "وَ لَمَّا جَآءَ اَمْرُنَا نَجَّيْنَا هُودًا وَ الَّذِينَ آمَنُوا مَعَهُ بِرَحْمَةٍ مِّنَّا وَ نَجَّيْنٰهُم مِّنْ عَذَابٍ غَلِيظٍ",
     "urdu_text": "اور جب ہمارا حکم آیا تو ہم نے ہود اور ان کے ساتھ ایمان لانے والوں کو اپنی رحمت سے نجات دی اور انہیں سخت عذاب سے بچا لیا",
     "persian_text": "و چون فرمان ما فرا رسید، هود و کسانی را که با او ایمان آورده بودند به رحمت خود نجات دادیم و آنان را از عذاب سخت رهانیدیم",
     "transliteration": "Wa lamma ja'a amruna najjayna Hudan walladhina amanu ma'ahu bi rahmatin minna wa najjaynahum min 'adhabin ghaliz",

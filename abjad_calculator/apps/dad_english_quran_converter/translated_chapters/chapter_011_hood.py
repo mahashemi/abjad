@@ -465,7 +465,7 @@ ayats = [
   {
     "verse_number": 58,
     "english_text": "And when Our command came; then We delivered Hood and those who have believed with him, with Our Mercy and saved them from punishment.",
-    "arabic_text": "وَلَمَّا جَاءَ اَمْرُنَا نَجَّيْنَا هُودًا وَالَّذِينَ آمَنُوا مَعَهُ بِرَحْمَةٍ مِّنَّا وَنَجَّيْنَاهُم مِّنْ عَذَابٍ غَلِيظٍ",
+    "arabic_text": "وَلَمَّا جَاءَ اَمْرُنَا نَجَّيْنَا هُودًا وَالَّذِينَ آمَنُوا مَعَهُ بِرَحْمَةٍ مِّنَّا وَنَجَّيْنٰهُم مِّنْ عَذَابٍ غَلِيظٍ",
     "urdu_text": "اور جب همارا حکم آیا تو هم نے هود اور ان کے ساتھ ایمان لانے والوں کو اپنی رحمت سے نجات دی اور انهیں سخت عذاب سے بچا لیا",
     "persian_text": "و چون فرمان ما فرا رسید، هود و کسانی را که با او ایمان آورده بودند به رحمت خود نجات دادیم و آنان را از عذاب سخت رهانیدیم",
     "transliteration": "Wa lamma ja'a amruna najjayna Hudan walladhina amanu ma'ahu bi rahmatin minna wa najjaynahum min 'adhabin ghaliz"

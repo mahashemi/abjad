@@ -6,35 +6,41 @@ let searchResults = [];
 
 // Load search index from relative path
 async function loadSearchIndex() {
-  // Use relative path - works both locally and on GitHub Pages
-  const indexUrl = 'abjad_calculator/apps/quran/template/static/data/quran_search_index.json';
+  // Try multiple paths for local vs GitHub Pages compatibility
+  const paths = [
+    'abjad_calculator/apps/quran/template/static/data/quran_search_index.json', // GitHub Pages / deployed
+  ];
   
-  console.log('[SEARCH] Starting to load search index from:', indexUrl);
+  console.log('[SEARCH] Starting to load search index...');
   
-  try {
-    console.log('[SEARCH] Fetching search index...');
-    const response = await fetch(indexUrl);
-    console.log('[SEARCH] Fetch response status:', response.status, response.statusText);
-    
-    if (!response.ok) {
-      throw new Error(`HTTP ${response.status}: ${response.statusText}`);
+  for (const indexUrl of paths) {
+    try {
+      console.log('[SEARCH] Trying path:', indexUrl);
+      const response = await fetch(indexUrl);
+      console.log('[SEARCH] Fetch response status:', response.status, response.statusText);
+      
+      if (!response.ok) {
+        console.log('[SEARCH] Path failed, trying next...');
+        continue;
+      }
+      
+      console.log('[SEARCH] Parsing JSON...');
+      searchIndex = await response.json();
+      console.log('[SEARCH] ✓ Search index loaded successfully from:', indexUrl);
+      console.log('[SEARCH] Metadata:', searchIndex.metadata);
+      console.log('[SEARCH] Total chapters:', searchIndex.chapters.length);
+      console.log('[SEARCH] Total verses:', searchIndex.metadata.total_verses);
+      console.log('[SEARCH] Languages:', searchIndex.metadata.languages);
+      console.log('[SEARCH] Abjad systems:', searchIndex.metadata.abjad_systems);
+      return true;
+    } catch (error) {
+      console.log('[SEARCH] Error with path:', indexUrl, error.message);
     }
-    
-    console.log('[SEARCH] Parsing JSON...');
-    searchIndex = await response.json();
-    console.log('[SEARCH] ✓ Search index loaded successfully!');
-    console.log('[SEARCH] Metadata:', searchIndex.metadata);
-    console.log('[SEARCH] Total chapters:', searchIndex.chapters.length);
-    console.log('[SEARCH] Total verses:', searchIndex.metadata.total_verses);
-    console.log('[SEARCH] Languages:', searchIndex.metadata.languages);
-    console.log('[SEARCH] Abjad systems:', searchIndex.metadata.abjad_systems);
-    return true;
-  } catch (error) {
-    console.error('[SEARCH] ✗ Failed to load search index!');
-    console.error('[SEARCH] Error details:', error);
-    console.error('[SEARCH] URL attempted:', indexUrl);
-    return false;
   }
+  
+  console.error('[SEARCH] ✗ Failed to load search index from all attempted paths!');
+  console.error('[SEARCH] Paths attempted:', paths);
+  return false;
 }
 
 // Render search interface
@@ -221,42 +227,91 @@ function performSearch() {
   displayResults();
 }
 
-// Text search in verses
+// Text search in verses - supports word-level search using cleaned Arabic
 function performTextSearch(chapters, searchText, language) {
   const searchLower = searchText.toLowerCase();
+  
+  // Split search text into individual words for word-level matching
+  const searchWords = searchText.trim().split(/\s+/).filter(word => word.length > 0);
+  
+  console.log('[SEARCH] Word-level text search for', searchWords.length, 'word(s):', searchWords);
   
   chapters.forEach(chapter => {
     chapter.verses.forEach(verse => {
       let matched = false;
       let matchedIn = [];
+      let matchedWords = [];
+      
+      // Helper function to check if text matches search phrase
+      const textMatches = (text, caseSensitive = false) => {
+        if (!text) return false;
+        
+        const textToSearch = caseSensitive ? text : text.toLowerCase();
+        const searchToUse = caseSensitive ? searchText : searchLower;
+        
+        // Match exact phrase in the sentence using includes
+        return textToSearch.includes(searchToUse);
+      };
+      
+      // Helper function for Arabic word-level search using word data
+      const arabicWordMatches = () => {
+        if (!verse.words || verse.words.length === 0) {
+          // Fallback to simple text matching if word data not available
+          return textMatches(verse.arabic_clean || verse.arabic);
+        }
+        
+        // Check if search phrase exists in cleaned text and populate matched words
+        if (verse.arabic_clean && verse.arabic_clean.includes(searchText)) {
+          // Find which words contain the search text
+          verse.words.forEach(wordData => {
+            if (wordData.word.includes(searchText) && !matchedWords.includes(wordData.word)) {
+              matchedWords.push(wordData.word);
+            }
+          });
+          return true;
+        }
+        
+        // Word-level search: check if all search words match any word in verse
+        const allWordsMatch = searchWords.every(searchWord => {
+          return verse.words.some(wordData => {
+            const matches = wordData.word.includes(searchWord);
+            if (matches && !matchedWords.includes(wordData.word)) {
+              matchedWords.push(wordData.word);
+            }
+            return matches;
+          });
+        });
+        
+        return allWordsMatch;
+      };
       
       // Search in specified language or all
       if (language === 'all' || language === 'arabic') {
-        if (verse.arabic.includes(searchText) || verse.arabic.toLowerCase().includes(searchLower)) {
+        if (arabicWordMatches()) {
           matched = true;
           matchedIn.push('Arabic');
         }
       }
       if (language === 'all' || language === 'english') {
-        if (verse.english.toLowerCase().includes(searchLower)) {
+        if (textMatches(verse.english)) {
           matched = true;
           matchedIn.push('English');
         }
       }
       if (language === 'all' || language === 'urdu') {
-        if (verse.urdu.includes(searchText) || verse.urdu.toLowerCase().includes(searchLower)) {
+        if (textMatches(verse.urdu, true) || textMatches(verse.urdu, false)) {
           matched = true;
           matchedIn.push('Urdu');
         }
       }
       if (language === 'all' || language === 'persian') {
-        if (verse.persian.includes(searchText) || verse.persian.toLowerCase().includes(searchLower)) {
+        if (textMatches(verse.persian, true) || textMatches(verse.persian, false)) {
           matched = true;
           matchedIn.push('Persian');
         }
       }
       if (language === 'all' || language === 'transliteration') {
-        if (verse.transliteration.toLowerCase().includes(searchLower)) {
+        if (textMatches(verse.transliteration)) {
           matched = true;
           matchedIn.push('Transliteration');
         }
@@ -268,14 +323,17 @@ function performTextSearch(chapters, searchText, language) {
           chapterName: chapter.chapter_name_arabic,
           verse: verse.verse_number,
           verseData: verse,
-          matchedIn: matchedIn
+          matchedIn: matchedIn,
+          matchedWords: matchedWords  // Store matched words for display
         });
       }
     });
   });
+  
+  console.log('[SEARCH] Word-level text search complete. Found', searchResults.length, 'verses');
 }
 
-// Abjad value search
+// Abjad value search - supports both verse-level and word-level matching
 function performAbjadSearch(chapters, abjadType, manualValue = null) {
   const targetValue = manualValue !== null ? manualValue : parseInt(document.getElementById('abjadValue').value);
   const tolerance = manualValue !== null ? 0 : (parseInt(document.getElementById('abjadTolerance').value) || 0);
@@ -296,30 +354,266 @@ function performAbjadSearch(chapters, abjadType, manualValue = null) {
   console.log('[SEARCH]   - Search range:', minValue, 'to', maxValue);
   
   let versesChecked = 0;
+  let wordMatches = 0;
+  let verseMatches = 0;
   
   chapters.forEach(chapter => {
     chapter.verses.forEach(verse => {
       versesChecked++;
+      let matched = false;
+      let matchType = null;
+      let matchedWords = [];
+      
+      // First check verse-level match
       const verseValue = verse.abjad[abjadType];
       if (verseValue >= minValue && verseValue <= maxValue) {
-        console.log(`[SEARCH] ✓ Match found: Chapter ${chapter.chapter_number}:${verse.verse_number} = ${verseValue}`);
-        searchResults.push({
-          chapter: chapter.chapter_number,
-          chapterName: chapter.chapter_name_arabic,
-          verse: verse.verse_number,
-          verseData: verse,
-          abjadMatch: {
-            type: abjadType,
-            value: verseValue,
-            target: targetValue
+        matched = true;
+        matchType = 'verse';
+        verseMatches++;
+        console.log(`[SEARCH] ✓ Verse match: Chapter ${chapter.chapter_number}:${verse.verse_number} = ${verseValue}`);
+      }
+      
+      // Then check word-level matches (if verse has word data)
+      if (verse.words && verse.words.length > 0) {
+        verse.words.forEach(wordData => {
+          const wordValue = wordData[abjadType];
+          if (wordValue >= minValue && wordValue <= maxValue) {
+            matched = true;
+            if (matchType !== 'verse') {
+              matchType = 'word';
+            }
+            matchedWords.push({
+              word: wordData.word,
+              position: wordData.position,
+              value: wordValue
+            });
           }
         });
+        
+        if (matchedWords.length > 0 && matchType === 'word') {
+          wordMatches++;
+          console.log(`[SEARCH] ✓ Word match: Chapter ${chapter.chapter_number}:${verse.verse_number} - ${matchedWords.length} word(s) matched`);
+        }
+      }
+      
+      if (matched) {
+        // Check if this verse was already added (to avoid duplicates)
+        const alreadyExists = searchResults.some(r => 
+          r.chapter === chapter.chapter_number && 
+          r.verse === verse.verse_number &&
+          r.abjadMatch && 
+          r.abjadMatch.type === abjadType
+        );
+        
+        if (!alreadyExists) {
+          searchResults.push({
+            chapter: chapter.chapter_number,
+            chapterName: chapter.chapter_name_arabic,
+            verse: verse.verse_number,
+            verseData: verse,
+            abjadMatch: {
+              type: abjadType,
+              value: verseValue,
+              target: targetValue,
+              matchType: matchType,
+              matchedWords: matchedWords  // Store matched words with their values
+            }
+          });
+        }
       }
     });
   });
   
   console.log('[SEARCH] Verses checked:', versesChecked);
-  console.log('[SEARCH] Matches found:', searchResults.length);
+  console.log('[SEARCH] Verse-level matches:', verseMatches);
+  console.log('[SEARCH] Word-level matches:', wordMatches);
+  console.log('[SEARCH] Total unique verses found:', searchResults.filter(r => r.abjadMatch && r.abjadMatch.type === abjadType).length);
+}
+
+// Helper function to highlight Arabic text by mapping cleaned text indices to original with harakats
+function highlightArabicByIndex(arabicOriginal, arabicClean, searchText, isNumeric = false) {
+  if (!arabicOriginal || !arabicClean || !searchText) return arabicOriginal;
+  
+  const highlightStyle = isNumeric 
+    ? 'background: rgba(45, 118, 71, 0.3); padding: 2px 4px; border-radius: 3px; font-weight: bold;'
+    : 'background: rgba(212, 175, 116, 0.4); padding: 2px 4px; border-radius: 3px;';
+  
+  // Find all occurrences of search phrase in cleaned text
+  const searchLower = searchText.toLowerCase();
+  const cleanLower = arabicClean.toLowerCase();
+  
+  let result = arabicOriginal;
+  const matches = [];
+  let startIndex = 0;
+  
+  // Find all match positions in cleaned text
+  while ((startIndex = cleanLower.indexOf(searchLower, startIndex)) !== -1) {
+    matches.push({
+      cleanStart: startIndex,
+      cleanEnd: startIndex + searchText.length
+    });
+    startIndex += searchText.length;
+  }
+  
+  if (matches.length === 0) {
+    return arabicOriginal;
+  }
+  
+  // Match Python's clean_text() function which uses:
+  // 1. REMOVE_CHARS list (with .strip() applied to each char)
+  // 2. strip_diacritics() regex: [\u064B-\u065F\u0670]
+  const isRemovedChar = (char) => {
+    // strip_diacritics regex: U+064B to U+065F and U+0670
+    if (char >= '\u064B' && char <= '\u065F') return true;
+    if (char === '\u0670') return true;
+    
+    // REMOVE_CHARS from constants.py (trimmed)
+    const removeChars = [
+      // Tashkeel (also covered by regex above but listed for completeness)
+      'ً', 'ٌ', 'ٍ', 'َ', 'ُ', 'ِ', 'ّ', 'ْ', 'ٰ',
+      // Quranic diacritics
+      'ٓ', 'ۖ', 'ۗ', 'ۘ', 'ۙ', 'ۚ', 'ۛ', 'ۜ', '۝', '۞',
+      '۟', '۠', 'ۡ', 'ۢ', 'ۣ', 'ۤ', 'ۥ', 'ۦ', 'ۧ', 'ۨ',
+      '۩', '۪', '۫', '۬', 'ۭ', 'ٗ',
+      // Hamza standalone
+      'ء',
+      // Whitespace and control (note: space ' ' between words is NOT removed in cleaned text)
+      '\n', '\t', '\r', '\u200c', '\u200d', '\u202c'
+    ];
+    
+    return removeChars.includes(char);
+  };
+  
+  // Build a mapping from cleaned indices to original indices
+  const indexMap = [];
+  let cleanIdx = 0;
+  
+  console.log('[HIGHLIGHT] Building index map...');
+  console.log('[HIGHLIGHT] Original length:', arabicOriginal.length);
+  console.log('[HIGHLIGHT] Cleaned length:', arabicClean.length);
+  
+  for (let origIdx = 0; origIdx < arabicOriginal.length; origIdx++) {
+    const char = arabicOriginal[origIdx];
+    const charCode = char.charCodeAt(0).toString(16);
+    
+    // Skip characters that are removed during cleaning
+    if (isRemovedChar(char)) {
+      console.log(`[HIGHLIGHT] Skipping removed char at orig[${origIdx}]: "${char}" (U+${charCode})`);
+      continue;
+    }
+    
+    // Check if this character exists in cleaned text at current position
+    if (cleanIdx < arabicClean.length && arabicClean[cleanIdx] === char) {
+      indexMap[cleanIdx] = origIdx;
+      console.log(`[HIGHLIGHT] Mapped clean[${cleanIdx}] = orig[${origIdx}]: "${char}"`);
+      cleanIdx++;
+    } else {
+      console.log(`[HIGHLIGHT] Mismatch at orig[${origIdx}]: "${char}" (U+${charCode}), expected clean[${cleanIdx}]: "${arabicClean[cleanIdx] || 'EOF'}"`);
+    }
+  }
+  // Add final mapping for end of string
+  indexMap[cleanIdx] = arabicOriginal.length;
+  
+  console.log('[HIGHLIGHT] Index map complete. Mapped', cleanIdx, 'clean chars to', arabicOriginal.length, 'original chars');
+  
+  // Apply highlights from end to start to avoid index shifting
+  matches.reverse().forEach(match => {
+    const origStart = indexMap[match.cleanStart] || 0;
+    const origEnd = indexMap[match.cleanEnd] || arabicOriginal.length;
+    
+    const before = result.substring(0, origStart);
+    const highlighted = result.substring(origStart, origEnd);
+    const after = result.substring(origEnd);
+    
+    result = before + `<mark style="${highlightStyle}">${highlighted}</mark>` + after;
+  });
+  
+  return result;
+}
+
+// Helper function to highlight matched phrase in text
+function highlightText(text, searchText, isNumeric = false) {
+  if (!text || !searchText) return text;
+  
+  const highlightStyle = isNumeric 
+    ? 'background: rgba(45, 118, 71, 0.3); padding: 2px 4px; border-radius: 3px; font-weight: bold;'
+    : 'background: rgba(212, 175, 116, 0.4); padding: 2px 4px; border-radius: 3px;';
+  
+  // Escape special regex characters in the search phrase
+  const escapedPhrase = searchText.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+  
+  // Create case-insensitive regex to find the exact phrase
+  const regex = new RegExp(`(${escapedPhrase})`, 'gi');
+  
+  // Replace all occurrences of the phrase with highlighted version
+  return text.replace(regex, `<mark style="${highlightStyle}">$1</mark>`);
+}
+
+// Helper function to highlight specific words by position mapping
+function highlightWordsByPosition(arabicText, arabicClean, matchedWords, allWords, isNumeric = false) {
+  if (!arabicText || !matchedWords || matchedWords.length === 0) return arabicText;
+  
+  const highlightStyle = isNumeric 
+    ? 'background: rgba(45, 118, 71, 0.3); padding: 2px 4px; border-radius: 3px; font-weight: bold; cursor: help;'
+    : 'background: rgba(212, 175, 116, 0.4); padding: 2px 4px; border-radius: 3px; cursor: help;';
+  
+  // Build a map of positions to word data (including abjad values)
+  const positionToWordData = new Map();
+  matchedWords.forEach(matchedWord => {
+    if (allWords && allWords.length > 0) {
+      allWords.forEach(wordData => {
+        if (wordData.word === matchedWord) {
+          positionToWordData.set(wordData.position, wordData);
+        }
+      });
+    }
+  });
+  
+  if (positionToWordData.size === 0) {
+    // Fallback to simple string matching if no positions found
+    return highlightSpecificWords(arabicText, matchedWords, isNumeric);
+  }
+  
+  // Split original Arabic text by spaces to get words with harakats
+  const originalWords = arabicText.trim().split(/\s+/);
+  
+  // Highlight words at matched positions with abjad values in tooltip
+  const highlightedWords = originalWords.map((word, index) => {
+    const position = index + 1; // Positions are 1-indexed
+    const wordData = positionToWordData.get(position);
+    
+    if (wordData) {
+      // Build tooltip with abjad values
+      const tooltip = `القمري: ${wordData.qamari} | الملفوظي: ${wordData.malfuzi} | الباطني: ${wordData.bayenati}`;
+      return `<mark style="${highlightStyle}" title="${tooltip}">${word}</mark>`;
+    }
+    return word;
+  });
+  
+  return highlightedWords.join(' ');
+}
+
+// Helper function to highlight specific words by exact match (fallback)
+function highlightSpecificWords(text, wordsArray, isNumeric = false) {
+  if (!text || !wordsArray || wordsArray.length === 0) return text;
+  
+  const highlightStyle = isNumeric 
+    ? 'background: rgba(45, 118, 71, 0.3); padding: 2px 4px; border-radius: 3px; font-weight: bold;'
+    : 'background: rgba(212, 175, 116, 0.4); padding: 2px 4px; border-radius: 3px;';
+  
+  let highlightedText = text;
+  
+  // Sort by length (longest first) to avoid partial matches
+  const sortedWords = [...wordsArray].sort((a, b) => b.length - a.length);
+  
+  sortedWords.forEach(word => {
+    // Escape special regex characters
+    const escapedWord = word.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+    const regex = new RegExp(`(${escapedWord})`, 'g');
+    highlightedText = highlightedText.replace(regex, `<mark style="${highlightStyle}">$1</mark>`);
+  });
+  
+  return highlightedText;
 }
 
 // Display search results
@@ -337,12 +631,78 @@ function displayResults() {
     return;
   }
   
+  // Get the search text from input for highlighting
+  const searchText = document.getElementById('searchInput').value.trim();
+  
   let html = `<h3 style="color: #d4af74; text-align: center; margin-bottom: 30px;">
     Found ${searchResults.length} results | تم العثور على ${searchResults.length} نتيجة
   </h3>`;
   
   searchResults.forEach(result => {
     const verse = result.verseData;
+    
+    // Prepare text for each language with highlighting
+    let arabicText = verse.arabic;
+    let englishText = verse.english;
+    let urduText = verse.urdu;
+    let persianText = verse.persian;
+    let translitText = verse.transliteration;
+    
+    // Apply highlighting based on match type - can apply multiple types
+    
+    // 1. Numeric word-level matches (green highlight with tooltips)
+    if (result.abjadMatch && result.abjadMatch.matchType === 'word' && result.abjadMatch.matchedWords) {
+      const matchedWordTexts = result.abjadMatch.matchedWords.map(w => w.word);
+      arabicText = highlightWordsByPosition(arabicText, verse.arabic_clean, matchedWordTexts, verse.words, true);
+    }
+    
+    // 2. Text search word matches (golden highlight with tooltips)
+    // Apply word-level highlighting for text searches that have matched words
+    if (result.matchedWords && result.matchedWords.length > 0) {
+      arabicText = highlightWordsByPosition(arabicText, verse.arabic_clean, result.matchedWords, verse.words, false);
+    } 
+    // 3. Text search phrase matches (golden highlight) - fallback for phrase-only matches
+    else if (result.matchedIn && searchText && result.matchedIn.includes('Arabic')) {
+      // Apply phrase highlighting only if no word matches
+      arabicText = highlightArabicByIndex(arabicText, verse.arabic_clean, searchText, false);
+    }
+    
+    // Apply highlighting to other languages
+    if (result.matchedIn && searchText) {
+      if (result.matchedIn.includes('English') && englishText) {
+        englishText = highlightText(englishText, searchText, false);
+      }
+      if (result.matchedIn.includes('Urdu') && urduText) {
+        urduText = highlightText(urduText, searchText, false);
+      }
+      if (result.matchedIn.includes('Persian') && persianText) {
+        persianText = highlightText(persianText, searchText, false);
+      }
+      if (result.matchedIn.includes('Transliteration') && translitText) {
+        translitText = highlightText(translitText, searchText, false);
+      }
+    }
+    
+    // Build match info
+    let matchInfo = '';
+    if (result.abjadMatch) {
+      const abjadType = result.abjadMatch.type;
+      const abjadTypeLabel = abjadType.charAt(0).toUpperCase() + abjadType.slice(1);
+      
+      if (result.abjadMatch.matchType === 'verse') {
+        matchInfo = `<div style="font-size: 13px; color: #2d7647; margin-top: 8px; font-weight: bold;">
+          ✓ Verse Match: ${abjadTypeLabel} = ${result.abjadMatch.value} (Target: ${result.abjadMatch.target})
+        </div>`;
+      } else if (result.abjadMatch.matchType === 'word' && result.abjadMatch.matchedWords) {
+        const wordsInfo = result.abjadMatch.matchedWords
+          .map(w => `${w.word} (${w.value})`)
+          .join(' • ');
+        matchInfo = `<div style="font-size: 13px; color: #2d7647; margin-top: 8px;">
+          <strong>✓ ${result.abjadMatch.matchedWords.length} word(s) matched in ${abjadTypeLabel}:</strong> ${wordsInfo}
+        </div>`;
+      }
+    }
+    
     html += `
       <div class="result-item">
         <div class="result-header">
@@ -356,17 +716,14 @@ function displayResults() {
           </div>
         </div>
         <div class="result-text">
-          <div class="result-arabic">${verse.arabic}</div>
-          ${verse.english ? `<div class="result-translation" style="padding-top: 10px; border-top: 1px solid rgba(143, 104, 26, 0.2);"><strong>English:</strong> ${verse.english}</div>` : ''}
-          ${verse.urdu ? `<div class="result-translation" dir="rtl" style="padding-top: 10px; border-top: 1px solid rgba(143, 104, 26, 0.2);"><strong>اردو:</strong> ${verse.urdu}</div>` : ''}
-          ${verse.persian ? `<div class="result-translation" dir="rtl" style="padding-top: 10px; border-top: 1px solid rgba(143, 104, 26, 0.2);"><strong>فارسی:</strong> ${verse.persian}</div>` : ''}
-          ${verse.transliteration ? `<div class="result-translation" style="padding-top: 10px; border-top: 1px solid rgba(143, 104, 26, 0.2);"><strong>Transliteration:</strong> ${verse.transliteration}</div>` : ''}
+          <div class="result-arabic">${arabicText}</div>
+          ${englishText ? `<div class="result-translation" style="padding-top: 10px; border-top: 1px solid rgba(143, 104, 26, 0.2);"><strong>English:</strong> ${englishText}</div>` : ''}
+          ${urduText ? `<div class="result-translation" dir="rtl" style="padding-top: 10px; border-top: 1px solid rgba(143, 104, 26, 0.2);"><strong>اردو:</strong> ${urduText}</div>` : ''}
+          ${persianText ? `<div class="result-translation" dir="rtl" style="padding-top: 10px; border-top: 1px solid rgba(143, 104, 26, 0.2);"><strong>فارسی:</strong> ${persianText}</div>` : ''}
+          ${translitText ? `<div class="result-translation" style="padding-top: 10px; border-top: 1px solid rgba(143, 104, 26, 0.2);"><strong>Transliteration:</strong> ${translitText}</div>` : ''}
         </div>
         ${result.matchedIn ? `<div style="font-size: 14px; color: #5a3e2f; margin-top: 10px;">Matched in: ${result.matchedIn.join(', ')}</div>` : ''}
-        ${result.abjadMatch ? `<div style="font-size: 14px; color: #2d7647; margin-top: 10px; font-weight: bold;">
-          ${result.abjadMatch.type.charAt(0).toUpperCase() + result.abjadMatch.type.slice(1)}: ${result.abjadMatch.value} 
-          (Target: ${result.abjadMatch.target})
-        </div>` : ''}
+        ${matchInfo}
       </div>
     `;
   });
