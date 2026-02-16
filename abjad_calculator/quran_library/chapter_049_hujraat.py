@@ -145,7 +145,7 @@ ayats = [
   {
     "verse_number": 18,
     "english_text": "Indeed, Allah is aware of every unseen of the skies and the earth, and He is seeing all your deeds.",
-    "arabic_text": "اِنَّ اللّٰهَ يَعْلَمُ غَيْبَ السَّمَـٰوَٰتِ وَالْاَرْضِ ۚ وَ اللّٰهُ بَصِيرٌۢ بِمَا تَعْمَلُونَ",
+    "arabic_text": "اِنَّ اللّٰهَ يَعْلَمُ غَيْبَ السَّمَـٰوَٰتِ وَ الْاَرْضِ ۚ وَ اللّٰهُ بَصِيرٌۢ بِمَا تَعْمَلُونَ",
     "urdu_text": "بیشک اللہ آسمانوں اور زمین کی ہر پوشیدہ چیز کو جانتا ہے، اور اللہ تمہارے تمام اعمال کو دیکھنے والا ہے۔",
     "persian_text": "همانا خداوند غیب آسمان‌ها و زمین را می‌داند، و خداوند به آنچه انجام می‌دهید بینا است.",
     "transliteration": "Inna Allāha ya'lamu ghayba al-samāwāti wa al-arḍi wa Allāhu baṣīrun bimā ta'malūn"

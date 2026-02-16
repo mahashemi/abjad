@@ -361,7 +361,7 @@ ayats = [
   {
     "verse_number": 45,
     "english_text": "And Nooh cried out O my Lord, my son is from me, and Your promise truth, and You are the best decider.",
-    "arabic_text": "وَنَادَىٰ نُوحٌ رَّبَّهُ فَقَالَ رَبِّ اِنَّ ابْنِي مِنْ اَهْلِي وَاِنَّ وَعْدَكَ الْحَقُّ وَاَنتَ اَحْكَمُ الْحَاكِمِينَ",
+    "arabic_text": "وَنَادَىٰ نُوحٌ رَّبَّهُ فَقَالَ رَبِّ اِنَّ ابْنِي مِنْ اَهْلِي وَ اِنَّ وَعْدَكَ الْحَقُّ وَاَنتَ اَحْكَمُ الْحَاكِمِينَ",
     "urdu_text": "اور نوح نے اپنے رب کو پکارا اور کها: اے میرے رب! بے شک میرا بیٹا میرے گھر والوں میں سے هے، اور بے شک تیرا وعده سچا هے، اور تو سب فیصله کرنے والوں سے بهتر هے۔",
     "persian_text": "و نوح پروردگارش را ندا داد و گفت: پروردگارا! همانا فرزندم از خانواده من است، و همانا وعده تو حق است، و تو بهترین داوران هستی.",
     "transliteration": "Wa nada noohun rabbahu fa-qaala rabbi inna ibnee min ahlee wa inna wa'dakal-haqqu wa anta ahkamul-hakimeen"
@@ -889,7 +889,7 @@ ayats = [
   {
     "verse_number": 111,
     "english_text": "And there is not an iota of doubt that your Lord will Verily (and suitably) reward them for their (whatever) deeds, because He is fully aware of their doings.",
-    "arabic_text": "وَاِنَّ كُلًّا لَّمَّا لَيُوَفِّيَنَّهُمْ رَبُّكَ اَعْمَالَهُمْ ۚ اِنَّهُ بِمَا يَعْمَلُونَ خَبِيرٌ",
+    "arabic_text": "وَ اِنَّ كُلًّا لَّمَّا لَيُوَفِّيَنَّهُمْ رَبُّكَ اَعْمَالَهُمْ ۚ اِنَّهُ بِمَا يَعْمَلُونَ خَبِيرٌ",
     "urdu_text": "اور بے شک تمهارا رب هر ایک کو ان کے اعمال کا پورا بدله دے گا، بیشک وه ان کے کاموں سے پوری طرح باخبر هے",
     "persian_text": "و بی‌تردید پروردگار تو به همه آنان اعمالشان را به طور کامل جزا خواهد داد، زیرا او به آنچه انجام می‌دهند کاملاً آگاه است",
     "transliteration": "Wa inna kullan lamma layuwaffiyannahum rabbuka a'malahum innahu bima ya'maluna khabir"
@@ -913,7 +913,7 @@ ayats = [
   {
     "verse_number": 114,
     "english_text": "O Prophet! establish prayer in both part of the day and after passage of some part of night, because good acts Verily drive away evils, and it is an advice and lesson for those who remember Us.",
-    "arabic_text": "وَاَقِمِ الصَّلٰوةَ طَرَفَيِ النَّهَارِ وَزُلَفًا مِّنَ اللَّيْلِ ۚ اِنَّ الْحَسَنَاتِ يُذْهِبْنَ السَّيِّاٰتِ ۚ ذَٰلِكَ ذِكْرَىٰ لِلذَّاكِرِينَ",
+    "arabic_text": "وَاَقِمِ الصَّلٰوةَ طَرَفَيِ النَّهَارِ وَزُلَفًا مِّنَ اللَّيْلِ ۚ اِنَّ الْحَسَنٰتِ يُذْهِبْنَ السَّيِّاٰتِ ۚ ذَٰلِكَ ذِكْرَىٰ لِلذَّاكِرِينَ",
     "urdu_text": "اور اے نبی دن کے دونوں کناروں میں اور رات کے کچھ حصوں میں نماز قائم کرو، بیشک نیکیاں برائیوں کو دور کر دیتی هیں، یه نصیحت هے یاد رکھنے والوں کے لیے",
     "persian_text": "و ای پیامبر نماز را در دو طرف روز و در ساعاتی از شب برپا دار، زیرا نیکی‌ها بدی‌ها را از بین می‌برند، این پندی است برای یادآورندگان",
     "transliteration": "Wa aqimis salata tarafayin nahari wa zulafam minal layl innal hasanati yudhhibus sayyi'at dhalika dhikra lidh-dhakirin"
@@ -961,7 +961,7 @@ ayats = [
   {
     "verse_number": 120,
     "english_text": "And (O Prophet), We relate to you all the tales of previous messengers, to strengthen your heart; and in these tales have come the truth (Quran) for you and exhortations and reminders for the believers.",
-    "arabic_text": "وَكُلًّا نَّقُصُّ عَلَيْكَ مِنْ اَنبَاءِ الرُّسُلِ مَا نُثَبِّتُ بِهِ فُؤَادَكَ ۚ وَجَاءَكَ فِي هَٰذِهِ الْحَقُّ وَمَوْعِظَةٌ وَذِكْرَىٰ لِلْمُؤْمِنِينَ",
+    "arabic_text": "وَ كُلًّا نَّقُصُّ عَلَيْكَ مِنْ اَنبَاءِ الرُّسُلِ مَا نُثَبِّتُ بِهِ فُؤَادَكَ ۚ وَجَاءَكَ فِي هَٰذِهِ الْحَقُّ وَمَوْعِظَةٌ وَذِكْرَىٰ لِلْمُؤْمِنِينَ",
     "urdu_text": "اور هم تمهیں رسولوں کے تمام واقعات سناتے هیں جن سے هم تمهارے دل کو مضبوط کرتے هیں، اور ان میں تمهارے لیے حق آیا هے اور مومنوں کے لیے نصیحت اور یاد دهانی هے",
     "persian_text": "و همه خبرهای پیامبران را برای تو بیان می‌کنیم تا دلت را محکم سازیم، و در این داستان‌ها حق و پند و یادآوری برای مؤمنان برایت آمده است",
     "transliteration": "Wa kullan naqussu 'alayka min anba'ir-rusuli ma nuthabbitu bihi fu'adak, wa ja'aka fi hadhihil-haqqu wa maw'izatun wa dhikra lil-mu'minin"
@@ -969,7 +969,7 @@ ayats = [
   {
     "verse_number": 121,
     "english_text": "And (O Prophet), those who do not believe, say to them: you do your deeds and I am doing my deeds;",
-    "arabic_text": "وَقُل لِّلَّذِينَ لَا يُؤْمِنُونَ اعْمَلُوا عَلَٰى مَكَانَتِكُمْ اِنَّا عَامِلُونَ",
+    "arabic_text": "وَقُل لِّلَّذِينَ لَا يُؤْمِنُونَ اعْمَلُوا عَلَٰى مَكَانَتِكُمْ اِنَّا عٰمِلُونَ",
     "urdu_text": "اور (اے نبی) جو لوگ ایمان نهیں لاتے ان سے کهه دیجیے که تم اپنی جگه پر اپنے کام کرتے رهو، هم اپنا کام کر رهے هیں",
     "persian_text": "و (ای پیامبر) به کسانی که ایمان نمی‌آورند بگو: شما به کار خود مشغول باشید، ما نیز به کار خود مشغولیم",
     "transliteration": "Wa qul lilladhina la yu'minuna i'malu 'ala makanatikum inna 'amilun"
@@ -985,7 +985,7 @@ ayats = [
   {
     "verse_number": 123,
     "english_text": "And all the knowledge of the unseen of skies and the earth is exclusive to Allah, and every work eventually returns to Him only, so worship Him and put your trust in Him, and whatever you do, Allah is not unaware of it.",
-    "arabic_text": "وَلِلَّهِ غَيْبُ السَّمٰوٰتِ وَالْاَرْضِ وَاِلَيْهِ يُرْجَعُ الْاَمْرُ كُلُّهُ فَاعْبُدْهُ وَتَوَكَّلْ عَلَيْهِ ۚ وَ مَا رَبُّكَ بِغَافِلٍ عَمَّا تَعْمَلُونَ",
+    "arabic_text": "وَلِلّٰهِ غَيْبُ السَّمٰوٰتِ وَ الْاَرْضِ وَاِلَيْهِ يُرْجَعُ الْاَمْرُ كُلُّهُ فَاعْبُدْهُ وَ تَوَكَّلْ عَلَيْهِ ۚ وَ مَا رَبُّكَ بِغَافِلٍ عَمَّا تَعْمَلُونَ",
     "urdu_text": "اور آسمانوں اور زمین کے تمام غیب کا علم صرف الله کے لیے هے، اور هر کام اسی کی طرف لوٹتا هے، پس اسی کی عبادت کرو اور اسی پر بھروسه کرو، اور جو کچھ تم کرتے هو تمهارا رب اس سے غافل نهیں هے",
     "persian_text": "و علم غیب آسمان‌ها و زمین تنها از آن خداست، و همه کارها به سوی او بازمی‌گردد، پس او را عبادت کن و بر او توکل نما، و پروردگار تو از آنچه انجام می‌دهید غافل نیست",
     "transliteration": "Wa lillahi ghaybus samawati wal-ardi wa ilayhi yurja'ul amru kulluhu fa'budhu wa tawakkal 'alayh, wa ma rabbuka bighafilin 'amma ta'malun"

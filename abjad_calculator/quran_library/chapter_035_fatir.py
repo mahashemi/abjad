@@ -9,7 +9,7 @@ ayats = [
   {
     "verse_number": 1,
     "english_text": "All the Praises are for Allah, the creator of the skies and the earth, who makes angels his messengers, the angels who have two-two, three-three, and four-four wings, and increases the creation as much He pleases; indeed, He has power over everything.",
-    "arabic_text": "الْحَمْدُ لِلَّهِ فَاطِرِ السَّمَـٰوَٰتِ وَالْاَرْضِ جَاعِلِ الْمَلَـٰٓئِكَةِ رُسُلًا اُو۟لِىٓ اَجْنِحَةٍۢ مَّثْنَىٰ وَثُلَـٰثَ وَرُبَـٰعَ ۚ يَزِيدُ فِى الْخَلْقِ مَا يَشَآءُ ۚ اِنَّ اللّٰهَ عَلَىٰ كُلِّ شَىْءٍۢ قَدِيرٌۭ",
+    "arabic_text": "الْحَمْدُ لِلَّهِ فَاطِرِ السَّمَـٰوَٰتِ وَ الْاَرْضِ جَاعِلِ الْمَلَـٰٓئِكَةِ رُسُلًا اُو۟لِىٓ اَجْنِحَةٍۢ مَّثْنَىٰ وَثُلَـٰثَ وَرُبَـٰعَ ۚ يَزِيدُ فِى الْخَلْقِ مَا يَشَآءُ ۚ اِنَّ اللّٰهَ عَلَىٰ كُلِّ شَىْءٍۢ قَدِيرٌۭ",
     "urdu_text": "تمام تعریفیں اللہ ہی کے لیے ہیں جو آسمانوں اور زمین کا پیدا کرنے والا ہے، جس نے فرشتوں کو پیغام رساں بنایا جن کے دو دو، تین تین اور چار چار پر ہیں، وہ مخلوق میں جو چاہے اضافہ فرماتا ہے، بیشک اللہ ہر چیز پر قادر ہے۔",
     "persian_text": "ستایش مخصوص خداوندی است که آفریننده آسمان‌ها و زمین است، و فرشتگان را فرستادگان قرار داده که دارای دو دو، سه سه و چهار چهار بال هستند، او در آفرینش هر چه بخواهد می‌افزاید، همانا خداوند بر هر چیزی تواناست.",
     "transliteration": "Alhamdu lillahi fatiri alssamawati waal-ardi ja'ili almala-ikati rusulan olee ajnihatin mathna wathulatha waruba'a yazeedu fee alkhalqi ma yasha-u inna Allaha 'ala kulli shay-in qadeer"
@@ -25,7 +25,7 @@ ayats = [
   {
     "verse_number": 3,
     "english_text": "O People! Remember the Blessings of Allah, no one is Creator except Him, only He give you sustenance from the skies and the earth, there is no Lord except Him, so where you are deviating.",
-    "arabic_text": "يٰٓاَيُّهَا النَّاسُ اذْكُرُواْ نِعْمَتَ اللّٰهِ عَلَيْكُمْ ۚ هَلْ مِنْ خَـٰلِقٍ غَيْرُ اللّٰهِ يَرْزُقُكُم مِّنَ السَّمَآءِ وَالْاَرْضِ ۚ لَآ اِلَـٰهَ اِلَّا هُوَ ۖ فَاَنَّىٰ تُؤْفَكُونَ",
+    "arabic_text": "يٰٓاَيُّهَا النَّاسُ اذْكُرُواْ نِعْمَتَ اللّٰهِ عَلَيْكُمْ ۚ هَلْ مِنْ خَـٰلِقٍ غَيْرُ اللّٰهِ يَرْزُقُكُم مِّنَ السَّمَآءِ وَ الْاَرْضِ ۚ لَآ اِلَـٰهَ اِلَّا هُوَ ۖ فَاَنَّىٰ تُؤْفَكُونَ",
     "urdu_text": "اے لوگو! اپنے اوپر اللہ کی نعمتوں کو یاد کرو، کیا اللہ کے سوا کوئی اور خالق ہے جو تمہیں آسمان اور زمین سے رزق دیتا ہو؟ اس کے سوا کوئی معبود نہیں، پھر تم کہاں بہکائے جا رہے ہو؟",
     "persian_text": "ای مردم! نعمت خداوند را بر خود یاد کنید، آیا آفریننده‌ای جز خداوند هست که شما را از آسمان و زمین روزی دهد؟ هیچ معبودی جز او نیست، پس چگونه منحرف می‌شوید؟",
     "transliteration": "Ya ayyuha alnnasu othkuroo ni'mata Allahi 'alaykum hal min khaliqin ghayru Allahi yarzuqukum mina alssamai waal-ardi la ilaha illa huwa faanna tu'fakoon"
@@ -305,7 +305,7 @@ ayats = [
   {
     "verse_number": 38,
     "english_text": "Verily, Allah knows the unseen of the skies and the earth, and knows the secrets hidden in the hearts.",
-    "arabic_text": "اِنَّ اللّٰهَ عَـٰلِمُ غَيْبِ السَّمَـٰوَٰتِ وَالْاَرْضِ ۚ اِنَّهُ عَلِيمٌۢ بِذَاتِ الصُّدُورِ",
+    "arabic_text": "اِنَّ اللّٰهَ عَـٰلِمُ غَيْبِ السَّمَـٰوَٰتِ وَ الْاَرْضِ ۚ اِنَّهُ عَلِيمٌۢ بِذَاتِ الصُّدُورِ",
     "urdu_text": "بیشک اللہ آسمانوں اور زمین کی تمام پوشیدہ باتوں کو جانتا ہے، بیشک وہ دلوں کے بھیدوں سے خوب واقف ہے۔",
     "persian_text": "همانا الله دانای غیب آسمان‌ها و زمین است، او به راز دل‌ها آگاه است.",
     "transliteration": "Innallaha 'alimu ghayibis samawati wal ard, innahu 'aleemum bizatis sudoor"

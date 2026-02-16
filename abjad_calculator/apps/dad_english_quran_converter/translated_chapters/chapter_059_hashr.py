@@ -9,7 +9,7 @@ ayats = [
   {
     "verse_number": 1,
     "english_text": "Whatever is in the skies and on the earth, everything is busy glorifying Allah, and He is Honorable and Owner of Wisdom.",
-    "arabic_text": "سَبَّحَ لِلَّهِ مَا فِي السَّمٰوٰتِ وَ مَا فِي الْاَرْضِ ۖ وَ هُوَ الْعَزِيزُ الْحَكِيمُ",
+    "arabic_text": "سَبَّحَ لِلّٰهِ مَا فِي السَّمٰوٰتِ وَ مَا فِي الْاَرْضِ ۖ وَ هُوَ الْعَزِيزُ الْحَكِيمُ",
     "urdu_text": "جو کچھ آسمانوں میں ہے اور جو کچھ زمین میں ہے سب اللہ کی تسبیح کرتا ہے، اور وہ غالب اور حکمت والا ہے۔",
     "persian_text": "آنچه در آسمان‌ها و آنچه در زمین است، همه تسبیح الله می‌گویند و او عزیز و حکیم است.",
     "transliteration": "Sabbaha lillahi ma fis-samawati wa ma fil-ard, wa huwal-'Azizul-Hakim"
@@ -57,7 +57,7 @@ ayats = [
   {
     "verse_number": 7,
     "english_text": "Whatever Allah has made available from the people of the towns, all belong to Allah, to His prophet, relatives of the prophet, orphans, destitute and to poor-travelers; that all the wealth may not circulate and may not remain among the wealthy people only; and take whatever prophet give you, and refrain from whatever he prohibits you, and fear Allah; for Allah is strict in punishment.",
-    "arabic_text": "مَّآ اَفَآءَ اللّٰهُ عَلَٰى رَسُولِهِ مِنْ اَهْلِ الْقُرَىٰ فَلِلَّهِ وَلِلرَّسُولِ وَلِذِى الْقُرْبَىٰ وَالْيَتَـٰمَىٰ وَالْمَسَـٰكِينِ وَابْنِ السَّبِيلِ كَىْ لَا يَكُونَ دُولَةًۢ بَيْنَ الْاَغْنِيَآءِ مِنكُمْ ۚ وَمَآ ءَاتَىٰكُمُ الرَّسُولُ فَخُذُوهُ ۖ وَ مَا نَهَىٰكُمْ عَنْهُ فَانتَهُواْ ۚ وَاتَّقُواْ اللّٰهَ ۖ اِنَّ اللّٰهَ شَدِيدُ الْعِقَابِ",
+    "arabic_text": "مَّآ اَفَآءَ اللّٰهُ عَلَٰى رَسُولِهِ مِنْ اَهْلِ الْقُرَىٰ فَلِلّٰهِ وَلِلرَّسُولِ وَلِذِى الْقُرْبَىٰ وَالْيَتَـٰمَىٰ وَالْمَسَـٰكِينِ وَابْنِ السَّبِيلِ كَىْ لَا يَكُونَ دُولَةًۢ بَيْنَ الْاَغْنِيَآءِ مِنكُمْ ۚ وَمَآ ءَاتَىٰكُمُ الرَّسُولُ فَخُذُوهُ ۖ وَ مَا نَهَىٰكُمْ عَنْهُ فَانتَهُواْ ۚ وَاتَّقُواْ اللّٰهَ ۖ اِنَّ اللّٰهَ شَدِيدُ الْعِقَابِ",
     "urdu_text": "جو مال اللہ نے بستیوں والوں سے اپنے رسول کو دلوایا وہ اللہ کا ہے اور رسول کا ہے اور قرابت داروں کا اور یتیموں کا اور مسکینوں کا اور مسافروں کا، تاکہ وہ تمہارے دولت مندوں کے درمیان ہی گردش نہ کرتا رہے، اور جو کچھ رسول تمہیں دے وہ لے لو اور جس سے منع کرے اس سے رک جاؤ، اور اللہ سے ڈرو، بیشک اللہ سخت عذاب دینے والا ہے۔",
     "persian_text": "آنچه خداوند از اهل شهرها به پیامبرش بازگردانید، از آن خداست و پیامبر و خویشاوندان و یتیمان و بینوایان و در راه ماندگان، تا میان ثروتمندان شما دست به دست نگردد، و آنچه پیامبر به شما داد بگیرید و از آنچه نهی کرد خودداری کنید، و از خدا پروا کنید، همانا خداوند سخت کیفر است.",
     "transliteration": "Maa afaa Allahu 'alaa Rasoolihi min ahli al-quraa fa lillahi wa lir-Rasooli wa li dhil-qurbaa wal-yataamaa wal-masaakeeni wabni as-sabeeli kay laa yakoona doolatan bayna al-aghniyaa'i minkum, wa maa aataakumu ar-Rasoolu fa-khudhoohu wa maa nahaakum 'anhu fantahoo, wattaqoo Allah, inna Allaha shadeedu al-'iqaab"
@@ -193,7 +193,7 @@ ayats = [
   {
     "verse_number": 24,
     "english_text": "That is Allah who creates, invents, and makes faces; to Him belong the Most Beautiful Names, every particle of the earth and the skies is busy glorifying him, and He is Honorable and has Wisdom.",
-    "arabic_text": "هُوَ اللّٰهُ الْخَـٰلِقُ الْبَارِئُ الْمُصَوِّرُ ۖ لَهُ الْاَسْمَآءُ الْحُسْنَىٰ ۚ يُسَبِّحُ لَهُ مَا فِى السَّمَـٰوَٰتِ وَالْاَرْضِ ۖ وَ هُوَ الْعَزِيزُ الْحَكِيمُ",
+    "arabic_text": "هُوَ اللّٰهُ الْخَـٰلِقُ الْبَارِئُ الْمُصَوِّرُ ۖ لَهُ الْاَسْمَآءُ الْحُسْنَىٰ ۚ يُسَبِّحُ لَهُ مَا فِى السَّمَـٰوَٰتِ وَ الْاَرْضِ ۖ وَ هُوَ الْعَزِيزُ الْحَكِيمُ",
     "urdu_text": "وہی اللہ ہے جو پیدا کرنے والا، ایجاد کرنے والا، صورتیں بنانے والا ہے، اس کے لیے بہترین نام ہیں، آسمانوں اور زمین میں جو کچھ ہے اس کی تسبیح کرتا ہے، اور وہ غالب اور حکمت والا ہے",
     "persian_text": "او خداوندی است که آفریننده، بدیع‌آفرین و صورتگر است، نام‌های نیکو از آن اوست، آنچه در آسمان‌ها و زمین است او را تسبیح می‌گوید، و او عزیز حکیم است",
     "transliteration": "Huwa Allahu al-Khaliqu al-Bari'u al-Musawwir, lahu al-asma'u al-husna, yusabbihu lahu ma fi as-samawati wa al-ard, wa Huwa al-'Azizu al-Hakim"

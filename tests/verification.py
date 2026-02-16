@@ -53,6 +53,12 @@ for dir in dirs:
     total_malfuzi = 0
     total_bayenati = 0
     
+    # Initialize subtotals for every 10 ayas
+    subtotal_qamari = 0
+    subtotal_malfuzi = 0
+    subtotal_bayenati = 0
+    aya_counter = 0
+    
     json_dir = os.path.join(debug_dir, dir)
     if not os.path.exists(json_dir):
         print(f"  Warning: Directory {json_dir} does not exist")
@@ -91,6 +97,12 @@ for dir in dirs:
                     total_malfuzi += aya_malfuzi
                     total_bayenati += aya_bayenati
                     
+                    # Update subtotals for every 10 ayas
+                    subtotal_qamari += aya_qamari
+                    subtotal_malfuzi += aya_malfuzi
+                    subtotal_bayenati += aya_bayenati
+                    aya_counter += 1
+                    
                     # Add aya data row
                     aya_row = {
                         'type': 'aya',
@@ -102,10 +114,52 @@ for dir in dirs:
                         'bayenati': aya_bayenati
                     }
                     all_data.append(aya_row)
+                    
+                    # Add subtotal row after every 10 ayas
+                    if aya_counter % 10 == 0:
+                        subtotal_row = {
+                            'type': 'subtotal',
+                            'surah_number': surah_number,
+                            'surah': f"Subtotal (Ayas {aya_counter - 9}-{aya_counter})",
+                            'aya_number': '',
+                            'qamari': subtotal_qamari,
+                            'malfuzi': subtotal_malfuzi,
+                            'bayenati': subtotal_bayenati
+                        }
+                        all_data.append(subtotal_row)
+                        print(f"    Added subtotal for ayas {aya_counter - 9}-{aya_counter} - Q:{subtotal_qamari}, M:{subtotal_malfuzi}, B:{subtotal_bayenati}")
+                        
+                        # Add break (empty row) after subtotal
+                        empty_row = {col: '' for col in subtotal_row.keys()}
+                        all_data.append(empty_row)
+                        
+                        # Reset subtotals
+                        subtotal_qamari = 0
+                        subtotal_malfuzi = 0
+                        subtotal_bayenati = 0
             except Exception as e:
                 print(f"    Error reading JSON: {e}")
         else:
             print(f"    File does not exist")
+    
+    # Add final subtotal if there are remaining ayas (less than 10)
+    if aya_counter % 10 != 0 and aya_counter > 0:
+        start_aya = (aya_counter // 10) * 10 + 1
+        subtotal_row = {
+            'type': 'subtotal',
+            'surah_number': surah_number,
+            'surah': f"Subtotal (Ayas {start_aya}-{aya_counter})",
+            'aya_number': '',
+            'qamari': subtotal_qamari,
+            'malfuzi': subtotal_malfuzi,
+            'bayenati': subtotal_bayenati
+        }
+        all_data.append(subtotal_row)
+        print(f"    Added final subtotal for ayas {start_aya}-{aya_counter} - Q:{subtotal_qamari}, M:{subtotal_malfuzi}, B:{subtotal_bayenati}")
+        
+        # Add break (empty row) after subtotal
+        empty_row = {col: '' for col in subtotal_row.keys()}
+        all_data.append(empty_row)
         
     # Add sura total row
     total_row = {
@@ -171,6 +225,11 @@ with pd.ExcelWriter('verification_detailed.xlsx', engine='openpyxl') as writer:
     total_font = Font(bold=True, color='008000')
     total_fill = PatternFill(start_color='F0FFF0', end_color='F0FFF0', fill_type='solid')
     
+    # Subtotal row formatting
+    subtotal_font = Font(bold=True, color='FF8C00')
+    subtotal_fill = PatternFill(start_color='FFF8DC', end_color='FFF8DC', fill_type='solid')
+    
+    # Apply formatting to data rows
     # Apply formatting to data rows
     for row_num, row in enumerate(worksheet.iter_rows(min_row=2), start=2):
         if row[0].value == 'separator':
@@ -182,6 +241,10 @@ with pd.ExcelWriter('verification_detailed.xlsx', engine='openpyxl') as writer:
             for cell in row:
                 cell.font = total_font
                 cell.fill = total_fill
+        elif row[0].value == 'subtotal':
+            for cell in row:
+                cell.font = subtotal_font
+                cell.fill = subtotal_fill
     
     # Adjust column widths
     column_widths = [8, 12, 25, 10, 10, 10, 10]

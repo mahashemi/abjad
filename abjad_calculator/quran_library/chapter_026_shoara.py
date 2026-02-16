@@ -193,7 +193,7 @@ ayats = [
   {
     "verse_number": 24,
     "english_text": "Moosa said: He is the Lord of the skies and the earth and whatever is in between them, if you can believe.",
-    "arabic_text": "قَالَ رَبُّ السَّمَـٰوَٰتِ وَالْاَرْضِ وَ مَا بَيْنَهُمَآ ۖ اِن كُنتُم مُّوقِنِينَ",
+    "arabic_text": "قَالَ رَبُّ السَّمَـٰوَٰتِ وَ الْاَرْضِ وَ مَا بَيْنَهُمَآ ۖ اِن كُنتُم مُّوقِنِينَ",
     "urdu_text": "موسیٰ نے کها: وه آسمانوں اور زمین کا رب هے اور جو کچھ ان دونوں کے درمیان هے، اگر تم یقین رکھنے والے هو۔",
     "persian_text": "موسی گفت: او پروردگار آسمان‌ها و زمین و آنچه میان آنهاست، اگر یقین دارید.",
     "transliteration": "Qāla rabbus-samāwāti wal-arḍi wa mā baynahumā in kuntum mūqinīn"

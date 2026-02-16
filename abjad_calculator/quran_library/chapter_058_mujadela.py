@@ -10,7 +10,7 @@ ayats = [
   {
     "verse_number": 2,
     "english_text": "Those people who do Zihaar with their wives, their wives cannot be their mothers, mothers are only those who gave birth to them, and they say very evil and false talk, and Allah is all Pardoning and all Forgiving.",
-    "arabic_text": "الَّذِينَ يُظَٰهِرُونَ مِنكُم مِّن نِّسَآئِهِم مَّا هُنَّ اُمَّهَٰتِهِمْ ۖ اِنْ اُمَّهَٰتُهُمْ اِلَّا الَّٰـٓـِٔى وَلَدْنَهُمْ ۚ وَ اِنَّهُمْ لَيَقُولُونَ مُنكَرًا مِّنَ الْقَوْلِ وَزُورًا ۚ وَاِنَّ اللّٰهَ لَعَفُوٌّ غَفُورٌۭ",
+    "arabic_text": "الَّذِينَ يُظَٰهِرُونَ مِنكُم مِّن نِّسَآئِهِم مَّا هُنَّ اُمَّهَٰتِهِمْ ۖ اِنْ اُمَّهَٰتُهُمْ اِلَّا الَّٰـٓـِٔى وَلَدْنَهُمْ ۚ وَ اِنَّهُمْ لَيَقُولُونَ مُنكَرًا مِّنَ الْقَوْلِ وَزُورًا ۚ وَ اِنَّ اللّٰهَ لَعَفُوٌّ غَفُورٌۭ",
     "urdu_text": "تم میں سے جو لوگ اپنی بیویوں سے ظہار کرتے ہیں، وہ ان کی مائیں نہیں ہیں، ان کی مائیں تو صرف وہی ہیں جنہوں نے انہیں جنا ہے، اور بیشک وہ بری اور جھوٹی بات کہتے ہیں، اور بیشک اللہ معاف کرنے والا بخشنے والا ہے",
     "persian_text": "کسانی از شما که با زنان خود ظهار می‌کنند، آنان مادران ایشان نیستند، مادرانشان تنها کسانی هستند که آنها را زاییده‌اند، و همانا آنان سخنی زشت و دروغ می‌گویند، و همانا خداوند بخشنده آمرزنده است",
     "transliteration": "Alladhina yudhahiruna minkum min nisa'ihim ma hunna ummahatuhum in ummahatuhum illal-la'i waladnahum wa innahum layaquluna munkaram minal-qawli wa zura wa innAllaha la'afuwwun ghafur",

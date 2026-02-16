@@ -57,7 +57,7 @@ ayats = [
   {
     "verse_number": 7,
     "english_text": "Whatever is between skies and the earth and between them belong to the Lord, if you are believing.",
-    "arabic_text": "رَبِّ السَّمَـٰوَٰتِ وَالْاَرْضِ وَ مَا بَيْنَهُمَآ ۖ اِن كُنتُم مُّوقِنِينَ",
+    "arabic_text": "رَبِّ السَّمَـٰوَٰتِ وَ الْاَرْضِ وَ مَا بَيْنَهُمَآ ۖ اِن كُنتُم مُّوقِنِينَ",
     "urdu_text": "آسمانوں اور زمین اور جو کچھ ان کے درمیان هے سب کا رب هے، اگر تم یقین رکھنے والے هو",
     "persian_text": "پروردگار آسمان‌ها و زمین و آنچه میان آنهاست، اگر اهل یقین هستید",
     "transliteration": "Rabbis-samaawaati wal-ardi wa maa baynahumaa, in kuntum mooqineen"

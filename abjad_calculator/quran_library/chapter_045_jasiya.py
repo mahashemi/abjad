@@ -25,7 +25,7 @@ ayats = [
   {
     "verse_number": 3,
     "english_text": "Verily, in the skies and the earth many signs are found for the believers.",
-    "arabic_text": "اِنَّ فِى السَّمَـٰوَٰتِ وَالْاَرْضِ لَـَٔايَـٰتٍۢ لِّلْمُؤْمِنِينَ",
+    "arabic_text": "اِنَّ فِى السَّمَـٰوَٰتِ وَ الْاَرْضِ لَـَٔايَـٰتٍۢ لِّلْمُؤْمِنِينَ",
     "urdu_text": "بیشک آسمانوں اور زمین میں ایمان والوں کے لیے بهت سی نشانیاں هیں۔",
     "persian_text": "به راستی در آسمان‌ها و زمین نشانه‌های بسیاری برای مؤمنان است.",
     "transliteration": "Inna fis-samaawaati wal-ardi la-Aayaatil-lilmu'mineen"
@@ -217,7 +217,7 @@ ayats = [
   {
     "verse_number": 27,
     "english_text": "And the Kingdom of the earth and the sky is of Allah, and when the Day of Judgement will be established Verily that day people of falsehood will be at a loss.",
-    "arabic_text": "وَلِلَّهِ مُلْكُ السَّمَـٰوَٰتِ وَالْاَرْضِ ۚ وَ يَوْمَ تَقُومُ السَّاعَةُ يَوْمَئِذٍۢ يَخْسَرُ الْمُبْطِلُونَ",
+    "arabic_text": "وَلِلَّهِ مُلْكُ السَّمَـٰوَٰتِ وَ الْاَرْضِ ۚ وَ يَوْمَ تَقُومُ السَّاعَةُ يَوْمَئِذٍۢ يَخْسَرُ الْمُبْطِلُونَ",
     "urdu_text": "اور آسمانوں اور زمین کی بادشاهی الله کی هے، اور جب قیامت کا دن قائم هو گا تو یقیناً اس دن باطل پرست لوگ خسارے میں هوں گے۔",
     "persian_text": "و فرمانروایی آسمان‌ها و زمین از آن خداست، و روزی که قیامت برپا شود، در آن روز اهل باطل زیان‌کار خواهند بود.",
     "transliteration": "Wa lillāhi mulku as-samāwāti wa al-arḍ, wa yawma taqūmu as-sā'atu yawma'idhin yakhsaru al-mubṭilūn"
@@ -297,7 +297,7 @@ ayats = [
   {
     "verse_number": 37,
     "english_text": "Greatness is His in the skies and the earth, and He is Honorable and has Wisdom.",
-    "arabic_text": "وَلَهُ الْكِبْرِيَآءُ فِى السَّمَـٰوَٰتِ وَالْاَرْضِ ۖ وَهُوَ الْعَزِيزُ الْحَكِيمُ",
+    "arabic_text": "وَلَهُ الْكِبْرِيَآءُ فِى السَّمَـٰوَٰتِ وَ الْاَرْضِ ۖ وَهُوَ الْعَزِيزُ الْحَكِيمُ",
     "urdu_text": "اور عظمت اسی کی هے آسمانوں اور زمین میں، اور وه غالب اور حکمت والا هے۔",
     "persian_text": "و بزرگی و عظمت از آن اوست در آسمان‌ها و زمین، و او عزیز و حکیم است.",
     "transliteration": "Wa lahul-kibriyaaa'u fis-samaawaati wal-ardi wa huwal-'azeezul-hakeem"

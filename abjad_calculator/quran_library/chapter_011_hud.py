@@ -690,7 +690,7 @@ ayats = [
   {
     "verse_number": 87,
     "english_text": "They said: O Shoaib, does your prayer command that we should leave off whom our forefathers had worshipped, or we cannot spend our wealth as we want, and that you only have remained tolerant and sensible?",
-    "arabic_text": "قَالُوْا يٰشُعَيْبُ اَصَلٰوتُكَ تَاْمُرُكَ اَن نَّتْرُكَ مَا يَعْبُدُ آبَآؤُنَا اَوْ اَن نَّفْعَلَ فِى اَمْوَالِنَا مَا نَشٰٓؤُ ۖ اِنَّكَ لَاَنتَ الْحَلِيمُ الرَّشِيدُ",
+    "arabic_text": "قَالُوْا يٰشُعَيْبُ اَصَلٰوتُكَ تَاْمُرُكَ اَن نَّتْرُكَ مَا يَعْبُدُ آبَآؤُنَا اَوْ اَن نَّفْعَلَ فِى اَمْوَالِنَا مَا نَشٰٓؤُا  ۖ اِنَّكَ لَاَنتَ الْحَلِيمُ الرَّشِيدُ",
     "urdu_text": "انہوں نے کہا اے شعیب! کیا تیری نماز تجھے یہ حکم دیتی ہے کہ ہم ان کو چھوڑ دیں جن کی ہمارے باپ دادا عبادت کرتے تھے، یا ہم اپنے مال میں جو چاہیں نہ کریں؟ بیشک تو ہی بڑا بردبار اور سمجھدار ہے",
     "persian_text": "گفتند: ای شعیب! آیا نماز تو به تو فرمان می‌دهد که آنچه را پدرانمان می‌پرستیدند رها کنیم، یا در اموال خود هر چه بخواهیم نکنیم؟ به راستی تو همان بردبار و رشیدی",
     "transliteration": "Qaaloo yaa Shu'aybu a-salaatuka ta'muruka an natruka maa ya'budu aabaaunaa aw an naf'ala fee amwaalinaa maa nashaa', innaka la-antal haleemur rasheed",
@@ -722,7 +722,7 @@ ayats = [
   {
     "verse_number": 91,
     "english_text": "Those people were saying: O Shoaib, whatever you say, much of it we don't understand, and certainly we consider you very weak among us, if your clan was not there we would already had stoned you, and you cannot dominate us.",
-    "arabic_text": "قَالُوْا يٰشُعَيْبُ مَا نَفْقَهُ كَثِيرًا مِمَّا تَقُولُ وَ اِنَّا لَنَرٰكَ فِينَا ضَعِيفًا وَ لَوْلَا رَهْطُكَ لَرَجَمْنَاكَ وَ مَا اَنْتَ عَلَيْنَا بِعَزِيزٍ",
+    "arabic_text": "قَالُوْا يٰشُعَيْبُ مَا نَفْقَهُ كَثِيرًا مِمَّا تَقُولُ وَ اِنَّا لَنَرٰكَ فِينَا ضَعِيفًا وَ لَوْلَا رَهْطُكَ لَرَجَمْنٰكَ وَ مَا اَنْتَ عَلَيْنَا بِعَزِيزٍ",
     "urdu_text": "انہوں نے کہا: اے شعیب! جو کچھ تم کہتے ہو ہم اس میں سے بہت کچھ نہیں سمجھتے، اور ہم تو تمہیں اپنے درمیان کمزور سمجھتے ہیں، اور اگر تمہارا قبیلہ نہ ہوتا تو ہم تمہیں سنگسار کر دیتے، اور تم ہم پر کوئی زور نہیں رکھتے۔",
     "persian_text": "گفتند: ای شعیب! بسیاری از آنچه می‌گویی نمی‌فهمیم و ما تو را در میان خود ضعیف می‌بینیم، و اگر قبیله‌ات نبود تو را سنگسار می‌کردیم، و تو بر ما عزیز و قدرتمند نیستی.",
     "transliteration": "Qalu ya Shu'aybu ma nafqahu kathiran mimma taqulu wa inna lanaraka feena da'eefan wa lawla rahtuka larajamnaka wa ma anta 'alayna bi'azeez",
@@ -882,7 +882,7 @@ ayats = [
   {
     "verse_number": 111,
     "english_text": "And there is not an iota of doubt that your Lord will Verily (and suitably) reward them for their (whatever) deeds, because He is fully aware of their doings.",
-    "arabic_text": "وَاِنَّ كُلًّا لَّمَّا لَيُوَفِّيَنَّهُمْ رَبُّكَ اَعْمَالَهُمْ ۚ اِنَّهُ بِمَا يَعْمَلُونَ خَبِيرٌ",
+    "arabic_text": "وَ اِنَّ كُلًّا لَّمَّا لَيُوَفِّيَنَّهُمْ رَبُّكَ اَعْمَالَهُمْ ۚ اِنَّهُ بِمَا يَعْمَلُونَ خَبِيرٌ",
     "urdu_text": "اور بے شک تمہارا رب ہر ایک کو ان کے اعمال کا پورا بدلہ دے گا، بیشک وہ ان کے کاموں سے پوری طرح باخبر ہے",
     "persian_text": "و بی‌تردید پروردگار تو به همه آنان اعمالشان را به طور کامل جزا خواهد داد، زیرا او به آنچه انجام می‌دهند کاملاً آگاه است",
     "transliteration": "Wa inna kullan lamma layuwaffiyannahum rabbuka a'malahum innahu bima ya'maluna khabir",
@@ -906,7 +906,7 @@ ayats = [
   {
     "verse_number": 114,
     "english_text": "O Prophet! establish prayer in both part of the day and after passage of some part of night, because good acts Verily drive away evils, and it is an advice and lesson for those who remember Us.",
-    "arabic_text": "وَاَقِمِ الصَّلٰوةَ طَرَفَيِ النَّهَارِ وَزُلَفًا مِّنَ اللَّيْلِ ۚ اِنَّ الْحَسَنَاتِ يُذْهِبْنَ السَّيِّاٰتِ ۚ ذٰلِكَ ذِكْرَىٰ لِلذَّاكِرِينَ",
+    "arabic_text": "وَ اَقِمِ الصَّلٰوةَ طَرَفَيِ النَّهَارِ وَ زُلَفًا مِّنَ الَّيْلِ ۚ اِنَّ الْحَسَنٰتِ يُذْهِبْنَ السَّيِّاٰتِ ۚ ذٰلِكَ ذِكْرَىٰ لِلذّٰكِرِينَ",
     "urdu_text": "اور اے نبی دن کے دونوں کناروں میں اور رات کے کچھ حصوں میں نماز قائم کرو، بیشک نیکیاں برائیوں کو دور کر دیتی ہیں، یہ نصیحت ہے یاد رکھنے والوں کے لیے",
     "persian_text": "و ای پیامبر نماز را در دو طرف روز و در ساعاتی از شب برپا دار، زیرا نیکی‌ها بدی‌ها را از بین می‌برند، این پندی است برای یادآورندگان",
     "transliteration": "Wa aqimis salata tarafayin nahari wa zulafam minal layl innal hasanati yudhhibus sayyi'at dhalika dhikra lidh-dhakirin",
@@ -914,7 +914,7 @@ ayats = [
   {
     "verse_number": 115,
     "english_text": "And (O Prophet), be patient because Allah does not waste the good deeds.",
-    "arabic_text": "وَاصْبِرْ فَاِنَّ اللّٰهَ لَا يُضِيعُ اَجْرَ الْمُحْسِنِينَ",
+    "arabic_text": "وَ اصْبِرْ فَاِنَّ اللّٰهَ لَا يُضِيعُ اَجْرَ الْمُحْسِنِينَ",
     "urdu_text": "اور اے نبی صبر کرو کیونکہ اللہ نیکی کرنے والوں کا اجر ضائع نہیں کرتا",
     "persian_text": "و ای پیامبر صبر کن، زیرا خداوند پاداش نیکوکاران را تباه نمی‌کند",
     "transliteration": "Wasbir fa innallaha la yudi'u ajral muhsinin",
@@ -922,7 +922,7 @@ ayats = [
   {
     "verse_number": 116,
     "english_text": "Those who have passed by before you, why some of them were not sensible, who could have deterred people from spreading corruption. (there were such people, but very few), and those were they whom We saved (from punishment), and those who had disobeyed, they were enjoying plenty from what We have given them; and those were guilty people.",
-    "arabic_text": "فَلَوْلَا كَانَ مِنَ الْقُرُونِ مِن قَبْلِكُمْ اُولُو بَقِيَّةٍ يَنْهَوْنَ عَنِ الْفَسَادِ فِى الْاَرْضِ اِلَّا قَلِيلًا مِمَّنْ اَنجَيْنَا مِنْهُمْ ۗ وَاتَّبَعَ الَّذِينَ ظَلَمُوا مَا اُتْرِفُوا فِيهِ وَكَانُوا مُجْرِمِينَ",
+    "arabic_text": "فَلَوْلَا كَانَ مِنَ الْقُرُونِ مِن قَبْلِكُمْ اُولُوا بَقِيَّةٍ يَّنْهَوْنَ عَنِ الْفَسَادِ فِى الْاَرْضِ اِلَّا قَلِيلًا مِمَّنْ اَنجَيْنَا مِنْهُمْ ۗ وَ اتَّبَعَ الَّذِينَ ظَلَمُوا مَا اُتْرِفُوا فِيهِ وَ كَانُوا مُجْرِمِينَ",
     "urdu_text": "پھر تم سے پہلے کی امتوں میں ایسے صاحب عقل لوگ کیوں نہ ہوئے جو زمین میں فساد سے منع کرتے، سوائے تھوڑے سے لوگوں کے جن کو ہم نے ان میں سے بچا لیا، اور ظالموں نے ان نعمتوں کی پیروی کی جن میں انہیں فراخی دی گئی تھی اور وہ مجرم لوگ تھے",
     "persian_text": "چرا از امت‌های پیش از شما، صاحبان خردی نبودند که مردم را از فساد در زمین باز دارند، مگر عده کمی از کسانی که آنها را نجات دادیم، و ستمکاران از نعمت‌هایی که به آنها داده شده بود پیروی کردند و آنها مجرمان بودند",
     "transliteration": "Falawla kana minal-qurooni min qablikum ulu baqiyyatin yanhawna 'anil-fasadi fil-ardi illa qalilan mimman anjayna minhum, wattaba'al-ladhina zalamu ma utrifu fihi wa kanu mujrimin",
@@ -930,7 +930,7 @@ ayats = [
   {
     "verse_number": 117,
     "english_text": "And your Lord was never such (unjust) that He will destroy the towns of which people have acted well.",
-    "arabic_text": "وَ مَا كَانَ رَبُّكَ لِيُهْلِكَ الْقُرٰى بِظُلْمٍ وَاَهْلُهَا مُصْلِحُونَ",
+    "arabic_text": "وَ مَا كَانَ رَبُّكَ لِيُهْلِكَ الْقُرٰى بِظُلْمٍ وَ اَهْلُهَا مُصْلِحُونَ",
     "urdu_text": "اور تمہارا رب ایسا نہیں کہ وہ بستیوں کو ظلم سے ہلاک کر دے جبکہ ان کے لوگ نیکوکار ہوں",
     "persian_text": "و پروردگار تو هرگز چنین نیست که شهرها را به ستم هلاک کند در حالی که مردمش نیکوکار باشند",
     "transliteration": "Wa ma kana rabbuka liyuhlikal-qura bizulmin wa ahluha muslihun",
@@ -946,7 +946,7 @@ ayats = [
   {
     "verse_number": 119,
     "english_text": "Only if your Lord shows Mercy, and He has created them for that, and because of this your Lord's definite command is completed, We will certainly fill the Hell, with the jinn and men.",
-    "arabic_text": "اِلَّا مَن رَّحِمَ رَبُّكَ ۚ وَلِذٰلِكَ خَلَقَهُمْ ۗ وَتَمَّتْ كَلِمَةُ رَبِّكَ لَاَمْلَاَنَّ جَهَنَّمَ مِنَ الْجِنَّةِ وَالنَّاسِ اَجْمَعِينَ",
+    "arabic_text": "اِلَّا مَن رَّحِمَ رَبُّكَ ۚ وَ لِذٰلِكَ خَلَقَهُمْ ۗ وَ تَمَّتْ كَلِمَةُ رَبِّكَ لَاَمْلَاَنَّ جَهَنَّمَ مِنَ الْجِنَّةِ وَ النَّاسِ اَجْمَعِينَ",
     "urdu_text": "سوائے ان کے جن پر تمہارے رب نے رحم کیا، اور اسی لیے اس نے انہیں پیدا کیا، اور تمہارے رب کا فرمان پورا ہو گیا کہ میں ضرور جہنم کو جنوں اور انسانوں سے بھر دوں گا",
     "persian_text": "مگر کسی که پروردگارت رحم کند، و برای همین آنها را آفرید، و فرمان پروردگارت تمام شد که جهنم را از جن و انس همگی پر خواهم کرد",
     "transliteration": "Illa man rahima rabbuk, wa lidhalika khalaqahum, wa tammat kalimatu rabbika la'amla'anna jahannama minal-jinnati wannasi ajma'in",
@@ -954,7 +954,7 @@ ayats = [
   {
     "verse_number": 120,
     "english_text": "And (O Prophet), We relate to you all the tales of previous messengers, to strengthen your heart; and in these tales have come the truth (Quran) for you and exhortations and reminders for the believers.",
-    "arabic_text": "وَكُلًّا نَّقُصُّ عَلَيْكَ مِنْ اَنبَاءِ الرُّسُلِ مَا نُثَبِّتُ بِهِ فُؤَادَكَ ۚ وَجَآءَكَ فِى هٰذِهِ الْحَقُّ وَمَوْعِظَةٌ وَذِكْرَىٰ لِلْمُؤْمِنِينَ",
+    "arabic_text": "وَ كُلًّا نَّقُصُّ عَلَيْكَ مِنْ اَنبَاءِ الرُّسُلِ مَا نُثَبِّتُ بِهِ فُؤَادَكَ ۚ وَ جَآءَكَ فِى هٰذِهِ الْحَقُّ وَ مَوْعِظَةٌ وَ ذِكْرَىٰ لِلْمُؤْمِنِينَ",
     "urdu_text": "اور ہم تمہیں رسولوں کے تمام واقعات سناتے ہیں جن سے ہم تمہارے دل کو مضبوط کرتے ہیں، اور ان میں تمہارے لیے حق آیا ہے اور مومنوں کے لیے نصیحت اور یاد دہانی ہے",
     "persian_text": "و همه خبرهای پیامبران را برای تو بیان می‌کنیم تا دلت را محکم سازیم، و در این داستان‌ها حق و پند و یادآوری برای مؤمنان برایت آمده است",
     "transliteration": "Wa kullan naqussu 'alayka min anba'ir-rusuli ma nuthabbitu bihi fu'adak, wa ja'aka fi hadhihil-haqqu wa maw'izatun wa dhikra lil-mu'minin",
@@ -962,7 +962,7 @@ ayats = [
   {
     "verse_number": 121,
     "english_text": "And (O Prophet), those who do not believe, say to them: you do your deeds and I am doing my deeds;",
-    "arabic_text": "وَقُل لِّلَّذِينَ لَا يُؤْمِنُونَ اعْمَلُوا عَلَٰى مَكَانَتِكُمْ اِنَّا عَامِلُونَ",
+    "arabic_text": "وَ قُل لِّلَّذِينَ لَا يُؤْمِنُونَ اعْمَلُوا عَلـٰى مَكَانَتِكُمْ اِنَّا عٰمِلُونَ",
     "urdu_text": "اور (اے نبی) جو لوگ ایمان نہیں لاتے ان سے کہہ دیجیے کہ تم اپنی جگہ پر اپنے کام کرتے رہو، ہم اپنا کام کر رہے ہیں",
     "persian_text": "و (ای پیامبر) به کسانی که ایمان نمی‌آورند بگو: شما به کار خود مشغول باشید، ما نیز به کار خود مشغولیم",
     "transliteration": "Wa qul lilladhina la yu'minuna i'malu 'ala makanatikum inna 'amilun",
@@ -970,7 +970,7 @@ ayats = [
   {
     "verse_number": 122,
     "english_text": "And you also wait (for result) and I am awaiting.",
-    "arabic_text": "وَانتَظِرُوا اِنَّا مُنتَظِرُونَ",
+    "arabic_text": "وَ انتَظِرُوا اِنَّا مُنتَظِرُونَ",
     "urdu_text": "اور تم بھی انتظار کرو، ہم بھی منتظر ہیں",
     "persian_text": "و شما نیز منتظر باشید، ما هم منتظریم",
     "transliteration": "Wantaziru inna muntazirun",
@@ -978,7 +978,7 @@ ayats = [
   {
     "verse_number": 123,
     "english_text": "And all the knowledge of the unseen of skies and the earth is exclusive to Allah, and every work eventually returns to Him only, so worship Him and put your trust in Him, and whatever you do, Allah is not unaware of it.",
-    "arabic_text": "وَلِلَّهِ غَيْبُ السَّمٰوٰتِ وَالْاَرْضِ وَ اِلَيْهِ يُرْجَعُ الْاَمْرُ كُلُّهُ فَاعْبُدْهُ وَتَوَكَّلْ عَلَيْهِ ۚ وَ مَا رَبُّكَ بِغَافِلٍ عَمَّا تَعْمَلُونَ",
+    "arabic_text": "وَ لِلّٰهِ غَيْبُ السَّمٰوٰتِ وَ الْاَرْضِ وَ اِلَيْهِ يُرْجَعُ الْاَمْرُ كُلُّهُ فَاعْبُدْهُ وَ تَوَكَّلْ عَلَيْهِ ۚ وَ مَا رَبُّكَ بِغَافِلٍ عَمَّا تَعْمَلُونَ",
     "urdu_text": "اور آسمانوں اور زمین کے تمام غیب کا علم صرف اللہ کے لیے ہے، اور ہر کام اسی کی طرف لوٹتا ہے، پس اسی کی عبادت کرو اور اسی پر بھروسہ کرو، اور جو کچھ تم کرتے ہو تمہارا رب اس سے غافل نہیں ہے",
     "persian_text": "و علم غیب آسمان‌ها و زمین تنها از آن خداست، و همه کارها به سوی او بازمی‌گردد، پس او را عبادت کن و بر او توکل نما، و پروردگار تو از آنچه انجام می‌دهید غافل نیست",
     "transliteration": "Wa lillahi ghaybus samawati wal-ardi wa ilayhi yurja'ul amru kulluhu fa'budhu wa tawakkal 'alayh, wa ma rabbuka bighafilin 'amma ta'malun",

@@ -417,7 +417,7 @@ ayats = [
   {
     "verse_number": 52,
     "english_text": "And whatever is in the skies and on the earth, everything is His, and exclusive obedience is always imperative for Him, then do you fear anybody other than Allah?",
-    "arabic_text": "وَلَهُ مَا فِى السَّمَـٰوَٰتِ وَالْاَرْضِ وَلَهُ الدِّينُ وَاصِبًا ۚ اَفَغَيْرَ اللّٰهِ تَتَّقُونَ",
+    "arabic_text": "وَلَهُ مَا فِى السَّمَـٰوَٰتِ وَ الْاَرْضِ وَلَهُ الدِّينُ وَاصِبًا ۚ اَفَغَيْرَ اللّٰهِ تَتَّقُونَ",
     "urdu_text": "اور جو کچھ آسمانوں اور زمین میں ہے سب اسی کا ہے، اور اطاعت ہمیشہ اسی کے لیے ہے، تو کیا تم اللہ کے سوا کسی اور سے ڈرتے ہو؟",
     "persian_text": "و آنچه در آسمان‌ها و زمین است از آن اوست، و اطاعت همیشگی تنها برای اوست، آیا از غیر خدا می‌ترسید؟",
     "transliteration": "Wa lahu maa fis samaawaati wal ardi wa lahud deenu waasibaa, afaghayral laahi tattaqoon"
@@ -585,7 +585,7 @@ ayats = [
   {
     "verse_number": 73,
     "english_text": "And except Allah they worship those which are neither capable to give any sustenance to them in skies and the earth nor can acquire such capacity.",
-    "arabic_text": "وَيَعْبُدُونَ مِن دُونِ اللّٰهِ مَا لَا يَمْلِكُ لَهُمْ رِزْقًۭا مِّنَ السَّمَـٰوَٰتِ وَالْاَرْضِ شَيْـًۭٔا وَ لَا يَسْتَطِيعُونَ",
+    "arabic_text": "وَيَعْبُدُونَ مِن دُونِ اللّٰهِ مَا لَا يَمْلِكُ لَهُمْ رِزْقًۭا مِّنَ السَّمَـٰوَٰتِ وَ الْاَرْضِ شَيْـًۭٔا وَ لَا يَسْتَطِيعُونَ",
     "urdu_text": "اور وہ اللہ کے سوا ان کی عبادت کرتے ہیں جو نہ آسمانوں اور زمین میں سے ان کے لیے کوئی رزق کا اختیار رکھتے ہیں اور نہ ہی اس کی طاقت رکھتے ہیں۔",
     "persian_text": "و آنها غیر از خدا چیزهایی را می‌پرستند که نه مالک هیچ روزی‌ای از آسمان‌ها و زمین برای آنها هستند و نه قادر به آن می‌باشند۔",
     "transliteration": "Wa ya'budoona min doonillahi ma la yamliku lahum rizqan minas-samawati wal-ardi shay'an wa la yastatee'oon"
@@ -617,7 +617,7 @@ ayats = [
   {
     "verse_number": 77,
     "english_text": "And all the unseen of the skies and the earth is exclusive for Allah only, and happening on the Day of Judgement is like blinking and even sooner than that, indeed Allah is Predominant over everything.",
-    "arabic_text": "وَلِلَّهِ غَيْبُ السَّمَـٰوَٰتِ وَالْاَرْضِ ۚ وَ مَآ اَمْرُ السَّاعَةِ اِلَّا كَلَمْحِ الْبَصَرِ اَوْ هُوَ اَقْرَبُ ۚ اِنَّ اللّٰهَ عَلَىٰ كُلِّ شَىْءٍۢ قَدِيرٌۭ",
+    "arabic_text": "وَلِلَّهِ غَيْبُ السَّمَـٰوَٰتِ وَ الْاَرْضِ ۚ وَ مَآ اَمْرُ السَّاعَةِ اِلَّا كَلَمْحِ الْبَصَرِ اَوْ هُوَ اَقْرَبُ ۚ اِنَّ اللّٰهَ عَلَىٰ كُلِّ شَىْءٍۢ قَدِيرٌۭ",
     "urdu_text": "اور آسمانوں اور زمین کا تمام غیب صرف اللہ کے لیے ہے، اور قیامت کا معاملہ پلک جھپکنے کی طرح ہے یا اس سے بھی جلد، بیشک اللہ ہر چیز پر قادر ہے۔",
     "persian_text": "و غیب آسمان‌ها و زمین مخصوص خداست، و امر قیامت جز به اندازه یک چشم بر هم زدن یا نزدیک‌تر از آن نیست، همانا خداوند بر هر چیزی تواناست۔",
     "transliteration": "Wa lillahi ghaybus-samawati wal-ard, wa ma amrus-sa'ati illa ka-lamhil-basari aw huwa aqrab, innallaha 'ala kulli shay'in qadeer"

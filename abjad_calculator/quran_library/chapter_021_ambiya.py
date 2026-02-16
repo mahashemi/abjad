@@ -33,7 +33,7 @@ ayats = [
   {
     "verse_number": 4,
     "english_text": "On this Prophet said: My Lord knows whatever is spoken in the sky and on earth (then what whispering you do); and he is all Hearing and Knowing.",
-    "arabic_text": "قَالَ رَبِّى يَعْلَمُ الْقَوْلَ فِى السَّمَآءِ وَالْاَرْضِ ۖ وَهُوَ السَّمِيعُ الْعَلِيمُ",
+    "arabic_text": "قَالَ رَبِّى يَعْلَمُ الْقَوْلَ فِى السَّمَآءِ وَ الْاَرْضِ ۖ وَهُوَ السَّمِيعُ الْعَلِيمُ",
     "urdu_text": "نبی نے کہا: میرا رب آسمان اور زمین میں ہر بات کو جانتا ہے، اور وہ سننے والا اور جاننے والا ہے۔",
     "persian_text": "پیامبر گفت: پروردگار من هر سخنی را که در آسمان و زمین گفته می‌شود می‌داند، و او شنوای داناست.",
     "transliteration": "Qaala rabbee ya'lamul qawla fis samaaa'i wal ardi wa huwas samee'ul 'aleem"
@@ -153,7 +153,7 @@ ayats = [
   {
     "verse_number": 19,
     "english_text": "Whereas. (Angels) who are in the skies and on earth are all His servants; (the angels) who are in His (very) Presence they neither feel proud about their prayers, nor do they ever get weary.",
-    "arabic_text": "وَلَهُ مَن فِى السَّمَـٰوَٰتِ وَالْاَرْضِ ۚ وَ مَنْ عِندَهُ لَا يَسْتَكْبِرُونَ عَنْ عِبَادَتِهِ وَ لَا يَسْتَحْسِرُونَ",
+    "arabic_text": "وَلَهُ مَن فِى السَّمَـٰوَٰتِ وَ الْاَرْضِ ۚ وَ مَنْ عِندَهُ لَا يَسْتَكْبِرُونَ عَنْ عِبَادَتِهِ وَ لَا يَسْتَحْسِرُونَ",
     "urdu_text": "اور جو کوئی آسمانوں اور زمین میں ہے سب اسی کا ہے، اور جو اس کے پاس ہیں وہ نہ اس کی عبادت سے تکبر کرتے ہیں اور نہ تھکتے ہیں۔",
     "persian_text": "و آنچه در آسمان‌ها و زمین است از آن اوست، و آنان که نزد اویند از عبادت او سرکشی نمی‌کنند و خسته نمی‌شوند.",
     "transliteration": "Wa lahu man fis samawati wal ard, wa man 'indahu la yastakbiroona 'an 'ibadatihi wa la yastahsiroon"
@@ -449,7 +449,7 @@ ayats = [
   {
     "verse_number": 56,
     "english_text": "Ibrahim said (not joking) but these idols are not your lords, but your Lord is the Master of the skies and the earth, who created them, and I, myself, a witness of this in front of you.",
-    "arabic_text": "قَالَ بَل رَّبُّكُمْ رَبُّ السَّمَـٰوَٰتِ وَالْاَرْضِ الَّذِى فَطَرَهُنَّ وَاَنَا۠ عَلَىٰ ذَٰلِكُم مِّنَ الشَّـٰهِدِينَ",
+    "arabic_text": "قَالَ بَل رَّبُّكُمْ رَبُّ السَّمَـٰوَٰتِ وَ الْاَرْضِ الَّذِى فَطَرَهُنَّ وَاَنَا۠ عَلَىٰ ذَٰلِكُم مِّنَ الشَّـٰهِدِينَ",
     "urdu_text": "ابراہیم نے کہا: بلکہ تمہارا رب آسمانوں اور زمین کا رب ہے جس نے انہیں پیدا کیا اور میں اس بات پر تمہارے سامنے گواہوں میں سے ہوں۔",
     "persian_text": "گفت: بلکه پروردگار شما، پروردگار آسمان‌ها و زمین است که آنها را آفرید و من بر این امر از گواهان هستم.",
     "transliteration": "Qāla bal rabbukum rabbus-samāwāti wal-arḍil-ladhī faṭarahunna wa ana 'alā dhālikum minash-shāhidīn"

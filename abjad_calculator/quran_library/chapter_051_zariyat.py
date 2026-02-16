@@ -185,7 +185,7 @@ ayats = [
   {
     "verse_number": 23,
     "english_text": "By the Master of the skies and the earth, Quran is most verily the Truth, just as you speak among yourselves.",
-    "arabic_text": "فَوَرَبِّ السَّمَآءِ وَالْاَرْضِ اِنَّهُ لَحَقٌّۭ مِّثْلَ مَآ اَنَّكُمْ تَنطِقُونَ",
+    "arabic_text": "فَوَرَبِّ السَّمَآءِ وَ الْاَرْضِ اِنَّهُ لَحَقٌّۭ مِّثْلَ مَآ اَنَّكُمْ تَنطِقُونَ",
     "urdu_text": "پس آسمانوں اور زمین کے رب کی قسم! یه بالکل سچ هے، جیسے تم خود بولتے هو۔",
     "persian_text": "پس به پروردگار آسمان و زمین سوگند، که این حق است، همانگونه که شما سخن می‌گویید.",
     "transliteration": "Fa wa Rabbis-samaaa'i wal-ardi innahoo lahaqqqum-mithla maaa annakum tantiqoon"

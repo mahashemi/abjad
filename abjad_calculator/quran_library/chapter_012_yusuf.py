@@ -242,7 +242,7 @@ ayats = [
   {
     "verse_number": 31,
     "english_text": "When Zulekha heard their taunts, she called them and arranged a banquet for them, and gave each of them a knife (and an orange and said: when he comes in front of you, cut and give him a piece of orange), and said to Yusuf: pass by in front of them, when ladies saw, they found him very handsome, and they all cut their hands, and said: by god he is not human but he is a noble angel.",
-    "arabic_text": "فَلَمَّا سَمِعَتْ بِمَكْرِهِنَّ اَرْسَلَتْ اِلَيْهِنَّ وَاَعْتَدَتْ لَهُنَّ مُتَّكَاً وَآتَتْ كُلَّ وَاحِدَةٍ مِّنْهُنَّ سِكِّينًا وَقَالَتِ اخْرُجْ عَلَيْهِنَّ ۖ فَلَمَّا رَاَيْنَهُ اَكْبَرْنَهُ وَقَطَّعْنَ اَيْدِيَهُنَّ وَقُلْنَ حَاشَ لِلَّهِ مَا هَٰذَا بَشَرًا اِنْ هَٰذَا اِلَّا مَلَكٌ كَرِيمٌ",
+    "arabic_text": "فَلَمَّا سَمِعَتْ بِمَكْرِهِنَّ اَرْسَلَتْ اِلَيْهِنَّ وَاَعْتَدَتْ لَهُنَّ مُتَّكَاً وَآتَتْ كُلَّ وَاحِدَةٍ مِّنْهُنَّ سِكِّينًا وَقَالَتِ اخْرُجْ عَلَيْهِنَّ ۖ فَلَمَّا رَاَيْنَهُ اَكْبَرْنَهُ وَقَطَّعْنَ اَيْدِيَهُنَّ وَقُلْنَ حَاشَ لِلّٰهِ مَا هَٰذَا بَشَرًا اِنْ هَٰذَا اِلَّا مَلَكٌ كَرِيمٌ",
     "urdu_text": "جب زلیخا نے ان کی باتیں سنیں تو اس نے انہیں بلا بھیجا اور ان کے لیے ضیافت کا انتظام کیا، اور ہر ایک کو چھری دی اور یوسف سے کہا کہ ان کے سامنے سے گزرو، جب عورتوں نے انہیں دیکھا تو انہیں بہت خوبصورت پایا اور سب نے اپنے ہاتھ کاٹ لیے اور کہا: اللہ کی پناہ! یہ انسان نہیں بلکہ کوئی معزز فرشتہ ہے۔",
     "persian_text": "پس چون زلیخا سخنان طعنه‌آمیز آنان را شنید، به سوی ایشان فرستاد و برای آنان مجلسی آماده کرد و به هر یک از آنان کاردی داد و به یوسف گفت: پیش روی آنان بگذر، پس چون او را دیدند، او را بزرگ شمردند و دستهای خود را بریدند و گفتند: پناه بر خدا! این بشر نیست، این جز فرشته‌ای گرامی نیست.",
     "transliteration": "Falamma sami'at bimakrihinna arsalat ilayhinna wa a'tadat lahunna muttaka'an wa atat kulla wahidatin minhunna sikkeenan wa qalat ukhruj 'alayhinna falamma ra'aynahu akbarnahu wa qatta'na aydiyahunna wa qulna hasha lillahi ma hatha basharan in hatha illa malakun kareem",
@@ -314,7 +314,7 @@ ayats = [
   {
     "verse_number": 40,
     "english_text": "Alas! You are worshipping the names except Allah, who have been forged by your forefathers, Allah has not sent any proof for them, governance is just for Allah only, He has commanded that do not worship anybody except Him, this is the righteous religion, but many of the people do not know.",
-    "arabic_text": "مَا تَعْبُدُونَ مِن دُونِهِ اِلَّا اَسْمَآءً سَمَّيْتُمُوهَا اَنتُمْ وَآبَاؤُكُم مَّا اَنزَلَ اللَّهُ بِهَا مِن سُلْطٰنٍ ۚ اِنِ الْحُكْمُ اِلَّا لِلَّهِ ۚ اَمَرَ اَلَّا تَعْبُدُوا اِلَّا اِيَّاهُ ۚ ذٰلِكَ الدِّينُ الْقَيِّمُ وَلَٰكِنَّ اَكْثَرَ النَّاسِ لَا يَعْلَمُونَ",
+    "arabic_text": "مَا تَعْبُدُونَ مِن دُونِهِ اِلَّا اَسْمَآءً سَمَّيْتُمُوهَا اَنتُمْ وَآبَاؤُكُم مَّا اَنزَلَ اللَّهُ بِهَا مِن سُلْطٰنٍ ۚ اِنِ الْحُكْمُ اِلَّا لِلّٰهِ ۚ اَمَرَ اَلَّا تَعْبُدُوا اِلَّا اِيَّاهُ ۚ ذٰلِكَ الدِّينُ الْقَيِّمُ وَلَٰكِنَّ اَكْثَرَ النَّاسِ لَا يَعْلَمُونَ",
     "urdu_text": "تم اللہ کے سوا صرف ان ناموں کی عبادت کر رہے ہو جو تم نے اور تمہارے باپ دادا نے خود گھڑ لیے ہیں، اللہ نے ان کے لیے کوئی دلیل نازل نہیں کی۔ حکم صرف اللہ ہی کا ہے، اس نے حکم دیا ہے کہ اس کے سوا کسی کی عبادت نہ کرو، یہی سیدھا دین ہے، لیکن اکثر لوگ نہیں جانتے۔",
     "persian_text": "شما جز خدا چیزی را نمی‌پرستید مگر نام‌هایی که شما و پدرانتان آنها را نامیده‌اید، خدا هیچ دلیلی بر آنها نازل نکرده است. فرمان جز از آن خدا نیست، او فرمان داده که جز او را نپرستید، این است دین استوار، ولی بیشتر مردم نمی‌دانند.",
     "transliteration": "Ma ta'buduna min dunihi illa asma'an sammaytumuhaa antum wa aba'ukum ma anzala Allahu biha min sultanin ini al-hukmu illa lillahi amara alla ta'budu illa iyyahu dhalika ad-dinu al-qayyimu wa lakinna akthara an-nasi la ya'lamun",
@@ -402,7 +402,7 @@ ayats = [
   {
     "verse_number": 51,
     "english_text": "So, the king (gathered those ladies) and asked: when you wanted to get your desire fulfilled by Yusuf, what had happened? They all said: God forbid we did not see any evil intention from Yusuf, then (Zulekha) wife of Aziz (Aziz-e-Misr) said: now that the matter has come into light; fact is that I wanted to get my desire fulfilled from him; but Verily he is truthful.",
-    "arabic_text": "قَالَ مَا خَطْبُكُنَّ اِذْ رَاوَدتُّنَّ يُوسُفَ عَن نَّفْسِهِ ۚ قُلْنَ حَاشَ لِلَّهِ مَا عَلِمْنَا عَلَيْهِ مِن سُوءٍ ۚ قَالَتِ امْرَاَةُ الْعَزِيزِ الْآنَ حَصْحَصَ الْحَقُّ اَنَا رَاوَدتُّهُ عَن نَّفْسِهِ وَاِنَّهُ لَمِنَ الصّٰدِقِيْنَ",
+    "arabic_text": "قَالَ مَا خَطْبُكُنَّ اِذْ رَاوَدتُّنَّ يُوسُفَ عَن نَّفْسِهِ ۚ قُلْنَ حَاشَ لِلّٰهِ مَا عَلِمْنَا عَلَيْهِ مِن سُوءٍ ۚ قَالَتِ امْرَاَةُ الْعَزِيزِ الْآنَ حَصْحَصَ الْحَقُّ اَنَا رَاوَدتُّهُ عَن نَّفْسِهِ وَاِنَّهُ لَمِنَ الصّٰدِقِيْنَ",
     "urdu_text": "بادشاہ نے پوچھا کہ تمہارا کیا معاملہ تھا جب تم نے یوسف کو اپنی طرف مائل کرنا چاہا؟ انہوں نے کہا: اللہ کی پناہ، ہم نے ان میں کوئی برائی نہیں دیکھی۔ عزیز کی بیوی نے کہا: اب حق واضح ہو گیا، میں نے انہیں اپنی طرف مائل کرنا چاہا تھا اور بے شک وہ سچے لوگوں میں سے ہیں۔",
     "persian_text": "پادشاه گفت: چه بود کار شما هنگامی که یوسف را به خود فریفتن می‌خواستید؟ گفتند: حاشا لله، ما هیچ بدی از او ندیدیم. همسر عزیز گفت: اکنون حقیقت آشکار شد، من او را به خود می‌خواستم و او از راستگویان است.",
     "transliteration": "Qala ma khatbukunna idh rawadtunna Yusufa 'an nafsihi qulna hasha lillahi ma 'alimna 'alayhi min su'in qalatimra'atul 'azizil-ana hashasa alhaqqu ana rawadtuhu 'an nafsihi wa innahu laminas-sadiqin",
@@ -530,7 +530,7 @@ ayats = [
   {
     "verse_number": 67,
     "english_text": "And Yaqoob said to his sons: do not enter all together from one door, but enter (separately) from different doors, because I cannot avert the trouble which may befall on you from Allah; command is from Allah only and I have reposed my trust in Him; and all those who trust should trust in Him.",
-    "arabic_text": "وَقَالَ يٰبَنِيَّ لَا تَدْخُلُوا مِن بَابٍ وَاحِدٍ وَادْخُلُوا مِنْ اَبْوَابٍ مُّتَفَرِّقَةٍ وَ مَا اُغْنِى عَنكُم مِّنَ اللَّهِ مِن شَيْءٍ ۖ اِنِ الْحُكْمُ اِلَّا لِلَّهِ ۖ عَلَيْهِ تَوَكَّلْتُ ۖ وَعَلَيْهِ فَلْيَتَوَكَّلِ الْمُتَوَكِّلُونَ",
+    "arabic_text": "وَقَالَ يٰبَنِيَّ لَا تَدْخُلُوا مِن بَابٍ وَاحِدٍ وَادْخُلُوا مِنْ اَبْوَابٍ مُّتَفَرِّقَةٍ وَ مَا اُغْنِى عَنكُم مِّنَ اللَّهِ مِن شَيْءٍ ۖ اِنِ الْحُكْمُ اِلَّا لِلّٰهِ ۖ عَلَيْهِ تَوَكَّلْتُ ۖ وَعَلَيْهِ فَلْيَتَوَكَّلِ الْمُتَوَكِّلُونَ",
     "urdu_text": "اور یعقوب نے اپنے بیٹوں سے کہا: اے میرے بیٹو! ایک ہی دروازے سے داخل نہ ہونا بلکہ مختلف دروازوں سے داخل ہونا۔ اور میں اللہ کی طرف سے آنے والی کسی مصیبت کو تم سے دور نہیں کر سکتا، حکم تو صرف اللہ ہی کا ہے، میں نے اسی پر بھروسہ کیا ہے اور جو بھروسہ کرنے والے ہیں انہیں اسی پر بھروسہ کرنا چاہیے۔",
     "persian_text": "و گفت: ای فرزندان من! همگی از یک در داخل نشوید، بلکه از درهای مختلف وارد شوید. و من نمی‌توانم از جانب خدا چیزی را از شما دفع کنم، فرمان جز از آن خدا نیست، بر او توکل کردم و توکل کنندگان باید بر او توکل کنند.",
     "transliteration": "Wa qala ya baniyya la tadkhulu min babin wahidin wadkhulu min abwabin mutafarriqah wa ma ughnee 'ankum minallahi min shay'in inilhukmu illa lillah 'alayhi tawakkaltu wa 'alayhi falyatawakkalil mutawakkiloon",
@@ -802,7 +802,7 @@ ayats = [
   {
     "verse_number": 101,
     "english_text": "(Later Yusuf prayed) O my Lord, You also granted me kingdom, you also taught me interpretation of dreams, O Creator of skies and the earth, You are my Master and my Guardian in the world and in the Hereafter; let me die as a Muslim and count me with the righteous ones.",
-    "arabic_text": "رَبِّ قَدْ آتَيْتَنِى مِنَ الْمُلْكِ وَعَلَّمْتَنِى مِن تَاْوِيلِ الْاَحَادِيثِ ۚ فَاطِرَ السَّمَاوَاتِ وَالْاَرْضِ ۖ اَنتَ وَلِيِّى فِى الدُّنْيَا وَالْآخِرَةِ ۖ تَوَفَّنِى مُسْلِمًا وَاَلْحِقْنِى بِالصَّالِحِينَ",
+    "arabic_text": "رَبِّ قَدْ آتَيْتَنِى مِنَ الْمُلْكِ وَعَلَّمْتَنِى مِن تَاْوِيلِ الْاَحَادِيثِ ۚ فَاطِرَ السَّمَاوَاتِ وَ الْاَرْضِ ۖ اَنتَ وَلِيِّى فِى الدُّنْيَا وَالْآخِرَةِ ۖ تَوَفَّنِى مُسْلِمًا وَاَلْحِقْنِى بِالصَّالِحِينَ",
     "urdu_text": "اے میرے رب! تو نے مجھے حکومت عطا فرمائی اور مجھے خوابوں کی تعبیر سکھائی، اے آسمانوں اور زمین کے پیدا کرنے والے! تو ہی دنیا اور آخرت میں میرا کارساز اور مددگار ہے، مجھے مسلمان کی حالت میں وفات دے اور مجھے نیک لوگوں میں شامل فرما۔",
     "persian_text": "پروردگارا! تو به من از حکومت عطا کردی و تعبیر خواب‌ها را به من آموختی، ای آفریننده آسمان‌ها و زمین! تو سرپرست و یاور من در دنیا و آخرت هستی، مرا مسلمان بمیران و مرا به شایستگان ملحق گردان.",
     "transliteration": "Rabbi qad ataytani minal-mulki wa 'allamtani min ta'wilil-ahadith, Fatiras-samawati wal-ard, anta waliyyi fid-dunya wal-akhirah, tawaffani musliman wa alhiqni bis-salihin",
@@ -834,7 +834,7 @@ ayats = [
   {
     "verse_number": 105,
     "english_text": "And there are many signs in the skies and the earth which they pass by (day and night), but they turn their face from it.",
-    "arabic_text": "وَكَاَيِّن مِّنْ آيَةٍ فِى السَّمَاوَاتِ وَالْاَرْضِ يَمُرُّونَ عَلَيْهَا وَهُمْ عَنْهَا مُعْرِضُونَ",
+    "arabic_text": "وَكَاَيِّن مِّنْ آيَةٍ فِى السَّمَاوَاتِ وَ الْاَرْضِ يَمُرُّونَ عَلَيْهَا وَهُمْ عَنْهَا مُعْرِضُونَ",
     "urdu_text": "اور آسمانوں اور زمین میں بہت سی نشانیاں ہیں جن پر یہ لوگ گزرتے ہیں لیکن ان سے منہ موڑے رہتے ہیں۔",
     "persian_text": "و چه بسیار نشانه‌ای در آسمان‌ها و زمین است که بر آن‌ها می‌گذرند در حالی که از آن‌ها روی گردانند.",
     "transliteration": "Wa ka'ayyin min ayatin fis-samawati wal-ardi yamurruna 'alayha wa hum 'anha mu'ridun",

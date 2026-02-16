@@ -33,7 +33,7 @@ ayats = [
   {
     "verse_number": 4,
     "english_text": "That is Allah who has sent down calm in the hearts of the believers that they might have more faith, all the armies of the earth and skies are of Him and He is all-Knowing and has Wisdom.",
-    "arabic_text": "هُوَ الَّذِىٓ اَنزَلَ السَّكِينَةَ فِى قُلُوبِ الْمُؤْمِنِينَ لِيَزْدَادُوٓاْ اِيمَـٰنًۭا مَّعَ اِيمَـٰنِهِمْ ۗ وَلِلَّهِ جُنُودُ السَّمَـٰوَٰتِ وَالْاَرْضِ ۚ وَكَانَ اللّٰهُ عَلِيمًا حَكِيمًا",
+    "arabic_text": "هُوَ الَّذِىٓ اَنزَلَ السَّكِينَةَ فِى قُلُوبِ الْمُؤْمِنِينَ لِيَزْدَادُوٓاْ اِيمَـٰنًۭا مَّعَ اِيمَـٰنِهِمْ ۗ وَلِلَّهِ جُنُودُ السَّمَـٰوَٰتِ وَ الْاَرْضِ ۚ وَكَانَ اللّٰهُ عَلِيمًا حَكِيمًا",
     "urdu_text": "وہی ہے جس نے مومنوں کے دلوں میں سکون نازل فرمایا تاکہ وہ اپنے ایمان پر مزید ایمان بڑھائیں، اور آسمانوں اور زمین کے تمام لشکر اللہ ہی کے ہیں، اور اللہ جاننے والا حکمت والا ہے۔",
     "persian_text": "او کسی است که آرامش را در دل‌های مؤمنان نازل کرد تا بر ایمان خود ایمان بیفزایند، و لشکرهای آسمان‌ها و زمین از آن خداست و خداوند دانا و حکیم است.",
     "transliteration": "Huwal-ladhee anzalas-sakeenata fee quloobil-mu'mineena li-yazdaadoo eemaanan ma'a eemaanihim wa lil-laahi junoodus-samaawaati wal-ard wa kaanal-laahu 'aleeman hakeemaa"
@@ -57,7 +57,7 @@ ayats = [
   {
     "verse_number": 7,
     "english_text": "And all the forces of the earth and skies are only for Allah, He is Honorable and has Wisdom.",
-    "arabic_text": "وَلِلَّهِ جُنُودُ السَّمَـٰوَٰتِ وَالْاَرْضِ ۚ وَكَانَ اللّٰهُ عَزِيزًا حَكِيمًا",
+    "arabic_text": "وَلِلَّهِ جُنُودُ السَّمَـٰوَٰتِ وَ الْاَرْضِ ۚ وَكَانَ اللّٰهُ عَزِيزًا حَكِيمًا",
     "urdu_text": "اور آسمانوں اور زمین کے تمام لشکر اللہ ہی کے ہیں، اور اللہ غالب حکمت والا ہے۔",
     "persian_text": "و لشکرهای آسمان‌ها و زمین از آن خداست و خداوند توانا و حکیم است.",
     "transliteration": "Wa lil-laahi junoodus-samaawaati wal-ard wa kaanal-laahu 'azeezan hakeemaa"
@@ -113,7 +113,7 @@ ayats = [
   {
     "verse_number": 14,
     "english_text": "And Kingdom of the earth and the skies is only of Allah's, He forgives whom He pleases and punishes whom He pleases, and Allah is very forgiving and Merciful.",
-    "arabic_text": "وَلِلَّهِ مُلْكُ السَّمَـٰوَٰتِ وَالْاَرْضِ ۚ يَغْفِرُ لِمَن يَشَآءُ وَيُعَذِّبُ مَن يَشَآءُ ۚ وَكَانَ اللّٰهُ غَفُورًا رَّحِيمًا",
+    "arabic_text": "وَلِلَّهِ مُلْكُ السَّمَـٰوَٰتِ وَ الْاَرْضِ ۚ يَغْفِرُ لِمَن يَشَآءُ وَيُعَذِّبُ مَن يَشَآءُ ۚ وَكَانَ اللّٰهُ غَفُورًا رَّحِيمًا",
     "urdu_text": "اور آسمانوں اور زمین کی بادشاہی صرف اللہ ہی کی ہے، وہ جسے چاہے بخش دے اور جسے چاہے عذاب دے، اور اللہ بہت بخشنے والا مہربان ہے۔",
     "persian_text": "و فرمانروایی آسمان‌ها و زمین تنها از آنِ اللہ است. او هر که را بخواهد می‌بخشد و هر که را بخواهد عذاب می‌کند، و اللہ بسیار آمرزنده و مهربان است.",
     "transliteration": "Wa lillahi mulkus-samaawaati wal-ard yaghfiru liman yashaa'u wa yu'adhdhibu man yashaa' wa kaanallahu ghafooran raheema"

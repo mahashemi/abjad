@@ -521,7 +521,7 @@ ayats = [
   {
     "verse_number": 65,
     "english_text": "He is Lord of skies and the earth and whatever is in between them, so you worship Him, and be steadfast in worshipping Him; do you know anybody with a similar name?",
-    "arabic_text": "رَّبُّ السَّمَـٰوَٰتِ وَالْاَرْضِ وَ مَا بَيْنَهُمَا فَاعْبُدْهُ وَاصْطَبِرْ لِعِبَـٰدَتِهِ ۚ هَلْ تَعْلَمُ لَهُ سَمِيًّۭا",
+    "arabic_text": "رَّبُّ السَّمَـٰوَٰتِ وَ الْاَرْضِ وَ مَا بَيْنَهُمَا فَاعْبُدْهُ وَاصْطَبِرْ لِعِبَـٰدَتِهِ ۚ هَلْ تَعْلَمُ لَهُ سَمِيًّۭا",
     "urdu_text": "وه آسمانوں اور زمین اور جو کچھ ان کے درمیان هے سب کا رب هے، پس تم اس کی عبادت کرو اور اس کی عبادت پر ثابت قدم رهو، کیا تم اس کے هم نام کسی کو جانتے هو؟",
     "persian_text": "او پروردگار آسمان‌ها و زمین و آنچه میان آنهاست، پس او را عبادت کن و در عبادتش استقامت ورز، آیا کسی را با نام مشابه او می‌شناسی؟",
     "transliteration": "Rabbus-samāwāti wal-arḍi wa mā baynahumā fa'budhu waṣṭabir li-'ibādatih, hal ta'lamu lahū samiyyā"
@@ -745,7 +745,7 @@ ayats = [
   {
     "verse_number": 93,
     "english_text": "Everything of the skies and the earth come before the Beneficent (Allah) as servant only.",
-    "arabic_text": "اِن كُلُّ مَن فِى السَّمَـٰوَٰتِ وَالْاَرْضِ اِلَّآ ءَاتِى الرَّحْمَـٰنِ عَبْدًۭا",
+    "arabic_text": "اِن كُلُّ مَن فِى السَّمَـٰوَٰتِ وَ الْاَرْضِ اِلَّآ ءَاتِى الرَّحْمَـٰنِ عَبْدًۭا",
     "urdu_text": "آسمانوں اور زمین میں جو بھی هے، سب رحمان (الله) کے پاس بندے کی حیثیت سے هی آئے گا۔",
     "persian_text": "همه کسانی که در آسمان‌ها و زمین هستند، جز به عنوان بنده نزد خداوند رحمان نمی‌آیند.",
     "transliteration": "In kullu man fis-samawati wal-ardi illa atir-Rahmani 'abda"

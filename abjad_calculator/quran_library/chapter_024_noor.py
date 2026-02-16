@@ -281,7 +281,7 @@ ayats = [
   {
     "verse_number": 35,
     "english_text": "Allah is the Light of the skies and the Earth, example of His light like a niche on which a lamp is kept and lamp is inside the glass lantern, and lantern is heightened as brightly shining star, which is lit up from the graceful tree of olive, which the neither eastern nor western, its oil is about to flare up, and fire does touch it also, this is Light upon Light, and Allah guides to His Light to whoever he pleases, like this He explains the examples, and He is Cognizant of everything.",
-    "arabic_text": "۞ اللّٰهُ نُورُ السَّمَـٰوَٰتِ وَالْاَرْضِ ۚ مَثَلُ نُورِهِ كَمِشْكَوٰةٍۢ فِيهَا مِصْبَاحٌ ۖ الْمِصْبَاحُ فِى زُجَاجَةٍ ۖ الزُّجَاجَةُ كَاَنَّهَا كَوْكَبٌۭ دُرِّىٌّۭ يُوقَدُ مِن شَجَرَةٍۢ مُّبَـٰرَكَةٍۢ زَيْتُونَةٍۢ لَّا شَرْقِيَّةٍۢ وَ لَا غَرْبِيَّةٍۢ يَكَادُ زَيْتُهَا يُضِىٓءُ وَ لَوْ لَمْ تَمْسَسْهُ نَارٌۭ ۚ نُّورٌ عَلَىٰ نُورٍۢ ۗ يَهْدِى اللّٰهُ لِنُورِهِ مَن يَشَآءُ ۚ وَيَضْرِبُ اللّٰهُ الْاَمْثَـٰلَ لِلنَّاسِ ۗ وَ اللّٰهُ بِكُلِّ شَىْءٍ عَلِيمٌۭ",
+    "arabic_text": "۞ اللّٰهُ نُورُ السَّمَـٰوَٰتِ وَ الْاَرْضِ ۚ مَثَلُ نُورِهِ كَمِشْكَوٰةٍۢ فِيهَا مِصْبَاحٌ ۖ الْمِصْبَاحُ فِى زُجَاجَةٍ ۖ الزُّجَاجَةُ كَاَنَّهَا كَوْكَبٌۭ دُرِّىٌّۭ يُوقَدُ مِن شَجَرَةٍۢ مُّبَـٰرَكَةٍۢ زَيْتُونَةٍۢ لَّا شَرْقِيَّةٍۢ وَ لَا غَرْبِيَّةٍۢ يَكَادُ زَيْتُهَا يُضِىٓءُ وَ لَوْ لَمْ تَمْسَسْهُ نَارٌۭ ۚ نُّورٌ عَلَىٰ نُورٍۢ ۗ يَهْدِى اللّٰهُ لِنُورِهِ مَن يَشَآءُ ۚ وَيَضْرِبُ اللّٰهُ الْاَمْثَـٰلَ لِلنَّاسِ ۗ وَ اللّٰهُ بِكُلِّ شَىْءٍ عَلِيمٌۭ",
     "urdu_text": "الله آسمانوں اور زمین کا نور هے، اس کے نور کی مثال ایسی هے جیسے ایک طاق میں چراغ هو، چراغ ایک شیشے میں هو، شیشه گویا چمکتا هوا ستاره هو، جو مبارک زیتون کے درخت سے روشن کیا جاتا هے، نه مشرقی نه مغربی، اس کا تیل قریب هے که روشن هو جائے اگرچه آگ اسے نه چھوئے، نور پر نور هے، الله اپنے نور کی طرف جسے چاهتا هے هدایت دیتا هے، اور الله لوگوں کے لیے مثالیں بیان کرتا هے، اور الله هر چیز کو جاننے والا هے۔",
     "persian_text": "خداوند نور آسمان‌ها و زمین است، مثال نور او چون طاقچه‌ای است که در آن چراغی است، چراغ در شیشه‌ای است، شیشه گویی ستاره‌ای درخشان است که از درخت مبارک زیتون روشن می‌شود، نه شرقی و نه غربی، روغنش نزدیک است که بدرخشد اگرچه آتش آن را نیاساید، نور بر نور است، خداوند هر که را بخواهد به سوی نور خود هدایت می‌کند، و خداوند برای مردم مثال‌ها می‌زند، و خداوند به هر چیزی داناست.",
     "transliteration": "Allaahu noorus-samaawaati wal-ard, mathalu noorihi ka-mishkaatin feehaa misbaah, al-misbaahu fee zujaajah, az-zujaajatu ka-annahaa kawkabun durriyyun yooqadu min shajaratin mubaarakatin zaytoonatin laa sharqiyyatin wa laa gharbiyyatin yakaadu zaytuhaaa yudee'u wa law lam tamsashu naar, noorun 'alaa noor, yahdillaahu li-noorihi man yashaaa', wa yadribullaahul-amthaala lin-naas, wallaahu bikulli shay'in 'aleem"
@@ -329,7 +329,7 @@ ayats = [
   {
     "verse_number": 41,
     "english_text": "Did not you see that all the creatures of earth and the sky and all the birds in queue in the atmosphere are glorifying Him, and they are aware of their own prayer and glorifying, and Allah is also Cognizant of deeds.",
-    "arabic_text": "اَلَمْ تَرَ اَنَّ اللّٰهَ يُسَبِّحُ لَهُ مَن فِى السَّمَـٰوَٰتِ وَالْاَرْضِ وَالطَّيْرُ صَـٰٓفَّـٰتٍۢ ۖ كُلٌّۭ قَدْ عَلِمَ صَلَاتَهُ وَتَسْبِيحَهُ ۗ وَ اللّٰهُ عَلِيمٌۢ بِمَا يَفْعَلُونَ",
+    "arabic_text": "اَلَمْ تَرَ اَنَّ اللّٰهَ يُسَبِّحُ لَهُ مَن فِى السَّمَـٰوَٰتِ وَ الْاَرْضِ وَالطَّيْرُ صَـٰٓفَّـٰتٍۢ ۖ كُلٌّۭ قَدْ عَلِمَ صَلَاتَهُ وَتَسْبِيحَهُ ۗ وَ اللّٰهُ عَلِيمٌۢ بِمَا يَفْعَلُونَ",
     "urdu_text": "کیا تم نے نهیں دیکھا که آسمانوں اور زمین میں جو بھی هیں اور پرندے قطار باندھے هوئے، سب الله کی تسبیح کرتے هیں، هر ایک اپنی نماز اور تسبیح کو جانتا هے، اور الله ان کے اعمال سے خوب واقف هے۔",
     "persian_text": "آیا ندیده‌ای که هر آنچه در آسمان‌ها و زمین است و پرندگان صف‌کشیده، همه تسبیح الله می‌گویند، هر یک نماز و تسبیح خود را می‌داند، و الله به آنچه انجام می‌دهند آگاه است.",
     "transliteration": "Alam tara anna Allaha yusabbihu lahu man fis-samawati wal-ardi wat-tayru saffatin kullun qad 'alima salatahu wa tasbiha, wallahu 'alimun bima yaf'alun"
@@ -337,7 +337,7 @@ ayats = [
   {
     "verse_number": 42,
     "english_text": "Kingdom of the earth and the sky is only for Allah, and everyone has to return to Him only.",
-    "arabic_text": "وَلِلَّهِ مُلْكُ السَّمَـٰوَٰتِ وَالْاَرْضِ ۖ وَ اِلـٰى اللّٰهِ الْمَصِيرُ",
+    "arabic_text": "وَلِلَّهِ مُلْكُ السَّمَـٰوَٰتِ وَ الْاَرْضِ ۖ وَ اِلـٰى اللّٰهِ الْمَصِيرُ",
     "urdu_text": "اور آسمانوں اور زمین کی بادشاهی صرف الله هی کے لیے هے، اور سب کو الله هی کی طرف لوٹنا هے۔",
     "persian_text": "و فرمانروایی آسمان‌ها و زمین تنها از آن الله است، و بازگشت همه به سوی الله است.",
     "transliteration": "Wa lillahi mulkus-samawati wal-ardi wa ilallahil-masir"
@@ -513,7 +513,7 @@ ayats = [
   {
     "verse_number": 64,
     "english_text": "And, remember all the universe of the sky and earth is His, and is cognizant of your condition, and that day when everyone will be returned to His Court, He will tell them about their deeds, and He is Knower of all things.",
-    "arabic_text": "اَلَآ اِنَّ لِلَّهِ مَا فِى السَّمَـٰوَٰتِ وَالْاَرْضِ ۖ قَدْ يَعْلَمُ مَآ اَنتُمْ عَلَيْهِ وَ يَوْمَ يُرْجَعُونَ اِلَيْهِ فَيُنَبِّئُهُم بِمَا عَمِلُواْ ۗ وَ اللّٰهُ بِكُلِّ شَىْءٍ عَلِيمٌۢ",
+    "arabic_text": "اَلَآ اِنَّ لِلَّهِ مَا فِى السَّمَـٰوَٰتِ وَ الْاَرْضِ ۖ قَدْ يَعْلَمُ مَآ اَنتُمْ عَلَيْهِ وَ يَوْمَ يُرْجَعُونَ اِلَيْهِ فَيُنَبِّئُهُم بِمَا عَمِلُواْ ۗ وَ اللّٰهُ بِكُلِّ شَىْءٍ عَلِيمٌۢ",
     "urdu_text": "خبردار! جو کچھ آسمانوں اور زمین میں هے وه الله هی کا هے۔ وه تمهاری حالت کو خوب جانتا هے، اور جس دن سب اس کی طرف لوٹائے جائیں گے تو وه انهیں بتا دے گا جو کچھ انهوں نے کیا تھا۔ اور الله هر چیز کا جانے والا هے۔",
     "persian_text": "آگاه باشید که آنچه در آسمان‌ها و زمین است از آنِ خداست. او به آنچه بر آن هستید داناست و روزی که همه به سوی او بازگردانده می‌شوند، پس آنان را از آنچه انجام داده‌اند آگاه می‌سازد. و خداوند به هر چیزی داناست.",
     "transliteration": "Alaa inna lillaahi maa fis-samaawaati wal-ard. Qad ya'lamu maa antum 'alayhi wa yawma yurja'oona ilayhi fayunabbi'uhum bimaa 'amiloo. Wallaahu bikulli shay'in 'aleem."

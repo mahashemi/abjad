@@ -353,7 +353,7 @@ ayats = [
   {
     "verse_number": 44,
     "english_text": "Say: authority of intercession is in Allah's hands only, He has the kingdom of the earth and the skies, and after that you all will be returned to His Presence.",
-    "arabic_text": "قُل لِّلَّهِ الشَّفَـٰعَةُ جَمِيعًۭا ۖ لَّهُ مُلْكُ السَّمَـٰوَٰتِ وَالْاَرْضِ ۖ ثُمَّ اِلَيْهِ تُرْجَعُونَ",
+    "arabic_text": "قُل لِّلَّهِ الشَّفَـٰعَةُ جَمِيعًۭا ۖ لَّهُ مُلْكُ السَّمَـٰوَٰتِ وَ الْاَرْضِ ۖ ثُمَّ اِلَيْهِ تُرْجَعُونَ",
     "urdu_text": "کہہ دیجیے: تمام شفاعت صرف اللہ ہی کے اختیار میں ہے، آسمانوں اور زمین کی بادشاہی اسی کی ہے، پھر تم سب اسی کی طرف لوٹائے جاؤ گے۔",
     "persian_text": "بگو: شفاعت تماماً از آن خداست، فرمانروایی آسمان‌ها و زمین از آن اوست، سپس به سوی او بازگردانده می‌شوید.",
     "transliteration": "Qul lillaahish-shafaa'atu jamee'aa, lahoo mulkus-samaawaati wal-ard, thumma ilayhi turja'oon"
@@ -369,7 +369,7 @@ ayats = [
   {
     "verse_number": 46,
     "english_text": "Now say: O Lord, Creator of the earth and the skies, knower of the seen and unseen, You only can judge the matter among them in which they dispute.",
-    "arabic_text": "قُلِ اللّٰهُمَّ فَاطِرَ السَّمَـٰوَٰتِ وَالْاَرْضِ عَـٰلِمَ الْغَيْبِ وَالشَّهَـٰدَةِ اَنتَ تَحْكُمُ بَيْنَ عِبَادِكَ فِى مَا كَانُواْ فِيهِ يَخْتَلِفُونَ",
+    "arabic_text": "قُلِ اللّٰهُمَّ فَاطِرَ السَّمَـٰوَٰتِ وَ الْاَرْضِ عَـٰلِمَ الْغَيْبِ وَالشَّهَـٰدَةِ اَنتَ تَحْكُمُ بَيْنَ عِبَادِكَ فِى مَا كَانُواْ فِيهِ يَخْتَلِفُونَ",
     "urdu_text": "کہہ دیجیے: اے اللہ! آسمانوں اور زمین کے پیدا کرنے والے، غیب اور حاضر کے جانے والے، تو ہی اپنے بندوں کے درمیان ان باتوں میں فیصلہ کرے گا جن میں وہ اختلاف کرتے تھے۔",
     "persian_text": "بگو: ای خدا، ای آفریننده آسمان‌ها و زمین، ای دانای نهان و آشکار، تو میان بندگانت در آنچه در آن اختلاف می‌کردند داوری خواهی کرد.",
     "transliteration": "Qulil-laahumma faatiras-samaawaati wal-ardi 'aalimal-ghaybi wash-shahaadati anta tahkumu bayna 'ibaadika fee maa kaanoo feehi yakhtalifoon"
@@ -505,7 +505,7 @@ ayats = [
   {
     "verse_number": 63,
     "english_text": "With Him are all the keys of earth and skies, and whoever denies His verses are going to be in loss.",
-    "arabic_text": "لَّهُ مَقَالِيدُ السَّمَـٰوَٰتِ وَالْاَرْضِ ۗ وَالَّذِينَ كَفَرُواْ بِـَٔايَـٰتِ اللّٰهِ اُو۟لَـٰٓئِكَ هُمُ الْخَـٰسِرُونَ",
+    "arabic_text": "لَّهُ مَقَالِيدُ السَّمَـٰوَٰتِ وَ الْاَرْضِ ۗ وَالَّذِينَ كَفَرُواْ بِـَٔايَـٰتِ اللّٰهِ اُو۟لَـٰٓئِكَ هُمُ الْخَـٰسِرُونَ",
     "urdu_text": "اسی کے پاس زمین اور آسمانوں کی تمام کنجیاں ہیں، اور جو لوگ اللہ کی آیات کا انکار کرتے ہیں وہی نقصان اٹھانے والے ہیں۔",
     "persian_text": "کلیدهای آسمان‌ها و زمین از آنِ اوست، و کسانی که آیات خدا را انکار می‌کنند، آنان زیانکارانند.",
     "transliteration": "Lahoo maqaaleedus-samaawaati wal-ard, walladheena kafaroo bi-aayaatil-laahi ulaa'ika humul-khaasiroon"

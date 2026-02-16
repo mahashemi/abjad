@@ -145,7 +145,7 @@ ayats = [
   {
     "verse_number": 18,
     "english_text": "All the Praise of the earth and the sky belong to Him, and at the time of evening and noon.",
-    "arabic_text": "وَلَهُ الْحَمْدُ فِى السَّمَـٰوَٰتِ وَالْاَرْضِ وَعَشِيًّۭا وَحِينَ تُظْهِرُونَ",
+    "arabic_text": "وَلَهُ الْحَمْدُ فِى السَّمَـٰوَٰتِ وَ الْاَرْضِ وَعَشِيًّۭا وَحِينَ تُظْهِرُونَ",
     "urdu_text": "اور آسمانوں اور زمین میں تمام تعریفیں اسی کے لیے هیں، اور عصر کے وقت اور جب تم ظهر کرو۔",
     "persian_text": "و ستایش در آسمان‌ها و زمین از آنِ اوست، و هنگام عصر و هنگام ظهر.",
     "transliteration": "Wa lahul-hamdu fis-samaawaati wal-ardi wa 'ashiyyan wa heena tuzhiroon"
@@ -177,7 +177,7 @@ ayats = [
   {
     "verse_number": 22,
     "english_text": "And among His signs are creation of skies and the earth and difference between your languages and colour, there are many signs in this for the people who ponder.",
-    "arabic_text": "وَ مِنْ اٰيٰتِهِ خَلْقُ السَّمَـٰوَٰتِ وَالْاَرْضِ وَاخْتِلَـٰفُ اَلْسِنَتِكُمْ وَاَلْوَٰنِكُمْ ۚ اِنَّ فِى ذٰلِكَ لَـَٔايَـٰتٍۢ لِّلْعَـٰلِمِينَ",
+    "arabic_text": "وَ مِنْ اٰيٰتِهِ خَلْقُ السَّمَـٰوَٰتِ وَ الْاَرْضِ وَاخْتِلَـٰفُ اَلْسِنَتِكُمْ وَاَلْوَٰنِكُمْ ۚ اِنَّ فِى ذٰلِكَ لَـَٔايَـٰتٍۢ لِّلْعَـٰلِمِينَ",
     "urdu_text": "اور اس کی نشانیوں میں سے آسمانوں اور زمین کی تخلیق اور تمهاری زبانوں اور رنگوں کا اختلاف هے، بے شک اس میں جاننے والوں کے لیے بهت سی نشانیاں هیں۔",
     "persian_text": "و از نشانه‌های او آفرینش آسمان‌ها و زمین و اختلاف زبان‌ها و رنگ‌های شماست، همانا در این نشانه‌های بسیاری است برای دانایان.",
     "transliteration": "Wa min aayaatihi khalqus samaawaati wal-ardi wakhtilaafu alsinatikum wa alwaanikum; inna fee dhaalika la-aayaatil lil-'aalameen"
@@ -209,7 +209,7 @@ ayats = [
   {
     "verse_number": 26,
     "english_text": "Whatever is in sky and on the earth is his property, and everything is His obedient.",
-    "arabic_text": "وَلَهُ مَن فِى السَّمَـٰوَٰتِ وَالْاَرْضِ ۖ كُلٌّۭ لَّهُ قَـٰنِتُونَ",
+    "arabic_text": "وَلَهُ مَن فِى السَّمَـٰوَٰتِ وَ الْاَرْضِ ۖ كُلٌّۭ لَّهُ قَـٰنِتُونَ",
     "urdu_text": "اور جو کچھ آسمانوں اور زمین میں هے اسی کی ملکیت هے، اور سب اسی کے فرمانبردار هیں۔",
     "persian_text": "و آنچه در آسمان‌ها و زمین است از آن اوست، همه برای او فرمانبردارند.",
     "transliteration": "Wa lahu man fis samaawaati wal-ard; kullul lahu qaanitoon"
@@ -217,7 +217,7 @@ ayats = [
   {
     "verse_number": 27,
     "english_text": "And that is He, who begins the creation, then brings to life again, and this is very easy for Him, and to Him belongs the loftiest example in the sky and the earth, and He is Predominant on all and has Wisdom.",
-    "arabic_text": "وَهُوَ الَّذِى يَبْدَؤُاْ الْخَلْقَ ثُمَّ يُعِيدُهُ وَهُوَ اَهْوَنُ عَلَيْهِ ۚ وَلَهُ الْمَثَلُ الْاَعْلَىٰ فِى السَّمَـٰوَٰتِ وَالْاَرْضِ ۚ وَهُوَ الْعَزِيزُ الْحَكِيمُ",
+    "arabic_text": "وَهُوَ الَّذِى يَبْدَؤُاْ الْخَلْقَ ثُمَّ يُعِيدُهُ وَهُوَ اَهْوَنُ عَلَيْهِ ۚ وَلَهُ الْمَثَلُ الْاَعْلَىٰ فِى السَّمَـٰوَٰتِ وَ الْاَرْضِ ۚ وَهُوَ الْعَزِيزُ الْحَكِيمُ",
     "urdu_text": "اور وهی هے جو پهلی بار تخلیق کرتا هے، پھر دوباره زنده کرتا هے، اور یه اس پر بهت آسان هے، اور آسمانوں اور زمین میں سب سے اعلیٰ مثال اسی کی هے، اور وه غالب اور حکمت والا هے۔",
     "persian_text": "و او کسی است که آفرینش را آغاز می‌کند سپس آن را باز می‌گرداند و این بر او بسیار آسان است، و برترین مثال در آسمان‌ها و زمین از آن اوست، و او شکست‌ناپذیر و حکیم است.",
     "transliteration": "Wa huwal ladhee yabda'ul khalqa thumma yu'eeduhu wa huwa ahwanu 'alayh; wa lahul mathalul a'laa fis samaawaati wal-ard; wa huwal 'azeezul hakeem"

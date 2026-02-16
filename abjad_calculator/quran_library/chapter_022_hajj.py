@@ -561,7 +561,7 @@ ayats = [
   {
     "verse_number": 70,
     "english_text": "(O Prophet!) Don't you know whatever is in the skies and on earth Allah Verily knows it, indeed it all is all secure in this Book, verily this is easy for Allah.",
-    "arabic_text": "اَلَمْ تَعْلَمْ اَنَّ اللّٰهَ يَعْلَمُ مَا فِى السَّمَآءِ وَالْاَرْضِ ۗ اِنَّ ذٰلِكَ فِى كِتٰبٍ ۚ اِنَّ ذٰلِكَ عَلَى اللّٰهِ يَسِيرٌۭ",
+    "arabic_text": "اَلَمْ تَعْلَمْ اَنَّ اللّٰهَ يَعْلَمُ مَا فِى السَّمَآءِ وَ الْاَرْضِ ۗ اِنَّ ذٰلِكَ فِى كِتٰبٍ ۚ اِنَّ ذٰلِكَ عَلَى اللّٰهِ يَسِيرٌۭ",
     "urdu_text": "کیا تم نهیں جانتے که جو کچھ آسمان اور زمین میں هے الله اسے جانتا هے، بیشک یه سب ایک کتاب میں محفوظ هے، یقیناً یه الله پر آسان هے۔",
     "persian_text": "آیا نمی‌دانی که الله آنچه در آسمان و زمین است می‌داند، همانا آن در کتابی است، یقیناً این بر الله آسان است.",
     "transliteration": "Alam ta'lam anna Allaha ya'lamu ma fee as-sama'i wal-ardi inna dhalika fee kitabin inna dhalika 'ala Allahi yaseer"

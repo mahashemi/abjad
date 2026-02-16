@@ -113,7 +113,7 @@ ayats = [
   {
     "verse_number": 14,
     "english_text": "And We strengthened their hearts (with patience and liberty), so they stood up and said: our Lord is master of the skies and the earth, and we will never worship any god except Him; if we do this then it would be irrational.",
-    "arabic_text": "وَرَبَطْنَا عَلَىٰ قُلُوبِهِمْ اِذْ قَامُواْ فَقَالُوْاْ رَبُّنَا رَبُّ السَّمَـٰوَٰتِ وَالْاَرْضِ لَن نَّدْعُوَاْ مِن دُونِهِٓ اِلَـٰهًۭا ۖ لَّقَدْ قُلْنَآ اِذًۭا شَطَطًا",
+    "arabic_text": "وَرَبَطْنَا عَلَىٰ قُلُوبِهِمْ اِذْ قَامُواْ فَقَالُوْاْ رَبُّنَا رَبُّ السَّمَـٰوَٰتِ وَ الْاَرْضِ لَن نَّدْعُوَاْ مِن دُونِهِٓ اِلَـٰهًۭا ۖ لَّقَدْ قُلْنَآ اِذًۭا شَطَطًا",
     "urdu_text": "اور هم نے ان کے دلوں کو مضبوط کیا جب وه کھڑے هوئے اور کها: همارا رب آسمانوں اور زمین کا رب هے، هم اس کے سوا کسی معبود کو نهیں پکاریں گے، اگر هم ایسا کریں تو یقیناً بے جا بات کهیں گے۔",
     "persian_text": "و ما بر دل‌هایشان استواری بخشیدیم، هنگامی که برخاستند و گفتند: پروردگار ما، پروردگار آسمان‌ها و زمین است، هرگز جز او معبودی را نخواهیم خواند، اگر چنین کنیم قطعاً سخنی گزاف گفته‌ایم.",
     "transliteration": "Wa rabatna 'ala qulubihim idh qamu faqalu rabbuna rabbus-samawati wal-ardi lan nad'uwa min dunihi ilaha, laqad qulna idhan shatata"
@@ -209,7 +209,7 @@ ayats = [
   {
     "verse_number": 26,
     "english_text": "(O Prophet, if they do not believe say): Allah knows well their period of stay, knowledge of the unseen of the skies and the earth is exclusive for Allah only, how clear He sees and how clear He hears; there is no guardian for them except Him, and He does not associate anybody in His commands.",
-    "arabic_text": "قُلِ اللّٰهُ اَعْلَمُ بِمَا لَبِثُواْ ۖ لَهُ غَيْبُ السَّمَـٰوَٰتِ وَالْاَرْضِ ۖ اَبْصِرْ بِهِ وَاَسْمِعْ ۚ مَا لَهُم مِّن دُونِهِ مِن وَلِىٍّۢ وَ لَا يُشْرِكُ فِى حُكْمِهِٓ اَحَدًۭا",
+    "arabic_text": "قُلِ اللّٰهُ اَعْلَمُ بِمَا لَبِثُواْ ۖ لَهُ غَيْبُ السَّمَـٰوَٰتِ وَ الْاَرْضِ ۖ اَبْصِرْ بِهِ وَاَسْمِعْ ۚ مَا لَهُم مِّن دُونِهِ مِن وَلِىٍّۢ وَ لَا يُشْرِكُ فِى حُكْمِهِٓ اَحَدًۭا",
     "urdu_text": "اے نبی کهه دیجیے که الله هی ان کے ٹھهرنے کی مدت کو خوب جانتا هے، آسمانوں اور زمین کے غیب کا علم صرف اسی کے لیے هے، وه کتنا اچھا دیکھنے والا اور کتنا اچھا سننے والا هے، ان کے لیے اس کے سوا کوئی کارساز نهیں، اور وه اپنے حکم میں کسی کو شریک نهیں کرتا۔",
     "persian_text": "بگو: خداوند به مدت ماندن آنان داناتر است، علم غیب آسمان‌ها و زمین از آن اوست، چه بینا و چه شنواست او! آنان را جز او سرپرستی نیست و او در فرمان خود کسی را شریک نمی‌سازد.",
     "transliteration": "Qulillahu a'lamu bima labithu lahu ghaybus-samawati wal-ard absir bihi wa asmi' ma lahum min dunihi min waliyyin wa la yushriku fi hukmihi ahada"
@@ -409,7 +409,7 @@ ayats = [
   {
     "verse_number": 51,
     "english_text": "I did not called upon them (as witness) when I was creating the skies and the earth, and I did not called them (as witness) when I was creating them; I was not like that who would make helpers to those who go astray.",
-    "arabic_text": "۞ مَّآ اَشْهَدتُّهُمْ خَلْقَ السَّمَـٰوَٰتِ وَالْاَرْضِ وَ لَا خَلْقَ اَنفُسِهِمْ وَ مَا كُنتُ مُتَّخِذَ الْمُضِلِّينَ عَضُدًۭا",
+    "arabic_text": "۞ مَّآ اَشْهَدتُّهُمْ خَلْقَ السَّمَـٰوَٰتِ وَ الْاَرْضِ وَ لَا خَلْقَ اَنفُسِهِمْ وَ مَا كُنتُ مُتَّخِذَ الْمُضِلِّينَ عَضُدًۭا",
     "urdu_text": "میں نے انهیں آسمانوں اور زمین کی تخلیق کے وقت حاضر نهیں کیا تھا اور نه هی ان کی اپنی تخلیق کے وقت، اور میں ایسا نهیں هوں که گمراه کرنے والوں کو اپنا مددگار بناؤں۔",
     "persian_text": "من آنها را هنگام آفرینش آسمان‌ها و زمین حاضر نکردم و نه هنگام آفرینش خودشان، و من هرگز گمراه‌کنندگان را یاور خود قرار نمی‌دهم.",
     "transliteration": "Maa ash-hadtuhum khalqas samaawaati wal-ardi wa laa khalqa anfusihim wa maa kuntu muttakhidhal mudilleena 'aduda"

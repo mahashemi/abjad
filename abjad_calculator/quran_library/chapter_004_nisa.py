@@ -994,7 +994,7 @@ ayats = [
   {
     "verse_number": 125,
     "english_text": "And who can be more religious than he who has submitted himself and bow down before Allah, who is pious also and tread the path of Ibrahim, who was used to walk aside from falsehood, and Allah took Ibrahim as friend.",
-    "arabic_text": "وَ مَنْ اَحْسَنُ دِيْنًا مِّمَّنْ اَسْلَمَ وَجْهَهُ لِلَّهِ وَ هُوَ مُحْسِنٌ وَ اتَّبَعَ مِلَّةَ اِبْرٰهِيْمَ حَنِيْفًا   وَ اتَّخَذَ اللّٰهُ اِبْرٰهِيْمَ خَلِيْلًا",
+    "arabic_text": "وَ مَنْ اَحْسَنُ دِيْنًا مِّمَّنْ اَسْلَمَ وَجْهَهُ لِلّٰهِ وَ هُوَ مُحْسِنٌ وَ اتَّبَعَ مِلَّةَ اِبْرٰهِيْمَ حَنِيْفًا   وَ اتَّخَذَ اللّٰهُ اِبْرٰهِيْمَ خَلِيْلًا",
     "urdu_text": "اور اس سے بہتر دین والا کون ہو سکتا ہے جس نے اپنا چہرہ اللہ کے سامنے جھکا دیا اور وہ نیکو کار بھی ہے اور ابراہیم کی ملت کی پیروی کرتا ہے جو یکسو تھے، اور اللہ نے ابراہیم کو اپنا خلیل بنایا",
     "persian_text": "و چه کسی بهتر از آن است که خود را تسلیم خدا کند و نیکوکار باشد و از آیین ابراهیم که یکتاپرست بود پیروی نماید، و خداوند ابراهیم را دوست خود قرار داد",
     "transliteration": "Wa man ahsanu deenan mimman aslama wajhahu lillaahi wa huwa muhsinun wattaba'a millata Ibraaheema haneefaa, wattakhazallaahu Ibraaheema khaleelaa",
@@ -1002,7 +1002,7 @@ ayats = [
   {
     "verse_number": 126,
     "english_text": "Whatever is in the skies and on the earth belongs to Allah and He encompasses everything with His Power.",
-    "arabic_text": "وَ لِلَّهِ مَا فِى السَّمٰوٰتِ وَ مَا فِى الْاَرْضِ  وَ كَانَ اللّٰهُ بِكُلِّ شَىْءٍ مُّحِيْطًا",
+    "arabic_text": "وَ لِلّٰهِ مَا فِى السَّمٰوٰتِ وَ مَا فِى الْاَرْضِ  وَ كَانَ اللّٰهُ بِكُلِّ شَىْءٍ مُّحِيْطًا",
     "urdu_text": "اور جو کچھ آسمانوں میں ہے اور جو کچھ زمین میں ہے سب اللہ ہی کا ہے اور اللہ ہر چیز کو اپنے احاطے میں لیے ہوئے ہے",
     "persian_text": "و آنچه در آسمان‌ها و آنچه در زمین است از آنِ خداست و خداوند به هر چیزی احاطه دارد",
     "transliteration": "Wa lillahi ma fis-samawati wa ma fil-ard, wa kana Allahu bikulli shay'im-muhita",
@@ -1042,7 +1042,7 @@ ayats = [
   {
     "verse_number": 131,
     "english_text": "Whatever is in skies and whatever is on the earth all belong to Allah, We granted the book to the people before you, and to you also, We enjoined that keep fearing (from disobeying) Allah, and if you disbelieve (you cannot harm Allah, and remember) whatever is in skies and whatever in on the earth all belong to Allah and Allah is Self-Sufficient, and Praise-Worthy.",
-    "arabic_text": "وَ لِلَّهِ مَا فِى السَّمٰوٰتِ وَ مَا فِى الْاَرْضِ   وَ لَقَدْ وَصَّيْنَا الَّذِينَ اُوْتُوْا الْكِتٰبَ مِنْ قَبْلِكُمْ وَ اِيَّاكُمْ اَنِ اتَّقُوا اللّٰهَ ۚ وَ اِنْ تَكْفُرُوْا فَاِنَّ لِلَّهِ مَا فِى السَّمٰوٰتِ وَ مَا فِى الْاَرْضِ   وَ كَانَ اللّٰهُ غَنِيًّا حَمِيْدًا",
+    "arabic_text": "وَ لِلّٰهِ مَا فِى السَّمٰوٰتِ وَ مَا فِى الْاَرْضِ   وَ لَقَدْ وَصَّيْنَا الَّذِينَ اُوْتُوْا الْكِتٰبَ مِنْ قَبْلِكُمْ وَ اِيَّاكُمْ اَنِ اتَّقُوا اللّٰهَ ۚ وَ اِنْ تَكْفُرُوْا فَاِنَّ لِلّٰهِ مَا فِى السَّمٰوٰتِ وَ مَا فِى الْاَرْضِ   وَ كَانَ اللّٰهُ غَنِيًّا حَمِيْدًا",
     "urdu_text": "اور جو کچھ آسمانوں میں ہے اور جو کچھ زمین میں ہے سب اللہ ہی کا ہے، اور ہم نے ان لوگوں کو جنہیں تم سے پہلے کتاب دی گئی تھی اور تمہیں بھی یہی تاکید کی ہے کہ اللہ سے ڈرتے رہو، اور اگر تم کفر کرو تو یاد رکھو کہ جو کچھ آسمانوں میں ہے اور جو کچھ زمین میں ہے سب اللہ ہی کا ہے، اور اللہ بے نیاز اور قابل تعریف ہے۔",
     "persian_text": "و آنچه در آسمان‌ها و آنچه در زمین است از آنِ خداست، و ما به کسانی که پیش از شما کتاب به آنان داده شد و به شما نیز سفارش کردیم که از خدا پروا کنید، و اگر کفر ورزید، پس آنچه در آسمان‌ها و آنچه در زمین است از آنِ خداست، و خداوند بی‌نیاز و ستوده است.",
     "transliteration": "Wa lillahi ma fis-samawati wa ma fil-ard, wa laqad wassaynal-ladhina utul-kitaba min qablikum wa iyyakum anit-taqullaha, wa in takfuru fa-inna lillahi ma fis-samawati wa ma fil-ard, wa kanallahu ghaniyyan hamida",
@@ -1050,7 +1050,7 @@ ayats = [
   {
     "verse_number": 132,
     "english_text": "Whatever is in skies and whatever is on the earth everything belongs to Allah, and Allah is enough for Guardianship.",
-    "arabic_text": "وَ لِلَّهِ مَا فِى السَّمٰوٰتِ وَ مَا فِى الْاَرْضِ  وَ كَفٰى بِاللّٰهِ وَكِيْلًا",
+    "arabic_text": "وَ لِلّٰهِ مَا فِى السَّمٰوٰتِ وَ مَا فِى الْاَرْضِ  وَ كَفٰى بِاللّٰهِ وَكِيْلًا",
     "urdu_text": "اور جو کچھ آسمانوں میں ہے اور جو کچھ زمین میں ہے سب اللہ ہی کا ہے، اور اللہ کارساز ہونے کے لیے کافی ہے۔",
     "persian_text": "و آنچه در آسمان‌ها و آنچه در زمین است از آنِ خداست، و خداوند به عنوان کارگزار کافی است.",
     "transliteration": "Wa lillahi ma fis-samawati wa ma fil-ard, wa kafa billahi wakila",
@@ -1074,7 +1074,7 @@ ayats = [
   {
     "verse_number": 135,
     "english_text": "O Believers, hold fast to justice, and testify truly for the sake of Allah, even if it is against you, your parents, relatives, rich or poor, Allah is more Compassionate for them, do not follow your evil desires, lest you deviate; and if you testify with break-and-twist or abstain fully then, Verily, Allah is well aware of what you do.",
-    "arabic_text": "يٰٓاَيُّهَا الَّذِيْنَ اٰمَنُوْا كُوْنُوْا قَوّٰمِيْنَ بِالْقِسْطِ شُهَدَآءَ لِلَّهِ وَ لَوْ عَلَىٰٓ اَنْفُسِكُمْ اَوِ الْوَالِدَيْنِ وَ الْاَقْرَبِيْنَ ۚ اِنْ يَّكُنْ غَنِيًّا اَوْ فَقِيْرًا فَاللّٰهُ اَوْلَٰى بِهِمَا   فَلَا تَتَّبِعُوْا الْهَوٰٓى اَن تَعْدِلُوْا ۚ وَ اِنْ تَلْوُٓا اَوْ تُعْرِضُوْا فَاِنَّ اللّٰهَ كَانَ بِمَا تَعْمَلُوْنَ خَبِيْرًا",
+    "arabic_text": "يٰٓاَيُّهَا الَّذِيْنَ اٰمَنُوْا كُوْنُوْا قَوّٰمِيْنَ بِالْقِسْطِ شُهَدَآءَ لِلّٰهِ وَ لَوْ عَلَىٰٓ اَنْفُسِكُمْ اَوِ الْوَالِدَيْنِ وَ الْاَقْرَبِيْنَ ۚ اِنْ يَّكُنْ غَنِيًّا اَوْ فَقِيْرًا فَاللّٰهُ اَوْلَٰى بِهِمَا   فَلَا تَتَّبِعُوْا الْهَوٰٓى اَن تَعْدِلُوْا ۚ وَ اِنْ تَلْوُٓا اَوْ تُعْرِضُوْا فَاِنَّ اللّٰهَ كَانَ بِمَا تَعْمَلُوْنَ خَبِيْرًا",
     "urdu_text": "اے ایمان والو! انصاف پر قائم رہنے والے بنو، اللہ کے لیے سچی گواہی دینے والے بنو، خواہ وہ تمہارے اپنے خلاف ہو یا والدین اور رشتہ داروں کے خلاف، چاہے وہ امیر ہو یا غریب، اللہ ان دونوں کا زیادہ خیر خواہ ہے، پس اپنی خواہشات کی پیروی نہ کرو کہ انصاف سے ہٹ جاؤ، اور اگر تم نے گواہی میں توڑ موڑ کی یا اس سے منہ پھیر لیا تو یقیناً اللہ تمہارے اعمال سے باخبر ہے۔",
     "persian_text": "ای کسانی که ایمان آورده‌اید! پایدار به عدالت باشید و برای خدا گواهی دهید، اگرچه بر ضرر خودتان یا پدر و مادر و خویشاوندان باشد، خواه ثروتمند باشد یا فقیر، خداوند به هر دو سزاوارتر است، پس از هوای نفس پیروی نکنید تا از عدالت منحرف شوید، و اگر سخن را بپیچانید یا روی گردانید، پس خداوند به آنچه انجام می‌دهید آگاه است.",
     "transliteration": "Ya ayyuhal-ladhina amanu kunu qawwamina bil-qisti shuhada'a lillahi wa law 'ala anfusikum awil-walidayni wal-aqrabina, iny-yakun ghaniyyan aw faqiran fallahu awla bihima, fala tattabi'ul-hawa an ta'dilu, wa in talwu aw tu'ridu fa-innallaha kana bima ta'maluna khabira",
@@ -1106,7 +1106,7 @@ ayats = [
   {
     "verse_number": 139,
     "english_text": "Those who make infidels their guardian instead of believers and search for honor with them (they should know) Verily, Honor is entirely for Allah (only).",
-    "arabic_text": "الَّذِيْنَ يَتَّخِذُوْنَ الْكٰفِرِيْنَ اَوْلِيَآءَ مِنْ دُونِ الْمُؤْمِنِيْنَ  اَيَبْتَغُوْنَ عِنْدَهُمُ الْعِزَّةَ فَاِنَّ الْعِزَّةَ لِلَّهِ جَمِيْعًا",
+    "arabic_text": "الَّذِيْنَ يَتَّخِذُوْنَ الْكٰفِرِيْنَ اَوْلِيَآءَ مِنْ دُونِ الْمُؤْمِنِيْنَ  اَيَبْتَغُوْنَ عِنْدَهُمُ الْعِزَّةَ فَاِنَّ الْعِزَّةَ لِلّٰهِ جَمِيْعًا",
     "urdu_text": "جو لوگ مومنوں کو چھوڑ کر کافروں کو اپنا دوست بناتے ہیں، کیا وہ ان کے پاس عزت تلاش کرتے ہیں؟ تو بیشک تمام عزت اللہ ہی کے لیے ہے۔",
     "persian_text": "کسانی که کافران را به جای مؤمنان به دوستی می‌گیرند، آیا نزد آنان عزت می‌جویند؟ پس همانا عزت همه از آنِ خداست.",
     "transliteration": "Alladhina yattakhidhunal-kafirina awliya'a min dunil-mu'minin, ayabtaghuna 'indahumul-'izzah fa-innal-'izzata lillahi jami'a",
@@ -1146,7 +1146,7 @@ ayats = [
   {
     "verse_number": 144,
     "english_text": "O Believers, do not make unbelievers your guardian instead of believers, do you wish to offer clear proof against you to Allah.",
-    "arabic_text": "يٰٓاَيُّهَا الَّذِيْنَ اٰمَنُوْا لَا تَتَّخِذُوْا الْكٰفِرِيْنَ اَوْلِيَآءَ مِنْ دُونِ الْمُؤْمِنِيْنَ  اَتُرِيْدُوْنَ اَنْ تَجْعَلُوْا لِلَّهِ عَلَيْكُمْ سُلْطٰنًا مُّبِيْنًا",
+    "arabic_text": "يٰٓاَيُّهَا الَّذِيْنَ اٰمَنُوْا لَا تَتَّخِذُوْا الْكٰفِرِيْنَ اَوْلِيَآءَ مِنْ دُونِ الْمُؤْمِنِيْنَ  اَتُرِيْدُوْنَ اَنْ تَجْعَلُوْا لِلّٰهِ عَلَيْكُمْ سُلْطٰنًا مُّبِيْنًا",
     "urdu_text": "اے ایمان والو! مومنوں کو چھوڑ کر کافروں کو اپنا دوست نہ بناؤ، کیا تم چاہتے ہو کہ اللہ کے لیے اپنے خلاف کھلی دلیل فراہم کرو؟",
     "persian_text": "ای کسانی که ایمان آورده‌اید، کافران را به جای مؤمنان دوست و سرپرست خود قرار ندهید، آیا می‌خواهید برای خداوند علیه خودتان دلیل آشکاری قرار دهید؟",
     "transliteration": "Yaaa ayyuhal-lazeena aamanoo laa tattakhizul-kaafireena awliyaaa'a min doonil-mu'mineen a-tureedoona an taj'aloo lillaahi 'alaykum sultaanan mubeenaa",
@@ -1162,7 +1162,7 @@ ayats = [
   {
     "verse_number": 146,
     "english_text": "But those who repented from hypocrisy, amended their way and hold fast to Allah, and followed religion just for Allah, these people will be in Paradise with the believers, and shortly Allah will bestow great rewards upon the believers.",
-    "arabic_text": "اِلَّا الَّذِيْنَ تَابُوْا وَ اَصْلَحُوْا وَ اعْتَصَمُوْا بِاللّٰهِ وَ اَخْلَصُوْا دِيْنَهُمْ لِلَّهِ فَاوْلٰٓئِكَ مَعَ الْمُؤْمِنِيْنَ   وَ سَوْفَ يُؤْتِ اللّٰهُ الْمُؤْمِنِيْنَ اَجْرًا عَظِيْمًا",
+    "arabic_text": "اِلَّا الَّذِيْنَ تَابُوْا وَ اَصْلَحُوْا وَ اعْتَصَمُوْا بِاللّٰهِ وَ اَخْلَصُوْا دِيْنَهُمْ لِلّٰهِ فَاوْلٰٓئِكَ مَعَ الْمُؤْمِنِيْنَ   وَ سَوْفَ يُؤْتِ اللّٰهُ الْمُؤْمِنِيْنَ اَجْرًا عَظِيْمًا",
     "urdu_text": "مگر جنہوں نے توبہ کر لی اور اپنے طریقے کو درست کیا اور اللہ کو مضبوطی سے تھام لیا اور اپنے دین کو خالص اللہ کے لیے کر لیا، تو یہ لوگ مومنوں کے ساتھ ہوں گے، اور عنقریب اللہ مومنوں کو بہت بڑا اجر عطا فرمائے گا",
     "persian_text": "مگر کسانی که توبه کردند و اصلاح نمودند و به خدا چنگ زدند و دین خود را خالص برای خدا کردند، پس اینان با مؤمنان خواهند بود و به زودی خداوند به مؤمنان پاداش بزرگی خواهد داد",
     "transliteration": "Illal-lazeena taaboo wa aslahoo wa'tasimoo billaahi wa akhlasoo deenahum lillaahi fa-ulaaa'ika ma'al-mu'mineen, wa sawfa yu'tillaahul-mu'mineena ajran 'azeemaa",
@@ -1354,7 +1354,7 @@ ayats = [
   {
     "verse_number": 170,
     "english_text": "O People, the Prophet has come from Allah to you with truth, so believe and this is better for you and if you will deny. (then know) that whatever is in the skies and on the earth everything belongs to Allah and He is Knowing and Wise.",
-    "arabic_text": "يٰٓاَيُّهَا النَّاسُ قَدْ جَآءَكُمُ الرَّسُوْلُ بِالْحَقِّ مِنْ رَّبِّكُمْ فَاٰمِنُوْا خَيْرًا لَّكُمْ  وَ اِنْ تَكْفُرُوْا فَاِنَّ لِلَّهِ مَا فِى السَّمٰوٰتِ وَ الْاَرْضِ  وَ كَانَ اللّٰهُ عَلِيْمًا حَكِيْمًا",
+    "arabic_text": "يٰٓاَيُّهَا النَّاسُ قَدْ جَآءَكُمُ الرَّسُوْلُ بِالْحَقِّ مِنْ رَّبِّكُمْ فَاٰمِنُوْا خَيْرًا لَّكُمْ  وَ اِنْ تَكْفُرُوْا فَاِنَّ لِلّٰهِ مَا فِى السَّمٰوٰتِ وَ الْاَرْضِ  وَ كَانَ اللّٰهُ عَلِيْمًا حَكِيْمًا",
     "urdu_text": "اے لوگو! تمہارے پاس رسول تمہارے رب کی طرف سے حق لے کر آیا ہے، پس ایمان لاؤ یہ تمہارے لیے بہتر ہے، اور اگر تم انکار کرو تو جو کچھ آسمانوں اور زمین میں ہے سب اللہ ہی کا ہے، اور اللہ جاننے والا حکمت والا ہے",
     "persian_text": "ای مردم! پیامبر با حق از جانب پروردگارتان به سوی شما آمده است، پس ایمان بیاورید که برای شما بهتر است، و اگر کفر ورزید، همانا آنچه در آسمان‌ها و زمین است از آن خداست، و خداوند دانا و حکیم است",
     "transliteration": "Ya ayyuhan-nasu qad ja'akumur-rasulu bil-haqqi mir-rabbikum fa aminu khayral-lakum, wa in takfuru fa inna lillahi ma fis-samawati wal-ard, wa kanal-lahu 'aliman hakima",

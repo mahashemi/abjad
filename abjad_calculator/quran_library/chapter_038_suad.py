@@ -81,7 +81,7 @@ ayats = [
   {
     "verse_number": 10,
     "english_text": "Or they have an option between sky and the earth that they climb the sky with a ladder.",
-    "arabic_text": "اَمْ لَهُم مُّلْكُ السَّمَـٰوَٰتِ وَالْاَرْضِ وَ مَا بَيْنَهُمَا ۖ فَلْيَرْتَقُواْ فِى الْاَسْبَـٰبِ",
+    "arabic_text": "اَمْ لَهُم مُّلْكُ السَّمَـٰوَٰتِ وَ الْاَرْضِ وَ مَا بَيْنَهُمَا ۖ فَلْيَرْتَقُواْ فِى الْاَسْبَـٰبِ",
     "urdu_text": "یا ان کے پاس آسمانوں اور زمین اور جو کچھ ان کے درمیان ہے اس کی بادشاہی ہے؟ تو چاہیے کہ وہ آسمان پر سیڑھیوں سے چڑھ جائیں۔",
     "persian_text": "یا آنان مالک آسمان‌ها و زمین و آنچه میان آنهاست هستند؟ پس باید از راه‌ها و وسایل بالا روند.",
     "transliteration": "Am lahum mulkus-samaawaati wal-ardi wa maa baynahumaa falyartaqoo fil-asbaab"
@@ -529,7 +529,7 @@ ayats = [
   {
     "verse_number": 66,
     "english_text": "He is the Lord of the skies and the earth and all the creatures in between them, and He is Honorable and very Forgiving.",
-    "arabic_text": "رَبُّ السَّمَـٰوَٰتِ وَالْاَرْضِ وَ مَا بَيْنَهُمَا الْعَزِيزُ الْغَفَّـٰرُ",
+    "arabic_text": "رَبُّ السَّمَـٰوَٰتِ وَ الْاَرْضِ وَ مَا بَيْنَهُمَا الْعَزِيزُ الْغَفَّـٰرُ",
     "urdu_text": "وہ آسمانوں اور زمین اور ان کے درمیان جو کچھ ہے سب کا رب ہے، وہ غالب اور بہت بخشنے والا ہے۔",
     "persian_text": "او پروردگار آسمان‌ها و زمین و آنچه میان آنهاست، عزیز و بسیار آمرزنده است.",
     "transliteration": "Rabbus-samāwāti wal-arḍi wa mā baynahumā al-'azīzul-ghaffār"

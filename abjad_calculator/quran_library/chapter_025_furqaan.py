@@ -17,7 +17,7 @@ ayats = [
   {
     "verse_number": 2,
     "english_text": "All the Kingdom of the sky and the earth is His, He does not have any son, nor does he have any partner in His Kingdom, He has created everything and has made everything perfectly in size.",
-    "arabic_text": "الَّذِى لَهُ مُلْكُ السَّمَـٰوَٰتِ وَالْاَرْضِ وَلَمْ يَتَّخِذْ وَلَدًۭا وَلَمْ يَكُن لَّهُ شَرِيكٌۭ فِى الْمُلْكِ وَخَلَقَ كُلَّ شَىْءٍۢ فَقَدَّرَهُ تَقْدِيرًا",
+    "arabic_text": "الَّذِى لَهُ مُلْكُ السَّمَـٰوَٰتِ وَ الْاَرْضِ وَلَمْ يَتَّخِذْ وَلَدًۭا وَلَمْ يَكُن لَّهُ شَرِيكٌۭ فِى الْمُلْكِ وَخَلَقَ كُلَّ شَىْءٍۢ فَقَدَّرَهُ تَقْدِيرًا",
     "urdu_text": "وه جس کے لیے آسمانوں اور زمین کی بادشاهی هے، اس نے نه کوئی اولاد بنائی اور نه اس کی بادشاهی میں کوئی شریک هے، اس نے هر چیز کو پیدا کیا اور اسے مکمل اندازے کے ساتھ مقرر فرمایا۔",
     "persian_text": "آن کسی که فرمانروایی آسمان‌ها و زمین از آن اوست، نه فرزندی برگزیده و نه شریکی در فرمانروایی‌اش دارد، و هر چیزی را آفرید و آن را به اندازه‌ای کامل مقدر کرد.",
     "transliteration": "Allazee lahu mulkus-samawati wal-ardi wa lam yattakhiz waladan wa lam yakul-lahu shareekun fil-mulki wa khalaqa kulla shay'in faqaddarahu taqdeeran"
@@ -49,7 +49,7 @@ ayats = [
   {
     "verse_number": 6,
     "english_text": "Say: Quran is revealed by Who is aware of the secrets of skies and the earth, and indeed He is very Forgiving and Merciful.",
-    "arabic_text": "قُلْ اَنزَلَهُ الَّذِى يَعْلَمُ السِّرَّ فِى السَّمَـٰوَٰتِ وَالْاَرْضِ ۚ اِنَّهُ كَانَ غَفُورًا رَّحِيمًا",
+    "arabic_text": "قُلْ اَنزَلَهُ الَّذِى يَعْلَمُ السِّرَّ فِى السَّمَـٰوَٰتِ وَ الْاَرْضِ ۚ اِنَّهُ كَانَ غَفُورًا رَّحِيمًا",
     "urdu_text": "کهه دیجیے که اسے اس نے نازل فرمایا جو آسمانوں اور زمین کے رازوں کو جانتا هے، بیشک وه بڑا بخشنے والا اور مهربان هے۔",
     "persian_text": "بگو: آن را کسی نازل کرده که راز آسمان‌ها و زمین را می‌داند، همانا او بسیار آمرزنده و مهربان است.",
     "transliteration": "Qul anzalahul-lazee ya'lamus-sirra fis-samawati wal-ardi innahu kana ghafooran raheema"

@@ -577,7 +577,7 @@ ayats = [
   {
     "verse_number": 72,
     "english_text": "Verily, We presented trust to the sky, earth and the mountains, but everyone refused to carry it and expressed fear, it was humans who took it, that human is ignorant and unjust for his soul.",
-    "arabic_text": "اِنَّا عَرَضْنَا الْاَمَانَةَ عَلَى السَّمَـٰوَٰتِ وَالْاَرْضِ وَالْجِبَالِ فَاَبَيْنَ اَن يَحْمِلْنَهَا وَاَشْفَقْنَ مِنْهَا وَحَمَلَهَا الْاِنسَـٰنُ ۖ اِنَّهُ كَانَ ظَلُومًا جَهُولًا",
+    "arabic_text": "اِنَّا عَرَضْنَا الْاَمَانَةَ عَلَى السَّمَـٰوَٰتِ وَ الْاَرْضِ وَالْجِبَالِ فَاَبَيْنَ اَن يَحْمِلْنَهَا وَاَشْفَقْنَ مِنْهَا وَحَمَلَهَا الْاِنسَـٰنُ ۖ اِنَّهُ كَانَ ظَلُومًا جَهُولًا",
     "urdu_text": "بیشک هم نے امانت کو آسمانوں، زمین اور پهاڑوں پر پیش کیا، لیکن سب نے اسے اٹھانے سے انکار کر دیا اور اس سے ڈر گئے، مگر انسان نے اسے اٹھا لیا، بیشک وه بڑا ظالم اور نادان هے۔",
     "persian_text": "ما امانت را بر آسمان‌ها و زمین و کوه‌ها عرضه کردیم، اما همه از حمل آن سرباز زدند و از آن ترسیدند، ولی انسان آن را بر عهده گرفت، که او بسیار ستمگر و نادان است.",
     "transliteration": "Inna 'aradnal amānata 'alas samāwāti wal ardi wal jibāli fa abayna ay yahmilnahā wa ashfaqna minhā wa hamalahal insān, innahu kāna zalūman jahūlā"

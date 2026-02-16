@@ -89,7 +89,7 @@ ayats = [
   {
     "verse_number": 11,
     "english_text": "He is the Creator of the skies and the earth, He created the pairs from your souls and also made pairs among the animals, He is spreading you in the world with the pairs, nobody is like Him, He hears to all and sees everything.",
-    "arabic_text": "فَاطِرُ السَّمَـٰوَٰتِ وَالْاَرْضِ ۚ جَعَلَ لَكُم مِّنْ اَنفُسِكُمْ اَزْوَٰجًۭا وَمِنَ الْاَنْعَـٰمِ اَزْوَٰجًۭا ۖ يَذْرَؤُكُمْ فِيهِ ۚ لَيْسَ كَمِثْلِهِ شَىْءٌۭ ۖ وَهُوَ السَّمِيعُ الْبَصِيرُ",
+    "arabic_text": "فَاطِرُ السَّمَـٰوَٰتِ وَ الْاَرْضِ ۚ جَعَلَ لَكُم مِّنْ اَنفُسِكُمْ اَزْوَٰجًۭا وَمِنَ الْاَنْعَـٰمِ اَزْوَٰجًۭا ۖ يَذْرَؤُكُمْ فِيهِ ۚ لَيْسَ كَمِثْلِهِ شَىْءٌۭ ۖ وَهُوَ السَّمِيعُ الْبَصِيرُ",
     "urdu_text": "وه آسمانوں اور زمین کا پیدا کرنے والا هے، اُس نے تمهارے لیے تمهاری جنس سے جوڑے بنائے اور جانوروں میں بھی جوڑے بنائے، وه اِس طریقے سے تمهیں پھیلاتا هے، اُس کی مثل کوئی چیز نهیں، اور وه سننے والا دیکھنے والا هے۔",
     "persian_text": "او آفریننده آسمان‌ها و زمین است، برای شما از جنس خودتان جفت‌هایی قرار داد و از چارپایان نیز جفت‌هایی، به این وسیله شما را افزایش می‌دهد، هیچ چیز همانند او نیست، و او شنوای بیناست.",
     "transliteration": "Fatirus-samawati wal-ard, ja'ala lakum min anfusikum azwajan wa minal-an'ami azwaja, yadhraukum fihi, laysa kamithlihi shay'un, wa huwas-sami'ul-basir"
@@ -97,7 +97,7 @@ ayats = [
   {
     "verse_number": 12,
     "english_text": "All the keys of the sky and the earth are in His possession, He expands the sustenance of whoever He pleases, and straitens of whoever He pleases, He is well aware of everything.",
-    "arabic_text": "لَهُ مَقَالِيدُ السَّمَـٰوَٰتِ وَالْاَرْضِ ۖ يَبْسُطُ الرِّزْقَ لِمَن يَشَآءُ وَيَقْدِرُ ۚ اِنَّهُ بِكُلِّ شَىْءٍ عَلِيمٌۭ",
+    "arabic_text": "لَهُ مَقَالِيدُ السَّمَـٰوَٰتِ وَ الْاَرْضِ ۖ يَبْسُطُ الرِّزْقَ لِمَن يَشَآءُ وَيَقْدِرُ ۚ اِنَّهُ بِكُلِّ شَىْءٍ عَلِيمٌۭ",
     "urdu_text": "آسمانوں اور زمین کی کنجیاں اُسی کے پاس هیں، وه جس کے لیے چاهتا هے رزق فراخ کر دیتا هے اور جس کے لیے چاهتا هے تنگ کر دیتا هے، بیشک وه هر چیز کا جانے والا هے۔",
     "persian_text": "کلیدهای آسمان‌ها و زمین از آن اوست، روزی را برای هر که بخواهد گسترش می‌دهد و تنگ می‌گیرد، همانا او به هر چیزی داناست.",
     "transliteration": "Lahu maqalidus-samawati wal-ard, yabsutur-rizqa liman yasha'u wa yaqdir, innahu bikulli shay'in 'alim"
@@ -233,7 +233,7 @@ ayats = [
   {
     "verse_number": 29,
     "english_text": "And among His signs are creation of earth and the sky and all the living beings walking on it, and whenever He pleases, He has the power to collect them all.",
-    "arabic_text": "وَ مِنْ اٰيٰتِهِ خَلْقُ السَّمَـٰوَٰتِ وَالْاَرْضِ وَ مَا بَثَّ فِيهِمَا مِن دَآبَّةٍۢ ۚ وَهُوَ عَلَىٰ جَمْعِهِمْ اِذَا يَشَآءُ قَدِيرٌۭ",
+    "arabic_text": "وَ مِنْ اٰيٰتِهِ خَلْقُ السَّمَـٰوَٰتِ وَ الْاَرْضِ وَ مَا بَثَّ فِيهِمَا مِن دَآبَّةٍۢ ۚ وَهُوَ عَلَىٰ جَمْعِهِمْ اِذَا يَشَآءُ قَدِيرٌۭ",
     "urdu_text": "اور اس کی نشانیوں میں سے آسمانوں اور زمین کی تخلیق هے اور ان میں پھیلائے هوئے تمام جاندار، اور جب وه چاهے ان سب کو جمع کرنے پر قادر هے۔",
     "persian_text": "و از نشانه‌های او آفرینش آسمان‌ها و زمین و آنچه در آنها از جنبندگان پراکنده است، و او بر جمع کردن آنها هر زمان که بخواهد تواناست.",
     "transliteration": "Wa min aayaatihi khalqus-samaawaati wal-ardi wa maa baththa feehimaa min daaabbah, wa huwa 'alaa jam'ihim idhaa yashaa'u qadeer"
@@ -393,7 +393,7 @@ ayats = [
   {
     "verse_number": 49,
     "english_text": "Verily authority of sky and the earth is in the hands of Allah only, whatever He pleases He creates, to whoever He pleases gives daughters, to whoever He pleases gives sons.",
-    "arabic_text": "لِّلَّهِ مُلْكُ السَّمَـٰوَٰتِ وَالْاَرْضِ ۚ يَخْلُقُ مَا يَشَآءُ ۚ يَهَبُ لِمَن يَشَآءُ اِنَـٰثًۭا وَيَهَبُ لِمَن يَشَآءُ الذُّكُورَ",
+    "arabic_text": "لِّلَّهِ مُلْكُ السَّمَـٰوَٰتِ وَ الْاَرْضِ ۚ يَخْلُقُ مَا يَشَآءُ ۚ يَهَبُ لِمَن يَشَآءُ اِنَـٰثًۭا وَيَهَبُ لِمَن يَشَآءُ الذُّكُورَ",
     "urdu_text": "آسمانوں اور زمین کی بادشاهی الله هی کے لیے هے، وه جو چاهتا هے پیدا کرتا هے، جسے چاهتا هے بیٹیاں عطا کرتا هے اور جسے چاهتا هے بیٹے عطا کرتا هے۔",
     "persian_text": "فرمانروایی آسمان‌ها و زمین از آن خداست، آنچه بخواهد می‌آفریند، به هر که بخواهد دختران می‌بخشد و به هر که بخواهد پسران می‌بخشد.",
     "transliteration": "Lillaahi mulkus-samaawaati wal-ard, yakhluqu maa yashaaa', yahabu limany-yashaaa'u inaasanw-wa yahabu limany-yashaaa'uz-zukoor"

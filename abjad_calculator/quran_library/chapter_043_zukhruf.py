@@ -657,7 +657,7 @@ ayats = [
   {
     "verse_number": 82,
     "english_text": "He is master of the skies and the earth and the throne, is pure and aloof from all these talks.",
-    "arabic_text": "سُبْحَـٰنَ رَبِّ السَّمَـٰوَٰتِ وَالْاَرْضِ رَبِّ الْعَرْشِ عَمَّا يَصِفُونَ",
+    "arabic_text": "سُبْحَـٰنَ رَبِّ السَّمَـٰوَٰتِ وَ الْاَرْضِ رَبِّ الْعَرْشِ عَمَّا يَصِفُونَ",
     "urdu_text": "پاک هے آسمانوں اور زمین کا رب، عرش کا مالک، ان باتوں سے جو یه لوگ بیان کرتے هیں۔",
     "persian_text": "منزه است پروردگار آسمان‌ها و زمین، پروردگار عرش، از آنچه توصیف می‌کنند.",
     "transliteration": "Subhana Rabbis-samawati wal-ardi Rabbil 'arshi 'amma yasifoon"
@@ -681,7 +681,7 @@ ayats = [
   {
     "verse_number": 85,
     "english_text": "Blessed is He who is Owner of the skies and the earth and everything in between them, and He has the knowledge of the Day of Judgement, and towards Whom you shall all be returned.",
-    "arabic_text": "وَتَبَارَكَ الَّذِى لَهُ مُلْكُ السَّمَـٰوَٰتِ وَالْاَرْضِ وَ مَا بَيْنَهُمَا وَعِندَهُ عِلْمُ السَّاعَةِ وَ اِلَيْهِ تُرْجَعُونَ",
+    "arabic_text": "وَتَبَارَكَ الَّذِى لَهُ مُلْكُ السَّمَـٰوَٰتِ وَ الْاَرْضِ وَ مَا بَيْنَهُمَا وَعِندَهُ عِلْمُ السَّاعَةِ وَ اِلَيْهِ تُرْجَعُونَ",
     "urdu_text": "اور بابرکت هے وه جس کی بادشاهی هے آسمانوں اور زمین اور جو کچھ ان کے درمیان هے، اور اسی کے پاس قیامت کا علم هے، اور اسی کی طرف تم لوٹائے جاؤ گے۔",
     "persian_text": "و پربرکت است آن کسی که فرمانروایی آسمان‌ها و زمین و آنچه میان آنهاست از آن اوست، و علم قیامت نزد اوست، و به سوی او بازگردانده می‌شوید.",
     "transliteration": "Wa tabarakal-ladhi lahu mulkus-samawati wal-ardi wa ma baynahuma wa 'indahu 'ilmus-sa'ati wa ilayhi turja'oon"

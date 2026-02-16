@@ -201,7 +201,7 @@ ayats = [
   {
     "verse_number": 25,
     "english_text": "Why don't they prostrate before Allah who knows all the secrets of the skies and the earth, and He also knows whatever people are doing openly or secretly.",
-    "arabic_text": "اَلَّا يَسْجُدُواْ لِلَّهِ الَّذِى يُخْرِجُ الْخَبْءَ فِى السَّمَـٰوَٰتِ وَالْاَرْضِ وَيَعْلَمُ مَا تُخْفُونَ وَ مَا تُعْلِنُونَ",
+    "arabic_text": "اَلَّا يَسْجُدُواْ لِلَّهِ الَّذِى يُخْرِجُ الْخَبْءَ فِى السَّمَـٰوَٰتِ وَ الْاَرْضِ وَيَعْلَمُ مَا تُخْفُونَ وَ مَا تُعْلِنُونَ",
     "urdu_text": "کیوں نهیں سجده کرتے الله کو جو آسمانوں اور زمین میں چھپی هوئی چیزوں کو نکالتا هے، اور جو کچھ تم چھپاتے هو اور جو ظاهر کرتے هو وه سب جانتا هے۔",
     "persian_text": "چرا برای خدایی سجده نمی‌کنند که پنهان‌های آسمان‌ها و زمین را آشکار می‌سازد و آنچه را پنهان می‌دارید و آنچه را آشکار می‌کنید می‌داند.",
     "transliteration": "Alla yasjudu lillahil-ladhi yukhrijul-khab'a fis-samawati wal-arḍi waya'lamu ma tukhfuna wama tu'linun"
@@ -513,7 +513,7 @@ ayats = [
   {
     "verse_number": 64,
     "english_text": "Or Who is there Who began the creation, and once again He will create, and who is that Who gives sustenance from the skies and the earth, is there and God besides Allah? Say: if you are truthful in your claim then bring your argument.",
-    "arabic_text": "اَمَّن يَبْدَؤُاْ الْخَلْقَ ثُمَّ يُعِيدُهُ وَمَن يَرْزُقُكُم مِّنَ السَّمَآءِ وَالْاَرْضِ ۗ اَءِلَـٰهٌۭ مَّعَ اللّٰهِ ۚ قُلْ هَاتُواْ بُرْهَـٰنَكُمْ اِن كُنتُمْ صَـٰدِقِينَ",
+    "arabic_text": "اَمَّن يَبْدَؤُاْ الْخَلْقَ ثُمَّ يُعِيدُهُ وَمَن يَرْزُقُكُم مِّنَ السَّمَآءِ وَ الْاَرْضِ ۗ اَءِلَـٰهٌۭ مَّعَ اللّٰهِ ۚ قُلْ هَاتُواْ بُرْهَـٰنَكُمْ اِن كُنتُمْ صَـٰدِقِينَ",
     "urdu_text": "یا وه کون هے جس نے پهلی بار مخلوق کو پیدا کیا پھر وهی اسے دوباره پیدا کرے گا اور کون هے جو تمهیں آسمان اور زمین سے رزق دیتا هے؟ کیا الله کے ساتھ کوئی اور معبود هے؟ کهه دو که اگر تم سچے هو تو اپنی دلیل لاؤ۔",
     "persian_text": "یا چه کسی است که آفرینش را آغاز کرد سپس آن را باز می‌گرداند و چه کسی است که شما را از آسمان و زمین روزی می‌دهد؟ آیا معبودی با الله است؟ بگو: اگر راست می‌گویید برهان خود را بیاورید.",
     "transliteration": "Amman yabda'ul-khalqa thumma yu'iduhu wa man yarzuqukum minas-sama'i wal-ard, a-ilahun ma'allah, qul hatu burhanakum in kuntum sadiqin"
@@ -521,7 +521,7 @@ ayats = [
   {
     "verse_number": 65,
     "english_text": "Say: there is no one in the skies and the earth who knows the unseen, except Allah, these people do not know when they will be raised again.",
-    "arabic_text": "قُل لَّا يَعْلَمُ مَن فِى السَّمَـٰوَٰتِ وَالْاَرْضِ الْغَيْبَ اِلَّا اللّٰهُ ۚ وَ مَا يَشْعُرُونَ اَيَّانَ يُبْعَثُونَ",
+    "arabic_text": "قُل لَّا يَعْلَمُ مَن فِى السَّمَـٰوَٰتِ وَ الْاَرْضِ الْغَيْبَ اِلَّا اللّٰهُ ۚ وَ مَا يَشْعُرُونَ اَيَّانَ يُبْعَثُونَ",
     "urdu_text": "کهه دو که آسمانوں اور زمین میں کوئی بھی غیب کو نهیں جانتا سوائے الله کے، اور یه لوگ نهیں جانتے که کب دوباره اٹھائے جائیں گے۔",
     "persian_text": "بگو: هیچ کس در آسمان‌ها و زمین غیب را نمی‌داند مگر الله، و آنان نمی‌دانند چه زمان برانگیخته خواهند شد.",
     "transliteration": "Qul la ya'lamu man fis-samawati wal-ardil-ghayba illallah, wa ma yash'uruna ayyana yub'athun"
@@ -601,7 +601,7 @@ ayats = [
   {
     "verse_number": 75,
     "english_text": "And there is nothing hidden in the sky and the earth which is not mentioned in this manifest Book.",
-    "arabic_text": "وَ مَا مِنْ غَآئِبَةٍۢ فِى السَّمَآءِ وَالْاَرْضِ اِلَّا فِى كِتٰبٍۢ مُّبِينٍ",
+    "arabic_text": "وَ مَا مِنْ غَآئِبَةٍۢ فِى السَّمَآءِ وَ الْاَرْضِ اِلَّا فِى كِتٰبٍۢ مُّبِينٍ",
     "urdu_text": "اور آسمان اور زمین میں کوئی پوشیده چیز نهیں مگر وه ایک واضح کتاب میں درج هے۔",
     "persian_text": "و هیچ پنهانی در آسمان و زمین نیست، مگر آنکه در کتابی آشکار ثبت است.",
     "transliteration": "Wa maa min ghaa'ibatin fis samaa'i wal ardi illaa fee kitaabim mubeen"

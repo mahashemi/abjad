@@ -41,7 +41,7 @@ ayats = [
   {
     "verse_number": 5,
     "english_text": "He is Lord of everything, whatever is between the skies and the earth, and master of every East.",
-    "arabic_text": "رَّبُّ السَّمَـٰوَٰتِ وَالْاَرْضِ وَ مَا بَيْنَهُمَا وَرَبُّ الْمَشَـٰرِقِ",
+    "arabic_text": "رَّبُّ السَّمَـٰوَٰتِ وَ الْاَرْضِ وَ مَا بَيْنَهُمَا وَرَبُّ الْمَشَـٰرِقِ",
     "urdu_text": "وه آسمانوں اور زمین اور جو کچھ ان کے درمیان هے سب کا رب هے اور تمام مشرقوں کا مالک هے",
     "persian_text": "پروردگار آسمان‌ها و زمین و آنچه میان آنهاست و پروردگار مشرق‌ها",
     "transliteration": "Rabbus-samaawaati wal-ardi wa maa baynahumaa wa rabbul-mashaariq"

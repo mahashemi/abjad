@@ -441,7 +441,7 @@ ayats = [
   {
     "verse_number": 55,
     "english_text": "And whoever is in the skies and on the earth, your Lord knows (all of them) well, and indeed We gave excellence to some prophets over other prophets, and it is We, who have given Zaboor to Dawood.",
-    "arabic_text": "وَرَبُّكَ اَعْلَمُ بِمَن فِى السَّمَـٰوَٰتِ وَالْاَرْضِ ۗ وَ لَقَدْ فَضَّلْنَا بَعْضَ النَّبِيِّـۧنَ عَلَىٰ بَعْضٍۢ ۖ وَءَاتَيْنَا دَاوُدَ زَبُورًا",
+    "arabic_text": "وَرَبُّكَ اَعْلَمُ بِمَن فِى السَّمَـٰوَٰتِ وَ الْاَرْضِ ۗ وَ لَقَدْ فَضَّلْنَا بَعْضَ النَّبِيِّـۧنَ عَلَىٰ بَعْضٍۢ ۖ وَءَاتَيْنَا دَاوُدَ زَبُورًا",
     "urdu_text": "اور جو کوئی آسمانوں اور زمین میں ہے، تمہارا رب ان سب کو خوب جانتا ہے، اور بے شک ہم نے بعض نبیوں کو دوسرے نبیوں پر فضیلت دی، اور ہم نے ہی داؤد کو زبور عطا کی۔",
     "persian_text": "و پروردگار تو به هر که در آسمان‌ها و زمین است داناتر است، و قطعاً ما بعضی از پیامبران را بر بعضی دیگر برتری دادیم، و به داوود زبور عطا کردیم.",
     "transliteration": "Wa rabbuka a'lamu biman fis-samaawaati wal-ard wa laqad faddalnaa ba'dan-nabiyyeena 'alaa ba'd wa aataynaa Daawooda Zabooraa"
@@ -817,7 +817,7 @@ ayats = [
   {
     "verse_number": 102,
     "english_text": "Said Moosa: you Verily know that all these miracles have been sent by the Lord of the skies and the earth, these are things for pondering; O Firaun, I believe your misfortune has begun.",
-    "arabic_text": "قَالَ لَقَدْ عَلِمْتَ مَآ اَنزَلَ هَـٰٓؤُلَآءِ اِلَّا رَبُّ السَّمَـٰوَٰتِ وَالْاَرْضِ بَصَآئِرَ وَاِنِّى لَاَظُنُّكَ يَـٰفِرْعَوْنُ مَثْبُورًا",
+    "arabic_text": "قَالَ لَقَدْ عَلِمْتَ مَآ اَنزَلَ هَـٰٓؤُلَآءِ اِلَّا رَبُّ السَّمَـٰوَٰتِ وَ الْاَرْضِ بَصَآئِرَ وَاِنِّى لَاَظُنُّكَ يَـٰفِرْعَوْنُ مَثْبُورًا",
     "urdu_text": "موسیٰ نے کہا: تم خوب جانتے ہو کہ یہ نشانیاں آسمانوں اور زمین کے رب نے ہی نازل کی ہیں، یہ سوچنے کی چیزیں ہیں، اور اے فرعون، میں سمجھتا ہوں کہ تم ہلاک ہونے والے ہو۔",
     "persian_text": "موسی گفت: تو به یقین می‌دانی که این معجزات را جز پروردگار آسمان‌ها و زمین نازل نکرده است، اینها برای بصیرت است، و ای فرعون، من گمان می‌کنم که تو هلاک شده‌ای.",
     "transliteration": "Qaala laqad 'alimta maaa anzala haaa'ulaaa'i illaa Rabbus-samaawaati wal-ardi basaaa'ira wa innee la-azunnuka yaa Fir'awnu mathbooran"

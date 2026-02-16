@@ -57,7 +57,7 @@ ayats = [
   {
     "verse_number": 7,
     "english_text": "These are the people who say: do not spend anything on the companions of the Prophet of Allah so they may get scattered, although all the treasures of skies and the earth belong to Allah only, and these hypocrites do not understand this.",
-    "arabic_text": "هُمُ الَّذِينَ يَقُولُونَ لَا تُنفِقُواْ عَلَىٰ مَنْ عِندَ رَسُولِ اللّٰهِ حَتَّىٰ يَنفَضُّواْ ۗ وَلِلَّهِ خَزَآئِنُ السَّمَـٰوَٰتِ وَالْاَرْضِ وَلَـٰكِنَّ الْمُنَـٰفِقِينَ لَا يَفْقَهُونَ",
+    "arabic_text": "هُمُ الَّذِينَ يَقُولُونَ لَا تُنفِقُواْ عَلَىٰ مَنْ عِندَ رَسُولِ اللّٰهِ حَتَّىٰ يَنفَضُّواْ ۗ وَلِلَّهِ خَزَآئِنُ السَّمَـٰوَٰتِ وَ الْاَرْضِ وَلَـٰكِنَّ الْمُنَـٰفِقِينَ لَا يَفْقَهُونَ",
     "urdu_text": "یه وه لوگ هیں جو کهتے هیں که الله کے رسول کے ساتھیوں پر خرچ نه کرو تاکه وه منتشر هو جائیں، حالانکه آسمانوں اور زمین کے خزانے الله هی کے لیے هیں، لیکن منافق نهیں سمجھتے۔",
     "persian_text": "آنان کسانی هستند که می‌گویند: بر کسانی که نزد رسول خدا هستند انفاق نکنید تا پراکنده شوند، در حالی که خزانه‌های آسمان‌ها و زمین از آن خداست، ولی منافقان نمی‌فهمند.",
     "transliteration": "Humu alladheena yaqooloona la tunfiqoo 'ala man 'inda rasooli Allahi hatta yanfaddoo wa lillahi khaza'inu as-samawati wal-ardi walakinna al-munafiqeena la yafqahoon"

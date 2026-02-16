@@ -457,7 +457,7 @@ ayats = [
   {
     "verse_number": 57,
     "english_text": "Verily, creating the earth and the skies is a bigger task than creating human beings, but the majority of people do not know this.",
-    "arabic_text": "لَخَلْقُ السَّمَـٰوَٰتِ وَالْاَرْضِ اَكْبَرُ مِنْ خَلْقِ النَّاسِ وَلَـٰكِنَّ اَكْثَرَ النَّاسِ لَا يَعْلَمُونَ",
+    "arabic_text": "لَخَلْقُ السَّمَـٰوَٰتِ وَ الْاَرْضِ اَكْبَرُ مِنْ خَلْقِ النَّاسِ وَلَـٰكِنَّ اَكْثَرَ النَّاسِ لَا يَعْلَمُونَ",
     "urdu_text": "بیشک آسمانوں اور زمین کی تخلیق لوگوں کی تخلیق سے بڑی ہے لیکن اکثر لوگ نہیں جانتے۔",
     "persian_text": "به راستی آفرینش آسمان‌ها و زمین بزرگ‌تر از آفرینش مردم است ولی بیشتر مردم نمی‌دانند.",
     "transliteration": "Lakhalqus-samawati wal-ardi akbaru min khalqin-nasi wa lakinna aktharan-nasi la ya'lamun"

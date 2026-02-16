@@ -218,7 +218,7 @@ ayats = [
   {
     "verse_number": 29,
     "english_text": "Whoever is in the sky and on earth beg of Him, and every day He has new glory.",
-    "arabic_text": "يَسْـَٔلُهُ مَن فِى السَّمَـٰوَٰتِ وَالْاَرْضِ ۚ كُلَّ يَوْمٍ هُوَ فِى شَاْنٍۭ",
+    "arabic_text": "يَسْـَٔلُهُ مَن فِى السَّمَـٰوَٰتِ وَ الْاَرْضِ ۚ كُلَّ يَوْمٍ هُوَ فِى شَاْنٍۭ",
     "urdu_text": "جو کوئی آسمانوں اور زمین میں ہے اسی سے مانگتا ہے، وہ ہر روز ایک نئی شان میں ہے",
     "persian_text": "هر که در آسمان‌ها و زمین است از او درخواست می‌کند و او هر روز در کاری است",
     "transliteration": "Yas'aluhu man fis-samawati wal-ard, kulla yawmin huwa fi sha'n",
@@ -250,7 +250,7 @@ ayats = [
   {
     "verse_number": 33,
     "english_text": "O groups of Jinn and Man if you have power then go beyond the boundaries of skies and the earth; but remember, you cannot pass through without strength and authority (which you do not have).",
-    "arabic_text": "يَـٰمَعْشَرَ الْجِنِّ وَالْاِنسِ اِنِ اسْتَطَعْتُمْ اَن تَنفُذُواْ مِنْ اَقْطَارِ السَّمَـٰوَٰتِ وَالْاَرْضِ فَانفُذُواْ ۚ لَا تَنفُذُونَ اِلَّا بِسُلْطَـٰنٍۢ",
+    "arabic_text": "يَـٰمَعْشَرَ الْجِنِّ وَالْاِنسِ اِنِ اسْتَطَعْتُمْ اَن تَنفُذُواْ مِنْ اَقْطَارِ السَّمَـٰوَٰتِ وَ الْاَرْضِ فَانفُذُواْ ۚ لَا تَنفُذُونَ اِلَّا بِسُلْطَـٰنٍۢ",
     "urdu_text": "اے گروہ جنات و انسان! اگر تم میں طاقت ہے تو آسمانوں اور زمین کی حدوں سے نکل جاؤ، تو نکل جاؤ، لیکن تم بغیر قوت و اختیار کے نہیں نکل سکتے",
     "persian_text": "ای گروه جن و انس، اگر می‌توانید از مرزهای آسمان‌ها و زمین بگذرید پس بگذرید، اما نمی‌توانید بگذرید مگر با قدرت و اقتداری که ندارید",
     "transliteration": "Ya ma'sharal-jinni wal-insi inis-tata'tum an tanfudhu min aqtaris-samawati wal-ardi fanfudhu la tanfudhuna illa bisultan",

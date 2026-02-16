@@ -73,7 +73,7 @@ ayats = [
   {
     "verse_number": 9,
     "english_text": "Did not they see the skies and the earth, and things of their front and their back? If We wish we can sink them in the earth or make the sky fall on them in pieces, and in these signs of Power of Allah are found for those who ponder.",
-    "arabic_text": "اَفَلَمْ يَرَوْاْ اِلـٰى مَا بَيْنَ اَيْدِيهِمْ وَ مَا خَلْفَهُم مِّنَ السَّمَآءِ وَالْاَرْضِ ۚ اِن نَّشَاْ نَخْسِفْ بِهِمُ الْاَرْضَ اَوْ نُسْقِطْ عَلَيْهِمْ كِسَفًۭا مِّنَ السَّمَآءِ ۚ اِنَّ فِى ذٰلِكَ لَـَٔايَةًۭ لِّكُلِّ عَبْدٍۢ مُّنِيبٍۢ",
+    "arabic_text": "اَفَلَمْ يَرَوْاْ اِلـٰى مَا بَيْنَ اَيْدِيهِمْ وَ مَا خَلْفَهُم مِّنَ السَّمَآءِ وَ الْاَرْضِ ۚ اِن نَّشَاْ نَخْسِفْ بِهِمُ الْاَرْضَ اَوْ نُسْقِطْ عَلَيْهِمْ كِسَفًۭا مِّنَ السَّمَآءِ ۚ اِنَّ فِى ذٰلِكَ لَـَٔايَةًۭ لِّكُلِّ عَبْدٍۢ مُّنِيبٍۢ",
     "urdu_text": "کیا انهوں نے آسمان اور زمین کو نهیں دیکھا جو ان کے آگے اور پیچھے هے؟ اگر هم چاهیں تو انهیں زمین میں دھنسا دیں یا آسمان کے ٹکڑے ان پر گرا دیں، بیشک اس میں هر رجوع کرنے والے بندے کے لیے نشانی هے۔",
     "persian_text": "آیا آنچه را که در پیش و پشت آنان از آسمان و زمین است نمی‌بینند؟ اگر بخواهیم آنان را در زمین فرو می‌بریم یا پاره‌ای از آسمان بر آنان فرو می‌ریزیم، در این نشانه‌ای است برای هر بنده‌ای که به سوی خدا بازگردد.",
     "transliteration": "Afalam yaraw ila ma bayna aydihim wa ma khalfahum minas-sama'i wal-ardi in nasha' nakhsif bihimul-arda aw nusqit 'alayhim kisafam-minas-sama'i inna fi zalika la-ayatal-likulli 'abdim-munib"
@@ -193,7 +193,7 @@ ayats = [
   {
     "verse_number": 24,
     "english_text": "Say: who gives you sustenance from the sky and the earth, then tell them, Allah gives, then say: we or you are on a right path or in manifest misguidance?",
-    "arabic_text": "۞ قُلْ مَن يَرْزُقُكُم مِّنَ السَّمَـٰوَٰتِ وَالْاَرْضِ ۖ قُلِ اللّٰهُ ۖ وَاِنَّآ اَوْ اِيَّاكُمْ لَعَلَىٰ هُدًى اَوْ فِى ضَلَـٰلٍۢ مُّبِينٍۢ",
+    "arabic_text": "۞ قُلْ مَن يَرْزُقُكُم مِّنَ السَّمَـٰوَٰتِ وَ الْاَرْضِ ۖ قُلِ اللّٰهُ ۖ وَاِنَّآ اَوْ اِيَّاكُمْ لَعَلَىٰ هُدًى اَوْ فِى ضَلَـٰلٍۢ مُّبِينٍۢ",
     "urdu_text": "کهو که تمهیں آسمانوں اور زمین سے کون رزق دیتا هے؟ کهه دو که الله دیتا هے، پھر کهو که هم یا تم میں سے کوئی هدایت پر هے یا کھلی گمراهی میں هے۔",
     "persian_text": "بگو: چه کسی شما را از آسمان‌ها و زمین روزی می‌دهد؟ بگو: خدا، و یا ما یا شما بر هدایتیم یا در گمراهی آشکار.",
     "transliteration": "Qul man yarzuqukum minas-samaawaati wal-ard, qulil-laah, wa innaaa aw iyyaakum la'alaa hudan aw fee dalaalim mubeen"

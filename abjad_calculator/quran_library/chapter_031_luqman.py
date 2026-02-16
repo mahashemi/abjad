@@ -209,7 +209,7 @@ ayats = [
   {
     "verse_number": 26,
     "english_text": "Everything on the earth and in the sky is for Allah only, and He is Self-Sufficient and worthy of praise.",
-    "arabic_text": "لِلَّهِ مَا فِى السَّمَـٰوَٰتِ وَالْاَرْضِ ۚ اِنَّ اللّٰهَ هُوَ الْغَنِىُّ الْحَمِيدُ",
+    "arabic_text": "لِلَّهِ مَا فِى السَّمَـٰوَٰتِ وَ الْاَرْضِ ۚ اِنَّ اللّٰهَ هُوَ الْغَنِىُّ الْحَمِيدُ",
     "urdu_text": "جو کچھ آسمانوں اور زمین میں هے سب الله هی کا هے، بے شک الله هی بے نیاز اور قابل تعریف هے۔",
     "persian_text": "آنچه در آسمان‌ها و زمین است از آنِ خداست، همانا خداوند بی‌نیاز و ستوده است.",
     "transliteration": "Lillahi ma fis samawati wal'ard, innal-laha huwal ghaniyyul hameed"

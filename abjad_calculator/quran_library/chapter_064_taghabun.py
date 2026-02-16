@@ -33,7 +33,7 @@ ayats = [
   {
     "verse_number": 4,
     "english_text": "He is aware of everything of the earth and the skies; and He knows all those things which you express or which you conceal and He is also aware of the secrets of your breasts.",
-    "arabic_text": "يَعْلَمُ مَا فِى السَّمَـٰوَٰتِ وَالْاَرْضِ وَيَعْلَمُ مَا تُسِرُّونَ وَ مَا تُعْلِنُونَ ۚ وَ اللّٰهُ عَلِيمٌۢ بِذَاتِ الصُّدُورِ",
+    "arabic_text": "يَعْلَمُ مَا فِى السَّمَـٰوَٰتِ وَ الْاَرْضِ وَيَعْلَمُ مَا تُسِرُّونَ وَ مَا تُعْلِنُونَ ۚ وَ اللّٰهُ عَلِيمٌۢ بِذَاتِ الصُّدُورِ",
     "urdu_text": "وه جانتا هے جو کچھ آسمانوں اور زمین میں هے، اور وه جانتا هے جو تم چھپاتے هو اور جو ظاهر کرتے هو، اور الله دلوں کے بھیدوں کو خوب جانتا هے۔",
     "persian_text": "آنچه در آسمان‌ها و زمین است می‌داند، و آنچه پنهان می‌کنید و آنچه آشکار می‌سازید می‌داند، و الله به راز دل‌ها داناست.",
     "transliteration": "Ya'lamu ma fis-samawati wal-ardi wa ya'lamu ma tusirruna wa ma tu'linun, wallahu 'alimun bidhatis-sudur"

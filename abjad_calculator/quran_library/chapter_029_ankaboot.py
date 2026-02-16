@@ -417,7 +417,7 @@ ayats = [
   {
     "verse_number": 52,
     "english_text": "You say to them: Allah is enough between me and you as a witness Who is aware of everything of sky and the earth, and those who believe in falsehood and deny Allah, are indeed losers.",
-    "arabic_text": "قُلْ كَفَىٰ بِاللّٰهِ بَيْنِى وَبَيْنَكُمْ شَهِيدًۭا ۖ يَعْلَمُ مَا فِى السَّمَـٰوَٰتِ وَالْاَرْضِ ۗ وَالَّذِينَ ءَامَنُواْ بِالْبَـٰطِلِ وَكَفَرُواْ بِاللّٰهِ اُو۟لَـٰٓئِكَ هُمُ الْخَـٰسِرُونَ",
+    "arabic_text": "قُلْ كَفَىٰ بِاللّٰهِ بَيْنِى وَبَيْنَكُمْ شَهِيدًۭا ۖ يَعْلَمُ مَا فِى السَّمَـٰوَٰتِ وَ الْاَرْضِ ۗ وَالَّذِينَ ءَامَنُواْ بِالْبَـٰطِلِ وَكَفَرُواْ بِاللّٰهِ اُو۟لَـٰٓئِكَ هُمُ الْخَـٰسِرُونَ",
     "urdu_text": "آپ کہہ دیجیے کہ میرے اور تمہارے درمیان اللہ گواہ کافی ہے، وہ جانتا ہے جو کچھ آسمانوں اور زمین میں ہے، اور جو لوگ باطل پر ایمان لاتے ہیں اور اللہ کا انکار کرتے ہیں، وہی لوگ نقصان اٹھانے والے ہیں۔",
     "persian_text": "بگو: خدا میان من و شما به عنوان گواه کافی است، او می‌داند آنچه در آسمان‌ها و زمین است، و کسانی که به باطل ایمان آورده و به خدا کفر ورزیده‌اند، آنان همان زیانکارانند.",
     "transliteration": "Qul kafaa billaahi baynee wa baynakum shaheedan ya'lamu maa fis-samaawaati wal-ard, walladheena aamanoo bil-baatili wa kafaroo billaahi ulaa'ika humul-khaasiroon"
