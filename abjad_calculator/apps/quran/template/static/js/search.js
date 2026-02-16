@@ -283,21 +283,22 @@ function performTextSearch(chapters, searchText, language) {
           return textMatches(verse.arabic_clean || verse.arabic);
         }
         
-        // Check if search phrase exists in cleaned text and populate matched words
-        if (verse.arabic_clean && verse.arabic_clean.includes(searchText)) {
+        // Check if search phrase exists in cleaned text and populate matched words (case-insensitive)
+        if (verse.arabic_clean && verse.arabic_clean.toLowerCase().includes(searchLower)) {
           // Find which words contain the search text
           verse.words.forEach(wordData => {
-            if (wordData.word.includes(searchText) && !matchedWords.includes(wordData.word)) {
+            if (wordData.word.toLowerCase().includes(searchLower) && !matchedWords.includes(wordData.word)) {
               matchedWords.push(wordData.word);
             }
           });
           return true;
         }
         
-        // Word-level search: check if all search words match any word in verse
+        // Word-level search: check if all search words match any word in verse (case-insensitive)
         const allWordsMatch = searchWords.every(searchWord => {
+          const searchWordLower = searchWord.toLowerCase();
           return verse.words.some(wordData => {
-            const matches = wordData.word.includes(searchWord);
+            const matches = wordData.word.toLowerCase().includes(searchWordLower);
             if (matches && !matchedWords.includes(wordData.word)) {
               matchedWords.push(wordData.word);
             }
@@ -363,22 +364,26 @@ function performPatternSearch(chapters, startsWithText, endsWithText, language) 
   console.log('[SEARCH]   - Ends with:', endsWithText || '(none)');
   console.log('[SEARCH]   - Language:', language);
   
+  // Convert patterns to lowercase for case-insensitive matching
+  const startsWithLower = startsWithText.toLowerCase();
+  const endsWithLower = endsWithText.toLowerCase();
+  
   chapters.forEach(chapter => {
     chapter.verses.forEach(verse => {
       let matched = false;
       let matchedIn = [];
       let patternInfo = { startsWith: false, endsWith: false };
       
-      // Helper function to check if text starts with pattern
+      // Helper function to check if text starts with pattern (case-insensitive)
       const checkStartsWith = (text) => {
         if (!text || !startsWithText) return false;
-        return text.trimStart().startsWith(startsWithText);
+        return text.trimStart().toLowerCase().startsWith(startsWithLower);
       };
       
-      // Helper function to check if text ends with pattern
+      // Helper function to check if text ends with pattern (case-insensitive)
       const checkEndsWith = (text) => {
         if (!text || !endsWithText) return false;
-        return text.trimEnd().endsWith(endsWithText);
+        return text.trimEnd().toLowerCase().endsWith(endsWithLower);
       };
       
       // Check conditions based on what was provided
@@ -721,29 +726,35 @@ function highlightPatternMatch(text, startsWithText, endsWithText) {
   let result = text;
   const highlightStyle = 'text-decoration: underline; text-decoration-color: #b48a1f; text-decoration-thickness: 2px; text-underline-offset: 2px; font-weight: bold;';
   
-  // Highlight start pattern
+  // Highlight start pattern (case-insensitive)
   if (startsWithText) {
     const trimmedText = text.trimStart();
     const leadingSpaces = text.length - trimmedText.length;
     const spaces = text.substring(0, leadingSpaces);
+    const startsWithLower = startsWithText.toLowerCase();
     
-    if (trimmedText.startsWith(startsWithText)) {
-      const highlighted = `<mark style="${highlightStyle}">${startsWithText}</mark>`;
+    if (trimmedText.toLowerCase().startsWith(startsWithLower)) {
+      // Get the actual text that matched (preserving original case)
+      const matchedText = trimmedText.substring(0, startsWithText.length);
+      const highlighted = `<mark style="${highlightStyle}">${matchedText}</mark>`;
       const rest = trimmedText.substring(startsWithText.length);
       result = spaces + highlighted + rest;
     }
   }
   
-  // Highlight end pattern
+  // Highlight end pattern (case-insensitive)
   if (endsWithText) {
     const trimmedText = result.trimEnd();
     const trailingSpaces = result.length - trimmedText.length;
     const spaces = result.substring(trimmedText.length);
+    const endsWithLower = endsWithText.toLowerCase();
     
-    if (trimmedText.endsWith(endsWithText)) {
-      const startIdx = trimmedText.lastIndexOf(endsWithText);
+    if (trimmedText.toLowerCase().endsWith(endsWithLower)) {
+      // Find the start index of the matched text (case-insensitive)
+      const startIdx = trimmedText.length - endsWithText.length;
       const before = trimmedText.substring(0, startIdx);
-      const highlighted = `<mark style="${highlightStyle}">${endsWithText}</mark>`;
+      const matchedText = trimmedText.substring(startIdx);
+      const highlighted = `<mark style="${highlightStyle}">${matchedText}</mark>`;
       result = before + highlighted + spaces;
     }
   }
