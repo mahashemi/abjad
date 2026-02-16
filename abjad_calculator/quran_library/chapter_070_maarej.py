@@ -193,7 +193,7 @@ ayats = [
   {
     "verse_number": 24,
     "english_text": "And in the wealth of those a portion is fixed.",
-    "arabic_text": "وَالَّذِينَ فِىٓ اَمْوَٰلِهِمْ حَقٌّۭ مَّعْلُومٌۭ",
+    "arabic_text": "وَ الَّذِينَ فِىٓ اَمْوَٰلِهِمْ حَقٌّۭ مَّعْلُومٌۭ",
     "urdu_text": "اور جن کے مال میں ایک مقرره حق هے۔",
     "persian_text": "و کسانی که در اموالشان حق معینی است.",
     "transliteration": "Wallazeena fee amwaalihim haqqum ma'loom"
@@ -209,7 +209,7 @@ ayats = [
   {
     "verse_number": 26,
     "english_text": "And those who verify the Day of Judgement.",
-    "arabic_text": "وَالَّذِينَ يُصَدِّقُونَ بِيَوْمِ الدِّينِ",
+    "arabic_text": "وَ الَّذِينَ يُصَدِّقُونَ بِيَوْمِ الدِّينِ",
     "urdu_text": "اور جو روزِ جزا کی تصدیق کرتے هیں۔",
     "persian_text": "و کسانی که روز جزا را تصدیق می‌کنند.",
     "transliteration": "Wallazeena yusaddiqoona bi yawmid deen"
@@ -217,7 +217,7 @@ ayats = [
   {
     "verse_number": 27,
     "english_text": "And those who fear the chastisement of their Lord.",
-    "arabic_text": "وَالَّذِينَ هُم مِّنْ عَذَابِ رَبِّهِم مُّشْفِقُونَ",
+    "arabic_text": "وَ الَّذِينَ هُم مِّنْ عَذَابِ رَبِّهِم مُّشْفِقُونَ",
     "urdu_text": "اور جو اپنے رب کے عذاب سے ڈرتے هیں۔",
     "persian_text": "و کسانی که از عذاب پروردگارشان بیمناکند.",
     "transliteration": "Wallazeena hum min 'azaabi rabbihim mushfiqoon"
@@ -233,7 +233,7 @@ ayats = [
   {
     "verse_number": 29,
     "english_text": "And those who guard their private parts.",
-    "arabic_text": "وَالَّذِينَ هُمْ لِفُرُوجِهِمْ حَـٰفِظُونَ",
+    "arabic_text": "وَ الَّذِينَ هُمْ لِفُرُوجِهِمْ حَـٰفِظُونَ",
     "urdu_text": "اور جو اپنی شرمگاهوں کی حفاظت کرتے هیں۔",
     "persian_text": "و کسانی که عفت خود را حفظ می‌کنند.",
     "transliteration": "Wallazeena hum lifuroojihim haafizoon"
@@ -257,7 +257,7 @@ ayats = [
   {
     "verse_number": 32,
     "english_text": "And those who respect for their trust and covenants.",
-    "arabic_text": "وَالَّذِينَ هُمْ لِاَمَـٰنَـٰتِهِمْ وَعَهْدِهِمْ رَٰعُونَ",
+    "arabic_text": "وَ الَّذِينَ هُمْ لِاَمَـٰنَـٰتِهِمْ وَعَهْدِهِمْ رَٰعُونَ",
     "urdu_text": "اور وه لوگ جو اپنی امانتوں اور اپنے عهد کی رعایت کرتے هیں۔",
     "persian_text": "و کسانی که امانت‌ها و پیمان‌های خود را رعایت می‌کنند.",
     "transliteration": "Wa-lladhīna hum li-amānātihim wa 'ahdihim rā'ūn"
@@ -265,7 +265,7 @@ ayats = [
   {
     "verse_number": 33,
     "english_text": "And those stand firm on their testimonies.",
-    "arabic_text": "وَالَّذِينَ هُم بِشَهَـٰدَٰتِهِمْ قَآئِمُونَ",
+    "arabic_text": "وَ الَّذِينَ هُم بِشَهَـٰدَٰتِهِمْ قَآئِمُونَ",
     "urdu_text": "اور وه لوگ جو اپنی گواهیوں پر قائم رهتے هیں۔",
     "persian_text": "و کسانی که بر شهادت‌های خود پایدارند.",
     "transliteration": "Wa-lladhīna hum bi-shahādātihim qā'imūn"
@@ -273,7 +273,7 @@ ayats = [
   {
     "verse_number": 34,
     "english_text": "And those who uphold their prayers.",
-    "arabic_text": "وَالَّذِينَ هُمْ عَلَىٰ صَلَاتِهِمْ يُحَافِظُونَ",
+    "arabic_text": "وَ الَّذِينَ هُمْ عَلَىٰ صَلَاتِهِمْ يُحَافِظُونَ",
     "urdu_text": "اور وه لوگ جو اپنی نمازوں کی حفاظت کرتے هیں۔",
     "persian_text": "و کسانی که نمازهای خود را محافظت می‌کنند.",
     "transliteration": "Wa-lladhīna hum 'alā salātihim yuhāfiẓūn"

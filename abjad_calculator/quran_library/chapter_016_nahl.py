@@ -161,7 +161,7 @@ ayats = [
   {
     "verse_number": 20,
     "english_text": "And those who call others for their needs, leaving Allah, they cannot create anything.",
-    "arabic_text": "وَالَّذِينَ يَدْعُونَ مِن دُونِ اللّٰهِ لَا يَخْلُقُونَ شَيْـًۭٔا وَهُمْ يُخْلَقُونَ",
+    "arabic_text": "وَ الَّذِينَ يَدْعُونَ مِن دُونِ اللّٰهِ لَا يَخْلُقُونَ شَيْـًۭٔا وَهُمْ يُخْلَقُونَ",
     "urdu_text": "اور جن کو لوگ اللہ کے سوا پکارتے ہیں، وہ کوئی چیز پیدا نہیں کر سکتے، بلکہ وہ خود پیدا کیے گئے ہیں۔",
     "persian_text": "و کسانی که غیر از خدا می‌خوانند، هیچ چیز نمی‌آفرینند و خود آفریده شده‌اند.",
     "transliteration": "Walladheena yad'oona min doonil-laahi laa yakhluqoona shay'anw-wa hum yukhlaqoon"
@@ -329,7 +329,7 @@ ayats = [
   {
     "verse_number": 41,
     "english_text": "And those who tolerated persecution and migrated in the way of Allah; shortly We shall bestow upon them best place in the world; and reward of the Hereafter is Verily much greater; wish they were aware of this reality;",
-    "arabic_text": "وَالَّذِينَ هَاجَرُواْ فِى اللّٰهِ مِنۢ بَعْدِ مَا ظُلِمُواْ لَنُبَوِّئَنَّهُمْ فِى الدُّنْيٰحَسَنَةًۭ ۖ وَ لَاَجْرُ الْاخِرَةِ اَكْبَرُ ۚ لَوْ كَانُواْ يَعْلَمُونَ",
+    "arabic_text": "وَ الَّذِينَ هَاجَرُواْ فِى اللّٰهِ مِنۢ بَعْدِ مَا ظُلِمُواْ لَنُبَوِّئَنَّهُمْ فِى الدُّنْيٰحَسَنَةًۭ ۖ وَ لَاَجْرُ الْاخِرَةِ اَكْبَرُ ۚ لَوْ كَانُواْ يَعْلَمُونَ",
     "urdu_text": "اور جن لوگوں نے اللہ کی راہ میں ظلم سہنے کے بعد ہجرت کی، ہم انہیں دنیا میں ضرور اچھا ٹھکانہ دیں گے، اور آخرت کا اجر تو یقیناً بہت بڑا ہے، کاش وہ جانتے ہوتے۔",
     "persian_text": "و کسانی که در راه خدا پس از آنکه مورد ستم قرار گرفتند هجرت کردند، قطعاً آنان را در دنیا جایگاه نیکویی خواهیم داد، و پاداش آخرت بزرگتر است، کاش می‌دانستند.",
     "transliteration": "Wallazeena haajaroo fillaahi mim ba'di maa zulimoo lanubawwi'annahum fid-dunyaa hasanah, wa la-ajrul-aakhirati akbar, law kaanoo ya'lamoon"
@@ -801,7 +801,7 @@ ayats = [
   {
     "verse_number": 100,
     "english_text": "His control is only on those who befriends him and those who indulge in polytheism.",
-    "arabic_text": "اِنَّمَا سُلْطَـٰنُهُ عَلَى الَّذِينَ يَتَوَلَّوْنَهُ وَالَّذِينَ هُم بِهِ مُشْرِكُونَ",
+    "arabic_text": "اِنَّمَا سُلْطَـٰنُهُ عَلَى الَّذِينَ يَتَوَلَّوْنَهُ وَ الَّذِينَ هُم بِهِ مُشْرِكُونَ",
     "urdu_text": "اس کا اختیار صرف ان لوگوں پر ہے جو اسے دوست بناتے ہیں اور جو اس کے ساتھ شرک کرتے ہیں۔",
     "persian_text": "تسلط او تنها بر کسانی است که او را دوست می‌گیرند و کسانی که به واسطه او مشرک می‌شوند.",
     "transliteration": "Innama sultanuhu 'alal-ladheena yatawallawnahu walladheena hum bihi mushrikoon"
@@ -1025,7 +1025,7 @@ ayats = [
   {
     "verse_number": 128,
     "english_text": "Indeed, Allah is the companion of those who are pious and do good works.",
-    "arabic_text": "اِنَّ اللّٰهَ مَعَ الَّذِينَ اتَّقَواْ وَّالَّذِينَ هُم مُّحْسِنُونَ",
+    "arabic_text": "اِنَّ اللّٰهَ مَعَ الَّذِينَ اتَّقَواْ وَّ الَّذِينَ هُم مُّحْسِنُونَ",
     "urdu_text": "بیشک اللہ ان لوگوں کے ساتھ ہے جو پرہیزگار ہیں اور جو نیک کام کرتے ہیں۔",
     "persian_text": "همانا خداوند با کسانی است که پرهیزگارند و نیکوکارند.",
     "transliteration": "Innallaaha ma'al-ladheenat-taqaw walladheena hum muhsinoon"

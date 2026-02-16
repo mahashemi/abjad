@@ -513,7 +513,7 @@ ayats = [
   {
     "verse_number": 64,
     "english_text": "These people spend their night while prostrating or standing in the Court of their Lord.",
-    "arabic_text": "وَالَّذِينَ يَبِيتُونَ لِرَبِّهِمْ سُجَّدًۭا وَقِيَـٰمًا",
+    "arabic_text": "وَ الَّذِينَ يَبِيتُونَ لِرَبِّهِمْ سُجَّدًۭا وَقِيَـٰمًا",
     "urdu_text": "اور وه لوگ جو اپنے رب کے حضور سجدے اور قیام میں راتیں گزارتے هیں۔",
     "persian_text": "و آنان که شب‌ها را در سجده و قیام برای پروردگارشان به سر می‌برند.",
     "transliteration": "Wal-ladhīna yabītūna li-Rabbihim sujjadan wa qiyāmā"
@@ -521,7 +521,7 @@ ayats = [
   {
     "verse_number": 65,
     "english_text": "And they say: O Lord! Avert the punishment of Hell from us because it is very severe and everlasting.",
-    "arabic_text": "وَالَّذِينَ يَقُولُونَ رَبَّنَا اصْرِفْ عَنَّا عَذَابَ جَهَنَّمَ ۖ اِنَّ عَذَابَهَا كَانَ غَرَامًا",
+    "arabic_text": "وَ الَّذِينَ يَقُولُونَ رَبَّنَا اصْرِفْ عَنَّا عَذَابَ جَهَنَّمَ ۖ اِنَّ عَذَابَهَا كَانَ غَرَامًا",
     "urdu_text": "اور وه کهتے هیں: اے همارے رب! هم سے جهنم کا عذاب دور فرما دے، بیشک اس کا عذاب بهت سخت اور دائمی هے۔",
     "persian_text": "و آنان که می‌گویند: پروردگارا! عذاب جهنم را از ما دور کن، زیرا عذاب آن سخت و پایدار است.",
     "transliteration": "Wal-ladhīna yaqūlūna Rabbanasrif 'annā 'adhāba Jahannama inna 'adhābahā kāna gharāmā"
@@ -537,7 +537,7 @@ ayats = [
   {
     "verse_number": 67,
     "english_text": "These people when they spend, they neither over spend nor with stinginess, but take a middle way out of it.",
-    "arabic_text": "وَالَّذِينَ اِذَآ اَنفَقُواْ لَمْ يُسْرِفُواْ وَلَمْ يَقْتُرُواْ وَكَانَ بَيْنَ ذٰلِكَ قَوَامًا",
+    "arabic_text": "وَ الَّذِينَ اِذَآ اَنفَقُواْ لَمْ يُسْرِفُواْ وَلَمْ يَقْتُرُواْ وَكَانَ بَيْنَ ذٰلِكَ قَوَامًا",
     "urdu_text": "اور وه لوگ جب خرچ کرتے هیں تو نه فضول خرچی کرتے هیں اور نه بخل کرتے هیں، بلکه ان دونوں کے درمیان اعتدال پر رهتے هیں۔",
     "persian_text": "و آنان که هنگام خرج کردن نه اسراف می‌کنند و نه بخل، بلکه میان این دو میانه‌روی دارند.",
     "transliteration": "Wal-ladhīna idhā anfaqū lam yusrifū wa lam yaqturū wa kāna bayna dhālika qawāmā"
@@ -545,7 +545,7 @@ ayats = [
   {
     "verse_number": 68,
     "english_text": "And they do not call upon another god with Allah, and do not unjustly kill any soul whom Allah has forbidden, and they do not commit fornication, who will do such an act shall bear the punishment for the same.",
-    "arabic_text": "وَالَّذِينَ لَا يَدْعُونَ مَعَ اللّٰهِ اِلَـٰهًا ءَاخَرَ وَ لَا يَقْتُلُونَ النَّفْسَ الَّتِى حَرَّمَ اللّٰهُ اِلَّا بِالْحَقِّ وَ لَا يَزْنُونَ ۚ وَمَن يَفْعَلْ ذٰلِكَ يَلْقَ اَثَامًا",
+    "arabic_text": "وَ الَّذِينَ لَا يَدْعُونَ مَعَ اللّٰهِ اِلَـٰهًا ءَاخَرَ وَ لَا يَقْتُلُونَ النَّفْسَ الَّتِى حَرَّمَ اللّٰهُ اِلَّا بِالْحَقِّ وَ لَا يَزْنُونَ ۚ وَمَن يَفْعَلْ ذٰلِكَ يَلْقَ اَثَامًا",
     "urdu_text": "اور وه لوگ الله کے ساتھ کسی دوسرے معبود کو نهیں پکارتے، اور کسی جان کو جسے الله نے حرام کیا هے ناحق قتل نهیں کرتے، اور زنا نهیں کرتے، اور جو یه کام کرے گا وه سزا پائے گا۔",
     "persian_text": "و آنان که با الله، خدای دیگری را نمی‌خوانند و جانی را که خدا حرام کرده جز به حق نمی‌کشند و زنا نمی‌کنند، و هر که چنین کند به کیفر خواهد رسید.",
     "transliteration": "Wal-ladhīna lā yad'ūna ma'al-lāhi ilāhan ākhara wa lā yaqtulūnan-nafsallatī ḥarramal-lāhu illā bil-ḥaqqi wa lā yaznūn, wa man yaf'al dhālika yalqa athāmā"
@@ -577,7 +577,7 @@ ayats = [
   {
     "verse_number": 72,
     "english_text": "And they do not go near lie and deception, and when they come across the useless work, they pass by in a sensible manner.",
-    "arabic_text": "وَالَّذِينَ لَا يَشْهَدُونَ الزُّورَ وَاِذَا مَرُّواْ بِاللَّغْوِ مَرُّواْ كِرَامًا",
+    "arabic_text": "وَ الَّذِينَ لَا يَشْهَدُونَ الزُّورَ وَاِذَا مَرُّواْ بِاللَّغْوِ مَرُّواْ كِرَامًا",
     "urdu_text": "اور وه لوگ جھوٹ اور فریب کے قریب نهیں جاتے، اور جب وه بیهوده کام سے گزرتے هیں تو عزت کے ساتھ گزر جاتے هیں۔",
     "persian_text": "و آنان که شاهد دروغ نمی‌شوند و هنگامی که به کار بیهوده برمی‌خورند، با وقار از آن می‌گذرند.",
     "transliteration": "Walladhīna lā yash'hadūnaz-zūra wa idhā marrū bil-laghwi marrū kirāmā"
@@ -585,7 +585,7 @@ ayats = [
   {
     "verse_number": 73,
     "english_text": "And when they are reminded of the verses of Allah they do not fall as deaf and blind.",
-    "arabic_text": "وَالَّذِينَ اِذَا ذُكِّرُواْ بِـَٔايَـٰتِ رَبِّهِمْ لَمْ يَخِرُّواْ عَلَيْهَا صُمًّۭا وَعُمْيَانًۭا",
+    "arabic_text": "وَ الَّذِينَ اِذَا ذُكِّرُواْ بِـَٔايَـٰتِ رَبِّهِمْ لَمْ يَخِرُّواْ عَلَيْهَا صُمًّۭا وَعُمْيَانًۭا",
     "urdu_text": "اور جب انهیں اپنے رب کی آیات کی یاد دلائی جاتی هے تو وه ان پر بهرے اور اندھے بن کر نهیں گرتے۔",
     "persian_text": "و آنان که هنگامی که به آیات پروردگارشان یادآوری می‌شوند، کر و کور بر آن فرو نمی‌افتند.",
     "transliteration": "Walladhīna idhā dhukkirū bi-āyāti rabbihim lam yakhirrū 'alayhā ṣumman wa 'umyānā"
@@ -593,7 +593,7 @@ ayats = [
   {
     "verse_number": 74,
     "english_text": "And they continuously pray that, O Lord! give coolness in our eyes from our wives and children and make us the leader of the pious ones.",
-    "arabic_text": "وَالَّذِينَ يَقُولُونَ رَبَّنَا هَبْ لَنَا مِنْ اَزْوَٰجِنَا وَذُرِّيَّـٰتِنَا قُرَّةَ اَعْيُنٍۢ وَاجْعَلْنَا لِلْمُتَّقِينَ اِمَامًا",
+    "arabic_text": "وَ الَّذِينَ يَقُولُونَ رَبَّنَا هَبْ لَنَا مِنْ اَزْوَٰجِنَا وَذُرِّيَّـٰتِنَا قُرَّةَ اَعْيُنٍۢ وَاجْعَلْنَا لِلْمُتَّقِينَ اِمَامًا",
     "urdu_text": "اور وه لوگ جو دعا کرتے هیں که اے همارے رب! همیں اپنی بیویوں اور اولاد سے آنکھوں کی ٹھنڈک عطا فرما اور همیں پرهیزگاروں کا پیشوا بنا دے۔",
     "persian_text": "و آنان که می‌گویند: پروردگارا! از همسران و فرزندانمان روشنی چشم به ما عطا کن و ما را پیشوای پرهیزگاران قرار ده.",
     "transliteration": "Walladhīna yaqūlūna rabbanā hab lanā min azwājinā wa dhurriyyātinā qurrata a'yunin waj'alnā lil-muttaqīna imāmā"

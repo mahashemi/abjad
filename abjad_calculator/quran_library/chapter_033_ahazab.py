@@ -97,7 +97,7 @@ ayats = [
   {
     "verse_number": 12,
     "english_text": "And infidels who had sickness in their hearts said: Allah and His prophet had only made deceptive promises with us.",
-    "arabic_text": "وَاِذْ يَقُولُ الْمُنَـٰفِقُونَ وَالَّذِينَ فِى قُلُوبِهِم مَّرَضٌۭ مَّا وَعَدَنَا اللّٰهُ وَرَسُولُهُٓ اِلَّا غُرُورًا",
+    "arabic_text": "وَاِذْ يَقُولُ الْمُنَـٰفِقُونَ وَ الَّذِينَ فِى قُلُوبِهِم مَّرَضٌۭ مَّا وَعَدَنَا اللّٰهُ وَرَسُولُهُٓ اِلَّا غُرُورًا",
     "urdu_text": "اور منافقوں اور ان لوگوں نے جن کے دلوں میں بیماری تھی، کها: الله اور اس کے رسول نے هم سے صرف فریب کے وعدے کیے هیں۔",
     "persian_text": "و منافقان و کسانی که در دل‌هایشان بیماری بود، گفتند: خدا و پیامبرش جز فریب به ما وعده نداده‌اند.",
     "transliteration": "Wa idh yaqūlu al-munāfiqūna wa alladhīna fī qulūbihim maraḍun mā wa'adanā Allāhu wa rasūluhū illā ghurūrā"
@@ -465,7 +465,7 @@ ayats = [
   {
     "verse_number": 58,
     "english_text": "And those who trouble believing men and believing women, for something other than what they have done, they are carrying the burden of false accusation and manifest sins on them.",
-    "arabic_text": "وَالَّذِينَ يُؤْذُونَ الْمُؤْمِنِينَ وَالْمُؤْمِنَـٰتِ بِغَيْرِ مَا اكْتَسَبُواْ فَقَدِ احْتَمَلُواْ بُهْتَـٰنًۭا وَاِثْمًا مُّبِينًۭا",
+    "arabic_text": "وَ الَّذِينَ يُؤْذُونَ الْمُؤْمِنِينَ وَالْمُؤْمِنَـٰتِ بِغَيْرِ مَا اكْتَسَبُواْ فَقَدِ احْتَمَلُواْ بُهْتَـٰنًۭا وَاِثْمًا مُّبِينًۭا",
     "urdu_text": "اور جو لوگ مومن مردوں اور مومن عورتوں کو بغیر کسی قصور کے تکلیف دیتے هیں، انهوں نے بهتان اور کھلے گناه کا بوجھ اٹھایا۔",
     "persian_text": "و کسانی که مردان و زنان مؤمن را بدون آنکه کاری کرده باشند آزار می‌دهند، بار تهمت و گناهی آشکار بر دوش گرفته‌اند.",
     "transliteration": "Wallazeena yu'dhoonal mu'mineena wal mu'minaati bighayri mak tasaboo faqad ihtamaloo buhtaanan wa ithman mubeena"
@@ -481,7 +481,7 @@ ayats = [
   {
     "verse_number": 60,
     "english_text": "And if hypocrites and those who have sickness in their heart and who spread rumors in Madina, do not desist, then We will impose you upon them, and then these your neighbors will live only for few days.",
-    "arabic_text": "۞ لَّئِن لَّمْ يَنتَهِ الْمُنَـٰفِقُونَ وَالَّذِينَ فِى قُلُوبِهِم مَّرَضٌۭ وَالْمُرْجِفُونَ فِى الْمَدِينَةِ لَنُغْرِيَنَّكَ بِهِمْ ثُمَّ لَا يُجَاوِرُونَكَ فِيهَآ اِلَّا قَلِيلًا",
+    "arabic_text": "۞ لَّئِن لَّمْ يَنتَهِ الْمُنَـٰفِقُونَ وَ الَّذِينَ فِى قُلُوبِهِم مَّرَضٌۭ وَالْمُرْجِفُونَ فِى الْمَدِينَةِ لَنُغْرِيَنَّكَ بِهِمْ ثُمَّ لَا يُجَاوِرُونَكَ فِيهَآ اِلَّا قَلِيلًا",
     "urdu_text": "اگر منافق اور وه لوگ جن کے دلوں میں بیماری هے اور مدینه میں افواهیں پھیلانے والے باز نه آئے تو هم ضرور تمهیں ان پر مسلط کر دیں گے، پھر وه تمهارے پڑوس میں تھوڑے هی دن رهیں گے۔",
     "persian_text": "اگر منافقان و کسانی که در دل‌هایشان بیماری است و شایعه‌پراکنان در مدینه دست برندارند، قطعاً تو را بر آنان تحریک خواهیم کرد، سپس جز اندکی در آن با تو همسایگی نخواهند کرد.",
     "transliteration": "La'il lam yantahil munaafiqoona wallazeena fee quloobihim maradun wal murjifoona fil madeenati lanughriyannaka bihim thumma laa yujaawiroonaka feehaa illaa qaleela"

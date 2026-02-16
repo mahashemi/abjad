@@ -81,7 +81,7 @@ ayats = [
   {
     "verse_number": 10,
     "english_text": "And those who adopted infidelity and rejected Our signs, they are the people of Hell, and shall abide therein forever; and this is their worst recompense.",
-    "arabic_text": "وَالَّذِينَ كَفَرُواْ وَكَذَّبُواْ بِـَٔايَـٰتِنَآ اُو۟لَـٰٓئِكَ اَصْحَـٰبُ النَّارِ خَـٰلِدِينَ فِيهَا ۖ وَبِئْسَ الْمَصِيرُ",
+    "arabic_text": "وَ الَّذِينَ كَفَرُواْ وَكَذَّبُواْ بِـَٔايَـٰتِنَآ اُو۟لَـٰٓئِكَ اَصْحَـٰبُ النَّارِ خَـٰلِدِينَ فِيهَا ۖ وَبِئْسَ الْمَصِيرُ",
     "urdu_text": "اور جنهوں نے کفر اختیار کیا اور هماری آیتوں کو جھٹلایا، وه دوزخ والے هیں، وه اس میں همیشه رهیں گے، اور یه بدترین ٹھکانا هے۔",
     "persian_text": "و کسانی که کافر شدند و آیات ما را تکذیب کردند، آنان اهل آتش‌اند، جاودانه در آن بمانند، و چه بد سرانجامی است.",
     "transliteration": "Walladhina kafaru wa kadhdhabu bi-ayatina ula'ika as-habun-nari khalidina fiha, wa bi'sal-masir"

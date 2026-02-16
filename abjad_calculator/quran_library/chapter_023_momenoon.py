@@ -25,7 +25,7 @@ ayats = [
   {
     "verse_number": 3,
     "english_text": "And who objects to the useless talks.",
-    "arabic_text": "وَالَّذِينَ هُمْ عَنِ اللَّغْوِ مُعْرِضُونَ",
+    "arabic_text": "وَ الَّذِينَ هُمْ عَنِ اللَّغْوِ مُعْرِضُونَ",
     "urdu_text": "اور جو بیهوده باتوں سے منه موڑتے هیں",
     "persian_text": "و کسانی که از سخنان بیهوده روی می‌گردانند",
     "transliteration": "Wallazeena hum 'anil laghwi mu'ridoon"
@@ -33,7 +33,7 @@ ayats = [
   {
     "verse_number": 4,
     "english_text": "And who are givers of poor-rate.",
-    "arabic_text": "وَالَّذِينَ هُمْ لِلزَّكَوٰةِ فَـٰعِلُونَ",
+    "arabic_text": "وَ الَّذِينَ هُمْ لِلزَّكَوٰةِ فَـٰعِلُونَ",
     "urdu_text": "اور جو زکوٰۃ ادا کرنے والے هیں",
     "persian_text": "و کسانی که زکات می‌دهند",
     "transliteration": "Wallazeena hum liz zakaati faa'iloon"
@@ -41,7 +41,7 @@ ayats = [
   {
     "verse_number": 5,
     "english_text": "And who protect their private parts.",
-    "arabic_text": "وَالَّذِينَ هُمْ لِفُرُوجِهِمْ حَـٰفِظُونَ",
+    "arabic_text": "وَ الَّذِينَ هُمْ لِفُرُوجِهِمْ حَـٰفِظُونَ",
     "urdu_text": "اور جو اپنی شرمگاهوں کی حفاظت کرتے هیں",
     "persian_text": "و کسانی که دامان خود را پاک نگه می‌دارند",
     "transliteration": "Wallazeena hum lifuroojihim haafizoon"
@@ -65,7 +65,7 @@ ayats = [
   {
     "verse_number": 8,
     "english_text": "And those believers who keep their trusts and promises.",
-    "arabic_text": "وَالَّذِينَ هُمْ لِاَمَـٰنَـٰتِهِمْ وَعَهْدِهِمْ رَٰعُونَ",
+    "arabic_text": "وَ الَّذِينَ هُمْ لِاَمَـٰنَـٰتِهِمْ وَعَهْدِهِمْ رَٰعُونَ",
     "urdu_text": "اور جو اپنی امانتوں اور اپنے عهد کی رعایت کرتے هیں",
     "persian_text": "و کسانی که امانت‌ها و پیمان‌های خود را نگه می‌دارند",
     "transliteration": "Wallazeena hum li amaa naatihim wa 'ahdihim raa'oon"
@@ -73,7 +73,7 @@ ayats = [
   {
     "verse_number": 9,
     "english_text": "And those who keep up their prayer regularly.",
-    "arabic_text": "وَالَّذِينَ هُمْ عَلَىٰ صَلَوَٰتِهِمْ يُحَافِظُونَ",
+    "arabic_text": "وَ الَّذِينَ هُمْ عَلَىٰ صَلَوَٰتِهِمْ يُحَافِظُونَ",
     "urdu_text": "اور جو اپنی نمازوں کی پابندی کرتے هیں",
     "persian_text": "و کسانی که بر نمازهای خود مواظبت می‌کنند",
     "transliteration": "Wallazeena hum 'alaa salawaatihim yuhaafizoon"
@@ -465,7 +465,7 @@ ayats = [
   {
     "verse_number": 58,
     "english_text": "And those who believe in the signs of their Lords.",
-    "arabic_text": "وَالَّذِينَ هُم بِـَٔايَـٰتِ رَبِّهِمْ يُؤْمِنُونَ",
+    "arabic_text": "وَ الَّذِينَ هُم بِـَٔايَـٰتِ رَبِّهِمْ يُؤْمِنُونَ",
     "urdu_text": "اور جو لوگ اپنے رب کی آیات پر ایمان رکھتے هیں۔",
     "persian_text": "و کسانی که به آیات پروردگارشان ایمان دارند.",
     "transliteration": "Wallazeena hum bi-aayaati rabbihim yu'minoon"
@@ -473,7 +473,7 @@ ayats = [
   {
     "verse_number": 59,
     "english_text": "And those who do not make anyone a partner of their Lord.",
-    "arabic_text": "وَالَّذِينَ هُم بِرَبِّهِمْ لَا يُشْرِكُونَ",
+    "arabic_text": "وَ الَّذِينَ هُم بِرَبِّهِمْ لَا يُشْرِكُونَ",
     "urdu_text": "اور جو لوگ اپنے رب کے ساتھ کسی کو شریک نهیں ٹھهراتے۔",
     "persian_text": "و کسانی که با پروردگارشان شریک نمی‌سازند.",
     "transliteration": "Wallazeena hum bi-rabbihim laa yushrikoon"
@@ -481,7 +481,7 @@ ayats = [
   {
     "verse_number": 60,
     "english_text": "And those who keep giving in the way of Allah according to their capacity, and they keep fearing that they have to return to His Court.",
-    "arabic_text": "وَالَّذِينَ يُؤْتُونَ مَآ ءَاتَواْ وَّقُلُوبُهُمْ وَجِلَةٌ اَنَّهُمْ اِلـٰى رَبِّهِمْ رَٰجِعُونَ",
+    "arabic_text": "وَ الَّذِينَ يُؤْتُونَ مَآ ءَاتَواْ وَّقُلُوبُهُمْ وَجِلَةٌ اَنَّهُمْ اِلـٰى رَبِّهِمْ رَٰجِعُونَ",
     "urdu_text": "اور جو لوگ جو کچھ دیتے هیں دیتے رهتے هیں اور ان کے دل ڈرتے رهتے هیں که انهیں اپنے رب کی طرف لوٹنا هے۔",
     "persian_text": "و کسانی که آنچه می‌دهند می‌دهند در حالی که دلهایشان بیمناک است که به سوی پروردگارشان بازمی‌گردند.",
     "transliteration": "Wallazeena yu'toona maaa aataw wa quloobuhum wajilatun annahum ilaa rabbihim raaji'oon"

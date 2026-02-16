@@ -89,7 +89,7 @@ ayats = [
   {
     "verse_number": 11,
     "english_text": "This Quran is guidance, and there is a grievous type of painful punishment for those who deny the verses of Allah.",
-    "arabic_text": "هَـٰذَا هُدًۭى ۖ وَالَّذِينَ كَفَرُواْ بِـَٔايَـٰتِ رَبِّهِمْ لَهُمْ عَذَابٌۭ مِّن رِّجْزٍ اَلِيمٌ",
+    "arabic_text": "هَـٰذَا هُدًۭى ۖ وَ الَّذِينَ كَفَرُواْ بِـَٔايَـٰتِ رَبِّهِمْ لَهُمْ عَذَابٌۭ مِّن رِّجْزٍ اَلِيمٌ",
     "urdu_text": "یه قرآن هدایت هے، اور جن لوگوں نے اپنے رب کی آیات کا انکار کیا ان کے لیے سخت دردناک عذاب هے۔",
     "persian_text": "این قرآن هدایت است، و برای کسانی که آیات پروردگارشان را انکار کردند، عذابی دردناک و سخت است.",
     "transliteration": "Haazaa hudaa, wallazeena kafaroo bi-aayaati rabbihim lahum 'azaabum mir rijzin aleem"

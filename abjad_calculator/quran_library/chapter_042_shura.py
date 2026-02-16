@@ -49,7 +49,7 @@ ayats = [
   {
     "verse_number": 6,
     "english_text": "And whoever have made the guardians other than Him, Allah is watching their condition, and O Prophet, you are not responsible for anyone.",
-    "arabic_text": "وَالَّذِينَ اتَّخَذُواْ مِن دُونِهِٓ اَوْلِيَآءَ اللّٰهُ حَفِيظٌ عَلَيْهِمْ وَ مَآ اَنتَ عَلَيْهِم بِوَكِيلٍۢ",
+    "arabic_text": "وَ الَّذِينَ اتَّخَذُواْ مِن دُونِهِٓ اَوْلِيَآءَ اللّٰهُ حَفِيظٌ عَلَيْهِمْ وَ مَآ اَنتَ عَلَيْهِم بِوَكِيلٍۢ",
     "urdu_text": "اور جن لوگوں نے اس کے سوا دوسروں کو کارساز بنایا هے، الله ان پر نگهبان هے، اور اے نبی! آپ ان پر ذمه دار نهیں هیں",
     "persian_text": "و کسانی که غیر از او سرپرستانی برگزیدند، الله بر آنان نگهبان است، و تو بر آنان وکیل نیستی",
     "transliteration": "Wallazeenattakhazo min doonihi awliyaaa' Allahu Hafeezun alaihim wa maaa anta alaihim biwakeel"
@@ -129,7 +129,7 @@ ayats = [
   {
     "verse_number": 16,
     "english_text": "Those who quarrel about Allah after accepting Him, their arguments are null and waste, and there is wrath of Allah on them, and for them punishment is of severe type.",
-    "arabic_text": "وَالَّذِينَ يُحَآجُّونَ فِى اللّٰهِ مِنۢ بَعْدِ مَا اسْتُجِيبَ لَهُ حُجَّتُهُمْ دَاحِضَةٌ عِندَ رَبِّهِمْ وَعَلَيْهِمْ غَضَبٌۭ وَلَهُمْ عَذَابٌۭ شَدِيدٌ",
+    "arabic_text": "وَ الَّذِينَ يُحَآجُّونَ فِى اللّٰهِ مِنۢ بَعْدِ مَا اسْتُجِيبَ لَهُ حُجَّتُهُمْ دَاحِضَةٌ عِندَ رَبِّهِمْ وَعَلَيْهِمْ غَضَبٌۭ وَلَهُمْ عَذَابٌۭ شَدِيدٌ",
     "urdu_text": "اور جو لوگ الله کے بارے میں جھگڑتے هیں اُس کے بعد که اُس کی دعوت قبول کر لی گئی، اُن کی دلیل اُن کے رب کے نزدیک باطل هے، اور اُن پر غضب هے اور اُن کے لیے سخت عذاب هے۔",
     "persian_text": "و کسانی که درباره خداوند پس از آنکه دعوت او پذیرفته شد مجادله می‌کنند، حجت آنان نزد پروردگارشان باطل است و بر آنان خشم است و برای آنان عذابی سخت است.",
     "transliteration": "Walladhina yuhajjuna fillahi min ba'di mastujiba lahu hujjatuhum dahidatun 'inda rabbihim wa 'alayhim ghadabun wa lahum 'adhabun shadid"
@@ -145,7 +145,7 @@ ayats = [
   {
     "verse_number": 18,
     "english_text": "Those who hasten in it (in the Day of Judgement) do not believe in it, but those who believe are always fearful of it, and know that after all it is the truth, beware! those who doubt in the Day of Judgement, they are in misguidance and have gone far away.",
-    "arabic_text": "يَسْتَعْجِلُ بِهَا الَّذِينَ لَا يُؤْمِنُونَ بِهَا ۖ وَالَّذِينَ ءَامَنُواْ مُشْفِقُونَ مِنْهَا وَيَعْلَمُونَ اَنَّهَا الْحَقُّ ۗ اَلَآ اِنَّ الَّذِينَ يُمَارُونَ فِى السَّاعَةِ لَفِى ضَلَـٰلٍۭ بَعِيدٍ",
+    "arabic_text": "يَسْتَعْجِلُ بِهَا الَّذِينَ لَا يُؤْمِنُونَ بِهَا ۖ وَ الَّذِينَ ءَامَنُواْ مُشْفِقُونَ مِنْهَا وَيَعْلَمُونَ اَنَّهَا الْحَقُّ ۗ اَلَآ اِنَّ الَّذِينَ يُمَارُونَ فِى السَّاعَةِ لَفِى ضَلَـٰلٍۭ بَعِيدٍ",
     "urdu_text": "جو لوگ اِس پر ایمان نهیں رکھتے وه اِس میں جلدی کرتے هیں، اور جو لوگ ایمان لائے هیں وه اِس سے ڈرتے هیں اور جانتے هیں که یه حق هے، خبردار! جو لوگ قیامت کے بارے میں شک کرتے هیں وه یقیناً دور کی گمراهی میں هیں۔",
     "persian_text": "کسانی که به آن ایمان ندارند برای آن شتاب می‌کنند، و کسانی که ایمان آورده‌اند از آن بیمناکند و می‌دانند که آن حق است، آگاه باشید کسانی که درباره قیامت تردید می‌کنند در گمراهی دوری هستند.",
     "transliteration": "Yasta'jilu bihal-ladhina la yu'minuna biha, walladhina amanu mushfiquna minha wa ya'lamuna annaha al-haqq, ala innal-ladhina yumaruna fis-sa'ati lafi dalalin ba'id"
@@ -177,7 +177,7 @@ ayats = [
   {
     "verse_number": 22,
     "english_text": "You will see, that the unjust are fearful for punishment of their deeds that will Verily come upon them, and those who have believed, and have done good deeds, they will live in the gardens of Paradise; and for them there is everything in the presence of Allah for which they will desire, and this is a great Mercy of the Lord.",
-    "arabic_text": "تَرَى الظَّـٰلِمِينَ مُشْفِقِينَ مِمَّا كَسَبُواْ وَهُوَ وَاقِعٌۢ بِهِمْ ۗ وَالَّذِينَ ءَامَنُواْ وَعَمِلُواْ الصَّـٰلِحَـٰتِ فِى رَوْضَاتِ الْجَنَّاتِ ۖ لَهُم مَّا يَشَآءُونَ عِندَ رَبِّهِمْ ۚ ذٰلِكَ هُوَ الْفَضْلُ الْكَبِيرُ",
+    "arabic_text": "تَرَى الظَّـٰلِمِينَ مُشْفِقِينَ مِمَّا كَسَبُواْ وَهُوَ وَاقِعٌۢ بِهِمْ ۗ وَ الَّذِينَ ءَامَنُواْ وَعَمِلُواْ الصَّـٰلِحَـٰتِ فِى رَوْضَاتِ الْجَنَّاتِ ۖ لَهُم مَّا يَشَآءُونَ عِندَ رَبِّهِمْ ۚ ذٰلِكَ هُوَ الْفَضْلُ الْكَبِيرُ",
     "urdu_text": "تم دیکھو گے که ظالم اپنے اعمال کے عذاب سے ڈرے هوئے هیں جو یقیناً ان پر آنے والا هے، اور جو لوگ ایمان لائے اور نیک اعمال کیے، وه جنت کے باغات میں هوں گے، ان کے لیے اپنے رب کے پاس وه سب کچھ هے جو وه چاهیں گے، اور یه بهت بڑا فضل هے۔",
     "persian_text": "خواهی دید که ستمکاران از کیفر اعمالشان می‌ترسند و آن بر آنان واقع خواهد شد، و کسانی که ایمان آورده و کارهای شایسته انجام داده‌اند، در باغ‌های بهشت خواهند بود، برای آنان نزد پروردگارشان هر چه بخواهند هست، و این همان فضل بزرگ است.",
     "transliteration": "Taraz-zaalimeena mushfiqeena mimmaa kasaboo wa huwa waaqi'um bihim, walladheena aamanoo wa 'amilus-saalihaati fee rawdaatil-jannaat, lahum maa yashaa'oona 'inda rabbihim, dhaalika huwal-fadlul-kabeer"
@@ -297,7 +297,7 @@ ayats = [
   {
     "verse_number": 37,
     "english_text": "And (they) desist from big sins and indecencies and when they get angry, they forgive.",
-    "arabic_text": "وَالَّذِينَ يَجْتَنِبُونَ كَبَـٰٓئِرَ الْاِثْمِ وَالْفَوَٰحِشَ وَاِذَا مَا غَضِبُواْ هُمْ يَغْفِرُونَ",
+    "arabic_text": "وَ الَّذِينَ يَجْتَنِبُونَ كَبَـٰٓئِرَ الْاِثْمِ وَالْفَوَٰحِشَ وَاِذَا مَا غَضِبُواْ هُمْ يَغْفِرُونَ",
     "urdu_text": "اور جو بڑے گناهوں اور بے حیائی کی باتوں سے بچتے هیں، اور جب غصه آتا هے تو معاف کر دیتے هیں۔",
     "persian_text": "و کسانی که از گناهان بزرگ و زشتی‌ها دوری می‌کنند، و هنگامی که خشمگین می‌شوند می‌بخشند.",
     "transliteration": "Walladheena yajtaniboona kabaaa'iral-ithmi wal-fawaahisha wa idhaa maa ghadiboo hum yaghfiroon"
@@ -305,7 +305,7 @@ ayats = [
   {
     "verse_number": 38,
     "english_text": "And those who accept the talk of their Lord, and establish prayer and discuss their affairs among them, and spend in Our way from whatever sustenance We have given them.",
-    "arabic_text": "وَالَّذِينَ اسْتَجَابُواْ لِرَبِّهِمْ وَاَقَامُواْ الصَّلَوٰةَ وَاَمْرُهُمْ شُورَىٰ بَيْنَهُمْ وَمِمَّا رَزَقْنَـٰهُمْ يُنفِقُونَ",
+    "arabic_text": "وَ الَّذِينَ اسْتَجَابُواْ لِرَبِّهِمْ وَاَقَامُواْ الصَّلَوٰةَ وَاَمْرُهُمْ شُورَىٰ بَيْنَهُمْ وَمِمَّا رَزَقْنَـٰهُمْ يُنفِقُونَ",
     "urdu_text": "اور جو اپنے رب کی بات قبول کرتے هیں، اور نماز قائم کرتے هیں، اور ان کے معاملات آپس کے مشورے سے طے هوتے هیں، اور جو کچھ هم نے انهیں دیا هے اس میں سے خرچ کرتے هیں۔",
     "persian_text": "و کسانی که دعوت پروردگارشان را پذیرفته‌اند و نماز برپا می‌دارند، و کارشان به مشورت میان خودشان است، و از آنچه به آنها روزی داده‌ایم انفاق می‌کنند.",
     "transliteration": "Walladheenas-tajaaboo li-rabbihim wa aqaamus-salaata wa amruhum shooraa baynahum wa mimmaa razaqnaahum yunfiqoon"
@@ -313,7 +313,7 @@ ayats = [
   {
     "verse_number": 39,
     "english_text": "And they take revenge when any unjust is done to them (defend themselves).",
-    "arabic_text": "وَالَّذِينَ اِذَآ اَصَابَهُمُ الْبَغْىُ هُمْ يَنتَصِرُونَ",
+    "arabic_text": "وَ الَّذِينَ اِذَآ اَصَابَهُمُ الْبَغْىُ هُمْ يَنتَصِرُونَ",
     "urdu_text": "اور جب ان پر ظلم هوتا هے تو وه بدله لیتے هیں (اپنا دفاع کرتے هیں)۔",
     "persian_text": "و کسانی که هنگامی که ستم بر آنها می‌رسد، یاری می‌جویند (از خود دفاع می‌کنند).",
     "transliteration": "Walladheena idhaa asaaba-humul-baghyu hum yantasiroon"

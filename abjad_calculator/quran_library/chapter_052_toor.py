@@ -169,7 +169,7 @@ ayats = [
   {
     "verse_number": 21,
     "english_text": "Those who believed and their children also obeyed them in faith, then We will cause them to unite with their descendants also, and We will not lessen anybody's deeds even for a particle, and everyone is responsible for his deeds.",
-    "arabic_text": "وَالَّذِينَ ءَامَنُواْ وَاتَّبَعَتْهُمْ ذُرِّيَّتُهُم بِاِيمَـٰنٍ اَلْحَقْنَا بِهِمْ ذُرِّيَّتَهُمْ وَ مَآ اَلَتْنَـٰهُم مِّنْ عَمَلِهِم مِّن شَىْءٍۢ ۚ كُلُّ امْرِئٍۭ بِمَا كَسَبَ رَهِينٌ",
+    "arabic_text": "وَ الَّذِينَ ءَامَنُواْ وَاتَّبَعَتْهُمْ ذُرِّيَّتُهُم بِاِيمَـٰنٍ اَلْحَقْنَا بِهِمْ ذُرِّيَّتَهُمْ وَ مَآ اَلَتْنَـٰهُم مِّنْ عَمَلِهِم مِّن شَىْءٍۢ ۚ كُلُّ امْرِئٍۭ بِمَا كَسَبَ رَهِينٌ",
     "urdu_text": "اور جو لوگ ایمان لائے اور ان کی اولاد نے بھی ایمان میں ان کی پیروی کی، تو ہم ان کی اولاد کو بھی ان کے ساتھ ملا دیں گے، اور ہم ان کے اعمال میں سے ذرہ برابر بھی کمی نہیں کریں گے، ہر شخص اپنے اعمال کا ذمہ دار ہے۔",
     "persian_text": "و کسانی که ایمان آوردند و فرزندانشان نیز با ایمان از آنها پیروی کردند، فرزندانشان را به آنها ملحق می‌کنیم و از اعمالشان چیزی کم نمی‌کنیم، هر کسی به آنچه کسب کرده گرو است.",
     "transliteration": "Wallazeena aamanoo wattaba'at-hum zurriyyatuhum bi-eemaanin alhaqnaa bihim zurriyyatahum wa maaa alatnaahum min 'amalihim min shay', kullu-mri'im bimaa kasaba raheen"

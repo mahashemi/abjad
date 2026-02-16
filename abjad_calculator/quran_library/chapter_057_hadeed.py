@@ -153,7 +153,7 @@ ayats = [
   {
     "verse_number": 19,
     "english_text": "And the people who believed in Allah and His prophet, their rank near Allah is that of a truthful and a martyr and for them is their reward and the light; and those who adopted infidelity and denied Our signs, they are in fact companions of Hell.",
-    "arabic_text": "وَالَّذِينَ ءَامَنُواْ بِاللّٰهِ وَرُسُلِهِٓ اُو۟لَـٰٓئِكَ هُمُ الصِّدِّيقُونَ ۖ وَالشُّهَدَآءُ عِندَ رَبِّهِمْ لَهُمْ اَجْرُهُمْ وَنُورُهُمْ ۖ وَالَّذِينَ كَفَرُواْ وَكَذَّبُواْ بِـَٔايَـٰتِنَآ اُو۟لَـٰٓئِكَ اَصْحَـٰبُ الْجَحِيمِ",
+    "arabic_text": "وَ الَّذِينَ ءَامَنُواْ بِاللّٰهِ وَرُسُلِهِٓ اُو۟لَـٰٓئِكَ هُمُ الصِّدِّيقُونَ ۖ وَالشُّهَدَآءُ عِندَ رَبِّهِمْ لَهُمْ اَجْرُهُمْ وَنُورُهُمْ ۖ وَ الَّذِينَ كَفَرُواْ وَكَذَّبُواْ بِـَٔايَـٰتِنَآ اُو۟لَـٰٓئِكَ اَصْحَـٰبُ الْجَحِيمِ",
     "urdu_text": "اور جو لوگ الله اور اس کے رسولوں پر ایمان لائے، وهی صدیق هیں اور اپنے رب کے نزدیک شهید هیں، ان کے لیے ان کا اجر اور ان کا نور هے، اور جنهوں نے کفر کیا اور هماری آیات کو جھٹلایا، وه دوزخ کے ساتھی هیں۔",
     "persian_text": "و کسانی که به خدا و پیامبرانش ایمان آوردند، آنان صدیقان و شهیدان نزد پروردگارشان هستند، برای آنان پاداش و نورشان است، و کسانی که کافر شدند و آیات ما را تکذیب کردند، آنان اهل دوزخند.",
     "transliteration": "Walladheena aamanoo billaahi wa rusulihee ulaa'ika humus-siddeeqoona wash-shuhadaaa'u 'inda rabbihim lahum ajruhum wa nooruhum walladheena kafaroo wa kadhdhaboo bi-aayaatinaaa ulaa'ika as-haabul-jaheem"

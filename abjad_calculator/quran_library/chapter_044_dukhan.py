@@ -297,7 +297,7 @@ ayats = [
   {
     "verse_number": 37,
     "english_text": "Are they better or the nation of Tab’e and people earlier than them, whom We destroyed because they were all criminals.",
-    "arabic_text": "اَهُمْ خَيْرٌ اَمْ قَوْمُ تُبَّعٍۢ وَالَّذِينَ مِن قَبْلِهِمْ ۚ اَهْلَكْنَـٰهُمْ ۖ اِنَّهُمْ كَانُواْ مُجْرِمِينَ",
+    "arabic_text": "اَهُمْ خَيْرٌ اَمْ قَوْمُ تُبَّعٍۢ وَ الَّذِينَ مِن قَبْلِهِمْ ۚ اَهْلَكْنَـٰهُمْ ۖ اِنَّهُمْ كَانُواْ مُجْرِمِينَ",
     "urdu_text": "کیا یه بهتر هیں یا قوم تبع اور ان سے پهلے والے لوگ؟ هم نے انهیں هلاک کر دیا، بیشک وه مجرم تھے۔",
     "persian_text": "آیا اینان بهترند یا قوم تُبَّع و کسانی که پیش از آنان بودند؟ ما آنان را هلاک کردیم، زیرا که گناهکار بودند.",
     "transliteration": "Ahum khayrun am qawmu Tubba'inw wallazeena min qablihim ahlaknaahum innahum kaanoo mujrimeen"

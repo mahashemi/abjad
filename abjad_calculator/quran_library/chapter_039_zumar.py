@@ -25,7 +25,7 @@ ayats = [
   {
     "verse_number": 3,
     "english_text": "Be aware that sincere worshipping is for Allah only; who have made other guardians by saying that their worship will bring us closer to Allah; Allah will decide between them in case of dispute; that Allah does not guide liar and thankless people.",
-    "arabic_text": "اَلَا لِلَّهِ الدِّينُ الْخَالِصُ ۚ وَالَّذِينَ اتَّخَذُواْ مِن دُونِهِٓ اَوْلِيَآءَ مَا نَعْبُدُهُمْ اِلَّا لِيُقَرِّبُونَآ اِلَى اللّٰهِ زُلْفَىٰٓ اِنَّ اللّٰهَ يَحْكُمُ بَيْنَهُمْ فِى مَا هُمْ فِيهِ يَخْتَلِفُونَ ۗ اِنَّ اللّٰهَ لَا يَهْدِى مَنْ هُوَ كَـٰذِبٌۭ كَفَّارٌۭ",
+    "arabic_text": "اَلَا لِلَّهِ الدِّينُ الْخَالِصُ ۚ وَ الَّذِينَ اتَّخَذُواْ مِن دُونِهِٓ اَوْلِيَآءَ مَا نَعْبُدُهُمْ اِلَّا لِيُقَرِّبُونَآ اِلَى اللّٰهِ زُلْفَىٰٓ اِنَّ اللّٰهَ يَحْكُمُ بَيْنَهُمْ فِى مَا هُمْ فِيهِ يَخْتَلِفُونَ ۗ اِنَّ اللّٰهَ لَا يَهْدِى مَنْ هُوَ كَـٰذِبٌۭ كَفَّارٌۭ",
     "urdu_text": "خبردار! خالص دین صرف اللہ کے لیے ہے، اور جن لوگوں نے اس کے سوا دوسرے سرپرست بنا لیے ہیں کہ ہم ان کی عبادت صرف اس لیے کرتے ہیں کہ یہ ہمیں اللہ کے قریب کر دیں، اللہ ان کے درمیان فیصلہ کرے گا جس بات میں وہ اختلاف کرتے ہیں، بیشک اللہ اس شخص کو ہدایت نہیں دیتا جو جھوٹا اور ناشکرا ہو۔",
     "persian_text": "آگاه باشید که دین خالص تنها برای خداست، و کسانی که غیر از او اولیایی برگزیدند و گفتند ما آنها را فقط عبادت می‌کنیم تا ما را به خدا نزدیک کنند، خداوند در آنچه در آن اختلاف دارند میان آنها داوری خواهد کرد، همانا خدا کسی را که دروغگو و ناسپاس است هدایت نمی‌کند.",
     "transliteration": "Alaa lillaahid-deenul-khaalis, wallazeenattakhadhoo min doonihee awliyaaa maa na'buduhum illaa liyuqarriboona ilallaahi zulfaa, innallaaha yahkumu baynahum fee maa hum feehi yakhtalifoon, innallaaha laa yahdee man huwa kaadhibun kaffaar"
@@ -73,7 +73,7 @@ ayats = [
   {
     "verse_number": 9,
     "english_text": "What! that person who prostrates during the night, and worships Allah while standing, and has fear for the Hereafter, and is hopeful of Mercy of his Lord; say: those who know, and those who do not know can be same? Only knowledgeable persons take the admonition from this.",
-    "arabic_text": "اَمَّنْ هُوَ قَـٰنِتٌ ءَانَآءَ الَّيْلِ سَاجِدًۭا وَقَآئِمًا يَحْذَرُ الْاخِرَةَ وَيَرْجُواْ رَحْمَةَ رَبِّهِ ۗ قُلْ هَلْ يَسْتَوِى الَّذِينَ يَعْلَمُونَ وَالَّذِينَ لَا يَعْلَمُونَ ۗ اِنَّمَا يَتَذَكَّرُ اُو۟لُواْ الْاَلْبَـٰبِ",
+    "arabic_text": "اَمَّنْ هُوَ قَـٰنِتٌ ءَانَآءَ الَّيْلِ سَاجِدًۭا وَقَآئِمًا يَحْذَرُ الْاخِرَةَ وَيَرْجُواْ رَحْمَةَ رَبِّهِ ۗ قُلْ هَلْ يَسْتَوِى الَّذِينَ يَعْلَمُونَ وَ الَّذِينَ لَا يَعْلَمُونَ ۗ اِنَّمَا يَتَذَكَّرُ اُو۟لُواْ الْاَلْبَـٰبِ",
     "urdu_text": "کیا وہ شخص جو رات کی گھڑیوں میں سجدہ کرتے ہوئے اور کھڑے ہو کر عبادت کرتا ہے، آخرت سے ڈرتا ہے اور اپنے رب کی رحمت کی امید رکھتا ہے، کہہ دو کیا جاننے والے اور نہ جاننے والے برابر ہو سکتے ہیں؟ صرف عقل والے ہی نصیحت حاصل کرتے ہیں۔",
     "persian_text": "آیا کسی که در ساعات شب سجده‌کنان و ایستاده عبادت می‌کند، از آخرت می‌ترسد و به رحمت پروردگارش امیدوار است، بگو: آیا دانایان و نادانان برابرند؟ تنها خردمندان پند می‌گیرند.",
     "transliteration": "Amman huwa qaanitun aanaaa'al-layli saajidaw-wa qaaa'iman yahdharul-aakhirata wa yarjoo rahmata Rabbih, qul hal yastawil-ladheena ya'lamoona walladheena laa ya'lamoon, innamaa yatadhakkaru ulul-albaab"
@@ -137,7 +137,7 @@ ayats = [
   {
     "verse_number": 17,
     "english_text": "Whoever separated from the unjust that they don't worship and turned to Allah, for them is glad tidings from Us, therefore, O Prophet! Give glad tidings to my servants.",
-    "arabic_text": "وَالَّذِينَ اجْتَنَبُواْ الطَّـٰغُوتَ اَن يَعْبُدُوهَا وَاَنَابُوٓاْ اِلَى اللّٰهِ لَهُمُ الْبُشْرٰى ۚ فَبَشِّرْ عِبَادِ",
+    "arabic_text": "وَ الَّذِينَ اجْتَنَبُواْ الطَّـٰغُوتَ اَن يَعْبُدُوهَا وَاَنَابُوٓاْ اِلَى اللّٰهِ لَهُمُ الْبُشْرٰى ۚ فَبَشِّرْ عِبَادِ",
     "urdu_text": "اور جن لوگوں نے طاغوت کی عبادت سے پرہیز کیا اور اللہ کی طرف رجوع کیا، ان کے لیے خوشخبری ہے۔ پس اے نبی! میرے بندوں کو خوشخبری سنا دیجیے۔",
     "persian_text": "و کسانی که از پرستش طاغوت دوری کردند و به سوی خدا بازگشتند، برای آنان بشارت است. پس ای پیامبر، بندگان مرا بشارت ده.",
     "transliteration": "Walladheenaj-tanabut-taaghoota an ya'budoohaa wa anaaboo ilal-laahi lahumul-bushraa fabashshir 'ibaad"
@@ -409,7 +409,7 @@ ayats = [
   {
     "verse_number": 51,
     "english_text": "Whereas the effects of their bad deeds have reached them; and among infidels also who are unjust their effect will verily reach them, and they cannot humble Allah.",
-    "arabic_text": "فَاَصَابَهُمْ سَيِّـَٔاتُ مَا كَسَبُواْ ۚ وَالَّذِينَ ظَلَمُواْ مِنْ هَـٰٓؤُلَآءِ سَيُصِيبُهُمْ سَيِّـَٔاتُ مَا كَسَبُواْ وَ مَا هُم بِمُعْجِزِينَ",
+    "arabic_text": "فَاَصَابَهُمْ سَيِّـَٔاتُ مَا كَسَبُواْ ۚ وَ الَّذِينَ ظَلَمُواْ مِنْ هَـٰٓؤُلَآءِ سَيُصِيبُهُمْ سَيِّـَٔاتُ مَا كَسَبُواْ وَ مَا هُم بِمُعْجِزِينَ",
     "urdu_text": "پس ان کو ان کے برے اعمال کی سزا پہنچی، اور ان میں سے جنہوں نے ظلم کیا ان کو بھی ان کے برے اعمال کی سزا ضرور پہنچے گی، اور وہ اللہ کو عاجز نہیں کر سکتے۔",
     "persian_text": "پس آنها را عواقب بد اعمالشان فرا گرفت، و کسانی از اینان که ستم کرده‌اند نیز عواقب بد اعمالشان به آنها خواهد رسید، و آنها نمی‌توانند خدا را ناتوان سازند.",
     "transliteration": "Fa-asabahum sayyi'atu ma kasabu, wallazina zalamu min ha'ula'i sayusibuhum sayyi'atu ma kasabu wa ma hum bi-mu'jizin"
@@ -505,7 +505,7 @@ ayats = [
   {
     "verse_number": 63,
     "english_text": "With Him are all the keys of earth and skies, and whoever denies His verses are going to be in loss.",
-    "arabic_text": "لَّهُ مَقَالِيدُ السَّمَـٰوَٰتِ وَ الْاَرْضِ ۗ وَالَّذِينَ كَفَرُواْ بِـَٔايَـٰتِ اللّٰهِ اُو۟لَـٰٓئِكَ هُمُ الْخَـٰسِرُونَ",
+    "arabic_text": "لَّهُ مَقَالِيدُ السَّمَـٰوَٰتِ وَ الْاَرْضِ ۗ وَ الَّذِينَ كَفَرُواْ بِـَٔايَـٰتِ اللّٰهِ اُو۟لَـٰٓئِكَ هُمُ الْخَـٰسِرُونَ",
     "urdu_text": "اسی کے پاس زمین اور آسمانوں کی تمام کنجیاں ہیں، اور جو لوگ اللہ کی آیات کا انکار کرتے ہیں وہی نقصان اٹھانے والے ہیں۔",
     "persian_text": "کلیدهای آسمان‌ها و زمین از آنِ اوست، و کسانی که آیات خدا را انکار می‌کنند، آنان زیانکارانند.",
     "transliteration": "Lahoo maqaaleedus-samaawaati wal-ard, walladheena kafaroo bi-aayaatil-laahi ulaa'ika humul-khaasiroon"

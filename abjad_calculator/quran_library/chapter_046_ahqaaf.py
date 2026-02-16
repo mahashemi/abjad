@@ -25,7 +25,7 @@ ayats = [
   {
     "verse_number": 3,
     "english_text": "We have created skies and the earth and all creatures in between with the Truth and with an appointed term, and those who have adopted infidelity have turned aside from which they have been warned.",
-    "arabic_text": "مَا خَلَقْنَا السَّمَـٰوَٰتِ وَالْاَرْضَ وَ مَا بَيْنَهُمَآ اِلَّا بِالْحَقِّ وَاَجَلٍۢ مُّسَمًّۭى ۚ وَالَّذِينَ كَفَرُواْ عَمَّآ اُنذِرُواْ مُعْرِضُونَ",
+    "arabic_text": "مَا خَلَقْنَا السَّمَـٰوَٰتِ وَالْاَرْضَ وَ مَا بَيْنَهُمَآ اِلَّا بِالْحَقِّ وَاَجَلٍۢ مُّسَمًّۭى ۚ وَ الَّذِينَ كَفَرُواْ عَمَّآ اُنذِرُواْ مُعْرِضُونَ",
     "urdu_text": "ہم نے آسمانوں اور زمین اور جو کچھ ان کے درمیان ہے، سب کو حق کے ساتھ اور ایک مقررہ مدت کے لیے پیدا کیا ہے، اور جن لوگوں نے کفر اختیار کیا ہے وہ اس سے منہ موڑتے ہیں جس سے انہیں ڈرایا گیا ہے۔",
     "persian_text": "ما آسمان‌ها و زمین و آنچه میان آنها است جز به حق و برای مدتی معین نیافریدیم، و کسانی که کافر شدند از آنچه از آن بیم داده شده‌اند روی گردان هستند.",
     "transliteration": "Maa khalaqnas-samaawaati wal-arda wa maa baynahumaaa illaa bil-haqqi wa ajalim-musammaa, wallazeena kafaroo 'ammaaa unziroo mu'ridoon"

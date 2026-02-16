@@ -57,7 +57,7 @@ ayats = [
   {
     "verse_number": 7,
     "english_text": "Whoever adopted infidelity there is severe punishment for them, and those who believe and did good work, there is forgiveness and big reward for them.",
-    "arabic_text": "الَّذِينَ كَفَرُواْ لَهُمْ عَذَابٌۭ شَدِيدٌۭ ۖ وَالَّذِينَ ءَامَنُواْ وَعَمِلُواْ الصَّـٰلِحَـٰتِ لَهُم مَّغْفِرَةٌۭ وَاَجْرٌۭ كَبِيرٌ",
+    "arabic_text": "الَّذِينَ كَفَرُواْ لَهُمْ عَذَابٌۭ شَدِيدٌۭ ۖ وَ الَّذِينَ ءَامَنُواْ وَعَمِلُواْ الصَّـٰلِحَـٰتِ لَهُم مَّغْفِرَةٌۭ وَاَجْرٌۭ كَبِيرٌ",
     "urdu_text": "جن لوگوں نے کفر اختیار کیا ان کے لیے سخت عذاب ہے، اور جو لوگ ایمان لائے اور نیک عمل کیے ان کے لیے بخشش اور بڑا اجر ہے۔",
     "persian_text": "کسانی که کافر شدند، برای آنان عذابی سخت است، و کسانی که ایمان آوردند و کارهای شایسته انجام دادند، برای آنان آمرزش و پاداش بزرگی است.",
     "transliteration": "Allatheena kafaroo lahum 'athabun shadeedun waallatheena amanoo wa'amiloo alssalihati lahum maghfiratun wa-ajrun kabeer"
@@ -81,7 +81,7 @@ ayats = [
   {
     "verse_number": 10,
     "english_text": "Whoever is desirous of honor, should understand that all Honor belongs to the Lord, pure words rise towards Him; and good deeds lift them up, there is severe punishment for those who strive for evil; and their planning is after all going to perish.",
-    "arabic_text": "مَن كَانَ يُرِيدُ الْعِزَّةَ فَلِلَّهِ الْعِزَّةُ جَمِيعًا ۚ اِلَيْهِ يَصْعَدُ الْكَلِمُ الطَّيِّبُ وَالْعَمَلُ الصَّـٰلِحُ يَرْفَعُهُ ۚ وَالَّذِينَ يَمْكُرُونَ السَّيِّـَٔاتِ لَهُمْ عَذَابٌۭ شَدِيدٌۭ ۖ وَمَكْرُ اُو۟لَـٰٓئِكَ هُوَ يَبُورُ",
+    "arabic_text": "مَن كَانَ يُرِيدُ الْعِزَّةَ فَلِلَّهِ الْعِزَّةُ جَمِيعًا ۚ اِلَيْهِ يَصْعَدُ الْكَلِمُ الطَّيِّبُ وَالْعَمَلُ الصَّـٰلِحُ يَرْفَعُهُ ۚ وَ الَّذِينَ يَمْكُرُونَ السَّيِّـَٔاتِ لَهُمْ عَذَابٌۭ شَدِيدٌۭ ۖ وَمَكْرُ اُو۟لَـٰٓئِكَ هُوَ يَبُورُ",
     "urdu_text": "جو شخص عزت چاہتا ہے تو سمجھ لے کہ تمام عزت اللہ ہی کے لیے ہے، پاکیزہ کلمات اسی کی طرف چڑھتے ہیں اور نیک عمل انہیں بلند کرتا ہے، اور جو لوگ برائیوں کی تدبیریں کرتے ہیں ان کے لیے سخت عذاب ہے، اور ان کی تدبیر بالآخر ناکام ہو جائے گی۔",
     "persian_text": "هر که خواهان عزت است، پس همه عزت از آن خداست، سخن پاک به سوی او بالا می‌رود و عمل شایسته آن را بالا می‌برد، و کسانی که نقشه‌های بد می‌کشند، برای آنان عذابی سخت است، و نقشه آنان نابود خواهد شد.",
     "transliteration": "Man kana yureedu al'izzata falillahi al'izzatu jamee'an ilayhi yas'adu alkalimu alttayyibu waal'amalu alssalihu yarfa'uhu waallatheena yamkuroona alssayyi-ati lahum 'athabun shadeedun wamakru ola-ika huwa yaboor"
@@ -105,7 +105,7 @@ ayats = [
   {
     "verse_number": 13,
     "english_text": "And Allah makes to enter the night into the day, and makes to enter day into the night, Allah made subservient to sun and the moon, and they are moving (in the orbit) according to the appointed time, that is your Lord and He is the master of the universe, and besides Him whom you call out, they don't have even the control of the peel of the seed of the palm-date.",
-    "arabic_text": "يُولِجُ الَّيْلَ فِى النَّهَارِ وَيُولِجُ النَّهَارَ فِى الَّيْلِ وَسَخَّرَ الشَّمْسَ وَالْقَمَرَ كُلٌّۭ يَجْرِى لِاَجَلٍۢ مُّسَمًّۭى ۚ ذَٰلِكُمُ اللّٰهُ رَبُّكُمْ لَهُ الْمُلْكُ ۚ وَالَّذِينَ تَدْعُونَ مِن دُونِهِ مَا يَمْلِكُونَ مِن قِطْمِيرٍ",
+    "arabic_text": "يُولِجُ الَّيْلَ فِى النَّهَارِ وَيُولِجُ النَّهَارَ فِى الَّيْلِ وَسَخَّرَ الشَّمْسَ وَالْقَمَرَ كُلٌّۭ يَجْرِى لِاَجَلٍۢ مُّسَمًّۭى ۚ ذَٰلِكُمُ اللّٰهُ رَبُّكُمْ لَهُ الْمُلْكُ ۚ وَ الَّذِينَ تَدْعُونَ مِن دُونِهِ مَا يَمْلِكُونَ مِن قِطْمِيرٍ",
     "urdu_text": "وہ رات کو دن میں داخل کرتا ہے اور دن کو رات میں داخل کرتا ہے، اور اس نے سورج اور چاند کو مسخر کیا ہے، ہر ایک ایک مقررہ وقت تک چل رہا ہے، یہ اللہ تمہارا رب ہے، اسی کی بادشاہی ہے، اور اس کے سوا جن کو تم پکارتے ہو وہ کھجور کی گٹھلی کی جھلی کے بھی مالک نہیں۔",
     "persian_text": "شب را در روز داخل می‌کند و روز را در شب داخل می‌سازد، و خورشید و ماه را مسخر کرده که هر یک تا زمانی معین در گردشند، این است خداوند پروردگار شما که فرمانروایی از آن اوست، و آنان که غیر از او می‌خوانید مالک پوست نازک هسته خرما هم نیستند.",
     "transliteration": "Yulijul layla fin nahari wa yulijun nahara fil layli wa sakhkharash shamsa walqamara kullun yajri li ajalin musamma, dhalikumullahu rabbukum lahul mulk, walladhina tad'una min dunihi ma yamlikuna min qitmir"
@@ -289,7 +289,7 @@ ayats = [
   {
     "verse_number": 36,
     "english_text": "There is Hellfire for those who adopted infidelity, and there neither death will come to them nor there would be any concession in their punishment, and We give punishment like this to the infidels.",
-    "arabic_text": "وَالَّذِينَ كَفَرُواْ لَهُمْ نَارُ جَهَنَّمَ لَا يُقْضَىٰ عَلَيْهِمْ فَيَمُوتُواْ وَ لَا يُخَفَّفُ عَنْهُم مِّنْ عَذَابِهَا ۚ كَذٰلِكَ نَجْزِى كُلَّ كَفُورٍۢ",
+    "arabic_text": "وَ الَّذِينَ كَفَرُواْ لَهُمْ نَارُ جَهَنَّمَ لَا يُقْضَىٰ عَلَيْهِمْ فَيَمُوتُواْ وَ لَا يُخَفَّفُ عَنْهُم مِّنْ عَذَابِهَا ۚ كَذٰلِكَ نَجْزِى كُلَّ كَفُورٍۢ",
     "urdu_text": "اور جن لوگوں نے کفر اختیار کیا ان کے لیے جہنم کی آگ ہے، نہ ان کی موت آئے گی اور نہ ان کے عذاب میں کمی کی جائے گی، ہم ہر ناشکرے کو ایسی ہی سزا دیتے ہیں۔",
     "persian_text": "و کسانی که کافر شدند برایشان آتش جهنم است، نه بر آنان حکم مرگ داده می‌شود تا بمیرند و نه از عذابشان کاسته می‌گردد، اینچنین هر ناسپاسی را جزا می‌دهیم.",
     "transliteration": "Wallazeena kafaroo lahum naru jahannama la yuqda 'alayhim fayamutoo wa la yukhaffafu 'anhum min 'azabiha, kazalika najzee kulla kafoor"

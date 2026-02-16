@@ -89,6 +89,14 @@ def main():
             output_path=f"output/duas/{title}.html")
 
     print("Multiple Verse calculation complete. Check the HTML output.")
+    
+    # Example 4: Build search index for Quran web application
+    print("\n4. Build search index (uncomment to run)")
+    # Uncomment the following lines to build the search index:
+    debug_folder = "debug"  # Path to debug folder with abjad calculations
+    output_file = "abjad_calculator/apps/quran/template/static/data/quran_search_index.json"
+    ac.build_search_index(debug_folder, output_file)
+    print("Search index built successfully!")
 
 if __name__ == "__main__":
     main()

@@ -41,7 +41,7 @@ ayats = [
   {
     "verse_number": 5,
     "english_text": "And whoever strives against our verses, for them We there is painful punishment.",
-    "arabic_text": "وَالَّذِينَ سَعَوْ فِىٓ اٰيٰتِنَا مُعَـٰجِزِينَ اُو۟لَـٰٓئِكَ لَهُمْ عَذَابٌۭ مِّن رِّجْزٍ اَلِيمٌۭ",
+    "arabic_text": "وَ الَّذِينَ سَعَوْ فِىٓ اٰيٰتِنَا مُعَـٰجِزِينَ اُو۟لَـٰٓئِكَ لَهُمْ عَذَابٌۭ مِّن رِّجْزٍ اَلِيمٌۭ",
     "urdu_text": "اور جو لوگ هماری آیات کو ناکام کرنے کی کوشش کرتے هیں، ان کے لیے دردناک عذاب هے۔",
     "persian_text": "و کسانی که در راه باطل کردن آیات ما تلاش می‌کنند، برای آنان عذابی دردناک از عذاب الهی است.",
     "transliteration": "Wallazina sa'aw fi ayatina mu'ajizina ula'ika lahum 'azabum-mir-rijzin alim"
@@ -305,7 +305,7 @@ ayats = [
   {
     "verse_number": 38,
     "english_text": "And whoever strives in opposing our signs, they will be thrown in the punishment of Hell.",
-    "arabic_text": "وَالَّذِينَ يَسْعَوْنَ فِىٓ اٰيٰتِنَا مُعَـٰجِزِينَ اُو۟لَـٰٓئِكَ فِى الْعَذَابِ مُحْضَرُونَ",
+    "arabic_text": "وَ الَّذِينَ يَسْعَوْنَ فِىٓ اٰيٰتِنَا مُعَـٰجِزِينَ اُو۟لَـٰٓئِكَ فِى الْعَذَابِ مُحْضَرُونَ",
     "urdu_text": "اور جو لوگ هماری آیات کو ناکام کرنے کی کوشش کرتے هیں، وه عذاب میں حاضر کیے جائیں گے۔",
     "persian_text": "و کسانی که در آیات ما کوشش می‌کنند تا آنها را ناکام سازند، آنان در عذاب حاضر خواهند شد.",
     "transliteration": "Wallazeena yas'awna feee aayaatinaa mu'aajizeena ulaaa'ika fil-'azaabi muhdaroon"

@@ -57,7 +57,7 @@ ayats = [
   {
     "verse_number": 7,
     "english_text": "Those who believed and did good works We Verily will cover up their sins, and We shall give them best recompense of their deeds.",
-    "arabic_text": "وَالَّذِينَ ءَامَنُواْ وَعَمِلُواْ الصَّـٰلِحَـٰتِ لَنُكَفِّرَنَّ عَنْهُمْ سَيِّـَٔاتِهِمْ وَلَنَجْزِيَنَّهُمْ اَحْسَنَ الَّذِى كَانُواْ يَعْمَلُونَ",
+    "arabic_text": "وَ الَّذِينَ ءَامَنُواْ وَعَمِلُواْ الصَّـٰلِحَـٰتِ لَنُكَفِّرَنَّ عَنْهُمْ سَيِّـَٔاتِهِمْ وَلَنَجْزِيَنَّهُمْ اَحْسَنَ الَّذِى كَانُواْ يَعْمَلُونَ",
     "urdu_text": "اور جو لوگ ایمان لائے اور نیک اعمال کیے، ہم ضرور ان کی برائیاں دھو دیں گے اور انہیں ان کے اعمال کا بہترین بدلہ دیں گے۔",
     "persian_text": "و کسانی که ایمان آوردند و کارهای شایسته انجام دادند، قطعاً بدی‌هایشان را می‌پوشانیم و بهترین پاداش اعمالشان را به آنان خواهیم داد.",
     "transliteration": "Wallazeena aamanoo wa 'amilus-saalihaati lanukaffiranna 'anhum sayyi-aatihim wa lanajziyannahum ahsanal-lazee kaanoo ya'maloon"
@@ -73,7 +73,7 @@ ayats = [
   {
     "verse_number": 9,
     "english_text": "And those who adopted faith and did good works We will Verily count them among the good servants.",
-    "arabic_text": "وَالَّذِينَ ءَامَنُواْ وَعَمِلُواْ الصَّـٰلِحَـٰتِ لَنُدْخِلَنَّهُمْ فِى الصَّـٰلِحِينَ",
+    "arabic_text": "وَ الَّذِينَ ءَامَنُواْ وَعَمِلُواْ الصَّـٰلِحَـٰتِ لَنُدْخِلَنَّهُمْ فِى الصَّـٰلِحِينَ",
     "urdu_text": "اور جو لوگ ایمان لائے اور نیک اعمال کیے، ہم انہیں ضرور نیک لوگوں میں داخل کریں گے۔",
     "persian_text": "و کسانی که ایمان آوردند و کارهای شایسته انجام دادند، قطعاً آنان را در زمره نیکوکاران داخل خواهیم کرد.",
     "transliteration": "Wallazeena aamanoo wa 'amilus-saalihaati lanudkhilannahum fis-saaliheen"
@@ -185,7 +185,7 @@ ayats = [
   {
     "verse_number": 23,
     "english_text": "And those who deny Allah's signs and His meeting (in the Hereafter) are despaired of Our Mercy, and there is painful punishment for them.",
-    "arabic_text": "وَالَّذِينَ كَفَرُواْ بِـَٔايَـٰتِ اللّٰهِ وَلِقَآئِهِٓ اُو۟لَـٰٓئِكَ يَئِسُواْ مِن رَّحْمَتِى وَاُو۟لَـٰٓئِكَ لَهُمْ عَذَابٌ اَلِيمٌۭ",
+    "arabic_text": "وَ الَّذِينَ كَفَرُواْ بِـَٔايَـٰتِ اللّٰهِ وَلِقَآئِهِٓ اُو۟لَـٰٓئِكَ يَئِسُواْ مِن رَّحْمَتِى وَاُو۟لَـٰٓئِكَ لَهُمْ عَذَابٌ اَلِيمٌۭ",
     "urdu_text": "اور جن لوگوں نے اللہ کی آیات اور اس سے ملاقات کا انکار کیا، وہ میری رحمت سے مایوس ہیں اور ان کے لیے دردناک عذاب ہے۔",
     "persian_text": "و کسانی که آیات خدا و دیدار او را انکار کردند، آنان از رحمت من نومید شده‌اند و برای آنان عذابی دردناک است.",
     "transliteration": "Walladheena kafaroo bi aayaatillaahi wa liqaa'ihee ulaa'ika ya'isoo min rahmatee wa ulaa'ika lahum 'adhaabun aleem"
@@ -417,7 +417,7 @@ ayats = [
   {
     "verse_number": 52,
     "english_text": "You say to them: Allah is enough between me and you as a witness Who is aware of everything of sky and the earth, and those who believe in falsehood and deny Allah, are indeed losers.",
-    "arabic_text": "قُلْ كَفَىٰ بِاللّٰهِ بَيْنِى وَبَيْنَكُمْ شَهِيدًۭا ۖ يَعْلَمُ مَا فِى السَّمَـٰوَٰتِ وَ الْاَرْضِ ۗ وَالَّذِينَ ءَامَنُواْ بِالْبَـٰطِلِ وَكَفَرُواْ بِاللّٰهِ اُو۟لَـٰٓئِكَ هُمُ الْخَـٰسِرُونَ",
+    "arabic_text": "قُلْ كَفَىٰ بِاللّٰهِ بَيْنِى وَبَيْنَكُمْ شَهِيدًۭا ۖ يَعْلَمُ مَا فِى السَّمَـٰوَٰتِ وَ الْاَرْضِ ۗ وَ الَّذِينَ ءَامَنُواْ بِالْبَـٰطِلِ وَكَفَرُواْ بِاللّٰهِ اُو۟لَـٰٓئِكَ هُمُ الْخَـٰسِرُونَ",
     "urdu_text": "آپ کہہ دیجیے کہ میرے اور تمہارے درمیان اللہ گواہ کافی ہے، وہ جانتا ہے جو کچھ آسمانوں اور زمین میں ہے، اور جو لوگ باطل پر ایمان لاتے ہیں اور اللہ کا انکار کرتے ہیں، وہی لوگ نقصان اٹھانے والے ہیں۔",
     "persian_text": "بگو: خدا میان من و شما به عنوان گواه کافی است، او می‌داند آنچه در آسمان‌ها و زمین است، و کسانی که به باطل ایمان آورده و به خدا کفر ورزیده‌اند، آنان همان زیانکارانند.",
     "transliteration": "Qul kafaa billaahi baynee wa baynakum shaheedan ya'lamu maa fis-samaawaati wal-ard, walladheena aamanoo bil-baatili wa kafaroo billaahi ulaa'ika humul-khaasiroon"
@@ -465,7 +465,7 @@ ayats = [
   {
     "verse_number": 58,
     "english_text": "Whoever believes and they did good work We will give them place in the lofty mansions of the Paradise beneath which rivers will be flowing and they will always abide in them, this is the best recompense for those who do good work.",
-    "arabic_text": "وَالَّذِينَ ءَامَنُواْ وَعَمِلُواْ الصَّـٰلِحَـٰتِ لَنُبَوِّئَنَّهُم مِّنَ الْجَنَّةِ غُرَفًۭا تَجْرِى مِن تَحْتِهَا الْاَنْهَـٰرُ خَـٰلِدِينَ فِيهَا ۚ نِعْمَ اَجْرُ الْعَـٰمِلِينَ",
+    "arabic_text": "وَ الَّذِينَ ءَامَنُواْ وَعَمِلُواْ الصَّـٰلِحَـٰتِ لَنُبَوِّئَنَّهُم مِّنَ الْجَنَّةِ غُرَفًۭا تَجْرِى مِن تَحْتِهَا الْاَنْهَـٰرُ خَـٰلِدِينَ فِيهَا ۚ نِعْمَ اَجْرُ الْعَـٰمِلِينَ",
     "urdu_text": "اور جو لوگ ایمان لائے اور نیک عمل کیے، ہم انہیں جنت کے بلند محلات میں جگہ دیں گے جن کے نیچے نہریں بہہ رہی ہوں گی، وہ ان میں ہمیشہ رہیں گے، یہ نیک عمل کرنے والوں کا بہترین بدلہ ہے۔",
     "persian_text": "و کسانی که ایمان آورده و کارهای شایسته انجام داده‌اند، قطعاً آنان را در اتاق‌های بلند بهشت جای خواهیم داد که از زیر آن نهرها جاری است، جاودانه در آن خواهند ماند، چه پاداش نیکویی برای عمل‌کنندگان.",
     "transliteration": "Walladheena aamanoo wa 'amilus-saalihaati la-nubawwi'annahum minal-jannati ghurafan tajree min tahtihal-anhaaru khaalideena feehaa, ni'ma ajrul-'aamileen"
@@ -553,7 +553,7 @@ ayats = [
   {
     "verse_number": 69,
     "english_text": "And whoever struggled hard in Our way, We will guide them to Our ways, and indeed Allah is with the people who do the best deeds.",
-    "arabic_text": "وَالَّذِينَ جَـٰهَدُواْ فِينَا لَنَهْدِيَنَّهُمْ سُبُلَنَا ۚ وَاِنَّ اللّٰهَ لَمَعَ الْمُحْسِنِينَ",
+    "arabic_text": "وَ الَّذِينَ جَـٰهَدُواْ فِينَا لَنَهْدِيَنَّهُمْ سُبُلَنَا ۚ وَاِنَّ اللّٰهَ لَمَعَ الْمُحْسِنِينَ",
     "urdu_text": "اور جو لوگ ہماری راہ میں کوشش کرتے ہیں، ہم ضرور انہیں اپنی راہوں کی طرف ہدایت دیں گے، اور بیشک اللہ نیکی کرنے والوں کے ساتھ ہے۔",
     "persian_text": "و کسانی که در راه ما جهاد کنند، قطعاً آنان را به راه‌های خود هدایت خواهیم کرد، و همانا الله با نیکوکاران است.",
     "transliteration": "Wallatheena jaahadoo feenaa la-nahdiyanna-hum subulanaa, wa innal-laaha lama'al-muhsineen"

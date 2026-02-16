@@ -12,6 +12,7 @@ from .common.utils import format_custom_output, create_output_dir
 from .apps.naqsh_sawamat.naqsh_calculator import generate_sawamat_naqsh_html
 from .common.surah_factory import surahs
 from .common.dua_factory import duas
+from .common.build_search_index import build_search_index
 
 # Version
 __version__ = '1.0.0'

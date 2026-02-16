@@ -137,7 +137,7 @@ ayats = [
   {
     "verse_number": 17,
     "english_text": "Indeed, whoever believed (Muslims) and (those who are) Jews, and Atheists and Christians and Fire Worshippers (Majoosi) and polytheists, Verily, Allah will judge between them on the Day of Judgement, and there is no doubt that Allah is seeing everything.",
-    "arabic_text": "اِنَّ الَّذِينَ ءَامَنُواْ وَالَّذِينَ هَادُواْ وَالصَّـٰبِـِٔينَ وَالنَّصَـٰرَىٰ وَالْمَجُوسَ وَالَّذِينَ اَشْرَكُوٓاْ اِنَّ اللّٰهَ يَفْصِلُ بَيْنَهُمْ يَوْمَ الْقِيَـٰمَةِ ۚ اِنَّ اللّٰهَ عَلَىٰ كُلِّ شَىْءٍۢ شَهِيدٌ",
+    "arabic_text": "اِنَّ الَّذِينَ ءَامَنُواْ وَ الَّذِينَ هَادُواْ وَالصَّـٰبِـِٔينَ وَالنَّصَـٰرَىٰ وَالْمَجُوسَ وَ الَّذِينَ اَشْرَكُوٓاْ اِنَّ اللّٰهَ يَفْصِلُ بَيْنَهُمْ يَوْمَ الْقِيَـٰمَةِ ۚ اِنَّ اللّٰهَ عَلَىٰ كُلِّ شَىْءٍۢ شَهِيدٌ",
     "urdu_text": "بیشک جو لوگ ایمان لائے اور جو یهودی هیں اور صابئین اور عیسائی اور مجوسی اور مشرک هیں، یقیناً الله قیامت کے دن ان کے درمیان فیصله کرے گا، بیشک الله هر چیز پر گواه هے۔",
     "persian_text": "همانا کسانی که ایمان آوردند و کسانی که یهودی شدند و صابئین و مسیحیان و مجوس و کسانی که شرک ورزیدند، همانا خدا در روز قیامت میان آنها داوری خواهد کرد، همانا خدا بر هر چیزی گواه است.",
     "transliteration": "Inna alladheena aamanoo walladheena haadoo was-saabi'eena wan-nasaaraa wal-majoosa walladheena ashrakoo inna Allaaha yafsilu baynahum yawma al-qiyaamah inna Allaaha 'alaa kulli shay'in shaheed"
@@ -409,7 +409,7 @@ ayats = [
   {
     "verse_number": 51,
     "english_text": "Whosoever tried to frustrate Us with regards to Our verses, they are the companions of hell.",
-    "arabic_text": "وَالَّذِينَ سَعَوْاْ فِىٓ اٰيٰتِنَا مُعَـٰجِزِينَ اُو۟لَـٰٓئِكَ اَصْحَـٰبُ الْجَحِيمِ",
+    "arabic_text": "وَ الَّذِينَ سَعَوْاْ فِىٓ اٰيٰتِنَا مُعَـٰجِزِينَ اُو۟لَـٰٓئِكَ اَصْحَـٰبُ الْجَحِيمِ",
     "urdu_text": "اور جن لوگوں نے هماری آیات کو ناکام بنانے کی کوشش کی، وهی لوگ دوزخ کے ساتھی هیں۔",
     "persian_text": "و کسانی که کوشیدند آیات ما را ناکام سازند، آنان اهل دوزخ هستند.",
     "transliteration": "Wallazeena sa'aw fee aayaatinaa mu'aajizeena ulaaa'ika as-haabul jaheem"
@@ -457,7 +457,7 @@ ayats = [
   {
     "verse_number": 57,
     "english_text": "And who adopted infidelity and denied our verses, these are the people for whom is the disgraceful punishment.",
-    "arabic_text": "وَالَّذِينَ كَفَرُواْ وَكَذَّبُواْ بِـَٔايَـٰتِنَا فَاُو۟لَـٰٓئِكَ لَهُمْ عَذَابٌۭ مُّهِينٌ",
+    "arabic_text": "وَ الَّذِينَ كَفَرُواْ وَكَذَّبُواْ بِـَٔايَـٰتِنَا فَاُو۟لَـٰٓئِكَ لَهُمْ عَذَابٌۭ مُّهِينٌ",
     "urdu_text": "اور جن لوگوں نے کفر اختیار کیا اور هماری آیات کو جھٹلایا، یهی لوگ هیں جن کے لیے ذلت کا عذاب هے۔",
     "persian_text": "و کسانی که کافر شدند و آیات ما را تکذیب کردند، آنان برایشان عذابی خوارکننده است.",
     "transliteration": "Wallazeena kafaroo wa kazzaboo bi aayaatinaa fa ulaaa'ika lahum 'azaabum muheen"
@@ -465,7 +465,7 @@ ayats = [
   {
     "verse_number": 58,
     "english_text": "Who migrated from their cities for the cause of Allah then were martyred or died (naturally) Allah shall certainly give them best sustenance in the Hereafter, and He is the Best among the sustenance givers.",
-    "arabic_text": "وَالَّذِينَ هَاجَرُواْ فِى سَبِيلِ اللّٰهِ ثُمَّ قُتِلُوٓاْ اَوْ مَاتُواْ لَيَرْزُقَنَّهُمُ اللّٰهُ رِزْقًا حَسَنًۭا ۚ وَاِنَّ اللّٰهَ لَهُوَ خَيْرُ الرَّٰزِقِينَ",
+    "arabic_text": "وَ الَّذِينَ هَاجَرُواْ فِى سَبِيلِ اللّٰهِ ثُمَّ قُتِلُوٓاْ اَوْ مَاتُواْ لَيَرْزُقَنَّهُمُ اللّٰهُ رِزْقًا حَسَنًۭا ۚ وَاِنَّ اللّٰهَ لَهُوَ خَيْرُ الرَّٰزِقِينَ",
     "urdu_text": "اور جن لوگوں نے الله کی راه میں هجرت کی پھر شهید هوئے یا فوت هو گئے، الله انهیں ضرور بهترین رزق عطا فرمائے گا، اور بے شک الله هی بهترین رزق دینے والا هے۔",
     "persian_text": "و کسانی که در راه الله هجرت کردند سپس کشته شدند یا مردند، الله قطعاً به آنان روزی نیکو خواهد داد، و همانا الله بهترین روزی‌دهندگان است.",
     "transliteration": "Wallazeena haajaroo fee sabeelillaahi thumma qutilooo aw maatoo la yarzuqannahumul laahu rizqan hasanaa, wa innallaaha lahuwa khayrur raaziqeen"

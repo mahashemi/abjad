@@ -17,7 +17,7 @@ ayats = [
   {
     "verse_number": 2,
     "english_text": "And whoever adopted faith and did good deeds and believed on whatever was revealed on Mohammad and which is Truth from the Lord, so Allah will remove their bad deeds and shall improve their condition.",
-    "arabic_text": "وَالَّذِينَ ءَامَنُواْ وَعَمِلُواْ الصَّـٰلِحَـٰتِ وَءَامَنُواْ بِمَا نُزِّلَ عَلَىٰ مُحَمَّدٍۢ وَهُوَ الْحَقُّ مِن رَّبِّهِمْ ۙ كَفَّرَ عَنْهُمْ سَيِّـَٔاتِهِمْ وَاَصْلَحَ بَالَهُمْ",
+    "arabic_text": "وَ الَّذِينَ ءَامَنُواْ وَعَمِلُواْ الصَّـٰلِحَـٰتِ وَءَامَنُواْ بِمَا نُزِّلَ عَلَىٰ مُحَمَّدٍۢ وَهُوَ الْحَقُّ مِن رَّبِّهِمْ ۙ كَفَّرَ عَنْهُمْ سَيِّـَٔاتِهِمْ وَاَصْلَحَ بَالَهُمْ",
     "urdu_text": "اور جو لوگ ایمان لائے اور نیک اعمال کیے اور جو کچھ محمد پر نازل کیا گیا اس پر ایمان لائے اور وه ان کے رب کی طرف سے حق هے، تو الله نے ان کی برائیاں دور کر دیں اور ان کا حال درست کر دیا۔",
     "persian_text": "و کسانی که ایمان آوردند و کارهای نیک انجام دادند و به آنچه بر محمد نازل شده ایمان آوردند و آن حق از جانب پروردگارشان است، خداوند بدی‌هایشان را پاک کرد و حالشان را اصلاح نمود.",
     "transliteration": "Walladhīna āmanū wa 'amiluṣ-ṣāliḥāti wa āmanū bimā nuzzila 'alā Muḥammadin wa huwal-ḥaqqu mir-rabbihim kaffara 'anhum sayyi'ātihim wa aṣlaḥa bālahum"
@@ -33,7 +33,7 @@ ayats = [
   {
     "verse_number": 4,
     "english_text": "When the infidels come to confront you, smite their necks until they are injured with wounds do tie their arms, thereafter either leave them as a favour or take ransom (and leave them) until they lay down their weapons, remember, if Allah pleased He would have taken the recompense Himself but He wish to test one through another, those who have been slain in His way Allah cannot waste their deeds.",
-    "arabic_text": "فَاِذَا لَقِيتُمُ الَّذِينَ كَفَرُواْ فَضَرْبَ الرِّقَابِ حَتَّىٰٓ اِذَآ اَثْخَنتُمُوهُمْ فَشُدُّواْ الْوَثَاقَ فَاِمَّا مَنًّۢا بَعْدُ وَاِمَّا فِدَآءً حَتَّىٰ تَضَعَ الْحَرْبُ اَوْزَارَهَا ۚ ذٰلِكَ وَ لَوْ يَشَآءُ اللّٰهُ لَانتَصَرَ مِنْهُمْ وَلَـٰكِن لِّيَبْلُوَاْ بَعْضَكُم بِبَعْضٍۢ ۗ وَالَّذِينَ قُتِلُواْ فِى سَبِيلِ اللّٰهِ فَلَن يُضِلَّ اَعْمَـٰلَهُمْ",
+    "arabic_text": "فَاِذَا لَقِيتُمُ الَّذِينَ كَفَرُواْ فَضَرْبَ الرِّقَابِ حَتَّىٰٓ اِذَآ اَثْخَنتُمُوهُمْ فَشُدُّواْ الْوَثَاقَ فَاِمَّا مَنًّۢا بَعْدُ وَاِمَّا فِدَآءً حَتَّىٰ تَضَعَ الْحَرْبُ اَوْزَارَهَا ۚ ذٰلِكَ وَ لَوْ يَشَآءُ اللّٰهُ لَانتَصَرَ مِنْهُمْ وَلَـٰكِن لِّيَبْلُوَاْ بَعْضَكُم بِبَعْضٍۢ ۗ وَ الَّذِينَ قُتِلُواْ فِى سَبِيلِ اللّٰهِ فَلَن يُضِلَّ اَعْمَـٰلَهُمْ",
     "urdu_text": "پس جب تمهارا کافروں سے مقابله هو تو گردنیں مارو یهاں تک که جب تم انهیں زخمی کر دو تو رسیاں مضبوط باندھ دو، پھر اس کے بعد یا تو احسان کر کے چھوڑ دو یا فدیه لے کر، یهاں تک که جنگ اپنے هتھیار رکھ دے، یه حکم هے، اور اگر الله چاهتا تو خود ان سے بدله لے لیتا لیکن وه تم میں سے ایک کو دوسرے کے ذریعے آزمانا چاهتا هے، اور جو لوگ الله کی راه میں شهید هوئے الله ان کے اعمال ضائع نهیں کرے گا۔",
     "persian_text": "پس هنگامی که با کافران روبرو شدید، گردن‌ها را بزنید تا آنگاه که آنان را سخت مجروح ساختید، پس بندها را محکم کنید، سپس یا منت نهید و یا فدیه بگیرید تا جنگ بارهای خود را فرو نهد، این چنین است و اگر خدا می‌خواست خود از آنان انتقام می‌گرفت ولی می‌خواهد بعضی از شما را به وسیله بعضی دیگر بیازماید، و کسانی که در راه خدا کشته شدند، خداوند هرگز اعمالشان را تباه نخواهد کرد.",
     "transliteration": "Fa'idhā laqītumul-ladhīna kafarū faḍarbar-riqābi ḥattā idhā athkhantumūhum fashuddūl-wathāqa fa'immā mannam ba'du wa immā fidā'an ḥattā taḍa'al-ḥarbu awzārahā dhālika wa law yashā'ullāhu lantaṣara minhum walākin liyabluwā ba'ḍakum biba'ḍ walladhīna qutilū fī sabīlillāhi falan yuḍilla a'mālahum"
@@ -65,7 +65,7 @@ ayats = [
   {
     "verse_number": 8,
     "english_text": "And those who adopt infidelity there is unsteadiness for them and their deeds are a waste.",
-    "arabic_text": "وَالَّذِينَ كَفَرُواْ فَتَعْسًۭا لَّهُمْ وَاَضَلَّ اَعْمَـٰلَهُمْ",
+    "arabic_text": "وَ الَّذِينَ كَفَرُواْ فَتَعْسًۭا لَّهُمْ وَاَضَلَّ اَعْمَـٰلَهُمْ",
     "urdu_text": "اور جنهوں نے کفر اختیار کیا ان کے لیے هلاکت هے اور الله نے ان کے اعمال برباد کر دیے۔",
     "persian_text": "و کسانی که کافر شدند، پس برایشان نابودی است و اعمالشان را گمراه ساخت.",
     "transliteration": "Walladhīna kafarū fata'sal-lahum wa aḍalla a'mālahum"
@@ -97,7 +97,7 @@ ayats = [
   {
     "verse_number": 12,
     "english_text": "Verily, those adopted faith and they did good deeds Allah will cause them to enter such gardens beneath which the rivers will be flowing and those who adopted infidelity they are enjoying, they eat as the animals eat; and in the end their abode is Hell.",
-    "arabic_text": "اِنَّ اللّٰهَ يُدْخِلُ الَّذِينَ ءَامَنُواْ وَعَمِلُواْ الصَّـٰلِحَـٰتِ جَنَّـٰتٍۢ تَجْرِى مِن تَحْتِهَا الْاَنْهَـٰرُ ۖ وَالَّذِينَ كَفَرُواْ يَتَمَتَّعُونَ وَيَاْكُلُونَ كَمَا تَاْكُلُ الْاَنْعَـٰمُ وَالنَّارُ مَثْوًۭى لَّهُمْ",
+    "arabic_text": "اِنَّ اللّٰهَ يُدْخِلُ الَّذِينَ ءَامَنُواْ وَعَمِلُواْ الصَّـٰلِحَـٰتِ جَنَّـٰتٍۢ تَجْرِى مِن تَحْتِهَا الْاَنْهَـٰرُ ۖ وَ الَّذِينَ كَفَرُواْ يَتَمَتَّعُونَ وَيَاْكُلُونَ كَمَا تَاْكُلُ الْاَنْعَـٰمُ وَالنَّارُ مَثْوًۭى لَّهُمْ",
     "urdu_text": "بیشک الله ان لوگوں کو جو ایمان لائے اور نیک اعمال کیے ایسے باغات میں داخل کرے گا جن کے نیچے نهریں بهتی هوں گی، اور جنهوں نے کفر اختیار کیا وه فائده اٹھا رهے هیں اور کھاتے هیں جیسے جانور کھاتے هیں، اور آخرکار ان کا ٹھکانه جهنم هے۔",
     "persian_text": "همانا خداوند کسانی را که ایمان آوردند و کارهای شایسته انجام دادند، به باغ‌هایی وارد می‌کند که از زیر آن نهرها جاری است، و کسانی که کافر شدند لذت می‌برند و می‌خورند همانگونه که چهارپایان می‌خورند و آتش جایگاه آنهاست.",
     "transliteration": "Inna Allāha yudkhilu alladhīna āmanū wa 'amilū aṣ-ṣāliḥāti jannātin tajrī min taḥtihā al-anhāru wa alladhīna kafarū yatamatta'ūna wa ya'kulūna kamā ta'kulu al-an'āmu wa an-nāru mathwan lahum"
@@ -137,7 +137,7 @@ ayats = [
   {
     "verse_number": 17,
     "english_text": "Those who took the guidance, Allah increased their guidance, and blessed them with more piety.",
-    "arabic_text": "وَالَّذِينَ اهْتَدَوْاْ زَادَهُمْ هُدًۭى وَءَاتَىٰهُمْ تَقْوَىٰهُمْ",
+    "arabic_text": "وَ الَّذِينَ اهْتَدَوْاْ زَادَهُمْ هُدًۭى وَءَاتَىٰهُمْ تَقْوَىٰهُمْ",
     "urdu_text": "اور جنهوں نے هدایت اختیار کی، الله نے ان کی هدایت میں اضافه کیا اور انهیں ان کا تقویٰ عطا فرمایا۔",
     "persian_text": "و کسانی که هدایت یافتند، خداوند بر هدایتشان افزود و تقوایشان را به آنها عطا کرد.",
     "transliteration": "Wa alladhīna ihtadaw zādahum hudan wa ātāhum taqwāhum"

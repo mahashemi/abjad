@@ -161,7 +161,7 @@ ayats = [
   {
     "verse_number": 20,
     "english_text": "He judges with the Truth, and they cannot even judge whom they worship leaving Allah, indeed Allah hears and sees everything.",
-    "arabic_text": "وَ اللّٰهُ يَقْضِى بِالْحَقِّ ۖ وَالَّذِينَ يَدْعُونَ مِن دُونِهِ لَا يَقْضُونَ بِشَىْءٍ ۗ اِنَّ اللّٰهَ هُوَ السَّمِيعُ الْبَصِيرُ",
+    "arabic_text": "وَ اللّٰهُ يَقْضِى بِالْحَقِّ ۖ وَ الَّذِينَ يَدْعُونَ مِن دُونِهِ لَا يَقْضُونَ بِشَىْءٍ ۗ اِنَّ اللّٰهَ هُوَ السَّمِيعُ الْبَصِيرُ",
     "urdu_text": "اور اللہ حق کے ساتھ فیصلہ کرتا ہے، اور جن کو یہ اللہ کو چھوڑ کر پکارتے ہیں وہ کسی چیز کا فیصلہ نہیں کر سکتے، بے شک اللہ ہی سننے والا دیکھنے والا ہے۔",
     "persian_text": "و خداوند به حق داوری می‌کند، و آنان که غیر از او می‌خوانند به هیچ چیز داوری نمی‌کنند، همانا خداوند شنوا و بیناست.",
     "transliteration": "Wallaahu yaqdee bil-haqq, walladheena yad'oona min doonihee laa yaqdoona bi-shay', innAllaaha huwas-samee'ul-baseer"
@@ -249,7 +249,7 @@ ayats = [
   {
     "verse_number": 31,
     "english_text": "Nation of Nooh, nation of Aad, nation of Samood and condition of later ones, indeed Allah does not want to be unjust on His servants.",
-    "arabic_text": "مِثْلَ دَاْبِ قَوْمِ نُوحٍۢ وَعَادٍۢ وَثَمُودَ وَالَّذِينَ مِنۢ بَعْدِهِمْ ۚ وَ مَا اللّٰهُ يُرِيدُ ظُلْمًا لِّلْعِبَادِ",
+    "arabic_text": "مِثْلَ دَاْبِ قَوْمِ نُوحٍۢ وَعَادٍۢ وَثَمُودَ وَ الَّذِينَ مِنۢ بَعْدِهِمْ ۚ وَ مَا اللّٰهُ يُرِيدُ ظُلْمًا لِّلْعِبَادِ",
     "urdu_text": "قوم نوح، قوم عاد، قوم ثمود اور ان کے بعد والوں کی حالت کی طرح، بیشک اللہ اپنے بندوں پر ظلم نہیں چاہتا۔",
     "persian_text": "مانند روش قوم نوح و عاد و ثمود و کسانی که بعد از آنها بودند، و الله هرگز نمی‌خواهد به بندگان ستم کند.",
     "transliteration": "Mithla da'bi qawmi Noohin wa 'Aadin wa Thamooda walladheena min ba'dihim, wa mallaahu yureedu zulman lil-'ibaad"
@@ -409,7 +409,7 @@ ayats = [
   {
     "verse_number": 51,
     "english_text": "Verily, We do help the prophets and the believers in the world, and that day also will help them when all the witnesses will be gathered.",
-    "arabic_text": "اِنَّا لَنَنصُرُ رُسُلَنَا وَالَّذِينَ ءَامَنُواْ فِى الْحَيَوٰةِ الدُّنْيٰوَ يَوْمَ يَقُومُ الْاَشْهَـٰدُ",
+    "arabic_text": "اِنَّا لَنَنصُرُ رُسُلَنَا وَ الَّذِينَ ءَامَنُواْ فِى الْحَيَوٰةِ الدُّنْيٰوَ يَوْمَ يَقُومُ الْاَشْهَـٰدُ",
     "urdu_text": "بیشک ہم اپنے رسولوں اور ایمان والوں کی دنیا کی زندگی میں مدد کرتے ہیں اور اس دن بھی ان کی مدد کریں گے جب گواہ کھڑے ہوں گے۔",
     "persian_text": "به راستی ما پیامبران و کسانی را که ایمان آورده‌اند در زندگی دنیا یاری می‌کنیم و در روزی که گواهان برپا می‌شوند نیز یاری‌شان خواهیم کرد.",
     "transliteration": "Inna lanansuru rusulana walladhina amanu fil-hayatid-dunya wa yawma yaqumul-ashhad"
@@ -465,7 +465,7 @@ ayats = [
   {
     "verse_number": 58,
     "english_text": "And remember, blind and the seeing ones cannot be the same; those who believed and did good works cannot be like wicked people; but you people take very less admonition.",
-    "arabic_text": "وَ مَا يَسْتَوِى الْاَعْمَىٰ وَالْبَصِيرُ وَالَّذِينَ ءَامَنُواْ وَعَمِلُواْ الصَّـٰلِحَـٰتِ وَ لَا الْمُسِىٓءُ ۚ قَلِيلًا مَّا تَتَذَكَّرُونَ",
+    "arabic_text": "وَ مَا يَسْتَوِى الْاَعْمَىٰ وَالْبَصِيرُ وَ الَّذِينَ ءَامَنُواْ وَعَمِلُواْ الصَّـٰلِحَـٰتِ وَ لَا الْمُسِىٓءُ ۚ قَلِيلًا مَّا تَتَذَكَّرُونَ",
     "urdu_text": "اور اندھا اور بینا برابر نہیں ہو سکتے، اور نہ وہ لوگ جو ایمان لائے اور نیک عمل کیے اور نہ بدکار برابر ہیں، تم بہت کم نصیحت حاصل کرتے ہو۔",
     "persian_text": "و نابینا و بینا یکسان نیستند و نه کسانی که ایمان آورده و کارهای شایسته کرده‌اند با بدکار برابر نیستند، اما شما کمتر پند می‌گیرید.",
     "transliteration": "Wa ma yastawil-a'ma wal-basiru walladhina amanu wa 'amilus-salihati wa lal-musi'u qalilan ma tatadhakkarun"
