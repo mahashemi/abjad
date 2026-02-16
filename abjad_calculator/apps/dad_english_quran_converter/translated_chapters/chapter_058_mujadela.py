@@ -25,7 +25,7 @@ ayats = [
   {
     "verse_number": 3,
     "english_text": "Among you, those who pronounce Zihaar to their wives and wish to go back on their words they uttered, so they should free a slave before touching the wife, this is an admonition for you from Allah, and Allah is very cognizant with your deeds.",
-    "arabic_text": "وَالَّذِينَ يُظَٰهِرُونَ مِن نِّسَآئِهِمْ ثُمَّ يَعُودُونَ لِمَا قَالُواْ فَتَحْرِيرُ رَقَبَةٍۢ مِّن قَبْلِ اَن يَتَمَآسَّا ۚ ذَٰلِكُمْ تُوعَظُونَ بِهِ ۚ وَاللّٰهُ بِمَا تَعْمَلُونَ خَبِيرٌۭ",
+    "arabic_text": "وَ الَّذِينَ يُظَٰهِرُونَ مِن نِّسَآئِهِمْ ثُمَّ يَعُودُونَ لِمَا قَالُواْ فَتَحْرِيرُ رَقَبَةٍۢ مِّن قَبْلِ اَن يَتَمَآسَّا ۚ ذَٰلِكُمْ تُوعَظُونَ بِهِ ۚ وَاللّٰهُ بِمَا تَعْمَلُونَ خَبِيرٌۭ",
     "urdu_text": "اور جو لوگ اپنی بیویوں سے ظهار کریں پھر اپنی کهی هوئی بات سے رجوع کرنا چاهیں تو انهیں چاهیے که ایک دوسرے کو هاتھ لگانے سے پهلے ایک غلام آزاد کریں، یه تمهیں نصیحت کی جاتی هے، اور الله تمهارے اعمال سے خوب باخبر هے",
     "persian_text": "و کسانی که با زنان خود ظهار می‌کنند سپس از آنچه گفته‌اند بازمی‌گردند، پس باید پیش از آنکه یکدیگر را لمس کنند بنده‌ای را آزاد سازند، این است آنچه به آن پند داده می‌شوید، و خداوند به آنچه انجام می‌دهید آگاه است",
     "transliteration": "Walladhina yudhahiruna min nisa'ihim thumma ya'uduna lima qalu fatahreeru raqabatin min qabli an yatamassa dhalikum tu'azhuna bihi wallahu bima ta'maluna khabir"
@@ -89,7 +89,7 @@ ayats = [
   {
     "verse_number": 11,
     "english_text": "O you who believe! When you are asked to make room in the assemblies give place to other so that Allah expand your place in the Paradise; and when you are asked to rise up, get up, that Allah pleases to raise the ranks of those who believe and who have been granted knowledge; and Allah is well aware of your deeds.",
-    "arabic_text": "يَـٰٓاَيُّهَا الَّذِينَ ءَامَنُوٓاْ اِذَا قِيلَ لَكُمْ تَفَسَّحُواْ فِى الْمَجَـٰلِسِ فَافْسَحُواْ يَفْسَحِ اللّٰهُ لَكُمْ ۖ وَاِذَا قِيلَ انشُزُواْ فَانشُزُواْ يَرْفَعِ اللّٰهُ الَّذِينَ ءَامَنُواْ مِنكُمْ وَالَّذِينَ اُوتُواْ الْعِلْمَ دَرَجَـٰتٍۢ ۚ وَاللّٰهُ بِمَا تَعْمَلُونَ خَبِيرٌۭ",
+    "arabic_text": "يَـٰٓاَيُّهَا الَّذِينَ ءَامَنُوٓاْ اِذَا قِيلَ لَكُمْ تَفَسَّحُواْ فِى الْمَجَـٰلِسِ فَافْسَحُواْ يَفْسَحِ اللّٰهُ لَكُمْ ۖ وَاِذَا قِيلَ انشُزُواْ فَانشُزُواْ يَرْفَعِ اللّٰهُ الَّذِينَ ءَامَنُواْ مِنكُمْ وَ الَّذِينَ اُوتُواْ الْعِلْمَ دَرَجَـٰتٍۢ ۚ وَاللّٰهُ بِمَا تَعْمَلُونَ خَبِيرٌۭ",
     "urdu_text": "اے ایمان والو! جب تم سے کها جائے که مجلسوں میں جگه کشاده کرو تو جگه کشاده کر دیا کرو، الله تمهارے لیے جگه کشاده فرمائے گا، اور جب کها جائے که اٹھ کھڑے هو تو اٹھ کھڑے هوا کرو، الله تم میں سے ایمان والوں کے اور جنهیں علم دیا گیا هے ان کے درجے بلند فرمائے گا، اور الله تمهارے اعمال سے پوری طرح باخبر هے۔",
     "persian_text": "ای کسانی که ایمان آورده‌اید! هنگامی که به شما گفته شود در مجالس جا باز کنید، پس جا باز کنید تا خداوند برای شما جا باز کند، و هنگامی که گفته شود برخیزید، پس برخیزید، خداوند کسانی از شما را که ایمان آورده‌اند و آنان را که علم داده شده است درجات بالا می‌برد، و خداوند به آنچه انجام می‌دهید آگاه است.",
     "transliteration": "Ya ayyuhal-ladhina amanu idha qila lakum tafassahu fil-majalisi fafsahu yafsahillahu lakum wa idha qilan shuzoo fanshuzoo yarfa'illahul-ladhina amanu minkum walladhina utul-'ilma darajat wallahu bima ta'maluna khabir"

@@ -73,7 +73,7 @@ ayats = [
   {
     "verse_number": 9,
     "english_text": "And those who earlier had their homes (in Madina) and adopted faith before them and show affection to those who came to them after migration; and had no desire in their hearts for whatever was given to them and prefers others over themselves no matter how needful they themselves may be, and those who are saved from the greed of their Selves, they shall achieve the desires of their hearts.",
-    "arabic_text": "وَالَّذِينَ تَبَوَّءُوا الدَّارَ وَالْاِيمَـٰنَ مِن قَبْلِهِمْ يُحِبُّونَ مَنْ هَاجَرَ اِلَيْهِمْ وَلَا يَجِدُونَ فِى صُدُورِهِمْ حَاجَةًۭ مِّمَّآ اُوتُواْ وَيُؤْثِرُونَ عَلَىٰٓ اَنفُسِهِمْ وَ لَوْ كَانَ بِهِمْ خَصَاصَةٌۭ ۚ وَ مَن يُوقَ شُحَّ نَفْسِهِ فَاُو۟لَـٰٓئِكَ هُمُ الْمُفْلِحُونَ",
+    "arabic_text": "وَ الَّذِينَ تَبَوَّءُوا الدَّارَ وَالْاِيمَـٰنَ مِن قَبْلِهِمْ يُحِبُّونَ مَنْ هَاجَرَ اِلَيْهِمْ وَلَا يَجِدُونَ فِى صُدُورِهِمْ حَاجَةًۭ مِّمَّآ اُوتُواْ وَيُؤْثِرُونَ عَلَىٰٓ اَنفُسِهِمْ وَ لَوْ كَانَ بِهِمْ خَصَاصَةٌۭ ۚ وَ مَن يُوقَ شُحَّ نَفْسِهِ فَاُو۟لَـٰٓئِكَ هُمُ الْمُفْلِحُونَ",
     "urdu_text": "اور وہ لوگ جنہوں نے ان سے پہلے مدینہ میں گھر بنایا اور ایمان اختیار کیا، وہ ان سے محبت کرتے ہیں جو ان کی طرف ہجرت کر کے آئے، اور اپنے دلوں میں اس چیز کی کوئی حاجت نہیں پاتے جو انہیں دی گئی، اور اپنی جانوں پر دوسروں کو ترجیح دیتے ہیں اگرچہ خود محتاج ہوں، اور جو اپنے نفس کے لالچ سے بچا لیا گیا تو یہی لوگ کامیاب ہیں۔",
     "persian_text": "و آنان که پیش از آنان در این سرزمین و در ایمان جای گرفتند، کسانی را که به سوی آنان هجرت کردند دوست می‌دارند و در دلهایشان نیازی به آنچه به مهاجران داده شد نمی‌یابند، و دیگران را بر خود ترجیح می‌دهند هر چند خود نیازمند باشند، و کسانی که از بخل و حرص خویش نگاه داشته شوند، آنان همان رستگارانند.",
     "transliteration": "Walladheena tabawwa'oo ad-daara wal-eemaana min qablihim yuhibboona man haajara ilayhim wa laa yajidoona fee sudoorihim haajatan mimmaa ootoo wa yu'thiroona 'alaa anfusihim wa law kaana bihim khasaasah, wa man yooqa shuhha nafsihi fa-ulaa'ika humu al-muflihoon"
@@ -81,7 +81,7 @@ ayats = [
   {
     "verse_number": 10,
     "english_text": "And those who came after them say: O Lord forgive us and also our brethren who accepted faith before us and do not let the malice take place in our hearts for the believers, O Lord, You are very Kind and Merciful.",
-    "arabic_text": "وَالَّذِينَ جَآءُواْ مِنۢ بَعْدِهِمْ يَقُولُونَ رَبَّنَا اغْفِرْ لَنَا وَلِاِخْوَٰنِنَا الَّذِينَ سَبَقُونَا بِالْاِيمَـٰنِ وَلَا تَجْعَلْ فِى قُلُوبِنَا غِلًّۭا لِّلَّذِينَ ءَامَنُواْ ۚ رَبَّنَآ اِنَّكَ رَءُوفٌۭ رَّحِيمٌۭ",
+    "arabic_text": "وَ الَّذِينَ جَآءُواْ مِنۢ بَعْدِهِمْ يَقُولُونَ رَبَّنَا اغْفِرْ لَنَا وَلِاِخْوَٰنِنَا الَّذِينَ سَبَقُونَا بِالْاِيمَـٰنِ وَلَا تَجْعَلْ فِى قُلُوبِنَا غِلًّۭا لِّلَّذِينَ ءَامَنُواْ ۚ رَبَّنَآ اِنَّكَ رَءُوفٌۭ رَّحِيمٌۭ",
     "urdu_text": "اور وہ لوگ جو ان کے بعد آئے کہتے ہیں: اے ہمارے رب! ہمیں بخش دے اور ہمارے ان بھائیوں کو بھی جو ایمان میں ہم سے پہلے گزر گئے، اور ہمارے دلوں میں مومنوں کے لیے کوئی کینہ نہ رکھ، اے ہمارے رب! بیشک تو بڑا مہربان نہایت رحم کرنے والا ہے۔",
     "persian_text": "و آنان که پس از ایشان آمدند می‌گویند: پروردگارا! ما و برادرانمان را که در ایمان بر ما پیشی گرفتند بیامرز، و در دلهای ما نسبت به مؤمنان کینه‌ای قرار مده، پروردگارا! تو مهربان و بخشنده‌ای.",
     "transliteration": "Walladheena jaa'oo min ba'dihim yaqooloona Rabbanagh-fir lanaa wa li-ikhwaanina alladheena sabaqoonaa bil-eemaani wa laa taj'al fee quloobinaa ghillan lilladheena aamanoo, Rabbanaa innaka Ra'oofun Raheem"

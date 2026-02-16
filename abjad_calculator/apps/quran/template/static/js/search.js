@@ -385,7 +385,7 @@ function performPatternSearch(chapters, startsWithText, endsWithText, language) 
       const needsStartsWith = startsWithText.length > 0;
       const needsEndsWith = endsWithText.length > 0;
       
-      // Search in specified language or all
+      // Pattern search only works with Arabic and Transliteration
       if (language === 'all' || language === 'arabic') {
         const text = verse.arabic_clean || verse.arabic;
         const startsMatch = !needsStartsWith || checkStartsWith(text);
@@ -394,42 +394,6 @@ function performPatternSearch(chapters, startsWithText, endsWithText, language) 
         if (startsMatch && endsMatch) {
           matched = true;
           matchedIn.push('Arabic');
-          if (needsStartsWith && checkStartsWith(text)) patternInfo.startsWith = true;
-          if (needsEndsWith && checkEndsWith(text)) patternInfo.endsWith = true;
-        }
-      }
-      if (language === 'all' || language === 'english') {
-        const text = verse.english;
-        const startsMatch = !needsStartsWith || checkStartsWith(text);
-        const endsMatch = !needsEndsWith || checkEndsWith(text);
-        
-        if (startsMatch && endsMatch) {
-          matched = true;
-          matchedIn.push('English');
-          if (needsStartsWith && checkStartsWith(text)) patternInfo.startsWith = true;
-          if (needsEndsWith && checkEndsWith(text)) patternInfo.endsWith = true;
-        }
-      }
-      if (language === 'all' || language === 'urdu') {
-        const text = verse.urdu;
-        const startsMatch = !needsStartsWith || checkStartsWith(text);
-        const endsMatch = !needsEndsWith || checkEndsWith(text);
-        
-        if (startsMatch && endsMatch) {
-          matched = true;
-          matchedIn.push('Urdu');
-          if (needsStartsWith && checkStartsWith(text)) patternInfo.startsWith = true;
-          if (needsEndsWith && checkEndsWith(text)) patternInfo.endsWith = true;
-        }
-      }
-      if (language === 'all' || language === 'persian') {
-        const text = verse.persian;
-        const startsMatch = !needsStartsWith || checkStartsWith(text);
-        const endsMatch = !needsEndsWith || checkEndsWith(text);
-        
-        if (startsMatch && endsMatch) {
-          matched = true;
-          matchedIn.push('Persian');
           if (needsStartsWith && checkStartsWith(text)) patternInfo.startsWith = true;
           if (needsEndsWith && checkEndsWith(text)) patternInfo.endsWith = true;
         }

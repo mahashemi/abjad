@@ -465,7 +465,7 @@ ayats = [
   {
     "verse_number": 58,
     "english_text": "And when Our command came; then We delivered Hood and those who have believed with him, with Our Mercy and saved them from punishment.",
-    "arabic_text": "وَلَمَّا جَاءَ اَمْرُنَا نَجَّيْنَا هُودًا وَالَّذِينَ آمَنُوا مَعَهُ بِرَحْمَةٍ مِّنَّا وَنَجَّيْنٰهُم مِّنْ عَذَابٍ غَلِيظٍ",
+    "arabic_text": "وَلَمَّا جَاءَ اَمْرُنَا نَجَّيْنَا هُودًا وَ الَّذِينَ آمَنُوا مَعَهُ بِرَحْمَةٍ مِّنَّا وَنَجَّيْنٰهُم مِّنْ عَذَابٍ غَلِيظٍ",
     "urdu_text": "اور جب همارا حکم آیا تو هم نے هود اور ان کے ساتھ ایمان لانے والوں کو اپنی رحمت سے نجات دی اور انهیں سخت عذاب سے بچا لیا",
     "persian_text": "و چون فرمان ما فرا رسید، هود و کسانی را که با او ایمان آورده بودند به رحمت خود نجات دادیم و آنان را از عذاب سخت رهانیدیم",
     "transliteration": "Wa lamma ja'a amruna najjayna Hudan walladhina amanu ma'ahu bi rahmatin minna wa najjaynahum min 'adhabin ghaliz"
@@ -529,7 +529,7 @@ ayats = [
   {
     "verse_number": 66,
     "english_text": "Then, when Our command (punishment) came, so We delivered Saleh and those people who had believed with Our mercy and saved from disgrace of that day, undoubtedly your Lord is greatly Predominant.",
-    "arabic_text": "فَلَمَّا جَاءَ اَمْرُنَا نَجَّيْنَا صَالِحًا وَالَّذِينَ آمَنُوا مَعَهُ بِرَحْمَةٍ مِّنَّا وَمِنْ خِزْيِ يَوْمِئِذٍ ۗ اِنَّ رَبَّكَ هُوَ الْقَوِيُّ الْعَزِيزُ",
+    "arabic_text": "فَلَمَّا جَاءَ اَمْرُنَا نَجَّيْنَا صَالِحًا وَ الَّذِينَ آمَنُوا مَعَهُ بِرَحْمَةٍ مِّنَّا وَمِنْ خِزْيِ يَوْمِئِذٍ ۗ اِنَّ رَبَّكَ هُوَ الْقَوِيُّ الْعَزِيزُ",
     "urdu_text": "پھر جب همارا حکم آ پهنچا تو هم نے صالح کو اور ان لوگوں کو جو ان کے ساتھ ایمان لائے تھے اپنی رحمت سے نجات دی اور اس دن کی رسوائی سے بچا لیا، بیشک تمهارا رب بڑا طاقتور اور غالب هے",
     "persian_text": "پس چون فرمان ما فرا رسید، صالح و کسانی را که با او ایمان آورده بودند به رحمت خود نجات دادیم و از رسوایی آن روز محفوظ داشتیم، همانا پروردگار تو قوی و عزیز است",
     "transliteration": "Falamma jaa'a amruna najjayna Salihan walladhina amanu ma'ahu birahmatim minna wa min khizyi yawmi'idh, inna Rabbaka huwal Qawiyyul 'Aziz"
@@ -753,7 +753,7 @@ ayats = [
   {
     "verse_number": 94,
     "english_text": "And when Our command (of punishment) came, then with Our Grace We saved Shoaib and those who have belief with him; and those who were unjust were affected with a mighty blast, and they were lying upside down in their homes.",
-    "arabic_text": "وَلَمَّا جَاءَ اَمْرُنَا نَجَّيْنَا شُعَيْبًا وَالَّذِينَ آمَنُوا مَعَهُ بِرَحْمَةٍ مِّنَّا وَاَخَذَتِ الَّذِينَ ظَلَمُوا الصَّيْحَةُ فَاَصْبَحُوا فِي دِيَارِهِمْ جَاثِمِينَ",
+    "arabic_text": "وَلَمَّا جَاءَ اَمْرُنَا نَجَّيْنَا شُعَيْبًا وَ الَّذِينَ آمَنُوا مَعَهُ بِرَحْمَةٍ مِّنَّا وَاَخَذَتِ الَّذِينَ ظَلَمُوا الصَّيْحَةُ فَاَصْبَحُوا فِي دِيَارِهِمْ جَاثِمِينَ",
     "urdu_text": "اور جب همارا حکم آ پهنچا تو هم نے اپنی رحمت سے شعیب اور ان کے ساتھ ایمان لانے والوں کو نجات دے دی، اور ظالموں کو ایک زبردست چیخ نے آ لیا، تو وه اپنے گھروں میں اوندھے پڑے ره گئے۔",
     "persian_text": "و چون فرمان ما فرا رسید، شعیب و کسانی را که با او ایمان آورده بودند به رحمت خود نجات دادیم، و ستمکاران را صیحه‌ای سخت فرا گرفت و در خانه‌های خود افتاده ماندند.",
     "transliteration": "Wa lamma ja'a amruna najjayna Shu'ayban walladheena amanoo ma'ahu birahmatim minna wa akhadhatil ladheena dhalamoo assayhatu fa asbahoo fee diyarihim jathimeen"
