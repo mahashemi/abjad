@@ -546,7 +546,7 @@ ayats = [
   {
     "verse_number": 69,
     "english_text": "There is no doubt, whether Muslim or Jew whoever is steadfast and wise whether Christian and whoever believe on Allah and the Day of Judgement and perform good deeds, they will not have any fear nor will these people have any grief.",
-    "arabic_text": "اِنَّ الَّذِيْنَ اٰمَنُوْا وَالَّذِيْنَ هَادُوا وَالصَّابِئُونَ وَالنَّصٰرٰى مَنْ آمَنَ بِاللّٰهِ وَ الْيَوْمِ الْآخِرِ وَ عَمِلَ صٰلِحًا فَلَا خَوْفٌ عَلَيْهِمْ وَ لَا هُمْ يَحْزَنُوْنَ",
+    "arabic_text": "اِنَّ الَّذِيْنَ اٰمَنُوْا وَ الَّذِيْنَ هَادُوا وَالصَّابِئُونَ وَالنَّصٰرٰى مَنْ آمَنَ بِاللّٰهِ وَ الْيَوْمِ الْآخِرِ وَ عَمِلَ صٰلِحًا فَلَا خَوْفٌ عَلَيْهِمْ وَ لَا هُمْ يَحْزَنُوْنَ",
     "urdu_text": "بیشک جو لوگ ایمان لائے اور جو یہودی ہوئے اور صابئین اور نصاریٰ، جو کوئی اللہ پر اور قیامت کے دن پر ایمان لایا اور نیک عمل کیا تو ان پر نہ کوئی خوف ہے اور نہ وہ غمگین ہوں گے",
     "persian_text": "همانا کسانی که ایمان آورده‌اند و کسانی که یهودی شدند و صابئین و نصاری، هر کس که به خدا و روز قیامت ایمان آورد و عمل صالح انجام دهد، نه بیمی بر آنهاست و نه اندوهگین خواهند شد",
     "transliteration": "Inna alladhina amanu walladhina hadu was-Sabi'una wan-Nasara man amana billahi wal-yawm al-akhiri wa 'amila salihan fala khawfun 'alayhim wa la hum yahzanun",

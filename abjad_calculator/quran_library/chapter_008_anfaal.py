@@ -282,7 +282,7 @@ ayats = [
   {
     "verse_number": 36,
     "english_text": "Those who adopted infidelity they spend their wealth to desist people from the path of Allah, so they will spend and it will become a matter of regret for them, also they will be defeated in the end; and those who adopted infidelity they will be taken towards Hell.",
-    "arabic_text": "اِنَّ الَّذِينَ كَفَرُوا يُنْفِقُوْنَ اَمْوَالَهُمْ لِيَصُدُّوْا عَنْ سَبِيْلِ اللّٰهِ ۚ فَسَيُنْفِقُوْنَهَا ثُمَّ تَكُوْنُ عَلَيْهِمْ حَسْرَةً ثُمَّ يُغْلَبُونَ وَالَّذِيْنَ كَفَرُوْا اِلَٰى جَهَنَّمَ يُحْشَرُوْنَ",
+    "arabic_text": "اِنَّ الَّذِينَ كَفَرُوا يُنْفِقُوْنَ اَمْوَالَهُمْ لِيَصُدُّوْا عَنْ سَبِيْلِ اللّٰهِ ۚ فَسَيُنْفِقُوْنَهَا ثُمَّ تَكُوْنُ عَلَيْهِمْ حَسْرَةً ثُمَّ يُغْلَبُونَ وَ الَّذِيْنَ كَفَرُوْا اِلَٰى جَهَنَّمَ يُحْشَرُوْنَ",
     "urdu_text": "بیشک جن لوگوں نے کفر اختیار کیا وہ اپنے مال اللہ کی راہ سے روکنے کے لیے خرچ کرتے ہیں، سو وہ اسے خرچ کریں گے پھر یہ ان کے لیے حسرت کا باعث ہوگا، پھر وہ مغلوب ہو جائیں گے، اور جن لوگوں نے کفر اختیار کیا انہیں جہنم کی طرف ہانکا جائے گا",
     "persian_text": "همانا کسانی که کافر شدند، اموال خود را خرج می‌کنند تا مردم را از راه خدا بازدارند، پس آن را خرج خواهند کرد، سپس برای آنان حسرت خواهد شد، آنگاه مغلوب خواهند گردید، و کسانی که کافر شدند به سوی جهنم گرد آورده می‌شوند",
     "transliteration": "Inna alladhina kafaru yunfiquna amwalahum liyasuddoo 'an sabeelillah, fasayunfiqoonaha thumma takoonu 'alayhim hasratan thumma yughlaboona walladhina kafaru ila jahannama yuhsharoon",
