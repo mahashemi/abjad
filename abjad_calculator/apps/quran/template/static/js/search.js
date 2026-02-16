@@ -52,7 +52,6 @@ function renderSearchInterface() {
     <div class="search-section">
       <div class="search-box">
         <input type="text" id="searchInput" placeholder="ابحث في القرآن الكريم... Search the Quran..." />
-        <button class="search-btn" onclick="performSearch()">بحث Search</button>
       </div>
       
       <button class="filters-toggle-btn" onclick="toggleFilters()">
@@ -60,26 +59,40 @@ function renderSearchInterface() {
       </button>
       
       <div class="filters" id="searchFilters" style="display: none;">
-        <div class="filter-group">
-          <label>اللغة Language:</label>
-          <select id="languageFilter">
-            <option value="all">All جميع</option>
-            <option value="arabic">العربية Arabic</option>
-            <option value="english">English</option>
-            <option value="urdu">اردو Urdu</option>
-            <option value="persian">فارسی Persian</option>
-            <option value="transliteration">Transliteration</option>
-          </select>
+        <div class="filters-row">
+          <div class="filter-group">
+            <label>يبدأ بـ Starts With:</label>
+            <input type="text" id="startsWithInput" placeholder="ابحث عن آيات تبدأ بـ..." />
+          </div>
+          
+          <div class="filter-group">
+            <label>ينتهي بـ Ends With:</label>
+            <input type="text" id="endsWithInput" placeholder="ابحث عن آيات تنتهي بـ..." />
+          </div>
         </div>
         
-        <div class="filter-group">
-          <label>البحث بالعدد Abjad Search:</label>
-          <select id="abjadType" onchange="toggleAbjadRange()">
-            <option value="">بحث نصي Text Only</option>
-            <option value="qamari">القمري Qamari</option>
-            <option value="malfuzi">الملفوظي Malfuzi</option>
-            <option value="bayenati">الباطني Bayenati</option>
-          </select>
+        <div class="filters-row">
+          <div class="filter-group">
+            <label>اللغة Language:</label>
+            <select id="languageFilter">
+              <option value="all">All جميع</option>
+              <option value="arabic">العربية Arabic</option>
+              <option value="english">English</option>
+              <option value="urdu">اردو Urdu</option>
+              <option value="persian">فارسی Persian</option>
+              <option value="transliteration">Transliteration</option>
+            </select>
+          </div>
+          
+          <div class="filter-group">
+            <label>البحث بالعدد Abjad Search:</label>
+            <select id="abjadType" onchange="toggleAbjadRange()">
+              <option value="">بحث نصي Text Only</option>
+              <option value="qamari">القمري Qamari</option>
+              <option value="malfuzi">الملفوظي Malfuzi</option>
+              <option value="bayenati">الباطني Bayenati</option>
+            </select>
+          </div>
         </div>
         
         <div class="filter-group" id="abjadRangeGroup" style="display:none;">
@@ -96,6 +109,8 @@ function renderSearchInterface() {
           </select>
         </div>
       </div>
+      
+      <button class="search-btn" onclick="performSearch()" style="width: 100%; margin-top: 10px;">بحث Search</button>
       
       <div id="searchResults" class="search-results">
         <div class="welcome-search">
@@ -180,17 +195,21 @@ function performSearch() {
   const language = document.getElementById('languageFilter').value;
   const abjadType = document.getElementById('abjadType').value;
   const chapterFilter = document.getElementById('chapterFilter').value;
+  const startsWithText = document.getElementById('startsWithInput').value.trim();
+  const endsWithText = document.getElementById('endsWithInput').value.trim();
   
   console.log('[SEARCH] Search parameters:');
   console.log('[SEARCH]   - Text:', searchText || '(none)');
+  console.log('[SEARCH]   - Starts With:', startsWithText || '(none)');
+  console.log('[SEARCH]   - Ends With:', endsWithText || '(none)');
   console.log('[SEARCH]   - Language:', language);
   console.log('[SEARCH]   - Abjad type:', abjadType || '(none)');
   console.log('[SEARCH]   - Chapter filter:', chapterFilter || 'All chapters');
   
   // Validate inputs
-  if (!searchText && !abjadType) {
+  if (!searchText && !abjadType && !startsWithText && !endsWithText) {
     console.warn('[SEARCH] ✗ No search criteria provided');
-    alert('Please enter search text or select Abjad search');
+    alert('Please enter search text, starts/ends with pattern, or select Abjad search');
     return;
   }
   
@@ -206,7 +225,11 @@ function performSearch() {
   // Smart search: If search text is a number and no Abjad type selected, search all Abjad systems
   const isNumericSearch = searchText && !isNaN(searchText) && searchText.trim() !== '';
   
-  if (abjadType) {
+  if (startsWithText || endsWithText) {
+    // Pattern matching search (starts with / ends with)
+    console.log('[SEARCH] Performing pattern matching search...');
+    performPatternSearch(chaptersToSearch, startsWithText, endsWithText, language);
+  } else if (abjadType) {
     // Explicit Abjad search with selected type
     console.log('[SEARCH] Performing Abjad search with type:', abjadType);
     performAbjadSearch(chaptersToSearch, abjadType);
@@ -333,6 +356,117 @@ function performTextSearch(chapters, searchText, language) {
   console.log('[SEARCH] Word-level text search complete. Found', searchResults.length, 'verses');
 }
 
+// Pattern matching search for verses that start with or end with specific text
+function performPatternSearch(chapters, startsWithText, endsWithText, language) {
+  console.log('[SEARCH] Pattern search parameters:');
+  console.log('[SEARCH]   - Starts with:', startsWithText || '(none)');
+  console.log('[SEARCH]   - Ends with:', endsWithText || '(none)');
+  console.log('[SEARCH]   - Language:', language);
+  
+  chapters.forEach(chapter => {
+    chapter.verses.forEach(verse => {
+      let matched = false;
+      let matchedIn = [];
+      let patternInfo = { startsWith: false, endsWith: false };
+      
+      // Helper function to check if text starts with pattern
+      const checkStartsWith = (text) => {
+        if (!text || !startsWithText) return false;
+        return text.trimStart().startsWith(startsWithText);
+      };
+      
+      // Helper function to check if text ends with pattern
+      const checkEndsWith = (text) => {
+        if (!text || !endsWithText) return false;
+        return text.trimEnd().endsWith(endsWithText);
+      };
+      
+      // Check conditions based on what was provided
+      const needsStartsWith = startsWithText.length > 0;
+      const needsEndsWith = endsWithText.length > 0;
+      
+      // Search in specified language or all
+      if (language === 'all' || language === 'arabic') {
+        const text = verse.arabic_clean || verse.arabic;
+        const startsMatch = !needsStartsWith || checkStartsWith(text);
+        const endsMatch = !needsEndsWith || checkEndsWith(text);
+        
+        if (startsMatch && endsMatch) {
+          matched = true;
+          matchedIn.push('Arabic');
+          if (needsStartsWith && checkStartsWith(text)) patternInfo.startsWith = true;
+          if (needsEndsWith && checkEndsWith(text)) patternInfo.endsWith = true;
+        }
+      }
+      if (language === 'all' || language === 'english') {
+        const text = verse.english;
+        const startsMatch = !needsStartsWith || checkStartsWith(text);
+        const endsMatch = !needsEndsWith || checkEndsWith(text);
+        
+        if (startsMatch && endsMatch) {
+          matched = true;
+          matchedIn.push('English');
+          if (needsStartsWith && checkStartsWith(text)) patternInfo.startsWith = true;
+          if (needsEndsWith && checkEndsWith(text)) patternInfo.endsWith = true;
+        }
+      }
+      if (language === 'all' || language === 'urdu') {
+        const text = verse.urdu;
+        const startsMatch = !needsStartsWith || checkStartsWith(text);
+        const endsMatch = !needsEndsWith || checkEndsWith(text);
+        
+        if (startsMatch && endsMatch) {
+          matched = true;
+          matchedIn.push('Urdu');
+          if (needsStartsWith && checkStartsWith(text)) patternInfo.startsWith = true;
+          if (needsEndsWith && checkEndsWith(text)) patternInfo.endsWith = true;
+        }
+      }
+      if (language === 'all' || language === 'persian') {
+        const text = verse.persian;
+        const startsMatch = !needsStartsWith || checkStartsWith(text);
+        const endsMatch = !needsEndsWith || checkEndsWith(text);
+        
+        if (startsMatch && endsMatch) {
+          matched = true;
+          matchedIn.push('Persian');
+          if (needsStartsWith && checkStartsWith(text)) patternInfo.startsWith = true;
+          if (needsEndsWith && checkEndsWith(text)) patternInfo.endsWith = true;
+        }
+      }
+      if (language === 'all' || language === 'transliteration') {
+        const text = verse.transliteration;
+        const startsMatch = !needsStartsWith || checkStartsWith(text);
+        const endsMatch = !needsEndsWith || checkEndsWith(text);
+        
+        if (startsMatch && endsMatch) {
+          matched = true;
+          matchedIn.push('Transliteration');
+          if (needsStartsWith && checkStartsWith(text)) patternInfo.startsWith = true;
+          if (needsEndsWith && checkEndsWith(text)) patternInfo.endsWith = true;
+        }
+      }
+      
+      if (matched) {
+        searchResults.push({
+          chapter: chapter.chapter_number,
+          chapterName: chapter.chapter_name_arabic,
+          verse: verse.verse_number,
+          verseData: verse,
+          matchedIn: matchedIn,
+          patternMatch: {
+            startsWith: startsWithText,
+            endsWith: endsWithText,
+            matchInfo: patternInfo
+          }
+        });
+      }
+    });
+  });
+  
+  console.log('[SEARCH] Pattern matching search complete. Found', searchResults.length, 'verses');
+}
+
 // Abjad value search - supports both verse-level and word-level matching
 function performAbjadSearch(chapters, abjadType, manualValue = null) {
   const targetValue = manualValue !== null ? manualValue : parseInt(document.getElementById('abjadValue').value);
@@ -435,8 +569,8 @@ function highlightArabicByIndex(arabicOriginal, arabicClean, searchText, isNumer
   if (!arabicOriginal || !arabicClean || !searchText) return arabicOriginal;
   
   const highlightStyle = isNumeric 
-    ? 'background: rgba(45, 118, 71, 0.3); padding: 2px 4px; border-radius: 3px; font-weight: bold;'
-    : 'background: rgba(212, 175, 116, 0.4); padding: 2px 4px; border-radius: 3px;';
+    ? 'text-decoration: underline; text-decoration-color: #2d7647; text-decoration-thickness: 2px; text-underline-offset: 2px; font-weight: bold;'
+    : 'text-decoration: underline; text-decoration-color: #d4af74; text-decoration-thickness: 2px; text-underline-offset: 2px; font-weight: bold;';
   
   // Find all occurrences of search phrase in cleaned text
   const searchLower = searchText.toLowerCase();
@@ -554,8 +688,8 @@ function highlightWordsByPosition(arabicText, arabicClean, matchedWords, allWord
   if (!arabicText || !matchedWords || matchedWords.length === 0) return arabicText;
   
   const highlightStyle = isNumeric 
-    ? 'background: rgba(45, 118, 71, 0.3); padding: 2px 4px; border-radius: 3px; font-weight: bold; cursor: help;'
-    : 'background: rgba(212, 175, 116, 0.4); padding: 2px 4px; border-radius: 3px; cursor: help;';
+    ? 'text-decoration: underline; text-decoration-color: #2d7647; text-decoration-thickness: 2px; text-underline-offset: 2px; font-weight: bold; cursor: help;'
+    : 'text-decoration: underline; text-decoration-color: #d4af74; text-decoration-thickness: 2px; text-underline-offset: 2px; font-weight: bold; cursor: help;';
   
   // Build a map of positions to word data (including abjad values)
   const positionToWordData = new Map();
@@ -598,8 +732,8 @@ function highlightSpecificWords(text, wordsArray, isNumeric = false) {
   if (!text || !wordsArray || wordsArray.length === 0) return text;
   
   const highlightStyle = isNumeric 
-    ? 'background: rgba(45, 118, 71, 0.3); padding: 2px 4px; border-radius: 3px; font-weight: bold;'
-    : 'background: rgba(212, 175, 116, 0.4); padding: 2px 4px; border-radius: 3px;';
+    ? 'text-decoration: underline; text-decoration-color: #2d7647; text-decoration-thickness: 2px; text-underline-offset: 2px; font-weight: bold;'
+    : 'text-decoration: underline; text-decoration-color: #d4af74; text-decoration-thickness: 2px; text-underline-offset: 2px; font-weight: bold;';
   
   let highlightedText = text;
   
@@ -614,6 +748,43 @@ function highlightSpecificWords(text, wordsArray, isNumeric = false) {
   });
   
   return highlightedText;
+}
+
+// Helper function to highlight pattern matches (starts/ends with)
+function highlightPatternMatch(text, startsWithText, endsWithText) {
+  if (!text) return text;
+  
+  let result = text;
+  const highlightStyle = 'text-decoration: underline; text-decoration-color: #b48a1f; text-decoration-thickness: 2px; text-underline-offset: 2px; font-weight: bold;';
+  
+  // Highlight start pattern
+  if (startsWithText) {
+    const trimmedText = text.trimStart();
+    const leadingSpaces = text.length - trimmedText.length;
+    const spaces = text.substring(0, leadingSpaces);
+    
+    if (trimmedText.startsWith(startsWithText)) {
+      const highlighted = `<mark style="${highlightStyle}">${startsWithText}</mark>`;
+      const rest = trimmedText.substring(startsWithText.length);
+      result = spaces + highlighted + rest;
+    }
+  }
+  
+  // Highlight end pattern
+  if (endsWithText) {
+    const trimmedText = result.trimEnd();
+    const trailingSpaces = result.length - trimmedText.length;
+    const spaces = result.substring(trimmedText.length);
+    
+    if (trimmedText.endsWith(endsWithText)) {
+      const startIdx = trimmedText.lastIndexOf(endsWithText);
+      const before = trimmedText.substring(0, startIdx);
+      const highlighted = `<mark style="${highlightStyle}">${endsWithText}</mark>`;
+      result = before + highlighted + spaces;
+    }
+  }
+  
+  return result;
 }
 
 // Display search results
@@ -633,6 +804,8 @@ function displayResults() {
   
   // Get the search text from input for highlighting
   const searchText = document.getElementById('searchInput').value.trim();
+  const startsWithText = document.getElementById('startsWithInput').value.trim();
+  const endsWithText = document.getElementById('endsWithInput').value.trim();
   
   let html = `<h3 style="color: #d4af74; text-align: center; margin-bottom: 30px;">
     Found ${searchResults.length} results | تم العثور على ${searchResults.length} نتيجة
@@ -650,25 +823,59 @@ function displayResults() {
     
     // Apply highlighting based on match type - can apply multiple types
     
-    // 1. Numeric word-level matches (green highlight with tooltips)
+    // 1. Pattern matching (starts/ends with) - bronze highlight
+    if (result.patternMatch) {
+      if (result.matchedIn && result.matchedIn.includes('Arabic')) {
+        const textToHighlight = verse.arabic_clean || verse.arabic;
+        arabicText = highlightPatternMatch(arabicText, 
+          result.patternMatch.matchInfo.startsWith ? result.patternMatch.startsWith : null,
+          result.patternMatch.matchInfo.endsWith ? result.patternMatch.endsWith : null);
+      }
+      
+      // Apply pattern highlighting to other languages
+      if (result.matchedIn) {
+        if (result.matchedIn.includes('English') && englishText) {
+          englishText = highlightPatternMatch(englishText,
+            result.patternMatch.matchInfo.startsWith ? result.patternMatch.startsWith : null,
+            result.patternMatch.matchInfo.endsWith ? result.patternMatch.endsWith : null);
+        }
+        if (result.matchedIn.includes('Urdu') && urduText) {
+          urduText = highlightPatternMatch(urduText,
+            result.patternMatch.matchInfo.startsWith ? result.patternMatch.startsWith : null,
+            result.patternMatch.matchInfo.endsWith ? result.patternMatch.endsWith : null);
+        }
+        if (result.matchedIn.includes('Persian') && persianText) {
+          persianText = highlightPatternMatch(persianText,
+            result.patternMatch.matchInfo.startsWith ? result.patternMatch.startsWith : null,
+            result.patternMatch.matchInfo.endsWith ? result.patternMatch.endsWith : null);
+        }
+        if (result.matchedIn.includes('Transliteration') && translitText) {
+          translitText = highlightPatternMatch(translitText,
+            result.patternMatch.matchInfo.startsWith ? result.patternMatch.startsWith : null,
+            result.patternMatch.matchInfo.endsWith ? result.patternMatch.endsWith : null);
+        }
+      }
+    }
+    
+    // 2. Numeric word-level matches (green highlight with tooltips)
     if (result.abjadMatch && result.abjadMatch.matchType === 'word' && result.abjadMatch.matchedWords) {
       const matchedWordTexts = result.abjadMatch.matchedWords.map(w => w.word);
       arabicText = highlightWordsByPosition(arabicText, verse.arabic_clean, matchedWordTexts, verse.words, true);
     }
     
-    // 2. Text search word matches (golden highlight with tooltips)
+    // 3. Text search word matches (golden highlight with tooltips)
     // Apply word-level highlighting for text searches that have matched words
     if (result.matchedWords && result.matchedWords.length > 0) {
       arabicText = highlightWordsByPosition(arabicText, verse.arabic_clean, result.matchedWords, verse.words, false);
     } 
-    // 3. Text search phrase matches (golden highlight) - fallback for phrase-only matches
+    // 4. Text search phrase matches (golden highlight) - fallback for phrase-only matches
     else if (result.matchedIn && searchText && result.matchedIn.includes('Arabic')) {
       // Apply phrase highlighting only if no word matches
       arabicText = highlightArabicByIndex(arabicText, verse.arabic_clean, searchText, false);
     }
     
-    // Apply highlighting to other languages
-    if (result.matchedIn && searchText) {
+    // Apply highlighting to other languages (for text search only)
+    if (result.matchedIn && searchText && !result.patternMatch) {
       if (result.matchedIn.includes('English') && englishText) {
         englishText = highlightText(englishText, searchText, false);
       }
@@ -685,19 +892,38 @@ function displayResults() {
     
     // Build match info
     let matchInfo = '';
+    
+    // Pattern match info
+    if (result.patternMatch) {
+      let patternDesc = [];
+      if (result.patternMatch.matchInfo.startsWith) {
+        patternDesc.push(`Starts with: "${result.patternMatch.startsWith}"`);
+      }
+      if (result.patternMatch.matchInfo.endsWith) {
+        patternDesc.push(`Ends with: "${result.patternMatch.endsWith}"`);
+      }
+      
+      if (patternDesc.length > 0) {
+        matchInfo += `<div style="font-size: 13px; color: #b4881f; margin-top: 8px; font-weight: bold;">
+          ✓ Pattern Match: ${patternDesc.join(' AND ')}
+        </div>`;
+      }
+    }
+    
+    // Abjad match info
     if (result.abjadMatch) {
       const abjadType = result.abjadMatch.type;
       const abjadTypeLabel = abjadType.charAt(0).toUpperCase() + abjadType.slice(1);
       
       if (result.abjadMatch.matchType === 'verse') {
-        matchInfo = `<div style="font-size: 13px; color: #2d7647; margin-top: 8px; font-weight: bold;">
+        matchInfo += `<div style="font-size: 13px; color: #2d7647; margin-top: 8px; font-weight: bold;">
           ✓ Verse Match: ${abjadTypeLabel} = ${result.abjadMatch.value} (Target: ${result.abjadMatch.target})
         </div>`;
       } else if (result.abjadMatch.matchType === 'word' && result.abjadMatch.matchedWords) {
         const wordsInfo = result.abjadMatch.matchedWords
           .map(w => `${w.word} (${w.value})`)
           .join(' • ');
-        matchInfo = `<div style="font-size: 13px; color: #2d7647; margin-top: 8px;">
+        matchInfo += `<div style="font-size: 13px; color: #2d7647; margin-top: 8px;">
           <strong>✓ ${result.abjadMatch.matchedWords.length} word(s) matched in ${abjadTypeLabel}:</strong> ${wordsInfo}
         </div>`;
       }

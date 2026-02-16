@@ -130,8 +130,28 @@ for dir in dirs:
                         print(f"    Added subtotal for ayas {aya_counter - 9}-{aya_counter} - Q:{subtotal_qamari}, M:{subtotal_malfuzi}, B:{subtotal_bayenati}")
                         
                         # Add break (empty row) after subtotal
-                        empty_row = {col: '' for col in subtotal_row.keys()}
+                        empty_row = {
+                            'type': '',
+                            'surah_number': '',
+                            'surah': '',
+                            'aya_number': '',
+                            'qamari': '',
+                            'malfuzi': '',
+                            'bayenati': ''
+                        }
                         all_data.append(empty_row)
+                        
+                        # Add header row for next batch
+                        header_row = {
+                            'type': 'header',
+                            'surah_number': 'surah_number',
+                            'surah': 'surah',
+                            'aya_number': 'aya_number',
+                            'qamari': 'qamari',
+                            'malfuzi': 'malfuzi',
+                            'bayenati': 'bayenati'
+                        }
+                        all_data.append(header_row)
                         
                         # Reset subtotals
                         subtotal_qamari = 0
@@ -158,8 +178,28 @@ for dir in dirs:
         print(f"    Added final subtotal for ayas {start_aya}-{aya_counter} - Q:{subtotal_qamari}, M:{subtotal_malfuzi}, B:{subtotal_bayenati}")
         
         # Add break (empty row) after subtotal
-        empty_row = {col: '' for col in subtotal_row.keys()}
+        empty_row = {
+            'type': '',
+            'surah_number': '',
+            'surah': '',
+            'aya_number': '',
+            'qamari': '',
+            'malfuzi': '',
+            'bayenati': ''
+        }
         all_data.append(empty_row)
+        
+        # Add header row for next batch (if this is the final subtotal before the total)
+        header_row = {
+            'type': 'header',
+            'surah_number': 'surah_number',
+            'surah': 'surah',
+            'aya_number': 'aya_number',
+            'qamari': 'qamari',
+            'malfuzi': 'malfuzi',
+            'bayenati': 'bayenati'
+        }
+        all_data.append(header_row)
         
     # Add sura total row
     total_row = {
@@ -175,7 +215,15 @@ for dir in dirs:
     print(f"  Added total row - Q:{total_qamari}, M:{total_malfuzi}, B:{total_bayenati}")
     
     # Add empty row for spacing
-    empty_row = {col: '' for col in total_row.keys()}
+    empty_row = {
+        'type': '',
+        'surah_number': '',
+        'surah': '',
+        'aya_number': '',
+        'qamari': '',
+        'malfuzi': '',
+        'bayenati': ''
+    }
     all_data.append(empty_row)
 
 print(f"\nTotal data rows collected: {len(all_data)}")
@@ -229,6 +277,10 @@ with pd.ExcelWriter('verification_detailed.xlsx', engine='openpyxl') as writer:
     subtotal_font = Font(bold=True, color='FF8C00')
     subtotal_fill = PatternFill(start_color='FFF8DC', end_color='FFF8DC', fill_type='solid')
     
+    # Header row formatting (for repeated headers)
+    repeated_header_font = Font(bold=True, color='FFFFFF')
+    repeated_header_fill = PatternFill(start_color='366092', end_color='366092', fill_type='solid')
+    
     # Apply formatting to data rows
     # Apply formatting to data rows
     for row_num, row in enumerate(worksheet.iter_rows(min_row=2), start=2):
@@ -245,6 +297,11 @@ with pd.ExcelWriter('verification_detailed.xlsx', engine='openpyxl') as writer:
             for cell in row:
                 cell.font = subtotal_font
                 cell.fill = subtotal_fill
+        elif row[0].value == 'header':
+            for cell in row:
+                cell.font = repeated_header_font
+                cell.fill = repeated_header_fill
+                cell.alignment = Alignment(horizontal='center')
     
     # Adjust column widths
     column_widths = [8, 12, 25, 10, 10, 10, 10]
