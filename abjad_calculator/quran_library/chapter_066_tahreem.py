@@ -33,7 +33,7 @@ ayats = [
   {
     "verse_number": 4,
     "english_text": "Now both of you seek repentance, crookedness has developed in your hearts, otherwise if you will back up each other against him, then remember, Allah is his Guardian and Gabriel, and righteous believers and angels all are his helpers.",
-    "arabic_text": "اِن تَتُوبَآ اِلَى اللّٰهِ فَقَدْ صَغَتْ قُلُوبُكُمَا ۖ وَاِن تَظَـٰهَرَا عَلَيْهِ فَاِنَّ اللّٰهَ هُوَ مَوْلَىٰهُ وَجِبْرِيلُ وَصَـٰلِحُ الْمُؤْمِنِينَ ۖ وَالْمَلَـٰٓئِكَةُ بَعْدَ ذٰلِكَ ظَهِيرٌ",
+    "arabic_text": "اِن تَتُوبَآ اِلَى اللّٰهِ فَقَدْ صَغَتْ قُلُوبُكُمَا ۖ وَ اِن تَظَـٰهَرَا عَلَيْهِ فَاِنَّ اللّٰهَ هُوَ مَوْلَىٰهُ وَجِبْرِيلُ وَصَـٰلِحُ الْمُؤْمِنِينَ ۖ وَالْمَلَـٰٓئِكَةُ بَعْدَ ذٰلِكَ ظَهِيرٌ",
     "urdu_text": "اگر تم دونوں الله کی طرف توبه کرو تو بهتر هے کیونکه تمهارے دل ٹیڑھے هو گئے هیں، اور اگر تم دونوں نبی کے خلاف ایک دوسرے کی مدد کرو گی تو یاد رکھو که الله ان کا مولیٰ هے اور جبریل اور نیک مومن اور اس کے بعد فرشتے بھی ان کے مددگار هیں۔",
     "persian_text": "اگر شما دو نفر به سوی خداوند توبه کنید، پس دلهای شما منحرف شده است، و اگر بر ضد او با هم همکاری کنید، پس بدانید که خداوند یار اوست و جبرئیل و صالحان مؤمنان، و فرشتگان نیز پس از آن یاورانند.",
     "transliteration": "In tatoobaa ilal-laahi faqad saghat quloobukumaa wa in tazaaharaa 'alayhi fa-innal-laaha huwa mawlaahu wa jibreelu wa saalihul-mu'mineena walmalaa'ikatu ba'da dhaalika dhaheer"

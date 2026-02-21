@@ -273,7 +273,7 @@ ayats = [
   {
     "verse_number": 34,
     "english_text": "Verily, who adopted infidelity and creates hindrance in the way of Allah and died in infidelity, so Allah will never forgive them.",
-    "arabic_text": "اِنَّ الَّذِينَ كَفَرُواْ وَصَدُّواْ عَن سَبِيلِ اللّٰهِ ثُمَّ مَاتُواْ وَهُمْ كُفَّارٌۭ فَلَن يَغْفِرَ اللّٰهُ لَهُمْ",
+    "arabic_text": "اِنَّ الَّذِينَ كَفَرُواْ وَصَدُّواْ عَن سَبِيلِ اللّٰهِ ثُمَّ مَاتُواْ وَ هُمْ كُفَّارٌۭ فَلَن يَغْفِرَ اللّٰهُ لَهُمْ",
     "urdu_text": "بیشک جن لوگوں نے کفر اختیار کیا اور الله کی راه میں رکاوٹ ڈالی پھر کفر کی حالت میں مر گئے، تو الله انهیں هرگز معاف نهیں کرے گا۔",
     "persian_text": "همانا کسانی که کافر شدند و در راه خدا مانع ایجاد کردند سپس در حالت کفر مردند، پس خداوند هرگز آنان را نخواهد بخشید.",
     "transliteration": "Inna alladhīna kafarū wa ṣaddū 'an sabīli Allāhi thumma mātū wa hum kuffārun falan yaghfira Allāhu lahum"
@@ -289,7 +289,7 @@ ayats = [
   {
     "verse_number": 36,
     "english_text": "This worldly life is just idle sport and play and if you have adopted faith and piety then Allah will give you full reward and would not ask your possessions from you.",
-    "arabic_text": "اِنَّمَا الْحَيَوٰةُ الدُّنْيٰلَعِبٌۭ وَلَهْوٌۭ ۚ وَاِن تُؤْمِنُواْ وَتَتَّقُواْ يُؤْتِكُمْ اُجُورَكُمْ وَ لَا يَسْـَٔلْكُمْ اَمْوَٰلَكُمْ",
+    "arabic_text": "اِنَّمَا الْحَيَوٰةُ الدُّنْيٰلَعِبٌۭ وَلَهْوٌۭ ۚ وَ اِن تُؤْمِنُواْ وَتَتَّقُواْ يُؤْتِكُمْ اُجُورَكُمْ وَ لَا يَسْـَٔلْكُمْ اَمْوَٰلَكُمْ",
     "urdu_text": "یه دنیوی زندگی تو محض کھیل اور تماشا هے، اور اگر تم ایمان لاؤ اور تقویٰ اختیار کرو تو الله تمهیں پورا اجر دے گا اور تم سے تمهارے مال نهیں مانگے گا۔",
     "persian_text": "زندگی دنیا فقط بازی و سرگرمی است، و اگر ایمان بیاورید و تقوا پیشه کنید، خداوند پاداش کامل به شما خواهد داد و اموال شما را از شما نخواهد خواست.",
     "transliteration": "Innamā al-ḥayātu ad-dunyā la'ibun wa lahwun wa in tu'minū wa tattaqū yu'tikum ujūrakum wa lā yas'alkum amwālakum"
@@ -305,7 +305,7 @@ ayats = [
   {
     "verse_number": 38,
     "english_text": "Yes, you are those people that when they are called upon to spend in the way of Allah, some of you show stinginess, and those who are stingy are stingy for themselves, and Allah is Self-Sufficient; you are poor and needy in front of Him, and if you turn your face, Allah will bring another nation in your place who will not be like you.",
-    "arabic_text": "هَـٰٓاَنتُمْ هَـٰٓؤُلَآءِ تُدْعَوْنَ لِتُنفِقُواْ فِى سَبِيلِ اللّٰهِ فَمِنكُم مَّن يَبْخَلُ ۖ وَمَن يَبْخَلْ فَاِنَّمَا يَبْخَلُ عَن نَّفْسِهِ ۚ وَ اللّٰهُ الْغَنِىُّ وَاَنتُمُ الْفُقَرَآءُ ۚ وَاِن تَتَوَلَّوْاْ يَسْتَبْدِلْ قَوْمًا غَيْرَكُمْ ثُمَّ لَا يَكُونُوٓاْ اَمْثَـٰلَكُم",
+    "arabic_text": "هَـٰٓاَنتُمْ هَـٰٓؤُلَآءِ تُدْعَوْنَ لِتُنفِقُواْ فِى سَبِيلِ اللّٰهِ فَمِنكُم مَّن يَبْخَلُ ۖ وَمَن يَبْخَلْ فَاِنَّمَا يَبْخَلُ عَن نَّفْسِهِ ۚ وَ اللّٰهُ الْغَنِىُّ وَاَنتُمُ الْفُقَرَآءُ ۚ وَ اِن تَتَوَلَّوْاْ يَسْتَبْدِلْ قَوْمًا غَيْرَكُمْ ثُمَّ لَا يَكُونُوٓاْ اَمْثَـٰلَكُم",
     "urdu_text": "هاں، تم وه لوگ هو که جب تمهیں الله کی راه میں خرچ کرنے کے لیے بلایا جاتا هے تو تم میں سے کچھ لوگ بخل کرتے هیں، اور جو بخل کرتا هے وه اپنے هی نقصان کے لیے بخل کرتا هے، اور الله بے نیاز هے اور تم اس کے سامنے محتاج هو، اور اگر تم منه موڑو گے تو الله تمهاری جگه کوئی اور قوم لے آئے گا جو تمهاری طرح نهیں هوگی۔",
     "persian_text": "آری، شما همان مردمی هستید که وقتی فراخوانده می‌شوید تا در راه خدا انفاق کنید، برخی از شما بخل می‌ورزند، و هر کس بخل ورزد تنها به زیان خودش بخل می‌ورزد، و خداوند بی‌نیاز است و شما نیازمندان، و اگر روی برگردانید، خداوند قومی دیگر به جای شما خواهد آورد که مانند شما نخواهند بود.",
     "transliteration": "Hā'antum hā'ulā'i tud'awna litunfiqū fī sabīli Allāhi faminkum man yabkhalu wa man yabkhal fa'innamā yabkhalu 'an nafsihī wa Allāhu al-ghaniyyu wa antumu al-fuqarā'u wa in tatawallaw yastabdil qawman ghayrakum thumma lā yakūnū amthālakum"

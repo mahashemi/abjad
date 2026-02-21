@@ -9,7 +9,7 @@ ayats = [
   {
     "verse_number": 1,
     "english_text": "Ta Seen, This is Quran and its manifest verses.",
-    "arabic_text": "طسٓ ۚ تِلْكَ اٰيٰتُ الْقُرْءَانِ وَكِتَابٍۢ مُّبِينٍ",
+    "arabic_text": "طسٓ ۚ تِلْكَ اٰيٰتُ الْقُرْءَانِ وَكِتٰبٍۢ مُّبِينٍ",
     "urdu_text": "طٰسٓ۔ یه قرآن اور روشن کتاب کی آیتیں هیں۔",
     "persian_text": "طا سین. این‌ها آیات قرآن و کتاب روشنگر است.",
     "transliteration": "Ta Seen, tilka ayatul Qur'ani wa kitabim mubeen"
@@ -41,7 +41,7 @@ ayats = [
   {
     "verse_number": 5,
     "english_text": "For them is the worst punishment, and they are losers on the Day of Judgement.",
-    "arabic_text": "اُو۟لَـٰٓئِكَ الَّذِينَ لَهُمْ سُوٓءُ الْعَذَابِ وَهُمْ فِى الْاخِرَةِ هُمُ الْاَخْسَرُونَ",
+    "arabic_text": "اُو۟لَـٰٓئِكَ الَّذِينَ لَهُمْ سُوٓءُ الْعَذَابِ وَ هُمْ فِى الْاخِرَةِ هُمُ الْاَخْسَرُونَ",
     "urdu_text": "یهی وه لوگ هیں جن کے لیے بدترین عذاب هے اور وه آخرت میں سب سے زیاده نقصان اٹھانے والے هیں۔",
     "persian_text": "اینان کسانی هستند که برایشان بدترین عذاب است و آنان در آخرت زیانکارترین‌اند.",
     "transliteration": "Ulaaa'ikal lazeena lahum sooo'ul 'azaabi wa hum fil aakhirati humul akhsaroon"
@@ -145,7 +145,7 @@ ayats = [
   {
     "verse_number": 18,
     "english_text": "When they reached the Valley of Naml, then an ant called: all the ants should get into their holes lest an army of Suleiman crush you and they do not even know.",
-    "arabic_text": "حَتَّىٰٓ اِذَآ اَتَوْاْ عَلَىٰ وَادِ النَّمْلِ قَالَتْ نَمْلَةٌۭ يٰٓاَيُّهَا النَّمْلُ ادْخُلُواْ مَسَـٰكِنَكُمْ لَا يَحْطِمَنَّكُمْ سُلَيْمَـٰنُ وَجُنُودُهُ وَهُمْ لَا يَشْعُرُونَ",
+    "arabic_text": "حَتَّىٰٓ اِذَآ اَتَوْاْ عَلَىٰ وَادِ النَّمْلِ قَالَتْ نَمْلَةٌۭ يٰٓاَيُّهَا النَّمْلُ ادْخُلُواْ مَسَـٰكِنَكُمْ لَا يَحْطِمَنَّكُمْ سُلَيْمَـٰنُ وَجُنُودُهُ وَ هُمْ لَا يَشْعُرُونَ",
     "urdu_text": "یهاں تک که جب وه چیونٹیوں کی وادی میں پهنچے تو ایک چیونٹی نے کها: اے چیونٹیو! اپنے گھروں میں داخل هو جاؤ کهیں سلیمان اور ان کا لشکر تمهیں کچل نه دے اور انهیں خبر بھی نه هو۔",
     "persian_text": "تا آنگاه که به وادی مورچگان رسیدند، مورچه‌ای گفت: ای مورچگان! به خانه‌های خود درآیید مبادا سلیمان و لشکریانش شما را بشکنند و آنها خبر نداشته باشند.",
     "transliteration": "Hatta iza ataw 'ala waadin-namli qaalat namlatun yaa ayyuhan-namlud-khuloo masaakinakum la yahtimannakum Sulaymanu wa junooduhu wa hum la yash'uroon"
@@ -297,7 +297,7 @@ ayats = [
   {
     "verse_number": 37,
     "english_text": "(Suleiman said:) Go, return, now I will come with the army which you cannot face, then I will expel you all from your town with disgrace and humiliation.",
-    "arabic_text": "ارْجِعْ اِلَيْهِمْ فَلَنَاْتِيَنَّهُم بِجُنُودٍۢ لَّا قِبَلَ لَهُم بِهَا وَلَنُخْرِجَنَّهُم مِّنْهَآ اَذِلَّةًۭ وَهُمْ صَـٰغِرُونَ",
+    "arabic_text": "ارْجِعْ اِلَيْهِمْ فَلَنَاْتِيَنَّهُم بِجُنُودٍۢ لَّا قِبَلَ لَهُم بِهَا وَلَنُخْرِجَنَّهُم مِّنْهَآ اَذِلَّةًۭ وَ هُمْ صَـٰغِرُونَ",
     "urdu_text": "واپس جاؤ ان کی طرف، هم ضرور ان کے پاس ایسے لشکر لے کر آئیں گے جن کا مقابله وه نهیں کر سکیں گے، اور هم انهیں وهاں سے ذلیل و خوار کر کے نکال دیں گے",
     "persian_text": "بازگرد به سوی آنان، پس ما با لشکری که طاقت مقابله با آن را ندارند به سویشان خواهیم آمد و آنان را خوار و ذلیل از آنجا بیرون خواهیم کرد",
     "transliteration": "Irji' ilayhim fala-na'tiyannahum bi-junūdin lā qibala lahum bihā wa lanukhrijanna-hum minhā adhillatan wa hum ṣāghirūn"
@@ -401,7 +401,7 @@ ayats = [
   {
     "verse_number": 50,
     "english_text": "Then they plotted, and We also made arrangements, and they were (totally) unaware.",
-    "arabic_text": "وَمَكَرُواْ مَكْرًا وَمَكَرْنَا مَكْرًا وَهُمْ لَا يَشْعُرُونَ",
+    "arabic_text": "وَمَكَرُواْ مَكْرًا وَمَكَرْنَا مَكْرًا وَ هُمْ لَا يَشْعُرُونَ",
     "urdu_text": "اور انهوں نے ایک چال چلی اور هم نے بھی ایک تدبیر کی اور وه بے خبر تھے۔",
     "persian_text": "و آنان نقشه‌ای کشیدند و ما نیز تدبیری کردیم و آنان نمی‌دانستند.",
     "transliteration": "Wa makaroo makranw wa makarnaa makranw wa hum laa yash'uroon"

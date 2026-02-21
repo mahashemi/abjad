@@ -281,7 +281,7 @@ ayats = [
   {
     "verse_number": 35,
     "english_text": "And from gold also, but it is the material for enjoyment of life of the world only, and the Hereafter near Allah is only for the pious people.",
-    "arabic_text": "وَزُخْرُفًۭا ۚ وَاِن كُلُّ ذٰلِكَ لَمَّا مَتَـٰعُ الْحَيَوٰةِ الدُّنْيٰۚ وَالْاخِرَةُ عِندَ رَبِّكَ لِلْمُتَّقِينَ",
+    "arabic_text": "وَزُخْرُفًۭا ۚ وَ اِن كُلُّ ذٰلِكَ لَمَّا مَتَـٰعُ الْحَيَوٰةِ الدُّنْيٰۚ وَالْاخِرَةُ عِندَ رَبِّكَ لِلْمُتَّقِينَ",
     "urdu_text": "اور سونے کی زینت بھی، لیکن یه سب کچھ صرف دنیا کی زندگی کا سامان هے، اور آخرت تیرے رب کے نزدیک پرهیزگاروں کے لیے هے۔",
     "persian_text": "و زیور طلا نیز، و همه اینها فقط متاع زندگی دنیاست، و آخرت نزد پروردگار تو برای پرهیزگاران است.",
     "transliteration": "Wa zukhrufaa, wa in kullu zaalika lammaa mataa'ul hayaatid dunyaa, wal aakhiratu 'inda rabbika lilmuttaqeen"
@@ -529,7 +529,7 @@ ayats = [
   {
     "verse_number": 66,
     "english_text": "Are they waiting only for this that the Day of Judgement comes suddenly, and they do not realize it.",
-    "arabic_text": "هَلْ يَنظُرُونَ اِلَّا السَّاعَةَ اَن تَاْتِيَهُم بَغْتَةًۭ وَهُمْ لَا يَشْعُرُونَ",
+    "arabic_text": "هَلْ يَنظُرُونَ اِلَّا السَّاعَةَ اَن تَاْتِيَهُم بَغْتَةًۭ وَ هُمْ لَا يَشْعُرُونَ",
     "urdu_text": "کیا یه صرف اس بات کا انتظار کر رهے هیں که قیامت اچانک ان پر آ جائے اور انهیں خبر بھی نه هو۔",
     "persian_text": "آیا جز این انتظار می‌کشند که قیامت ناگهان بر آنها فرا رسد در حالی که آگاه نیستند.",
     "transliteration": "Hal yanzuroona illas-sa'ata an ta'tiyahum baghtatan wa hum la yash'uroon"
@@ -601,7 +601,7 @@ ayats = [
   {
     "verse_number": 75,
     "english_text": "Punishment shall not be abated from them; they will be living in a state of despair there.",
-    "arabic_text": "لَا يُفَتَّرُ عَنْهُمْ وَهُمْ فِيهِ مُبْلِسُونَ",
+    "arabic_text": "لَا يُفَتَّرُ عَنْهُمْ وَ هُمْ فِيهِ مُبْلِسُونَ",
     "urdu_text": "ان سے عذاب هلکا نهیں کیا جائے گا اور وه اس میں مایوس رهیں گے۔",
     "persian_text": "از آنان تخفیف داده نمی‌شود و آنان در آن نومید خواهند بود.",
     "transliteration": "La yufattaru 'anhum wa hum feehi mublisoon"
@@ -689,7 +689,7 @@ ayats = [
   {
     "verse_number": 86,
     "english_text": "And besides Him whom they call, they do not even have the authority of intercession, but those who testify the truth knowingly.",
-    "arabic_text": "وَ لَا يَمْلِكُ الَّذِينَ يَدْعُونَ مِن دُونِهِ الشَّفَـٰعَةَ اِلَّا مَن شَهِدَ بِالْحَقِّ وَهُمْ يَعْلَمُونَ",
+    "arabic_text": "وَ لَا يَمْلِكُ الَّذِينَ يَدْعُونَ مِن دُونِهِ الشَّفَـٰعَةَ اِلَّا مَن شَهِدَ بِالْحَقِّ وَ هُمْ يَعْلَمُونَ",
     "urdu_text": "اور جن کو یه الله کے سوا پکارتے هیں وه شفاعت کا اختیار نهیں رکھتے، سوائے ان کے جو حق کی گواهی دیتے هیں اور وه جانتے هیں۔",
     "persian_text": "و کسانی که غیر از او می‌خوانند، مالک شفاعت نیستند، مگر کسانی که به حق گواهی دهند و آگاه باشند.",
     "transliteration": "Wa la yamlikul-ladhina yad'una min dunihish-shafa'ata illa man shahida bil-haqqi wa hum ya'lamoon"

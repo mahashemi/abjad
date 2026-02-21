@@ -194,7 +194,7 @@ ayats = [
   {
     "verse_number": 25,
     "english_text": "In what condition will they be, when on the Day of Judgement, which is certain, they will be collected and everyone will be rewarded according to their deeds and no injustice will be done to them.",
-    "arabic_text": "فَكَيْفَ اِذَا جَمَعْنٰهُمْ لِيَوْمٍۢ لَّا رَيْبَ فِيْهِ   وَوُفِّيَتْ كُلُّ نَفْسٍۢ مَّا كَسَبَتْ وَهُمْ لَا يُظْلَمُونَ",
+    "arabic_text": "فَكَيْفَ اِذَا جَمَعْنٰهُمْ لِيَوْمٍۢ لَّا رَيْبَ فِيْهِ   وَوُفِّيَتْ كُلُّ نَفْسٍۢ مَّا كَسَبَتْ وَ هُمْ لَا يُظْلَمُونَ",
     "urdu_text": "پھر ان کا کیا حال ہوگا جب ہم انہیں قیامت کے دن جمع کریں گے جس میں کوئی شک نہیں، اور ہر شخص کو اس کے اعمال کا پورا بدلہ دیا جائے گا اور ان پر کوئی ظلم نہیں کیا جائے گا۔",
     "persian_text": "پس چگونه خواهد بود حالشان هنگامی که آنها را در روز قیامت که شکی در آن نیست گرد آوریم، و به هر کسی آنچه کسب کرده است به تمامی داده شود و بر آنها ستم نخواهد شد.",
     "transliteration": "Fakayfa izaa jama'naahum liyawmil-laa rayba feehi wa wuffiyat kullu nafsim-maa kasabat wa hum laa yuZlamoon",

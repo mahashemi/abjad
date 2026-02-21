@@ -153,7 +153,7 @@ ayats = [
   {
     "verse_number": 19,
     "english_text": "So, during the night an affliction from the Lord encompassed them when they were asleep.",
-    "arabic_text": "فَطَافَ عَلَيْهَا طَآئِفٌۭ مِّن رَّبِّكَ وَهُمْ نَآئِمُونَ",
+    "arabic_text": "فَطَافَ عَلَيْهَا طَآئِفٌۭ مِّن رَّبِّكَ وَ هُمْ نَآئِمُونَ",
     "urdu_text": "پھر رات کو تیرے رب کی طرف سے ایک آفت نے اس باغ کا چکر لگایا جبکہ وہ سو رہے تھے",
     "persian_text": "پس در شب، عذابی از جانب پروردگارت بر آن باغ گذشت، در حالی که آنان خفته بودند",
     "transliteration": "Fataafa 'alaihaa taaa'ifum mir rabbika wa hum naaa'imoon"
@@ -185,7 +185,7 @@ ayats = [
   {
     "verse_number": 23,
     "english_text": "Then they all went in a way that they were conversing secretly among themselves.",
-    "arabic_text": "فَانطَلَقُواْ وَهُمْ يَتَخَـٰفَتُونَ",
+    "arabic_text": "فَانطَلَقُواْ وَ هُمْ يَتَخَـٰفَتُونَ",
     "urdu_text": "پھر وہ چل پڑے اور آپس میں آہستہ آہستہ باتیں کر رہے تھے۔",
     "persian_text": "پس روانه شدند در حالی که با یکدیگر پنهانی سخن می‌گفتند.",
     "transliteration": "Fanṭalaqū wahum yatakhāfatūn"
@@ -345,7 +345,7 @@ ayats = [
   {
     "verse_number": 43,
     "english_text": "Their eyes shall be cast down with shame, humiliation would have covered them, and at that time also they were being invited for the prostration when they were healthy and sound.",
-    "arabic_text": "خَـٰشِعَةً اَبْصَـٰرُهُمْ تَرْهَقُهُمْ ذِلَّةٌۭ ۖ وَ قَدْ كَانُواْ يُدْعَوْنَ اِلَى السُّجُودِ وَهُمْ سَـٰلِمُونَ",
+    "arabic_text": "خَـٰشِعَةً اَبْصَـٰرُهُمْ تَرْهَقُهُمْ ذِلَّةٌۭ ۖ وَ قَدْ كَانُواْ يُدْعَوْنَ اِلَى السُّجُودِ وَ هُمْ سَـٰلِمُونَ",
     "urdu_text": "ان کی نگاہیں جھکی ہوئی ہوں گی، ذلت انہیں ڈھانپ لے گی، حالانکہ انہیں سجدے کے لیے بلایا جاتا تھا جب وہ تندرست تھے۔",
     "persian_text": "چشمانشان فروتن خواهد بود و خواری آنها را فرا خواهد گرفت، در حالی که به سجده فراخوانده می‌شدند هنگامی که سالم بودند.",
     "transliteration": "Khaashi'atan absaaruhum tarhaquhum dhillah, wa qad kaanoo yud'awna ilas sujoodi wa hum saalimoon"

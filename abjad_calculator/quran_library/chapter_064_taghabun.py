@@ -113,7 +113,7 @@ ayats = [
   {
     "verse_number": 14,
     "english_text": "O you who believe! among your wives and children some of them are your enemies, therefore be careful of them, and if you forgive them and overlook them, and pardon them, then Allah is also All-Forgiving and Merciful.",
-    "arabic_text": "يٰٓاَيُّهَا الَّذِينَ ءَامَنُوٓاْ اِنَّ مِنْ اَزْوَٰجِكُمْ وَاَوْلَـٰدِكُمْ عَدُوًّۭا لَّكُمْ فَاحْذَرُوهُمْ ۚ وَاِن تَعْفُواْ وَتَصْفَحُواْ وَتَغْفِرُواْ فَاِنَّ اللّٰهَ غَفُورٌۭ رَّحِيمٌ",
+    "arabic_text": "يٰٓاَيُّهَا الَّذِينَ ءَامَنُوٓاْ اِنَّ مِنْ اَزْوَٰجِكُمْ وَاَوْلَـٰدِكُمْ عَدُوًّۭا لَّكُمْ فَاحْذَرُوهُمْ ۚ وَ اِن تَعْفُواْ وَتَصْفَحُواْ وَتَغْفِرُواْ فَاِنَّ اللّٰهَ غَفُورٌۭ رَّحِيمٌ",
     "urdu_text": "اے ایمان والو! بیشک تمهاری بیویوں اور اولاد میں سے بعض تمهارے دشمن هیں، لهٰذا ان سے هوشیار رهو، اور اگر تم معاف کر دو اور درگزر کرو اور بخش دو تو بیشک الله بخشنے والا مهربان هے۔",
     "persian_text": "ای کسانی که ایمان آورده‌اید! همانا از همسران و فرزندان شما بعضی دشمن شما هستند، پس از آنان بپرهیزید، و اگر عفو کنید و در گذرید و ببخشید، پس همانا الله آمرزنده مهربان است.",
     "transliteration": "Yaa ayyuhal-ladheena aamanoo inna min azwaajikum wa awlaadikum 'aduwwan lakum fahdhharoohum, wa in ta'foo wa tasfahoo wa taghfiroo fa-innal-laaha ghafoorur-raheem"

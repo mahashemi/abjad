@@ -121,7 +121,7 @@ ayats = [
   {
     "verse_number": 15,
     "english_text": "Believers of our verses are only those, when they are reminded of Our verses they fall down in prostration, and glorify Allah with praises and are not proud.",
-    "arabic_text": "اِنَّمَا يُؤْمِنُ بِـَٔايَـٰتِنَا الَّذِينَ اِذَا ذُكِّرُواْ بِهَا خَرُّواْ سُجَّدًۭا وَسَبَّحُواْ بِحَمْدِ رَبِّهِمْ وَهُمْ لَا يَسْتَكْبِرُونَ ۩",
+    "arabic_text": "اِنَّمَا يُؤْمِنُ بِـَٔايَـٰتِنَا الَّذِينَ اِذَا ذُكِّرُواْ بِهَا خَرُّواْ سُجَّدًۭا وَسَبَّحُواْ بِحَمْدِ رَبِّهِمْ وَ هُمْ لَا يَسْتَكْبِرُونَ ۩",
     "urdu_text": "ہماری آیات پر وہی لوگ ایمان لاتے ہیں کہ جب انہیں ان کی یاد دلائی جاتی ہے تو سجدے میں گر پڑتے ہیں اور اپنے رب کی حمد کے ساتھ تسبیح کرتے ہیں اور وہ تکبر نہیں کرتے۔",
     "persian_text": "تنها کسانی به آیات ما ایمان می‌آورند که چون به آنها یادآوری شوند، به سجده افتند و به حمد پروردگارشان تسبیح گویند و تکبر نورزند.",
     "transliteration": "Innamā yu'minu bi-āyātinal-ladhīna idhā dhukkirū bihā kharrū sujjadan wa sabbahū bi-hamdi rabbihim wa hum lā yastakbirūn"

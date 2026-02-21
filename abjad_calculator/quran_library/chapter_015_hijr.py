@@ -33,7 +33,7 @@ ayats = [
   {
     "verse_number": 4,
     "english_text": "Shortly they will know its result, we have not destroyed any town but its term appointed was already written.",
-    "arabic_text": "وَ مَآ اَهْلَكْنَا مِن قَرْيَةٍ اِلَّا وَلَهَا كِتَابٌۭ مَّعْلُومٌۭ",
+    "arabic_text": "وَ مَآ اَهْلَكْنَا مِن قَرْيَةٍ اِلَّا وَلَهَا كِتٰبٌۭ مَّعْلُومٌۭ",
     "urdu_text": "هم نے کسی بستی کو هلاک نهیں کیا مگر اس کے لیے ایک مقرره وقت لکھا هوا تھا۔",
     "persian_text": "ما هیچ شهر و آبادی را هلاک نکردیم مگر آنکه برای آن سرنوشتی معین و معلوم بود.",
     "transliteration": "Wa maaa ahlaknaa min qaryatin illaa wa lahaa kitaabum ma'loom"

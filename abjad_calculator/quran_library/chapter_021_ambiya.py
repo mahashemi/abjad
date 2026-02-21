@@ -9,7 +9,7 @@ ayats = [
   {
     "verse_number": 1,
     "english_text": "The reckoning of people came to them (at a time) and they are turning away their face in heedlessness state.",
-    "arabic_text": "اقْتَرَبَ لِلنَّاسِ حِسَابُهُمْ وَهُمْ فِى غَفْلَةٍۢ مُّعْرِضُونَ",
+    "arabic_text": "اقْتَرَبَ لِلنَّاسِ حِسَابُهُمْ وَ هُمْ فِى غَفْلَةٍۢ مُّعْرِضُونَ",
     "urdu_text": "لوگوں کا حساب قریب آ گیا ہے اور وہ غفلت میں منہ موڑے ہوئے ہیں۔",
     "persian_text": "حساب مردم نزدیک شده است و آنان در غفلت روی گردان هستند.",
     "transliteration": "Iqtaraba lin-naasi hisaabuhum wa hum fee ghaflatim mu'ridoon"
@@ -17,7 +17,7 @@ ayats = [
   {
     "verse_number": 2,
     "english_text": "When any new commandment comes from their Lord, they just listen with an ear and then make mockery of it.",
-    "arabic_text": "مَا يَاْتِيهِم مِّن ذِكْرٍۢ مِّن رَّبِّهِم مُّحْدَثٍ اِلَّا اسْتَمَعُوهُ وَهُمْ يَلْعَبُونَ",
+    "arabic_text": "مَا يَاْتِيهِم مِّن ذِكْرٍۢ مِّن رَّبِّهِم مُّحْدَثٍ اِلَّا اسْتَمَعُوهُ وَ هُمْ يَلْعَبُونَ",
     "urdu_text": "ان کے رب کی طرف سے جو بھی نئی نصیحت آتی ہے، وہ اسے سنتے ہیں اور کھیل تماشا کرتے ہیں۔",
     "persian_text": "هر پند تازه‌ای که از سوی پروردگارشان می‌آید، آن را می‌شنوند در حالی که بازی می‌کنند.",
     "transliteration": "Maa ya'teehim min dhikrim mir rabbihim muhdathin illastama'oohu wa hum yal'aboon"
@@ -185,7 +185,7 @@ ayats = [
   {
     "verse_number": 23,
     "english_text": "He cannot be questioned about whatever he does, but people will be questioned.",
-    "arabic_text": "لَا يُسْـَٔلُ عَمَّا يَفْعَلُ وَهُمْ يُسْـَٔلُونَ",
+    "arabic_text": "لَا يُسْـَٔلُ عَمَّا يَفْعَلُ وَ هُمْ يُسْـَٔلُونَ",
     "urdu_text": "اللہ سے اس کے کاموں کے بارے میں سوال نہیں کیا جا سکتا، لیکن لوگوں سے سوال کیا جائے گا۔",
     "persian_text": "او از آنچه انجام می‌دهد بازخواست نمی‌شود، اما آنها بازخواست خواهند شد.",
     "transliteration": "Laa yus'alu 'ammaa yaf'alu wa hum yus'aloon"
@@ -257,7 +257,7 @@ ayats = [
   {
     "verse_number": 32,
     "english_text": "And We made the sky their roof which is secure from all sides, and these people are turning their face away on the sky signs.",
-    "arabic_text": "وَجَعَلْنَا السَّمَآءَ سَقْفًۭا مَّحْفُوظًۭا ۖ وَهُمْ عَنْ اٰيٰتِهَا مُعْرِضُونَ",
+    "arabic_text": "وَجَعَلْنَا السَّمَآءَ سَقْفًۭا مَّحْفُوظًۭا ۖ وَ هُمْ عَنْ اٰيٰتِهَا مُعْرِضُونَ",
     "urdu_text": "اور ہم نے آسمان کو ایک محفوظ چھت بنایا، اور یہ لوگ اس کی نشانیوں سے منہ موڑتے ہیں۔",
     "persian_text": "و آسمان را سقفی محفوظ قرار دادیم، و آنها از نشانه‌های آن روی گردان هستند.",
     "transliteration": "Wa ja'alnas-samaa'a saqfam mahfuzan wa hum 'an ayatiha mu'ridun"
@@ -377,7 +377,7 @@ ayats = [
   {
     "verse_number": 47,
     "english_text": "And on the Day of Judgement (to measure the good and the bad deeds of Our servants) we will establish Scale of the Justice, then no unjust will be done to anybody; and if anybody would have done anything (whether good or bad) even as a weight of mustard seed, we shall bring it forth, and We are sufficient to take account.",
-    "arabic_text": "وَنَضَعُ الْمَوَٰزِينَ الْقِسْطَ لِيَوْمِ الْقِيَـٰمَةِ فَلَا تُظْلَمُ نَفْسٌۭ شَيْـًۭٔا ۖ وَاِن كَانَ مِثْقَالَ حَبَّةٍۢ مِّنْ خَرْدَلٍ اَتَيْنَا بِهَا ۗ وَكَفَىٰ بِنَا حَـٰسِبِينَ",
+    "arabic_text": "وَنَضَعُ الْمَوَٰزِينَ الْقِسْطَ لِيَوْمِ الْقِيَـٰمَةِ فَلَا تُظْلَمُ نَفْسٌۭ شَيْـًۭٔا ۖ وَ اِن كَانَ مِثْقَالَ حَبَّةٍۢ مِّنْ خَرْدَلٍ اَتَيْنَا بِهَا ۗ وَكَفَىٰ بِنَا حَـٰسِبِينَ",
     "urdu_text": "اور ہم قیامت کے دن انصاف کی ترازو رکھ دیں گے، پھر کسی پر ذرا بھی ظلم نہیں ہوگا، اور اگر کوئی عمل رائی کے دانے کے برابر بھی ہوگا تو ہم اسے لے آئیں گے، اور ہم حساب لینے کے لیے کافی ہیں۔",
     "persian_text": "و ترازوهای عدل را برای روز قیامت می‌نهیم، پس به هیچ کس ستمی نخواهد شد، و اگر به وزن دانه‌ای از خردل باشد آن را خواهیم آورد، و ما برای حساب کافی هستیم.",
     "transliteration": "Wa nada'ul mawazinal qista liyawmil qiyamati fala tuzlamu nafsun shay'an wa in kana mithqala habbatin min khardalin atayna biha wa kafa bina hasibin"
@@ -801,7 +801,7 @@ ayats = [
   {
     "verse_number": 100,
     "english_text": "They will shout and groan in Hell, and in the commotion, they shall not hear anything.",
-    "arabic_text": "لَهُمْ فِيهَا زَفِيرٌۭ وَهُمْ فِيهَا لَا يَسْمَعُونَ",
+    "arabic_text": "لَهُمْ فِيهَا زَفِيرٌۭ وَ هُمْ فِيهَا لَا يَسْمَعُونَ",
     "urdu_text": "ان کے لیے اس میں چیخ و پکار ہوگی اور وہ اس شور و غل میں کچھ نہیں سن سکیں گے۔",
     "persian_text": "برای آنان در آن ناله و فریاد است و آنان در آن هیچ نمی‌شنوند.",
     "transliteration": "Lahum fīhā zafīrun wa hum fīhā lā yasma'ūn"
@@ -817,7 +817,7 @@ ayats = [
   {
     "verse_number": 102,
     "english_text": "They will not hear even the slightest sound of it, and they will forever live in desires of their choice.",
-    "arabic_text": "لَا يَسْمَعُونَ حَسِيسَهَا ۖ وَهُمْ فِى مَا اشْتَهَتْ اَنفُسُهُمْ خَـٰلِدُونَ",
+    "arabic_text": "لَا يَسْمَعُونَ حَسِيسَهَا ۖ وَ هُمْ فِى مَا اشْتَهَتْ اَنفُسُهُمْ خَـٰلِدُونَ",
     "urdu_text": "وہ اس کی ذرا سی آواز بھی نہیں سنیں گے، اور وہ اپنی خواہشات میں ہمیشہ رہیں گے۔",
     "persian_text": "آنان حتی کوچکترین صدای آن را نخواهند شنید و در آنچه دلشان می‌خواهد جاودانه خواهند بود.",
     "transliteration": "Lā yasma'ūna ḥasīsahā wa hum fī mā ishtahat anfusuhum khālidūn"

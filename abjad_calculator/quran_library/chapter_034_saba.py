@@ -297,7 +297,7 @@ ayats = [
   {
     "verse_number": 37,
     "english_text": "There is nothing in your wealth and children which can bring you near in My Presence, except that they believe and did good work, so for them is double the reward for their deeds, and they will be sitting in the high places with peace.",
-    "arabic_text": "وَ مَآ اَمْوَٰلُكُمْ وَ لَآ اَوْلَـٰدُكُم بِالَّتِى تُقَرِّبُكُمْ عِندَنَا زُلْفَىٰٓ اِلَّا مَنْ ءَامَنَ وَعَمِلَ صَـٰلِحًۭا فَاُو۟لَـٰٓئِكَ لَهُمْ جَزَآءُ الضِّعْفِ بِمَا عَمِلُواْ وَهُمْ فِى الْغُرُفَـٰتِ ءَامِنُونَ",
+    "arabic_text": "وَ مَآ اَمْوَٰلُكُمْ وَ لَآ اَوْلَـٰدُكُم بِالَّتِى تُقَرِّبُكُمْ عِندَنَا زُلْفَىٰٓ اِلَّا مَنْ ءَامَنَ وَعَمِلَ صَـٰلِحًۭا فَاُو۟لَـٰٓئِكَ لَهُمْ جَزَآءُ الضِّعْفِ بِمَا عَمِلُواْ وَ هُمْ فِى الْغُرُفَـٰتِ ءَامِنُونَ",
     "urdu_text": "اور نه تمهارے مال اور نه تمهاری اولاد ایسی چیز هے جو تمهیں همارے قریب کر سکے، سوائے اس کے جو ایمان لائے اور نیک عمل کیے، تو ان کے لیے ان کے اعمال کا دوگنا بدله هے اور وه بلند محلوں میں امن سے رهیں گے۔",
     "persian_text": "و نه اموال شما و نه فرزندان شما چیزی نیست که شما را نزد ما به قربت برساند، مگر کسی که ایمان آورد و عمل صالح کرد، پس آنان را پاداش دوچندان اعمالشان است و آنان در اتاق‌های بلند در امان خواهند بود.",
     "transliteration": "Wa maaa amwaalukum wa laaa awlaadukum billatee tuqarribukum 'indanaa zulfaaa illaa man aamana wa 'amila saalihan fa-ulaaa'ika lahum jazaaa'ud-di'fi bimaa 'amiloo wa hum fil-ghuruafaati aaminoon"

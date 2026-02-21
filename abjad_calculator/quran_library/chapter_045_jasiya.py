@@ -177,7 +177,7 @@ ayats = [
   {
     "verse_number": 22,
     "english_text": "And Allah created the sky and the earth with the Truth, and also because every soul can be recompensed for his deeds, and no unjust shall be done on anyone.",
-    "arabic_text": "وَخَلَقَ اللّٰهُ السَّمَـٰوَٰتِ وَالْاَرْضَ بِالْحَقِّ وَلِتُجْزَىٰ كُلُّ نَفْسٍۭ بِمَا كَسَبَتْ وَهُمْ لَا يُظْلَمُونَ",
+    "arabic_text": "وَخَلَقَ اللّٰهُ السَّمَـٰوَٰتِ وَالْاَرْضَ بِالْحَقِّ وَلِتُجْزَىٰ كُلُّ نَفْسٍۭ بِمَا كَسَبَتْ وَ هُمْ لَا يُظْلَمُونَ",
     "urdu_text": "اور الله نے آسمانوں اور زمین کو حق کے ساتھ پیدا کیا، اور اس لیے بھی که هر شخص کو اس کے اعمال کا بدله دیا جائے، اور کسی پر ظلم نهیں کیا جائے گا۔",
     "persian_text": "و خداوند آسمان‌ها و زمین را به حق آفرید، و تا هر کسی به آنچه انجام داده است پاداش داده شود، و به آنها ستم نخواهد شد.",
     "transliteration": "Wa khalaqa Allāhu as-samāwāti wa al-arḍa bi-al-ḥaqqi wa li-tujzā kullu nafsin bi-mā kasabat wa hum lā yuẓlamūn"

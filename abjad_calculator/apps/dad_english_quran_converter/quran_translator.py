@@ -155,7 +155,7 @@ EXAMPLE OUTPUT FORMAT:
 [
   {
     "verse_number": 1,
-    "arabic_text": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+    "arabic_text": "بِسْمِ اللّٰهِ الرَّحْمَٰنِ الرَّحِيمِ",
     "english_text": "In the name of Allah, the Most Gracious, the Most Merciful",
     "urdu_text": "اللہ کے نام سے جو بڑا مہربان نہایت رحم والا ہے",
     "persian_text": "به نام خداوند بخشنده مهربان",

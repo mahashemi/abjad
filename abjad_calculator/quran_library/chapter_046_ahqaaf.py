@@ -41,7 +41,7 @@ ayats = [
   {
     "verse_number": 5,
     "english_text": "Who can be more misguided who call upon others besides Allah who cannot reply to their calls (even) till the Day of Judgement, and they are oblivious of the sound of their calls.",
-    "arabic_text": "وَ مَنْ اَضَلُّ مِمَّن يَدْعُواْ مِن دُونِ اللّٰهِ مَن لَّا يَسْتَجِيبُ لَهُٓ اِلـٰى يَوْمِ الْقِيَـٰمَةِ وَهُمْ عَن دُعَآئِهِمْ غَـٰفِلُونَ",
+    "arabic_text": "وَ مَنْ اَضَلُّ مِمَّن يَدْعُواْ مِن دُونِ اللّٰهِ مَن لَّا يَسْتَجِيبُ لَهُٓ اِلـٰى يَوْمِ الْقِيَـٰمَةِ وَ هُمْ عَن دُعَآئِهِمْ غَـٰفِلُونَ",
     "urdu_text": "اور اس سے بڑھ کر گمراہ کون ہو گا جو اللہ کے سوا ان کو پکارے جو قیامت کے دن تک ان کی دعا کا جواب نہیں دے سکتے، اور وہ ان کی پکار سے بے خبر ہیں۔",
     "persian_text": "و چه کسی گمراه‌تر است از آن که غیر از خدا کسی را بخواند که تا روز قیامت پاسخش را نمی‌دهد و آنها از دعای ایشان غافل هستند.",
     "transliteration": "Wa man adallu mimman yad'oo min doonil-laahi mal-laa yastajeebo lahoo ilaa Yawmil-Qiyaamati wa hum 'an du'aaa'ihim ghaafiloon"
@@ -153,7 +153,7 @@ ayats = [
   {
     "verse_number": 19,
     "english_text": "For everyone there will be ranks according to their deeds and that Allah will recompense completely for their deeds, and not any kind of unjust will be done on them.",
-    "arabic_text": "وَلِكُلٍّۢ دَرَجَـٰتٌۭ مِّمَّا عَمِلُواْ ۖ وَلِيُوَفِّيَهُمْ اَعْمَـٰلَهُمْ وَهُمْ لَا يُظْلَمُونَ",
+    "arabic_text": "وَلِكُلٍّۢ دَرَجَـٰتٌۭ مِّمَّا عَمِلُواْ ۖ وَلِيُوَفِّيَهُمْ اَعْمَـٰلَهُمْ وَ هُمْ لَا يُظْلَمُونَ",
     "urdu_text": "اور ہر ایک کے لیے ان کے اعمال کے مطابق درجات ہیں، اور اللہ ان کے اعمال کا پورا بدلہ دے گا، اور ان پر کسی قسم کی ظلم نہیں کیا جائے گا۔",
     "persian_text": "و برای هر کس درجاتی است بر اساس اعمالشان، و خداوند اعمالشان را به طور کامل جزا می‌دهد، و بر آنان ستم نخواهد شد.",
     "transliteration": "Wa likullin darajaatum-mimmaa 'amiloo wa liyuwaffiyahum a'maalahum wa hum laa yuzlamoon"

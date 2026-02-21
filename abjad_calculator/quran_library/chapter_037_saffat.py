@@ -1201,7 +1201,7 @@ ayats = [
   {
     "verse_number": 150,
     "english_text": "Or We have created angels as girls and are they witness to it?",
-    "arabic_text": "اَمْ خَلَقْنَا الْمَلَـٰٓئِكَةَ اِنَـٰثًۭا وَهُمْ شَـٰهِدُونَ",
+    "arabic_text": "اَمْ خَلَقْنَا الْمَلَـٰٓئِكَةَ اِنَـٰثًۭا وَ هُمْ شَـٰهِدُونَ",
     "urdu_text": "یا هم نے فرشتوں کو عورتیں بنایا اور وه اس پر گواه تھے؟",
     "persian_text": "یا ما فرشتگان را مؤنث آفریدیم و آنان شاهد بودند؟",
     "transliteration": "Am khalaqnal-malaaa'ikata inaathan wa hum shaahidoon"

@@ -385,7 +385,7 @@ ayats = [
   {
     "verse_number": 48,
     "english_text": "Now, if they object, We have not sent you as their guardians, your mission was just to reach the message to them, that's it, and when We taste Our Mercy to humans they show arrogance, and when any evil reaches them because of their deeds, then he becomes very ungrateful.",
-    "arabic_text": "فَاِنْ اَعْرَضُواْ فَمَآ اَرْسَلْنَـٰكَ عَلَيْهِمْ حَفِيظًا ۖ اِنْ عَلَيْكَ اِلَّا الْبَلَـٰغُ ۗ وَاِنَّآ اِذَآ اَذَقْنَا الْاِنسَـٰنَ مِنَّا رَحْمَةًۭ فَرِحَ بِهَا ۖ وَاِن تُصِبْهُمْ سَيِّئَةٌۢ بِمَا قَدَّمَتْ اَيْدِيهِمْ فَاِنَّ الْاِنسَـٰنَ كَفُورٌۭ",
+    "arabic_text": "فَاِنْ اَعْرَضُواْ فَمَآ اَرْسَلْنَـٰكَ عَلَيْهِمْ حَفِيظًا ۖ اِنْ عَلَيْكَ اِلَّا الْبَلَـٰغُ ۗ وَاِنَّآ اِذَآ اَذَقْنَا الْاِنسَـٰنَ مِنَّا رَحْمَةًۭ فَرِحَ بِهَا ۖ وَ اِن تُصِبْهُمْ سَيِّئَةٌۢ بِمَا قَدَّمَتْ اَيْدِيهِمْ فَاِنَّ الْاِنسَـٰنَ كَفُورٌۭ",
     "urdu_text": "پھر اگر وه منه موڑیں تو هم نے تمهیں ان پر نگهبان بنا کر نهیں بھیجا، تم پر صرف پیغام پهنچانا هے، اور جب هم انسان کو اپنی رحمت چکھاتے هیں تو وه اس سے خوش هو جاتا هے، اور اگر ان کے اپنے هاتھوں کی کمائی کی وجه سے انهیں کوئی مصیبت پهنچے تو انسان بڑا ناشکرا هے۔",
     "persian_text": "پس اگر روی گردانند، ما تو را نگهبان آنان نفرستاده‌ایم، بر تو جز ابلاغ نیست، و همانا چون به انسان از رحمت خود بچشانیم، بدان شاد می‌شود، و اگر بدی به آنان برسد به سبب آنچه دستهایشان پیش فرستاده، پس انسان بسیار ناسپاس است.",
     "transliteration": "Fa-in a'radoo famaa arsalnaaka 'alayhim hafeezaa, in 'alayka illal-balaagh, wa innaaa izaaa azaqnal-insaana minnaa rahmatanf-fariha bihaa, wa in tusibhum sayyi'atum-bimaa qaddamat aydeehim fa-innal-insaana kafoor"

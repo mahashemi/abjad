@@ -289,7 +289,7 @@ ayats = [
   {
     "verse_number": 36,
     "english_text": "When We make them taste Our Mercy, they become happy, and when any harm afflicts them due to their previous deeds, they are disappointed.",
-    "arabic_text": "وَاِذَآ اَذَقْنَا النَّاسَ رَحْمَةًۭ فَرِحُواْ بِهَا ۖ وَاِن تُصِبْهُمْ سَيِّئَةٌۢ بِمَا قَدَّمَتْ اَيْدِيهِمْ اِذَا هُمْ يَقْنَطُونَ",
+    "arabic_text": "وَاِذَآ اَذَقْنَا النَّاسَ رَحْمَةًۭ فَرِحُواْ بِهَا ۖ وَ اِن تُصِبْهُمْ سَيِّئَةٌۢ بِمَا قَدَّمَتْ اَيْدِيهِمْ اِذَا هُمْ يَقْنَطُونَ",
     "urdu_text": "اور جب هم لوگوں کو اپنی رحمت کا مزه چکھاتے هیں تو وه اس سے خوش هو جاتے هیں، اور اگر ان کے اپنے هاتھوں کے کیے کی وجه سے انهیں کوئی مصیبت پهنچے تو وه مایوس هو جاتے هیں۔",
     "persian_text": "و هنگامی که رحمتی به مردم بچشانیم، بدان شادمان می‌شوند، و اگر به سبب آنچه دستهایشان پیش فرستاده بدی به آنان برسد، ناگهان نومید می‌گردند.",
     "transliteration": "Wa izaa azaqnan-naasa rahmatan farihoo bihaa wa in tusibhum sayyi'atun bimaa qaddamat aydeehim izaa hum yaqnatoon"

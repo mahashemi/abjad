@@ -161,7 +161,7 @@ ayats = [
   {
     "verse_number": 20,
     "english_text": "And those who call others for their needs, leaving Allah, they cannot create anything.",
-    "arabic_text": "وَ الَّذِينَ يَدْعُونَ مِن دُونِ اللّٰهِ لَا يَخْلُقُونَ شَيْـًۭٔا وَهُمْ يُخْلَقُونَ",
+    "arabic_text": "وَ الَّذِينَ يَدْعُونَ مِن دُونِ اللّٰهِ لَا يَخْلُقُونَ شَيْـًۭٔا وَ هُمْ يُخْلَقُونَ",
     "urdu_text": "اور جن کو لوگ اللہ کے سوا پکارتے ہیں، وہ کوئی چیز پیدا نہیں کر سکتے، بلکہ وہ خود پیدا کیے گئے ہیں۔",
     "persian_text": "و کسانی که غیر از خدا می‌خوانند، هیچ چیز نمی‌آفرینند و خود آفریده شده‌اند.",
     "transliteration": "Walladheena yad'oona min doonil-laahi laa yakhluqoona shay'anw-wa hum yukhlaqoon"
@@ -385,7 +385,7 @@ ayats = [
   {
     "verse_number": 48,
     "english_text": "Did they see something among the creations of Allah, whose shadow sometimes turns left and sometimes turns right as if they fell in prostration before Allah and they are expressing their obedience towards Him.",
-    "arabic_text": "اَوَلَمْ يَرَوْاْ اِلـٰى مَا خَلَقَ اللّٰهُ مِن شَىْءٍۢ يَتَفَيَّؤُاْ ظِلَـٰلُهُ عَنِ الْيَمِينِ وَالشَّمَآئِلِ سُجَّدًۭا لِّلَّهِ وَهُمْ دَٰخِرُونَ",
+    "arabic_text": "اَوَلَمْ يَرَوْاْ اِلـٰى مَا خَلَقَ اللّٰهُ مِن شَىْءٍۢ يَتَفَيَّؤُاْ ظِلَـٰلُهُ عَنِ الْيَمِينِ وَالشَّمَآئِلِ سُجَّدًۭا لِّلَّهِ وَ هُمْ دَٰخِرُونَ",
     "urdu_text": "کیا انہوں نے اللہ کی مخلوقات میں سے کسی چیز کو نہیں دیکھا کہ اس کا سایہ کبھی دائیں اور کبھی بائیں جھکتا ہے، گویا وہ اللہ کے سامنے سجدہ ریز ہیں اور وہ عاجزی کرنے والے ہیں۔",
     "persian_text": "آیا ندیدند به آنچه خدا از چیزی آفریده که سایه‌هایش از راست و چپ متمایل می‌شود، در حالی که برای خدا سجده می‌کنند و آنان فروتنند؟",
     "transliteration": "Awalam yaraw ilaa maa khalaqal-laahu min shay'iny yatafayya'u zilaaluhu 'anil-yameeni wash-shamaa'ili sujjadal-lillaahi wa hum daakhiroon"
@@ -393,7 +393,7 @@ ayats = [
   {
     "verse_number": 49,
     "english_text": "Whatever is in the skies and on the earth and all the animals on the earth, all of them are prostrating before Allah, and angels (are already doing), and they do not transgress from the command of Allah.",
-    "arabic_text": "وَلِلَّهِ يَسْجُدُ مَا فِى السَّمَـٰوَٰتِ وَ مَا فِى الْاَرْضِ مِن دَآبَّةٍۢ وَالْمَلَـٰٓئِكَةُ وَهُمْ لَا يَسْتَكْبِرُونَ",
+    "arabic_text": "وَلِلَّهِ يَسْجُدُ مَا فِى السَّمَـٰوَٰتِ وَ مَا فِى الْاَرْضِ مِن دَآبَّةٍۢ وَالْمَلَـٰٓئِكَةُ وَ هُمْ لَا يَسْتَكْبِرُونَ",
     "urdu_text": "اور اللہ کے لیے سجدہ کرتا ہے جو کچھ آسمانوں میں ہے اور جو کچھ زمین میں ہے، ہر چلنے پھرنے والی مخلوق اور فرشتے بھی، اور وہ تکبر نہیں کرتے۔",
     "persian_text": "و برای خدا سجده می‌کند آنچه در آسمان‌ها و آنچه در زمین است از جنبندگان و فرشتگان، و آنان تکبر نمی‌ورزند.",
     "transliteration": "Wa lillaahi yasjudu maa fis-samaawaati wa maa fil-ardi min daaabbatiw-wal-malaa'ikatu wa hum laa yastakbiroon"
@@ -889,7 +889,7 @@ ayats = [
   {
     "verse_number": 111,
     "english_text": "And on that day when every mortal will be quarrelling for himself, and every person will get full reward for whatever he has done, and no unjust will be done to them.",
-    "arabic_text": "۞ يَوْمَ تَاْتِى كُلُّ نَفْسٍۢ تُجَـٰدِلُ عَن نَّفْسِهَا وَتُوَفَّىٰ كُلُّ نَفْسٍۢ مَّا عَمِلَتْ وَهُمْ لَا يُظْلَمُونَ",
+    "arabic_text": "۞ يَوْمَ تَاْتِى كُلُّ نَفْسٍۢ تُجَـٰدِلُ عَن نَّفْسِهَا وَتُوَفَّىٰ كُلُّ نَفْسٍۢ مَّا عَمِلَتْ وَ هُمْ لَا يُظْلَمُونَ",
     "urdu_text": "اور اُس دن جب ہر شخص اپنے بارے میں بحث کرے گا، اور ہر شخص کو اُس کے اعمال کا پورا بدلہ دیا جائے گا، اور اُن پر کوئی ظلم نہیں کیا جائے گا۔",
     "persian_text": "و در آن روز که هر کسی برای خود بحث می‌کند، و به هر کسی پاداش کامل اعمالش داده می‌شود، و به آنها ستم نخواهد شد.",
     "transliteration": "Yawma ta'tee kullu nafsin tujaadilu 'an nafsihaa wa tuwaffaa kullu nafsin maa 'amilat wa hum laa yuzlamoon"
@@ -905,7 +905,7 @@ ayats = [
   {
     "verse_number": 113,
     "english_text": "And a prophet came from among them, and they denied him, then punishment (of Allah) overtook them, and they were unjust.",
-    "arabic_text": "وَ لَقَدْ جَآءَهُمْ رَسُولٌۭ مِّنْهُمْ فَكَذَّبُوهُ فَاَخَذَهُمُ الْعَذَابُ وَهُمْ ظَـٰلِمُونَ",
+    "arabic_text": "وَ لَقَدْ جَآءَهُمْ رَسُولٌۭ مِّنْهُمْ فَكَذَّبُوهُ فَاَخَذَهُمُ الْعَذَابُ وَ هُمْ ظَـٰلِمُونَ",
     "urdu_text": "اور اُن کے پاس اُنہی میں سے ایک رسول آیا، تو اُنہوں نے اُسے جھٹلایا، پھر اُنہیں عذاب نے آ لیا، اور وہ ظالم تھے۔",
     "persian_text": "و به راستی پیامبری از خودشان به سویشان آمد، پس او را تکذیب کردند، آنگاه عذاب آنها را فرا گرفت، و آنها ستمگر بودند.",
     "transliteration": "Wa laqad jaa'ahum rasoolun minhum fakadhdhaboohu fa-akhazahumu al-'azaabu wa hum zaalimoon"

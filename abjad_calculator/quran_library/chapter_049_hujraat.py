@@ -113,7 +113,7 @@ ayats = [
   {
     "verse_number": 14,
     "english_text": "These Arabs of desert say we believe, so you say to them: you have not believed but say you just accepted Islam, and faith has not entered into your hearts yet, and if you will obey Allah and His Prophet then He would not lessen your deeds, and He is very Forgiving and Merciful.",
-    "arabic_text": "۞ قَالَتِ الْاَعْرَابُ ءَامَنَّا ۖ قُل لَّمْ تُؤْمِنُواْ وَلَـٰكِن قُولُوٓاْ اَسْلَمْنَا وَلَمَّا يَدْخُلِ الْاِيمَـٰنُ فِى قُلُوبِكُمْ ۖ وَاِن تُطِيعُواْ اللّٰهَ وَرَسُولَهُ لَا يَلِتْكُم مِّنْ اَعْمَـٰلِكُمْ شَيْـًٔا ۚ اِنَّ اللّٰهَ غَفُورٌۭ رَّحِيمٌ",
+    "arabic_text": "۞ قَالَتِ الْاَعْرَابُ ءَامَنَّا ۖ قُل لَّمْ تُؤْمِنُواْ وَلَـٰكِن قُولُوٓاْ اَسْلَمْنَا وَلَمَّا يَدْخُلِ الْاِيمَـٰنُ فِى قُلُوبِكُمْ ۖ وَ اِن تُطِيعُواْ اللّٰهَ وَرَسُولَهُ لَا يَلِتْكُم مِّنْ اَعْمَـٰلِكُمْ شَيْـًٔا ۚ اِنَّ اللّٰهَ غَفُورٌۭ رَّحِيمٌ",
     "urdu_text": "دیہاتی عرب کہتے ہیں کہ ہم ایمان لائے، آپ کہہ دیجیے کہ تم ایمان نہیں لائے بلکہ یہ کہو کہ ہم اسلام لائے ہیں، اور ابھی ایمان تمہارے دلوں میں داخل نہیں ہوا، اور اگر تم اللہ اور اس کے رسول کی اطاعت کرو گے تو وہ تمہارے اعمال میں سے کچھ کم نہیں کرے گا، بیشک اللہ بخشنے والا اور مہربان ہے۔",
     "persian_text": "اعراب بیابان‌نشین گفتند ما ایمان آوردیم، بگو شما ایمان نیاورده‌اید بلکه بگویید اسلام آورده‌ایم، و هنوز ایمان به دل‌های شما وارد نشده است، و اگر از خدا و پیامبرش اطاعت کنید، چیزی از اعمال شما کم نخواهد کرد، همانا خداوند آمرزنده و مهربان است.",
     "transliteration": "Qālati al-a'rābu āmannā qul lam tu'minū wa lākin qūlū aslamna wa lammā yadkhuli al-īmānu fī qulūbikum wa in tuṭī'ū Allāha wa rasūlahu lā yalitkum min a'mālikum shay'an inna Allāha ghafūrun raḥīm"

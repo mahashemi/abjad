@@ -393,7 +393,7 @@ ayats = [
   {
     "verse_number": 49,
     "english_text": "In fact they are just waiting for a mighty blast which will seize them; and they will be quarrelling among themselves.",
-    "arabic_text": "مَا يَنظُرُونَ اِلَّا صَيْحَةًۭ وَٰحِدَةًۭ تَاْخُذُهُمْ وَهُمْ يَخِصِّمُونَ",
+    "arabic_text": "مَا يَنظُرُونَ اِلَّا صَيْحَةًۭ وَٰحِدَةًۭ تَاْخُذُهُمْ وَ هُمْ يَخِصِّمُونَ",
     "urdu_text": "وہ تو بس ایک زور کی چیخ کے منتظر ہیں جو انہیں پکڑ لے گی جبکہ وہ آپس میں جھگڑ رہے ہوں گے",
     "persian_text": "آنان جز یک صیحه واحد انتظار نمی‌کشند که آنها را فرا می‌گیرد در حالی که با هم نزاع می‌کنند",
     "transliteration": "Maa yanthuroona illaa sayhataw waahidatan ta'khudhuhum wa hum yakhissimoon"
@@ -601,7 +601,7 @@ ayats = [
   {
     "verse_number": 75,
     "english_text": "However, they do not have the power to help them, and they are such an army that they themselves will also be presented before the Lord.",
-    "arabic_text": "لَا يَسْتَطِيعُونَ نَصْرَهُمْ وَهُمْ لَهُمْ جُندٌۭ مُّحْضَرُونَ",
+    "arabic_text": "لَا يَسْتَطِيعُونَ نَصْرَهُمْ وَ هُمْ لَهُمْ جُندٌۭ مُّحْضَرُونَ",
     "urdu_text": "حالانکہ وہ ان کی مدد کرنے کی طاقت نہیں رکھتے، اور وہ خود ان کے لیے ایک لشکر ہیں جو حاضر کیے جائیں گے۔",
     "persian_text": "آنها توانایی یاری آنان را ندارند، و خود آنها لشکری هستند که حاضر خواهند شد.",
     "transliteration": "La yastatee'oona nasrahum wa hum lahum jundum muhdaroon"

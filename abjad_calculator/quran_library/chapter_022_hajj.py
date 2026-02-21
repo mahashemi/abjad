@@ -585,7 +585,7 @@ ayats = [
   {
     "verse_number": 73,
     "english_text": "O People! When an example is described so listen to it attentively, to whom you call besides Allah, even if they come all together, they cannot create even a fly, and if a fly snatches something from them, they cannot even rescue it (what a fun) seeker and the giver both are weak.",
-    "arabic_text": "يٰٓاَيُّهَا النَّاسُ ضُرِبَ مَثَلٌۭ فَاسْتَمِعُواْ لَهُٓ ۚ اِنَّ الَّذِينَ تَدْعُونَ مِن دُونِ اللّٰهِ لَن يَخْلُقُواْ ذُبَابًا وَلَوِ اجْتَمَعُواْ لَهُ ۖ وَاِن يَسْلُبْهُمُ الذُّبَابُ شَيْـًۭٔا لَّا يَسْتَنقِذُوهُ مِنْهُ ۚ ضَعُفَ الطَّالِبُ وَالْمَطْلُوبُ",
+    "arabic_text": "يٰٓاَيُّهَا النَّاسُ ضُرِبَ مَثَلٌۭ فَاسْتَمِعُواْ لَهُٓ ۚ اِنَّ الَّذِينَ تَدْعُونَ مِن دُونِ اللّٰهِ لَن يَخْلُقُواْ ذُبَابًا وَلَوِ اجْتَمَعُواْ لَهُ ۖ وَ اِن يَسْلُبْهُمُ الذُّبَابُ شَيْـًۭٔا لَّا يَسْتَنقِذُوهُ مِنْهُ ۚ ضَعُفَ الطَّالِبُ وَالْمَطْلُوبُ",
     "urdu_text": "اے لوگو! ایک مثال بیان کی جاتی هے تو اسے غور سے سنو، جن کو تم الله کے سوا پکارتے هو، اگر وه سب مل کر بھی کوشش کریں تو ایک مکھی بھی پیدا نهیں کر سکتے، اور اگر مکھی ان سے کوئی چیز چھین لے تو وه اسے واپس بھی نهیں لے سکتے۔ طالب اور مطلوب دونوں کمزور هیں۔",
     "persian_text": "ای مردم! مثالی زده می‌شود پس به آن گوش فرا دهید، کسانی که غیر از خدا می‌خوانید اگر همه با هم جمع شوند نمی‌توانند حتی یک مگس بیافرینند، و اگر مگس چیزی از آنها بگیرد نمی‌توانند آن را از او باز ستانند. هم طالب و هم مطلوب ضعیف هستند.",
     "transliteration": "Ya ayyuhan-nasu duriba mathalun fastami'oo lah, innal-ladheena tad'oona min doonillahi lan yakhluqoo dhubaban wa lawij-tama'oo lah, wa in yaslubhumudh-dhubabu shay'an la yastanqidhoohu minh, da'ufat-talibu wal-matloob"

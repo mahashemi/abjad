@@ -106,7 +106,7 @@ ayats = [
   {
     "verse_number": 14,
     "english_text": "Didn't you see those people who befriended the nation on whom Allah has sent punishment, they are neither from you nor from them, and they swear falsely and they are themselves aware of their own falsehood.",
-    "arabic_text": "اَلَمْ تَرَ اِلَى الَّذِينَ تَوَلَّوْاْ قَوْمًا غَضِبَ اللّٰهُ عَلَيْهِم مَّا هُم مِّنكُمْ وَ لَا مِنْهُمْ وَيَحْلِفُونَ عَلَى الْكَذِبِ وَهُمْ يَعْلَمُونَ",
+    "arabic_text": "اَلَمْ تَرَ اِلَى الَّذِينَ تَوَلَّوْاْ قَوْمًا غَضِبَ اللّٰهُ عَلَيْهِم مَّا هُم مِّنكُمْ وَ لَا مِنْهُمْ وَيَحْلِفُونَ عَلَى الْكَذِبِ وَ هُمْ يَعْلَمُونَ",
     "urdu_text": "کیا تم نے ان لوگوں کو نہیں دیکھا جنہوں نے ان لوگوں سے دوستی کر لی جن پر اللہ کا غضب ہوا؟ وہ نہ تم میں سے ہیں اور نہ ان میں سے، اور وہ جھوٹ پر قسمیں کھاتے ہیں حالانکہ وہ خود جانتے ہیں۔",
     "persian_text": "آیا ندیدی کسانی را که با قومی که خدا بر آنان خشم گرفته دوستی کردند؟ نه از شما هستند و نه از آنان، و بر دروغ سوگند یاد می‌کنند در حالی که خود می‌دانند.",
     "transliteration": "Alam tara ilal-ladhina tawallaw qawman ghadhiballahu 'alayhim ma hum minkum wa la minhum wa yahlifuna 'alal-kadhibi wa hum ya'lamun",

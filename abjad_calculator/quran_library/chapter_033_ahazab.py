@@ -161,7 +161,7 @@ ayats = [
   {
     "verse_number": 20,
     "english_text": "They are still thinking that the coalition forces of infidels have not gone away, and if the army come again, they will think, wish, they would have settled in the desert with villagers, and would get your news from there; and even if they were with you, yet they would have come to fight alongside you only for a little while.",
-    "arabic_text": "يَحْسَبُونَ الْاَحْزَابَ لَمْ يَذْهَبُواْ ۖ وَاِن يَاْتِ الْاَحْزَابُ يَوَدُّواْ لَوْ اَنَّهُم بَادُونَ فِى الْاَعْرَابِ يَسْـَٔلُونَ عَنْ اَنۢبَآئِكُمْ ۖ وَ لَوْ كَانُواْ فِيكُم مَّا قَـٰتَلُوٓاْ اِلَّا قَلِيلًا",
+    "arabic_text": "يَحْسَبُونَ الْاَحْزَابَ لَمْ يَذْهَبُواْ ۖ وَ اِن يَاْتِ الْاَحْزَابُ يَوَدُّواْ لَوْ اَنَّهُم بَادُونَ فِى الْاَعْرَابِ يَسْـَٔلُونَ عَنْ اَنۢبَآئِكُمْ ۖ وَ لَوْ كَانُواْ فِيكُم مَّا قَـٰتَلُوٓاْ اِلَّا قَلِيلًا",
     "urdu_text": "وه سمجھتے هیں که دشمنوں کی متحده فوجیں ابھی گئی نهیں هیں، اور اگر وه فوجیں دوباره آ جائیں تو وه چاهیں گے که کاش وه صحرا میں بدوؤں کے ساتھ بس گئے هوتے اور وهاں سے تمهاری خبریں پوچھتے رهتے، اور اگر وه تمهارے ساتھ هوتے بھی تو بهت کم لڑتے۔",
     "persian_text": "آنان گمان می‌کنند که لشکرهای متحد نرفته‌اند، و اگر لشکرها دوباره بیایند، آرزو می‌کنند که کاش در بیابان با اعراب بودند و از اخبار شما جویا می‌شدند، و اگر با شما بودند جز اندکی نمی‌جنگیدند.",
     "transliteration": "Yaḥsabūna al-aḥzāba lam yadh'habū wa in ya'ti al-aḥzābu yawaddū law annahum bādūna fī al-a'rābi yas'alūna 'an anbā'ikum wa law kānū fīkum mā qātalū illā qalīlā"

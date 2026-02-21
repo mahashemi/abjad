@@ -73,7 +73,7 @@ ayats = [
   {
     "verse_number": 9,
     "english_text": "And those who keep up their prayer regularly.",
-    "arabic_text": "وَ الَّذِينَ هُمْ عَلَىٰ صَلَوَٰتِهِمْ يُحَافِظُونَ",
+    "arabic_text": "وَ الَّذِينَ هُمْ عَلَىٰ صَلَوَٰتِهِمْ يُحٰفِظُونَ",
     "urdu_text": "اور جو اپنی نمازوں کی پابندی کرتے هیں",
     "persian_text": "و کسانی که بر نمازهای خود مواظبت می‌کنند",
     "transliteration": "Wallazeena hum 'alaa salawaatihim yuhaafizoon"
@@ -241,7 +241,7 @@ ayats = [
   {
     "verse_number": 30,
     "english_text": "In this there are many of Our signs, We only take tests (from you).",
-    "arabic_text": "اِنَّ فِى ذٰلِكَ لَـَٔايَـٰتٍۢ وَاِن كُنَّا لَمُبْتَلِينَ",
+    "arabic_text": "اِنَّ فِى ذٰلِكَ لَـَٔايَـٰتٍۢ وَ اِن كُنَّا لَمُبْتَلِينَ",
     "urdu_text": "بیشک اس میں هماری بهت سی نشانیاں هیں، اور هم ضرور آزمانے والے هیں۔",
     "persian_text": "همانا در این نشانه‌های بسیاری است و ما قطعاً آزمایندگانیم.",
     "transliteration": "Inna fee dhaalika la-aayaatin wa in kunnaa lamubtaleen"
@@ -489,7 +489,7 @@ ayats = [
   {
     "verse_number": 61,
     "english_text": "These are the people who excel in doing good; and these are the people who are going to go ahead from the rest.",
-    "arabic_text": "اُو۟لَـٰٓئِكَ يُسَـٰرِعُونَ فِى الْخَيْرَٰتِ وَهُمْ لَهَا سَـٰبِقُونَ",
+    "arabic_text": "اُو۟لَـٰٓئِكَ يُسَـٰرِعُونَ فِى الْخَيْرَٰتِ وَ هُمْ لَهَا سَـٰبِقُونَ",
     "urdu_text": "یهی لوگ هیں جو نیکیوں میں جلدی کرتے هیں اور وهی ان میں سبقت لے جانے والے هیں۔",
     "persian_text": "اینان کسانی هستند که در کارهای نیک شتاب می‌کنند و آنان در این کار پیشتاز هستند.",
     "transliteration": "Ulaa'ika yusaari'oona fil khayraati wa hum lahaa saabiqoon"
@@ -497,7 +497,7 @@ ayats = [
   {
     "verse_number": 62,
     "english_text": "We do not burden any soul more than his capacity, and We have the book which speaks the truth, and no unjust will be done to them.",
-    "arabic_text": "وَ لَا نُكَلِّفُ نَفْسًا اِلَّا وُسْعَهَا ۖ وَلَدَيْنَا كِتٰبٌۭ يَنطِقُ بِالْحَقِّ ۚ وَهُمْ لَا يُظْلَمُونَ",
+    "arabic_text": "وَ لَا نُكَلِّفُ نَفْسًا اِلَّا وُسْعَهَا ۖ وَلَدَيْنَا كِتٰبٌۭ يَنطِقُ بِالْحَقِّ ۚ وَ هُمْ لَا يُظْلَمُونَ",
     "urdu_text": "اور هم کسی جان پر اس کی طاقت سے زیاده بوجھ نهیں ڈالتے، اور همارے پاس ایک کتاب هے جو سچ بولتی هے، اور ان پر کوئی ظلم نهیں کیا جائے گا۔",
     "persian_text": "و ما هیچ کس را جز به اندازه توانایی‌اش تکلیف نمی‌کنیم، و نزد ما کتابی است که به حق سخن می‌گوید، و به آنان ستم نخواهد شد.",
     "transliteration": "Wa laa nukallifu nafsan illaa wus'ahaa wa ladaynaa kitaabun yantiqu bilhaqq wa hum laa yuzlamoon"
@@ -833,7 +833,7 @@ ayats = [
   {
     "verse_number": 104,
     "english_text": "Hellfire shall scorch their faces, and for them will be severe affliction.",
-    "arabic_text": "تَلْفَحُ وُجُوهَهُمُ النَّارُ وَهُمْ فِيهَا كَـٰلِحُونَ",
+    "arabic_text": "تَلْفَحُ وُجُوهَهُمُ النَّارُ وَ هُمْ فِيهَا كَـٰلِحُونَ",
     "urdu_text": "آگ ان کے چهروں کو جھلسا دے گی اور وه اس میں بگڑے هوئے چهروں والے هوں گے۔",
     "persian_text": "آتش چهره‌هایشان را می‌سوزاند و آنان در آن با چهره‌های درهم کشیده خواهند بود.",
     "transliteration": "Talfahu wujoohahumu-nnaru wa hum feeha kaalihoon"

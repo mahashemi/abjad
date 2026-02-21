@@ -137,7 +137,7 @@ ayats = [
   {
     "verse_number": 17,
     "english_text": "(At last they settled in the cave) When sun rises you will see that it inclines towards right side of their cave, and when it set, it tilts towards their left; and they are staying in spacious place in the cave; this is one sign out of (Many) signs of Allah, and to whomsoever Allah guides, only he is the guided one, and to whomsoever He misguides then you can never find a guardian for him.",
-    "arabic_text": "۞ وَتَرَى الشَّمْسَ اِذَا طَلَعَت تَّزَٰوَرُ عَن كَهْفِهِمْ ذَاتَ الْيَمِينِ وَاِذَا غَرَبَت تَّقْرِضُهُمْ ذَاتَ الشِّمَالِ وَهُمْ فِى فَجْوَةٍۢ مِّنْهُ ۚ ذٰلِكَ مِنْ اٰيٰتِ اللّٰهِ ۗ مَن يَهْدِ اللّٰهُ فَهُوَ الْمُهْتَدِ ۖ وَمَن يُضْلِلْ فَلَن تَجِدَ لَهُ وَلِيًّۭا مُّرْشِدًۭا",
+    "arabic_text": "۞ وَتَرَى الشَّمْسَ اِذَا طَلَعَت تَّزَٰوَرُ عَن كَهْفِهِمْ ذَاتَ الْيَمِينِ وَاِذَا غَرَبَت تَّقْرِضُهُمْ ذَاتَ الشِّمَالِ وَ هُمْ فِى فَجْوَةٍۢ مِّنْهُ ۚ ذٰلِكَ مِنْ اٰيٰتِ اللّٰهِ ۗ مَن يَهْدِ اللّٰهُ فَهُوَ الْمُهْتَدِ ۖ وَمَن يُضْلِلْ فَلَن تَجِدَ لَهُ وَلِيًّۭا مُّرْشِدًۭا",
     "urdu_text": "اور تم دیکھو گے که جب سورج طلوع هوتا هے تو ان کے غار کی دائیں طرف جھک جاتا هے، اور جب غروب هوتا هے تو بائیں طرف مائل هو جاتا هے، اور وه غار کی کشاده جگه میں هیں، یه الله کی نشانیوں میں سے ایک نشانی هے، جسے الله هدایت دے وهی هدایت یافته هے، اور جسے گمراه کرے تو تم اس کے لیے کوئی رهنما سرپرست نهیں پاؤ گے۔",
     "persian_text": "و خورشید را می‌بینی که چون طلوع کند از غار آنان به سمت راست منحرف می‌شود و چون غروب کند از سمت چپشان می‌گذرد، و آنان در جای فراخی از غار قرار دارند، این از آیات الهی است، هر که را الله هدایت کند او هدایت‌یافته است و هر که را گمراه سازد هرگز برای او سرپرست و راهنمایی نخواهی یافت.",
     "transliteration": "Wa tarashshamsa idha tala'at tazawaru 'an kahfihim dhatal-yamini wa idha gharabat taqriduhum dhatashshimali wa hum fi fajwatim-minh, dhalika min ayatillah, man yahdillahu fahuwal-muhtad, wa man yudlil falan tajida lahu waliyyan murshida"
@@ -145,7 +145,7 @@ ayats = [
   {
     "verse_number": 18,
     "english_text": "You will think that they are awake, but they are deep asleep, and sometimes We make them turn on their right side and sometimes on their left side, and their dog lay on threshold outstretching his front legs; (their condition is such) that if you will look at them (peek into their cave) you will run back and your heart will be filled with fright.",
-    "arabic_text": "وَتَحْسَبُهُمْ اَيْقَاظًۭا وَهُمْ رُقُودٌۭ ۚ وَنُقَلِّبُهُمْ ذَاتَ الْيَمِينِ وَذَاتَ الشِّمَالِ ۖ وَكَلْبُهُم بَـٰسِطٌۭ ذِرَاعَيْهِ بِالْوَصِيدِ ۚ لَوِ اطَّلَعْتَ عَلَيْهِمْ لَوَلَّيْتَ مِنْهُمْ فِرَارًا وَلَمُلِئْتَ مِنْهُمْ رُعْبًا",
+    "arabic_text": "وَتَحْسَبُهُمْ اَيْقَاظًۭا وَ هُمْ رُقُودٌۭ ۚ وَنُقَلِّبُهُمْ ذَاتَ الْيَمِينِ وَذَاتَ الشِّمَالِ ۖ وَكَلْبُهُم بَـٰسِطٌۭ ذِرَاعَيْهِ بِالْوَصِيدِ ۚ لَوِ اطَّلَعْتَ عَلَيْهِمْ لَوَلَّيْتَ مِنْهُمْ فِرَارًا وَلَمُلِئْتَ مِنْهُمْ رُعْبًا",
     "urdu_text": "اور تم انهیں جاگتا سمجھو گے حالانکه وه سوئے هوئے هیں، اور هم انهیں دائیں اور بائیں کروٹ بدلواتے رهتے هیں، اور ان کا کتا دهلیز پر اپنے دونوں بازو پھیلائے هوئے هے، اگر تم ان پر نظر ڈالو تو ان سے بھاگ کھڑے هو اور تمهارا دل ان سے خوف سے بھر جائے۔",
     "persian_text": "و تو آنان را بیدار می‌پنداری در حالی که خفته‌اند، و ما آنان را به پهلوی راست و چپ می‌گردانیم، و سگشان دو دست خود را بر آستانه دراز کرده است، اگر بر آنان اطلاع یابی از آنان گریزان شوی و دلت از آنان پر از وحشت گردد.",
     "transliteration": "Wa tahsabuhum ayqazan wa hum ruqud, wa nuqallibuhum dhatal-yamini wa dhatashshimal, wa kalbuhum basitun dhira'ayhi bil-wasid, lawi ttala'ta 'alaihim lawallaita minhum firaran wa lamuli'ta minhum ru'ba"
@@ -217,7 +217,7 @@ ayats = [
   {
     "verse_number": 27,
     "english_text": "And (O Prophet), recite the Book which has been sent to you through revelation, no one can alter its content, and except Him you will not find shelter anywhere.",
-    "arabic_text": "وَاتْلُ مَآ اُوحِىَ اِلَيْكَ مِن كِتَابِ رَبِّكَ ۖ لَا مُبَدِّلَ لِكَلِمَـٰتِهِ وَلَن تَجِدَ مِن دُونِهِ مُلْتَحَدًۭا",
+    "arabic_text": "وَاتْلُ مَآ اُوحِىَ اِلَيْكَ مِن كِتٰبِ رَبِّكَ ۖ لَا مُبَدِّلَ لِكَلِمَـٰتِهِ وَلَن تَجِدَ مِن دُونِهِ مُلْتَحَدًۭا",
     "urdu_text": "اور اے نبی آپ اپنے رب کی کتاب کو پڑھتے رهیں جو آپ کی طرف وحی کے ذریعے بھیجی گئی هے، اس کی باتوں کو کوئی بدل نهیں سکتا، اور آپ اس کے سوا کهیں پناه نهیں پائیں گے۔",
     "persian_text": "و آنچه از کتاب پروردگارت بر تو وحی شده تلاوت کن، هیچ کس نمی‌تواند کلمات او را تغییر دهد و جز او هرگز پناهگاهی نخواهی یافت.",
     "transliteration": "Watlu ma uhiya ilayka min kitabi rabbika la mubaddila likalimatih wa lan tajida min dunihi multahada"
@@ -233,7 +233,7 @@ ayats = [
   {
     "verse_number": 29,
     "english_text": "And (O Prophet) say: the truth has been revealed to you from your Lord, whoever wish may believe and whoever wish may not believe, We have prepared the fire for the unjust whose walls will encircle them; and if they will cry for help, they will be given (boiling) water which will be like molten copper that will scald their mouths; what an evil water is this and what an evil place is this (Hell).",
-    "arabic_text": "وَقُلِ الْحَقُّ مِن رَّبِّكُمْ ۖ فَمَن شَآءَ فَلْيُؤْمِن وَمَن شَآءَ فَلْيَكْفُرْ ۚ اِنَّآ اَعْتَدْنَا لِلظَّـٰلِمِينَ نَارًا اَحَاطَ بِهِمْ سُرَادِقُهَا ۚ وَاِن يَسْتَغِيثُواْ يُغَاثُواْ بِمَآءٍۢ كَالْمُهْلِ يَشْوِى الْوُجُوهَ ۚ بِئْسَ الشَّرَابُ وَسَآءَتْ مُرْتَفَقًا",
+    "arabic_text": "وَقُلِ الْحَقُّ مِن رَّبِّكُمْ ۖ فَمَن شَآءَ فَلْيُؤْمِن وَمَن شَآءَ فَلْيَكْفُرْ ۚ اِنَّآ اَعْتَدْنَا لِلظَّـٰلِمِينَ نَارًا اَحَاطَ بِهِمْ سُرَادِقُهَا ۚ وَ اِن يَسْتَغِيثُواْ يُغَاثُواْ بِمَآءٍۢ كَالْمُهْلِ يَشْوِى الْوُجُوهَ ۚ بِئْسَ الشَّرَابُ وَسَآءَتْ مُرْتَفَقًا",
     "urdu_text": "اور اے نبی کهه دیجیے که حق تمهارے رب کی طرف سے آ گیا هے، اب جو چاهے ایمان لائے اور جو چاهے انکار کرے، هم نے ظالموں کے لیے آگ تیار کر رکھی هے جس کی دیواریں انهیں گھیر لیں گی، اور اگر وه فریاد کریں گے تو انهیں پگھلے هوئے تانبے جیسا پانی دیا جائے گا جو چهروں کو جھلس دے گا، کیا هی برا پانی هے اور کیا هی بری جگه هے۔",
     "persian_text": "و بگو: حق از جانب پروردگار شماست، پس هر که بخواهد ایمان آورد و هر که بخواهد کفر ورزد، ما برای ستمکاران آتشی آماده کرده‌ایم که دیوارهایش آنان را احاطه کرده است، و اگر فریاد برآورند به آبی چون مس گداخته یاری شوند که چهره‌ها را بریان کند، چه بد نوشیدنی و چه بد جایگاهی است.",
     "transliteration": "Wa qulil-haqqu mir-rabbikum faman sha'a falyu'min wa man sha'a falyakfur inna a'tadna lidhhalimina naran ahata bihim suradiquha wa in yastaghithu yughathu bima'in kalmuhli yashwil-wujuh bi'sash-sharabu wa sa'at murtafaqa"
@@ -401,7 +401,7 @@ ayats = [
   {
     "verse_number": 50,
     "english_text": "And remember the time when We commanded to angels to prostrate before Adam, so except Iblis everyone prostrated; he (Iblis) was from jinn who ran away from the command of his Lord, so (O people) do you make him and his children your friend; whereas they are your enemies, but unjust befriended him instead of Allah; this swap is worst for the unjust.",
-    "arabic_text": "وَاِذْ قُلْنَا لِلْمَلَـٰٓئِكَةِ اسْجُدُواْ لِـَٔادَمَ فَسَجَدُوٓاْ اِلَّآ اِبْلِيسَ كَانَ مِنَ الْجِنِّ فَفَسَقَ عَنْ اَمْرِ رَبِّهِٓ ۗ اَفَتَتَّخِذُونَهُ وَذُرِّيَّتَهُٓ اَوْلِيَآءَ مِن دُونِى وَهُمْ لَكُمْ عَدُوٌّۢ ۚ بِئْسَ لِلظَّـٰلِمِينَ بَدَلًا",
+    "arabic_text": "وَاِذْ قُلْنَا لِلْمَلَـٰٓئِكَةِ اسْجُدُواْ لِـَٔادَمَ فَسَجَدُوٓاْ اِلَّآ اِبْلِيسَ كَانَ مِنَ الْجِنِّ فَفَسَقَ عَنْ اَمْرِ رَبِّهِٓ ۗ اَفَتَتَّخِذُونَهُ وَذُرِّيَّتَهُٓ اَوْلِيَآءَ مِن دُونِى وَ هُمْ لَكُمْ عَدُوٌّۢ ۚ بِئْسَ لِلظَّـٰلِمِينَ بَدَلًا",
     "urdu_text": "اور یاد کرو جب هم نے فرشتوں سے کها که آدم کو سجده کرو تو ابلیس کے سوا سب نے سجده کیا، وه جنوں میں سے تھا تو اپنے رب کے حکم سے نکل گیا، تو کیا تم اسے اور اس کی اولاد کو میرے سوا اپنا دوست بناتے هو حالانکه وه تمهارے دشمن هیں؟ ظالموں کے لیے یه بدله بهت برا هے۔",
     "persian_text": "و یاد کن هنگامی که به فرشتگان گفتیم برای آدم سجده کنید، پس همه سجده کردند جز ابلیس که از جن بود و از فرمان پروردگارش سرپیچی کرد، آیا او و فرزندانش را به جای من سرپرست می‌گیرید در حالی که آنان دشمن شمایند؟ چه بد جایگزینی است برای ستمکاران.",
     "transliteration": "Wa idh qulnaa lil-malaa'ikatis-judoo li-Aadama fasajadoo illaa Ibleesa kaana minal-jinni fafasaqa 'an amri Rabbih, afatattakhidhoonahu wa dhurriyyatahu awliyaa'a min doonee wa hum lakum 'aduww, bi'sa lidh-dhaalimeena badalaa"
@@ -457,7 +457,7 @@ ayats = [
   {
     "verse_number": 57,
     "english_text": "And who can be more unjust than who is reminded of verses of his Lord but he turns away, and he has forgotten his earlier deeds, as if We have curtained their hearts so that they don't understand, and made their ears hard of hearing (that they don't listen), and if you will call them to the right path but they are never going to get the guidance.",
-    "arabic_text": "وَ مَنْ اَظْلَمُ مِمَّن ذُكِّرَ بِـَٔايَـٰتِ رَبِّهِ فَاَعْرَضَ عَنْهَا وَنَسِىَ مَا قَدَّمَتْ يَدَاهُ ۚ اِنَّا جَعَلْنَا عَلَىٰ قُلُوبِهِمْ اَكِنَّةً اَن يَفْقَهُوهُ وَفِىٓ ءَاذَانِهِمْ وَقْرًا ۖ وَاِن تَدْعُهُمْ اِلَى الْهُدَىٰ فَلَن يَهْتَدُوٓاْ اِذًا اَبَدًۭا",
+    "arabic_text": "وَ مَنْ اَظْلَمُ مِمَّن ذُكِّرَ بِـَٔايَـٰتِ رَبِّهِ فَاَعْرَضَ عَنْهَا وَنَسِىَ مَا قَدَّمَتْ يَدَاهُ ۚ اِنَّا جَعَلْنَا عَلَىٰ قُلُوبِهِمْ اَكِنَّةً اَن يَفْقَهُوهُ وَفِىٓ ءَاذَانِهِمْ وَقْرًا ۖ وَ اِن تَدْعُهُمْ اِلَى الْهُدَىٰ فَلَن يَهْتَدُوٓاْ اِذًا اَبَدًۭا",
     "urdu_text": "اور اس سے بڑھ کر ظالم کون هو گا جسے اس کے رب کی آیات سے نصیحت کی جائے لیکن وه ان سے منه پھیر لے اور بھول جائے جو اس کے هاتھوں نے آگے بھیجا هے، بیشک هم نے ان کے دلوں پر پردے ڈال دیے هیں که وه سمجھ نه سکیں اور ان کے کانوں میں بھاری پن ڈال دیا هے، اور اگر آپ انهیں هدایت کی طرف بلائیں تو وه کبھی بھی هدایت نهیں پائیں گے۔",
     "persian_text": "و چه کسی ستمکارتر است از آن کس که به آیات پروردگارش پند داده شود اما از آن روی گرداند و آنچه را دستانش پیش فرستاده فراموش کند، ما بر دل‌هایشان پرده‌هایی نهادیم که آن را درک نکنند و در گوش‌هایشان سنگینی، و اگر آنها را به هدایت بخوانی هرگز هدایت نخواهند یافت.",
     "transliteration": "Wa man azlamu mimman dhukkira bi-aayaati rabbihee fa-a'rada 'anhaa wa nasiya maa qaddamat yadaah, innaa ja'alnaa 'alaa quloobihim akinnatan any-yafqahoohu wa fee aadhaanihim waqra, wa in tad'uhum ilal hudaa falan yahtadooo idhan abada"

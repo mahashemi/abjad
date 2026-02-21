@@ -474,7 +474,7 @@ ayats = [
   {
     "verse_number": 60,
     "english_text": "So some chiefs of his tribe said: we Verily see you in manifest misguidance.",
-    "arabic_text": "قَالَ الْمَلَاُ مِن قَوْمِهِٓ اِنَّا لَنَرٰكَ فِيْ ضَلَالٍ مُّبِيْنٍ",
+    "arabic_text": "قَالَ الْمَلَاُ مِن قَوْمِهِٓ اِنَّا لَنَرٰكَ فِيْ ضَلٰلٍ مُّبِيْنٍ",
     "urdu_text": "تو ان کی قوم کے سرداروں نے کہا ہم تو تمہیں کھلی گمراہی میں دیکھتے ہیں",
     "persian_text": "بزرگان قومش گفتند ما تو را در گمراهی آشکار می‌بینیم",
     "transliteration": "Qalal-mala'u min qawmihi inna lanaraka fi dalalin mubin",

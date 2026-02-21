@@ -73,7 +73,7 @@ ayats = [
   {
     "verse_number": 9,
     "english_text": "And Firaun's wife said he is the coolness of our eyes, so don’t kill him, he may be beneficial for us, and we will make him our son; and they were not understanding anything.",
-    "arabic_text": "وَقَالَتِ امْرَاَتُ فِرْعَوْنَ قُرَّتُ عَيْنٍۢ لِّى وَلَكَ ۖ لَا تَقْتُلُوهُ عَسَىٰٓ اَن يَنفَعَنَآ اَوْ نَتَّخِذَهُ وَلَدًۭا وَهُمْ لَا يَشْعُرُونَ",
+    "arabic_text": "وَقَالَتِ امْرَاَتُ فِرْعَوْنَ قُرَّتُ عَيْنٍۢ لِّى وَلَكَ ۖ لَا تَقْتُلُوهُ عَسَىٰٓ اَن يَنفَعَنَآ اَوْ نَتَّخِذَهُ وَلَدًۭا وَ هُمْ لَا يَشْعُرُونَ",
     "urdu_text": "اور فرعون کی بیوی نے کہا کہ یہ میری اور تمہاری آنکھوں کی ٹھنڈک ہے، اسے قتل نہ کرو، شاید یہ ہمارے لیے نفع مند ہو یا ہم اسے بیٹا بنا لیں، اور وہ نہیں جانتے تھے۔",
     "persian_text": "و همسر فرعون گفت: روشنی چشم من و تو است، او را نکشید، شاید به ما سود رساند یا او را فرزند خود قرار دهیم، و آنان نمی‌دانستند.",
     "transliteration": "Wa qalatim-ra'atu Fir'awna qurratu 'aynin li wa laka la taqtuluhu 'asa an yanfa'ana aw nattakhidhahu waladan wa hum la yash'uroon"
@@ -89,7 +89,7 @@ ayats = [
   {
     "verse_number": 11,
     "english_text": "And she told his sister that you also follow him, so she saw Moosa from afar, when they were not even slightly aware of it.",
-    "arabic_text": "وَقَالَتْ لِاُخْتِهِ قُصِّيهِ ۖ فَبَصُرَتْ بِهِ عَن جُنُبٍۢ وَهُمْ لَا يَشْعُرُونَ",
+    "arabic_text": "وَقَالَتْ لِاُخْتِهِ قُصِّيهِ ۖ فَبَصُرَتْ بِهِ عَن جُنُبٍۢ وَ هُمْ لَا يَشْعُرُونَ",
     "urdu_text": "اور اس نے اپنی بیٹی سے کہا کہ تم اس کے پیچھے جاؤ، پس اس نے موسیٰ کو دور سے دیکھا جبکہ وہ لوگ بالکل بھی خبر نہیں رکھتے تھے۔",
     "persian_text": "و او به خواهرش گفت که او را دنبال کن، پس او موسی را از دور دید در حالی که آنها اصلاً متوجه نبودند.",
     "transliteration": "Wa qaalat li-ukhtihi qussihi fa-basurat bihi 'an junubin wa hum laa yash'uroon"
@@ -97,7 +97,7 @@ ayats = [
   {
     "verse_number": 12,
     "english_text": "And we had already forbidden the milk of foster mothers for Moosa, his sister said shall I tell you about a household who will nourish him and will be his well-wisher also.",
-    "arabic_text": "۞ وَحَرَّمْنَا عَلَيْهِ الْمَرَاضِعَ مِن قَبْلُ فَقَالَتْ هَلْ اَدُلُّكُمْ عَلَىٰٓ اَهْلِ بَيْتٍۢ يَكْفُلُونَهُ لَكُمْ وَهُمْ لَهُ نَـٰصِحُونَ",
+    "arabic_text": "۞ وَحَرَّمْنَا عَلَيْهِ الْمَرَاضِعَ مِن قَبْلُ فَقَالَتْ هَلْ اَدُلُّكُمْ عَلَىٰٓ اَهْلِ بَيْتٍۢ يَكْفُلُونَهُ لَكُمْ وَ هُمْ لَهُ نَـٰصِحُونَ",
     "urdu_text": "اور ہم نے پہلے ہی موسیٰ پر دائیوں کا دودھ حرام کر دیا تھا، تو اس کی بہن نے کہا کیا میں تمہیں ایک ایسے گھرانے کے بارے میں بتاؤں جو تمہارے لیے اس کی پرورش کریں گے اور وہ اس کے خیرخواہ بھی ہوں گے۔",
     "persian_text": "و ما پیش از این شیر دایه‌ها را بر موسی حرام کرده بودیم، پس خواهرش گفت آیا شما را به خانواده‌ای راهنمایی کنم که او را برای شما پرورش دهند و خیرخواه او باشند.",
     "transliteration": "Wa harramna 'alayhi al-maradi'a min qablu fa-qaalat hal adullukum 'ala ahli baytin yakfuloonahu lakum wa hum lahu naasihoon"

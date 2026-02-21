@@ -2,7 +2,7 @@ ayats = [
   {
     "verse_number": 1,
     "english_text": "Alif Laam Ra, these are the verses of explicit book.",
-    "arabic_text": "الر ۚ تِلْكَ آيَاتُ الْكِتَابِ الْمُبِينِ",
+    "arabic_text": "الر ۚ تِلْكَ اٰيٰتُ الْكِتٰبِ الْمُبِينِ",
     "urdu_text": "الف لام را، یہ واضح کتاب کی آیات ہیں",
     "persian_text": "الف لام را، این‌ها آیات کتاب روشنگر است",
     "transliteration": "Alif Laam Ra, tilka ayatul kitabil mubeen",
@@ -10,7 +10,7 @@ ayats = [
   {
     "verse_number": 2,
     "english_text": "We have revealed this book in Arabic language, so that you may understand.",
-    "arabic_text": "اِنَّا اَنزَلْنَاهُ قُرْآنًا عَرَبِيًّا لَّعَلَّكُمْ تَعْقِلُونَ",
+    "arabic_text": "اِنَّآ اَنْزَلْنٰهُ قُرْءٰنًا عَرَبِيًّا لَّعَلَّكُمْ تَعْقِلُونَ",
     "urdu_text": "بیشک ہم نے اسے عربی قرآن بنا کر نازل کیا ہے تاکہ تم سمجھ سکو",
     "persian_text": "ما آن را قرآنی عربی نازل کردیم تا شاید شما تعقل کنید",
     "transliteration": "Inna anzalnahu qur'anan 'arabiyyan la'allakum ta'qiloon",
@@ -18,7 +18,7 @@ ayats = [
   {
     "verse_number": 3,
     "english_text": "(O Prophet), We relate you a very good tale by revealing Quran to you, however earlier you were totally unaware of it.",
-    "arabic_text": "نَحْنُ نَقُصُّ عَلَيْكَ اَحْسَنَ الْقَصَصِ بِمَا اَوْحَيْنَا اِلَيْكَ هَٰذَا الْقُرْآنَ وَاِن كُنتَ مِن قَبْلِهِ لَمِنَ الْغَافِلِينَ",
+    "arabic_text": "نَحْنُ نَقُصُّ عَلَيْكَ اَحْسَنَ الْقَصَصِ بِمَا اَوْحَيْنَا اِلَيْكَ هَٰذَا الْقُرْآنَ وَ اِن كُنتَ مِن قَبْلِهِ لَمِنَ الْغٰفِلِينَ",
     "urdu_text": "ہم آپ کو بہترین قصہ سناتے ہیں اس قرآن کی وحی کے ذریعے جو ہم نے آپ کی طرف نازل کیا، اور بیشک آپ اس سے پہلے بالکل بے خبر تھے",
     "persian_text": "ما بهترین داستان را با وحی این قرآن به تو بازگو می‌کنیم و تو پیش از این از غافلان بودی",
     "transliteration": "Nahnu naqussu 'alayka ahsanal qasasi bima awhaina ilayka hadhal qur'ana wa in kunta min qablihi laminal ghafileen",
@@ -26,7 +26,7 @@ ayats = [
   {
     "verse_number": 4,
     "english_text": "And remember that time, when Yusuf said to his father: O father, I saw (in dream) eleven stars, sun and the moon, I saw that they are all prostrating before me.",
-    "arabic_text": "اِذْ قَالَ يُوسُفُ لِاَبِيهِ يٰاَبَتِ اِنِّى رَاَيْتُ اَحَدَ عَشَرَ كَوْكَبًا وَالشَّمْسَ وَالْقَمَرَ رَاَيْتُهُمْ لِى سَاجِدِينَ",
+    "arabic_text": "اِذْ قَالَ يُوسُفُ لِاَبِيهِ يٰاَبَتِ اِنِّى رَاَيْتُ اَحَدَ عَشَرَ كَوْكَبًا وَ الشَّمْسَ وَ الْقَمَرَ رَاَيْتُهُمْ لِى سٰجِدِينَ",
     "urdu_text": "جب یوسف نے اپنے والد سے کہا: اے میرے والد، میں نے خواب میں گیارہ ستارے اور سورج اور چاند دیکھے، میں نے دیکھا کہ وہ سب میرے لیے سجدہ کر رہے ہیں",
     "persian_text": "آن هنگام که یوسف به پدرش گفت: ای پدر، من یازده ستاره و خورشید و ماه را دیدم که برای من سجده می‌کردند",
     "transliteration": "Idh qala Yusufu li-abeehi ya abati inni ra'aytu ahada 'ashara kawkaban wash-shamsa walqamara ra'aytuhum lee sajideen",
@@ -34,7 +34,7 @@ ayats = [
   {
     "verse_number": 5,
     "english_text": "Yaqoob said: O (my) son, do not repeat your dream to your brothers; (or else) they will make deceitful plans for you, there is no doubt that Satan is open enemy of men.",
-    "arabic_text": "قَالَ يٰبُنَيَّ لَا تَقْصُصْ رُؤْيَاكَ عَلَىٰ اِخْوَتِكَ فَيَكِيدُوا لَكَ كَيْدًا ۖ اِنَّ الشَّيْطَانَ لِلْاِنسَانِ عَدُوٌّ مُّبِينٌ",
+    "arabic_text": "قَالَ يٰبُنَيَّ لَا تَقْصُصْ رُءيَاكَ عَلَىٰ اِخْوَتِكَ فَيَكِيدُوا لَكَ كَيْدًا ۖ اِنَّ الشَّيْطٰنَ لِلْاِنسَانِ عَدُوٌّ مُّبِينٌ",
     "urdu_text": "یعقوب نے کہا: اے میرے بیٹے، اپنا خواب اپنے بھائیوں کو نہ سناؤ ورنہ وہ تمہارے خلاف کوئی چال چلیں گے، بیشک شیطان انسان کا کھلا دشمن ہے",
     "persian_text": "گفت: ای پسرم، خوابت را برای برادرانت بازگو مکن که مبادا علیه تو نقشه‌ای بکشند، همانا شیطان دشمن آشکار انسان است",
     "transliteration": "Qala ya bunayya la taqsus ru'yaka 'ala ikhwatika fayakeedu laka kaydan innash-shaytana lil-insani 'aduwwum mubeen",
@@ -42,7 +42,7 @@ ayats = [
   {
     "verse_number": 6,
     "english_text": "And it will happen (as you have seen), your Lord will choose you and will teach you interpretation of dreams, and as He has completed his blessings before you on your forefathers, Ibrahim and Ishaq, similarly on you and children of Yaqoob He will complete His blessings, certainly your Lord is knowledgeable and wise.",
-    "arabic_text": "وَ كَذٰلِكَ يَجْتَبِيكَ رَبُّكَ وَيُعَلِّمُكَ مِن تَاْوِيلِ الْاَحَادِيثِ وَيُتِمُّ نِعْمَتَهُ عَلَيْكَ وَعَلَىٰ آلِ يَعْقُوبَ كَمَا اَتَمَّهَا عَلَىٰ اَبَوَيْكَ مِن قَبْلُ اِبْرٰهِيمَ وَاِسْحٰقَ ۚ اِنَّ رَبَّكَ عَلِيمٌ حَكِيمٌ",
+    "arabic_text": "وَ كَذٰلِكَ يَجْتَبِيكَ رَبُّكَ وَ يُعَلِّمُكَ مِن تَاْوِيلِ الْاَحَادِيثِ وَ يُتِمُّ نِعْمَتَهُ عَلَيْكَ وَ عَلَىٰ آلِ يَعْقُوبَ كَمَا اَتَمَّهَا عَلَىٰ اَبَوَيْكَ مِن قَبْلُ اِبْرٰهِيمَ وَ اِسْحٰقَ ۚ اِنَّ رَبَّكَ عَلِيمٌ حَكِيمٌ",
     "urdu_text": "اور اسی طرح تمہارا رب تمہیں چن لے گا اور تمہیں خوابوں کی تعبیر سکھائے گا، اور جس طرح اس نے پہلے تمہارے باپ دادا ابراہیم اور اسحاق پر اپنی نعمت پوری کی تھی، اسی طرح تم پر اور آل یعقوب پر اپنی نعمت پوری کرے گا، بیشک تمہارا رب جاننے والا اور حکمت والا ہے۔",
     "persian_text": "و این‌گونه پروردگارت تو را برمی‌گزیند و تعبیر خواب‌ها را به تو می‌آموزد، و نعمت خود را بر تو و بر خاندان یعقوب تمام می‌کند، همان‌گونه که پیش از این بر پدرانت ابراهیم و اسحاق تمام کرد، همانا پروردگارت دانای حکیم است.",
     "transliteration": "Wa kadhalika yajtabeeka rabbuka wa yu'allimuka min ta'weelil-ahaadeeth wa yutimmu ni'matahu 'alayka wa 'ala aali Ya'qooba kama atammaha 'ala abawayka min qablu Ibraheema wa Ishaaq, inna rabbaka 'aleemun hakeem",
@@ -50,7 +50,7 @@ ayats = [
   {
     "verse_number": 7,
     "english_text": "(O Prophet), Certainly for those who ask there are signs of your prophethood, in the tale of Yusuf and his brothers.",
-    "arabic_text": "لَّقَدْ كَانَ فِى يُوسُفَ وَاِخْوَتِهِ آيَاتٌ لِّلسَّائِلِينَ",
+    "arabic_text": "لَّقَدْ كَانَ فِى يُوسُفَ وَ اِخْوَتِهِ اٰيٰتٌ لِّلسَّائِلِينَ",
     "urdu_text": "بیشک یوسف اور اس کے بھائیوں کے قصے میں پوچھنے والوں کے لیے نشانیاں ہیں۔",
     "persian_text": "به راستی در داستان یوسف و برادرانش نشانه‌هایی است برای پرسندگان.",
     "transliteration": "Laqad kana fee Yoosufa wa ikhwatihi aayaatul-lissaa'ileen",
@@ -58,7 +58,7 @@ ayats = [
   {
     "verse_number": 8,
     "english_text": "(Yusuf's brothers) said: in spite of our majority; Yusuf and his brother (Benjamin) are more beloved to our father; there is no doubt that our father is in clear error.",
-    "arabic_text": "اِذْ قَالُوْا لَيُوسُفُ وَاَخُوهُ اَحَبُّ اِلـٰى اَبِينَا مِنَّا وَنَحْنُ عُصْبَةٌ ۖ اِنَّ اَبَانَا لَفِى ضَلَالٍ مُّبِينٍ",
+    "arabic_text": "اِذْ قَالُوْا لَيُوسُفُ وَ اَخُوهُ اَحَبُّ اِلـٰى اَبِينَا مِنَّا وَ نَحْنُ عُصْبَةٌ ۖ اِنَّ اَبَانَا لَفِى ضَلٰلٍ مُّبِينٍ",
     "urdu_text": "جب انہوں نے کہا کہ یوسف اور اس کا بھائی ہم سے زیادہ ہمارے باپ کو محبوب ہیں حالانکہ ہم ایک جماعت ہیں، بیشک ہمارا باپ کھلی گمراہی میں ہے۔",
     "persian_text": "آن‌گاه که گفتند یوسف و برادرش نزد پدرمان از ما محبوب‌ترند در حالی که ما گروهی نیرومندیم، همانا پدر ما در گمراهی آشکاری است.",
     "transliteration": "Idh qaaloo la-Yoosufu wa akhoohu ahabbu ila abeena minna wa nahnu 'usbah, inna abaana lafee dalaalim-mubeen",
@@ -66,7 +66,7 @@ ayats = [
   {
     "verse_number": 9,
     "english_text": "(They said) Either kill Yusuf of throw him in some land, then attention of your father will turn towards you, then you will become righteous people.",
-    "arabic_text": "اقْتُلُوا يُوسُفَ اَوِ اطْرَحُوهُ اَرْضًا يَخْلُ لَكُمْ وَجْهُ اَبِيكُمْ وَتَكُونُوا مِن بَعْدِهِ قَوْمًا صٰلِحِينَ",
+    "arabic_text": "اقْتُلُوا يُوسُفَ اَوِ اطْرَحُوهُ اَرْضًا يَخْلُ لَكُمْ وَجْهُ اَبِيكُمْ وَ تَكُونُوا مِن بَعْدِهِ قَوْمًا صٰلِحِينَ",
     "urdu_text": "یوسف کو قتل کر دو یا اسے کسی زمین میں پھینک دو تاکہ تمہارے باپ کی توجہ صرف تمہاری طرف ہو جائے، اور اس کے بعد تم نیک لوگ بن جاؤ۔",
     "persian_text": "یوسف را بکشید یا او را به سرزمینی دور بیفکنید تا توجه پدرتان فقط به سوی شما باشد و پس از آن مردمی شایسته شوید.",
     "transliteration": "Uqtuloo Yoosufa awi itrahoohoo ardan yakhlu lakum wajhu abeekum wa takoonoo mim ba'dihi qawman saaliheen",
@@ -74,7 +74,7 @@ ayats = [
   {
     "verse_number": 10,
     "english_text": "One of them (Lavi) said: do not kill Yusuf, if you want to do this, then throw him in some blind well, some traveler may take him (with them).",
-    "arabic_text": "قَالَ قَائِلٌ مِّنْهُمْ لَا تَقْتُلُوا يُوسُفَ وَاَلْقُوهُ فِى غَيَابَتِ الْجُبِّ يَلْتَقِطْهُ بَعْضُ السَّيَّارَةِ اِن كُنتُمْ فَاعِلِينَ",
+    "arabic_text": "قَالَ قَائِلٌ مِّنْهُمْ لَا تَقْتُلُوا يُوسُفَ وَ اَلْقُوهُ فِى غَيٰبَتِ الْجُبِّ يَلْتَقِطْهُ بَعْضُ السَّيَّارَةِ اِن كُنتُمْ فٰعِلِينَ",
     "urdu_text": "ان میں سے ایک نے کہا کہ یوسف کو قتل نہ کرو، اگر تم کچھ کرنا چاہتے ہو تو اسے کسی اندھے کنویں میں ڈال دو، کوئی مسافر اسے اٹھا لے گا۔",
     "persian_text": "یکی از آنان گفت یوسف را نکشید و اگر می‌خواهید کاری کنید او را در ژرفای چاه بیفکنید تا برخی از کاروانیان او را بردارند.",
     "transliteration": "Qaala qaa'ilum-minhum la taqtuloo Yoosufa wa alqoohu fee ghayaabatil-jubbi yaltaqithu ba'dus-sayyaarati in kuntum faa'ileen",
@@ -82,7 +82,7 @@ ayats = [
   {
     "verse_number": 11,
     "english_text": "They all said: O Father, what it is that you do not trust us with regards to Yusuf whereas we are his well-wishers.",
-    "arabic_text": "قَالُوْا يٰاَبَانَا مَا لَكَ لَا تَاْمَنَّا عَلَىٰ يُوسُفَ وَ اِنَّا لَهُ لَنَاصِحُونَ",
+    "arabic_text": "قَالُوْا يٰٓاَبَانَا مَا لَكَ لَا تَاْمَنَّا عَلَىٰ يُوسُفَ وَ اِنَّا لَهُ لَنٰصِحُونَ",
     "urdu_text": "انہوں نے کہا: اے ہمارے باپ! آپ کو کیا ہو گیا ہے کہ آپ یوسف کے بارے میں ہم پر اعتماد نہیں کرتے حالانکہ ہم تو اس کے خیر خواہ ہیں۔",
     "persian_text": "گفتند: ای پدر ما، چرا ما را در مورد یوسف اعتماد نمی‌کنی در حالی که ما خیرخواه او هستیم؟",
     "transliteration": "Qaaloo yaa abaanaa maa laka laa ta'mannaa 'alaa Yoosufa wa innaa lahu lanaasihoona",
@@ -90,7 +90,7 @@ ayats = [
   {
     "verse_number": 12,
     "english_text": "Tomorrow, you send him with us so he might eat something and play and we will guard him.",
-    "arabic_text": "اَرْسِلْهُ مَعَنَا غَدًا يَرْتَعْ وَيَلْعَبْ وَ اِنَّا لَهُ لَحَافِظُونَ",
+    "arabic_text": "اَرْسِلْهُ مَعَنَا غَدًا يَرْتَعْ وَ يَلْعَبْ وَ اِنَّا لَهُ لَحٰفِظُونَ",
     "urdu_text": "کل اسے ہمارے ساتھ بھیج دیں تاکہ وہ کھائے پیے اور کھیلے اور ہم اس کی حفاظت کریں گے۔",
     "persian_text": "فردا او را با ما بفرست تا بخورد و بازی کند و ما از او محافظت خواهیم کرد.",
     "transliteration": "Arsilhu ma'anaa ghadan yarta' wa yal'ab wa innaa lahu lahaafizhoona",
@@ -98,7 +98,7 @@ ayats = [
   {
     "verse_number": 13,
     "english_text": "(Yaqoob) said: It really saddens me that you take him (away); and I fear you become unaware of him and a wolf may tear and devour on him.",
-    "arabic_text": "قَالَ اِنِّى لَيَحْزُنُنِى اَن تَذْهَبُوا بِهِ وَاَخَافُ اَن يَاْكُلَهُ الذِّئْبُ وَ اَنتُمْ عَنْهُ غَافِلُونَ",
+    "arabic_text": "قَالَ اِنِّى لَيَحْزُنُنِى اَن تَذْهَبُوا بِهِ وَ اَخَافُ اَن يَاْكُلَهُ الذِّئْبُ وَ اَنتُمْ عَنْهُ غٰفِلُونَ",
     "urdu_text": "یعقوب نے کہا: مجھے یہ بات بہت رنج دیتی ہے کہ تم اسے لے جاؤ اور مجھے ڈر ہے کہ تم اس سے غافل ہو جاؤ اور بھیڑیا اسے کھا جائے۔",
     "persian_text": "گفت: به راستی مرا غمگین می‌کند که او را با خود ببرید و می‌ترسم که از او غافل شوید و گرگ او را بخورد.",
     "transliteration": "Qaala innee layahzununee an tadhhaboo bihi wa akhaafu an ya'kulahud dhi'bu wa antum 'anhu ghaafiloona",
@@ -106,7 +106,7 @@ ayats = [
   {
     "verse_number": 14,
     "english_text": "We are a big party, even then if wolf will devour him, then certainly we will be among the big losers.",
-    "arabic_text": "قَالُوْا لَئِنْ اَكَلَهُ الذِّئْبُ وَنَحْنُ عُصْبَةٌ اِنَّا اِذًا لَّخَاسِرُونَ",
+    "arabic_text": "قَالُوْا لَئِنْ اَكَلَهُ الذِّئْبُ وَ نَحْنُ عُصْبَةٌ اِنَّا اِذًا لَّخٰسِرُونَ",
     "urdu_text": "انہوں نے کہا: اگر ہم ایک بڑی جماعت ہونے کے باوجود بھیڑیا اسے کھا جائے تو یقیناً ہم بڑے نقصان اٹھانے والے ہوں گے۔",
     "persian_text": "گفتند: اگر گرگ او را بخورد در حالی که ما گروه قوی هستیم، پس قطعاً ما زیانکار خواهیم بود.",
     "transliteration": "Qaaloo la'in akalahud dhi'bu wa nahnu 'usbatun innaa idhal lakhaasiroona",
@@ -114,7 +114,7 @@ ayats = [
   {
     "verse_number": 15,
     "english_text": "When they took Yusuf with them, they decided to throw him in a blind well (and they did it), then We revealed to Yusuf: Do not get frightened; certainly, you will inform them about their (bad) deeds, and they wouldn't know.",
-    "arabic_text": "فَلَمَّا ذَهَبُوا بِهِ وَاَجْمَعُوا اَن يَجْعَلُوهُ فِى غَيَابَتِ الْجُبِّ وَاَوْحَيْنَا اِلَيْهِ لَتُنَبِّئَنَّهُم بِاَمْرِهِمْ هَٰذَا وَهُمْ لَا يَشْعُرُونَ",
+    "arabic_text": "فَلَمَّا ذَهَبُوا بِهِ وَ اَجْمَعُوا اَن يَجْعَلُوهُ فِى غَيٰبَتِ الْجُبِّ وَ اَوْحَيْنَا اِلَيْهِ لَتُنَبِّئَنَّهُم بِاَمْرِهِمْ هَٰذَا وَ هُمْ لَا يَشْعُرُونَ",
     "urdu_text": "پھر جب وہ یوسف کو لے گئے اور انہوں نے فیصلہ کر لیا کہ اسے ایک اندھے کنویں میں ڈال دیں تو ہم نے یوسف کی طرف وحی کی کہ گھبراؤ نہیں، یقیناً تم انہیں ان کے اس برے کام کی خبر دو گے اور انہیں پتہ بھی نہیں چلے گا۔",
     "persian_text": "پس هنگامی که او را با خود بردند و تصمیم گرفتند او را در ژرفای چاه بیندازند، ما به یوسف وحی کردیم که نترس، قطعاً تو آنها را از این کار بدشان آگاه خواهی کرد در حالی که نمی‌دانند.",
     "transliteration": "Falammaa dhahaboo bihi wa ajma'oo an yaj'aloohu fee ghayaabatil jubbi wa awhainaa ilayhi latunabi'annahum bi amrihim haadha wa hum laa yash'uroona",
@@ -122,7 +122,7 @@ ayats = [
   {
     "verse_number": 16,
     "english_text": "They returned crying to their father at night.",
-    "arabic_text": "وَجَاءُوا اَبَاهُمْ عِشَاءً يَبْكُونَ",
+    "arabic_text": "وَ جَاءُوا اَبَاهُمْ عِشَاءً يَبْكُونَ",
     "urdu_text": "اور وہ رات کے وقت اپنے باپ کے پاس روتے ہوئے آئے",
     "persian_text": "و آنها شب هنگام گریان نزد پدرشان آمدند",
     "transliteration": "Wa jaa'oo abaahum 'ishaa'an yabkoon",
@@ -130,7 +130,7 @@ ayats = [
   {
     "verse_number": 17,
     "english_text": "And said: O Father, we went for a race and had left Yusuf to guard our goods, and in between a wolf came and devoured him, and however we may be truthful, but you will not believe us.",
-    "arabic_text": "قَالُوْا يٰاَبَانَا اِنَّا ذَهَبْنَا نَسْتَبِقُ وَتَرَكْنَا يُوسُفَ عِندَ مَتَاعِنَا فَاَكَلَهُ الذِّئْبُ وَ مَا اَنتَ بِمُؤْمِنٍ لَّنَا وَ لَوْ كُنَّا صَادِقِينَ",
+    "arabic_text": "قَالُوْا يٰاَبَانَا اِنَّا ذَهَبْنَا نَسْتَبِقُ وَ تَرَكْنَا يُوسُفَ عِندَ مَتَاعِنَا فَاَكَلَهُ الذِّئْبُ وَ مَا اَنتَ بِمُؤْمِنٍ لَّنَا وَ لَوْ كُنَّا صٰدِقِينَ",
     "urdu_text": "انہوں نے کہا: اے ہمارے باپ! ہم دوڑ لگانے گئے تھے اور یوسف کو اپنے سامان کے پاس چھوڑ دیا تھا، پھر بھیڑیا اسے کھا گیا، اور آپ ہماری بات پر یقین نہیں کریں گے اگرچہ ہم سچے ہوں",
     "persian_text": "گفتند: ای پدر ما! ما برای مسابقه رفتیم و یوسف را نزد کالاهایمان گذاشتیم، پس گرگ او را خورد، و تو به ما ایمان نخواهی آورد هرچند که ما راستگو باشیم",
     "transliteration": "Qaaloo yaa abaanaa innaa dhahabnaa nastabiqu wa taraknaa Yoosufa 'inda mataa'inaa fa akalahu adh-dhi'bu wa maa anta bi mu'minin lanaa wa law kunnaa saadiqeen",
@@ -138,7 +138,7 @@ ayats = [
   {
     "verse_number": 18,
     "english_text": "And they also brought shirt of Yusuf, with false blood on it; Yaqoob said: wolf has not devoured on him but you have forged the thing from your heart for your defense, then I have way of patience and thanks on what you describe, and I seek help from Allah only.",
-    "arabic_text": "وَجَاءُوا عَلَىٰ قَمِيصِهِ بِدَمٍ كَذِبٍ ۚ قَالَ بَلْ سَوَّلَتْ لَكُمْ اَنفُسُكُمْ اَمْرًا ۖ فَصَبْرٌ جَمِيلٌ ۖ وَاللَّهُ الْمُسْتَعَانُ عَلَىٰ مَا تَصِفُونَ",
+    "arabic_text": "وَ جَاءُوا عَلَىٰ قَمِيصِهِ بِدَمٍ كَذِبٍ ۚ قَالَ بَلْ سَوَّلَتْ لَكُمْ اَنفُسُكُمْ اَمْرًا ۖ فَصَبْرٌ جَمِيلٌ ۖ وَ اللّٰهُ الْمُسْتَعَانُ عَلَىٰ مَا تَصِفُونَ",
     "urdu_text": "اور وہ یوسف کی قمیص پر جھوٹا خون لگا کر لائے، یعقوب نے کہا: نہیں بلکہ تمہارے نفس نے تمہارے لیے ایک بات بنا دی ہے، پس صبر ہی بہتر ہے، اور جو تم بیان کرتے ہو اس پر اللہ ہی سے مدد مانگتا ہوں",
     "persian_text": "و پیراهن او را با خون دروغین آوردند، گفت: نه بلکه نفس شما کاری را برای شما آراسته است، پس صبر جمیل، و از خدا بر آنچه توصیف می‌کنید یاری می‌جویم",
     "transliteration": "Wa jaa'oo 'alaa qameesihi bi damin kadhib, qaala bal sawwalat lakum anfusukum amraa, fa sabrun jameel, wallaahu almusta'aanu 'alaa maa tasifoon",
@@ -146,7 +146,7 @@ ayats = [
   {
     "verse_number": 19,
     "english_text": "There comes a caravan and they sent their watercarrier to fetch water, he let down the bucket (in the well) and Yusuf sat in it, when he pulled it up he shouted wow there is a boy (in it), and they concealed Yusuf as a valuable investment, and Allah knew whatever they were doing.",
-    "arabic_text": "وَجَآءَتْ سَيَّارَةٌ فَاَرْسَلُوا وَارِدَهُمْ فَاَدْلَىٰ دَلْوَهُ ۖ قَالَ يٰبُشْرٰى هَٰذَا غُلَامٌ ۚ وَاَسَرُّوهُ بِضَاعَةً ۚ وَاللَّهُ عَلِيمٌ بِمَا يَعْمَلُونَ",
+    "arabic_text": "وَ جَآءَتْ سَيَّارَةٌ فَاَرْسَلُوا وَ ارِدَهُمْ فَاَدْلَىٰ دَلْوَهُ ۖ قَالَ يٰبُشْرٰى هَٰذَا غُلٰمٌ ۚ وَ اَسَرُّوهُ بِضَاعَةً ۚ وَ اللّٰهُ عَلِيمٌ بِمَا يَعْمَلُونَ",
     "urdu_text": "اور ایک قافلہ آیا تو انہوں نے اپنا پانی بھرنے والا بھیجا، اس نے اپنا ڈول کنویں میں ڈالا، اس نے کہا: خوشخبری ہو! یہ تو ایک لڑکا ہے، اور انہوں نے اسے تجارتی سامان کے طور پر چھپا لیا، اور اللہ جانتا تھا جو وہ کر رہے تھے",
     "persian_text": "و کاروانی آمد و آب‌کش خود را فرستادند، پس دلو خود را فرو افکند، گفت: ای مژده! این پسری است، و او را به عنوان کالایی پنهان کردند، و خداوند به آنچه انجام می‌دهند داناست",
     "transliteration": "Wa jaa'at sayyaaratun fa arsaloo waaridahum fa adlaa dalwahu qaala yaa bushraa haadha ghulaam, wa asarroohu bidaa'ah, wallaahu 'aleemun bimaa ya'maloon",
@@ -154,7 +154,7 @@ ayats = [
   {
     "verse_number": 20,
     "english_text": "When brothers of Yusuf became aware, they came forth and said: Yusuf is their slave, and they sold him for a few coins as they were already frustrated with Yusuf.",
-    "arabic_text": "وَشَرَوْهُ بِثَمَنٍ بَخْسٍ دَرَاهِمَ مَعْدُودَةٍ وَكَانُوا فِيهِ مِنَ الزَّاهِدِينَ",
+    "arabic_text": "وَ شَرَوْهُ بِثَمَنٍ بَخْسٍ دَرَاهِمَ مَعْدُودَةٍ وَ كَانُوا فِيهِ مِنَ الزَّاهِدِينَ",
     "urdu_text": "اور انہوں نے اسے تھوڑی قیمت پر، چند درہموں کے عوض بیچ دیا، اور وہ اس سے بے رغبت تھے",
     "persian_text": "و او را به بهای ناچیز، درهم‌های شمرده‌ای فروختند، و آنها نسبت به او از بی‌رغبتان بودند",
     "transliteration": "Wa sharawhu bi thamanin bakhsin daraahima ma'doodah, wa kaanoo feehi minaz zaahideen",
@@ -162,7 +162,7 @@ ayats = [
   {
     "verse_number": 21,
     "english_text": "(They took Yusuf and reached Egypt and sold him for a hefty price) And of the people of Egypt who brought him and gifted him to his wife (Zulekha), and told her to keep him honorably, he might benefit us, or we might take him as son; and like this We made him powerful in Egypt, and that We teach him interpretation of dreams, and like this Allah is Predominant and Powerful but many of them do not know (Him).",
-    "arabic_text": "وَقَالَ الَّذِى اشْتَرَاهُ مِن مِّصْرَ لِامْرَاَتِهِ اَكْرِمِى مَثْوَاهُ عَسَىٰ اَن يَنفَعَنَا اَوْ نَتَّخِذَهُ وَلَدًا ۚ وَ كَذٰلِكَ مَكَّنَّا لِيُوسُفَ فِى الْاَرْضِ وَلِنُعَلِّمَهُ مِن تَاْوِيلِ الْاَحَادِيثِ ۚ وَاللَّهُ غَالِبٌ عَلَىٰ اَمْرِهِ وَلَـٰكِنَّ اَكْثَرَ النَّاسِ لَا يَعْلَمُونَ",
+    "arabic_text": "وَ قَالَ الَّذِى اشْتَرٰهُ مِن مِّصْرَ لِامْرَاَتِهِ اَكْرِمِى مَثْوٰهُ عَسَىٰٓ اَنْ يَّنْفَعَنَا اَوْ نَتَّخِذَهُ وَلَدًا ۚ وَ كَذٰلِكَ مَكَّنَّا لِيُوسُفَ فِى الْاَرْضِ وَ لِنُعَلِّمَهُ مِن تَاْوِيلِ الْاَحَادِيثِ ۚ وَ اللّٰهُ غَالِبٌ عَلَىٰ اَمْرِهِ وَ لَـٰكِنَّ اَكْثَرَ النَّاسِ لَا يَعْلَمُونَ",
     "urdu_text": "اور مصر کے جس شخص نے یوسف کو خریدا تھا اس نے اپنی بیوی سے کہا کہ اس کی اچھی طرح خاطر مدارات کرنا، امید ہے کہ یہ ہمیں فائدہ پہنچائے یا ہم اسے بیٹا بنا لیں، اور اس طرح ہم نے یوسف کو زمین میں اقتدار دیا اور تاکہ ہم انہیں خوابوں کی تعبیر سکھائیں، اور اللہ اپنے کام میں غالب ہے لیکن اکثر لوگ نہیں جانتے۔",
     "persian_text": "و کسی که او را در مصر خرید به همسرش گفت: جایگاه او را گرامی دار، شاید برای ما سودمند باشد یا او را فرزند خود قرار دهیم، و این چنین یوسف را در زمین قدرت دادیم و تا تعبیر خواب‌ها را به او بیاموزیم، و خداوند بر کار خود چیره است ولی بیشتر مردم نمی‌دانند.",
     "transliteration": "Wa qala allazi ishtarahu min Misra li-imra'atihi akrimi mathwahu 'asa an yanfa'ana aw nattakhidhahu walada, wa kadhalika makkanna li-Yusufa fil-ardi wa linu'allimahu min ta'wil il-ahadith, wallahu ghalibun 'ala amrihi wa lakinna akthara an-nasi la ya'lamun",
@@ -170,7 +170,7 @@ ayats = [
   {
     "verse_number": 22,
     "english_text": "And when Yusuf reached his youth We gave him command (prophethood) and knowledge, and We reward the good doers like this.",
-    "arabic_text": "وَ لَمَّا بَلَغَ اَشُدَّهُ آتَيْنَاهُ حُكْمًا وَعِلْمًا ۚ وَ كَذٰلِكَ نَجْزِى الْمُحْسِنِينَ",
+    "arabic_text": "وَ لَمَّا بَلَغَ اَشُدَّهُ آتَيْنٰهُ حُكْمًا وَ عِلْمًا ۚ وَ كَذٰلِكَ نَجْزِى الْمُحْسِنِينَ",
     "urdu_text": "اور جب یوسف اپنی جوانی کو پہنچے تو ہم نے انہیں حکمت اور علم عطا کیا، اور ہم نیکی کرنے والوں کو اسی طرح بدلہ دیتے ہیں۔",
     "persian_text": "و چون یوسف به بلوغ و کمال رسید، به او حکمت و دانش دادیم، و این چنین نیکوکاران را پاداش می‌دهیم.",
     "transliteration": "Wa lamma balagha ashuddahu ataynahu hukman wa 'ilma, wa kadhalika najzi al-muhsinin",
@@ -178,7 +178,7 @@ ayats = [
   {
     "verse_number": 23,
     "english_text": "And the lady (Zulekha) in whose home Yusuf was living; wanted to get her illegitimate desire fulfilled from him and she closed all the doors, and lustily said: come forward, Yusuf said: Allah forbid, your husband is my master and he has kept me well, Verily the unjust never prosper.",
-    "arabic_text": "وَرَاوَدَتْهُ الَّتِى هُوَ فِى بَيْتِهَا عَن نَّفْسِهِ وَغَلَّقَتِ الْاَبْوَابَ وَقَالَتْ هَيْتَ لَكَ ۚ قَالَ مَعَاذَ اللَّهِ ۖ اِنَّهُ رَبِّى اَحْسَنَ مَثْوَايَ ۖ اِنَّهُ لَا يُفْلِحُ الظَّالِمُونَ",
+    "arabic_text": "وَرَاوَدَتْهُ الَّتِى هُوَ فِى بَيْتِهَا عَن نَّفْسِهِ وَغَلَّقَتِ الْاَبْوَابَ وَقَالَتْ هَيْتَ لَكَ ۚ قَالَ مَعَاذَ اللّٰهِ ۖ اِنَّهُ رَبِّى اَحْسَنَ مَثْوَايَ ۖ اِنَّهُ لَا يُفْلِحُ الظَّالِمُونَ",
     "urdu_text": "اور جس عورت کے گھر میں یوسف تھے اس نے ان سے برائی کا ارادہ کیا اور اس نے تمام دروازے بند کر دیے اور کہا آؤ میرے پاس، یوسف نے کہا اللہ کی پناہ، بے شک تمہارا شوہر میرا مالک ہے اس نے میری اچھی طرح خاطر مدارات کی ہے، بے شک ظالم کبھی فلاح نہیں پاتے۔",
     "persian_text": "و زنی که یوسف در خانه‌اش بود، از او درخواست نامشروع کرد و درها را بست و گفت: بیا، یوسف گفت: پناه بر خدا، همسر تو سرپرست من است و به من نیکی کرده، همانا ستمکاران رستگار نمی‌شوند.",
     "transliteration": "Wa rawadathu allati huwa fi baytiha 'an nafsihi wa ghallaqat al-abwaba wa qalat hayta lak, qala ma'adha Allah, innahu rabbi ahsana mathwaya, innahu la yuflihu adh-dhalimun",
@@ -234,7 +234,7 @@ ayats = [
   {
     "verse_number": 30,
     "english_text": "And ladies of the city (of Egypt) started discussing that wife of Aziz (mighty one of Egypt - 'Aziz-e-Misr') is desirous of (illicit) relationship with her slave, Verily slave have entangled her in love. (but) we see her in clear error.",
-    "arabic_text": "وَقَالَ نِسْوَةٌ فِى الْمَدِينَةِ امْرَاَتُ الْعَزِيزِ تُرَاوِدُ فَتَاهَا عَن نَّفْسِهِ ۖ قَدْ شَغَفَهَا حُبًّا ۖ اِنَّا لَنَرَاهَا فِى ضَلَالٍ مُّبِينٍ",
+    "arabic_text": "وَقَالَ نِسْوَةٌ فِى الْمَدِينَةِ امْرَاَتُ الْعَزِيزِ تُرَاوِدُ فَتَاهَا عَن نَّفْسِهِ ۖ قَدْ شَغَفَهَا حُبًّا ۖ اِنَّا لَنَرَاهَا فِى ضَلٰلٍ مُّبِينٍ",
     "urdu_text": "اور شہر کی عورتوں نے کہنا شروع کیا کہ عزیز کی بیوی اپنے غلام سے بری خواہش کر رہی ہے، اس کی محبت نے اسے دیوانہ کر دیا ہے، ہم تو اسے کھلی گمراہی میں دیکھتے ہیں",
     "persian_text": "و زنان شهر گفتند: همسر عزیز، غلام خود را به کار بد می‌خواهد، عشق او دل او را فرا گرفته است، ما او را در گمراهی آشکار می‌بینیم",
     "transliteration": "Wa qala niswatun fil madinati imra'atul 'azizi turawidu fataha 'an nafsihi qad shaghafaha hubban inna lanaraha fi dalalin mubin",
@@ -274,7 +274,7 @@ ayats = [
   {
     "verse_number": 35,
     "english_text": "Then in spite of witnessing the signs, they thought to imprison him for some time.",
-    "arabic_text": "ثُمَّ بَدَا لَهُم مِّن بَعْدِ مَا رَاَوُا الْآيَاتِ لَيَسْجُنُنَّهُ حَتَّىٰ حِينٍ",
+    "arabic_text": "ثُمَّ بَدَا لَهُم مِّن بَعْدِ مَا رَاَوُا الْاٰيٰتِ لَيَسْجُنُنَّهُ حَتَّىٰ حِينٍ",
     "urdu_text": "پھر نشانیاں دیکھنے کے بعد بھی انہوں نے یہ مناسب سمجھا کہ اسے کچھ عرصے کے لیے قید کر دیں۔",
     "persian_text": "سپس پس از آنکه نشانه‌ها را دیدند، بر آنان آشکار شد که او را تا مدتی زندانی کنند.",
     "transliteration": "Thumma bada lahum min ba'di ma ra'awul ayati layasjununnahu hatta heen",
@@ -290,7 +290,7 @@ ayats = [
   {
     "verse_number": 37,
     "english_text": "Yusuf said: before any food comes to you (in prison), I will interpret it that what food you will be getting, this (interpretation of dreams) is among other things which my Lord has taught me; I have left them behind who do not believe in Allah, and they also deny the Hereafter.",
-    "arabic_text": "قَالَ لَا يَاْتِيكُمَا طَعَامٌ تُرْزَقَانِهِ اِلَّا نَبَّاْتُكُمَا بِتَاْوِيلِهِ قَبْلَ اَن يَاْتِيَكُمَا ۚ ذَٰلِكُمَا مِمَّا عَلَّمَنِى رَبِّى ۚ اِنِّى تَرَكْتُ مِلَّةَ قَوْمٍ لَّا يُؤْمِنُونَ بِاللَّهِ وَهُم بِالْآخِرَةِ هُمْ كَافِرُونَ",
+    "arabic_text": "قَالَ لَا يَاْتِيكُمَا طَعَامٌ تُرْزَقَانِهِ اِلَّا نَبَّاْتُكُمَا بِتَاْوِيلِهِ قَبْلَ اَن يَاْتِيَكُمَا ۚ ذَٰلِكُمَا مِمَّا عَلَّمَنِى رَبِّى ۚ اِنِّى تَرَكْتُ مِلَّةَ قَوْمٍ لَّا يُؤْمِنُونَ بِاللّٰهِ وَهُم بِالْآخِرَةِ هُمْ كَافِرُونَ",
     "urdu_text": "یوسف نے کہا: تمہارے پاس جو کھانا آئے گا، اس سے پہلے میں تمہیں اس کی تعبیر بتا دوں گا۔ یہ ان چیزوں میں سے ہے جو میرے رب نے مجھے سکھائی ہیں۔ میں نے ان لوگوں کا طریقہ چھوڑ دیا ہے جو اللہ پر ایمان نہیں رکھتے اور آخرت کا انکار کرتے ہیں۔",
     "persian_text": "یوسف گفت: پیش از آنکه طعامی که به شما روزی داده می‌شود به شما برسد، من تعبیر آن را به شما خواهم گفت. این از آن چیزهایی است که پروردگارم به من آموخته است. من آیین قومی را که به خدا ایمان نمی‌آورند و به آخرت کافرند، ترک کرده‌ام.",
     "transliteration": "Qala la ya'tikuma ta'amun turzaqanihi illa nabba'tukuma bi-ta'wilihi qabla an ya'tiyakuma dhalikuma mimma 'allamani rabbi inni taraktu millata qawmin la yu'minuna billahi wa hum bil-akhirati hum kafirun",
@@ -298,7 +298,7 @@ ayats = [
   {
     "verse_number": 38,
     "english_text": "I follow the religion of my forefathers Ibrahim, Ishaq and Yaqoob, it is not appropriate for me to consider anybody partner with Allah, this is also one of the kindnesses of Allah - on us and on all people, but many of them do not thank also.",
-    "arabic_text": "وَاتَّبَعْتُ مِلَّةَ آبَائِى اِبْرٰهِيمَ وَاِسْحٰقَ وَيَعْقُوبَ ۚ مَا كَانَ لَنَا اَن نُّشْرِكَ بِاللَّهِ مِن شَيْءٍ ۚ ذٰلِكَ مِن فَضْلِ اللَّهِ عَلَيْنَا وَعَلَى النَّاسِ وَلَٰكِنَّ اَكْثَرَ النَّاسِ لَا يَشْكُرُونَ",
+    "arabic_text": "وَاتَّبَعْتُ مِلَّةَ آبَائِى اِبْرٰهِيمَ وَاِسْحٰقَ وَيَعْقُوبَ ۚ مَا كَانَ لَنَا اَن نُّشْرِكَ بِاللّٰهِ مِن شَيْءٍ ۚ ذٰلِكَ مِن فَضْلِ اللّٰهِ عَلَيْنَا وَعَلَى النَّاسِ وَلَٰكِنَّ اَكْثَرَ النَّاسِ لَا يَشْكُرُونَ",
     "urdu_text": "اور میں نے اپنے باپ دادا ابراہیم، اسحاق اور یعقوب کے دین کی پیروی کی ہے۔ ہمارے لیے یہ مناسب نہیں کہ ہم اللہ کے ساتھ کسی کو شریک ٹھہرائیں۔ یہ اللہ کا فضل ہے ہم پر اور تمام لوگوں پر، لیکن اکثر لوگ شکر ادا نہیں کرتے۔",
     "persian_text": "و من از آیین پدرانم ابراهیم و اسحاق و یعقوب پیروی کردم. برای ما سزاوار نیست که چیزی را با خدا شریک قرار دهیم. این از فضل خداست بر ما و بر مردم، ولی بیشتر مردم شکر نمی‌گزارند.",
     "transliteration": "Wa ittaba'tu millata aba'i Ibrahima wa Ishaqa wa Ya'qub ma kana lana an nushrika billahi min shay'in dhalika min fadli Allahi 'alayna wa 'ala an-nasi wa lakinna akthara an-nasi la yashkurun",
@@ -306,7 +306,7 @@ ayats = [
   {
     "verse_number": 39,
     "english_text": "O my prison friends, just think who can be stronger, many gods or One God?",
-    "arabic_text": "يٰصَاحِبَيِ السِّجْنِ اَاَرْبَابٌ مُّتَفَرِّقُونَ خَيْرٌ اَمِ اللَّهُ الْوَاحِدُ الْقَهَّارُ",
+    "arabic_text": "يٰصَاحِبَيِ السِّجْنِ اَاَرْبَابٌ مُّتَفَرِّقُونَ خَيْرٌ اَمِ اللّٰهُ الْوَاحِدُ الْقَهَّارُ",
     "urdu_text": "اے میرے قید خانے کے ساتھیو! کیا بہت سے الگ الگ معبود بہتر ہیں یا ایک اللہ جو واحد اور زبردست ہے؟",
     "persian_text": "ای دو رفیق زندانی من! آیا پروردگاران پراکنده بهترند یا خدای یکتای قهار؟",
     "transliteration": "Ya sahibayi as-sijni a-arbabun mutafarriquna khayrun ami Allahu al-wahidu al-qahhar",
@@ -314,7 +314,7 @@ ayats = [
   {
     "verse_number": 40,
     "english_text": "Alas! You are worshipping the names except Allah, who have been forged by your forefathers, Allah has not sent any proof for them, governance is just for Allah only, He has commanded that do not worship anybody except Him, this is the righteous religion, but many of the people do not know.",
-    "arabic_text": "مَا تَعْبُدُونَ مِن دُونِهِ اِلَّا اَسْمَآءً سَمَّيْتُمُوهَا اَنتُمْ وَآبَاؤُكُم مَّا اَنزَلَ اللَّهُ بِهَا مِن سُلْطٰنٍ ۚ اِنِ الْحُكْمُ اِلَّا لِلّٰهِ ۚ اَمَرَ اَلَّا تَعْبُدُوا اِلَّا اِيَّاهُ ۚ ذٰلِكَ الدِّينُ الْقَيِّمُ وَلَٰكِنَّ اَكْثَرَ النَّاسِ لَا يَعْلَمُونَ",
+    "arabic_text": "مَا تَعْبُدُونَ مِن دُونِهِ اِلَّا اَسْمَآءً سَمَّيْتُمُوهَا اَنتُمْ وَآبَاؤُكُم مَّا اَنزَلَ اللّٰهُ بِهَا مِن سُلْطٰنٍ ۚ اِنِ الْحُكْمُ اِلَّا لِلّٰهِ ۚ اَمَرَ اَلَّا تَعْبُدُوا اِلَّا اِيَّاهُ ۚ ذٰلِكَ الدِّينُ الْقَيِّمُ وَلَٰكِنَّ اَكْثَرَ النَّاسِ لَا يَعْلَمُونَ",
     "urdu_text": "تم اللہ کے سوا صرف ان ناموں کی عبادت کر رہے ہو جو تم نے اور تمہارے باپ دادا نے خود گھڑ لیے ہیں، اللہ نے ان کے لیے کوئی دلیل نازل نہیں کی۔ حکم صرف اللہ ہی کا ہے، اس نے حکم دیا ہے کہ اس کے سوا کسی کی عبادت نہ کرو، یہی سیدھا دین ہے، لیکن اکثر لوگ نہیں جانتے۔",
     "persian_text": "شما جز خدا چیزی را نمی‌پرستید مگر نام‌هایی که شما و پدرانتان آنها را نامیده‌اید، خدا هیچ دلیلی بر آنها نازل نکرده است. فرمان جز از آن خدا نیست، او فرمان داده که جز او را نپرستید، این است دین استوار، ولی بیشتر مردم نمی‌دانند.",
     "transliteration": "Ma ta'buduna min dunihi illa asma'an sammaytumuhaa antum wa aba'ukum ma anzala Allahu biha min sultanin ini al-hukmu illa lillahi amara alla ta'budu illa iyyahu dhalika ad-dinu al-qayyimu wa lakinna akthara an-nasi la ya'lamun",
@@ -330,7 +330,7 @@ ayats = [
   {
     "verse_number": 42,
     "english_text": "And Yusuf said to the one who would be free, that to speak to his master regarding him (that he is imprisoned without any crime), and Satan made him forget to mention to his master, so Yusuf remained imprisoned for a few years.",
-    "arabic_text": "وَقَالَ لِلَّذِى ظَنَّ اَنَّهُ نَاجٍ مِّنْهُمَا اذْكُرْنِى عِندَ رَبِّكَ فَاَنسَاهُ الشَّيْطَانُ ذِكْرَ رَبِّهِ فَلَبِثَ فِى السِّجْنِ بِضْعَ سِنِينَ",
+    "arabic_text": "وَقَالَ لِلَّذِى ظَنَّ اَنَّهُ نَاجٍ مِّنْهُمَا اذْكُرْنِى عِندَ رَبِّكَ فَاَنسَاهُ الشَّيْطٰنُ ذِكْرَ رَبِّهِ فَلَبِثَ فِى السِّجْنِ بِضْعَ سِنِينَ",
     "urdu_text": "اور یوسف نے اس شخص سے جس کے بارے میں انہوں نے سمجھا کہ وہ نجات پا جائے گا کہا کہ اپنے آقا کے پاس میرا ذکر کرنا، لیکن شیطان نے اسے اپنے آقا کے پاس یوسف کا ذکر کرنا بھلا دیا، چنانچہ یوسف کئی سال قید میں رہے۔",
     "persian_text": "و یوسف به کسی که گمان می‌برد از آن دو نجات می‌یابد گفت: مرا نزد اربابت یاد کن. اما شیطان یاد کردن او را نزد اربابش فراموش کرد، پس یوسف چند سال در زندان ماند.",
     "transliteration": "Wa qala lilladhi dhanna annahu najin minhuma udhkurni 'inda rabbika fa-ansahu ash-shaytanu dhikra rabbihi fa-labitha fi as-sijni bid'a sinina",
@@ -410,7 +410,7 @@ ayats = [
   {
     "verse_number": 52,
     "english_text": "(Messenger narrated this incident to Yusuf in prison, so Yusuf said: by this I just wanted) That king should know that I did not betray his trust in the absence of Aziz; and Allah never lets the guile of the people succeed.",
-    "arabic_text": "ذٰلِكَ لِيَعْلَمَ اَنِّى لَمْ اَخُنْهُ بِالْغَيْبِ وَاَنَّ اللَّهَ لَا يَهْدِى كَيْدَ الْخَائِنِينَ",
+    "arabic_text": "ذٰلِكَ لِيَعْلَمَ اَنِّى لَمْ اَخُنْهُ بِالْغَيْبِ وَاَنَّ اللّٰهَ لَا يَهْدِى كَيْدَ الْخَائِنِينَ",
     "urdu_text": "یہ اس لیے کہ وہ جان لے کہ میں نے ان کی غیر موجودگی میں خیانت نہیں کی اور بے شک اللہ خائنوں کی چال کو کامیاب نہیں کرتا۔",
     "persian_text": "این برای آن است که بداند من در غیاب او خیانت نکردم و خداوند مکر خائنان را راهنمایی نمی‌کند.",
     "transliteration": "Dhalika liya'lama anni lam akhunhu bilghaybi wa annallaha la yahdi kaydalkhā'inin",
@@ -458,7 +458,7 @@ ayats = [
   {
     "verse_number": 58,
     "english_text": "(Since there was drought in Kanaan also) When (step) brothers of Yusuf came to Egypt to purchase grain, he recognized them, but they could not recognize him.",
-    "arabic_text": "وَجَآءَ اِخْوَةُ يُوسُفَ فَدَخَلُوا عَلَيْهِ فَعَرَفَهُمْ وَهُمْ لَهُ مُنكِرُونَ",
+    "arabic_text": "وَجَآءَ اِخْوَةُ يُوسُفَ فَدَخَلُوا عَلَيْهِ فَعَرَفَهُمْ وَ هُمْ لَهُ مُنكِرُونَ",
     "urdu_text": "اور یوسف کے بھائی آئے اور ان کے پاس داخل ہوئے تو یوسف نے انہیں پہچان لیا لیکن وہ انہیں نہ پہچان سکے۔",
     "persian_text": "و برادران یوسف آمدند و بر او وارد شدند، پس او آنان را شناخت در حالی که آنان او را نشناختند.",
     "transliteration": "Wa ja'a ikhwatu Yusufa fadakhalu 'alayhi fa'arafahum wa hum lahu munkiroon",
@@ -498,7 +498,7 @@ ayats = [
   {
     "verse_number": 63,
     "english_text": "When they returned to their father, they said: O father, we have been prohibited from getting the grain again, so (next time) send our brother Benjamin (with us), so that we can bring the grain (again), and we will fully protect him.",
-    "arabic_text": "فَلَمَّا رَجَعُوا اِلـٰى اَبِيهِمْ قَالُوْا يٰاَبَانَا مُنِعَ مِنَّا الْكَيْلُ فَاَرْسِلْ مَعَنَا اَخَانَا نَكْتَلْ وَ اِنَّا لَهُ لَحَافِظُونَ",
+    "arabic_text": "فَلَمَّا رَجَعُوا اِلـٰى اَبِيهِمْ قَالُوْا يٰاَبَانَا مُنِعَ مِنَّا الْكَيْلُ فَاَرْسِلْ مَعَنَا اَخَانَا نَكْتَلْ وَ اِنَّا لَهُ لَحٰفِظُونَ",
     "urdu_text": "جب وہ اپنے والد کے پاس واپس آئے تو کہا: اے ہمارے والد! ہمیں اناج لینے سے منع کر دیا گیا ہے، لہٰذا ہمارے ساتھ ہمارے بھائی کو بھیج دیجیے تاکہ ہم اناج لے سکیں، اور ہم یقیناً اس کی حفاظت کریں گے۔",
     "persian_text": "پس چون به نزد پدرشان بازگشتند، گفتند: ای پدر ما! از دادن غله به ما منع شده است، پس برادرمان را با ما بفرست تا غله بگیریم و ما قطعاً از او محافظت خواهیم کرد.",
     "transliteration": "Falammaa raja'oo ilaa abeehim qaaloo yaa abaanaa muni'a minnal-kaylu fa arsil ma'anaa akhaanaa naktal wa innaa lahu lahaafizoon",
@@ -506,7 +506,7 @@ ayats = [
   {
     "verse_number": 64,
     "english_text": "Yaqoob said: Shall I trust you for him, like I have trusted you before for his brother (Yusuf)? (Anyway) Allah is his best protector, and He shows Mercy more than anybody else.",
-    "arabic_text": "قَالَ هَلْ آمَنُكُمْ عَلَيْهِ اِلَّا كَمَا اَمِنتُكُمْ عَلَىٰ اَخِيهِ مِن قَبْلُ ۖ فَاللَّهُ خَيْرٌ حَافِظًا وَهُوَ اَرْحَمُ الرَّاحِمِينَ",
+    "arabic_text": "قَالَ هَلْ آمَنُكُمْ عَلَيْهِ اِلَّا كَمَا اَمِنتُكُمْ عَلَىٰ اَخِيهِ مِن قَبْلُ ۖ فَاللّٰهُ خَيْرٌ حَافِظًا وَهُوَ اَرْحَمُ الرَّاحِمِينَ",
     "urdu_text": "یعقوب نے کہا: کیا میں اس کے بارے میں تم پر اعتماد کروں جیسا کہ پہلے اس کے بھائی کے بارے میں تم پر اعتماد کیا تھا؟ بہرحال اللہ بہترین نگہبان ہے اور وہ سب رحم کرنے والوں سے زیادہ رحم کرنے والا ہے۔",
     "persian_text": "یعقوب گفت: آیا شما را درباره او امین بدانم همان‌گونه که قبلاً درباره برادرش امین دانستم؟ پس خداوند بهترین نگهبان است و او مهربان‌ترین مهربانان است.",
     "transliteration": "Qaala hal aamanukum 'alayhi illaa kamaa amintukum 'alaa akheehi min qabl fallaahu khayrun haafizanw wa huwa arhamur-raahimeen",
@@ -522,7 +522,7 @@ ayats = [
   {
     "verse_number": 66,
     "english_text": "Yaqoob said: Unless you will not make covenant in the name of Allah that you will bring him back without any harm, but only if you are surrounded in trouble yourself; I will not send him with you, then they made covenant that whatever they are saying Allah is witness to it.",
-    "arabic_text": "قَالَ لَنْ اُرْسِلَهُ مَعَكُمْ حَتَّىٰ تُؤْتُونِ مَوْثِقًا مِّنَ اللَّهِ لَتَاْتُنَّنِى بِهِ اِلَّا اَن يُحَاطَ بِكُمْ ۖ فَلَمَّا آتَوْهُ مَوْثِقَهُمْ قَالَ اللَّهُ عَلَىٰ مَا نَقُولُ وَكِيلٌ",
+    "arabic_text": "قَالَ لَنْ اُرْسِلَهُ مَعَكُمْ حَتَّىٰ تُؤْتُونِ مَوْثِقًا مِّنَ اللّٰهِ لَتَاْتُنَّنِى بِهِ اِلَّا اَن يُحَاطَ بِكُمْ ۖ فَلَمَّا آتَوْهُ مَوْثِقَهُمْ قَالَ اللّٰهُ عَلَىٰ مَا نَقُولُ وَكِيلٌ",
     "urdu_text": "یعقوب نے کہا: میں اسے تمہارے ساتھ ہرگز نہیں بھیجوں گا جب تک تم مجھے اللہ کے نام پر پختہ عہد نہ دو کہ تم اسے میرے پاس واپس لاؤ گے، سوائے اس صورت کے کہ تم خود مصیبت میں گھر جاؤ۔ پھر جب انہوں نے اسے اپنا عہد دے دیا تو یعقوب نے کہا: جو کچھ ہم کہہ رہے ہیں اللہ اس پر نگہبان ہے۔",
     "persian_text": "یعقوب گفت: من هرگز او را با شما نخواهم فرستاد مگر اینکه از جانب خدا به من پیمان محکمی بدهید که حتماً او را نزد من باز خواهید آورد، مگر آنکه خودتان در محاصره قرار گیرید. پس چون پیمان خود را به او دادند، گفت: خداوند بر آنچه می‌گوییم نگهبان است.",
     "transliteration": "Qala lan ursilahu ma'akum hatta tu'tooni mawthiqan minallahi lata'tunanni bihi illa an yuhata bikum falamma atawhu mawthiqahum qalallahu 'ala ma naqoolu wakeel",
@@ -530,7 +530,7 @@ ayats = [
   {
     "verse_number": 67,
     "english_text": "And Yaqoob said to his sons: do not enter all together from one door, but enter (separately) from different doors, because I cannot avert the trouble which may befall on you from Allah; command is from Allah only and I have reposed my trust in Him; and all those who trust should trust in Him.",
-    "arabic_text": "وَقَالَ يٰبَنِيَّ لَا تَدْخُلُوا مِن بَابٍ وَاحِدٍ وَادْخُلُوا مِنْ اَبْوَابٍ مُّتَفَرِّقَةٍ وَ مَا اُغْنِى عَنكُم مِّنَ اللَّهِ مِن شَيْءٍ ۖ اِنِ الْحُكْمُ اِلَّا لِلّٰهِ ۖ عَلَيْهِ تَوَكَّلْتُ ۖ وَعَلَيْهِ فَلْيَتَوَكَّلِ الْمُتَوَكِّلُونَ",
+    "arabic_text": "وَقَالَ يٰبَنِيَّ لَا تَدْخُلُوا مِن بَابٍ وَاحِدٍ وَادْخُلُوا مِنْ اَبْوَابٍ مُّتَفَرِّقَةٍ وَ مَا اُغْنِى عَنكُم مِّنَ اللّٰهِ مِن شَيْءٍ ۖ اِنِ الْحُكْمُ اِلَّا لِلّٰهِ ۖ عَلَيْهِ تَوَكَّلْتُ ۖ وَعَلَيْهِ فَلْيَتَوَكَّلِ الْمُتَوَكِّلُونَ",
     "urdu_text": "اور یعقوب نے اپنے بیٹوں سے کہا: اے میرے بیٹو! ایک ہی دروازے سے داخل نہ ہونا بلکہ مختلف دروازوں سے داخل ہونا۔ اور میں اللہ کی طرف سے آنے والی کسی مصیبت کو تم سے دور نہیں کر سکتا، حکم تو صرف اللہ ہی کا ہے، میں نے اسی پر بھروسہ کیا ہے اور جو بھروسہ کرنے والے ہیں انہیں اسی پر بھروسہ کرنا چاہیے۔",
     "persian_text": "و گفت: ای فرزندان من! همگی از یک در داخل نشوید، بلکه از درهای مختلف وارد شوید. و من نمی‌توانم از جانب خدا چیزی را از شما دفع کنم، فرمان جز از آن خدا نیست، بر او توکل کردم و توکل کنندگان باید بر او توکل کنند.",
     "transliteration": "Wa qala ya baniyya la tadkhulu min babin wahidin wadkhulu min abwabin mutafarriqah wa ma ughnee 'ankum minallahi min shay'in inilhukmu illa lillah 'alayhi tawakkaltu wa 'alayhi falyatawakkalil mutawakkiloon",
@@ -538,7 +538,7 @@ ayats = [
   {
     "verse_number": 68,
     "english_text": "And when all the brothers entered (in Egypt) as per direction of their father, but Yaqoob could not avert the command of Allah which was to come, but there was a desire in his heart which he fulfilled in this way; because Verily We have given knowledge to him, but many of them does not know even this.",
-    "arabic_text": "وَ لَمَّا دَخَلُوا مِنْ حَيْثُ اَمَرَهُمْ اَبُوهُمْ مَا كَانَ يُغْنِى عَنْهُم مِّنَ اللَّهِ مِن شَيْءٍ اِلَّا حَاجَةً فِى نَفْسِ يَعْقُوبَ قَضَاهَا ۚ وَاِنَّهُ لَذُو عِلْمٍ لِّمَا عَلَّمْنَاهُ وَلَٰكِنَّ اَكْثَرَ النَّاسِ لَا يَعْلَمُونَ",
+    "arabic_text": "وَ لَمَّا دَخَلُوا مِنْ حَيْثُ اَمَرَهُمْ اَبُوهُمْ مَا كَانَ يُغْنِى عَنْهُم مِّنَ اللّٰهِ مِن شَيْءٍ اِلَّا حَاجَةً فِى نَفْسِ يَعْقُوبَ قَضَاهَا ۚ وَاِنَّهُ لَذُو عِلْمٍ لِّمَا عَلَّمْنَاهُ وَلَٰكِنَّ اَكْثَرَ النَّاسِ لَا يَعْلَمُونَ",
     "urdu_text": "اور جب وہ سب بھائی اپنے باپ کی ہدایت کے مطابق داخل ہوئے تو یعقوب اللہ کے حکم سے کوئی چیز ان سے دور نہیں کر سکتے تھے، لیکن یعقوب کے دل میں ایک خواہش تھی جسے انہوں نے اس طرح پورا کیا۔ اور بیشک وہ علم والے تھے کیونکہ ہم نے انہیں علم دیا تھا، لیکن اکثر لوگ نہیں جانتے۔",
     "persian_text": "و چون از جایی که پدرشان به آنها دستور داده بود داخل شدند، این کار نتوانست چیزی از فرمان خدا را از آنها دفع کند، مگر حاجتی در دل یعقوب بود که آن را برآورد. و همانا او دارای علمی بود که ما به او آموخته بودیم، ولی بیشتر مردم نمی‌دانند.",
     "transliteration": "Wa lamma dakhalu min haythu amarahum aboohum ma kana yughnee 'anhum minallahi min shay'in illa hajatan fee nafsi Ya'qooba qadaha wa innahu lazoo 'ilmin lima 'allamnahu wa lakinna aktharan nasi la ya'lamoon",
@@ -578,7 +578,7 @@ ayats = [
   {
     "verse_number": 73,
     "english_text": "Then they said: By Allah we did not come to your land to create mischief, we are not thieves.",
-    "arabic_text": "قَالُوْا تَاللَّهِ لَقَدْ عَلِمْتُم مَّا جِئْنَا لِنُفْسِدَ فِى الْاَرْضِ وَ مَا كُنَّا سَارِقِينَ",
+    "arabic_text": "قَالُوْا تَاللّٰهِ لَقَدْ عَلِمْتُم مَّا جِئْنَا لِنُفْسِدَ فِى الْاَرْضِ وَ مَا كُنَّا سَارِقِينَ",
     "urdu_text": "انہوں نے کہا: اللہ کی قسم! تم جانتے ہو کہ ہم اس سرزمین میں فساد کرنے نہیں آئے اور نہ ہی ہم چور ہیں۔",
     "persian_text": "گفتند: به خدا سوگند شما می‌دانید که ما برای فساد در این سرزمین نیامده‌ایم و دزد نبوده‌ایم.",
     "transliteration": "Qaaloo tallaahi laqad 'alimtum maa ji'naa linufsida fil ardi wa maa kunnaa saariqeen",
@@ -602,7 +602,7 @@ ayats = [
   {
     "verse_number": 76,
     "english_text": "Yusuf, before searching his (real) brother's sack, he searched other brothers' sacks, and in the end, he took out bowl from his (real) brother's luggage, to withhold his brother We taught the planning to Yusuf; otherwise as per king's laws, he could not have withheld him, but only if Allah wills; (thus Benjamin was withheld) We raise the rank of whosoever we please; there is also all-knowing one above all the knowledgeable of the world.",
-    "arabic_text": "فَبَدَاَ بِاَوْعِيَتِهِمْ قَبْلَ وِعَاءِ اَخِيهِ ثُمَّ اسْتَخْرَجَهَا مِن وِعَاءِ اَخِيهِ ۚ كَذٰلِكَ كِدْنَا لِيُوسُفَ ۖ مَا كَانَ لِيَاْخُذَ اَخَاهُ فِى دِينِ الْمَلِكِ اِلَّا اَن يَشَاءَ اللَّهُ ۚ نَرْفَعُ دَرَجَاتٍ مَّن نَّشَاءُ ۗ وَفَوْقَ كُلِّ ذِى عِلْمٍ عَلِيمٌ",
+    "arabic_text": "فَبَدَاَ بِاَوْعِيَتِهِمْ قَبْلَ وِعَاءِ اَخِيهِ ثُمَّ اسْتَخْرَجَهَا مِن وِعَاءِ اَخِيهِ ۚ كَذٰلِكَ كِدْنَا لِيُوسُفَ ۖ مَا كَانَ لِيَاْخُذَ اَخَاهُ فِى دِينِ الْمَلِكِ اِلَّا اَن يَشَاءَ اللّٰهُ ۚ نَرْفَعُ دَرَجَاتٍ مَّن نَّشَاءُ ۗ وَفَوْقَ كُلِّ ذِى عِلْمٍ عَلِيمٌ",
     "urdu_text": "پس یوسف نے اپنے سگے بھائی کے تھیلے سے پہلے ان کے تھیلوں کی تلاشی لی، پھر اپنے بھائی کے تھیلے سے وہ پیالہ نکال لیا۔ اس طرح ہم نے یوسف کے لیے تدبیر سکھائی، بادشاہ کے قانون کے مطابق وہ اپنے بھائی کو روک نہیں سکتے تھے مگر یہ کہ اللہ چاہے۔ ہم جس کے درجے چاہیں بلند کرتے ہیں اور ہر علم والے سے اوپر ایک بڑا علم والا ہے۔",
     "persian_text": "پس یوسف پیش از تفتیش بار برادر خود، بارهای برادران دیگر را تفتیش کرد، سپس پیمانه را از بار برادرش بیرون آورد. این چنین برای یوسف تدبیر کردیم، او نمی‌توانست برادرش را بر طبق قانون پادشاه نگه دارد مگر آنکه خدا بخواهد. ما درجات هر که را بخواهیم بالا می‌بریم و بالای هر دانایی، دانای دیگری است.",
     "transliteration": "Fabada-a bi-aw'iyatihim qabla wi'a-i akhihi thumma istakhrajaha min wi'a-i akhih, kadhalika kidna li-Yusufa ma kana liya'khudha akhahu fi dini al-maliki illa an yasha Allahu narfa'u darajatin man nashau wa fawqa kulli dhi 'ilmin 'alim",
@@ -610,7 +610,7 @@ ayats = [
   {
     "verse_number": 77,
     "english_text": "They said: if he stole. (there is no surprise), before him his brother (Yusuf) had stolen, Yusuf concealed it in his heart (and did not reply) and did not disclose it to them, but he said that you are in an evil condition as what you describe for your brother.",
-    "arabic_text": "قَالُوْا اِن يَسْرِقْ فَقَدْ سَرَقَ اَخٌ لَّهُ مِن قَبْلُ ۚ فَاَسَرَّهَا يُوسُفُ فِى نَفْسِهِ وَلَمْ يُبْدِهَا لَهُمْ ۚ قَالَ اَنتُمْ شَرٌّ مَّكَانًا وَاللَّهُ اَعْلَمُ بِمَا تَصِفُونَ",
+    "arabic_text": "قَالُوْا اِن يَسْرِقْ فَقَدْ سَرَقَ اَخٌ لَّهُ مِن قَبْلُ ۚ فَاَسَرَّهَا يُوسُفُ فِى نَفْسِهِ وَلَمْ يُبْدِهَا لَهُمْ ۚ قَالَ اَنتُمْ شَرٌّ مَّكَانًا وَ اللّٰهُ اَعْلَمُ بِمَا تَصِفُونَ",
     "urdu_text": "انہوں نے کہا اگر اس نے چوری کی تو اس سے پہلے اس کے بھائی نے بھی چوری کی تھی۔ یوسف نے یہ بات اپنے دل میں چھپا لی اور انہیں ظاہر نہیں کیا، اور کہا کہ تم بہت برے حال میں ہو اور اللہ خوب جانتا ہے جو تم بیان کرتے ہو۔",
     "persian_text": "گفتند اگر او دزدی کرده، برادرش نیز پیش از این دزدی کرده بود. یوسف این را در دل خود پنهان کرد و به آنها آشکار نساخت و گفت شما در وضعیت بدتری هستید و خدا به آنچه توصیف می‌کنید داناتر است.",
     "transliteration": "Qalu in yasriq faqad saraqa akhun lahu min qabl, fa-asarraha Yusufu fi nafsihi wa lam yubdiha lahum qala antum sharrun makanan wallahu a'lamu bima tasifun",
@@ -626,7 +626,7 @@ ayats = [
   {
     "verse_number": 79,
     "english_text": "Yusuf said: Allah forbid, how can we withheld someone else other than from whose sack the bowl was found, if we do this we will be considered unjust.",
-    "arabic_text": "قَالَ مَعَاذَ اللَّهِ اَن نَّاْخُذَ اِلَّا مَن وَجَدْنَا مَتَاعَنَا عِندَهُ اِنَّا اِذًا لَّظَالِمُونَ",
+    "arabic_text": "قَالَ مَعَاذَ اللّٰهِ اَن نَّاْخُذَ اِلَّا مَن وَجَدْنَا مَتَاعَنَا عِندَهُ اِنَّا اِذًا لَّظَالِمُونَ",
     "urdu_text": "یوسف نے کہا اللہ کی پناہ! ہم کسی اور کو کیسے پکڑ سکتے ہیں سوائے اس کے جس کے پاس ہمارا سامان ملا ہے، اگر ہم ایسا کریں تو ہم ظالم ہوں گے۔",
     "persian_text": "گفت پناه به خدا، ما نمی‌توانیم کسی را جز آن کس که کالای ما نزد او یافتیم بازداریم، اگر چنین کنیم قطعاً ستمگر خواهیم بود.",
     "transliteration": "Qala ma'adha Allahi an na'khudha illa man wajadna mata'ana 'indahu inna idhan la-dhalimun",
@@ -634,7 +634,7 @@ ayats = [
   {
     "verse_number": 80,
     "english_text": "When they were disappointed by Yusuf, they stepped aside for discussion privately among them; eldest among them said: O brothers, don't you know that our father has taken covenant in the name of Allah from us, and before this what mistake you have done about Yusuf, unless my father does not allow or Allah command Himself, I won't leave this land, and Allah is best to command.",
-    "arabic_text": "فَلَمَّا اسْتَيْاَسُوا مِنْهُ خَلَصُوا نَجِيًّا ۖ قَالَ كَبِيرُهُمْ اَلَمْ تَعْلَمُوا اَنَّ اَبَاكُمْ قَدْ اَخَذَ عَلَيْكُم مَّوْثِقًا مِّنَ اللَّهِ وَ مِن قَبْلُ مَا فَرَّطتُمْ فِى يُوسُفَ ۖ فَلَنْ اَبْرَحَ الْاَرْضَ حَتَّىٰ يَاْذَنَ لِى اَبِى اَوْ يَحْكُمَ اللَّهُ لِى ۖ وَهُوَ خَيْرُ الْحٰكِمِينَ",
+    "arabic_text": "فَلَمَّا اسْتَيْاَسُوا مِنْهُ خَلَصُوا نَجِيًّا ۖ قَالَ كَبِيرُهُمْ اَلَمْ تَعْلَمُوا اَنَّ اَبَاكُمْ قَدْ اَخَذَ عَلَيْكُم مَّوْثِقًا مِّنَ اللّٰهِ وَ مِن قَبْلُ مَا فَرَّطتُمْ فِى يُوسُفَ ۖ فَلَنْ اَبْرَحَ الْاَرْضَ حَتَّىٰ يَاْذَنَ لِى اَبِى اَوْ يَحْكُمَ اللّٰهُ لِى ۖ وَهُوَ خَيْرُ الْحٰكِمِينَ",
     "urdu_text": "جب وہ یوسف سے مایوس ہو گئے تو الگ ہو کر آپس میں سرگوشی کرنے لگے، ان میں سب سے بڑے نے کہا کیا تمہیں معلوم نہیں کہ تمہارے باپ نے تم سے اللہ کے نام پر عہد لیا تھا اور اس سے پہلے تم نے یوسف کے بارے میں کیا کوتاہی کی تھی، میں اس سرزمین سے نہیں جاؤں گا جب تک میرے باپ اجازت نہ دیں یا اللہ میرے حق میں فیصلہ نہ کرے اور وہ بہترین فیصلہ کرنے والا ہے۔",
     "persian_text": "پس چون از او نومید شدند، به کناری رفته با هم در خلوت گفتگو کردند، بزرگ‌ترشان گفت آیا نمی‌دانید که پدرتان از شما پیمان محکمی به نام خدا گرفته و پیش از این در باره یوسف چه کوتاهی کردید؟ من هرگز این سرزمین را ترک نخواهم کرد تا پدرم اجازه دهد یا خدا برای من حکم کند و او بهترین حکم‌کنندگان است.",
     "transliteration": "Falamma istay-asu minhu khalasu najiyyan qala kabiruhum alam ta'lamu anna abakum qad akhadha 'alaykum mawthiqan mina Allahi wa min qablu ma farrattum fi Yusuf falan abraha al-arda hatta ya'dhana li abi aw yahkuma Allahu li wa huwa khayru al-hakimin",
@@ -658,7 +658,7 @@ ayats = [
   {
     "verse_number": 83,
     "english_text": "(When they went back and described) Yaqoob said: (he did not steal) but you forged it with your heart, so I have patience and thanks Allah, I hope Allah will cause to reach to me all my sons, Verily He is knowing and Wise.",
-    "arabic_text": "قَالَ بَلْ سَوَّلَتْ لَكُمْ اَنفُسُكُمْ اَمْرًا ۖ فَصَبْرٌ جَمِيلٌ ۖ عَسَى اللَّهُ اَن يَاْتِيَنِى بِهِمْ جَمِيعًا ۚ اِنَّهُ هُوَ الْعَلِيمُ الْحَكِيمُ",
+    "arabic_text": "قَالَ بَلْ سَوَّلَتْ لَكُمْ اَنفُسُكُمْ اَمْرًا ۖ فَصَبْرٌ جَمِيلٌ ۖ عَسَى اللّٰهُ اَن يَاْتِيَنِى بِهِمْ جَمِيعًا ۚ اِنَّهُ هُوَ الْعَلِيمُ الْحَكِيمُ",
     "urdu_text": "یعقوب نے کہا بلکہ تمہارے نفس نے تمہیں ایک بات کا خیال دلایا ہے تو اب صبر ہی بہتر ہے امید ہے کہ اللہ ان سب کو میرے پاس لے آئے بیشک وہ جاننے والا حکمت والا ہے",
     "persian_text": "گفت بلکه نفس شما کاری را در نظرتان آراسته است پس صبر جمیل بهتر است امید است خداوند همه آنها را نزد من بیاورد که او داناست حکیم است",
     "transliteration": "Qaala bal sawwalat lakum anfusukum amraa fa-sabrun jameel 'asallaahu an ya'tiyanee bihim jamee'aa innahu huwal-'aleemul-hakeem",
@@ -674,7 +674,7 @@ ayats = [
   {
     "verse_number": 85,
     "english_text": "His sons said: You always remember Yusuf so much that you may fall sick or you might die.",
-    "arabic_text": "قَالُوْا تَاللَّهِ تَفْتَاُ تَذْكُرُ يُوسُفَ حَتَّىٰ تَكُونَ حَرَضًا اَوْ تَكُونَ مِنَ الْهَالِكِينَ",
+    "arabic_text": "قَالُوْا تَاللّٰهِ تَفْتَاُ تَذْكُرُ يُوسُفَ حَتَّىٰ تَكُونَ حَرَضًا اَوْ تَكُونَ مِنَ الْهَالِكِينَ",
     "urdu_text": "ان کے بیٹوں نے کہا اللہ کی قسم آپ ہمیشہ یوسف کو یاد کرتے رہیں گے یہاں تک کہ آپ بیمار ہو جائیں یا ہلاک ہونے والوں میں سے ہو جائیں",
     "persian_text": "گفتند به خدا سوگند تو پیوسته یوسف را یاد می‌کنی تا اینکه بیمار شوی یا از هلاک شدگان باشی",
     "transliteration": "Qaaloo tallaahi taftau tadhkuru Yoosufa hattaa takoona haradan aw takoona minal-haalikeen",
@@ -682,7 +682,7 @@ ayats = [
   {
     "verse_number": 86,
     "english_text": "Yaqoob said: (I do not say anything to you), I complain of uneasiness and sadness to my Allah, and whatever I know from Allah, you do not know.",
-    "arabic_text": "قَالَ اِنَّمَا اَشْكُو بَثِّى وَحُزْنِى اِلَى اللَّهِ وَاَعْلَمُ مِنَ اللَّهِ مَا لَا تَعْلَمُونَ",
+    "arabic_text": "قَالَ اِنَّمَا اَشْكُو بَثِّى وَحُزْنِى اِلَى اللّٰهِ وَاَعْلَمُ مِنَ اللّٰهِ مَا لَا تَعْلَمُونَ",
     "urdu_text": "یعقوب نے کہا: میں اپنی بے چینی اور غم کی شکایت صرف اللہ سے کرتا ہوں، اور میں اللہ کی طرف سے وہ کچھ جانتا ہوں جو تم نہیں جانتے۔",
     "persian_text": "یعقوب گفت: من تنها غم و اندوه خود را نزد خدا شکایت می‌کنم و از جانب خدا چیزهایی می‌دانم که شما نمی‌دانید.",
     "transliteration": "Qala innama ashku bathee wa huzni ilallahi wa a'lamu minallahi ma la ta'lamun",
@@ -690,7 +690,7 @@ ayats = [
   {
     "verse_number": 87,
     "english_text": "O my sons! Go (to Egypt again) and find and bring Yusuf and his brother, and do not be hopeless from the mercy of Allah, because nobody becomes hopeless from the mercy of Allah except infidels.",
-    "arabic_text": "يٰبَنِيَّ اذْهَبُوا فَتَحَسَّسُوا مِن يُوسُفَ وَاَخِيهِ وَ لَا تَيْاَسُوا مِن رَّوْحِ اللَّهِ ۖ اِنَّهُ لَا يَيْاَسُ مِن رَّوْحِ اللَّهِ اِلَّا الْقَوْمُ الْكَافِرُونَ",
+    "arabic_text": "يٰبَنِيَّ اذْهَبُوا فَتَحَسَّسُوا مِن يُوسُفَ وَاَخِيهِ وَ لَا تَيْاَسُوا مِن رَّوْحِ اللّٰهِ ۖ اِنَّهُ لَا يَيْاَسُ مِن رَّوْحِ اللّٰهِ اِلَّا الْقَوْمُ الْكَافِرُونَ",
     "urdu_text": "اے میرے بیٹو! جاؤ اور یوسف اور اس کے بھائی کی تلاش کرو، اور اللہ کی رحمت سے مایوس نہ ہو، کیونکہ اللہ کی رحمت سے کافر لوگوں کے سوا کوئی مایوس نہیں ہوتا۔",
     "persian_text": "ای پسران من! بروید و از یوسف و برادرش جستجو کنید و از رحمت خدا نومید نشوید، زیرا جز قوم کافر کسی از رحمت خدا نومید نمی‌شود.",
     "transliteration": "Ya baniyya izhabu fatahassasu min Yusufa wa akhihi wa la tay'asu min rawhillah, innahu la yay'asu min rawhillahi illal qawmul kafirun",
@@ -698,7 +698,7 @@ ayats = [
   {
     "verse_number": 88,
     "english_text": "When they went to Yusuf again (third time) they said: O mighty one (of Egypt - 'Aziz-e-Misr') we and our families are facing difficulties due to drought, and we have brought some money, ask them to give us full grain, and not only in exchange of money, but as charity and alms also, Verily Allah reward those who do charity.",
-    "arabic_text": "فَلَمَّا دَخَلُوا عَلَيْهِ قَالُوْا يٰٓاَيُّهَا الْعَزِيزُ مَسَّنَا وَاَهْلَنَا الضُّرُّ وَجِئْنَا بِبِضَاعَةٍ مُّزْجَاةٍ فَاَوْفِ لَنَا الْكَيْلَ وَتَصَدَّقْ عَلَيْنَا ۖ اِنَّ اللَّهَ يَجْزِى الْمُتَصَدِّقِينَ",
+    "arabic_text": "فَلَمَّا دَخَلُوا عَلَيْهِ قَالُوْا يٰٓاَيُّهَا الْعَزِيزُ مَسَّنَا وَاَهْلَنَا الضُّرُّ وَجِئْنَا بِبِضَاعَةٍ مُّزْجَاةٍ فَاَوْفِ لَنَا الْكَيْلَ وَتَصَدَّقْ عَلَيْنَا ۖ اِنَّ اللّٰهَ يَجْزِى الْمُتَصَدِّقِينَ",
     "urdu_text": "جب وہ یوسف کے پاس پہنچے تو کہا: اے عزیز مصر! ہم پر اور ہمارے گھر والوں پر مصیبت آ پڑی ہے، اور ہم تھوڑا سا مال لائے ہیں، تو ہمیں پورا ناپ دے اور ہم پر صدقہ کر، بے شک اللہ صدقہ کرنے والوں کو اچھا بدلہ دیتا ہے۔",
     "persian_text": "پس چون نزد او وارد شدند گفتند: ای عزیز مصر! ما و خانواده‌مان را سختی رسیده و مالی اندک آورده‌ایم، پس پیمانه را برای ما تمام کن و بر ما صدقه بده، همانا خداوند صدقه دهندگان را پاداش می‌دهد.",
     "transliteration": "Falamma dakhalu alayhi qalu ya ayyuhal azizu massana wa ahlana addurru wa ji'na bibiḍa'atin muzjatin fa awfi lanal kayla wa tasaddaq alayna, innallaha yajzil mutasaddiqin",
@@ -714,7 +714,7 @@ ayats = [
   {
     "verse_number": 90,
     "english_text": "(They were surprised on hearing this and) said: are you our brother Yusuf? (Said Yusuf) Yes, I am Yusuf and this is my brother, Verily Allah bestowed Mercy on me and Verily whoever fears Him and has patience (on difficulties), so Allah never waste the reward of such people.",
-    "arabic_text": "قَالُوْا اَاِنَّكَ لَاَنتَ يُوسُفُ ۖ قَالَ اَنَا يُوسُفُ وَهَٰذَا اَخِى ۖ قَدْ مَنَّ اللَّهُ عَلَيْنَا ۖ اِنَّهُ مَن يَتَّقِ وَيَصْبِرْ فَاِنَّ اللَّهَ لَا يُضِيعُ اَجْرَ الْمُحْسِنِينَ",
+    "arabic_text": "قَالُوْا اَاِنَّكَ لَاَنتَ يُوسُفُ ۖ قَالَ اَنَا يُوسُفُ وَهَٰذَا اَخِى ۖ قَدْ مَنَّ اللّٰهُ عَلَيْنَا ۖ اِنَّهُ مَن يَتَّقِ وَيَصْبِرْ فَاِنَّ اللّٰهَ لَا يُضِيعُ اَجْرَ الْمُحْسِنِينَ",
     "urdu_text": "انہوں نے کہا: کیا واقعی تم یوسف ہو؟ یوسف نے کہا: ہاں میں یوسف ہوں اور یہ میرا بھائی ہے، اللہ نے ہم پر بڑا احسان کیا ہے، بے شک جو شخص تقویٰ اختیار کرے اور صبر کرے تو اللہ نیکی کرنے والوں کا اجر ضائع نہیں کرتا۔",
     "persian_text": "گفتند: آیا تو واقعاً یوسف هستی؟ گفت: من یوسف هستم و این برادر من است، خداوند بر ما منت نهاد، همانا هر که تقوا پیشه کند و صبر ورزد، خداوند پاداش نیکوکاران را ضایع نمی‌کند.",
     "transliteration": "Qalu a innaka la anta Yusuf, qala ana Yusufu wa hadha akhi, qad mannallahu alayna, innahu man yattaqi wa yasbir fa innallaha la yudi'u ajral muhsinin",
@@ -722,7 +722,7 @@ ayats = [
   {
     "verse_number": 91,
     "english_text": "They said certainly Allah gave you superiority over us and Verily, we were completely at fault.",
-    "arabic_text": "قَالُوْا تَاللَّهِ لَقَدْ آثَرَكَ اللَّهُ عَلَيْنَا وَاِن كُنَّا لَخَاطِئِينَ",
+    "arabic_text": "قَالُوْا تَاللّٰهِ لَقَدْ آثَرَكَ اللّٰهُ عَلَيْنَا وَ اِن كُنَّا لَخَاطِئِينَ",
     "urdu_text": "انہوں نے کہا اللہ کی قسم! بیشک اللہ نے آپ کو ہم پر فضیلت دی ہے اور یقیناً ہم خطاکار تھے",
     "persian_text": "گفتند: به خدا سوگند که خداوند تو را بر ما برتری داده است و ما یقیناً خطاکار بودیم",
     "transliteration": "Qalu tallahi laqad atharaka Allahu 'alayna wa in kunna lakhatiin",
@@ -730,7 +730,7 @@ ayats = [
   {
     "verse_number": 92,
     "english_text": "Yusuf said: Now from today there is no blame on you, Allah may forgive you, Allah is Merciful than anyone else.",
-    "arabic_text": "قَالَ لَا تَثْرِيبَ عَلَيْكُمُ الْيَوْمَ ۖ يَغْفِرُ اللَّهُ لَكُمْ وَهُوَ اَرْحَمُ الرَّاحِمِينَ",
+    "arabic_text": "قَالَ لَا تَثْرِيبَ عَلَيْكُمُ الْيَوْمَ ۖ يَغْفِرُ اللّٰهُ لَكُمْ وَهُوَ اَرْحَمُ الرَّاحِمِينَ",
     "urdu_text": "یوسف نے کہا آج تم پر کوئی ملامت نہیں، اللہ تمہیں معاف فرمائے اور وہ سب رحم کرنے والوں سے زیادہ رحم کرنے والا ہے",
     "persian_text": "یوسف گفت: امروز هیچ سرزنشی بر شما نیست، خداوند شما را بیامرزد و او مهربان‌ترین مهربانان است",
     "transliteration": "Qala la tathreeba 'alaykumu al-yawm yaghfiru Allahu lakum wa huwa arhamu ar-rahimeen",
@@ -754,7 +754,7 @@ ayats = [
   {
     "verse_number": 95,
     "english_text": "They said: By Allah, you are still in the same old error.",
-    "arabic_text": "قَالُوْا تَاللَّهِ اِنَّكَ لَفِى ضَلَالِكَ الْقَدِيمِ",
+    "arabic_text": "قَالُوْا تَاللّٰهِ اِنَّكَ لَفِى ضَلٰلِكَ الْقَدِيمِ",
     "urdu_text": "انہوں نے کہا اللہ کی قسم! آپ اب بھی اپنی پرانی غلطی میں ہیں",
     "persian_text": "گفتند: به خدا سوگند که تو هنوز در همان گمراهی قدیمی خود هستی",
     "transliteration": "Qalu tallahi innaka lafi dalalika al-qadeem",
@@ -762,7 +762,7 @@ ayats = [
   {
     "verse_number": 96,
     "english_text": "Then came the giver of good news, and put the shirt on his face, and Yaqoob immediately regained his eyesight; then Yaqoob told his sons: did not I was saying whatever matter I know from Allah, you don't know.",
-    "arabic_text": "فَلَمَّا اَن جَآءَ الْبَشِيرُ اَلْقَاهُ عَلَىٰ وَجْهِهِ فَارْتَدَّ بَصِيرًا ۖ قَالَ اَلَمْ اَقُل لَّكُمْ اِنِّى اَعْلَمُ مِنَ اللَّهِ مَا لَا تَعْلَمُونَ",
+    "arabic_text": "فَلَمَّا اَن جَآءَ الْبَشِيرُ اَلْقَاهُ عَلَىٰ وَجْهِهِ فَارْتَدَّ بَصِيرًا ۖ قَالَ اَلَمْ اَقُل لَّكُمْ اِنِّى اَعْلَمُ مِنَ اللّٰهِ مَا لَا تَعْلَمُونَ",
     "urdu_text": "پھر جب خوشخبری دینے والا آیا تو اس نے وہ قمیض ان کے چہرے پر ڈال دی، تو فوراً ان کی بینائی لوٹ آئی، یعقوب نے کہا: کیا میں نے تم سے نہیں کہا تھا کہ میں اللہ کی طرف سے وہ باتیں جانتا ہوں جو تم نہیں جانتے۔",
     "persian_text": "پس چون مژده‌آور آمد، پیراهن را بر چهره‌اش افکند و بینایی‌اش بازگشت، گفت: آیا به شما نگفتم که من از جانب خدا چیزهایی می‌دانم که شما نمی‌دانید؟",
     "transliteration": "Falamma an jaa'al-basheeru alqahu 'ala wajhihi fartadda baseeran qala alam aqul lakum inni a'lamu minal-lahi ma la ta'lamoon",
@@ -786,7 +786,7 @@ ayats = [
   {
     "verse_number": 99,
     "english_text": "When those people (Yaqoob and his clan reached and Yusuf came out to receive them) reach to Yusuf, he made them sit beside him and said: if Allah pleases, now enter peacefully in Egypt.",
-    "arabic_text": "فَلَمَّا دَخَلُوا عَلَىٰ يُوسُفَ آوَىٰ اِلَيْهِ اَبَوَيْهِ وَقَالَ ادْخُلُوا مِصْرَ اِن شَآءَ اللَّهُ آمِنِينَ",
+    "arabic_text": "فَلَمَّا دَخَلُوا عَلَىٰ يُوسُفَ آوَىٰ اِلَيْهِ اَبَوَيْهِ وَقَالَ ادْخُلُوا مِصْرَ اِن شَآءَ اللّٰهُ آمِنِينَ",
     "urdu_text": "پھر جب وہ لوگ یوسف کے پاس پہنچے تو انہوں نے اپنے والدین کو اپنے پاس ٹھہرایا اور کہا: ان شاء اللہ اب مصر میں امن کے ساتھ داخل ہو جاؤ۔",
     "persian_text": "پس چون نزد یوسف درآمدند، پدر و مادرش را نزد خود جای داد و گفت: اگر خدا بخواهد با امنیت وارد مصر شوید.",
     "transliteration": "Falamma dakhalu 'ala Yusufa awa ilayhi abawayhi wa qala udkhulu Misra in shaa'Allahu amineen",
@@ -794,7 +794,7 @@ ayats = [
   {
     "verse_number": 100,
     "english_text": "Finally he made them sit on the throne, and they all fell in prostration before him in his honor, he said, O father, this is the interpretation (of my dream) which my Lord has made it come true; Verily He did do favor to me, when He delivered me from prison, in spite of Satan created mischief between me and my brothers, He brought you people from village (to me in the town); Verily my Lord plans well for whatever He pleases to do; indeed, He is Knowing and Wise.",
-    "arabic_text": "وَرَفَعَ اَبَوَيْهِ عَلَى الْعَرْشِ وَخَرُّوا لَهُ سُجَّدًا ۖ وَقَالَ يٰاَبَتِ هَٰذَا تَاْوِيلُ رُؤْيَايَ مِن قَبْلُ ۖ قَدْ جَعَلَهَا رَبِّى حَقًّا ۖ وَ قَدْ اَحْسَنَ بِى اِذْ اَخْرَجَنِى مِنَ السِّجْنِ وَجَآءَ بِكُم مِّنَ الْبَدْوِ مِن بَعْدِ اَن نَّزَغَ الشَّيْطَانُ بَيْنِى وَبَيْنَ اِخْوَتِى ۚ اِنَّ رَبِّى لَطِيفٌ لِّمَا يَشَاءُ ۚ اِنَّهُ هُوَ الْعَلِيمُ الْحَكِيمُ",
+    "arabic_text": "وَرَفَعَ اَبَوَيْهِ عَلَى الْعَرْشِ وَخَرُّوا لَهُ سُجَّدًا ۖ وَقَالَ يٰاَبَتِ هَٰذَا تَاْوِيلُ رُؤْيَايَ مِن قَبْلُ ۖ قَدْ جَعَلَهَا رَبِّى حَقًّا ۖ وَ قَدْ اَحْسَنَ بِى اِذْ اَخْرَجَنِى مِنَ السِّجْنِ وَجَآءَ بِكُم مِّنَ الْبَدْوِ مِن بَعْدِ اَن نَّزَغَ الشَّيْطٰنُ بَيْنِى وَبَيْنَ اِخْوَتِى ۚ اِنَّ رَبِّى لَطِيفٌ لِّمَا يَشَاءُ ۚ اِنَّهُ هُوَ الْعَلِيمُ الْحَكِيمُ",
     "urdu_text": "اور انہوں نے اپنے والدین کو تخت پر بٹھایا اور سب اس کے سامنے سجدے میں گر پڑے، یوسف نے کہا: اے میرے باپ! یہ میرے پہلے خواب کی تعبیر ہے، میرے رب نے اسے سچ کر دکھایا، اور اس نے مجھ پر احسان کیا جب مجھے قید سے نکالا اور آپ سب کو دیہات سے یہاں لے آیا، اس کے بعد کہ شیطان نے میرے اور میرے بھائیوں کے درمیان فساد ڈال دیا تھا، بیشک میرا رب جو چاہتا ہے اس میں لطف و کرم فرماتا ہے، بیشک وہی جاننے والا حکمت والا ہے۔",
     "persian_text": "و پدر و مادرش را بر تخت نشاند و همه به احترام او به سجده افتادند، گفت: ای پدر! این تعبیر خواب پیشین من است که پروردگارم آن را حقیقت بخشید، و به من احسان کرد چون مرا از زندان بیرون آورد و شما را از بادیه آورد، پس از آنکه شیطان میان من و برادرانم فتنه انداخت، همانا پروردگارم در هر چه بخواهد لطف می‌کند، بی‌گمان او داناست حکیم.",
     "transliteration": "Wa rafa'a abawayhi 'alal-'arshi wa kharru lahu sujjadan wa qala ya abati hadha ta'weelu ru'yaya min qablu qad ja'alaha rabbi haqqan wa qad ahsana bi idh akhrajani minas-sijni wa jaa'a bikum minal-badwi min ba'di an nazagha ash-shaytanu bayni wa bayna ikhwati inna rabbi lateeful lima yashaa'u innahu huwal-'aleemul-hakeem",
@@ -810,7 +810,7 @@ ayats = [
   {
     "verse_number": 102,
     "english_text": "(O Prophet), this tale is from the unseen, which we sent to you as revelation (and you come to know), when Yusuf's brothers were discussing among themselves and planning (to kill him).",
-    "arabic_text": "ذٰلِكَ مِنْ اَنبَاءِ الْغَيْبِ نُوحِيهِ اِلَيْكَ ۖ وَ مَا كُنتَ لَدَيْهِمْ اِذْ اَجْمَعُوا اَمْرَهُمْ وَهُمْ يَمْكُرُونَ",
+    "arabic_text": "ذٰلِكَ مِنْ اَنبَاءِ الْغَيْبِ نُوحِيهِ اِلَيْكَ ۖ وَ مَا كُنتَ لَدَيْهِمْ اِذْ اَجْمَعُوا اَمْرَهُمْ وَ هُمْ يَمْكُرُونَ",
     "urdu_text": "اے نبی! یہ غیب کی خبریں ہیں جو ہم آپ کی طرف وحی کے ذریعے بھیج رہے ہیں، اور آپ ان کے پاس نہیں تھے جب انہوں نے اپنا معاملہ طے کیا اور وہ مکر و فریب کر رہے تھے۔",
     "persian_text": "این از اخبار غیب است که به تو وحی می‌کنیم، و تو نزد آنان نبودی هنگامی که بر کار خود اتفاق کردند و نقشه می‌کشیدند.",
     "transliteration": "Dhalika min anba'il-ghaybi nuhihi ilayk, wa ma kunta ladayhim idh ajma'u amrahum wa hum yamkurun",
@@ -834,7 +834,7 @@ ayats = [
   {
     "verse_number": 105,
     "english_text": "And there are many signs in the skies and the earth which they pass by (day and night), but they turn their face from it.",
-    "arabic_text": "وَكَاَيِّن مِّنْ آيَةٍ فِى السَّمَاوَاتِ وَ الْاَرْضِ يَمُرُّونَ عَلَيْهَا وَهُمْ عَنْهَا مُعْرِضُونَ",
+    "arabic_text": "وَكَاَيِّن مِّنْ آيَةٍ فِى السَّمَاوَاتِ وَ الْاَرْضِ يَمُرُّونَ عَلَيْهَا وَ هُمْ عَنْهَا مُعْرِضُونَ",
     "urdu_text": "اور آسمانوں اور زمین میں بہت سی نشانیاں ہیں جن پر یہ لوگ گزرتے ہیں لیکن ان سے منہ موڑے رہتے ہیں۔",
     "persian_text": "و چه بسیار نشانه‌ای در آسمان‌ها و زمین است که بر آن‌ها می‌گذرند در حالی که از آن‌ها روی گردانند.",
     "transliteration": "Wa ka'ayyin min ayatin fis-samawati wal-ardi yamurruna 'alayha wa hum 'anha mu'ridun",
@@ -842,7 +842,7 @@ ayats = [
   {
     "verse_number": 106,
     "english_text": "And such is the condition of most of the people that they don't believe in Allah but they make out His partners.",
-    "arabic_text": "وَ مَا يُؤْمِنُ اَكْثَرُهُم بِاللَّهِ اِلَّا وَهُم مُّشْرِكُونَ",
+    "arabic_text": "وَ مَا يُؤْمِنُ اَكْثَرُهُم بِاللّٰهِ اِلَّا وَهُم مُّشْرِكُونَ",
     "urdu_text": "اور ان میں سے اکثر لوگ اللہ پر ایمان نہیں لاتے مگر اس حال میں کہ وہ شرک کرنے والے ہیں",
     "persian_text": "و بیشتر آنان به خدا ایمان نمی‌آورند مگر در حالی که مشرک هستند",
     "transliteration": "Wa ma yu'minu aktharuhum billahi illa wa hum mushrikoon",
@@ -850,7 +850,7 @@ ayats = [
   {
     "verse_number": 107,
     "english_text": "Are they satisfied that punishment of Allah befalls on them and become cover over them; or suddenly the Day of Judgment comes on them without any notice.",
-    "arabic_text": "اَفَاَمِنُوا اَن تَاْتِيَهُمْ غَاشِيَةٌ مِّنْ عَذَابِ اللَّهِ اَوْ تَاْتِيَهُمُ السَّاعَةُ بَغْتَةً وَهُمْ لَا يَشْعُرُونَ",
+    "arabic_text": "اَفَاَمِنُوا اَن تَاْتِيَهُمْ غَاشِيَةٌ مِّنْ عَذَابِ اللّٰهِ اَوْ تَاْتِيَهُمُ السَّاعَةُ بَغْتَةً وَ هُمْ لَا يَشْعُرُونَ",
     "urdu_text": "کیا وہ اس بات سے بے خوف ہیں کہ ان پر اللہ کے عذاب کا ڈھانپنے والا پردہ آجائے یا ان پر قیامت اچانک آ پڑے اور انہیں خبر بھی نہ ہو",
     "persian_text": "آیا از این ایمن شده‌اند که عذابی فراگیر از سوی خدا بر آنان فرود آید یا قیامت ناگهان بر آنان فرا رسد در حالی که آگاه نیستند",
     "transliteration": "Afa aminoo an ta'tiyahum ghashiyatum min 'adhabil-lahi aw ta'tiyahumu as-sa'atu baghtatan wa hum la yash'uroon",
@@ -858,7 +858,7 @@ ayats = [
   {
     "verse_number": 108,
     "english_text": "O Prophet say: my way is to call (the people) towards Allah, I and my followers (both) are on strong arguments, and Allah is pure and purer (from all defect and deficiency) and I am not from polytheists.",
-    "arabic_text": "قُلْ هٰذِهِ سَبِيلِى اَدْعُو اِلَى اللَّهِ ۚ عَلَىٰ بَصِيرَةٍ اَنَا وَمَنِ اتَّبَعَنِى ۖ وَسُبْحَانَ اللَّهِ وَ مَا اَنَا مِنَ الْمُشْرِكِينَ",
+    "arabic_text": "قُلْ هٰذِهِ سَبِيلِى اَدْعُو اِلَى اللّٰهِ ۚ عَلَىٰ بَصِيرَةٍ اَنَا وَمَنِ اتَّبَعَنِى ۖ وَسُبْحَانَ اللّٰهِ وَ مَا اَنَا مِنَ الْمُشْرِكِينَ",
     "urdu_text": "اے نبی کہہ دیجیے کہ یہ میرا راستہ ہے، میں اللہ کی طرف بلاتا ہوں، میں اور میری پیروی کرنے والے سب دلیل اور بصیرت پر ہیں، اور اللہ پاک ہے اور میں مشرکوں میں سے نہیں ہوں",
     "persian_text": "بگو این راه من است، من به سوی خدا دعوت می‌کنم بر اساس بصیرت، من و کسانی که از من پیروی می‌کنند، و خدا منزه است و من از مشرکان نیستم",
     "transliteration": "Qul hadhihi sabeeli ad'oo ilal-lahi 'ala baseeratin ana wa manit-taba'ani wa subhanal-lahi wa ma ana minal-mushrikeen",

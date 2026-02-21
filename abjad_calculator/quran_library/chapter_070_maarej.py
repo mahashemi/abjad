@@ -273,7 +273,7 @@ ayats = [
   {
     "verse_number": 34,
     "english_text": "And those who uphold their prayers.",
-    "arabic_text": "وَ الَّذِينَ هُمْ عَلَىٰ صَلَاتِهِمْ يُحَافِظُونَ",
+    "arabic_text": "وَ الَّذِينَ هُمْ عَلَىٰ صَلَاتِهِمْ يُحٰفِظُونَ",
     "urdu_text": "اور وه لوگ جو اپنی نمازوں کی حفاظت کرتے هیں۔",
     "persian_text": "و کسانی که نمازهای خود را محافظت می‌کنند.",
     "transliteration": "Wa-lladhīna hum 'alā salātihim yuhāfiẓūn"

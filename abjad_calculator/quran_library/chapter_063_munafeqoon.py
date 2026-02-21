@@ -33,7 +33,7 @@ ayats = [
   {
     "verse_number": 4,
     "english_text": "And when you will look at them, their bodies will seem very good to you, and when they speak, you will listen to their words, but in reality they are like dry woods leaning against the wall, and they think every scream is against them, in fact they are enemies, beware of them, may Allah destroy them; where are they going astray.",
-    "arabic_text": "۞ وَاِذَا رَاَيْتَهُمْ تُعْجِبُكَ اَجْسَامُهُمْ ۖ وَاِن يَقُولُواْ تَسْمَعْ لِقَوْلِهِمْ ۖ كَاَنَّهُمْ خُشُبٌۭ مُّسَنَّدَةٌۭ ۖ يَحْسَبُونَ كُلَّ صَيْحَةٍ عَلَيْهِمْ ۚ هُمُ الْعَدُوُّ فَاحْذَرْهُمْ ۚ قَـٰتَلَهُمُ اللّٰهُ ۖ اَنَّىٰ يُؤْفَكُونَ",
+    "arabic_text": "۞ وَاِذَا رَاَيْتَهُمْ تُعْجِبُكَ اَجْسَامُهُمْ ۖ وَ اِن يَقُولُواْ تَسْمَعْ لِقَوْلِهِمْ ۖ كَاَنَّهُمْ خُشُبٌۭ مُّسَنَّدَةٌۭ ۖ يَحْسَبُونَ كُلَّ صَيْحَةٍ عَلَيْهِمْ ۚ هُمُ الْعَدُوُّ فَاحْذَرْهُمْ ۚ قَـٰتَلَهُمُ اللّٰهُ ۖ اَنَّىٰ يُؤْفَكُونَ",
     "urdu_text": "اور جب آپ انهیں دیکھیں تو ان کے جسم آپ کو اچھے لگیں، اور اگر وه بولیں تو آپ ان کی بات سنیں، وه ایسے هیں جیسے ٹیک لگائی هوئی لکڑیاں، وه هر آواز کو اپنے خلاف سمجھتے هیں، وهی دشمن هیں، ان سے هوشیار رهیں، الله انهیں هلاک کرے، کهاں بهکائے جا رهے هیں۔",
     "persian_text": "و هنگامی که آنان را ببینی، اندامشان تو را به شگفتی آورد، و اگر سخن گویند، به گفتارشان گوش فرا دهی، آنان مانند چوب‌های تکیه داده شده‌اند، هر فریادی را بر ضد خود می‌پندارند، آنان دشمنند پس از آنان بپرهیز، خدا آنان را نابود کند، چگونه منحرف می‌شوند.",
     "transliteration": "Wa idha ra-aytahum tu'jibuka ajsamuhum wa in yaqooloo tasma' li-qawlihim ka-annahum khushubun musannadatun yahsaboona kulla sayhatin 'alayhim humu al-'aduwwu fahdharhum qatalahumu Allahu anna yu'fakoon"

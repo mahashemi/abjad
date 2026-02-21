@@ -104,7 +104,7 @@ Generated: 2026-01-12T18:27:00.123456
 ayats = [
   {
     "verse_number": 1,
-    "arabic_text": "الر ۚ تِلْكَ آيَاتُ الْكِتَابِ وَقُرْآنٍ مُّبِينٍ",
+    "arabic_text": "الر ۚ تِلْكَ آيَاتُ الْكِتٰبِ وَقُرْآنٍ مُّبِينٍ",
     "english_text": "Alif Laam Ra. These are verses of the Book and a clear Quran.",
     "urdu_text": "الف، لام، را۔ یہ کتاب اور واضح قرآن کی آیات ہیں۔",
     "persian_text": "الف، لام، را. این‌ها آیات کتاب و قرآن روشن است.",

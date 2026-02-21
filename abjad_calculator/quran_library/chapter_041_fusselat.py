@@ -129,7 +129,7 @@ ayats = [
   {
     "verse_number": 16,
     "english_text": "Then We sent strong winds on them on unlucky days, to taste them the disgraceful punishment in the world and punishment of the Hereafter is more disgraceful, and there they will not be helped also.",
-    "arabic_text": "فَاَرْسَلْنَا عَلَيْهِمْ رِيحًۭا صَرْصَرًا فِىٓ اَيَّامٍۢ نَّحِسَاتٍۢ لِّنُذِيقَهُمْ عَذَابَ الْخِزْىِ فِى الْحَيَوٰةِ الدُّنْيٰۖ وَلَعَذَابُ الْاخِرَةِ اَخْزَىٰ ۖ وَهُمْ لَا يُنصَرُونَ",
+    "arabic_text": "فَاَرْسَلْنَا عَلَيْهِمْ رِيحًۭا صَرْصَرًا فِىٓ اَيَّامٍۢ نَّحِسَاتٍۢ لِّنُذِيقَهُمْ عَذَابَ الْخِزْىِ فِى الْحَيَوٰةِ الدُّنْيٰۖ وَلَعَذَابُ الْاخِرَةِ اَخْزَىٰ ۖ وَ هُمْ لَا يُنصَرُونَ",
     "urdu_text": "پھر هم نے ان پر منحوس دنوں میں تیز آندھی بھیجی تاکه انهیں دنیا میں رسوائی کا عذاب چکھائیں، اور آخرت کا عذاب تو اس سے بھی زیاده رسوا کن هے، اور وهاں ان کی مدد بھی نهیں کی جائے گی۔",
     "persian_text": "پس بر آنان بادی سخت در روزهای نحس فرستادیم تا عذاب خواری را در زندگی دنیا به آنان بچشانیم، و عذاب آخرت خوارکننده‌تر است و آنان یاری نخواهند شد.",
     "transliteration": "Fa-arsalnā 'alayhim rīḥan ṣarṣaran fī ayyāmin naḥisātin linudhīqahum 'adhāba al-khizyi fī al-ḥayāti ad-dunyā wa la-'adhābu al-ākhirati akhzā wa hum lā yunṣarūn"
@@ -193,7 +193,7 @@ ayats = [
   {
     "verse_number": 24,
     "english_text": "Now even if they tolerate their abode is Hell, and if they want to excuse, their excuse will not be accepted.",
-    "arabic_text": "فَاِن يَصْبِرُواْ فَالنَّارُ مَثْوًۭى لَّهُمْ ۖ وَاِن يَسْتَعْتِبُواْ فَمَا هُم مِّنَ الْمُعْتَبِينَ",
+    "arabic_text": "فَاِن يَصْبِرُواْ فَالنَّارُ مَثْوًۭى لَّهُمْ ۖ وَ اِن يَسْتَعْتِبُواْ فَمَا هُم مِّنَ الْمُعْتَبِينَ",
     "urdu_text": "اب اگر وه صبر کریں تو بھی آگ هی ان کا ٹھکانه هے، اور اگر وه معذرت کرنا چاهیں تو ان کی معذرت قبول نهیں کی جائے گی۔",
     "persian_text": "پس اگر صبر کنند، آتش جایگاه آنهاست، و اگر عذرخواهی کنند، از آنان پذیرفته نخواهد شد.",
     "transliteration": "Fa-in yasbiroo fan-naaru mathwan lahum wa in yasta'tiboo fa-maa hum minal-mu'tabeen"
@@ -305,7 +305,7 @@ ayats = [
   {
     "verse_number": 38,
     "english_text": "{Prostrate, Obligatory} So let them show arrogance if they wish, who are in the presence of Allah glorify Him day and night and they never get tired.",
-    "arabic_text": "فَاِنِ اسْتَكْبَرُواْ فَالَّذِينَ عِندَ رَبِّكَ يُسَبِّحُونَ لَهُ بِالَّيْلِ وَالنَّهَارِ وَهُمْ لَا يَسْـَٔمُونَ ۩",
+    "arabic_text": "فَاِنِ اسْتَكْبَرُواْ فَالَّذِينَ عِندَ رَبِّكَ يُسَبِّحُونَ لَهُ بِالَّيْلِ وَالنَّهَارِ وَ هُمْ لَا يَسْـَٔمُونَ ۩",
     "urdu_text": "پھر اگر یه لوگ تکبر کریں تو جو فرشتے تمهارے رب کے حضور میں هیں وه رات دن اس کی تسبیح کرتے هیں اور کبھی نهیں تھکتے۔",
     "persian_text": "پس اگر آنان تکبر ورزند، کسانی که نزد پروردگار تو هستند شب و روز او را تسبیح می‌گویند و هرگز خسته نمی‌شوند.",
     "transliteration": "Fa-inis-takbaroo fallazeena 'inda Rabbika yusabbihoona lahoo billayli wannahaari wa hum laa yas'amoon"
@@ -393,7 +393,7 @@ ayats = [
   {
     "verse_number": 49,
     "english_text": "Man does not tire of praying for good, and when any trouble touches him he gets dejected and hopeless.",
-    "arabic_text": "لَّا يَسْـَٔمُ الْاِنسَـٰنُ مِن دُعَآءِ الْخَيْرِ وَاِن مَّسَّهُ الشَّرُّ فَيَـُٔوسٌۭ قَنُوطٌۭ",
+    "arabic_text": "لَّا يَسْـَٔمُ الْاِنسَـٰنُ مِن دُعَآءِ الْخَيْرِ وَ اِن مَّسَّهُ الشَّرُّ فَيَـُٔوسٌۭ قَنُوطٌۭ",
     "urdu_text": "انسان بھلائی کی دعا مانگنے سے نهیں تھکتا، اور جب اسے کوئی تکلیف پهنچتی هے تو وه مایوس اور ناامید هو جاتا هے۔",
     "persian_text": "انسان از دعای خیر خسته نمی‌شود، و اگر بدی به او برسد مایوس و نومید می‌گردد.",
     "transliteration": "Lā yas'amu al-insānu min du'ā'i al-khayri wa in massahu ash-sharru faya'ūsun qanūṭ"

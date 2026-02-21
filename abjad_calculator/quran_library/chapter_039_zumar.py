@@ -57,7 +57,7 @@ ayats = [
   {
     "verse_number": 7,
     "english_text": "Even if you become infidel, Allah is Self-Sufficient from you, and He does not like infidelity for His servants, He likes if you are thankful to Him, and no one will carry the burden of sins of others; thereafter you will all be returned to your Lord; then He will inform you what you had been doing in the world; He is also aware of the secrets hidden in the hearts.",
-    "arabic_text": "اِن تَكْفُرُواْ فَاِنَّ اللّٰهَ غَنِىٌّ عَنكُمْ ۖ وَ لَا يَرْضَىٰ لِعِبَادِهِ الْكُفْرَ ۖ وَاِن تَشْكُرُواْ يَرْضَهُ لَكُمْ ۗ وَ لَا تَزِرُ وَازِرَةٌۭ وِزْرَ اُخْرَىٰ ۗ ثُمَّ اِلـٰى رَبِّكُم مَّرْجِعُكُمْ فَيُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ ۚ اِنَّهُ عَلِيمٌۢ بِذَاتِ الصُّدُورِ",
+    "arabic_text": "اِن تَكْفُرُواْ فَاِنَّ اللّٰهَ غَنِىٌّ عَنكُمْ ۖ وَ لَا يَرْضَىٰ لِعِبَادِهِ الْكُفْرَ ۖ وَ اِن تَشْكُرُواْ يَرْضَهُ لَكُمْ ۗ وَ لَا تَزِرُ وَازِرَةٌۭ وِزْرَ اُخْرَىٰ ۗ ثُمَّ اِلـٰى رَبِّكُم مَّرْجِعُكُمْ فَيُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ ۚ اِنَّهُ عَلِيمٌۢ بِذَاتِ الصُّدُورِ",
     "urdu_text": "اگر تم کفر کرو تو اللہ تم سے بے نیاز ہے، اور وہ اپنے بندوں کے لیے کفر کو پسند نہیں کرتا، اور اگر تم شکر کرو تو وہ اسے تمہارے لیے پسند کرتا ہے، اور کوئی بوجھ اٹھانے والا دوسرے کا بوجھ نہیں اٹھائے گا، پھر تمہارے رب کی طرف تمہاری واپسی ہے، پھر وہ تمہیں بتائے گا جو تم کرتے تھے، بیشک وہ دلوں کے بھیدوں کو جاننے والا ہے۔",
     "persian_text": "اگر کفر ورزید، خدا از شما بی‌نیاز است، و او برای بندگانش کفر را نمی‌پسندد، و اگر شکر کنید آن را برای شما می‌پسندد، و هیچ گناهکاری بار گناه دیگری را بر نمی‌دارد، سپس بازگشت شما به سوی پروردگارتان است، پس شما را از آنچه انجام می‌دادید آگاه می‌کند، همانا او به راز دل‌ها داناست.",
     "transliteration": "In takfuroo fa-innallaaha ghaniyyun 'ankum wa laa yardaa li'ibaadihil-kufr, wa in tashkuroo yardahu lakum, wa laa taziru waaziratuw-wizra ukhraa, thumma ilaa Rabbikum marji'ukum fa-yunabbi'ukum bimaa kuntum ta'maloon, innahoo 'Aleemum bidhaa tis-sudoor"
@@ -449,7 +449,7 @@ ayats = [
   {
     "verse_number": 56,
     "english_text": "Then among you any soul says, alas! I showed laziness towards Allah, and I was among those who made fun of it.",
-    "arabic_text": "اَن تَقُولَ نَفْسٌۭ يَـٰحَسْرَتَىٰ عَلَىٰ مَا فَرَّطتُ فِى جَنۢبِ اللّٰهِ وَاِن كُنتُ لَمِنَ السَّـٰخِرِينَ",
+    "arabic_text": "اَن تَقُولَ نَفْسٌۭ يَـٰحَسْرَتَىٰ عَلَىٰ مَا فَرَّطتُ فِى جَنۢبِ اللّٰهِ وَ اِن كُنتُ لَمِنَ السَّـٰخِرِينَ",
     "urdu_text": "تاکہ کوئی شخص یہ نہ کہے کہ افسوس! میں نے اللہ کے معاملے میں کوتاہی کی اور میں مذاق اڑانے والوں میں سے تھا۔",
     "persian_text": "مبادا کسی بگوید: افسوس بر آنچه در جانب خدا کوتاهی کردم، و من از مسخره‌کنندگان بودم.",
     "transliteration": "An taqula nafsun ya hasrata 'ala ma farrattu fi janbi Allahi wa in kuntu lamina as-sakhirin"
@@ -553,7 +553,7 @@ ayats = [
   {
     "verse_number": 69,
     "english_text": "And earth will shine with the Light of Allah, and records of deeds will be kept, and messengers and martyrs will be brought; and judgement will be made among them with the Truth, and no unjust will be done on anyone.",
-    "arabic_text": "وَاَشْرَقَتِ الْاَرْضُ بِنُورِ رَبِّهَا وَوُضِعَ الْكِتٰبُ وَجِاْىٓءَ بِالنَّبِيِّـۧنَ وَالشُّهَدَآءِ وَقُضِىَ بَيْنَهُم بِالْحَقِّ وَهُمْ لَا يُظْلَمُونَ",
+    "arabic_text": "وَاَشْرَقَتِ الْاَرْضُ بِنُورِ رَبِّهَا وَوُضِعَ الْكِتٰبُ وَجِاْىٓءَ بِالنَّبِيِّـۧنَ وَالشُّهَدَآءِ وَقُضِىَ بَيْنَهُم بِالْحَقِّ وَ هُمْ لَا يُظْلَمُونَ",
     "urdu_text": "اور زمین اپنے رب کے نور سے چمک اٹھے گی، اور اعمال کے دفتر رکھ دیے جائیں گے، اور نبیوں اور گواہوں کو لایا جائے گا، اور ان کے درمیان حق کے ساتھ فیصلہ کیا جائے گا، اور کسی پر ظلم نہیں کیا جائے گا۔",
     "persian_text": "و زمین به نور پروردگارش درخشان می‌شود، و نامه اعمال نهاده می‌شود، و پیامبران و شاهدان آورده می‌شوند، و میان آنان به حق داوری می‌شود و به آنان ستم نخواهد شد.",
     "transliteration": "Wa ashraqatil-ardu bi-noori rabbihaa wa wudi'al-kitaabu wa jee'a bin-nabiyyeena wash-shuhadaa'i wa qudiya baynahum bil-haqqi wa hum laa yuzlamoon"

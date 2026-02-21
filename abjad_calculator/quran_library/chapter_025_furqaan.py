@@ -25,7 +25,7 @@ ayats = [
   {
     "verse_number": 3,
     "english_text": "And they have made gods leaving Allah, who have not created anything but they themselves have been created, and they are not able to cause any loss or benefit even to themselves, and neither they control death nor resurrection.",
-    "arabic_text": "وَاتَّخَذُواْ مِن دُونِهِٓ ءَالِهَةًۭ لَّا يَخْلُقُونَ شَيْـًۭٔا وَهُمْ يُخْلَقُونَ وَ لَا يَمْلِكُونَ لِاَنفُسِهِمْ ضَرًّۭا وَ لَا نَفْعًۭا وَ لَا يَمْلِكُونَ مَوْتًۭا وَ لَا حَيَوٰةًۭ وَ لَا نُشُورًا",
+    "arabic_text": "وَاتَّخَذُواْ مِن دُونِهِٓ ءَالِهَةًۭ لَّا يَخْلُقُونَ شَيْـًۭٔا وَ هُمْ يُخْلَقُونَ وَ لَا يَمْلِكُونَ لِاَنفُسِهِمْ ضَرًّۭا وَ لَا نَفْعًۭا وَ لَا يَمْلِكُونَ مَوْتًۭا وَ لَا حَيَوٰةًۭ وَ لَا نُشُورًا",
     "urdu_text": "اور انهوں نے الله کو چھوڑ کر ایسے معبود بنا لیے جو کوئی چیز پیدا نهیں کرتے بلکه خود پیدا کیے گئے هیں، اور وه اپنے لیے نه نقصان کا اختیار رکھتے هیں نه نفع کا، اور نه موت پر قابو رکھتے هیں نه زندگی پر اور نه دوباره اٹھانے پر۔",
     "persian_text": "و آنان به جای او معبودهایی برگزیدند که هیچ چیز نمی‌آفرینند بلکه خود آفریده شده‌اند، و برای خودشان نه زیانی و نه سودی در اختیار ندارند، و نه بر مرگ و نه بر زندگی و نه بر رستاخیز تسلطی دارند.",
     "transliteration": "Wattakhazu min doonihi alihatan la yakhluqoona shay'an wa hum yukhlaqoona wa la yamlikoona li-anfusihim darran wa la naf'an wa la yamlikoona mawtan wa la hayatan wa la nushoora"

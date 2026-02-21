@@ -225,7 +225,7 @@ ayats = [
   {
     "verse_number": 28,
     "english_text": "Then if there is no one in the house, do not enter unless you get the permission, and if you are told to go back. (then) go back, this is a purer act for you, and Allah is well aware of your acts.",
-    "arabic_text": "فَاِن لَّمْ تَجِدُواْ فِيهَآ اَحَدًۭا فَلَا تَدْخُلُوهَا حَتَّىٰ يُؤْذَنَ لَكُمْ ۖ وَاِن قِيلَ لَكُمُ ارْجِعُواْ فَارْجِعُواْ ۖ هُوَ اَزْكَىٰ لَكُمْ ۚ وَ اللّٰهُ بِمَا تَعْمَلُونَ عَلِيمٌۭ",
+    "arabic_text": "فَاِن لَّمْ تَجِدُواْ فِيهَآ اَحَدًۭا فَلَا تَدْخُلُوهَا حَتَّىٰ يُؤْذَنَ لَكُمْ ۖ وَ اِن قِيلَ لَكُمُ ارْجِعُواْ فَارْجِعُواْ ۖ هُوَ اَزْكَىٰ لَكُمْ ۚ وَ اللّٰهُ بِمَا تَعْمَلُونَ عَلِيمٌۭ",
     "urdu_text": "پھر اگر تم گھر میں کسی کو نه پاؤ تو اس میں داخل نه هو جب تک تمهیں اجازت نه دی جائے، اور اگر تم سے کها جائے که واپس جاؤ تو واپس چلے جاؤ، یه تمهارے لیے زیاده پاکیزه هے، اور الله تمهارے اعمال سے خوب واقف هے۔",
     "persian_text": "پس اگر کسی را در آن نیافتید، داخل نشوید تا به شما اجازه داده شود، و اگر به شما گفته شد برگردید، پس برگردید، این برای شما پاکیزه‌تر است، و خداوند به آنچه انجام می‌دهید داناست.",
     "transliteration": "Fa-il lam tajidoo feehaa ahadan falaa tadkhulooha hattaa yu'zana lakum, wa in qeela lakumurji'oo farji'oo, huwa azkaa lakum, wallaahu bimaa ta'maloona 'aleem"
@@ -433,7 +433,7 @@ ayats = [
   {
     "verse_number": 54,
     "english_text": "Say: Obey Allah and His Prophet, and if you will deviate from it then responsibility of Prophet is on him and your responsibility on you, if you will obey you will get guidance; Prophet's responsibility is just to clearly preach.",
-    "arabic_text": "قُلْ اَطِيعُواْ اللّٰهَ وَاَطِيعُواْ الرَّسُولَ ۖ فَاِن تَوَلَّوْاْ فَاِنَّمَا عَلَيْهِ مَا حُمِّلَ وَعَلَيْكُم مَّا حُمِّلْتُمْ ۖ وَاِن تُطِيعُوهُ تَهْتَدُواْ ۚ وَ مَا عَلَى الرَّسُولِ اِلَّا الْبَلَـٰغُ الْمُبِينُ",
+    "arabic_text": "قُلْ اَطِيعُواْ اللّٰهَ وَاَطِيعُواْ الرَّسُولَ ۖ فَاِن تَوَلَّوْاْ فَاِنَّمَا عَلَيْهِ مَا حُمِّلَ وَعَلَيْكُم مَّا حُمِّلْتُمْ ۖ وَ اِن تُطِيعُوهُ تَهْتَدُواْ ۚ وَ مَا عَلَى الرَّسُولِ اِلَّا الْبَلَـٰغُ الْمُبِينُ",
     "urdu_text": "کهه دیجیے: الله کی اطاعت کرو اور رسول کی اطاعت کرو، پھر اگر تم منه موڑ لو تو رسول پر اس کی ذمه داری هے جو اس پر ڈالی گئی اور تم پر تمهاری ذمه داری هے، اور اگر تم اس کی اطاعت کرو گے تو هدایت پا جاؤ گے، اور رسول پر صرف واضح پیغام پهنچانا هے۔",
     "persian_text": "بگو: از خدا اطاعت کنید و از پیامبر اطاعت کنید، پس اگر روی گردانید، بر او تنها آن چیزی است که بر عهده‌اش نهاده شده و بر شما آن چیزی است که بر عهده‌تان نهاده شده، و اگر از او اطاعت کنید هدایت خواهید یافت، و بر پیامبر جز ابلاغ آشکار چیزی نیست.",
     "transliteration": "Qul ati'ullaha wa ati'ur-rasoola fa-in tawallaw fa-innama 'alayhi ma hummila wa 'alaykum ma hummiltum, wa in tutee'oohu tahtadoo, wa ma 'alar-rasooli illal-balagul-mubeen"

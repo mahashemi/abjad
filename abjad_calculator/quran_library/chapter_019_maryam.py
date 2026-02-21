@@ -313,7 +313,7 @@ ayats = [
   {
     "verse_number": 39,
     "english_text": "(And O Prophet), Warn them of the day of intense regret when definite judgement will be made, and now they are in the state of negligence and are not believing.",
-    "arabic_text": "وَاَنذِرْهُمْ يَوْمَ الْحَسْرَةِ اِذْ قُضِىَ الْاَمْرُ وَهُمْ فِى غَفْلَةٍۢ وَهُمْ لَا يُؤْمِنُونَ",
+    "arabic_text": "وَاَنذِرْهُمْ يَوْمَ الْحَسْرَةِ اِذْ قُضِىَ الْاَمْرُ وَ هُمْ فِى غَفْلَةٍۢ وَ هُمْ لَا يُؤْمِنُونَ",
     "urdu_text": "اور اے نبی، انهیں حسرت کے دن سے ڈراؤ جب فیصله کر دیا جائے گا، اور ابھی یه غفلت میں هیں اور ایمان نهیں لاتے۔",
     "persian_text": "و ای پیامبر، آنان را از روز حسرت بترسان هنگامی که کار انجام شود و آنان در غفلت‌اند و ایمان نمی‌آورند.",
     "transliteration": "Wa andhirhum yawmal-ḥasrati idh quḍiyal-amru wa hum fī ghaflatinw-wa hum lā yu'minūn"

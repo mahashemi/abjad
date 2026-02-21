@@ -145,7 +145,7 @@ ayats = [
   {
     "verse_number": 18,
     "english_text": "And no one will carry the burden of another's sins, and if somebody will be called to carry this, he will not be able to lift anything, even if they are the kins, you can only warn those people, who fear Allah from the unseen, and who establishes prayer, and whoever will adopt purity will be for his benefit, and all of them have to return to Allah only.",
-    "arabic_text": "وَ لَا تَزِرُ وَازِرَةٌۭ وِزْرَ اُخْرَىٰ ۚ وَاِن تَدْعُ مُثْقَلَةٌ اِلـٰى حِمْلِهَا لَا يُحْمَلْ مِنْهُ شَىْءٌۭ وَ لَوْ كَانَ ذَا قُرْبَىٰٓ ۗ اِنَّمَا تُنذِرُ الَّذِينَ يَخْشَوْنَ رَبَّهُم بِالْغَيْبِ وَاَقَامُواْ الصَّلَوٰةَ ۚ وَمَن تَزَكَّىٰ فَاِنَّمَا يَتَزَكَّىٰ لِنَفْسِهِ ۚ وَ اِلـٰى اللّٰهِ الْمَصِيرُ",
+    "arabic_text": "وَ لَا تَزِرُ وَازِرَةٌۭ وِزْرَ اُخْرَىٰ ۚ وَ اِن تَدْعُ مُثْقَلَةٌ اِلـٰى حِمْلِهَا لَا يُحْمَلْ مِنْهُ شَىْءٌۭ وَ لَوْ كَانَ ذَا قُرْبَىٰٓ ۗ اِنَّمَا تُنذِرُ الَّذِينَ يَخْشَوْنَ رَبَّهُم بِالْغَيْبِ وَاَقَامُواْ الصَّلَوٰةَ ۚ وَمَن تَزَكَّىٰ فَاِنَّمَا يَتَزَكَّىٰ لِنَفْسِهِ ۚ وَ اِلـٰى اللّٰهِ الْمَصِيرُ",
     "urdu_text": "اور کوئی بوجھ اٹھانے والا دوسرے کا بوجھ نہیں اٹھائے گا، اور اگر کوئی بوجھ سے دبا ہوا اپنا بوجھ اٹھانے کے لیے پکارے تو اس میں سے کچھ بھی نہیں اٹھایا جائے گا اگرچہ وہ قریبی رشتہ دار ہی کیوں نہ ہو، تم صرف انہیں ڈرا سکتے ہو جو بن دیکھے اپنے رب سے ڈرتے ہیں اور نماز قائم کرتے ہیں، اور جو پاکیزگی اختیار کرے گا تو وہ اپنے ہی فائدے کے لیے ہے، اور سب کو اللہ ہی کی طرف لوٹنا ہے۔",
     "persian_text": "و هیچ گناهکاری بار گناه دیگری را بر نمی‌دارد، و اگر کسی که زیر بار سنگین است برای حمل بارش فریاد کند چیزی از آن برداشته نمی‌شود اگرچه خویشاوند نزدیک باشد، تو تنها کسانی را بیم می‌دهی که از پروردگارشان در نهان می‌ترسند و نماز برپا می‌دارند، و هر که پاکی جوید تنها برای خود پاکی می‌جوید، و بازگشت به سوی خداست.",
     "transliteration": "Wa la taziru waziratun wizra ukhra, wa in tad'u muthqalatun ila himliha la yuhmal minhu shay'un wa law kana dha qurba, innama tundhirul ladhina yakhshawna rabbahum bilghaybi wa aqamus salah, wa man tazakka fa innama yatazakka linafsihi, wa ilallahil masir"
@@ -193,7 +193,7 @@ ayats = [
   {
     "verse_number": 24,
     "english_text": "We have sent as giver of glad tidings with the Truth, and there is no nation which was not sent a warner.",
-    "arabic_text": "اِنَّآ اَرْسَلْنَـٰكَ بِالْحَقِّ بَشِيرًا وَنَذِيرًا ۚ وَاِن مِّنْ اُمَّةٍ اِلَّا خَلَا فِيهَا نَذِيرٌۭ",
+    "arabic_text": "اِنَّآ اَرْسَلْنَـٰكَ بِالْحَقِّ بَشِيرًا وَنَذِيرًا ۚ وَ اِن مِّنْ اُمَّةٍ اِلَّا خَلَا فِيهَا نَذِيرٌۭ",
     "urdu_text": "بیشک ہم نے آپ کو حق کے ساتھ خوشخبری دینے والا اور ڈر سنانے والا بنا کر بھیجا ہے، اور کوئی امت ایسی نہیں جس میں کوئی ڈر سنانے والا نہ گزرا ہو۔",
     "persian_text": "همانا ما تو را به حق فرستادیم، بشارت‌دهنده و بیم‌دهنده، و هیچ امتی نیست مگر آنکه در آن بیم‌دهنده‌ای گذشته است.",
     "transliteration": "Innaaa arsalnaaka bilhaqqi basheeranw-wa nadheeraa, wa im-min ummatin illaa khalaa feehaa nadheer"

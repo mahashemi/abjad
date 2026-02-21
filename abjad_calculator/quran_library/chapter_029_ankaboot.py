@@ -17,7 +17,7 @@ ayats = [
   {
     "verse_number": 2,
     "english_text": "Does the people think that they will be left just because of their saying that ‘we believe’, and they will not be put to trial?",
-    "arabic_text": "اَحَسِبَ النَّاسُ اَن يُتْرَكُوٓاْ اَن يَقُولُوٓاْ ءَامَنَّا وَهُمْ لَا يُفْتَنُونَ",
+    "arabic_text": "اَحَسِبَ النَّاسُ اَن يُتْرَكُوٓاْ اَن يَقُولُوٓاْ ءَامَنَّا وَ هُمْ لَا يُفْتَنُونَ",
     "urdu_text": "کیا لوگوں نے یہ سمجھ رکھا ہے کہ وہ صرف یہ کہہ دینے سے کہ ہم ایمان لائے چھوڑ دیے جائیں گے اور ان کی آزمائش نہیں کی جائے گی؟",
     "persian_text": "آیا مردم گمان کرده‌اند که با گفتن «ایمان آوردیم» رها خواهند شد و آزمایش نخواهند شد؟",
     "transliteration": "Ahasibal-naasu ay-yutrakoo ay-yaqooloo aamannaa wa hum laa yuftanoon"
@@ -65,7 +65,7 @@ ayats = [
   {
     "verse_number": 8,
     "english_text": "And We have admonished human being to behave with good manners with parents and have told him: if they force you to make anyone My partner of which you do not know, then beware, do not obey them, and towards Me you shall all return, then I shall tell you what you were doing.",
-    "arabic_text": "وَوَصَّيْنَا الْاِنسَـٰنَ بِوَٰلِدَيْهِ حُسْنًۭا ۖ وَاِن جَـٰهَدَاكَ لِتُشْرِكَ بِى مَا لَيْسَ لَكَ بِهِ عِلْمٌۭ فَلَا تُطِعْهُمَآ ۚ اِلَىَّ مَرْجِعُكُمْ فَاُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ",
+    "arabic_text": "وَوَصَّيْنَا الْاِنسَـٰنَ بِوَٰلِدَيْهِ حُسْنًۭا ۖ وَ اِن جَـٰهَدَاكَ لِتُشْرِكَ بِى مَا لَيْسَ لَكَ بِهِ عِلْمٌۭ فَلَا تُطِعْهُمَآ ۚ اِلَىَّ مَرْجِعُكُمْ فَاُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ",
     "urdu_text": "اور ہم نے انسان کو اپنے والدین کے ساتھ اچھا سلوک کرنے کی تاکید کی ہے، اور اگر وہ تجھ پر زور ڈالیں کہ تو میرے ساتھ کسی کو شریک ٹھہرائے جس کا تجھے علم نہیں، تو ان کی اطاعت نہ کرنا، میری ہی طرف تم سب کو لوٹنا ہے، پھر میں تمہیں بتاؤں گا جو تم کرتے تھے۔",
     "persian_text": "و به انسان سفارش کردیم که با پدر و مادرش نیکی کند، و اگر آنها تلاش کنند تا مرا به چیزی شریک سازی که از آن آگاهی نداری، از آنها اطاعت مکن، بازگشت شما به سوی من است، پس شما را از آنچه انجام می‌دادید آگاه خواهم ساخت.",
     "transliteration": "Wa wassaynal-insaana biwaalidayhi husnan wa in jaahadaaka litushrika bee maa laysa laka bihee 'ilmun falaa tuti'humaa ilayya marji'ukum fa-unabbi-ukum bimaa kuntum ta'maloon"
@@ -113,7 +113,7 @@ ayats = [
   {
     "verse_number": 14,
     "english_text": "And We sent Nooh towards his nation, and he remained among them for nine hundred fifty years, then his nation was overtaken by the storm, because they were unjust.",
-    "arabic_text": "وَ لَقَدْ اَرْسَلْنَا نُوحًا اِلـٰى قَوْمِهِ فَلَبِثَ فِيهِمْ اَلْفَ سَنَةٍ اِلَّا خَمْسِينَ عَامًا فَاَخَذَهُمُ الطُّوفَانُ وَهُمْ ظَـٰلِمُونَ",
+    "arabic_text": "وَ لَقَدْ اَرْسَلْنَا نُوحًا اِلـٰى قَوْمِهِ فَلَبِثَ فِيهِمْ اَلْفَ سَنَةٍ اِلَّا خَمْسِينَ عَامًا فَاَخَذَهُمُ الطُّوفَانُ وَ هُمْ ظَـٰلِمُونَ",
     "urdu_text": "اور بیشک ہم نے نوح کو ان کی قوم کی طرف بھیجا، پھر وہ ان میں نو سو پچاس سال رہے، پھر انہیں طوفان نے آ لیا اور وہ ظالم تھے۔",
     "persian_text": "و ما نوح را به سوی قومش فرستادیم، پس نهصد و پنجاه سال در میان آنها ماند، سپس طوفان آنها را فرا گرفت در حالی که ستمگر بودند.",
     "transliteration": "Wa laqad arsalnā Nūḥan ilā qawmihī fa-labitha fīhim alfa sanatin illā khamsīna 'āman fa-akhadhahumut-ṭūfānu wa hum ẓālimūn"
@@ -425,7 +425,7 @@ ayats = [
   {
     "verse_number": 53,
     "english_text": "And these people are hastening for the punishment, however if its term was not appointed then punishment would have come, and it will come suddenly, and they will not be able to understand.",
-    "arabic_text": "وَيَسْتَعْجِلُونَكَ بِالْعَذَابِ ۚ وَ لَوْلَآ اَجَلٌۭ مُّسَمًّۭى لَّجَآءَهُمُ الْعَذَابُ وَلَيَاْتِيَنَّهُم بَغْتَةًۭ وَهُمْ لَا يَشْعُرُونَ",
+    "arabic_text": "وَيَسْتَعْجِلُونَكَ بِالْعَذَابِ ۚ وَ لَوْلَآ اَجَلٌۭ مُّسَمًّۭى لَّجَآءَهُمُ الْعَذَابُ وَلَيَاْتِيَنَّهُم بَغْتَةًۭ وَ هُمْ لَا يَشْعُرُونَ",
     "urdu_text": "اور یہ لوگ آپ سے عذاب کی جلدی مچا رہے ہیں، اگر ایک مقررہ وقت نہ ہوتا تو عذاب ان پر آ چکا ہوتا، اور یہ ان پر اچانک آئے گا جبکہ انہیں خبر بھی نہ ہوگی۔",
     "persian_text": "و آنان از تو برای عذاب شتاب می‌کنند، و اگر مدت معینی نبود، عذاب به آنان می‌رسید، و قطعاً ناگهان به آنان خواهد رسید در حالی که آگاه نیستند.",
     "transliteration": "Wa yasta'jiloonaka bil-'adhaab, wa law laa ajalum-musammal-lajaa'ahumul-'adhaab wa la-ya'tiyannahum baghtatan wa hum laa yash'uroon"

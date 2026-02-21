@@ -769,7 +769,7 @@ ayats = [
   {
     "verse_number": 96,
     "english_text": "They will all be quarrelling in the Hell and say:",
-    "arabic_text": "قَالُوْاْ وَهُمْ فِيهَا يَخْتَصِمُونَ",
+    "arabic_text": "قَالُوْاْ وَ هُمْ فِيهَا يَخْتَصِمُونَ",
     "urdu_text": "وه سب جهنم میں جھگڑتے هوئے کهیں گے:",
     "persian_text": "آنها در حالی که در آن با هم نزاع می‌کنند، خواهند گفت:",
     "transliteration": "Qaaloo wa hum feehaa yakhtasimoon"
@@ -1489,7 +1489,7 @@ ayats = [
   {
     "verse_number": 186,
     "english_text": "And you are a human being like us, and you seem to be a liar to us.",
-    "arabic_text": "وَ مَآ اَنتَ اِلَّا بَشَرٌۭ مِّثْلُنَا وَاِن نَّظُنُّكَ لَمِنَ الْكَـٰذِبِينَ",
+    "arabic_text": "وَ مَآ اَنتَ اِلَّا بَشَرٌۭ مِّثْلُنَا وَ اِن نَّظُنُّكَ لَمِنَ الْكَـٰذِبِينَ",
     "urdu_text": "اور تم هماری طرح ایک انسان هو اور هم تمهیں جھوٹوں میں سے سمجھتے هیں۔",
     "persian_text": "و تو جز بشری مانند ما نیستی و ما تو را از دروغگویان می‌پنداریم.",
     "transliteration": "Wa maaa anta illaa basharum mithlunaa wa in nazunnuka laminal-kaadhibeen"
@@ -1617,7 +1617,7 @@ ayats = [
   {
     "verse_number": 202,
     "english_text": "That punishment may fell upon them suddenly and they could not comprehend.",
-    "arabic_text": "فَيَاْتِيَهُم بَغْتَةًۭ وَهُمْ لَا يَشْعُرُونَ",
+    "arabic_text": "فَيَاْتِيَهُم بَغْتَةًۭ وَ هُمْ لَا يَشْعُرُونَ",
     "urdu_text": "پھر وه عذاب ان پر اچانک آ جائے گا اور انهیں خبر بھی نه هوگی",
     "persian_text": "پس ناگهان بر آنها فرا می‌رسد در حالی که آگاه نیستند",
     "transliteration": "Fa ya'teehim baghtatan wa hum laa yash'uroon"

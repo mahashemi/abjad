@@ -353,7 +353,7 @@ ayats = [
   {
     "verse_number": 44,
     "english_text": "They disobeyed the command of Allah, so lightning overtook them, while they just saw.",
-    "arabic_text": "فَعَتَوْاْ عَنْ اَمْرِ رَبِّهِمْ فَاَخَذَتْهُمُ الصَّـٰعِقَةُ وَهُمْ يَنظُرُونَ",
+    "arabic_text": "فَعَتَوْاْ عَنْ اَمْرِ رَبِّهِمْ فَاَخَذَتْهُمُ الصَّـٰعِقَةُ وَ هُمْ يَنظُرُونَ",
     "urdu_text": "تو انهوں نے اپنے رب کے حکم سے سرکشی کی، پھر انهیں بجلی نے آ لیا اور وه دیکھتے ره گئے۔",
     "persian_text": "پس از فرمان پروردگارشان سرپیچی کردند، آنگاه صاعقه آنان را فرا گرفت در حالی که می‌نگریستند.",
     "transliteration": "Fa'ataw 'an amri Rabbihim fa-akhadhat-humus-saa'iqatu wa hum yanzuroon"

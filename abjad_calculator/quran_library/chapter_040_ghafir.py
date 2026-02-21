@@ -97,7 +97,7 @@ ayats = [
   {
     "verse_number": 12,
     "english_text": "This is because when the One and Only Allah's name was mentioned you adopted infidelity, when polytheism was mentioned, you accepted it immediately, now the judgement is in the Hands of Allah, the Great.",
-    "arabic_text": "ذَٰلِكُم بِاَنَّهُٓ اِذَا دُعِىَ اللّٰهُ وَحْدَهُ كَفَرْتُمْ ۖ وَاِن يُشْرَكْ بِهِ تُؤْمِنُواْ ۚ فَالْحُكْمُ لِلَّهِ الْعَلِىِّ الْكَبِيرِ",
+    "arabic_text": "ذَٰلِكُم بِاَنَّهُٓ اِذَا دُعِىَ اللّٰهُ وَحْدَهُ كَفَرْتُمْ ۖ وَ اِن يُشْرَكْ بِهِ تُؤْمِنُواْ ۚ فَالْحُكْمُ لِلَّهِ الْعَلِىِّ الْكَبِيرِ",
     "urdu_text": "یہ اس لیے ہے کہ جب اکیلے اللہ کا نام لیا جاتا تھا تو تم کفر اختیار کرتے تھے، اور جب اس کے ساتھ شرک کیا جاتا تو تم فوراً مان لیتے تھے، پس اب فیصلہ اللہ کے ہاتھ میں ہے جو بلند و بزرگ ہے۔",
     "persian_text": "این بدان سبب است که هنگامی که خدای یکتا خوانده می‌شد، کافر می‌شدید، و اگر شریکی برای او قرار داده می‌شد، ایمان می‌آوردید، پس حکم از آنِ خداوند متعال و بزرگ است.",
     "transliteration": "Dhaalikum bi-annahoo idhaa du'iya Allaahu wahdahoo kafartum wa in yushrak bihee tu'minoo fal-hukmu lillaahil-'aliyyil-kabeer"
@@ -225,7 +225,7 @@ ayats = [
   {
     "verse_number": 28,
     "english_text": "And one person who was hiding his faith among the people of Firaun said: you are killing somebody just because he is saying his Lord is Allah and have also brought clear arguments from your Lord, and if he is a liar, he is responsible for it, and if what he is saying is truth then from what he is warning that difficulties may afflict you, Verily Allah does not guide anyone who do excesses and is a liar.",
-    "arabic_text": "وَقَالَ رَجُلٌۭ مُّؤْمِنٌ مِّنْ ءَالِ فِرْعَوْنَ يَكْتُمُ اِيمَـٰنَهُٓ اَتَقْتُلُونَ رَجُلًا اَن يَقُولَ رَبِّىَ اللّٰهُ وَ قَدْ جَآءَكُم بِالْبَيِّنَـٰتِ مِن رَّبِّكُمْ ۖ وَاِن يَكُ كَـٰذِبًا فَعَلَيْهِ كَذِبُهُ ۖ وَاِن يَكُ صَادِقًۭا يُصِبْكُم بَعْضُ الَّذِى يَعِدُكُمْ ۖ اِنَّ اللّٰهَ لَا يَهْدِى مَنْ هُوَ مُسْرِفٌۭ كَذَّابٌۭ",
+    "arabic_text": "وَقَالَ رَجُلٌۭ مُّؤْمِنٌ مِّنْ ءَالِ فِرْعَوْنَ يَكْتُمُ اِيمَـٰنَهُٓ اَتَقْتُلُونَ رَجُلًا اَن يَقُولَ رَبِّىَ اللّٰهُ وَ قَدْ جَآءَكُم بِالْبَيِّنَـٰتِ مِن رَّبِّكُمْ ۖ وَ اِن يَكُ كَـٰذِبًا فَعَلَيْهِ كَذِبُهُ ۖ وَ اِن يَكُ صَادِقًۭا يُصِبْكُم بَعْضُ الَّذِى يَعِدُكُمْ ۖ اِنَّ اللّٰهَ لَا يَهْدِى مَنْ هُوَ مُسْرِفٌۭ كَذَّابٌۭ",
     "urdu_text": "اور فرعون کے خاندان میں سے ایک مومن شخص جو اپنے ایمان کو چھپا رہا تھا، اس نے کہا کیا تم ایک آدمی کو صرف اس لیے قتل کر رہے ہو کہ وہ کہتا ہے میرا رب اللہ ہے، حالانکہ وہ تمہارے رب کی طرف سے واضح دلیلیں لے کر آیا ہے، اور اگر وہ جھوٹا ہے تو اس کا جھوٹ اس پر ہے، اور اگر وہ سچا ہے تو جس چیز سے وہ تمہیں ڈرا رہا ہے اس میں سے کچھ تم پر آ پڑے گی، بے شک اللہ اس شخص کو ہدایت نہیں دیتا جو حد سے بڑھنے والا اور جھوٹا ہو۔",
     "persian_text": "و مردی مؤمن از خاندان فرعون که ایمانش را پنهان می‌کرد گفت: آیا مردی را می‌کشید فقط به این دلیل که می‌گوید پروردگار من الله است، در حالی که از جانب پروردگارتان دلایل روشن برای شما آورده است؟ و اگر او دروغگو باشد، دروغش بر عهده خودش است، و اگر راستگو باشد، بخشی از آنچه به شما وعده می‌دهد به شما خواهد رسید، همانا الله کسی را که زیاده‌رو و دروغگو است هدایت نمی‌کند.",
     "transliteration": "Wa qaala rajulum-mu'minun min Aali Fir'awna yaktumu eemaanahu ataqtuloona rajulan any-yaqoola Rabbiyal-laahu wa qad jaaa'akum bil-bayyinaati mir-Rabbikum, wa iny-yaku kaadhibanfa-'alayhi kadhibuh, wa iny-yaku saadiqany-yusibkum ba'dul-ladhee ya'idukum, innal-laaha laa yahdee man huwa musrifun kadhdhaab"
