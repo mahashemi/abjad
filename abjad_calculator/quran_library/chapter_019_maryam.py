@@ -569,7 +569,7 @@ ayats = [
   {
     "verse_number": 71,
     "english_text": "And there is no one among you who shall not pass over it (because the Bridge of Siraat is set upon that); this is an unavoidable promise of your Lord.",
-    "arabic_text": "وَاِن مِّنكُمْ اِلَّا وَارِدُهَا ۚ كَانَ عَلَىٰ رَبِّكَ حَتْمًا مَّقْضِيًّۭا",
+    "arabic_text": "وَ اِن مِّنكُمْ اِلَّا وَارِدُهَا ۚ كَانَ عَلَىٰ رَبِّكَ حَتْمًا مَّقْضِيًّۭا",
     "urdu_text": "اور تم میں سے کوئی نهیں مگر یه که وه اس پر سے گزرے گا (کیونکه پل صراط اس پر نصب هے)، یه تمهارے رب کا ٹل نه سکنے والا فیصله شده وعده هے۔",
     "persian_text": "و هیچ‌کس از شما نیست مگر آنکه بر آن وارد خواهد شد (زیرا پل صراط بر آن قرار دارد)، این وعده‌ای است حتمی و قطعی از جانب پروردگارت.",
     "transliteration": "Wa in minkum illaa waariduhaa; kaana 'alaa Rabbika hatmam maqdiyyaa"
@@ -617,7 +617,7 @@ ayats = [
   {
     "verse_number": 77,
     "english_text": "(O Prophet), did you notice the man who denied Our verses and said: I will Verily get wealth and children (even if the Day of Judgement is established).",
-    "arabic_text": "اَفَرَءَيْتَ الَّذِى كَفَرَ بِـَٔايَـٰتِنَا وَقَالَ لَاُوتَيَنَّ مَالًا وَوَلَدًا",
+    "arabic_text": "اَفَرَءَيْتَ الَّذِى كَفَرَ بِـَٔايَـٰتِنَا وَ قَالَ لَاُوتَيَنَّ مَالًا وَوَلَدًا",
     "urdu_text": "(اے نبی) کیا آپ نے اس شخص کو دیکھا جس نے هماری آیات کا انکار کیا اور کها: مجھے ضرور مال اور اولاد ملے گی (خواه قیامت قائم هو جائے)۔",
     "persian_text": "(ای پیامبر) آیا دیدی آن کسی را که آیات ما را انکار کرد و گفت: قطعاً به من مال و فرزند داده خواهد شد (حتی اگر قیامت برپا شود)؟",
     "transliteration": "Afara'aytal ladhee kafara bi-aayaatinaa wa qaala la'ootayanna maalaw wa waladaa"

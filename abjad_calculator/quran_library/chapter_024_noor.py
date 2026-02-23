@@ -121,7 +121,7 @@ ayats = [
   {
     "verse_number": 15,
     "english_text": "When you were doing discourse, you uttered such a talk of which you had no knowledge, you were taking it as an easy matter whereas for Allah it was a grievous talk.",
-    "arabic_text": "اِذْ تَلَقَّوْنَهُ بِاَلْسِنَتِكُمْ وَتَقُولُونَ بِاَفْوَاهِكُم مَّا لَيْسَ لَكُم بِهِ عِلْمٌۭ وَتَحْسَبُونَهُ هَيِّنًۭا وَهُوَ عِندَ اللّٰهِ عَظِيمٌۭ",
+    "arabic_text": "اِذْ تَلَقَّوْنَهُ بِاَلْسِنَتِكُمْ وَتَقُولُونَ بِاَفْوَاهِكُم مَّا لَيْسَ لَكُم بِهِ عِلْمٌۭ وَتَحْسَبُونَهُ هَيِّنًۭا وَ هُوَ عِندَ اللّٰهِ عَظِيمٌۭ",
     "urdu_text": "جب تم اسے اپنی زبانوں سے لے رهے تھے اور اپنے منه سے ایسی بات کهه رهے تھے جس کا تمهیں کوئی علم نه تھا، اور تم اسے هلکی بات سمجھ رهے تھے حالانکه وه الله کے نزدیک بهت بڑی بات تھی۔",
     "persian_text": "آنگاه که آن را با زبان‌های خود می‌گرفتید و با دهان‌هایتان چیزی می‌گفتید که علمی به آن نداشتید و آن را سبک می‌پنداشتید در حالی که نزد خدا بزرگ بود.",
     "transliteration": "Idh talaqqawnahu bi-alsinatikum wa-taqūlūna bi-afwāhikum mā laysa lakum bihi 'ilmun wa-taḥsabūnahu hayyinan wa-huwa 'inda Allāhi 'aẓīm"
@@ -393,7 +393,7 @@ ayats = [
   {
     "verse_number": 49,
     "english_text": "However, if they were persistent on truthhood they would have come with their heads bowed down.",
-    "arabic_text": "وَاِن يَكُن لَّهُمُ الْحَقُّ يَاْتُوٓاْ اِلَيْهِ مُذْعِنِينَ",
+    "arabic_text": "وَ اِن يَكُن لَّهُمُ الْحَقُّ يَاْتُوٓاْ اِلَيْهِ مُذْعِنِينَ",
     "urdu_text": "لیکن اگر حق ان کے حق میں هو تو وه فرمانبرداری کرتے هوئے اس کے پاس آتے هیں۔",
     "persian_text": "و اگر حق با آنان باشد، با فرمانبرداری نزد او می‌آیند.",
     "transliteration": "Wa in yakun lahumul-haqqu ya'tu ilayhi mudh'inin"

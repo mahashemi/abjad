@@ -57,7 +57,7 @@ ayats = [
   {
     "verse_number": 7,
     "english_text": "If you call upon Him (loudly or slowly), He knows the secrets, and more hidden things.",
-    "arabic_text": "وَاِن تَجْهَرْ بِالْقَوْلِ فَاِنَّهُ يَعْلَمُ السِّرَّ وَاَخْفَى",
+    "arabic_text": "وَ اِن تَجْهَرْ بِالْقَوْلِ فَاِنَّهُ يَعْلَمُ السِّرَّ وَاَخْفَى",
     "urdu_text": "اور اگر تم بلند آواز سے بات کرو تو بے شک وه راز اور اس سے بھی زیاده پوشیده چیز کو جانتا هے",
     "persian_text": "و اگر سخن را آشکار گویی، پس او راز و نهان‌تر از آن را می‌داند",
     "transliteration": "Wa in tajhar bil-qawli fa-innahu ya'lamu as-sirra wa akhfa"
@@ -897,7 +897,7 @@ ayats = [
   {
     "verse_number": 112,
     "english_text": "And whoever did good deeds and was also a believer; he shall not have fear for any unjust or any loss.",
-    "arabic_text": "وَمَن يَعْمَلْ مِنَ الصَّـٰلِحَـٰتِ وَهُوَ مُؤْمِنٌ فَلَا يَخَافُ ظُلْمًا وَ لَا هَضْمًا",
+    "arabic_text": "وَمَن يَعْمَلْ مِنَ الصَّـٰلِحَـٰتِ وَ هُوَ مُؤْمِنٌ فَلَا يَخَافُ ظُلْمًا وَ لَا هَضْمًا",
     "urdu_text": "اور جو شخص نیک اعمال کرے اور وه مومن بھی هو، تو اسے نه کسی ظلم کا خوف هوگا اور نه کسی نقصان کا۔",
     "persian_text": "و هر کس کارهای نیک انجام دهد و مؤمن باشد، نه از ستمی بیم دارد و نه از کاستی.",
     "transliteration": "Wa man ya'mal minaṣ-ṣāliḥāti wa huwa mu'minun falā yakhāfu ẓulman wa lā haḍman"

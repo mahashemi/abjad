@@ -89,7 +89,7 @@ ayats = [
   {
     "verse_number": 11,
     "english_text": "And if any of your wives have deserted you for the infidels, so punish them; whose wife has gone, pay him the dower (what he had paid to the woman) from the war-booty; and anyhow fear Allah, in Whom you believe.",
-    "arabic_text": "وَاِن فَاتَكُمْ شَىْءٌۭ مِّنْ اَزْوَٰجِكُمْ اِلَى الْكُفَّارِ فَعَاقَبْتُمْ فَـَٔاتُواْ الَّذِينَ ذَهَبَتْ اَزْوَٰجُهُم مِّثْلَ مَآ اَنفَقُواْ ۚ وَاتَّقُواْ اللّٰهَ الَّذِىٓ اَنتُم بِهِ مُؤْمِنُونَ",
+    "arabic_text": "وَ اِن فَاتَكُمْ شَىْءٌۭ مِّنْ اَزْوَٰجِكُمْ اِلَى الْكُفَّارِ فَعَاقَبْتُمْ فَـَٔاتُواْ الَّذِينَ ذَهَبَتْ اَزْوَٰجُهُم مِّثْلَ مَآ اَنفَقُواْ ۚ وَاتَّقُواْ اللّٰهَ الَّذِىٓ اَنتُم بِهِ مُؤْمِنُونَ",
     "urdu_text": "اور اگر تمهاری بیویوں میں سے کوئی تم سے نکل کر کافروں کی طرف چلی جائے، پھر تمهیں (ان پر) غلبه حاصل هو، تو جن لوگوں کی بیویاں چلی گئی هیں انهیں اتنا هی دے دو جتنا انهوں نے خرچ کیا تھا، اور الله سے ڈرو جس پر تم ایمان رکھتے هو۔",
     "persian_text": "و اگر چیزی از همسران شما به سوی کافران رفت، سپس شما (بر آنان) غلبه یافتید، پس به کسانی که همسرانشان رفته‌اند، مانند آنچه خرج کرده‌اند بدهید، و از خدایی که به او ایمان دارید بترسید.",
     "transliteration": "Wa in faatakum shay'um min azwaajikum ilal kuffaari fa'aaqabtum fa aatul lazeena zahabat azwaajuhum mithla maa anfaqoo, wattaqul laahal lazeee antum bihee mu'minoon"

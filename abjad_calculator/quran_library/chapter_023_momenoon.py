@@ -265,7 +265,7 @@ ayats = [
   {
     "verse_number": 33,
     "english_text": "Chiefs of their tribes who have adopted infidelity and were denying the meeting of Allah in the Hereafter and We had given them life of ease, said: he is nothing but a mortal like you, he eats like you and drinks like you do.",
-    "arabic_text": "وَقَالَ الْمَلَاُ مِن قَوْمِهِ الَّذِينَ كَفَرُواْ وَكَذَّبُواْ بِلِقَآءِ الْاخِرَةِ وَاَتْرَفْنَـٰهُمْ فِى الْحَيَوٰةِ الدُّنْيٰمَا هَـٰذَآ اِلَّا بَشَرٌۭ مِّثْلُكُمْ يَاْكُلُ مِمَّا تَاْكُلُونَ مِنْهُ وَيَشْرَبُ مِمَّا تَشْرَبُونَ",
+    "arabic_text": "وَ قَالَ الْمَلَاُ مِن قَوْمِهِ الَّذِينَ كَفَرُواْ وَكَذَّبُواْ بِلِقَآءِ الْاخِرَةِ وَاَتْرَفْنَـٰهُمْ فِى الْحَيَوٰةِ الدُّنْيٰمَا هَـٰذَآ اِلَّا بَشَرٌۭ مِّثْلُكُمْ يَاْكُلُ مِمَّا تَاْكُلُونَ مِنْهُ وَيَشْرَبُ مِمَّا تَشْرَبُونَ",
     "urdu_text": "اور ان کی قوم کے سرداروں نے جنهوں نے کفر اختیار کیا اور آخرت کی ملاقات کو جھٹلایا اور هم نے انهیں دنیوی زندگی میں آسائش دی تھی، کها: یه تو تمهاری طرح ایک انسان هے، جو کھاتا هے جیسے تم کھاتے هو اور پیتا هے جیسے تم پیتے هو۔",
     "persian_text": "و بزرگان قوم او که کافر شده و دیدار آخرت را تکذیب کرده بودند و ما آنان را در زندگی دنیا در ناز و نعمت قرار داده بودیم، گفتند: این جز بشری مانند شما نیست که از آنچه شما می‌خورید می‌خورد و از آنچه شما می‌نوشید می‌نوشد.",
     "transliteration": "Wa qalal mala'u min qawmihil lazeena kafaroo wa kazzaboo biliqaa'il aakhirati wa atrafnaahum fil hayaatid dunya ma haaza illa basharum mithlukum ya'kulu mimma ta'kuloona minhu wa yashrabu mimma tashraboon"
@@ -577,7 +577,7 @@ ayats = [
   {
     "verse_number": 72,
     "english_text": "Are you asking for expenses from them! Absolutely not, because expenses given by Allah are better for you, and He is the Best provider of sustenance.",
-    "arabic_text": "اَمْ تَسْـَٔلُهُمْ خَرْجًۭا فَخَرَاجُ رَبِّكَ خَيْرٌۭ ۖ وَهُوَ خَيْرُ الرَّٰزِقِينَ",
+    "arabic_text": "اَمْ تَسْـَٔلُهُمْ خَرْجًۭا فَخَرَاجُ رَبِّكَ خَيْرٌۭ ۖ وَ هُوَ خَيْرُ الرَّٰزِقِينَ",
     "urdu_text": "کیا آپ ان سے کوئی اجرت مانگتے هیں؟ هرگز نهیں، کیونکه آپ کے رب کا عطا کرده رزق بهتر هے، اور وه سب سے بهتر رزق دینے والا هے۔",
     "persian_text": "آیا از آنان مزدی می‌خواهی؟ هرگز نه، زیرا عطای پروردگار تو بهتر است و او بهترین روزی‌دهندگان است.",
     "transliteration": "Am tas'aluhum kharajan fakharaaju rabbika khayrun wa huwa khayru ar-raaziqeen"
@@ -705,7 +705,7 @@ ayats = [
   {
     "verse_number": 88,
     "english_text": "Then say: who has the Kingdom of Power over everything that he gives [you] refuge. (but) nobody is going to give refuge from his punishment, if you have any sort of knowledge.",
-    "arabic_text": "قُلْ مَنۢ بِيَدِهِ مَلَكُوتُ كُلِّ شَىْءٍۢ وَهُوَ يُجِيرُ وَ لَا يُجَارُ عَلَيْهِ اِن كُنتُمْ تَعْلَمُونَ",
+    "arabic_text": "قُلْ مَنۢ بِيَدِهِ مَلَكُوتُ كُلِّ شَىْءٍۢ وَ هُوَ يُجِيرُ وَ لَا يُجَارُ عَلَيْهِ اِن كُنتُمْ تَعْلَمُونَ",
     "urdu_text": "کهو: وه کون هے جس کے هاتھ میں هر چیز کی بادشاهی هے اور وه پناه دیتا هے اور اس کے خلاف کوئی پناه نهیں دے سکتا، اگر تم جانتے هو؟",
     "persian_text": "بگو: چه کسی است که ملکوت هر چیز در دست اوست و او پناه می‌دهد و بر او پناه داده نمی‌شود، اگر می‌دانید؟",
     "transliteration": "Qul mam biyadihee malakootu kulli shay'inw wa huwa yujeeru wa laa yujaaru 'alayhi in kuntum ta'lamoon"

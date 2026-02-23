@@ -793,7 +793,7 @@ ayats = [
   {
     "verse_number": 99,
     "english_text": "Ibrahim said, I am going towards my Lord, he will send guidance to me.",
-    "arabic_text": "وَقَالَ اِنِّى ذَاهِبٌ اِلـٰى رَبِّى سَيَهْدِينِ",
+    "arabic_text": "وَ قَالَ اِنِّى ذَاهِبٌ اِلـٰى رَبِّى سَيَهْدِينِ",
     "urdu_text": "اور ابراهیم نے کها میں اپنے رب کی طرف جا رها هوں، وه مجھے هدایت دے گا۔",
     "persian_text": "و گفت: من به سوی پروردگارم می‌روم، او مرا هدایت خواهد کرد.",
     "transliteration": "Wa qaala innee dhahibun ilaa rabbee sayahdeen"
@@ -1137,7 +1137,7 @@ ayats = [
   {
     "verse_number": 142,
     "english_text": "Then fish swallowed him, when he was blaming on his own soul.",
-    "arabic_text": "فَالْتَقَمَهُ الْحُوتُ وَهُوَ مُلِيمٌۭ",
+    "arabic_text": "فَالْتَقَمَهُ الْحُوتُ وَ هُوَ مُلِيمٌۭ",
     "urdu_text": "پھر مچھلی نے انهیں نگل لیا جبکه وه اپنے آپ کو ملامت کر رهے تھے۔",
     "persian_text": "پس ماهی او را فرو برد در حالی که خود را سرزنش می‌کرد.",
     "transliteration": "Faltaqamahul-hootu wa huwa muleem"
@@ -1161,7 +1161,7 @@ ayats = [
   {
     "verse_number": 145,
     "english_text": "Then We put him on ground when he was sick also.",
-    "arabic_text": "۞ فَنَبَذْنَـٰهُ بِالْعَرَآءِ وَهُوَ سَقِيمٌۭ",
+    "arabic_text": "۞ فَنَبَذْنَـٰهُ بِالْعَرَآءِ وَ هُوَ سَقِيمٌۭ",
     "urdu_text": "پھر هم نے انهیں کھلی زمین پر ڈال دیا جبکه وه بیمار تھے۔",
     "persian_text": "پس او را در زمین بی‌گیاه افکندیم در حالی که بیمار بود.",
     "transliteration": "Fanabaznaahu bil-'araaa'i wa huwa saqeem"
@@ -1337,7 +1337,7 @@ ayats = [
   {
     "verse_number": 167,
     "english_text": "Whereas these people used to say this.",
-    "arabic_text": "وَاِن كَانُواْ لَيَقُولُونَ",
+    "arabic_text": "وَ اِن كَانُواْ لَيَقُولُونَ",
     "urdu_text": "اور یه لوگ یه کها کرتے تھے",
     "persian_text": "و آنان می‌گفتند",
     "transliteration": "Wa in kaanoo la-yaqooloon"

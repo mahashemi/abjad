@@ -337,7 +337,7 @@ ayats = [
   {
     "verse_number": 42,
     "english_text": "(O Prophet!) there is no surprise if these (infidels) deny you; before that people of Nooh and Aad and Samood.",
-    "arabic_text": "وَاِن يُكَذِّبُوكَ فَقَدْ كَذَّبَتْ قَبْلَهُمْ قَوْمُ نُوحٍۢ وَعَادٌۭ وَثَمُودُ",
+    "arabic_text": "وَ اِن يُكَذِّبُوكَ فَقَدْ كَذَّبَتْ قَبْلَهُمْ قَوْمُ نُوحٍۢ وَعَادٌۭ وَثَمُودُ",
     "urdu_text": "اے نبی! اگر یه لوگ آپ کو جھٹلاتے هیں تو ان سے پهلے قوم نوح اور عاد اور ثمود نے بھی جھٹلایا تھا۔",
     "persian_text": "ای پیامبر! اگر اینان تو را تکذیب کنند، پیش از آنها قوم نوح و عاد و ثمود نیز تکذیب کردند.",
     "transliteration": "Wa iy-yukazzibooka faqad kazzabat qablahum qawmu Noohinw-wa 'Aadunw-wa Thamood"
@@ -545,7 +545,7 @@ ayats = [
   {
     "verse_number": 68,
     "english_text": "Still if people quarrel with you then say: whatever I am doing, Allah is well aware of it.",
-    "arabic_text": "وَاِن جَـٰدَلُوكَ فَقُلِ اللّٰهُ اَعْلَمُ بِمَا تَعْمَلُونَ",
+    "arabic_text": "وَ اِن جَـٰدَلُوكَ فَقُلِ اللّٰهُ اَعْلَمُ بِمَا تَعْمَلُونَ",
     "urdu_text": "اور اگر وه تم سے جھگڑا کریں تو کهه دو که جو تم کرتے هو الله اسے خوب جانتا هے۔",
     "persian_text": "و اگر با تو مجادله کنند بگو الله به آنچه انجام می‌دهید داناتر است.",
     "transliteration": "Wa in jadalooka faqul Allahu a'lamu bima ta'maloon"

@@ -169,7 +169,7 @@ ayats = [
   {
     "verse_number": 21,
     "english_text": "They will say to their body parts how you have testified against us, they will say: Allah made us speak Who have given speaking power to everyone, and on the first day He has created you, and now also you will return to his Presence.",
-    "arabic_text": "وَ قَالُوْاْ لِجُلُودِهِمْ لِمَ شَهِدتُّمْ عَلَيْنَا ۖ قَالُوٓاْ اَنطَقَنَا اللّٰهُ الَّذِىٓ اَنطَقَ كُلَّ شَىْءٍۢ وَهُوَ خَلَقَكُمْ اَوَّلَ مَرَّةٍۢ وَ اِلَيْهِ تُرْجَعُونَ",
+    "arabic_text": "وَ قَالُوْاْ لِجُلُودِهِمْ لِمَ شَهِدتُّمْ عَلَيْنَا ۖ قَالُوٓاْ اَنطَقَنَا اللّٰهُ الَّذِىٓ اَنطَقَ كُلَّ شَىْءٍۢ وَ هُوَ خَلَقَكُمْ اَوَّلَ مَرَّةٍۢ وَ اِلَيْهِ تُرْجَعُونَ",
     "urdu_text": "اور وه اپنی کھالوں سے کهیں گے که تم نے همارے خلاف کیوں گواهی دی؟ وه کهیں گی که الله نے همیں بولنے کی طاقت دی جس نے هر چیز کو بولنے کی قدرت عطا کی، اور اسی نے تمهیں پهلی بار پیدا کیا تھا اور اب تم اسی کی طرف لوٹائے جاؤ گے۔",
     "persian_text": "و آنها به پوست‌های خود خواهند گفت: چرا علیه ما شهادت دادید؟ خواهند گفت: خدایی که به هر چیزی قدرت سخن داده، ما را به سخن درآورد، و او شما را نخستین بار آفرید و به سوی او بازگردانده می‌شوید.",
     "transliteration": "Wa qaaloo li-juloodihim lima shahidtum 'alaynaa qaaloo antaqanaa Allaahul-ladhee antaqa kulla shay'in wa huwa khalaqakum awwala marratin wa ilayhi turja'oon"
@@ -209,7 +209,7 @@ ayats = [
   {
     "verse_number": 26,
     "english_text": "And infidels say do not listen to the Quran at all, and when it is recited make commotion, we might dominate them like this.",
-    "arabic_text": "وَقَالَ الَّذِينَ كَفَرُواْ لَا تَسْمَعُواْ لِهَـٰذَا الْقُرْءَانِ وَالْغَوْاْ فِيهِ لَعَلَّكُمْ تَغْلِبُونَ",
+    "arabic_text": "وَ قَالَ الَّذِينَ كَفَرُواْ لَا تَسْمَعُواْ لِهَـٰذَا الْقُرْءَانِ وَالْغَوْاْ فِيهِ لَعَلَّكُمْ تَغْلِبُونَ",
     "urdu_text": "اور کافروں نے کها که اس قرآن کو بالکل نه سنو اور جب یه پڑھا جائے تو شور مچاؤ، شاید اس طرح تم غالب آ جاؤ۔",
     "persian_text": "و کافران گفتند: به این قرآن گوش ندهید و هنگام تلاوت آن سر و صدا کنید، شاید پیروز شوید.",
     "transliteration": "Wa qaalal-ladheena kafaroo laa tasma'oo li-haadhal-Qur'aani walghaw feehi la'allakum taghlibon"
@@ -233,7 +233,7 @@ ayats = [
   {
     "verse_number": 29,
     "english_text": "And the infidels will plead O Lord, who among the humans and jinns who had misguided us, so that we trample them beneath our feet, so that they are despised.",
-    "arabic_text": "وَقَالَ الَّذِينَ كَفَرُواْ رَبَّنَآ اَرِنَا الَّذَيْنِ اَضَلَّانَا مِنَ الْجِنِّ وَالْاِنسِ نَجْعَلْهُمَا تَحْتَ اَقْدَامِنَا لِيَكُونَا مِنَ الْاَسْفَلِينَ",
+    "arabic_text": "وَ قَالَ الَّذِينَ كَفَرُواْ رَبَّنَآ اَرِنَا الَّذَيْنِ اَضَلَّانَا مِنَ الْجِنِّ وَالْاِنسِ نَجْعَلْهُمَا تَحْتَ اَقْدَامِنَا لِيَكُونَا مِنَ الْاَسْفَلِينَ",
     "urdu_text": "اور کافر کهیں گے: اے همارے رب! همیں وه دونوں دکھا دے جنوں اور انسانوں میں سے جنهوں نے همیں گمراه کیا تاکه هم انهیں اپنے پاؤں تلے روند دیں تاکه وه سب سے نیچے هوں۔",
     "persian_text": "و کافران خواهند گفت: پروردگارا! آن دو نفر از جن و انس را که ما را گمراه کردند به ما نشان ده تا آنها را زیر پای خود قرار دهیم تا از پست‌ترین‌ها باشند.",
     "transliteration": "Wa qaalal-ladheena kafaroo Rabbanaa arinaal-ladhayni adallaa-naa minal-jinni wal-insi naj'alhumaa tahta aqdaaminaa li-yakoonaa minal-asfaleen"
@@ -265,7 +265,7 @@ ayats = [
   {
     "verse_number": 33,
     "english_text": "What else can be better that he invites towards Allah, and do good works also and say that I am from the obedient.",
-    "arabic_text": "وَ مَنْ اَحْسَنُ قَوْلًا مِّمَّن دَعَآ اِلَى اللّٰهِ وَعَمِلَ صَـٰلِحًۭا وَقَالَ اِنَّنِى مِنَ الْمُسْلِمِينَ",
+    "arabic_text": "وَ مَنْ اَحْسَنُ قَوْلًا مِّمَّن دَعَآ اِلَى اللّٰهِ وَعَمِلَ صَـٰلِحًۭا وَ قَالَ اِنَّنِى مِنَ الْمُسْلِمِينَ",
     "urdu_text": "اور اس سے بهتر بات کس کی هو سکتی هے جو الله کی طرف بلائے، نیک عمل کرے اور کهے که میں مسلمانوں میں سے هوں۔",
     "persian_text": "و چه کسی سخن بهتری دارد از آن که به سوی خدا دعوت کند و عمل صالح انجام دهد و بگوید که من از مسلمانان هستم.",
     "transliteration": "Wa man ahsanu qawlam-mimman da'aa ilallaahi wa 'amila saalihan wa qaala innanee minal-muslimeen"
@@ -353,7 +353,7 @@ ayats = [
   {
     "verse_number": 44,
     "english_text": "And if We would have revealed Quran in non-Arabic language then they would have said why its verses are not clear, and what is the connection of non-Arabic book with the Arabs; say: this book is healing and guidance for the believers, and those who do not believe have deafness in their ears and they are not seeing also, and they will be called out from very far-off place.",
-    "arabic_text": "وَ لَوْ جَعَلْنَـٰهُ قُرْءَانًا اَعْجَمِيًّۭا لَّقَالُوْاْ لَوْلَا فُصِّلَتْ اٰيٰتُهُٓ ۖ ءَا۬عْجَمِىٌّۭ وَعَرَبِىٌّۭ ۗ قُلْ هُوَ لِلَّذِينَ ءَامَنُواْ هُدًۭى وَشِفَآءٌۭ ۖ وَ الَّذِينَ لَا يُؤْمِنُونَ فِىٓ ءَاذَانِهِمْ وَقْرٌۭ وَهُوَ عَلَيْهِمْ عَمًى ۚ اُو۟لَـٰٓئِكَ يُنَادَوْنَ مِن مَّكَانٍۭ بَعِيدٍۢ",
+    "arabic_text": "وَ لَوْ جَعَلْنَـٰهُ قُرْءَانًا اَعْجَمِيًّۭا لَّقَالُوْاْ لَوْلَا فُصِّلَتْ اٰيٰتُهُٓ ۖ ءَا۬عْجَمِىٌّۭ وَعَرَبِىٌّۭ ۗ قُلْ هُوَ لِلَّذِينَ ءَامَنُواْ هُدًۭى وَشِفَآءٌۭ ۖ وَ الَّذِينَ لَا يُؤْمِنُونَ فِىٓ ءَاذَانِهِمْ وَقْرٌۭ وَ هُوَ عَلَيْهِمْ عَمًى ۚ اُو۟لَـٰٓئِكَ يُنَادَوْنَ مِن مَّكَانٍۭ بَعِيدٍۢ",
     "urdu_text": "اور اگر هم اسے غیر عربی زبان میں قرآن بناتے تو وه کهتے که اس کی آیات واضح کیوں نهیں کی گئیں، کیا عجمی کتاب اور عربی قوم؟ کهه دیجیے: یه ایمان والوں کے لیے هدایت اور شفا هے، اور جو لوگ ایمان نهیں لاتے ان کے کانوں میں بهرا پن هے اور یه ان پر اندھا پن هے، انهیں دور جگه سے پکارا جاتا هے۔",
     "persian_text": "و اگر آن را قرآنی به زبان غیر عربی قرار می‌دادیم، می‌گفتند چرا آیات آن روشن نشده است؟ آیا کتاب عجمی برای قوم عرب؟ بگو: این برای مؤمنان هدایت و شفاست، و کسانی که ایمان نمی‌آورند در گوش‌هایشان سنگینی است و بر آنان کوری است، آنان از جایی دور ندا داده می‌شوند.",
     "transliteration": "Wa law ja'alnāhu qur'ānan a'jamiyyan laqālū lawlā fuṣṣilat āyātuhū a'jamiyyun wa 'arabiyy qul huwa lilladhīna āmanū hudan wa shifā' walladhīna lā yu'minūna fī ādhānihim waqrun wa huwa 'alayhim 'amā ulā'ika yunādawna min makānin ba'īd"

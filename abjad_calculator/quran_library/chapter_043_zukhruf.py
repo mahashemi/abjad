@@ -137,7 +137,7 @@ ayats = [
   {
     "verse_number": 17,
     "english_text": "And when they are given the good news of a daughter, like they have described the example of the Beneficent Lord, then their faces turn black and they start to swallow the anger.",
-    "arabic_text": "وَاِذَا بُشِّرَ اَحَدُهُم بِمَا ضَرَبَ لِلرَّحْمَـٰنِ مَثَلًا ظَلَّ وَجْهُهُ مُسْوَدًّۭا وَهُوَ كَظِيمٌ",
+    "arabic_text": "وَاِذَا بُشِّرَ اَحَدُهُم بِمَا ضَرَبَ لِلرَّحْمَـٰنِ مَثَلًا ظَلَّ وَجْهُهُ مُسْوَدًّۭا وَ هُوَ كَظِيمٌ",
     "urdu_text": "اور جب ان میں سے کسی کو اس چیز کی خوشخبری دی جائے جو انهوں نے رحمان کے لیے مثال بیان کی هے، تو اس کا چهره سیاه هو جاتا هے اور وه غصه پی جاتا هے۔",
     "persian_text": "و چون به یکی از آنان مژده داده شود به آنچه برای رحمان مثل زده‌اند، چهره‌اش سیاه می‌شود و خشم خود را فرو می‌خورد.",
     "transliteration": "Wa izaa bushshira ahaduhum bimaa daraba lir-rahmaani masalan zalla wajhuhoo muswaddanw wa huwa kazeem"
@@ -145,7 +145,7 @@ ayats = [
   {
     "verse_number": 18,
     "english_text": "What! Who are raised in ornaments can they not talk properly at the time of quarreling?",
-    "arabic_text": "اَوَمَن يُنَشَّؤُاْ فِى الْحِلْيَةِ وَهُوَ فِى الْخِصَامِ غَيْرُ مُبِينٍۢ",
+    "arabic_text": "اَوَمَن يُنَشَّؤُاْ فِى الْحِلْيَةِ وَ هُوَ فِى الْخِصَامِ غَيْرُ مُبِينٍۢ",
     "urdu_text": "کیا وه جو زیورات میں پرورش پائے اور جھگڑے میں بات واضح نه کر سکے؟",
     "persian_text": "آیا کسی که در زیور پرورش یابد و در هنگام نزاع نتواند سخن آشکار بگوید؟",
     "transliteration": "Awaman yunashshu fil-hilyati wa huwa fil-khisaami ghayru mubeen"
@@ -673,7 +673,7 @@ ayats = [
   {
     "verse_number": 84,
     "english_text": "And that is He who is Allah in the skies and Allah on the earth, and is Wise, and knower of all things.",
-    "arabic_text": "وَهُوَ الَّذِى فِى السَّمَآءِ اِلَـٰهٌۭ وَفِى الْاَرْضِ اِلَـٰهٌۭ ۚ وَهُوَ الْحَكِيمُ الْعَلِيمُ",
+    "arabic_text": "وَهُوَ الَّذِى فِى السَّمَآءِ اِلَـٰهٌۭ وَفِى الْاَرْضِ اِلَـٰهٌۭ ۚ وَ هُوَ الْحَكِيمُ الْعَلِيمُ",
     "urdu_text": "اور وهی هے جو آسمان میں معبود هے اور زمین میں معبود هے، اور وه حکمت والا، جاننے والا هے۔",
     "persian_text": "و اوست که در آسمان معبود است و در زمین معبود است، و او حکیم و دانای همه چیز است.",
     "transliteration": "Wa Huwal-ladhi fis-samai ilahun wa fil-ardi ilah, wa Huwal-Hakeemul-'Aleem"

@@ -33,7 +33,7 @@ ayats = [
   {
     "verse_number": 4,
     "english_text": "These infidels say that this Quran is a lie, which he has fabricated, and another nation has helped him in this matter, whereas they themselves have done unjust and forged.",
-    "arabic_text": "وَقَالَ الَّذِينَ كَفَرُوٓاْ اِنْ هَـٰذَآ اِلَّآ اِفْكٌ افْتَرَىٰهُ وَاَعَانَهُ عَلَيْهِ قَوْمٌ ءَاخَرُونَ ۖ فَقَدْ جَآءُو ظُلْمًا وَزُورًا",
+    "arabic_text": "وَ قَالَ الَّذِينَ كَفَرُوٓاْ اِنْ هَـٰذَآ اِلَّآ اِفْكٌ افْتَرَىٰهُ وَاَعَانَهُ عَلَيْهِ قَوْمٌ ءَاخَرُونَ ۖ فَقَدْ جَآءُو ظُلْمًا وَزُورًا",
     "urdu_text": "اور کافروں نے کها که یه قرآن محض جھوٹ هے جسے اس نے گھڑا هے اور دوسری قوم نے اس میں اس کی مدد کی هے، حالانکه انهوں نے خود ظلم اور جھوٹ کا ارتکاب کیا هے۔",
     "persian_text": "و کسانی که کافر شدند گفتند: این جز دروغی نیست که او آن را ساخته و قومی دیگر در این کار به او یاری رسانده‌اند، در حالی که خود آنان به ستم و دروغ دست یازیده‌اند.",
     "transliteration": "Wa qalal-lazeena kafaru in haza illa ifkunif-tarahu wa a'anahu 'alayhi qawmun akharoona faqad ja'u zulman wa zoora"
@@ -65,7 +65,7 @@ ayats = [
   {
     "verse_number": 8,
     "english_text": "Or some treasure should have been dropped on him, or he should have some garden from which could eat, then these unjust say that you are obeying a magician.",
-    "arabic_text": "اَوْ يُلْقَىٰٓ اِلَيْهِ كَنزٌ اَوْ تَكُونُ لَهُ جَنَّةٌۭ يَاْكُلُ مِنْهَا ۚ وَقَالَ الظَّـٰلِمُونَ اِن تَتَّبِعُونَ اِلَّا رَجُلًا مَّسْحُورًا",
+    "arabic_text": "اَوْ يُلْقَىٰٓ اِلَيْهِ كَنزٌ اَوْ تَكُونُ لَهُ جَنَّةٌۭ يَاْكُلُ مِنْهَا ۚ وَ قَالَ الظَّـٰلِمُونَ اِن تَتَّبِعُونَ اِلَّا رَجُلًا مَّسْحُورًا",
     "urdu_text": "یا اس پر کوئی خزانه ڈال دیا جاتا یا اس کے لیے کوئی باغ هوتا جس سے وه کھاتا، اور ظالموں نے کها که تم تو ایک جادو زده آدمی کی پیروی کر رهے هو۔",
     "persian_text": "یا گنجی بر او افکنده می‌شد یا باغی برای او بود که از آن بخورد، و ستمکاران گفتند: شما جز مردی جادو شده را پیروی نمی‌کنید.",
     "transliteration": "Aw yulqa ilayhi kanzun aw takoonu lahu jannatun ya'kulu minha wa qalaz-zalimoona in tattabi'oona illa rajulan mashoora"
@@ -169,7 +169,7 @@ ayats = [
   {
     "verse_number": 21,
     "english_text": "And those who do not hope to meet Us, they say: why not the angels come to us or why we cannot see Allah, in fact they have become very haughty, and they are doing the revolt of highest degree.",
-    "arabic_text": "۞ وَقَالَ الَّذِينَ لَا يَرْجُونَ لِقَآءَنَا لَوْلَآ اُنزِلَ عَلَيْنَا الْمَلَـٰٓئِكَةُ اَوْ نَرَىٰ رَبَّنَا ۗ لَقَدِ اسْتَكْبَرُواْ فِىٓ اَنفُسِهِمْ وَعَتَوْ عُتُوًّۭا كَبِيرًا",
+    "arabic_text": "۞ وَ قَالَ الَّذِينَ لَا يَرْجُونَ لِقَآءَنَا لَوْلَآ اُنزِلَ عَلَيْنَا الْمَلَـٰٓئِكَةُ اَوْ نَرَىٰ رَبَّنَا ۗ لَقَدِ اسْتَكْبَرُواْ فِىٓ اَنفُسِهِمْ وَعَتَوْ عُتُوًّۭا كَبِيرًا",
     "urdu_text": "اور جو لوگ هم سے ملنے کی امید نهیں رکھتے، وه کهتے هیں: هم پر فرشتے کیوں نهیں اترے یا هم اپنے رب کو کیوں نهیں دیکھتے؟ بیشک انهوں نے اپنے دلوں میں بڑا تکبر کیا اور بهت بڑی سرکشی کی۔",
     "persian_text": "و کسانی که به دیدار ما امید ندارند، می‌گویند: چرا فرشتگان بر ما نازل نمی‌شوند یا چرا پروردگار خود را نمی‌بینیم؟ به راستی که در دل‌های خود تکبر ورزیدند و سرکشی بزرگی کردند.",
     "transliteration": "Wa qalal-lazeena la yarjoona liqaa'ana law la unzila 'alainal-mala'ikatu aw nara rabbana, laqadis-takbaru fee anfusihim wa 'ataw 'utuwwan kabeera"
@@ -241,7 +241,7 @@ ayats = [
   {
     "verse_number": 30,
     "english_text": "That day the prophet will call out: O Lord! my people have neglected this Quran.",
-    "arabic_text": "وَقَالَ الرَّسُولُ يَـٰرَبِّ اِنَّ قَوْمِى اتَّخَذُواْ هَـٰذَا الْقُرْءَانَ مَهْجُورًا",
+    "arabic_text": "وَ قَالَ الرَّسُولُ يَـٰرَبِّ اِنَّ قَوْمِى اتَّخَذُواْ هَـٰذَا الْقُرْءَانَ مَهْجُورًا",
     "urdu_text": "اور رسول کهیں گے: اے میرے رب! بیشک میری قوم نے اس قرآن کو چھوڑ دیا۔",
     "persian_text": "و پیامبر می‌گوید: ای پروردگار من! قوم من این قرآن را رها کردند.",
     "transliteration": "Wa qalar-rasoolu ya rabbi inna qawmit-takhazo hazal-qur'ana mahjoora"
@@ -257,7 +257,7 @@ ayats = [
   {
     "verse_number": 32,
     "english_text": "And infidels also say this that why this Quran has not been revealed on them all at once, but We reveal it gradually so we can strengthen your hearts, and We have revealed it slowly.",
-    "arabic_text": "وَقَالَ الَّذِينَ كَفَرُواْ لَوْلَا نُزِّلَ عَلَيْهِ الْقُرْءَانُ جُمْلَةًۭ وَٰحِدَةًۭ ۚ كَذٰلِكَ لِنُثَبِّتَ بِهِ فُؤَادَكَ ۖ وَرَتَّلْنَـٰهُ تَرْتِيلًا",
+    "arabic_text": "وَ قَالَ الَّذِينَ كَفَرُواْ لَوْلَا نُزِّلَ عَلَيْهِ الْقُرْءَانُ جُمْلَةًۭ وَٰحِدَةًۭ ۚ كَذٰلِكَ لِنُثَبِّتَ بِهِ فُؤَادَكَ ۖ وَرَتَّلْنَـٰهُ تَرْتِيلًا",
     "urdu_text": "اور کافروں نے کها که یه قرآن ان پر ایک ساتھ کیوں نهیں اتارا گیا، هم نے اسے اس لیے تھوڑا تھوڑا اتارا تاکه اس سے آپ کے دل کو مضبوط کریں، اور هم نے اسے ٹھهر ٹھهر کر نازل کیا۔",
     "persian_text": "و کسانی که کافر شدند گفتند چرا قرآن یکجا بر او نازل نشد، ما این‌گونه نازل کردیم تا دل تو را استوار کنیم، و آن را به آهستگی و ترتیب نازل کردیم.",
     "transliteration": "Wa qalal-ladheena kafaru lawla nuzzila 'alayhil-Qur'anu jumlatan wahidah, kadhalika linuthabbita bihi fu'adak, wa rattalnahu tarteela"
@@ -425,7 +425,7 @@ ayats = [
   {
     "verse_number": 53,
     "english_text": "And that is Allah who has flown both the rivers whose water is tasty and sweet, and salty and bitter, and between the inviolable obstruction is made.",
-    "arabic_text": "۞ وَهُوَ الَّذِى مَرَجَ الْبَحْرَيْنِ هَـٰذَا عَذْبٌۭ فُرَاتٌۭ وَهَـٰذَا مِلْحٌ اُجَاجٌۭ وَجَعَلَ بَيْنَهُمَا بَرْزَخًۭا وَحِجْرًا مَّحْجُورًا",
+    "arabic_text": "۞ وَ هُوَ الَّذِى مَرَجَ الْبَحْرَيْنِ هَـٰذَا عَذْبٌۭ فُرَاتٌۭ وَهَـٰذَا مِلْحٌ اُجَاجٌۭ وَجَعَلَ بَيْنَهُمَا بَرْزَخًۭا وَحِجْرًا مَّحْجُورًا",
     "urdu_text": "اور وهی هے جس نے دو سمندروں کو ملا دیا، ایک میٹھا اور خوشگوار، دوسرا کھاری اور کڑوا، اور ان دونوں کے درمیان ایک آڑ اور مضبوط رکاوٹ بنا دی۔",
     "persian_text": "و اوست که دو دریا را روان ساخت، این یکی شیرین و گوارا و آن دیگری شور و تلخ، و میان آن دو حایلی و مانعی محکم قرار داد.",
     "transliteration": "Wa huwal ladhee marajal bahrayni haazaa 'adhbun furaatun wa haazaa milhun ujaajun wa ja'ala baynahumaa barzakhan wa hijran mahjouraa"

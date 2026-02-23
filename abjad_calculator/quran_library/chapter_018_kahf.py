@@ -273,7 +273,7 @@ ayats = [
   {
     "verse_number": 34,
     "english_text": "And when he got the yield, he said to whom he was talking, I have more wealth than you and my group is also larger than you.",
-    "arabic_text": "وَكَانَ لَهُ ثَمَرٌۭ فَقَالَ لِصَـٰحِبِهِ وَهُوَ يُحَاوِرُهُٓ اَنَا۠ اَكْثَرُ مِنكَ مَالًا وَاَعَزُّ نَفَرًا",
+    "arabic_text": "وَكَانَ لَهُ ثَمَرٌۭ فَقَالَ لِصَـٰحِبِهِ وَ هُوَ يُحَاوِرُهُٓ اَنَا۠ اَكْثَرُ مِنكَ مَالًا وَاَعَزُّ نَفَرًا",
     "urdu_text": "اور اس کے پاس بهت سا مال تھا، تو اس نے اپنے ساتھی سے بات کرتے هوئے کها: میں تجھ سے زیاده مال والا هوں اور میرا گروه بھی تجھ سے زیاده طاقتور هے۔",
     "persian_text": "و او دارای ثروت فراوان بود، پس به همراه خود در حالی که با او گفتگو می‌کرد گفت: من از تو مال بیشتر و گروه نیرومندتری دارم.",
     "transliteration": "Wa kaana lahoo thamarun faqaala lisaahibihee wa huwa yuhaawiruhoo ana aktharu minka maalaw-wa a'azzu nafaraa"
@@ -281,7 +281,7 @@ ayats = [
   {
     "verse_number": 35,
     "english_text": "(While talking this) he entered into the garden, however his condition was such that he was being unjust upon him and said: I do not think this garden can ever perish.",
-    "arabic_text": "وَدَخَلَ جَنَّتَهُ وَهُوَ ظَالِمٌۭ لِّنَفْسِهِ قَالَ مَآ اَظُنُّ اَن تَبِيدَ هَـٰذِهِٓ اَبَدًۭا",
+    "arabic_text": "وَدَخَلَ جَنَّتَهُ وَ هُوَ ظَالِمٌۭ لِّنَفْسِهِ قَالَ مَآ اَظُنُّ اَن تَبِيدَ هَـٰذِهِٓ اَبَدًۭا",
     "urdu_text": "اور وه اپنے باغ میں داخل هوا جبکه وه اپنے آپ پر ظلم کر رها تھا، اس نے کها: میں نهیں سمجھتا که یه باغ کبھی ختم هو سکتا هے۔",
     "persian_text": "و در حالی که به خود ستم می‌کرد وارد باغ خود شد و گفت: گمان نمی‌کنم که این باغ هرگز نابود شود.",
     "transliteration": "Wa dakhala jannatahoo wa huwa zaalimul-linafsihi qaala maaa azunnu an tabeeda haazihee abadaa"
@@ -297,7 +297,7 @@ ayats = [
   {
     "verse_number": 37,
     "english_text": "His companion who was talking to him said: Do you deny your Lord who created you by dust and took you out from sperm then made you a perfect man.",
-    "arabic_text": "قَالَ لَهُ صَاحِبُهُ وَهُوَ يُحَاوِرُهُٓ اَكَفَرْتَ بِالَّذِى خَلَقَكَ مِن تُرَابٍۢ ثُمَّ مِن نُّطْفَةٍۢ ثُمَّ سَوَّىٰكَ رَجُلًا",
+    "arabic_text": "قَالَ لَهُ صَاحِبُهُ وَ هُوَ يُحَاوِرُهُٓ اَكَفَرْتَ بِالَّذِى خَلَقَكَ مِن تُرَابٍۢ ثُمَّ مِن نُّطْفَةٍۢ ثُمَّ سَوَّىٰكَ رَجُلًا",
     "urdu_text": "اس کے ساتھی نے اس سے بات کرتے هوئے کها: کیا تو اس ذات کا انکار کرتا هے جس نے تجھے مٹی سے پیدا کیا، پھر نطفے سے، پھر تجھے مکمل انسان بنایا؟",
     "persian_text": "همراهش در حالی که با او گفتگو می‌کرد به او گفت: آیا به کسی که تو را از خاک آفرید، سپس از نطفه، سپس تو را به صورت مردی کامل درآورد، کفر می‌ورزی؟",
     "transliteration": "Qaala lahoo saahibuhoo wa huwa yuhaawiruhoo a-kafarta billazee khalaqaka min turaabith-thumma min nutfatin thumma sawwaaka rajulaa"

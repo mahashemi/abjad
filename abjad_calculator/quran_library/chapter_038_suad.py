@@ -33,7 +33,7 @@ ayats = [
   {
     "verse_number": 4,
     "english_text": "And they are surprised, how a warner has come among them; and infidels clearly said this is a magician and a liar.",
-    "arabic_text": "وَعَجِبُوٓاْ اَن جَآءَهُم مُّنذِرٌۭ مِّنْهُمْ ۖ وَقَالَ الْكَـٰفِرُونَ هَـٰذَا سَـٰحِرٌۭ كَذَّابٌ",
+    "arabic_text": "وَعَجِبُوٓاْ اَن جَآءَهُم مُّنذِرٌۭ مِّنْهُمْ ۖ وَ قَالَ الْكَـٰفِرُونَ هَـٰذَا سَـٰحِرٌۭ كَذَّابٌ",
     "urdu_text": "اور انہیں تعجب ہوا کہ ان میں سے ایک ڈرانے والا آیا، اور کافروں نے کہا یہ جادوگر اور جھوٹا ہے۔",
     "persian_text": "و شگفت‌زده شدند که از میان خودشان بیم‌دهنده‌ای آمده است، و کافران گفتند این جادوگر و دروغگویی است.",
     "transliteration": "Wa 'ajibooo an jaa'ahum mundhirum minhum wa qaalal-kaafiroona haadha saahirun kadhdhaab"

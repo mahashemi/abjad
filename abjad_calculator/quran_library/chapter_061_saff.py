@@ -9,7 +9,7 @@ ayats = [
   {
     "verse_number": 1,
     "english_text": "Every particle which is on the earth and in the skies is busy glorifying Allah, and He is Honorable and Wise.",
-    "arabic_text": "سَبَّحَ لِلَّهِ مَا فِى السَّمَـٰوَٰتِ وَ مَا فِى الْاَرْضِ ۖ وَهُوَ الْعَزِيزُ الْحَكِيمُ",
+    "arabic_text": "سَبَّحَ لِلَّهِ مَا فِى السَّمَـٰوَٰتِ وَ مَا فِى الْاَرْضِ ۖ وَ هُوَ الْعَزِيزُ الْحَكِيمُ",
     "urdu_text": "آسمانوں اور زمین میں جو کچھ هے سب الله کی تسبیح کرتا هے، اور وه غالب اور حکمت والا هے۔",
     "persian_text": "هر آنچه در آسمان‌ها و زمین است، خدا را تسبیح می‌گوید، و او عزیز و حکیم است.",
     "transliteration": "Sabbaha lillahi ma fis-samawati wa ma fil-ard, wa huwal-'Azizul-Hakim"
@@ -57,7 +57,7 @@ ayats = [
   {
     "verse_number": 7,
     "english_text": "Who can be the bigger unjust who blames Allah, whereas he is being invited towards Islam, and Allah never guides the unjust nation.",
-    "arabic_text": "وَ مَنْ اَظْلَمُ مِمَّنِ افْتَرَىٰ عَلَى اللّٰهِ الْكَذِبَ وَهُوَ يُدْعَىٰٓ اِلَى الْاِسْلَـٰمِ ۚ وَ اللّٰهُ لَا يَهْدِى الْقَوْمَ الظَّـٰلِمِينَ",
+    "arabic_text": "وَ مَنْ اَظْلَمُ مِمَّنِ افْتَرَىٰ عَلَى اللّٰهِ الْكَذِبَ وَ هُوَ يُدْعَىٰٓ اِلَى الْاِسْلَـٰمِ ۚ وَ اللّٰهُ لَا يَهْدِى الْقَوْمَ الظَّـٰلِمِينَ",
     "urdu_text": "اور اس سے بڑھ کر ظالم کون هو گا جو الله پر جھوٹ باندھے جبکه اسے اسلام کی طرف بلایا جا رها هو؟ اور الله ظالم لوگوں کو هدایت نهیں دیتا۔",
     "persian_text": "و چه کسی ستمکارتر است از آن که بر خدا دروغ ببندد در حالی که به سوی اسلام دعوت می‌شود؟ و خدا قوم ستمگر را هدایت نمی‌کند.",
     "transliteration": "Wa man azlamu mimmanif-tara 'alallahil-kadhiba wa huwa yud'a ilal-Islam, wallahu la yahdil-qawmaz-zalimin"

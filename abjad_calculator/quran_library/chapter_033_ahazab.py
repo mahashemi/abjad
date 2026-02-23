@@ -33,7 +33,7 @@ ayats = [
   {
     "verse_number": 4,
     "english_text": "Allah has not given two hearts in any man's breast, nor He made your wives as your real mothers, whose back you liken to your mothers, nor He has made your adopted son your son, these are words of your mouth; and Allah says the truth, and guide to the straight path.",
-    "arabic_text": "مَّا جَعَلَ اللّٰهُ لِرَجُلٍۢ مِّن قَلْبَيْنِ فِى جَوْفِهِ ۚ وَ مَا جَعَلَ اَزْوَٰجَكُمُ الَّـٰٓـِٔى تُظَـٰهِرُونَ مِنْهُنَّ اُمَّهَـٰتِكُمْ ۚ وَ مَا جَعَلَ اَدْعِيَآءَكُمْ اَبْنَآءَكُمْ ۚ ذَٰلِكُمْ قَوْلُكُم بِاَفْوَٰهِكُمْ ۖ وَ اللّٰهُ يَقُولُ الْحَقَّ وَهُوَ يَهْدِى السَّبِيلَ",
+    "arabic_text": "مَّا جَعَلَ اللّٰهُ لِرَجُلٍۢ مِّن قَلْبَيْنِ فِى جَوْفِهِ ۚ وَ مَا جَعَلَ اَزْوَٰجَكُمُ الَّـٰٓـِٔى تُظَـٰهِرُونَ مِنْهُنَّ اُمَّهَـٰتِكُمْ ۚ وَ مَا جَعَلَ اَدْعِيَآءَكُمْ اَبْنَآءَكُمْ ۚ ذَٰلِكُمْ قَوْلُكُم بِاَفْوَٰهِكُمْ ۖ وَ اللّٰهُ يَقُولُ الْحَقَّ وَ هُوَ يَهْدِى السَّبِيلَ",
     "urdu_text": "الله نے کسی آدمی کے سینے میں دو دل نهیں بنائے، اور نه تمهاری بیویوں کو جن سے تم ظهار کرتے هو تمهاری مائیں بنایا، اور نه تمهارے منه بولے بیٹوں کو تمهارے حقیقی بیٹے بنایا، یه تو تمهارے منه کی باتیں هیں، اور الله حق بات کهتا هے اور وهی سیدھا راسته دکھاتا هے۔",
     "persian_text": "خداوند برای هیچ مردی دو دل در سینه‌اش قرار نداده، و همسرانتان را که از آنها ظهار می‌کنید مادرانتان قرار نداده، و فرزندخواندگانتان را فرزندان واقعی‌تان نساخته، این سخنان دهان شماست، و خداوند حق را می‌گوید و او راه راست را نشان می‌دهد.",
     "transliteration": "Maa ja'alallaahu lirajulim min qalbayni fee jawfih, wa maa ja'ala azwaajakumul-laaa'ee tuzaahiroona minhunna ummahaa tikum, wa maa ja'ala ad'iyaaa'akum abnaa'akum, dhaalikum qawlukum bi-afwaahikum, wallaahu yaqoolul-haqqa wa huwa yahdis-sabeel"
@@ -233,7 +233,7 @@ ayats = [
   {
     "verse_number": 29,
     "english_text": "And if you are desirous of Allah, Prophet and the Hereafter; then for women of good characters among you Allah has preserved the great reward.",
-    "arabic_text": "وَاِن كُنتُنَّ تُرِدْنَ اللّٰهَ وَرَسُولَهُ وَالدَّارَ الْاخِرَةَ فَاِنَّ اللّٰهَ اَعَدَّ لِلْمُحْسِنَـٰتِ مِنكُنَّ اَجْرًا عَظِيمًا",
+    "arabic_text": "وَ اِن كُنتُنَّ تُرِدْنَ اللّٰهَ وَرَسُولَهُ وَالدَّارَ الْاخِرَةَ فَاِنَّ اللّٰهَ اَعَدَّ لِلْمُحْسِنَـٰتِ مِنكُنَّ اَجْرًا عَظِيمًا",
     "urdu_text": "اور اگر تم الله اور اس کے رسول اور آخرت کے گھر کی خواهش مند هو، تو بیشک الله نے تم میں سے نیکی کرنے والیوں کے لیے بڑا اجر تیار کر رکھا هے۔",
     "persian_text": "و اگر الله و رسولش و سرای آخرت را می‌خواهید، پس همانا الله برای نیکوکاران از شما پاداش بزرگی آماده کرده است.",
     "transliteration": "Wa in kuntunna turidnallaha wa Rasoolahu wad daral akhirata fa innallaha a'adda lil muhsinati minkunna ajran 'azeema"

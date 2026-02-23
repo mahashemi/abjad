@@ -73,7 +73,7 @@ ayats = [
   {
     "verse_number": 9,
     "english_text": "They will abide in it forever, this is the truthful promise of Allah, and He is Honorable and has Wisdom.",
-    "arabic_text": "خَـٰلِدِينَ فِيهَا ۖ وَعْدَ اللّٰهِ حَقًّۭا ۚ وَهُوَ الْعَزِيزُ الْحَكِيمُ",
+    "arabic_text": "خَـٰلِدِينَ فِيهَا ۖ وَعْدَ اللّٰهِ حَقًّۭا ۚ وَ هُوَ الْعَزِيزُ الْحَكِيمُ",
     "urdu_text": "وه اس میں همیشه رهنے والے هیں، یه الله کا سچا وعده هے، اور وه غالب اور حکمت والا هے",
     "persian_text": "جاودانه در آن خواهند ماند، این وعده حق خداست، و او عزیز و حکیم است",
     "transliteration": "Khaalideena feehaa, wa'dal laahi haqqaa, wa huwal 'azeezul hakeem"
@@ -105,7 +105,7 @@ ayats = [
   {
     "verse_number": 13,
     "english_text": "And remember the time when Luqman enlightened his son, O son! Do not make any partner with Allah, polytheism is great unjust.",
-    "arabic_text": "وَاِذْ قَالَ لُقْمَـٰنُ لِابْنِهِ وَهُوَ يَعِظُهُ يَـٰبُنَىَّ لَا تُشْرِكْ بِاللّٰهِ ۖ اِنَّ الشِّرْكَ لَظُلْمٌ عَظِيمٌۭ",
+    "arabic_text": "وَاِذْ قَالَ لُقْمَـٰنُ لِابْنِهِ وَ هُوَ يَعِظُهُ يَـٰبُنَىَّ لَا تُشْرِكْ بِاللّٰهِ ۖ اِنَّ الشِّرْكَ لَظُلْمٌ عَظِيمٌۭ",
     "urdu_text": "اور یاد کرو جب لقمان نے اپنے بیٹے کو نصیحت کرتے هوئے کها: اے میرے بیٹے! الله کے ساتھ کسی کو شریک نه ٹھهرانا، بیشک شرک بهت بڑا ظلم هے۔",
     "persian_text": "و یاد کن هنگامی را که لقمان به پسرش گفت در حالی که او را پند می‌داد: ای پسرم! برای الله شریکی قرار مده، زیرا شرک ستمی بزرگ است.",
     "transliteration": "Wa idh qāla Luqmānu li-ibnihi wa huwa ya'iẓuhū yā bunayya lā tushrik billāhi inna ash-shirka la-ẓulmun 'aẓīm"
@@ -121,7 +121,7 @@ ayats = [
   {
     "verse_number": 15,
     "english_text": "And if your parents compel you to make something My partner of which you have no knowledge, do not obey them; but be kind to them in the world, and follow the path of him which reminds Me, then thereafter return of all of you are towards Me only; then I will inform you what you have done.",
-    "arabic_text": "وَاِن جَـٰهَدَاكَ عَلَىٰٓ اَن تُشْرِكَ بِى مَا لَيْسَ لَكَ بِهِ عِلْمٌۭ فَلَا تُطِعْهُمَا ۖ وَصَاحِبْهُمَا فِى الدُّنْيٰمَعْرُوفًۭا ۖ وَاتَّبِعْ سَبِيلَ مَنْ اَنَابَ اِلَىَّ ۚ ثُمَّ اِلَىَّ مَرْجِعُكُمْ فَاُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ",
+    "arabic_text": "وَ اِن جَـٰهَدَاكَ عَلَىٰٓ اَن تُشْرِكَ بِى مَا لَيْسَ لَكَ بِهِ عِلْمٌۭ فَلَا تُطِعْهُمَا ۖ وَصَاحِبْهُمَا فِى الدُّنْيٰمَعْرُوفًۭا ۖ وَاتَّبِعْ سَبِيلَ مَنْ اَنَابَ اِلَىَّ ۚ ثُمَّ اِلَىَّ مَرْجِعُكُمْ فَاُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ",
     "urdu_text": "اور اگر تمهارے والدین تم پر زور ڈالیں که میرے ساتھ کسی ایسی چیز کو شریک ٹھهراؤ جس کا تمهیں علم نهیں، تو ان کی اطاعت نه کرو، لیکن دنیا میں ان کے ساتھ اچھا سلوک کرو، اور اس کی راه کی پیروی کرو جو میری طرف رجوع کرتا هے، پھر تم سب کی واپسی میری هی طرف هے، پھر میں تمهیں بتاؤں گا جو تم کرتے تھے۔",
     "persian_text": "و اگر والدینت تو را وادار کنند که چیزی را که از آن آگاهی نداری با من شریک سازی، از آنها اطاعت مکن، اما در دنیا با آنها به نیکی رفتار کن، و راه کسی را پیروی کن که به سوی من بازگشت کرده است، سپس بازگشت همه شما به سوی من است، پس شما را از آنچه انجام می‌دادید آگاه خواهم کرد.",
     "transliteration": "Wa in jāhadāka 'alā an tushrika bī mā laysa laka bihi 'ilmun fa-lā tuṭi'humā wa ṣāḥibhumā fī ad-dunyā ma'rūfan wa attabi' sabīla man anāba ilayya thumma ilayya marji'ukum fa-unabbi'ukum bimā kuntum ta'malūn"
@@ -177,7 +177,7 @@ ayats = [
   {
     "verse_number": 22,
     "english_text": "And who turns his life wholly towards Allah and also has good character, then he has held the rope of guidance firmly, and on Allah is the end of all affairs.",
-    "arabic_text": "۞ وَمَن يُسْلِمْ وَجْهَهُٓ اِلَى اللّٰهِ وَهُوَ مُحْسِنٌ فَقَدِ اسْتَمْسَكَ بِالْعُرْوَةِ الْوُثْقَىٰ ۗ وَ اِلـٰى اللّٰهِ عَـٰقِبَةُ الْاُمُورِ",
+    "arabic_text": "۞ وَمَن يُسْلِمْ وَجْهَهُٓ اِلَى اللّٰهِ وَ هُوَ مُحْسِنٌ فَقَدِ اسْتَمْسَكَ بِالْعُرْوَةِ الْوُثْقَىٰ ۗ وَ اِلـٰى اللّٰهِ عَـٰقِبَةُ الْاُمُورِ",
     "urdu_text": "اور جو شخص اپنا چهره الله کی طرف جھکا دے اور وه نیکو کار بھی هو تو اس نے مضبوط رسی کو تھام لیا، اور تمام معاملات کا انجام الله هی کی طرف هے۔",
     "persian_text": "و هر کس خود را به خدا تسلیم کند در حالی که نیکوکار باشد، پس به دستاویز محکم چنگ زده است، و فرجام همه کارها به سوی خداست.",
     "transliteration": "Wa man yuslim wajhahu ilal-lahi wa huwa muhsinun faqadistamsaka bil'urwatil wuthqa, wa ilal-lahi 'aqibatul umoor"

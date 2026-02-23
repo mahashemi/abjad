@@ -33,7 +33,7 @@ ayats = [
   {
     "verse_number": 4,
     "english_text": "On this Prophet said: My Lord knows whatever is spoken in the sky and on earth (then what whispering you do); and he is all Hearing and Knowing.",
-    "arabic_text": "قَالَ رَبِّى يَعْلَمُ الْقَوْلَ فِى السَّمَآءِ وَ الْاَرْضِ ۖ وَهُوَ السَّمِيعُ الْعَلِيمُ",
+    "arabic_text": "قَالَ رَبِّى يَعْلَمُ الْقَوْلَ فِى السَّمَآءِ وَ الْاَرْضِ ۖ وَ هُوَ السَّمِيعُ الْعَلِيمُ",
     "urdu_text": "نبی نے کہا: میرا رب آسمان اور زمین میں ہر بات کو جانتا ہے، اور وہ سننے والا اور جاننے والا ہے۔",
     "persian_text": "پیامبر گفت: پروردگار من هر سخنی را که در آسمان و زمین گفته می‌شود می‌داند، و او شنوای داناست.",
     "transliteration": "Qaala rabbee ya'lamul qawla fis samaaa'i wal ardi wa huwas samee'ul 'aleem"
@@ -753,7 +753,7 @@ ayats = [
   {
     "verse_number": 94,
     "english_text": "He who does good deeds and is also a believer, his endeavour will not go waste, and We are writing his deeds.",
-    "arabic_text": "فَمَن يَعْمَلْ مِنَ الصَّـٰلِحَـٰتِ وَهُوَ مُؤْمِنٌ فَلَا كُفْرَانَ لِسَعْيِهِ وَ اِنَّا لَهُ كَـٰتِبُونَ",
+    "arabic_text": "فَمَن يَعْمَلْ مِنَ الصَّـٰلِحَـٰتِ وَ هُوَ مُؤْمِنٌ فَلَا كُفْرَانَ لِسَعْيِهِ وَ اِنَّا لَهُ كَـٰتِبُونَ",
     "urdu_text": "پس جو شخص نیک اعمال کرے اور وہ مومن بھی ہو تو اس کی کوشش ضائع نہیں ہوگی اور ہم اس کے اعمال لکھ رہے ہیں۔",
     "persian_text": "پس هر کس کارهای نیک انجام دهد و او مؤمن باشد، کوشش او هرگز ضایع نخواهد شد و ما اعمال او را می‌نویسیم.",
     "transliteration": "Faman ya'mal minaṣ-ṣāliḥāti wa huwa mu'minun falā kufrāna lisa'yihī wa innā lahū kātibūn"

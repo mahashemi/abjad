@@ -169,7 +169,7 @@ ayats = [
   {
     "verse_number": 21,
     "english_text": "We have got innumerable treasures of everything, and We send from it in ascertainable quantity.",
-    "arabic_text": "وَاِن مِّن شَىْءٍ اِلَّا عِندَنَا خَزَآئِنُهُ وَ مَا نُنَزِّلُهُٓ اِلَّا بِقَدَرٍۢ مَّعْلُومٍۢ",
+    "arabic_text": "وَ اِن مِّن شَىْءٍ اِلَّا عِندَنَا خَزَآئِنُهُ وَ مَا نُنَزِّلُهُٓ اِلَّا بِقَدَرٍۢ مَّعْلُومٍۢ",
     "urdu_text": "اور کوئی چیز نهیں مگر اس کے خزانے همارے پاس هیں، اور هم اسے ایک مقرر مقدار میں اتارتے هیں۔",
     "persian_text": "و هیچ چیزی نیست مگر آنکه خزانه‌های آن نزد ماست، و ما آن را جز به اندازه‌ای معین نازل نمی‌کنیم.",
     "transliteration": "Wa in min shay'in illa 'indana khaza'inuhu wa ma nunazziluhu illa biqadarin ma'lum"
@@ -625,7 +625,7 @@ ayats = [
   {
     "verse_number": 78,
     "english_text": "And people of Aika i.e. woods (people of Shoaib), were transgressors like people of Lut.",
-    "arabic_text": "وَاِن كَانَ اَصْحَـٰبُ الْاَيْكَةِ لَظَـٰلِمِينَ",
+    "arabic_text": "وَ اِن كَانَ اَصْحَـٰبُ الْاَيْكَةِ لَظَـٰلِمِينَ",
     "urdu_text": "اور ایکه یعنی جنگل والے (قوم شعیب) بھی ظالم تھے۔",
     "persian_text": "و مردم ایکه یعنی جنگل (قوم شعیب) نیز ستمگر بودند.",
     "transliteration": "Wa in kaana as-haabul aykati lazaalimīn"

@@ -41,7 +41,7 @@ ayats = [
   {
     "verse_number": 5,
     "english_text": "With the help and aid of Allah, that He helps whom He pleases; and He is the Mighty and Merciful.",
-    "arabic_text": "بِنَصْرِ اللّٰهِ ۚ يَنصُرُ مَن يَشَآءُ ۖ وَهُوَ الْعَزِيزُ الرَّحِيمُ",
+    "arabic_text": "بِنَصْرِ اللّٰهِ ۚ يَنصُرُ مَن يَشَآءُ ۖ وَ هُوَ الْعَزِيزُ الرَّحِيمُ",
     "urdu_text": "الله کی مدد سے، وه جس کو چاهتا هے مدد دیتا هے، اور وه زبردست اور مهربان هے",
     "persian_text": "به یاری خدا، او هر که را بخواهد یاری می‌کند، و او توانا و مهربان است",
     "transliteration": "Binasril-lah, yansuru many-yasha', wa huwal-'Azeezur-Raheem"
@@ -217,7 +217,7 @@ ayats = [
   {
     "verse_number": 27,
     "english_text": "And that is He, who begins the creation, then brings to life again, and this is very easy for Him, and to Him belongs the loftiest example in the sky and the earth, and He is Predominant on all and has Wisdom.",
-    "arabic_text": "وَهُوَ الَّذِى يَبْدَؤُاْ الْخَلْقَ ثُمَّ يُعِيدُهُ وَهُوَ اَهْوَنُ عَلَيْهِ ۚ وَلَهُ الْمَثَلُ الْاَعْلَىٰ فِى السَّمَـٰوَٰتِ وَ الْاَرْضِ ۚ وَهُوَ الْعَزِيزُ الْحَكِيمُ",
+    "arabic_text": "وَهُوَ الَّذِى يَبْدَؤُاْ الْخَلْقَ ثُمَّ يُعِيدُهُ وَ هُوَ اَهْوَنُ عَلَيْهِ ۚ وَلَهُ الْمَثَلُ الْاَعْلَىٰ فِى السَّمَـٰوَٰتِ وَ الْاَرْضِ ۚ وَ هُوَ الْعَزِيزُ الْحَكِيمُ",
     "urdu_text": "اور وهی هے جو پهلی بار تخلیق کرتا هے، پھر دوباره زنده کرتا هے، اور یه اس پر بهت آسان هے، اور آسمانوں اور زمین میں سب سے اعلیٰ مثال اسی کی هے، اور وه غالب اور حکمت والا هے۔",
     "persian_text": "و او کسی است که آفرینش را آغاز می‌کند سپس آن را باز می‌گرداند و این بر او بسیار آسان است، و برترین مثال در آسمان‌ها و زمین از آن اوست، و او شکست‌ناپذیر و حکیم است.",
     "transliteration": "Wa huwal ladhee yabda'ul khalqa thumma yu'eeduhu wa huwa ahwanu 'alayh; wa lahul mathalul a'laa fis samaawaati wal-ard; wa huwal 'azeezul hakeem"
@@ -393,7 +393,7 @@ ayats = [
   {
     "verse_number": 49,
     "english_text": "Although they were disappointed before the arrival of the rain.",
-    "arabic_text": "وَاِن كَانُواْ مِن قَبْلِ اَن يُنَزَّلَ عَلَيْهِم مِّن قَبْلِهِ لَمُبْلِسِينَ",
+    "arabic_text": "وَ اِن كَانُواْ مِن قَبْلِ اَن يُنَزَّلَ عَلَيْهِم مِّن قَبْلِهِ لَمُبْلِسِينَ",
     "urdu_text": "حالانکه وه اس سے پهلے که ان پر بارش نازل هو مایوس تھے۔",
     "persian_text": "و گرچه پیش از آنکه باران بر آنها نازل شود، مایوس بودند.",
     "transliteration": "Wa-in kanu min qabli an yunazzala 'alayhim min qablihi lamublisin"
@@ -401,7 +401,7 @@ ayats = [
   {
     "verse_number": 50,
     "english_text": "Now see the signs of Allah's Mercy that how He brings to life the dead earth, Verily, He brings to life the dead ones, and He has Power over everything.",
-    "arabic_text": "فَانظُرْ اِلـٰىٓ ءَاثَـٰرِ رَحْمَتِ اللّٰهِ كَيْفَ يُحْىِ الْاَرْضَ بَعْدَ مَوْتِهَآ ۚ اِنَّ ذٰلِكَ لَمُحْىِ الْمَوْتَىٰ ۖ وَهُوَ عَلَىٰ كُلِّ شَىْءٍۢ قَدِيرٌۭ",
+    "arabic_text": "فَانظُرْ اِلـٰىٓ ءَاثَـٰرِ رَحْمَتِ اللّٰهِ كَيْفَ يُحْىِ الْاَرْضَ بَعْدَ مَوْتِهَآ ۚ اِنَّ ذٰلِكَ لَمُحْىِ الْمَوْتَىٰ ۖ وَ هُوَ عَلَىٰ كُلِّ شَىْءٍۢ قَدِيرٌۭ",
     "urdu_text": "اب الله کی رحمت کے آثار کو دیکھو که وه کیسے مرده زمین کو زنده کرتا هے، بے شک وهی مردوں کو زنده کرنے والا هے، اور وه هر چیز پر قادر هے۔",
     "persian_text": "پس به آثار رحمت خدا بنگر که چگونه زمین را پس از مرگش زنده می‌کند، همانا او زنده‌کننده مردگان است، و او بر هر چیزی تواناست.",
     "transliteration": "Fanzur ila athari rahmati Allahi kayfa yuhyi al-arda ba'da mawtiha inna dhalika lamuhyi al-mawta wa-huwa 'ala kulli shay'in qadir"
@@ -433,7 +433,7 @@ ayats = [
   {
     "verse_number": 54,
     "english_text": "That is Allah who created you out of weakness, then after weakness gave you strength; and (again) after strength gave the weakness, and gave old age; and He creates whatever He pleases, He has Knowledge and Power.",
-    "arabic_text": "۞ اللّٰهُ الَّذِى خَلَقَكُم مِّن ضَعْفٍۢ ثُمَّ جَعَلَ مِنۢ بَعْدِ ضَعْفٍۢ قُوَّةًۭ ثُمَّ جَعَلَ مِنۢ بَعْدِ قُوَّةٍۢ ضَعْفًۭا وَشَيْبَةًۭ ۚ يَخْلُقُ مَا يَشَآءُ ۖ وَهُوَ الْعَلِيمُ الْقَدِيرُ",
+    "arabic_text": "۞ اللّٰهُ الَّذِى خَلَقَكُم مِّن ضَعْفٍۢ ثُمَّ جَعَلَ مِنۢ بَعْدِ ضَعْفٍۢ قُوَّةًۭ ثُمَّ جَعَلَ مِنۢ بَعْدِ قُوَّةٍۢ ضَعْفًۭا وَشَيْبَةًۭ ۚ يَخْلُقُ مَا يَشَآءُ ۖ وَ هُوَ الْعَلِيمُ الْقَدِيرُ",
     "urdu_text": "الله وه هے جس نے تمهیں کمزوری سے پیدا کیا، پھر کمزوری کے بعد طاقت عطا کی، پھر طاقت کے بعد کمزوری اور بڑھاپا دیا، وه جو چاهتا هے پیدا کرتا هے اور وه علم والا اور قدرت والا هے۔",
     "persian_text": "خداوند کسی است که شما را از ضعف آفرید، سپس پس از ضعف قوت بخشید، سپس پس از قوت ضعف و پیری قرار داد، هر چه بخواهد می‌آفریند و او داناست و تواناست.",
     "transliteration": "Allaahul ladhee khalaqakum min da'fin thumma ja'ala mim ba'di da'fin quwwatan thumma ja'ala mim ba'di quwwatin da'fanw wa shaybah, yakhluqu maa yashaaa'u wa Huwal 'Aleemul Qadeer"
@@ -449,7 +449,7 @@ ayats = [
   {
     "verse_number": 56,
     "english_text": "And who are given the knowledge and faith, they will say: according to the Book of Allah you stayed until the Day of Judgement, this is the Day of Judgement and you are unaware.",
-    "arabic_text": "وَقَالَ الَّذِينَ اُوتُواْ الْعِلْمَ وَالْاِيمَـٰنَ لَقَدْ لَبِثْتُمْ فِى كِتٰبِ اللّٰهِ اِلـٰى يَوْمِ الْبَعْثِ ۖ فَهَـٰذَا يَوْمُ الْبَعْثِ وَلَـٰكِنَّكُمْ كُنتُمْ لَا تَعْلَمُونَ",
+    "arabic_text": "وَ قَالَ الَّذِينَ اُوتُواْ الْعِلْمَ وَالْاِيمَـٰنَ لَقَدْ لَبِثْتُمْ فِى كِتٰبِ اللّٰهِ اِلـٰى يَوْمِ الْبَعْثِ ۖ فَهَـٰذَا يَوْمُ الْبَعْثِ وَلَـٰكِنَّكُمْ كُنتُمْ لَا تَعْلَمُونَ",
     "urdu_text": "اور جن لوگوں کو علم اور ایمان دیا گیا وه کهیں گے: تم الله کی کتاب میں قیامت کے دن تک ٹھهرے رهے، پس یه قیامت کا دن هے لیکن تم نهیں جانتے تھے۔",
     "persian_text": "و کسانی که علم و ایمان به آنان داده شده است می‌گویند: به راستی در کتاب خدا تا روز رستاخیز ماندید، پس این روز رستاخیز است ولی شما نمی‌دانستید.",
     "transliteration": "Wa qaalal ladheena ootul 'ilma wal eemaana laqad labithtum fee Kitaabil laahi ilaa Yawmil ba'th, fahaazaa Yawmul ba'thi wa laakinnakum kuntum laa ta'lamoon"

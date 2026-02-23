@@ -17,7 +17,7 @@ ayats = [
   {
     "verse_number": 2,
     "english_text": "And whoever adopted faith and did good deeds and believed on whatever was revealed on Mohammad and which is Truth from the Lord, so Allah will remove their bad deeds and shall improve their condition.",
-    "arabic_text": "وَ الَّذِينَ ءَامَنُواْ وَعَمِلُواْ الصَّـٰلِحَـٰتِ وَءَامَنُواْ بِمَا نُزِّلَ عَلَىٰ مُحَمَّدٍۢ وَهُوَ الْحَقُّ مِن رَّبِّهِمْ ۙ كَفَّرَ عَنْهُمْ سَيِّـَٔاتِهِمْ وَاَصْلَحَ بَالَهُمْ",
+    "arabic_text": "وَ الَّذِينَ ءَامَنُواْ وَعَمِلُواْ الصَّـٰلِحَـٰتِ وَءَامَنُواْ بِمَا نُزِّلَ عَلَىٰ مُحَمَّدٍۢ وَ هُوَ الْحَقُّ مِن رَّبِّهِمْ ۙ كَفَّرَ عَنْهُمْ سَيِّـَٔاتِهِمْ وَاَصْلَحَ بَالَهُمْ",
     "urdu_text": "اور جو لوگ ایمان لائے اور نیک اعمال کیے اور جو کچھ محمد پر نازل کیا گیا اس پر ایمان لائے اور وه ان کے رب کی طرف سے حق هے، تو الله نے ان کی برائیاں دور کر دیں اور ان کا حال درست کر دیا۔",
     "persian_text": "و کسانی که ایمان آوردند و کارهای نیک انجام دادند و به آنچه بر محمد نازل شده ایمان آوردند و آن حق از جانب پروردگارشان است، خداوند بدی‌هایشان را پاک کرد و حالشان را اصلاح نمود.",
     "transliteration": "Walladhīna āmanū wa 'amiluṣ-ṣāliḥāti wa āmanū bimā nuzzila 'alā Muḥammadin wa huwal-ḥaqqu mir-rabbihim kaffara 'anhum sayyi'ātihim wa aṣlaḥa bālahum"

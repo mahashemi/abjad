@@ -209,7 +209,7 @@ ayats = [
   {
     "verse_number": 26,
     "english_text": "And Nooh said, O Lord, do not leave any disbeliever who abides on this earth.",
-    "arabic_text": "وَقَالَ نُوحٌۭ رَّبِّ لَا تَذَرْ عَلَى الْاَرْضِ مِنَ الْكَـٰفِرِينَ دَيَّارًا",
+    "arabic_text": "وَ قَالَ نُوحٌۭ رَّبِّ لَا تَذَرْ عَلَى الْاَرْضِ مِنَ الْكَـٰفِرِينَ دَيَّارًا",
     "urdu_text": "اور نوح نے کہا: اے میرے رب! زمین پر کافروں میں سے کسی رہنے والے کو نہ چھوڑ۔",
     "persian_text": "و نوح گفت: پروردگارا! از کافران هیچ ساکنی بر روی زمین مگذار.",
     "transliteration": "Wa qaala Noohur-Rabbi laa tazar 'alal-ardi minal-kaafireena dayyaaraa"

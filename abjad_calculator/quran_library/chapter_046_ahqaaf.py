@@ -65,7 +65,7 @@ ayats = [
   {
     "verse_number": 8,
     "english_text": "Do they say that the prophet has slandered, so you say: if I have slandered then you are not going to be of any use to me, and Allah knows well what you utter about Him, and He is sufficient as witness between me and you, and He is very Forgiving and Merciful.",
-    "arabic_text": "اَمْ يَقُولُونَ افْتَرَىٰهُ ۖ قُلْ اِنِ افْتَرَيْتُهُ فَلَا تَمْلِكُونَ لِى مِنَ اللّٰهِ شَيْـًٔا ۖ هُوَ اَعْلَمُ بِمَا تُفِيضُونَ فِيهِ ۖ كَفَىٰ بِهِ شَهِيدًۢا بَيْنِى وَبَيْنَكُمْ ۖ وَهُوَ الْغَفُورُ الرَّحِيمُ",
+    "arabic_text": "اَمْ يَقُولُونَ افْتَرَىٰهُ ۖ قُلْ اِنِ افْتَرَيْتُهُ فَلَا تَمْلِكُونَ لِى مِنَ اللّٰهِ شَيْـًٔا ۖ هُوَ اَعْلَمُ بِمَا تُفِيضُونَ فِيهِ ۖ كَفَىٰ بِهِ شَهِيدًۢا بَيْنِى وَبَيْنَكُمْ ۖ وَ هُوَ الْغَفُورُ الرَّحِيمُ",
     "urdu_text": "کیا وہ کہتے ہیں کہ نبی نے اسے گھڑ لیا ہے؟ کہہ دو: اگر میں نے اسے گھڑا ہے تو تم اللہ کے مقابلے میں میرے کچھ کام نہیں آ سکتے، وہ خوب جانتا ہے جو تم اس میں بکواس کرتے ہو، میرے اور تمہارے درمیان وہ گواہ کافی ہے، اور وہ بہت بخشنے والا اور مہربان ہے۔",
     "persian_text": "آیا می‌گویند او آن را به دروغ بسته است؟ بگو: اگر من آن را به دروغ بسته باشم، شما در برابر خدا هیچ کاری برای من نمی‌توانید بکنید، او به آنچه در آن سخن می‌گویید داناتر است، او به عنوان گواه میان من و شما کافی است، و او آمرزنده و مهربان است.",
     "transliteration": "Am yaqooloonaf-taraahu qul inif-taraytuhoo falaa tamlikoona liya minal-laahi shay'aa, Huwa a'lamu bimaa tufeedoona feehi kafaa bihee shaheedam baynee wa baynakum, wa Huwal-Ghafoorur-Raheem"
@@ -89,7 +89,7 @@ ayats = [
   {
     "verse_number": 11,
     "english_text": "And these infidels say to the believers that if this religion was better then they would not have gone ahead of us; and when they did not get the guidance themselves now they say that it is a very old lie.",
-    "arabic_text": "وَقَالَ الَّذِينَ كَفَرُواْ لِلَّذِينَ ءَامَنُواْ لَوْ كَانَ خَيْرًا مَّا سَبَقُونَآ اِلَيْهِ ۚ وَاِذْ لَمْ يَهْتَدُواْ بِهِ فَسَيَقُولُونَ هَـٰذَآ اِفْكٌۭ قَدِيمٌۭ",
+    "arabic_text": "وَ قَالَ الَّذِينَ كَفَرُواْ لِلَّذِينَ ءَامَنُواْ لَوْ كَانَ خَيْرًا مَّا سَبَقُونَآ اِلَيْهِ ۚ وَاِذْ لَمْ يَهْتَدُواْ بِهِ فَسَيَقُولُونَ هَـٰذَآ اِفْكٌۭ قَدِيمٌۭ",
     "urdu_text": "اور کافروں نے مومنوں سے کہا کہ اگر یہ دین بہتر ہوتا تو یہ لوگ ہم سے پہلے اس کی طرف نہ بڑھتے، اور جب وہ خود اس سے ہدایت نہیں پا سکے تو اب کہتے ہیں کہ یہ تو بہت پرانا جھوٹ ہے۔",
     "persian_text": "و کسانی که کفر ورزیدند به مؤمنان گفتند: اگر این دین بهتر بود، آنها بر ما در پذیرفتن آن پیشی نمی‌گرفتند، و چون خود هدایت نیافتند، اکنون می‌گویند این دروغی کهن است.",
     "transliteration": "Wa qalal-lazeena kafaroo lil-lazeena aamanoo law kaana khayram-maa sabaqoonaaa ilayh, wa iz lam yahtadoo bihee fa-sayaqooloona haazaaa ifkun qadeem"

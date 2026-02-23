@@ -9,7 +9,7 @@ ayats = [
   {
     "verse_number": 1,
     "english_text": "Everything which is in the sky and on the earth is busy in glorifying the Lord, and that Lord is Honorable and Wise.",
-    "arabic_text": "سَبَّحَ لِلَّهِ مَا فِى السَّمَـٰوَٰتِ وَ الْاَرْضِ ۖ وَهُوَ الْعَزِيزُ الْحَكِيمُ",
+    "arabic_text": "سَبَّحَ لِلَّهِ مَا فِى السَّمَـٰوَٰتِ وَ الْاَرْضِ ۖ وَ هُوَ الْعَزِيزُ الْحَكِيمُ",
     "urdu_text": "آسمانوں اور زمین میں جو کچھ هے سب الله کی تسبیح کرتا هے، اور وه غالب اور حکمت والا هے۔",
     "persian_text": "هر آنچه در آسمان‌ها و زمین است، خدا را تسبیح می‌گوید، و او عزیز و حکیم است.",
     "transliteration": "Sabbaha lillahi ma fis-samawati wal-ard, wa huwal-'Azizul-Hakim"
@@ -17,7 +17,7 @@ ayats = [
   {
     "verse_number": 2,
     "english_text": "All the authority of the sky and the earth is with Him, and it is He who gives life and death, and He has Power over everything.",
-    "arabic_text": "لَهُ مُلْكُ السَّمَـٰوَٰتِ وَ الْاَرْضِ ۖ يُحْىِ وَيُمِيتُ ۖ وَهُوَ عَلَىٰ كُلِّ شَىْءٍۢ قَدِيرٌ",
+    "arabic_text": "لَهُ مُلْكُ السَّمَـٰوَٰتِ وَ الْاَرْضِ ۖ يُحْىِ وَيُمِيتُ ۖ وَ هُوَ عَلَىٰ كُلِّ شَىْءٍۢ قَدِيرٌ",
     "urdu_text": "آسمانوں اور زمین کی بادشاهی اسی کی هے، وهی زنده کرتا هے اور وهی موت دیتا هے، اور وه هر چیز پر قادر هے۔",
     "persian_text": "فرمانروایی آسمان‌ها و زمین از آن اوست، او زنده می‌کند و می‌میراند، و او بر هر چیزی تواناست.",
     "transliteration": "Lahu mulkus-samawati wal-ard, yuhyi wa yumit, wa huwa 'ala kulli shay'in Qadir"
@@ -25,7 +25,7 @@ ayats = [
   {
     "verse_number": 3,
     "english_text": "He is The First, He is The Last, He is Outward, He is Inward, and He is Knower of everything.",
-    "arabic_text": "هُوَ الْاَوَّلُ وَالْاخِرُ وَالظَّـٰهِرُ وَالْبَاطِنُ ۖ وَهُوَ بِكُلِّ شَىْءٍ عَلِيمٌ",
+    "arabic_text": "هُوَ الْاَوَّلُ وَالْاخِرُ وَالظَّـٰهِرُ وَالْبَاطِنُ ۖ وَ هُوَ بِكُلِّ شَىْءٍ عَلِيمٌ",
     "urdu_text": "وهی اول هے، وهی آخر هے، وهی ظاهر هے، وهی باطن هے، اور وه هر چیز کا جانے والا هے۔",
     "persian_text": "او اول است و آخر، او ظاهر است و باطن، و او به هر چیزی داناست.",
     "transliteration": "Huwal-Awwalu wal-Akhiru waz-Zahiru wal-Batin, wa huwa bikulli shay'in 'Alim"
@@ -33,7 +33,7 @@ ayats = [
   {
     "verse_number": 4,
     "english_text": "It is He who has created the skies and the earth in six days, then established His power on the Throne, He knows all things which enters the earth and what comes out of it, and whatever comes down from the sky and raises towards it, He is with you - wherever you may be, and He sees all your deeds.",
-    "arabic_text": "هُوَ الَّذِى خَلَقَ السَّمَـٰوَٰتِ وَالْاَرْضَ فِى سِتَّةِ اَيَّامٍۢ ثُمَّ اسْتَوَىٰ عَلَى الْعَرْشِ ۚ يَعْلَمُ مَا يَلِجُ فِى الْاَرْضِ وَ مَا يَخْرُجُ مِنْهَا وَ مَا يَنزِلُ مِنَ السَّمَآءِ وَ مَا يَعْرُجُ فِيهَا ۖ وَهُوَ مَعَكُمْ اَيْنَ مَا كُنتُمْ ۚ وَ اللّٰهُ بِمَا تَعْمَلُونَ بَصِيرٌۭ",
+    "arabic_text": "هُوَ الَّذِى خَلَقَ السَّمَـٰوَٰتِ وَالْاَرْضَ فِى سِتَّةِ اَيَّامٍۢ ثُمَّ اسْتَوَىٰ عَلَى الْعَرْشِ ۚ يَعْلَمُ مَا يَلِجُ فِى الْاَرْضِ وَ مَا يَخْرُجُ مِنْهَا وَ مَا يَنزِلُ مِنَ السَّمَآءِ وَ مَا يَعْرُجُ فِيهَا ۖ وَ هُوَ مَعَكُمْ اَيْنَ مَا كُنتُمْ ۚ وَ اللّٰهُ بِمَا تَعْمَلُونَ بَصِيرٌۭ",
     "urdu_text": "وهی هے جس نے آسمانوں اور زمین کو چھ دنوں میں پیدا کیا، پھر عرش پر قائم هوا، وه جانتا هے جو کچھ زمین میں داخل هوتا هے اور جو اس سے نکلتا هے، اور جو آسمان سے اترتا هے اور جو اس میں چڑھتا هے، اور وه تمهارے ساتھ هے جهاں کهیں بھی تم هو، اور الله تمهارے اعمال کو دیکھنے والا هے۔",
     "persian_text": "او کسی است که آسمان‌ها و زمین را در شش روز آفرید، سپس بر عرش قرار گرفت، می‌داند آنچه در زمین فرو می‌رود و آنچه از آن بیرون می‌آید، و آنچه از آسمان نازل می‌شود و آنچه در آن بالا می‌رود، و او با شماست هر کجا که باشید، و خدا به آنچه انجام می‌دهید بیناست.",
     "transliteration": "Huwal-ladhi khalaqas-samawati wal-arda fi sittati ayyamin thummas-tawa 'alal-'Arsh, ya'lamu ma yaliju fil-ardi wa ma yakhruju minha wa ma yanzilu minas-sama'i wa ma ya'ruju fiha, wa huwa ma'akum ayna ma kuntum, wallahu bima ta'maluna Basir"
@@ -49,7 +49,7 @@ ayats = [
   {
     "verse_number": 6,
     "english_text": "He enters night into the day and the day into the night, and he has the knowledge of secrets of the chests too.",
-    "arabic_text": "يُولِجُ الَّيْلَ فِى النَّهَارِ وَيُولِجُ النَّهَارَ فِى الَّيْلِ ۚ وَهُوَ عَلِيمٌۢ بِذَاتِ الصُّدُورِ",
+    "arabic_text": "يُولِجُ الَّيْلَ فِى النَّهَارِ وَيُولِجُ النَّهَارَ فِى الَّيْلِ ۚ وَ هُوَ عَلِيمٌۢ بِذَاتِ الصُّدُورِ",
     "urdu_text": "وه رات کو دن میں داخل کرتا هے اور دن کو رات میں داخل کرتا هے، اور وه دلوں کے بھیدوں کو جانتا هے۔",
     "persian_text": "شب را در روز داخل می‌کند و روز را در شب داخل می‌کند، و او به رازهای دل‌ها داناست.",
     "transliteration": "Yulijul-layla fin-nahari wa yulijun-nahara fil-layl, wa huwa 'Alimun bidhatis-sudur"

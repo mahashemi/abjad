@@ -209,7 +209,7 @@ ayats = [
   {
     "verse_number": 26,
     "english_text": "Firaun said leave me I will kill Moosa and he call his Lord, I am afraid that he may not change your religion and may not create mischief on the land.",
-    "arabic_text": "وَقَالَ فِرْعَوْنُ ذَرُونِىٓ اَقْتُلْ مُوسَىٰ وَلْيَدْعُ رَبَّهُٓ ۖ اِنِّىٓ اَخَافُ اَن يُبَدِّلَ دِينَكُمْ اَوْ اَن يُظْهِرَ فِى الْاَرْضِ الْفَسَادَ",
+    "arabic_text": "وَ قَالَ فِرْعَوْنُ ذَرُونِىٓ اَقْتُلْ مُوسَىٰ وَلْيَدْعُ رَبَّهُٓ ۖ اِنِّىٓ اَخَافُ اَن يُبَدِّلَ دِينَكُمْ اَوْ اَن يُظْهِرَ فِى الْاَرْضِ الْفَسَادَ",
     "urdu_text": "اور فرعون نے کہا مجھے چھوڑ دو میں موسیٰ کو قتل کر دوں اور وہ اپنے رب کو پکارے، مجھے ڈر ہے کہ وہ تمہارے دین کو بدل دے یا زمین میں فساد پھیلا دے۔",
     "persian_text": "و فرعون گفت مرا واگذارید تا موسی را بکشم و بگذارید پروردگارش را بخواند، من می‌ترسم که دین شما را تغییر دهد یا در زمین فساد ایجاد کند.",
     "transliteration": "Wa qaala Fir'awnu dharoonee aqtul Moosaa walyad'u Rabbah, innee akhaafu any-yubaddila deenakum aw any-yuzhira fil-ardil-fasaad"
@@ -217,7 +217,7 @@ ayats = [
   {
     "verse_number": 27,
     "english_text": "Moosa said: I am seeking refuge from your Lord and my Lord against all the proud people who do not have faith on the Day of Accounting.",
-    "arabic_text": "وَقَالَ مُوسَىٰٓ اِنِّى عُذْتُ بِرَبِّى وَرَبِّكُم مِّن كُلِّ مُتَكَبِّرٍۢ لَّا يُؤْمِنُ بِيَوْمِ الْحِسَابِ",
+    "arabic_text": "وَ قَالَ مُوسَىٰٓ اِنِّى عُذْتُ بِرَبِّى وَرَبِّكُم مِّن كُلِّ مُتَكَبِّرٍۢ لَّا يُؤْمِنُ بِيَوْمِ الْحِسَابِ",
     "urdu_text": "اور موسیٰ نے کہا میں اپنے رب اور تمہارے رب کی پناہ میں آتا ہوں ہر اس متکبر سے جو حساب کے دن پر ایمان نہیں رکھتا۔",
     "persian_text": "و موسی گفت من به پروردگار خود و پروردگار شما از هر متکبری که به روز حساب ایمان ندارد پناه می‌برم.",
     "transliteration": "Wa qaala Moosaaa innee 'udhtu bi-Rabbee wa Rabbikum min kulli mutakabbirin laa yu'minu bi-Yawmil-Hisaab"
@@ -225,7 +225,7 @@ ayats = [
   {
     "verse_number": 28,
     "english_text": "And one person who was hiding his faith among the people of Firaun said: you are killing somebody just because he is saying his Lord is Allah and have also brought clear arguments from your Lord, and if he is a liar, he is responsible for it, and if what he is saying is truth then from what he is warning that difficulties may afflict you, Verily Allah does not guide anyone who do excesses and is a liar.",
-    "arabic_text": "وَقَالَ رَجُلٌۭ مُّؤْمِنٌ مِّنْ ءَالِ فِرْعَوْنَ يَكْتُمُ اِيمَـٰنَهُٓ اَتَقْتُلُونَ رَجُلًا اَن يَقُولَ رَبِّىَ اللّٰهُ وَ قَدْ جَآءَكُم بِالْبَيِّنَـٰتِ مِن رَّبِّكُمْ ۖ وَ اِن يَكُ كَـٰذِبًا فَعَلَيْهِ كَذِبُهُ ۖ وَ اِن يَكُ صَادِقًۭا يُصِبْكُم بَعْضُ الَّذِى يَعِدُكُمْ ۖ اِنَّ اللّٰهَ لَا يَهْدِى مَنْ هُوَ مُسْرِفٌۭ كَذَّابٌۭ",
+    "arabic_text": "وَ قَالَ رَجُلٌۭ مُّؤْمِنٌ مِّنْ ءَالِ فِرْعَوْنَ يَكْتُمُ اِيمَـٰنَهُٓ اَتَقْتُلُونَ رَجُلًا اَن يَقُولَ رَبِّىَ اللّٰهُ وَ قَدْ جَآءَكُم بِالْبَيِّنَـٰتِ مِن رَّبِّكُمْ ۖ وَ اِن يَكُ كَـٰذِبًا فَعَلَيْهِ كَذِبُهُ ۖ وَ اِن يَكُ صَادِقًۭا يُصِبْكُم بَعْضُ الَّذِى يَعِدُكُمْ ۖ اِنَّ اللّٰهَ لَا يَهْدِى مَنْ هُوَ مُسْرِفٌۭ كَذَّابٌۭ",
     "urdu_text": "اور فرعون کے خاندان میں سے ایک مومن شخص جو اپنے ایمان کو چھپا رہا تھا، اس نے کہا کیا تم ایک آدمی کو صرف اس لیے قتل کر رہے ہو کہ وہ کہتا ہے میرا رب اللہ ہے، حالانکہ وہ تمہارے رب کی طرف سے واضح دلیلیں لے کر آیا ہے، اور اگر وہ جھوٹا ہے تو اس کا جھوٹ اس پر ہے، اور اگر وہ سچا ہے تو جس چیز سے وہ تمہیں ڈرا رہا ہے اس میں سے کچھ تم پر آ پڑے گی، بے شک اللہ اس شخص کو ہدایت نہیں دیتا جو حد سے بڑھنے والا اور جھوٹا ہو۔",
     "persian_text": "و مردی مؤمن از خاندان فرعون که ایمانش را پنهان می‌کرد گفت: آیا مردی را می‌کشید فقط به این دلیل که می‌گوید پروردگار من الله است، در حالی که از جانب پروردگارتان دلایل روشن برای شما آورده است؟ و اگر او دروغگو باشد، دروغش بر عهده خودش است، و اگر راستگو باشد، بخشی از آنچه به شما وعده می‌دهد به شما خواهد رسید، همانا الله کسی را که زیاده‌رو و دروغگو است هدایت نمی‌کند.",
     "transliteration": "Wa qaala rajulum-mu'minun min Aali Fir'awna yaktumu eemaanahu ataqtuloona rajulan any-yaqoola Rabbiyal-laahu wa qad jaaa'akum bil-bayyinaati mir-Rabbikum, wa iny-yaku kaadhibanfa-'alayhi kadhibuh, wa iny-yaku saadiqany-yusibkum ba'dul-ladhee ya'idukum, innal-laaha laa yahdee man huwa musrifun kadhdhaab"
@@ -241,7 +241,7 @@ ayats = [
   {
     "verse_number": 30,
     "english_text": "And the person who was the believer said: I fear the day of punishment for you which was the day of punishment for other nations.",
-    "arabic_text": "وَقَالَ الَّذِىٓ ءَامَنَ يَـٰقَوْمِ اِنِّىٓ اَخَافُ عَلَيْكُم مِّثْلَ يَوْمِ الْاَحْزَابِ",
+    "arabic_text": "وَ قَالَ الَّذِىٓ ءَامَنَ يَـٰقَوْمِ اِنِّىٓ اَخَافُ عَلَيْكُم مِّثْلَ يَوْمِ الْاَحْزَابِ",
     "urdu_text": "اور اس مومن شخص نے کہا اے میری قوم! میں تمہارے لیے ان گروہوں کے دن جیسے دن کا خوف رکھتا ہوں۔",
     "persian_text": "و آن کسی که ایمان آورده بود گفت: ای قوم من! من بر شما از روزی مانند روز احزاب می‌ترسم.",
     "transliteration": "Wa qaalal-ladhee aamana yaa qawmi innee akhaafu 'alaykum mithla Yawmil-Ahzaab"
@@ -289,7 +289,7 @@ ayats = [
   {
     "verse_number": 36,
     "english_text": "And Firaun said: O Hamaan build for me a fort that I may attain the means of access.",
-    "arabic_text": "وَقَالَ فِرْعَوْنُ يَـٰهَـٰمَـٰنُ ابْنِ لِى صَرْحًۭا لَّعَلِّىٓ اَبْلُغُ الْاَسْبَـٰبَ",
+    "arabic_text": "وَ قَالَ فِرْعَوْنُ يَـٰهَـٰمَـٰنُ ابْنِ لِى صَرْحًۭا لَّعَلِّىٓ اَبْلُغُ الْاَسْبَـٰبَ",
     "urdu_text": "اور فرعون نے کہا: اے ہامان! میرے لیے ایک بلند عمارت بناؤ تاکہ میں راستوں تک پہنچ سکوں۔",
     "persian_text": "و فرعون گفت: ای هامان! برای من برجی بساز تا شاید به راه‌ها برسم.",
     "transliteration": "Wa qaala Fir'awnu yaa Haamaanu ibni lee sarhan la'allee ablughul-asbaab"
@@ -305,7 +305,7 @@ ayats = [
   {
     "verse_number": 38,
     "english_text": "And that person who had believed said: O my people follow me, I will show you the way of guidance.",
-    "arabic_text": "وَقَالَ الَّذِىٓ ءَامَنَ يَـٰقَوْمِ اتَّبِعُونِ اَهْدِكُمْ سَبِيلَ الرَّشَادِ",
+    "arabic_text": "وَ قَالَ الَّذِىٓ ءَامَنَ يَـٰقَوْمِ اتَّبِعُونِ اَهْدِكُمْ سَبِيلَ الرَّشَادِ",
     "urdu_text": "اور جو شخص ایمان لایا تھا اس نے کہا: اے میری قوم! میری پیروی کرو، میں تمہیں ہدایت کا راستہ دکھاؤں گا۔",
     "persian_text": "و آن کسی که ایمان آورده بود گفت: ای قوم من! از من پیروی کنید، شما را به راه رشد هدایت می‌کنم.",
     "transliteration": "Wa qaalal-ladhee aamana yaa qawmit-tabi'oonee ahdikum sabeerar-rashaad"
@@ -321,7 +321,7 @@ ayats = [
   {
     "verse_number": 40,
     "english_text": "Whoever will commit evil will be recompensed, and whoever will do good deeds whether men or women provided they are believing, shall be entered into Paradise, and there they will get the unaccountable sustenance.",
-    "arabic_text": "مَنْ عَمِلَ سَيِّئَةًۭ فَلَا يُجْزَىٰٓ اِلَّا مِثْلَهَا ۖ وَ مَنْ عَمِلَ صَـٰلِحًۭا مِّن ذَكَرٍ اَوْ اُنثَىٰ وَهُوَ مُؤْمِنٌ فَاُو۟لَـٰٓئِكَ يَدْخُلُونَ الْجَنَّةَ يُرْزَقُونَ فِيهَا بِغَيْرِ حِسَابٍۢ",
+    "arabic_text": "مَنْ عَمِلَ سَيِّئَةًۭ فَلَا يُجْزَىٰٓ اِلَّا مِثْلَهَا ۖ وَ مَنْ عَمِلَ صَـٰلِحًۭا مِّن ذَكَرٍ اَوْ اُنثَىٰ وَ هُوَ مُؤْمِنٌ فَاُو۟لَـٰٓئِكَ يَدْخُلُونَ الْجَنَّةَ يُرْزَقُونَ فِيهَا بِغَيْرِ حِسَابٍۢ",
     "urdu_text": "جو برائی کرے گا اسے صرف اسی کے برابر بدلہ ملے گا، اور جو نیک عمل کرے گا خواہ مرد ہو یا عورت، بشرطیکہ وہ مومن ہو، تو ایسے لوگ جنت میں داخل ہوں گے اور وہاں انہیں بے حساب رزق ملے گا۔",
     "persian_text": "هر کس کار بدی کند جز به مثل آن جزا داده نمی‌شود، و هر کس عمل صالحی انجام دهد، چه مرد و چه زن، در حالی که مؤمن باشد، آنان وارد بهشت می‌شوند و در آن بی‌حساب روزی داده می‌شوند.",
     "transliteration": "Man 'amila sayyi'atan falaa yujzaaa illaa mithlahaa, wa man 'amila saalihan min dhakarin aw unthaa wa huwa mu'minun fa-ulaa'ika yadkhuloonal-jannata yurzaqoona feehaa bighayri hisaab"
@@ -393,7 +393,7 @@ ayats = [
   {
     "verse_number": 49,
     "english_text": "Thereafter Hellish people will say to its custodians: pray to the Lord that even for a day Allah may lighten our punishment.",
-    "arabic_text": "وَقَالَ الَّذِينَ فِى النَّارِ لِخَزَنَةِ جَهَنَّمَ ادْعُواْ رَبَّكُمْ يُخَفِّفْ عَنَّا يَوْمًا مِّنَ الْعَذَابِ",
+    "arabic_text": "وَ قَالَ الَّذِينَ فِى النَّارِ لِخَزَنَةِ جَهَنَّمَ ادْعُواْ رَبَّكُمْ يُخَفِّفْ عَنَّا يَوْمًا مِّنَ الْعَذَابِ",
     "urdu_text": "اور جہنم والے اس کے داروغوں سے کہیں گے کہ اپنے رب سے دعا کرو کہ ہم سے ایک دن کے لیے ہی عذاب ہلکا کر دے۔",
     "persian_text": "و کسانی که در آتش هستند به نگهبانان جهنم می‌گویند: از پروردگارتان بخواهید که یک روز از عذاب ما بکاهد.",
     "transliteration": "Wa qāla alladhīna fī an-nāri li-khazanati jahannama ud'ū rabbakum yukhaffif 'annā yawman min al-'adhāb"
@@ -481,7 +481,7 @@ ayats = [
   {
     "verse_number": 60,
     "english_text": "And your Lord says: supplicate from Me and I will accept it, and Verily those who are arrogant from Our worship, shortly they will enter Hell with disgrace.",
-    "arabic_text": "وَقَالَ رَبُّكُمُ ادْعُونِىٓ اَسْتَجِبْ لَكُمْ ۚ اِنَّ الَّذِينَ يَسْتَكْبِرُونَ عَنْ عِبَادَتِى سَيَدْخُلُونَ جَهَنَّمَ دَاخِرِينَ",
+    "arabic_text": "وَ قَالَ رَبُّكُمُ ادْعُونِىٓ اَسْتَجِبْ لَكُمْ ۚ اِنَّ الَّذِينَ يَسْتَكْبِرُونَ عَنْ عِبَادَتِى سَيَدْخُلُونَ جَهَنَّمَ دَاخِرِينَ",
     "urdu_text": "اور تمہارے رب نے فرمایا: مجھ سے دعا کرو میں تمہاری دعا قبول کروں گا، بیشک جو لوگ میری عبادت سے تکبر کرتے ہیں وہ عنقریب ذلیل ہو کر جہنم میں داخل ہوں گے۔",
     "persian_text": "و پروردگارتان فرمود: مرا بخوانید تا دعایتان را اجابت کنم، کسانی که از عبادت من تکبر می‌ورزند به زودی خوار و ذلیل وارد جهنم خواهند شد.",
     "transliteration": "Wa qala rabbukumud-'uni astajib lakum innalladhina yastakbiruna 'an 'ibadati sayadkhuluna jahannama dakhirin"

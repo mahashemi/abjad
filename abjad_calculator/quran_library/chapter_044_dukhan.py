@@ -169,7 +169,7 @@ ayats = [
   {
     "verse_number": 21,
     "english_text": "And if you are not going to believe, then get aside from me.",
-    "arabic_text": "وَاِن لَّمْ تُؤْمِنُواْ لِى فَاعْتَزِلُونِ",
+    "arabic_text": "وَ اِن لَّمْ تُؤْمِنُواْ لِى فَاعْتَزِلُونِ",
     "urdu_text": "اور اگر تم مجھ پر ایمان نهیں لاتے تو مجھ سے الگ هو جاؤ۔",
     "persian_text": "و اگر به من ایمان نمی‌آورید، پس از من کناره بگیرید.",
     "transliteration": "Wa il lam tu'minoo lee fa'taziloon"

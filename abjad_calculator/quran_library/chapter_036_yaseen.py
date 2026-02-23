@@ -257,7 +257,7 @@ ayats = [
   {
     "verse_number": 32,
     "english_text": "Then one day, all of them will be presented to Us.",
-    "arabic_text": "وَاِن كُلٌّۭ لَّمَّا جَمِيعٌۭ لَّدَيْنَا مُحْضَرُونَ",
+    "arabic_text": "وَ اِن كُلٌّۭ لَّمَّا جَمِيعٌۭ لَّدَيْنَا مُحْضَرُونَ",
     "urdu_text": "اور یقیناً وہ سب کے سب ایک دن ہمارے سامنے حاضر کیے جائیں گے۔",
     "persian_text": "و همگی آنان یک روز نزد ما حاضر خواهند شد.",
     "transliteration": "Wa in kullun lammā jamee'un ladaynā muhdaroon"
@@ -345,7 +345,7 @@ ayats = [
   {
     "verse_number": 43,
     "english_text": "If We wish We may drown them all, there will not be any helper for them nor they can be rescued.",
-    "arabic_text": "وَاِن نَّشَاْ نُغْرِقْهُمْ فَلَا صَرِيخَ لَهُمْ وَ لَا هُمْ يُنقَذُونَ",
+    "arabic_text": "وَ اِن نَّشَاْ نُغْرِقْهُمْ فَلَا صَرِيخَ لَهُمْ وَ لَا هُمْ يُنقَذُونَ",
     "urdu_text": "اور اگر ہم چاہیں تو انہیں غرق کر دیں، پھر نہ کوئی ان کی فریاد سننے والا ہو اور نہ وہ بچائے جائیں",
     "persian_text": "و اگر بخواهیم آنان را غرق می‌کنیم، پس نه فریادرسی برای آنان است و نه نجات داده می‌شوند",
     "transliteration": "Wa in nasha' nughriqhum falaa sareekha lahum wa laa hum yunqadhoona"
@@ -633,7 +633,7 @@ ayats = [
   {
     "verse_number": 79,
     "english_text": "Say: who has created you for the first time, He will bring to life again, and He knows better all the creations.",
-    "arabic_text": "قُلْ يُحْيِيهَا الَّذِىٓ اَنشَاَهَآ اَوَّلَ مَرَّةٍۢ ۖ وَهُوَ بِكُلِّ خَلْقٍ عَلِيمٌ",
+    "arabic_text": "قُلْ يُحْيِيهَا الَّذِىٓ اَنشَاَهَآ اَوَّلَ مَرَّةٍۢ ۖ وَ هُوَ بِكُلِّ خَلْقٍ عَلِيمٌ",
     "urdu_text": "کہہ دو: انہیں وہی زندہ کرے گا جس نے انہیں پہلی بار پیدا کیا، اور وہ ہر مخلوق کو خوب جاننے والا ہے۔",
     "persian_text": "بگو: همان کسی که آنها را نخستین بار آفرید، زنده‌شان می‌کند، و او به هر آفریده‌ای داناست.",
     "transliteration": "Qul yuhyeehal ladhee ansha-aha awwala marratin wa huwa bikulli khalqin 'aleem"
@@ -649,7 +649,7 @@ ayats = [
   {
     "verse_number": 81,
     "english_text": "So does not He Who created the skies and the earth be able to create the like of them; Verily, He can, he is the Best creator and the Knower.",
-    "arabic_text": "اَوَلَيْسَ الَّذِى خَلَقَ السَّمَـٰوَٰتِ وَالْاَرْضَ بِقَـٰدِرٍ عَلَىٰٓ اَن يَخْلُقَ مِثْلَهُم ۚ بَلَىٰ وَهُوَ الْخَلَّـٰقُ الْعَلِيمُ",
+    "arabic_text": "اَوَلَيْسَ الَّذِى خَلَقَ السَّمَـٰوَٰتِ وَالْاَرْضَ بِقَـٰدِرٍ عَلَىٰٓ اَن يَخْلُقَ مِثْلَهُم ۚ بَلَىٰ وَ هُوَ الْخَلَّـٰقُ الْعَلِيمُ",
     "urdu_text": "کیا وہ جس نے آسمانوں اور زمین کو پیدا کیا، ان جیسوں کو دوبارہ پیدا کرنے پر قادر نہیں؟ کیوں نہیں، بیشک وہ بڑا پیدا کرنے والا اور جاننے والا ہے۔",
     "persian_text": "آیا کسی که آسمان‌ها و زمین را آفرید، قادر نیست که مانند آنها را بیافریند؟ آری، و او آفریننده دانای است.",
     "transliteration": "Awa laysa allathee khalaqa alssamawati wal-arda biqadirin 'ala an yakhluqa mithlahum, bala wahuwa alkhallaqu al'aleem"

@@ -297,7 +297,7 @@ ayats = [
   {
     "verse_number": 37,
     "english_text": "And Moosa said: my Lord knows the best that who has brought guidance from Him, and abode is the Hereafter is for whom, Verily unjust will not be successful.",
-    "arabic_text": "وَقَالَ مُوسَىٰ رَبِّىٓ اَعْلَمُ بِمَن جَآءَ بِالْهُدَىٰ مِنْ عِندِهِ وَمَن تَكُونُ لَهُ عَـٰقِبَةُ الدَّارِ ۖ اِنَّهُ لَا يُفْلِحُ الظَّـٰلِمُونَ",
+    "arabic_text": "وَ قَالَ مُوسَىٰ رَبِّىٓ اَعْلَمُ بِمَن جَآءَ بِالْهُدَىٰ مِنْ عِندِهِ وَمَن تَكُونُ لَهُ عَـٰقِبَةُ الدَّارِ ۖ اِنَّهُ لَا يُفْلِحُ الظَّـٰلِمُونَ",
     "urdu_text": "اور موسیٰ نے کہا: میرا رب بہتر جانتا ہے کہ اس کی طرف سے ہدایت کون لایا ہے، اور آخرت کا اچھا انجام کس کے لیے ہے، یقیناً ظالم کامیاب نہیں ہوں گے۔",
     "persian_text": "و موسی گفت: پروردگار من بهتر می‌داند که چه کسی هدایت را از جانب او آورده و عاقبت نیک آخرت از آن کیست، به یقین ستمکاران رستگار نخواهند شد.",
     "transliteration": "Wa qala Musa rabbi a'lamu biman ja'a bil huda min 'indihi wa man takunu lahu 'aqibatud dar innahu la yuflihuz zalimoon"
@@ -305,7 +305,7 @@ ayats = [
   {
     "verse_number": 38,
     "english_text": "Firaun said: O my chiefs, in my knowledge there is no god for you, except me, O Hamaan, bake the clay and make a lofty tower for me so that I climb on it and bring the news of Moosa's God, and I think Moosa is a liar.",
-    "arabic_text": "وَقَالَ فِرْعَوْنُ يٰٓاَيُّهَا الْمَلَاُ مَا عَلِمْتُ لَكُم مِّنْ اِلَـٰهٍ غَيْرِى فَاَوْقِدْ لِى يَـٰهَـٰمَـٰنُ عَلَى الطِّينِ فَاجْعَل لِّى صَرْحًۭا لَّعَلِّىٓ اَطَّلِعُ اِلـٰىٓ اِلَـٰهِ مُوسَىٰ وَاِنِّى لَاَظُنُّهُ مِنَ الْكَـٰذِبِينَ",
+    "arabic_text": "وَ قَالَ فِرْعَوْنُ يٰٓاَيُّهَا الْمَلَاُ مَا عَلِمْتُ لَكُم مِّنْ اِلَـٰهٍ غَيْرِى فَاَوْقِدْ لِى يَـٰهَـٰمَـٰنُ عَلَى الطِّينِ فَاجْعَل لِّى صَرْحًۭا لَّعَلِّىٓ اَطَّلِعُ اِلـٰىٓ اِلَـٰهِ مُوسَىٰ وَاِنِّى لَاَظُنُّهُ مِنَ الْكَـٰذِبِينَ",
     "urdu_text": "اور فرعون نے کہا: اے میرے سردارو! میرے علم میں تمہارے لیے میرے سوا کوئی معبود نہیں، اے ہامان! میرے لیے مٹی پکا کر ایک بلند عمارت بنا تاکہ میں اس پر چڑھ کر موسیٰ کے معبود کی خبر لاؤں، اور میں سمجھتا ہوں کہ موسیٰ جھوٹا ہے۔",
     "persian_text": "و فرعون گفت: ای اشراف! من برای شما معبودی جز خود نمی‌شناسم، پس ای هامان! گل را بپز و برای من برج بلندی بساز تا شاید به معبود موسی دست یابم، و من گمان می‌برم که او از دروغگویان است.",
     "transliteration": "Wa qala Fir'awnu ya ayyuhal mala'u ma 'alimtu lakum min ilahin ghayri fa awqid li ya Hamanu 'alat teeni faj'al li sarhan la'alli attali'u ila ilahi Musa wa inni la azunnuhu minal kadhibeen"
@@ -449,7 +449,7 @@ ayats = [
   {
     "verse_number": 56,
     "english_text": "O Prophet! You cannot guide whoever you want, but Allah guides whomever He pleases, and He is well aware with those, who will get guidance.",
-    "arabic_text": "اِنَّكَ لَا تَهْدِى مَنْ اَحْبَبْتَ وَلَـٰكِنَّ اللّٰهَ يَهْدِى مَن يَشَآءُ ۚ وَهُوَ اَعْلَمُ بِالْمُهْتَدِينَ",
+    "arabic_text": "اِنَّكَ لَا تَهْدِى مَنْ اَحْبَبْتَ وَلَـٰكِنَّ اللّٰهَ يَهْدِى مَن يَشَآءُ ۚ وَ هُوَ اَعْلَمُ بِالْمُهْتَدِينَ",
     "urdu_text": "اے نبی! آپ جسے چاہیں ہدایت نہیں دے سکتے، لیکن اللہ جسے چاہتا ہے ہدایت دیتا ہے، اور وہ ہدایت پانے والوں کو خوب جانتا ہے۔",
     "persian_text": "ای پیامبر! تو نمی‌توانی هر که را بخواهی هدایت کنی، ولی خداوند هر که را بخواهد هدایت می‌کند، و او به هدایت یافتگان داناتر است.",
     "transliteration": "Innaka la tahdi man ahbabta wa lakinna Allaha yahdi man yasha'u wa huwa a'lamu bil-muhtadin"
@@ -641,7 +641,7 @@ ayats = [
   {
     "verse_number": 80,
     "english_text": "And whosoever was given the knowledge said: alas! on your condition; Allah's reward is much better for the believers and good doers, and reward is not given to anyone, but to the patient ones.",
-    "arabic_text": "وَقَالَ الَّذِينَ اُوتُواْ الْعِلْمَ وَيْلَكُمْ ثَوَابُ اللّٰهِ خَيْرٌۭ لِّمَنْ ءَامَنَ وَعَمِلَ صَـٰلِحًۭا وَ لَا يُلَقَّىٰهَآ اِلَّا الصَّـٰبِرُونَ",
+    "arabic_text": "وَ قَالَ الَّذِينَ اُوتُواْ الْعِلْمَ وَيْلَكُمْ ثَوَابُ اللّٰهِ خَيْرٌۭ لِّمَنْ ءَامَنَ وَعَمِلَ صَـٰلِحًۭا وَ لَا يُلَقَّىٰهَآ اِلَّا الصَّـٰبِرُونَ",
     "urdu_text": "اور جن لوگوں کو علم دیا گیا تھا انہوں نے کہا: افسوس تم پر! اللہ کا ثواب ان لوگوں کے لیے بہتر ہے جو ایمان لائے اور نیک عمل کیے، اور یہ ثواب صرف صبر کرنے والوں کو ہی ملتا ہے۔",
     "persian_text": "و کسانی که به آنان دانش داده شده بود گفتند: وای بر شما! پاداش خدا برای کسی که ایمان آورد و عمل صالح کند بهتر است و جز صابران به آن نمی‌رسند.",
     "transliteration": "Wa qaalal lazeena ootul 'ilma waylakum thawaabul laahi khayrul liman aamana wa 'amila saalihaa, wa laa yulaqqaahaaa illas saabiroon"

@@ -17,7 +17,7 @@ ayats = [
   {
     "verse_number": 2,
     "english_text": "If Allah opens the doors of Mercy no one can stop Him, and to whoever He stops no one can send him, He is Predominant on everything, and Wise.",
-    "arabic_text": "مَّا يَفْتَحِ اللّٰهُ لِلنَّاسِ مِن رَّحْمَةٍۢ فَلَا مُمْسِكَ لَهَا ۖ وَ مَا يُمْسِكْ فَلَا مُرْسِلَ لَهُ مِنۢ بَعْدِهِ ۚ وَهُوَ الْعَزِيزُ الْحَكِيمُ",
+    "arabic_text": "مَّا يَفْتَحِ اللّٰهُ لِلنَّاسِ مِن رَّحْمَةٍۢ فَلَا مُمْسِكَ لَهَا ۖ وَ مَا يُمْسِكْ فَلَا مُرْسِلَ لَهُ مِنۢ بَعْدِهِ ۚ وَ هُوَ الْعَزِيزُ الْحَكِيمُ",
     "urdu_text": "اللہ لوگوں کے لیے جو رحمت کھول دے اسے کوئی روکنے والا نہیں، اور جسے وہ روک لے اس کے بعد کوئی بھیجنے والا نہیں، اور وہ غالب اور حکمت والا ہے۔",
     "persian_text": "آنچه خداوند از رحمت برای مردم بگشاید، هیچ بازدارنده‌ای برای آن نیست، و آنچه را نگه دارد، پس از او هیچ فرستنده‌ای نیست، و او شکست‌ناپذیر و حکیم است.",
     "transliteration": "Ma yaftahi Allahu lilnnasi min rahmatin fala mumsika laha wama yumsik fala mursila lahu min ba'dihi wahuwa al'azeezu alhakeem"
@@ -33,7 +33,7 @@ ayats = [
   {
     "verse_number": 4,
     "english_text": "And if they deny you, before you also, they have denied many prophets and return of all the affairs is to the Lord only.",
-    "arabic_text": "وَاِن يُكَذِّبُوكَ فَقَدْ كُذِّبَتْ رُسُلٌۭ مِّن قَبْلِكَ ۚ وَ اِلـٰى اللّٰهِ تُرْجَعُ الْاُمُورُ",
+    "arabic_text": "وَ اِن يُكَذِّبُوكَ فَقَدْ كُذِّبَتْ رُسُلٌۭ مِّن قَبْلِكَ ۚ وَ اِلـٰى اللّٰهِ تُرْجَعُ الْاُمُورُ",
     "urdu_text": "اور اگر وہ تمہیں جھٹلاتے ہیں تو تم سے پہلے بھی بہت سے رسولوں کو جھٹلایا گیا، اور تمام معاملات اللہ ہی کی طرف لوٹائے جاتے ہیں۔",
     "persian_text": "و اگر تو را تکذیب کنند، پس پیش از تو نیز پیامبرانی تکذیب شدند، و همه کارها به سوی خداوند بازگردانده می‌شود.",
     "transliteration": "Wa-in yukaththibooka faqad kuththibat rusulun min qablika wa-ila Allahi turja'u al-umoor"
@@ -201,7 +201,7 @@ ayats = [
   {
     "verse_number": 25,
     "english_text": "And if they deny you, people earlier than them also have done this, when messengers came to them with miracles, scriptures, clear book.",
-    "arabic_text": "وَاِن يُكَذِّبُوكَ فَقَدْ كَذَّبَ الَّذِينَ مِن قَبْلِهِمْ جَآءَتْهُمْ رُسُلُهُم بِالْبَيِّنَـٰتِ وَبِالزُّبُرِ وَبِالْكِتٰبِ الْمُنِيرِ",
+    "arabic_text": "وَ اِن يُكَذِّبُوكَ فَقَدْ كَذَّبَ الَّذِينَ مِن قَبْلِهِمْ جَآءَتْهُمْ رُسُلُهُم بِالْبَيِّنَـٰتِ وَبِالزُّبُرِ وَبِالْكِتٰبِ الْمُنِيرِ",
     "urdu_text": "اور اگر یہ آپ کو جھٹلاتے ہیں تو ان سے پہلے لوگوں نے بھی جھٹلایا تھا، جب ان کے پاس رسول واضح نشانیوں، صحیفوں اور روشن کتاب کے ساتھ آئے تھے۔",
     "persian_text": "و اگر تو را تکذیب کنند، پس کسانی که پیش از آنان بودند نیز تکذیب کردند، هنگامی که پیامبرانشان با دلایل روشن و کتاب‌های آسمانی و کتاب منیر به سویشان آمدند.",
     "transliteration": "Wa iny-yukadhdhihooka faqad kadhdhab-alladheena min qablihim jaaa'at-hum rusuluhum bil-bayyinaati wa biz-zuburi wa bil-kitaabil-muneer"

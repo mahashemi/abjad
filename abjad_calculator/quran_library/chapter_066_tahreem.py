@@ -17,7 +17,7 @@ ayats = [
   {
     "verse_number": 2,
     "english_text": "Allah has obliged that you end your oaths by giving expiation, and Allah is your Master, and He is the Knower of all things and has Wisdom.",
-    "arabic_text": "قَدْ فَرَضَ اللّٰهُ لَكُمْ تَحِلَّةَ اَيْمَـٰنِكُمْ ۚ وَ اللّٰهُ مَوْلَىٰكُمْ ۖ وَهُوَ الْعَلِيمُ الْحَكِيمُ",
+    "arabic_text": "قَدْ فَرَضَ اللّٰهُ لَكُمْ تَحِلَّةَ اَيْمَـٰنِكُمْ ۚ وَ اللّٰهُ مَوْلَىٰكُمْ ۖ وَ هُوَ الْعَلِيمُ الْحَكِيمُ",
     "urdu_text": "الله نے تمهارے لیے تمهاری قسموں کا کفاره مقرر کر دیا هے، اور الله تمهارا مولیٰ هے، اور وه جاننے والا حکمت والا هے۔",
     "persian_text": "خداوند برای شما کفاره سوگندهایتان را مقرر فرموده است، و خداوند سرپرست شماست، و او دانای حکیم است.",
     "transliteration": "Qad faradal-laahu lakum tahillata aymanikum wallahu mawlaakum wa huwal-aleemul-hakeem"

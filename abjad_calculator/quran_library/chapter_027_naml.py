@@ -129,7 +129,7 @@ ayats = [
   {
     "verse_number": 16,
     "english_text": "Then Suleiman inherited Dawood,and he said: I have been given the knowledge of the language of birds, and have been given a part of every excellence, this is manifest Mercy and Grace of Allah.",
-    "arabic_text": "وَوَرِثَ سُلَيْمَـٰنُ دَاوُدَ ۖ وَقَالَ يٰٓاَيُّهَا النَّاسُ عُلِّمْنَا مَنطِقَ الطَّيْرِ وَاُوتِينَا مِن كُلِّ شَىْءٍ ۖ اِنَّ هَـٰذَا لَهُوَ الْفَضْلُ الْمُبِينُ",
+    "arabic_text": "وَوَرِثَ سُلَيْمَـٰنُ دَاوُدَ ۖ وَ قَالَ يٰٓاَيُّهَا النَّاسُ عُلِّمْنَا مَنطِقَ الطَّيْرِ وَاُوتِينَا مِن كُلِّ شَىْءٍ ۖ اِنَّ هَـٰذَا لَهُوَ الْفَضْلُ الْمُبِينُ",
     "urdu_text": "اور سلیمان نے داؤد کی وراثت پائی، اور انهوں نے کها: اے لوگو! همیں پرندوں کی زبان سکھائی گئی هے اور همیں هر چیز میں سے عطا کیا گیا هے، بیشک یه الله کا واضح فضل هے۔",
     "persian_text": "و سلیمان وارث داوود شد، و گفت: ای مردم! به ما زبان پرندگان آموخته شده و از هر چیزی به ما داده شده است، همانا این فضل آشکاری است.",
     "transliteration": "Wa waritha Sulaymanu Dawooda wa qaala yaa ayyuhan-naasu 'ullimna mantiqat-tayri wa ooteena min kulli shay'in inna haaza lahuwal fadlul mubeen"
@@ -153,7 +153,7 @@ ayats = [
   {
     "verse_number": 19,
     "english_text": "Suleiman heard and smiled on this and said: O Lord, give me opportunity that I show gratefulness for your favours which You have granted me and my father; and I do such deeds that you are pleased with and that with You may count me with your Mercy among Your good servants.",
-    "arabic_text": "فَتَبَسَّمَ ضَاحِكًۭا مِّن قَوْلِهَا وَقَالَ رَبِّ اَوْزِعْنِىٓ اَنْ اَشْكُرَ نِعْمَتَكَ الَّتِىٓ اَنْعَمْتَ عَلَىَّ وَعَلَىٰ وَٰلِدَىَّ وَاَنْ اَعْمَلَ صَـٰلِحًۭا تَرْضَىٰهُ وَاَدْخِلْنِى بِرَحْمَتِكَ فِى عِبَادِكَ الصَّـٰلِحِينَ",
+    "arabic_text": "فَتَبَسَّمَ ضَاحِكًۭا مِّن قَوْلِهَا وَ قَالَ رَبِّ اَوْزِعْنِىٓ اَنْ اَشْكُرَ نِعْمَتَكَ الَّتِىٓ اَنْعَمْتَ عَلَىَّ وَعَلَىٰ وَٰلِدَىَّ وَاَنْ اَعْمَلَ صَـٰلِحًۭا تَرْضَىٰهُ وَاَدْخِلْنِى بِرَحْمَتِكَ فِى عِبَادِكَ الصَّـٰلِحِينَ",
     "urdu_text": "تو سلیمان اس کی بات سن کر مسکرائے اور کها: اے میرے رب! مجھے توفیق دے که میں تیری نعمتوں کا شکر ادا کروں جو تو نے مجھ پر اور میرے والدین پر کیں، اور میں ایسے نیک عمل کروں جن سے تو راضی هو، اور مجھے اپنی رحمت سے اپنے نیک بندوں میں شامل فرما۔",
     "persian_text": "پس از گفتار او لبخندی زد و گفت: پروردگارا! مرا توفیق ده که شکر نعمتی را که بر من و پدر و مادرم ارزانی داشتی به جای آورم، و عمل صالحی انجام دهم که تو از آن خشنود باشی، و مرا به رحمت خود در میان بندگان صالحت داخل کن.",
     "transliteration": "Fatabassama daahikan min qawliha wa qaala Rabbi awzi'ni an ashkura ni'matakal-lati an'amta 'alayya wa 'ala walidayya wa an a'mala saalihan tardaahu wa adkhilni bi-rahmatika fee 'ibadikas-saaliheen"
@@ -537,7 +537,7 @@ ayats = [
   {
     "verse_number": 67,
     "english_text": "And infidel say: when our forefathers will become dust, will they be raised again?",
-    "arabic_text": "وَقَالَ الَّذِينَ كَفَرُوٓاْ اَءِذَا كُنَّا تُرَٰبًا وَءَابَآؤُنَآ اَئِنَّا لَمُخْرَجُونَ",
+    "arabic_text": "وَ قَالَ الَّذِينَ كَفَرُوٓاْ اَءِذَا كُنَّا تُرَٰبًا وَءَابَآؤُنَآ اَئِنَّا لَمُخْرَجُونَ",
     "urdu_text": "اور کافروں نے کها: کیا جب هم اور همارے باپ دادا مٹی هو جائیں گے تو کیا هم دوباره نکالے جائیں گے؟",
     "persian_text": "و کافران گفتند: آیا هنگامی که ما و پدران ما خاک شدیم، آیا ما بیرون آورده خواهیم شد؟",
     "transliteration": "Wa qalal-ladhina kafaru a-idha kunna turaban wa aba'una a-inna lamukharajun"
@@ -625,7 +625,7 @@ ayats = [
   {
     "verse_number": 78,
     "english_text": "Your Lord judge between them with His Command, He is Predominant on all and Know everything.",
-    "arabic_text": "اِنَّ رَبَّكَ يَقْضِى بَيْنَهُم بِحُكْمِهِ ۚ وَهُوَ الْعَزِيزُ الْعَلِيمُ",
+    "arabic_text": "اِنَّ رَبَّكَ يَقْضِى بَيْنَهُم بِحُكْمِهِ ۚ وَ هُوَ الْعَزِيزُ الْعَلِيمُ",
     "urdu_text": "بیشک تمهارا رب ان کے درمیان اپنے حکم سے فیصله کرتا هے، اور وه غالب اور سب کچھ جانے والا هے۔",
     "persian_text": "همانا پروردگار تو میان آنان به فرمان خود داوری می‌کند، و او توانا و داناست.",
     "transliteration": "Inna rabbaka yaqdee baynahum bihukmihi wa huwal 'azeezul 'aleem"

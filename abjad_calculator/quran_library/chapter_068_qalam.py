@@ -57,7 +57,7 @@ ayats = [
   {
     "verse_number": 7,
     "english_text": "Your Lord knows best that who has deviated from His Path and who has been guided.",
-    "arabic_text": "اِنَّ رَبَّكَ هُوَ اَعْلَمُ بِمَن ضَلَّ عَن سَبِيلِهِ وَهُوَ اَعْلَمُ بِالْمُهْتَدِينَ",
+    "arabic_text": "اِنَّ رَبَّكَ هُوَ اَعْلَمُ بِمَن ضَلَّ عَن سَبِيلِهِ وَ هُوَ اَعْلَمُ بِالْمُهْتَدِينَ",
     "urdu_text": "بیشک آپ کا رب خوب جانتا ہے کہ کون اس کی راہ سے بھٹک گیا اور وہ ہدایت یافتہ لوگوں کو بھی خوب جانتا ہے۔",
     "persian_text": "به راستی پروردگار تو به کسی که از راه او گمراه شده بهتر می‌داند و او به هدایت یافتگان نیز داناتر است.",
     "transliteration": "Inna rabbaka huwa a'lamu biman dalla 'an sabeelihi wa huwa a'lamu bil-muhtadeen"
@@ -385,7 +385,7 @@ ayats = [
   {
     "verse_number": 48,
     "english_text": "Now wait with patience for the command of your Lord, and do not be like Man of Whale when he had called out in a very angry tone.",
-    "arabic_text": "فَاصْبِرْ لِحُكْمِ رَبِّكَ وَ لَا تَكُن كَصَاحِبِ الْحُوتِ اِذْ نَادٰى وَهُوَ مَكْظُومٌۭ",
+    "arabic_text": "فَاصْبِرْ لِحُكْمِ رَبِّكَ وَ لَا تَكُن كَصَاحِبِ الْحُوتِ اِذْ نَادٰى وَ هُوَ مَكْظُومٌۭ",
     "urdu_text": "پس اپنے رب کے حکم کے لیے صبر کرو اور مچھلی والے کی طرح نہ ہو جاؤ جب اس نے پکارا تھا اور وہ غم سے بھرا ہوا تھا۔",
     "persian_text": "پس برای فرمان پروردگارت صبر کن و مانند صاحب ماهی مباش، آنگاه که ندا داد در حالی که اندوهگین بود.",
     "transliteration": "Fasbir lihukmi rabbika wa laa takun kasaahibil hooti idh naadaa wa huwa makdhoom"
@@ -393,7 +393,7 @@ ayats = [
   {
     "verse_number": 49,
     "english_text": "That if the favor of Allah would not have supported him, then he would have been left in bad condition in a desolate barren land.",
-    "arabic_text": "لَّوْلَآ اَن تَدَٰرَكَهُ نِعْمَةٌۭ مِّن رَّبِّهِ لَنُبِذَ بِالْعَرَآءِ وَهُوَ مَذْمُومٌۭ",
+    "arabic_text": "لَّوْلَآ اَن تَدَٰرَكَهُ نِعْمَةٌۭ مِّن رَّبِّهِ لَنُبِذَ بِالْعَرَآءِ وَ هُوَ مَذْمُومٌۭ",
     "urdu_text": "اگر اس کے رب کی نعمت اسے نہ پہنچتی تو وہ ملامت زدہ حالت میں بیابان میں پھینک دیا جاتا۔",
     "persian_text": "اگر نعمتی از جانب پروردگارش به او نمی‌رسید، قطعاً در حالی که مذموم بود، در بیابان افکنده می‌شد.",
     "transliteration": "Lawlaaa an tadaarakahu ni'matum mir rabbihee lanubudha bil'araaa'i wa huwa madhmoom"
@@ -409,7 +409,7 @@ ayats = [
   {
     "verse_number": 51,
     "english_text": "And these infidels when they listen to Quran it seems soon they will slide you with their eyes (with hatred) and then they say that he is a madman.",
-    "arabic_text": "وَاِن يَكَادُ الَّذِينَ كَفَرُواْ لَيُزْلِقُونَكَ بِاَبْصَـٰرِهِمْ لَمَّا سَمِعُواْ الذِّكْرَ وَيَقُولُونَ اِنَّهُ لَمَجْنُونٌ",
+    "arabic_text": "وَ اِن يَكَادُ الَّذِينَ كَفَرُواْ لَيُزْلِقُونَكَ بِاَبْصَـٰرِهِمْ لَمَّا سَمِعُواْ الذِّكْرَ وَيَقُولُونَ اِنَّهُ لَمَجْنُونٌ",
     "urdu_text": "اور یہ کافر جب قرآن سنتے ہیں تو قریب ہے کہ اپنی نظروں سے آپ کو گرا دیں (نفرت سے دیکھتے ہیں) اور کہتے ہیں کہ یہ تو دیوانہ ہے۔",
     "persian_text": "و کافران چون قرآن را می‌شنوند، نزدیک است که تو را با نگاه‌های خود بلغزانند (از شدت کینه و نفرت) و می‌گویند که او دیوانه است.",
     "transliteration": "Wa in yakādu alladhīna kafarū la-yuzliqūnaka bi-abṣārihim lammā samiʿū adh-dhikra wa yaqūlūna innahū la-majnūn"

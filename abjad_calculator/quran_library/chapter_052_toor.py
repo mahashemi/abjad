@@ -353,7 +353,7 @@ ayats = [
   {
     "verse_number": 44,
     "english_text": "And even if they will see the pieces of sky falling, they will say: these are the layers of the clouds.",
-    "arabic_text": "وَاِن يَرَوْاْ كِسْفًۭا مِّنَ السَّمَآءِ سَاقِطًۭا يَقُولُواْ سَحَابٌۭ مَّرْكُومٌۭ",
+    "arabic_text": "وَ اِن يَرَوْاْ كِسْفًۭا مِّنَ السَّمَآءِ سَاقِطًۭا يَقُولُواْ سَحَابٌۭ مَّرْكُومٌۭ",
     "urdu_text": "اور اگر وہ آسمان کا ٹکڑا گرتا ہوا دیکھیں تو کہیں گے کہ یہ تو بادل کے ڈھیر ہیں۔",
     "persian_text": "و اگر پاره‌ای از آسمان را در حال سقوط ببینند، خواهند گفت: ابرهای انباشته است.",
     "transliteration": "Wa iny-yaraw kisfam-minas-samaaa'i saaqitan yaqooloo sahaabum-markoom"

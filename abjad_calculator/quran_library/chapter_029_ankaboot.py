@@ -41,7 +41,7 @@ ayats = [
   {
     "verse_number": 5,
     "english_text": "Whoever hope to meet Allah, he should know that the term appointed is going to come, He is all Hearing and Knowing.",
-    "arabic_text": "مَن كَانَ يَرْجُواْ لِقَآءَ اللّٰهِ فَاِنَّ اَجَلَ اللّٰهِ لَـَٔاتٍۢ ۚ وَهُوَ السَّمِيعُ الْعَلِيمُ",
+    "arabic_text": "مَن كَانَ يَرْجُواْ لِقَآءَ اللّٰهِ فَاِنَّ اَجَلَ اللّٰهِ لَـَٔاتٍۢ ۚ وَ هُوَ السَّمِيعُ الْعَلِيمُ",
     "urdu_text": "جو شخص اللہ کی ملاقات کی امید رکھتا ہے تو اللہ کا مقررہ وقت ضرور آنے والا ہے، اور وہ سننے والا جاننے والا ہے۔",
     "persian_text": "هر کس امید دیدار الله دارد، پس زمان مقرر الله قطعاً فرا خواهد رسید، و او شنوای داناست.",
     "transliteration": "Man kaana yarjoo liqaa-allaahi fa-inna ajalal-laahi la-aat, wa Huwas-Samee'ul-'Aleem"
@@ -97,7 +97,7 @@ ayats = [
   {
     "verse_number": 12,
     "english_text": "These infidels say to the believers: you follow our ways and we are responsible for your sins (on the day of Judgement), whereas they are not going to carry the burden of anyone's sins, they are plain liars.",
-    "arabic_text": "وَقَالَ الَّذِينَ كَفَرُواْ لِلَّذِينَ ءَامَنُواْ اتَّبِعُواْ سَبِيلَنَا وَلْنَحْمِلْ خَطَـٰيَـٰكُمْ وَ مَا هُم بِحَـٰمِلِينَ مِنْ خَطَـٰيَـٰهُم مِّن شَىْءٍ ۖ اِنَّهُمْ لَكَـٰذِبُونَ",
+    "arabic_text": "وَ قَالَ الَّذِينَ كَفَرُواْ لِلَّذِينَ ءَامَنُواْ اتَّبِعُواْ سَبِيلَنَا وَلْنَحْمِلْ خَطَـٰيَـٰكُمْ وَ مَا هُم بِحَـٰمِلِينَ مِنْ خَطَـٰيَـٰهُم مِّن شَىْءٍ ۖ اِنَّهُمْ لَكَـٰذِبُونَ",
     "urdu_text": "اور کافروں نے ایمان والوں سے کہا: تم ہمارے راستے پر چلو اور ہم تمہارے گناہوں کا بوجھ اٹھا لیں گے، حالانکہ وہ ان کے گناہوں میں سے کچھ بھی نہیں اٹھانے والے، بیشک وہ جھوٹے ہیں۔",
     "persian_text": "و کسانی که کافر شدند به مؤمنان گفتند: از راه ما پیروی کنید و ما گناهان شما را بر دوش خواهیم گرفت، در حالی که آنها هرگز چیزی از گناهان آنان را بر دوش نخواهند گرفت، آنها دروغگویانی آشکارند.",
     "transliteration": "Wa qālal-ladhīna kafarū lil-ladhīna āmanut-tabi'ū sabīlanā wal-naḥmil khaṭāyākum wa mā hum bi-ḥāmilīna min khaṭāyāhum min shay', innahum la-kādhibūn"
@@ -145,7 +145,7 @@ ayats = [
   {
     "verse_number": 18,
     "english_text": "And if you will deny, then many nations have done this before you, and the responsibility of the Prophet is only to reach you the message manifestly.",
-    "arabic_text": "وَاِن تُكَذِّبُواْ فَقَدْ كَذَّبَ اُمَمٌۭ مِّن قَبْلِكُمْ ۖ وَ مَا عَلَى الرَّسُولِ اِلَّا الْبَلَـٰغُ الْمُبِينُ",
+    "arabic_text": "وَ اِن تُكَذِّبُواْ فَقَدْ كَذَّبَ اُمَمٌۭ مِّن قَبْلِكُمْ ۖ وَ مَا عَلَى الرَّسُولِ اِلَّا الْبَلَـٰغُ الْمُبِينُ",
     "urdu_text": "اور اگر تم جھٹلاؤ گے تو تم سے پہلے بہت سی قومیں جھٹلا چکی ہیں، اور رسول پر صرف واضح طور پر پیغام پہنچانا ہے۔",
     "persian_text": "و اگر تکذیب کنید، پس امت‌های پیش از شما نیز تکذیب کردند، و بر پیامبر جز ابلاغ آشکار نیست.",
     "transliteration": "Wa in tukadhdhībū fa-qad kadhdhaba umamum-min qablikum, wa mā 'alar-rasūli illal-balāghul-mubīn"
@@ -201,7 +201,7 @@ ayats = [
   {
     "verse_number": 25,
     "english_text": "And Ibrahim said: only for the love of life of this world you have adopted idols leaving Allah, and on the Day of Judgement you will deny each other and curse each other, then your abode will be Hell and no one will be your helper.",
-    "arabic_text": "وَقَالَ اِنَّمَا اتَّخَذْتُم مِّن دُونِ اللّٰهِ اَوْثَـٰنًۭا مَّوَدَّةَ بَيْنِكُمْ فِى الْحَيَوٰةِ الدُّنْيٰۖ ثُمَّ يَوْمَ الْقِيَـٰمَةِ يَكْفُرُ بَعْضُكُم بِبَعْضٍۢ وَيَلْعَنُ بَعْضُكُم بَعْضًۭا وَمَاْوَىٰكُمُ النَّارُ وَ مَا لَكُم مِّن نَّـٰصِرِينَ",
+    "arabic_text": "وَ قَالَ اِنَّمَا اتَّخَذْتُم مِّن دُونِ اللّٰهِ اَوْثَـٰنًۭا مَّوَدَّةَ بَيْنِكُمْ فِى الْحَيَوٰةِ الدُّنْيٰۖ ثُمَّ يَوْمَ الْقِيَـٰمَةِ يَكْفُرُ بَعْضُكُم بِبَعْضٍۢ وَيَلْعَنُ بَعْضُكُم بَعْضًۭا وَمَاْوَىٰكُمُ النَّارُ وَ مَا لَكُم مِّن نَّـٰصِرِينَ",
     "urdu_text": "اور ابراہیم نے کہا: تم نے اللہ کو چھوڑ کر بت صرف دنیوی زندگی میں آپس کی محبت کے لیے بنائے ہیں، پھر قیامت کے دن تم ایک دوسرے کا انکار کرو گے اور ایک دوسرے پر لعنت کرو گے، اور تمہارا ٹھکانا جہنم ہے اور تمہارا کوئی مددگار نہیں۔",
     "persian_text": "و ابراهیم گفت: شما جز برای محبت میان خود در زندگی دنیا، به جای خدا بتانی برگزیده‌اید، سپس در روز قیامت بعضی از شما بعضی دیگر را انکار خواهید کرد و بعضی بعضی دیگر را لعنت خواهید کرد، و جایگاه شما آتش است و هیچ یاوری برای شما نیست.",
     "transliteration": "Wa qaala innamattakhadhtum min doonillaahi awsaanan mawaddata baynikum fil hayaatid dunyaa thumma yawmal qiyaamati yakfuru ba'dukum biba'din wa yal'anu ba'dukum ba'dan wa ma'waakumun naaru wa maa lakum min naasireen"
@@ -209,7 +209,7 @@ ayats = [
   {
     "verse_number": 26,
     "english_text": "Then Lut believed in him (Ibrahim) and said: I am migrating towards Allah and He is the Honorable and Wise.",
-    "arabic_text": "۞ فَـَٔامَنَ لَهُ لُوطٌۭ ۘ وَقَالَ اِنِّى مُهَاجِرٌ اِلـٰى رَبِّىٓ ۖ اِنَّهُ هُوَ الْعَزِيزُ الْحَكِيمُ",
+    "arabic_text": "۞ فَـَٔامَنَ لَهُ لُوطٌۭ ۘ وَ قَالَ اِنِّى مُهَاجِرٌ اِلـٰى رَبِّىٓ ۖ اِنَّهُ هُوَ الْعَزِيزُ الْحَكِيمُ",
     "urdu_text": "پھر لوط ان پر ایمان لائے اور کہا: میں اپنے رب کی طرف ہجرت کرتا ہوں، بیشک وہی غالب اور حکمت والا ہے۔",
     "persian_text": "پس لوط به او ایمان آورد و گفت: من به سوی پروردگارم هجرت می‌کنم، همانا او عزیز و حکیم است.",
     "transliteration": "Fa aamana lahoo loot wa qaala innee muhajirun ilaa rabbee innahoo huwal 'azeezul hakeem"
@@ -337,7 +337,7 @@ ayats = [
   {
     "verse_number": 42,
     "english_text": "Indeed, Allah knows whom they are calling, besides Him, and He is very Honorable and has Wisdom.",
-    "arabic_text": "اِنَّ اللّٰهَ يَعْلَمُ مَا يَدْعُونَ مِن دُونِهِ مِن شَىْءٍۢ ۚ وَهُوَ الْعَزِيزُ الْحَكِيمُ",
+    "arabic_text": "اِنَّ اللّٰهَ يَعْلَمُ مَا يَدْعُونَ مِن دُونِهِ مِن شَىْءٍۢ ۚ وَ هُوَ الْعَزِيزُ الْحَكِيمُ",
     "urdu_text": "بے شک اللہ جانتا ہے جو کچھ وہ اس کے سوا پکارتے ہیں، اور وہ بہت غالب اور حکمت والا ہے۔",
     "persian_text": "همانا خداوند می‌داند آنچه را که آنان غیر از او می‌خوانند، و او عزیز و حکیم است.",
     "transliteration": "Innal-lāha ya'lamu mā yad'ūna min dūnihī min shay', wa huwal-'azīzul-hakīm"
@@ -481,7 +481,7 @@ ayats = [
   {
     "verse_number": 60,
     "english_text": "Many living creatures who walk on the earth cannot carry the burden of their sustenance, but Allah is giving the sustenance to them and to you, He Hears all and is aware of everyone's condition.",
-    "arabic_text": "وَكَاَيِّن مِّن دَآبَّةٍۢ لَّا تَحْمِلُ رِزْقَهَا اللّٰهُ يَرْزُقُهَا وَاِيَّاكُمْ ۚ وَهُوَ السَّمِيعُ الْعَلِيمُ",
+    "arabic_text": "وَكَاَيِّن مِّن دَآبَّةٍۢ لَّا تَحْمِلُ رِزْقَهَا اللّٰهُ يَرْزُقُهَا وَاِيَّاكُمْ ۚ وَ هُوَ السَّمِيعُ الْعَلِيمُ",
     "urdu_text": "اور کتنے ہی جاندار ہیں جو اپنی روزی کا بوجھ نہیں اٹھاتے، اللہ انہیں اور تمہیں رزق دیتا ہے، اور وہ سننے والا جاننے والا ہے۔",
     "persian_text": "و چه بسیار جنبندگانی که روزی خود را حمل نمی‌کنند، خدا به آنان و شما روزی می‌دهد، و او شنوای داناست.",
     "transliteration": "Wa ka-ayyin min daaabbatil-laa tahmilu rizqahallaahu yarzuquhaa wa iyyaakum, wa huwas-samee'ul-'aleem"

@@ -313,7 +313,7 @@ ayats = [
   {
     "verse_number": 39,
     "english_text": "So on the strength of his army he turned his face away that he is magician or insane.",
-    "arabic_text": "فَتَوَلَّىٰ بِرُكْنِهِ وَقَالَ سَـٰحِرٌ اَوْ مَجْنُونٌ",
+    "arabic_text": "فَتَوَلَّىٰ بِرُكْنِهِ وَ قَالَ سَـٰحِرٌ اَوْ مَجْنُونٌ",
     "urdu_text": "تو اس نے اپنی طاقت کے بل پر منه موڑ لیا اور کها که یه جادوگر هے یا دیوانه۔",
     "persian_text": "پس با تکیه بر قدرت خود روی گرداند و گفت: جادوگر است یا دیوانه.",
     "transliteration": "Fatawallaa biruknihee wa qaala saahirun aw majnoon"
@@ -321,7 +321,7 @@ ayats = [
   {
     "verse_number": 40,
     "english_text": "Then We caught him and his army and threw them into the sea; and he was reprehensible.",
-    "arabic_text": "فَاَخَذْنَـٰهُ وَجُنُودَهُ فَنَبَذْنَـٰهُمْ فِى الْيَمِّ وَهُوَ مُلِيمٌۭ",
+    "arabic_text": "فَاَخَذْنَـٰهُ وَجُنُودَهُ فَنَبَذْنَـٰهُمْ فِى الْيَمِّ وَ هُوَ مُلِيمٌۭ",
     "urdu_text": "پھر هم نے اسے اور اس کے لشکر کو پکڑ لیا اور انهیں سمندر میں پھینک دیا اور وه قابل ملامت تھا۔",
     "persian_text": "پس او و سپاهیانش را گرفتیم و در دریا افکندیم و او سزاوار سرزنش بود.",
     "transliteration": "Fa akhadh naahu wa junoodahoo fanabadh naahum fil yammi wa huwa muleem"

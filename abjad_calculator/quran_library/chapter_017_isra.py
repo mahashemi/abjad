@@ -153,7 +153,7 @@ ayats = [
   {
     "verse_number": 19,
     "english_text": "And whoever is desirous of the Hereafter and endeavor also for it and is a believer also, so these are the people whose endeavor will be accepted.",
-    "arabic_text": "وَ مَنْ اَرَادَ الْاخِرَةَ وَسَعَىٰ لَهَا سَعْيَهَا وَهُوَ مُؤْمِنٌ فَاُو۟لَـٰٓئِكَ كَانَ سَعْيُهُم مَّشْكُورًا",
+    "arabic_text": "وَ مَنْ اَرَادَ الْاخِرَةَ وَسَعَىٰ لَهَا سَعْيَهَا وَ هُوَ مُؤْمِنٌ فَاُو۟لَـٰٓئِكَ كَانَ سَعْيُهُم مَّشْكُورًا",
     "urdu_text": "اور جو آخرت کا خواہاں ہو اور اس کے لیے کوشش بھی کرے جیسی کوشش کرنی چاہیے اور وہ مومن بھی ہو، تو ایسے لوگوں کی کوشش قبول کی جائے گی۔",
     "persian_text": "و هر کس آخرت را بخواهد و برای آن کوشش کند آن‌گونه که باید و مؤمن باشد، پس اینان کسانی هستند که کوششان قدردانی می‌شود.",
     "transliteration": "Wa man arada al-akhirata wa sa'a laha sa'yaha wa huwa mu'minun fa-ula'ika kana sa'yuhum mashkura"
@@ -465,7 +465,7 @@ ayats = [
   {
     "verse_number": 58,
     "english_text": "And there is no town, but We will destroy it before the Day of Judgement or will send severe punishment on it; and this has (already) been written in the Divine Book.",
-    "arabic_text": "وَاِن مِّن قَرْيَةٍ اِلَّا نَحْنُ مُهْلِكُوهَا قَبْلَ يَوْمِ الْقِيَـٰمَةِ اَوْ مُعَذِّبُوهَا عَذَابًا شَدِيدًۭا ۚ كَانَ ذٰلِكَ فِى الْكِتٰبِ مَسْطُورًا",
+    "arabic_text": "وَ اِن مِّن قَرْيَةٍ اِلَّا نَحْنُ مُهْلِكُوهَا قَبْلَ يَوْمِ الْقِيَـٰمَةِ اَوْ مُعَذِّبُوهَا عَذَابًا شَدِيدًۭا ۚ كَانَ ذٰلِكَ فِى الْكِتٰبِ مَسْطُورًا",
     "urdu_text": "اور کوئی بستی ایسی نہیں مگر ہم اسے قیامت سے پہلے تباہ کر دیں گے یا اس پر سخت عذاب بھیجیں گے، اور یہ الہٰی کتاب میں لکھا ہوا ہے۔",
     "persian_text": "و هیچ شهری نیست مگر اینکه ما آن را پیش از روز قیامت هلاک می‌کنیم یا عذابی سخت بر آن می‌فرستیم، این در کتاب الهی نوشته شده است.",
     "transliteration": "Wa im min qaryatin illaa nahnu muhlikooha qabla yawmil-qiyaamati aw mu'adhdhiboohaa 'adhaaban shadeedaa kaana dhaalika fil-kitaabi mastooraa"
@@ -585,7 +585,7 @@ ayats = [
   {
     "verse_number": 73,
     "english_text": "Indeed, they wish to deviate you from the conversation which We sent to you through revelation, so that you say something other than this (Quran) which may not be true, and if that would have happened, they would have considered you as friend.",
-    "arabic_text": "وَاِن كَادُواْ لَيَفْتِنُونَكَ عَنِ الَّذِىٓ اَوْحَيْنَآ اِلَيْكَ لِتَفْتَرِىَ عَلَيْنَا غَيْرَهُ ۖ وَاِذًۭا لَّاتَّخَذُوكَ خَلِيلًا",
+    "arabic_text": "وَ اِن كَادُواْ لَيَفْتِنُونَكَ عَنِ الَّذِىٓ اَوْحَيْنَآ اِلَيْكَ لِتَفْتَرِىَ عَلَيْنَا غَيْرَهُ ۖ وَاِذًۭا لَّاتَّخَذُوكَ خَلِيلًا",
     "urdu_text": "اور بیشک یہ لوگ چاہتے تھے کہ تمہیں اُس وحی سے ہٹا دیں جو ہم نے تمہاری طرف بھیجی ہے، تاکہ تم ہمارے نام پر اِس کے علاوہ کوئی اور بات کہو، اور اگر ایسا ہو جاتا تو وہ تمہیں اپنا دوست بنا لیتے۔",
     "persian_text": "و در حقیقت آنان نزدیک بود که تو را از آنچه به تو وحی کرده‌ایم منحرف سازند تا بر ما چیزی جز آن بیفزایی، و اگر چنین می‌شد، تو را دوست خود می‌گرفتند.",
     "transliteration": "Wa in kaadoo la-yaftinoonaka 'anil-lathee awhaynaa ilayka li-taftariya 'alaynaa ghayrahu wa ithan lat-takhathooka khaleelaa"
@@ -609,7 +609,7 @@ ayats = [
   {
     "verse_number": 76,
     "english_text": "And these people want you to be disheartened from the land (of Makkah) and they want to expel you (towards Syria), and if they would have done it; they themselves could not have stayed there, except for a few days.",
-    "arabic_text": "وَاِن كَادُواْ لَيَسْتَفِزُّونَكَ مِنَ الْاَرْضِ لِيُخْرِجُوكَ مِنْهَا ۖ وَاِذًۭا لَّا يَلْبَثُونَ خِلَـٰفَكَ اِلَّا قَلِيلًا",
+    "arabic_text": "وَ اِن كَادُواْ لَيَسْتَفِزُّونَكَ مِنَ الْاَرْضِ لِيُخْرِجُوكَ مِنْهَا ۖ وَاِذًۭا لَّا يَلْبَثُونَ خِلَـٰفَكَ اِلَّا قَلِيلًا",
     "urdu_text": "اور یہ لوگ چاہتے تھے کہ تمہیں اِس سرزمین (مکہ) سے بے چین کر دیں تاکہ تمہیں یہاں سے نکال دیں، اور اگر وہ ایسا کر دیتے تو تمہارے بعد خود بھی وہاں تھوڑے ہی دن ٹھہر پاتے۔",
     "persian_text": "و نزدیک بود که تو را از این سرزمین (مکه) ناآرام کنند تا تو را از آن بیرون کنند، و اگر چنین می‌کردند، پس از تو جز اندکی در آنجا نمی‌ماندند.",
     "transliteration": "Wa in kaadoo la-yastafizzoonaka minal-ardi li-yukhrijooka minhaa wa ithan laa yalbathoona khilaafaka illaa qaleelaa"

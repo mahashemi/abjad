@@ -9,7 +9,7 @@ ayats = [
   {
     "verse_number": 1,
     "english_text": "Blessed is He in whose hands is the entire Kingdom; and He has power over all things.",
-    "arabic_text": "تَبَـٰرَكَ الَّذِى بِيَدِهِ الْمُلْكُ وَهُوَ عَلَىٰ كُلِّ شَىْءٍۢ قَدِيرٌ",
+    "arabic_text": "تَبَـٰرَكَ الَّذِى بِيَدِهِ الْمُلْكُ وَ هُوَ عَلَىٰ كُلِّ شَىْءٍۢ قَدِيرٌ",
     "urdu_text": "بابرکت هے وه ذات جس کے هاتھ میں تمام بادشاهی هے اور وه هر چیز پر قادر هے۔",
     "persian_text": "متبارک است آن کسی که فرمانروایی در دست اوست و او بر هر چیزی تواناست.",
     "transliteration": "Tabārakal-ladhī biyadihil-mulku wa huwa 'alā kulli shay'in qadīr"
@@ -17,7 +17,7 @@ ayats = [
   {
     "verse_number": 2,
     "english_text": "He has created death and life so that He may try you that who is better among you with regards to the deed, and He is also Honorable and Forgiving.",
-    "arabic_text": "الَّذِى خَلَقَ الْمَوْتَ وَالْحَيَوٰةَ لِيَبْلُوَكُمْ اَيُّكُمْ اَحْسَنُ عَمَلًا ۚ وَهُوَ الْعَزِيزُ الْغَفُورُ",
+    "arabic_text": "الَّذِى خَلَقَ الْمَوْتَ وَالْحَيَوٰةَ لِيَبْلُوَكُمْ اَيُّكُمْ اَحْسَنُ عَمَلًا ۚ وَ هُوَ الْعَزِيزُ الْغَفُورُ",
     "urdu_text": "جس نے موت اور زندگی کو پیدا کیا تاکه تمهیں آزمائے که تم میں سے کون عمل میں بهتر هے، اور وه غالب اور بخشنے والا هے۔",
     "persian_text": "همان کسی که مرگ و زندگی را آفرید تا شما را بیازماید که کدام یک از شما نیکوکارتر است، و او عزیز و آمرزنده است.",
     "transliteration": "Alladhī khalaqal-mawta wal-ḥayāta liyabluwakum ayyukum aḥsanu 'amalā, wa huwal-'azīzul-ghafūr"
@@ -33,7 +33,7 @@ ayats = [
   {
     "verse_number": 4,
     "english_text": "Thereafter, look again and again, your sight will return to you tiredly, but you will not see any flaw.",
-    "arabic_text": "ثُمَّ ارْجِعِ الْبَصَرَ كَرَّتَيْنِ يَنقَلِبْ اِلَيْكَ الْبَصَرُ خَاسِئًۭا وَهُوَ حَسِيرٌۭ",
+    "arabic_text": "ثُمَّ ارْجِعِ الْبَصَرَ كَرَّتَيْنِ يَنقَلِبْ اِلَيْكَ الْبَصَرُ خَاسِئًۭا وَ هُوَ حَسِيرٌۭ",
     "urdu_text": "پھر بار بار نظر دوڑاؤ، تمهاری نگاه تھک کر ناکام واپس آئے گی اور وه تھکی هوئی هوگی۔",
     "persian_text": "سپس بارها نگاه کن، چشمت خسته و ناتوان به سوی تو بازمی‌گردد.",
     "transliteration": "Thummar-ji'il-baṣara karratayni yanqalib ilaykal-baṣaru khāsi'an wa huwa ḥasīr"
@@ -113,7 +113,7 @@ ayats = [
   {
     "verse_number": 14,
     "english_text": "And did the Creator not know? While He is also Subtle and also All-Aware.",
-    "arabic_text": "اَلَا يَعْلَمُ مَنْ خَلَقَ وَهُوَ اللَّطِيفُ الْخَبِيرُ",
+    "arabic_text": "اَلَا يَعْلَمُ مَنْ خَلَقَ وَ هُوَ اللَّطِيفُ الْخَبِيرُ",
     "urdu_text": "کیا وه نهیں جانتا جس نے پیدا کیا؟ اور وه باریک بین، خبردار هے۔",
     "persian_text": "آیا کسی که آفرید نمی‌داند؟ و او لطیف و آگاه است.",
     "transliteration": "Alaa ya'lamu man khalaqa wa huwal-lateeful-khabeer"

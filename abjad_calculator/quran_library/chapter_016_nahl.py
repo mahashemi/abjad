@@ -145,7 +145,7 @@ ayats = [
   {
     "verse_number": 18,
     "english_text": "You cannot count the Blessings of Allah, even if you wish; Verily He is all Forgiving and Merciful.",
-    "arabic_text": "وَاِن تَعُدُّواْ نِعْمَةَ اللّٰهِ لَا تُحْصُوهَآ ۗ اِنَّ اللّٰهَ لَغَفُورٌۭ رَّحِيمٌۭ",
+    "arabic_text": "وَ اِن تَعُدُّواْ نِعْمَةَ اللّٰهِ لَا تُحْصُوهَآ ۗ اِنَّ اللّٰهَ لَغَفُورٌۭ رَّحِيمٌۭ",
     "urdu_text": "اور اگر تم اللہ کی نعمتوں کو گننا چاہو تو انہیں شمار نہیں کر سکتے۔ بے شک اللہ بہت بخشنے والا، بہت مہربان ہے۔",
     "persian_text": "و اگر نعمت‌های خدا را بشمارید، نمی‌توانید آن را احصا کنید. بی‌گمان خداوند آمرزنده و مهربان است.",
     "transliteration": "Wa in ta'uddoo ni'matal-laahi laa tuhsoohaa; innal-laaha la-Ghafoorur-Raheem"
@@ -281,7 +281,7 @@ ayats = [
   {
     "verse_number": 35,
     "english_text": "And polytheists say: if Allah pleased, we would not have worshipping anything except Him, nor our forefathers; nor would we have forbidden anything without His permission; those who have gone by. (had also) done such talk; (so let them say); prophets' responsibility is only to deliver His commands clearly, and nothing else.",
-    "arabic_text": "وَقَالَ الَّذِينَ اَشْرَكُواْ لَوْ شَآءَ اللّٰهُ مَا عَبَدْنَا مِن دُونِهِ مِن شَىْءٍۢ نَّحْنُ وَ لَآ ءَابَآؤُنَا وَ لَا حَرَّمْنَا مِن دُونِهِ مِن شَىْءٍۢ ۚ كَذٰلِكَ فَعَلَ الَّذِينَ مِن قَبْلِهِمْ ۚ فَهَلْ عَلَى الرُّسُلِ اِلَّا الْبَلَـٰغُ الْمُبِينُ",
+    "arabic_text": "وَ قَالَ الَّذِينَ اَشْرَكُواْ لَوْ شَآءَ اللّٰهُ مَا عَبَدْنَا مِن دُونِهِ مِن شَىْءٍۢ نَّحْنُ وَ لَآ ءَابَآؤُنَا وَ لَا حَرَّمْنَا مِن دُونِهِ مِن شَىْءٍۢ ۚ كَذٰلِكَ فَعَلَ الَّذِينَ مِن قَبْلِهِمْ ۚ فَهَلْ عَلَى الرُّسُلِ اِلَّا الْبَلَـٰغُ الْمُبِينُ",
     "urdu_text": "اور مشرکوں نے کہا: اگر اللہ چاہتا تو نہ ہم اس کے سوا کسی چیز کی عبادت کرتے اور نہ ہمارے باپ دادا، اور نہ ہم اس کے حکم کے بغیر کسی چیز کو حرام ٹھہراتے، ان سے پہلے لوگوں نے بھی ایسا ہی کیا تھا، پس رسولوں پر صرف واضح طور پر پیغام پہنچانا ہے۔",
     "persian_text": "و کسانی که شرک ورزیدند گفتند: اگر خدا می‌خواست نه ما و نه پدرانمان چیزی جز او را نمی‌پرستیدیم و بدون اذن او چیزی را حرام نمی‌کردیم، کسانی که پیش از آنان بودند نیز چنین کردند، آیا بر پیامبران جز ابلاغ آشکار چیزی است؟",
     "transliteration": "Wa qalal lazeena ashrakoo law sha'al laahu ma 'abadna min doonihi min shay'in nahnu wa la aba'una wa la harramna min doonihi min shay', kazaalika fa'alal lazeena min qablihim fahal 'alar rusuli illal balaaghul mubeen"
@@ -409,7 +409,7 @@ ayats = [
   {
     "verse_number": 51,
     "english_text": "{Prostrate Non-Obligatory} And Allah ordained that do not make two Lords, Lord is only that’s Allah; then fear Me only.",
-    "arabic_text": "۞ وَقَالَ اللّٰهُ لَا تَتَّخِذُوٓاْ اِلَـٰهَيْنِ اثْنَيْنِ ۖ اِنَّمَا هُوَ اِلَـٰهٌۭ وَٰحِدٌۭ ۖ فَاِيَّـٰىَ فَارْهَبُونِ",
+    "arabic_text": "۞ وَ قَالَ اللّٰهُ لَا تَتَّخِذُوٓاْ اِلَـٰهَيْنِ اثْنَيْنِ ۖ اِنَّمَا هُوَ اِلَـٰهٌۭ وَٰحِدٌۭ ۖ فَاِيَّـٰىَ فَارْهَبُونِ",
     "urdu_text": "اور اللہ نے فرمایا کہ دو معبود نہ بناؤ، معبود تو صرف ایک ہی ہے، پس صرف مجھ سے ڈرو۔",
     "persian_text": "و خداوند فرمود که دو خدا برای خود قرار ندهید، او تنها یک خدای یگانه است، پس تنها از من بترسید.",
     "transliteration": "Wa qaalal laahu laa tattakhizoo ilaahayni ithnayn, innamaa huwa ilaahunw waahid, fa iyyaaya farhaboon"
@@ -465,7 +465,7 @@ ayats = [
   {
     "verse_number": 58,
     "english_text": "And when they are given the good news of a girl being born to them, then with sadness their faces turn black, as if they have swallowed a sip of poison.",
-    "arabic_text": "وَاِذَا بُشِّرَ اَحَدُهُم بِالْاُنثَىٰ ظَلَّ وَجْهُهُ مُسْوَدًّۭا وَهُوَ كَظِيمٌۭ",
+    "arabic_text": "وَاِذَا بُشِّرَ اَحَدُهُم بِالْاُنثَىٰ ظَلَّ وَجْهُهُ مُسْوَدًّۭا وَ هُوَ كَظِيمٌۭ",
     "urdu_text": "اور جب ان میں سے کسی کو بیٹی کی خوشخبری دی جاتی ہے تو اس کا چہرہ سیاہ ہو جاتا ہے اور وہ غم سے بھر جاتا ہے۔",
     "persian_text": "و هنگامی که به یکی از آنان مژده دختر داده شود، چهره‌اش سیاه می‌شود و از غم و اندوه پر می‌گردد.",
     "transliteration": "Wa izaa bushshira ahaduhum bil unsaa zalla wajhuhoo muswaddanw wa huwa kazeem"
@@ -481,7 +481,7 @@ ayats = [
   {
     "verse_number": 60,
     "english_text": "Evil talk is more suitable for those who do not believe in the Hereafter, and for Allah are loftiest qualities (such as Oneness and Lordship); and He is Predominant and Wise.",
-    "arabic_text": "لِلَّذِينَ لَا يُؤْمِنُونَ بِالْاخِرَةِ مَثَلُ السَّوْءِ ۖ وَلِلَّهِ الْمَثَلُ الْاَعْلَىٰ ۚ وَهُوَ الْعَزِيزُ الْحَكِيمُ",
+    "arabic_text": "لِلَّذِينَ لَا يُؤْمِنُونَ بِالْاخِرَةِ مَثَلُ السَّوْءِ ۖ وَلِلَّهِ الْمَثَلُ الْاَعْلَىٰ ۚ وَ هُوَ الْعَزِيزُ الْحَكِيمُ",
     "urdu_text": "بری مثال ان لوگوں کے لیے ہے جو آخرت پر ایمان نہیں رکھتے، اور اللہ کے لیے سب سے اعلیٰ صفات ہیں، اور وہ غالب اور حکمت والا ہے۔",
     "persian_text": "مثال بد برای کسانی است که به آخرت ایمان ندارند، و برای خداوند بالاترین صفات است، و او توانا و حکیم است.",
     "transliteration": "Lillazeena laa yu'minoona bil aakhirati mathalus saw', wa lillaahil mathalul a'laa, wa huwal 'azeezul hakeem"
@@ -609,7 +609,7 @@ ayats = [
   {
     "verse_number": 76,
     "english_text": "And Allah describes another example of two men: a slave who is dumb and is incapable of doing anything, and he is a burden on his master that wherever he sends him, he does not bring any good; does this slave and a person who advises justice to the people and is himself on right path can (these two) be equal? (Never).",
-    "arabic_text": "وَضَرَبَ اللّٰهُ مَثَلًا رَّجُلَيْنِ اَحَدُهُمَآ اَبْكَمُ لَا يَقْدِرُ عَلَىٰ شَىْءٍۢ وَهُوَ كَلٌّ عَلَىٰ مَوْلَىٰهُ اَيْنَمَا يُوَجِّههُّ لَا يَاْتِ بِخَيْرٍ ۖ هَلْ يَسْتَوِى هُوَ وَمَن يَاْمُرُ بِالْعَدْلِ ۙ وَهُوَ عَلَىٰ صِرَٰطٍۢ مُّسْتَقِيمٍۢ",
+    "arabic_text": "وَضَرَبَ اللّٰهُ مَثَلًا رَّجُلَيْنِ اَحَدُهُمَآ اَبْكَمُ لَا يَقْدِرُ عَلَىٰ شَىْءٍۢ وَ هُوَ كَلٌّ عَلَىٰ مَوْلَىٰهُ اَيْنَمَا يُوَجِّههُّ لَا يَاْتِ بِخَيْرٍ ۖ هَلْ يَسْتَوِى هُوَ وَمَن يَاْمُرُ بِالْعَدْلِ ۙ وَ هُوَ عَلَىٰ صِرَٰطٍۢ مُّسْتَقِيمٍۢ",
     "urdu_text": "اور اللہ ایک اور مثال بیان کرتا ہے دو آدمیوں کی: ایک گونگا غلام جو کسی چیز پر قدرت نہیں رکھتا، اور وہ اپنے مالک پر بوجھ ہے، جہاں بھی اسے بھیجے کوئی بھلائی نہیں لاتا، کیا یہ اور وہ شخص جو لوگوں کو انصاف کا حکم دیتا ہے اور خود سیدھی راہ پر ہے، برابر ہو سکتے ہیں؟ (ہرگز نہیں)۔",
     "persian_text": "و خداوند مثال دیگری می‌زند از دو مرد: یکی از آنها گنگ است که بر هیچ چیز قدرت ندارد و بار سنگینی بر صاحب خود است، هر جا او را بفرستد خیری نمی‌آورد، آیا او و کسی که به عدالت فرمان می‌دهد و خود بر راه راست است، برابرند؟",
     "transliteration": "Wa darabAllahu mathalan rajulayni ahaduhumaa abkamu la yaqdiru 'ala shay'in wa huwa kallun 'ala mawlahu aynama yuwajjihhu la ya'ti bi-khayr, hal yastawee huwa wa man ya'muru bil-'adli wa huwa 'ala siratin mustaqeem"
@@ -777,7 +777,7 @@ ayats = [
   {
     "verse_number": 97,
     "english_text": "Whoever will do good work, whether men or women, will also be believers; We will make their lives pure in this world, and will reward them better than the best for good work they did.",
-    "arabic_text": "مَنْ عَمِلَ صَـٰلِحًۭا مِّن ذَكَرٍ اَوْ اُنثَىٰ وَهُوَ مُؤْمِنٌ فَلَنُحْيِيَنَّهُ حَيَوٰةًۭ طَيِّبَةًۭ ۖ وَلَنَجْزِيَنَّهُمْ اَجْرَهُم بِاَحْسَنِ مَا كَانُواْ يَعْمَلُونَ",
+    "arabic_text": "مَنْ عَمِلَ صَـٰلِحًۭا مِّن ذَكَرٍ اَوْ اُنثَىٰ وَ هُوَ مُؤْمِنٌ فَلَنُحْيِيَنَّهُ حَيَوٰةًۭ طَيِّبَةًۭ ۖ وَلَنَجْزِيَنَّهُمْ اَجْرَهُم بِاَحْسَنِ مَا كَانُواْ يَعْمَلُونَ",
     "urdu_text": "جو شخص نیک عمل کرے گا، خواہ مرد ہو یا عورت، اور وہ مومن بھی ہو، تو ہم اسے پاکیزہ زندگی عطا کریں گے، اور انہیں ان کے بہترین اعمال کے مطابق ضرور اجر دیں گے۔",
     "persian_text": "هر کس عمل صالح انجام دهد، خواه مرد یا زن، در حالی که مؤمن باشد، قطعاً او را زندگی پاکیزه‌ای خواهیم بخشید و پاداششان را به بهترین آنچه انجام می‌دادند خواهیم داد.",
     "transliteration": "Man 'amila salihan min dhakarin aw untha wa huwa mu'minun falanuhyiyannahu hayatan tayyibatan wa lanajziyannahum ajrahum bi-ahsani ma kanoo ya'maloon"
@@ -1001,7 +1001,7 @@ ayats = [
   {
     "verse_number": 125,
     "english_text": "(O Prophet), Invite people to your Lord through wisdom and good talk and exhortation, and debate with them in the best manner; indeed, those who went astray from the path of Allah, your Lord know them well; and those who were guided He know them well also.",
-    "arabic_text": "ادْعُ اِلـٰى سَبِيلِ رَبِّكَ بِالْحِكْمَةِ وَالْمَوْعِظَةِ الْحَسَنَةِ ۖ وَجَـٰدِلْهُم بِالَّتِى هِىَ اَحْسَنُ ۚ اِنَّ رَبَّكَ هُوَ اَعْلَمُ بِمَن ضَلَّ عَن سَبِيلِهِ ۖ وَهُوَ اَعْلَمُ بِالْمُهْتَدِينَ",
+    "arabic_text": "ادْعُ اِلـٰى سَبِيلِ رَبِّكَ بِالْحِكْمَةِ وَالْمَوْعِظَةِ الْحَسَنَةِ ۖ وَجَـٰدِلْهُم بِالَّتِى هِىَ اَحْسَنُ ۚ اِنَّ رَبَّكَ هُوَ اَعْلَمُ بِمَن ضَلَّ عَن سَبِيلِهِ ۖ وَ هُوَ اَعْلَمُ بِالْمُهْتَدِينَ",
     "urdu_text": "اے نبی، لوگوں کو اپنے رب کے راستے کی طرف حکمت اور اچھی نصیحت کے ساتھ بلائیں، اور ان سے بہترین طریقے سے بحث کریں، بیشک آپ کا رب ان لوگوں کو خوب جانتا ہے جو اس کے راستے سے بھٹک گئے، اور وہ ہدایت یافتہ لوگوں کو بھی خوب جانتا ہے۔",
     "persian_text": "ای پیامبر، مردم را به راه پروردگارت با حکمت و پند نیکو دعوت کن، و با آنان به بهترین شیوه مجادله نما، همانا پروردگار تو به کسانی که از راه او گمراه شدند داناتر است، و او به هدایت یافتگان نیز داناتر است.",
     "transliteration": "Ud'u ilaa sabeeli rabbika bil-hikmati wal-maw'izatil-hasanati wa jaadilhum billatee hiya ahsan inna rabbaka huwa a'lamu biman dalla 'an sabeelihi wa huwa a'lamu bil-muhtadeen"

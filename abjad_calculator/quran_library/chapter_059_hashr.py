@@ -42,7 +42,7 @@ ayats = [
   {
     "verse_number": 6,
     "english_text": "And whatever war booty Allah has made available from them to the Prophet, for that you made no expedition either through your horses or camels, but Allah gave domination to His prophet and Allah has power over everything.",
-    "arabic_text": "وَ مَا اَفَاءَ اللّٰهُ عَلَٰى رَسُولِهِ مِنْهُمْ فَمَآ اَوْجَفْتُمْ عَلَيْهِ مِنْ خَيْلٍۢ وَ لَا رِكَابٍ وَلَٰكِنَّ اللّٰهَ يُسَلِّطُ رُسُلَهُ عَلَٰى مَن يَشَآءُ ۚ وَاللّٰهُ عَلَٰى كُلِّ شَىْءٍۢ قَدِيرٌ",
+    "arabic_text": "وَ مَا اَفَاءَ اللّٰهُ عَلَٰى رَسُولِهِ مِنْهُمْ فَمَآ اَوْجَفْتُمْ عَلَيْهِ مِنْ خَيْلٍۢ وَ لَا رِكَابٍ وَ لَٰكِنَّ اللّٰهَ يُسَلِّطُ رُسُلَهُ عَلَٰى مَن يَشَآءُ ۚ وَاللّٰهُ عَلَٰى كُلِّ شَىْءٍۢ قَدِيرٌ",
     "urdu_text": "اور جو مال اللہ نے ان سے اپنے رسول کو دلوایا اس پر تم نے نہ گھوڑے دوڑائے اور نہ اونٹ، لیکن اللہ اپنے رسولوں کو جس پر چاہتا ہے غالب کر دیتا ہے، اور اللہ ہر چیز پر قادر ہے۔",
     "persian_text": "و آنچه خداوند از آنان به پیامبرش بازگردانید، شما برای آن نه اسبی تاختید و نه شتری، ولی خداوند پیامبرانش را بر هر که بخواهد چیره می‌گرداند، و خداوند بر هر چیزی تواناست.",
     "transliteration": "Wa maa afaa Allahu 'alaa Rasoolihi minhum famaa awjaftum 'alayhi min khaylin wa laa rikaab, wa laakinna Allaha yusallit Rusulahu 'alaa man yashaa, wa Allahu 'alaa kulli shay'in Qadeer",

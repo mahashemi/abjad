@@ -17,7 +17,7 @@ ayats = [
   {
     "verse_number": 2,
     "english_text": "And if they see any sign, they turn their face and say: it is continuous magic.",
-    "arabic_text": "وَاِن يَرَوْاْ ءَايَةًۭ يُعْرِضُواْ وَيَقُولُواْ سِحْرٌۭ مُّسْتَمِرٌّۭ",
+    "arabic_text": "وَ اِن يَرَوْاْ ءَايَةًۭ يُعْرِضُواْ وَيَقُولُواْ سِحْرٌۭ مُّسْتَمِرٌّۭ",
     "urdu_text": "اور اگر وہ کوئی نشانی دیکھیں تو منہ پھیر لیتے ہیں اور کہتے ہیں کہ یہ تو مسلسل جادو ہے۔",
     "persian_text": "و اگر نشانه‌ای ببینند، روی برمی‌گردانند و می‌گویند: این جادویی پیوسته است.",
     "transliteration": "Wa in yaraw aayatan yu'ridu wa yaqulu sihrun mustamirr"

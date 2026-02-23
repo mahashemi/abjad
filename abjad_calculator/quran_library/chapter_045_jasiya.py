@@ -297,7 +297,7 @@ ayats = [
   {
     "verse_number": 37,
     "english_text": "Greatness is His in the skies and the earth, and He is Honorable and has Wisdom.",
-    "arabic_text": "وَلَهُ الْكِبْرِيَآءُ فِى السَّمَـٰوَٰتِ وَ الْاَرْضِ ۖ وَهُوَ الْعَزِيزُ الْحَكِيمُ",
+    "arabic_text": "وَلَهُ الْكِبْرِيَآءُ فِى السَّمَـٰوَٰتِ وَ الْاَرْضِ ۖ وَ هُوَ الْعَزِيزُ الْحَكِيمُ",
     "urdu_text": "اور عظمت اسی کی هے آسمانوں اور زمین میں، اور وه غالب اور حکمت والا هے۔",
     "persian_text": "و بزرگی و عظمت از آن اوست در آسمان‌ها و زمین، و او عزیز و حکیم است.",
     "transliteration": "Wa lahul-kibriyaaa'u fis-samaawaati wal-ardi wa huwal-'azeezul-hakeem"

@@ -497,7 +497,7 @@ ayats = [
   {
     "verse_number": 62,
     "english_text": "Allah is the Creator of everything, and He is the guardian of everything.",
-    "arabic_text": "اللّٰهُ خَـٰلِقُ كُلِّ شَىْءٍۢ ۖ وَهُوَ عَلَىٰ كُلِّ شَىْءٍۢ وَكِيلٌۭ",
+    "arabic_text": "اللّٰهُ خَـٰلِقُ كُلِّ شَىْءٍۢ ۖ وَ هُوَ عَلَىٰ كُلِّ شَىْءٍۢ وَكِيلٌۭ",
     "urdu_text": "اللہ ہر چیز کا خالق ہے، اور وہ ہر چیز کا نگہبان ہے۔",
     "persian_text": "خداوند آفریننده همه چیز است و او بر همه چیز نگهبان و کارساز است.",
     "transliteration": "Allaahu khaaliqu kulli shay'in wa huwa 'alaa kulli shay'in wakeel"
@@ -561,7 +561,7 @@ ayats = [
   {
     "verse_number": 70,
     "english_text": "Then every soul will be recompensed fully for their deeds, and He is completely aware of everyone's deeds.",
-    "arabic_text": "وَوُفِّيَتْ كُلُّ نَفْسٍۢ مَّا عَمِلَتْ وَهُوَ اَعْلَمُ بِمَا يَفْعَلُونَ",
+    "arabic_text": "وَوُفِّيَتْ كُلُّ نَفْسٍۢ مَّا عَمِلَتْ وَ هُوَ اَعْلَمُ بِمَا يَفْعَلُونَ",
     "urdu_text": "اور ہر شخص کو اس کے اعمال کا پورا بدلہ دیا جائے گا، اور وہ سب کے اعمال سے پوری طرح باخبر ہے۔",
     "persian_text": "و به هر کسی پاداش کامل اعمالش داده می‌شود و او به آنچه انجام می‌دهند کاملاً آگاه است.",
     "transliteration": "Wa wuffiyat kullu nafsin maa 'amilat wa huwa a'lamu bimaa yaf'aloon"
@@ -569,7 +569,7 @@ ayats = [
   {
     "verse_number": 71,
     "english_text": "Those who had adopted infidelity will be driven away in groups towards Hell until they reach in front of it, then its doors will be opened, its custodian will say did not any prophet came to you who would recite the divine verses to you and warn you from the meeting of today, so all of them will say Verily prophets have come, but sentence of punishment has been proven for the infidels.",
-    "arabic_text": "وَسِيقَ الَّذِينَ كَفَرُوٓاْ اِلـٰى جَهَنَّمَ زُمَرًا ۖ حَتَّىٰٓ اِذَا جَآءُوهَا فُتِحَتْ اَبْوَٰبُهَا وَقَالَ لَهُمْ خَزَنَتُهَآ اَلَمْ يَاْتِكُمْ رُسُلٌۭ مِّنكُمْ يَتْلُونَ عَلَيْكُمْ اٰيٰتِ رَبِّكُمْ وَيُنذِرُونَكُمْ لِقَآءَ يَوْمِكُمْ هَـٰذَا ۚ قَالُوْاْ بَلَىٰ وَلَـٰكِنْ حَقَّتْ كَلِمَةُ الْعَذَابِ عَلَى الْكَـٰفِرِينَ",
+    "arabic_text": "وَسِيقَ الَّذِينَ كَفَرُوٓاْ اِلـٰى جَهَنَّمَ زُمَرًا ۖ حَتَّىٰٓ اِذَا جَآءُوهَا فُتِحَتْ اَبْوَٰبُهَا وَ قَالَ لَهُمْ خَزَنَتُهَآ اَلَمْ يَاْتِكُمْ رُسُلٌۭ مِّنكُمْ يَتْلُونَ عَلَيْكُمْ اٰيٰتِ رَبِّكُمْ وَيُنذِرُونَكُمْ لِقَآءَ يَوْمِكُمْ هَـٰذَا ۚ قَالُوْاْ بَلَىٰ وَلَـٰكِنْ حَقَّتْ كَلِمَةُ الْعَذَابِ عَلَى الْكَـٰفِرِينَ",
     "urdu_text": "اور جن لوگوں نے کفر اختیار کیا تھا انہیں گروہ در گروہ جہنم کی طرف ہانکا جائے گا، یہاں تک کہ جب وہ اس کے پاس پہنچیں گے تو اس کے دروازے کھول دیے جائیں گے، اور اس کے نگہبان ان سے کہیں گے: کیا تمہارے پاس تم میں سے رسول نہیں آئے تھے جو تم پر تمہارے رب کی آیات پڑھتے تھے اور تمہیں آج کے دن کی ملاقات سے ڈراتے تھے؟ وہ کہیں گے: ہاں ضرور آئے تھے، لیکن کافروں پر عذاب کا فیصلہ ثابت ہو چکا تھا۔",
     "persian_text": "و کسانی که کفر ورزیدند، گروه گروه به سوی جهنم رانده می‌شوند، تا هنگامی که به آن رسیدند، درهای آن گشوده شد و نگهبانان آن به ایشان گفتند: آیا پیامبرانی از خودتان نزد شما نیامدند که آیات پروردگارتان را بر شما می‌خواندند و شما را از ملاقات این روزتان بیم می‌دادند؟ گفتند: آری، ولی فرمان عذاب بر کافران محقق شد.",
     "transliteration": "Wa seeqal-lazeena kafaroo ilaa jahannama zumaran hattaa izaa jaaa'oohaa futihat abwaabuhaa wa qaala lahum khazanatuhaaa alam ya'tikum rusulum minkum yatloona 'alaykum aayaati rabbikum wa yunziroonakum liqaaa'a yawmikum haazaa qaaloo balaa wa laakin haqqat kalimatul-'azaabi 'alal-kaafireen"
@@ -585,7 +585,7 @@ ayats = [
   {
     "verse_number": 73,
     "english_text": "And those who adopted piousness of Allah, they will be taken towards Paradise in groups, when they will reach near it, its doors will be opened, its custodians will say: Salutations, you are pure, so enter the everlasting Paradise.",
-    "arabic_text": "وَسِيقَ الَّذِينَ اتَّقَوْاْ رَبَّهُمْ اِلَى الْجَنَّةِ زُمَرًا ۖ حَتَّىٰٓ اِذَا جَآءُوهَا وَفُتِحَتْ اَبْوَٰبُهَا وَقَالَ لَهُمْ خَزَنَتُهَا سَلَـٰمٌ عَلَيْكُمْ طِبْتُمْ فَادْخُلُوهَا خَـٰلِدِينَ",
+    "arabic_text": "وَسِيقَ الَّذِينَ اتَّقَوْاْ رَبَّهُمْ اِلَى الْجَنَّةِ زُمَرًا ۖ حَتَّىٰٓ اِذَا جَآءُوهَا وَفُتِحَتْ اَبْوَٰبُهَا وَ قَالَ لَهُمْ خَزَنَتُهَا سَلَـٰمٌ عَلَيْكُمْ طِبْتُمْ فَادْخُلُوهَا خَـٰلِدِينَ",
     "urdu_text": "اور جن لوگوں نے اپنے رب سے تقویٰ اختیار کیا انہیں گروہ در گروہ جنت کی طرف لے جایا جائے گا، یہاں تک کہ جب وہ اس کے پاس پہنچیں گے تو اس کے دروازے کھول دیے جائیں گے، اور اس کے نگہبان ان سے کہیں گے: تم پر سلامتی ہو، تم پاکیزہ ہو، پس اس میں ہمیشہ رہنے کے لیے داخل ہو جاؤ۔",
     "persian_text": "و کسانی که از پروردگارشان پرهیزگاری کردند، گروه گروه به سوی بهشت رانده می‌شوند، تا هنگامی که به آن رسیدند و درهای آن گشوده شد، و نگهبانان آن به ایشان گفتند: سلام بر شما، پاکیزه شدید، پس جاودانه در آن داخل شوید.",
     "transliteration": "Wa seeqal-lazeenattaqaw rabbahum ilal-jannati zumaran hattaa izaa jaaa'oohaa wa futihat abwaabuhaa wa qaala lahum khazanatuhaa salaamun 'alaykum tibtum fadkhuloohaa khaalideen"

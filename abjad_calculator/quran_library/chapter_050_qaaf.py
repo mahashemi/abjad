@@ -185,7 +185,7 @@ ayats = [
   {
     "verse_number": 23,
     "english_text": "And his companion angel will say: his deed is ready with me.",
-    "arabic_text": "وَقَالَ قَرِينُهُ هَـٰذَا مَا لَدَىَّ عَتِيدٌ",
+    "arabic_text": "وَ قَالَ قَرِينُهُ هَـٰذَا مَا لَدَىَّ عَتِيدٌ",
     "urdu_text": "اور اس کا ساتھی فرشته کهے گا: یه جو میرے پاس هے تیار هے۔",
     "persian_text": "و فرشته همراه او خواهد گفت: این که نزد من است آماده است.",
     "transliteration": "Wa qaala qareenuhoo haazaa maa ladayya 'ateed"
@@ -297,7 +297,7 @@ ayats = [
   {
     "verse_number": 37,
     "english_text": "There is admonition in this event for the man who has heart or who listens attentively.",
-    "arabic_text": "اِنَّ فِى ذٰلِكَ لَذِكْرَىٰ لِمَن كَانَ لَهُ قَلْبٌ اَوْ اَلْقَى السَّمْعَ وَهُوَ شَهِيدٌۭ",
+    "arabic_text": "اِنَّ فِى ذٰلِكَ لَذِكْرَىٰ لِمَن كَانَ لَهُ قَلْبٌ اَوْ اَلْقَى السَّمْعَ وَ هُوَ شَهِيدٌۭ",
     "urdu_text": "بیشک اس واقعے میں اس شخص کے لیے نصیحت هے جس کے پاس دل هو یا جو توجه سے سنتا هو اور حاضر دماغ هو۔",
     "persian_text": "در این قطعاً پندی است برای کسی که دل داشته باشد یا با حضور قلب گوش فرا دهد.",
     "transliteration": "Inna fee zaalika lazikraa liman kaana lahoo qalbun aw alqas-sam'a wa huwa shaheed"

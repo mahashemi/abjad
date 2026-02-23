@@ -25,7 +25,7 @@ ayats = [
   {
     "verse_number": 3,
     "english_text": "And from among them towards those people also, who have not joined them yet, and He is Honorable and has Wisdom.",
-    "arabic_text": "وَءَاخَرِينَ مِنْهُمْ لَمَّا يَلْحَقُواْ بِهِمْ ۚ وَهُوَ الْعَزِيزُ الْحَكِيمُ",
+    "arabic_text": "وَءَاخَرِينَ مِنْهُمْ لَمَّا يَلْحَقُواْ بِهِمْ ۚ وَ هُوَ الْعَزِيزُ الْحَكِيمُ",
     "urdu_text": "اور دوسرے لوگوں کی طرف بھی جو ابھی ان سے نہیں ملے، اور وہ غالب اور حکمت والا ہے۔",
     "persian_text": "و نیز برای دیگرانی از آنان که هنوز به ایشان نپیوسته‌اند، و او عزیز و حکیم است.",
     "transliteration": "Wa akharina minhum lamma yalhaqo bihim, wa huwal-'azizul-hakim"

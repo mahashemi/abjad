@@ -33,7 +33,7 @@ ayats = [
   {
     "verse_number": 4,
     "english_text": "Whatever is on earth and in the sky is His property; and that He is most Great and Most High.",
-    "arabic_text": "لَهُ مَا فِى السَّمَـٰوَٰتِ وَ مَا فِى الْاَرْضِ ۖ وَهُوَ الْعَلِىُّ الْعَظِيمُ",
+    "arabic_text": "لَهُ مَا فِى السَّمَـٰوَٰتِ وَ مَا فِى الْاَرْضِ ۖ وَ هُوَ الْعَلِىُّ الْعَظِيمُ",
     "urdu_text": "اسی کی ملکیت هے جو کچھ آسمانوں میں هے اور جو کچھ زمین میں هے، اور وهی بلند اور عظمت والا هے",
     "persian_text": "آنچه در آسمان‌ها و آنچه در زمین است از آن اوست، و او بلندمرتبه و بزرگ است",
     "transliteration": "Lahu ma fis samaawaati wa ma fil ard, wa Huwal Aliyyul Azeem"
@@ -73,7 +73,7 @@ ayats = [
   {
     "verse_number": 9,
     "english_text": "Have these people made guardians besides Him, whereas He is the guardian of everyone, and He gives life to the dead ones, and He has Power over everything.",
-    "arabic_text": "اَمِ اتَّخَذُواْ مِن دُونِهِٓ اَوْلِيَآءَ ۖ فَاللّٰهُ هُوَ الْوَلِىُّ وَهُوَ يُحْىِ الْمَوْتَىٰ وَهُوَ عَلَىٰ كُلِّ شَىْءٍۢ قَدِيرٌۭ",
+    "arabic_text": "اَمِ اتَّخَذُواْ مِن دُونِهِٓ اَوْلِيَآءَ ۖ فَاللّٰهُ هُوَ الْوَلِىُّ وَ هُوَ يُحْىِ الْمَوْتَىٰ وَ هُوَ عَلَىٰ كُلِّ شَىْءٍۢ قَدِيرٌۭ",
     "urdu_text": "کیا ان لوگوں نے اس کے سوا دوسروں کو کارساز بنایا هے؟ حالانکه الله هی سب کا کارساز هے، اور وهی مردوں کو زنده کرتا هے، اور وه هر چیز پر قادر هے",
     "persian_text": "آیا آنان غیر از او سرپرستانی برگزیدند؟ پس الله همان سرپرست است و او مردگان را زنده می‌کند و او بر هر چیزی تواناست",
     "transliteration": "Amittakhazo min doonihi awliyaaa', fallaahu Huwal Waliyyu wa Huwa yuhyil mawtaa wa Huwa alaa kulli shay'in Qadeer"
@@ -89,7 +89,7 @@ ayats = [
   {
     "verse_number": 11,
     "english_text": "He is the Creator of the skies and the earth, He created the pairs from your souls and also made pairs among the animals, He is spreading you in the world with the pairs, nobody is like Him, He hears to all and sees everything.",
-    "arabic_text": "فَاطِرُ السَّمَـٰوَٰتِ وَ الْاَرْضِ ۚ جَعَلَ لَكُم مِّنْ اَنفُسِكُمْ اَزْوَٰجًۭا وَمِنَ الْاَنْعَـٰمِ اَزْوَٰجًۭا ۖ يَذْرَؤُكُمْ فِيهِ ۚ لَيْسَ كَمِثْلِهِ شَىْءٌۭ ۖ وَهُوَ السَّمِيعُ الْبَصِيرُ",
+    "arabic_text": "فَاطِرُ السَّمَـٰوَٰتِ وَ الْاَرْضِ ۚ جَعَلَ لَكُم مِّنْ اَنفُسِكُمْ اَزْوَٰجًۭا وَمِنَ الْاَنْعَـٰمِ اَزْوَٰجًۭا ۖ يَذْرَؤُكُمْ فِيهِ ۚ لَيْسَ كَمِثْلِهِ شَىْءٌۭ ۖ وَ هُوَ السَّمِيعُ الْبَصِيرُ",
     "urdu_text": "وه آسمانوں اور زمین کا پیدا کرنے والا هے، اُس نے تمهارے لیے تمهاری جنس سے جوڑے بنائے اور جانوروں میں بھی جوڑے بنائے، وه اِس طریقے سے تمهیں پھیلاتا هے، اُس کی مثل کوئی چیز نهیں، اور وه سننے والا دیکھنے والا هے۔",
     "persian_text": "او آفریننده آسمان‌ها و زمین است، برای شما از جنس خودتان جفت‌هایی قرار داد و از چارپایان نیز جفت‌هایی، به این وسیله شما را افزایش می‌دهد، هیچ چیز همانند او نیست، و او شنوای بیناست.",
     "transliteration": "Fatirus-samawati wal-ard, ja'ala lakum min anfusikum azwajan wa minal-an'ami azwaja, yadhraukum fihi, laysa kamithlihi shay'un, wa huwas-sami'ul-basir"
@@ -153,7 +153,7 @@ ayats = [
   {
     "verse_number": 19,
     "english_text": "Allah is Merciful on His servants, He gives sustenance to whoever He pleases, and He is Powerful and the Honorable.",
-    "arabic_text": "اللّٰهُ لَطِيفٌۢ بِعِبَادِهِ يَرْزُقُ مَن يَشَآءُ ۖ وَهُوَ الْقَوِىُّ الْعَزِيزُ",
+    "arabic_text": "اللّٰهُ لَطِيفٌۢ بِعِبَادِهِ يَرْزُقُ مَن يَشَآءُ ۖ وَ هُوَ الْقَوِىُّ الْعَزِيزُ",
     "urdu_text": "الله اپنے بندوں پر مهربان هے، وه جسے چاهتا هے رزق دیتا هے، اور وه قوت والا اور غالب هے۔",
     "persian_text": "خداوند به بندگانش مهربان است، به هر که بخواهد روزی می‌دهد، و او قوی و عزیز است.",
     "transliteration": "Allahu latifun bi'ibadihi yarzuqu man yasha'u wa huwal-qawiyyul-'aziz"
@@ -177,7 +177,7 @@ ayats = [
   {
     "verse_number": 22,
     "english_text": "You will see, that the unjust are fearful for punishment of their deeds that will Verily come upon them, and those who have believed, and have done good deeds, they will live in the gardens of Paradise; and for them there is everything in the presence of Allah for which they will desire, and this is a great Mercy of the Lord.",
-    "arabic_text": "تَرَى الظَّـٰلِمِينَ مُشْفِقِينَ مِمَّا كَسَبُواْ وَهُوَ وَاقِعٌۢ بِهِمْ ۗ وَ الَّذِينَ ءَامَنُواْ وَعَمِلُواْ الصَّـٰلِحَـٰتِ فِى رَوْضَاتِ الْجَنَّاتِ ۖ لَهُم مَّا يَشَآءُونَ عِندَ رَبِّهِمْ ۚ ذٰلِكَ هُوَ الْفَضْلُ الْكَبِيرُ",
+    "arabic_text": "تَرَى الظَّـٰلِمِينَ مُشْفِقِينَ مِمَّا كَسَبُواْ وَ هُوَ وَاقِعٌۢ بِهِمْ ۗ وَ الَّذِينَ ءَامَنُواْ وَعَمِلُواْ الصَّـٰلِحَـٰتِ فِى رَوْضَاتِ الْجَنَّاتِ ۖ لَهُم مَّا يَشَآءُونَ عِندَ رَبِّهِمْ ۚ ذٰلِكَ هُوَ الْفَضْلُ الْكَبِيرُ",
     "urdu_text": "تم دیکھو گے که ظالم اپنے اعمال کے عذاب سے ڈرے هوئے هیں جو یقیناً ان پر آنے والا هے، اور جو لوگ ایمان لائے اور نیک اعمال کیے، وه جنت کے باغات میں هوں گے، ان کے لیے اپنے رب کے پاس وه سب کچھ هے جو وه چاهیں گے، اور یه بهت بڑا فضل هے۔",
     "persian_text": "خواهی دید که ستمکاران از کیفر اعمالشان می‌ترسند و آن بر آنان واقع خواهد شد، و کسانی که ایمان آورده و کارهای شایسته انجام داده‌اند، در باغ‌های بهشت خواهند بود، برای آنان نزد پروردگارشان هر چه بخواهند هست، و این همان فضل بزرگ است.",
     "transliteration": "Taraz-zaalimeena mushfiqeena mimmaa kasaboo wa huwa waaqi'um bihim, walladheena aamanoo wa 'amilus-saalihaati fee rawdaatil-jannaat, lahum maa yashaa'oona 'inda rabbihim, dhaalika huwal-fadlul-kabeer"
@@ -225,7 +225,7 @@ ayats = [
   {
     "verse_number": 28,
     "english_text": "That is He who sends down the rain after they are disappointed, and spreads His Mercy, and He is worthy of praise - Master and Guardian.",
-    "arabic_text": "وَهُوَ الَّذِى يُنَزِّلُ الْغَيْثَ مِنۢ بَعْدِ مَا قَنَطُواْ وَيَنشُرُ رَحْمَتَهُ ۚ وَهُوَ الْوَلِىُّ الْحَمِيدُ",
+    "arabic_text": "وَهُوَ الَّذِى يُنَزِّلُ الْغَيْثَ مِنۢ بَعْدِ مَا قَنَطُواْ وَيَنشُرُ رَحْمَتَهُ ۚ وَ هُوَ الْوَلِىُّ الْحَمِيدُ",
     "urdu_text": "اور وهی هے جو مایوسی کے بعد بارش نازل کرتا هے اور اپنی رحمت پھیلاتا هے، اور وهی کارساز اور قابل تعریف هے۔",
     "persian_text": "و او کسی است که پس از نومیدی باران نازل می‌کند و رحمت خود را می‌گستراند، و او سرپرست و ستوده است.",
     "transliteration": "Wa huwal-ladhee yunazzilul-ghaytha mim ba'di maa qanatoo wa yanshuru rahmatah, wa huwal-waliyyul-hameed"
@@ -233,7 +233,7 @@ ayats = [
   {
     "verse_number": 29,
     "english_text": "And among His signs are creation of earth and the sky and all the living beings walking on it, and whenever He pleases, He has the power to collect them all.",
-    "arabic_text": "وَ مِنْ اٰيٰتِهِ خَلْقُ السَّمَـٰوَٰتِ وَ الْاَرْضِ وَ مَا بَثَّ فِيهِمَا مِن دَآبَّةٍۢ ۚ وَهُوَ عَلَىٰ جَمْعِهِمْ اِذَا يَشَآءُ قَدِيرٌۭ",
+    "arabic_text": "وَ مِنْ اٰيٰتِهِ خَلْقُ السَّمَـٰوَٰتِ وَ الْاَرْضِ وَ مَا بَثَّ فِيهِمَا مِن دَآبَّةٍۢ ۚ وَ هُوَ عَلَىٰ جَمْعِهِمْ اِذَا يَشَآءُ قَدِيرٌۭ",
     "urdu_text": "اور اس کی نشانیوں میں سے آسمانوں اور زمین کی تخلیق هے اور ان میں پھیلائے هوئے تمام جاندار، اور جب وه چاهے ان سب کو جمع کرنے پر قادر هے۔",
     "persian_text": "و از نشانه‌های او آفرینش آسمان‌ها و زمین و آنچه در آنها از جنبندگان پراکنده است، و او بر جمع کردن آنها هر زمان که بخواهد تواناست.",
     "transliteration": "Wa min aayaatihi khalqus-samaawaati wal-ardi wa maa baththa feehimaa min daaabbah, wa huwa 'alaa jam'ihim idhaa yashaa'u qadeer"
@@ -361,7 +361,7 @@ ayats = [
   {
     "verse_number": 45,
     "english_text": "You will see that when they will be brought before the Hell their heads will be bowed down in disgrace, and they will be seeing with their eyes, and the believers will say: Verily the losers are they who have lost themselves and their followers on the Day of Judgement. Now Verily the unjust shall remain in lasting punishment.",
-    "arabic_text": "وَتَرَىٰهُمْ يُعْرَضُونَ عَلَيْهَا خَـٰشِعِينَ مِنَ الذُّلِّ يَنظُرُونَ مِن طَرْفٍ خَفِىٍّۢ ۗ وَقَالَ الَّذِينَ ءَامَنُوٓاْ اِنَّ الْخَـٰسِرِينَ الَّذِينَ خَسِرُوٓاْ اَنفُسَهُمْ وَاَهْلِيهِمْ يَوْمَ الْقِيَـٰمَةِ ۗ اَلَآ اِنَّ الظَّـٰلِمِينَ فِى عَذَابٍۢ مُّقِيمٍۢ",
+    "arabic_text": "وَتَرَىٰهُمْ يُعْرَضُونَ عَلَيْهَا خَـٰشِعِينَ مِنَ الذُّلِّ يَنظُرُونَ مِن طَرْفٍ خَفِىٍّۢ ۗ وَ قَالَ الَّذِينَ ءَامَنُوٓاْ اِنَّ الْخَـٰسِرِينَ الَّذِينَ خَسِرُوٓاْ اَنفُسَهُمْ وَاَهْلِيهِمْ يَوْمَ الْقِيَـٰمَةِ ۗ اَلَآ اِنَّ الظَّـٰلِمِينَ فِى عَذَابٍۢ مُّقِيمٍۢ",
     "urdu_text": "اور تم انهیں دیکھو گے که جب وه جهنم کے سامنے پیش کیے جائیں گے تو ذلت سے جھکے هوئے، چپکے سے دیکھتے هوں گے، اور ایمان والے کهیں گے: بے شک خساره اٹھانے والے وه هیں جنهوں نے قیامت کے دن اپنے آپ کو اور اپنے گھر والوں کو خسارے میں ڈالا، خبردار! بے شک ظالم همیشه رهنے والے عذاب میں هیں۔",
     "persian_text": "و آنان را خواهی دید که بر آن عرضه می‌شوند، در حالی که از ذلت خاشع‌اند و با نگاهی پنهانی می‌نگرند، و کسانی که ایمان آورده‌اند گفتند: همانا زیانکاران کسانی هستند که خود و خانواده‌شان را در روز قیامت زیان کردند، آگاه باشید که ستمکاران در عذابی پایدار خواهند بود.",
     "transliteration": "Wa taraahum yu'radoona 'alayhaa khaashi'eena minaz-zulli yanzuroona min tarfin khafiyy, wa qaalal-lazeena aamanoo innal-khaasireena-llazeena khasiroo anfusahum wa ahleehim yawmal-qiyaamah, alaa innaz-zaalimeena fee 'azaabim-muqeem"
