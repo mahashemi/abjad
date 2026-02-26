@@ -394,7 +394,7 @@ ayats = [
   {
     "verse_number": 50,
     "english_text": "On hearing this interpretation, the king ordered to present Yusuf to him; when the messenger came to Yusuf (again), Yusuf said: you go to your master and ask him whether he knew something about the ladies who had cut their hands. (did I desired for them or they desired for me), no doubt that my Lord was well aware of their guile.",
-    "arabic_text": "وَ قَالَ الْمَلِكُ ائْتُونِى بِهِ ۖ فَلَمَّا جَآءَهُ الرَّسُولُ قَالَ ارْجِعْ اِلـٰى رَبِّكَ فَسْئلْهُ مَا بَالُ النِّسْوَةِ الَّاتِى قَطَّعْنَ اَيْدِيَهُنَّ ۚ اِنَّ رَبِّى بِكَيْدِهِنَّ عَلِيمٌ",
+    "arabic_text": "وَ قَالَ الْمَلِكُ ائْتُونِى بِهِ ۖ فَلَمَّا جَآءَهُ الرَّسُولُ قَالَ ارْجِعْ اِلـٰى رَبِّكَ فَسْئلْهُ مَا بَالُ النِّسْوَةِ الّـٰتِى قَطَّعْنَ اَيْدِيَهُنَّ ۚ اِنَّ رَبِّى بِكَيْدِهِنَّ عَلِيمٌ",
     "urdu_text": "اور بادشاہ نے کہا: اسے میرے پاس لاؤ۔ پھر جب قاصد اس کے پاس آیا تو یوسف نے کہا: اپنے آقا کے پاس واپس جاؤ اور اس سے پوچھو کہ ان عورتوں کا کیا معاملہ تھا جنہوں نے اپنے ہاتھ کاٹ لیے تھے۔ بے شک میرا رب ان کی چال سے خوب واقف ہے۔",
     "persian_text": "و پادشاه گفت: او را نزد من بیاورید. پس چون فرستاده نزد او آمد، یوسف گفت: نزد آقایت بازگرد و از او بپرس که ماجرای آن زنانی که دستهای خود را بریدند چه بود؟ همانا پروردگار من به مکر آنان داناست.",
     "transliteration": "Wa qaalal-maliku'toonee bihi falammaa jaaa'ahur-rasoolu qaalar-ji' ilaa rabbika fas'alhu maa baalun-niswatil-laatee qatta'na aydiyahunna inna rabbee bikaydi hinna 'aleem",
