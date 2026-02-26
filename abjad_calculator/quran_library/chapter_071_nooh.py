@@ -225,7 +225,7 @@ ayats = [
   {
     "verse_number": 28,
     "english_text": "O Lord, forgive me and my parents and those who enter my house with belief and all the believing men and women; and do not increase into anything for wrongdoers but in destruction.",
-    "arabic_text": "رَّبِّ اغْفِرْ لِى وَلِوَٰلِدَىَّ وَلِمَن دَخَلَ بَيْتِىَ مُؤْمِنًۭا وَلِلْمُؤْمِنِينَ وَالْمُؤْمِنَـٰتِ وَ لَا تَزِدِ الظَّـٰلِمِينَ اِلَّا تَبَارًۢا",
+    "arabic_text": "رَّبِّ اغْفِرْ لِى وَلِوَٰلِدَىَّ وَ لِمَن دَخَلَ بَيْتِىَ مُؤْمِنًۭا وَلِلْمُؤْمِنِينَ وَالْمُؤْمِنَـٰتِ وَ لَا تَزِدِ الظَّـٰلِمِينَ اِلَّا تَبَارًۢا",
     "urdu_text": "اے میرے رب! مجھے اور میرے والدین کو اور جو بھی ایمان کے ساتھ میرے گھر میں داخل ہو اور تمام مومن مردوں اور مومن عورتوں کو بخش دے، اور ظالموں کو ہلاکت کے سوا کچھ نہ بڑھا۔",
     "persian_text": "پروردگارا! مرا و پدر و مادرم و هر که با ایمان به خانه‌ام درآید و مؤمنان و مؤمنات را بیامرز، و ستمکاران را جز در نابودی مفزای.",
     "transliteration": "Rabbigh-fir lee wa liwaalidayya wa liman dakhala baytiya mu'minanw-wa lilmu'mineena walmu'minaati wa laa tazidiz-zaalimeena illaa tabaaraa"

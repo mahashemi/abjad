@@ -745,7 +745,7 @@ ayats = [
   {
     "verse_number": 93,
     "english_text": "Or you should have a house of gold or you ascend to the sky and we will not be convinced of your ascension unless you send to us a book (from there) and we read it; (O Prophet) say: Praises to my Lord, what I am except a human and a prophet (of Allah)?",
-    "arabic_text": "اَوْ يَكُونَ لَكَ بَيْتٌۭ مِّن زُخْرُفٍ اَوْ تَرْقَىٰ فِى السَّمَآءِ وَلَن نُّؤْمِنَ لِرُقِيِّكَ حَتَّىٰ تُنَزِّلَ عَلَيْنَا كِتٰبًا نَّقْرَؤُهُ ۗ قُلْ سُبْحَانَ رَبِّى هَلْ كُنتُ اِلَّا بَشَرًا رَّسُولًا",
+    "arabic_text": "اَوْ يَكُونَ لَكَ بَيْتٌۭ مِّن زُخْرُفٍ اَوْ تَرْقَىٰ فِى السَّمَآءِ وَلَن نُّؤْمِنَ لِرُقِيِّكَ حَتَّىٰ تُنَزِّلَ عَلَيْنَا كِتٰبًا نَّقْرَؤُهُ ۗ قُلْ سُبْحٰنَ رَبِّى هَلْ كُنتُ اِلَّا بَشَرًا رَّسُولًا",
     "urdu_text": "یا تمہارا سونے کا گھر ہو، یا تم آسمان پر چڑھ جاؤ، اور ہم تمہارے چڑھنے کو نہیں مانیں گے جب تک تم ہم پر ایک کتاب نہ اتارو جسے ہم پڑھیں۔ کہہ دو: پاک ہے میرا رب، میں تو صرف ایک انسان اور رسول ہوں۔",
     "persian_text": "یا خانه‌ای از طلا داشته باشی، یا به آسمان بالا روی، و ما هرگز به بالا رفتنت ایمان نخواهیم آورد مگر اینکه کتابی بر ما نازل کنی که آن را بخوانیم. بگو: منزه است پروردگار من، آیا من جز بشری فرستاده هستم؟",
     "transliteration": "Aw yakoona laka baytum min zukhrufin aw tarqaa fis samaaa'i wa lan nu'mina liruqiyyika hattaa tunazzila 'alaynaa kitaaban naqra'uh, qul subhaana rabbee hal kuntu illaa basharan rasoolaa"
