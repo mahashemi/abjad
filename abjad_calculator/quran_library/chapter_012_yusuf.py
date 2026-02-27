@@ -650,7 +650,7 @@ ayats = [
   {
     "verse_number": 82,
     "english_text": "You may ask the people of the land in which we were, and also from the people of caravan with which we travelled that we Verily are truthful.",
-    "arabic_text": "وَ اسْئَلِ الْقَرْيَةَ الَّتِى كُنَّا فِيهَا وَ الْعِيرَ الَّتِى اَقْبَلْنَا فِيهَا وَ اِنَّا لَصٰدِقُونَ",
+    "arabic_text": "وَ سْئَلِ الْقَرْيَةَ الَّتِى كُنَّا فِيهَا وَ الْعِيرَ الَّتِى اَقْبَلْنَا فِيهَا وَ اِنَّا لَصٰدِقُونَ",
     "urdu_text": "اور آپ اس بستی والوں سے پوچھ لیں جہاں ہم تھے اور اس قافلے والوں سے جس کے ساتھ ہم آئے ہیں اور بیشک ہم سچے ہیں",
     "persian_text": "و از اهل شهری که در آن بودیم و از کاروانی که با آن آمدیم بپرس و یقیناً ما راستگو هستیم",
     "transliteration": "Was'alil-qaryatal-latee kunnaa feehaa wal-'eeral-latee aqbalnaa feehaa wa innaa la-saadiqoon",
