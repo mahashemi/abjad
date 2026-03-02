@@ -370,7 +370,7 @@ ayats = [
   {
     "verse_number": 47,
     "english_text": "They said: when we die and become dust and bones, shall then we be raised up again.",
-    "arabic_text": "وَكَانُواْ يَقُولُونَ اَئِذَا مِتْنَا وَكُنَّا تُرَٰبٗا وَعِظَٰمًا اَءِنَّا لَمَبْعُوثُونَ",
+    "arabic_text": "وَكَانُواْ يَقُولُونَ اَئِذَا مِتْنَا وَكُنَّا تُرٰبٗا وَعِظَٰمًا ءَاِنَّا لَمَبْعُوثُونَ",
     "urdu_text": "اور وہ کہتے تھے کیا جب ہم مر جائیں گے اور مٹی اور ہڈیاں ہو جائیں گے تو کیا ہم دوبارہ اٹھائے جائیں گے",
     "persian_text": "و می‌گفتند آیا هنگامی که بمیریم و خاک و استخوان شویم، آیا ما دوباره برانگیخته خواهیم شد",
     "transliteration": "Wa kaanoo yaqooloona a-iza mitnaa wa kunnaa turaaban wa 'izaaman a-innaa lamab'oothoon",
@@ -594,7 +594,7 @@ ayats = [
   {
     "verse_number": 75,
     "english_text": "And I swear by the phases of the stars.",
-    "arabic_text": "فَلَآ اُقْسِمُ بِمَوَٰقِعِ النُّجُومِ",
+    "arabic_text": "فَلَآ اُقْسِمُ بِمَوٰقِعِ النُّجُومِ",
     "urdu_text": "پس میں ستاروں کے مقامات کی قسم کھاتا ہوں",
     "persian_text": "پس سوگند می‌خورم به جایگاه‌های ستارگان",
     "transliteration": "Falaaa uqsimu bimawaqi'in-nujoom",

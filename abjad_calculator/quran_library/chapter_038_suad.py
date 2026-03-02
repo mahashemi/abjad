@@ -41,7 +41,7 @@ ayats = [
   {
     "verse_number": 5,
     "english_text": "Has he merged many gods and made one god, this is very surprising.",
-    "arabic_text": "اَجَعَلَ الْالِهَةَ اِلَـٰهًۭا وَٰحِدًا ۖ اِنَّ هَـٰذَا لَشَىْءٌ عُجَابٌۭ",
+    "arabic_text": "اَجَعَلَ الْالِهَةَ اِلَـٰهًۭا وَاحِدًا ۖ اِنَّ هَـٰذَا لَشَىْءٌ عُجَابٌۭ",
     "urdu_text": "کیا اس نے تمام معبودوں کو ایک معبود بنا دیا؟ یہ تو بڑی عجیب بات ہے۔",
     "persian_text": "آیا همه خدایان را یک خدا قرار داده است؟ این چیزی بسیار شگفت‌انگیز است.",
     "transliteration": "Aja'alal-aalihata ilaahan waahidan inna haadha la-shay'un 'ujaab"
@@ -81,7 +81,7 @@ ayats = [
   {
     "verse_number": 10,
     "english_text": "Or they have an option between sky and the earth that they climb the sky with a ladder.",
-    "arabic_text": "اَمْ لَهُم مُّلْكُ السَّمَـٰوَٰتِ وَ الْاَرْضِ وَ مَا بَيْنَهُمَا ۖ فَلْيَرْتَقُواْ فِى الْاَسْبَـٰبِ",
+    "arabic_text": "اَمْ لَهُم مُّلْكُ السَّمَـٰوٰتِ وَ الْاَرْضِ وَ مَا بَيْنَهُمَا ۖ فَلْيَرْتَقُواْ فِى الْاَسْبَـٰبِ",
     "urdu_text": "یا ان کے پاس آسمانوں اور زمین اور جو کچھ ان کے درمیان ہے اس کی بادشاہی ہے؟ تو چاہیے کہ وہ آسمان پر سیڑھیوں سے چڑھ جائیں۔",
     "persian_text": "یا آنان مالک آسمان‌ها و زمین و آنچه میان آنهاست هستند؟ پس باید از راه‌ها و وسایل بالا روند.",
     "transliteration": "Am lahum mulkus-samaawaati wal-ardi wa maa baynahumaa falyartaqoo fil-asbaab"
@@ -105,7 +105,7 @@ ayats = [
   {
     "verse_number": 13,
     "english_text": "And Samood, people of Lut and people of forest, they have all passed by.",
-    "arabic_text": "وَثَمُودُ وَقَوْمُ لُوطٍۢ وَاَصْحَـٰبُ لْـَٔيْكَةِ ۚ اُو۟لَـٰٓئِكَ الْاَحْزَابُ",
+    "arabic_text": "وَثَمُودُ وَقَوْمُ لُوطٍۢ وَاَصْحَـٰبُ لْـَٔيْكَةِ ۚ اُوْلٓـٰئِكَ الْاَحْزَابُ",
     "urdu_text": "اور ثمود، قوم لوط اور جنگل والے، یہ سب گروہ تھے۔",
     "persian_text": "و ثمود و قوم لوط و اصحاب ایکه، اینان همان احزاب بودند.",
     "transliteration": "Wa Samoodu wa qawmu Lootinw-wa As-haabul-Aykah; ulaa'ikal-ahzaab"
@@ -121,7 +121,7 @@ ayats = [
   {
     "verse_number": 15,
     "english_text": "They are just waiting for a mighty blast and they shall not be given even a little respite.",
-    "arabic_text": "وَ مَا يَنظُرُ هَـٰٓؤُلَآءِ اِلَّا صَيْحَةًۭ وَٰحِدَةًۭ مَّا لَهَا مِن فَوَاقٍۢ",
+    "arabic_text": "وَ مَا يَنظُرُ هَـٰٓؤُلَآءِ اِلَّا صَيْحَةًۭ وَاحِدَةًۭ مَّا لَهَا مِن فَوَاقٍۢ",
     "urdu_text": "اور یہ لوگ صرف ایک زور دار چنگھاڑ کے منتظر ہیں جس میں کوئی تاخیر نہیں ہوگی۔",
     "persian_text": "و اینان جز یک صیحه واحد انتظار نمی‌کشند که هیچ مهلتی نخواهد داشت.",
     "transliteration": "Wa maa yanzuru haaa'ulaaa'i illaa sayhatan waahidatan maa lahaa min fawaaq"
@@ -169,7 +169,7 @@ ayats = [
   {
     "verse_number": 21,
     "english_text": "Did you get the news of those who were quarrelling, who entered by jumping the wall of arch.",
-    "arabic_text": "۞ وَهَلْ اَتَىٰكَ نَبَؤُاْ الْخَصْمِ اِذْ تَسَوَّرُواْ الْمِحْرَابَ",
+    "arabic_text": "  وَهَلْ اَتَىٰكَ نَبَؤُاْ الْخَصْمِ اِذْ تَسَوَّرُواْ الْمِحْرَابَ",
     "urdu_text": "اور کیا آپ کو ان جھگڑنے والوں کی خبر پہنچی جب وہ محراب کی دیوار پھاند کر داخل ہوئے۔",
     "persian_text": "آیا خبر کسانی که به نزاع برخاستند به تو رسیده است، آنگاه که از دیوار محراب بالا رفتند؟",
     "transliteration": "Wa hal ataaka naba'ul khasmi idh tasawwarul mihraab"
@@ -177,7 +177,7 @@ ayats = [
   {
     "verse_number": 22,
     "english_text": "When they came in front of Dawood, he felt frightened, they said do not be frightened we are two litigants, one has been unjust towards the other, you decide with truth and do not do injustice, and guide us to the straight path.",
-    "arabic_text": "اِذْ دَخَلُواْ عَلَىٰ دَاوُدَ فَفَزِعَ مِنْهُمْ ۖ قَالُوْاْ لَا تَخَفْ ۖ خَصْمَانِ بَغَىٰ بَعْضُنَا عَلَىٰ بَعْضٍۢ فَاحْكُم بَيْنَنَا بِالْحَقِّ وَ لَا تُشْطِطْ وَاهْدِنَآ اِلـٰى سَوَآءِ الصِّرَٰطِ",
+    "arabic_text": "اِذْ دَخَلُواْ عَلَىٰ دَاوُدَ فَفَزِعَ مِنْهُمْ ۖ قَالُوْاْ لَا تَخَفْ ۖ خَصْمَانِ بَغَىٰ بَعْضُنَا عَلَىٰ بَعْضٍ فَاحْكُم بَيْنَنَا بِالْحَقِّ وَ لَا تُشْطِطْ وَاهْدِنَآ اِلـٰى سَوَآءِ الصِّرٰطِ",
     "urdu_text": "جب وہ داؤد کے پاس آئے تو وہ ان سے گھبرا گئے، انہوں نے کہا ڈرو مت، ہم دو فریق ہیں، ایک نے دوسرے پر زیادتی کی ہے، تو ہمارے درمیان حق کے ساتھ فیصلہ کر اور ظلم نہ کر، اور ہمیں سیدھے راستے کی طرف رہنمائی کر۔",
     "persian_text": "هنگامی که بر داوود وارد شدند، او از آنان ترسید. گفتند: مترس! ما دو طرف دعوا هستیم که یکی از ما بر دیگری ستم کرده است، پس میان ما به حق داوری کن و از راه راست منحرف مشو و ما را به راه راست هدایت فرما.",
     "transliteration": "Idh dakhaloo 'alaa Daawooda fafazi'a minhum qaaloo laa takhaf khasmani baghaa ba'dunaa 'alaa ba'din fahkum baynanaa bilhaqqi wa laa tushtit wahdina ilaa sawaa'is siraati"
@@ -185,7 +185,7 @@ ayats = [
   {
     "verse_number": 23,
     "english_text": "This is my brother; he has ninety-nine ewes and I have only one; he is saying give that also to me, and he is being difficult in it.",
-    "arabic_text": "اِنَّ هَـٰذَآ اَخِى لَهُ تِسْعٌۭ وَتِسْعُونَ نَعْجَةًۭ وَلِىَ نَعْجَةٌۭ وَٰحِدَةٌۭ فَقَالَ اَكْفِلْنِيهَا وَعَزَّنِى فِى الْخِطَابِ",
+    "arabic_text": "اِنَّ هَـٰذَآ اَخِى لَهُ تِسْعٌۭ وَتِسْعُونَ نَعْجَةًۭ وَلِىَ نَعْجَةٌۭ وَاحِدَةٌۭ فَقَالَ اَكْفِلْنِيهَا وَعَزَّنِى فِى الْخِطَابِ",
     "urdu_text": "یہ میرا بھائی ہے، اس کے پاس ننانوے بکریاں ہیں اور میرے پاس صرف ایک ہے، پھر وہ کہتا ہے کہ وہ بھی مجھے دے دے، اور اس نے بات چیت میں مجھ پر دباؤ ڈالا ہے۔",
     "persian_text": "این برادر من است که نود و نه میش دارد و من فقط یک میش دارم، او می‌گوید آن را هم به من بده و در گفتار بر من چیره شده است.",
     "transliteration": "Inna haazaa akhee lahu tis'unw wa tis'oona na'jatanw wa liya na'jatunw waahidatun faqaala akfilneeha wa 'azzanee fil khitaab"
@@ -233,7 +233,7 @@ ayats = [
   {
     "verse_number": 29,
     "english_text": "This is a blessed book which We have revealed towards you, so that people ponder over its verses and knowledgeable persons may take admonition from it.",
-    "arabic_text": "كِتٰبٌ اَنزَلْنَـٰهُ اِلَيْكَ مُبَـٰرَكٌۭ لِّيَدَّبَّرُوٓاْ اٰيٰتِهِ وَلِيَتَذَكَّرَ اُو۟لُواْ الْاَلْبَـٰبِ",
+    "arabic_text": "كِتٰبٌ اَنزَلْنَـٰهُ اِلَيْكَ مُبَـٰرَكٌۭ لِّيَدَّبَّرُوٓاْ اٰيٰتِهِ وَلِيَتَذَكَّرَ اُوْلُواْ الْاَلْبَـٰبِ",
     "urdu_text": "یہ ایک بابرکت کتاب ہے جو ہم نے تمہاری طرف نازل کی ہے تاکہ لوگ اس کی آیات میں غور کریں اور عقلمند لوگ نصیحت حاصل کریں۔",
     "persian_text": "این کتابی است پربرکت که آن را بر تو نازل کردیم تا در آیات آن بیندیشند و خردمندان پند گیرند.",
     "transliteration": "Kitaabun anzalnaahu ilayka mubaarakul liyaddabbarooo aayaatihi wa liyatazakkara ulul albaab"
@@ -345,7 +345,7 @@ ayats = [
   {
     "verse_number": 43,
     "english_text": "Then We bestowed him his family and similarly gave him more, this is Our Mercy for the people who take lesson and admonition.",
-    "arabic_text": "وَوَهَبْنَا لَهُٓ اَهْلَهُ وَمِثْلَهُم مَّعَهُمْ رَحْمَةًۭ مِّنَّا وَذِكْرَىٰ لِاُو۟لِى الْاَلْبَـٰبِ",
+    "arabic_text": "وَوَهَبْنَا لَهُٓ اَهْلَهُ وَمِثْلَهُم مَّعَهُمْ رَحْمَةًۭ مِّنَّا وَذِكْرَىٰ لِاُوْلِى الْاَلْبَـٰبِ",
     "urdu_text": "پھر ہم نے انہیں ان کا گھر والے عطا کیے اور ان کے ساتھ اتنے ہی اور بھی دیے، یہ ہماری طرف سے رحمت ہے اور نصیحت ہے عقل والوں کے لیے۔",
     "persian_text": "و خانواده‌اش را به او بخشیدیم و همانند آنان را نیز با آنها، این رحمتی از جانب ماست و یادآوری برای خردمندان.",
     "transliteration": "Wa wahabnā lahū ahlahū wa mithlahum ma'ahum rahmatan minnā wa dhikrā li-ūlī al-albāb"
@@ -361,7 +361,7 @@ ayats = [
   {
     "verse_number": 45,
     "english_text": "And O Prophet! Mention Our servants Ibrahim, Ishaq and Yaqoob, who were strong and had insight.",
-    "arabic_text": "وَاذْكُرْ عِبَـٰدَنَآ اِبْرَٰهِيمَ وَاِسْحَـٰقَ وَيَعْقُوبَ اُو۟لِى الْاَيْدِى وَالْاَبْصَـٰرِ",
+    "arabic_text": "وَاذْكُرْ عِبَـٰدَنَآ اِبْرٰهِيمَ وَاِسْحَـٰقَ وَيَعْقُوبَ اُوْلِى الْاَيْدِى وَالْاَبْصَـٰرِ",
     "urdu_text": "اور اے نبی! یاد کرو ہمارے بندوں ابراہیم، اسحاق اور یعقوب کو، جو قوت والے اور بصیرت والے تھے۔",
     "persian_text": "و ای پیامبر! یاد کن بندگان ما ابراهیم و اسحاق و یعقوب را که صاحبان قدرت و بینش بودند.",
     "transliteration": "Wadhkur 'ibādanā Ibrāhīma wa Ishāqa wa Ya'qūba ulī al-aydī wa al-absār"
@@ -401,7 +401,7 @@ ayats = [
   {
     "verse_number": 50,
     "english_text": "Paradises of Eternity, doors will be open for them.",
-    "arabic_text": "جَنَّـٰتِ عَدْنٍۢ مُّفَتَّحَةًۭ لَّهُمُ الْاَبْوَٰبُ",
+    "arabic_text": "جَنَّـٰتِ عَدْنٍۢ مُّفَتَّحَةًۭ لَّهُمُ الْاَبْوٰبُ",
     "urdu_text": "ہمیشہ رہنے والے باغات، جن کے دروازے ان کے لیے کھلے ہوں گے۔",
     "persian_text": "باغ‌های جاودان که درهایش برای آنان گشوده خواهد بود.",
     "transliteration": "Jannātu 'Adnin mufattahatan lahumu al-abwāb"
@@ -417,7 +417,7 @@ ayats = [
   {
     "verse_number": 52,
     "english_text": "There shall be wives beside them with the equal age with restrained eyes.",
-    "arabic_text": "۞ وَعِندَهُمْ قَـٰصِرَٰتُ الطَّرْفِ اَتْرَابٌ",
+    "arabic_text": "  وَعِندَهُمْ قَـٰصِرٰتُ الطَّرْفِ اَتْرَابٌ",
     "urdu_text": "اور ان کے پاس نیچی نگاہ والی ہم عمر بیویاں ہوں گی۔",
     "persian_text": "و نزد آنان همسرانی هم‌سن با چشمان فروتن خواهند بود.",
     "transliteration": "Wa 'indahum qasiratu attarfi atrab"
@@ -465,7 +465,7 @@ ayats = [
   {
     "verse_number": 58,
     "english_text": "And many other such things also.",
-    "arabic_text": "وَءَاخَرُ مِن شَكْلِهِٓ اَزْوَٰجٌ",
+    "arabic_text": "وَءَاخَرُ مِن شَكْلِهِٓ اَزْوٰجٌ",
     "urdu_text": "اور اسی قسم کی بہت سی دوسری چیزیں بھی۔",
     "persian_text": "و انواع دیگری از همین گونه.",
     "transliteration": "Wa akharu min shaklihi azwaj"
@@ -521,7 +521,7 @@ ayats = [
   {
     "verse_number": 65,
     "english_text": "(O Prophet) Say: I am just a warner, and there is no god except Allah, the One, the Dominant.",
-    "arabic_text": "قُلْ اِنَّمَآ اَنَا۠ مُنذِرٌۭ ۖ وَ مَا مِنْ اِلَـٰهٍ اِلَّا اللّٰهُ الْوَٰحِدُ الْقَهَّارُ",
+    "arabic_text": "قُلْ اِنَّمَآ اَنَا۠ مُنذِرٌ ۖ وَ مَا مِنْ اِلَـٰهٍ اِلَّا اللّٰهُ الْوَاحِدُ الْقَهَّارُ",
     "urdu_text": "کہہ دیجیے: میں تو صرف ڈر سنانے والا ہوں، اور اللہ واحد قہار کے سوا کوئی معبود نہیں۔",
     "persian_text": "بگو: من فقط هشداردهنده‌ای هستم، و هیچ معبودی جز الله یکتای قهار نیست.",
     "transliteration": "Qul innamā ana mundhirun wa mā min ilāhin illallāhul-wāḥidul-qahhār"
@@ -529,7 +529,7 @@ ayats = [
   {
     "verse_number": 66,
     "english_text": "He is the Lord of the skies and the earth and all the creatures in between them, and He is Honorable and very Forgiving.",
-    "arabic_text": "رَبُّ السَّمَـٰوَٰتِ وَ الْاَرْضِ وَ مَا بَيْنَهُمَا الْعَزِيزُ الْغَفَّـٰرُ",
+    "arabic_text": "رَبُّ السَّمَـٰوٰتِ وَ الْاَرْضِ وَ مَا بَيْنَهُمَا الْعَزِيزُ الْغَفَّـٰرُ",
     "urdu_text": "وہ آسمانوں اور زمین اور ان کے درمیان جو کچھ ہے سب کا رب ہے، وہ غالب اور بہت بخشنے والا ہے۔",
     "persian_text": "او پروردگار آسمان‌ها و زمین و آنچه میان آنهاست، عزیز و بسیار آمرزنده است.",
     "transliteration": "Rabbus-samāwāti wal-arḍi wa mā baynahumā al-'azīzul-ghaffār"
@@ -585,7 +585,7 @@ ayats = [
   {
     "verse_number": 73,
     "english_text": "Then all angels prostrated.",
-    "arabic_text": "فَسَجَدَ الْمَلَـٰٓئِكَةُ كُلُّهُمْ اَجْمَعُونَ",
+    "arabic_text": "فَسَجَدَ الْمَلٓـٰئِكَةُ كُلُّهُمْ اَجْمَعُونَ",
     "urdu_text": "تو تمام فرشتوں نے سجدہ کیا۔",
     "persian_text": "پس همه فرشتگان یکجا سجده کردند.",
     "transliteration": "Fasajada al-mala'ikatu kulluhum ajma'oon"

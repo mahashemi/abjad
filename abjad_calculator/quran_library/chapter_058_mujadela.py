@@ -50,7 +50,7 @@ ayats = [
   {
     "verse_number": 7,
     "english_text": "Don't you see that Allah is aware of everything of the skies and the earth, there is not a secret talk between three persons but that He is their fourth, and where there are five secret talk holders He is their sixth; whether less or more if there is a secret talk He is surely with them - wherever they may be; thereafter on the Day of Judgement He will inform them what they had done; verily He is Knower of all things.",
-    "arabic_text": "اَلَمْ تَرَ اَنَّ اللّٰهَ يَعْلَمُ مَا فِى السَّمَـٰوَٰتِ وَ مَا فِى الْاَرْضِ ۖ مَا يَكُونُ مِن نَّجْوَىٰ ثَلَـٰثَةٍ اِلَّا هُوَ رَابِعُهُمْ وَ لَا خَمْسَةٍ اِلَّا هُوَ سَادِسُهُمْ وَ لَا اَدْنَىٰ مِن ذٰلِكَ وَلَآ اَكْثَرَ اِلَّا هُوَ مَعَهُمْ اَيْنَ مَا كَانُواْ ۖ ثُمَّ يُنَبِّئُهُم بِمَا عَمِلُواْ يَوْمَ الْقِيَـٰمَةِ ۚ اِنَّ اللّٰهَ بِكُلِّ شَىْءٍ عَلِيمٌۭ",
+    "arabic_text": "اَلَمْ تَرَ اَنَّ اللّٰهَ يَعْلَمُ مَا فِى السَّمَـٰوٰتِ وَ مَا فِى الْاَرْضِ ۖ مَا يَكُونُ مِن نَّجْوَىٰ ثَلَـٰثَةٍ اِلَّا هُوَ رَابِعُهُمْ وَ لَا خَمْسَةٍ اِلَّا هُوَ سَادِسُهُمْ وَ لَا اَدْنَىٰ مِن ذٰلِكَ وَلَآ اَكْثَرَ اِلَّا هُوَ مَعَهُمْ اَيْنَ مَا كَانُواْ ۖ ثُمَّ يُنَبِّئُهُم بِمَا عَمِلُواْ يَوْمَ الْقِيَـٰمَةِ ۚ اِنَّ اللّٰهَ بِكُلِّ شَىْءٍ عَلِيمٌۭ",
     "urdu_text": "کیا تم نہیں دیکھتے کہ اللہ آسمانوں اور زمین میں جو کچھ ہے سب کو جانتا ہے، تین آدمیوں کی کوئی سرگوشی نہیں ہوتی مگر وہ ان کا چوتھا ہوتا ہے، اور نہ پانچ کی مگر وہ ان کا چھٹا ہوتا ہے، اور نہ اس سے کم اور نہ زیادہ مگر وہ ان کے ساتھ ہوتا ہے جہاں کہیں بھی وہ ہوں، پھر قیامت کے دن وہ انہیں بتائے گا جو کچھ انہوں نے کیا، بیشک اللہ ہر چیز کا جاننے والا ہے۔",
     "persian_text": "آیا ندیدی که خداوند آنچه در آسمان‌ها و زمین است می‌داند، هیچ نجوای سه نفری نیست مگر اینکه او چهارمین آنهاست، و نه پنج نفری مگر اینکه او ششمین آنهاست، و نه کمتر از آن و نه بیشتر مگر اینکه او با آنهاست هر جا که باشند، سپس روز قیامت آنها را از آنچه کرده‌اند آگاه می‌سازد، همانا خداوند به هر چیزی داناست.",
     "transliteration": "Alam tara anna Allaha ya'lamu ma fis-samawati wa ma fil-ardi ma yakunu min najwa thalathatin illa huwa rabi'uhum wa la khamsatin illa huwa sadisuhum wa la adna min dhalika wa la akthara illa huwa ma'ahum ayna ma kanu thumma yunabbi'uhum bima 'amilu yawmal-qiyamah inna Allaha bikulli shay'in 'aleem",
@@ -58,7 +58,7 @@ ayats = [
   {
     "verse_number": 8,
     "english_text": "Didn't you see those people who were forbidden from secret talk yet they talk like this and indulge in secret talk with iniquity, injustice and in disobedience to the prophet; when they come to you they address you in such a way which Allah has not taught them, and they say in their hearts if we are wrong why don't Allah send punishment on us; although for Hell is enough for them, in which they will burn, and that is the worst end.",
-    "arabic_text": "اَلَمْ تَرَ اِلَى الَّذِينَ نُهُواْ عَنِ النَّجْوَىٰ ثُمَّ يَعُودُونَ لِمَا نُهُواْ عَنْهُ وَيَتَنَـٰجَوْنَ بِالْاِثْمِ وَالْعُدْوَٰنِ وَمَعْصِيَتِ الرَّسُولِ ۖ وَاِذَا جَآءُوكَ حَيَّوْكَ بِمَا لَمْ يُحَيِّكَ بِهِ اللّٰهُ وَيَقُولُونَ فِىٓ اَنفُسِهِمْ لَوْلَا يُعَذِّبُنَا اللّٰهُ بِمَا نَقُولُ ۚ حَسْبُهُمْ جَهَنَّمُ ۚ يَصْلَوْنَهَا ۖ فَبِئْسَ الْمَصِيرُ",
+    "arabic_text": "اَلَمْ تَرَ اِلَى الَّذِينَ نُهُواْ عَنِ النَّجْوَىٰ ثُمَّ يَعُودُونَ لِمَا نُهُواْ عَنْهُ وَيَتَنَـٰجَوْنَ بِالْاِثْمِ وَالْعُدْوٰنِ وَمَعْصِيَتِ الرَّسُولِ ۖ وَاِذَا جَآءُوكَ حَيَّوْكَ بِمَا لَمْ يُحَيِّكَ بِهِ اللّٰهُ وَيَقُولُونَ فِىٓ اَنفُسِهِمْ لَوْلَا يُعَذِّبُنَا اللّٰهُ بِمَا نَقُولُ ۚ حَسْبُهُمْ جَهَنَّمُ ۚ يَصْلَوْنَهَا ۖ فَبِئْسَ الْمَصِيرُ",
     "urdu_text": "کیا تم نے ان لوگوں کو نہیں دیکھا جنہیں سرگوشی سے منع کیا گیا پھر بھی وہ اسی کی طرف لوٹ جاتے ہیں جس سے انہیں منع کیا گیا تھا، اور وہ گناہ، زیادتی اور رسول کی نافرمانی میں سرگوشیاں کرتے ہیں، اور جب وہ تمہارے پاس آتے ہیں تو تمہیں ایسے انداز میں سلام کرتے ہیں جیسے اللہ نے تمہیں سلام نہیں کیا، اور اپنے دلوں میں کہتے ہیں کہ اگر ہم غلط ہیں تو اللہ ہمیں سزا کیوں نہیں دیتا، حالانکہ ان کے لیے جہنم کافی ہے جس میں وہ جلیں گے، اور وہ بدترین انجام ہے۔",
     "persian_text": "آیا ندیدی کسانی را که از نجوا نهی شدند سپس به آنچه از آن نهی شده بودند باز می‌گردند و به گناه و دشمنی و نافرمانی از پیامبر نجوا می‌کنند، و چون نزد تو می‌آیند تو را به گونه‌ای درود می‌گویند که خداوند تو را بدان درود نگفته است، و در دل‌های خود می‌گویند چرا خداوند ما را به خاطر آنچه می‌گوییم عذاب نمی‌کند، جهنم برای آنها کافی است که در آن خواهند سوخت و چه بد سرانجامی است.",
     "transliteration": "Alam tara ilal-ladheena nuhu 'anin-najwa thumma ya'uduna lima nuhu 'anhu wa yatanajawna bil-ithmi wal-'udwani wa ma'siyatir-rasul wa idha ja'uka hayyawka bima lam yuhayyika bihil-lahu wa yaquluna fee anfusihim lawla yu'adhdhibunal-lahu bima naqul hasbuhum jahannam yaslawnaha fabi'sal-maseer",
@@ -66,7 +66,7 @@ ayats = [
   {
     "verse_number": 9,
     "english_text": "O you who believe! Whenever you talk in secret, beware, do not talk with iniquity, aggression and in disobedience to the prophet, but instead talk righteousness and with piousness, keep fearing Allah, after all your return is towards Him.",
-    "arabic_text": "يَـٰٓاَيُّهَا الَّذِينَ ءَامَنُوٓاْ اِذَا تَنَـٰجَيْتُمْ فَلَا تَتَنَـٰجَوْاْ بِالْاِثْمِ وَالْعُدْوَٰنِ وَمَعْصِيَتِ الرَّسُولِ وَتَنَـٰجَوْاْ بِالْبِرِّ وَالتَّقْوَىٰ ۖ وَاتَّقُواْ اللّٰهَ الَّذِىٓ اِلَيْهِ تُحْشَرُونَ",
+    "arabic_text": "يَـٰٓاَيُّهَا الَّذِينَ ءَامَنُوٓاْ اِذَا تَنَـٰجَيْتُمْ فَلَا تَتَنَـٰجَوْاْ بِالْاِثْمِ وَالْعُدْوٰنِ وَمَعْصِيَتِ الرَّسُولِ وَتَنَـٰجَوْاْ بِالْبِرِّ وَالتَّقْوَىٰ ۖ وَاتَّقُواْ اللّٰهَ الَّذِىٓ اِلَيْهِ تُحْشَرُونَ",
     "urdu_text": "اے ایمان والو! جب تم آپس میں سرگوشی کرو تو گناہ، زیادتی اور رسول کی نافرمانی میں سرگوشی نہ کرو، بلکہ نیکی اور تقویٰ کی باتیں کرو، اور اللہ سے ڈرتے رہو جس کی طرف تم سب کو لوٹنا ہے۔",
     "persian_text": "ای کسانی که ایمان آورده‌اید! هرگاه نجوا می‌کنید به گناه و دشمنی و نافرمانی از پیامبر نجوا نکنید، بلکه به نیکی و پرهیزگاری نجوا کنید، و از خداوندی بترسید که به سوی او محشور خواهید شد.",
     "transliteration": "Ya ayyuhal-ladheena amanu idha tanajaitum fala tatanajaw bil-ithmi wal-'udwani wa ma'siyatir-rasul wa tanajaw bil-birri wat-taqwa wattaqul-lahal-ladhee ilayhi tuhsharun",
@@ -130,7 +130,7 @@ ayats = [
   {
     "verse_number": 17,
     "english_text": "Their wealth and their children are of no avail against Allah, they are all Hellish people and they shall abide in it forever.",
-    "arabic_text": "لَّن تُغْنِىَ عَنْهُمْ اَمْوَٰلُهُمْ وَلَآ اَوْلَـٰدُهُم مِّنَ اللّٰهِ شَيْـًۭٔا ۚ اُو۟لَـٰٓئِكَ اَصْحَـٰبُ النَّارِ ۖ هُمْ فِيهَا خَـٰلِدُونَ",
+    "arabic_text": "لَّن تُغْنِىَ عَنْهُمْ اَمْوٰلُهُمْ وَلَآ اَوْلَـٰدُهُم مِّنَ اللّٰهِ شَيْـًۭٔا ۚ اُوْلٓـٰئِكَ اَصْحَـٰبُ النَّارِ ۖ هُمْ فِيهَا خـٰلِدُونَ",
     "urdu_text": "ان کے مال اور ان کی اولاد اللہ کے مقابلے میں ان کے کچھ کام نہ آئیں گے، یہی لوگ جہنم والے ہیں اور وہ اس میں ہمیشہ رہنے والے ہیں۔",
     "persian_text": "هرگز اموال و فرزندانشان در برابر خدا سودی به آنها نخواهد رسانید، اینان اهل آتشند و در آن جاودانه خواهند ماند.",
     "transliteration": "Lan tughniya 'anhum amwaluhum wala awladuhum minallahi shay'a, ula'ika as-habu an-nari hum fiha khalidun",
@@ -146,7 +146,7 @@ ayats = [
   {
     "verse_number": 19,
     "english_text": "Satan has overpowered them and he has made them oblivious from the remembrance of Allah; be aware, this is group of Satan, and at last group of Satan is loser.",
-    "arabic_text": "اسْتَحْوَذَ عَلَيْهِمُ الشَّيْطَـٰنُ فَاَنسَىٰهُمْ ذِكْرَ اللّٰهِ ۚ اُو۟لَـٰٓئِكَ حِزْبُ الشَّيْطَـٰنِ ۚ اَلَآ اِنَّ حِزْبَ الشَّيْطَـٰنِ هُمُ الْخَـٰسِرُونَ",
+    "arabic_text": "اسْتَحْوَذَ عَلَيْهِمُ الشَّيْطَـٰنُ فَاَنسَىٰهُمْ ذِكْرَ اللّٰهِ ۚ اُوْلٓـٰئِكَ حِزْبُ الشَّيْطَـٰنِ ۚ اَلَآ اِنَّ حِزْبَ الشَّيْطَـٰنِ هُمُ الْخَـٰسِرُونَ",
     "urdu_text": "شیطان نے ان پر غالب آ کر انہیں اللہ کی یاد سے غافل کر دیا، یہی لوگ شیطان کی جماعت ہیں، خبردار! بیشک شیطان کی جماعت ہی نقصان اٹھانے والی ہے۔",
     "persian_text": "شیطان بر آنها چیره شده و یاد خدا را از آنها فراموش کرده است، اینان گروه شیطانند، آگاه باشید که گروه شیطان همان زیانکارانند.",
     "transliteration": "Istahwadha 'alayhimush shaytanu fa ansahum dhikrallah, ula'ika hizbu ash-shaytan, ala inna hizba ash-shaytani humul khasirun",
@@ -154,7 +154,7 @@ ayats = [
   {
     "verse_number": 20,
     "english_text": "Verily, those who are hostile to Allah and His prophet, they are among the most humiliating people.",
-    "arabic_text": "اِنَّ الَّذِينَ يُحَآدُّونَ اللّٰهَ وَرَسُولَهُٓ اُو۟لَـٰٓئِكَ فِى الْاَذَلِّينَ",
+    "arabic_text": "اِنَّ الَّذِينَ يُحَآدُّونَ اللّٰهَ وَرَسُولَهُٓ اُوْلٓـٰئِكَ فِى الْاَذَلِّينَ",
     "urdu_text": "بیشک جو لوگ اللہ اور اس کے رسول کی مخالفت کرتے ہیں، وہی سب سے زیادہ ذلیل لوگوں میں سے ہیں۔",
     "persian_text": "همانا کسانی که با خدا و پیامبرش دشمنی می‌کنند، آنان در میان خوارترین مردمانند.",
     "transliteration": "Innalladhina yuhaddunallaha wa rasulahu ula'ika fil adhallin",

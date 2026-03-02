@@ -65,7 +65,7 @@ ayats = [
   {
     "verse_number": 8,
     "english_text": "O Lord! make them enter the everlasting Gardens which You have promised to them and to their fathers and their wives and their offspring those who do good, Verily You are Predominant and Wise.",
-    "arabic_text": "رَبَّنَا وَاَدْخِلْهُمْ جَنَّـٰتِ عَدْنٍ الَّتِى وَعَدتَّهُمْ وَمَن صَلَحَ مِنْ ءَابَآئِهِمْ وَاَزْوَٰجِهِمْ وَذُرِّيَّـٰتِهِمْ ۚ اِنَّكَ اَنتَ الْعَزِيزُ الْحَكِيمُ",
+    "arabic_text": "رَبَّنَا وَاَدْخِلْهُمْ جَنَّـٰتِ عَدْنٍ الَّتِى وَعَدتَّهُمْ وَ مَن صَلَحَ مِنْ ءَابَآئِهِمْ وَاَزْوٰجِهِمْ وَذُرِّيَّـٰتِهِمْ ۚ اِنَّكَ اَنتَ الْعَزِيزُ الْحَكِيمُ",
     "urdu_text": "اے ہمارے رب! انہیں ہمیشہ رہنے والی جنتوں میں داخل فرما جن کا تو نے ان سے وعدہ کیا ہے، اور ان کے باپ دادا اور ان کی بیویوں اور ان کی اولاد میں سے جو نیک ہوں، بے شک تو ہی غالب اور حکمت والا ہے۔",
     "persian_text": "پروردگارا! آنها را به باغ‌های جاودان که به آنان وعده داده‌ای داخل کن، و از پدران و همسران و فرزندانشان هر که صالح باشد، به راستی تو عزیز و حکیم هستی.",
     "transliteration": "Rabbanaa wa adkhilhum Jannaati 'Adninil-latee wa'attahum wa man salaha min aabaaa'ihim wa azwaajihim wa dhurriyyaatihim, innaka Antal-'Azeezul-Hakeem"
@@ -73,7 +73,7 @@ ayats = [
   {
     "verse_number": 9,
     "english_text": "And save them from evil deeds, and whom You save from evil deeds this day, indeed You did (shower) Mercy on them, and that is the big achievement.",
-    "arabic_text": "وَقِهِمُ السَّيِّـَٔاتِ ۚ وَمَن تَقِ السَّيِّـَٔاتِ يَوْمَئِذٍۢ فَقَدْ رَحِمْتَهُ ۚ وَ ذٰلِكَ هُوَ الْفَوْزُ الْعَظِيمُ",
+    "arabic_text": "وَقِهِمُ السَّيِّـَٔاتِ ۚ وَ مَن تَقِ السَّيِّـَٔاتِ يَوْمَئِذٍۢ فَقَدْ رَحِمْتَهُ ۚ وَ ذٰلِكَ هُوَ الْفَوْزُ الْعَظِيمُ",
     "urdu_text": "اور انہیں برائیوں سے بچا، اور جسے تو اس دن برائیوں سے بچا لے تو بے شک تو نے اس پر رحم فرمایا، اور یہی بڑی کامیابی ہے۔",
     "persian_text": "و آنها را از بدی‌ها نگه دار، و هر که را در آن روز از بدی‌ها نگه داری، به راستی بر او رحم کرده‌ای، و این همان رستگاری بزرگ است.",
     "transliteration": "Wa qihimus-sayyi-aat, wa man taqis-sayyi-aati Yawma'idhin faqad rahimtah, wa dhaalika huwal-fawzul-'Adheem"
@@ -129,7 +129,7 @@ ayats = [
   {
     "verse_number": 16,
     "english_text": "When everyone will come forth and nothing will be hidden from Allah, today's kingdom is whose? Kingdom is of Allah, the One, the Subduer.",
-    "arabic_text": "يَوْمَ هُم بَـٰرِزُونَ ۖ لَا يَخْفَىٰ عَلَى اللّٰهِ مِنْهُمْ شَىْءٌۭ ۚ لِّمَنِ الْمُلْكُ الْيَوْمَ ۖ لِلَّهِ الْوَٰحِدِ الْقَهَّارِ",
+    "arabic_text": "يَوْمَ هُم بَـٰرِزُونَ ۖ لَا يَخْفَىٰ عَلَى اللّٰهِ مِنْهُمْ شَىْءٌۭ ۚ لِّمَنِ الْمُلْكُ الْيَوْمَ ۖ لِلَّهِ الْوَاحِدِ الْقَهَّارِ",
     "urdu_text": "جس دن سب ظاہر ہو جائیں گے، ان میں سے کوئی چیز اللہ پر پوشیدہ نہیں ہوگی، آج بادشاہی کس کی ہے؟ اللہ واحد قہار کی۔",
     "persian_text": "روزی که همه آشکار می‌شوند، هیچ چیز از آنان بر خدا پوشیده نیست، امروز فرمانروایی از آنِ کیست؟ از آنِ خداوند یکتای قهار.",
     "transliteration": "Yawma hum baarizoon, laa yakhfaa 'alAllaahi minhum shay', limanil-mulkul-yawm, lillaahil-waahidil-qahhaar"
@@ -169,7 +169,7 @@ ayats = [
   {
     "verse_number": 21,
     "english_text": "Did not they travel in the land that they could see what had happened to the earlier people who were more powerful and influential than them, then Allah overtook them due to their sins, and there was no one who could save them against Allah.",
-    "arabic_text": "۞ اَوَلَمْ يَسِيرُواْ فِى الْاَرْضِ فَيَنظُرُواْ كَيْفَ كَانَ عَـٰقِبَةُ الَّذِينَ كَانُواْ مِن قَبْلِهِمْ ۚ كَانُواْ هُمْ اَشَدَّ مِنْهُمْ قُوَّةًۭ وَءَاثَارًا فِى الْاَرْضِ فَاَخَذَهُمُ اللّٰهُ بِذُنُوبِهِمْ وَ مَا كَانَ لَهُم مِّنَ اللّٰهِ مِن وَاقٍۢ",
+    "arabic_text": "  اَوَلَمْ يَسِيرُواْ فِى الْاَرْضِ فَيَنظُرُواْ كَيْفَ كَانَ عَـٰقِبَةُ الَّذِينَ كَانُواْ مِن قَبْلِهِمْ ۚ كَانُواْ هُمْ اَشَدَّ مِنْهُمْ قُوَّةًۭ وَءَاثَارًا فِى الْاَرْضِ فَاَخَذَهُمُ اللّٰهُ بِذُنُوبِهِمْ وَ مَا كَانَ لَهُم مِّنَ اللّٰهِ مِن وَاقٍۢ",
     "urdu_text": "کیا انہوں نے زمین میں سفر نہیں کیا کہ دیکھتے کہ ان سے پہلے لوگوں کا کیا انجام ہوا جو ان سے زیادہ طاقتور اور زمین میں زیادہ نشانات چھوڑنے والے تھے، پھر اللہ نے انہیں ان کے گناہوں کی وجہ سے پکڑ لیا اور اللہ کے مقابلے میں کوئی ان کا بچانے والا نہ تھا۔",
     "persian_text": "آیا آنها در زمین سفر نکردند تا ببینند که سرانجام کسانی که پیش از آنها بودند چگونه بود؟ آنها از اینان نیرومندتر و دارای آثار بیشتری در زمین بودند، پس خداوند به خاطر گناهانشان آنها را گرفت و هیچ کس نبود که در برابر خدا از آنها محافظت کند.",
     "transliteration": "Awalam yaseeroo fil-ardi fayanzuroo kayfa kaana 'aaqibatul-ladheena kaanoo min qablihim, kaanoo hum ashadda minhum quwwatanw-wa aathaaran fil-ardi fa-akhazahumul-laahu bidhunoobi-him wa maa kaana lahum minal-laahi min waaq"
@@ -265,7 +265,7 @@ ayats = [
   {
     "verse_number": 33,
     "english_text": "That day when all of you will turn and run away, no one will be there to save you against Allah; to whoever Allah leaves in misguidance no one can guide him.",
-    "arabic_text": "يَوْمَ تُوَلُّونَ مُدْبِرِينَ مَا لَكُم مِّنَ اللّٰهِ مِنْ عَاصِمٍۢ ۗ وَمَن يُضْلِلِ اللّٰهُ فَمَا لَهُ مِنْ هَادٍۢ",
+    "arabic_text": "يَوْمَ تُوَلُّونَ مُدْبِرِينَ مَا لَكُم مِّنَ اللّٰهِ مِنْ عَاصِمٍۢ ۗ وَ مَن يُضْلِلِ اللّٰهُ فَمَا لَهُ مِنْ هَادٍۢ",
     "urdu_text": "جس دن تم سب پیٹھ پھیر کر بھاگو گے، اللہ کے مقابلے میں تمہیں بچانے والا کوئی نہیں ہوگا، اور جسے اللہ گمراہی میں چھوڑ دے اسے کوئی ہدایت نہیں دے سکتا۔",
     "persian_text": "روزی که همه شما پشت کرده فرار می‌کنید، هیچ نگهدارنده‌ای در برابر الله برای شما نیست، و هر کس را الله گمراه کند، هیچ راهنمایی برای او نیست.",
     "transliteration": "Yawma tuwalloona mudbireena maa lakum minallahi min 'aasim, wa man yudlilillahu famaa lahu min haad"
@@ -297,7 +297,7 @@ ayats = [
   {
     "verse_number": 37,
     "english_text": "From the ways in the sky I may see the Lord of Moosa, I think Moosa is a liar and there is no Allah, and like this Firaun's bad deeds were decorated and he was stopped from his way, and result of plotting of Firaun was nothing but destruction.",
-    "arabic_text": "اَسْبَـٰبَ السَّمَـٰوَٰتِ فَاَطَّلِعَ اِلـٰىٓ اِلَـٰهِ مُوسَىٰ وَاِنِّى لَاَظُنُّهُ كَـٰذِبًا ۚ وَ كَذٰلِكَ زُيِّنَ لِفِرْعَوْنَ سُوٓءُ عَمَلِهِ وَصُدَّ عَنِ السَّبِيلِ ۚ وَ مَا كَيْدُ فِرْعَوْنَ اِلَّا فِى تَبَابٍۢ",
+    "arabic_text": "اَسْبَـٰبَ السَّمَـٰوٰتِ فَاَطَّلِعَ اِلـٰىٓ اِلَـٰهِ مُوسَىٰ وَاِنِّى لَاَظُنُّهُ كَـٰذِبًا ۚ وَ كَذٰلِكَ زُيِّنَ لِفِرْعَوْنَ سُوٓءُ عَمَلِهِ وَصُدَّ عَنِ السَّبِيلِ ۚ وَ مَا كَيْدُ فِرْعَوْنَ اِلَّا فِى تَبَابٍۢ",
     "urdu_text": "آسمانوں کے راستوں تک، تاکہ میں موسیٰ کے رب کو دیکھ سکوں، اور میں یقیناً سمجھتا ہوں کہ موسیٰ جھوٹا ہے، اور اسی طرح فرعون کے لیے اس کے برے اعمال خوبصورت بنا دیے گئے اور وہ راہ راست سے روک دیا گیا، اور فرعون کی چال کا انجام صرف تباہی تھا۔",
     "persian_text": "راه‌های آسمان‌ها را، تا به خدای موسی نگاه کنم، و من یقیناً او را دروغگو می‌پندارم، و این‌گونه برای فرعون اعمال بدش زینت داده شد و از راه باز داشته شد، و نیرنگ فرعون جز در نابودی نبود.",
     "transliteration": "Asbaabas-samaawaati fa-attali'a ilaa ilaahi Moosaa wa innee la-azunnuhoo kaadhibaa, wa kadhaalika zuyyina li-Fir'awna soo'u 'amalihee wa sudda 'anis-sabeel, wa maa kaydu Fir'awna illaa fee tabaab"
@@ -313,7 +313,7 @@ ayats = [
   {
     "verse_number": 39,
     "english_text": "O people of the nation, remember the enjoyment of the worldly life is for some days, and everlasting abode is the Hereafter.",
-    "arabic_text": "يَـٰقَوْمِ اِنَّمَا هَـٰذِهِ الْحَيَوٰةُ الدُّنْيٰمَتَـٰعٌۭ وَاِنَّ الْاخِرَةَ هِىَ دَارُ الْقَرَارِ",
+    "arabic_text": "يَـٰقَوْمِ اِنَّمَا هَـٰذِهِ الْحَيٰوةُ الدُّنْيٰمَتَـٰعٌۭ وَاِنَّ الْاخِرَةَ هِىَ دَارُ الْقَرَارِ",
     "urdu_text": "اے میری قوم! یہ دنیا کی زندگی تو صرف چند روزہ فائدہ ہے، اور آخرت ہی ہمیشہ رہنے کا گھر ہے۔",
     "persian_text": "ای قوم من! این زندگی دنیا فقط متاعی است، و آخرت سرای جاودانی است.",
     "transliteration": "Yaa qawmi innamaa haadhihil-hayaatud-dunyaa mataa'un wa innal-aakhirata hiya daarul-qaraar"
@@ -321,7 +321,7 @@ ayats = [
   {
     "verse_number": 40,
     "english_text": "Whoever will commit evil will be recompensed, and whoever will do good deeds whether men or women provided they are believing, shall be entered into Paradise, and there they will get the unaccountable sustenance.",
-    "arabic_text": "مَنْ عَمِلَ سَيِّئَةًۭ فَلَا يُجْزَىٰٓ اِلَّا مِثْلَهَا ۖ وَ مَنْ عَمِلَ صَـٰلِحًۭا مِّن ذَكَرٍ اَوْ اُنثَىٰ وَ هُوَ مُؤْمِنٌ فَاُو۟لَـٰٓئِكَ يَدْخُلُونَ الْجَنَّةَ يُرْزَقُونَ فِيهَا بِغَيْرِ حِسَابٍۢ",
+    "arabic_text": "مَنْ عَمِلَ سَيِّئَةًۭ فَلَا يُجْزَىٰٓ اِلَّا مِثْلَهَا ۖ وَ مَنْ عَمِلَ صَـٰلِحًۭا مِّن ذَكَرٍ اَوْ اُنثَىٰ وَ هُوَ مُؤْمِنٌ فَاُوْلٓـٰئِكَ يَدْخُلُونَ الْجَنَّةَ يُرْزَقُونَ فِيهَا بِغَيْرِ حِسَابٍۢ",
     "urdu_text": "جو برائی کرے گا اسے صرف اسی کے برابر بدلہ ملے گا، اور جو نیک عمل کرے گا خواہ مرد ہو یا عورت، بشرطیکہ وہ مومن ہو، تو ایسے لوگ جنت میں داخل ہوں گے اور وہاں انہیں بے حساب رزق ملے گا۔",
     "persian_text": "هر کس کار بدی کند جز به مثل آن جزا داده نمی‌شود، و هر کس عمل صالحی انجام دهد، چه مرد و چه زن، در حالی که مؤمن باشد، آنان وارد بهشت می‌شوند و در آن بی‌حساب روزی داده می‌شوند.",
     "transliteration": "Man 'amila sayyi'atan falaa yujzaaa illaa mithlahaa, wa man 'amila saalihan min dhakarin aw unthaa wa huwa mu'minun fa-ulaa'ika yadkhuloonal-jannata yurzaqoona feehaa bighayri hisaab"
@@ -329,7 +329,7 @@ ayats = [
   {
     "verse_number": 41,
     "english_text": "O people of my nation, what has happened to you, I am inviting you towards deliverance and you are inviting me towards Hell.",
-    "arabic_text": "۞ وَيَـٰقَوْمِ مَا لِىٓ اَدْعُوكُمْ اِلَى النَّجَوٰةِ وَتَدْعُونَنِىٓ اِلَى النَّارِ",
+    "arabic_text": "  وَيَـٰقَوْمِ مَا لِىٓ اَدْعُوكُمْ اِلَى النَّجَوٰةِ وَتَدْعُونَنِىٓ اِلَى النَّارِ",
     "urdu_text": "اے میری قوم کے لوگو! مجھے کیا ہو گیا ہے، میں تمہیں نجات کی طرف بلاتا ہوں اور تم مجھے جہنم کی طرف بلاتے ہو۔",
     "persian_text": "ای قوم من! چه شده است که من شما را به رستگاری دعوت می‌کنم و شما مرا به سوی آتش دوزخ فرا می‌خوانید؟",
     "transliteration": "Wa yā qawmi mā lī ad'ūkum ilā an-najāti wa tad'ūnanī ilā an-nār"
@@ -409,7 +409,7 @@ ayats = [
   {
     "verse_number": 51,
     "english_text": "Verily, We do help the prophets and the believers in the world, and that day also will help them when all the witnesses will be gathered.",
-    "arabic_text": "اِنَّا لَنَنصُرُ رُسُلَنَا وَ الَّذِينَ ءَامَنُواْ فِى الْحَيَوٰةِ الدُّنْيٰوَ يَوْمَ يَقُومُ الْاَشْهَـٰدُ",
+    "arabic_text": "اِنَّا لَنَنصُرُ رُسُلَنَا وَ الَّذِينَ ءَامَنُواْ فِى الْحَيٰوةِ الدُّنْيٰوَ يَوْمَ يَقُومُ الْاَشْهَـٰدُ",
     "urdu_text": "بیشک ہم اپنے رسولوں اور ایمان والوں کی دنیا کی زندگی میں مدد کرتے ہیں اور اس دن بھی ان کی مدد کریں گے جب گواہ کھڑے ہوں گے۔",
     "persian_text": "به راستی ما پیامبران و کسانی را که ایمان آورده‌اند در زندگی دنیا یاری می‌کنیم و در روزی که گواهان برپا می‌شوند نیز یاری‌شان خواهیم کرد.",
     "transliteration": "Inna lanansuru rusulana walladhina amanu fil-hayatid-dunya wa yawma yaqumul-ashhad"
@@ -425,7 +425,7 @@ ayats = [
   {
     "verse_number": 53,
     "english_text": "And Verily, we did guide Moosa, and made Bani Israel inherit the book.",
-    "arabic_text": "وَ لَقَدْ ءَاتَيْنَا مُوسَى الْهُدَىٰ وَاَوْرَثْنَا بَنِىٓ اِسْرَٰٓءِيلَ الْكِتٰبَ",
+    "arabic_text": "وَ لَقَدْ ءَاتَيْنَا مُوسَى الْهُدَىٰ وَاَوْرَثْنَا بَنِىٓ اِسْرٰٓءِيلَ الْكِتٰبَ",
     "urdu_text": "اور بیشک ہم نے موسیٰ کو ہدایت عطا کی اور بنی اسرائیل کو کتاب کا وارث بنایا۔",
     "persian_text": "و به راستی ما به موسی هدایت دادیم و بنی اسرائیل را وارث کتاب قرار دادیم.",
     "transliteration": "Wa laqad atayna Musal-huda wa awrathna Bani Isra'ilal-kitab"
@@ -433,7 +433,7 @@ ayats = [
   {
     "verse_number": 54,
     "english_text": "That book is entirely guidance, and a matter of admonition for the wise people.",
-    "arabic_text": "هُدًۭى وَذِكْرَىٰ لِاُو۟لِى الْاَلْبَـٰبِ",
+    "arabic_text": "هُدًۭى وَذِكْرَىٰ لِاُوْلِى الْاَلْبَـٰبِ",
     "urdu_text": "وہ کتاب ہدایت اور نصیحت ہے عقل والوں کے لیے۔",
     "persian_text": "هدایت و یادآوری برای خردمندان.",
     "transliteration": "Hudan wa dhikra li-ulil-albab"
@@ -457,7 +457,7 @@ ayats = [
   {
     "verse_number": 57,
     "english_text": "Verily, creating the earth and the skies is a bigger task than creating human beings, but the majority of people do not know this.",
-    "arabic_text": "لَخَلْقُ السَّمَـٰوَٰتِ وَ الْاَرْضِ اَكْبَرُ مِنْ خَلْقِ النَّاسِ وَلَـٰكِنَّ اَكْثَرَ النَّاسِ لَا يَعْلَمُونَ",
+    "arabic_text": "لَخَلْقُ السَّمَـٰوٰتِ وَ الْاَرْضِ اَكْبَرُ مِنْ خَلْقِ النَّاسِ وَلَـٰكِنَّ اَكْثَرَ النَّاسِ لَا يَعْلَمُونَ",
     "urdu_text": "بیشک آسمانوں اور زمین کی تخلیق لوگوں کی تخلیق سے بڑی ہے لیکن اکثر لوگ نہیں جانتے۔",
     "persian_text": "به راستی آفرینش آسمان‌ها و زمین بزرگ‌تر از آفرینش مردم است ولی بیشتر مردم نمی‌دانند.",
     "transliteration": "Lakhalqus-samawati wal-ardi akbaru min khalqin-nasi wa lakinna aktharan-nasi la ya'lamun"
@@ -529,7 +529,7 @@ ayats = [
   {
     "verse_number": 66,
     "english_text": "Say: I have been barred from worshipping to those whom you worship leaving Allah; whereas I have received the manifest signs, and I have been commanded that I remain an obedient servant of Allah.",
-    "arabic_text": "۞ قُلْ اِنِّى نُهِيتُ اَنْ اَعْبُدَ الَّذِينَ تَدْعُونَ مِن دُونِ اللّٰهِ لَمَّا جَآءَنِىَ الْبَيِّنَـٰتُ مِن رَّبِّى وَاُمِرْتُ اَنْ اُسْلِمَ لِرَبِّ الْعَـٰلَمِينَ",
+    "arabic_text": "  قُلْ اِنِّى نُهِيتُ اَنْ اَعْبُدَ الَّذِينَ تَدْعُونَ مِن دُونِ اللّٰهِ لَمَّا جَآءَنِىَ الْبَيِّنَـٰتُ مِن رَّبِّى وَاُمِرْتُ اَنْ اُسْلِمَ لِرَبِّ الْعَـٰلَمِينَ",
     "urdu_text": "کہہ دو کہ مجھے منع کیا گیا ہے کہ میں ان کی عبادت کروں جنہیں تم اللہ کے سوا پکارتے ہو، جب میرے پاس میرے رب کی طرف سے واضح دلیلیں آ چکی ہیں، اور مجھے حکم دیا گیا ہے کہ میں تمام جہانوں کے رب کے سامنے سر تسلیم خم کروں۔",
     "persian_text": "بگو: من از پرستش آنچه شما غیر از خدا می‌خوانید نهی شده‌ام، هنگامی که دلایل روشن از پروردگارم برایم آمد، و به من فرمان داده شده که تسلیم پروردگار جهانیان باشم.",
     "transliteration": "Qul innee nuheetu an a'budal-lazeena tad'oona min doonil-laahi lammaa jaaa'aniyal-bayyinaatu mir-Rabbee wa umirtu an uslima li-Rabbil-'aalameen"
@@ -609,7 +609,7 @@ ayats = [
   {
     "verse_number": 76,
     "english_text": "Now enter from the gates of Hell, and always live there, the abode of arrogant people is very bad.",
-    "arabic_text": "ادْخُلُوٓاْ اَبْوَٰبَ جَهَنَّمَ خَـٰلِدِينَ فِيهَا ۖ فَبِئْسَ مَثْوَى الْمُتَكَبِّرِينَ",
+    "arabic_text": "ادْخُلُوٓاْ اَبْوٰبَ جَهَنَّمَ خَـٰلِدِينَ فِيهَا ۖ فَبِئْسَ مَثْوَى الْمُتَكَبِّرِينَ",
     "urdu_text": "اب جہنم کے دروازوں سے داخل ہو جاؤ، ہمیشہ اس میں رہنے والے، پس متکبروں کا ٹھکانا بہت برا ہے۔",
     "persian_text": "اکنون از درهای جهنم داخل شوید، جاودانه در آن، پس چه بد جایگاهی است برای متکبران.",
     "transliteration": "Udkhulu abwaba jahannama khalidina fiha fabi'sa mathwal-mutakabbirin"

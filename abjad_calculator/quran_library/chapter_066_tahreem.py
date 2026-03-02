@@ -9,7 +9,7 @@ ayats = [
   {
     "verse_number": 1,
     "english_text": "O Prophet! Why are you withholding yourself from what Allah has made lawful for you, are you desirous of pleasing your wives; Allah is All-Forgiving and Most Merciful.",
-    "arabic_text": "يٰٓاَيُّهَا النَّبِىُّ لِمَ تُحَرِّمُ مَآ اَحَلَّ اللّٰهُ لَكَ ۖ تَبْتَغِى مَرْضَاتَ اَزْوَٰجِكَ ۚ وَ اللّٰهُ غَفُورٌۭ رَّحِيمٌۭ",
+    "arabic_text": "يٰٓاَيُّهَا النَّبِىُّ لِمَ تُحَرِّمُ مَآ اَحَلَّ اللّٰهُ لَكَ ۖ تَبْتَغِى مَرْضَاتَ اَزْوٰجِكَ ۚ وَ اللّٰهُ غَفُورٌۭ رَّحِيمٌۭ",
     "urdu_text": "اے نبی! آپ اس چیز کو کیوں حرام کر رهے هیں جو الله نے آپ کے لیے حلال کی هے، کیا آپ اپنی بیویوں کی خوشنودی چاهتے هیں؟ اور الله بخشنے والا مهربان هے۔",
     "persian_text": "ای پیامبر! چرا آنچه را که خداوند برای تو حلال کرده، بر خود حرام می‌کنی؟ آیا می‌خواهی همسرانت را خشنود سازی؟ و خداوند آمرزنده و مهربان است.",
     "transliteration": "Yaa ayyuhan-nabiyyu lima tuharrimu maa ahallal-laahu laka tabtaghee mardaata azwaajika wallahu ghafoorun raheem"
@@ -25,7 +25,7 @@ ayats = [
   {
     "verse_number": 3,
     "english_text": "When Prophet disclosed a matter to one of his wives in confidence and she divulged it to the other (wife) and Allah made this known to the Prophet, so Prophet told some matters to her and withheld some; then when he told her, she asked: who told you this, so prophet said: Allah is all Knower and all Aware.",
-    "arabic_text": "وَاِذْ اَسَرَّ النَّبِىُّ اِلـٰى بَعْضِ اَزْوَٰجِهِ حَدِيثًۭا فَلَمَّا نَبَّاَتْ بِهِ وَاَظْهَرَهُ اللّٰهُ عَلَيْهِ عَرَّفَ بَعْضَهُ وَاَعْرَضَ عَنۢ بَعْضٍۢ ۖ فَلَمَّا نَبَّاَهَا بِهِ قَالَتْ مَنْ اَنۢبَاَكَ هَـٰذَا ۖ قَالَ نَبَّاَنِىَ الْعَلِيمُ الْخَبِيرُ",
+    "arabic_text": "وَاِذْ اَسَرَّ النَّبِىُّ اِلـٰى بَعْضِ اَزْوٰجِهِ حَدِيثًۭا فَلَمَّا نَبَّاَتْ بِهِ وَاَظْهَرَهُ اللّٰهُ عَلَيْهِ عَرَّفَ بَعْضَهُ وَاَعْرَضَ عَنۢ بَعْضٍ ۖ فَلَمَّا نَبَّاَهَا بِهِ قَالَتْ مَنْ اَنۢبَاَكَ هَـٰذَا ۖ قَالَ نَبَّاَنِىَ الْعَلِيمُ الْخَبِيرُ",
     "urdu_text": "اور جب نبی نے اپنی ایک بیوی سے ایک بات راز میں کهی، پھر جب اس نے وه بات ظاهر کر دی اور الله نے نبی کو اس پر مطلع کر دیا، تو نبی نے اسے کچھ بتایا اور کچھ سے درگزر کیا، پھر جب نبی نے اسے بتایا تو اس نے کها: آپ کو یه کس نے بتایا؟ نبی نے کها: مجھے جاننے والے خبردار نے بتایا۔",
     "persian_text": "و هنگامی که پیامبر سخنی را به یکی از همسرانش در نهان گفت، پس چون او آن را فاش کرد و خداوند پیامبر را از آن آگاه ساخت، پیامبر بخشی از آن را به او گفت و از بخشی چشم‌پوشی کرد، پس چون او را از آن آگاه ساخت، گفت: چه کسی این را به تو خبر داد؟ گفت: دانای آگاه مرا خبر داد.",
     "transliteration": "Wa idh asarran-nabiyyu ilaa ba'di azwaajihee hadeethan falammaa nabba'at bihee wa adhharahul-laahu 'alayhi 'arrafa ba'dahoo wa a'rada 'am ba'd, falammaa nabba'ahaa bihee qaalat man amba'aka haadha qaala nabba'aniyal-'aleemul-khabeer"
@@ -33,7 +33,7 @@ ayats = [
   {
     "verse_number": 4,
     "english_text": "Now both of you seek repentance, crookedness has developed in your hearts, otherwise if you will back up each other against him, then remember, Allah is his Guardian and Gabriel, and righteous believers and angels all are his helpers.",
-    "arabic_text": "اِن تَتُوبَآ اِلَى اللّٰهِ فَقَدْ صَغَتْ قُلُوبُكُمَا ۖ وَ اِن تَظَـٰهَرَا عَلَيْهِ فَاِنَّ اللّٰهَ هُوَ مَوْلَىٰهُ وَجِبْرِيلُ وَصَـٰلِحُ الْمُؤْمِنِينَ ۖ وَالْمَلَـٰٓئِكَةُ بَعْدَ ذٰلِكَ ظَهِيرٌ",
+    "arabic_text": "اِن تَتُوبَآ اِلَى اللّٰهِ فَقَدْ صَغَتْ قُلُوبُكُمَا ۖ وَ اِن تَظَـٰهَرَا عَلَيْهِ فَاِنَّ اللّٰهَ هُوَ مَوْلَىٰهُ وَجِبْرِيلُ وَصَـٰلِحُ الْمُؤْمِنِينَ ۖ وَالْمَلٓـٰئِكَةُ بَعْدَ ذٰلِكَ ظَهِيرٌ",
     "urdu_text": "اگر تم دونوں الله کی طرف توبه کرو تو بهتر هے کیونکه تمهارے دل ٹیڑھے هو گئے هیں، اور اگر تم دونوں نبی کے خلاف ایک دوسرے کی مدد کرو گی تو یاد رکھو که الله ان کا مولیٰ هے اور جبریل اور نیک مومن اور اس کے بعد فرشتے بھی ان کے مددگار هیں۔",
     "persian_text": "اگر شما دو نفر به سوی خداوند توبه کنید، پس دلهای شما منحرف شده است، و اگر بر ضد او با هم همکاری کنید، پس بدانید که خداوند یار اوست و جبرئیل و صالحان مؤمنان، و فرشتگان نیز پس از آن یاورانند.",
     "transliteration": "In tatoobaa ilal-laahi faqad saghat quloobukumaa wa in tazaaharaa 'alayhi fa-innal-laaha huwa mawlaahu wa jibreelu wa saalihul-mu'mineena walmalaa'ikatu ba'da dhaalika dhaheer"
@@ -41,7 +41,7 @@ ayats = [
   {
     "verse_number": 5,
     "english_text": "Even if he divorces you (all), Allah will provide him better wives in your place, submissive, believers, obedient, repentant, worshipper, fasting ones, virgin and non-virgin, all.",
-    "arabic_text": "عَسَىٰ رَبُّهُٓ اِن طَلَّقَكُنَّ اَن يُبْدِلَهُٓ اَزْوَٰجًا خَيْرًا مِّنكُنَّ مُسْلِمَـٰتٍۢ مُّؤْمِنَـٰتٍۢ قَـٰنِتَـٰتٍۢ تَـٰٓئِبَـٰتٍ عَـٰبِدَٰتٍۢ سَـٰٓئِحَـٰتٍۢ ثَيِّبَـٰتٍۢ وَاَبْكَارًا",
+    "arabic_text": "عَسَىٰ رَبُّهُٓ اِن طَلَّقَكُنَّ اَن يُبْدِلَهُٓ اَزْوٰجًا خَيْرًا مِّنكُنَّ مُسْلِمَـٰتٍۢ مُّؤْمِنَـٰتٍۢ قَـٰنِتَـٰتٍۢ تَـٰٓئِبَـٰتٍ عَـٰبِدَٰتٍۢ سَـٰٓئِحَـٰتٍۢ ثَيِّبَـٰتٍۢ وَاَبْكَارًا",
     "urdu_text": "اگر نبی تم سب کو طلاق دے دیں تو امید هے که ان کا رب انهیں تم سے بهتر بیویاں عطا فرمائے گا جو فرمانبردار، مومن، عبادت گزار، توبه کرنے والی، عبادت کرنے والی، روزه رکھنے والی، شوهر دیده اور کنواری سب هوں گی۔",
     "persian_text": "اگر او شما را طلاق دهد، امید است که پروردگارش همسرانی بهتر از شما به او عطا کند: مسلمان، مؤمن، فرمانبردار، توبه‌کار، عبادت‌کننده، روزه‌دار، بیوه و باکره.",
     "transliteration": "'Asaa rabbuhooo in tallaqakunna any-yubdilahoo azwaajan khayram minkunna muslimatin mu'minatin qaanitatin taa'ibaatin 'aabidaatin saa'ihaatin thayyibaatin wa abkaaraa"
@@ -97,7 +97,7 @@ ayats = [
   {
     "verse_number": 12,
     "english_text": "And the instance of Maryam, daughter of Imran who guarded her chastity, so We blew Our Spirit in her, and she testified the words of her Lord, and confirmed the books, and she was among Our obedient servants.",
-    "arabic_text": "وَمَرْيَمَ ابْنَتَ عِمْرَٰنَ الَّتِىٓ اَحْصَنَتْ فَرْجَهَا فَنَفَخْنَا فِيهِ مِن رُّوحِنَا وَصَدَّقَتْ بِكَلِمَـٰتِ رَبِّهَا وَكُتُبِهِ وَكَانَتْ مِنَ الْقَـٰنِتِينَ",
+    "arabic_text": "وَمَرْيَمَ ابْنَتَ عِمْرٰنَ الَّتِىٓ اَحْصَنَتْ فَرْجَهَا فَنَفَخْنَا فِيهِ مِن رُّوحِنَا وَصَدَّقَتْ بِكَلِمَـٰتِ رَبِّهَا وَكُتُبِهِ وَكَانَتْ مِنَ الْقَـٰنِتِينَ",
     "urdu_text": "اور مریم بنت عمران کی مثال جنهوں نے اپنی عصمت کی حفاظت کی تو هم نے اس میں اپنی روح پھونک دی اور انهوں نے اپنے رب کے کلمات اور اس کی کتابوں کی تصدیق کی اور وه فرمانبرداروں میں سے تھیں۔",
     "persian_text": "و مثال مریم دختر عمران که عفت خود را حفظ کرد، پس ما از روح خود در او دمیدیم و او کلمات پروردگارش و کتاب‌هایش را تصدیق کرد و از فرمانبرداران بود.",
     "transliteration": "Wa Maryama ibnata 'Imrana allati ahsanat farjaha fanafakhna fihi min ruhina wa saddaqat bi kalimati rabbiha wa kutubihi wa kanat minal-qanitin"

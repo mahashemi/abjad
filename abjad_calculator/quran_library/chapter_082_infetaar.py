@@ -146,7 +146,7 @@ ayats = [
   {
     "verse_number": 19,
     "english_text": "That day, no one will have any authority over anyone, all control will be in the hands of Allah.",
-    "arabic_text": "يَوْمَ لَا تَمْلِكُ نَفْسٌ لِّنَفْسٍ شَيْئًا ۖ وَ الْاَمْرُ يَوْمَئِذٍ لِّلَّهِ",
+    "arabic_text": "يَوْمَ لَا تَمْلِكُ نَفْسٌ لِّنَفْسٍ شَيْئًا ۖ وَ الْاَمْرُ يَوْمَئِذٍ لِّلّٰهِ",
     "urdu_text": "وہ دن جب کوئی کسی کے لیے کچھ اختیار نہیں رکھے گا، اور اس دن تمام اختیار اللہ کے ہاتھ میں ہوگا",
     "persian_text": "روزی که هیچ کس برای دیگری اختیاری نخواهد داشت و فرمان آن روز از آنِ خداست",
     "transliteration": "Yawma la tamliku nafsul linafsin shay'an wal-amru yawma'idhin lillah",

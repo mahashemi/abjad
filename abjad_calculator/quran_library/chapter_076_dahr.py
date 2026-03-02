@@ -153,7 +153,7 @@ ayats = [
   {
     "verse_number": 19,
     "english_text": "And around them will be youth whose age will never alter that when you will see they will seem like scattered pearls.",
-    "arabic_text": "۞ وَيَطُوفُ عَلَيْهِمْ وِلْدَٰنٌ مُّخَلَّدُونَ اِذَا رَاَيْتَهُمْ حَسِبْتَهُمْ لُؤْلُؤًۭا مَّنثُورًا",
+    "arabic_text": "  وَيَطُوفُ عَلَيْهِمْ وِلْدَٰنٌ مُّخَلَّدُونَ اِذَا رَاَيْتَهُمْ حَسِبْتَهُمْ لُؤْلُؤًۭا مَّنثُورًا",
     "urdu_text": "اور ان کے گرد همیشه جوان رهنے والے لڑکے پھریں گے، جب تم انهیں دیکھو گے تو انهیں بکھرے هوئے موتی سمجھو گے۔",
     "persian_text": "و نوجوانان جاودانه‌ای بر گرد آنان می‌گردند که چون آنها را ببینی، مانند مروارید پراکنده به نظر می‌رسند.",
     "transliteration": "Wa yatoofu 'alayhim wildaanum mukhalladoon, izaa ra'aytahum hasibtahum lu'lu'am mansooraa"

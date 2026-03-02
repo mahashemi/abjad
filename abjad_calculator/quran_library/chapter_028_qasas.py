@@ -25,7 +25,7 @@ ayats = [
   {
     "verse_number": 3,
     "english_text": "We are telling you the true news of Moosa and Firaun, for those who are going to believe.",
-    "arabic_text": "نَتْلُواْ عَلَيْكَ مِن نَّبَاِ مُوسَىٰ وَفِرْعَوْنَ بِالْحَقِّ لِقَوْمٍۢ يُؤْمِنُونَ",
+    "arabic_text": "نَتْلُواْ عَلَيْكَ مِن نَّبَاِ مُوسَىٰ وَفِرْعَوْنَ بِالْحَقِّ لِقَوْمٍ يُؤْمِنُونَ",
     "urdu_text": "ہم آپ کو موسیٰ اور فرعون کا سچا واقعہ سناتے ہیں، ایمان لانے والوں کے لیے۔",
     "persian_text": "ما برای تو از خبر موسی و فرعون به حق می‌خوانیم، برای قومی که ایمان می‌آورند.",
     "transliteration": "Natlu 'alayka min naba'i Musa wa Fir'awna bil-haqqi liqawmin yu'minoon"
@@ -33,7 +33,7 @@ ayats = [
   {
     "verse_number": 4,
     "english_text": "Firaun acquired the high place on the land, and he divided the dwellers of the earth on the many parts to weaken one another; he slayed their boys; and kept alive their women, he was Verily a mischief maker.",
-    "arabic_text": "اِنَّ فِرْعَوْنَ عَلَا فِى الْاَرْضِ وَجَعَلَ اَهْلَهَا شِيَعًۭا يَسْتَضْعِفُ طَآئِفَةًۭ مِّنْهُمْ يُذَبِّحُ اَبْنَآءَهُمْ وَيَسْتَحْىِ نِسَآءَهُمْ ۚ اِنَّهُ كَانَ مِنَ الْمُفْسِدِينَ",
+    "arabic_text": "اِنَّ فِرْعَوْنَ عَلَا فِى الْاَرْضِ وَ جَعَلَ اَهْلَهَا شِيَعًۭا يَسْتَضْعِفُ طَآئِفَةًۭ مِّنْهُمْ يُذَبِّحُ اَبْنَآءَهُمْ وَيَسْتَحْىِ نِسَآءَهُمْ ۚ اِنَّهُ كَانَ مِنَ الْمُفْسِدِينَ",
     "urdu_text": "بیشک فرعون نے زمین میں سرکشی کی اور اس کے رہنے والوں کو گروہوں میں تقسیم کر دیا، ان میں سے ایک گروہ کو کمزور کرتا تھا، ان کے بیٹوں کو ذبح کرتا اور ان کی عورتوں کو زندہ رکھتا تھا، بیشک وہ فساد کرنے والوں میں سے تھا۔",
     "persian_text": "همانا فرعون در زمین سرکشی کرد و مردمش را دسته‌دسته نمود، گروهی از آنان را ضعیف می‌ساخت، پسرانشان را می‌کشت و زنانشان را زنده نگه می‌داشت، به راستی او از مفسدان بود.",
     "transliteration": "Inna Fir'awna 'ala fil-ardi wa ja'ala ahlaha shiya'an yastadh'ifu ta'ifatan minhum yudhabbihu abna'ahum wa yastahyi nisa'ahum innahu kana minal-mufsideen"
@@ -41,7 +41,7 @@ ayats = [
   {
     "verse_number": 5,
     "english_text": "And We want to favor those who have been weakened and make them leaders of the people and make them inherit the land.",
-    "arabic_text": "وَنُرِيدُ اَن نَّمُنَّ عَلَى الَّذِينَ اسْتُضْعِفُواْ فِى الْاَرْضِ وَنَجْعَلَهُمْ اَئِمَّةًۭ وَنَجْعَلَهُمُ الْوَٰرِثِينَ",
+    "arabic_text": "وَنُرِيدُ اَن نَّمُنَّ عَلَى الَّذِينَ اسْتُضْعِفُواْ فِى الْاَرْضِ وَنَجْعَلَهُمْ اَئِمَّةًۭ وَنَجْعَلَهُمُ الْوٰرِثِينَ",
     "urdu_text": "اور ہم چاہتے تھے کہ ان لوگوں پر احسان کریں جنہیں زمین میں کمزور کر دیا گیا تھا، اور انہیں پیشوا بنائیں اور انہیں وارث بنائیں۔",
     "persian_text": "و ما می‌خواستیم بر کسانی که در زمین ضعیف شده بودند منت نهیم و آنان را پیشوایان قرار دهیم و آنان را وارثان گردانیم.",
     "transliteration": "Wa nureedu an namunna 'alal-ladheenas-tud'ifu fil-ardi wa naj'alahum a'immatan wa naj'alahumul-waritheen"
@@ -97,7 +97,7 @@ ayats = [
   {
     "verse_number": 12,
     "english_text": "And we had already forbidden the milk of foster mothers for Moosa, his sister said shall I tell you about a household who will nourish him and will be his well-wisher also.",
-    "arabic_text": "۞ وَحَرَّمْنَا عَلَيْهِ الْمَرَاضِعَ مِن قَبْلُ فَقَالَتْ هَلْ اَدُلُّكُمْ عَلَىٰٓ اَهْلِ بَيْتٍۢ يَكْفُلُونَهُ لَكُمْ وَ هُمْ لَهُ نَـٰصِحُونَ",
+    "arabic_text": "  وَحَرَّمْنَا عَلَيْهِ الْمَرَاضِعَ مِن قَبْلُ فَقَالَتْ هَلْ اَدُلُّكُمْ عَلَىٰٓ اَهْلِ بَيْتٍۢ يَكْفُلُونَهُ لَكُمْ وَ هُمْ لَهُ نَـٰصِحُونَ",
     "urdu_text": "اور ہم نے پہلے ہی موسیٰ پر دائیوں کا دودھ حرام کر دیا تھا، تو اس کی بہن نے کہا کیا میں تمہیں ایک ایسے گھرانے کے بارے میں بتاؤں جو تمہارے لیے اس کی پرورش کریں گے اور وہ اس کے خیرخواہ بھی ہوں گے۔",
     "persian_text": "و ما پیش از این شیر دایه‌ها را بر موسی حرام کرده بودیم، پس خواهرش گفت آیا شما را به خانواده‌ای راهنمایی کنم که او را برای شما پرورش دهند و خیرخواه او باشند.",
     "transliteration": "Wa harramna 'alayhi al-maradi'a min qablu fa-qaalat hal adullukum 'ala ahli baytin yakfuloonahu lakum wa hum lahu naasihoon"
@@ -225,7 +225,7 @@ ayats = [
   {
     "verse_number": 28,
     "english_text": "Moosa said: there is a covenant between me and you, whatever period I complete, then I will have no responsibility, and whatever I am saying, Allah is witness to it.",
-    "arabic_text": "قَالَ ذٰلِكَ بَيْنِى وَبَيْنَكَ ۖ اَيَّمَا الْاَجَلَيْنِ قَضَيْتُ فَلَا عُدْوَٰنَ عَلَىَّ ۖ وَ اللّٰهُ عَلَىٰ مَا نَقُولُ وَكِيلٌۭ",
+    "arabic_text": "قَالَ ذٰلِكَ بَيْنِى وَبَيْنَكَ ۖ اَيَّمَا الْاَجَلَيْنِ قَضَيْتُ فَلَا عُدْوٰنَ عَلَىَّ ۖ وَ اللّٰهُ عَلَىٰ مَا نَقُولُ وَكِيلٌۭ",
     "urdu_text": "موسیٰ نے کہا: یہ میرے اور آپ کے درمیان طے ہے، دونوں میں سے جو بھی مدت میں پوری کروں تو مجھ پر کوئی زیادتی نہیں، اور جو ہم کہہ رہے ہیں اللہ اس پر گواہ ہے۔",
     "persian_text": "موسی گفت: این پیمان میان من و توست، هر یک از دو مدت را که تمام کنم، هیچ تعدی بر من نیست، و خدا بر آنچه می‌گوییم گواه است.",
     "transliteration": "Qaala zaalika baynee wa baynaka ayyamal ajalayni qadaytu falaa 'udwaana 'alayya wallaahu 'alaa maa naqoolu wakeel"
@@ -233,7 +233,7 @@ ayats = [
   {
     "verse_number": 29,
     "english_text": "Then, when Moosa completed the period and took his family, he saw a fire from the direction of Mount Tur (Sinai), so he told his family: you stay here I have seen a fire, I may bring news or an ember from it that you may warm yourselves up.",
-    "arabic_text": "۞ فَلَمَّا قَضَىٰ مُوسَى الْاَجَلَ وَسَارَ بِاَهْلِهِٓ ءَانَسَ مِن جَانِبِ الطُّورِ نَارًا قَالَ لِاَهْلِهِ امْكُثُوٓاْ اِنِّىٓ ءَانَسْتُ نَارًا لَّعَلِّىٓ ءَاتِيكُم مِّنْهَا بِخَبَرٍ اَوْ جَذْوَةٍۢ مِّنَ النَّارِ لَعَلَّكُمْ تَصْطَلُونَ",
+    "arabic_text": "  فَلَمَّا قَضَىٰ مُوسَى الْاَجَلَ وَسَارَ بِاَهْلِهِٓ ءَانَسَ مِن جَانِبِ الطُّورِ نَارًا قَالَ لِاَهْلِهِ امْكُثُوٓاْ اِنِّىٓ ءَانَسْتُ نَارًا لَّعَلِّىٓ ءَاتِيكُم مِّنْهَا بِخَبَرٍ اَوْ جَذْوَةٍۢ مِّنَ النَّارِ لَعَلَّكُمْ تَصْطَلُونَ",
     "urdu_text": "پھر جب موسیٰ نے مدت پوری کر لی اور اپنے گھر والوں کو لے کر روانہ ہوئے تو انہوں نے طور پہاڑ کی جانب سے آگ دیکھی، انہوں نے اپنے گھر والوں سے کہا: تم ٹھہرو، میں نے آگ دیکھی ہے، شاید میں وہاں سے کوئی خبر لاؤں یا آگ کا کوئی انگارہ لاؤں تاکہ تم گرم ہو سکو۔",
     "persian_text": "پس چون موسی مدت را تمام کرد و با خانواده‌اش به راه افتاد، از جانب کوه طور آتشی دید، به خانواده‌اش گفت: اینجا بمانید، من آتشی دیدم، شاید خبری از آن برای شما بیاورم یا شعله‌ای از آتش تا گرم شوید.",
     "transliteration": "Falammaa qadaa moosal ajala wa saara bi ahlihee aanasa min jaanibit toori naaran qaala li ahlihim kuthooo innee aanastu naaran la'alleee aateekum minhaa bikhabarin aw jazwatim minan naari la'allakum tastaloon"
@@ -297,7 +297,7 @@ ayats = [
   {
     "verse_number": 37,
     "english_text": "And Moosa said: my Lord knows the best that who has brought guidance from Him, and abode is the Hereafter is for whom, Verily unjust will not be successful.",
-    "arabic_text": "وَ قَالَ مُوسَىٰ رَبِّىٓ اَعْلَمُ بِمَن جَآءَ بِالْهُدَىٰ مِنْ عِندِهِ وَمَن تَكُونُ لَهُ عَـٰقِبَةُ الدَّارِ ۖ اِنَّهُ لَا يُفْلِحُ الظَّـٰلِمُونَ",
+    "arabic_text": "وَ قَالَ مُوسَىٰ رَبِّىٓ اَعْلَمُ بِمَن جَآءَ بِالْهُدَىٰ مِنْ عِندِهِ وَ مَن تَكُونُ لَهُ عَـٰقِبَةُ الدَّارِ ۖ اِنَّهُ لَا يُفْلِحُ الظَّـٰلِمُونَ",
     "urdu_text": "اور موسیٰ نے کہا: میرا رب بہتر جانتا ہے کہ اس کی طرف سے ہدایت کون لایا ہے، اور آخرت کا اچھا انجام کس کے لیے ہے، یقیناً ظالم کامیاب نہیں ہوں گے۔",
     "persian_text": "و موسی گفت: پروردگار من بهتر می‌داند که چه کسی هدایت را از جانب او آورده و عاقبت نیک آخرت از آن کیست، به یقین ستمکاران رستگار نخواهند شد.",
     "transliteration": "Wa qala Musa rabbi a'lamu biman ja'a bil huda min 'indihi wa man takunu lahu 'aqibatud dar innahu la yuflihuz zalimoon"
@@ -409,7 +409,7 @@ ayats = [
   {
     "verse_number": 51,
     "english_text": "And we continuously conveyed Our communication to them, perhaps they take the admonition in this way.",
-    "arabic_text": "۞ وَ لَقَدْ وَصَّلْنَا لَهُمُ الْقَوْلَ لَعَلَّهُمْ يَتَذَكَّرُونَ",
+    "arabic_text": "  وَ لَقَدْ وَصَّلْنَا لَهُمُ الْقَوْلَ لَعَلَّهُمْ يَتَذَكَّرُونَ",
     "urdu_text": "اور بیشک ہم نے ان کے لیے بات کو بار بار بیان کیا تاکہ وہ نصیحت حاصل کریں۔",
     "persian_text": "و ما پیوسته سخن خود را برای آنان بیان کردیم، شاید که پند گیرند.",
     "transliteration": "Wa laqad wassalna lahumu al-qawla la'allahum yatadhakkarun"
@@ -433,7 +433,7 @@ ayats = [
   {
     "verse_number": 54,
     "english_text": "These are the people who will be given double the recompense that they showed patience, and they ward off evil with good deeds, and spend from the sustenance given by Us.",
-    "arabic_text": "اُو۟لَـٰٓئِكَ يُؤْتَوْنَ اَجْرَهُم مَّرَّتَيْنِ بِمَا صَبَرُواْ وَيَدْرَءُونَ بِالْحَسَنَةِ السَّيِّئَةَ وَمِمَّا رَزَقْنَـٰهُمْ يُنفِقُونَ",
+    "arabic_text": "اُوْلٓـٰئِكَ يُؤْتَوْنَ اَجْرَهُم مَّرَّتَيْنِ بِمَا صَبَرُواْ وَيَدْرَءُونَ بِالْحَسَنَةِ السَّيِّئَةَ وَمِمَّا رَزَقْنَـٰهُمْ يُنفِقُونَ",
     "urdu_text": "یہی لوگ ہیں جنہیں ان کے صبر کی وجہ سے دوگنا اجر دیا جائے گا، اور وہ برائی کو بھلائی سے دور کرتے ہیں، اور جو کچھ ہم نے انہیں دیا ہے اس میں سے خرچ کرتے ہیں۔",
     "persian_text": "اینان کسانی هستند که به خاطر صبرشان دو بار پاداش داده می‌شوند، و بدی را با نیکی دفع می‌کنند، و از آنچه به آنان روزی داده‌ایم انفاق می‌کنند.",
     "transliteration": "Ula'ika yu'tawna ajrahum marratayni bima sabaru wa yadra'una bil-hasanati as-sayyi'ata wa mimma razaqnahum yunfiqun"
@@ -457,7 +457,7 @@ ayats = [
   {
     "verse_number": 57,
     "english_text": "These infidels say that if we follow you, we will be displaced from our land, have not we given them the control over the secured Holy Place (Haram), towards which fruits of every kind come because of our sustenance, but most among them do not understand.",
-    "arabic_text": "وَقَالُوٓاْ اِن نَّتَّبِعِ الْهُدَىٰ مَعَكَ نُتَخَطَّفْ مِنْ اَرْضِنَآ ۚ اَوَلَمْ نُمَكِّن لَّهُمْ حَرَمًا ءَامِنًۭا يُجْبَىٰٓ اِلَيْهِ ثَمَرَٰتُ كُلِّ شَىْءٍۢ رِّزْقًۭا مِّن لَّدُنَّا وَلَـٰكِنَّ اَكْثَرَهُمْ لَا يَعْلَمُونَ",
+    "arabic_text": "وَقَالُوٓاْ اِن نَّتَّبِعِ الْهُدَىٰ مَعَكَ نُتَخَطَّفْ مِنْ اَرْضِنَآ ۚ اَوَلَمْ نُمَكِّن لَّهُمْ حَرَمًا ءَامِنًۭا يُجْبَىٰٓ اِلَيْهِ ثَمَرٰتُ كُلِّ شَىْءٍۢ رِّزْقًۭا مِّن لَّدُنَّا وَلَـٰكِنَّ اَكْثَرَهُمْ لَا يَعْلَمُونَ",
     "urdu_text": "اور انہوں نے کہا کہ اگر ہم آپ کے ساتھ ہدایت کی پیروی کریں تو ہم اپنی زمین سے اچک لیے جائیں گے۔ کیا ہم نے انہیں ایک محفوظ حرم میں اختیار نہیں دیا جس کی طرف ہماری طرف سے رزق کے طور پر ہر قسم کے پھل لائے جاتے ہیں؟ لیکن ان میں سے اکثر نہیں جانتے۔",
     "persian_text": "و گفتند: اگر با تو از هدایت پیروی کنیم، از سرزمینمان ربوده خواهیم شد. آیا برای آنان حرم امنی قرار ندادیم که به سوی آن میوه‌های هر چیزی به عنوان روزی از جانب ما آورده می‌شود؟ ولی بیشتر آنان نمی‌دانند.",
     "transliteration": "Wa qalu in nattabi' al-huda ma'aka nutakhattaf min ardina a-wa lam numakkin lahum haraman aminan yujba ilayhi thamaratu kulli shay'in rizqan min ladunna wa lakinna aktharahum la ya'lamun"
@@ -465,7 +465,7 @@ ayats = [
   {
     "verse_number": 58,
     "english_text": "We have destroyed many settlements because of their economy's pride, and these are their homes which were never populated, except a few, and in fact We are Heir and Master of everything.",
-    "arabic_text": "وَكَمْ اَهْلَكْنَا مِن قَرْيَةٍۭ بَطِرَتْ مَعِيشَتَهَا ۖ فَتِلْكَ مَسَـٰكِنُهُمْ لَمْ تُسْكَن مِّنۢ بَعْدِهِمْ اِلَّا قَلِيلًا ۖ وَكُنَّا نَحْنُ الْوَٰرِثِينَ",
+    "arabic_text": "وَكَمْ اَهْلَكْنَا مِن قَرْيَةٍۭ بَطِرَتْ مَعِيشَتَهَا ۖ فَتِلْكَ مَسَـٰكِنُهُمْ لَمْ تُسْكَن مِّنۢ بَعْدِهِمْ اِلَّا قَلِيلًا ۖ وَكُنَّا نَحْنُ الْوٰرِثِينَ",
     "urdu_text": "اور ہم نے کتنی ہی بستیوں کو ہلاک کر دیا جو اپنی معیشت پر اترا رہی تھیں، تو یہ ان کے گھر ہیں جو ان کے بعد آباد نہیں ہوئے مگر تھوڑے سے، اور ہم ہی وارث ہیں۔",
     "persian_text": "و چه بسیار شهرها را که به خاطر سرمستی زندگی‌شان نابود کردیم، پس اینها خانه‌های آنان است که پس از آنان آباد نشد مگر اندکی، و ما وارث همه چیز هستیم.",
     "transliteration": "Wa kam ahlakna min qaryatin batirat ma'ishataha fa tilka masakinuhum lam tuskan min ba'dihim illa qalilan wa kunna nahnu al-warithin"
@@ -481,7 +481,7 @@ ayats = [
   {
     "verse_number": 60,
     "english_text": "Whatever We have given you is a few days' enjoyment and beauty of this world, and whatever is in the Court of Allah is good and everlasting, don't you even understand this.",
-    "arabic_text": "وَ مَآ اُوتِيتُم مِّن شَىْءٍۢ فَمَتَـٰعُ الْحَيَوٰةِ الدُّنْيٰوَزِينَتُهَا ۚ وَ مَا عِندَ اللّٰهِ خَيْرٌۭ وَاَبْقَىٰٓ ۚ اَفَلَا تَعْقِلُونَ",
+    "arabic_text": "وَ مَآ اُوتِيتُم مِّن شَىْءٍۢ فَمَتَـٰعُ الْحَيٰوةِ الدُّنْيٰوَزِينَتُهَا ۚ وَ مَا عِندَ اللّٰهِ خَيْرٌۭ وَاَبْقَىٰٓ ۚ اَفَلَا تَعْقِلُونَ",
     "urdu_text": "اور جو کچھ تمہیں دیا گیا ہے وہ دنیا کی زندگی کا سامان اور زینت ہے، اور جو اللہ کے پاس ہے وہ بہتر اور باقی رہنے والا ہے، کیا تم عقل نہیں رکھتے؟",
     "persian_text": "و آنچه به شما داده شده، متاع و زینت زندگی دنیاست، و آنچه نزد خداست بهتر و پایدارتر است، آیا نمی‌اندیشید؟",
     "transliteration": "Wa ma utitum min shay'in famata'u al-hayati ad-dunya wa zinatuha wa ma 'inda Allahi khayrun wa abqa afala ta'qilun"
@@ -489,7 +489,7 @@ ayats = [
   {
     "verse_number": 61,
     "english_text": "Does the servant with whom We have promised the good and he also gets it, can be like the person whom We have given little enjoyment (of world) and on the Day of Judgement he will be dragged and presented in the Court of Allah.",
-    "arabic_text": "اَفَمَن وَعَدْنَـٰهُ وَعْدًا حَسَنًۭا فَهُوَ لَـٰقِيهِ كَمَن مَّتَّعْنَـٰهُ مَتَـٰعَ الْحَيَوٰةِ الدُّنْيٰثُمَّ هُوَ يَوْمَ الْقِيَـٰمَةِ مِنَ الْمُحْضَرِينَ",
+    "arabic_text": "اَفَمَن وَعَدْنَـٰهُ وَعْدًا حَسَنًۭا فَهُوَ لَـٰقِيهِ كَمَن مَّتَّعْنَـٰهُ مَتَـٰعَ الْحَيٰوةِ الدُّنْيٰثُمَّ هُوَ يَوْمَ الْقِيَـٰمَةِ مِنَ الْمُحْضَرِينَ",
     "urdu_text": "کیا وہ شخص جس سے ہم نے اچھا وعدہ کیا ہے اور وہ اسے پانے والا ہے، اس شخص کی طرح ہو سکتا ہے جسے ہم نے دنیا کی تھوڑی سی زندگی کا سامان دیا ہے، پھر قیامت کے دن وہ اللہ کی بارگاہ میں پیش کیے جانے والوں میں سے ہوگا؟",
     "persian_text": "آیا کسی که به او وعده نیکویی داده‌ایم و او به آن می‌رسد، مانند کسی است که او را از متاع زندگی دنیا بهره‌مند ساخته‌ایم، سپس در روز قیامت از حاضر شدگان در پیشگاه الهی خواهد بود؟",
     "transliteration": "Afaman wa'adnāhu wa'dan ḥasanan fahuwa lāqīhi kaman matta'nāhu matā'al-ḥayātid-dunyā thumma huwa yawmal-qiyāmati minal-muḥḍarīn"
@@ -561,7 +561,7 @@ ayats = [
   {
     "verse_number": 70,
     "english_text": "That is Allah and there is no other god except Him, He is the First, He is the Last, and all the Praises are for Him only in this world and in the Hereafter, Judgement is His only; and you all shall have to return to Him only.",
-    "arabic_text": "وَهُوَ اللّٰهُ لَآ اِلَـٰهَ اِلَّا هُوَ ۖ لَهُ الْحَمْدُ فِى الْاُولَىٰ وَالْاخِرَةِ ۖ وَلَهُ الْحُكْمُ وَ اِلَيْهِ تُرْجَعُونَ",
+    "arabic_text": "وَ هُوَ اللّٰهُ لَآ اِلَـٰهَ اِلَّا هُوَ ۖ لَهُ الْحَمْدُ فِى الْاُولَىٰ وَالْاخِرَةِ ۖ وَلَهُ الْحُكْمُ وَ اِلَيْهِ تُرْجَعُونَ",
     "urdu_text": "اور وہی اللہ ہے، اس کے سوا کوئی معبود نہیں، دنیا اور آخرت میں تمام تعریفیں اسی کے لیے ہیں، اور حکم اسی کا ہے، اور تم سب اسی کی طرف لوٹائے جاؤ گے۔",
     "persian_text": "و او الله است که معبودی جز او نیست، ستایش در دنیا و آخرت از آن اوست، و فرمان از آن اوست، و به سوی او بازگردانده می‌شوید.",
     "transliteration": "Wa huwallāhu lā ilāha illā huwa lahul-ḥamdu fil-ūlā wal-ākhirati wa lahul-ḥukmu wa ilayhi turja'ūn"
@@ -609,7 +609,7 @@ ayats = [
   {
     "verse_number": 76,
     "english_text": "Verily, Qaroon was from the nation of Moosa, but he did unjust to his nation; and We had given him such treasures that a powerful party was also unable to lift their very keys; then his nation said do not show boastfulness because Allah does not like the boastful people.",
-    "arabic_text": "۞ اِنَّ قَـٰرُونَ كَانَ مِن قَوْمِ مُوسَىٰ فَبَغَىٰ عَلَيْهِمْ ۖ وَءَاتَيْنَـٰهُ مِنَ الْكُنُوزِ مَآ اِنَّ مَفَاتِحَهُ لَتَنُوٓاُ بِالْعُصْبَةِ اُو۟لِى الْقُوَّةِ اِذْ قَالَ لَهُ قَوْمُهُ لَا تَفْرَحْ ۖ اِنَّ اللّٰهَ لَا يُحِبُّ الْفَرِحِينَ",
+    "arabic_text": "  اِنَّ قَـٰرُونَ كَانَ مِن قَوْمِ مُوسَىٰ فَبَغَىٰ عَلَيْهِمْ ۖ وَءَاتَيْنَـٰهُ مِنَ الْكُنُوزِ مَآ اِنَّ مَفَاتِحَهُ لَتَنُوٓاُ بِالْعُصْبَةِ اُوْلِى الْقُوَّةِ اِذْ قَالَ لَهُ قَوْمُهُ لَا تَفْرَحْ ۖ اِنَّ اللّٰهَ لَا يُحِبُّ الْفَرِحِينَ",
     "urdu_text": "بیشک قارون موسیٰ کی قوم میں سے تھا لیکن اس نے ان پر زیادتی کی، اور ہم نے اسے ایسے خزانے دیے تھے کہ ان کی چابیاں بھی طاقتور لوگوں کی جماعت کو بوجھل کر دیتی تھیں، جب اس کی قوم نے اس سے کہا: اترانا مت کیونکہ اللہ اترانے والوں کو پسند نہیں کرتا۔",
     "persian_text": "همانا قارون از قوم موسی بود اما بر آنان ستم کرد، و ما به او چنان گنجینه‌هایی دادیم که کلیدهایش گروهی نیرومند را به زحمت می‌انداخت، آنگاه قومش به او گفتند: شادمانی مکن که خداوند شادمانان متکبر را دوست ندارد.",
     "transliteration": "Inna Qaaroona kaana min qawmi Moosaa fa baghaa 'alayhim wa aataynaahu minal kunoozi maa inna mafaatihahoo latanoo'u bil'usbati ulil quwwati idh qaala lahoo qawmuhoo laa tafrah innal laaha laa yuhibbul fariheen"
@@ -633,7 +633,7 @@ ayats = [
   {
     "verse_number": 79,
     "english_text": "Then Qaroon came out with all the decorations in front of his people, then those who had desire of this world said: we wish we would have such materials which have been given to Qaroon, he is master of mighty parts.",
-    "arabic_text": "فَخَرَجَ عَلَىٰ قَوْمِهِ فِى زِينَتِهِ ۖ قَالَ الَّذِينَ يُرِيدُونَ الْحَيَوٰةَ الدُّنْيٰيَـٰلَيْتَ لَنَا مِثْلَ مَآ اُوتِىَ قَـٰرُونُ اِنَّهُ لَذُو حَظٍّ عَظِيمٍۢ",
+    "arabic_text": "فَخَرَجَ عَلَىٰ قَوْمِهِ فِى زِينَتِهِ ۖ قَالَ الَّذِينَ يُرِيدُونَ الْحَيٰوةَ الدُّنْيٰيَـٰلَيْتَ لَنَا مِثْلَ مَآ اُوتِىَ قَـٰرُونُ اِنَّهُ لَذُو حَظٍّ عَظِيمٍۢ",
     "urdu_text": "پھر قارون اپنی قوم کے سامنے اپنی پوری آرائش کے ساتھ نکلا، تو جو لوگ دنیا کی زندگی کے خواہشمند تھے انہوں نے کہا: کاش ہمارے پاس بھی وہ ہوتا جو قارون کو دیا گیا ہے، بیشک وہ بڑی قسمت والا ہے۔",
     "persian_text": "پس با زینت خود بر قوم خویش بیرون آمد، آنان که زندگی دنیا را می‌خواستند گفتند: ای کاش ما هم مانند آنچه به قارون داده شده داشتیم، او واقعاً صاحب بهره بزرگی است.",
     "transliteration": "Fakharaja 'alaa qawmihee fee zeenatihee qaalal lazeena yureedoonal hayaatad dunyaa yaa layta lanaa mithla maaa ootiya Qaaroonu innahoo lazoo hazzin 'azeem"
@@ -673,7 +673,7 @@ ayats = [
   {
     "verse_number": 84,
     "english_text": "Whoever will do good work shall be rewarded the best, and whoever will do evil his recompense will be as much as his deeds.",
-    "arabic_text": "مَن جَآءَ بِالْحَسَنَةِ فَلَهُ خَيْرٌۭ مِّنْهَا ۖ وَمَن جَآءَ بِالسَّيِّئَةِ فَلَا يُجْزَى الَّذِينَ عَمِلُواْ السَّيِّـَٔاتِ اِلَّا مَا كَانُواْ يَعْمَلُونَ",
+    "arabic_text": "مَن جَآءَ بِالْحَسَنَةِ فَلَهُ خَيْرٌۭ مِّنْهَا ۖ وَ مَن جَآءَ بِالسَّيِّئَةِ فَلَا يُجْزَى الَّذِينَ عَمِلُواْ السَّيِّـَٔاتِ اِلَّا مَا كَانُواْ يَعْمَلُونَ",
     "urdu_text": "جو نیکی لے کر آئے گا اس کے لیے اس سے بہتر ہے، اور جو برائی لے کر آئے گا تو برے کام کرنے والوں کو صرف اتنی ہی سزا دی جائے گی جتنا انہوں نے عمل کیا تھا۔",
     "persian_text": "هر که کار نیک بیاورد، پس برای او بهتر از آن است، و هر که بدی بیاورد، پس کسانی که بدی‌ها کرده‌اند جز به اندازه آنچه عمل می‌کردند جزا داده نمی‌شوند.",
     "transliteration": "Man jaa'a bil-hasanati falahu khayrun minha, wa man jaa'a bis-sayyi'ati fala yujzal-lazeena 'amilus-sayyi'aati illa ma kanoo ya'maloon"

@@ -57,7 +57,7 @@ ayats = [
   {
     "verse_number": 7,
     "english_text": "Verily, the punishment of Your Lord shall happen.",
-    "arabic_text": "اِنَّ عَذَابَ رَبِّكَ لَوَٰقِعٌۭ",
+    "arabic_text": "اِنَّ عَذَابَ رَبِّكَ لَوٰقِعٌۭ",
     "urdu_text": "بیشک آپ کے رب کا عذاب ضرور واقع ہونے والا ہے",
     "persian_text": "به راستی که عذاب پروردگارت قطعاً واقع خواهد شد",
     "transliteration": "Inna 'azaaba rabbika la waaqi'"
@@ -193,7 +193,7 @@ ayats = [
   {
     "verse_number": 24,
     "english_text": "And young boys will wander around them, who will be like carefully hidden pearls, beautiful and elegant.",
-    "arabic_text": "۞ وَيَطُوفُ عَلَيْهِمْ غِلْمَانٌ لَّهُمْ كَاَنَّهُمْ لُؤْلُؤٌۭ مَّكْنُونٌ",
+    "arabic_text": "  وَيَطُوفُ عَلَيْهِمْ غِلْمَانٌ لَّهُمْ كَاَنَّهُمْ لُؤْلُؤٌۭ مَّكْنُونٌ",
     "urdu_text": "اور ان کے گرد نوجوان لڑکے خدمت کے لیے پھریں گے، جو چھپے ہوئے موتیوں کی طرح خوبصورت اور پاکیزہ ہوں گے۔",
     "persian_text": "و غلامانی بر آنها طواف می‌کنند که گویی مرواریدهای پنهان شده‌ای هستند.",
     "transliteration": "Wa yatoofu 'alayhim ghilmaanul lahum ka-annahum lu'lu'um maknoon"
@@ -201,7 +201,7 @@ ayats = [
   {
     "verse_number": 25,
     "english_text": "And then they will turn towards one another and engage in question and answer.",
-    "arabic_text": "وَاَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍۢ يَتَسَآءَلُونَ",
+    "arabic_text": "وَاَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍ يَتَسَآءَلُونَ",
     "urdu_text": "اور وہ ایک دوسرے کی طرف متوجہ ہوں گے اور آپس میں سوال و جواب کریں گے۔",
     "persian_text": "و بعضی از آنها به سوی بعضی دیگر روی می‌آورند و از یکدیگر سؤال می‌کنند.",
     "transliteration": "Wa aqbala ba'duhum 'alaa ba'diny yatasaaa'aloon"
@@ -289,7 +289,7 @@ ayats = [
   {
     "verse_number": 36,
     "english_text": "Or they have created the skies and the earth; fact is that they will not believe.",
-    "arabic_text": "اَمْ خَلَقُواْ السَّمَـٰوَٰتِ وَالْاَرْضَ ۚ بَل لَّا يُوقِنُونَ",
+    "arabic_text": "اَمْ خَلَقُواْ السَّمَـٰوٰتِ وَالْاَرْضَ ۚ بَل لَّا يُوقِنُونَ",
     "urdu_text": "یا انہوں نے آسمانوں اور زمین کو پیدا کیا ہے؟ حقیقت یہ ہے کہ یہ یقین نہیں رکھتے۔",
     "persian_text": "یا آنها آسمان‌ها و زمین را آفریده‌اند؟ حقیقت این است که آنها یقین ندارند.",
     "transliteration": "Am khalaqus-samaawaati wal-arda bal laa yooqinoon"

@@ -33,7 +33,7 @@ ayats = [
   {
     "verse_number": 4,
     "english_text": "When the infidels come to confront you, smite their necks until they are injured with wounds do tie their arms, thereafter either leave them as a favour or take ransom (and leave them) until they lay down their weapons, remember, if Allah pleased He would have taken the recompense Himself but He wish to test one through another, those who have been slain in His way Allah cannot waste their deeds.",
-    "arabic_text": "فَاِذَا لَقِيتُمُ الَّذِينَ كَفَرُواْ فَضَرْبَ الرِّقَابِ حَتَّىٰٓ اِذَآ اَثْخَنتُمُوهُمْ فَشُدُّواْ الْوَثَاقَ فَاِمَّا مَنًّۢا بَعْدُ وَاِمَّا فِدَآءً حَتَّىٰ تَضَعَ الْحَرْبُ اَوْزَارَهَا ۚ ذٰلِكَ وَ لَوْ يَشَآءُ اللّٰهُ لَانتَصَرَ مِنْهُمْ وَلَـٰكِن لِّيَبْلُوَاْ بَعْضَكُم بِبَعْضٍۢ ۗ وَ الَّذِينَ قُتِلُواْ فِى سَبِيلِ اللّٰهِ فَلَن يُضِلَّ اَعْمَـٰلَهُمْ",
+    "arabic_text": "فَاِذَا لَقِيتُمُ الَّذِينَ كَفَرُواْ فَضَرْبَ الرِّقَابِ حَتَّىٰٓ اِذَآ اَثْخَنتُمُوهُمْ فَشُدُّواْ الْوَثَاقَ فَاِمَّا مَنًّۢا بَعْدُ وَاِمَّا فِدَآءً حَتَّىٰ تَضَعَ الْحَرْبُ اَوْزَارَهَا ۚ ذٰلِكَ وَ لَوْ يَشَآءُ اللّٰهُ لَانتَصَرَ مِنْهُمْ وَلَـٰكِن لِّيَبْلُوَاْ بَعْضَكُم بِبَعْضٍ ۗ وَ الَّذِينَ قُتِلُواْ فِى سَبِيلِ اللّٰهِ فَلَن يُضِلَّ اَعْمَـٰلَهُمْ",
     "urdu_text": "پس جب تمهارا کافروں سے مقابله هو تو گردنیں مارو یهاں تک که جب تم انهیں زخمی کر دو تو رسیاں مضبوط باندھ دو، پھر اس کے بعد یا تو احسان کر کے چھوڑ دو یا فدیه لے کر، یهاں تک که جنگ اپنے هتھیار رکھ دے، یه حکم هے، اور اگر الله چاهتا تو خود ان سے بدله لے لیتا لیکن وه تم میں سے ایک کو دوسرے کے ذریعے آزمانا چاهتا هے، اور جو لوگ الله کی راه میں شهید هوئے الله ان کے اعمال ضائع نهیں کرے گا۔",
     "persian_text": "پس هنگامی که با کافران روبرو شدید، گردن‌ها را بزنید تا آنگاه که آنان را سخت مجروح ساختید، پس بندها را محکم کنید، سپس یا منت نهید و یا فدیه بگیرید تا جنگ بارهای خود را فرو نهد، این چنین است و اگر خدا می‌خواست خود از آنان انتقام می‌گرفت ولی می‌خواهد بعضی از شما را به وسیله بعضی دیگر بیازماید، و کسانی که در راه خدا کشته شدند، خداوند هرگز اعمالشان را تباه نخواهد کرد.",
     "transliteration": "Fa'idhā laqītumul-ladhīna kafarū faḍarbar-riqābi ḥattā idhā athkhantumūhum fashuddūl-wathāqa fa'immā mannam ba'du wa immā fidā'an ḥattā taḍa'al-ḥarbu awzārahā dhālika wa law yashā'ullāhu lantaṣara minhum walākin liyabluwā ba'ḍakum biba'ḍ walladhīna qutilū fī sabīlillāhi falan yuḍilla a'mālahum"
@@ -81,7 +81,7 @@ ayats = [
   {
     "verse_number": 10,
     "english_text": "So did not they travelled in the land to see that what has happened to their earlier ones, Verily Allah has ruined them, and for infidels such punishment is fixed.",
-    "arabic_text": "۞ اَفَلَمْ يَسِيرُواْ فِى الْاَرْضِ فَيَنظُرُواْ كَيْفَ كَانَ عَـٰقِبَةُ الَّذِينَ مِن قَبْلِهِمْ ۚ دَمَّرَ اللّٰهُ عَلَيْهِمْ ۖ وَلِلْكَـٰفِرِينَ اَمْثَـٰلُهَا",
+    "arabic_text": "  اَفَلَمْ يَسِيرُواْ فِى الْاَرْضِ فَيَنظُرُواْ كَيْفَ كَانَ عَـٰقِبَةُ الَّذِينَ مِن قَبْلِهِمْ ۚ دَمَّرَ اللّٰهُ عَلَيْهِمْ ۖ وَلِلْكَـٰفِرِينَ اَمْثَـٰلُهَا",
     "urdu_text": "کیا انهوں نے زمین میں سفر نهیں کیا که دیکھتے که ان سے پهلے لوگوں کا کیا انجام هوا؟ الله نے انهیں تباه کر دیا، اور کافروں کے لیے بھی ایسی هی سزا هے۔",
     "persian_text": "آیا در زمین سیر نکردند تا ببینند عاقبت کسانی که پیش از آنان بودند چگونه بود؟ خداوند آنان را نابود ساخت و برای کافران نیز همانند آن است.",
     "transliteration": "Afalam yasīrū fil-arḍi fayanẓurū kayfa kāna 'āqibatul-ladhīna min qablihim dammarallāhu 'alayhim wa lilkāfirīna amthāluhā"
@@ -121,7 +121,7 @@ ayats = [
   {
     "verse_number": 15,
     "english_text": "An example of the Paradise which has been promised to the pious people is this that there are rivers of water which does not have smell of any kind, there are also some rivers of milk whose taste never changes, and some rivers are of wine - a joy for those who drink, some rivers are of clear honey, and for them there are also fruits of every kind, and there is forgiveness from the Lord; so can these pious people be like those who will forever abide in Hell, there they will be given boiling water to drink which will break their bowels into pieces.",
-    "arabic_text": "مَّثَلُ الْجَنَّةِ الَّتِى وُعِدَ الْمُتَّقُونَ ۖ فِيهَآ اَنْهَـٰرٌۭ مِّن مَّآءٍ غَيْرِ ءَاسِنٍۢ وَاَنْهَـٰرٌۭ مِّن لَّبَنٍۢ لَّمْ يَتَغَيَّرْ طَعْمُهُ وَاَنْهَـٰرٌۭ مِّنْ خَمْرٍۢ لَّذَّةٍۢ لِّلشَّـٰرِبِينَ وَاَنْهَـٰرٌۭ مِّنْ عَسَلٍۢ مُّصَفًّۭى ۖ وَلَهُمْ فِيهَا مِن كُلِّ الثَّمَرَٰتِ وَمَغْفِرَةٌۭ مِّن رَّبِّهِمْ ۖ كَمَنْ هُوَ خَـٰلِدٌۭ فِى النَّارِ وَسُقُواْ مَآءً حَمِيمًا فَقَطَّعَ اَمْعَآءَهُمْ",
+    "arabic_text": "مَّثَلُ الْجَنَّةِ الَّتِى وُعِدَ الْمُتَّقُونَ ۖ فِيهَآ اَنْهَـٰرٌۭ مِّن مَّآءٍ غَيْرِ ءَاسِنٍۢ وَاَنْهَـٰرٌۭ مِّن لَّبَنٍۢ لَّمْ يَتَغَيَّرْ طَعْمُهُ وَاَنْهَـٰرٌۭ مِّنْ خَمْرٍۢ لَّذَّةٍۢ لِّلشَّـٰرِبِينَ وَاَنْهَـٰرٌۭ مِّنْ عَسَلٍۢ مُّصَفًّۭى ۖ وَلَهُمْ فِيهَا مِن كُلِّ الثَّمَرٰتِ وَمَغْفِرَةٌۭ مِّن رَّبِّهِمْ ۖ كَمَنْ هُوَ خَـٰلِدٌۭ فِى النَّارِ وَسُقُواْ مَآءً حَمِيمًا فَقَطَّعَ اَمْعَآءَهُمْ",
     "urdu_text": "جنت کی مثال جس کا پرهیزگاروں سے وعده کیا گیا هے یه هے که اس میں پانی کی نهریں هیں جو بدبودار نهیں، اور دودھ کی نهریں هیں جن کا ذائقه نهیں بدلتا، اور شراب کی نهریں هیں جو پینے والوں کے لیے لذت بخش هیں، اور صاف شهد کی نهریں هیں، اور ان کے لیے هر قسم کے پھل هیں اور ان کے رب کی طرف سے مغفرت هے۔ کیا یه لوگ ان جیسے هو سکتے هیں جو همیشه جهنم میں رهیں گے، جهاں انهیں کھولتا هوا پانی پلایا جائے گا جو ان کی آنتوں کو ٹکڑے ٹکڑے کر دے گا؟",
     "persian_text": "مثال بهشتی که به پرهیزگاران وعده داده شده این است که در آن نهرهایی از آب است که بو نگرفته، و نهرهایی از شیر که طعمش تغییر نکرده، و نهرهایی از شراب که برای نوشندگان لذت‌بخش است، و نهرهایی از عسل خالص، و برای آنها از هر نوع میوه‌ای و آمرزشی از پروردگارشان است. آیا اینها مانند کسانی هستند که همیشه در آتش خواهند ماند و آب جوشان به آنها نوشانده شود که امعایشان را قطعه قطعه کند؟",
     "transliteration": "Mathalu al-jannati allatī wu'ida al-muttaqūna fīhā anhārun min mā'in ghayri āsinin wa anhārun min labanin lam yataghayyar ṭa'muhu wa anhārun min khamrin ladhdhatin lish-shāribīna wa anhārun min 'asalin muṣaffan wa lahum fīhā min kulli ath-thamarāti wa maghfiratun min rabbihim kaman huwa khālidun fī an-nāri wa suqū mā'an ḥamīman faqaṭṭa'a am'ā'ahum"
@@ -129,7 +129,7 @@ ayats = [
   {
     "verse_number": 16,
     "english_text": "And among them are some people who seem to listen to you attentively, and when they go away from you (they) ask those who have been given the knowledge that what was it that he said just now; these are the people whose hearts have been sealed, and they are following their desires.",
-    "arabic_text": "وَ مِنْهُم مَّن يَسْتَمِعُ اِلَيْكَ حَتَّىٰٓ اِذَا خَرَجُواْ مِنْ عِندِكَ قَالُوْاْ لِلَّذِينَ اُوتُواْ الْعِلْمَ مَاذَا قَالَ ءَانِفًا ۚ اُو۟لَـٰٓئِكَ الَّذِينَ طَبَعَ اللّٰهُ عَلَىٰ قُلُوبِهِمْ وَاتَّبَعُوٓاْ اَهْوَآءَهُمْ",
+    "arabic_text": "وَ مِنْهُم مَّن يَسْتَمِعُ اِلَيْكَ حَتَّىٰٓ اِذَا خَرَجُواْ مِنْ عِندِكَ قَالُوْاْ لِلَّذِينَ اُوتُواْ الْعِلْمَ مَاذَا قَالَ ءَانِفًا ۚ اُوْلٓـٰئِكَ الَّذِينَ طَبَعَ اللّٰهُ عَلَىٰ قُلُوبِهِمْ وَاتَّبَعُوٓاْ اَهْوَآءَهُمْ",
     "urdu_text": "اور ان میں سے کچھ لوگ هیں جو آپ کی بات غور سے سنتے هیں، لیکن جب وه آپ کے پاس سے نکل جاتے هیں تو علم والوں سے پوچھتے هیں که ابھی انهوں نے کیا کها تھا؟ یه وه لوگ هیں جن کے دلوں پر الله نے مهر لگا دی هے اور انهوں نے اپنی خواهشات کی پیروی کی هے۔",
     "persian_text": "و از آنها کسانی هستند که به تو گوش می‌دهند، اما وقتی از نزد تو بیرون می‌روند به کسانی که علم داده شده‌اند می‌گویند: الان چه گفت؟ اینها کسانی هستند که خداوند بر دلهایشان مهر زده و از هوای نفس خود پیروی کرده‌اند.",
     "transliteration": "Wa minhum man yastami'u ilayka ḥattā idhā kharajū min 'indika qālū lilladhīna ūtū al-'ilma mādhā qāla ānifan ulā'ika alladhīna ṭaba'a Allāhu 'alā qulūbihim wa attaba'ū ahwā'ahum"
@@ -185,7 +185,7 @@ ayats = [
   {
     "verse_number": 23,
     "english_text": "These are the people whom Allah has cursed and have made their ears deaf and have made their eyes blind.",
-    "arabic_text": "اُو۟لَـٰٓئِكَ الَّذِينَ لَعَنَهُمُ اللّٰهُ فَاَصَمَّهُمْ وَاَعْمَىٰٓ اَبْصَـٰرَهُمْ",
+    "arabic_text": "اُوْلٓـٰئِكَ الَّذِينَ لَعَنَهُمُ اللّٰهُ فَاَصَمَّهُمْ وَاَعْمَىٰٓ اَبْصَـٰرَهُمْ",
     "urdu_text": "یه وه لوگ هیں جن پر الله نے لعنت کی اور انهیں بهرا کر دیا اور ان کی آنکھوں کو اندھا کر دیا۔",
     "persian_text": "اینان کسانی هستند که خدا آنان را لعنت کرده و گوش‌هایشان را کر و چشم‌هایشان را کور ساخته است.",
     "transliteration": "Ulaa'ikal-lazeena la'anahumul-laahu fa-asammahum wa a'maa absaarahum"
@@ -217,7 +217,7 @@ ayats = [
   {
     "verse_number": 27,
     "english_text": "Then what will happen when death will come, and angels will continuously hit their faces and their backs.",
-    "arabic_text": "فَكَيْفَ اِذَا تَوَفَّتْهُمُ الْمَلَـٰٓئِكَةُ يَضْرِبُونَ وُجُوهَهُمْ وَاَدْبَـٰرَهُمْ",
+    "arabic_text": "فَكَيْفَ اِذَا تَوَفَّتْهُمُ الْمَلٓـٰئِكَةُ يَضْرِبُونَ وُجُوهَهُمْ وَاَدْبَـٰرَهُمْ",
     "urdu_text": "پھر کیا حال هوگا جب فرشتے ان کی جان نکالیں گے اور ان کے چهروں اور پیٹھوں پر مارتے رهیں گے۔",
     "persian_text": "پس چگونه خواهد بود هنگامی که فرشتگان جانشان را می‌گیرند در حالی که بر صورت‌ها و پشت‌هایشان می‌زنند.",
     "transliteration": "Fakayfa izaa tawaffat-humul-malaa'ikatu yadriboona wujoohahum wa adbaarahum"
@@ -225,7 +225,7 @@ ayats = [
   {
     "verse_number": 28,
     "english_text": "This is because they followed the things which are displeasing to Allah, and (they) disliked His Will, so Allah also made their deeds null.",
-    "arabic_text": "ذٰلِكَ بِاَنَّهُمُ اتَّبَعُواْ مَآ اَسْخَطَ اللّٰهَ وَكَرِهُواْ رِضْوَٰنَهُ فَاَحْبَطَ اَعْمَـٰلَهُمْ",
+    "arabic_text": "ذٰلِكَ بِاَنَّهُمُ اتَّبَعُواْ مَآ اَسْخَطَ اللّٰهَ وَكَرِهُواْ رِضْوٰنَهُ فَاَحْبَطَ اَعْمَـٰلَهُمْ",
     "urdu_text": "یه اس لیے که انهوں نے ان چیزوں کی پیروی کی جو الله کو ناراض کرتی هیں اور اس کی رضا کو ناپسند کیا، تو الله نے ان کے اعمال برباد کر دیے۔",
     "persian_text": "این بدان سبب است که از آنچه خدا را خشمگین می‌کند پیروی کردند و از خشنودی او کراهت داشتند، پس اعمالشان را تباه ساخت.",
     "transliteration": "Zaalika bi-annahumut-taba'oo maa askhatallaha wa karihoo ridwaanahu fa-ahbata a'maalahum"
@@ -265,7 +265,7 @@ ayats = [
   {
     "verse_number": 33,
     "english_text": "O believers, obey Allah and obey Prophet and beware don't ruin your deeds.",
-    "arabic_text": "۞ يٰٓاَيُّهَا الَّذِينَ ءَامَنُوٓاْ اَطِيعُواْ اللّٰهَ وَاَطِيعُواْ الرَّسُولَ وَ لَا تُبْطِلُوٓاْ اَعْمَـٰلَكُمْ",
+    "arabic_text": "  يٰٓاَيُّهَا الَّذِينَ ءَامَنُوٓاْ اَطِيعُواْ اللّٰهَ وَاَطِيعُواْ الرَّسُولَ وَ لَا تُبْطِلُوٓاْ اَعْمَـٰلَكُمْ",
     "urdu_text": "اے ایمان والو! الله کی اطاعت کرو اور رسول کی اطاعت کرو اور خبردار اپنے اعمال برباد نه کرو۔",
     "persian_text": "ای کسانی که ایمان آورده‌اید! از خدا اطاعت کنید و از پیامبر اطاعت کنید و مبادا اعمال خود را تباه سازید.",
     "transliteration": "Yā ayyuhā alladhīna āmanū aṭī'ū Allāha wa aṭī'ū ar-rasūla wa lā tubṭilū a'mālakum"
@@ -289,7 +289,7 @@ ayats = [
   {
     "verse_number": 36,
     "english_text": "This worldly life is just idle sport and play and if you have adopted faith and piety then Allah will give you full reward and would not ask your possessions from you.",
-    "arabic_text": "اِنَّمَا الْحَيَوٰةُ الدُّنْيٰلَعِبٌۭ وَلَهْوٌۭ ۚ وَ اِن تُؤْمِنُواْ وَتَتَّقُواْ يُؤْتِكُمْ اُجُورَكُمْ وَ لَا يَسْـَٔلْكُمْ اَمْوَٰلَكُمْ",
+    "arabic_text": "اِنَّمَا الْحَيٰوةُ الدُّنْيٰلَعِبٌۭ وَلَهْوٌۭ ۚ وَ اِن تُؤْمِنُواْ وَتَتَّقُواْ يُؤْتِكُمْ اُجُورَكُمْ وَ لَا يَسْـَٔلْكُمْ اَمْوٰلَكُمْ",
     "urdu_text": "یه دنیوی زندگی تو محض کھیل اور تماشا هے، اور اگر تم ایمان لاؤ اور تقویٰ اختیار کرو تو الله تمهیں پورا اجر دے گا اور تم سے تمهارے مال نهیں مانگے گا۔",
     "persian_text": "زندگی دنیا فقط بازی و سرگرمی است، و اگر ایمان بیاورید و تقوا پیشه کنید، خداوند پاداش کامل به شما خواهد داد و اموال شما را از شما نخواهد خواست.",
     "transliteration": "Innamā al-ḥayātu ad-dunyā la'ibun wa lahwun wa in tu'minū wa tattaqū yu'tikum ujūrakum wa lā yas'alkum amwālakum"
@@ -305,7 +305,7 @@ ayats = [
   {
     "verse_number": 38,
     "english_text": "Yes, you are those people that when they are called upon to spend in the way of Allah, some of you show stinginess, and those who are stingy are stingy for themselves, and Allah is Self-Sufficient; you are poor and needy in front of Him, and if you turn your face, Allah will bring another nation in your place who will not be like you.",
-    "arabic_text": "هَـٰٓاَنتُمْ هَـٰٓؤُلَآءِ تُدْعَوْنَ لِتُنفِقُواْ فِى سَبِيلِ اللّٰهِ فَمِنكُم مَّن يَبْخَلُ ۖ وَمَن يَبْخَلْ فَاِنَّمَا يَبْخَلُ عَن نَّفْسِهِ ۚ وَ اللّٰهُ الْغَنِىُّ وَاَنتُمُ الْفُقَرَآءُ ۚ وَ اِن تَتَوَلَّوْاْ يَسْتَبْدِلْ قَوْمًا غَيْرَكُمْ ثُمَّ لَا يَكُونُوٓاْ اَمْثَـٰلَكُم",
+    "arabic_text": "هَـٰٓاَنتُمْ هَـٰٓؤُلَآءِ تُدْعَوْنَ لِتُنفِقُواْ فِى سَبِيلِ اللّٰهِ فَمِنكُم مَّن يَبْخَلُ ۖ وَ مَن يَبْخَلْ فَاِنَّمَا يَبْخَلُ عَن نَّفْسِهِ ۚ وَ اللّٰهُ الْغَنِىُّ وَاَنتُمُ الْفُقَرَآءُ ۚ وَ اِن تَتَوَلَّوْاْ يَسْتَبْدِلْ قَوْمًا غَيْرَكُمْ ثُمَّ لَا يَكُونُوٓاْ اَمْثَـٰلَكُم",
     "urdu_text": "هاں، تم وه لوگ هو که جب تمهیں الله کی راه میں خرچ کرنے کے لیے بلایا جاتا هے تو تم میں سے کچھ لوگ بخل کرتے هیں، اور جو بخل کرتا هے وه اپنے هی نقصان کے لیے بخل کرتا هے، اور الله بے نیاز هے اور تم اس کے سامنے محتاج هو، اور اگر تم منه موڑو گے تو الله تمهاری جگه کوئی اور قوم لے آئے گا جو تمهاری طرح نهیں هوگی۔",
     "persian_text": "آری، شما همان مردمی هستید که وقتی فراخوانده می‌شوید تا در راه خدا انفاق کنید، برخی از شما بخل می‌ورزند، و هر کس بخل ورزد تنها به زیان خودش بخل می‌ورزد، و خداوند بی‌نیاز است و شما نیازمندان، و اگر روی برگردانید، خداوند قومی دیگر به جای شما خواهد آورد که مانند شما نخواهند بود.",
     "transliteration": "Hā'antum hā'ulā'i tud'awna litunfiqū fī sabīli Allāhi faminkum man yabkhalu wa man yabkhal fa'innamā yabkhalu 'an nafsihī wa Allāhu al-ghaniyyu wa antumu al-fuqarā'u wa in tatawallaw yastabdil qawman ghayrakum thumma lā yakūnū amthālakum"

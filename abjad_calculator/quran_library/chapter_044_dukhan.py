@@ -57,7 +57,7 @@ ayats = [
   {
     "verse_number": 7,
     "english_text": "Whatever is between skies and the earth and between them belong to the Lord, if you are believing.",
-    "arabic_text": "رَبِّ السَّمَـٰوَٰتِ وَ الْاَرْضِ وَ مَا بَيْنَهُمَآ ۖ اِن كُنتُم مُّوقِنِينَ",
+    "arabic_text": "رَبِّ السَّمَـٰوٰتِ وَ الْاَرْضِ وَ مَا بَيْنَهُمَآ ۖ اِن كُنتُم مُّوقِنِينَ",
     "urdu_text": "آسمانوں اور زمین اور جو کچھ ان کے درمیان هے سب کا رب هے، اگر تم یقین رکھنے والے هو",
     "persian_text": "پروردگار آسمان‌ها و زمین و آنچه میان آنهاست، اگر اهل یقین هستید",
     "transliteration": "Rabbis-samaawaati wal-ardi wa maa baynahumaa, in kuntum mooqineen"
@@ -137,7 +137,7 @@ ayats = [
   {
     "verse_number": 17,
     "english_text": "And We, before them, tested the nation of Firaun when a respected messenger came to them.",
-    "arabic_text": "۞ وَ لَقَدْ فَتَنَّا قَبْلَهُمْ قَوْمَ فِرْعَوْنَ وَجَآءَهُمْ رَسُولٌۭ كَرِيمٌ",
+    "arabic_text": "  وَ لَقَدْ فَتَنَّا قَبْلَهُمْ قَوْمَ فِرْعَوْنَ وَجَآءَهُمْ رَسُولٌۭ كَرِيمٌ",
     "urdu_text": "اور بیشک هم نے ان سے پهلے فرعون کی قوم کو آزمایا جب ان کے پاس ایک معزز رسول آیا۔",
     "persian_text": "و قطعاً ما پیش از آنان، قوم فرعون را آزمودیم، هنگامی که پیامبری گرامی به سوی آنان آمد.",
     "transliteration": "Wa laqad fatannaa qablahum qawma Fir'awna wa jaaa'ahum rasoolun kareem"
@@ -241,7 +241,7 @@ ayats = [
   {
     "verse_number": 30,
     "english_text": "And We saved Bani Israel from disgraceful punishment.",
-    "arabic_text": "وَ لَقَدْ نَجَّيْنَا بَنِىٓ اِسْرَٰٓءِيلَ مِنَ الْعَذَابِ الْمُهِينِ",
+    "arabic_text": "وَ لَقَدْ نَجَّيْنَا بَنِىٓ اِسْرٰٓءِيلَ مِنَ الْعَذَابِ الْمُهِينِ",
     "urdu_text": "اور بے شک هم نے بنی اسرائیل کو ذلت آمیز عذاب سے نجات دی۔",
     "persian_text": "و قطعاً بنی اسرائیل را از عذاب خوارکننده نجات دادیم.",
     "transliteration": "Wa laqad najjaynaa banee israaa'eela minal 'adhaabil muheen"
@@ -257,7 +257,7 @@ ayats = [
   {
     "verse_number": 32,
     "english_text": "And We chose Bani Israel thoughtfully among all the nations.",
-    "arabic_text": "وَلَقَدِ اخْتَرْنَـٰهُمْ عَلَىٰ عِلْمٍ عَلَى الْعَـٰلَمِينَ",
+    "arabic_text": "وَ لَقَدِ اخْتَرْنَـٰهُمْ عَلَىٰ عِلْمٍ عَلَى الْعَـٰلَمِينَ",
     "urdu_text": "اور بیشک هم نے بنی اسرائیل کو علم کی بنیاد پر تمام جهانوں پر چن لیا۔",
     "persian_text": "و ما بنی اسرائیل را با علم و آگاهی بر تمام جهانیان برگزیدیم.",
     "transliteration": "Wa laqadikhtarnahum 'ala 'ilmin 'alal 'aalameen"
@@ -305,7 +305,7 @@ ayats = [
   {
     "verse_number": 38,
     "english_text": "We have not created earth and the skies and all the creatures between them for play.",
-    "arabic_text": "وَ مَا خَلَقْنَا السَّمَـٰوَٰتِ وَالْاَرْضَ وَ مَا بَيْنَهُمَا لَـٰعِبِينَ",
+    "arabic_text": "وَ مَا خَلَقْنَا السَّمَـٰوٰتِ وَالْاَرْضَ وَ مَا بَيْنَهُمَا لَـٰعِبِينَ",
     "urdu_text": "اور هم نے آسمانوں اور زمین اور جو کچھ ان کے درمیان هے کھیل کے طور پر نهیں بنایا۔",
     "persian_text": "و ما آسمان‌ها و زمین و آنچه میان آنهاست را برای بازی نیافریدیم.",
     "transliteration": "Wa ma khalaqnas samaawaati wal arda wa ma baynahumaa laa'ibeen"

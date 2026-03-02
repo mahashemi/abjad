@@ -33,7 +33,7 @@ ayats = [
   {
     "verse_number": 4,
     "english_text": "That is Allah who created skies and the earth and everything in between them within six days, then established His Power on the Throne, and for you there is no guardian and intercessor other than Him; are not you understanding this thing.",
-    "arabic_text": "اللّٰهُ الَّذِى خَلَقَ السَّمَـٰوَٰتِ وَالْاَرْضَ وَ مَا بَيْنَهُمَا فِى سِتَّةِ اَيَّامٍۢ ثُمَّ اسْتَوَىٰ عَلَى الْعَرْشِ ۖ مَا لَكُم مِّن دُونِهِ مِن وَلِىٍّۢ وَ لَا شَفِيعٍ ۚ اَفَلَا تَتَذَكَّرُونَ",
+    "arabic_text": "اللّٰهُ الَّذِى خَلَقَ السَّمَـٰوٰتِ وَالْاَرْضَ وَ مَا بَيْنَهُمَا فِى سِتَّةِ اَيَّامٍۢ ثُمَّ اسْتَوَىٰ عَلَى الْعَرْشِ ۖ مَا لَكُم مِّن دُونِهِ مِن وَلِىٍّۢ وَ لَا شَفِيعٍ ۚ اَفَلَا تَتَذَكَّرُونَ",
     "urdu_text": "اللہ وہ ہے جس نے آسمانوں اور زمین کو اور جو کچھ ان کے درمیان ہے چھ دنوں میں پیدا کیا، پھر عرش پر قائم ہوا۔ اس کے سوا تمہارا کوئی کارساز اور سفارشی نہیں، کیا تم سمجھتے نہیں؟",
     "persian_text": "خداوندی است که آسمان‌ها و زمین و آنچه میان آنهاست را در شش روز آفرید، سپس بر عرش قرار گرفت. جز او برای شما هیچ سرپرست و شفاعت‌کننده‌ای نیست، آیا متذکر نمی‌شوید؟",
     "transliteration": "Allaahul-lazee khalaqas-samaawaati wal-arda wa maa baynahumaa fee sittati ayyaamin thummas-tawaa 'alal-'arsh, maa lakum-min doonihi miw-waliyyiw-wa laa shafee', afalaa tatazakkaroon"
@@ -73,7 +73,7 @@ ayats = [
   {
     "verse_number": 9,
     "english_text": "Thereafter made him in due proportion and blew His spirit in it; and made for you ear, eye and heart, but you pay very less thanks.",
-    "arabic_text": "ثُمَّ سَوَّىٰهُ وَنَفَخَ فِيهِ مِن رُّوحِهِ ۖ وَجَعَلَ لَكُمُ السَّمْعَ وَالْاَبْصَـٰرَ وَالْاَفْـِٔدَةَ ۚ قَلِيلًا مَّا تَشْكُرُونَ",
+    "arabic_text": "ثُمَّ سَوَّىٰهُ وَنَفَخَ فِيهِ مِن رُّوحِهِ ۖ وَ جَعَلَ لَكُمُ السَّمْعَ وَالْاَبْصَـٰرَ وَالْاَفْـِٔدَةَ ۚ قَلِيلًا مَّا تَشْكُرُونَ",
     "urdu_text": "پھر اسے درست کیا اور اس میں اپنی روح پھونکی، اور تمہارے لیے کان، آنکھیں اور دل بنائے، مگر تم بہت کم شکر ادا کرتے ہو۔",
     "persian_text": "سپس او را متناسب ساخت و از روح خود در او دمید و برای شما گوش و چشم و دل قرار داد، اما کمتر سپاسگزاری می‌کنید.",
     "transliteration": "Thumma sawwaahu wa nafakha feehi mir-roohihee wa ja'ala lakumus-sam'a wal-absaara wal-af'idah, qaleelam-maa tashkuroon"
@@ -81,7 +81,7 @@ ayats = [
   {
     "verse_number": 10,
     "english_text": "And they say: if we are lost in the land, will we be raised again as a new creation? Thing is that they are the deniers of meeting with their Lord.",
-    "arabic_text": "وَقَالُوٓاْ اَءِذَا ضَلَلْنَا فِى الْاَرْضِ اَءِنَّا لَفِى خَلْقٍۢ جَدِيدٍۭ ۚ بَلْ هُم بِلِقَآءِ رَبِّهِمْ كَـٰفِرُونَ",
+    "arabic_text": "وَقَالُوٓاْ اَءِذَا ضَلَلْنَا فِى الْاَرْضِ اَءِنَّا لَفِى خَلْقٍ جَدِيدٍۭ ۚ بَلْ هُم بِلِقَآءِ رَبِّهِمْ كَـٰفِرُونَ",
     "urdu_text": "اور وہ کہتے ہیں کہ جب ہم زمین میں گم ہو جائیں گے تو کیا ہم نئی تخلیق میں ہوں گے؟ بلکہ وہ اپنے رب سے ملاقات کے منکر ہیں۔",
     "persian_text": "و گفتند: آیا هنگامی که در زمین گم شدیم، آیا ما در آفرینشی نو خواهیم بود؟ بلکه آنان به دیدار پروردگارشان کافرند.",
     "transliteration": "Wa qaaloo a'izaa dalalnaa fil-ardi a'innaa lafee khalqin jadeed, bal hum biliqaaa'i Rabbihim kaafiroon"
@@ -89,7 +89,7 @@ ayats = [
   {
     "verse_number": 11,
     "english_text": "Say: Angel of death will reach you to the end of your life, who is deployed for you, thereafter you will all be presented in the Court of the Lord.",
-    "arabic_text": "۞ قُلْ يَتَوَفَّىٰكُم مَّلَكُ الْمَوْتِ الَّذِى وُكِّلَ بِكُمْ ثُمَّ اِلـٰى رَبِّكُمْ تُرْجَعُونَ",
+    "arabic_text": "  قُلْ يَتَوَفَّىٰكُم مَّلَكُ الْمَوْتِ الَّذِى وُكِّلَ بِكُمْ ثُمَّ اِلـٰى رَبِّكُمْ تُرْجَعُونَ",
     "urdu_text": "کہہ دیجیے کہ تمہیں موت کا فرشتہ موت دے گا جو تم پر مقرر کیا گیا ہے، پھر تم سب اپنے رب کی طرف لوٹائے جاؤ گے۔",
     "persian_text": "بگو: فرشته مرگ که بر شما گماشته شده، جان شما را خواهد گرفت، سپس به سوی پروردگارتان بازگردانده خواهید شد.",
     "transliteration": "Qul yatawaffākum malakul-mawtil-ladhī wukkila bikum thumma ilā rabbikum turja'ūn"
@@ -185,7 +185,7 @@ ayats = [
   {
     "verse_number": 23,
     "english_text": "And We gave book to Moosa also, therefore you should not doubt that the Quran is from Allah, and We made book of Moosa a guidance for Bani Israel.",
-    "arabic_text": "وَ لَقَدْ ءَاتَيْنَا مُوسَى الْكِتٰبَ فَلَا تَكُن فِى مِرْيَةٍۢ مِّن لِّقَآئِهِ ۖ وَجَعَلْنَـٰهُ هُدًۭى لِّبَنِىٓ اِسْرَٰٓءِيلَ",
+    "arabic_text": "وَ لَقَدْ ءَاتَيْنَا مُوسَى الْكِتٰبَ فَلَا تَكُن فِى مِرْيَةٍۢ مِّن لِّقَآئِهِ ۖ وَجَعَلْنَـٰهُ هُدًۭى لِّبَنِىٓ اِسْرٰٓءِيلَ",
     "urdu_text": "اور بیشک ہم نے موسیٰ کو کتاب عطا کی، پس تم اس کی ملاقات میں شک میں نہ پڑو، اور ہم نے اسے بنی اسرائیل کے لیے ہدایت بنایا۔",
     "persian_text": "و قطعاً به موسی کتاب دادیم، پس در ملاقات با آن تردید مکن، و آن را برای بنی اسرائیل هدایت قرار دادیم.",
     "transliteration": "Wa laqad aataynaa Moosal Kitaaba falaa takun fee miryatim min liqaa'ihee wa ja'alnaahu hudal li-Baneee Israa'eel"

@@ -17,7 +17,7 @@ ayats = [
   {
     "verse_number": 2,
     "english_text": "O People of Faith beware, do not raise your voice over the voice of the Prophet and do not speak loudly to him as you call out to one another among yourselves; lest your deeds may go waste, and you are not even aware of it.",
-    "arabic_text": "يٰٓاَيُّهَا الَّذِينَ ءَامَنُواْ لَا تَرْفَعُوٓاْ اَصْوَٰتَكُمْ فَوْقَ صَوْتِ النَّبِىِّ وَ لَا تَجْهَرُواْ لَهُ بِالْقَوْلِ كَجَهْرِ بَعْضِكُمْ لِبَعْضٍ اَن تَحْبَطَ اَعْمَـٰلُكُمْ وَ اَنتُمْ لَا تَشْعُرُونَ",
+    "arabic_text": "يٰٓاَيُّهَا الَّذِينَ ءَامَنُواْ لَا تَرْفَعُوٓاْ اَصْوٰتَكُمْ فَوْقَ صَوْتِ النَّبِىِّ وَ لَا تَجْهَرُواْ لَهُ بِالْقَوْلِ كَجَهْرِ بَعْضِكُمْ لِبَعْضٍ اَن تَحْبَطَ اَعْمَـٰلُكُمْ وَ اَنتُمْ لَا تَشْعُرُونَ",
     "urdu_text": "اے ایمان والو! اپنی آوازیں نبی کی آواز سے بلند نہ کرو اور ان سے اونچی آواز میں بات نہ کرو جیسے تم آپس میں ایک دوسرے سے کرتے ہو، کہیں تمہارے اعمال برباد نہ ہو جائیں اور تمہیں خبر بھی نہ ہو۔",
     "persian_text": "ای کسانی که ایمان آورده‌اید، صدای خود را بالاتر از صدای پیامبر بلند نکنید و با او بلند سخن نگویید همان‌گونه که با یکدیگر بلند سخن می‌گویید، مبادا اعمالتان نابود شود و شما نمی‌دانید.",
     "transliteration": "Yaa ayyuhal-lazeena aamanoo laa tarfa'oo aswaa takum fawqa sawtil-nabiyyi wa laa tajharoo lahu bil-qawli ka-jahri ba'dikum li-ba'd, an tahbata a'maalukum wa antum laa tash'uroon"
@@ -25,7 +25,7 @@ ayats = [
   {
     "verse_number": 3,
     "english_text": "Verily those who keep down the tone of their voice in front of the Prophet, these are the people whose hearts Allah has tested for piety, and for them is forgiveness and grand reward.",
-    "arabic_text": "اِنَّ الَّذِينَ يَغُضُّونَ اَصْوَٰتَهُمْ عِندَ رَسُولِ اللّٰهِ اُو۟لَـٰٓئِكَ الَّذِينَ امْتَحَنَ اللّٰهُ قُلُوبَهُمْ لِلتَّقْوَىٰ ۚ لَهُم مَّغْفِرَةٌۭ وَاَجْرٌ عَظِيمٌ",
+    "arabic_text": "اِنَّ الَّذِينَ يَغُضُّونَ اَصْوٰتَهُمْ عِندَ رَسُولِ اللّٰهِ اُوْلٓـٰئِكَ الَّذِينَ امْتَحَنَ اللّٰهُ قُلُوبَهُمْ لِلتَّقْوَىٰ ۚ لَهُم مَّغْفِرَةٌۭ وَاَجْرٌ عَظِيمٌ",
     "urdu_text": "بیشک جو لوگ اللہ کے رسول کے سامنے اپنی آوازیں پست رکھتے ہیں، یہی وہ لوگ ہیں جن کے دلوں کو اللہ نے تقویٰ کے لیے آزمایا ہے، ان کے لیے بخشش اور بڑا اجر ہے۔",
     "persian_text": "همانا کسانی که صدای خود را نزد پیامبر خدا پایین نگه می‌دارند، آنان کسانی هستند که خداوند دل‌هایشان را برای تقوا آزموده است، برای آنان آمرزش و پاداش بزرگی است.",
     "transliteration": "Innal-lazeena yaghud-doona aswaa tahum 'inda rasoolil-laahi ulaa'ikal-lazeenamt ahanal-laahu quloobahum lit-taqwaa, lahum maghfiratun wa ajrun 'azheem"
@@ -33,7 +33,7 @@ ayats = [
   {
     "verse_number": 4,
     "english_text": "Verily those who call out to you from behind the chambers, majority of them do not understand anything.",
-    "arabic_text": "اِنَّ الَّذِينَ يُنَادُونَكَ مِن وَرَآءِ الْحُجُرَٰتِ اَكْثَرُهُمْ لَا يَعْقِلُونَ",
+    "arabic_text": "اِنَّ الَّذِينَ يُنَادُونَكَ مِن وَرَآءِ الْحُجُرٰتِ اَكْثَرُهُمْ لَا يَعْقِلُونَ",
     "urdu_text": "بیشک جو لوگ آپ کو حجروں کے پیچھے سے پکارتے ہیں، ان میں سے اکثر نہیں سمجھتے۔",
     "persian_text": "همانا کسانی که تو را از پشت حجره‌ها صدا می‌زنند، بیشترشان نمی‌فهمند.",
     "transliteration": "Innal-lazeena yunaa doonaka min waraa'il-hujuraati aktharuhum laa ya'qiloon"
@@ -57,7 +57,7 @@ ayats = [
   {
     "verse_number": 7,
     "english_text": "And remember Prophet of Allah is present amidst you, if he listens to you in many of the matters you would have been in trouble, but Allah made the faith beloved for you and adorned it into your hearts; and disliked infidelity, transgression, and disobedience for you, and in fact these people are the guided ones.",
-    "arabic_text": "وَاعْلَمُوٓاْ اَنَّ فِيكُمْ رَسُولَ اللّٰهِ ۚ لَوْ يُطِيعُكُمْ فِى كَثِيرٍۢ مِّنَ الْاَمْرِ لَعَنِتُّمْ وَلَـٰكِنَّ اللّٰهَ حَبَّبَ اِلَيْكُمُ الْاِيمَـٰنَ وَزَيَّنَهُ فِى قُلُوبِكُمْ وَكَرَّهَ اِلَيْكُمُ الْكُفْرَ وَالْفُسُوقَ وَالْعِصْيَانَ ۚ اُو۟لَـٰٓئِكَ هُمُ الرَّٰشِدُونَ",
+    "arabic_text": "وَاعْلَمُوٓاْ اَنَّ فِيكُمْ رَسُولَ اللّٰهِ ۚ لَوْ يُطِيعُكُمْ فِى كَثِيرٍۢ مِّنَ الْاَمْرِ لَعَنِتُّمْ وَلَـٰكِنَّ اللّٰهَ حَبَّبَ اِلَيْكُمُ الْاِيمَـٰنَ وَزَيَّنَهُ فِى قُلُوبِكُمْ وَكَرَّهَ اِلَيْكُمُ الْكُفْرَ وَالْفُسُوقَ وَالْعِصْيَانَ ۚ اُوْلٓـٰئِكَ هُمُ الرَّٰشِدُونَ",
     "urdu_text": "اور جان لو کہ تم میں اللہ کے رسول موجود ہیں، اگر وہ بہت سے معاملات میں تمہاری بات مان لیں تو تم مشکل میں پڑ جاؤ، لیکن اللہ نے ایمان کو تمہارے لیے محبوب بنا دیا اور اسے تمہارے دلوں میں سجا دیا، اور کفر، فسق اور نافرمانی کو تمہارے لیے ناپسند کر دیا، یہی لوگ ہدایت یافتہ ہیں۔",
     "persian_text": "و بدانید که پیامبر خدا در میان شماست، اگر او در بسیاری از کارها از شما اطاعت کند، به رنج خواهید افتاد، ولی خداوند ایمان را برای شما محبوب گردانید و آن را در دل‌هایتان زینت داد، و کفر و فسق و نافرمانی را برای شما ناخوشایند کرد، آنان همان راه‌یافتگانند.",
     "transliteration": "Wa'lamoo anna feekum rasoolal-laah, law yutee'ukum fee katheerim-minal-amri la'anittum wa laakinnal-laaha habbaba ilaykumul-eemaana wa zayyanahu fee quloobikum wa karriha ilaykumul-kufra wal-fusooqa wal-'isyaan, ulaa'ika humur-raashidoon"
@@ -89,7 +89,7 @@ ayats = [
   {
     "verse_number": 11,
     "english_text": "O believers, beware, no nation should mock at other nation, because they may be better than they; and group of women should not laugh at the other group, those women may be better than them and do not taunt one another and do not call one another with bad titles; even the name of evil is bad after faith; and know that those who do not repent, they are in fact the unjust people.",
-    "arabic_text": "يٰٓاَيُّهَا الَّذِينَ ءَامَنُواْ لَا يَسْخَرْ قَوْمٌۭ مِّن قَوْمٍ عَسَىٰٓ اَن يَكُونُواْ خَيْرًا مِّنْهُمْ وَ لَا نِسَآءٌۭ مِّن نِّسَآءٍ عَسَىٰٓ اَن يَكُنَّ خَيْرًا مِّنْهُنَّ ۖ وَ لَا تَلْمِزُوٓاْ اَنفُسَكُمْ وَ لَا تَنَابَزُواْ بِالْاَلْقَـٰبِ ۖ بِئْسَ الِاسْمُ الْفُسُوقُ بَعْدَ الْاِيمَـٰنِ ۚ وَمَن لَّمْ يَتُبْ فَاُو۟لَـٰٓئِكَ هُمُ الظَّـٰلِمُونَ",
+    "arabic_text": "يٰٓاَيُّهَا الَّذِينَ ءَامَنُواْ لَا يَسْخَرْ قَوْمٌۭ مِّن قَوْمٍ عَسَىٰٓ اَن يَكُونُواْ خَيْرًا مِّنْهُمْ وَ لَا نِسَآءٌۭ مِّن نِّسَآءٍ عَسَىٰٓ اَن يَكُنَّ خَيْرًا مِّنْهُنَّ ۖ وَ لَا تَلْمِزُوٓاْ اَنفُسَكُمْ وَ لَا تَنَابَزُواْ بِالْاَلْقَـٰبِ ۖ بِئْسَ الِاسْمُ الْفُسُوقُ بَعْدَ الْاِيمَـٰنِ ۚ وَ مَن لَّمْ يَتُبْ فَاُوْلٓـٰئِكَ هُمُ الظَّـٰلِمُونَ",
     "urdu_text": "اے ایمان والو! کوئی قوم کسی قوم کا مذاق نہ اڑائے، ہو سکتا ہے کہ وہ ان سے بہتر ہوں، اور نہ عورتیں دوسری عورتوں کا مذاق اڑائیں، ہو سکتا ہے کہ وہ ان سے بہتر ہوں، اور ایک دوسرے پر طعنہ نہ کرو اور نہ ایک دوسرے کو برے لقب سے پکارو، ایمان کے بعد فسق کا نام بہت برا ہے، اور جو توبہ نہ کریں تو وہی ظالم لوگ ہیں۔",
     "persian_text": "ای کسانی که ایمان آورده‌اید! هیچ قومی نباید قوم دیگری را مسخره کند، شاید آنها از اینها بهتر باشند، و نه زنانی زنان دیگر را، شاید آنها از اینها بهتر باشند، و یکدیگر را عیب‌جویی نکنید و یکدیگر را به لقب‌های بد نخوانید، نام بدی پس از ایمان بسیار زشت است، و کسانی که توبه نکنند، آنها همان ستمکاران هستند.",
     "transliteration": "Yā ayyuhā alladhīna āmanū lā yaskhar qawmun min qawmin 'asā an yakūnū khayran minhum wa lā nisā'un min nisā'in 'asā an yakunna khayran minhunna wa lā talmizū anfusakum wa lā tanābazū bil-alqābi bi'sa al-ismu al-fusūqu ba'da al-īmāni wa man lam yatub fa'ulā'ika humu al-ẓālimūn"
@@ -113,7 +113,7 @@ ayats = [
   {
     "verse_number": 14,
     "english_text": "These Arabs of desert say we believe, so you say to them: you have not believed but say you just accepted Islam, and faith has not entered into your hearts yet, and if you will obey Allah and His Prophet then He would not lessen your deeds, and He is very Forgiving and Merciful.",
-    "arabic_text": "۞ قَالَتِ الْاَعْرَابُ ءَامَنَّا ۖ قُل لَّمْ تُؤْمِنُواْ وَلَـٰكِن قُولُوٓاْ اَسْلَمْنَا وَلَمَّا يَدْخُلِ الْاِيمَـٰنُ فِى قُلُوبِكُمْ ۖ وَ اِن تُطِيعُواْ اللّٰهَ وَرَسُولَهُ لَا يَلِتْكُم مِّنْ اَعْمَـٰلِكُمْ شَيْـًٔا ۚ اِنَّ اللّٰهَ غَفُورٌۭ رَّحِيمٌ",
+    "arabic_text": "  قَالَتِ الْاَعْرَابُ ءَامَنَّا ۖ قُل لَّمْ تُؤْمِنُواْ وَلَـٰكِن قُولُوٓاْ اَسْلَمْنَا وَلَمَّا يَدْخُلِ الْاِيمَـٰنُ فِى قُلُوبِكُمْ ۖ وَ اِن تُطِيعُواْ اللّٰهَ وَرَسُولَهُ لَا يَلِتْكُم مِّنْ اَعْمَـٰلِكُمْ شَيْـًٔا ۚ اِنَّ اللّٰهَ غَفُورٌۭ رَّحِيمٌ",
     "urdu_text": "دیہاتی عرب کہتے ہیں کہ ہم ایمان لائے، آپ کہہ دیجیے کہ تم ایمان نہیں لائے بلکہ یہ کہو کہ ہم اسلام لائے ہیں، اور ابھی ایمان تمہارے دلوں میں داخل نہیں ہوا، اور اگر تم اللہ اور اس کے رسول کی اطاعت کرو گے تو وہ تمہارے اعمال میں سے کچھ کم نہیں کرے گا، بیشک اللہ بخشنے والا اور مہربان ہے۔",
     "persian_text": "اعراب بیابان‌نشین گفتند ما ایمان آوردیم، بگو شما ایمان نیاورده‌اید بلکه بگویید اسلام آورده‌ایم، و هنوز ایمان به دل‌های شما وارد نشده است، و اگر از خدا و پیامبرش اطاعت کنید، چیزی از اعمال شما کم نخواهد کرد، همانا خداوند آمرزنده و مهربان است.",
     "transliteration": "Qālati al-a'rābu āmannā qul lam tu'minū wa lākin qūlū aslamna wa lammā yadkhuli al-īmānu fī qulūbikum wa in tuṭī'ū Allāha wa rasūlahu lā yalitkum min a'mālikum shay'an inna Allāha ghafūrun raḥīm"
@@ -121,7 +121,7 @@ ayats = [
   {
     "verse_number": 15,
     "english_text": "People of Faith are only those who believe on Allah and His Prophet and then never doubted and struggled hard in His way with their wealth and lives; and in fact, these are the people who are truthful in their claim of faith.",
-    "arabic_text": "اِنَّمَا الْمُؤْمِنُونَ الَّذِينَ ءَامَنُواْ بِاللّٰهِ وَرَسُولِهِ ثُمَّ لَمْ يَرْتَابُواْ وَجَـٰهَدُواْ بِاَمْوَٰلِهِمْ وَاَنفُسِهِمْ فِى سَبِيلِ اللّٰهِ ۚ اُو۟لَـٰٓئِكَ هُمُ الصَّـٰدِقُونَ",
+    "arabic_text": "اِنَّمَا الْمُؤْمِنُونَ الَّذِينَ ءَامَنُواْ بِاللّٰهِ وَرَسُولِهِ ثُمَّ لَمْ يَرْتَابُواْ وَجَـٰهَدُواْ بِاَمْوٰلِهِمْ وَاَنفُسِهِمْ فِى سَبِيلِ اللّٰهِ ۚ اُوْلٓـٰئِكَ هُمُ الصَّـٰدِقُونَ",
     "urdu_text": "مومن تو صرف وہی ہیں جو اللہ اور اس کے رسول پر ایمان لائے، پھر شک نہیں کیا اور اللہ کی راہ میں اپنے مالوں اور جانوں سے جہاد کیا، یہی لوگ اپنے ایمان کے دعوے میں سچے ہیں۔",
     "persian_text": "مؤمنان تنها کسانی هستند که به خدا و پیامبرش ایمان آوردند، سپس شک نکردند و با اموال و جان‌های خود در راه خدا جهاد کردند، اینها همان کسانی هستند که در ادعای ایمان خود راستگو هستند.",
     "transliteration": "Innamā al-mu'minūna alladhīna āmanū billāhi wa rasūlihi thumma lam yartābū wa jāhadū bi-amwālihim wa anfusihim fī sabīli Allāhi ulā'ika humu al-ṣādiqūn"
@@ -129,7 +129,7 @@ ayats = [
   {
     "verse_number": 16,
     "english_text": "You tell them: are you teaching your religion to Allah, whereas He is Aware of everything in the skies and the earth, and He is Knower of everything of the universe.",
-    "arabic_text": "قُلْ اَتُعَلِّمُونَ اللّٰهَ بِدِينِكُمْ وَ اللّٰهُ يَعْلَمُ مَا فِى السَّمَـٰوَٰتِ وَ مَا فِى الْاَرْضِ ۚ وَ اللّٰهُ بِكُلِّ شَىْءٍ عَلِيمٌۭ",
+    "arabic_text": "قُلْ اَتُعَلِّمُونَ اللّٰهَ بِدِينِكُمْ وَ اللّٰهُ يَعْلَمُ مَا فِى السَّمَـٰوٰتِ وَ مَا فِى الْاَرْضِ ۚ وَ اللّٰهُ بِكُلِّ شَىْءٍ عَلِيمٌۭ",
     "urdu_text": "آپ کہہ دیجیے: کیا تم اللہ کو اپنے دین کی تعلیم دے رہے ہو؟ حالانکہ اللہ آسمانوں اور زمین میں جو کچھ ہے سب کو جانتا ہے، اور اللہ ہر چیز کا جاننے والا ہے۔",
     "persian_text": "بگو آیا شما دین خود را به خدا می‌آموزید؟ در حالی که خداوند آنچه را در آسمان‌ها و زمین است می‌داند، و خداوند به هر چیزی دانا است.",
     "transliteration": "Qul atu'allimūna Allāha bi-dīnikum wa Allāhu ya'lamu mā fī al-samāwāti wa mā fī al-arḍi wa Allāhu bikulli shay'in 'alīm"
@@ -145,7 +145,7 @@ ayats = [
   {
     "verse_number": 18,
     "english_text": "Indeed, Allah is aware of every unseen of the skies and the earth, and He is seeing all your deeds.",
-    "arabic_text": "اِنَّ اللّٰهَ يَعْلَمُ غَيْبَ السَّمَـٰوَٰتِ وَ الْاَرْضِ ۚ وَ اللّٰهُ بَصِيرٌۢ بِمَا تَعْمَلُونَ",
+    "arabic_text": "اِنَّ اللّٰهَ يَعْلَمُ غَيْبَ السَّمَـٰوٰتِ وَ الْاَرْضِ ۚ وَ اللّٰهُ بَصِيرٌۢ بِمَا تَعْمَلُونَ",
     "urdu_text": "بیشک اللہ آسمانوں اور زمین کی ہر پوشیدہ چیز کو جانتا ہے، اور اللہ تمہارے تمام اعمال کو دیکھنے والا ہے۔",
     "persian_text": "همانا خداوند غیب آسمان‌ها و زمین را می‌داند، و خداوند به آنچه انجام می‌دهید بینا است.",
     "transliteration": "Inna Allāha ya'lamu ghayba al-samāwāti wa al-arḍi wa Allāhu baṣīrun bimā ta'malūn"

@@ -25,7 +25,7 @@ ayats = [
   {
     "verse_number": 3,
     "english_text": "And swear by those (winds) which disperse the things (clouds).",
-    "arabic_text": "وَالنَّـٰشِرَٰتِ نَشْرًا",
+    "arabic_text": "وَالنَّـٰشِرٰتِ نَشْرًا",
     "urdu_text": "اور قسم ہے ان (ہواؤں) کی جو چیزوں (بادلوں) کو پھیلاتی ہیں۔",
     "persian_text": "و سوگند به آنها (بادها) که چیزها (ابرها) را پراکنده می‌سازند.",
     "transliteration": "Wan-naashiraati nashraa"
@@ -57,7 +57,7 @@ ayats = [
   {
     "verse_number": 7,
     "english_text": "The thing, which is promised to you, that is after all going to happen.",
-    "arabic_text": "اِنَّمَا تُوعَدُونَ لَوَٰقِعٌۭ",
+    "arabic_text": "اِنَّمَا تُوعَدُونَ لَوٰقِعٌۭ",
     "urdu_text": "جس چیز کا تم سے وعدہ کیا جا رہا ہے، وہ ضرور واقع ہونے والی ہے۔",
     "persian_text": "آنچه به شما وعده داده شده، قطعاً واقع خواهد شد.",
     "transliteration": "Innamaa too'adoona la-waaqi'"
@@ -209,7 +209,7 @@ ayats = [
   {
     "verse_number": 26,
     "english_text": "In which (We) will collect alive and the dead.",
-    "arabic_text": "اَحْيَآءًۭ وَاَمْوَٰتًۭا",
+    "arabic_text": "اَحْيَآءًۭ وَاَمْوٰتًۭا",
     "urdu_text": "زندوں اور مردوں کو جمع کرنے والی",
     "persian_text": "زندگان و مردگان را",
     "transliteration": "Ahya'an wa amwata"
@@ -217,7 +217,7 @@ ayats = [
   {
     "verse_number": 27,
     "english_text": "And made high mountains in it, and satiate you with the sweet water.",
-    "arabic_text": "وَجَعَلْنَا فِيهَا رَوَٰسِىَ شَـٰمِخَـٰتٍۢ وَاَسْقَيْنَـٰكُم مَّآءًۭ فُرَاتًۭا",
+    "arabic_text": "وَجَعَلْنَا فِيهَا رَوٰسِىَ شَـٰمِخَـٰتٍۢ وَاَسْقَيْنَـٰكُم مَّآءًۭ فُرَاتًۭا",
     "urdu_text": "اور ہم نے اس میں بلند پہاڑ بنائے اور تمہیں میٹھا پانی پلایا",
     "persian_text": "و در آن کوه‌های استوار و بلند قرار دادیم و شما را آب گوارا نوشاندیم",
     "transliteration": "Wa ja'alna feeha rawasiya shamikhatin wa asqaynakum ma'an furata"
@@ -337,7 +337,7 @@ ayats = [
   {
     "verse_number": 42,
     "english_text": "And the fruits will be according to their desire.",
-    "arabic_text": "وَفَوَٰكِهَ مِمَّا يَشْتَهُونَ",
+    "arabic_text": "وَفَوٰكِهَ مِمَّا يَشْتَهُونَ",
     "urdu_text": "اور میوے جو وہ چاہیں گے",
     "persian_text": "و میوه‌هایی از آنچه خواهان آن هستند",
     "transliteration": "Wa fawaakiha mimmaa yashtahoon"

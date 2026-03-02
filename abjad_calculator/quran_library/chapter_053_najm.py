@@ -57,7 +57,7 @@ ayats = [
   {
     "verse_number": 7,
     "english_text": "When he was on the highest of the horizon.",
-    "arabic_text": "وَهُوَ بِالْاُفُقِ الْاَعْلَىٰ",
+    "arabic_text": "وَ هُوَ بِالْاُفُقِ الْاَعْلَىٰ",
     "urdu_text": "جبکہ وہ بلند ترین افق پر تھا",
     "persian_text": "در حالی که او در افق اعلی بود",
     "transliteration": "Wa huwa bil-ufuqil-aʿlā"
@@ -209,7 +209,7 @@ ayats = [
   {
     "verse_number": 26,
     "english_text": "And how many angels are there in the skies whose intercession cannot benefit anyone; except that Allah allows to whom He pleases and chooses.",
-    "arabic_text": "۞ وَكَم مِّن مَّلَكٍۢ فِى السَّمَـٰوَٰتِ لَا تُغْنِى شَفَـٰعَتُهُمْ شَيْـًٔا اِلَّا مِنۢ بَعْدِ اَن يَاْذَنَ اللّٰهُ لِمَن يَشَآءُ وَيَرْضَىٰٓ",
+    "arabic_text": "  وَكَم مِّن مَّلَكٍۢ فِى السَّمَـٰوٰتِ لَا تُغْنِى شَفَـٰعَتُهُمْ شَيْـًٔا اِلَّا مِنۢ بَعْدِ اَن يَاْذَنَ اللّٰهُ لِمَن يَشَآءُ وَيَرْضَىٰٓ",
     "urdu_text": "اور آسمانوں میں کتنے ہی فرشتے ہیں جن کی شفاعت کچھ بھی فائدہ نہیں دے سکتی، سوائے اس کے کہ اللہ جس کے لیے چاہے اور پسند فرمائے اجازت دے دے۔",
     "persian_text": "و چه بسیار فرشتگانی در آسمان‌ها هستند که شفاعت آنها هیچ سودی نمی‌بخشد، مگر پس از آنکه خداوند برای هر که بخواهد و پسند کند اجازه دهد.",
     "transliteration": "Wa kam min malakin fis-samaawaati laa tughnee shafaa'atuhum shay'an illaa min ba'di an ya'dhana Allahu liman yashaa'u wa yardaa"
@@ -217,7 +217,7 @@ ayats = [
   {
     "verse_number": 27,
     "english_text": "Verily those who do not believe in the Hereafter name the angels after female names.",
-    "arabic_text": "اِنَّ الَّذِينَ لَا يُؤْمِنُونَ بِالْاخِرَةِ لَيُسَمُّونَ الْمَلَـٰٓئِكَةَ تَسْمِيَةَ الْاُنثَىٰ",
+    "arabic_text": "اِنَّ الَّذِينَ لَا يُؤْمِنُونَ بِالْاخِرَةِ لَيُسَمُّونَ الْمَلٓـٰئِكَةَ تَسْمِيَةَ الْاُنثَىٰ",
     "urdu_text": "بے شک جو لوگ آخرت پر ایمان نہیں رکھتے وہ فرشتوں کو عورتوں کے نام دیتے ہیں۔",
     "persian_text": "همانا کسانی که به آخرت ایمان ندارند، فرشتگان را به نام‌های مؤنث می‌نامند.",
     "transliteration": "Inna alladheena laa yu'minoona bil-aakhirati layusammoona al-malaa'ikata tasmiyata al-unthaa"
@@ -233,7 +233,7 @@ ayats = [
   {
     "verse_number": 29,
     "english_text": "Therefore, who turns his face from Our mention and does not desire anything except this world, you also turn aside from him.",
-    "arabic_text": "فَاَعْرِضْ عَن مَّن تَوَلَّىٰ عَن ذِكْرِنَا وَلَمْ يُرِدْ اِلَّا الْحَيَوٰةَ الدُّنْيَا",
+    "arabic_text": "فَاَعْرِضْ عَن مَّن تَوَلَّىٰ عَن ذِكْرِنَا وَلَمْ يُرِدْ اِلَّا الْحَيٰوةَ الدُّنْيَا",
     "urdu_text": "پس جو ہماری یاد سے منہ موڑ لے اور دنیا کی زندگی کے سوا کچھ نہ چاہے، تم بھی اس سے منہ موڑ لو۔",
     "persian_text": "پس از کسی که از یاد ما روی گردانده و جز زندگی دنیا چیزی نمی‌خواهد، تو نیز روی بگردان.",
     "transliteration": "Fa-a'rid 'an man tawallaa 'an dhikrinaa wa lam yurid illaa al-hayaata ad-dunyaa"
@@ -249,7 +249,7 @@ ayats = [
   {
     "verse_number": 31,
     "english_text": "And to Allah belongs the authority of the skies and the earth, that He may punish those who do evil deeds; and reward those who do good deeds with what is the best.",
-    "arabic_text": "وَلِلَّهِ مَا فِى السَّمَـٰوَٰتِ وَ مَا فِى الْاَرْضِ لِيَجْزِىَ الَّذِينَ اَسَـٰٓـُٔواْ بِمَا عَمِلُواْ وَيَجْزِىَ الَّذِينَ اَحْسَنُواْ بِالْحُسْنَى",
+    "arabic_text": "وَلِلَّهِ مَا فِى السَّمَـٰوٰتِ وَ مَا فِى الْاَرْضِ لِيَجْزِىَ الَّذِينَ اَسَـٰٓـُٔواْ بِمَا عَمِلُواْ وَيَجْزِىَ الَّذِينَ اَحْسَنُواْ بِالْحُسْنَى",
     "urdu_text": "اور اللہ ہی کے لیے ہے جو کچھ آسمانوں میں ہے اور جو کچھ زمین میں ہے، تاکہ وہ بدی کرنے والوں کو ان کے اعمال کی سزا دے اور نیکی کرنے والوں کو بہترین جزا عطا فرمائے۔",
     "persian_text": "و آنچه در آسمان‌ها و آنچه در زمین است از آنِ الله است، تا کسانی را که بدی کرده‌اند به کیفر اعمالشان برساند و کسانی را که نیکی کرده‌اند به بهترین پاداش جزا دهد.",
     "transliteration": "Wa lillahi ma fis-samawati wa ma fil-ardi liyajziyal-ladhina asa'u bima 'amilu wa yajziyal-ladhina ahsanu bil-husna"
@@ -257,7 +257,7 @@ ayats = [
   {
     "verse_number": 32,
     "english_text": "And those who desist from the major sins and indecencies (and) falls only into the small sins; Verily your Lord is very vast forgiver, He was aware of your condition when He created you from the dust, and when you were in the wombs of your mothers nearing birth, therefore do not attribute purity to your souls; He is well aware of the pious people.",
-    "arabic_text": "الَّذِينَ يَجْتَنِبُونَ كَبَـٰٓئِرَ الْاِثْمِ وَالْفَوَٰحِشَ اِلَّا اللَّمَمَ ۚ اِنَّ رَبَّكَ وَٰسِعُ الْمَغْفِرَةِ ۚ هُوَ اَعْلَمُ بِكُمْ اِذْ اَنشَاَكُم مِّنَ الْاَرْضِ وَاِذْ اَنتُمْ اَجِنَّةٌۭ فِى بُطُونِ اُمَّهَـٰتِكُمْ ۖ فَلَا تُزَكُّوٓاْ اَنفُسَكُمْ ۖ هُوَ اَعْلَمُ بِمَنِ اتَّقَىٰٓ",
+    "arabic_text": "الَّذِينَ يَجْتَنِبُونَ كَبَـٰٓئِرَ الْاِثْمِ وَالْفَوٰحِشَ اِلَّا اللَّمَمَ ۚ اِنَّ رَبَّكَ وٰسِعُ الْمَغْفِرَةِ ۚ هُوَ اَعْلَمُ بِكُمْ اِذْ اَنشَاَكُم مِّنَ الْاَرْضِ وَاِذْ اَنتُمْ اَجِنَّةٌۭ فِى بُطُونِ اُمَّهَـٰتِكُمْ ۖ فَلَا تُزَكُّوٓاْ اَنفُسَكُمْ ۖ هُوَ اَعْلَمُ بِمَنِ اتَّقَىٰٓ",
     "urdu_text": "جو لوگ بڑے گناہوں اور بے حیائی کے کاموں سے بچتے ہیں سوائے چھوٹی لغزشوں کے، بیشک آپ کا رب بہت وسیع بخشش والا ہے۔ وہ تمہیں خوب جانتا ہے جب اس نے تمہیں مٹی سے پیدا کیا اور جب تم اپنی ماؤں کے پیٹوں میں جنین تھے، لہٰذا اپنے آپ کو پاک مت ٹھہراؤ، وہ خوب جانتا ہے کہ کون پرہیزگار ہے۔",
     "persian_text": "کسانی که از گناهان بزرگ و زشتی‌ها پرهیز می‌کنند مگر لغزش‌های کوچک، همانا پروردگار تو دارای آمرزش وسیع است. او به حال شما آگاه‌تر است، هنگامی که شما را از زمین آفرید و هنگامی که جنین در شکم مادرانتان بودید، پس خود را پاکیزه نشمارید، او به کسی که تقوا پیشه کرده بهتر آگاه است.",
     "transliteration": "Alladhina yajtanibuna kaba'iral-ithmi wal-fawahisha illal-lamam, inna rabbaka wasi'ul-maghfirah, huwa a'lamu bikum idh ansha'akum minal-ardi wa idh antum ajinnatun fi butuni ummahatikum, fala tuzakku anfusakum, huwa a'lamu bimani-ttaqa"
@@ -297,7 +297,7 @@ ayats = [
   {
     "verse_number": 37,
     "english_text": "Or in the scriptures of Ibrahim, who fulfilled his engagements truthfully.",
-    "arabic_text": "وَاِبْرَٰهِيمَ الَّذِى وَفَّىٰٓ",
+    "arabic_text": "وَاِبْرٰهِيمَ الَّذِى وَفَّىٰٓ",
     "urdu_text": "اور ابراہیم کے صحیفوں میں جنہوں نے پورا پورا ادا کیا۔",
     "persian_text": "و ابراهیم که وفا کرد.",
     "transliteration": "Wa Ibrahimal-ladhi waffa"

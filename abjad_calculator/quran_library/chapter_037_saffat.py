@@ -17,7 +17,7 @@ ayats = [
   {
     "verse_number": 2,
     "english_text": "Then by those who warn them from evil.",
-    "arabic_text": "فَالزَّٰجِرَٰتِ زَجْرًا",
+    "arabic_text": "فَالزَّٰجِرٰتِ زَجْرًا",
     "urdu_text": "پھر ان کی جو سختی سے منع کرتے هیں",
     "persian_text": "سپس سوگند به آنان که سخت نهی می‌کنند",
     "transliteration": "Faz-zaajiraati zajraa"
@@ -33,7 +33,7 @@ ayats = [
   {
     "verse_number": 4,
     "english_text": "Verily, your Lord is One.",
-    "arabic_text": "اِنَّ اِلَـٰهَكُمْ لَوَٰحِدٌۭ",
+    "arabic_text": "اِنَّ اِلَـٰهَكُمْ لَوَاحِدٌۭ",
     "urdu_text": "بیشک تمهارا معبود یقیناً ایک هی هے",
     "persian_text": "به راستی که خدای شما یکی است",
     "transliteration": "Inna ilaahakum la-waahid"
@@ -41,7 +41,7 @@ ayats = [
   {
     "verse_number": 5,
     "english_text": "He is Lord of everything, whatever is between the skies and the earth, and master of every East.",
-    "arabic_text": "رَّبُّ السَّمَـٰوَٰتِ وَ الْاَرْضِ وَ مَا بَيْنَهُمَا وَرَبُّ الْمَشَـٰرِقِ",
+    "arabic_text": "رَّبُّ السَّمَـٰوٰتِ وَ الْاَرْضِ وَ مَا بَيْنَهُمَا وَرَبُّ الْمَشَـٰرِقِ",
     "urdu_text": "وه آسمانوں اور زمین اور جو کچھ ان کے درمیان هے سب کا رب هے اور تمام مشرقوں کا مالک هے",
     "persian_text": "پروردگار آسمان‌ها و زمین و آنچه میان آنهاست و پروردگار مشرق‌ها",
     "transliteration": "Rabbus-samaawaati wal-ardi wa maa baynahumaa wa rabbul-mashaariq"
@@ -153,7 +153,7 @@ ayats = [
   {
     "verse_number": 19,
     "english_text": "This Day of Judgement is just a challenge, after they shall all see.",
-    "arabic_text": "فَاِنَّمَا هِىَ زَجْرَةٌۭ وَٰحِدَةٌۭ فَاِذَا هُمْ يَنظُرُونَ",
+    "arabic_text": "فَاِنَّمَا هِىَ زَجْرَةٌۭ وَاحِدَةٌۭ فَاِذَا هُمْ يَنظُرُونَ",
     "urdu_text": "پس وه تو بس ایک هی جھڑکی هوگی، پھر اچانک وه دیکھنے لگیں گے۔",
     "persian_text": "پس تنها یک بانگ است، ناگهان آنان می‌نگرند.",
     "transliteration": "Fa innamaa hiya zajratunw waahidatun fa izaa hum yanzuroon"
@@ -177,7 +177,7 @@ ayats = [
   {
     "verse_number": 22,
     "english_text": "Angels! Gather the unjust and their companions and to those whom they had been worshipping leaving Allah.",
-    "arabic_text": "۞ احْشُرُواْ الَّذِينَ ظَلَمُواْ وَاَزْوَٰجَهُمْ وَ مَا كَانُواْ يَعْبُدُونَ",
+    "arabic_text": "  احْشُرُواْ الَّذِينَ ظَلَمُواْ وَاَزْوٰجَهُمْ وَ مَا كَانُواْ يَعْبُدُونَ",
     "urdu_text": "ظالموں کو اور ان کے ساتھیوں کو اور جن کی وه عبادت کرتے تھے ان سب کو جمع کرو۔",
     "persian_text": "ستمکاران و همسرانشان و آنچه را که می‌پرستیدند جمع کنید.",
     "transliteration": "Uhshurulladhīna ẓalamū wa azwājahum wa mā kānū ya'budūn"
@@ -185,7 +185,7 @@ ayats = [
   {
     "verse_number": 23,
     "english_text": "And to all their gods and (also) to them, show the way to Hell.",
-    "arabic_text": "مِن دُونِ اللّٰهِ فَاهْدُوهُمْ اِلـٰى صِرَٰطِ الْجَحِيمِ",
+    "arabic_text": "مِن دُونِ اللّٰهِ فَاهْدُوهُمْ اِلـٰى صِرٰطِ الْجَحِيمِ",
     "urdu_text": "الله کے سوا، پھر ان سب کو جهنم کے راستے کی طرف لے جاؤ۔",
     "persian_text": "غیر از خدا، پس آنها را به راه جهنم هدایت کنید.",
     "transliteration": "Min dūnillāhi fahdūhum ilā ṣirāṭil-jaḥīm"
@@ -217,7 +217,7 @@ ayats = [
   {
     "verse_number": 27,
     "english_text": "And they are questioning looking at each other.",
-    "arabic_text": "وَاَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍۢ يَتَسَآءَلُونَ",
+    "arabic_text": "وَاَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍ يَتَسَآءَلُونَ",
     "urdu_text": "اور وه ایک دوسرے کی طرف متوجه هو کر سوال کر رهے هیں۔",
     "persian_text": "و بعضی از آنها به سوی بعضی دیگر روی آورده، از یکدیگر می‌پرسند.",
     "transliteration": "Wa aqbala ba'ḍuhum 'alā ba'ḍin yatasā'alūn"
@@ -329,7 +329,7 @@ ayats = [
   {
     "verse_number": 41,
     "english_text": "For them is the certain sustenance.",
-    "arabic_text": "اُو۟لَـٰٓئِكَ لَهُمْ رِزْقٌۭ مَّعْلُومٌۭ",
+    "arabic_text": "اُوْلٓـٰئِكَ لَهُمْ رِزْقٌۭ مَّعْلُومٌۭ",
     "urdu_text": "ان کے لیے معین رزق هے۔",
     "persian_text": "برای آنان روزی معین و مشخصی است.",
     "transliteration": "Ulaa'ika lahum rizqum ma'loom"
@@ -337,7 +337,7 @@ ayats = [
   {
     "verse_number": 42,
     "english_text": "There are fruits and they will live in a dignified manner.",
-    "arabic_text": "فَوَٰكِهُ ۖ وَهُم مُّكْرَمُونَ",
+    "arabic_text": "فَوٰكِهُ ۖ وَهُم مُّكْرَمُونَ",
     "urdu_text": "میوے هوں گے اور وه عزت والے هوں گے۔",
     "persian_text": "میوه‌ها خواهند بود و آنان گرامی داشته می‌شوند.",
     "transliteration": "Fawaakihu wa hum mukramoon"
@@ -385,7 +385,7 @@ ayats = [
   {
     "verse_number": 48,
     "english_text": "With them will be big-eyed Hooris restraining their glances.",
-    "arabic_text": "وَعِندَهُمْ قَـٰصِرَٰتُ الطَّرْفِ عِينٌ",
+    "arabic_text": "وَعِندَهُمْ قَـٰصِرٰتُ الطَّرْفِ عِينٌ",
     "urdu_text": "اور ان کے پاس نگاهیں نیچی رکھنے والی بڑی آنکھوں والی حوریں هوں گی۔",
     "persian_text": "و نزد آنان حوریانی با چشمان درشت که نگاه خود را فرو می‌دارند.",
     "transliteration": "Wa 'indahum qaasiratut tarfi 'een"
@@ -401,7 +401,7 @@ ayats = [
   {
     "verse_number": 50,
     "english_text": "Then they will ask while facing each other.",
-    "arabic_text": "فَاَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍۢ يَتَسَآءَلُونَ",
+    "arabic_text": "فَاَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍ يَتَسَآءَلُونَ",
     "urdu_text": "پھر وه ایک دوسرے کی طرف متوجه هو کر سوال کریں گے۔",
     "persian_text": "سپس بعضی از آنان رو به بعضی دیگر می‌کنند و از یکدیگر می‌پرسند.",
     "transliteration": "Fa aqbala ba'duhum 'alaa ba'diñy yatasaaa'aloon"
@@ -665,7 +665,7 @@ ayats = [
   {
     "verse_number": 83,
     "english_text": "And Verily Ibrahim was also the follower of Nooh.",
-    "arabic_text": "۞ وَاِنَّ مِن شِيعَتِهِ لَاِبْرَٰهِيمَ",
+    "arabic_text": "  وَاِنَّ مِن شِيعَتِهِ لَاِبْرٰهِيمَ",
     "urdu_text": "اور بیشک ابراهیم بھی انهی کے پیروکاروں میں سے تھے۔",
     "persian_text": "و همانا ابراهیم نیز از پیروان او بود.",
     "transliteration": "Wa inna min shee'atihi la Ibraaheem"
@@ -833,7 +833,7 @@ ayats = [
   {
     "verse_number": 104,
     "english_text": "We called out: O Ibrahim!",
-    "arabic_text": "وَنَـٰدَيْنَـٰهُ اَن يَـٰٓاِبْرَٰهِيمُ",
+    "arabic_text": "وَنَـٰدَيْنَـٰهُ اَن يَـٰٓاِبْرٰهِيمُ",
     "urdu_text": "اور هم نے انهیں پکارا: اے ابراهیم!",
     "persian_text": "و او را ندا دادیم که ای ابراهیم!",
     "transliteration": "Wa nādaynāhu an yā Ibrāhīm"
@@ -873,7 +873,7 @@ ayats = [
   {
     "verse_number": 109,
     "english_text": "Salutation to Ibrahim.",
-    "arabic_text": "سَلَـٰمٌ عَلَىٰٓ اِبْرَٰهِيمَ",
+    "arabic_text": "سَلَـٰمٌ عَلَىٰٓ اِبْرٰهِيمَ",
     "urdu_text": "سلام هو ابراهیم پر۔",
     "persian_text": "سلام بر ابراهیم.",
     "transliteration": "Salāmun 'alā Ibrāhīm"
@@ -945,7 +945,7 @@ ayats = [
   {
     "verse_number": 118,
     "english_text": "And have guided both of them towards the straight path.",
-    "arabic_text": "وَهَدَيْنَـٰهُمَا الصِّرَٰطَ الْمُسْتَقِيمَ",
+    "arabic_text": "وَهَدَيْنَـٰهُمَا الصِّرٰطَ الْمُسْتَقِيمَ",
     "urdu_text": "اور هم نے ان دونوں کو سیدھے راستے کی هدایت دی۔",
     "persian_text": "و آن دو را به راه راست هدایت کردیم.",
     "transliteration": "Wa hadaynahumus-siratal-mustaqeem"
@@ -1161,7 +1161,7 @@ ayats = [
   {
     "verse_number": 145,
     "english_text": "Then We put him on ground when he was sick also.",
-    "arabic_text": "۞ فَنَبَذْنَـٰهُ بِالْعَرَآءِ وَ هُوَ سَقِيمٌۭ",
+    "arabic_text": "  فَنَبَذْنَـٰهُ بِالْعَرَآءِ وَ هُوَ سَقِيمٌۭ",
     "urdu_text": "پھر هم نے انهیں کھلی زمین پر ڈال دیا جبکه وه بیمار تھے۔",
     "persian_text": "پس او را در زمین بی‌گیاه افکندیم در حالی که بیمار بود.",
     "transliteration": "Fanabaznaahu bil-'araaa'i wa huwa saqeem"
@@ -1201,7 +1201,7 @@ ayats = [
   {
     "verse_number": 150,
     "english_text": "Or We have created angels as girls and are they witness to it?",
-    "arabic_text": "اَمْ خَلَقْنَا الْمَلَـٰٓئِكَةَ اِنَـٰثًۭا وَ هُمْ شَـٰهِدُونَ",
+    "arabic_text": "اَمْ خَلَقْنَا الْمَلٓـٰئِكَةَ اِنَـٰثًۭا وَ هُمْ شَـٰهِدُونَ",
     "urdu_text": "یا هم نے فرشتوں کو عورتیں بنایا اور وه اس پر گواه تھے؟",
     "persian_text": "یا ما فرشتگان را مؤنث آفریدیم و آنان شاهد بودند؟",
     "transliteration": "Am khalaqnal-malaaa'ikata inaathan wa hum shaahidoon"

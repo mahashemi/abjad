@@ -57,7 +57,7 @@ ayats = [
   {
     "verse_number": 7,
     "english_text": "And if you are truthful in your saying, why don't you bring angels in front?",
-    "arabic_text": "لَّوْ مَا تَاْتِينَا بِالْمَلَـٰٓئِكَةِ اِن كُنتَ مِنَ الصَّـٰدِقِينَ",
+    "arabic_text": "لَّوْ مَا تَاْتِينَا بِالْمَلٓـٰئِكَةِ اِن كُنتَ مِنَ الصَّـٰدِقِينَ",
     "urdu_text": "اگر تو سچوں میں سے هے تو همارے پاس فرشتوں کو کیوں نهیں لے آتا؟",
     "persian_text": "اگر از راستگویان هستی چرا فرشتگان را نزد ما نمی‌آوری؟",
     "transliteration": "Law maa ta'teenaa bil malaa'ikati in kunta minas saadiqeen"
@@ -65,7 +65,7 @@ ayats = [
   {
     "verse_number": 8,
     "english_text": "We send angels openly for judgement with the punishment, and if the angels come (to them) then they will not get any respite.",
-    "arabic_text": "مَا نُنَزِّلُ الْمَلَـٰٓئِكَةَ اِلَّا بِالْحَقِّ وَ مَا كَانُوٓاْ اِذًۭا مُّنظَرِينَ",
+    "arabic_text": "مَا نُنَزِّلُ الْمَلٓـٰئِكَةَ اِلَّا بِالْحَقِّ وَ مَا كَانُوٓاْ اِذًۭا مُّنظَرِينَ",
     "urdu_text": "هم فرشتوں کو صرف حق کے ساتھ نازل کرتے هیں، اور اگر وه آ جائیں تو پھر انهیں مهلت نهیں دی جائے گی۔",
     "persian_text": "ما فرشتگان را جز به حق نازل نمی‌کنیم و اگر آیند آنگاه به آنان مهلت داده نخواهد شد.",
     "transliteration": "Maa nunazzilul malaa'ikata illaa bilhaqqi wa maa kaanooo izan munzareen"
@@ -153,7 +153,7 @@ ayats = [
   {
     "verse_number": 19,
     "english_text": "And spread the earth and fixed it with the anchors of Mountains and grew on it all the appropriate things.",
-    "arabic_text": "وَالْاَرْضَ مَدَدْنَـٰهَا وَاَلْقَيْنَا فِيهَا رَوَٰسِىَ وَاَنۢبَتْنَا فِيهَا مِن كُلِّ شَىْءٍۢ مَّوْزُونٍۢ",
+    "arabic_text": "وَالْاَرْضَ مَدَدْنَـٰهَا وَاَلْقَيْنَا فِيهَا رَوٰسِىَ وَاَنۢبَتْنَا فِيهَا مِن كُلِّ شَىْءٍۢ مَّوْزُونٍۢ",
     "urdu_text": "اور زمین کو هم نے پھیلایا اور اس میں پهاڑ جما دیے اور اس میں هر چیز مناسب اندازے میں اُگائی۔",
     "persian_text": "و زمین را گسترانیدیم و در آن کوه‌های استوار افکندیم و در آن از هر چیز به اندازه رویاندیم.",
     "transliteration": "Wal-arda madadnaahaa wa alqaynaa feehaa rawaasiya wa ambatnaa feehaa min kulli shay'im mawzoon"
@@ -161,7 +161,7 @@ ayats = [
   {
     "verse_number": 20,
     "english_text": "And in it created all things for life, and (for animals also) to whom you do not give sustenance.",
-    "arabic_text": "وَجَعَلْنَا لَكُمْ فِيهَا مَعَـٰيِشَ وَمَن لَّسْتُمْ لَهُ بِرَٰزِقِينَ",
+    "arabic_text": "وَجَعَلْنَا لَكُمْ فِيهَا مَعَـٰيِشَ وَ مَن لَّسْتُمْ لَهُ بِرٰزِقِينَ",
     "urdu_text": "اور هم نے تمهارے لیے اس میں زندگی کے سامان بنائے اور ان کے لیے بھی جن کو تم رزق نهیں دیتے۔",
     "persian_text": "و برای شما در آن معیشت‌ها قرار دادیم و برای کسانی که شما روزی‌دهنده آنان نیستید.",
     "transliteration": "Wa ja'alnaa lakum feehaa ma'aayisha wa mal-lastum lahoo bi-raaziqeen"
@@ -177,7 +177,7 @@ ayats = [
   {
     "verse_number": 22,
     "english_text": "And we sent winds which fill clouds with water, then We rained down the water from the sky, then We gave you that water to drink, and you had not stored it.",
-    "arabic_text": "وَاَرْسَلْنَا الرِّيَـٰحَ لَوَٰقِحَ فَاَنزَلْنَا مِنَ السَّمَآءِ مَآءًۭ فَاَسْقَيْنَـٰكُمُوهُ وَ مَآ اَنتُمْ لَهُ بِخَـٰزِنِينَ",
+    "arabic_text": "وَاَرْسَلْنَا الرِّيَـٰحَ لَوٰقِحَ فَاَنزَلْنَا مِنَ السَّمَآءِ مَآءًۭ فَاَسْقَيْنَـٰكُمُوهُ وَ مَآ اَنتُمْ لَهُ بِخَـٰزِنِينَ",
     "urdu_text": "اور هم نے هواؤں کو بارآور بھیجا، پھر آسمان سے پانی برسایا، پھر هم نے تمهیں وه پانی پلایا، اور تم اس کے خزانه دار نهیں هو۔",
     "persian_text": "و بادها را بارور فرستادیم، پس از آسمان آبی نازل کردیم، سپس شما را از آن سیراب ساختیم، و شما خزانه‌دار آن نیستید.",
     "transliteration": "Wa arsalna ar-riyaha lawaqiha fa-anzalna mina as-sama'i ma'an fa-asqaynakumuhu wa ma antum lahu bikhazinin"
@@ -185,7 +185,7 @@ ayats = [
   {
     "verse_number": 23,
     "english_text": "And there is no doubt that We give life and We give death, and then We are the Heir.",
-    "arabic_text": "وَاِنَّا لَنَحْنُ نُحْىِ وَنُمِيتُ وَنَحْنُ الْوَٰرِثُونَ",
+    "arabic_text": "وَاِنَّا لَنَحْنُ نُحْىِ وَنُمِيتُ وَنَحْنُ الْوٰرِثُونَ",
     "urdu_text": "اور بیشک هم هی زندگی دیتے هیں اور هم هی موت دیتے هیں، اور هم هی وارث هیں۔",
     "persian_text": "و بی‌تردید ما هستیم که زنده می‌کنیم و می‌میرانیم، و ما وارث هستیم.",
     "transliteration": "Wa inna lanahnu nuhyi wa numitu wa nahnu al-warithun"
@@ -241,7 +241,7 @@ ayats = [
   {
     "verse_number": 30,
     "english_text": "So all the angels fell down in prostration (before him).",
-    "arabic_text": "فَسَجَدَ الْمَلَـٰٓئِكَةُ كُلُّهُمْ اَجْمَعُونَ",
+    "arabic_text": "فَسَجَدَ الْمَلٓـٰئِكَةُ كُلُّهُمْ اَجْمَعُونَ",
     "urdu_text": "تو تمام فرشتے سب کے سب سجدے میں گر پڑے۔",
     "persian_text": "پس همه فرشتگان یکجا به سجده افتادند.",
     "transliteration": "Fasajada al-mala'ikatu kulluhum ajma'un"
@@ -329,7 +329,7 @@ ayats = [
   {
     "verse_number": 41,
     "english_text": "Allah said: this is the straight path which reaches Me.",
-    "arabic_text": "قَالَ هَـٰذَا صِرَٰطٌ عَلَىَّ مُسْتَقِيمٌ",
+    "arabic_text": "قَالَ هَـٰذَا صِرٰطٌ عَلَىَّ مُسْتَقِيمٌ",
     "urdu_text": "الله نے فرمایا: یه سیدھا راسته هے جو میری طرف پهنچتا هے۔",
     "persian_text": "خداوند فرمود: این راه راست است که به سوی من می‌رسد.",
     "transliteration": "Qaala haazaa siraatun 'alayya mustaqeem"
@@ -353,7 +353,7 @@ ayats = [
   {
     "verse_number": 44,
     "english_text": "Which have seven gates and separate groups shall enter from them.",
-    "arabic_text": "لَهَا سَبْعَةُ اَبْوَٰبٍۢ لِّكُلِّ بَابٍۢ مِّنْهُمْ جُزْءٌۭ مَّقْسُومٌ",
+    "arabic_text": "لَهَا سَبْعَةُ اَبْوٰبٍۢ لِّكُلِّ بَابٍۢ مِّنْهُمْ جُزْءٌۭ مَّقْسُومٌ",
     "urdu_text": "اس کے سات دروازے هیں، هر دروازے کے لیے ان میں سے ایک مقرره حصه هے۔",
     "persian_text": "که هفت دروازه دارد و برای هر دروازه‌ای گروهی از آنان تقسیم شده است.",
     "transliteration": "Lahaa sab'atu abwaabin likulli baabim minhum juz'um maqsoom"
@@ -377,7 +377,7 @@ ayats = [
   {
     "verse_number": 47,
     "english_text": "Whatever sadness will be in their hearts, we shall remove all; they will be sitting on the couches, face to face with each other like brothers.",
-    "arabic_text": "وَنَزَعْنَا مَا فِى صُدُورِهِم مِّنْ غِلٍّ اِخْوَٰنًا عَلَىٰ سُرُرٍۢ مُّتَقَـٰبِلِينَ",
+    "arabic_text": "وَنَزَعْنَا مَا فِى صُدُورِهِم مِّنْ غِلٍّ اِخْوٰنًا عَلَىٰ سُرُرٍۢ مُّتَقَـٰبِلِينَ",
     "urdu_text": "اور هم نے ان کے سینوں میں جو کینه تھا نکال دیا، وه بھائیوں کی طرح تختوں پر آمنے سامنے بیٹھے هوں گے۔",
     "persian_text": "و آنچه از کینه در سینه‌هایشان بود بیرون کشیدیم، برادروار بر تخت‌ها روبروی یکدیگر نشسته‌اند.",
     "transliteration": "Wa naza'naa maa fee sudoorihim min ghillin ikhwaanan 'alaa sururim mutaqaabileen"
@@ -393,7 +393,7 @@ ayats = [
   {
     "verse_number": 49,
     "english_text": "O Prophet! Inform my servants that I am very Forgiving and Merciful.",
-    "arabic_text": "۞ نَبِّئْ عِبَادِىٓ اَنِّىٓ اَنَا الْغَفُورُ الرَّحِيمُ",
+    "arabic_text": "  نَبِّئْ عِبَادِىٓ اَنِّىٓ اَنَا الْغَفُورُ الرَّحِيمُ",
     "urdu_text": "اے نبی! میرے بندوں کو بتا دیجیے که میں بهت بخشنے والا اور مهربان هوں۔",
     "persian_text": "ای پیامبر! بندگانم را آگاه کن که من بسیار آمرزنده و مهربانم.",
     "transliteration": "Nabbi' 'ibaadeee annee anal Ghafoorur Raheem"
@@ -409,7 +409,7 @@ ayats = [
   {
     "verse_number": 51,
     "english_text": "Inform them about the guests of Ibrahim.",
-    "arabic_text": "وَنَبِّئْهُمْ عَن ضَيْفِ اِبْرَٰهِيمَ",
+    "arabic_text": "وَنَبِّئْهُمْ عَن ضَيْفِ اِبْرٰهِيمَ",
     "urdu_text": "اور انهیں ابراهیم کے مهمانوں کے بارے میں بتائیں۔",
     "persian_text": "و آنان را از مهمانان ابراهیم آگاه کن.",
     "transliteration": "Wa nabbi'hum 'an dayfi Ibraaheem"
@@ -449,7 +449,7 @@ ayats = [
   {
     "verse_number": 56,
     "english_text": "Ibrahim said: who else can be hopeless from the Mercy of Allah except the misguided ones.",
-    "arabic_text": "قَالَ وَمَن يَقْنَطُ مِن رَّحْمَةِ رَبِّهِٓ اِلَّا الضَّآلُّونَ",
+    "arabic_text": "قَالَ وَ مَن يَقْنَطُ مِن رَّحْمَةِ رَبِّهِٓ اِلَّا الضَّآلُّونَ",
     "urdu_text": "ابراهیم نے کها: اپنے رب کی رحمت سے گمراهوں کے سوا کون مایوس هو سکتا هے۔",
     "persian_text": "گفت: چه کسی جز گمراهان از رحمت پروردگارش نومید می‌شود.",
     "transliteration": "Qaala wa man yaqnatu min rahmati Rabbihee illad daaloon"
@@ -465,7 +465,7 @@ ayats = [
   {
     "verse_number": 58,
     "english_text": "They said: We have been sent towards misguided people (with punishment).",
-    "arabic_text": "قَالُوٓاْ اِنَّآ اُرْسِلْنَآ اِلـٰى قَوْمٍۢ مُّجْرِمِينَ",
+    "arabic_text": "قَالُوٓاْ اِنَّآ اُرْسِلْنَآ اِلـٰى قَوْمٍ مُّجْرِمِينَ",
     "urdu_text": "انهوں نے کها: هم مجرم قوم کی طرف بھیجے گئے هیں (عذاب کے ساتھ)۔",
     "persian_text": "گفتند: ما به سوی قومی مجرم فرستاده شده‌ایم.",
     "transliteration": "Qaaloo innaa ursilnaa ilaa qawmin mujrimeen"
@@ -681,7 +681,7 @@ ayats = [
   {
     "verse_number": 85,
     "english_text": "And We created skies and the earth and whatever is in between (them) with truth, and the Day of Judgement will Verily come; so you (O Prophet) overlook fault of infidels with gracious forgiveness.",
-    "arabic_text": "وَ مَا خَلَقْنَا السَّمَـٰوَٰتِ وَالْاَرْضَ وَ مَا بَيْنَهُمَآ اِلَّا بِالْحَقِّ ۗ وَاِنَّ السَّاعَةَ لَـَٔاتِيَةٌۭ ۖ فَاصْفَحِ الصَّفْحَ الْجَمِيلَ",
+    "arabic_text": "وَ مَا خَلَقْنَا السَّمَـٰوٰتِ وَالْاَرْضَ وَ مَا بَيْنَهُمَآ اِلَّا بِالْحَقِّ ۗ وَاِنَّ السَّاعَةَ لَـَٔاتِيَةٌۭ ۖ فَاصْفَحِ الصَّفْحَ الْجَمِيلَ",
     "urdu_text": "اور هم نے آسمانوں اور زمین کو اور جو کچھ ان کے درمیان هے حق کے ساتھ پیدا کیا، اور قیامت کی گھڑی ضرور آنے والی هے، پس آپ خوبصورتی سے درگزر کریں۔",
     "persian_text": "و ما آسمان‌ها و زمین و آنچه میان آنهاست جز به حق نیافریدیم، و قطعاً قیامت فرا خواهد رسید، پس با گذشتی نیکو در گذر.",
     "transliteration": "Wa maa khalaqnas samaawaati wal arda wa maa baynahumaaa illaa bilhaqq, wa innas saa'ata la aatiyah, fasfaḥis safḥal jameel"
@@ -705,7 +705,7 @@ ayats = [
   {
     "verse_number": 88,
     "english_text": "And We have made some infidels happy (with the wealth of the world), don't even see them, and nor even feel sorry for them (on their infidelity), and meet politely with believers (even if they are poor).",
-    "arabic_text": "لَا تَمُدَّنَّ عَيْنَيْكَ اِلـٰى مَا مَتَّعْنَا بِهِٓ اَزْوَٰجًۭا مِّنْهُمْ وَ لَا تَحْزَنْ عَلَيْهِمْ وَاخْفِضْ جَنَاحَكَ لِلْمُؤْمِنِينَ",
+    "arabic_text": "لَا تَمُدَّنَّ عَيْنَيْكَ اِلـٰى مَا مَتَّعْنَا بِهِٓ اَزْوٰجًۭا مِّنْهُمْ وَ لَا تَحْزَنْ عَلَيْهِمْ وَاخْفِضْ جَنَاحَكَ لِلْمُؤْمِنِينَ",
     "urdu_text": "اپنی نگاهیں ان چیزوں کی طرف نه اٹھاؤ جو هم نے ان میں سے بعض گروهوں کو دے رکھی هیں، اور نه ان پر افسوس کرو، اور مومنوں کے لیے اپنا بازو جھکا دو۔",
     "persian_text": "چشمان خود را به آنچه به گروه‌هایی از آنان متاع دادیم مدوز، و بر آنان اندوهگین مباش، و بال شفقت خود را بر مؤمنان فرود آر.",
     "transliteration": "Laa tamuddanna 'aynayka ilaa maa matta'naa bihee azwaajam minhum wa laa tahzan 'alayhim wakhfid janaahaka lilmu'mineen"

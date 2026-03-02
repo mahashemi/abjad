@@ -906,7 +906,7 @@ ayats = [
   {
     "verse_number": 114,
     "english_text": "Ibrahim seeking forgiveness for father was because his promise to him and for the favour what he did to him (Ibrahim), but when it became clear that he is enemy of Allah, he disassociated himself from him; and Ibrahim was very beseeching and forbearing.",
-    "arabic_text": "وَ مَا كَانَ اسْتِغْفَارُ اِبْرٰهِيْمَ لِاَبِيهِ اِلَّا عَن مَّوْعِدَةٍ وَّ عَدَهَآ اِيَّاهُ فَلَمَّا تَبَيَّنَ لَهُٓ اَنَّهُ عَدُوٌّ لِّلَّهِ تَبَرَّاَ مِنْهُ ۚ اِنَّ اِبْرٰهِيْمَ لَاَوَّاهٌ حَلِيْمٌۭ",
+    "arabic_text": "وَ مَا كَانَ اسْتِغْفَارُ اِبْرٰهِيْمَ لِاَبِيهِ اِلَّا عَن مَّوْعِدَةٍ وَّ عَدَهَآ اِيَّاهُ فَلَمَّا تَبَيَّنَ لَهُٓ اَنَّهُ عَدُوٌّ لِّلّٰهِ تَبَرَّاَ مِنْهُ ۚ اِنَّ اِبْرٰهِيْمَ لَاَوَّاهٌ حَلِيْمٌۭ",
     "urdu_text": "اور ابراہیم کا اپنے باپ کے لیے بخشش مانگنا صرف اس وعدے کی وجہ سے تھا جو انہوں نے اس سے کیا تھا اور اس احسان کی وجہ سے جو اس نے ان پر کیا تھا، لیکن جب ان پر واضح ہو گیا کہ وہ اللہ کا دشمن ہے تو انہوں نے اس سے لاتعلقی اختیار کر لی، بیشک ابراہیم بہت گڑگڑانے والے اور بردبار تھے۔",
     "persian_text": "و طلب آمرزش ابراهیم برای پدرش تنها به خاطر وعده‌ای بود که به او داده بود و به خاطر احسانی که او به ابراهیم کرده بود، اما چون برایش روشن شد که او دشمن خداست، از او بیزاری جست، همانا ابراهیم بسیار زاری‌کننده و بردبار بود.",
     "transliteration": "Wa ma kana istighfaru Ibraheema li-abeehi illa 'am maw'idatin wa'adaha iyyah, falamma tabayyana lahu annahu 'aduwwul-lillahi tabarra'a minh, inna Ibraheema la-awwahun haleem",

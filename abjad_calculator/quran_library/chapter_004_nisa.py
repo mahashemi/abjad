@@ -162,7 +162,7 @@ ayats = [
   {
     "verse_number": 21,
     "english_text": "How you will take back when you have already consummated the marriage, and they have taken a firm covenant from you.",
-    "arabic_text": "وَ كَيْفَ تَاْخُذُونَهُ وَ قَدْ اَفْضٰى بَعْضُكُمْ اِلَٰى بَعْضٍۢ وَ اَخَذْنَ مِنكُم مِّيثَاقًا غَلِيْظًا",
+    "arabic_text": "وَ كَيْفَ تَاْخُذُونَهُ وَ قَدْ اَفْضٰى بَعْضُكُمْ اِلَٰى بَعْضٍ وَ اَخَذْنَ مِنكُم مِّيثَاقًا غَلِيْظًا",
     "urdu_text": "اور تم اسے کیسے واپس لے سکتے ہو جبکہ تم میں سے ایک دوسرے سے میل جول کر چکا ہے اور انہوں نے تم سے مضبوط عہد لے لیا ہے۔",
     "persian_text": "و چگونه آن را پس می‌گیرید در حالی که با یکدیگر آمیزش داشته‌اید و آنان از شما پیمان محکمی گرفته‌اند.",
     "transliteration": "Wa kayfa ta'khudoonahu wa qad afda ba'dukum ila ba'din wa akhathna minkum meethaqan ghaleeza",
@@ -714,7 +714,7 @@ ayats = [
   {
     "verse_number": 90,
     "english_text": "Except those who meet with the group with whom you already have a covenant, or they come to you with heavy heart and say they will neither fight you and their own people; Allah could have imposed them upon you if He wanted, He would have given them the power over you, therefore if they withdraw from you and do not fight you and offer you peace, then Allah has not given you any way over them.",
-    "arabic_text": "اِلَّا الَّذِينَ يَصِلُوْنَ اِلَٰى قَوْمٍۢ بَيْنَكُمْ وَ بَيْنَهُمْ مِّيثَاقٌ اَوْ جَآءُوْكُمْ حَصِرَتْ صُدُوْرُهُمْ اَنْ يُّقَاتِلُوْكُمْ اَوْ يُقَاتِلُوْا قَوْمَهُمْ ۚ وَ لَوْ شَآءَ اللّٰهُ لَسَلَّطَهُمْ عَلَيْكُمْ فَلَقٰتَلُوْكُمْ ۚ فَاِنِ اعْتَزَلُوْكُمْ فَلَمْ يُقَاتِلُوْكُمْ وَ اَلْقَوْا اِلَيْكُمُ السَّلَمَ فَمَا جَعَلَ اللّٰهُ لَكُمْ عَلَيْهِمْ سَبِيْلًا",
+    "arabic_text": "اِلَّا الَّذِينَ يَصِلُوْنَ اِلَٰى قَوْمٍ بَيْنَكُمْ وَ بَيْنَهُمْ مِّيثَاقٌ اَوْ جَآءُوْكُمْ حَصِرَتْ صُدُوْرُهُمْ اَنْ يُّقَاتِلُوْكُمْ اَوْ يُقَاتِلُوْا قَوْمَهُمْ ۚ وَ لَوْ شَآءَ اللّٰهُ لَسَلَّطَهُمْ عَلَيْكُمْ فَلَقٰتَلُوْكُمْ ۚ فَاِنِ اعْتَزَلُوْكُمْ فَلَمْ يُقَاتِلُوْكُمْ وَ اَلْقَوْا اِلَيْكُمُ السَّلَمَ فَمَا جَعَلَ اللّٰهُ لَكُمْ عَلَيْهِمْ سَبِيْلًا",
     "urdu_text": "سوائے ان لوگوں کے جو ایسی قوم سے جا ملیں جن کے اور تمہارے درمیان معاہدہ ہو، یا وہ تمہارے پاس اس حال میں آئیں کہ ان کے دل تنگ ہوں کہ نہ تم سے لڑیں اور نہ اپنی قوم سے، اور اگر اللہ چاہتا تو انہیں تم پر مسلط کر دیتا تو وہ تم سے ضرور لڑتے، پس اگر وہ تم سے الگ رہیں اور تم سے نہ لڑیں اور تمہاری طرف صلح کا پیغام بھیجیں تو اللہ نے تمہارے لیے ان پر کوئی راہ نہیں رکھی",
     "persian_text": "مگر کسانی که به قومی پیوندند که میان شما و آنان پیمانی است، یا به سوی شما آیند در حالی که دلهایشان تنگ است از اینکه با شما بجنگند یا با قوم خود بجنگند، و اگر خدا می‌خواست آنان را بر شما مسلط می‌کرد پس با شما می‌جنگیدند، پس اگر از شما کناره گیری کنند و با شما نجنگند و صلح را به سوی شما افکنند، پس خداوند برای شما راهی بر آنان قرار نداده است",
     "transliteration": "Illal-ladheena yasiloona ila qawmin baynakum wa baynahum meethaqun aw jaa'ookum hasirat sudooruhum an yuqatilookum aw yuqatiloo qawmahum wa law shaa'Allahu la-sallatahum 'alaykum fa-la-qatalookum fa-ini'tazalookum fa-lam yuqatilookum wa alqaw ilaykumus-salama fa-ma ja'alAllahu lakum 'alayhim sabeela",
@@ -1370,7 +1370,7 @@ ayats = [
   {
     "verse_number": 172,
     "english_text": "Neither Isa can deny being servant of Allah, nor His close angels, whoever will deny him to be the servant of Allah and will boast so shortly Allah will call them to Him (and will reward or punish them).",
-    "arabic_text": "لَّنْ يَّسْتَنْكِفَ الْمَسِيْحُ اَنْ يَّكُوْنَ عَبْدًا لِّلَّهِ وَ لَا الْمَلٰٓئِكَةُ الْمُقَرَّبُوْنَ  وَ مَنْ يَّسْتَنْكِفْ عَنْ عِبَادَتِهِ وَ يَسْتَكْبِرْ فَسَيَحْشُرُهُمْ اِلَيْهِ جَمِيْعًا",
+    "arabic_text": "لَّنْ يَّسْتَنْكِفَ الْمَسِيْحُ اَنْ يَّكُوْنَ عَبْدًا لِّلّٰهِ وَ لَا الْمَلٰٓئِكَةُ الْمُقَرَّبُوْنَ  وَ مَنْ يَّسْتَنْكِفْ عَنْ عِبَادَتِهِ وَ يَسْتَكْبِرْ فَسَيَحْشُرُهُمْ اِلَيْهِ جَمِيْعًا",
     "urdu_text": "مسیح ہرگز اللہ کا بندہ ہونے سے انکار نہیں کریں گے اور نہ ہی مقرب فرشتے۔ اور جو کوئی اس کی عبادت سے انکار کرے گا اور تکبر کرے گا تو عنقریب اللہ ان سب کو اپنی طرف جمع کرے گا۔",
     "persian_text": "مسیح هرگز از بنده بودن خدا سرباز نمی‌زند و نه فرشتگان مقرب. و هر کس از عبادت او سرباز زند و تکبر ورزد، پس به زودی همه آنها را به سوی خود محشور خواهد کرد.",
     "transliteration": "Lan yastankifa al-Masihu an yakuna 'abdan lillahi wa la al-mala'ikatu al-muqarrabun. Wa man yastankif 'an 'ibadatihi wa yastakbir fa-sayahshuruhum ilayhi jami'a.",

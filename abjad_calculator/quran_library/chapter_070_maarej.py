@@ -33,7 +33,7 @@ ayats = [
   {
     "verse_number": 4,
     "english_text": "Towards which angels and the Spirit ascend in a day whose measure is equal to fifty thousand years.",
-    "arabic_text": "تَعْرُجُ الْمَلَـٰٓئِكَةُ وَالرُّوحُ اِلَيْهِ فِى يَوْمٍۢ كَانَ مِقْدَارُهُ خَمْسِينَ اَلْفَ سَنَةٍۢ",
+    "arabic_text": "تَعْرُجُ الْمَلٓـٰئِكَةُ وَالرُّوحُ اِلَيْهِ فِى يَوْمٍۢ كَانَ مِقْدَارُهُ خَمْسِينَ اَلْفَ سَنَةٍۢ",
     "urdu_text": "فرشتے اور روح اس کی طرف چڑھتے هیں ایک ایسے دن میں جس کی مقدار پچاس هزار سال کے برابر هے۔",
     "persian_text": "فرشتگان و روح به سوی او صعود می‌کنند در روزی که مقدار آن پنجاه هزار سال است.",
     "transliteration": "Ta'rujul malaa'ikatu war roohu ilayhi fee yawmin kaana miqdaaruhoo khamseena alfa sanah"
@@ -153,7 +153,7 @@ ayats = [
   {
     "verse_number": 19,
     "english_text": "Verily man is very greedy.",
-    "arabic_text": "۞ اِنَّ الْاِنسَـٰنَ خُلِقَ هَلُوعًا",
+    "arabic_text": "  اِنَّ الْاِنسَـٰنَ خُلِقَ هَلُوعًا",
     "urdu_text": "بیشک انسان بهت حریص پیدا کیا گیا هے۔",
     "persian_text": "به راستی انسان بسیار حریص و بی‌تاب آفریده شده است.",
     "transliteration": "Innal-insaana khuliqa haloo'aa"
@@ -193,7 +193,7 @@ ayats = [
   {
     "verse_number": 24,
     "english_text": "And in the wealth of those a portion is fixed.",
-    "arabic_text": "وَ الَّذِينَ فِىٓ اَمْوَٰلِهِمْ حَقٌّۭ مَّعْلُومٌۭ",
+    "arabic_text": "وَ الَّذِينَ فِىٓ اَمْوٰلِهِمْ حَقٌّۭ مَّعْلُومٌۭ",
     "urdu_text": "اور جن کے مال میں ایک مقرره حق هے۔",
     "persian_text": "و کسانی که در اموالشان حق معینی است.",
     "transliteration": "Wallazeena fee amwaalihim haqqum ma'loom"
@@ -241,7 +241,7 @@ ayats = [
   {
     "verse_number": 30,
     "english_text": "Except their wives and slave girls, that they are not to be blamed for this.",
-    "arabic_text": "اِلَّا عَلَىٰٓ اَزْوَٰجِهِمْ اَوْ مَا مَلَكَتْ اَيْمَـٰنُهُمْ فَاِنَّهُمْ غَيْرُ مَلُومِينَ",
+    "arabic_text": "اِلَّا عَلَىٰٓ اَزْوٰجِهِمْ اَوْ مَا مَلَكَتْ اَيْمَـٰنُهُمْ فَاِنَّهُمْ غَيْرُ مَلُومِينَ",
     "urdu_text": "سوائے اپنی بیویوں یا لونڈیوں کے، کیونکه اس میں وه قابلِ ملامت نهیں۔",
     "persian_text": "مگر با همسران یا کنیزانشان، که در این مورد ملامت نمی‌شوند.",
     "transliteration": "Illaa 'alaaa azwaajihim aw maa malakat aymaanuhum fa innahum ghayru maloomeen"
@@ -249,7 +249,7 @@ ayats = [
   {
     "verse_number": 31,
     "english_text": "Then if he who wishes apart from this, he is transgressor.",
-    "arabic_text": "فَمَنِ ابْتَغَىٰ وَرَآءَ ذٰلِكَ فَاُو۟لَـٰٓئِكَ هُمُ الْعَادُونَ",
+    "arabic_text": "فَمَنِ ابْتَغَىٰ وَرَآءَ ذٰلِكَ فَاُوْلٓـٰئِكَ هُمُ الْعَادُونَ",
     "urdu_text": "پھر جو شخص اس کے علاوه کچھ اور چاهے تو ایسے لوگ حد سے تجاوز کرنے والے هیں۔",
     "persian_text": "پس هر کس که فراتر از این بخواهد، آنان تجاوزکارانند.",
     "transliteration": "Fa-mani-btaghā warā'a dhālika fa-ulā'ika humu-l-'ādūn"
@@ -257,7 +257,7 @@ ayats = [
   {
     "verse_number": 32,
     "english_text": "And those who respect for their trust and covenants.",
-    "arabic_text": "وَ الَّذِينَ هُمْ لِاَمَـٰنَـٰتِهِمْ وَعَهْدِهِمْ رَٰعُونَ",
+    "arabic_text": "وَ الَّذِينَ هُمْ لِاَمَـٰنَـٰتِهِمْ وَعَهْدِهِمْ رٰعُونَ",
     "urdu_text": "اور وه لوگ جو اپنی امانتوں اور اپنے عهد کی رعایت کرتے هیں۔",
     "persian_text": "و کسانی که امانت‌ها و پیمان‌های خود را رعایت می‌کنند.",
     "transliteration": "Wa-lladhīna hum li-amānātihim wa 'ahdihim rā'ūn"
@@ -281,7 +281,7 @@ ayats = [
   {
     "verse_number": 35,
     "english_text": "These are the people who will abide respectfully in Paradise.",
-    "arabic_text": "اُو۟لَـٰٓئِكَ فِى جَنَّـٰتٍۢ مُّكْرَمُونَ",
+    "arabic_text": "اُوْلٓـٰئِكَ فِى جَنَّـٰتٍۢ مُّكْرَمُونَ",
     "urdu_text": "یهی لوگ جنتوں میں عزت و اکرام کے ساتھ رهیں گے۔",
     "persian_text": "اینان در بهشت‌ها گرامی داشته می‌شوند.",
     "transliteration": "Ulā'ika fī jannātin mukramūn"

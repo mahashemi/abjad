@@ -97,7 +97,7 @@ ayats = [
   {
     "verse_number": 12,
     "english_text": "And will help you with the wealth and children and will bestow upon you gardens and the rivers.",
-    "arabic_text": "وَيُمْدِدْكُم بِاَمْوَٰلٍۢ وَبَنِينَ وَيَجْعَل لَّكُمْ جَنَّـٰتٍۢ وَيَجْعَل لَّكُمْ اَنْهَـٰرًا",
+    "arabic_text": "وَيُمْدِدْكُم بِاَمْوٰلٍۢ وَبَنِينَ وَيَجْعَل لَّكُمْ جَنَّـٰتٍۢ وَيَجْعَل لَّكُمْ اَنْهٰرًا",
     "urdu_text": "اور تمہیں مال اور اولاد سے مدد دے گا اور تمہارے لیے باغات اور نہریں بنائے گا",
     "persian_text": "و شما را با اموال و فرزندان یاری خواهد کرد و برای شما باغ‌ها و نهرها قرار خواهد داد",
     "transliteration": "Wa yumdidkum bi-amwaalinw wa baneena wa yaj'al lakum jannaatinw wa yaj'al lakum anhaaraa"
@@ -121,7 +121,7 @@ ayats = [
   {
     "verse_number": 15,
     "english_text": "Haven't you seen that Allah has made seven skies layer over layer.",
-    "arabic_text": "اَلَمْ تَرَوْاْ كَيْفَ خَلَقَ اللّٰهُ سَبْعَ سَمَـٰوَٰتٍۢ طِبَاقًۭا",
+    "arabic_text": "اَلَمْ تَرَوْاْ كَيْفَ خَلَقَ اللّٰهُ سَبْعَ سَمَـٰوٰتٍۢ طِبَاقًۭا",
     "urdu_text": "کیا تم نے نہیں دیکھا کہ اللہ نے سات آسمان تہہ بہ تہہ بنائے ہیں",
     "persian_text": "آیا ندیده‌اید که خداوند هفت آسمان را طبقه بر طبقه آفریده است",
     "transliteration": "Alam taraw kayfa khalaqal-laahu sab'a samaawaatin tibaaqaa"
@@ -129,7 +129,7 @@ ayats = [
   {
     "verse_number": 16,
     "english_text": "And has made the moon a light among them and the sun a bright lamp.",
-    "arabic_text": "وَجَعَلَ الْقَمَرَ فِيهِنَّ نُورًا وَجَعَلَ الشَّمْسَ سِرَاجًۭا",
+    "arabic_text": "وَجَعَلَ الْقَمَرَ فِيهِنَّ نُورًا وَ جَعَلَ الشَّمْسَ سِرَاجًۭا",
     "urdu_text": "اور ان میں چاند کو روشنی بنایا اور سورج کو چمکتا ہوا چراغ بنایا",
     "persian_text": "و ماه را در میان آنها نوری قرار داد و خورشید را چراغی درخشان گردانید",
     "transliteration": "Wa ja'alal-qamara feehinna nooranw wa ja'alash-shamsa siraajaa"
@@ -225,7 +225,7 @@ ayats = [
   {
     "verse_number": 28,
     "english_text": "O Lord, forgive me and my parents and those who enter my house with belief and all the believing men and women; and do not increase into anything for wrongdoers but in destruction.",
-    "arabic_text": "رَّبِّ اغْفِرْ لِى وَلِوَٰلِدَىَّ وَ لِمَن دَخَلَ بَيْتِىَ مُؤْمِنًۭا وَلِلْمُؤْمِنِينَ وَالْمُؤْمِنَـٰتِ وَ لَا تَزِدِ الظَّـٰلِمِينَ اِلَّا تَبَارًۢا",
+    "arabic_text": "رَّبِّ اغْفِرْ لِى وَلِوٰلِدَىَّ وَ لِمَن دَخَلَ بَيْتِىَ مُؤْمِنًۭا وَلِلْمُؤْمِنِينَ وَالْمُؤْمِنَـٰتِ وَ لَا تَزِدِ الظَّـٰلِمِينَ اِلَّا تَبَارًۢا",
     "urdu_text": "اے میرے رب! مجھے اور میرے والدین کو اور جو بھی ایمان کے ساتھ میرے گھر میں داخل ہو اور تمام مومن مردوں اور مومن عورتوں کو بخش دے، اور ظالموں کو ہلاکت کے سوا کچھ نہ بڑھا۔",
     "persian_text": "پروردگارا! مرا و پدر و مادرم و هر که با ایمان به خانه‌ام درآید و مؤمنان و مؤمنات را بیامرز، و ستمکاران را جز در نابودی مفزای.",
     "transliteration": "Rabbigh-fir lee wa liwaalidayya wa liman dakhala baytiya mu'minanw-wa lilmu'mineena walmu'minaati wa laa tazidiz-zaalimeena illaa tabaaraa"

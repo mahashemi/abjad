@@ -122,7 +122,7 @@ ayats = [
   {
     "verse_number": 16,
     "english_text": "And make thick gardens.",
-    "arabic_text": "وَ جَنّٰتٍ اَلْفَافًا",
+    "arabic_text": "وَ جَنّـٰتٍ اَلْفَافًا",
     "urdu_text": "اور گھنے باغات اگائے",
     "persian_text": "و باغ‌های انبوه و پرپشت",
     "transliteration": "Wa jannatin alfafa",

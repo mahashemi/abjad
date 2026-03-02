@@ -41,7 +41,7 @@ ayats = [
   {
     "verse_number": 5,
     "english_text": "These people are on the guidance from their Lord and are going to prosper.",
-    "arabic_text": "اُو۟لَـٰٓئِكَ عَلَىٰ هُدًۭى مِّن رَّبِّهِمْ ۖ وَاُو۟لَـٰٓئِكَ هُمُ الْمُفْلِحُونَ",
+    "arabic_text": "اُوْلٓـٰئِكَ عَلَىٰ هُدًۭى مِّن رَّبِّهِمْ ۖ وَ اُوْلٓـٰئِكَ هُمُ الْمُفْلِحُونَ",
     "urdu_text": "یهی لوگ اپنے رب کی طرف سے هدایت پر هیں اور یهی کامیاب هونے والے هیں",
     "persian_text": "آنان بر هدایتی از پروردگارشان هستند و آنان همان رستگارانند",
     "transliteration": "Ulaaa'ika 'alaa hudammir rabbihim wa ulaaa'ika humul muflihoon"
@@ -49,7 +49,7 @@ ayats = [
   {
     "verse_number": 6,
     "english_text": "There is a person among the people who purchase idle talk to misguide people without knowledge, from the path of Allah and make fun of divine verses, in fact for such people is the painful punishment.",
-    "arabic_text": "وَمِنَ النَّاسِ مَن يَشْتَرِى لَهْوَ الْحَدِيثِ لِيُضِلَّ عَن سَبِيلِ اللّٰهِ بِغَيْرِ عِلْمٍۢ وَيَتَّخِذَهَا هُزُوًا ۚ اُو۟لَـٰٓئِكَ لَهُمْ عَذَابٌۭ مُّهِينٌ",
+    "arabic_text": "وَمِنَ النَّاسِ مَن يَشْتَرِى لَهْوَ الْحَدِيثِ لِيُضِلَّ عَن سَبِيلِ اللّٰهِ بِغَيْرِ عِلْمٍۢ وَيَتَّخِذَهَا هُزُوًا ۚ اُوْلٓـٰئِكَ لَهُمْ عَذَابٌۭ مُّهِينٌ",
     "urdu_text": "اور لوگوں میں سے کوئی ایسا هے جو بیهوده باتیں خریدتا هے تاکه بغیر علم کے الله کی راه سے گمراه کرے اور اسے مذاق بنائے، ایسے لوگوں کے لیے ذلت کا عذاب هے",
     "persian_text": "و از مردم کسی است که سخنان بیهوده می‌خرد تا بدون دانش از راه خدا گمراه کند و آن را مسخره بگیرد، برای چنین کسانی عذابی خوارکننده است",
     "transliteration": "Wa minan naasi many yashtaree lahwal hadeesi liyudilla 'an sabeelil laahi bighayri 'ilminw wa yattakhizahaa huzuwaa, ulaaa'ika lahum 'azaabum muheen"
@@ -81,7 +81,7 @@ ayats = [
   {
     "verse_number": 10,
     "english_text": "He has created the skies without the pillars, you can see; He set upon earth huge mountains lest it move with you from its place, and has spread all types of animals, and We rained water from the sky, and through it made all types of fine creatures (vegetation), in pairs.",
-    "arabic_text": "خَلَقَ السَّمَـٰوَٰتِ بِغَيْرِ عَمَدٍۢ تَرَوْنَهَا ۖ وَاَلْقَىٰ فِى الْاَرْضِ رَوَٰسِىَ اَن تَمِيدَ بِكُمْ وَبَثَّ فِيهَا مِن كُلِّ دَآبَّةٍۢ ۚ وَاَنزَلْنَا مِنَ السَّمَآءِ مَآءًۭ فَاَنۢبَتْنَا فِيهَا مِن كُلِّ زَوْجٍۢ كَرِيمٍ",
+    "arabic_text": "خَلَقَ السَّمَـٰوٰتِ بِغَيْرِ عَمَدٍۢ تَرَوْنَهَا ۖ وَاَلْقَىٰ فِى الْاَرْضِ رَوٰسِىَ اَن تَمِيدَ بِكُمْ وَبَثَّ فِيهَا مِن كُلِّ دَآبَّةٍۢ ۚ وَاَنزَلْنَا مِنَ السَّمَآءِ مَآءًۭ فَاَنۢبَتْنَا فِيهَا مِن كُلِّ زَوْجٍۢ كَرِيمٍ",
     "urdu_text": "اس نے آسمانوں کو بغیر ستونوں کے پیدا کیا جنهیں تم دیکھتے هو، اور زمین میں پهاڑ رکھ دیے تاکه تمهیں لے کر هلے نهیں، اور اس میں هر قسم کے جانور پھیلا دیے، اور هم نے آسمان سے پانی برسایا پھر اس میں هر قسم کی عمده چیزیں اگائیں",
     "persian_text": "آسمان‌ها را بدون ستون‌هایی که می‌بینید آفرید، و در زمین کوه‌های استوار قرار داد تا شما را به لرزه نیاورد، و در آن از هر جنبنده‌ای پراکند، و از آسمان آبی فرو فرستادیم و در آن از هر جفت گرامی رویاندیم",
     "transliteration": "Khalaqas samaawaati bighayri 'amadin tarawnahaa wa alqaa fil ardi rawaasiya an tameeda bikum wa bassa feehaa min kulli daaabbah, wa anzalnaa minas samaaa'i maaa'an fa ambatnaa feehaa min kulli zawjin kareem"
@@ -97,7 +97,7 @@ ayats = [
   {
     "verse_number": 12,
     "english_text": "And We bestowed wisdom upon Luqman ;that be grateful to Allah, whoever is grateful (to Allah) is for his own benefit, and whoever is ungrateful, he should know that Allah is Self-Sufficient and is worthy of praises also.",
-    "arabic_text": "وَ لَقَدْ ءَاتَيْنَا لُقْمَـٰنَ الْحِكْمَةَ اَنِ اشْكُرْ لِلَّهِ ۚ وَمَن يَشْكُرْ فَاِنَّمَا يَشْكُرُ لِنَفْسِهِ ۖ وَمَن كَفَرَ فَاِنَّ اللّٰهَ غَنِىٌّ حَمِيدٌۭ",
+    "arabic_text": "وَ لَقَدْ ءَاتَيْنَا لُقْمَـٰنَ الْحِكْمَةَ اَنِ اشْكُرْ لِلَّهِ ۚ وَ مَن يَشْكُرْ فَاِنَّمَا يَشْكُرُ لِنَفْسِهِ ۖ وَ مَن كَفَرَ فَاِنَّ اللّٰهَ غَنِىٌّ حَمِيدٌۭ",
     "urdu_text": "اور هم نے لقمان کو حکمت عطا کی که الله کا شکر ادا کرو، اور جو شکر کرتا هے تو وه اپنے هی فائدے کے لیے شکر کرتا هے، اور جو ناشکری کرے تو بیشک الله بے نیاز اور تعریف کے لائق هے۔",
     "persian_text": "و ما به لقمان حکمت عطا کردیم که شکر الله را به‌جا آور، و هر که شکر کند تنها به سود خود شکر می‌کند، و هر که ناسپاسی کند، پس الله بی‌نیاز و ستوده است.",
     "transliteration": "Wa laqad ātaynā Luqmāna al-ḥikmata ani ushkur lillāhi wa man yashkur fa-innamā yashkuru linafsihi wa man kafara fa-inna Allāha ghaniyyun ḥamīd"
@@ -113,7 +113,7 @@ ayats = [
   {
     "verse_number": 14,
     "english_text": "And We have instructed humans about parents that mother has taken trouble over trouble and kept in the womb; and took two years of weaning from breastfeeding; be grateful to Me and your parents, that your return is towards Me only.",
-    "arabic_text": "وَوَصَّيْنَا الْاِنسَـٰنَ بِوَٰلِدَيْهِ حَمَلَتْهُ اُمُّهُ وَهْنًا عَلَىٰ وَهْنٍۢ وَفِصَـٰلُهُ فِى عَامَيْنِ اَنِ اشْكُرْ لِى وَلِوَٰلِدَيْكَ اِلَىَّ الْمَصِيرُ",
+    "arabic_text": "وَوَصَّيْنَا الْاِنسَـٰنَ بِوٰلِدَيْهِ حَمَلَتْهُ اُمُّهُ وَهْنًا عَلَىٰ وَهْنٍۢ وَفِصَـٰلُهُ فِى عَامَيْنِ اَنِ اشْكُرْ لِى وَلِوٰلِدَيْكَ اِلَىَّ الْمَصِيرُ",
     "urdu_text": "اور هم نے انسان کو اپنے والدین کے بارے میں تاکید کی هے، اس کی ماں نے اسے کمزوری پر کمزوری اٹھاتے هوئے پیٹ میں رکھا، اور اس کا دودھ چھڑانا دو سال میں هے، که میرا اور اپنے والدین کا شکر ادا کرو، میری هی طرف لوٹنا هے۔",
     "persian_text": "و ما انسان را درباره والدینش سفارش کردیم که مادرش او را با رنج بر رنج در شکم حمل کرد و شیرگیری او در دو سال است، که شکر مرا و والدینت را به‌جا آور، بازگشت به سوی من است.",
     "transliteration": "Wa waṣṣaynā al-insāna bi-wālidayhi ḥamalat-hu ummuhu wahnan 'alā wahnin wa fiṣāluhū fī 'āmayni ani ushkur lī wa li-wālidayka ilayya al-maṣīr"
@@ -129,7 +129,7 @@ ayats = [
   {
     "verse_number": 16,
     "english_text": "Son, good or evil, even if it is like a mustard-seed and beneath the stone or on the skies or in the depth of earth, Allah will Verily bring it forth on the Day of Judgement; He is Subtlest and well-aware.",
-    "arabic_text": "يَـٰبُنَىَّ اِنَّهَآ اِن تَكُ مِثْقَالَ حَبَّةٍۢ مِّنْ خَرْدَلٍۢ فَتَكُن فِى صَخْرَةٍ اَوْ فِى السَّمَـٰوَٰتِ اَوْ فِى الْاَرْضِ يَاْتِ بِهَا اللّٰهُ ۚ اِنَّ اللّٰهَ لَطِيفٌ خَبِيرٌۭ",
+    "arabic_text": "يَـٰبُنَىَّ اِنَّهَآ اِن تَكُ مِثْقَالَ حَبَّةٍۢ مِّنْ خَرْدَلٍۢ فَتَكُن فِى صَخْرَةٍ اَوْ فِى السَّمَـٰوٰتِ اَوْ فِى الْاَرْضِ يَاْتِ بِهَا اللّٰهُ ۚ اِنَّ اللّٰهَ لَطِيفٌ خَبِيرٌۭ",
     "urdu_text": "اے میرے بیٹے! نیکی یا بدی، اگر وه رائی کے دانے کے برابر بھی هو اور چٹان کے اندر هو یا آسمانوں میں یا زمین کی گهرائی میں، الله اسے ضرور لے آئے گا، بیشک الله باریک بین اور خبردار هے۔",
     "persian_text": "ای پسرم! نیکی یا بدی، اگر به اندازه دانه‌ای از خردل باشد و در سنگی یا در آسمان‌ها یا در زمین باشد، الله آن را خواهد آورد، همانا الله لطیف و آگاه است.",
     "transliteration": "Yā bunayya innahā in taku mithqāla ḥabbatin min khardalin fatakun fī ṣakhratin aw fī as-samāwāti aw fī al-arḍi ya'ti bihā Allāhu inna Allāha laṭīfun khabīr"
@@ -153,7 +153,7 @@ ayats = [
   {
     "verse_number": 19,
     "english_text": "And pursue the middle course in your behavior, and keep your voice low, the worst sound is that of donkey.",
-    "arabic_text": "وَاقْصِدْ فِى مَشْيِكَ وَاغْضُضْ مِن صَوْتِكَ ۚ اِنَّ اَنكَرَ الْاَصْوَٰتِ لَصَوْتُ الْحَمِيرِ",
+    "arabic_text": "وَاقْصِدْ فِى مَشْيِكَ وَاغْضُضْ مِن صَوْتِكَ ۚ اِنَّ اَنكَرَ الْاَصْوٰتِ لَصَوْتُ الْحَمِيرِ",
     "urdu_text": "اور اپنی چال میں اعتدال اختیار کرو، اور اپنی آواز پست رکھو، بیشک سب سے بری آواز گدھے کی آواز هے۔",
     "persian_text": "و در راه رفتنت میانه‌روی کن، و صدای خود را پایین نگه دار، همانا بدترین صداها صدای خران است.",
     "transliteration": "Waqṣid fī mashyika waghḍuḍ min ṣawtika inna ankara al-aṣwāti la-ṣawtu al-ḥamīr"
@@ -161,7 +161,7 @@ ayats = [
   {
     "verse_number": 20,
     "english_text": "Did not you saw that Allah has made subservient you all the things of sky and the earth, and completed seen and unseen favors for you, and there are some among the people who argue about Allah without knowledge, guidance and the bright book.",
-    "arabic_text": "اَلَمْ تَرَوْاْ اَنَّ اللّٰهَ سَخَّرَ لَكُم مَّا فِى السَّمَـٰوَٰتِ وَ مَا فِى الْاَرْضِ وَاَسْبَغَ عَلَيْكُمْ نِعَمَهُ ظَـٰهِرَةًۭ وَبَاطِنَةًۭ ۗ وَمِنَ النَّاسِ مَن يُجَـٰدِلُ فِى اللّٰهِ بِغَيْرِ عِلْمٍۢ وَ لَا هُدًۭى وَ لَا كِتٰبٍۢ مُّنِيرٍۢ",
+    "arabic_text": "اَلَمْ تَرَوْاْ اَنَّ اللّٰهَ سَخَّرَ لَكُم مَّا فِى السَّمَـٰوٰتِ وَ مَا فِى الْاَرْضِ وَاَسْبَغَ عَلَيْكُمْ نِعَمَهُ ظَـٰهِرَةًۭ وَبَاطِنَةًۭ ۗ وَمِنَ النَّاسِ مَن يُجَـٰدِلُ فِى اللّٰهِ بِغَيْرِ عِلْمٍۢ وَ لَا هُدًۭى وَ لَا كِتٰبٍۢ مُّنِيرٍۢ",
     "urdu_text": "کیا تم نے نهیں دیکھا که الله نے آسمانوں اور زمین کی تمام چیزیں تمهارے لیے مسخر کر دی هیں، اور تم پر اپنی ظاهری اور باطنی نعمتیں پوری کر دی هیں، اور لوگوں میں سے کچھ ایسے هیں جو الله کے بارے میں بغیر علم، هدایت اور روشن کتاب کے بحث کرتے هیں۔",
     "persian_text": "آیا ندیدید که الله آنچه در آسمان‌ها و آنچه در زمین است برای شما مسخر کرده، و نعمت‌های آشکار و پنهان خود را بر شما کامل گردانیده است، و برخی از مردم درباره الله بدون علم و هدایت و کتاب روشن مجادله می‌کنند.",
     "transliteration": "Alam taraw anna Allāha sakhkhara lakum mā fī as-samāwāti wa mā fī al-arḍi wa asbagha 'alaykum ni'amahu ẓāhiratan wa bāṭinatan wa mina an-nāsi man yujādilu fī Allāhi bighayri 'ilmin wa lā hudan wa lā kitābin munīr"
@@ -177,7 +177,7 @@ ayats = [
   {
     "verse_number": 22,
     "english_text": "And who turns his life wholly towards Allah and also has good character, then he has held the rope of guidance firmly, and on Allah is the end of all affairs.",
-    "arabic_text": "۞ وَمَن يُسْلِمْ وَجْهَهُٓ اِلَى اللّٰهِ وَ هُوَ مُحْسِنٌ فَقَدِ اسْتَمْسَكَ بِالْعُرْوَةِ الْوُثْقَىٰ ۗ وَ اِلـٰى اللّٰهِ عَـٰقِبَةُ الْاُمُورِ",
+    "arabic_text": "  وَ مَن يُسْلِمْ وَجْهَهُٓ اِلَى اللّٰهِ وَ هُوَ مُحْسِنٌ فَقَدِ اسْتَمْسَكَ بِالْعُرْوَةِ الْوُثْقَىٰ ۗ وَ اِلـٰى اللّٰهِ عَـٰقِبَةُ الْاُمُورِ",
     "urdu_text": "اور جو شخص اپنا چهره الله کی طرف جھکا دے اور وه نیکو کار بھی هو تو اس نے مضبوط رسی کو تھام لیا، اور تمام معاملات کا انجام الله هی کی طرف هے۔",
     "persian_text": "و هر کس خود را به خدا تسلیم کند در حالی که نیکوکار باشد، پس به دستاویز محکم چنگ زده است، و فرجام همه کارها به سوی خداست.",
     "transliteration": "Wa man yuslim wajhahu ilal-lahi wa huwa muhsinun faqadistamsaka bil'urwatil wuthqa, wa ilal-lahi 'aqibatul umoor"
@@ -201,7 +201,7 @@ ayats = [
   {
     "verse_number": 25,
     "english_text": "If you ask them who has created the sky and the earth, they will say: Allah did, then say all the Praises are for Allah; and majority of them are totally ignorant.",
-    "arabic_text": "وَلَئِن سَاَلْتَهُم مَّنْ خَلَقَ السَّمَـٰوَٰتِ وَالْاَرْضَ لَيَقُولُنَّ اللّٰهُ ۚ قُلِ الْحَمْدُ لِلَّهِ ۚ بَلْ اَكْثَرُهُمْ لَا يَعْلَمُونَ",
+    "arabic_text": "وَلَئِن سَاَلْتَهُم مَّنْ خَلَقَ السَّمَـٰوٰتِ وَالْاَرْضَ لَيَقُولُنَّ اللّٰهُ ۚ قُلِ الْحَمْدُ لِلَّهِ ۚ بَلْ اَكْثَرُهُمْ لَا يَعْلَمُونَ",
     "urdu_text": "اور اگر آپ ان سے پوچھیں که آسمانوں اور زمین کو کس نے پیدا کیا تو وه ضرور کهیں گے که الله نے، آپ کهه دیجیے که تمام تعریفیں الله هی کے لیے هیں، لیکن ان میں سے اکثر نهیں جانتے۔",
     "persian_text": "و اگر از آنان بپرسی چه کسی آسمان‌ها و زمین را آفرید، البته خواهند گفت: خداوند، بگو: ستایش مخصوص خداست، بلکه بیشتر آنان نمی‌دانند.",
     "transliteration": "Wa la'in sa'altahum man khalaqas samawati wal'arda layaqoolunnal-lah, qulil hamdu lillah, bal aktharuhum la ya'lamoon"
@@ -209,7 +209,7 @@ ayats = [
   {
     "verse_number": 26,
     "english_text": "Everything on the earth and in the sky is for Allah only, and He is Self-Sufficient and worthy of praise.",
-    "arabic_text": "لِلَّهِ مَا فِى السَّمَـٰوَٰتِ وَ الْاَرْضِ ۚ اِنَّ اللّٰهَ هُوَ الْغَنِىُّ الْحَمِيدُ",
+    "arabic_text": "لِلَّهِ مَا فِى السَّمَـٰوٰتِ وَ الْاَرْضِ ۚ اِنَّ اللّٰهَ هُوَ الْغَنِىُّ الْحَمِيدُ",
     "urdu_text": "جو کچھ آسمانوں اور زمین میں هے سب الله هی کا هے، بے شک الله هی بے نیاز اور قابل تعریف هے۔",
     "persian_text": "آنچه در آسمان‌ها و زمین است از آنِ خداست، همانا خداوند بی‌نیاز و ستوده است.",
     "transliteration": "Lillahi ma fis samawati wal'ard, innal-laha huwal ghaniyyul hameed"
@@ -225,7 +225,7 @@ ayats = [
   {
     "verse_number": 28,
     "english_text": "Creation of all of you and coming to life once again, is like one man, and Verily Allah is all-Hearing and all-Seeing.",
-    "arabic_text": "مَّا خَلْقُكُمْ وَ لَا بَعْثُكُمْ اِلَّا كَنَفْسٍۢ وَٰحِدَةٍ ۗ اِنَّ اللّٰهَ سَمِيعٌۢ بَصِيرٌ",
+    "arabic_text": "مَّا خَلْقُكُمْ وَ لَا بَعْثُكُمْ اِلَّا كَنَفْسٍۢ وَاحِدَةٍ ۗ اِنَّ اللّٰهَ سَمِيعٌۢ بَصِيرٌ",
     "urdu_text": "تم سب کی تخلیق اور دوباره اٹھانا ایک جان کی طرح هے، بے شک الله سننے والا دیکھنے والا هے۔",
     "persian_text": "آفرینش شما و برانگیختن شما جز مانند یک نفس نیست، همانا خداوند شنوا و بیناست.",
     "transliteration": "Ma khalqukum wa la ba'thukum illa kanafsin wahidah, innal-laha samee'un baseer"
@@ -265,7 +265,7 @@ ayats = [
   {
     "verse_number": 33,
     "english_text": "O People! Fear your Lord, fear the day when father will not be useful to son nor son will be useful to father, Verily, Allah's promise is truth, therefore worldly life should not deceive you; and beware, let no deceiver deceive you.",
-    "arabic_text": "يٰٓاَيُّهَا النَّاسُ اتَّقُواْ رَبَّكُمْ وَاخْشَوْاْ يَوْمًا لَّا يَجْزِى وَالِدٌ عَن وَلَدِهِ وَ لَا مَوْلُودٌ هُوَ جَازٍ عَن وَالِدِهِ شَيْـًٔا ۚ اِنَّ وَعْدَ اللّٰهِ حَقٌّۭ ۖ فَلَا تَغُرَّنَّكُمُ الْحَيَوٰةُ الدُّنْيٰوَ لَا يَغُرَّنَّكُم بِاللّٰهِ الْغَرُورُ",
+    "arabic_text": "يٰٓاَيُّهَا النَّاسُ اتَّقُواْ رَبَّكُمْ وَاخْشَوْاْ يَوْمًا لَّا يَجْزِى وَالِدٌ عَن وَلَدِهِ وَ لَا مَوْلُودٌ هُوَ جَازٍ عَن وَالِدِهِ شَيْـًٔا ۚ اِنَّ وَعْدَ اللّٰهِ حَقٌّۭ ۖ فَلَا تَغُرَّنَّكُمُ الْحَيٰوةُ الدُّنْيٰوَ لَا يَغُرَّنَّكُم بِاللّٰهِ الْغَرُورُ",
     "urdu_text": "اے لوگو! اپنے رب سے ڈرو اور اس دن سے ڈرو جب نه باپ اپنے بیٹے کے کام آئے گا اور نه بیٹا اپنے باپ کے کچھ کام آئے گا، بیشک الله کا وعده سچا هے، پس دنیا کی زندگی تمهیں دھوکے میں نه ڈالے اور نه کوئی دھوکے باز تمهیں الله کے بارے میں دھوکه دے۔",
     "persian_text": "ای مردم! از پروردگار خود بترسید و از روزی بترسید که نه پدری به جای فرزندش سودی خواهد داشت و نه فرزندی به جای پدرش چیزی را جبران خواهد کرد، همانا وعده خداوند حق است، پس زندگی دنیا شما را فریب ندهد و فریبنده‌ای شما را درباره خدا فریب ندهد.",
     "transliteration": "Yaa ayyuhan-naasut-taqoo rabbakum wakhshaw yawmal-laa yajzee waalidun 'an waladihi wa laa mawloodun huwa jaazin 'an waalidihi shay'aa, inna wa'dal-laahi haqq, falaa taghurrannakumul-hayaatud-dunyaa wa laa yaghurrannakum billaahil-gharoor"

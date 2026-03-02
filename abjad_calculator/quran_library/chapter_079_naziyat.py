@@ -74,7 +74,7 @@ ayats = [
   {
     "verse_number": 10,
     "english_text": "These infidels say, will we be sent into this world again?",
-    "arabic_text": "يَقُولُونَ اَءِنَّا لَمَرْدُودُونَ فِى الْحَافِرَةِ",
+    "arabic_text": "يَقُولُونَ ءَاِنَّا لَمَرْدُودُونَ فِى الْحَافِرَةِ",
     "urdu_text": "یہ کافر کہتے ہیں کیا ہم واقعی پہلی حالت میں لوٹائے جائیں گے",
     "persian_text": "این کافران می‌گویند آیا ما به زندگی نخستین باز خواهیم گشت",
     "transliteration": "Yaquluna a'inna lamarduduna fil-hafirah",

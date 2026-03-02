@@ -73,7 +73,7 @@ ayats = [
   {
     "verse_number": 9,
     "english_text": "And Firaun, and those before him; people of the overturned settlements, they all committed mistakes.",
-    "arabic_text": "وَجَآءَ فِرْعَوْنُ وَمَن قَبْلَهُ وَالْمُؤْتَفِكَـٰتُ بِالْخَاطِئَةِ",
+    "arabic_text": "وَجَآءَ فِرْعَوْنُ وَ مَن قَبْلَهُ وَالْمُؤْتَفِكَـٰتُ بِالْخَاطِئَةِ",
     "urdu_text": "اور فرعون اور اس سے پهلے والے اور الٹی هوئی بستیوں والے، سب نے خطا کی۔",
     "persian_text": "و فرعون و کسانی که پیش از او بودند و شهرهای واژگون شده، همه مرتکب گناه شدند.",
     "transliteration": "Wa jaa'a Fir'awnu wa man qablahu wal-mu'tafikaatu bil-khaati'ah"
@@ -97,7 +97,7 @@ ayats = [
   {
     "verse_number": 12,
     "english_text": "So that (We) make it an admonition for you, and ear that preserves may listen.",
-    "arabic_text": "لِنَجْعَلَهَا لَكُمْ تَذْكِرَةًۭ وَتَعِيَهَآ اُذُنٌ وَٰعِيَةٌۭ",
+    "arabic_text": "لِنَجْعَلَهَا لَكُمْ تَذْكِرَةًۭ وَتَعِيَهَآ اُذُنٌ وٰعِيَةٌۭ",
     "urdu_text": "تاکه هم اسے تمهارے لیے نصیحت بنا دیں اور سننے والے کان اسے یاد رکھیں۔",
     "persian_text": "تا آن را برای شما عبرتی قرار دهیم و گوش شنوا آن را نگه دارد.",
     "transliteration": "Linaj'alahaa lakum tadhkiratanw-wa ta'iyahaaa udhunuw-waa'iyah"
@@ -105,7 +105,7 @@ ayats = [
   {
     "verse_number": 13,
     "english_text": "Then when the trumpet will be blown for the first time.",
-    "arabic_text": "فَاِذَا نُفِخَ فِى الصُّورِ نَفْخَةٌۭ وَٰحِدَةٌۭ",
+    "arabic_text": "فَاِذَا نُفِخَ فِى الصُّورِ نَفْخَةٌۭ وَاحِدَةٌۭ",
     "urdu_text": "پھر جب صور میں ایک بار پھونک ماری جائے گی۔",
     "persian_text": "پس هنگامی که در صور یک بار دمیده شود.",
     "transliteration": "Fa-idhaa nufikha fis-soori nafkhatunw-waahidah"
@@ -113,7 +113,7 @@ ayats = [
   {
     "verse_number": 14,
     "english_text": "And the earth and mountains shall be uprooted, collided, and shall be turned into fragments.",
-    "arabic_text": "وَحُمِلَتِ الْاَرْضُ وَالْجِبَالُ فَدُكَّتَا دَكَّةًۭ وَٰحِدَةًۭ",
+    "arabic_text": "وَحُمِلَتِ الْاَرْضُ وَالْجِبَالُ فَدُكَّتَا دَكَّةًۭ وَاحِدَةًۭ",
     "urdu_text": "اور زمین اور پهاڑ اٹھا لیے جائیں گے اور ایک هی دھکے سے ریزه ریزه کر دیے جائیں گے۔",
     "persian_text": "و زمین و کوه‌ها برداشته شوند و به یک ضربه در هم کوبیده شوند.",
     "transliteration": "Wa humilat-il-ardu wal-jibaalu fadukkataa dakkatanw-waahidah"

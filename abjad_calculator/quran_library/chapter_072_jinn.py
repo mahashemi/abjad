@@ -113,7 +113,7 @@ ayats = [
   {
     "verse_number": 14,
     "english_text": "And some are obedient among us and some are disobedient, and whoever will be obedient has found the path of guidance.",
-    "arabic_text": "وَاَنَّا مِنَّا الْمُسْلِمُونَ وَمِنَّا الْقَـٰسِطُونَ ۖ فَمَنْ اَسْلَمَ فَاُو۟لَـٰٓئِكَ تَحَرَّوْاْ رَشَدًۭا",
+    "arabic_text": "وَاَنَّا مِنَّا الْمُسْلِمُونَ وَمِنَّا الْقَـٰسِطُونَ ۖ فَمَنْ اَسْلَمَ فَاُوْلٓـٰئِكَ تَحَرَّوْاْ رَشَدًۭا",
     "urdu_text": "اور هم میں سے کچھ فرمانبردار هیں اور کچھ ظالم هیں، پس جنهوں نے فرمانبرداری اختیار کی انهوں نے هدایت کی راه پا لی۔",
     "persian_text": "و برخی از ما مسلمانان و برخی ستمکاران هستند، پس کسانی که تسلیم شدند راه راست را یافتند.",
     "transliteration": "Wa anna minna al-muslimoona wa minna al-qasitoona fa man aslama fa ula'ika taharraw rashada"
@@ -137,7 +137,7 @@ ayats = [
   {
     "verse_number": 17,
     "english_text": "So that We could test them, and whoever will turn aside from the reminder of Allah will have to walk on the path of stringent punishment.",
-    "arabic_text": "لِّنَفْتِنَهُمْ فِيهِ ۚ وَمَن يُعْرِضْ عَن ذِكْرِ رَبِّهِ يَسْلُكْهُ عَذَابًا صَعَدًۭا",
+    "arabic_text": "لِّنَفْتِنَهُمْ فِيهِ ۚ وَ مَن يُعْرِضْ عَن ذِكْرِ رَبِّهِ يَسْلُكْهُ عَذَابًا صَعَدًۭا",
     "urdu_text": "تاکه هم اس میں ان کا امتحان لیں، اور جو اپنے رب کی یاد سے منه موڑے گا اسے سخت عذاب میں داخل کر دیا جائے گا۔",
     "persian_text": "تا آنان را در آن بیازماییم، و هر که از یاد پروردگارش روی گرداند او را به عذاب سخت وارد خواهد کرد.",
     "transliteration": "Li-naftiyahum feehi wa man yu'rid 'an dhikri rabbihi yaslukhu 'adhaban sa'ada"
@@ -185,7 +185,7 @@ ayats = [
   {
     "verse_number": 23,
     "english_text": "But that I convey the commandments and message of my Lord, and there is Hell for whoever is disobedient of Allah and His Prophet, and he will abide in it forever.",
-    "arabic_text": "اِلَّا بَلَـٰغًۭا مِّنَ اللّٰهِ وَرِسَـٰلَـٰتِهِ ۚ وَمَن يَعْصِ اللّٰهَ وَرَسُولَهُ فَاِنَّ لَهُ نَارَ جَهَنَّمَ خَـٰلِدِينَ فِيهَآ اَبَدًا",
+    "arabic_text": "اِلَّا بَلَـٰغًۭا مِّنَ اللّٰهِ وَرِسَـٰلَـٰتِهِ ۚ وَ مَن يَعْصِ اللّٰهَ وَرَسُولَهُ فَاِنَّ لَهُ نَارَ جَهَنَّمَ خَـٰلِدِينَ فِيهَآ اَبَدًا",
     "urdu_text": "مگر یه که میں الله کی طرف سے پیغام اور اس کے احکام پهنچا دوں، اور جو الله اور اس کے رسول کی نافرمانی کرے تو اس کے لیے جهنم کی آگ هے جس میں وه همیشه رهیں گے۔",
     "persian_text": "مگر اینکه پیام‌های خدا و رسالت‌های او را برسانم. و هر کس خدا و رسولش را نافرمانی کند، آتش جهنم برای اوست که جاودانه در آن خواهند ماند.",
     "transliteration": "Illa balaagham minal laahi wa risaalaatih, wa man ya'sil laaha wa rasoolahu fa inna lahu naara jahannama khaalideena feeha abada"

@@ -9,7 +9,7 @@ ayats = [
   {
     "verse_number": 1,
     "english_text": "Every particle on the earth and in the skies is glorifying Allah, to Him belongs the Kingdom and to Him belongs the Praise and He has the power over all things.",
-    "arabic_text": "يُسَبِّحُ لِلَّهِ مَا فِى السَّمَـٰوَٰتِ وَ مَا فِى الْاَرْضِ ۖ لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ ۖ وَ هُوَ عَلَىٰ كُلِّ شَىْءٍۢ قَدِيرٌ",
+    "arabic_text": "يُسَبِّحُ لِلَّهِ مَا فِى السَّمَـٰوٰتِ وَ مَا فِى الْاَرْضِ ۖ لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ ۖ وَ هُوَ عَلَىٰ كُلِّ شَىْءٍۢ قَدِيرٌ",
     "urdu_text": "آسمانوں اور زمین میں جو کچھ هے سب الله کی تسبیح کرتا هے، اسی کے لیے بادشاهی هے اور اسی کے لیے تمام تعریفیں هیں، اور وه هر چیز پر قادر هے۔",
     "persian_text": "آنچه در آسمان‌ها و آنچه در زمین است، همه تسبیح الله می‌گویند، فرمانروایی از آنِ اوست و ستایش از آنِ اوست، و او بر هر چیزی تواناست.",
     "transliteration": "Yusabbihu lillahi ma fis-samawati wa ma fil-ard, lahul-mulku wa lahul-hamd, wa huwa 'ala kulli shay'in qadir"
@@ -25,7 +25,7 @@ ayats = [
   {
     "verse_number": 3,
     "english_text": "Only He has created the skies and the earth with the Truth, and has given you face and made your faces very beautiful, and then everyone has to return to Him.",
-    "arabic_text": "خَلَقَ السَّمَـٰوَٰتِ وَالْاَرْضَ بِالْحَقِّ وَصَوَّرَكُمْ فَاَحْسَنَ صُوَرَكُمْ ۖ وَ اِلَيْهِ الْمَصِيرُ",
+    "arabic_text": "خَلَقَ السَّمَـٰوٰتِ وَالْاَرْضَ بِالْحَقِّ وَصَوَّرَكُمْ فَاَحْسَنَ صُوَرَكُمْ ۖ وَ اِلَيْهِ الْمَصِيرُ",
     "urdu_text": "اسی نے آسمانوں اور زمین کو حق کے ساتھ پیدا کیا، اور تمهاری صورتیں بنائیں اور تمهاری صورتوں کو بهت خوبصورت بنایا، اور اسی کی طرف سب کو لوٹنا هے۔",
     "persian_text": "آسمان‌ها و زمین را به حق آفرید، و شما را صورت داد و صورت‌های شما را نیکو ساخت، و بازگشت به سوی اوست.",
     "transliteration": "Khalaqas-samawati wal-arda bil-haqqi wa sawwarakum fa-ahsana suwarakum, wa ilayhil-masir"
@@ -33,7 +33,7 @@ ayats = [
   {
     "verse_number": 4,
     "english_text": "He is aware of everything of the earth and the skies; and He knows all those things which you express or which you conceal and He is also aware of the secrets of your breasts.",
-    "arabic_text": "يَعْلَمُ مَا فِى السَّمَـٰوَٰتِ وَ الْاَرْضِ وَيَعْلَمُ مَا تُسِرُّونَ وَ مَا تُعْلِنُونَ ۚ وَ اللّٰهُ عَلِيمٌۢ بِذَاتِ الصُّدُورِ",
+    "arabic_text": "يَعْلَمُ مَا فِى السَّمَـٰوٰتِ وَ الْاَرْضِ وَيَعْلَمُ مَا تُسِرُّونَ وَ مَا تُعْلِنُونَ ۚ وَ اللّٰهُ عَلِيمٌۢ بِذَاتِ الصُّدُورِ",
     "urdu_text": "وه جانتا هے جو کچھ آسمانوں اور زمین میں هے، اور وه جانتا هے جو تم چھپاتے هو اور جو ظاهر کرتے هو، اور الله دلوں کے بھیدوں کو خوب جانتا هے۔",
     "persian_text": "آنچه در آسمان‌ها و زمین است می‌داند، و آنچه پنهان می‌کنید و آنچه آشکار می‌سازید می‌داند، و الله به راز دل‌ها داناست.",
     "transliteration": "Ya'lamu ma fis-samawati wal-ardi wa ya'lamu ma tusirruna wa ma tu'linun, wallahu 'alimun bidhatis-sudur"
@@ -73,7 +73,7 @@ ayats = [
   {
     "verse_number": 9,
     "english_text": "He will gather you all on the Day of Judgement and that will be the day of loss and gain, and the one who believes in Allah and will perform good deeds; Allah will remove his evil deeds and will admit him in those gardens beneath which rivers will be flowing, and they will abide in it forever, and this is the biggest achievement.",
-    "arabic_text": "يَوْمَ يَجْمَعُكُمْ لِيَوْمِ الْجَمْعِ ۖ ذٰلِكَ يَوْمُ التَّغَابُنِ ۗ وَمَن يُؤْمِنۢ بِاللّٰهِ وَيَعْمَلْ صَـٰلِحًۭا يُكَفِّرْ عَنْهُ سَيِّـَٔاتِهِ وَيُدْخِلْهُ جَنَّـٰتٍۢ تَجْرِى مِن تَحْتِهَا الْاَنْهَـٰرُ خَـٰلِدِينَ فِيهَآ اَبَدًۭا ۚ ذٰلِكَ الْفَوْزُ الْعَظِيمُ",
+    "arabic_text": "يَوْمَ يَجْمَعُكُمْ لِيَوْمِ الْجَمْعِ ۖ ذٰلِكَ يَوْمُ التَّغَابُنِ ۗ وَ مَن يُؤْمِنۢ بِاللّٰهِ وَيَعْمَلْ صَـٰلِحًۭا يُكَفِّرْ عَنْهُ سَيِّـَٔاتِهِ وَيُدْخِلْهُ جَنَّـٰتٍۢ تَجْرِى مِن تَحْتِهَا الْاَنْهَـٰرُ خَـٰلِدِينَ فِيهَآ اَبَدًۭا ۚ ذٰلِكَ الْفَوْزُ الْعَظِيمُ",
     "urdu_text": "جس دن وه تم سب کو جمع کرے گا، وه نقصان اور نفع کا دن هوگا، اور جو الله پر ایمان لائے اور نیک عمل کرے، الله اس کے گناه دور کر دے گا اور اسے ایسے باغوں میں داخل کرے گا جن کے نیچے نهریں بهتی هیں، وه ان میں همیشه رهیں گے، اور یه سب سے بڑی کامیابی هے۔",
     "persian_text": "روزی که شما را برای روز گردهمایی جمع کند، آن روز زیان و سود است، و هر که به الله ایمان آورد و کار شایسته انجام دهد، بدی‌هایش را از او بزداید و او را به باغ‌هایی درآورد که از زیر درختانش نهرها جاری است، جاودانه در آن بمانند، این است رستگاری بزرگ.",
     "transliteration": "Yawma yajma'ukum li-yawmil-jam', dhalika yawmut-taghabun, wa man yu'min billahi wa ya'mal salihan yukaffir 'anhu sayyi'atihi wa yudkhilhu jannatin tajri min tahtihal-anharu khalidina fiha abada, dhalikal-fawzul-'adhim"
@@ -81,7 +81,7 @@ ayats = [
   {
     "verse_number": 10,
     "english_text": "And those who adopted infidelity and rejected Our signs, they are the people of Hell, and shall abide therein forever; and this is their worst recompense.",
-    "arabic_text": "وَ الَّذِينَ كَفَرُواْ وَكَذَّبُواْ بِـَٔايَـٰتِنَآ اُو۟لَـٰٓئِكَ اَصْحَـٰبُ النَّارِ خَـٰلِدِينَ فِيهَا ۖ وَبِئْسَ الْمَصِيرُ",
+    "arabic_text": "وَ الَّذِينَ كَفَرُواْ وَكَذَّبُواْ بِـَٔايَـٰتِنَآ اُوْلٓـٰئِكَ اَصْحَـٰبُ النَّارِ خَـٰلِدِينَ فِيهَا ۖ وَبِئْسَ الْمَصِيرُ",
     "urdu_text": "اور جنهوں نے کفر اختیار کیا اور هماری آیتوں کو جھٹلایا، وه دوزخ والے هیں، وه اس میں همیشه رهیں گے، اور یه بدترین ٹھکانا هے۔",
     "persian_text": "و کسانی که کافر شدند و آیات ما را تکذیب کردند، آنان اهل آتش‌اند، جاودانه در آن بمانند، و چه بد سرانجامی است.",
     "transliteration": "Walladhina kafaru wa kadhdhabu bi-ayatina ula'ika as-habun-nari khalidina fiha, wa bi'sal-masir"
@@ -89,7 +89,7 @@ ayats = [
   {
     "verse_number": 11,
     "english_text": "No calamity comes, but with the command of Allah and he who is a believer, Allah guides his heart; and Allah knows all things.",
-    "arabic_text": "مَآ اَصَابَ مِن مُّصِيبَةٍ اِلَّا بِاِذْنِ اللّٰهِ ۗ وَمَن يُؤْمِنۢ بِاللّٰهِ يَهْدِ قَلْبَهُ ۚ وَ اللّٰهُ بِكُلِّ شَىْءٍ عَلِيمٌۭ",
+    "arabic_text": "مَآ اَصَابَ مِن مُّصِيبَةٍ اِلَّا بِاِذْنِ اللّٰهِ ۗ وَ مَن يُؤْمِنۢ بِاللّٰهِ يَهْدِ قَلْبَهُ ۚ وَ اللّٰهُ بِكُلِّ شَىْءٍ عَلِيمٌۭ",
     "urdu_text": "کوئی مصیبت نهیں آتی مگر الله کے حکم سے، اور جو الله پر ایمان رکھتا هے، الله اس کے دل کو هدایت دیتا هے، اور الله هر چیز کا جانے والا هے۔",
     "persian_text": "هیچ مصیبتی نمی‌رسد مگر به فرمان الله، و هر کس به الله ایمان آورد، الله دل او را هدایت می‌کند، و الله به هر چیزی داناست.",
     "transliteration": "Maa asaaba min museebatin illaa bi-idhnil-laah, wa man yu'min billaahi yahdi qalbah, wallaahu bikulli shay'in 'aleem"
@@ -113,7 +113,7 @@ ayats = [
   {
     "verse_number": 14,
     "english_text": "O you who believe! among your wives and children some of them are your enemies, therefore be careful of them, and if you forgive them and overlook them, and pardon them, then Allah is also All-Forgiving and Merciful.",
-    "arabic_text": "يٰٓاَيُّهَا الَّذِينَ ءَامَنُوٓاْ اِنَّ مِنْ اَزْوَٰجِكُمْ وَاَوْلَـٰدِكُمْ عَدُوًّۭا لَّكُمْ فَاحْذَرُوهُمْ ۚ وَ اِن تَعْفُواْ وَتَصْفَحُواْ وَتَغْفِرُواْ فَاِنَّ اللّٰهَ غَفُورٌۭ رَّحِيمٌ",
+    "arabic_text": "يٰٓاَيُّهَا الَّذِينَ ءَامَنُوٓاْ اِنَّ مِنْ اَزْوٰجِكُمْ وَاَوْلَـٰدِكُمْ عَدُوًّۭا لَّكُمْ فَاحْذَرُوهُمْ ۚ وَ اِن تَعْفُواْ وَتَصْفَحُواْ وَتَغْفِرُواْ فَاِنَّ اللّٰهَ غَفُورٌۭ رَّحِيمٌ",
     "urdu_text": "اے ایمان والو! بیشک تمهاری بیویوں اور اولاد میں سے بعض تمهارے دشمن هیں، لهٰذا ان سے هوشیار رهو، اور اگر تم معاف کر دو اور درگزر کرو اور بخش دو تو بیشک الله بخشنے والا مهربان هے۔",
     "persian_text": "ای کسانی که ایمان آورده‌اید! همانا از همسران و فرزندان شما بعضی دشمن شما هستند، پس از آنان بپرهیزید، و اگر عفو کنید و در گذرید و ببخشید، پس همانا الله آمرزنده مهربان است.",
     "transliteration": "Yaa ayyuhal-ladheena aamanoo inna min azwaajikum wa awlaadikum 'aduwwan lakum fahdhharoohum, wa in ta'foo wa tasfahoo wa taghfiroo fa-innal-laaha ghafoorur-raheem"
@@ -121,7 +121,7 @@ ayats = [
   {
     "verse_number": 15,
     "english_text": "Your wealth and your children are source of trial for you, and Great Reward is only with Allah.",
-    "arabic_text": "اِنَّمَآ اَمْوَٰلُكُمْ وَاَوْلَـٰدُكُمْ فِتْنَةٌۭ ۚ وَ اللّٰهُ عِندَهُٓ اَجْرٌ عَظِيمٌۭ",
+    "arabic_text": "اِنَّمَآ اَمْوٰلُكُمْ وَاَوْلَـٰدُكُمْ فِتْنَةٌۭ ۚ وَ اللّٰهُ عِندَهُٓ اَجْرٌ عَظِيمٌۭ",
     "urdu_text": "تمهارے مال اور تمهاری اولاد صرف آزمائش هیں، اور الله کے پاس بڑا اجر هے۔",
     "persian_text": "همانا اموال و فرزندان شما فتنه‌ای هستند، و الله نزد او پاداش بزرگی است.",
     "transliteration": "Innamaa amwaalukum wa awlaadukum fitnah, wallaahu 'indahoo ajrun 'adheem"
@@ -129,7 +129,7 @@ ayats = [
   {
     "verse_number": 16,
     "english_text": "Therefore, fear Allah as much as you can and listen to Him and obey and spend in the way of Allah that there is good in it for you; and those who are saved from stinginess of their own souls are those who will prosper and get deliverance.",
-    "arabic_text": "فَاتَّقُواْ اللّٰهَ مَا اسْتَطَعْتُمْ وَاسْمَعُواْ وَاَطِيعُواْ وَاَنفِقُواْ خَيْرًا لِّاَنفُسِكُمْ ۗ وَمَن يُوقَ شُحَّ نَفْسِهِ فَاُو۟لَـٰٓئِكَ هُمُ الْمُفْلِحُونَ",
+    "arabic_text": "فَاتَّقُواْ اللّٰهَ مَا اسْتَطَعْتُمْ وَاسْمَعُواْ وَاَطِيعُواْ وَاَنفِقُواْ خَيْرًا لِّاَنفُسِكُمْ ۗ وَ مَن يُوقَ شُحَّ نَفْسِهِ فَاُوْلٓـٰئِكَ هُمُ الْمُفْلِحُونَ",
     "urdu_text": "پس جهاں تک تم سے هو سکے الله سے ڈرو اور سنو اور اطاعت کرو اور خرچ کرو جو تمهارے لیے بهتر هے، اور جو اپنے نفس کی بخل سے بچا لیا گیا تو وهی لوگ کامیاب هیں۔",
     "persian_text": "پس تا آنجا که می‌توانید از الله بترسید و بشنوید و اطاعت کنید و انفاق کنید که برای خودتان بهتر است، و کسانی که از بخل نفس خود نگه داشته شوند، پس آنان همان رستگارانند.",
     "transliteration": "Fattaqul-laaha mastataa'tum wasma'oo wa atee'oo wa anfiqoo khayral-li-anfusikum, wa man yooqa shuhha nafsihee fa-ulaaa'ika humul-muflihoon"

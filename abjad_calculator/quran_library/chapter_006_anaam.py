@@ -834,7 +834,7 @@ ayats = [
   {
     "verse_number": 105,
     "english_text": "And We describe our verses differently. (in order to complete the argument), so they should say you have recited the Quran, and We make clear the Quran for those who know.",
-    "arabic_text": "وَ كَذٰلِكَ نُصَرِّفُ الْاٰيٰتِ وَ لِيَقُوْلُوْا دَرَسْتَ وَ لِنُبَيِّنَهُ لِقَوْمٍۢ يَعْلَمُوْنَ",
+    "arabic_text": "وَ كَذٰلِكَ نُصَرِّفُ الْاٰيٰتِ وَ لِيَقُوْلُوْا دَرَسْتَ وَ لِنُبَيِّنَهُ لِقَوْمٍ يَعْلَمُوْنَ",
     "urdu_text": "اور اسی طرح ہم آیتوں کو مختلف انداز میں بیان کرتے ہیں تاکہ وہ کہیں کہ تم نے پڑھ لیا ہے، اور تاکہ ہم اسے جانے والوں کے لیے واضح کر دیں۔",
     "persian_text": "و این‌گونه آیات را گوناگون بیان می‌کنیم تا بگویند درس خوانده‌ای، و تا آن را برای قومی که می‌دانند روشن سازیم.",
     "transliteration": "Wa kadhalika nusarrifil ayati wa liyaqoolu darasta wa linubayyinahu liqawmin ya'lamoon",
@@ -1314,7 +1314,7 @@ ayats = [
   {
     "verse_number": 165,
     "english_text": "And that is He who made you His vicegerent on the earth; and among you We raised the degree of some (prophets) over some (prophets), that We may test you with our Blessings, undoubtedly your Lord is quick in punishment, and also there is no doubt that He is all Forgiving and Merciful.",
-    "arabic_text": "وَ هُوَ الَّذِى جَعَلَكُمْ خَلٰٓئِفَ الْاَرْضِ وَ رَفَعَ بَعْضَكُمْ فَوْقَ بَعْضٍۢ دَرَجٰتٍ لِّيَبْلُوَكُمْ فِىْ مَآ اٰتٰكُمْ  اِنَّ رَبَّكَ سَرِيْعُ الْعِقَابِ   وَ اِنَّهُ لَغَفُوْرٌ رَّحِيْمٌ",
+    "arabic_text": "وَ هُوَ الَّذِى جَعَلَكُمْ خَلٰٓئِفَ الْاَرْضِ وَ رَفَعَ بَعْضَكُمْ فَوْقَ بَعْضٍ دَرَجٰتٍ لِّيَبْلُوَكُمْ فِىْ مَآ اٰتٰكُمْ  اِنَّ رَبَّكَ سَرِيْعُ الْعِقَابِ   وَ اِنَّهُ لَغَفُوْرٌ رَّحِيْمٌ",
     "urdu_text": "اور وہی ہے جس نے تمہیں زمین میں خلیفہ بنایا اور تم میں سے بعض کو بعض پر درجات میں بلند کیا تاکہ جو کچھ اس نے تمہیں دیا ہے اس میں تمہیں آزمائے، بیشک تمہارا رب سزا دینے میں تیز ہے اور بیشک وہ بخشنے والا مہربان ہے",
     "persian_text": "و او کسی است که شما را جانشینان زمین قرار داد و برخی از شما را بر برخی دیگر درجاتی برتر داد تا شما را در آنچه به شما داده آزمایش کند، همانا پروردگار تو سریع‌العقاب است و همانا او آمرزنده مهربان است",
     "transliteration": "Wa huwal-ladhi ja'alakum khala'ifal-ardi wa rafa'a ba'dakum fawqa ba'din darajatin li-yabluwakum fi ma atakum, inna rabbaka sari'ul-'iqab wa innahu la-ghafurun rahim",

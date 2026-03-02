@@ -50,7 +50,7 @@ ayats = [
   {
     "verse_number": 7,
     "english_text": "It is He Who have revealed the Book and some of the verses are very decisive which are base of the Book, and some verses are metaphoric, and whose hearts are not straight, follow only these verses which are metaphoric to create mischief and interpret their own meaning, whereas except Allah and those who are firmly entrenched in knowledge ; nobody knows their meaning, they say we believe in all whatever has been revealed from the Lord, and only knowledgeable understand.",
-    "arabic_text": "هُوَ الَّذِى اَنزَلَ عَلَيْكَ الْكِتٰبَ مِنْهُ اٰيٰتٌ مُّحْكَمٰتٌ هُنَّ اُمُّ الْكِتٰبِ وَ اُخَرُ مُتَشٰبِهٰتٌ   فَاَمَّا الَّذِيْنَ فِىْ قُلُوبِهِمْ زَيْغٌ فَيَتَّبِعُونَ مَا تَشَابَهَ مِنْهُ ابْتِغَآءَ الْفِتْنَةِ وَ ابْتِغَآءَ تَاْوِيْلِهِ  وَ مَا يَعْلَمُ تَاْوِيْلَهُٓ  اِلَّا اللّٰهُ   وَ الرَاسِخُونَ فِىْ الْعِلْمِ يَقُوْلُوْنَ اٰمَنَّا بِهِ   كُلٌّ مِّنْ عِندِ رَبِّنَا  وَ مَا يَذَّكَّرُ اِلَّآ اُو۟لُوا الْاَلْبَابِ",
+    "arabic_text": "هُوَ الَّذِى اَنزَلَ عَلَيْكَ الْكِتٰبَ مِنْهُ اٰيٰتٌ مُّحْكَمٰتٌ هُنَّ اُمُّ الْكِتٰبِ وَ اُخَرُ مُتَشٰبِهٰتٌ   فَاَمَّا الَّذِيْنَ فِىْ قُلُوبِهِمْ زَيْغٌ فَيَتَّبِعُونَ مَا تَشَابَهَ مِنْهُ ابْتِغَآءَ الْفِتْنَةِ وَ ابْتِغَآءَ تَاْوِيْلِهِ  وَ مَا يَعْلَمُ تَاْوِيْلَهُٓ  اِلَّا اللّٰهُ   وَ الرَاسِخُونَ فِىْ الْعِلْمِ يَقُوْلُوْنَ اٰمَنَّا بِهِ   كُلٌّ مِّنْ عِندِ رَبِّنَا  وَ مَا يَذَّكَّرُ اِلَّآ اُوْلُوا الْاَلْبَابِ",
     "urdu_text": "وہی ہے جس نے تم پر کتاب نازل کی، اس میں کچھ آیتیں محکم ہیں جو کتاب کی اصل ہیں، اور کچھ متشابہ ہیں، پس جن کے دلوں میں کجی ہے وہ فتنہ کی طلب اور اپنی من مانی تاویل کے لیے متشابہات کی پیروی کرتے ہیں، حالانکہ ان کی حقیقی تاویل اللہ کے سوا کوئی نہیں جانتا، اور علم میں پختہ لوگ کہتے ہیں کہ ہم اس پر ایمان لائے، سب ہمارے رب کی طرف سے ہے، اور نصیحت صرف عقلمند ہی حاصل کرتے ہیں",
     "persian_text": "اوست که کتاب را بر تو نازل کرد که برخی از آیات آن محکم و استوار است که اصل کتاب هستند و برخی دیگر متشابه‌اند، پس کسانی که در دل‌هایشان کجی است از آیات متشابه پیروی می‌کنند برای ایجاد فتنه و تفسیر دلخواه، در حالی که تأویل آن را جز خدا کسی نمی‌داند، و راسخان در علم می‌گویند ما به آن ایمان آوردیم، همه از جانب پروردگار ماست، و جز خردمندان کسی پند نمی‌گیرد",
     "transliteration": "Huwa allathee anzala 'alayka al-kitaba minhu ayatun muhkamatun hunna ummu al-kitabi wa ukharu mutashabihatun fa-amma allatheena fee quloobihim zayghun fayattabi'oona ma tashabaha minhu ibtighaa'a al-fitnati wa ibtighaa'a ta'weelihi wa ma ya'lamu ta'weelahu illa Allahu wa ar-rasikhuna fi al-'ilmi yaqooloona amanna bihi kullun min 'indi rabbina wa ma yaththakkaru illa ulu al-albab",
@@ -610,7 +610,7 @@ ayats = [
   {
     "verse_number": 77,
     "english_text": "People who sell their promise made to Allah for small sum, these people do not have any share in The Hereafter, and Allah shall neither speak to them on the Day of Judgement nor will look them with Mercy, nor He will purify them of their sins, there is severest chastisement for them.",
-    "arabic_text": "اِنَّ الَّذِيْنَ يَشْتَرُوْنَ بِعَهْدِ اللّٰهِ وَ اَيْمَانِهِمْ ثَمَنًا قَلِيلًا  اُو۟لٰٓئِكَ لَا خَلَاقَ لَهُمْ فِىْ الْاٰخِرَةِ وَ لَا يُكَلِّمُهُمُ اللّٰهُ وَ لَا يَنْظُرُ اِلَيْهِمْ يَوْمَ الْقِيٰمَةِ وَ لَا يُزَكِّيْهِمْ  وَ لَهُمْ عَذَابٌ اَلِيمٌ",
+    "arabic_text": "اِنَّ الَّذِيْنَ يَشْتَرُوْنَ بِعَهْدِ اللّٰهِ وَ اَيْمَانِهِمْ ثَمَنًا قَلِيلًا  اُوْلٰٓئِكَ لَا خَلَاقَ لَهُمْ فِىْ الْاٰخِرَةِ وَ لَا يُكَلِّمُهُمُ اللّٰهُ وَ لَا يَنْظُرُ اِلَيْهِمْ يَوْمَ الْقِيٰمَةِ وَ لَا يُزَكِّيْهِمْ  وَ لَهُمْ عَذَابٌ اَلِيمٌ",
     "urdu_text": "بیشک جو لوگ اللہ کے عہد اور اپنی قسموں کو تھوڑی قیمت پر بیچ ڈالتے ہیں، ان کے لیے آخرت میں کوئی حصہ نہیں، اور اللہ قیامت کے دن نہ ان سے بات کرے گا، نہ ان کی طرف نظر رحمت سے دیکھے گا، اور نہ انہیں پاک کرے گا، اور ان کے لیے دردناک عذاب ہے",
     "persian_text": "همانا کسانی که عهد خداوند و سوگندهای خود را به بهای اندکی می‌فروشند، اینان را در آخرت بهره‌ای نیست و خداوند روز قیامت با آنان سخن نخواهد گفت و به آنان نظر رحمت نخواهد کرد و آنان را پاک نخواهد ساخت و برای آنان عذابی دردناک است",
     "transliteration": "Innallazeena yashtaroona bi'ahdillahi wa aymanihim thamanan qaleelan ula'ika la khalaqa lahum fil akhirati wa la yukallimuhumullahu wa la yanzuru ilayhim yawmal qiyamati wa la yuzakkeehim wa lahum azabun aleem",
@@ -650,7 +650,7 @@ ayats = [
   {
     "verse_number": 82,
     "english_text": "And after this whoever turn back on his covenant then he will be among the transgressors.",
-    "arabic_text": "فَمَنْ تَوَلّٰى بَعْدَ ذٰلِكَ فَاُو۟لٰٓئِكَ هُمُ الْفٰسِقُوْنَ",
+    "arabic_text": "فَمَنْ تَوَلّٰى بَعْدَ ذٰلِكَ فَاُوْلٰٓئِكَ هُمُ الْفٰسِقُوْنَ",
     "urdu_text": "پھر جو اس کے بعد منہ موڑے تو وہی لوگ نافرمان ہیں",
     "persian_text": "پس هر که بعد از این روی گرداند آنان فاسقان هستند",
     "transliteration": "Faman tawalla ba'da dhalika fa-ula'ika humul-fasiqoon",
@@ -746,7 +746,7 @@ ayats = [
   {
     "verse_number": 94,
     "english_text": "Even after this if anybody fabricates a lie against Allah, these are people who are oppressors.",
-    "arabic_text": "فَمَنِ افْتَرٰى عَلَى اللّٰهِ الْكَذِبَ مِنۢ بَعْدِ ذٰلِكَ فَاُو۟لٰٓئِكَ هُمُ الظّٰلِمُوْنَ",
+    "arabic_text": "فَمَنِ افْتَرٰى عَلَى اللّٰهِ الْكَذِبَ مِنۢ بَعْدِ ذٰلِكَ فَاُوْلٰٓئِكَ هُمُ الظّٰلِمُوْنَ",
     "urdu_text": "پھر اس کے بعد جو کوئی اللہ پر جھوٹ باندھے تو یہی لوگ ظالم ہیں",
     "persian_text": "پس هر کس بعد از این بر خدا دروغ ببندد آنان همان ستمکاران هستند",
     "transliteration": "Famanif-taraa 'alal-laahil-kaziba mim ba'di zaalika fa-ulaa'ika humuz-zaalimoon",
@@ -930,7 +930,7 @@ ayats = [
   {
     "verse_number": 117,
     "english_text": "In the few days of this world whatever they spend is like a breeze full of frost, which fell on their fields, and whoever has done injustice on themselves and destroyed it and then fell the frost, Allah has not oppressed them, but they have done injustice to themselves.",
-    "arabic_text": "مَّثَلُ مَا يُنْفِقُونَ فِىْ هٰذِهِ الْحَيٰوةِ الدُّنْيَا كَمَثَلِ رِيْحٍ فِيْهَا صِرٌّ اَصَابَتْ حَرْثَ قَوْمٍۢ ظَلَمُوٓا اَنفُسَهُمْ فَاَهْلَكَتْهُ   وَ مَا ظَلَمَهُمُ اللّٰهُ وَ لٰكِنْ اَنْفُسَهُمْ يَظْلِمُوْنَ",
+    "arabic_text": "مَّثَلُ مَا يُنْفِقُونَ فِىْ هٰذِهِ الْحَيٰوةِ الدُّنْيَا كَمَثَلِ رِيْحٍ فِيْهَا صِرٌّ اَصَابَتْ حَرْثَ قَوْمٍ ظَلَمُوٓا اَنفُسَهُمْ فَاَهْلَكَتْهُ   وَ مَا ظَلَمَهُمُ اللّٰهُ وَ لٰكِنْ اَنْفُسَهُمْ يَظْلِمُوْنَ",
     "urdu_text": "اس دنیا کی زندگی میں جو کچھ یہ خرچ کرتے ہیں اس کی مثال اس ٹھنڈی ہوا کی سی ہے جس میں پالا ہو، جو ان لوگوں کی کھیتی پر پڑی جنہوں نے اپنے اوپر ظلم کیا تھا اور اسے تباہ کر دیا، اور اللہ نے ان پر ظلم نہیں کیا بلکہ وہ خود اپنے اوپر ظلم کرتے ہیں۔",
     "persian_text": "مثل آنچه در این زندگی دنیا انفاق می‌کنند، همچون بادی است که در آن سرمای شدید است و به کشتزار قومی که بر خود ستم کرده‌اند می‌رسد و آن را نابود می‌سازد، و خدا بر آنها ستم نکرده بلکه خودشان بر خویشتن ستم می‌کنند.",
     "transliteration": "Masalu maa yunfiqoona fee haazihil-hayaatid-dunyaa kamathali reehin feehaa sirrun asaabat hartha qawmin zalamoo anfusahum fa-ahlakat-hu, wa maa zalamahumul-laahu wa laakin anfusahum yazlimoon",
@@ -1082,7 +1082,7 @@ ayats = [
   {
     "verse_number": 136,
     "english_text": "These are the people whose reward is forgiveness and Paradise, beneath which there are flowing rivers in which they will dwell forever, and this is the best reward for good deeds.",
-    "arabic_text": "اُو۟لٰٓئِكَ جَزَآؤُهُم مَّغْفِرَةٌ مِّنْ رَّبِّهِمْ وَ جَنّٰتٌ تَجْرِىْ مِنْ تَحْتِهَا الْاَنْهٰرُ خٰلِدِينَ فِيْهَا  وَ نِعْمَ اَجْرُ الْعٰمِلِيْنَ",
+    "arabic_text": "اُوْلٰٓئِكَ جَزَآؤُهُم مَّغْفِرَةٌ مِّنْ رَّبِّهِمْ وَ جَنّٰتٌ تَجْرِىْ مِنْ تَحْتِهَا الْاَنْهٰرُ خٰلِدِينَ فِيْهَا  وَ نِعْمَ اَجْرُ الْعٰمِلِيْنَ",
     "urdu_text": "یہ وہ لوگ ہیں جن کا بدلہ ان کے رب کی طرف سے بخشش اور ایسے باغات ہیں جن کے نیچے نہریں بہتی ہیں، وہ ان میں ہمیشہ رہیں گے، اور یہ نیک عمل کرنے والوں کا بہترین اجر ہے۔",
     "persian_text": "اینان کسانی هستند که پاداش آنها آمرزش از جانب پروردگارشان و بهشت‌هایی است که از زیر درختانش نهرها جاری است، جاودانه در آن خواهند ماند، و این بهترین پاداش برای نیکوکاران است.",
     "transliteration": "Ula'ika jaza'uhum maghfiratun min rabbihim wa jannatun tajri min tahtihal anharu khalideena feeha wa ni'ma ajrul 'amileen",

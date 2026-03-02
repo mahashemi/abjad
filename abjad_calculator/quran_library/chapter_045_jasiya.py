@@ -25,7 +25,7 @@ ayats = [
   {
     "verse_number": 3,
     "english_text": "Verily, in the skies and the earth many signs are found for the believers.",
-    "arabic_text": "اِنَّ فِى السَّمَـٰوَٰتِ وَ الْاَرْضِ لَـَٔايَـٰتٍۢ لِّلْمُؤْمِنِينَ",
+    "arabic_text": "اِنَّ فِى السَّمَـٰوٰتِ وَ الْاَرْضِ لَـَٔايَـٰتٍۢ لِّلْمُؤْمِنِينَ",
     "urdu_text": "بیشک آسمانوں اور زمین میں ایمان والوں کے لیے بهت سی نشانیاں هیں۔",
     "persian_text": "به راستی در آسمان‌ها و زمین نشانه‌های بسیاری برای مؤمنان است.",
     "transliteration": "Inna fis-samaawaati wal-ardi la-Aayaatil-lilmu'mineen"
@@ -33,7 +33,7 @@ ayats = [
   {
     "verse_number": 4,
     "english_text": "And even in your creation; and the animals which he spread are many signs for the believers.",
-    "arabic_text": "وَفِى خَلْقِكُمْ وَ مَا يَبُثُّ مِن دَآبَّةٍ اٰيٰتٌۭ لِّقَوْمٍۢ يُوقِنُونَ",
+    "arabic_text": "وَفِى خَلْقِكُمْ وَ مَا يَبُثُّ مِن دَآبَّةٍ اٰيٰتٌۭ لِّقَوْمٍ يُوقِنُونَ",
     "urdu_text": "اور تمهاری اپنی تخلیق میں اور جانداروں میں جنهیں الله پھیلاتا هے، یقین رکھنے والوں کے لیے نشانیاں هیں۔",
     "persian_text": "و در آفرینش خودتان و جانورانی که خدا پراکنده کرده، نشانه‌هایی است برای قومی که یقین دارند.",
     "transliteration": "Wa fee khalqikum wa maa yabuththu min daaabbatin Aayaatul-liqawminy-yooqinoon"
@@ -41,7 +41,7 @@ ayats = [
   {
     "verse_number": 5,
     "english_text": "And in alternation of the day and night; and in the sustenance which Allah sends down from the sky, through which dead earth is brought to life, and in the moving of breeze, signs are found for that nation which have wisdom.",
-    "arabic_text": "وَاخْتِلَـٰفِ الَّيْلِ وَالنَّهَارِ وَ مَآ اَنزَلَ اللّٰهُ مِنَ السَّمَآءِ مِن رِّزْقٍۢ فَاَحْيٰبِهِ الْاَرْضَ بَعْدَ مَوْتِهَا وَتَصْرِيفِ الرِّيَـٰحِ اٰيٰتٌۭ لِّقَوْمٍۢ يَعْقِلُونَ",
+    "arabic_text": "وَاخْتِلَـٰفِ الَّيْلِ وَالنَّهَارِ وَ مَآ اَنزَلَ اللّٰهُ مِنَ السَّمَآءِ مِن رِّزْقٍۢ فَاَحْيٰبِهِ الْاَرْضَ بَعْدَ مَوْتِهَا وَتَصْرِيفِ الرِّيَـٰحِ اٰيٰتٌۭ لِّقَوْمٍ يَعْقِلُونَ",
     "urdu_text": "اور رات اور دن کے بدلنے میں، اور جو رزق الله آسمان سے نازل فرماتا هے جس سے مرده زمین کو زنده کرتا هے، اور هواؤں کے چلنے میں عقل رکھنے والوں کے لیے نشانیاں هیں۔",
     "persian_text": "و در تناوب شب و روز، و در روزی که خداوند از آسمان نازل می‌کند و با آن زمین مرده را زنده می‌سازد، و در گردش بادها، نشانه‌هایی است برای قومی که تعقل می‌کنند.",
     "transliteration": "Wakh-tilaafil-layli wan-nahaari wa maaa anzalal-laahu minas-samaaa'i mir-rizqin fa-ahyaa bihil-arda ba'da mawtihaa wa tasreefir-riyaahi Aayaatul-liqawminy-ya'qiloon"
@@ -73,7 +73,7 @@ ayats = [
   {
     "verse_number": 9,
     "english_text": "And whenever he comes to know any of Our signs, he makes fun of it; Verily, these are the people for whom there is disgraceful punishment.",
-    "arabic_text": "وَاِذَا عَلِمَ مِنْ اٰيٰتِنَا شَيْـًٔا اتَّخَذَهَا هُزُوًا ۚ اُو۟لَـٰٓئِكَ لَهُمْ عَذَابٌۭ مُّهِينٌ",
+    "arabic_text": "وَاِذَا عَلِمَ مِنْ اٰيٰتِنَا شَيْـًٔا اتَّخَذَهَا هُزُوًا ۚ اُوْلٓـٰئِكَ لَهُمْ عَذَابٌۭ مُّهِينٌ",
     "urdu_text": "اور جب اسے هماری آیات میں سے کوئی چیز معلوم هوتی هے تو اسے مذاق بنا لیتا هے، یهی لوگ هیں جن کے لیے ذلت کا عذاب هے۔",
     "persian_text": "و هنگامی که چیزی از آیات ما را بداند، آن را به مسخره می‌گیرد، اینان کسانی هستند که برایشان عذاب خوارکننده‌ای است.",
     "transliteration": "Wa idhaa 'alima min Aayaatinaa shay'anis-takhadhahaa huzuwaa, ulaaa'ika lahum 'adhaabum-muheen"
@@ -97,7 +97,7 @@ ayats = [
   {
     "verse_number": 12,
     "english_text": "Allah has made seas subservient to you that ships may sail from His command and you may search the Blessings and Mercy of Allah, and perhaps may be thankful to Him.",
-    "arabic_text": "۞ اللّٰهُ الَّذِى سَخَّرَ لَكُمُ الْبَحْرَ لِتَجْرِىَ الْفُلْكُ فِيهِ بِاَمْرِهِ وَلِتَبْتَغُواْ مِن فَضْلِهِ وَلَعَلَّكُمْ تَشْكُرُونَ",
+    "arabic_text": "  اللّٰهُ الَّذِى سَخَّرَ لَكُمُ الْبَحْرَ لِتَجْرِىَ الْفُلْكُ فِيهِ بِاَمْرِهِ وَلِتَبْتَغُواْ مِن فَضْلِهِ وَلَعَلَّكُمْ تَشْكُرُونَ",
     "urdu_text": "الله وه هے جس نے تمهارے لیے سمندر کو مسخر کیا تاکه اس کے حکم سے کشتیاں اس میں چلیں اور تم اس کے فضل کو تلاش کرو اور شاید تم شکر گزار بنو۔",
     "persian_text": "خداوند کسی است که دریا را برای شما رام کرد تا کشتی‌ها به فرمان او در آن حرکت کنند و تا از فضل او بهره‌مند شوید و شاید شکرگزار باشید.",
     "transliteration": "Allaahul lazee sakhkhara lakumul bahra litajriyal fulku feehi bi-amrihee wa litabtaghoo min fadlihee wa la'allakum tashkuroon"
@@ -105,7 +105,7 @@ ayats = [
   {
     "verse_number": 13,
     "english_text": "And only He made subservient everything of earth and skies for you; Verily in these, signs are found for that nation which ponder.",
-    "arabic_text": "وَسَخَّرَ لَكُم مَّا فِى السَّمَـٰوَٰتِ وَ مَا فِى الْاَرْضِ جَمِيعًۭا مِّنْهُ ۚ اِنَّ فِى ذٰلِكَ لَـَٔايَـٰتٍۢ لِّقَوْمٍۢ يَتَفَكَّرُونَ",
+    "arabic_text": "وَسَخَّرَ لَكُم مَّا فِى السَّمَـٰوٰتِ وَ مَا فِى الْاَرْضِ جَمِيعًۭا مِّنْهُ ۚ اِنَّ فِى ذٰلِكَ لَـَٔايَـٰتٍۢ لِّقَوْمٍ يَتَفَكَّرُونَ",
     "urdu_text": "اور اسی نے تمهارے لیے آسمانوں اور زمین میں جو کچھ هے سب کو مسخر کر دیا، یه سب اسی کی طرف سے هے۔ بیشک اس میں نشانیاں هیں ان لوگوں کے لیے جو غور و فکر کرتے هیں۔",
     "persian_text": "و آنچه در آسمان‌ها و آنچه در زمین است، همه را از جانب خود برای شما رام کرد. در این، نشانه‌هایی است برای قومی که تفکر می‌کنند.",
     "transliteration": "Wa sakhkhara lakum maa fis samaawaati wa maa fil ardi jamee'am minhu, inna fee zaalika la-aayaatil liqawmiy yatafakkaroon"
@@ -129,7 +129,7 @@ ayats = [
   {
     "verse_number": 16,
     "english_text": "And Verily We gave book, wisdom and prophethood to Bani Israel, and gave them pure sustenance, and made them excel over the worlds.",
-    "arabic_text": "وَ لَقَدْ ءَاتَيْنَا بَنِىٓ اِسْرَٰٓءِيلَ الْكِتٰبَ وَالْحُكْمَ وَالنُّبُوَّةَ وَرَزَقْنَـٰهُم مِّنَ الطَّيِّبَـٰتِ وَفَضَّلْنَـٰهُمْ عَلَى الْعَـٰلَمِينَ",
+    "arabic_text": "وَ لَقَدْ ءَاتَيْنَا بَنِىٓ اِسْرٰٓءِيلَ الْكِتٰبَ وَالْحُكْمَ وَالنُّبُوَّةَ وَرَزَقْنَـٰهُم مِّنَ الطَّيِّبَـٰتِ وَفَضَّلْنَـٰهُمْ عَلَى الْعَـٰلَمِينَ",
     "urdu_text": "اور بیشک هم نے بنی اسرائیل کو کتاب، حکمت اور نبوت عطا کی، اور انهیں پاکیزه رزق دیا، اور انهیں تمام جهانوں پر فضیلت دی۔",
     "persian_text": "و قطعاً به بنی اسرائیل کتاب و حکمت و نبوت دادیم، و از روزی‌های پاکیزه به آنان روزی دادیم، و آنان را بر جهانیان برتری بخشیدیم.",
     "transliteration": "Wa laqad aataynaa Baneee Israaa'eelal kitaaba walhukma wannubuwwata wa razaqnaahum minat tayyibaati wa faddalnaa hum 'alal 'aalameen"
@@ -153,7 +153,7 @@ ayats = [
   {
     "verse_number": 19,
     "english_text": "These people are not of slightest useful against Allah, these oppressors are friends of each other, so then Allah is Guardian of the pious people.",
-    "arabic_text": "اِنَّهُمْ لَن يُغْنُواْ عَنكَ مِنَ اللّٰهِ شَيْـًۭٔا ۚ وَاِنَّ الظَّـٰلِمِينَ بَعْضُهُمْ اَوْلِيَآءُ بَعْضٍۢ ۖ وَ اللّٰهُ وَلِىُّ الْمُتَّقِينَ",
+    "arabic_text": "اِنَّهُمْ لَن يُغْنُواْ عَنكَ مِنَ اللّٰهِ شَيْـًۭٔا ۚ وَاِنَّ الظَّـٰلِمِينَ بَعْضُهُمْ اَوْلِيَآءُ بَعْضٍ ۖ وَ اللّٰهُ وَلِىُّ الْمُتَّقِينَ",
     "urdu_text": "یه لوگ الله کے مقابلے میں تمهارے کچھ بھی کام نهیں آئیں گے۔ ظالم لوگ ایک دوسرے کے دوست هیں، اور الله پرهیزگاروں کا دوست هے۔",
     "persian_text": "آنان هرگز در برابر خدا چیزی از تو دفع نخواهند کرد. و همانا ستمگران یاور یکدیگرند، و خداوند یاور پرهیزگاران است.",
     "transliteration": "Innahum lay yughnoo 'anka minAllaahi shay'aa, wa innaz zaalimeena ba'duhum awliyaaa'u ba'd, wallaahu waliyyul muttaqeen"
@@ -161,7 +161,7 @@ ayats = [
   {
     "verse_number": 20,
     "english_text": "This is the collection of light for the people, and guidance and mercy for the believing nation.",
-    "arabic_text": "هَـٰذَا بَصَـٰٓئِرُ لِلنَّاسِ وَهُدًۭى وَرَحْمَةٌۭ لِّقَوْمٍۢ يُوقِنُونَ",
+    "arabic_text": "هَـٰذَا بَصَـٰٓئِرُ لِلنَّاسِ وَهُدًۭى وَرَحْمَةٌۭ لِّقَوْمٍ يُوقِنُونَ",
     "urdu_text": "یه قرآن لوگوں کے لیے بصیرتیں هے، اور یقین رکھنے والی قوم کے لیے هدایت اور رحمت هے۔",
     "persian_text": "این بینش‌هایی است برای مردم، و هدایت و رحمتی است برای قومی که یقین دارند.",
     "transliteration": "Haazaa basaaa'iru linnaasi wa hudaw wa rahmatul liqawmiy yooqinoon"
@@ -177,7 +177,7 @@ ayats = [
   {
     "verse_number": 22,
     "english_text": "And Allah created the sky and the earth with the Truth, and also because every soul can be recompensed for his deeds, and no unjust shall be done on anyone.",
-    "arabic_text": "وَخَلَقَ اللّٰهُ السَّمَـٰوَٰتِ وَالْاَرْضَ بِالْحَقِّ وَلِتُجْزَىٰ كُلُّ نَفْسٍۭ بِمَا كَسَبَتْ وَ هُمْ لَا يُظْلَمُونَ",
+    "arabic_text": "وَخَلَقَ اللّٰهُ السَّمَـٰوٰتِ وَالْاَرْضَ بِالْحَقِّ وَلِتُجْزَىٰ كُلُّ نَفْسٍۭ بِمَا كَسَبَتْ وَ هُمْ لَا يُظْلَمُونَ",
     "urdu_text": "اور الله نے آسمانوں اور زمین کو حق کے ساتھ پیدا کیا، اور اس لیے بھی که هر شخص کو اس کے اعمال کا بدله دیا جائے، اور کسی پر ظلم نهیں کیا جائے گا۔",
     "persian_text": "و خداوند آسمان‌ها و زمین را به حق آفرید، و تا هر کسی به آنچه انجام داده است پاداش داده شود، و به آنها ستم نخواهد شد.",
     "transliteration": "Wa khalaqa Allāhu as-samāwāti wa al-arḍa bi-al-ḥaqqi wa li-tujzā kullu nafsin bi-mā kasabat wa hum lā yuẓlamūn"
@@ -185,7 +185,7 @@ ayats = [
   {
     "verse_number": 23,
     "english_text": "Have you seen the person who has taken his desires as God, and Allah has left him in misguidance seeing his condition, and has sealed his ears and heart and there are veils on his eyes; and who can guide him after Allah, don't you even ponder this much?",
-    "arabic_text": "اَفَرَءَيْتَ مَنِ اتَّخَذَ اِلَـٰهَهُ هَوَىٰهُ وَاَضَلَّهُ اللّٰهُ عَلَىٰ عِلْمٍۢ وَخَتَمَ عَلَىٰ سَمْعِهِ وَقَلْبِهِ وَجَعَلَ عَلَىٰ بَصَرِهِ غِشَـٰوَةًۭ فَمَن يَهْدِيهِ مِنۢ بَعْدِ اللّٰهِ ۚ اَفَلَا تَذَكَّرُونَ",
+    "arabic_text": "اَفَرَءَيْتَ مَنِ اتَّخَذَ اِلَـٰهَهُ هَوَىٰهُ وَاَضَلَّهُ اللّٰهُ عَلَىٰ عِلْمٍۢ وَخَتَمَ عَلَىٰ سَمْعِهِ وَقَلْبِهِ وَ جَعَلَ عَلَىٰ بَصَرِهِ غِشَـٰوَةًۭ فَمَن يَهْدِيهِ مِنۢ بَعْدِ اللّٰهِ ۚ اَفَلَا تَذَكَّرُونَ",
     "urdu_text": "کیا تم نے اس شخص کو دیکھا جس نے اپنی خواهشات کو اپنا معبود بنا لیا، اور الله نے اس کی حالت دیکھتے هوئے اسے گمراهی میں چھوڑ دیا، اور اس کے کانوں اور دل پر مهر لگا دی اور اس کی آنکھوں پر پردے ڈال دیے؟ الله کے بعد کون اسے هدایت دے سکتا هے؟ کیا تم اتنا بھی غور نهیں کرتے؟",
     "persian_text": "آیا ندیدی کسی را که هوای نفس خود را معبود خود قرار داده، و خداوند او را با علم به گمراهی افکنده، و بر گوش و دلش مهر نهاده و بر چشمش پرده‌ای قرار داده است؟ پس چه کسی می‌تواند او را بعد از خدا هدایت کند؟ آیا متذکر نمی‌شوید؟",
     "transliteration": "Afa-ra'ayta mani ittakhadha ilāhahu hawāhu wa aḍallahu Allāhu 'alā 'ilmin wa khatama 'alā sam'ihi wa qalbihi wa ja'ala 'alā baṣarihi ghishāwatan fa-man yahdīhi min ba'di Allāh, afa-lā tadhakkarūn"
@@ -217,7 +217,7 @@ ayats = [
   {
     "verse_number": 27,
     "english_text": "And the Kingdom of the earth and the sky is of Allah, and when the Day of Judgement will be established Verily that day people of falsehood will be at a loss.",
-    "arabic_text": "وَلِلَّهِ مُلْكُ السَّمَـٰوَٰتِ وَ الْاَرْضِ ۚ وَ يَوْمَ تَقُومُ السَّاعَةُ يَوْمَئِذٍۢ يَخْسَرُ الْمُبْطِلُونَ",
+    "arabic_text": "وَلِلَّهِ مُلْكُ السَّمَـٰوٰتِ وَ الْاَرْضِ ۚ وَ يَوْمَ تَقُومُ السَّاعَةُ يَوْمَئِذٍۢ يَخْسَرُ الْمُبْطِلُونَ",
     "urdu_text": "اور آسمانوں اور زمین کی بادشاهی الله کی هے، اور جب قیامت کا دن قائم هو گا تو یقیناً اس دن باطل پرست لوگ خسارے میں هوں گے۔",
     "persian_text": "و فرمانروایی آسمان‌ها و زمین از آن خداست، و روزی که قیامت برپا شود، در آن روز اهل باطل زیان‌کار خواهند بود.",
     "transliteration": "Wa lillāhi mulku as-samāwāti wa al-arḍ, wa yawma taqūmu as-sā'atu yawma'idhin yakhsaru al-mubṭilūn"
@@ -281,7 +281,7 @@ ayats = [
   {
     "verse_number": 35,
     "english_text": "This is all because you had mocked at the Divine Verses, and worldly life had kept you in deception, today they will not be taken out of punishment, and they will not be even given chance to seek the forgiveness.",
-    "arabic_text": "ذَٰلِكُم بِاَنَّكُمُ اتَّخَذْتُمْ اٰيٰتِ اللّٰهِ هُزُوًۭا وَغَرَّتْكُمُ الْحَيَوٰةُ الدُّنْيٰۚ فَالْيَوْمَ لَا يُخْرَجُونَ مِنْهَا وَ لَا هُمْ يُسْتَعْتَبُونَ",
+    "arabic_text": "ذَٰلِكُم بِاَنَّكُمُ اتَّخَذْتُمْ اٰيٰتِ اللّٰهِ هُزُوًۭا وَغَرَّتْكُمُ الْحَيٰوةُ الدُّنْيٰۚ فَالْيَوْمَ لَا يُخْرَجُونَ مِنْهَا وَ لَا هُمْ يُسْتَعْتَبُونَ",
     "urdu_text": "یه سب اس لیے هے که تم نے الله کی آیات کو مذاق بنایا اور دنیا کی زندگی نے تمهیں دھوکے میں رکھا، پس آج نه وه عذاب سے نکالے جائیں گے اور نه انهیں معافی مانگنے کا موقع دیا جائے گا۔",
     "persian_text": "این به خاطر آن است که شما آیات خدا را به مسخره گرفتید و زندگی دنیا شما را فریب داد، پس امروز نه از آن بیرون برده می‌شوند و نه فرصت جبران داده می‌شود.",
     "transliteration": "Zaalikum bi-annakumut-takhaztum aayaatil-laahi huzuwanw wa gharratkumul-hayaatud-dunyaa fal-yawma laa yukhrajoona minhaa wa laa hum yusta'taboon"
@@ -289,7 +289,7 @@ ayats = [
   {
     "verse_number": 36,
     "english_text": "All the praise is for Allah only who is Lord and Master of the skies and the earth and all the worlds.",
-    "arabic_text": "فَلِلَّهِ الْحَمْدُ رَبِّ السَّمَـٰوَٰتِ وَرَبِّ الْاَرْضِ رَبِّ الْعَـٰلَمِينَ",
+    "arabic_text": "فَلِلَّهِ الْحَمْدُ رَبِّ السَّمَـٰوٰتِ وَرَبِّ الْاَرْضِ رَبِّ الْعَـٰلَمِينَ",
     "urdu_text": "پس تمام تعریفیں الله هی کے لیے هیں جو آسمانوں کا رب هے اور زمین کا رب هے اور تمام جهانوں کا رب هے۔",
     "persian_text": "پس ستایش مخصوص خداست که پروردگار آسمان‌ها و پروردگار زمین و پروردگار جهانیان است.",
     "transliteration": "Falil-laahil-hamdu rabbis-samaawaati wa rabbil-ardi rabbil-'aalameen"
@@ -297,7 +297,7 @@ ayats = [
   {
     "verse_number": 37,
     "english_text": "Greatness is His in the skies and the earth, and He is Honorable and has Wisdom.",
-    "arabic_text": "وَلَهُ الْكِبْرِيَآءُ فِى السَّمَـٰوَٰتِ وَ الْاَرْضِ ۖ وَ هُوَ الْعَزِيزُ الْحَكِيمُ",
+    "arabic_text": "وَلَهُ الْكِبْرِيَآءُ فِى السَّمَـٰوٰتِ وَ الْاَرْضِ ۖ وَ هُوَ الْعَزِيزُ الْحَكِيمُ",
     "urdu_text": "اور عظمت اسی کی هے آسمانوں اور زمین میں، اور وه غالب اور حکمت والا هے۔",
     "persian_text": "و بزرگی و عظمت از آن اوست در آسمان‌ها و زمین، و او عزیز و حکیم است.",
     "transliteration": "Wa lahul-kibriyaaa'u fis-samaawaati wal-ardi wa huwal-'azeezul-hakeem"

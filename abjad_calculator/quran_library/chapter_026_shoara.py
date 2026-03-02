@@ -137,7 +137,7 @@ ayats = [
   {
     "verse_number": 17,
     "english_text": "Send Bani Israel with us.",
-    "arabic_text": "اَنْ اَرْسِلْ مَعَنَا بَنِىٓ اِسْرَٰٓءِيلَ",
+    "arabic_text": "اَنْ اَرْسِلْ مَعَنَا بَنِىٓ اِسْرٰٓءِيلَ",
     "urdu_text": "که بنی اسرائیل کو همارے ساتھ بھیج دے۔",
     "persian_text": "که بنی اسرائیل را با ما بفرست.",
     "transliteration": "An arsil ma'anaa Banee Israa'eel"
@@ -177,7 +177,7 @@ ayats = [
   {
     "verse_number": 22,
     "english_text": "Favor that you are reminding for my upbringing, you did bad that you took Bani Israel as slaves.",
-    "arabic_text": "وَتِلْكَ نِعْمَةٌۭ تَمُنُّهَا عَلَىَّ اَنْ عَبَّدتَّ بَنِىٓ اِسْرَٰٓءِيلَ",
+    "arabic_text": "وَتِلْكَ نِعْمَةٌۭ تَمُنُّهَا عَلَىَّ اَنْ عَبَّدتَّ بَنِىٓ اِسْرٰٓءِيلَ",
     "urdu_text": "اور یه احسان جو تم مجھ پر جتا رهے هو میری پرورش کا، یه تو اس لیے هے که تم نے بنی اسرائیل کو غلام بنا رکھا هے۔",
     "persian_text": "و این نعمتی که بر من منت می‌گذاری به خاطر این است که بنی اسرائیل را به بردگی گرفته‌ای.",
     "transliteration": "Wa tilka ni'matun tamunnuhā 'alayya an 'abbadta banī isrā'īl"
@@ -193,7 +193,7 @@ ayats = [
   {
     "verse_number": 24,
     "english_text": "Moosa said: He is the Lord of the skies and the earth and whatever is in between them, if you can believe.",
-    "arabic_text": "قَالَ رَبُّ السَّمَـٰوَٰتِ وَ الْاَرْضِ وَ مَا بَيْنَهُمَآ ۖ اِن كُنتُم مُّوقِنِينَ",
+    "arabic_text": "قَالَ رَبُّ السَّمَـٰوٰتِ وَ الْاَرْضِ وَ مَا بَيْنَهُمَآ ۖ اِن كُنتُم مُّوقِنِينَ",
     "urdu_text": "موسیٰ نے کها: وه آسمانوں اور زمین کا رب هے اور جو کچھ ان دونوں کے درمیان هے، اگر تم یقین رکھنے والے هو۔",
     "persian_text": "موسی گفت: او پروردگار آسمان‌ها و زمین و آنچه میان آنهاست، اگر یقین دارید.",
     "transliteration": "Qāla rabbus-samāwāti wal-arḍi wa mā baynahumā in kuntum mūqinīn"
@@ -417,7 +417,7 @@ ayats = [
   {
     "verse_number": 52,
     "english_text": "We revealed to Moosa: take my servants and leave in the night that you will be pursued.",
-    "arabic_text": "۞ وَاَوْحَيْنَآ اِلـٰى مُوسَىٰٓ اَنْ اَسْرِ بِعِبَادِىٓ اِنَّكُم مُّتَّبَعُونَ",
+    "arabic_text": "  وَاَوْحَيْنَآ اِلـٰى مُوسَىٰٓ اَنْ اَسْرِ بِعِبَادِىٓ اِنَّكُم مُّتَّبَعُونَ",
     "urdu_text": "اور هم نے موسیٰ کی طرف وحی بھیجی که میرے بندوں کو لے کر رات میں نکل جاؤ، بے شک تمهارا پیچھا کیا جائے گا۔",
     "persian_text": "و به موسی وحی کردیم که بندگان مرا ببر و شبانه حرکت کن، زیرا شما تعقیب خواهید شد.",
     "transliteration": "Wa awhainaa ilaa Moosaa an asri bi'ibaadee innakum muttaba'oon"
@@ -473,7 +473,7 @@ ayats = [
   {
     "verse_number": 59,
     "english_text": "And We punish like this, and We made Bani Israel to inherit the land.",
-    "arabic_text": "كَذٰلِكَ وَاَوْرَثْنَـٰهَا بَنِىٓ اِسْرَٰٓءِيلَ",
+    "arabic_text": "كَذٰلِكَ وَاَوْرَثْنَـٰهَا بَنِىٓ اِسْرٰٓءِيلَ",
     "urdu_text": "اسی طرح هوا اور هم نے ان چیزوں کا وارث بنی اسرائیل کو بنا دیا۔",
     "persian_text": "چنین بود و آنها را به بنی اسرائیل به میراث دادیم.",
     "transliteration": "Kadhaalika wa awrathnaa haa Banee Israa'eel"
@@ -489,7 +489,7 @@ ayats = [
   {
     "verse_number": 61,
     "english_text": "When both could see each other, people of Moosa said: now Verily we will be overtaken.",
-    "arabic_text": "فَلَمَّا تَرَٰٓءَا الْجَمْعَانِ قَالَ اَصْحَـٰبُ مُوسَىٰٓ اِنَّا لَمُدْرَكُونَ",
+    "arabic_text": "فَلَمَّا تَرٰٓءَا الْجَمْعَانِ قَالَ اَصْحَـٰبُ مُوسَىٰٓ اِنَّا لَمُدْرَكُونَ",
     "urdu_text": "پھر جب دونوں گروه ایک دوسرے کو دیکھنے لگے تو موسیٰ کے ساتھیوں نے کها: اب تو هم پکڑے جائیں گے۔",
     "persian_text": "پس چون دو گروه یکدیگر را دیدند، یاران موسی گفتند: اکنون ما به یقین گرفتار خواهیم شد.",
     "transliteration": "Falammā tarā'al-jam'āni qāla aṣḥābu Mūsā innā lamudrakūn"
@@ -521,7 +521,7 @@ ayats = [
   {
     "verse_number": 65,
     "english_text": "And We delivered Moosa and all his companions.",
-    "arabic_text": "وَاَنجَيْنَا مُوسَىٰ وَمَن مَّعَهُٓ اَجْمَعِينَ",
+    "arabic_text": "وَاَنجَيْنَا مُوسَىٰ وَ مَن مَّعَهُٓ اَجْمَعِينَ",
     "urdu_text": "اور هم نے موسیٰ اور ان کے تمام ساتھیوں کو نجات دے دی۔",
     "persian_text": "و موسی و همه کسانی را که با او بودند نجات دادیم.",
     "transliteration": "Wa anjaynā Mūsā wa man ma'ahū ajma'īn"
@@ -553,7 +553,7 @@ ayats = [
   {
     "verse_number": 69,
     "english_text": "And recite Ibrahim's news to them.",
-    "arabic_text": "وَاتْلُ عَلَيْهِمْ نَبَاَ اِبْرَٰهِيمَ",
+    "arabic_text": "وَاتْلُ عَلَيْهِمْ نَبَاَ اِبْرٰهِيمَ",
     "urdu_text": "اور ان کو ابراهیم کا حال سناؤ۔",
     "persian_text": "و خبر ابراهیم را بر آنان بخوان.",
     "transliteration": "Watlu 'alayhim naba'a Ibrāhīm"
@@ -889,7 +889,7 @@ ayats = [
   {
     "verse_number": 111,
     "english_text": "They said, how can we believe in you when all your followers are lowest class of people.",
-    "arabic_text": "۞ قَالُوٓاْ اَنُؤْمِنُ لَكَ وَاتَّبَعَكَ الْاَرْذَلُونَ",
+    "arabic_text": "  قَالُوٓاْ اَنُؤْمِنُ لَكَ وَاتَّبَعَكَ الْاَرْذَلُونَ",
     "urdu_text": "انهوں نے کها: کیا هم تم پر ایمان لائیں جبکه تمهاری پیروی کمترین لوگوں نے کی هے؟",
     "persian_text": "گفتند: آیا به تو ایمان بیاوریم در حالی که پست‌ترین مردم از تو پیروی کرده‌اند؟",
     "transliteration": "Qaaloo a'nu'minu laka wattaba'akal ardhaloona"
@@ -945,7 +945,7 @@ ayats = [
   {
     "verse_number": 118,
     "english_text": "Now judge openly between me and them, and deliver me and my believing companions.",
-    "arabic_text": "فَافْتَحْ بَيْنِى وَبَيْنَهُمْ فَتْحًۭا وَنَجِّنِى وَمَن مَّعِىَ مِنَ الْمُؤْمِنِينَ",
+    "arabic_text": "فَافْتَحْ بَيْنِى وَبَيْنَهُمْ فَتْحًۭا وَنَجِّنِى وَ مَن مَّعِىَ مِنَ الْمُؤْمِنِينَ",
     "urdu_text": "پس میرے اور ان کے درمیان فیصله کر دے، اور مجھے اور میرے ساتھ کے مومنوں کو نجات دے۔",
     "persian_text": "پس میان من و آنها داوری کن و مرا و مؤمنانی که با من هستند نجات ده.",
     "transliteration": "Faftah baynee wa baynahum fathan wa najjinee wa mam ma'iya minal mu'mineen"
@@ -953,7 +953,7 @@ ayats = [
   {
     "verse_number": 119,
     "english_text": "Then We delivered him and his companions in a laden Ark.",
-    "arabic_text": "فَاَنجَيْنَـٰهُ وَمَن مَّعَهُ فِى الْفُلْكِ الْمَشْحُونِ",
+    "arabic_text": "فَاَنجَيْنَـٰهُ وَ مَن مَّعَهُ فِى الْفُلْكِ الْمَشْحُونِ",
     "urdu_text": "پھر هم نے اسے اور اس کے ساتھیوں کو بھری هوئی کشتی میں نجات دی۔",
     "persian_text": "پس او و کسانی را که با او بودند در کشتی پر بار نجات دادیم.",
     "transliteration": "Fa anjaynaahu wa mam ma'ahoo fil fulkil mashḥoon"
@@ -1089,7 +1089,7 @@ ayats = [
   {
     "verse_number": 136,
     "english_text": "They said: it is the same for us whether you do admonition or you are not counted among those who admonished.",
-    "arabic_text": "قَالُوْاْ سَوَآءٌ عَلَيْنَآ اَوَعَظْتَ اَمْ لَمْ تَكُن مِّنَ الْوَٰعِظِينَ",
+    "arabic_text": "قَالُوْاْ سَوَآءٌ عَلَيْنَآ اَوَعَظْتَ اَمْ لَمْ تَكُن مِّنَ الْوٰعِظِينَ",
     "urdu_text": "انهوں نے کها: همارے لیے برابر هے، تم نصیحت کرو یا نصیحت کرنے والوں میں سے نه هو۔",
     "persian_text": "گفتند: برای ما یکسان است که پند دهی یا از پندگویان نباشی.",
     "transliteration": "Qaaloo sawaaa'un 'alaynaa awa'azta am lam takum minal waa'izeen"
@@ -1329,7 +1329,7 @@ ayats = [
   {
     "verse_number": 166,
     "english_text": "And leave those wives whom your Lord has created for you, indeed you do very excesses.",
-    "arabic_text": "وَتَذَرُونَ مَا خَلَقَ لَكُمْ رَبُّكُم مِّنْ اَزْوَٰجِكُم ۚ بَلْ اَنتُمْ قَوْمٌ عَادُونَ",
+    "arabic_text": "وَتَذَرُونَ مَا خَلَقَ لَكُمْ رَبُّكُم مِّنْ اَزْوٰجِكُم ۚ بَلْ اَنتُمْ قَوْمٌ عَادُونَ",
     "urdu_text": "اور تمهارے رب نے جو بیویاں تمهارے لیے پیدا کی هیں انهیں چھوڑ دیتے هو، بلکه تم حد سے بڑھنے والی قوم هو۔",
     "persian_text": "و آنچه را پروردگارتان از همسران برای شما آفریده است رها می‌کنید، بلکه شما قومی متجاوز هستید.",
     "transliteration": "Wa tadharoona maa khalaqa lakum Rabbukum min azwaajikum, bal antum qawmun 'aadoon"
@@ -1449,7 +1449,7 @@ ayats = [
   {
     "verse_number": 181,
     "english_text": "And see, keep the measurement proper, and do not be those who give less to the people.",
-    "arabic_text": "۞ اَوْفُواْ الْكَيْلَ وَ لَا تَكُونُواْ مِنَ الْمُخْسِرِينَ",
+    "arabic_text": "  اَوْفُواْ الْكَيْلَ وَ لَا تَكُونُواْ مِنَ الْمُخْسِرِينَ",
     "urdu_text": "اور پیمانه پورا بھرو اور کم دینے والوں میں سے نه بنو۔",
     "persian_text": "و پیمانه را کامل کنید و از کم‌فروشان مباشید.",
     "transliteration": "Awful-kayla wa laa takoonoo minal-mukhsireen"
@@ -1577,7 +1577,7 @@ ayats = [
   {
     "verse_number": 197,
     "english_text": "Is this the sign is not enough that scholars of Bani Israel know it.",
-    "arabic_text": "اَوَلَمْ يَكُن لَّهُمْ ءَايَةً اَن يَعْلَمَهُ عُلَمَـٰٓؤُاْ بَنِىٓ اِسْرَٰٓءِيلَ",
+    "arabic_text": "اَوَلَمْ يَكُن لَّهُمْ ءَايَةً اَن يَعْلَمَهُ عُلَمَـٰٓؤُاْ بَنِىٓ اِسْرٰٓءِيلَ",
     "urdu_text": "کیا ان کے لیے یه نشانی کافی نهیں که بنی اسرائیل کے علماء اسے جانتے هیں؟",
     "persian_text": "آیا این نشانه برای آنان کافی نیست که دانشمندان بنی اسرائیل آن را می‌دانند؟",
     "transliteration": "Awalam yakul-lahum aayatan any-ya'lamahu 'ulamaaa'u Baneee Israaa'eel"

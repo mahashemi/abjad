@@ -33,7 +33,7 @@ ayats = [
   {
     "verse_number": 4,
     "english_text": "Verily, you are on the straight path.",
-    "arabic_text": "عَلَىٰ صِرَٰطٍۢ مُّسْتَقِيمٍۢ",
+    "arabic_text": "عَلَىٰ صِرٰطٍۢ مُّسْتَقِيمٍۢ",
     "urdu_text": "یقیناً آپ سیدھی راہ پر ہیں",
     "persian_text": "بر راه راست قرار داری",
     "transliteration": "Ala siraatim-mustaqeem"
@@ -89,7 +89,7 @@ ayats = [
   {
     "verse_number": 11,
     "english_text": "You can warn only those people who follow your admonition, and without seeing keep fearing the unseen Allah; you give glad tidings to those people for forgiveness and honorable reward.",
-    "arabic_text": "اِنَّمَا تُنذِرُ مَنِ اتَّبَعَ الذِّكْرَ وَخَشِىَ الرَّحْمَـٰنَ بِالْغَيْبِ ۖ فَبَشِّرْهُ بِمَغْفِرَةٍۢ وَاَجْرٍۢ كَرِيمٍ",
+    "arabic_text": "اِنَّمَا تُنذِرُ مَنِ اتَّبَعَ الذِّكْرَ وَخَشِىَ الرَّحْمَـٰنَ بِالْغَيْبِ ۖ فَبَشِّرْهُ بِمَغْفِرَةٍ وَاَجْرٍۢ كَرِيمٍ",
     "urdu_text": "آپ صرف انہیں لوگوں کو ڈرا سکتے ہیں جو نصیحت کی پیروی کرتے ہیں اور بن دیکھے رحمان سے ڈرتے ہیں، پس آپ انہیں بخشش اور عزت والے اجر کی خوشخبری دے دیں۔",
     "persian_text": "تو تنها کسانی را می‌توانی بترسانی که از پند پیروی کنند و از رحمان در نهان بترسند، پس او را به آمرزش و پاداش بزرگوار بشارت ده.",
     "transliteration": "Innama tundhiru manit-taba'adh-dhikra wa khashiyar-Rahmana bil-ghayb, fabashshirhu bimaghfiratiw-wa ajrin kareem"
@@ -225,7 +225,7 @@ ayats = [
   {
     "verse_number": 28,
     "english_text": "And thereafter on those people We did not send any army, nor did We are going to send any army.",
-    "arabic_text": "۞ وَ مَآ اَنزَلْنَا عَلَىٰ قَوْمِهِ مِنۢ بَعْدِهِ مِن جُندٍۢ مِّنَ السَّمَآءِ وَ مَا كُنَّا مُنزِلِينَ",
+    "arabic_text": "  وَ مَآ اَنزَلْنَا عَلَىٰ قَوْمِهِ مِنۢ بَعْدِهِ مِن جُندٍۢ مِّنَ السَّمَآءِ وَ مَا كُنَّا مُنزِلِينَ",
     "urdu_text": "اور اس کے بعد ہم نے اس کی قوم پر آسمان سے کوئی لشکر نہیں اتارا اور نہ ہم اتارنے والے تھے۔",
     "persian_text": "و پس از او بر قوم او هیچ لشکری از آسمان فرو نفرستادیم و نمی‌خواستیم بفرستیم.",
     "transliteration": "Wa maaa anzalnaa 'alaa qawmihee mim ba'dihee min jundim-minas-samaaa'i wa maa kunnaa munzileen"
@@ -233,7 +233,7 @@ ayats = [
   {
     "verse_number": 29,
     "english_text": "That was a mighty blast, and then the light of life was extinguished.",
-    "arabic_text": "اِن كَانَتْ اِلَّا صَيْحَةًۭ وَٰحِدَةًۭ فَاِذَا هُمْ خَـٰمِدُونَ",
+    "arabic_text": "اِن كَانَتْ اِلَّا صَيْحَةًۭ وَاحِدَةًۭ فَاِذَا هُمْ خَـٰمِدُونَ",
     "urdu_text": "وہ صرف ایک زور دار چیخ تھی، پھر وہ بجھ کر رہ گئے۔",
     "persian_text": "جز یک فریاد نبود که ناگهان خاموش شدند.",
     "transliteration": "In kaanat illaa sayhatan waahidatan fa-idhaa hum khaamidoon"
@@ -265,7 +265,7 @@ ayats = [
   {
     "verse_number": 33,
     "english_text": "For them one of Our signs is that dead earth, which We brought to life again, and grow seeds in them which they are eating.",
-    "arabic_text": "وَءَايَةٌۭ لَّهُمُ الْاَرْضُ الْمَيْتَةُ اَحْيَيْنَـٰهَا وَاَخْرَجْنَا مِنْهَا حَبًّۭا فَمِنْهُ يَاْكُلُونَ",
+    "arabic_text": "وَاٰيَةٌ لَّهُمُ الْاَرْضُ الْمَيْتَةُ اَحْيَيْنَـٰهَا وَاَخْرَجْنَا مِنْهَا حَبًّۭا فَمِنْهُ يَاْكُلُونَ",
     "urdu_text": "ان کے لیے ایک نشانی یہ مردہ زمین ہے، جسے ہم نے زندہ کیا اور اس سے اناج اُگایا جسے وہ کھاتے ہیں۔",
     "persian_text": "و نشانه‌ای برای آنان زمین مرده است که آن را زنده کردیم و از آن دانه بیرون آوردیم که از آن می‌خورند.",
     "transliteration": "Wa āyatul lahumulardulmaytatah ahyaynāhā wa akhrajnā minhā habban faminhu ya'kuloon"
@@ -289,7 +289,7 @@ ayats = [
   {
     "verse_number": 36,
     "english_text": "Pure and Self-Sufficient is that Lord who created all the pairs which grow on earth; and from their souls and from the things of which they do not have any knowledge.",
-    "arabic_text": "سُبْحَـٰنَ الَّذِى خَلَقَ الْاَزْوَٰجَ كُلَّهَا مِمَّا تُنۢبِتُ الْاَرْضُ وَ مِنْ اَنفُسِهِمْ وَمِمَّا لَا يَعْلَمُونَ",
+    "arabic_text": "سُبْحَـٰنَ الَّذِى خَلَقَ الْاَزْوٰجَ كُلَّهَا مِمَّا تُنۢبِتُ الْاَرْضُ وَ مِنْ اَنفُسِهِمْ وَمِمَّا لَا يَعْلَمُونَ",
     "urdu_text": "پاک ہے وہ ذات جس نے تمام جوڑے پیدا کیے، جو زمین سے اُگتے ہیں اور خود ان کی جانوں سے اور ان چیزوں سے جن کا انہیں علم نہیں۔",
     "persian_text": "منزه است آن ذاتی که همه جفت‌ها را آفرید از آنچه زمین می‌رویاند و از خود آنان و از آنچه نمی‌دانند.",
     "transliteration": "Subhānallathee khalaqal-azwāja kullahā mimmā tunbitul-ardu wa min anfusihim wa mimmā lā ya'lamoon"
@@ -297,7 +297,7 @@ ayats = [
   {
     "verse_number": 37,
     "english_text": "And for them night is a sign from which We pull out the day and they all go in darkness.",
-    "arabic_text": "وَءَايَةٌۭ لَّهُمُ الَّيْلُ نَسْلَخُ مِنْهُ النَّهَارَ فَاِذَا هُم مُّظْلِمُونَ",
+    "arabic_text": "وَاٰيَةٌ لَّهُمُ الَّيْلُ نَسْلَخُ مِنْهُ النَّهَارَ فَاِذَا هُم مُّظْلِمُونَ",
     "urdu_text": "اور ان کے لیے رات ایک نشانی ہے، جس سے ہم دن کو کھینچ لیتے ہیں تو وہ اندھیرے میں ڈوب جاتے ہیں۔",
     "persian_text": "و نشانه‌ای برای آنان شب است که روز را از آن بیرون می‌کشیم، پس ناگهان در تاریکی فرو می‌روند.",
     "transliteration": "Wa āyatul lahumul-laylu naslakhu minhun-nahāra fa-ithā hum mudhlimoon"
@@ -329,7 +329,7 @@ ayats = [
   {
     "verse_number": 41,
     "english_text": "And for them this is also a sign that we carried their elders in the laden ship.",
-    "arabic_text": "وَءَايَةٌۭ لَّهُمْ اَنَّا حَمَلْنَا ذُرِّيَّتَهُمْ فِى الْفُلْكِ الْمَشْحُونِ",
+    "arabic_text": "وَاٰيَةٌ لَّهُمْ اَنَّا حَمَلْنَا ذُرِّيَّتَهُمْ فِى الْفُلْكِ الْمَشْحُونِ",
     "urdu_text": "اور ان کے لیے ایک نشانی یہ بھی ہے کہ ہم نے ان کی اولاد کو بھری ہوئی کشتی میں سوار کیا",
     "persian_text": "و نشانه‌ای برای آنان این است که ما فرزندان آنها را در کشتی پر بار سوار کردیم",
     "transliteration": "Wa aayatul lahum annaa hamalnaa dhurriyyatahum fil fulkil mashhooni"
@@ -393,7 +393,7 @@ ayats = [
   {
     "verse_number": 49,
     "english_text": "In fact they are just waiting for a mighty blast which will seize them; and they will be quarrelling among themselves.",
-    "arabic_text": "مَا يَنظُرُونَ اِلَّا صَيْحَةًۭ وَٰحِدَةًۭ تَاْخُذُهُمْ وَ هُمْ يَخِصِّمُونَ",
+    "arabic_text": "مَا يَنظُرُونَ اِلَّا صَيْحَةًۭ وَاحِدَةًۭ تَاْخُذُهُمْ وَ هُمْ يَخِصِّمُونَ",
     "urdu_text": "وہ تو بس ایک زور کی چیخ کے منتظر ہیں جو انہیں پکڑ لے گی جبکہ وہ آپس میں جھگڑ رہے ہوں گے",
     "persian_text": "آنان جز یک صیحه واحد انتظار نمی‌کشند که آنها را فرا می‌گیرد در حالی که با هم نزاع می‌کنند",
     "transliteration": "Maa yanthuroona illaa sayhataw waahidatan ta'khudhuhum wa hum yakhissimoon"
@@ -425,7 +425,7 @@ ayats = [
   {
     "verse_number": 53,
     "english_text": "Day of the Judgement is a mighty blast, thereafter everyone will be brought in Our Presence.",
-    "arabic_text": "اِن كَانَتْ اِلَّا صَيْحَةًۭ وَٰحِدَةًۭ فَاِذَا هُمْ جَمِيعٌۭ لَّدَيْنَا مُحْضَرُونَ",
+    "arabic_text": "اِن كَانَتْ اِلَّا صَيْحَةًۭ وَاحِدَةًۭ فَاِذَا هُمْ جَمِيعٌۭ لَّدَيْنَا مُحْضَرُونَ",
     "urdu_text": "یہ صرف ایک زور دار آواز ہوگی، پھر یکدم سب کے سب ہمارے سامنے حاضر کر دیے جائیں گے۔",
     "persian_text": "جز یک فریاد نیست، پس ناگهان همگی نزد ما حاضر خواهند شد.",
     "transliteration": "In kaanat illaa sayhatan waahidatan fa-iza hum jamee'ul ladaynaa muhdaroon"
@@ -449,7 +449,7 @@ ayats = [
   {
     "verse_number": 56,
     "english_text": "They and their wives shall be sitting in the shade of the Paradise, reclining with cushions on thrones.",
-    "arabic_text": "هُمْ وَاَزْوَٰجُهُمْ فِى ظِلَـٰلٍ عَلَى الْاَرَآئِكِ مُتَّكِـُٔونَ",
+    "arabic_text": "هُمْ وَاَزْوٰجُهُمْ فِى ظِلَـٰلٍ عَلَى الْاَرَآئِكِ مُتَّكِـُٔونَ",
     "urdu_text": "وہ اور ان کی بیویاں سایوں میں تختوں پر تکیے لگائے بیٹھے ہوں گے۔",
     "persian_text": "آنان و همسرانشان در سایه‌ها بر تختها تکیه زده خواهند نشست.",
     "transliteration": "Hum wa azwaajuhum fee zilaalin 'alal-araa'iki muttaki'oon"
@@ -481,7 +481,7 @@ ayats = [
   {
     "verse_number": 60,
     "english_text": "And O children of Adam, had not we taken covenant from you that not to worship Satan, he is your manifest enemy.",
-    "arabic_text": "۞ اَلَمْ اَعْهَدْ اِلَيْكُمْ يَـٰبَنِىٓ ءَادَمَ اَن لَّا تَعْبُدُواْ الشَّيْطَـٰنَ ۖ اِنَّهُ لَكُمْ عَدُوٌّۭ مُّبِينٌ",
+    "arabic_text": "  اَلَمْ اَعْهَدْ اِلَيْكُمْ يَـٰبَنِىٓ ءَادَمَ اَن لَّا تَعْبُدُواْ الشَّيْطَـٰنَ ۖ اِنَّهُ لَكُمْ عَدُوٌّۭ مُّبِينٌ",
     "urdu_text": "اے اولاد آدم! کیا میں نے تم سے عہد نہیں لیا تھا کہ شیطان کی عبادت نہ کرنا، بے شک وہ تمہارا کھلا دشمن ہے۔",
     "persian_text": "ای فرزندان آدم! آیا از شما پیمان نگرفتم که شیطان را پرستش نکنید؟ همانا او دشمن آشکار شماست.",
     "transliteration": "Alam a'had ilaykum yaa banee Aadama al-laa ta'budush-Shaytaan innahu lakum 'aduwwum mubeen"
@@ -489,7 +489,7 @@ ayats = [
   {
     "verse_number": 61,
     "english_text": "And worship Me only, this is the straight path.",
-    "arabic_text": "وَاَنِ اعْبُدُونِى ۚ هَـٰذَا صِرَٰطٌۭ مُّسْتَقِيمٌۭ",
+    "arabic_text": "وَاَنِ اعْبُدُونِى ۚ هَـٰذَا صِرٰطٌۭ مُّسْتَقِيمٌۭ",
     "urdu_text": "اور صرف میری عبادت کرو، یہی سیدھا راستہ ہے۔",
     "persian_text": "و تنها مرا پرستش کنید، این راه راست است.",
     "transliteration": "Wa ani'budooni haadha siraatum mustaqeem"
@@ -521,7 +521,7 @@ ayats = [
   {
     "verse_number": 65,
     "english_text": "Today We will seal their mouth, their hands will speak, and their legs will testify, that what deeds they had been doing.",
-    "arabic_text": "الْيَوْمَ نَخْتِمُ عَلَىٰٓ اَفْوَٰهِهِمْ وَتُكَلِّمُنَآ اَيْدِيهِمْ وَتَشْهَدُ اَرْجُلُهُم بِمَا كَانُواْ يَكْسِبُونَ",
+    "arabic_text": "الْيَوْمَ نَخْتِمُ عَلَىٰٓ اَفْوٰهِهِمْ وَتُكَلِّمُنَآ اَيْدِيهِمْ وَتَشْهَدُ اَرْجُلُهُم بِمَا كَانُواْ يَكْسِبُونَ",
     "urdu_text": "آج ہم ان کے منہ پر مہر لگا دیں گے، ان کے ہاتھ ہم سے بات کریں گے، اور ان کے پاؤں گواہی دیں گے کہ وہ کیا اعمال کرتے رہے۔",
     "persian_text": "امروز بر دهان‌هایشان مهر می‌زنیم و دست‌هایشان با ما سخن می‌گویند و پاهایشان گواهی می‌دهند به آنچه انجام می‌دادند.",
     "transliteration": "Al-yawma nakhtimu 'alaa afwaahihim wa tukallimunaaa aydeehim wa tashhadu arjuluhum bimaa kaanoo yaksiboon"
@@ -529,7 +529,7 @@ ayats = [
   {
     "verse_number": 66,
     "english_text": "And if We please, We would put out their eyes, then they will run about but how would they see?",
-    "arabic_text": "وَ لَوْ نَشَآءُ لَطَمَسْنَا عَلَىٰٓ اَعْيُنِهِمْ فَاسْتَبَقُواْ الصِّرَٰطَ فَاَنَّىٰ يُبْصِرُونَ",
+    "arabic_text": "وَ لَوْ نَشَآءُ لَطَمَسْنَا عَلَىٰٓ اَعْيُنِهِمْ فَاسْتَبَقُواْ الصِّرٰطَ فَاَنَّىٰ يُبْصِرُونَ",
     "urdu_text": "اور اگر ہم چاہیں تو ان کی آنکھوں کو مٹا دیں، پھر وہ راستے کی طرف دوڑیں تو کیسے دیکھ سکیں گے؟",
     "persian_text": "و اگر بخواهیم چشمانشان را نابینا می‌کنیم، پس به سوی راه می‌شتابند ولی چگونه می‌بینند؟",
     "transliteration": "Wa law nashaaa'u latamasnaa 'alaaa a'yunihim fastabaqus-siraata fa-annaa yubsiroon"
@@ -649,7 +649,7 @@ ayats = [
   {
     "verse_number": 81,
     "english_text": "So does not He Who created the skies and the earth be able to create the like of them; Verily, He can, he is the Best creator and the Knower.",
-    "arabic_text": "اَوَلَيْسَ الَّذِى خَلَقَ السَّمَـٰوَٰتِ وَالْاَرْضَ بِقَـٰدِرٍ عَلَىٰٓ اَن يَخْلُقَ مِثْلَهُم ۚ بَلَىٰ وَ هُوَ الْخَلَّـٰقُ الْعَلِيمُ",
+    "arabic_text": "اَوَلَيْسَ الَّذِى خَلَقَ السَّمَـٰوٰتِ وَالْاَرْضَ بِقَـٰدِرٍ عَلَىٰٓ اَن يَخْلُقَ مِثْلَهُم ۚ بَلَىٰ وَ هُوَ الْخَلَّـٰقُ الْعَلِيمُ",
     "urdu_text": "کیا وہ جس نے آسمانوں اور زمین کو پیدا کیا، ان جیسوں کو دوبارہ پیدا کرنے پر قادر نہیں؟ کیوں نہیں، بیشک وہ بڑا پیدا کرنے والا اور جاننے والا ہے۔",
     "persian_text": "آیا کسی که آسمان‌ها و زمین را آفرید، قادر نیست که مانند آنها را بیافریند؟ آری، و او آفریننده دانای است.",
     "transliteration": "Awa laysa allathee khalaqa alssamawati wal-arda biqadirin 'ala an yakhluqa mithlahum, bala wahuwa alkhallaqu al'aleem"

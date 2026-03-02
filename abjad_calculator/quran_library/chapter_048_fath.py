@@ -17,7 +17,7 @@ ayats = [
   {
     "verse_number": 2,
     "english_text": "So that Allah removes all your past and future blames and complete His favor on you and guide you to the straight path.",
-    "arabic_text": "لِّيَغْفِرَ لَكَ اللّٰهُ مَا تَقَدَّمَ مِن ذَنۢبِكَ وَ مَا تَاَخَّرَ وَيُتِمَّ نِعْمَتَهُ عَلَيْكَ وَيَهْدِيَكَ صِرَٰطًۭا مُّسْتَقِيمًا",
+    "arabic_text": "لِّيَغْفِرَ لَكَ اللّٰهُ مَا تَقَدَّمَ مِن ذَنۢبِكَ وَ مَا تَاَخَّرَ وَيُتِمَّ نِعْمَتَهُ عَلَيْكَ وَيَهْدِيَكَ صِرٰطًۭا مُّسْتَقِيمًا",
     "urdu_text": "تاکہ اللہ آپ کے اگلے پچھلے تمام قصور معاف فرما دے اور آپ پر اپنی نعمت پوری کر دے اور آپ کو سیدھے راستے پر چلائے۔",
     "persian_text": "تا خداوند گناهان گذشته و آینده تو را ببخشد و نعمت خود را بر تو کامل گرداند و تو را به راه راست هدایت کند.",
     "transliteration": "Li-yaghfira lakal-laahu maa taqaddama min dhambika wa maa ta'akhkhara wa yutimma ni'matahu 'alayka wa yahdiyaka siraatam mustaqeemaa"
@@ -33,7 +33,7 @@ ayats = [
   {
     "verse_number": 4,
     "english_text": "That is Allah who has sent down calm in the hearts of the believers that they might have more faith, all the armies of the earth and skies are of Him and He is all-Knowing and has Wisdom.",
-    "arabic_text": "هُوَ الَّذِىٓ اَنزَلَ السَّكِينَةَ فِى قُلُوبِ الْمُؤْمِنِينَ لِيَزْدَادُوٓاْ اِيمَـٰنًۭا مَّعَ اِيمَـٰنِهِمْ ۗ وَلِلَّهِ جُنُودُ السَّمَـٰوَٰتِ وَ الْاَرْضِ ۚ وَكَانَ اللّٰهُ عَلِيمًا حَكِيمًا",
+    "arabic_text": "هُوَ الَّذِىٓ اَنزَلَ السَّكِينَةَ فِى قُلُوبِ الْمُؤْمِنِينَ لِيَزْدَادُوٓاْ اِيمَـٰنًۭا مَّعَ اِيمَـٰنِهِمْ ۗ وَلِلَّهِ جُنُودُ السَّمَـٰوٰتِ وَ الْاَرْضِ ۚ وَكَانَ اللّٰهُ عَلِيمًا حَكِيمًا",
     "urdu_text": "وہی ہے جس نے مومنوں کے دلوں میں سکون نازل فرمایا تاکہ وہ اپنے ایمان پر مزید ایمان بڑھائیں، اور آسمانوں اور زمین کے تمام لشکر اللہ ہی کے ہیں، اور اللہ جاننے والا حکمت والا ہے۔",
     "persian_text": "او کسی است که آرامش را در دل‌های مؤمنان نازل کرد تا بر ایمان خود ایمان بیفزایند، و لشکرهای آسمان‌ها و زمین از آن خداست و خداوند دانا و حکیم است.",
     "transliteration": "Huwal-ladhee anzalas-sakeenata fee quloobil-mu'mineena li-yazdaadoo eemaanan ma'a eemaanihim wa lil-laahi junoodus-samaawaati wal-ard wa kaanal-laahu 'aleeman hakeemaa"
@@ -57,7 +57,7 @@ ayats = [
   {
     "verse_number": 7,
     "english_text": "And all the forces of the earth and skies are only for Allah, He is Honorable and has Wisdom.",
-    "arabic_text": "وَلِلَّهِ جُنُودُ السَّمَـٰوَٰتِ وَ الْاَرْضِ ۚ وَكَانَ اللّٰهُ عَزِيزًا حَكِيمًا",
+    "arabic_text": "وَلِلَّهِ جُنُودُ السَّمَـٰوٰتِ وَ الْاَرْضِ ۚ وَكَانَ اللّٰهُ عَزِيزًا حَكِيمًا",
     "urdu_text": "اور آسمانوں اور زمین کے تمام لشکر اللہ ہی کے ہیں، اور اللہ غالب حکمت والا ہے۔",
     "persian_text": "و لشکرهای آسمان‌ها و زمین از آن خداست و خداوند توانا و حکیم است.",
     "transliteration": "Wa lil-laahi junoodus-samaawaati wal-ard wa kaanal-laahu 'azeezan hakeemaa"
@@ -89,7 +89,7 @@ ayats = [
   {
     "verse_number": 11,
     "english_text": "Shortly these villagers who stayed behind will say to you: our property and children had kept us busy, so ask forgiveness for us, they are saying this from their tongue which is not in their hearts, so say to them: if Allah intends to harm you or intends to do good then who has the control against Him with regards to your affairs, fact is that Allah is well aware about your deeds.",
-    "arabic_text": "سَيَقُولُ لَكَ الْمُخَلَّفُونَ مِنَ الْاَعْرَابِ شَغَلَتْنَآ اَمْوَٰلُنَا وَاَهْلُونَا فَاسْتَغْفِرْ لَنَا ۚ يَقُولُونَ بِاَلْسِنَتِهِم مَّا لَيْسَ فِى قُلُوبِهِمْ ۚ قُلْ فَمَن يَمْلِكُ لَكُم مِّنَ اللّٰهِ شَيْـًٔا اِنْ اَرَادَ بِكُمْ ضَرًّا اَوْ اَرَادَ بِكُمْ نَفْعًۢا ۚ بَلْ كَانَ اللّٰهُ بِمَا تَعْمَلُونَ خَبِيرًۢا",
+    "arabic_text": "سَيَقُولُ لَكَ الْمُخَلَّفُونَ مِنَ الْاَعْرَابِ شَغَلَتْنَآ اَمْوٰلُنَا وَاَهْلُونَا فَاسْتَغْفِرْ لَنَا ۚ يَقُولُونَ بِاَلْسِنَتِهِم مَّا لَيْسَ فِى قُلُوبِهِمْ ۚ قُلْ فَمَن يَمْلِكُ لَكُم مِّنَ اللّٰهِ شَيْـًٔا اِنْ اَرَادَ بِكُمْ ضَرًّا اَوْ اَرَادَ بِكُمْ نَفْعًۢا ۚ بَلْ كَانَ اللّٰهُ بِمَا تَعْمَلُونَ خَبِيرًۢا",
     "urdu_text": "عنقریب یہ دیہاتی جو پیچھے رہ گئے تھے تم سے کہیں گے: ہمارے مال اور ہمارے بال بچوں نے ہمیں مشغول رکھا، پس ہمارے لیے بخشش مانگیں۔ یہ اپنی زبانوں سے وہ بات کہتے ہیں جو ان کے دلوں میں نہیں ہے۔ کہہ دو: اگر اللہ تمہیں نقصان پہنچانا چاہے یا تمہیں نفع دینا چاہے تو کون ہے جو اللہ کے مقابلے میں تمہارے معاملے میں کچھ اختیار رکھتا ہو؟ بلکہ اللہ تمہارے اعمال سے خوب باخبر ہے۔",
     "persian_text": "به زودی این بادیه‌نشینانی که عقب ماندند به تو خواهند گفت: اموال و خانواده‌های ما ما را مشغول کرده بودند، پس برای ما آمرزش بخواه. آنها با زبان‌هایشان چیزی می‌گویند که در دل‌هایشان نیست. بگو: پس چه کسی در برابر اللہ برای شما اختیاری دارد اگر او بخواهد به شما زیانی برساند یا بخواهد به شما سودی برساند؟ بلکه اللہ به آنچه انجام می‌دهید آگاه است.",
     "transliteration": "Sayaqoolu lakal-mukhallafoona minal-a'raabi shaghalatna amwaaluna wa ahloona fastaghfir lana yaqooloona bi-alsinatihim ma laysa fee quloobihim qul faman yamliku lakum minallahi shay'an in araada bikum darran aw araada bikum naf'a bal kaanallahu bima ta'maloona khabeera"
@@ -113,7 +113,7 @@ ayats = [
   {
     "verse_number": 14,
     "english_text": "And Kingdom of the earth and the skies is only of Allah's, He forgives whom He pleases and punishes whom He pleases, and Allah is very forgiving and Merciful.",
-    "arabic_text": "وَلِلَّهِ مُلْكُ السَّمَـٰوَٰتِ وَ الْاَرْضِ ۚ يَغْفِرُ لِمَن يَشَآءُ وَيُعَذِّبُ مَن يَشَآءُ ۚ وَكَانَ اللّٰهُ غَفُورًا رَّحِيمًا",
+    "arabic_text": "وَلِلَّهِ مُلْكُ السَّمَـٰوٰتِ وَ الْاَرْضِ ۚ يَغْفِرُ لِمَن يَشَآءُ وَيُعَذِّبُ مَن يَشَآءُ ۚ وَكَانَ اللّٰهُ غَفُورًا رَّحِيمًا",
     "urdu_text": "اور آسمانوں اور زمین کی بادشاہی صرف اللہ ہی کی ہے، وہ جسے چاہے بخش دے اور جسے چاہے عذاب دے، اور اللہ بہت بخشنے والا مہربان ہے۔",
     "persian_text": "و فرمانروایی آسمان‌ها و زمین تنها از آنِ اللہ است. او هر که را بخواهد می‌بخشد و هر که را بخواهد عذاب می‌کند، و اللہ بسیار آمرزنده و مهربان است.",
     "transliteration": "Wa lillahi mulkus-samaawaati wal-ard yaghfiru liman yashaa'u wa yu'adhdhibu man yashaa' wa kaanallahu ghafooran raheema"
@@ -129,7 +129,7 @@ ayats = [
   {
     "verse_number": 16,
     "english_text": "Say to these who stayed behind, shortly you will be called towards a hard fighting nation that you continue fighting or they become Muslims, so if you obey Allah, He will give you the best reward; and if you will turn back as you had done earlier then you will be punished through the painful punishment.",
-    "arabic_text": "قُل لِّلْمُخَلَّفِينَ مِنَ الْاَعْرَابِ سَتُدْعَوْنَ اِلـٰى قَوْمٍ اُو۟لِى بَاْسٍۢ شَدِيدٍۢ تُقَـٰتِلُونَهُمْ اَوْ يُسْلِمُونَ ۖ فَاِن تُطِيعُواْ يُؤْتِكُمُ اللّٰهُ اَجْرًا حَسَنًۭا ۖ وَ اِن تَتَوَلَّوْاْ كَمَا تَوَلَّيْتُم مِّن قَبْلُ يُعَذِّبْكُمْ عَذَابًا اَلِيمًا",
+    "arabic_text": "قُل لِّلْمُخَلَّفِينَ مِنَ الْاَعْرَابِ سَتُدْعَوْنَ اِلـٰى قَوْمٍ اُوْلِى بَاْسٍۢ شَدِيدٍۢ تُقَـٰتِلُونَهُمْ اَوْ يُسْلِمُونَ ۖ فَاِن تُطِيعُواْ يُؤْتِكُمُ اللّٰهُ اَجْرًا حَسَنًۭا ۖ وَ اِن تَتَوَلَّوْاْ كَمَا تَوَلَّيْتُم مِّن قَبْلُ يُعَذِّبْكُمْ عَذَابًا اَلِيمًا",
     "urdu_text": "ان دیہاتیوں سے کہہ دو جو پیچھے رہ گئے تھے: عنقریب تمہیں ایک سخت جنگجو قوم کی طرف بلایا جائے گا، تم ان سے لڑو گے یا وہ مسلمان ہو جائیں گے۔ پس اگر تم نے اطاعت کی تو اللہ تمہیں اچھا اجر عطا فرمائے گا، اور اگر تم منہ موڑ لو جیسے پہلے منہ موڑا تھا تو وہ تمہیں دردناک عذاب دے گا۔",
     "persian_text": "به عقب‌ماندگان از بادیه‌نشینان بگو: به زودی به سوی قومی دارای قدرت سخت فراخوانده خواهید شد که با آنان بجنگید یا مسلمان شوند. پس اگر اطاعت کنید، اللہ به شما پاداش نیکو خواهد داد، و اگر روی برگردانید همان‌گونه که پیش از این روی برگرداندید، شما را به عذابی دردناک عذاب خواهد کرد.",
     "transliteration": "Qul lil-mukhallafeena minal-a'raabi satud'awna ila qawmin ulee ba'sin shadeedin tuqaatiloonahum aw yuslimoona fa-in tutee'oo yu'tikumullahu ajran hasanan wa in tatawallaw kama tawallaytum min qablu yu'adhdhibkum 'adhaaban aleema"
@@ -137,7 +137,7 @@ ayats = [
   {
     "verse_number": 17,
     "english_text": "There is no blame on the blind, and for lame also there is no blame, there is no responsibility for the sick (if they do not join fighting); and those who obey Allah and His Prophet, Allah will cause them to enter such Paradises beneath which rivers will be flowing; and those who will turn back they will be punished with the grievous punishment.",
-    "arabic_text": "لَّيْسَ عَلَى الْاَعْمَىٰ حَرَجٌۭ وَ لَا عَلَى الْاَعْرَجِ حَرَجٌۭ وَ لَا عَلَى الْمَرِيضِ حَرَجٌۭ ۗ وَمَن يُطِعِ اللّٰهَ وَرَسُولَهُ يُدْخِلْهُ جَنَّـٰتٍۢ تَجْرِى مِن تَحْتِهَا الْاَنْهَـٰرُ ۖ وَمَن يَتَوَلَّ يُعَذِّبْهُ عَذَابًا اَلِيمًا",
+    "arabic_text": "لَّيْسَ عَلَى الْاَعْمَىٰ حَرَجٌۭ وَ لَا عَلَى الْاَعْرَجِ حَرَجٌۭ وَ لَا عَلَى الْمَرِيضِ حَرَجٌۭ ۗ وَ مَن يُطِعِ اللّٰهَ وَرَسُولَهُ يُدْخِلْهُ جَنَّـٰتٍۢ تَجْرِى مِن تَحْتِهَا الْاَنْهَـٰرُ ۖ وَ مَن يَتَوَلَّ يُعَذِّبْهُ عَذَابًا اَلِيمًا",
     "urdu_text": "نابینا پر کوئی گناہ نہیں، اور نہ لنگڑے پر کوئی گناہ ہے، اور نہ بیمار پر کوئی ذمہ داری ہے۔ اور جو اللہ اور اس کے رسول کی اطاعت کرے گا، اللہ اسے ایسی جنتوں میں داخل کرے گا جن کے نیچے نہریں بہتی ہوں گی، اور جو منہ موڑے گا اسے دردناک عذاب دیا جائے گا۔",
     "persian_text": "بر نابینا گناهی نیست و بر لنگ گناهی نیست و بر بیمار مسئولیتی نیست. و هر کس از اللہ و رسولش اطاعت کند، او را به باغ‌هایی درآورد که از زیر آن‌ها نهرها جاری است، و هر کس روی بگرداند او را به عذابی دردناک عذاب خواهد کرد.",
     "transliteration": "Laysa 'alal-a'maa harajun wa la 'alal-a'raji harajun wa la 'alal-mareedi haraj wa man yuti'illaha wa rasoolahu yudkhilhu jannaatin tajree min tahtihal-anhaar wa man yatawalla yu'adhdhibhu 'adhaaban aleema"
@@ -145,7 +145,7 @@ ayats = [
   {
     "verse_number": 18,
     "english_text": "Verily Allah was pleased with the believers when they gathered below the tree and were swearing allegiance to you, then He saw everything that was in their hearts and sent calm on them, and in exchange rewarded them the close victory.",
-    "arabic_text": "۞ لَّقَدْ رَضِىَ اللّٰهُ عَنِ الْمُؤْمِنِينَ اِذْ يُبَايِعُونَكَ تَحْتَ الشَّجَرَةِ فَعَلِمَ مَا فِى قُلُوبِهِمْ فَاَنزَلَ السَّكِينَةَ عَلَيْهِمْ وَاَثَـٰبَهُمْ فَتْحًۭا قَرِيبًا",
+    "arabic_text": "  لَّقَدْ رَضِىَ اللّٰهُ عَنِ الْمُؤْمِنِينَ اِذْ يُبَايِعُونَكَ تَحْتَ الشَّجَرَةِ فَعَلِمَ مَا فِى قُلُوبِهِمْ فَاَنزَلَ السَّكِينَةَ عَلَيْهِمْ وَاَثَـٰبَهُمْ فَتْحًۭا قَرِيبًا",
     "urdu_text": "بیشک اللہ مومنوں سے راضی ہو گیا جب وہ درخت کے نیچے تم سے بیعت کر رہے تھے، پھر اس نے جان لیا جو ان کے دلوں میں تھا، تو ان پر سکینت نازل فرمائی اور انہیں قریبی فتح کا انعام دیا۔",
     "persian_text": "به راستی اللہ از مؤمنان خشنود شد هنگامی که زیر درخت با تو بیعت می‌کردند، پس آنچه در دل‌هایشان بود دانست، آرامش بر آنان نازل کرد و آنان را به فتحی نزدیک پاداش داد.",
     "transliteration": "Laqad radiyallahu 'anil-mu'mineena idh yubaayi'oonaka tahta ash-shajarati fa'alima maa fee quloobihim fa-anzala as-sakeenata 'alayhim wa athaabahum fathan qareeba"
@@ -161,7 +161,7 @@ ayats = [
   {
     "verse_number": 20,
     "english_text": "He has promised you many benefits which you will receive, then hastened in giving the war booty (of Khaiber) and held back hands of people from you that it may become a sign of power for the people of faith; and He may guide you towards the straight path.",
-    "arabic_text": "وَعَدَكُمُ اللّٰهُ مَغَانِمَ كَثِيرَةًۭ تَاْخُذُونَهَا فَعَجَّلَ لَكُمْ هَـٰذِهِ وَكَفَّ اَيْدِىَ النَّاسِ عَنكُمْ وَلِتَكُونَ ءَايَةًۭ لِّلْمُؤْمِنِينَ وَيَهْدِيَكُمْ صِرَٰطًۭا مُّسْتَقِيمًا",
+    "arabic_text": "وَعَدَكُمُ اللّٰهُ مَغَانِمَ كَثِيرَةًۭ تَاْخُذُونَهَا فَعَجَّلَ لَكُمْ هَـٰذِهِ وَكَفَّ اَيْدِىَ النَّاسِ عَنكُمْ وَلِتَكُونَ ءَايَةًۭ لِّلْمُؤْمِنِينَ وَيَهْدِيَكُمْ صِرٰطًۭا مُّسْتَقِيمًا",
     "urdu_text": "اللہ نے تم سے بہت سے فوائد کا وعدہ کیا ہے جو تم حاصل کرو گے، پھر اس نے تمہارے لیے یہ مالِ غنیمت جلدی عطا کر دیا اور لوگوں کے ہاتھ تم سے روک دیے تاکہ یہ مومنوں کے لیے نشانی بن جائے، اور وہ تمہیں سیدھے راستے کی طرف رہنمائی کرے۔",
     "persian_text": "اللہ به شما غنایم بسیاری وعده داده که آن‌ها را خواهید گرفت، پس این را برای شما تعجیل کرد و دست‌های مردم را از شما باز داشت تا نشانه‌ای برای مؤمنان باشد و شما را به راه راست هدایت کند.",
     "transliteration": "Wa'adakumullahu maghanima katheeratan ta'khudhoona-ha fa'ajjala lakum hadhihi wa kaffa aydiya an-naasi 'ankum wa litakoona aayatal-lil-mu'mineena wa yahdiyakum siraatan mustaqeema"
@@ -193,7 +193,7 @@ ayats = [
   {
     "verse_number": 24,
     "english_text": "That is Allah Who held back infidels' hands from you, and your hands from them, at the border of Makkah even after your victory; and Allah is well aware of your deeds.",
-    "arabic_text": "وَهُوَ الَّذِى كَفَّ اَيْدِيَهُمْ عَنكُمْ وَاَيْدِيَكُمْ عَنْهُم بِبَطْنِ مَكَّةَ مِنۢ بَعْدِ اَنْ اَظْفَرَكُمْ عَلَيْهِمْ ۚ وَكَانَ اللّٰهُ بِمَا تَعْمَلُونَ بَصِيرًا",
+    "arabic_text": "وَ هُوَ الَّذِى كَفَّ اَيْدِيَهُمْ عَنكُمْ وَاَيْدِيَكُمْ عَنْهُم بِبَطْنِ مَكَّةَ مِنۢ بَعْدِ اَنْ اَظْفَرَكُمْ عَلَيْهِمْ ۚ وَكَانَ اللّٰهُ بِمَا تَعْمَلُونَ بَصِيرًا",
     "urdu_text": "اور وہی ہے جس نے مکہ کی وادی میں کافروں کے ہاتھ تم سے اور تمہارے ہاتھ ان سے روک دیے، اس کے بعد کہ اس نے تمہیں ان پر غالب کر دیا تھا، اور اللہ تمہارے اعمال کو دیکھ رہا ہے۔",
     "persian_text": "و او کسی است که دستهای آنان را از شما و دستهای شما را از آنان در دل مکه باز داشت، پس از آنکه شما را بر آنان پیروز گردانید، و خداوند به آنچه انجام می‌دهید بیناست.",
     "transliteration": "Wa huwa alladhee kaffa aydiyahum 'ankum wa aydiyakum 'anhum bi-batni Makkata min ba'di an adhfarakum 'alayhim, wa kaana Allaahu bimaa ta'maloona baseeraa"
@@ -233,7 +233,7 @@ ayats = [
   {
     "verse_number": 29,
     "english_text": "Mohammad is the Prophet of Allah, and the people with him are very firm against infidels and very soft hearted among themselves; so you will see that they are bowing down in prostration in His Presence, and are seeking from their Lord Grace and Mercy and His Pleasure; marks of prostration are found on their faces due to frequent prostration, thus is their example in Taurait and thus their virtue in Injeel; as in farming first seed produce then it give out sprouts then strengthen it and becomes thick then it stands on its own stem that make the sowers happy and it becomes a source of envy for infidels; Allah has promised the people of faith and good-doers for forgiveness and grand reward.",
-    "arabic_text": "مُّحَمَّدٌۭ رَّسُولُ اللّٰهِ ۚ وَ الَّذِينَ مَعَهُٓ اَشِدَّآءُ عَلَى الْكُفَّارِ رُحَمَآءُ بَيْنَهُمْ ۖ تَرَىٰهُمْ رُكَّعًۭا سُجَّدًۭا يَبْتَغُونَ فَضْلًا مِّنَ اللّٰهِ وَرِضْوَٰنًۭا ۖ سِيمَاهُمْ فِى وُجُوهِهِم مِّنْ اَثَرِ السُّجُودِ ۚ ذٰلِكَ مَثَلُهُمْ فِى التَّوْرَىٰةِ ۚ وَمَثَلُهُمْ فِى الْاِنجِيلِ كَزَرْعٍ اَخْرَجَ شَطْـَٔهُ فَـَٔازَرَهُ فَاسْتَغْلَظَ فَاسْتَوَىٰ عَلَىٰ سُوقِهِ يُعْجِبُ الزُّرَّاعَ لِيَغِيظَ بِهِمُ الْكُفَّارَ ۗ وَعَدَ اللّٰهُ الَّذِينَ ءَامَنُواْ وَعَمِلُواْ الصَّـٰلِحَـٰتِ مِنْهُم مَّغْفِرَةًۭ وَاَجْرًا عَظِيمًۢا",
+    "arabic_text": "مُّحَمَّدٌۭ رَّسُولُ اللّٰهِ ۚ وَ الَّذِينَ مَعَهُٓ اَشِدَّآءُ عَلَى الْكُفَّارِ رُحَمَآءُ بَيْنَهُمْ ۖ تَرَىٰهُمْ رُكَّعًۭا سُجَّدًۭا يَبْتَغُونَ فَضْلًا مِّنَ اللّٰهِ وَرِضْوٰنًۭا ۖ سِيمَاهُمْ فِى وُجُوهِهِم مِّنْ اَثَرِ السُّجُودِ ۚ ذٰلِكَ مَثَلُهُمْ فِى التَّوْرَىٰةِ ۚ وَمَثَلُهُمْ فِى الْاِنجِيلِ كَزَرْعٍ اَخْرَجَ شَطْـَٔهُ فَـَٔازَرَهُ فَاسْتَغْلَظَ فَاسْتَوَىٰ عَلَىٰ سُوقِهِ يُعْجِبُ الزُّرَّاعَ لِيَغِيظَ بِهِمُ الْكُفَّارَ ۗ وَعَدَ اللّٰهُ الَّذِينَ ءَامَنُواْ وَعَمِلُواْ الصَّـٰلِحَـٰتِ مِنْهُم مَّغْفِرَةًۭ وَاَجْرًا عَظِيمًۢا",
     "urdu_text": "محمد اللہ کے رسول ہیں، اور جو لوگ ان کے ساتھ ہیں وہ کافروں پر سخت اور آپس میں نرم دل ہیں، تم انہیں رکوع اور سجدے کرتے دیکھو گے، وہ اللہ کے فضل اور رضا کے طالب ہیں، ان کے چہروں پر سجدوں کے نشانات ہیں، یہ ان کی مثال تورات میں ہے، اور ان کی مثال انجیل میں ایسی ہے جیسے ایک کھیتی جس نے اپنی کونپل نکالی پھر اسے مضبوط کیا پھر وہ موٹی ہوئی پھر اپنے تنے پر کھڑی ہو گئی جو کاشتکاروں کو خوش کرتی ہے تاکہ ان سے کافروں کو غصہ دلائے، اللہ نے ان میں سے ایمان والوں اور نیک عمل کرنے والوں سے بخشش اور بڑے اجر کا وعدہ فرمایا ہے۔",
     "persian_text": "محمد فرستاده خداست، و کسانی که با او هستند بر کافران سخت‌گیر و در میان خود مهربانند، آنان را می‌بینی که رکوع و سجده می‌کنند و فضل و خشنودی خداوند را می‌جویند، نشانه‌شان در چهره‌هایشان از اثر سجده است، این توصیف آنان در تورات است، و مثل آنان در انجیل همچون کشتی است که جوانه خود را بیرون آورد، سپس آن را تقویت کرد، پس ستبر شد و بر ساقه خود ایستاد که کشاورزان را به شگفتی آورد تا کافران را به خشم آورد، خداوند به کسانی از آنان که ایمان آورده و کارهای شایسته کرده‌اند، آمرزش و پاداش بزرگی وعده داده است.",
     "transliteration": "Muhammadun rasoolu Allaah, wa alladheena ma'ahu ashiddaa'u 'alaa al-kuffaari ruhamaa'u baynahum, taraahum rukka'an sujjadan yabtaghoona fadlan mina Allaahi wa ridwaanaa, seemaa-hum fee wujoohihim min athari as-sujood, dhaalika mathaluhum fee at-Tawraah, wa mathaluhum fee al-Injeeli ka-zar'in akhraja shat'ahu fa-aazarahu fa-istaghladha fa-istawaa 'alaa sooqihee yu'jibu az-zurraa'a li-yagheedha bihimu al-kuffaar, wa'ada Allaahu alladheena aamanoo wa 'amilu as-saalihaati minhum maghfiratan wa ajran 'adheemaa"

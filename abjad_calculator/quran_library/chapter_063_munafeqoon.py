@@ -33,7 +33,7 @@ ayats = [
   {
     "verse_number": 4,
     "english_text": "And when you will look at them, their bodies will seem very good to you, and when they speak, you will listen to their words, but in reality they are like dry woods leaning against the wall, and they think every scream is against them, in fact they are enemies, beware of them, may Allah destroy them; where are they going astray.",
-    "arabic_text": "۞ وَاِذَا رَاَيْتَهُمْ تُعْجِبُكَ اَجْسَامُهُمْ ۖ وَ اِن يَقُولُواْ تَسْمَعْ لِقَوْلِهِمْ ۖ كَاَنَّهُمْ خُشُبٌۭ مُّسَنَّدَةٌۭ ۖ يَحْسَبُونَ كُلَّ صَيْحَةٍ عَلَيْهِمْ ۚ هُمُ الْعَدُوُّ فَاحْذَرْهُمْ ۚ قَـٰتَلَهُمُ اللّٰهُ ۖ اَنَّىٰ يُؤْفَكُونَ",
+    "arabic_text": "  وَاِذَا رَاَيْتَهُمْ تُعْجِبُكَ اَجْسَامُهُمْ ۖ وَ اِن يَقُولُواْ تَسْمَعْ لِقَوْلِهِمْ ۖ كَاَنَّهُمْ خُشُبٌۭ مُّسَنَّدَةٌۭ ۖ يَحْسَبُونَ كُلَّ صَيْحَةٍ عَلَيْهِمْ ۚ هُمُ الْعَدُوُّ فَاحْذَرْهُمْ ۚ قَـٰتَلَهُمُ اللّٰهُ ۖ اَنَّىٰ يُؤْفَكُونَ",
     "urdu_text": "اور جب آپ انهیں دیکھیں تو ان کے جسم آپ کو اچھے لگیں، اور اگر وه بولیں تو آپ ان کی بات سنیں، وه ایسے هیں جیسے ٹیک لگائی هوئی لکڑیاں، وه هر آواز کو اپنے خلاف سمجھتے هیں، وهی دشمن هیں، ان سے هوشیار رهیں، الله انهیں هلاک کرے، کهاں بهکائے جا رهے هیں۔",
     "persian_text": "و هنگامی که آنان را ببینی، اندامشان تو را به شگفتی آورد، و اگر سخن گویند، به گفتارشان گوش فرا دهی، آنان مانند چوب‌های تکیه داده شده‌اند، هر فریادی را بر ضد خود می‌پندارند، آنان دشمنند پس از آنان بپرهیز، خدا آنان را نابود کند، چگونه منحرف می‌شوند.",
     "transliteration": "Wa idha ra-aytahum tu'jibuka ajsamuhum wa in yaqooloo tasma' li-qawlihim ka-annahum khushubun musannadatun yahsaboona kulla sayhatin 'alayhim humu al-'aduwwu fahdharhum qatalahumu Allahu anna yu'fakoon"
@@ -57,7 +57,7 @@ ayats = [
   {
     "verse_number": 7,
     "english_text": "These are the people who say: do not spend anything on the companions of the Prophet of Allah so they may get scattered, although all the treasures of skies and the earth belong to Allah only, and these hypocrites do not understand this.",
-    "arabic_text": "هُمُ الَّذِينَ يَقُولُونَ لَا تُنفِقُواْ عَلَىٰ مَنْ عِندَ رَسُولِ اللّٰهِ حَتَّىٰ يَنفَضُّواْ ۗ وَلِلَّهِ خَزَآئِنُ السَّمَـٰوَٰتِ وَ الْاَرْضِ وَلَـٰكِنَّ الْمُنَـٰفِقِينَ لَا يَفْقَهُونَ",
+    "arabic_text": "هُمُ الَّذِينَ يَقُولُونَ لَا تُنفِقُواْ عَلَىٰ مَنْ عِندَ رَسُولِ اللّٰهِ حَتَّىٰ يَنفَضُّواْ ۗ وَلِلَّهِ خَزَآئِنُ السَّمَـٰوٰتِ وَ الْاَرْضِ وَلَـٰكِنَّ الْمُنَـٰفِقِينَ لَا يَفْقَهُونَ",
     "urdu_text": "یه وه لوگ هیں جو کهتے هیں که الله کے رسول کے ساتھیوں پر خرچ نه کرو تاکه وه منتشر هو جائیں، حالانکه آسمانوں اور زمین کے خزانے الله هی کے لیے هیں، لیکن منافق نهیں سمجھتے۔",
     "persian_text": "آنان کسانی هستند که می‌گویند: بر کسانی که نزد رسول خدا هستند انفاق نکنید تا پراکنده شوند، در حالی که خزانه‌های آسمان‌ها و زمین از آن خداست، ولی منافقان نمی‌فهمند.",
     "transliteration": "Humu alladheena yaqooloona la tunfiqoo 'ala man 'inda rasooli Allahi hatta yanfaddoo wa lillahi khaza'inu as-samawati wal-ardi walakinna al-munafiqeena la yafqahoon"
@@ -73,7 +73,7 @@ ayats = [
   {
     "verse_number": 9,
     "english_text": "O you who believe! beware, your wealth and your children may not make you oblivious from the remembrance of Allah, and Verily whoever will do this will be counted among the losers.",
-    "arabic_text": "يٰٓاَيُّهَا الَّذِينَ ءَامَنُواْ لَا تُلْهِكُمْ اَمْوَٰلُكُمْ وَ لَآ اَوْلَـٰدُكُمْ عَن ذِكْرِ اللّٰهِ ۚ وَمَن يَفْعَلْ ذٰلِكَ فَاُو۟لَـٰٓئِكَ هُمُ الْخَـٰسِرُونَ",
+    "arabic_text": "يٰٓاَيُّهَا الَّذِينَ ءَامَنُواْ لَا تُلْهِكُمْ اَمْوٰلُكُمْ وَ لَآ اَوْلَـٰدُكُمْ عَن ذِكْرِ اللّٰهِ ۚ وَ مَن يَفْعَلْ ذٰلِكَ فَاُوْلٓـٰئِكَ هُمُ الْخَـٰسِرُونَ",
     "urdu_text": "اے ایمان والو! تمهارے مال اور تمهاری اولاد تمهیں الله کی یاد سے غافل نه کر دیں، اور جو ایسا کرے گا تو وهی لوگ نقصان اٹھانے والے هیں۔",
     "persian_text": "ای کسانی که ایمان آورده‌اید! اموال و فرزندانتان شما را از یاد خدا غافل نسازد، و هر کس چنین کند، آنان زیانکارانند.",
     "transliteration": "Ya ayyuha alladheena aamanoo la tulhikum amwalukum wala awladukum 'an dhikri Allahi wa man yaf'al dhalika fa-ula'ika humu al-khasiroon"

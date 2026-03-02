@@ -218,7 +218,7 @@ ayats = [
   {
     "verse_number": 29,
     "english_text": "Whoever is in the sky and on earth beg of Him, and every day He has new glory.",
-    "arabic_text": "يَسْـَٔلُهُ مَن فِى السَّمَـٰوَٰتِ وَ الْاَرْضِ ۚ كُلَّ يَوْمٍ هُوَ فِى شَاْنٍۭ",
+    "arabic_text": "يَسْـَٔلُهُ مَن فِى السَّمَـٰوٰتِ وَ الْاَرْضِ ۚ كُلَّ يَوْمٍ هُوَ فِى شَاْنٍۭ",
     "urdu_text": "جو کوئی آسمانوں اور زمین میں ہے اسی سے مانگتا ہے، وہ ہر روز ایک نئی شان میں ہے",
     "persian_text": "هر که در آسمان‌ها و زمین است از او درخواست می‌کند و او هر روز در کاری است",
     "transliteration": "Yas'aluhu man fis-samawati wal-ard, kulla yawmin huwa fi sha'n",
@@ -250,7 +250,7 @@ ayats = [
   {
     "verse_number": 33,
     "english_text": "O groups of Jinn and Man if you have power then go beyond the boundaries of skies and the earth; but remember, you cannot pass through without strength and authority (which you do not have).",
-    "arabic_text": "يَـٰمَعْشَرَ الْجِنِّ وَالْاِنسِ اِنِ اسْتَطَعْتُمْ اَن تَنفُذُواْ مِنْ اَقْطَارِ السَّمَـٰوَٰتِ وَ الْاَرْضِ فَانفُذُواْ ۚ لَا تَنفُذُونَ اِلَّا بِسُلْطَـٰنٍۢ",
+    "arabic_text": "يَـٰمَعْشَرَ الْجِنِّ وَالْاِنسِ اِنِ اسْتَطَعْتُمْ اَن تَنفُذُواْ مِنْ اَقْطَارِ السَّمَـٰوٰتِ وَ الْاَرْضِ فَانفُذُواْ ۚ لَا تَنفُذُونَ اِلَّا بِسُلْطَـٰنٍۢ",
     "urdu_text": "اے گروہ جنات و انسان! اگر تم میں طاقت ہے تو آسمانوں اور زمین کی حدوں سے نکل جاؤ، تو نکل جاؤ، لیکن تم بغیر قوت و اختیار کے نہیں نکل سکتے",
     "persian_text": "ای گروه جن و انس، اگر می‌توانید از مرزهای آسمان‌ها و زمین بگذرید پس بگذرید، اما نمی‌توانید بگذرید مگر با قدرت و اقتداری که ندارید",
     "transliteration": "Ya ma'sharal-jinni wal-insi inis-tata'tum an tanfudhu min aqtaris-samawati wal-ardi fanfudhu la tanfudhuna illa bisultan",
@@ -434,7 +434,7 @@ ayats = [
   {
     "verse_number": 56,
     "english_text": "In those Paradises there will be Hoories, limiting their glances; whom neither man nor jinn would have touched them before.",
-    "arabic_text": "فِيهِنَّ قَـٰصِرَٰتُ الطَّرْفِ لَمْ يَطْمِثْهُنَّ اِنسٌۭ قَبْلَهُمْ وَ لَا جَآنٌّۭ",
+    "arabic_text": "فِيهِنَّ قَـٰصِرٰتُ الطَّرْفِ لَمْ يَطْمِثْهُنَّ اِنسٌۭ قَبْلَهُمْ وَ لَا جَآنٌّۭ",
     "urdu_text": "ان جنتوں میں نیچی نگاہ والی حوریں ہوں گی جن کو ان سے پہلے نہ کسی انسان نے چھوا ہو گا اور نہ کسی جن نے",
     "persian_text": "در آن بهشت‌ها حوریانی هستند که نگاه‌شان فروتن است و پیش از آنان نه انسی و نه جنی به آنها دست نزده است",
     "transliteration": "Feehinna qasiratu at-tarfi lam yatmithhunna insun qablahum wa la jann",
@@ -546,7 +546,7 @@ ayats = [
   {
     "verse_number": 70,
     "english_text": "In these Paradises there will be pure and beautiful women.",
-    "arabic_text": "فِيهِنَّ خَيْرَٰتٌ حِسَانٌ",
+    "arabic_text": "فِيهِنَّ خَيْرٰتٌ حِسَانٌ",
     "urdu_text": "ان باغوں میں نیک اور خوبصورت عورتیں ہوں گی",
     "persian_text": "در آن باغ‌ها زنان پاکیزه و زیبا خواهند بود",
     "transliteration": "Feehinna khayraatun hisaan",
@@ -562,7 +562,7 @@ ayats = [
   {
     "verse_number": 72,
     "english_text": "Hoories will be sitting in the tents.",
-    "arabic_text": "حُورٌۭ مَّقْصُورَٰتٌۭ فِى الْخِيَامِ",
+    "arabic_text": "حُورٌۭ مَّقْصُورٰتٌۭ فِى الْخِيَامِ",
     "urdu_text": "خیموں میں پردہ نشین حوریں ہوں گی",
     "persian_text": "حوریانی که در خیمه‌ها نگهداری شده‌اند",
     "transliteration": "Hoorun maqsooratun fil khiyam",

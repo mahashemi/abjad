@@ -57,7 +57,7 @@ ayats = [
   {
     "verse_number": 7,
     "english_text": "And made earth the flooring and put mountains on it and grew beautiful things everywhere.",
-    "arabic_text": "وَالْاَرْضَ مَدَدْنَـٰهَا وَاَلْقَيْنَا فِيهَا رَوَٰسِىَ وَاَنۢبَتْنَا فِيهَا مِن كُلِّ زَوْجٍۭ بَهِيجٍۢ",
+    "arabic_text": "وَالْاَرْضَ مَدَدْنَـٰهَا وَاَلْقَيْنَا فِيهَا رَوٰسِىَ وَاَنۢبَتْنَا فِيهَا مِن كُلِّ زَوْجٍۭ بَهِيجٍۢ",
     "urdu_text": "اور زمین کو هم نے بچھایا اور اس میں پهاڑ ڈالے اور اس میں هر قسم کی خوبصورت چیزیں اُگائیں۔",
     "persian_text": "و زمین را گسترانیدیم و در آن کوه‌های استوار افکندیم و در آن از هر جفت زیبا رویاندیم.",
     "transliteration": "Wal-arda madadnaahaa wa alqaynaa feehaa rawaasiya wa ambatnaa feehaa min kulli zawjim baheej"
@@ -105,7 +105,7 @@ ayats = [
   {
     "verse_number": 13,
     "english_text": "And also, the nation of Aad, Firaun and brothers of Lut.",
-    "arabic_text": "وَعَادٌۭ وَفِرْعَوْنُ وَاِخْوَٰنُ لُوطٍۢ",
+    "arabic_text": "وَعَادٌۭ وَفِرْعَوْنُ وَاِخْوٰنُ لُوطٍۢ",
     "urdu_text": "اور قوم عاد، فرعون اور قوم لوط نے بھی۔",
     "persian_text": "و نیز عاد و فرعون و برادران لوط.",
     "transliteration": "Wa 'Aadunw wa Fir'awnu wa Ikhwaanu Loot"
@@ -121,7 +121,7 @@ ayats = [
   {
     "verse_number": 15,
     "english_text": "So were We helpless from earlier creation, never, so fact is that they are doubting the future creation.",
-    "arabic_text": "اَفَعَيِينَا بِالْخَلْقِ الْاَوَّلِ ۚ بَلْ هُمْ فِى لَبْسٍۢ مِّنْ خَلْقٍۢ جَدِيدٍۢ",
+    "arabic_text": "اَفَعَيِينَا بِالْخَلْقِ الْاَوَّلِ ۚ بَلْ هُمْ فِى لَبْسٍۢ مِّنْ خَلْقٍ جَدِيدٍۢ",
     "urdu_text": "کیا هم پهلی تخلیق سے عاجز تھے؟ هرگز نهیں، بلکه یه لوگ نئی تخلیق میں شک میں مبتلا هیں۔",
     "persian_text": "آیا ما از آفرینش نخستین عاجز بودیم؟ هرگز، بلکه آنان در شک از آفرینش تازه‌اند.",
     "transliteration": "Afa'ayeenaa bil khalqil awwal, bal hum fee labsim min khalqin jadeed"
@@ -217,7 +217,7 @@ ayats = [
   {
     "verse_number": 27,
     "english_text": "Then his companion Satan will say: O Lord, I have not misguided him, he himself had gone far in great error.",
-    "arabic_text": "۞ قَالَ قَرِينُهُ رَبَّنَا مَآ اَطْغَيْتُهُ وَلَـٰكِن كَانَ فِى ضَلَـٰلٍۭ بَعِيدٍۢ",
+    "arabic_text": "  قَالَ قَرِينُهُ رَبَّنَا مَآ اَطْغَيْتُهُ وَلَـٰكِن كَانَ فِى ضَلَـٰلٍۭ بَعِيدٍۢ",
     "urdu_text": "پھر اس کا ساتھی شیطان کهے گا: اے همارے رب، میں نے اسے گمراه نهیں کیا، بلکه وه خود هی دور کی گمراهی میں تھا۔",
     "persian_text": "سپس همراه شیطانی او خواهد گفت: ای پروردگار ما، من او را گمراه نکردم، بلکه خودش در گمراهی دور بود.",
     "transliteration": "Qaala qareenuhoo rabbanaa maaa atghaytuhu wa laakin kaana fee dalaalin ba'eed"
@@ -305,7 +305,7 @@ ayats = [
   {
     "verse_number": 38,
     "english_text": "And We created skies and the earth and what is in between them within six days, and exhaustion even did not touch Us.",
-    "arabic_text": "وَ لَقَدْ خَلَقْنَا السَّمَـٰوَٰتِ وَالْاَرْضَ وَ مَا بَيْنَهُمَا فِى سِتَّةِ اَيَّامٍۢ وَ مَا مَسَّنَا مِن لُّغُوبٍۢ",
+    "arabic_text": "وَ لَقَدْ خَلَقْنَا السَّمَـٰوٰتِ وَالْاَرْضَ وَ مَا بَيْنَهُمَا فِى سِتَّةِ اَيَّامٍۢ وَ مَا مَسَّنَا مِن لُّغُوبٍۢ",
     "urdu_text": "اور هم نے آسمانوں اور زمین کو اور جو کچھ ان کے درمیان هے چھ دنوں میں پیدا کیا، اور همیں ذرا بھی تھکاوٹ نهیں هوئی۔",
     "persian_text": "و ما آسمان‌ها و زمین و آنچه میان آنهاست را در شش روز آفریدیم و هیچ خستگی به ما نرسید.",
     "transliteration": "Wa laqad khalaqnas-samaawaati wal-arda wa maa baynahumaa fee sittati ayyaamin wa maa massanaa min lughooб"

@@ -49,7 +49,7 @@ ayats = [
   {
     "verse_number": 6,
     "english_text": "The reward and the punishment are verily going to happen.",
-    "arabic_text": "وَاِنَّ الدِّينَ لَوَٰقِعٌۭ",
+    "arabic_text": "وَاِنَّ الدِّينَ لَوٰقِعٌۭ",
     "urdu_text": "اور بیشک جزا و سزا ضرور واقع هونے والی هے۔",
     "persian_text": "و به یقین روز جزا و حساب قطعاً واقع خواهد شد.",
     "transliteration": "Wa innad-dīna lawāqi'"
@@ -153,7 +153,7 @@ ayats = [
   {
     "verse_number": 19,
     "english_text": "And in their wealth there was a portion for those who ask, and for deprived who do not ask.",
-    "arabic_text": "وَفِىٓ اَمْوَٰلِهِمْ حَقٌّۭ لِّلسَّآئِلِ وَالْمَحْرُومِ",
+    "arabic_text": "وَفِىٓ اَمْوٰلِهِمْ حَقٌّۭ لِّلسَّآئِلِ وَالْمَحْرُومِ",
     "urdu_text": "اور ان کے مال میں سائل اور محروم کا حق تھا۔",
     "persian_text": "و در اموال آنان حقی برای سائل و محروم بود.",
     "transliteration": "Wa fee amwaalihim haqqul-lis-saaa'ili wal-mahroom"
@@ -193,7 +193,7 @@ ayats = [
   {
     "verse_number": 24,
     "english_text": "Has the mention of honourable guests of Ibrahim reached you.",
-    "arabic_text": "هَلْ اَتَىٰكَ حَدِيثُ ضَيْفِ اِبْرَٰهِيمَ الْمُكْرَمِينَ",
+    "arabic_text": "هَلْ اَتَىٰكَ حَدِيثُ ضَيْفِ اِبْرٰهِيمَ الْمُكْرَمِينَ",
     "urdu_text": "کیا تمهیں ابراهیم کے معزز مهمانوں کا قصه پهنچا هے؟",
     "persian_text": "آیا خبر مهمانان گرامی ابراهیم به تو رسیده است؟",
     "transliteration": "Hal ataaka hadeethu dayfi Ibraaheema al-mukrameen"
@@ -249,7 +249,7 @@ ayats = [
   {
     "verse_number": 31,
     "english_text": "Ibrahim said: O angels, what is your mission.",
-    "arabic_text": "۞ قَالَ فَمَا خَطْبُكُمْ اَيُّهَا الْمُرْسَلُونَ",
+    "arabic_text": "  قَالَ فَمَا خَطْبُكُمْ اَيُّهَا الْمُرْسَلُونَ",
     "urdu_text": "ابراهیم نے کها: تو اے فرشتو، تمهارا کیا کام هے؟",
     "persian_text": "ابراهیم گفت: ای فرستادگان، کار شما چیست؟",
     "transliteration": "Qaala famaa khatbukum ayyuhal mursaloon"
@@ -257,7 +257,7 @@ ayats = [
   {
     "verse_number": 32,
     "english_text": "They said: we have been sent towards a guilty nation.",
-    "arabic_text": "قَالُوٓاْ اِنَّآ اُرْسِلْنَآ اِلـٰى قَوْمٍۢ مُّجْرِمِينَ",
+    "arabic_text": "قَالُوٓاْ اِنَّآ اُرْسِلْنَآ اِلـٰى قَوْمٍ مُّجْرِمِينَ",
     "urdu_text": "انهوں نے کها: هم ایک مجرم قوم کی طرف بھیجے گئے هیں۔",
     "persian_text": "گفتند: ما به سوی قومی گناهکار فرستاده شده‌ایم.",
     "transliteration": "Qaalooo innaaa ursilnaaa ilaa qawmim mujrimeen"

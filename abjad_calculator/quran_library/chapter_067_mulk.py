@@ -17,7 +17,7 @@ ayats = [
   {
     "verse_number": 2,
     "english_text": "He has created death and life so that He may try you that who is better among you with regards to the deed, and He is also Honorable and Forgiving.",
-    "arabic_text": "الَّذِى خَلَقَ الْمَوْتَ وَالْحَيَوٰةَ لِيَبْلُوَكُمْ اَيُّكُمْ اَحْسَنُ عَمَلًا ۚ وَ هُوَ الْعَزِيزُ الْغَفُورُ",
+    "arabic_text": "الَّذِى خَلَقَ الْمَوْتَ وَالْحَيٰوةَ لِيَبْلُوَكُمْ اَيُّكُمْ اَحْسَنُ عَمَلًا ۚ وَ هُوَ الْعَزِيزُ الْغَفُورُ",
     "urdu_text": "جس نے موت اور زندگی کو پیدا کیا تاکه تمهیں آزمائے که تم میں سے کون عمل میں بهتر هے، اور وه غالب اور بخشنے والا هے۔",
     "persian_text": "همان کسی که مرگ و زندگی را آفرید تا شما را بیازماید که کدام یک از شما نیکوکارتر است، و او عزیز و آمرزنده است.",
     "transliteration": "Alladhī khalaqal-mawta wal-ḥayāta liyabluwakum ayyukum aḥsanu 'amalā, wa huwal-'azīzul-ghafūr"
@@ -25,7 +25,7 @@ ayats = [
   {
     "verse_number": 3,
     "english_text": "He has created seven skies one over another, and you will not see any difference in creation of the Beneficent, then look up again do you see any crack?",
-    "arabic_text": "الَّذِى خَلَقَ سَبْعَ سَمَـٰوَٰتٍۢ طِبَاقًۭا ۖ مَّا تَرَىٰ فِى خَلْقِ الرَّحْمَـٰنِ مِن تَفَـٰوُتٍۢ ۖ فَارْجِعِ الْبَصَرَ هَلْ تَرَىٰ مِن فُطُورٍۢ",
+    "arabic_text": "الَّذِى خَلَقَ سَبْعَ سَمَـٰوٰتٍۢ طِبَاقًۭا ۖ مَّا تَرَىٰ فِى خَلْقِ الرَّحْمَـٰنِ مِن تَفَـٰوُتٍۢ ۖ فَارْجِعِ الْبَصَرَ هَلْ تَرَىٰ مِن فُطُورٍۢ",
     "urdu_text": "جس نے سات آسمان تهه به تهه بنائے، تم رحمان کی تخلیق میں کوئی کمی نهیں دیکھو گے، پھر نظر اٹھا کر دیکھو کیا تمهیں کوئی شگاف نظر آتا هے؟",
     "persian_text": "همان کسی که هفت آسمان را طبقه طبقه آفرید، در آفرینش رحمان هیچ نابرابری نمی‌بینی، پس نگاه کن آیا شکافی می‌بینی؟",
     "transliteration": "Alladhī khalaqa sab'a samāwātin ṭibāqā, mā tarā fī khalqir-raḥmāni min tafāwut, farji'il-baṣara hal tarā min fuṭūr"
@@ -177,7 +177,7 @@ ayats = [
   {
     "verse_number": 22,
     "english_text": "Does the person who walks on his face is more guided; or the person who walks upright on the straight path?",
-    "arabic_text": "اَفَمَن يَمْشِى مُكِبًّا عَلَىٰ وَجْهِهِٓ اَهْدَىٰٓ اَمَّن يَمْشِى سَوِيًّا عَلَىٰ صِرَٰطٍۢ مُّسْتَقِيمٍۢ",
+    "arabic_text": "اَفَمَن يَمْشِى مُكِبًّا عَلَىٰ وَجْهِهِٓ اَهْدَىٰٓ اَمَّن يَمْشِى سَوِيًّا عَلَىٰ صِرٰطٍۢ مُّسْتَقِيمٍۢ",
     "urdu_text": "کیا وه شخص جو اوندھے منه چلتا هے زیاده هدایت یافته هے، یا وه جو سیدھا راهِ راست پر چلتا هے؟",
     "persian_text": "آیا کسی که بر روی خود راه می‌رود هدایت‌یافته‌تر است، یا کسی که راست بر صراط مستقیم راه می‌رود؟",
     "transliteration": "Afaman yamshee mukibban 'alaa wajhihee ahdaa amman yamshee sawiyyan 'alaa siraatim mustaqeem"
@@ -185,7 +185,7 @@ ayats = [
   {
     "verse_number": 23,
     "english_text": "Say: \"It is Allah Who has created you and He has given you ears, eyes and heart, but you are very less grateful\".",
-    "arabic_text": "قُلْ هُوَ الَّذِىٓ اَنشَاَكُمْ وَجَعَلَ لَكُمُ السَّمْعَ وَالْاَبْصَـٰرَ وَالْاَفْـِٔدَةَ ۖ قَلِيلًا مَّا تَشْكُرُونَ",
+    "arabic_text": "قُلْ هُوَ الَّذِىٓ اَنشَاَكُمْ وَ جَعَلَ لَكُمُ السَّمْعَ وَالْاَبْصَـٰرَ وَالْاَفْـِٔدَةَ ۖ قَلِيلًا مَّا تَشْكُرُونَ",
     "urdu_text": "کهه دو: وهی الله هے جس نے تمهیں پیدا کیا اور تمهارے لیے کان، آنکھیں اور دل بنائے، مگر تم بهت کم شکر ادا کرتے هو۔",
     "persian_text": "بگو: او خداوندی است که شما را آفرید و برای شما گوش‌ها و چشم‌ها و دل‌ها قرار داد، اما شما بسیار کم سپاسگزاری می‌کنید.",
     "transliteration": "Qul huwal-ladhee ansha'akum wa ja'ala lakumus-sam'a wal-absaara wal-af'idah, qaleelan maa tashkuroon"
@@ -225,7 +225,7 @@ ayats = [
   {
     "verse_number": 28,
     "english_text": "Say: Do you think Allah will destroy me and my companions or have Mercy on us; then who is there to protect these infidels from the painful punishment.",
-    "arabic_text": "قُلْ اَرَءَيْتُمْ اِنْ اَهْلَكَنِىَ اللّٰهُ وَمَن مَّعِىَ اَوْ رَحِمَنَا فَمَن يُجِيرُ الْكَـٰفِرِينَ مِنْ عَذَابٍ اَلِيمٍۢ",
+    "arabic_text": "قُلْ اَرَءَيْتُمْ اِنْ اَهْلَكَنِىَ اللّٰهُ وَ مَن مَّعِىَ اَوْ رَحِمَنَا فَمَن يُجِيرُ الْكَـٰفِرِينَ مِنْ عَذَابٍ اَلِيمٍۢ",
     "urdu_text": "کهه دو: بھلا بتاؤ اگر الله مجھے اور میرے ساتھیوں کو هلاک کر دے یا هم پر رحم فرمائے، تو کون هے جو کافروں کو دردناک عذاب سے بچا سکے؟",
     "persian_text": "بگو: به من بگویید اگر خداوند مرا و کسانی را که با من هستند هلاک کند یا بر ما رحم کند، پس چه کسی کافران را از عذاب دردناک نجات خواهد داد؟",
     "transliteration": "Qul ara'aytum in ahlakaniyallaahu wa man ma'iya aw rahimanaa faman yujeerul-kaafireena min 'adhaabin aleem"

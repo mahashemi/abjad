@@ -241,7 +241,7 @@ ayats = [
   {
     "verse_number": 30,
     "english_text": "Then they started reproaching each other.",
-    "arabic_text": "فَاَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍۢ يَتَلَـٰوَمُونَ",
+    "arabic_text": "فَاَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍ يَتَلَـٰوَمُونَ",
     "urdu_text": "پھر وہ ایک دوسرے کی طرف متوجہ ہوئے اور ایک دوسرے کو ملامت کرنے لگے۔",
     "persian_text": "پس به یکدیگر روی آوردند و یکدیگر را سرزنش کردند.",
     "transliteration": "Fa'aqbala ba'ḍuhum 'alā ba'ḍin yatalāwamūn"
@@ -257,7 +257,7 @@ ayats = [
   {
     "verse_number": 32,
     "english_text": "Perhaps, our Lord may give us better than this; we are allured towards Him.",
-    "arabic_text": "عَسَىٰ رَبُّنَآ اَن يُبْدِلَنَا خَيْرًا مِّنْهَآ اِنَّآ اِلـٰى رَبِّنَا رَٰغِبُونَ",
+    "arabic_text": "عَسَىٰ رَبُّنَآ اَن يُبْدِلَنَا خَيْرًا مِّنْهَآ اِنَّآ اِلـٰى رَبِّنَا رٰغِبُونَ",
     "urdu_text": "امید ہے کہ ہمارا رب ہمیں اس سے بہتر عطا فرمائے، بیشک ہم اپنے رب کی طرف رغبت رکھنے والے ہیں۔",
     "persian_text": "امید است که پروردگار ما بهتر از این را به ما عطا کند، ما به سوی پروردگارمان رغبت داریم.",
     "transliteration": "Asaa Rabbunaa any yubdilanaa khayram minhaa innaa ilaa Rabbinaa raaghiboon"
@@ -353,7 +353,7 @@ ayats = [
   {
     "verse_number": 44,
     "english_text": "So now leave Me and the deniers of this talk alone, soon We will arrest them in such a way that they won't be able to perceive.",
-    "arabic_text": "فَذَرْنِى وَمَن يُكَذِّبُ بِهَـٰذَا الْحَدِيثِ ۖ سَنَسْتَدْرِجُهُم مِّنْ حَيْثُ لَا يَعْلَمُونَ",
+    "arabic_text": "فَذَرْنِى وَ مَن يُكَذِّبُ بِهَـٰذَا الْحَدِيثِ ۖ سَنَسْتَدْرِجُهُم مِّنْ حَيْثُ لَا يَعْلَمُونَ",
     "urdu_text": "پس مجھے اور اس بات کو جھٹلانے والوں کو چھوڑ دو، ہم عنقریب انہیں ایسے طریقے سے پکڑیں گے کہ انہیں خبر بھی نہیں ہوگی۔",
     "persian_text": "پس مرا با کسانی که این سخن را تکذیب می‌کنند واگذار، به زودی آنها را از جایی که نمی‌دانند، گام به گام به سوی هلاکت خواهیم کشید.",
     "transliteration": "Fadharnee wa man yukadhhibu bihaadhal hadeeth, sanastadrijuhum min haythu laa ya'lamoon"
