@@ -65,10 +65,13 @@ REMOVE_CHARS = [
     'ء',
 
     # HTML Break 
-    '<br/>'
+    '<br/>',
 
     # Whitespace and control characters
-    ' ', '\n', '\t', '\r', '\u200c', '\u200d', '\u202c'
+    ' ', '\n', '\t', '\r', '\u200c', '\u200d', '\u202c',
+
+    # 
+    'ـ'
 ]
 
 BREAK_CHARS = [
