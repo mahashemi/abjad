@@ -425,7 +425,7 @@ ayats = [
   {
     "verse_number": 53,
     "english_text": "Path of Allah in whose authority is all things of the earth and the sky, and Verily like this all affairs will return (to Him).",
-    "arabic_text": "صِرٰطِ اللّٰهِ الَّذِى لَهُ مَا فِى السَّمَـٰوٰتِ وَ مَا فِى الْاَرْضِ ۗ اَلَآ اِلَى اللّٰهِ تَصِيرُ الْاُمُورُ",
+    "arabic_text": "صِرَاطِ اللّٰهِ الَّذِى لَهُ مَا فِى السَّمَـٰوٰتِ وَ مَا فِى الْاَرْضِ ۗ اَلَآ اِلَى اللّٰهِ تَصِيرُ الْاُمُورُ",
     "urdu_text": "الله کا راسته جس کے لیے هے جو کچھ آسمانوں میں هے اور جو کچھ زمین میں هے، خبردار! الله هی کی طرف تمام معاملات لوٹتے هیں۔",
     "persian_text": "راه خداوندی که آنچه در آسمان‌ها و آنچه در زمین است از آن اوست، آگاه باشید که همه کارها به سوی خداوند بازمی‌گردد.",
     "transliteration": "Ṣirāṭillāhil-ladhī lahu mā fis-samāwāti wa mā fil-arḍ, alā ilallāhi taṣīrul-umūr"

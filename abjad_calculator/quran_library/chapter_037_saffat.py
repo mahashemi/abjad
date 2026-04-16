@@ -185,7 +185,7 @@ ayats = [
   {
     "verse_number": 23,
     "english_text": "And to all their gods and (also) to them, show the way to Hell.",
-    "arabic_text": "مِن دُونِ اللّٰهِ فَاهْدُوهُمْ اِلـٰى صِرٰطِ الْجَحِيمِ",
+    "arabic_text": "مِن دُونِ اللّٰهِ فَاهْدُوهُمْ اِلـٰى صِرَاطِ الْجَحِيمِ",
     "urdu_text": "الله کے سوا، پھر ان سب کو جهنم کے راستے کی طرف لے جاؤ۔",
     "persian_text": "غیر از خدا، پس آنها را به راه جهنم هدایت کنید.",
     "transliteration": "Min dūnillāhi fahdūhum ilā ṣirāṭil-jaḥīm"

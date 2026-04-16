@@ -193,7 +193,7 @@ ayats = [
   {
     "verse_number": 24,
     "english_text": "(This is because) in the world they were guided towards good words (Monotheism) and they were shown the correct way to praise (Allah).",
-    "arabic_text": "وَهُدُوٓاْ اِلَى الطَّيِّبِ مِنَ الْقَوْلِ وَهُدُوٓاْ اِلـٰى صِرٰطِ الْحَمِيدِ",
+    "arabic_text": "وَهُدُوٓاْ اِلَى الطَّيِّبِ مِنَ الْقَوْلِ وَهُدُوٓاْ اِلـٰى صِرَاطِ الْحَمِيدِ",
     "urdu_text": "اور انهیں پاکیزه بات کی طرف هدایت دی گئی اور انهیں قابل تعریف (الله) کے راستے کی طرف رهنمائی دی گئی۔",
     "persian_text": "و آنان به سوی سخن پاکیزه هدایت شدند و به راه ستوده‌شده راهنمایی یافتند.",
     "transliteration": "Wa hudū ilat-ṭayyibi minal-qawli wa hudū ilā ṣirāṭil-ḥamīd"

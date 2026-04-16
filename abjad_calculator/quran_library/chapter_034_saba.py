@@ -49,7 +49,7 @@ ayats = [
   {
     "verse_number": 6,
     "english_text": "And whoever is given the knowledge they know that whatever is revealed on you is absolutely truth, and guide towards Allah, who is Predominant and worthy of Praise.",
-    "arabic_text": "وَيَرَى الَّذِينَ اُوتُواْ الْعِلْمَ الَّذِىٓ اُنزِلَ اِلَيْكَ مِن رَّبِّكَ هُوَ الْحَقَّ وَيَهْدِىٓ اِلـٰى صِرٰطِ الْعَزِيزِ الْحَمِيدِ",
+    "arabic_text": "وَيَرَى الَّذِينَ اُوتُواْ الْعِلْمَ الَّذِىٓ اُنزِلَ اِلَيْكَ مِن رَّبِّكَ هُوَ الْحَقَّ وَيَهْدِىٓ اِلـٰى صِرَاطِ الْعَزِيزِ الْحَمِيدِ",
     "urdu_text": "اور جن لوگوں کو علم دیا گیا هے وه دیکھتے هیں که جو کچھ آپ پر آپ کے رب کی طرف سے نازل کیا گیا هے وه حق هے، اور غالب اور قابل تعریف الله کی راه کی طرف رهنمائی کرتا هے۔",
     "persian_text": "و کسانی که به آنان علم داده شده می‌بینند که آنچه از جانب پروردگارت بر تو نازل شده حق است و به راه خداوند عزیز و ستوده راهنمایی می‌کند.",
     "transliteration": "Wa yaral-lazina utul-'ilmal-lazi unzila ilayka mir-rabbika huwal-haqqa wa yahdi ila sirатil-'azizil-hamid"
