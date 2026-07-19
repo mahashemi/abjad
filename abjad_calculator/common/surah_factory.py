@@ -232,7 +232,7 @@ surah_nasr_title = "سورة النصر - سورة 110 - عدد آياتها 3".
 surah_masad_title = "سورة المسد - سورة 111 - عدد آياتها 5".strip()
 surah_ikhltitle = "سورة الإخلاص - سورة 112 - عدد آياتها 4".strip()
 surah_falaq_title = "سورة الفلق - سورة 113 - عدد آياتها 5".strip()
-surah_ntitle = "سورة الناس - سورة 114 - عدد آياتها 6".strip()
+surah_nas_title = "سورة الناس - سورة 114 - عدد آياتها 6".strip()
 
 
 surahs = {
@@ -349,5 +349,9 @@ surahs = {
     surah_masad_title: chapter_111_masad.ayats,
     surah_ikhltitle: chapter_112_ikhlas.ayats,
     surah_falaq_title: chapter_113_falaq.ayats,
-    surah_ntitle: chapter_114_nas.ayats,
+    surah_nas_title: chapter_114_nas.ayats,
 }
+
+import json
+with open('all_suras.json', 'w', encoding='utf-8') as f:
+    json.dump(surahs, f, indent=4, ensure_ascii=False)

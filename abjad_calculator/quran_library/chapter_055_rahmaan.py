@@ -160,6 +160,14 @@ ayats = [
     "transliteration": "Baynahuma barzakhul la yabghiyan",
   },
   {
+    "verse_number": 21,
+    "english_text": "Then which of the favors of your Lord both of you will deny?",
+    "arabic_text": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "urdu_text": "پھر تم دونوں اپنے رب کی کن کن نعمتوں کو جھٹلاؤ گے؟",
+    "persian_text": "پس کدام یک از نعمت‌های پروردگارتان را تکذیب می‌کنید؟",
+    "transliteration": "Fabi-ayyi ala-i rabbikuma tukadhdhiban",
+  },
+  {
     "verse_number": 22,
     "english_text": "Pearls and corals come out of these seas.",
     "arabic_text": "يَخْرُجُ مِنْهُمَا اللُّؤْلُؤُ وَالْمَرْجَانُ",
