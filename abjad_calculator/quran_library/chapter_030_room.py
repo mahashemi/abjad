@@ -33,7 +33,7 @@ ayats = [
   {
     "verse_number": 4,
     "english_text": "Within a few years, only Allah has the authority over the beginning and the end, and on that day believers shall rejoice.",
-    "arabic_text": "فِى بِضْعِ سِنِينَ ۗ لِلَّهِ الْاَمْرُ مِن قَبْلُ وَمِنۢ بَعْدُ ۚ وَ يَوْمَئِذٍۢ يَفْرَحُ الْمُؤْمِنُونَ",
+    "arabic_text": "فِى بِضْعِ سِنِينَ ۗ لِلّٰهِ الْاَمْرُ مِن قَبْلُ وَمِنۢ بَعْدُ ۚ وَ يَوْمَئِذٍۢ يَفْرَحُ الْمُؤْمِنُونَ",
     "urdu_text": "چند سالوں میں، تمام اختیار الله هی کا هے پهلے بھی اور بعد میں بھی، اور اس دن مومن خوش هوں گے",
     "persian_text": "در چند سال، فرمان از آن خداست پیش و پس، و در آن روز مؤمنان شادمان خواهند شد",
     "transliteration": "Fee bid'i sineen, lillahil-amru min qablu wa mim ba'd, wa yawma'iziny-yafrahul-mu'minoon"

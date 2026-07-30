@@ -145,7 +145,7 @@ ayats = [
   {
     "verse_number": 18,
     "english_text": "And the mosques are for Allah, therefore do not worship anyone other than Him.",
-    "arabic_text": "وَاَنَّ الْمَسَـٰجِدَ لِلَّهِ فَلَا تَدْعُواْ مَعَ اللّٰهِ اَحَدًۭا",
+    "arabic_text": "وَاَنَّ الْمَسَـٰجِدَ لِلّٰهِ فَلَا تَدْعُواْ مَعَ اللّٰهِ اَحَدًۭا",
     "urdu_text": "اور مسجدیں الله کے لیے هیں، پس الله کے ساتھ کسی اور کو نه پکارو۔",
     "persian_text": "و مساجد از آن خداست، پس با خدا کسی دیگر را نخوانید.",
     "transliteration": "Wa anna al-masajida lillahi fala tad'u ma'a Allahi ahada"

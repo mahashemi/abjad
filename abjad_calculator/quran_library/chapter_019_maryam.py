@@ -281,7 +281,7 @@ ayats = [
   {
     "verse_number": 35,
     "english_text": "It is not befitting for Allah to make anybody His son, He is pure and purest, and when He decides to do something, he just says: Be, and it becomes.",
-    "arabic_text": "مَا كَانَ لِلَّهِ اَن يَتَّخِذَ مِن وَلَدٍۢ ۖ سُبْحَـٰنَهُٓ ۚ اِذَا قَضَىٰٓ اَمْرًا فَاِنَّمَا يَقُولُ لَهُ كُن فَيَكُونُ",
+    "arabic_text": "مَا كَانَ لِلّٰهِ اَن يَتَّخِذَ مِن وَلَدٍۢ ۖ سُبْحَـٰنَهُٓ ۚ اِذَا قَضَىٰٓ اَمْرًا فَاِنَّمَا يَقُولُ لَهُ كُن فَيَكُونُ",
     "urdu_text": "الله کے لیے یه مناسب نهیں که وه کسی کو اپنا بیٹا بنائے، وه پاک هے، جب وه کسی کام کا فیصله کرتا هے تو بس اسے کهتا هے که هو جا، تو وه هو جاتا هے۔",
     "persian_text": "شایسته خدا نیست که فرزندی برگزیند، منزه است او، هنگامی که کاری را اراده کند فقط می‌گوید باش پس می‌شود.",
     "transliteration": "Mā kāna lillāhi an yattakhidha min waladin subḥānahu idhā qaḍā amran fa-innamā yaqūlu lahu kun fa-yakūn"

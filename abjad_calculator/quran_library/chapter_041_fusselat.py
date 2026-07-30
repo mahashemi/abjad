@@ -297,7 +297,7 @@ ayats = [
   {
     "verse_number": 37,
     "english_text": "And these signs of Allah are night and day, sun and the moon, therefore do not prostrate before sun and the Moon but prostrate before Allah who have created all this, if you are really worshipping Him.",
-    "arabic_text": "وَ مِنْ اٰيٰتِهِ الَّيْلُ وَالنَّهَارُ وَالشَّمْسُ وَالْقَمَرُ ۚ لَا تَسْجُدُواْ لِلشَّمْسِ وَ لَا لِلْقَمَرِ وَاسْجُدُواْ لِلَّهِ الَّذِى خَلَقَهُنَّ اِن كُنتُمْ اِيَّاهُ تَعْبُدُونَ",
+    "arabic_text": "وَ مِنْ اٰيٰتِهِ الَّيْلُ وَالنَّهَارُ وَالشَّمْسُ وَالْقَمَرُ ۚ لَا تَسْجُدُواْ لِلشَّمْسِ وَ لَا لِلْقَمَرِ وَاسْجُدُواْ لِلّٰهِ الَّذِى خَلَقَهُنَّ اِن كُنتُمْ اِيَّاهُ تَعْبُدُونَ",
     "urdu_text": "اور اس کی نشانیوں میں سے رات اور دن، سورج اور چاند هیں، پس سورج اور چاند کو سجده نه کرو بلکه الله کو سجده کرو جس نے ان سب کو پیدا کیا هے، اگر تم واقعی اسی کی عبادت کرتے هو۔",
     "persian_text": "و از نشانه‌های او شب و روز و خورشید و ماه است، پس برای خورشید و ماه سجده نکنید، بلکه برای خدایی سجده کنید که آنها را آفریده است، اگر واقعاً او را عبادت می‌کنید.",
     "transliteration": "Wa min aayaatihil-laylu wan-nahaaru wash-shamsu wal-qamar laa tasjudoo lish-shamsi wa laa lil-qamari wasjudoo lillaahil-lazee khalaqahunna in kuntum iyyaahu ta'budoon"

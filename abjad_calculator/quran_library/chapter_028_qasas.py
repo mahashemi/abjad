@@ -601,7 +601,7 @@ ayats = [
   {
     "verse_number": 75,
     "english_text": "And We will bring out a witness from every nation, and will say to the deniers that you also bring your arguments, and when they will know that truth is for Allah, then those who were forging will all vanish away.",
-    "arabic_text": "وَنَزَعْنَا مِن كُلِّ اُمَّةٍۢ شَهِيدًۭا فَقُلْنَا هَاتُواْ بُرْهَـٰنَكُمْ فَعَلِمُوٓاْ اَنَّ الْحَقَّ لِلَّهِ وَضَلَّ عَنْهُم مَّا كَانُواْ يَفْتَرُونَ",
+    "arabic_text": "وَنَزَعْنَا مِن كُلِّ اُمَّةٍۢ شَهِيدًۭا فَقُلْنَا هَاتُواْ بُرْهَـٰنَكُمْ فَعَلِمُوٓاْ اَنَّ الْحَقَّ لِلّٰهِ وَضَلَّ عَنْهُم مَّا كَانُواْ يَفْتَرُونَ",
     "urdu_text": "اور ہم ہر امت میں سے ایک گواہ نکالیں گے پھر کہیں گے کہ اپنی دلیل لاؤ، تب انہیں معلوم ہو جائے گا کہ حق اللہ ہی کے لیے ہے اور جو کچھ وہ گھڑتے تھے وہ سب ان سے گم ہو جائے گا۔",
     "persian_text": "و از هر امتی گواهی بیرون آوریم و بگوییم: دلیل خود را بیاورید، پس بدانند که حق از آن خداست و آنچه می‌بستند از آنان گم شود.",
     "transliteration": "Wa naza'naa min kulli ummatin shaheedan fa qulnaa haatoo burhaanakum fa'alimooo annal haqqa lillaahi wa dalla 'anhum maa kaanoo yaftaroon"

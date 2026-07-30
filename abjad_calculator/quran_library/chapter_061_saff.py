@@ -9,7 +9,7 @@ ayats = [
   {
     "verse_number": 1,
     "english_text": "Every particle which is on the earth and in the skies is busy glorifying Allah, and He is Honorable and Wise.",
-    "arabic_text": "سَبَّحَ لِلَّهِ مَا فِى السَّمَـٰوٰتِ وَ مَا فِى الْاَرْضِ ۖ وَ هُوَ الْعَزِيزُ الْحَكِيمُ",
+    "arabic_text": "سَبَّحَ لِلّٰهِ مَا فِى السَّمَـٰوٰتِ وَ مَا فِى الْاَرْضِ ۖ وَ هُوَ الْعَزِيزُ الْحَكِيمُ",
     "urdu_text": "آسمانوں اور زمین میں جو کچھ هے سب الله کی تسبیح کرتا هے، اور وه غالب اور حکمت والا هے۔",
     "persian_text": "هر آنچه در آسمان‌ها و زمین است، خدا را تسبیح می‌گوید، و او عزیز و حکیم است.",
     "transliteration": "Sabbaha lillahi ma fis-samawati wa ma fil-ard, wa huwal-'Azizul-Hakim"

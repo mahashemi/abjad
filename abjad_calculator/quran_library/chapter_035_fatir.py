@@ -9,7 +9,7 @@ ayats = [
   {
     "verse_number": 1,
     "english_text": "All the Praises are for Allah, the creator of the skies and the earth, who makes angels his messengers, the angels who have two-two, three-three, and four-four wings, and increases the creation as much He pleases; indeed, He has power over everything.",
-    "arabic_text": "الْحَمْدُ لِلَّهِ فَاطِرِ السَّمَـٰوٰتِ وَ الْاَرْضِ جَاعِلِ الْمَلٓـٰئِكَةِ رُسُلًا اُوْلِىٓ اَجْنِحَةٍۢ مَّثْنَىٰ وَثُلَـٰثَ وَرُبَـٰعَ ۚ يَزِيدُ فِى الْخَلْقِ مَا يَشَآءُ ۚ اِنَّ اللّٰهَ عَلَىٰ كُلِّ شَىْءٍۢ قَدِيرٌۭ",
+    "arabic_text": "الْحَمْدُ لِلّٰهِ فَاطِرِ السَّمَـٰوٰتِ وَ الْاَرْضِ جَاعِلِ الْمَلٓـٰئِكَةِ رُسُلًا اُوْلِىٓ اَجْنِحَةٍۢ مَّثْنَىٰ وَثُلَـٰثَ وَرُبَـٰعَ ۚ يَزِيدُ فِى الْخَلْقِ مَا يَشَآءُ ۚ اِنَّ اللّٰهَ عَلَىٰ كُلِّ شَىْءٍۢ قَدِيرٌۭ",
     "urdu_text": "تمام تعریفیں اللہ ہی کے لیے ہیں جو آسمانوں اور زمین کا پیدا کرنے والا ہے، جس نے فرشتوں کو پیغام رساں بنایا جن کے دو دو، تین تین اور چار چار پر ہیں، وہ مخلوق میں جو چاہے اضافہ فرماتا ہے، بیشک اللہ ہر چیز پر قادر ہے۔",
     "persian_text": "ستایش مخصوص خداوندی است که آفریننده آسمان‌ها و زمین است، و فرشتگان را فرستادگان قرار داده که دارای دو دو، سه سه و چهار چهار بال هستند، او در آفرینش هر چه بخواهد می‌افزاید، همانا خداوند بر هر چیزی تواناست.",
     "transliteration": "Alhamdu lillahi fatiri alssamawati waal-ardi ja'ili almala-ikati rusulan olee ajnihatin mathna wathulatha waruba'a yazeedu fee alkhalqi ma yasha-u inna Allaha 'ala kulli shay-in qadeer"
@@ -81,7 +81,7 @@ ayats = [
   {
     "verse_number": 10,
     "english_text": "Whoever is desirous of honor, should understand that all Honor belongs to the Lord, pure words rise towards Him; and good deeds lift them up, there is severe punishment for those who strive for evil; and their planning is after all going to perish.",
-    "arabic_text": "مَن كَانَ يُرِيدُ الْعِزَّةَ فَلِلَّهِ الْعِزَّةُ جَمِيعًا ۚ اِلَيْهِ يَصْعَدُ الْكَلِمُ الطَّيِّبُ وَالْعَمَلُ الصَّـٰلِحُ يَرْفَعُهُ ۚ وَ الَّذِينَ يَمْكُرُونَ السَّيِّـَٔاتِ لَهُمْ عَذَابٌۭ شَدِيدٌۭ ۖ وَمَكْرُ اُوْلٓـٰئِكَ هُوَ يَبُورُ",
+    "arabic_text": "مَن كَانَ يُرِيدُ الْعِزَّةَ فَلِلّٰهِ الْعِزَّةُ جَمِيعًا ۚ اِلَيْهِ يَصْعَدُ الْكَلِمُ الطَّيِّبُ وَالْعَمَلُ الصَّـٰلِحُ يَرْفَعُهُ ۚ وَ الَّذِينَ يَمْكُرُونَ السَّيِّـَٔاتِ لَهُمْ عَذَابٌۭ شَدِيدٌۭ ۖ وَمَكْرُ اُوْلٓـٰئِكَ هُوَ يَبُورُ",
     "urdu_text": "جو شخص عزت چاہتا ہے تو سمجھ لے کہ تمام عزت اللہ ہی کے لیے ہے، پاکیزہ کلمات اسی کی طرف چڑھتے ہیں اور نیک عمل انہیں بلند کرتا ہے، اور جو لوگ برائیوں کی تدبیریں کرتے ہیں ان کے لیے سخت عذاب ہے، اور ان کی تدبیر بالآخر ناکام ہو جائے گی۔",
     "persian_text": "هر که خواهان عزت است، پس همه عزت از آن خداست، سخن پاک به سوی او بالا می‌رود و عمل شایسته آن را بالا می‌برد، و کسانی که نقشه‌های بد می‌کشند، برای آنان عذابی سخت است، و نقشه آنان نابود خواهد شد.",
     "transliteration": "Man kana yureedu al'izzata falillahi al'izzatu jamee'an ilayhi yas'adu alkalimu alttayyibu waal'amalu alssalihu yarfa'uhu waallatheena yamkuroona alssayyi-ati lahum 'athabun shadeedun wamakru ola-ika huwa yaboor"
@@ -273,7 +273,7 @@ ayats = [
   {
     "verse_number": 34,
     "english_text": "And they will say: thank Allah, He took us away from sadness, Verily, Allah is very Forgiving and Appreciator.",
-    "arabic_text": "وَ قَالُوْاْ الْحَمْدُ لِلَّهِ الَّذِىٓ اَذْهَبَ عَنَّا الْحَزَنَ ۖ اِنَّ رَبَّنَا لَغَفُورٌۭ شَكُورٌ",
+    "arabic_text": "وَ قَالُوْاْ الْحَمْدُ لِلّٰهِ الَّذِىٓ اَذْهَبَ عَنَّا الْحَزَنَ ۖ اِنَّ رَبَّنَا لَغَفُورٌۭ شَكُورٌ",
     "urdu_text": "اور وہ کہیں گے: تمام تعریفیں اللہ کے لیے ہیں جس نے ہم سے غم دور کر دیا، بیشک ہمارا رب بڑا بخشنے والا اور قدر دان ہے۔",
     "persian_text": "و می‌گویند: ستایش الله را که اندوه را از ما دور کرد، همانا پروردگار ما بسیار آمرزنده و قدردان است.",
     "transliteration": "Wa qalul hamdu lillahil lazee azhaba 'annal hazan, inna rabbana laghafoorun shakoor"

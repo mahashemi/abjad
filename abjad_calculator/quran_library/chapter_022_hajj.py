@@ -249,7 +249,7 @@ ayats = [
   {
     "verse_number": 31,
     "english_text": "Be purely for Allah, and do not make anyone His partner, whoever made (anyone) His partner (as if) he has fallen from the sky, and a bird of prey snatches him (in between) or strong wind throws him far away.",
-    "arabic_text": "حُنَفَآءَ لِلَّهِ غَيْرَ مُشْرِكِينَ بِهِ ۚ وَ مَن يُشْرِكْ بِاللّٰهِ فَكَاَنَّمَا خَرَّ مِنَ السَّمَآءِ فَتَخْطَفُهُ الطَّيْرُ اَوْ تَهْوِى بِهِ الرِّيحُ فِى مَكَانٍۢ سَحِيقٍۢ",
+    "arabic_text": "حُنَفَآءَ لِلّٰهِ غَيْرَ مُشْرِكِينَ بِهِ ۚ وَ مَن يُشْرِكْ بِاللّٰهِ فَكَاَنَّمَا خَرَّ مِنَ السَّمَآءِ فَتَخْطَفُهُ الطَّيْرُ اَوْ تَهْوِى بِهِ الرِّيحُ فِى مَكَانٍۢ سَحِيقٍۢ",
     "urdu_text": "الله کے لیے خالص هو جاؤ اور اس کے ساتھ کسی کو شریک نه ٹھهراؤ، اور جو شخص الله کے ساتھ شریک کرتا هے تو گویا وه آسمان سے گر پڑا، پھر پرندے اسے اچک لے گئے یا تیز هوا اسے کسی دور دراز جگه پر پھینک دے۔",
     "persian_text": "برای خدا یکتاپرست باشید و هیچ‌کس را شریک او قرار ندهید، و هر کس برای خدا شریکی قرار دهد، گویی از آسمان افتاده است و پرنده‌ای او را ربوده یا باد شدیدی او را به جای دوری پرتاب کرده است.",
     "transliteration": "Hunafaa'a lillaahi ghayra mushrikeena bih, wa man yushrik billaahi fa ka annamaa kharra minas samaaa'i fatakhtafuhut tayru aw tahwee bihir reehu fee makaanin saheeq"
@@ -329,7 +329,7 @@ ayats = [
   {
     "verse_number": 41,
     "english_text": "And these are the people whom We gave power on earth that they established prayer and gave poor-rate, and enjoin good, and prohibit evil, and this is sure that Allah has the power to do everything.",
-    "arabic_text": "الَّذِينَ اِن مَّكَّنَّـٰهُمْ فِى الْاَرْضِ اَقَامُواْ الصَّلَوٰةَ وَءَاتَوُاْ الزَّكَوٰةَ وَاَمَرُواْ بِالْمَعْرُوفِ وَنَهَوْاْ عَنِ الْمُنكَرِ ۗ وَلِلَّهِ عَـٰقِبَةُ الْاُمُورِ",
+    "arabic_text": "الَّذِينَ اِن مَّكَّنَّـٰهُمْ فِى الْاَرْضِ اَقَامُواْ الصَّلَوٰةَ وَءَاتَوُاْ الزَّكَوٰةَ وَاَمَرُواْ بِالْمَعْرُوفِ وَنَهَوْاْ عَنِ الْمُنكَرِ ۗ وَلِلّٰهِ عَـٰقِبَةُ الْاُمُورِ",
     "urdu_text": "یه وه لوگ هیں که اگر هم انهیں زمین میں اقتدار دیں تو وه نماز قائم کریں اور زکوٰۃ ادا کریں اور نیکی کا حکم دیں اور برائی سے روکیں، اور تمام معاملات کا انجام الله کے اختیار میں هے۔",
     "persian_text": "آنان کسانی هستند که اگر ما به آنها قدرت در زمین بدهیم، نماز برپا می‌دارند و زکات می‌پردازند و به نیکی فرمان می‌دهند و از بدی باز می‌دارند، و فرجام همه کارها از آنِ خداست.",
     "transliteration": "Allazeena im-makkannaahum fil-ardi aqaamus-salaata wa aatawuz-zakaata wa amaroo bil-ma'roofi wa nahaw 'anil-munkar, wa lillaahi 'aaqibatul-umoor"

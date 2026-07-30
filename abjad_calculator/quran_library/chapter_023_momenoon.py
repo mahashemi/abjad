@@ -225,7 +225,7 @@ ayats = [
   {
     "verse_number": 28,
     "english_text": "After this, when you board the Ark with your companions and be comfortably seated then say: thanks to the Lord who delivered us from the unjust people.",
-    "arabic_text": "فَاِذَا اسْتَوَيْتَ اَنتَ وَ مَن مَّعَكَ عَلَى الْفُلْكِ فَقُلِ الْحَمْدُ لِلَّهِ الَّذِى نَجَّىٰنَا مِنَ الْقَوْمِ الظَّـٰلِمِينَ",
+    "arabic_text": "فَاِذَا اسْتَوَيْتَ اَنتَ وَ مَن مَّعَكَ عَلَى الْفُلْكِ فَقُلِ الْحَمْدُ لِلّٰهِ الَّذِى نَجَّىٰنَا مِنَ الْقَوْمِ الظَّـٰلِمِينَ",
     "urdu_text": "پھر جب تم اور تمهارے ساتھی کشتی پر سوار هو کر ٹھیک سے بیٹھ جاؤ تو کهو: تمام تعریفیں الله کے لیے هیں جس نے همیں ظالم قوم سے نجات دی۔",
     "persian_text": "پس چون تو و کسانی که با تو هستند بر کشتی مستقر شدید، بگو: ستایش الله را که ما را از قوم ستمکار نجات داد.",
     "transliteration": "Fa-idhastavayta anta wa man ma'aka 'alal-fulki faqulil-hamdu lillaahil-ladhee najjaanaa minal-qawmizh-zhaalimeen"
@@ -681,7 +681,7 @@ ayats = [
   {
     "verse_number": 85,
     "english_text": "They will immediately say: Allah's, then say: then why do you not understand?",
-    "arabic_text": "سَيَقُولُونَ لِلَّهِ ۚ قُلْ اَفَلَا تَذَكَّرُونَ",
+    "arabic_text": "سَيَقُولُونَ لِلّٰهِ ۚ قُلْ اَفَلَا تَذَكَّرُونَ",
     "urdu_text": "وه فوراً کهیں گے: الله کا، تو کهو: پھر تم سمجھتے کیوں نهیں؟",
     "persian_text": "خواهند گفت: از آن الله است، بگو: پس چرا متذکر نمی‌شوید؟",
     "transliteration": "Sayaqooloona lillaah, qul afalaa tazakkaroon"
@@ -697,7 +697,7 @@ ayats = [
   {
     "verse_number": 87,
     "english_text": "They will again say: Allah, say: then why do you not fear (Him)?",
-    "arabic_text": "سَيَقُولُونَ لِلَّهِ ۚ قُلْ اَفَلَا تَتَّقُونَ",
+    "arabic_text": "سَيَقُولُونَ لِلّٰهِ ۚ قُلْ اَفَلَا تَتَّقُونَ",
     "urdu_text": "وه پھر کهیں گے: الله، تو کهو: پھر تم ڈرتے کیوں نهیں؟",
     "persian_text": "خواهند گفت: از آن الله است، بگو: پس چرا تقوا پیشه نمی‌کنید؟",
     "transliteration": "Sayaqooloona lillaah, qul afalaa tattaqoon"
@@ -713,7 +713,7 @@ ayats = [
   {
     "verse_number": 89,
     "english_text": "So they will immediately reply: this is all for Allah, then say: then who is doing the magic on you (who is deceiving you).",
-    "arabic_text": "سَيَقُولُونَ لِلَّهِ ۚ قُلْ فَاَنَّىٰ تُسْحَرُونَ",
+    "arabic_text": "سَيَقُولُونَ لِلّٰهِ ۚ قُلْ فَاَنَّىٰ تُسْحَرُونَ",
     "urdu_text": "تو وه فوراً کهیں گے: الله کے لیے، تو کهو: پھر تم پر کیسے جادو کیا جا رها هے؟",
     "persian_text": "خواهند گفت: از آن الله است، بگو: پس چگونه مسحور می‌شوید؟",
     "transliteration": "Sayaqooloona lillaah, qul fa-annaa tusharoon"

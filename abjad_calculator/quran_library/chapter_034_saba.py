@@ -9,7 +9,7 @@ ayats = [
   {
     "verse_number": 1,
     "english_text": "All the Praises are for Allah who is controlling everything of sky and the earth, for Him is the Praise in the Hereafter, and He has Wisdom, and Cognizant of everything.",
-    "arabic_text": "الْحَمْدُ لِلَّهِ الَّذِى لَهُ مَا فِى السَّمَـٰوٰتِ وَ مَا فِى الْاَرْضِ وَلَهُ الْحَمْدُ فِى الْاخِرَةِ ۚ وَ هُوَ الْحَكِيمُ الْخَبِيرُ",
+    "arabic_text": "الْحَمْدُ لِلّٰهِ الَّذِى لَهُ مَا فِى السَّمَـٰوٰتِ وَ مَا فِى الْاَرْضِ وَلَهُ الْحَمْدُ فِى الْاخِرَةِ ۚ وَ هُوَ الْحَكِيمُ الْخَبِيرُ",
     "urdu_text": "تمام تعریفیں الله کے لیے هیں جو آسمانوں اور زمین میں جو کچھ هے اس کا مالک هے، اور آخرت میں بھی اسی کے لیے حمد هے، اور وه حکمت والا اور هر چیز سے باخبر هے۔",
     "persian_text": "ستایش مخصوص خداوندی است که آنچه در آسمان‌ها و زمین است از آن اوست، و در آخرت نیز حمد از آن اوست، و او حکیم و آگاه است.",
     "transliteration": "Alhamdu lillahil-lazi lahu ma fis-samawati wa ma fil-ardi wa lahul-hamdu fil-akhirati wa huwal-hakimul-khabir"
@@ -369,7 +369,7 @@ ayats = [
   {
     "verse_number": 46,
     "english_text": "O Prophet, say: I admonish you only for one thing that rises in groups of ones and twos then ponder that your companion does not have any madness, he is only a warner about oncoming of the severest punishment.",
-    "arabic_text": "  قُلْ اِنَّمَآ اَعِظُكُم بِوَاحِدَةٍ ۖ اَن تَقُومُواْ لِلَّهِ مَثْنَىٰ وَفُرٰدَىٰ ثُمَّ تَتَفَكَّرُواْ ۚ مَا بِصَاحِبِكُم مِّن جِنَّةٍ ۚ اِنْ هُوَ اِلَّا نَذِيرٌۭ لَّكُم بَيْنَ يَدَىْ عَذَابٍۢ شَدِيدٍۢ",
+    "arabic_text": "  قُلْ اِنَّمَآ اَعِظُكُم بِوَاحِدَةٍ ۖ اَن تَقُومُواْ لِلّٰهِ مَثْنَىٰ وَفُرٰدَىٰ ثُمَّ تَتَفَكَّرُواْ ۚ مَا بِصَاحِبِكُم مِّن جِنَّةٍ ۚ اِنْ هُوَ اِلَّا نَذِيرٌۭ لَّكُم بَيْنَ يَدَىْ عَذَابٍۢ شَدِيدٍۢ",
     "urdu_text": "اے نبی، کهه دیجیے: میں تمهیں صرف ایک بات کی نصیحت کرتا هوں که الله کے لیے دو دو اور اکیلے اکیلے کھڑے هو جاؤ، پھر غور کرو که تمهارے ساتھی میں کوئی جنون نهیں، وه تو صرف تمهیں سخت عذاب سے پهلے ڈرانے والا هے۔",
     "persian_text": "بگو: من شما را فقط به یک چیز پند می‌دهم که برای خدا دو دو و یک یک برخیزید، سپس بیندیشید که همراه شما هیچ جنونی ندارد، او فقط هشداردهنده‌ای است برای شما پیش از عذابی سخت.",
     "transliteration": "Qul innamā a'iẓukum biwāḥidatin an taqūmū lillāhi mathnā wa furādā thumma tatafakkarū mā biṣāḥibikum min jinnah in huwa illā nadhīrun lakum bayna yaday 'adhābin shadīd"

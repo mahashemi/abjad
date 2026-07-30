@@ -9,7 +9,7 @@ ayats = [
   {
     "verse_number": 1,
     "english_text": "Every particle of the earth and the sky is glorifying Allah, who is the King, having Pure Attributes, Honorable and has Wisdom.",
-    "arabic_text": "يُسَبِّحُ لِلَّهِ مَا فِى السَّمَـٰوٰتِ وَ مَا فِى الْاَرْضِ الْمَلِكِ الْقُدُّوسِ الْعَزِيزِ الْحَكِيمِ",
+    "arabic_text": "يُسَبِّحُ لِلّٰهِ مَا فِى السَّمَـٰوٰتِ وَ مَا فِى الْاَرْضِ الْمَلِكِ الْقُدُّوسِ الْعَزِيزِ الْحَكِيمِ",
     "urdu_text": "اللہ کی تسبیح کرتا ہے جو کچھ آسمانوں میں ہے اور جو کچھ زمین میں ہے، وہ بادشاہ، پاک، غالب اور حکمت والا ہے۔",
     "persian_text": "هر آنچه در آسمان‌ها و زمین است، خدا را تسبیح می‌گوید، آن پادشاه، پاک، عزیز و حکیم.",
     "transliteration": "Yusabbihu lillahi ma fis-samawati wa ma fil-ardi al-maliki al-quddusi al-'azizi al-hakim"
@@ -49,7 +49,7 @@ ayats = [
   {
     "verse_number": 6,
     "english_text": "(O Prophet) Say: O you Jews! if you consider that only you are friends of Allah among all the people, so if you are true in your claim, then desire for death.",
-    "arabic_text": "قُلْ يٰٓاَيُّهَا الَّذِينَ هَادُوٓاْ اِن زَعَمْتُمْ اَنَّكُمْ اَوْلِيَآءُ لِلَّهِ مِن دُونِ النَّاسِ فَتَمَنَّوُاْ الْمَوْتَ اِن كُنتُمْ صَـٰدِقِينَ",
+    "arabic_text": "قُلْ يٰٓاَيُّهَا الَّذِينَ هَادُوٓاْ اِن زَعَمْتُمْ اَنَّكُمْ اَوْلِيَآءُ لِلّٰهِ مِن دُونِ النَّاسِ فَتَمَنَّوُاْ الْمَوْتَ اِن كُنتُمْ صَـٰدِقِينَ",
     "urdu_text": "کہہ دو: اے یہودیو! اگر تم یہ سمجھتے ہو کہ تم ہی اللہ کے دوست ہو دوسرے لوگوں کو چھوڑ کر، تو اگر تم سچے ہو تو موت کی تمنا کرو۔",
     "persian_text": "بگو: ای کسانی که یهودی شدید! اگر گمان می‌برید که شما دوستان خدا هستید به جز مردم، پس اگر راست می‌گویید، آرزوی مرگ کنید.",
     "transliteration": "Qul ya ayyuhal-ladhina hadu in za'amtum annakum awliya'u lillahi min dunin-nasi fatamannawul-mawta in kuntum sadiqin"

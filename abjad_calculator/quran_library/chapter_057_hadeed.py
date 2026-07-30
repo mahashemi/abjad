@@ -9,7 +9,7 @@ ayats = [
   {
     "verse_number": 1,
     "english_text": "Everything which is in the sky and on the earth is busy in glorifying the Lord, and that Lord is Honorable and Wise.",
-    "arabic_text": "سَبَّحَ لِلَّهِ مَا فِى السَّمَـٰوٰتِ وَ الْاَرْضِ ۖ وَ هُوَ الْعَزِيزُ الْحَكِيمُ",
+    "arabic_text": "سَبَّحَ لِلّٰهِ مَا فِى السَّمَـٰوٰتِ وَ الْاَرْضِ ۖ وَ هُوَ الْعَزِيزُ الْحَكِيمُ",
     "urdu_text": "آسمانوں اور زمین میں جو کچھ هے سب الله کی تسبیح کرتا هے، اور وه غالب اور حکمت والا هے۔",
     "persian_text": "هر آنچه در آسمان‌ها و زمین است، خدا را تسبیح می‌گوید، و او عزیز و حکیم است.",
     "transliteration": "Sabbaha lillahi ma fis-samawati wal-ard, wa huwal-'Azizul-Hakim"
@@ -81,7 +81,7 @@ ayats = [
   {
     "verse_number": 10,
     "english_text": "And what has happened to you that you do not spend in the cause of Allah? Whereas all the heritage of skies and the earth is His, and among you he cannot be equal to (the persons) who spent and fought before the victory, to those who spent and fought after the victory; those are higher in rank who fought before, however Allah has promised good to everyone, and Allah is well cognizant of what you do. ​",
-    "arabic_text": "وَ مَا لَكُمْ اَلَّا تُنفِقُواْ فِى سَبِيلِ اللّٰهِ وَلِلَّهِ مِيرٰثُ السَّمَـٰوٰتِ وَ الْاَرْضِ ۚ لَا يَسْتَوِى مِنكُم مَّنْ اَنفَقَ مِن قَبْلِ الْفَتْحِ وَقَـٰتَلَ ۚ اُوْلٓـٰئِكَ اَعْظَمُ دَرَجَةًۭ مِّنَ الَّذِينَ اَنفَقُواْ مِنۢ بَعْدُ وَقَـٰتَلُواْ ۚ وَكُلًّۭا وَعَدَ اللّٰهُ الْحُسْنَىٰ ۚ وَ اللّٰهُ بِمَا تَعْمَلُونَ خَبِيرٌۭ",
+    "arabic_text": "وَ مَا لَكُمْ اَلَّا تُنفِقُواْ فِى سَبِيلِ اللّٰهِ وَلِلّٰهِ مِيرٰثُ السَّمَـٰوٰتِ وَ الْاَرْضِ ۚ لَا يَسْتَوِى مِنكُم مَّنْ اَنفَقَ مِن قَبْلِ الْفَتْحِ وَقَـٰتَلَ ۚ اُوْلٓـٰئِكَ اَعْظَمُ دَرَجَةًۭ مِّنَ الَّذِينَ اَنفَقُواْ مِنۢ بَعْدُ وَقَـٰتَلُواْ ۚ وَكُلًّۭا وَعَدَ اللّٰهُ الْحُسْنَىٰ ۚ وَ اللّٰهُ بِمَا تَعْمَلُونَ خَبِيرٌۭ",
     "urdu_text": "اور تمهیں کیا هو گیا هے که تم الله کی راه میں خرچ نهیں کرتے، جبکه آسمانوں اور زمین کی میراث الله هی کی هے، تم میں سے جنهوں نے فتح سے پهلے خرچ کیا اور جهاد کیا وه برابر نهیں هیں ان لوگوں کے جنهوں نے بعد میں خرچ کیا اور جهاد کیا، وه لوگ درجے میں بڑے هیں، تاهم الله نے سب سے بھلائی کا وعده کیا هے، اور الله تمهارے اعمال سے خبردار هے۔",
     "persian_text": "و چه شده است که در راه خدا انفاق نمی‌کنید، در حالی که میراث آسمان‌ها و زمین از آن خداست، کسانی از شما که پیش از فتح انفاق کردند و جنگیدند، برابر نیستند با کسانی که بعد از آن انفاق کردند و جنگیدند، آنان در درجه بزرگ‌ترند، اما خدا به همه نیکی وعده داده است، و خدا به آنچه انجام می‌دهید آگاه است.",
     "transliteration": "Wa ma lakum alla tunfiqu fi sabilillahi wa lillahi mirathus-samawati wal-ard, la yastawi minkum man anfaqa min qablil-fathi wa qatal, ula'ika a'zamu darajatan minalladhina anfaqu min ba'du wa qatalu, wa kullan wa'adallahul-husna, wallahu bima ta'maluna Khabir"

@@ -57,7 +57,7 @@ ayats = [
   {
     "verse_number": 7,
     "english_text": "These are the people who say: do not spend anything on the companions of the Prophet of Allah so they may get scattered, although all the treasures of skies and the earth belong to Allah only, and these hypocrites do not understand this.",
-    "arabic_text": "هُمُ الَّذِينَ يَقُولُونَ لَا تُنفِقُواْ عَلَىٰ مَنْ عِندَ رَسُولِ اللّٰهِ حَتَّىٰ يَنفَضُّواْ ۗ وَلِلَّهِ خَزَآئِنُ السَّمَـٰوٰتِ وَ الْاَرْضِ وَلَـٰكِنَّ الْمُنَـٰفِقِينَ لَا يَفْقَهُونَ",
+    "arabic_text": "هُمُ الَّذِينَ يَقُولُونَ لَا تُنفِقُواْ عَلَىٰ مَنْ عِندَ رَسُولِ اللّٰهِ حَتَّىٰ يَنفَضُّواْ ۗ وَلِلّٰهِ خَزَآئِنُ السَّمَـٰوٰتِ وَ الْاَرْضِ وَلَـٰكِنَّ الْمُنَـٰفِقِينَ لَا يَفْقَهُونَ",
     "urdu_text": "یه وه لوگ هیں جو کهتے هیں که الله کے رسول کے ساتھیوں پر خرچ نه کرو تاکه وه منتشر هو جائیں، حالانکه آسمانوں اور زمین کے خزانے الله هی کے لیے هیں، لیکن منافق نهیں سمجھتے۔",
     "persian_text": "آنان کسانی هستند که می‌گویند: بر کسانی که نزد رسول خدا هستند انفاق نکنید تا پراکنده شوند، در حالی که خزانه‌های آسمان‌ها و زمین از آن خداست، ولی منافقان نمی‌فهمند.",
     "transliteration": "Humu alladheena yaqooloona la tunfiqoo 'ala man 'inda rasooli Allahi hatta yanfaddoo wa lillahi khaza'inu as-samawati wal-ardi walakinna al-munafiqeena la yafqahoon"
@@ -65,7 +65,7 @@ ayats = [
   {
     "verse_number": 8,
     "english_text": "These people say that if we come back to Madina, then we, the honorable people will drive out these mean people; although all the Honor belongs to Allah, His Prophet and to the believers and these hypocrites even do not know this.",
-    "arabic_text": "يَقُولُونَ لَئِن رَّجَعْنَآ اِلَى الْمَدِينَةِ لَيُخْرِجَنَّ الْاَعَزُّ مِنْهَا الْاَذَلَّ ۚ وَلِلَّهِ الْعِزَّةُ وَلِرَسُولِهِ وَلِلْمُؤْمِنِينَ وَلَـٰكِنَّ الْمُنَـٰفِقِينَ لَا يَعْلَمُونَ",
+    "arabic_text": "يَقُولُونَ لَئِن رَّجَعْنَآ اِلَى الْمَدِينَةِ لَيُخْرِجَنَّ الْاَعَزُّ مِنْهَا الْاَذَلَّ ۚ وَلِلّٰهِ الْعِزَّةُ وَلِرَسُولِهِ وَلِلْمُؤْمِنِينَ وَلَـٰكِنَّ الْمُنَـٰفِقِينَ لَا يَعْلَمُونَ",
     "urdu_text": "یه لوگ کهتے هیں که اگر هم مدینه واپس جائیں تو ضرور عزت والے ذلیل کو وهاں سے نکال دیں گے، حالانکه عزت الله اور اس کے رسول اور مومنوں کے لیے هے، لیکن منافق نهیں جانتے۔",
     "persian_text": "آنان می‌گویند: اگر به مدینه بازگردیم، قطعاً عزیزتر، خوارتر را از آن بیرون خواهد کرد، در حالی که عزت از آن خدا و رسول او و مؤمنان است، ولی منافقان نمی‌دانند.",
     "transliteration": "Yaqooloona la'in raja'na ila al-madeenati la-yukhrijanna al-a'azzu minha al-adhalla wa lillahi al-'izzatu wa lirasolihi wa lilmu'mineena walakinna al-munafiqeena la ya'lamoon"

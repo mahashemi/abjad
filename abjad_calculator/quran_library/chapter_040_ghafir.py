@@ -97,7 +97,7 @@ ayats = [
   {
     "verse_number": 12,
     "english_text": "This is because when the One and Only Allah's name was mentioned you adopted infidelity, when polytheism was mentioned, you accepted it immediately, now the judgement is in the Hands of Allah, the Great.",
-    "arabic_text": "ذَٰلِكُم بِاَنَّهُٓ اِذَا دُعِىَ اللّٰهُ وَحْدَهُ كَفَرْتُمْ ۖ وَ اِن يُشْرَكْ بِهِ تُؤْمِنُواْ ۚ فَالْحُكْمُ لِلَّهِ الْعَلِىِّ الْكَبِيرِ",
+    "arabic_text": "ذَٰلِكُم بِاَنَّهُٓ اِذَا دُعِىَ اللّٰهُ وَحْدَهُ كَفَرْتُمْ ۖ وَ اِن يُشْرَكْ بِهِ تُؤْمِنُواْ ۚ فَالْحُكْمُ لِلّٰهِ الْعَلِىِّ الْكَبِيرِ",
     "urdu_text": "یہ اس لیے ہے کہ جب اکیلے اللہ کا نام لیا جاتا تھا تو تم کفر اختیار کرتے تھے، اور جب اس کے ساتھ شرک کیا جاتا تو تم فوراً مان لیتے تھے، پس اب فیصلہ اللہ کے ہاتھ میں ہے جو بلند و بزرگ ہے۔",
     "persian_text": "این بدان سبب است که هنگامی که خدای یکتا خوانده می‌شد، کافر می‌شدید، و اگر شریکی برای او قرار داده می‌شد، ایمان می‌آوردید، پس حکم از آنِ خداوند متعال و بزرگ است.",
     "transliteration": "Dhaalikum bi-annahoo idhaa du'iya Allaahu wahdahoo kafartum wa in yushrak bihee tu'minoo fal-hukmu lillaahil-'aliyyil-kabeer"
@@ -129,7 +129,7 @@ ayats = [
   {
     "verse_number": 16,
     "english_text": "When everyone will come forth and nothing will be hidden from Allah, today's kingdom is whose? Kingdom is of Allah, the One, the Subduer.",
-    "arabic_text": "يَوْمَ هُم بَـٰرِزُونَ ۖ لَا يَخْفَىٰ عَلَى اللّٰهِ مِنْهُمْ شَىْءٌۭ ۚ لِّمَنِ الْمُلْكُ الْيَوْمَ ۖ لِلَّهِ الْوَاحِدِ الْقَهَّارِ",
+    "arabic_text": "يَوْمَ هُم بَـٰرِزُونَ ۖ لَا يَخْفَىٰ عَلَى اللّٰهِ مِنْهُمْ شَىْءٌۭ ۚ لِّمَنِ الْمُلْكُ الْيَوْمَ ۖ لِلّٰهِ الْوَاحِدِ الْقَهَّارِ",
     "urdu_text": "جس دن سب ظاہر ہو جائیں گے، ان میں سے کوئی چیز اللہ پر پوشیدہ نہیں ہوگی، آج بادشاہی کس کی ہے؟ اللہ واحد قہار کی۔",
     "persian_text": "روزی که همه آشکار می‌شوند، هیچ چیز از آنان بر خدا پوشیده نیست، امروز فرمانروایی از آنِ کیست؟ از آنِ خداوند یکتای قهار.",
     "transliteration": "Yawma hum baarizoon, laa yakhfaa 'alAllaahi minhum shay', limanil-mulkul-yawm, lillaahil-waahidil-qahhaar"
@@ -521,7 +521,7 @@ ayats = [
   {
     "verse_number": 65,
     "english_text": "He is Ever Living, there is no god but He, therefore worship Him with sincere religion, and all the praise is for Allah, Lord of the worlds.",
-    "arabic_text": "هُوَ الْحَىُّ لَآ اِلَـٰهَ اِلَّا هُوَ فَادْعُوهُ مُخْلِصِينَ لَهُ الدِّينَ ۗ الْحَمْدُ لِلَّهِ رَبِّ الْعَـٰلَمِينَ",
+    "arabic_text": "هُوَ الْحَىُّ لَآ اِلَـٰهَ اِلَّا هُوَ فَادْعُوهُ مُخْلِصِينَ لَهُ الدِّينَ ۗ الْحَمْدُ لِلّٰهِ رَبِّ الْعَـٰلَمِينَ",
     "urdu_text": "وہ ہمیشہ زندہ رہنے والا ہے، اس کے سوا کوئی معبود نہیں، پس اسی کی عبادت کرو دین کو اس کے لیے خالص کرتے ہوئے، اور تمام تعریفیں اللہ کے لیے ہیں جو تمام جہانوں کا رب ہے۔",
     "persian_text": "او زنده جاوید است، هیچ معبودی جز او نیست، پس او را بخوانید در حالی که دین را برای او خالص می‌کنید، ستایش مخصوص خداوند است، پروردگار جهانیان.",
     "transliteration": "Huwal-Hayyu laa ilaaha illaa Huwa fad-'oohu mukhliseena lahud-deen, alhamdu lillaahi Rabbil-'aalameen"

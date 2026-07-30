@@ -505,7 +505,7 @@ ayats = [
   {
     "verse_number": 63,
     "english_text": "And if you ask them who rained the water from sky, and enlivened earth once again after being dead, they will say: Allah did, then say: all Praises are for Allah, and majority of them do not use their intelligence.",
-    "arabic_text": "وَلَئِن سَاَلْتَهُم مَّن نَّزَّلَ مِنَ السَّمَآءِ مَآءًۭ فَاَحْيٰبِهِ الْاَرْضَ مِنۢ بَعْدِ مَوْتِهَا لَيَقُولُنَّ اللّٰهُ ۚ قُلِ الْحَمْدُ لِلَّهِ ۚ بَلْ اَكْثَرُهُمْ لَا يَعْقِلُونَ",
+    "arabic_text": "وَلَئِن سَاَلْتَهُم مَّن نَّزَّلَ مِنَ السَّمَآءِ مَآءًۭ فَاَحْيٰبِهِ الْاَرْضَ مِنۢ بَعْدِ مَوْتِهَا لَيَقُولُنَّ اللّٰهُ ۚ قُلِ الْحَمْدُ لِلّٰهِ ۚ بَلْ اَكْثَرُهُمْ لَا يَعْقِلُونَ",
     "urdu_text": "اور اگر تم ان سے پوچھو کہ آسمان سے پانی کس نے برسایا اور اس کے ذریعے زمین کو اس کی موت کے بعد زندہ کیا تو وہ ضرور کہیں گے کہ اللہ نے، تو کہہ دو کہ تمام تعریفیں اللہ ہی کے لیے ہیں، بلکہ ان میں سے اکثر عقل نہیں رکھتے۔",
     "persian_text": "و اگر از آنان بپرسی چه کسی از آسمان آب فرو فرستاد و با آن زمین را پس از مردنش زنده کرد، قطعاً خواهند گفت: الله. بگو: ستایش مخصوص الله است، بلکه بیشترشان تعقل نمی‌کنند.",
     "transliteration": "Wa la'in sa'altahum man nazzala minas-samaaa'i maaa'an fa-ahyaa bihil-arda min ba'di mawtihaa la-yaqoolunnal-laah, qulil-hamdu lillaah, bal aktharuhum laa ya'qiloon"

@@ -249,7 +249,7 @@ ayats = [
   {
     "verse_number": 31,
     "english_text": "And whoever among you will obey Allah and His Prophet and will do good deeds, We will give him double the reward, and We have provided the best sustenance for him.",
-    "arabic_text": "  وَ مَن يَقْنُتْ مِنكُنَّ لِلَّهِ وَرَسُولِهِ وَتَعْمَلْ صَـٰلِحًۭا نُّؤْتِهَآ اَجْرَهَا مَرَّتَيْنِ وَاَعْتَدْنَا لَهَا رِزْقًۭا كَرِيمًا",
+    "arabic_text": "  وَ مَن يَقْنُتْ مِنكُنَّ لِلّٰهِ وَرَسُولِهِ وَتَعْمَلْ صَـٰلِحًۭا نُّؤْتِهَآ اَجْرَهَا مَرَّتَيْنِ وَاَعْتَدْنَا لَهَا رِزْقًۭا كَرِيمًا",
     "urdu_text": "اور تم میں سے جو الله اور اس کے رسول کی فرمانبرداری کرے گی اور نیک عمل کرے گی، هم اسے دوگنا اجر دیں گے اور هم نے اس کے لیے عزت والا رزق تیار کر رکھا هے۔",
     "persian_text": "و هر کس از شما که الله و رسول او را اطاعت کند و کار شایسته انجام دهد، به او دو برابر پاداش خواهیم داد و برای او روزی گرامی فراهم کرده‌ایم.",
     "transliteration": "Wa man yaqnut minkунna lillahi wa rasulihi wa ta'mal salihan nu'tiha ajraha marratayni wa a'tadna laha rizqan karima"

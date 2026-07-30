@@ -217,7 +217,7 @@ ayats = [
   {
     "verse_number": 27,
     "english_text": "And the Kingdom of the earth and the sky is of Allah, and when the Day of Judgement will be established Verily that day people of falsehood will be at a loss.",
-    "arabic_text": "وَلِلَّهِ مُلْكُ السَّمَـٰوٰتِ وَ الْاَرْضِ ۚ وَ يَوْمَ تَقُومُ السَّاعَةُ يَوْمَئِذٍۢ يَخْسَرُ الْمُبْطِلُونَ",
+    "arabic_text": "وَلِلّٰهِ مُلْكُ السَّمَـٰوٰتِ وَ الْاَرْضِ ۚ وَ يَوْمَ تَقُومُ السَّاعَةُ يَوْمَئِذٍۢ يَخْسَرُ الْمُبْطِلُونَ",
     "urdu_text": "اور آسمانوں اور زمین کی بادشاهی الله کی هے، اور جب قیامت کا دن قائم هو گا تو یقیناً اس دن باطل پرست لوگ خسارے میں هوں گے۔",
     "persian_text": "و فرمانروایی آسمان‌ها و زمین از آن خداست، و روزی که قیامت برپا شود، در آن روز اهل باطل زیان‌کار خواهند بود.",
     "transliteration": "Wa lillāhi mulku as-samāwāti wa al-arḍ, wa yawma taqūmu as-sā'atu yawma'idhin yakhsaru al-mubṭilūn"
@@ -289,7 +289,7 @@ ayats = [
   {
     "verse_number": 36,
     "english_text": "All the praise is for Allah only who is Lord and Master of the skies and the earth and all the worlds.",
-    "arabic_text": "فَلِلَّهِ الْحَمْدُ رَبِّ السَّمَـٰوٰتِ وَرَبِّ الْاَرْضِ رَبِّ الْعَـٰلَمِينَ",
+    "arabic_text": "فَلِلّٰهِ الْحَمْدُ رَبِّ السَّمَـٰوٰتِ وَرَبِّ الْاَرْضِ رَبِّ الْعَـٰلَمِينَ",
     "urdu_text": "پس تمام تعریفیں الله هی کے لیے هیں جو آسمانوں کا رب هے اور زمین کا رب هے اور تمام جهانوں کا رب هے۔",
     "persian_text": "پس ستایش مخصوص خداست که پروردگار آسمان‌ها و پروردگار زمین و پروردگار جهانیان است.",
     "transliteration": "Falil-laahil-hamdu rabbis-samaawaati wa rabbil-ardi rabbil-'aalameen"

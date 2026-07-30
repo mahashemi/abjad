@@ -105,7 +105,7 @@ ayats = [
   {
     "verse_number": 13,
     "english_text": "What is wrong with you, why do you not consider the Greatness of Allah.",
-    "arabic_text": "مَّا لَكُمْ لَا تَرْجُونَ لِلَّهِ وَقَارًا",
+    "arabic_text": "مَّا لَكُمْ لَا تَرْجُونَ لِلّٰهِ وَقَارًا",
     "urdu_text": "تمہیں کیا ہو گیا ہے کہ تم اللہ کی عظمت کا خیال نہیں رکھتے",
     "persian_text": "شما را چه شده است که برای خدا بزرگی و عظمت قائل نیستید",
     "transliteration": "Maa lakum laa tarjoona lillaahi waqaaraa"

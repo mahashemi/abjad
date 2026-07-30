@@ -97,7 +97,7 @@ ayats = [
   {
     "verse_number": 12,
     "english_text": "And We bestowed wisdom upon Luqman ;that be grateful to Allah, whoever is grateful (to Allah) is for his own benefit, and whoever is ungrateful, he should know that Allah is Self-Sufficient and is worthy of praises also.",
-    "arabic_text": "وَ لَقَدْ ءَاتَيْنَا لُقْمَـٰنَ الْحِكْمَةَ اَنِ اشْكُرْ لِلَّهِ ۚ وَ مَن يَشْكُرْ فَاِنَّمَا يَشْكُرُ لِنَفْسِهِ ۖ وَ مَن كَفَرَ فَاِنَّ اللّٰهَ غَنِىٌّ حَمِيدٌۭ",
+    "arabic_text": "وَ لَقَدْ ءَاتَيْنَا لُقْمَـٰنَ الْحِكْمَةَ اَنِ اشْكُرْ لِلّٰهِ ۚ وَ مَن يَشْكُرْ فَاِنَّمَا يَشْكُرُ لِنَفْسِهِ ۖ وَ مَن كَفَرَ فَاِنَّ اللّٰهَ غَنِىٌّ حَمِيدٌۭ",
     "urdu_text": "اور هم نے لقمان کو حکمت عطا کی که الله کا شکر ادا کرو، اور جو شکر کرتا هے تو وه اپنے هی فائدے کے لیے شکر کرتا هے، اور جو ناشکری کرے تو بیشک الله بے نیاز اور تعریف کے لائق هے۔",
     "persian_text": "و ما به لقمان حکمت عطا کردیم که شکر الله را به‌جا آور، و هر که شکر کند تنها به سود خود شکر می‌کند، و هر که ناسپاسی کند، پس الله بی‌نیاز و ستوده است.",
     "transliteration": "Wa laqad ātaynā Luqmāna al-ḥikmata ani ushkur lillāhi wa man yashkur fa-innamā yashkuru linafsihi wa man kafara fa-inna Allāha ghaniyyun ḥamīd"
@@ -201,7 +201,7 @@ ayats = [
   {
     "verse_number": 25,
     "english_text": "If you ask them who has created the sky and the earth, they will say: Allah did, then say all the Praises are for Allah; and majority of them are totally ignorant.",
-    "arabic_text": "وَلَئِن سَاَلْتَهُم مَّنْ خَلَقَ السَّمَـٰوٰتِ وَالْاَرْضَ لَيَقُولُنَّ اللّٰهُ ۚ قُلِ الْحَمْدُ لِلَّهِ ۚ بَلْ اَكْثَرُهُمْ لَا يَعْلَمُونَ",
+    "arabic_text": "وَلَئِن سَاَلْتَهُم مَّنْ خَلَقَ السَّمَـٰوٰتِ وَالْاَرْضَ لَيَقُولُنَّ اللّٰهُ ۚ قُلِ الْحَمْدُ لِلّٰهِ ۚ بَلْ اَكْثَرُهُمْ لَا يَعْلَمُونَ",
     "urdu_text": "اور اگر آپ ان سے پوچھیں که آسمانوں اور زمین کو کس نے پیدا کیا تو وه ضرور کهیں گے که الله نے، آپ کهه دیجیے که تمام تعریفیں الله هی کے لیے هیں، لیکن ان میں سے اکثر نهیں جانتے۔",
     "persian_text": "و اگر از آنان بپرسی چه کسی آسمان‌ها و زمین را آفرید، البته خواهند گفت: خداوند، بگو: ستایش مخصوص خداست، بلکه بیشتر آنان نمی‌دانند.",
     "transliteration": "Wa la'in sa'altahum man khalaqas samawati wal'arda layaqoolunnal-lah, qulil hamdu lillah, bal aktharuhum la ya'lamoon"
@@ -209,7 +209,7 @@ ayats = [
   {
     "verse_number": 26,
     "english_text": "Everything on the earth and in the sky is for Allah only, and He is Self-Sufficient and worthy of praise.",
-    "arabic_text": "لِلَّهِ مَا فِى السَّمَـٰوٰتِ وَ الْاَرْضِ ۚ اِنَّ اللّٰهَ هُوَ الْغَنِىُّ الْحَمِيدُ",
+    "arabic_text": "لِلّٰهِ مَا فِى السَّمَـٰوٰتِ وَ الْاَرْضِ ۚ اِنَّ اللّٰهَ هُوَ الْغَنِىُّ الْحَمِيدُ",
     "urdu_text": "جو کچھ آسمانوں اور زمین میں هے سب الله هی کا هے، بے شک الله هی بے نیاز اور قابل تعریف هے۔",
     "persian_text": "آنچه در آسمان‌ها و زمین است از آنِ خداست، همانا خداوند بی‌نیاز و ستوده است.",
     "transliteration": "Lillahi ma fis samawati wal'ard, innal-laha huwal ghaniyyul hameed"

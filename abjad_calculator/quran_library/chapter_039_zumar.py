@@ -25,7 +25,7 @@ ayats = [
   {
     "verse_number": 3,
     "english_text": "Be aware that sincere worshipping is for Allah only; who have made other guardians by saying that their worship will bring us closer to Allah; Allah will decide between them in case of dispute; that Allah does not guide liar and thankless people.",
-    "arabic_text": "اَلَا لِلَّهِ الدِّينُ الْخَالِصُ ۚ وَ الَّذِينَ اتَّخَذُواْ مِن دُونِهِٓ اَوْلِيَآءَ مَا نَعْبُدُهُمْ اِلَّا لِيُقَرِّبُونَآ اِلَى اللّٰهِ زُلْفَىٰٓ اِنَّ اللّٰهَ يَحْكُمُ بَيْنَهُمْ فِى مَا هُمْ فِيهِ يَخْتَلِفُونَ ۗ اِنَّ اللّٰهَ لَا يَهْدِى مَنْ هُوَ كَـٰذِبٌۭ كَفَّارٌۭ",
+    "arabic_text": "اَلَا لِلّٰهِ الدِّينُ الْخَالِصُ ۚ وَ الَّذِينَ اتَّخَذُواْ مِن دُونِهِٓ اَوْلِيَآءَ مَا نَعْبُدُهُمْ اِلَّا لِيُقَرِّبُونَآ اِلَى اللّٰهِ زُلْفَىٰٓ اِنَّ اللّٰهَ يَحْكُمُ بَيْنَهُمْ فِى مَا هُمْ فِيهِ يَخْتَلِفُونَ ۗ اِنَّ اللّٰهَ لَا يَهْدِى مَنْ هُوَ كَـٰذِبٌۭ كَفَّارٌۭ",
     "urdu_text": "خبردار! خالص دین صرف اللہ کے لیے ہے، اور جن لوگوں نے اس کے سوا دوسرے سرپرست بنا لیے ہیں کہ ہم ان کی عبادت صرف اس لیے کرتے ہیں کہ یہ ہمیں اللہ کے قریب کر دیں، اللہ ان کے درمیان فیصلہ کرے گا جس بات میں وہ اختلاف کرتے ہیں، بیشک اللہ اس شخص کو ہدایت نہیں دیتا جو جھوٹا اور ناشکرا ہو۔",
     "persian_text": "آگاه باشید که دین خالص تنها برای خداست، و کسانی که غیر از او اولیایی برگزیدند و گفتند ما آنها را فقط عبادت می‌کنیم تا ما را به خدا نزدیک کنند، خداوند در آنچه در آن اختلاف دارند میان آنها داوری خواهد کرد، همانا خدا کسی را که دروغگو و ناسپاس است هدایت نمی‌کند.",
     "transliteration": "Alaa lillaahid-deenul-khaalis, wallazeenattakhadhoo min doonihee awliyaaa maa na'buduhum illaa liyuqarriboona ilallaahi zulfaa, innallaaha yahkumu baynahum fee maa hum feehi yakhtalifoon, innallaaha laa yahdee man huwa kaadhibun kaffaar"
@@ -65,7 +65,7 @@ ayats = [
   {
     "verse_number": 8,
     "english_text": "And when man is afflicted then he calls out to the Lord with full attention, and when He gives any blessings, then he totally forgets for what he has called upon Him, and makes associates for Allah that he may cause them to deviate from the path, then say: enjoy for some days in infidelity, thereafter you Verily are among the Hellish people.",
-    "arabic_text": "  وَاِذَا مَسَّ الْاِنسَـٰنَ ضُرٌّۭ دَعَا رَبَّهُ مُنِيبًا اِلَيْهِ ثُمَّ اِذَا خَوَّلَهُ نِعْمَةًۭ مِّنْهُ نَسِىَ مَا كَانَ يَدْعُوٓاْ اِلَيْهِ مِن قَبْلُ وَ جَعَلَ لِلَّهِ اَندَادًۭا لِّيُضِلَّ عَن سَبِيلِهِ ۚ قُلْ تَمَتَّعْ بِكُفْرِكَ قَلِيلًا ۖ اِنَّكَ مِنْ اَصْحَـٰبِ النَّارِ",
+    "arabic_text": "  وَاِذَا مَسَّ الْاِنسَـٰنَ ضُرٌّۭ دَعَا رَبَّهُ مُنِيبًا اِلَيْهِ ثُمَّ اِذَا خَوَّلَهُ نِعْمَةًۭ مِّنْهُ نَسِىَ مَا كَانَ يَدْعُوٓاْ اِلَيْهِ مِن قَبْلُ وَ جَعَلَ لِلّٰهِ اَندَادًۭا لِّيُضِلَّ عَن سَبِيلِهِ ۚ قُلْ تَمَتَّعْ بِكُفْرِكَ قَلِيلًا ۖ اِنَّكَ مِنْ اَصْحَـٰبِ النَّارِ",
     "urdu_text": "اور جب انسان کو کوئی تکلیف پہنچتی ہے تو وہ اپنے رب کو پکارتا ہے اس کی طرف رجوع کرتے ہوئے، پھر جب وہ اسے اپنی طرف سے کوئی نعمت دیتا ہے تو وہ بھول جاتا ہے جس کے لیے پہلے پکارتا تھا، اور اللہ کے لیے شریک بناتا ہے تاکہ لوگوں کو اس کی راہ سے بھٹکائے، کہہ دو کہ اپنے کفر میں تھوڑے دن فائدہ اٹھا لو، بیشک تو دوزخیوں میں سے ہے۔",
     "persian_text": "و هنگامی که انسان را رنجی رسد، پروردگارش را با توجه کامل می‌خواند، سپس چون نعمتی از او به او عطا کند، آنچه را پیش از این برای آن می‌خواند فراموش می‌کند و برای خدا همتایانی قرار می‌دهد تا از راه او گمراه کند، بگو: اندکی در کفر خود بهره‌مند شو، همانا تو از اهل آتشی.",
     "transliteration": "Wa idhaa massal-insaana durrun da'aa Rabbahoo muneeban ilayhi thumma idhaa khawwalahoo ni'matam minhu nasiya maa kaana yad'ooo ilayhi min qablu wa ja'ala lillaahi andaadal liyudilla 'an sabeelih, qul tamatta' bikufrika qaleelan innaka min as-haabin-naar"
@@ -233,7 +233,7 @@ ayats = [
   {
     "verse_number": 29,
     "english_text": "Allah sets an example: There is a slave in whom there are several partners differing with one another; and there is another slave wholly owned by one man. Are conditions of the two alike? All praise is due to Allah but most of them do not know.",
-    "arabic_text": "ضَرَبَ اللّٰهُ مَثَلًا رَّجُلًا فِيهِ شُرَكَآءُ مُتَشَـٰكِسُونَ وَرَجُلًا سَلَمًا لِّرَجُلٍ هَلْ يَسْتَوِيَانِ مَثَلًا ۚ الْحَمْدُ لِلَّهِ ۚ بَلْ اَكْثَرُهُمْ لَا يَعْلَمُونَ",
+    "arabic_text": "ضَرَبَ اللّٰهُ مَثَلًا رَّجُلًا فِيهِ شُرَكَآءُ مُتَشَـٰكِسُونَ وَرَجُلًا سَلَمًا لِّرَجُلٍ هَلْ يَسْتَوِيَانِ مَثَلًا ۚ الْحَمْدُ لِلّٰهِ ۚ بَلْ اَكْثَرُهُمْ لَا يَعْلَمُونَ",
     "urdu_text": "اللہ ایک مثال بیان فرماتا ہے: ایک غلام ہے جس میں کئی جھگڑالو شریک ہیں، اور ایک غلام ہے جو مکمل طور پر ایک آدمی کی ملکیت ہے۔ کیا دونوں کی حالت برابر ہے؟ تمام تعریفیں اللہ کے لیے ہیں، لیکن ان میں سے اکثر نہیں جانتے۔",
     "persian_text": "خداوند مثلی می‌زند: مردی که در او شرکای ستیزه‌جو هستند، و مردی که کاملاً متعلق به یک مرد است. آیا این دو در مثل برابرند؟ ستایش مخصوص خداست، بلکه بیشترشان نمی‌دانند.",
     "transliteration": "Daraba Allahu mathalan rajulan fihi shuraka'u mutashakisuna warajulan salaman lirajulin hal yastawiyani mathalan alhamdu lillahi bal aktharuhum la ya'lamun"
@@ -593,7 +593,7 @@ ayats = [
   {
     "verse_number": 74,
     "english_text": "And will say: thanks to Allah that he has made his promise come true, and made us inherit His land, that we can rest in Paradise wherever we wish, and Verily this is the best reward for those who have done (good) deeds.",
-    "arabic_text": "وَ قَالُوْاْ الْحَمْدُ لِلَّهِ الَّذِى صَدَقَنَا وَعْدَهُ وَاَوْرَثَنَا الْاَرْضَ نَتَبَوَّاُ مِنَ الْجَنَّةِ حَيْثُ نَشَآءُ ۖ فَنِعْمَ اَجْرُ الْعَـٰمِلِينَ",
+    "arabic_text": "وَ قَالُوْاْ الْحَمْدُ لِلّٰهِ الَّذِى صَدَقَنَا وَعْدَهُ وَاَوْرَثَنَا الْاَرْضَ نَتَبَوَّاُ مِنَ الْجَنَّةِ حَيْثُ نَشَآءُ ۖ فَنِعْمَ اَجْرُ الْعَـٰمِلِينَ",
     "urdu_text": "اور وہ کہیں گے: تمام تعریفیں اللہ کے لیے ہیں جس نے اپنا وعدہ سچا کر دکھایا اور ہمیں زمین کا وارث بنایا، ہم جنت میں جہاں چاہیں ٹھہر سکتے ہیں، پس نیک عمل کرنے والوں کا یہ کتنا اچھا اجر ہے۔",
     "persian_text": "و گفتند: ستایش مخصوص الله است که وعده خود را به ما راست گردانید و این سرزمین را به ما به میراث داد، تا در بهشت هر جا بخواهیم جای گیریم، پس چه نیکو است پاداش نیکوکاران.",
     "transliteration": "Wa qaalul-hamdu lillaahil-lazee sadaqanaa wa'dahoo wa awrasanal-arda natabawwa'u minal-jannati haysu nashaaa'u fani'ma ajrul-'aamileen"
@@ -601,7 +601,7 @@ ayats = [
   {
     "verse_number": 75,
     "english_text": "And you will see that angels have surrounded the Throne of Allah and they are glorifying Him; and judgement will be done justly among the people, and verdict shall be given between them with justice, and everywhere there will be one sound: All praise is due to Allah, the Lord of the worlds.",
-    "arabic_text": "وَتَرَى الْمَلٓـٰئِكَةَ حَآفِّينَ مِنْ حَوْلِ الْعَرْشِ يُسَبِّحُونَ بِحَمْدِ رَبِّهِمْ ۖ وَقُضِىَ بَيْنَهُم بِالْحَقِّ وَقِيلَ الْحَمْدُ لِلَّهِ رَبِّ الْعَـٰلَمِينَ",
+    "arabic_text": "وَتَرَى الْمَلٓـٰئِكَةَ حَآفِّينَ مِنْ حَوْلِ الْعَرْشِ يُسَبِّحُونَ بِحَمْدِ رَبِّهِمْ ۖ وَقُضِىَ بَيْنَهُم بِالْحَقِّ وَقِيلَ الْحَمْدُ لِلّٰهِ رَبِّ الْعَـٰلَمِينَ",
     "urdu_text": "اور تم دیکھو گے کہ فرشتے عرش کے گرد حلقہ بنائے ہوئے اپنے رب کی حمد کے ساتھ تسبیح کر رہے ہیں، اور لوگوں کے درمیان انصاف کے ساتھ فیصلہ کیا جائے گا، اور کہا جائے گا: تمام تعریفیں اللہ کے لیے ہیں جو تمام جہانوں کا رب ہے۔",
     "persian_text": "و فرشتگان را می‌بینی که گرداگرد عرش حلقه زده‌اند و به حمد پروردگارشان تسبیح می‌گویند، و میان آنان به حق داوری شد و گفته شد: ستایش مخصوص الله است که پروردگار جهانیان است.",
     "transliteration": "Wa taral-malaaa'ikata haaaffeena min hawlil-'arshi yusabbihoona bihamdi rabbihim wa qudiya baynahum bilhaqqi wa qeelal-hamdu lillaahi rabbil-'aalameen"

@@ -201,7 +201,7 @@ ayats = [
   {
     "verse_number": 25,
     "english_text": "The world and The Hereafter, everything is only for Allah.",
-    "arabic_text": "فَلِلَّهِ الْاخِرَةُ وَالْاُولَىٰ",
+    "arabic_text": "فَلِلّٰهِ الْاخِرَةُ وَالْاُولَىٰ",
     "urdu_text": "آخرت اور دنیا سب کچھ صرف اللہ ہی کے لیے ہے۔",
     "persian_text": "آخرت و دنیا همه از آن خداست.",
     "transliteration": "Falillaahi al-aakhiratu wal-oolaa"
@@ -249,7 +249,7 @@ ayats = [
   {
     "verse_number": 31,
     "english_text": "And to Allah belongs the authority of the skies and the earth, that He may punish those who do evil deeds; and reward those who do good deeds with what is the best.",
-    "arabic_text": "وَلِلَّهِ مَا فِى السَّمَـٰوٰتِ وَ مَا فِى الْاَرْضِ لِيَجْزِىَ الَّذِينَ اَسَـٰٓـُٔواْ بِمَا عَمِلُواْ وَيَجْزِىَ الَّذِينَ اَحْسَنُواْ بِالْحُسْنَى",
+    "arabic_text": "وَلِلّٰهِ مَا فِى السَّمَـٰوٰتِ وَ مَا فِى الْاَرْضِ لِيَجْزِىَ الَّذِينَ اَسَـٰٓـُٔواْ بِمَا عَمِلُواْ وَيَجْزِىَ الَّذِينَ اَحْسَنُواْ بِالْحُسْنَى",
     "urdu_text": "اور اللہ ہی کے لیے ہے جو کچھ آسمانوں میں ہے اور جو کچھ زمین میں ہے، تاکہ وہ بدی کرنے والوں کو ان کے اعمال کی سزا دے اور نیکی کرنے والوں کو بہترین جزا عطا فرمائے۔",
     "persian_text": "و آنچه در آسمان‌ها و آنچه در زمین است از آنِ الله است، تا کسانی را که بدی کرده‌اند به کیفر اعمالشان برساند و کسانی را که نیکی کرده‌اند به بهترین پاداش جزا دهد.",
     "transliteration": "Wa lillahi ma fis-samawati wa ma fil-ardi liyajziyal-ladhina asa'u bima 'amilu wa yajziyal-ladhina ahsanu bil-husna"
@@ -497,7 +497,7 @@ ayats = [
   {
     "verse_number": 62,
     "english_text": "So, prostrate for Allah and worship Him.",
-    "arabic_text": "فَاسْجُدُواْ لِلَّهِ وَاعْبُدُواْ ۩",
+    "arabic_text": "فَاسْجُدُواْ لِلّٰهِ وَاعْبُدُواْ ۩",
     "urdu_text": "پس اللہ کو سجدہ کرو اور اس کی عبادت کرو",
     "persian_text": "پس برای خدا سجده کنید و او را پرستش نمایید",
     "transliteration": "Fasjudoo lillaahi wa'budoo"

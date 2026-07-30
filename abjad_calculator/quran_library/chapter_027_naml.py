@@ -121,7 +121,7 @@ ayats = [
   {
     "verse_number": 15,
     "english_text": "And We gave knowledge to Dawood and Suleiman, both thanked Allah and said He has excelled us upon many of his servants.",
-    "arabic_text": "وَ لَقَدْ ءَاتَيْنَا دَاوُدَ وَسُلَيْمَـٰنَ عِلْمًا ۖ وَقَالَا الْحَمْدُ لِلَّهِ الَّذِى فَضَّلَنَا عَلَىٰ كَثِيرٍۢ مِّنْ عِبَادِهِ الْمُؤْمِنِينَ",
+    "arabic_text": "وَ لَقَدْ ءَاتَيْنَا دَاوُدَ وَسُلَيْمَـٰنَ عِلْمًا ۖ وَقَالَا الْحَمْدُ لِلّٰهِ الَّذِى فَضَّلَنَا عَلَىٰ كَثِيرٍۢ مِّنْ عِبَادِهِ الْمُؤْمِنِينَ",
     "urdu_text": "اور هم نے داؤد اور سلیمان کو علم عطا کیا، اور دونوں نے الله کا شکر ادا کیا اور کها: تمام تعریفیں الله کے لیے هیں جس نے همیں اپنے بهت سے مومن بندوں پر فضیلت دی۔",
     "persian_text": "و به راستی به داوود و سلیمان علم دادیم، و هر دو گفتند: ستایش خدایی را که ما را بر بسیاری از بندگان مؤمنش برتری بخشید.",
     "transliteration": "Wa laqad aatayna Dawooda wa Sulaymana 'ilman wa qaalal hamdu lillahil-lazi faddalna 'ala katheerin min 'ibadihil mu'mineen"
@@ -201,7 +201,7 @@ ayats = [
   {
     "verse_number": 25,
     "english_text": "Why don't they prostrate before Allah who knows all the secrets of the skies and the earth, and He also knows whatever people are doing openly or secretly.",
-    "arabic_text": "اَلَّا يَسْجُدُواْ لِلَّهِ الَّذِى يُخْرِجُ الْخَبْءَ فِى السَّمَـٰوٰتِ وَ الْاَرْضِ وَيَعْلَمُ مَا تُخْفُونَ وَ مَا تُعْلِنُونَ",
+    "arabic_text": "اَلَّا يَسْجُدُواْ لِلّٰهِ الَّذِى يُخْرِجُ الْخَبْءَ فِى السَّمَـٰوٰتِ وَ الْاَرْضِ وَيَعْلَمُ مَا تُخْفُونَ وَ مَا تُعْلِنُونَ",
     "urdu_text": "کیوں نهیں سجده کرتے الله کو جو آسمانوں اور زمین میں چھپی هوئی چیزوں کو نکالتا هے، اور جو کچھ تم چھپاتے هو اور جو ظاهر کرتے هو وه سب جانتا هے۔",
     "persian_text": "چرا برای خدایی سجده نمی‌کنند که پنهان‌های آسمان‌ها و زمین را آشکار می‌سازد و آنچه را پنهان می‌دارید و آنچه را آشکار می‌کنید می‌داند.",
     "transliteration": "Alla yasjudu lillahil-ladhi yukhrijul-khab'a fis-samawati wal-arḍi waya'lamu ma tukhfuna wama tu'linun"
@@ -353,7 +353,7 @@ ayats = [
   {
     "verse_number": 44,
     "english_text": "Then she was told to enter the fort, when she saw it, she thought that it was deep water. (she rolled up her garment) and her shanks were exposed, Suleiman said this is a fort which has been covered with glass, and she (Bilqees) said: I did unjust to my soul, now with Suleiman I believed in God Who is Lord of the worlds.",
-    "arabic_text": "قِيلَ لَهَا ادْخُلِى الصَّرْحَ ۖ فَلَمَّا رَاَتْهُ حَسِبَتْهُ لُجَّةًۭ وَكَشَفَتْ عَن سَاقَيْهَا ۚ قَالَ اِنَّهُ صَرْحٌۭ مُّمَرَّدٌۭ مِّن قَوَارِيرَ ۗ قَالَتْ رَبِّ اِنِّى ظَلَمْتُ نَفْسِى وَاَسْلَمْتُ مَعَ سُلَيْمَـٰنَ لِلَّهِ رَبِّ الْعَـٰلَمِينَ",
+    "arabic_text": "قِيلَ لَهَا ادْخُلِى الصَّرْحَ ۖ فَلَمَّا رَاَتْهُ حَسِبَتْهُ لُجَّةًۭ وَكَشَفَتْ عَن سَاقَيْهَا ۚ قَالَ اِنَّهُ صَرْحٌۭ مُّمَرَّدٌۭ مِّن قَوَارِيرَ ۗ قَالَتْ رَبِّ اِنِّى ظَلَمْتُ نَفْسِى وَاَسْلَمْتُ مَعَ سُلَيْمَـٰنَ لِلّٰهِ رَبِّ الْعَـٰلَمِينَ",
     "urdu_text": "اس سے کها گیا: محل میں داخل هو جاؤ، جب اس نے اسے دیکھا تو اسے گهرا پانی سمجھا اور اپنی پنڈلیاں کھول دیں، سلیمان نے کها: یه شیشے کا بنا هوا هموار فرش هے، اس نے کها: اے میرے رب! میں نے اپنے آپ پر ظلم کیا اور میں سلیمان کے ساتھ الله رب العالمین کے لیے اسلام لائی۔",
     "persian_text": "به او گفته شد: وارد کاخ شو، پس چون آن را دید، پنداشت دریاچه‌ای است و ساق‌های خود را برهنه کرد، گفت: این کاخی است صاف شده از شیشه، گفت: پروردگارا! من به خود ستم کردم و با سلیمان برای خدای پروردگار جهانیان تسلیم شدم.",
     "transliteration": "Qeela lahadkhulis-sarha falammaa ra-athu hasibathu lujjatanw wa kashafat 'an saaqayhaa qaala innahoo sarhum mumarradum min qawaarir qaalat rabbi innee zalamtu nafsee wa aslamtu ma'a Sulaymaana lillaahi rabbil-'aalameen"
@@ -473,7 +473,7 @@ ayats = [
   {
     "verse_number": 59,
     "english_text": "Say: All the Praises are for Allah, and salutations on His servants whom He has chosen; whether Allah is better or those whom they are making His partner?",
-    "arabic_text": "قُلِ الْحَمْدُ لِلَّهِ وَسَلَـٰمٌ عَلَىٰ عِبَادِهِ الَّذِينَ اصْطَفَىٰٓ ۗ ءَآللّٰهُ خَيْرٌ اَمَّا يُشْرِكُونَ",
+    "arabic_text": "قُلِ الْحَمْدُ لِلّٰهِ وَسَلَـٰمٌ عَلَىٰ عِبَادِهِ الَّذِينَ اصْطَفَىٰٓ ۗ ءَآللّٰهُ خَيْرٌ اَمَّا يُشْرِكُونَ",
     "urdu_text": "کهه دو: تمام تعریفیں الله کے لیے هیں اور سلام هو اس کے برگزیده بندوں پر، کیا الله بهتر هے یا وه جنهیں یه شریک ٹھهراتے هیں؟",
     "persian_text": "بگو: ستایش مخصوص خداست و سلام بر بندگان برگزیده‌اش، آیا خدا بهتر است یا آنچه شریکش می‌سازند؟",
     "transliteration": "Quli al-ḥamdu lillāhi wa salāmun 'alā 'ibādihī alladhīna iṣṭafā āllāhu khayrun ammā yushrikūn"
@@ -745,7 +745,7 @@ ayats = [
   {
     "verse_number": 93,
     "english_text": "And say: all the Praise is only for Allah, and He will show his signs very soon, then you will understand that your Lord is not oblivious to your deeds.",
-    "arabic_text": "وَقُلِ الْحَمْدُ لِلَّهِ سَيُرِيكُمْ اٰيٰتِهِ فَتَعْرِفُونَهَا ۚ وَ مَا رَبُّكَ بِغَـٰفِلٍ عَمَّا تَعْمَلُونَ",
+    "arabic_text": "وَقُلِ الْحَمْدُ لِلّٰهِ سَيُرِيكُمْ اٰيٰتِهِ فَتَعْرِفُونَهَا ۚ وَ مَا رَبُّكَ بِغَـٰفِلٍ عَمَّا تَعْمَلُونَ",
     "urdu_text": "اور کهه دو که تمام تعریفیں صرف الله هی کے لیے هیں، وه عنقریب تمهیں اپنی نشانیاں دکھائے گا تو تم انهیں پهچان لو گے، اور تمهارا رب تمهارے اعمال سے غافل نهیں هے۔",
     "persian_text": "و بگو: ستایش تنها برای خداست، به زودی نشانه‌های خود را به شما نشان خواهد داد و آنها را خواهید شناخت، و پروردگار تو از آنچه انجام می‌دهید غافل نیست.",
     "transliteration": "Wa qulil hamdu lillaahi sa yureekum aayaatihi fata'rifoonahaa wa maa rabbuka bighaafilin 'ammaa ta'maloon"

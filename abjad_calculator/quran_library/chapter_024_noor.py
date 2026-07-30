@@ -337,7 +337,7 @@ ayats = [
   {
     "verse_number": 42,
     "english_text": "Kingdom of the earth and the sky is only for Allah, and everyone has to return to Him only.",
-    "arabic_text": "وَلِلَّهِ مُلْكُ السَّمَـٰوٰتِ وَ الْاَرْضِ ۖ وَ اِلـٰى اللّٰهِ الْمَصِيرُ",
+    "arabic_text": "وَلِلّٰهِ مُلْكُ السَّمَـٰوٰتِ وَ الْاَرْضِ ۖ وَ اِلـٰى اللّٰهِ الْمَصِيرُ",
     "urdu_text": "اور آسمانوں اور زمین کی بادشاهی صرف الله هی کے لیے هے، اور سب کو الله هی کی طرف لوٹنا هے۔",
     "persian_text": "و فرمانروایی آسمان‌ها و زمین تنها از آن الله است، و بازگشت همه به سوی الله است.",
     "transliteration": "Wa lillahi mulkus-samawati wal-ardi wa ilallahil-masir"
@@ -513,7 +513,7 @@ ayats = [
   {
     "verse_number": 64,
     "english_text": "And, remember all the universe of the sky and earth is His, and is cognizant of your condition, and that day when everyone will be returned to His Court, He will tell them about their deeds, and He is Knower of all things.",
-    "arabic_text": "اَلَآ اِنَّ لِلَّهِ مَا فِى السَّمَـٰوٰتِ وَ الْاَرْضِ ۖ قَدْ يَعْلَمُ مَآ اَنتُمْ عَلَيْهِ وَ يَوْمَ يُرْجَعُونَ اِلَيْهِ فَيُنَبِّئُهُم بِمَا عَمِلُواْ ۗ وَ اللّٰهُ بِكُلِّ شَىْءٍ عَلِيمٌۢ",
+    "arabic_text": "اَلَآ اِنَّ لِلّٰهِ مَا فِى السَّمَـٰوٰتِ وَ الْاَرْضِ ۖ قَدْ يَعْلَمُ مَآ اَنتُمْ عَلَيْهِ وَ يَوْمَ يُرْجَعُونَ اِلَيْهِ فَيُنَبِّئُهُم بِمَا عَمِلُواْ ۗ وَ اللّٰهُ بِكُلِّ شَىْءٍ عَلِيمٌۢ",
     "urdu_text": "خبردار! جو کچھ آسمانوں اور زمین میں هے وه الله هی کا هے۔ وه تمهاری حالت کو خوب جانتا هے، اور جس دن سب اس کی طرف لوٹائے جائیں گے تو وه انهیں بتا دے گا جو کچھ انهوں نے کیا تھا۔ اور الله هر چیز کا جانے والا هے۔",
     "persian_text": "آگاه باشید که آنچه در آسمان‌ها و زمین است از آنِ خداست. او به آنچه بر آن هستید داناست و روزی که همه به سوی او بازگردانده می‌شوند، پس آنان را از آنچه انجام داده‌اند آگاه می‌سازد. و خداوند به هر چیزی داناست.",
     "transliteration": "Alaa inna lillaahi maa fis-samaawaati wal-ard. Qad ya'lamu maa antum 'alayhi wa yawma yurja'oona ilayhi fayunabbi'uhum bimaa 'amiloo. Wallaahu bikulli shay'in 'aleem."

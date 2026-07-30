@@ -9,7 +9,7 @@ ayats = [
   {
     "verse_number": 1,
     "english_text": "All praises are worthy for Allah only Who revealed the Book (Quran) on His servant (Mohammad [SAW]); and did not keep any crookedness in it.",
-    "arabic_text": "الْحَمْدُ لِلَّهِ الَّذِىٓ اَنزَلَ عَلَىٰ عَبْدِهِ الْكِتٰبَ وَلَمْ يَجْعَل لَّهُ عِوَجَا ۜ",
+    "arabic_text": "الْحَمْدُ لِلّٰهِ الَّذِىٓ اَنزَلَ عَلَىٰ عَبْدِهِ الْكِتٰبَ وَلَمْ يَجْعَل لَّهُ عِوَجَا ۜ",
     "urdu_text": "تمام تعریفیں الله هی کے لیے هیں جس نے اپنے بندے (محمد صلی الله علیه وسلم) پر کتاب (قرآن) نازل فرمائی اور اس میں کوئی کجی نهیں رکھی۔",
     "persian_text": "ستایش مخصوص خداوندی است که کتاب (قرآن) را بر بنده‌اش (محمد صلی الله علیه وسلم) نازل کرد و در آن هیچ کژی و انحرافی قرار نداد.",
     "transliteration": "Alhamdu lillahil-lathee anzala 'ala 'abdihil-kitaba wa lam yaj'al lahu 'iwaja"
@@ -353,7 +353,7 @@ ayats = [
   {
     "verse_number": 44,
     "english_text": "And it was proved here that guardianship is only for Allah; who is truthful, and He is best in requiting and is better in giving the end result.",
-    "arabic_text": "هُنَالِكَ الْوَلَـٰيَةُ لِلَّهِ الْحَقِّ ۚ هُوَ خَيْرٌۭ ثَوَابًا وَخَيْرٌ عُقْبًا",
+    "arabic_text": "هُنَالِكَ الْوَلَـٰيَةُ لِلّٰهِ الْحَقِّ ۚ هُوَ خَيْرٌۭ ثَوَابًا وَخَيْرٌ عُقْبًا",
     "urdu_text": "یهاں ثابت هو گیا که حمایت صرف الله برحق کے لیے هے، وهی بهترین اجر دینے والا هے اور بهترین انجام عطا کرنے والا هے۔",
     "persian_text": "در آنجا سرپرستی تنها از آنِ خدای حق است، او بهترین پاداش‌دهنده و بهترین عاقبت‌بخش است.",
     "transliteration": "Hunaalika al-walaayatu lillaahil-haqq, huwa khayrun thawaaban wa khayrun 'uqbaa"

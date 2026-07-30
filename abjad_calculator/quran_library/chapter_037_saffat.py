@@ -1457,7 +1457,7 @@ ayats = [
   {
     "verse_number": 182,
     "english_text": "All praises be to Allah, for the Lord of the Worlds.",
-    "arabic_text": "وَالْحَمْدُ لِلَّهِ رَبِّ الْعَـٰلَمِينَ",
+    "arabic_text": "وَالْحَمْدُ لِلّٰهِ رَبِّ الْعَـٰلَمِينَ",
     "urdu_text": "اور تمام تعریفیں الله کے لیے هیں جو تمام جهانوں کا رب هے",
     "persian_text": "و ستایش مخصوص خداوند، پروردگار جهانیان است",
     "transliteration": "Wal hamdu lillaahi rabbil 'aalameen"

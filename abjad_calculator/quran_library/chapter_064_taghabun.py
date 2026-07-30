@@ -9,7 +9,7 @@ ayats = [
   {
     "verse_number": 1,
     "english_text": "Every particle on the earth and in the skies is glorifying Allah, to Him belongs the Kingdom and to Him belongs the Praise and He has the power over all things.",
-    "arabic_text": "يُسَبِّحُ لِلَّهِ مَا فِى السَّمَـٰوٰتِ وَ مَا فِى الْاَرْضِ ۖ لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ ۖ وَ هُوَ عَلَىٰ كُلِّ شَىْءٍۢ قَدِيرٌ",
+    "arabic_text": "يُسَبِّحُ لِلّٰهِ مَا فِى السَّمَـٰوٰتِ وَ مَا فِى الْاَرْضِ ۖ لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ ۖ وَ هُوَ عَلَىٰ كُلِّ شَىْءٍۢ قَدِيرٌ",
     "urdu_text": "آسمانوں اور زمین میں جو کچھ هے سب الله کی تسبیح کرتا هے، اسی کے لیے بادشاهی هے اور اسی کے لیے تمام تعریفیں هیں، اور وه هر چیز پر قادر هے۔",
     "persian_text": "آنچه در آسمان‌ها و آنچه در زمین است، همه تسبیح الله می‌گویند، فرمانروایی از آنِ اوست و ستایش از آنِ اوست، و او بر هر چیزی تواناست.",
     "transliteration": "Yusabbihu lillahi ma fis-samawati wa ma fil-ard, lahul-mulku wa lahul-hamd, wa huwa 'ala kulli shay'in qadir"
