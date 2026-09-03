@@ -6,6 +6,8 @@ const DUAS_FOLDER = "output/duas"; // ← path under repo root for duas
 let allFiles = []; // Store all files for filtering
 let currentTab = 'surahs'; // Track current active tab
 
+let calculatorLoaded = false;
+
 function switchTab(tabName) {
   currentTab = tabName;
 
@@ -22,6 +24,8 @@ function switchTab(tabName) {
   // Handle different tabs
   if (tabName === 'search') {
     renderSearchInterface();
+  } else if (tabName === 'calculator') {
+    showCalculator();
   } else {
     renderFiles(allFiles, tabName);
   }
@@ -156,16 +160,16 @@ function closeMobileMenu() {
 function switchTabMobile(tabName) {
   // Close mobile menu
   closeMobileMenu();
-  
+
   // Update currentTab
   currentTab = tabName;
-  
+
   // Update mobile menu item states
   document.querySelectorAll('.mobile-menu-item').forEach(item => {
     item.classList.remove('active');
   });
   document.querySelector(`.mobile-menu-item[data-tab="${tabName}"]`).classList.add('active');
-  
+
   // Also update desktop tab button states to keep them in sync
   document.querySelectorAll('.tab-button').forEach(btn => {
     btn.classList.remove('active');
@@ -174,11 +178,35 @@ function switchTabMobile(tabName) {
   if (desktopTab) {
     desktopTab.classList.add('active');
   }
-  
+
   // Handle different tabs
   if (tabName === 'search') {
     renderSearchInterface();
+  } else if (tabName === 'calculator') {
+    showCalculator();
   } else {
     renderFiles(allFiles, tabName);
+  }
+}
+
+function showCalculator() {
+  document.getElementById('surah-container').style.display = 'none';
+  document.getElementById('calculator-container').style.display = 'block';
+
+  // Lazy load calculator script
+  if (!calculatorLoaded) {
+    const script = document.createElement('script');
+    script.src = 'abjad_calculator/apps/quran/template/static/js/abjad-calculator.js';
+    script.onload = function() { calculatorLoaded = true; };
+    document.head.appendChild(script);
+  }
+}
+
+function calculateInput() {
+  const input = document.getElementById('calculator-input').value;
+  const resultsContainer = document.getElementById('calculator-results');
+
+  if (typeof renderCalculatorResult === 'function') {
+    renderCalculatorResult(resultsContainer, input);
   }
 }
