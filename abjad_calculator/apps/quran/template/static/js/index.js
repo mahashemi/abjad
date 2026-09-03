@@ -23,12 +23,19 @@ function switchTab(tabName) {
 
   // Handle different tabs
   if (tabName === 'search') {
+    showMainContainer();
     renderSearchInterface();
   } else if (tabName === 'calculator') {
     showCalculator();
   } else {
+    showMainContainer();
     renderFiles(allFiles, tabName);
   }
+}
+
+function showMainContainer() {
+  document.getElementById('surah-container').style.display = 'block';
+  document.getElementById('calculator-container').style.display = 'none';
 }
 
 function renderFiles(files, filterTab = 'surahs') {
@@ -181,10 +188,12 @@ function switchTabMobile(tabName) {
 
   // Handle different tabs
   if (tabName === 'search') {
+    showMainContainer();
     renderSearchInterface();
   } else if (tabName === 'calculator') {
     showCalculator();
   } else {
+    showMainContainer();
     renderFiles(allFiles, tabName);
   }
 }
