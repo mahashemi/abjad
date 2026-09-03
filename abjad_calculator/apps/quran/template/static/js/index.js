@@ -34,7 +34,7 @@ function switchTab(tabName) {
 }
 
 function showMainContainer() {
-  document.getElementById('surah-container').style.display = 'block';
+  document.getElementById('surah-container').style.display = 'flex';
   document.getElementById('calculator-container').style.display = 'none';
 }
 

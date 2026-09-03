@@ -207,3 +207,10 @@ function renderCalculatorResult(container, text) {
 
     container.innerHTML = html;
 }
+
+function toggleLetterDetail(card) {
+    const breakdown = card.querySelector('.letter-breakdown');
+    if (breakdown) {
+        breakdown.classList.toggle('show');
+    }
+}
