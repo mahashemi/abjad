@@ -179,7 +179,6 @@ def process_multiple_verses(
         word_abjad_tables_html = create_word_letter_value_tables(
             word_breakdown=word_abjad_breakdown,
             show_letters=debug,
-            chars_per_row=chars_per_row,
         )
 
         # title = f"آية "

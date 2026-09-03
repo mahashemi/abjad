@@ -25,7 +25,7 @@ ayats = [
   {
     "verse_number": 3,
     "english_text": "Their hearts are totally unaware (from the Day of the Judgement), and these unjust secretly whisper that this man (Mohammad [SAW]) is nothing but a mortal like you, then will you entangle in manifest magic knowingly.",
-    "arabic_text": "لَاهِيَةًۭ قُلُوبُهُمْ ۗ وَاَسَرُّواْ النَّجْوَى الَّذِينَ ظَلَمُواْ هَلْ هَـٰذَآ اِلَّا بَشَرٌۭ مِّثْلُكُمْ ۖ اَفَتَاْتُونَ السِّحْرَ وَ اَنتُمْ تُبْصِرُونَ",
+    "arabic_text": "لَاهِيَةًۭ قُلُوبُهُمْ ۗ وَ اَسَرُّواْ النَّجْوَى الَّذِينَ ظَلَمُواْ هَلْ هَـٰذَآ اِلَّا بَشَرٌۭ مِّثْلُكُمْ ۖ اَفَتَاْتُونَ السِّحْرَ وَ اَنتُمْ تُبْصِرُونَ",
     "urdu_text": "ان کے دل غافل ہیں، اور ظالموں نے چپکے سے سرگوشیاں کیں کہ یہ تو تمہاری طرح ایک انسان ہے، تو کیا تم جانتے بوجھتے جادو کے پیچھے پڑو گے؟",
     "persian_text": "دل‌هایشان غافل است، و ستمکاران پنهانی نجوا کردند که آیا این جز بشری مانند شما نیست؟ آیا آگاهانه به سوی جادو می‌روید؟",
     "transliteration": "Laahiyatan quloobuhum wa asarrun najwal ladheena zalamoo hal haadhaaa illaa basharum mithlukum afata'toonas sihra wa antum tubsiroon"
@@ -49,7 +49,7 @@ ayats = [
   {
     "verse_number": 6,
     "english_text": "We destroyed the earlier people. (but they did not believe) even after seeing the miracles, then what will these people believe?",
-    "arabic_text": "مَآ ءَامَنَتْ قَبْلَهُم مِّن قَرْيَةٍ اَهْلَكْنَـٰهَآ ۖ اَفَهُمْ يُؤْمِنُونَ",
+    "arabic_text": "مَآ وَ ءَامَنَتْ قَبْلَهُم مِّن قَرْيَةٍ اَهْلَكْنَـٰهَآ ۖ اَفَهُمْ يُؤْمِنُونَ",
     "urdu_text": "ان سے پہلے جن بستیوں کو ہم نے ہلاک کیا، ان میں سے کسی نے بھی ایمان نہیں لایا، تو کیا یہ لوگ ایمان لائیں گے؟",
     "persian_text": "هیچ شهری که پیش از اینان هلاک کردیم ایمان نیاورد، پس آیا اینان ایمان خواهند آورد؟",
     "transliteration": "Maaa aamanat qablahum min qaryatin ahlaknaahaa afahum yu'minoon"
@@ -89,7 +89,7 @@ ayats = [
   {
     "verse_number": 11,
     "english_text": "We destroyed many settlements whose dwellers were transgressors and created other people in their place.",
-    "arabic_text": "وَكَمْ قَصَمْنَا مِن قَرْيَةٍۢ كَانَتْ ظَالِمَةًۭ وَاَنشَاْنَا بَعْدَهَا قَوْمًا ءَاخَرِينَ",
+    "arabic_text": "وَكَمْ قَصَمْنَا مِن قَرْيَةٍۢ كَانَتْ ظَالِمَةًۭ وَ اَنشَاْنَا بَعْدَهَا قَوْمًا ءَاخَرِينَ",
     "urdu_text": "اور ہم نے کتنی ہی بستیوں کو تباہ کر دیا جن کے رہنے والے ظالم تھے اور ان کے بعد دوسری قوموں کو پیدا کیا۔",
     "persian_text": "و چه بسیار آبادی‌هایی را که ساکنانشان ستمگر بودند نابود کردیم و پس از آنها قوم دیگری را پدید آوردیم.",
     "transliteration": "Wa kam qasamna min qaryatin kanat zalimatan wa ansha'na ba'daha qawman akhareen"
@@ -105,7 +105,7 @@ ayats = [
   {
     "verse_number": 13,
     "english_text": "(We said) do not run (now), go back to your homes where you lived an easy life, so that something is enquired with you.",
-    "arabic_text": "لَا تَرْكُضُواْ وَارْجِعُوٓاْ اِلـٰى مَآ اُتْرِفْتُمْ فِيهِ وَمَسَـٰكِنِكُمْ لَعَلَّكُمْ تُسْـَٔلُونَ",
+    "arabic_text": "لَا تَرْكُضُواْ وَ ارْجِعُوٓاْ اِلـٰى مَآ اُتْرِفْتُمْ فِيهِ وَ مَسَـٰكِنِكُمْ لَعَلَّكُمْ تُسْـَٔلُونَ",
     "urdu_text": "(ہم نے کہا) اب مت بھاگو، واپس لوٹ جاؤ اپنی آسائشوں اور اپنے گھروں کی طرف تاکہ تم سے پوچھا جائے۔",
     "persian_text": "(گفتیم) مدوید و بازگردید به آنچه در آن ناز پرورده شده بودید و به خانه‌هایتان، شاید از شما پرسیده شود.",
     "transliteration": "La tarkudo warji'u ila ma utriftum feehi wa masakinikum la'allakum tus'aloon"

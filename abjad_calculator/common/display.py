@@ -201,95 +201,63 @@ def render_naqsh_html(naqsh_result: NaqshResult, output_html=False, output_path=
     
     return html_output
 
-def create_word_letter_value_tables(word_breakdown: List[AbjadResult], show_letters=False, chars_per_row=18):
+def create_word_letter_value_tables(word_breakdown: List[AbjadResult], show_letters=False):
     """
-    Create HTML tables for letter/value representation with row splitting.
+    Create flexbox-based HTML for letter/value representation.
+    All words go in a single row - flexbox handles wrapping naturally.
     
     Args:
-        breakdown (list): List of letter/value dictionaries from calculation
-        chars_per_row (int): Maximum characters per row
+        word_breakdown (list): List of AbjadResult objects from calculation
+        show_letters (bool): Whether to show individual letter breakdown
         
     Returns:
-        str: HTML string with tables
+        str: HTML string with flexbox layout
     """
     tables_html = ""
     
-    # Split the breakdown into chunks
-    for i in range(0, len(word_breakdown), chars_per_row):
-        chunk = word_breakdown[i:i+chars_per_row]
+    # Filter to only words with content
+    valid_words = [w for w in word_breakdown if w.cleaned_text.strip()]
+    
+    if not valid_words:
+        return tables_html
+    
+    # Single flex container - all words inside, flex-wrap handles layout
+    row_html = '<div class="word-cards-row">\n'
+    
+    for word in valid_words:
+        # Individual letter breakdown (collapsible)
+        letter_detail_html = ""
+        if show_letters and word.breakdown:
+            letter_items = []
+            for idx, letter in enumerate(word.breakdown):
+                border_class = "letter-item-light" if idx < len(word.breakdown) - 1 else "letter-item-dark"
+                letter_items.append(
+                    f'<div class="letter-item {border_class}">'
+                    f'<span class="letter-char">{letter.letter}</span>'
+                    f'<span class="letter-qamari">{letter.qamari_value}</span>'
+                    f'<span class="letter-malfuzi">{letter.malfuzi_value}</span>'
+                    f'</div>'
+                )
+            letter_detail_html = (
+                f'<div class="letter-breakdown">'
+                f'{"".join(letter_items)}'
+                f'</div>'
+            )
         
-        # Start a table
-        table_html = '<table class="qamari-malfuzi-table">\n'
-        # letter row
-        if show_letters:
-            table_html += '<tr class="letter-row letter-value-row">\n'
-            for word in chunk:
-                len_word_breakdown = len(word.breakdown)
-                for idx, letter in enumerate(word.breakdown):
-                    class_letter_border = "light-letter-left-border"
-                    if idx==len_word_breakdown-1:
-                        class_letter_border = "dark-letter-left-border"
-                    try:
-                        table_html += f'<td class="{class_letter_border}">{letter.letter}</td>\n'
-                    except Exception as ex:
-                        print(word)
-                        raise ex
-            table_html += '</tr>\n'
-            
-            # Qamari Value row
-            table_html += '<tr class="value-row letter-value-row qamari-value-row">\n'
-            for word in chunk:
-                len_word_breakdown = len(word.breakdown)
-                for idx, letter in enumerate(word.breakdown):
-                    class_letter_border = "light-letter-left-border"
-                    if idx==len_word_breakdown-1:
-                        class_letter_border = "dark-letter-left-border"
-                    try:
-                        table_html += f'<td class="{class_letter_border}">{letter.qamari_value}</td>\n'
-                    except Exception as ex:
-                        print(word)
-                        raise ex
-            table_html += '</tr>\n'
-
-            # Malfuzi Value row
-            table_html += '<tr class="value-row letter-value-row malfuzi-value-row">\n'
-            for word in chunk:
-                len_word_breakdown = len(word.breakdown)
-                for idx, letter in enumerate(word.breakdown):
-                    class_letter_border = "light-letter-left-border"
-                    if idx==len_word_breakdown-1:
-                        class_letter_border = "dark-letter-left-border"
-                    try:
-                        table_html += f'<td class="{class_letter_border}">{letter.malfuzi_value}</td>\n'
-                    except Exception as ex:
-                        print(word)
-                        raise ex
-            table_html += '</tr>\n'
-        ###    
-        table_html += '<tr class="word-row arabic-font">\n'
-        for word in chunk:
-            if word.cleaned_text.strip():
-                table_html += f'<td colspan={len(word.breakdown)}>{word.original_text}</td>\n'
-        table_html += '</tr>\n'
-
-        # Qamari Value row
-        table_html += '<tr class="value-row qamari-value-row">\n'
-        for word in chunk:
-            if word.cleaned_text.strip():
-                table_html += f'<td colspan={len(word.breakdown)}>{word.total_qamari_value}</td>\n'
-        table_html += '</tr>\n'
-
-        # Malfuzi Value row
-        table_html += '<tr class="value-row malfuzi-value-row">\n'
-        for word in chunk:
-            if word.cleaned_text.strip():
-                table_html += f'<td colspan={len(word.breakdown)}>{word.total_malfuzi_value}</td>\n'
-        table_html += '</tr>\n'
-
-        
-        # End the table
-        table_html += '</table>\n'
-        tables_html += table_html
+        # Word card with values
+        row_html += (
+            f'<div class="word-card" onclick="toggleLetterDetail(this)">'
+            f'{letter_detail_html}'
+            f'<div class="word-text arabic-font">{word.original_text}</div>'
+            f'<div class="word-values">'
+            f'<span class="value-qamari">{word.total_qamari_value}</span>'
+            f'<span class="value-malfuzi">{word.total_malfuzi_value}</span>'
+            f'</div>'
+            f'</div>\n'
+        )
+    
+    row_html += '</div>\n'
+    tables_html += row_html
     
     return tables_html
 

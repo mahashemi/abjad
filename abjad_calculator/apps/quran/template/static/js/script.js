@@ -14,6 +14,14 @@ document.addEventListener("DOMContentLoaded", function () {
         "toggle-totals": ".adad-row, .grand-total",
     };
 
+    // Toggle letter detail on word card click
+    window.toggleLetterDetail = function (card) {
+        const breakdown = card.querySelector('.letter-breakdown');
+        if (breakdown) {
+            breakdown.classList.toggle('show');
+        }
+    };
+
     // Simple function to find elements with text content
     function findElementsWithText(containerSelector, textContent) {
         const containers = document.querySelectorAll(containerSelector);
