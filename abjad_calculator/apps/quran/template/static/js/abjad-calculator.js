@@ -205,5 +205,5 @@ function renderCalculatorResult(container, text) {
     html += generateGrandTotalHtml(fullResult);
     html += '</div>';
 
-    container.innerHTML = container.innerHTML + html;
+    container.innerHTML = html;
 }
