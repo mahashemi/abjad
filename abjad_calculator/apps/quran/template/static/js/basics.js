@@ -67,19 +67,22 @@ function renderBasicsPage(container) {
 
         let letterDetailHtml = '';
         if (nameLetters.length > 0) {
-            let letterItems = '';
+            let lettersRow = '';
+            let qamariRow = '';
+            let malfuziRow = '';
             for (let idx = 0; idx < nameLetters.length; idx++) {
                 const letter = nameLetters[idx];
-                const borderClass = idx < nameLetters.length - 1 ? 'letter-item-light' : 'letter-item-dark';
-                letterItems += '<div class="letter-item ' + borderClass + '"><span class="letter-char">' + letter.letter + '</span><span class="letter-qamari">' + letter.qamari_value + '</span><span class="letter-malfuzi">' + letter.malfuzi_value + '</span></div>';
+                lettersRow += '<td class="transposed-letter">' + letter.letter + '</td>';
+                qamariRow += '<td class="transposed-qamari">' + letter.qamari_value + '</td>';
+                malfuziRow += '<td class="transposed-malfuzi">' + letter.malfuzi_value + '</td>';
             }
-            letterDetailHtml = '<div class="letter-breakdown">' + letterItems + '</div>';
+            letterDetailHtml = '<div class="letter-breakdown"><table class="transposed-table"><tr>' + lettersRow + '</tr><tr>' + qamariRow + '</tr><tr>' + malfuziRow + '</tr></table></div>';
         }
 
         html += '<div class="word-card" onclick="toggleLetterDetail(this)">';
         html += letterDetailHtml;
         html += '<div class="word-text arabic-font">' + group.name + '</div>';
-        html += '<div class="word-values"><span class="value-malfuzi">' + malfuzi + '</span></div>';
+        html += '<div class="word-values"><span class="value-qamari">' + group.nameBreakdown.total_qamari_value + '</span><span class="value-malfuzi">' + malfuzi + '</span></div>';
         html += '</div>';
     }
 

@@ -410,4 +410,33 @@
     .element-table .letters-cell { font-size: 16px; letter-spacing: 3px; }
 }
 
+/* Transposed Table for Malfuzi */
+.transposed-table {
+    direction: rtl;
+    margin: 0 auto;
+}
+
+.transposed-table td {
+    padding: 4px 8px;
+    text-align: center;
+}
+
+.transposed-letter {
+    font-size: 20px;
+    font-weight: bold;
+    color: var(--secondary-color);
+}
+
+.transposed-qamari {
+    font-size: 12px;
+    color: var(--qamari-color);
+}
+
+.transposed-malfuzi {
+    font-size: 12px;
+    color: var(--malfuzi-color);
+    font-style: oblique;
+}
+
+
 
