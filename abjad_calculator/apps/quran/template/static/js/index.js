@@ -7,6 +7,7 @@ let allFiles = []; // Store all files for filtering
 let currentTab = 'surahs'; // Track current active tab
 
 let calculatorLoaded = false;
+let basicsLoaded = false;
 
 function switchTab(tabName) {
   currentTab = tabName;
@@ -27,6 +28,8 @@ function switchTab(tabName) {
     renderSearchInterface();
   } else if (tabName === 'calculator') {
     showCalculator();
+  } else if (tabName === 'basics') {
+    showBasics();
   } else {
     showMainContainer();
     renderFiles(allFiles, tabName);
@@ -36,6 +39,25 @@ function switchTab(tabName) {
 function showMainContainer() {
   document.getElementById('surah-container').style.display = 'flex';
   document.getElementById('calculator-container').style.display = 'none';
+  document.getElementById('basics-container').style.display = 'none';
+}
+
+function showBasics() {
+  document.getElementById('surah-container').style.display = 'none';
+  document.getElementById('calculator-container').style.display = 'none';
+  document.getElementById('basics-container').style.display = 'block';
+
+  if (!basicsLoaded) {
+    const script = document.createElement('script');
+    script.src = 'abjad_calculator/apps/quran/template/static/js/basics.js';
+    script.onload = function() {
+      basicsLoaded = true;
+      renderBasicsPage(document.getElementById('basics-container'));
+    };
+    document.head.appendChild(script);
+  } else {
+    renderBasicsPage(document.getElementById('basics-container'));
+  }
 }
 
 function renderFiles(files, filterTab = 'surahs') {
@@ -192,6 +214,8 @@ function switchTabMobile(tabName) {
     renderSearchInterface();
   } else if (tabName === 'calculator') {
     showCalculator();
+  } else if (tabName === 'basics') {
+    showBasics();
   } else {
     showMainContainer();
     renderFiles(allFiles, tabName);

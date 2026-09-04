@@ -952,6 +952,9 @@
       <div class="mobile-menu-item" data-tab="calculator" onclick="switchTabMobile('calculator')">
         الحاسبة
       </div>
+      <div class="mobile-menu-item" data-tab="basics" onclick="switchTabMobile('basics')">
+        الأساسيات
+      </div>
     </div>
 
     <!-- Tab Navigation -->
@@ -968,6 +971,9 @@
       <button class="tab-button" data-tab="calculator" onclick="switchTab('calculator')">
         الحاسبة
       </button>
+      <button class="tab-button" data-tab="basics" onclick="switchTab('basics')">
+        الأساسيات
+      </button>
     </div>
 
     <div class="surah-container" id="surah-container">
@@ -981,6 +987,11 @@
         <button id="calculator-btn" class="calculator-btn" onclick="calculateInput()">احسب</button>
       </div>
       <div class="calculator-results" id="calculator-results"></div>
+    </div>
+
+    <!-- Basics Interface -->
+    <div class="basics-page-container" id="basics-container" style="display:none;">
+      <div class="loading">Loading...</div>
     </div>
   </body>
   <script src="abjad_calculator/apps/quran/template/static/js/search.js"></script>
