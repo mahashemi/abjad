@@ -2,18 +2,7 @@
  * Basics Page - Educational Tables
  * Reuses Quran surah page design patterns
  */
-
-const ELEMENT_INFO = {
-    "atishi": { name: "آتشی", meaning: "Fire", icon: "🔥", color: "#8B0000" },
-    "baadi": { name: "هوایی", meaning: "Air", icon: "💨", color: "#4B0082" },
-    "aabi": { name: "آبی", meaning: "Water", icon: "💧", color: "#00008B" },
-    "khaki": { name: "خاکی", meaning: "Earth", icon: "🌍", color: "#006400" }
-};
-
-const NATURE_INFO = {
-    "saad": { name: "سعد", meaning: "Auspicious", color: "#228B22" },
-    "nahs": { name: "نحس", meaning: "Inauspicious", color: "#8B0000" }
-};
+ * Constants loaded from abjad-constants.js
 
 function renderBasicsPage(container) {
     let html = '<div class="container basics-container">';

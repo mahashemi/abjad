@@ -1,8 +1,8 @@
-"""
-Constants and mappings for the Abjad Calculator.
-"""
+/**
+ * Abjad Constants - Shared across all modules
+ */
 
-ABJAD_VALUES = ABJAD_VALUES = {
+const ABJAD_VALUES = {
     "ا": {"malfuzi": 111, "qamari": 1,   "bayenati": 110, "element": "atishi", "nature": "saad", "name": "الف"},
     "أ": {"malfuzi": 111, "qamari": 1,   "bayenati": 110, "element": "atishi", "nature": "saad", "name": "الف"},
     "ٱ": {"malfuzi": 111, "qamari": 1,   "bayenati": 110, "element": "atishi", "nature": "saad", "name": "الف"},
@@ -49,43 +49,19 @@ ABJAD_VALUES = ABJAD_VALUES = {
     "ض": {"malfuzi": 805, "qamari": 800, "bayenati":   5, "element": "baadi",  "nature": "nahs", "name": "ضاد"},
     "ظ": {"malfuzi": 901, "qamari": 900, "bayenati":   1, "element": "aabi",   "nature": "nahs", "name": "ظا"},
     "غ": {"malfuzi":1060, "qamari":1000, "bayenati":  60, "element": "khaki",  "nature": "nahs", "name": "غین"}
-}
+};
 
-YA_HAMZA = 'ئ'
-HAMZA = 'ء'
-REMOVE_CHARS = [
-    # Tashkeel (diacritics)
-    'ً', 'ٌ', 'ٍ',  # tanween: Fathatan, Dammatan, Kasratan
-    'َ', 'ُ', 'ِ',  # short vowels: Fatha, Damma, Kasra
-    'ّ', 'ْ',        # Shadda, Sukun
-    'ٰ',             # superscript alif
+const ELEMENT_INFO = {
+    "atishi": { name: "آتشی", meaning: "Fire", icon: "🔥", color: "#8B0000" },
+    "baadi": { name: "هوایی", meaning: "Air", icon: "💨", color: "#4B0082" },
+    "aabi": { name: "آبی", meaning: "Water", icon: "💧", color: "#00008B" },
+    "khaki": { name: "خاکی", meaning: "Earth", icon: "🌍", color: "#006400" }
+};
 
-    # Additional Quranic diacritics (used in Uthmani script)
-    'ٓ', 'ۖ', 'ۗ', 'ۘ', 'ۙ', 'ۚ', 'ۛ', 'ۜ', '۝', '۞',
-    '۟', '۠', 'ۡ', 'ۢ', 'ۣ', 'ۤ', 'ۥ ', 'ۦ ', 'ۧ', 'ۨ',
-    '۩', '۪', '۫', '۬', 'ۭ'," 	ٗ"
+const NATURE_INFO = {
+    "saad": { name: "سعد", meaning: "Auspicious", color: "#228B22" },
+    "nahs": { name: "نحس", meaning: "Inauspicious", color: "#8B0000" }
+};
 
-    # Hamza (standalone)
-    'ء',
-
-    # HTML Break 
-    '<br/>',
-
-    # Whitespace and control characters
-    ' ', '\n', '\t', '\r', '\u200c', '\u200d', '\u202c',
-
-    # 
-    'ـ'
-]
-
-BREAK_CHARS = [
-    ' ۙ', ' ۚ',' ۘ'," ۖ"," ۗ"
-]
-
-
-# Pre-defined texts for naqsh generation
-PRESET_TEXTS = {
-    "bastam_dard_sar": "ب س ت م د ر د س ر",
-    "bastam_dard_kamar": "ب س ت م د ر د ك م ر",
-    "huruf_sawamat": "ا ح د ر س ص ط ع ك ل م و ه",
-}
+const YA_HAMZA = 'ئ';
+const HAMZA = 'ء';
