@@ -2,16 +2,8 @@
  * Abjad Calculator - JavaScript Port
  * Ported from Python abjad_calculator/common/core.py
  * Constants loaded from abjad-constants.js
- * Constants loaded from abjad-constants.js
  */
 
-function cleanText(text) {
-    const REMOVE_CHARS = ['ً', 'ٌ', 'ٍ', 'َ', 'ُ', 'ِ', 'ّ', 'ْ', 'ٰ', 'ٓ', 'ۖ', 'ۗ', 'ۘ', 'ۙ', 'ۚ', 'ۛ', 'ۜ', '۝', '۞', '۟', '۠', 'ۡ', 'ۢ', 'ۣ', 'ۤ', 'ۥ', 'ۦ', 'ۧ', 'ۨ', '۩', '۪', '۫', '۬', 'ۭ', 'ٗ', 'ء', '<br/>', ' ', '\n', '\t', '\r', 'ـ'];
-    for (const char of REMOVE_CHARS) {
-        text = text.split(char).join('');
-    }
-    return text.replace(/[\u064B-\u065F\u0670]/g, '');
-}
 function stripDiacritics(s) {
     return s.replace(/[\u064B-\u065F\u0670]/g, '');
 }

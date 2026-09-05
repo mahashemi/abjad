@@ -4,7 +4,7 @@ const QURAN_FOLDER = "output/quran"; // ← path under repo root for quran
 const DUAS_FOLDER = "output/duas"; // ← path under repo root for duas
 
 let allFiles = []; // Store all files for filtering
-let currentTab = 'surahs'; // Track current active tab
+let currentTab = 'basics'; // Track current active tab - basics is default
 
 let calculatorLoaded = false;
 let basicsLoaded = false;
@@ -154,10 +154,13 @@ Promise.all([
 ])
   .then(([quranFiles, duaFiles]) => {
     allFiles = [...quranFiles, ...duaFiles]; // Combine files from both folders
-    
-    // Don't call switchTab - the HTML already has active class set
-    // Just render the initial content for the current tab
-    renderFiles(allFiles, currentTab);
+
+    // Render the initial content for the current tab
+    if (currentTab === 'basics') {
+      showBasics();
+    } else {
+      renderFiles(allFiles, currentTab);
+    }
   })
   .catch((err) => {
     document.getElementById(
@@ -224,6 +227,7 @@ function switchTabMobile(tabName) {
 
 function showCalculator() {
   document.getElementById('surah-container').style.display = 'none';
+  document.getElementById('basics-container').style.display = 'none';
   document.getElementById('calculator-container').style.display = 'block';
 
   // Lazy load calculator script

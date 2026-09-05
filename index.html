@@ -291,7 +291,6 @@
         border-top: 2px solid #8f681a;
         border-left: 2px solid #8f681a;
         border-right: 2px solid #8f681a;
-        padding-bottom: 20px;
         transform: translateY(2px);
         text-shadow: 0px 1px 3px rgba(0, 0, 0, 0.8),
                      0 0 15px rgba(212, 175, 116, 0.3);
@@ -940,7 +939,10 @@
 
     <!-- Mobile Menu -->
     <div class="mobile-menu" id="mobileMenu">
-      <div class="mobile-menu-item active" data-tab="surahs" onclick="switchTabMobile('surahs')">
+      <div class="mobile-menu-item active" data-tab="basics" onclick="switchTabMobile('basics')">
+        المقدمة
+      </div>
+      <div class="mobile-menu-item" data-tab="surahs" onclick="switchTabMobile('surahs')">
         السور
       </div>
       <div class="mobile-menu-item" data-tab="duas" onclick="switchTabMobile('duas')">
@@ -952,14 +954,14 @@
       <div class="mobile-menu-item" data-tab="calculator" onclick="switchTabMobile('calculator')">
         الحاسبة
       </div>
-      <div class="mobile-menu-item" data-tab="basics" onclick="switchTabMobile('basics')">
-        الأساسيات
-      </div>
     </div>
 
     <!-- Tab Navigation -->
     <div class="tab-navigation">
-      <button class="tab-button active" data-tab="surahs" onclick="switchTab('surahs')">
+      <button class="tab-button active" data-tab="basics" onclick="switchTab('basics')">
+        المقدمة
+      </button>
+      <button class="tab-button" data-tab="surahs" onclick="switchTab('surahs')">
         السُّوَر
       </button>
       <button class="tab-button" data-tab="duas" onclick="switchTab('duas')">
@@ -970,9 +972,6 @@
       </button>
       <button class="tab-button" data-tab="calculator" onclick="switchTab('calculator')">
         الحاسبة
-      </button>
-      <button class="tab-button" data-tab="basics" onclick="switchTab('basics')">
-        الأساسيات
       </button>
     </div>
 

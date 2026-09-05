@@ -53,8 +53,8 @@ const ABJAD_VALUES = {
 
 const ELEMENT_INFO = {
     "atishi": { name: "آتشی", meaning: "Fire", icon: "🔥", color: "#8B0000" },
-    "baadi": { name: "هوایی", meaning: "Air", icon: "💨", color: "#4B0082" },
-    "aabi": { name: "آبی", meaning: "Water", icon: "💧", color: "#00008B" },
+    "baadi": { name: "بادي", meaning: "Air", icon: "💨", color: "#01315d" },
+    "aabi": { name: "آبی", meaning: "Water", icon: "💧", color: "#000062" },
     "khaki": { name: "خاکی", meaning: "Earth", icon: "🌍", color: "#006400" }
 };
 
@@ -65,3 +65,5 @@ const NATURE_INFO = {
 
 const YA_HAMZA = 'ئ';
 const HAMZA = 'ء';
+
+const REMOVE_CHARS = ['ً', 'ٌ', 'ٍ', 'َ', 'ُ', 'ِ', 'ّ', 'ْ', 'ٰ', 'ٓ', 'ۖ', 'ۗ', 'ۘ', 'ۙ', 'ۚ', 'ۛ', 'ۜ', '۝', '۞', '۟', '۠', 'ۡ', 'ۢ', 'ۣ', 'ۤ', 'ۥ', 'ۦ', 'ۧ', 'ۨ', '۩', '۪', '۫', '۬', 'ۭ', 'ٗ', 'ء', '<br/>', ' ', '\n', '\t', '\r', 'ـ'];
