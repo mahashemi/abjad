@@ -58,13 +58,13 @@ function renderBasicsPage(container) {
     html += '<div class="quran-ayat">';
     html += '<div class="ayat-text arabic-font">وَكُلَّ شَيْءٍ عَدَدْنَاهُ كِتَابًا</div>';
     html += '<div class="ayat-reference">النبأ - آية 29</div>';
-    html += '<div class="ayat-translation">"And We have counted everything in a register."</div>';
+    html += '<div class="ayat-translation">"And We have enumerated all things in numbers, laid down in a book."</div>';
     html += '</div>';
 
     html += '<div class="quran-ayat">';
     html += '<div class="ayat-text arabic-font">كِتَابٌ مَّرْقُومٌ</div>';
     html += '<div class="ayat-reference">المطففين - آية 20</div>';
-    html += '<div class="ayat-translation">"A written record."</div>';
+    html += '<div class="ayat-translation">"A book inscribed with numerals / written in numerical characters."</div>';
     html += '</div>';
 
     html += '</div>';
